@@ -1,0 +1,15 @@
+LEVEL2_COD	LEVEL1_COD	LEVEL1_NAM	LEVEL2_NAM	unique_species
+10	1	EUROPE	Northern Europe	781
+11	1	EUROPE	Middle Europe	946
+12	1	EUROPE	Southwestern Europe	1199
+13	1	EUROPE	Southeastern Europe	838
+14	1	EUROPE	Eastern Europe	353
+20	2	AFRICA	Northern Africa	816
+22	2	AFRICA	West Tropical Africa	40
+24	2	AFRICA	Northeast Tropical Africa	62
+30	3	ASIA-TEMPERATE	Siberia	43
+32	3	ASIA-TEMPERATE	Middle Asia	122
+33	3	ASIA-TEMPERATE	Caucasus	81
+34	3	ASIA-TEMPERATE	Western Asia	401
+35	3	ASIA-TEMPERATE	Arabian Peninsula	176
+40	4	ASIA-TROPICAL	Indian Subcontinent	27
