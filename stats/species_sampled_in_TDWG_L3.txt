@@ -1,0 +1,75 @@
+LEVEL3_NAM	LEVEL3_COD	LEVEL2_COD	LEVEL1_COD	unique_species
+Afghanistan	AFG	34	3	47
+Albania	ALB	13	1	326
+Algeria	ALG	20	2	446
+Austria	AUT	11	1	481
+Baleares	BAL	12	1	325
+Belgium	BGM	11	1	533
+Belarus	BLR	14	1	143
+Baltic States	BLT	14	1	120
+Bulgaria	BUL	13	1	217
+Chad	CHA	24	2	2
+Corse	COR	12	1	397
+Cyprus	CYP	34	3	148
+Czechoslovakia	CZE	11	1	298
+Denmark	DEN	10	1	90
+East Aegean Is.	EAI	34	3	138
+Egypt	EGY	20	2	165
+Finland	FIN	10	1	132
+Føroyar	FOR	10	1	0
+France	FRA	12	1	966
+Germany	GER	11	1	467
+Great Britain	GRB	10	1	697
+Greece	GRC	13	1	277
+Gulf States	GST	35	3	69
+Hungary	HUN	11	1	388
+India	IND	40	4	5
+Ireland	IRE	10	1	374
+Iran	IRN	34	3	156
+Iraq	IRQ	34	3	135
+Italy	ITA	13	1	681
+Kazakhstan	KAZ	32	3	106
+Kirgizistan	KGZ	32	3	5
+Kriti	KRI	13	1	109
+Krym	KRY	14	1	58
+Kuwait	KUW	35	3	55
+Lebanon-Syria	LBS	34	3	157
+Libya	LBY	20	2	139
+Mali	MLI	22	2	25
+Morocco	MOR	20	2	599
+Mauritania	MTN	22	2	40
+North Caucasus	NCS	33	3	64
+Netherlands	NET	11	1	503
+Niger	NGR	22	2	0
+Norway	NOR	10	1	117
+Oman	OMA	35	3	36
+Pakistan	PAK	40	4	27
+Palestine	PAL	34	3	161
+Poland	POL	11	1	282
+Portugal	POR	12	1	523
+Romania	ROM	13	1	372
+Central European Russia	RUC	14	1	67
+East European Russia	RUE	14	1	22
+North European Russia	RUN	14	1	73
+South European Russia	RUS	14	1	26
+Northwest European Russia	RUW	14	1	85
+Sardegna	SAR	12	1	290
+Saudi Arabia	SAU	35	3	167
+Sicilia	SIC	13	1	328
+Sinai	SIN	34	3	97
+Spain	SPA	12	1	709
+Sudan	SUD	24	2	61
+Svalbard	SVA	10	1	8
+Sweden	SWE	10	1	151
+Switzerland	SWI	11	1	424
+Transcaucasus	TCS	33	3	71
+Turkmenistan	TKM	32	3	36
+Turkey-in-Europe	TUE	13	1	173
+Tunisia	TUN	20	2	119
+Turkey	TUR	34	3	280
+Tadzhikistan	TZK	32	3	7
+Ukraine	UKR	14	1	280
+Uzbekistan	UZB	32	3	46
+Western Sahara	WSA	20	2	32
+West Siberia	WSB	30	3	43
+Yugoslavia	YUG	13	1	686

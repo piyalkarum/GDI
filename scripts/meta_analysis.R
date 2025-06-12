@@ -7,9 +7,89 @@ library(ggplot2)
 library(scales) 
 
 ############################# META ANALYSIS #############################
+# 1. Search for genetic markers in accession definitions --------------
+# Corrected vectors for markers and genomes
+# Corrected vectors with matching lengths for markers and genomes
+markers1 <- c("matK", "rbcL", "psbA-trnH", "trnL-trnF", "atpB-rbcL", "ycf1", 
+              "trnK", "ndhF", "rpl16", "accD", "ndhJ", "rpoB", "rpoC1", "psbB", "psbC", 
+              "atpF-atpH", "petA-psbJ", "trnS-trnG", "petD", "clpP", "rps16", "rps4", 
+              "rpl20-rps12", "rpl14", "rbcL-atpB", "psbM-trnD", "psbB-psbH", "trnS-rpS4", 
+              "GBSSI", "waxy", "PHYC", "LEAFY", "ncpGS", "G3pdh", "Adh", "CHS", "F3H", 
+              "cox1", "cox2", "COI","cob", "nad1", "nad2", "nad4", "nad5", "atp1", "atp6", 
+              "18S rRNA", "26S rRNA", "28S rRNA", "5.8S rRNA", "ITS", "ITS1", "ITS2", 
+              "ETS", "WGS")
+
+# Adding the missing genome entries for two markers
+genomes <- c("Chloroplast", "Chloroplast", "Chloroplast", "Chloroplast", "Chloroplast", 
+             "Chloroplast", "Chloroplast", "Chloroplast", "Chloroplast", "Chloroplast", 
+             "Chloroplast", "Chloroplast", "Chloroplast", "Chloroplast", "Chloroplast", 
+             "Chloroplast", "Chloroplast", "Chloroplast", "Chloroplast", "Chloroplast", 
+             "Chloroplast", "Chloroplast", "Chloroplast", "Chloroplast", "Chloroplast", 
+             "Chloroplast", "Chloroplast", "Chloroplast", "Chloroplast", "Nuclear", 
+             "Nuclear", "Nuclear", "Nuclear", "Nuclear", "Nuclear", "Nuclear", "Nuclear", 
+             "Mitochondrial", "Mitochondrial", "Mitochondrial", "Mitochondrial", "Mitochondrial",
+             "Mitochondrial", "Mitochondrial", "Mitochondrial", "Mitochondrial", 
+             "Nuclear", "Nuclear", "Nuclear", "Nuclear", "Nuclear", "Nuclear", "Nuclear", 
+             "Nuclear", "Nuclear", "Nuclear")
+
+# Combine the markers and genomes into a data frame
+marker_genomes <- data.frame(Marker = markers1, Genome = genomes, stringsAsFactors = FALSE)
+marker_genomes<-marker_genomes[order(marker_genomes$Genome),]
 
 
-# 1. plots to show species and markers for TDWG LEVE3_COD -------
+markers <- c("matK", "maturase K", "rbcL", "psbA-trnH", "ITS", "ITS1", "ITS2", "trnL-trnF", "atpB-rbcL", "COI", "ycf1", 
+             "trnK", "ndhF", "rpl16", "accD", "ndhJ", "rpoB", "rpoC1", "psbB", "psbC", "atpF-atpH", "petA-psbJ", 
+             "trnS-trnG", "petD", "clpP", "rps16", "rps4", "rpl20-rps12", "rpl14", "rbcL-atpB", "psbM-trnD", 
+             "psbB-psbH", "trnS-rpS4", "GBSSI", "waxy", "PHYC", "LEAFY", "ncpGS", "G3pdh", "Adh", "CHS", "F3H", 
+             "cox1", "cox2", "cob", "nad1", "nad2", "nad4", "nad5", "atp1", "atp6", "18S rRNA", "26S rRNA", "28S rRNA", 
+             "5.8S rRNA", "ETS", "WGS", "whole genome")
+
+# Function to find markers and other sequence types in definitions
+find_sequences_in_def <- function(def, markers) {
+  found_markers <- markers[sapply(markers, function(marker) grepl(marker, def, ignore.case = TRUE))]
+  return(found_markers)
+}
+
+
+# Function to process each row
+process_row <- function(row_data) {
+  matched_sequences <- find_sequences_in_def(row_data$def, markers)
+  matched_sequences <- unique(matched_sequences)
+  if (length(matched_sequences) > 0) {
+    row_results <- data.frame()
+    for (sequence in matched_sequences) {
+      row_results <- rbind(row_results, data.frame(row_data[-1], marker = sequence, stringsAsFactors = FALSE))
+    }
+    return(row_results)
+  }
+  return(NULL)
+}
+
+# Function to process a single file (input one file at a time)
+process_file <- function(f,output_file=NULL) {
+  if(is.character(f)){meta_set <- read.table(f, h = TRUE)} else {meta_set<-data.frame(f)}
+  df <- data.frame(meta_set[, c("def", "sp_name", "accession", "date", "length", "country", "coord")], stringsAsFactors = FALSE)
+  cl <- makeCluster(num_cores)
+  clusterExport(cl, list("process_row", "find_sequences_in_def", "markers"))
+  #nrow(df)
+  results_list <- pblapply(1:nrow(df), function(i) {
+    process_row(df[i, , drop = FALSE])  # Send only the specific row
+  }, cl = cl)
+  
+  stopCluster(cl)  # Corrected this line to stop the cluster correctly.
+  
+  results <- do.call(rbind, results_list)
+  # Save the results for the current file
+  if(is.null(output_file)){output_file<-gsub(".txt", "", f)}
+  output_file <- paste0(output_file, "_marker_assigned.rda")
+  saveRDS(results, output_file, compress = "xz")
+  return(paste0(basename(output_file), " DONE"))
+}
+
+
+
+
+# 2. plots to show species and markers for TDWG LEVE3_COD -------
 pow_new_eu<-read.csv("data/EU_all_native_species_list.csv") # <-- complete European vascular plant list
 
 all_meta_sum<-read.csv("data/marker_assigned_all_meta_data.csv") # <- marker assigned all meta data for European spcies
@@ -124,6 +204,116 @@ ggplot() +
     x = "Longitude", y = "Latitude"
   )
 dev.off()
+
+
+# 2. EU taxonomic levels
+eu_new<-read.csv("data/eu_new_taxonomy.csv")
+
+## 2.1. Plot phylogenetic tree with meta data ---------------
+library(V.PhyloMaker2)
+library(ape)
+library(dplyr)
+library(tibble)
+library(ggtree)
+library(ggtreeExtra)
+library(ggnewscale)
+library(RColorBrewer)
+
+# download the phylogenetic tree using phylomaker
+df<-read.table("data/EU_sp_taxonomy_for_phylo_tree.txt",h=T)
+tree_result <- phylo.maker(sp.list = df)
+
+# Extract the species tree
+species_tree <- tree_result$scenario.3
+species_tree$tip.label <- gsub(" ", "_", species_tree$tip.label)
+df$species <- gsub(" ", "_", df$species)
+species_families <- df[match(species_tree$tip.label, df$species), ]
+# Select one representative species per family
+family_reps <- species_families %>%
+  distinct(family, .keep_all = TRUE) %>%
+  pull(species)
+# Prune tree to only representative species
+family_tree <- keep.tip(species_tree, family_reps)
+# Change tip labels to family names
+species_info <- df[match(family_tree$tip.label, df$species), ]
+family_tree$tip.label <- species_info$family
+# ladderize and resolve polytomies
+family_tree <- ladderize(multi2di(family_tree))
+
+## plot the sequencing on to the tree 
+family_stats <- eu_new %>%
+  group_by(family) %>%
+  summarise(
+    total_species = n_distinct(sp_name),
+    sequenced = n_distinct(sp_name[no_accession > 0]),
+    geo_seq = n_distinct(sp_name[no_accession > 0 & (primary > 0 | secondary > 0)]),
+    .groups = "drop"
+  )
+
+plot_data <- family_stats[match(family_tree$tip.label, family_stats$family), ]
+plot_data <- as.data.frame(plot_data)
+row.names(plot_data) <- family_tree$tip.label
+
+
+# Prepare long format for bars
+plot_data_long <- plot_data %>%
+  select(family, total_species, sequenced, geo_seq) %>%
+  pivot_longer(cols = c(total_species, sequenced, geo_seq), names_to = "category", values_to = "count")
+
+# # Reorder category so bars are stacked bottom-up logically
+plot_data_long$category <- factor(plot_data_long$category, levels = c("geo_seq", "sequenced", "total_species"))
+
+plot_data_long$category <- factor(
+  plot_data_long$category,
+  levels = c("total_species", "sequenced", "geo_seq")
+)
+
+## add geom strips to show orders
+strip_defs<-data.table::fread("data/meta_analysis_seq_geo_availability_phylo_tree_ordertable2.csv")
+
+p <- ggtree(family_tree, layout = "circular")
+p2<-p + geom_tiplab(size = 2, align = TRUE, offset = 0.5)
+p <- p + geom_fruit(
+  data = plot_data_long,
+  geom = geom_col, 
+  mapping = aes(y = family, x = count, fill = category),
+  orientation = "y",
+  offset = 0.1,      
+  width = 1,       
+  pwidth = 1      
+) +
+  scale_fill_manual(
+    values = c("geo_seq" = "#F4DE35", "sequenced" = 4, "total_species" = 2),
+    labels = c("Total", "Sequenced", "Geo + Seq")
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, -.2))) +
+  theme_void() +
+  theme(legend.title = element_blank())
+
+# Add strips one by one
+for (i in 1:nrow(strip_defs)) {
+  p <- p + geom_strip(
+    taxa1 = strip_defs$taxa1[i],
+    taxa2 = strip_defs$taxa2[i],
+    label = strip_defs$order[i],
+    barsize = 1,
+    color = "grey40",
+    offset = 0.5,
+    angle = -90
+  )
+}
+
+pdf("plots/meta_analysis_seq_geo_availability_phylo_tree_orders2.pdf",w=8,h=5)
+p
+p2
+dev.off()
+
+
+
+
+
+
+
 
 
 
