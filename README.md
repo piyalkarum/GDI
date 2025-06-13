@@ -121,3 +121,11 @@ Files: `plots/*.pdf`
 If using this method or dataset, please cite:
 
 - Karunarathne et al. (2025). Unlocking the Forgotten Dimension of Biodiversity: A Scalable Genetic Diversity Index for Multi-Species Analysis. *bioRxiv*.<https://doi.org/10.1101/2025.06.03.657643>
+
+
+**Note:** This repository uses [Git LFS](https://git-lfs.github.com/) to track large files.  
+To clone this repository properly, first install Git LFS and run:
+
+```bash
+git lfs install
+git clone https://github.com/piyalkarum/GDI.git
