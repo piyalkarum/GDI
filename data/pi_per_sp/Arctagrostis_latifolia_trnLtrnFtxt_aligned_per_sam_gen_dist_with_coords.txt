@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctagrostis_latifolia	OK247933.1	28-OCT-2022	1786	Russia: Magadan	secondary	trnL-trnF	63.5515028	154.014726	0.00263292654597002
+Arctagrostis_latifolia	MW274721.1	10-APR-2022	1785	Canada	secondary	trnL-trnF	60.4884796711378	-108.231434238368	0.00263292654597002
+Arctagrostis_latifolia	DQ353969.1	31-DEC-2007	1808	Canada	secondary	trnL-trnF	60.7293585246825	-106.624028605082	0.00262762762762763
+Arctagrostis_latifolia	EU792434.1	11-MAY-2009	1787	Canada	secondary	trnL-trnF	60.8755986680808	-107.961660521471	0.00489047771656467

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_binervis	OP589869.1	21-NOV-2022	198	Spain	secondary	G3pdh	40.656478	-4.7002172	0.0037987012987013
+Carex_binervis	OP589867.1	21-NOV-2022	175	United Kingdom	secondary	G3pdh	56.8	-5	0.00382047071702244
+Carex_binervis	OP589866.1	21-NOV-2022	177	Portugal	secondary	G3pdh	41.5510583	-8.4280045	0.00758658008658009
+Carex_binervis	OP589865.1	21-NOV-2022	176	Spain	secondary	G3pdh	39.8560597	-4.0239356	0.00760834950490123

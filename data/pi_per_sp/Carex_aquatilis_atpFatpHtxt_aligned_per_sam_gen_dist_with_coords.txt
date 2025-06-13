@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_aquatilis	FJ548380.1	30-AUG-2009	505	Canada: Northwest Territories, 128 mi SW of Inuvik on Dempster Hwy (5) towards Eagle Plains	primary	atpF-atpH	67.29	-135.05	0.00971203578452133
+Carex_aquatilis	FJ548379.1	30-AUG-2009	305	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	70.25	-83.78	0.0143236669245839
+Carex_aquatilis	FJ548378.1	30-AUG-2009	413	Canada: Nunuavut, Keewatin District, Coats Island, Hudson Bay	primary	atpF-atpH	62.82	-81.93	0.012507771434281
+Carex_aquatilis	FJ548377.1	30-AUG-2009	505	Canada: Nunuavut, Victoria Island, Cambridge Bay, 3 km NW of Dew Line Site, 5 km WNW of town	primary	atpF-atpH	69.13	-105.17	0.0128088912258649
+Carex_aquatilis	FJ548376.1	30-AUG-2009	279	Canada: Northwest Territories, Bathurst Island	primary	atpF-atpH	75.75	-100	0.0192291577685491
+Carex_aquatilis	FJ548375.1	30-AUG-2009	398	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.36	-79.59	0.0127564422616624

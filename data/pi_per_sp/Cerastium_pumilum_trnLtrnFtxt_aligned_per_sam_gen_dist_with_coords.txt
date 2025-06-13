@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_pumilum	MH487961.1	20-JAN-2022	2098	Montenegro	secondary	trnL-trnF	-28.9125272309756	-51.9580191295613	0.125479378345512
+Cerastium_pumilum	MH487960.1	20-JAN-2022	2312	Montenegro	secondary	trnL-trnF	-28.9410590279148	-50.8928450808696	0.31060999839014
+Cerastium_pumilum	MH487906.1	20-JAN-2022	2004	Greece	secondary	trnL-trnF	43.2097838	-77.6930602	0.109761594622751
+Cerastium_pumilum	MH487905.1	20-JAN-2022	1988	Serbia	secondary	trnL-trnF	44.0243229	21.0765743	0.111220016974743

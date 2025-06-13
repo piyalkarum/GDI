@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Moehringia_lateriflora	OQ172817.1	18-JUN-2023	324	South Korea	secondary	psbA-trnH	36.9119117762113	127.627989414452	0
+Moehringia_lateriflora	OQ172816.1	18-JUN-2023	333	South Korea	secondary	psbA-trnH	36.1863980635149	127.298380157414	0
+Moehringia_lateriflora	OQ172815.1	18-JUN-2023	324	South Korea	secondary	psbA-trnH	36.6587786351731	128.226492724763	0
+Moehringia_lateriflora	OQ172814.1	18-JUN-2023	324	South Korea	secondary	psbA-trnH	36.1571710714712	127.95672897353	0

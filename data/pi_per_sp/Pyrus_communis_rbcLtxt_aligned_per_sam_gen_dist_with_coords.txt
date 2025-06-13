@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pyrus_communis	JN892983.1	07-MAR-2012	538	United Kingdom: Cardiganshire	primary	rbcL	52.4	-4.05	0.000710263582649849
+Pyrus_communis	OQ269466.1	04-APR-2023	546	Turkey: Nene	secondary	rbcL	38.1365903	35.9396589	0.000702857765702435
+Pyrus_communis	OQ269464.1	04-APR-2023	551	Turkey: Gugum	secondary	rbcL	39.8753133	28.0026013	0.000701180543718751
+Pyrus_communis	OQ269463.1	04-APR-2023	546	Turkey: Deveci	secondary	rbcL	38.8284916	39.9329573	0.00138664254150647
+Pyrus_communis	OQ269462.1	04-APR-2023	550	Turkey: Baraka	secondary	rbcL	40.9874571	28.9043444	0.000701180543718751
+Pyrus_communis	OQ209938.1	04-APR-2023	546	Turkey: Bal	secondary	rbcL	41.9338382	34.7906215	0.000702857765702435
+Pyrus_communis	MG248430.1	21-JAN-2018	548	Canada: Ontario, Toronto, City of, Russell St.	secondary	rbcL	43.6594811	-79.4016597	0.00138665482884701
+Pyrus_communis	MG246734.1	21-JAN-2018	512	Canada: Ontario, Toronto, City of, Valleys of the Rouge, Section XVII	secondary	rbcL	43.72634945	-77.7101179040839	0.00147466732030521
+Pyrus_communis	JN893266.1	07-MAR-2012	524	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000729624489166474

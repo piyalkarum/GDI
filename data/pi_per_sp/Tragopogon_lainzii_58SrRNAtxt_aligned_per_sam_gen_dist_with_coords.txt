@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_lainzii	FN675695.1	10-JAN-2011	723	Spain:Albacete, Riopar	secondary	5.8S rRNA	38.497991	-2.5008715	0.0124653739612188
+Tragopogon_lainzii	FN675694.1	10-JAN-2011	722	Spain:Jaen, Cazorla	secondary	5.8S rRNA	37.9128927	-3.0038873	0.00138504155124654
+Tragopogon_lainzii	FN675693.1	10-JAN-2011	722	Spain:Jaen, Sierra del Pozo	secondary	5.8S rRNA	37.8421809	-2.9314265	0.00138504155124654
+Tragopogon_lainzii	FN675692.1	10-JAN-2011	722	Spain:Granada, Orce	secondary	5.8S rRNA	37.7212772	-2.4794159	0.00138504155124654
+Tragopogon_lainzii	FN675691.1	10-JAN-2011	722	Spain:Granada, Sierra de Castril, rio Castril	secondary	5.8S rRNA	37.1734995	-3.5995337	0.00138504155124654
+Tragopogon_lainzii	FN675690.1	10-JAN-2011	722	Spain:Jaen, Jodar	secondary	5.8S rRNA	37.8406832	-3.3548686	0.00138504155124654
+Tragopogon_lainzii	FN675689.1	10-JAN-2011	722	Spain:Granada, Sierra de la Sagra	secondary	5.8S rRNA	37.9461619	-2.5764317	0.00138504155124654
+Tragopogon_lainzii	FN675688.1	10-JAN-2011	722	Spain:Albacete, entre Salobre y Riopar	secondary	5.8S rRNA	39.7698880287182	-1.51414432355915	0.00138504155124654
+Tragopogon_lainzii	FN675687.1	10-JAN-2011	722	Spain:Albacete, entre Siles y Riopar	secondary	5.8S rRNA	38.5559871453996	-1.03574611580071	0.00138504155124654
+Tragopogon_lainzii	FN675686.1	10-JAN-2011	722	Spain:Granada, La Puebla de Don Fadrique	secondary	5.8S rRNA	37.8418178	-2.4368397	0.00138504155124654

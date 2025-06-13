@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_ciliatum	KP643039.1	08-DEC-2015	763	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.8234461106119	-78.5670560404894	0.00350650293764719
+Epilobium_ciliatum	KP642985.1	08-DEC-2015	672	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.9786596510993	-78.636165017348	0.000992063492063492
+Epilobium_ciliatum	MG220876.1	21-JAN-2018	806	Canada: Quebec, Montreal, Island of Montreal, Parc du Bois-de-Liesse	primary	matK	45.499	-73.779	0.00225504669765883
+Epilobium_ciliatum	KM212071.1	04-NOV-2014	787	Canada: Quebec, Monteregie, Mont Saint-Hilaire, Area where North Creek enters into Lac Hertel	primary	matK	45.548	-73.152	0.00224351973205184

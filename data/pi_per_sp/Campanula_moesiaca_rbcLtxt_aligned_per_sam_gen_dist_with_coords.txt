@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_moesiaca	MK556085.1	22-SEP-2019	346	Bulgaria	secondary	rbcL	46.598398115757	22.6267674397055	0.552886526935747
+Campanula_moesiaca	MK556003.1	22-SEP-2019	358	Bulgaria	secondary	rbcL	47.367574736408	24.4993798583874	0.565139653588503
+Campanula_moesiaca	MK555555.1	22-SEP-2019	357	Bulgaria	secondary	rbcL	47.6290119140697	23.4320119397235	0.611704838539409
+Campanula_moesiaca	MK555362.1	22-SEP-2019	382	Bulgaria	secondary	rbcL	46.6802152787528	23.476333057655	0.623022205121047

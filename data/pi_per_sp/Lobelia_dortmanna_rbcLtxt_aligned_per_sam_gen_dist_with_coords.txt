@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lobelia_dortmanna	MG224081.1	26-DEC-2017	552	Canada: Ontario, Thunder Bay District, Neebing Twp., Thunder Bay	primary	rbcL	48.297	-89.239	0.0137527123683999
+Lobelia_dortmanna	MG223375.1	26-DEC-2017	552	Canada: Ontario, Algoma District, Sault Ste. Marie, Sault Ste. Marie	primary	rbcL	46.501	-84.441	0.0137527123683999
+Lobelia_dortmanna	KX677984.1	29-APR-2017	552	Canada: British Columbia, Alberni-Clayoquot Regional District, Kennedy Lake, southwest end of Kennedy Lake	primary	rbcL	49.052	-125.534	0.00543478260869565
+Lobelia_dortmanna	JN892508.1	07-MAR-2012	542	United Kingdom: Caernarfonshire	primary	rbcL	53.02	-4.07	0.0055452865064695
+Lobelia_dortmanna	MK925331.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.0055452865064695
+Lobelia_dortmanna	DQ356162.1	30-JUN-2007	1402	Sweden	secondary	rbcL	59.6749712	14.5208584	0.00543478260869565
+Lobelia_dortmanna	JN893795.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.0055452865064695

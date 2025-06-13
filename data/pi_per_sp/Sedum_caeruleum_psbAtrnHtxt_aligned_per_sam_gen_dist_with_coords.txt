@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sedum_caeruleum	OM337493.1	17-DEC-2022	331	Morocco: province Meknes, Middle Atlas, Ifrane, exit on the road towards Boulemane, calcareous rocks and (xeric) grassland	primary	psbA-trnH	33.52	-5.12	0.0324844536570921
+Sedum_caeruleum	OM337490.1	17-DEC-2022	308	Algeria: Wilaya Bejaia, northern Djurdjura, 8 km W of El Kseur on the road to Tizi Ouzou, siliceous rocks	primary	psbA-trnH	36.68	4.8	0.0253415965142349
+Sedum_caeruleum	OM337489.1	17-DEC-2022	308	Algeria: Wilaya Batna, Massif de l'Aures, 2 km above Tarhil on the road from Biskra to Arris, calcareous escarpments	primary	psbA-trnH	35.12	6.23	0.037689834595372
+Sedum_caeruleum	OM337488.1	17-DEC-2022	308	Algeria: Wilaya Tizi Ouzou, Djurdjura massif, 4 km NE below the pass of Tizi N'Kouilal, calcareous escarpments by the road	primary	psbA-trnH	36.48	4.27	0.0175366978298574
+Sedum_caeruleum	OM337499.1	17-DEC-2022	313	Italy: Sardinia, Giara di Gesturi	secondary	psbA-trnH	39.7622845	8.9563141	0.0221498371335505
+Sedum_caeruleum	OM337494.1	17-DEC-2022	308	Morocco: Agadir, Col du Kerdouss, in rupestribus secus viam, solo calcareo persicco	secondary	psbA-trnH	30.4205162	-9.5838532	0.0220842675240069

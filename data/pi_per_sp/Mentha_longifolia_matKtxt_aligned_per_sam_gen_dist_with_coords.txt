@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_longifolia	MF694865.1	16-SEP-2018	796	Pakistan: Baluchistan	primary	matK	30.166	66.991	0.0134768818233828
+Mentha_longifolia	KX783711.1	31-MAY-2017	777	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	31.2	30.022	0.0125522607439622
+Mentha_longifolia	KX783710.1	31-MAY-2017	787	Egypt: Alexandria, Mariot, Mostafa Kamel Village	primary	matK	30.926	29.776	0.0125539377948353
+Mentha_longifolia	KX374553.1	07-MAR-2017	867	Egypt	primary	matK	28.39	28.8814	0.0124330859106624
+Mentha_longifolia	KR735028.1	24-JUN-2015	226	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.77030357502885	36.9886423548454	0.00854261340987005
+Mentha_longifolia	KR734662.1	24-JUN-2015	374	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.774388499758171	37.0127953748128	0.0116901037172594
+Mentha_longifolia	KR734584.1	24-JUN-2015	368	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.969233945074309	36.5828978089575	0.0160239191637945
+Mentha_longifolia	KR734414.1	24-JUN-2015	384	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	-0.120659760925542	36.3127891370729	0.0110271209322348
+Mentha_longifolia	MH997993.1	08-MAY-2019	858	Pakistan	secondary	matK	30.9783924334122	71.1630620685365	0.0152755892109504
+Mentha_longifolia	KY794552.1	23-JAN-2018	426	Egypt	secondary	matK	26.2540493	29.2675469	0.0953231373348913
+Mentha_longifolia	KP172054.1	04-FEB-2015	725	Pakistan	secondary	matK	30.1367519750562	71.4775641157747	0.0121792055247525

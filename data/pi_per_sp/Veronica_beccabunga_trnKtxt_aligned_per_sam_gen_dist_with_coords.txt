@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_beccabunga	KJ829410.1	31-MAY-2015	890	Kyrgyzstan	secondary	trnK	42.4858224	74.714583	0.0125445855918779
+Veronica_beccabunga	KJ829409.1	31-MAY-2015	892	Pakistan	secondary	trnK	30.3308401	71.247499	0.0103165007973471
+Veronica_beccabunga	KJ829408.1	31-MAY-2015	781	Turkey	secondary	trnK	39.3386176878732	35.784503092387	0.0104960203244304
+Veronica_beccabunga	KJ829407.1	31-MAY-2015	814	Georgia	secondary	trnK	32.3293809	-83.1137366	0.0121465772694661
+Veronica_beccabunga	KJ829405.1	31-MAY-2015	874	United Kingdom	secondary	trnK	54.7023545	-3.2765753	0.0105629735936926
+Veronica_beccabunga	KJ829404.1	31-MAY-2015	865	Armenia	secondary	trnK	4.536307	-75.6723751	0.0122299566141351
+Veronica_beccabunga	KJ829403.1	31-MAY-2015	835	Egypt	secondary	trnK	26.2540493	29.2675469	0.0426220975801092
+Veronica_beccabunga	KJ829402.1	31-MAY-2015	872	Turkey	secondary	trnK	38.3675927965005	34.8496227443429	0.0110254658285469

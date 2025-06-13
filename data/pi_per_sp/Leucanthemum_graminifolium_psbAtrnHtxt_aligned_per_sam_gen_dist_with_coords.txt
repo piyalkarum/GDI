@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_graminifolium	LN868982.1	17-SEP-2015	462	France	primary	psbA-trnH	43.15	2.63	0.00681913956250239
+Leucanthemum_graminifolium	LN868981.1	17-SEP-2015	462	France	primary	psbA-trnH	43.78	3.24	0.00485257122425264
+Leucanthemum_graminifolium	HE680976.1	22-APR-2013	339	France:Aude	secondary	psbA-trnH	43.0542733	2.5124715	0.00491642084562439
+Leucanthemum_graminifolium	HE680928.1	22-APR-2013	339	France:Midi-Pyrenees	secondary	psbA-trnH	43.8099068	1.4344926	0.00491642084562439

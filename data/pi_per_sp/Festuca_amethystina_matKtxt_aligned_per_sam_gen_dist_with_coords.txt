@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_amethystina	LR588300.1	30-JUL-2021	2804	Germany	primary	matK	11.0365	49.5399	0.000803317100379032
+Festuca_amethystina	LR588251.1	30-JUL-2021	2799	Germany	primary	matK	47.5531	11.4136	0.00116154395997141
+Festuca_amethystina	LR588332.1	30-JUL-2021	2806	Germany	secondary	matK	35.6778027653754	-83.2980926267467	0.00115956769139394
+Festuca_amethystina	LR588331.1	30-JUL-2021	2805	Germany	secondary	matK	34.7839276250922	-82.7082545253867	0.00107095158615379
+Festuca_amethystina	LR588330.1	30-JUL-2021	2801	Germany	secondary	matK	34.1720800602082	-82.8546431317276	0.000803667331104816

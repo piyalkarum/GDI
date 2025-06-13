@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lemna_minor	OR464843.1	26-SEP-2023	614	USA: Bishop's Bog Preserve, Portage, MI	primary	rbcL	42.173726	-85.600185	0.00245845962134999
+Lemna_minor	MG228166.1	23-JAN-2018	552	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Grindstone Marsh trails	primary	rbcL	43.295	-79.875	0.00249267421652272
+Lemna_minor	MG226904.1	23-JAN-2018	552	Canada: British Columbia, Sicamous, 290m W of Silver Sands Road on S side Hwy. 1	primary	rbcL	50.833	-118.983	0.00349890880243897
+Lemna_minor	MG225636.1	23-JAN-2018	552	USA: North Dakota	primary	rbcL	48.897	-100.97	0.00349890880243897
+Lemna_minor	LC219111.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.377	119.9517	0.0118905971983822
+Lemna_minor	HQ590155.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., S end of pond, 1 foot from dyke	primary	rbcL	44.035	-79.518	0.00246012087301402
+Lemna_minor	JN965625.1	27-OCT-2012	534	Canada: Manitoba, Churchill, Wapusk National Park, Cape Tatnam	primary	rbcL	57.167	-90.833	0.00344280737886448
+Lemna_minor	JN891585.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.55	-3.73	0.00253479242058181
+Lemna_minor	KC584882.1	04-JUN-2013	743	Italy: Umbria	secondary	rbcL	42.965916	12.490236	0.00413707611394221
+Lemna_minor	HM850112.1	23-JUL-2011	1325	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00305328902421936
+Lemna_minor	JN892885.1	07-MAR-2012	525	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00261752328466574
+Lemna_minor	JN892884.1	07-MAR-2012	541	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00253727270080387

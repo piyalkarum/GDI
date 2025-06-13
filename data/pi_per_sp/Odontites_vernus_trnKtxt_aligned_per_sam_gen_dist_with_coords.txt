@@ -1,0 +1,66 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_vernus	MW842962.1	05-APR-2023	954	Spain: Segovia, Fuenterrebollo, Arroyo de las Bragadas	primary	trnK	41.30937	-4.01283	0.393940459178717
+Odontites_vernus	MW842961.1	05-APR-2023	943	Spain: Teruel, La Iglesuela del Cid, Rambla de las Truchas, junto al Arroyo de la Tosquilla	primary	trnK	40.45587	-0.33841	0.391217797378313
+Odontites_vernus	MW842960.1	05-APR-2023	955	Spain: Cantabria, Laredo, El Sable, junto a la entrada del Camping Laredo	primary	trnK	43.41509	-3.44761	0.3939077023653
+Odontites_vernus	MW842959.1	05-APR-2023	943	Spain: Huesca, Anso, alrededores del Refugio de Linza	primary	trnK	42.90678	-0.7818	0.391217797378313
+Odontites_vernus	MW842958.1	05-APR-2023	952	Spain: Huesca, Bisaurri, Renanue, carretera a Castejon de Sos	primary	trnK	42.504	0.503	0.394244821272991
+Odontites_vernus	MW842957.1	05-APR-2023	955	Spain: Huesca, Saravillo, pasado el pueblo	primary	trnK	42.552	0.246	0.3939077023653
+Odontites_vernus	MW842956.1	05-APR-2023	953	Spain: Lerida, Espot, entrada al Camping Voraparc, junto al Riu Escrita	primary	trnK	42.58282	1.07456	0.39330675237754
+Odontites_vernus	MW842955.1	05-APR-2023	951	Spain: Zaragoza, Sos del Rey Catolico, salida sur del pueblo	primary	trnK	42.5024	-1.2182	0.392042349082468
+Odontites_vernus	MW842954.1	05-APR-2023	959	Spain: Gerona, Campdevanol, entre Colonia Pernau y Colonia Molinou, junto a la entrada de la Colonia Pernau	primary	trnK	42.23855	2.16776	0.393333390167641
+Odontites_vernus	MW842953.1	05-APR-2023	947	Spain: Gerona, Ribes de Freser, Brugera, Serrat d'en Posa	primary	trnK	42.27921	2.1736	0.39328740976546
+Odontites_vernus	MW842952.1	05-APR-2023	951	Spain: Lugo, Folgoso do Courel, Parada	primary	trnK	42.5168436152778	-7.06569123283565	0.392042349082468
+Odontites_vernus	MW842951.1	05-APR-2023	951	Spain: Lugo, Folgoso do Courel, Parada	primary	trnK	42.4702842769365	-6.69612768255334	0.392973548100876
+Odontites_vernus	MW842950.1	05-APR-2023	947	Spain: Orense, Verea, limite con Bande, Outeiro das Augas	primary	trnK	42.077	-8.034	0.390208915838323
+Odontites_vernus	MW842949.1	05-APR-2023	951	Spain: Segovia, Valle de Tabladillo	primary	trnK	41.357	-3.838	0.393006900456756
+Odontites_vernus	MW842948.1	05-APR-2023	951	Spain: Valladolid, Rabano, orillas del rio Duraton	primary	trnK	41.526	-4.079	0.393006900456756
+Odontites_vernus	MW842947.1	05-APR-2023	951	Spain: Zamora, Entre Villaralbo y Villalazan	primary	trnK	41.482	-5.66	0.392042349082468
+Odontites_vernus	MW842946.1	05-APR-2023	957	Spain: Burgos, Contreras, Tenadas de Valcarcel	primary	trnK	42.02572	-3.44615	0.393233336805848
+Odontites_vernus	MW842945.1	05-APR-2023	943	Spain: Valladolid, San Miguel del Arroyo, junto al Arroyo del Henar	primary	trnK	41.44028	-4.45418	0.392290712263622
+Odontites_vernus	MW842944.1	05-APR-2023	951	Spain: Teruel, Linares de Mora, Corral de los Prados de Lomaritas	primary	trnK	40.29689	-0.57734	0.393006900456756
+Odontites_vernus	MW842943.1	05-APR-2023	951	Spain: Burgos, Castrillo de la Vega, Los Regajos, junto al canal de Guma	primary	trnK	41.6592	-3.79505	0.392042349082468
+Odontites_vernus	KX959242.1	02-NOV-2017	1050	China: Xinjiang, Atojnagh Valley	primary	trnK	38.95	75.17	0.174266670934977
+Odontites_vernus	KX959241.1	02-NOV-2017	1050	USA: Maine, Aroostook County	primary	trnK	46.1247	-68.3397	0.174266670934977
+Odontites_vernus	KX959201.1	02-NOV-2017	1043	Russia: Altai Krai, between Gonokhovo and Dobraya Volya	primary	trnK	52.9259	81.24068	0.174055085739908
+Odontites_vernus	KX959199.1	02-NOV-2017	1050	Russia: Altai Republic, near settlement Aktal	primary	trnK	49.92	88.87	0.173699236299564
+Odontites_vernus	KX959197.1	02-NOV-2017	1050	Russia: Khakassia, foot of a ridge Alan	primary	trnK	52.80173	91.0846	0.173699236299564
+Odontites_vernus	KX959196.1	02-NOV-2017	1050	Russia: Altai Krai, Kadnikovo	primary	trnK	52.87285	81.88878	0.173699236299564
+Odontites_vernus	KX959195.1	02-NOV-2017	1043	France: Haut-Rhin, Bergheim	primary	trnK	48.0762062474866	7.23454688781667	0.174744986998144
+Odontites_vernus	KX959194.1	02-NOV-2017	1040	France: Haut-Rhin, Bergheim	primary	trnK	47.6945437440853	7.95573818249814	0.174748187282364
+Odontites_vernus	KX959193.1	02-NOV-2017	1043	Germany: Rheinland-Pfalz, near Landau	primary	trnK	49.0966517994479	9.42777690348975	0.17413022212773
+Odontites_vernus	KX959192.1	02-NOV-2017	1043	Germany: Rheinland-Pfalz, near Landau	primary	trnK	49.4818227044667	6.94532955542845	0.17413022212773
+Odontites_vernus	KX959191.1	02-NOV-2017	1050	France: Aisne, Beaurieux	primary	trnK	48.8905970531102	3.17616918925229	0.173774155812913
+Odontites_vernus	KX959190.1	02-NOV-2017	1050	France: Aisne, Beaurieux	primary	trnK	49.7028883149741	3.9641287040424	0.173774155812913
+Odontites_vernus	KX959189.1	02-NOV-2017	1043	France: Eure, Evreux	primary	trnK	49.8065319689551	1.29024411668273	0.174055085739908
+Odontites_vernus	KX959188.1	02-NOV-2017	1050	France: Eure, Evreux	primary	trnK	48.6188075561145	-0.0581311052501543	0.173699236299564
+Odontites_vernus	KX959173.1	02-NOV-2017	1043	Finland: Uusimaa, Ruotsinpyhtaa, Soderby, Ropanudden	primary	trnK	60.33	26.53	0.17504248788783
+Odontites_vernus	KX959172.1	02-NOV-2017	1043	Finland: Uusimaa, Porvoon mlk, Sundby, Karilamalm	primary	trnK	60.27	25.87	0.174055085739908
+Odontites_vernus	KX959105.1	02-NOV-2017	1043	Ireland: County Longford, Cashel Nature Reserve, opposite to Cow Island	primary	trnK	53.58889	-7.98694	0.174055085739908
+Odontites_vernus	KX959035.1	02-NOV-2017	1047	Croatia: Licko-Senjska, between Prijeboj and Licko Petrovo Selo	primary	trnK	44.84572	15.68401	0.173892389116056
+Odontites_vernus	KX959034.1	02-NOV-2017	1050	Spain: Granada, Quentar	primary	trnK	36.881731973735	-3.31627586609836	0.173774155812913
+Odontites_vernus	KX959033.1	02-NOV-2017	1050	Spain: Granada, Quentar	primary	trnK	37.5391884542178	-3.71223744745546	0.173774155812913
+Odontites_vernus	KX959032.1	02-NOV-2017	1047	Turkey: Kirklareli, Derekoy	primary	trnK	41.93761	27.35305	0.173892389116056
+Odontites_vernus	KX959031.1	02-NOV-2017	1043	Italy: Sicily, Geraci Siculo	primary	trnK	38.2163816848426	13.3471806500967	0.17413022212773
+Odontites_vernus	KX959030.1	02-NOV-2017	1050	Italy: Sicily, Geraci Siculo	primary	trnK	38.1076350994028	13.6344107378676	0.173699236299564
+Odontites_vernus	KX959029.1	02-NOV-2017	1050	Greece: Arcadia, between Tripoli and Nestani	primary	trnK	37.1709969259752	23.0687069957552	0.173774155812913
+Odontites_vernus	KX959028.1	02-NOV-2017	1050	Greece: Arcadia, between Tripoli and Nestani	primary	trnK	36.8463827811781	22.9052447546585	0.173699236299564
+Odontites_vernus	KX959005.1	02-NOV-2017	1050	Spain: Lugo, Samos, Renche	primary	trnK	42.72	-7.22	0.177548174010499
+Odontites_vernus	KX959004.1	02-NOV-2017	1050	Spain: Segovia, Valle de Tabladillo	primary	trnK	41.36	-3.84	0.176906089718516
+Odontites_vernus	KX959003.1	02-NOV-2017	1047	Spain: Valladolid, Aldeamayor de San Martin	primary	trnK	41.52	-4.61	0.17396735234867
+Odontites_vernus	KX959244.1	02-NOV-2017	1050	Germany: Bavaria, Landkreis Freising, Eching	secondary	trnK	48.3	11.6167	0.173699236299564
+Odontites_vernus	KX959243.1	02-NOV-2017	1050	Finland: Hameenlinna, 750m SW of Vanaja church	secondary	trnK	60.9948584	24.46654	0.173774155812913
+Odontites_vernus	KX959236.1	02-NOV-2017	1050	Pakistan: Kashmir, Hushe River	secondary	trnK	33.1206295	74.0749169	0.173699236299564
+Odontites_vernus	KX959226.1	02-NOV-2017	1050	Germany: Bavaria, Neustadt an der Waldnaab	secondary	trnK	49.7314121	12.1732938	0.174266670934977
+Odontites_vernus	KX959175.1	02-NOV-2017	1036	Finland: Varsinais-Suomi, Nauvo, Vastergard	secondary	trnK	60.053734	21.7996008	0.174058484595659
+Odontites_vernus	KX959174.1	02-NOV-2017	1038	Finland: Uusimaa, Storpellinge island, istmus between Koras and Cape Sandholmen	secondary	trnK	61.05740305	21.4779712776738	0.174057467445848
+Odontites_vernus	KX959161.1	02-NOV-2017	1050	United Kingdom: Hampshire, Winchester, near Itchen Down Farm	secondary	trnK	51.04483545	-1.24340935971731	0.173699236299564
+Odontites_vernus	KX959160.1	02-NOV-2017	1050	Italy: Veneto, Caorle	secondary	trnK	45.5979147	12.8876282	0.173774155812913
+Odontites_vernus	KX959158.1	02-NOV-2017	1033	France: Bas-Rhin, Auenheim	secondary	trnK	48.8113012	8.0156397	0.174090462556171
+Odontites_vernus	KX959157.1	02-NOV-2017	1047	Belgium: Wallonia, Tihange (Huy)	secondary	trnK	50.5243039	5.2419531	0.173892389116056
+Odontites_vernus	KX959156.1	02-NOV-2017	1050	Russia: Moscow, Abramtsevo	secondary	trnK	56.2234015	37.9673058	0.173774155812913
+Odontites_vernus	KX959154.1	02-NOV-2017	1050	Germany: Schleswig-Holstein, Leck, Bullsbull	secondary	trnK	51.038284	7.0119166	0.173774155812913
+Odontites_vernus	KX959153.1	02-NOV-2017	1036	Denmark: Zealand, Hundige	secondary	trnK	55.5979984	12.3340961	0.173706512444841
+Odontites_vernus	JF900590.1	05-MAR-2013	1082	Pakistan	secondary	trnK	30.3308401	71.247499	0.174072496244338
+Odontites_vernus	FJ790108.1	01-JAN-2010	2416	Turkey: Cappadocia	secondary	trnK	38.646806	34.8491554	0.173964052434795
+Odontites_vernus	KX959198.1	02-NOV-2017	1050	Russia	secondary	trnK	54.809906	55.890156	0.173774155812913
+Odontites_vernus	KX959155.1	02-NOV-2017	1050	Denmark	secondary	trnK	56.8462311	9.045604	0.173699236299564

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_palustris	JX505558.1	09-JAN-2013	681	Japan	secondary	trnS-trnG	36.5748441	139.2394179	0.00199004975124378
+Lathyrus_palustris	JX505557.1	09-JAN-2013	666	South Korea	secondary	trnS-trnG	36.638392	127.6961188	0.00203252032520325
+Lathyrus_palustris	JX505553.1	09-JAN-2013	670	France	secondary	trnS-trnG	46.603354	1.8883335	0.00601261982769081
+Lathyrus_palustris	AY839504.1	28-FEB-2005	681	Japan: Hokkaido	secondary	trnS-trnG	43.4519831	142.8197834	0.00199004975124378

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cirsium_vulgare	OQ832241.1	15-AUG-2023	469	USA: CMR Wildlife Refuge	primary	psbA-trnH	47.6706	-107.6634	0.002735565471547
+Cirsium_vulgare	OR465025.1	26-SEP-2023	457	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	psbA-trnH	42.28799663	-85.62060923	0.0027993813040542
+Cirsium_vulgare	MN275426.1	29-MAR-2020	482	USA	secondary	psbA-trnH	39.7837304	-100.445882	0.002735565471547
+Cirsium_vulgare	HE966574.1	18-SEP-2012	438	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.9518223094686	14.1767880737087	0.00641403149404686
+Cirsium_vulgare	HE966573.1	18-SEP-2012	440	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.4098609838125	13.8866323548896	0.00458120841308035
+Cirsium_vulgare	HE966572.1	18-SEP-2012	440	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.7560692621926	14.2390784321831	0.00458120841308035

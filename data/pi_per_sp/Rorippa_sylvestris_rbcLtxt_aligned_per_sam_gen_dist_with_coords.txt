@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rorippa_sylvestris	MG249398.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Scarborough, Scarborough College, W of Military Trail, S of Ellesmere Rd., S of spring in slope, bank of Highland Creek	primary	rbcL	43.779	-79.183	0.0181999919633529
+Rorippa_sylvestris	KT695515.1	29-SEP-2015	480	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00875
+Rorippa_sylvestris	JN891918.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.06	-4.61	0.00961182994454713
+Rorippa_sylvestris	MG249816.1	21-JAN-2018	552	Canada: Ontario, Durham R. M., Oshawa, Park N and Bloor W	secondary	rbcL	43.72634945	-77.7101179040839	0.0208347732326074
+Rorippa_sylvestris	JN893806.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00961182994454713
+Rorippa_sylvestris	JN893805.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00961182994454713

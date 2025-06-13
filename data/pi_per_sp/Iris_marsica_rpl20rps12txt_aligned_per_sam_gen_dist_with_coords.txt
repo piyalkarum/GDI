@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_marsica	MT294645.1	24-MAR-2021	1119	Italy: Terranera, Rocca di Mezzo, L'Aquila	secondary	rpl20-rps12	42.2349095	13.5346202	0.000893655049151028
+Iris_marsica	MT294640.1	24-MAR-2021	1119	Italy: Val di Rose, Civitella Alfedena, L'Aquila	secondary	rpl20-rps12	43.820611	11.1968176	0.000148942508191838
+Iris_marsica	MT294639.1	24-MAR-2021	1119	Italy: La Difesa, Pescasseroli, L'Aquila	secondary	rpl20-rps12	41.9527163	13.1167102	0.000148942508191838
+Iris_marsica	MT294646.1	24-MAR-2021	1119	Italy	secondary	rpl20-rps12	41.3419299017079	14.4566657858452	0.000148942508191838
+Iris_marsica	MT294644.1	24-MAR-2021	1119	Italy	secondary	rpl20-rps12	41.4165678739074	14.3142831430208	0.000148942508191838
+Iris_marsica	MT294641.1	24-MAR-2021	1119	Italy	secondary	rpl20-rps12	41.9833669	14.137946	0.000148942508191838
+Iris_marsica	MT294637.1	24-MAR-2021	1119	Italy	secondary	rpl20-rps12	42.091529	13.363794	0.000148942508191838

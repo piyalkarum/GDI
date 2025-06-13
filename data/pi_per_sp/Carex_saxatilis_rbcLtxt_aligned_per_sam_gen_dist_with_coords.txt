@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_saxatilis	MG227927.1	23-JAN-2018	668	Canada: Northwest Territories, Banks Island, Park River Valley, N side ca. 7 km from sea	primary	rbcL	73.0337856113013	-114.757875075408	0.00223923555146212
+Carex_saxatilis	FJ548280.1	25-AUG-2009	668	Canada: Northwest Territories, Banks Island, NE part, Parker River Valley, N side c. 7 km from sea	primary	rbcL	73.0957718415352	-118.186743900882	0.00223923555146212
+Carex_saxatilis	KT960738.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.655937462817	-21.8292662391822	0.000556117290192113
+Carex_saxatilis	KT960552.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5887018958876	-21.1851053286958	0.000556117290192113
+Carex_saxatilis	KT960535.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.3045872501939	-19.6034323857289	0.00752756601108808
+Carex_saxatilis	KC482355.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Tukarak Island, slightly east facing slope below large rock hills, 50 m from shore	primary	rbcL	56.386	-78.872	0.000556117290192113
+Carex_saxatilis	KC482354.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq. Plot 4. Along northern shore of lake, to east of school and to west of N-S road	primary	rbcL	56.594	-79.225	0.000556117290192113
+Carex_saxatilis	KC482353.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.644	-115.493	0.000556117290192113
+Carex_saxatilis	KC482352.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	rbcL	68.064	-121.603	0.000556117290192113
+Carex_saxatilis	JN965407.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.6094518904831	-92.6521617937683	0.000556117290192113
+Carex_saxatilis	JN965406.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.3502662616779	-94.1734265842328	0.000556117290192113
+Carex_saxatilis	JN965405.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 28 km E Churchill, Fort Churchill, Spaceport project, Churchill area. Between site 9 and 6/7. ca. Stream bank through white spruce forest.	primary	rbcL	57.8292103615291	-93.802759857277	0.000556117290192113
+Carex_saxatilis	JN965404.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Upland meadow. Boggy.	primary	rbcL	58.4235429898336	-94.4792286303803	0.000556117290192113
+Carex_saxatilis	JN965403.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 23 km E Churchill, Rocket Launch, Wet depression.	primary	rbcL	59.0597544646483	-94.0665481389377	0.000556117290192113
+Carex_saxatilis	JN965402.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.837	-92.817	0.000556117290192113
+Carex_saxatilis	MK925438.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4995479567517	-4.30703411273545	0.000567705569078165
+Carex_saxatilis	MK924615.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1550474355689	-2.90074807915157	0.000567705569078165
+Carex_saxatilis	MK924558.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0.000567705569078165
+Carex_saxatilis	MK924542.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.5071794426069	-2.77182159300233	0.000567705569078165
+Carex_saxatilis	MK924505.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3516064938673	-4.02206874150062	0.000567705569078165
+Carex_saxatilis	MG227022.1	23-JAN-2018	552	Canada: New Brunswick, Northumberland Co, Patchell Brook, Edge of Bond	secondary	rbcL	47.43950925	-68.3926909826309	0.000556117290192113

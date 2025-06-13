@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fumaria_officinalis	OR575218.1	25-OCT-2023	528	Kazakhstan: Qaragandy region	primary	rbcL	49.51924	73.22125	0.00651937291516641
+Fumaria_officinalis	OL434828.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1174	-81.138	0.00625892904891782
+Fumaria_officinalis	MG249674.1	21-JAN-2018	552	Canada: Prince Edward Co., ON	primary	rbcL	44	-77.25	0.0057523997741389
+Fumaria_officinalis	MG249216.1	21-JAN-2018	552	Canada: Grey Co., ON	primary	rbcL	44.3333	-80.75	0.00626380102792543
+Fumaria_officinalis	MG247713.1	21-JAN-2018	552	Canada: Lindsay, ON	primary	rbcL	44.3555	-78.7387	0.0104726905337691
+Fumaria_officinalis	KX677920.1	29-APR-2017	552	Canada: British Columbia, Capital Regional District, Greater Victoria, Saanich, St. George's Anglican Church, 03909 St. George's Lane	primary	rbcL	48.463	-123.294	0.0057523997741389
+Fumaria_officinalis	JN890820.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.67	-4.18	0.00585235253175817
+Fumaria_officinalis	JN893098.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00585235253175817

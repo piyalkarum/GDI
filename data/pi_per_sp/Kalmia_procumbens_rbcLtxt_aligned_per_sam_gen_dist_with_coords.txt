@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kalmia_procumbens	LC376974.1	18-APR-2018	262	Japan: Toyama, Mt.Taro	primary	rbcL	36.44	137.51	0.0984528832630099
+Kalmia_procumbens	MG221380.1	26-DEC-2017	552	Canada: Yukon Territory, Kluane National Park, Fisher Glacier near Alsek, W-facing slope above valley glacier leading into Fisher Glacier	primary	rbcL	60.14	-138.222	0.0941239316239316
+Kalmia_procumbens	KX678993.1	29-APR-2017	552	Canada: British Columbia, Skeena-Queen Charlotte Regional District, Porcher Island, Ridge in northwest part of southwest hill	primary	rbcL	53.967	-130.417	0.0941239316239316
+Kalmia_procumbens	KT307946.1	20-MAR-2016	512	Canada: Newfoundland and Labrador, Labrador, Mont Irony, In the depression of the northen slope.	primary	rbcL	55.8858	-68.8108	0.0940972222222222
+Kalmia_procumbens	KC483050.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	rbcL	62.8339	-67.3536	0.0941239316239316
+Kalmia_procumbens	KC483049.1	25-OCT-2013	454	Canada: Nunavut, West Hudson Bay, '50 mile hill', 5 km N of Hyde Lake, 35 km from HB coast	primary	rbcL	60.66	-95.22	0.0955766192733017
+Kalmia_procumbens	KC483048.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Camp on Harp Seal Lake, 35 km SW of Sanikiluaq	primary	rbcL	56.317	-79.444	0.0941239316239316
+Kalmia_procumbens	JN965616.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	rbcL	58.629	-93.798	0.0941239316239316
+Kalmia_procumbens	MK925511.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.5555909175547	-3.5584890826904	0.0937908496732026
+Kalmia_procumbens	MK925323.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0.0937908496732026
+Kalmia_procumbens	MK925071.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4380580451924	-2.95222426323381	0.0937908496732026
+Kalmia_procumbens	MK925056.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6096360136478	-3.90424625295166	0.0937908496732026
+Kalmia_procumbens	MK925026.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1905691035882	-2.60875230668672	0.0937908496732026
+Kalmia_procumbens	MK924647.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8252495620114	-2.22962264070599	0.0937908496732026
+Kalmia_procumbens	MK924557.1	14-JAN-2020	542	Norway	secondary	rbcL	64.5731537	11.5280364	0.0937908496732026
+Kalmia_procumbens	AB842061.1	03-JUL-2014	1336	Japan:Hokkaido, Daisetsusan	secondary	rbcL	42.8915201911108	143.911209875548	0.0936507936507937
+Kalmia_procumbens	AB247968.1	20-APR-2006	696	Japan:Nagano, Mt. Shiroumadake	secondary	rbcL	36.7584922	137.758539	0.503434741720955
+Kalmia_procumbens	AB247967.1	20-APR-2006	695	Japan:Hokkaido, Mts. Taisetsuzan	secondary	rbcL	43.5538305805846	142.226583919677	0.503668455848554
+Kalmia_procumbens	AB247966.1	20-APR-2006	695	Russia:Sakhalin, 30km South of Okha	secondary	rbcL	50.15947595	143.026441186009	0.503748391899713

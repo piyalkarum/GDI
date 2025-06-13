@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polystichum_braunii	MG215523.1	24-JAN-2018	552	Canada: Ontario, Ontario, Algoma, Tilley, ca 3 km N of Hwy. 17 on Mile 38 Road along Chippewa River near Batchewana Bay, Lake Superior	primary	rbcL	46.95	-84.333	0.00123452819941114
+Polystichum_braunii	MG215448.1	24-JAN-2018	553	Canada: Margaree Valley, Nova Scotia	primary	rbcL	46.3501	-60.9719	0.00249530913982038
+Polystichum_braunii	MG215052.1	24-JAN-2018	553	Canada: Batchewana River, Batchewana Bay, Lake Superior, ON	primary	rbcL	46.9334	-84.5999	0.00249530913982038
+Polystichum_braunii	KJ841490.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, slope of East Hill	primary	rbcL	45.551	-73.142	0.00123452819941114
+Polystichum_braunii	MG215150.1	24-JAN-2018	552	Canada: Ontario, Algoma Dist., Batchawana Falls, 0.5 mi. above the falls.	secondary	rbcL	43.72634945	-77.7101179040839	0.00279778749678415
+Polystichum_braunii	AB575188.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.0676678947186	138.543031648704	0.00345972430236714
+Polystichum_braunii	AB575187.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.3327620279659	138.534656940334	0.0018160688125578

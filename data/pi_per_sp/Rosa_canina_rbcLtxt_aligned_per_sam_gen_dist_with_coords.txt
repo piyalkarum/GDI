@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_canina	OL773686.1	21-NOV-2022	571	India: Langanbal, Pahalgam	primary	rbcL	33.57489	75.18042	0.0479719815156847
+Rosa_canina	MN447810.1	21-FEB-2022	553	United Kingdom: England, Durham, Auckland Castle Park	primary	rbcL	54.6714	-1.6594	0.0474002425999149
+Rosa_canina	MN486532.1	15-MAY-2021	514	United Kingdom: England, Bishop Auckland, County Durham, Auckland Castle Park	primary	rbcL	54.6721	-1.6593	0.0543087808181973
+Rosa_canina	JN891650.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.1	-4.58	0.0474133337626065
+Rosa_canina	MN662672.1	13-OCT-2020	1115	Lebanon	secondary	rbcL	40.375713	-76.4626118	0.0473897352804093
+Rosa_canina	MG249700.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Wilket Creek, S Section 2	secondary	rbcL	43.9933906985294	-76.7302962310022	0.0474989801936559
+Rosa_canina	MG248742.1	21-JAN-2018	552	Canada: Ontario, Muskoka D. M., Muskoka Tp. ca. 30m S of junction Lorne St+Gateway Dr, 200m ENE of 'the Lookout' (on property prev. sanitarium), ca. 1.2km WNW of Gravenhurst	secondary	rbcL	43.5419491717482	-77.0510405835302	0.0474989801936559
+Rosa_canina	KJ746213.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.0473692245030194
+Rosa_canina	HG417037.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.0484474304430688
+Rosa_canina	JN892948.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0474133337626065
+Rosa_canina	JN892946.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	50.9886112306591	-2.856356352467	0.0474133337626065
+Rosa_canina	JN892945.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.6964968355753	-1.88347943843989	0.0474133337626065
+Rosa_canina	FN689381.1	19-MAR-2010	743	Italy:Umbria	secondary	rbcL	42.965916	12.490236	0.048001448916075
+Rosa_canina	AJ628795.1	11-APR-2005	509	Germany:Niedersachsen, Goettingen, Bovenden	secondary	rbcL	51.5869442	9.9265526	0.610557265179166

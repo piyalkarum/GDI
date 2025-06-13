@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_arvensis	KM352896.1	15-JUN-2015	919	Netherlands	secondary	petA-psbJ	52.2434979	5.6343227	0
+Rosa_arvensis	KM352895.1	15-JUN-2015	919	Italy	secondary	petA-psbJ	42.4399503079031	13.1557028728222	0
+Rosa_arvensis	KM352894.1	15-JUN-2015	919	Italy	secondary	petA-psbJ	42.1289224522452	11.7198534989327	0
+Rosa_arvensis	KM352893.1	15-JUN-2015	919	Italy	secondary	petA-psbJ	43.0334949656592	11.7950427520187	0

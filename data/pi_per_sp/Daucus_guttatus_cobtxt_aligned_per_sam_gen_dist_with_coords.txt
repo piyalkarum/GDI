@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daucus_guttatus	MN260592.1	25-AUG-2020	1197	Turkey:Mugla	primary	cob	37.1775	28.4275	0.00306321358952938
+Daucus_guttatus	MN260591.1	25-AUG-2020	1197	Greece:Macedonia	primary	cob	40.90555	21.95861	0.0025062656641604
+Daucus_guttatus	MN260610.1	25-AUG-2020	1197	Iran	secondary	cob	36.0331861428744	51.5916550440124	0.00139236981342244
+Daucus_guttatus	MN260609.1	25-AUG-2020	1197	Iran	secondary	cob	36.7775727674392	49.907797710179	0.00139236981342244

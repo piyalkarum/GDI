@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tephroseris_integrifolia	MW796300.1	14-SEP-2021	1137	Norway: Troms og Finnmark	secondary	Adh	69.8699347	21.8272785	0.000485537906637997
+Tephroseris_integrifolia	MW796299.1	14-SEP-2021	1109	Austria: Burgenland	secondary	Adh	47.5000001	16.4166666	0.00631243099740103
+Tephroseris_integrifolia	MW796297.1	14-SEP-2021	1118	United Kingdom: Anglesey	secondary	Adh	53.2782257	-4.331344	0.000485537906637997
+Tephroseris_integrifolia	MW796295.1	14-SEP-2021	1118	Germany: Thuringia	secondary	Adh	50.3680292958698	11.5275055761653	0.000485537906637997
+Tephroseris_integrifolia	MW796294.1	14-SEP-2021	1118	Germany: Thuringia	secondary	Adh	50.8675935364284	11.450418638156	0.000485537906637997
+Tephroseris_integrifolia	MW796292.1	14-SEP-2021	1137	United Kingdom: Yorkshire	secondary	Adh	53.5969153705057	-0.866903027914165	0.000485537906637997
+Tephroseris_integrifolia	MW796291.1	14-SEP-2021	1137	United Kingdom: Yorkshire	secondary	Adh	54.3917922681053	-2.42522028824992	0.000485537906637997
+Tephroseris_integrifolia	MW796290.1	14-SEP-2021	1118	Germany: Thuringia	secondary	Adh	50.7759342332034	10.5293818351891	0.000485537906637997
+Tephroseris_integrifolia	MW796289.1	14-SEP-2021	1118	Germany: Thuringia	secondary	Adh	51.7692975575797	11.2187993781686	0.000485537906637997
+Tephroseris_integrifolia	MW796288.1	14-SEP-2021	1118	United Kingdom: Wiltshire	secondary	Adh	51.324162	-1.9032487	0.000485537906637997
+Tephroseris_integrifolia	MW796287.1	14-SEP-2021	1117	United Kingdom: Bedfordshire	secondary	Adh	52.0640034	-0.4111138	0.000485976117745071
+Tephroseris_integrifolia	MW796286.1	14-SEP-2021	1137	Austria: Styria	secondary	Adh	46.420631492963	15.657837277253	0.000485537906637997
+Tephroseris_integrifolia	MW796285.1	14-SEP-2021	1137	Austria: Styria	secondary	Adh	46.6566879976349	16.0487664746183	0.000485537906637997
+Tephroseris_integrifolia	MW796283.1	14-SEP-2021	1118	France: Alpes-Maritimes	secondary	Adh	43.9210587	7.1790785	0.000485537906637997

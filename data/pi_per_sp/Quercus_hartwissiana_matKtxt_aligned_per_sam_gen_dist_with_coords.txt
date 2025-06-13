@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_hartwissiana	LT718108.1	12-FEB-2017	693	Georgia:Samegrelo, Etseri	secondary	matK	42.8037662597804	42.2617071098336	0
+Quercus_hartwissiana	LT718107.1	12-FEB-2017	693	Georgia:Samegrelo, Etseri	secondary	matK	42.7114518496448	42.4978182755941	0
+Quercus_hartwissiana	LT718106.1	12-FEB-2017	693	Georgia:Ajara, Keda	secondary	matK	41.8521411729404	42.2557041857434	0
+Quercus_hartwissiana	LT718105.1	12-FEB-2017	693	Georgia:Ajara, Keda	secondary	matK	42.1687785071324	42.0739370857437	0
+Quercus_hartwissiana	HE583630.1	04-SEP-2011	693	Bulgaria:Rila	secondary	matK	42.110495	23.5155922	0

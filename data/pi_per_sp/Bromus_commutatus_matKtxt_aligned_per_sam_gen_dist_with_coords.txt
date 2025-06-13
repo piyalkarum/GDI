@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_commutatus	MF597205.1	17-JUL-2018	819	Canada: British Columbia, Kettle River Campground, 5 km N of Jct. 3 and 33 along Hwy. 33	primary	matK	49.106	-118.983	0.00250404636722544
+Bromus_commutatus	MF597204.1	17-JUL-2018	819	Canada: British Columbia, NE of Osoyoos ~2 km going up Anarchist Mountain, just before town lookout and just beyond the first switchback.	primary	matK	49.016	-119.403	0.00250404636722544
+Bromus_commutatus	JN895848.1	07-MAR-2012	996	United Kingdom: Monmouthshire	primary	matK	51.58	-2.72	0.00166515940747172
+Bromus_commutatus	OM048535.1	08-AUG-2022	1252	USA: North Carolina, Wake County, Mitchell Mill state Natural Area, SW side of Hwy 96 at the little river	secondary	matK	35.4985112	-82.6082842	0.000841145849751702
+Bromus_commutatus	OM048534.1	08-AUG-2022	1371	Austria: Wien	secondary	matK	48.2083537	16.3725042	0.000841145849751702
+Bromus_commutatus	OM048533.1	08-AUG-2022	965	Armenia: Syunik	secondary	matK	39.3281408	46.1530296	0.000846524507238793
+Bromus_commutatus	HE966882.1	18-SEP-2012	739	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.000804828973843058
+Bromus_commutatus	JN894493.1	07-MAR-2012	781	United Kingdom: Anglesey	secondary	matK	53.2782257	-4.331344	0.000548747027620267

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eleocharis_uniglumis	JN965506.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, shore below transect 7	primary	rbcL	57.788	-93.379	0
+Eleocharis_uniglumis	JN965505.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, Marsh point, near beacon, mud flats.	primary	rbcL	58.383	-93.257	0
+Eleocharis_uniglumis	JN892550.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0
+Eleocharis_uniglumis	JN892181.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0

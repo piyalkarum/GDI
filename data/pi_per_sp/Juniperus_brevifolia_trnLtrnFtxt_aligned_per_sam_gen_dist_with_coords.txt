@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juniperus_brevifolia	JF950957.1	12-DEC-2011	571	Portugal: Azores, Corvo, Lomba Redonda	secondary	trnL-trnF	38.1861412146616	-25.4033827644565	0
+Juniperus_brevifolia	JF950956.1	12-DEC-2011	571	Portugal: Azores, Flores, Alto da Cova	secondary	trnL-trnF	39.4857541	-31.1808562	0
+Juniperus_brevifolia	JF950955.1	12-DEC-2011	571	Portugal: Azores, Faial, Caldeira	secondary	trnL-trnF	38.5333980503358	-28.5742131938377	0
+Juniperus_brevifolia	JF950954.1	12-DEC-2011	571	Portugal: Azores, Faial, Caldeira	secondary	trnL-trnF	38.1613230083544	-28.072745635796	0
+Juniperus_brevifolia	JF950953.1	12-DEC-2011	571	Portugal: Azores, Pico, Lagoa do Capitao	secondary	trnL-trnF	38.4875378	-28.3185584	0
+Juniperus_brevifolia	JF950952.1	12-DEC-2011	571	Portugal: Azores, Pico, Cachorro	secondary	trnL-trnF	37.0950219971536	-25.961305624543	0
+Juniperus_brevifolia	JF950951.1	12-DEC-2011	571	Portugal: Azores, S. Jorge, RF Pico da Esperanza	secondary	trnL-trnF	38.3331235003511	-25.168688352774	0
+Juniperus_brevifolia	JF950950.1	12-DEC-2011	571	Portugal: Azores, Terceira, Malha Grande	secondary	trnL-trnF	37.7551664506682	-25.807281695884	0
+Juniperus_brevifolia	JF950949.1	12-DEC-2011	571	Portugal: Azores, S. Miguel, Serra da Tronqueira	secondary	trnL-trnF	37.464974311639	-24.8033585186474	0
+Juniperus_brevifolia	JF950948.1	12-DEC-2011	571	Portugal: Azores, Santa Maria, Almagreira	secondary	trnL-trnF	37.309073723071	-25.6805314649021	0

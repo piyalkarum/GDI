@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ceratonia_siliqua	JX495689.1	16-AUG-2013	589	Egypt: Alexandria, Smouha, Antoniades gardens	primary	matK	31.2039	29.9479	0.00068870523415978
+Ceratonia_siliqua	MK564069.1	31-DEC-2020	624	Lebanon	secondary	matK	40.375713	-76.4626118	0.000534188034188034
+Ceratonia_siliqua	MK564068.1	31-DEC-2020	624	Italy	secondary	matK	42.6384261	12.674297	0.000534188034188034
+Ceratonia_siliqua	MK564067.1	31-DEC-2020	624	France	secondary	matK	46.603354	1.8883335	0.000534188034188034
+Ceratonia_siliqua	MK564066.1	31-DEC-2020	624	Morocco	secondary	matK	28.3347722	-10.3713379	0.00141272868545596
+Ceratonia_siliqua	MK564065.1	31-DEC-2020	624	Spain	secondary	matK	39.7050957686763	-5.12550659174003	0.00141272868545596
+Ceratonia_siliqua	MK564064.1	31-DEC-2020	624	Spain	secondary	matK	39.9701571113505	-4.91914181057932	0.000534188034188034

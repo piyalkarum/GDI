@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_alsine	MN892515.1	01-AUG-2020	863	China	primary	matK	25.4	109.06	0.0139107583098094
+Stellaria_alsine	JN896007.1	07-MAR-2012	784	United Kingdom: Glamorgan	primary	matK	51.55	-3.21	0.0192816944410122
+Stellaria_alsine	OQ172507.1	18-JUN-2023	776	South Korea	secondary	matK	36.7593739154462	127.131185658706	0.014199768987634
+Stellaria_alsine	OQ172506.1	18-JUN-2023	776	South Korea	secondary	matK	37.4819284998003	127.959610824522	0.014199768987634
+Stellaria_alsine	OQ172505.1	18-JUN-2023	776	South Korea	secondary	matK	36.8488314078127	127.766673550185	0.014199768987634
+Stellaria_alsine	HM850778.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0253196886590407
+Stellaria_alsine	JN895430.1	07-MAR-2012	775	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0190562155435727

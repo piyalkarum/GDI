@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phragmites_australis	LC757799.1	08-MAR-2023	373	Japan: Tochigi, Moka city	secondary	5.8S rRNA	36.4375582	140.0164674	0.11681136543015
+Phragmites_australis	LC757798.1	08-MAR-2023	363	Japan: Yamanashi, Hokuto city	secondary	5.8S rRNA	35.6928452	138.6871263	0.0197218652768628
+Phragmites_australis	LC757797.1	08-MAR-2023	363	Japan: Tochigi, Mashiko town	secondary	5.8S rRNA	36.4674596	140.0933298	0.0197218652768628
+Phragmites_australis	LC757796.1	08-MAR-2023	363	Japan: Aichi, Kota town	secondary	5.8S rRNA	35.1219442	137.081740723195	0.0189358607239069
+Phragmites_australis	LC757795.1	08-MAR-2023	363	Japan: Saga, Tosu city	secondary	5.8S rRNA	33.3780738	130.5050316	0.0212982229556815
+Phragmites_australis	LC757794.1	08-MAR-2023	363	Japan: Toyama, Himi city	secondary	5.8S rRNA	36.3996718088594	136.33330679123	0.0197240395633163
+Phragmites_australis	LC757793.1	08-MAR-2023	363	Japan: Shiga, Takashima city	secondary	5.8S rRNA	35.2035332	135.9240164	0.0197240395633163
+Phragmites_australis	LC757792.1	08-MAR-2023	363	Japan: Toyama, Himi city	secondary	5.8S rRNA	36.2924122199314	137.376774027532	0.0197240395633163

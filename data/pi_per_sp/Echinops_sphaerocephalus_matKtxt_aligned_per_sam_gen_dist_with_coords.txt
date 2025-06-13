@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Echinops_sphaerocephalus	MW649046.1	02-JUN-2021	718	Turkey	secondary	matK	38.2072801312256	35.532346539581	0.00845437290703151
+Echinops_sphaerocephalus	MW649039.1	02-JUN-2021	719	Turkey	secondary	matK	39.2282865822546	35.3991122931834	0.00720200308597458
+Echinops_sphaerocephalus	MG224918.1	21-JAN-2018	793	Canada: Ontario, Rouge National Urban Park, Sector 7	secondary	matK	43.72634945	-77.7101179040839	0.00956933451445259
+Echinops_sphaerocephalus	KC969526.1	30-NOV-2013	981	USA	secondary	matK	39.7837304	-100.445882	0.017596347317049

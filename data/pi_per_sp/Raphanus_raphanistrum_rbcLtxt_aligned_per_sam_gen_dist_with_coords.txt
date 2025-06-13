@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Raphanus_raphanistrum	KX678762.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Alberni-Clayoquot Regional District, Beach at Pachena Bay	primary	rbcL	48.7929	-125.117	0.0129750644120202
+Raphanus_raphanistrum	JQ412413.1	16-JAN-2013	551	South Africa: Western Cape, Robben Island	primary	rbcL	-33.801	18.369	0.0880673369530084
+Raphanus_raphanistrum	JN891109.1	07-MAR-2012	542	United Kingdom: Denbighshire	primary	rbcL	53.31	-3.52	0.0132193468884781
+Raphanus_raphanistrum	JN891107.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.63	-3.91	0.0132193468884781
+Raphanus_raphanistrum	MG249332.1	21-JAN-2018	552	Canada: Quebec, Cte Quebec, Ste-Foy, Cite Universitaire.	secondary	rbcL	47.5687029268423	-71.618119785413	0.0129750644120202
+Raphanus_raphanistrum	MG248692.1	21-JAN-2018	552	Canada: Quebec, Co. Bonaventure, Paspebiac.	secondary	rbcL	47.3713063709672	-70.461614771146	0.0129750644120202
+Raphanus_raphanistrum	MG247930.1	21-JAN-2018	552	Canada: Nova Scotia, Kings Co., Morristown.	secondary	rbcL	44.9677131	-64.752045	0.0138837214704769
+Raphanus_raphanistrum	HM850299.1	23-JUL-2011	568	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0212167451641025
+Raphanus_raphanistrum	JN892580.1	07-MAR-2012	504	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0122259257596107

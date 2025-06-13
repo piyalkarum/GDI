@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_ithaburensis	MT114355.1	30-MAR-2020	690	Greece	secondary	matK	43.2097838	-77.6930602	0.373626373626374
+Quercus_ithaburensis	HE583610.1	04-SEP-2011	693	Italy:Apulia	secondary	matK	40.5291442862999	17.4108411295445	0.371406210069001
+Quercus_ithaburensis	FN675333.1	08-MAR-2010	828	Italy:Apulia	secondary	matK	40.3695456014662	17.4061157804003	0.369186046511628
+Quercus_ithaburensis	FN674506.1	08-MAR-2010	693	Italy:Apulia	secondary	matK	40.7638548170298	16.6352704902712	0.371406210069001

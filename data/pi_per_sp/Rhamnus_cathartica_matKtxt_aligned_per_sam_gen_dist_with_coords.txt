@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhamnus_cathartica	OR538529.1	17-OCT-2023	903	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.28877053	-85.61945094	0.00229175499666761
+Rhamnus_cathartica	OR538512.1	17-OCT-2023	921	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.28854753	-85.62007774	0.00380029748716966
+Rhamnus_cathartica	OR464969.1	26-SEP-2023	907	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.0467175893801	-86.6037647183302	0.00156219504304638
+Rhamnus_cathartica	OR464968.1	26-SEP-2023	844	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.9486402899644	-84.9616996973209	0.00189793230380083
+Rhamnus_cathartica	MG220966.1	21-JAN-2018	779	USA: North Dakota	primary	matK	47.404	-101.925	0.00181413828887274
+Rhamnus_cathartica	MG220838.1	21-JAN-2018	779	USA: North Dakota	primary	matK	47.5613787380728	-101.071542609553	0.00100660920296405
+Rhamnus_cathartica	MG220762.1	21-JAN-2018	779	USA: North Dakota	primary	matK	47.8097585234912	-100.275748566735	0.00100660920296405
+Rhamnus_cathartica	HQ593408.1	09-NOV-2011	785	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, in scrubby woods on edge of cultivated fields, east of old gravel pits	primary	matK	44.028	-79.543	0.000999650189503664
+Rhamnus_cathartica	KJ593086.1	17-MAR-2015	763	USA: Wisconsin, Green Bay	primary	matK	44.526	-87.927	0.00408625440499596
+Rhamnus_cathartica	KJ593085.1	17-MAR-2015	784	USA: Wisconsin, Laona	primary	matK	45.548	-88.675	0.00444457240749986
+Rhamnus_cathartica	JN894694.1	07-MAR-2012	810	United Kingdom: Breconshire	primary	matK	51.78	-3.43	0.000986959434190489
+Rhamnus_cathartica	KJ593088.1	17-MAR-2015	662	USA: Wisconsin, Pensaukee	secondary	matK	44.823047	-87.9131587	0.000930638758520161
+Rhamnus_cathartica	KJ593087.1	17-MAR-2015	758	USA: Wisconsin, Green Bay	secondary	matK	44.5126379	-88.0125794	0.00184219008824013
+Rhamnus_cathartica	JN895855.1	07-MAR-2012	766	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.0010083064350025

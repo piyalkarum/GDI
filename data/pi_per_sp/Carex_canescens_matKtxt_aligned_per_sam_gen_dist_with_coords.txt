@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_canescens	KX676955.1	09-AUG-2017	830	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, marshy area just off Nitnat Rd.	primary	matK	48.9126	-124.488	0.000993541469339625
+Carex_canescens	KC474309.1	25-OCT-2013	777	Canada: Yukon Territory, Yukon Mainland, Richardson Mountains, Tributary of Fish Creek, south of Vunta Creek	primary	matK	67.893	-136.56	0.00920017203234372
+Carex_canescens	MH496671.1	26-MAR-2019	543	Pakistan	secondary	matK	30.3156435628736	70.996320887536	0.00129996750081248
+Carex_canescens	MH496670.1	26-MAR-2019	742	Pakistan	secondary	matK	30.3614768519204	71.2991171980246	0.0010330662389944
+Carex_canescens	KP980167.1	21-SEP-2015	783	Chile: BioBio	secondary	matK	-37.3391407	-72.4106825	0.00099411567954937
+Carex_canescens	KP980166.1	21-SEP-2015	785	Canada: Quebec	secondary	matK	52.1527324397698	-72.6945109744851	0.00402999977540593
+Carex_canescens	KP980163.1	21-SEP-2015	775	Argentina: Tierra de Fuego	secondary	matK	-34.4750646	-58.835512	0.000999184416844657
+Carex_canescens	KP980156.1	21-SEP-2015	739	Canada: Prince Edward Island	secondary	matK	46.5036807	-63.595411	0.00423045439209983
+Carex_canescens	KP980141.1	21-SEP-2015	783	Canada: Quebec	secondary	matK	53.2013792072923	-71.9161419464421	0.00099411567954937
+Carex_canescens	KP980137.1	21-SEP-2015	774	USA: Utah	secondary	matK	39.4225192	-111.714358	0.00100655479096827
+Carex_canescens	KP980117.1	21-SEP-2015	785	Spain	secondary	matK	39.3260685	-4.8379791	0.000993541469339625
+Carex_canescens	KP980098.1	21-SEP-2015	769	Russia: Sakhalin	secondary	matK	50.159476	143.0264412	0.00100512806020588
+Carex_canescens	KP980096.1	21-SEP-2015	783	USA: Colorado	secondary	matK	38.7251776	-105.607716	0.00099411567954937
+Carex_canescens	KP980061.1	21-SEP-2015	785	Finland	secondary	matK	63.2467777	25.9209164	0.000993541469339625
+Carex_canescens	KP980051.1	21-SEP-2015	783	Austria	secondary	matK	36.2438877725961	-4.95583725695794	0.00099411567954937
+Carex_canescens	KP980050.1	21-SEP-2015	783	Austria	secondary	matK	36.8721050127782	-4.38210873757954	0.00099411567954937
+Carex_canescens	KP980031.1	21-SEP-2015	783	Japan	secondary	matK	36.5748441	139.2394179	0.00099411567954937
+Carex_canescens	KP980028.1	21-SEP-2015	783	Australia: New South Wales	secondary	matK	-31.8759835	147.2869493	0.00099411567954937

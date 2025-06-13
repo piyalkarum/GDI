@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lonicera_periclymenum	MG224712.1	26-DEC-2017	552	Canada: Guelph Arbo.	primary	rbcL	43.5485	-80.2503	0.00919659428937145
+Lonicera_periclymenum	KX677804.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, Delta, Reifel Island, northeast end, riverside, boulder dyke shore	primary	rbcL	49.106	-123.167	0.00182211838363892
+Lonicera_periclymenum	JN893710.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.00184745443968831
+Lonicera_periclymenum	KJ204369.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.00183213432040295
+Lonicera_periclymenum	JN893792.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00448808879555199
+Lonicera_periclymenum	JN893463.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.9881197212673	-4.38268947041347	0.00184745443968831
+Lonicera_periclymenum	JN891806.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00184745443968831
+Lonicera_periclymenum	JN890985.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.924978589776	-2.32394174185479	0.00184745443968831

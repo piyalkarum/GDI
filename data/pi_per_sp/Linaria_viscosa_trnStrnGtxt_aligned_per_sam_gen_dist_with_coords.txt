@@ -1,0 +1,24 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_viscosa	KC878804.1	28-FEB-2015	577	Spain: Malaga, Competa	secondary	trnS-trnG	36.832836	-3.9747057	0.00204834851986065
+Linaria_viscosa	KC878803.1	28-FEB-2015	577	Spain: Jaen, Cazorla	secondary	trnS-trnG	37.9128927	-3.0038873	0.00204834851986065
+Linaria_viscosa	KF849061.1	30-NOV-2014	577	Spain: Cadiz, Zahora	secondary	trnS-trnG	36.2031094	-6.0398197	0.00204834851986065
+Linaria_viscosa	KF849060.1	30-NOV-2014	577	Spain: Sevilla, Puebla del Rio-Aznalcazar	secondary	trnS-trnG	37.2396485	-6.2001774	0.00220617680268893
+Linaria_viscosa	KF849059.1	30-NOV-2014	577	Spain: Sevilla, El Arahal-Osuna	secondary	trnS-trnG	37.2614179	-5.5409901	0.00386063844686028
+Linaria_viscosa	KF849058.1	30-NOV-2014	577	Portugal: Sines	secondary	trnS-trnG	37.956549	-8.8689639	0.00220617680268893
+Linaria_viscosa	KF849057.1	30-NOV-2014	577	Spain: Huelva, Mazagon	secondary	trnS-trnG	37.14597	-6.8562644	0.00220617680268893
+Linaria_viscosa	KF849056.1	30-NOV-2014	577	Spain: Huelva, Lucena del Puerto	secondary	trnS-trnG	37.3035671	-6.7284528	0.00220617680268893
+Linaria_viscosa	KF849055.1	30-NOV-2014	577	Spain: Huelva, Isla Cristina	secondary	trnS-trnG	37.2036925	-7.3238913	0.00220617680268893
+Linaria_viscosa	KF849054.1	30-NOV-2014	577	Spain: Cadiz, Zahara de los Atunes	secondary	trnS-trnG	36.1361147	-5.845594	0.00204834851986065
+Linaria_viscosa	KF849053.1	30-NOV-2014	577	Spain: Cadiz, Puerto de Santa Maria	secondary	trnS-trnG	36.6004006	-6.2252702	0.00220617680268893
+Linaria_viscosa	KF849052.1	30-NOV-2014	577	Spain: Cadiz, Chipiona	secondary	trnS-trnG	36.7355451	-6.4348221	0.00220617680268893
+Linaria_viscosa	KF849051.1	30-NOV-2014	577	Spain: Cadiz, Castellar-Almoraima	secondary	trnS-trnG	36.2773141	-5.428536	0.00204834851986065
+Linaria_viscosa	KF849050.1	30-NOV-2014	577	Spain: Cadiz, Arcos de la Frontera	secondary	trnS-trnG	36.7486475	-5.8060466	0.003702810164032
+Linaria_viscosa	KF849049.1	30-NOV-2014	577	Spain: Cadiz, Alcala de los Gazules	secondary	trnS-trnG	36.4618805	-5.7238891	0.00204834851986065
+Linaria_viscosa	KF849048.1	30-NOV-2014	577	Spain: Malaga, Canillas de Albaida	secondary	trnS-trnG	36.8461773	-3.9878112	0.00204834851986065
+Linaria_viscosa	KF849047.1	30-NOV-2014	578	Spain: Jaen, Villanueva del Arzobispo	secondary	trnS-trnG	38.1687701	-3.0076576	0.00204834851986065
+Linaria_viscosa	KF849046.1	30-NOV-2014	577	Spain: Granada, Sierra Nevada	secondary	trnS-trnG	37.0913019	-3.0766216	0.00204834851986065
+Linaria_viscosa	KF849045.1	30-NOV-2014	577	Spain: Granada, Albunuelas	secondary	trnS-trnG	36.9286025	-3.6234882	0.00204834851986065
+Linaria_viscosa	KF849044.1	30-NOV-2014	577	Portugal: Cabo da Roca	secondary	trnS-trnG	38.7809045	-9.4994163	0.00386063844686028
+Linaria_viscosa	KC878802.1	04-MAR-2014	577	Spain: Huelva, Matalascanas	secondary	trnS-trnG	36.9990019	-6.5478919	0.00220617680268893
+Linaria_viscosa	KC878801.1	04-MAR-2014	577	Spain: Huelva, Marismas del Odiel	secondary	trnS-trnG	37.2319391	-7.0081229	0.00220617680268893
+Linaria_viscosa	KC994607.1	04-MAR-2014	576	Spain: Malaga, Canillas del Aceituno	secondary	trnS-trnG	36.7565265	-3.8836923	0.00370896464646465

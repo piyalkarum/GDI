@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_spicata	JN896088.1	07-MAR-2012	786	United Kingdom: Glamorgan	primary	matK	51.75	-3.37	0.00164089197605218
+Carex_spicata	MN763473.1	28-JUL-2020	593	Spain: Leon	secondary	matK	42.0293652115337	-6.595172310753	0.00382232156938867
+Carex_spicata	MN763472.1	28-JUL-2020	593	Spain: Leon	secondary	matK	42.1361135003528	-6.06121737500344	0.00382232156938867
+Carex_spicata	MN763429.1	28-JUL-2020	556	France: Hautes Pyrenees	secondary	matK	43.1437925	0.1586661	0.00112410071942446
+Carex_spicata	MN763428.1	28-JUL-2020	593	Netherlands	secondary	matK	52.2434979	5.6343227	0.0021079258010118
+Carex_spicata	KP980099.1	21-SEP-2015	785	Serbia	secondary	matK	44.0243229	21.0765743	0.00163478372949807
+Carex_spicata	KP980082.1	21-SEP-2015	785	Greece	secondary	matK	43.2097838	-77.6930602	0.00213983561776171
+Carex_spicata	JN894968.1	07-MAR-2012	756	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00164199280105447
+Carex_spicata	JN894304.1	07-MAR-2012	815	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00163478372949807

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melica_ciliata	KJ404081.1	01-APR-2014	785	Spain: Puerto Serrano	secondary	trnL-trnF	36.9213346	-5.5420668	0.000730494956032691
+Melica_ciliata	KJ404080.1	01-APR-2014	784	Spain: San Jose del Valle	secondary	trnL-trnF	36.6062584	-5.7997029	0.00182635285360572
+Melica_ciliata	KJ404077.1	01-APR-2014	782	Spain: Pyrenees, Gavin near Biescas	secondary	trnL-trnF	42.327444527597	0.832194465504375	0.000730960980951976
+Melica_ciliata	KJ404076.1	01-APR-2014	783	Spain: Pyrenees, Gavin near Biescas	secondary	trnL-trnF	42.2955106165769	0.795388817044809	0.000730727670902985
+Melica_ciliata	KJ404075.1	01-APR-2014	788	Ukraine: Crimea, Czatyr-Dag-jajla, Mramorne village	secondary	trnL-trnF	45.28350435	34.2008187752655	0.000727242842886865
+Melica_ciliata	KJ404074.1	01-APR-2014	786	Bosnia and Herzegovina: Dinaric Alps, near Nevesinje	secondary	trnL-trnF	43.95	16.58	0.0018233388301123
+Melica_ciliata	KJ404072.1	01-APR-2014	787	Italy: Western Alps, Salbertrand	secondary	trnL-trnF	46	8	0.000727476152935855
+Melica_ciliata	JN187650.1	27-FEB-2012	853	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.00291547677453737

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Corispermum_pallasii	MG247929.1	21-JAN-2018	552	Canada: Ontario, Thunder Bay Dist., Paipoonge Tp., Stanley, Stanley Hill Cemetery, 6 km SE of Kakabeka Falls, 50 m N of Hwy 17	primary	rbcL	48.383	-89.567	0
+Corispermum_pallasii	KX679196.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, Surrey, Birdgeview Drive and 115 Avenue, west side	primary	rbcL	49.211	-122.862	0
+Corispermum_pallasii	MG249672.1	21-JAN-2018	552	Canada: Ontario, Simcoe Co., Flos Tp., Conc. X, Thunder Bay	secondary	rbcL	43.72634945	-77.7101179040839	0
+Corispermum_pallasii	MG247656.1	21-JAN-2018	552	Canada: Quebec, East Abitibi Co., Taschereau, 17 mi E near Villemontel.	secondary	rbcL	46.8137431	-71.2084061	0

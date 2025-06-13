@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rorippa_islandica	KC483880.1	25-OCT-2013	552	Canada: Northwest Territories, Richards Island, Wolf Lake	primary	rbcL	69.233	-134.033	0.00752317728374461
+Rorippa_islandica	JN891919.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.04	-4.46	0.00246457178065311
+Rorippa_islandica	JN893545.1	07-MAR-2012	515	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00259403372243839
+Rorippa_islandica	JN892055.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00246457178065311

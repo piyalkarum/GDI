@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_flammea	KC475205.1	25-OCT-2013	783	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour. Inner basin	primary	matK	63.8383	-67.3642	0
+Pedicularis_flammea	KC475204.1	25-OCT-2013	783	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Five km north of Loon Lake, on way back to Sanikiluaq	primary	matK	56.517	-79.375	0
+Pedicularis_flammea	KC475203.1	25-OCT-2013	779	Canada: Nunavut, Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbour	primary	matK	61.82	-65.71	0
+Pedicularis_flammea	KC475202.1	25-OCT-2013	783	Canada: Nunavut, Baffin Island, Iqaluit	primary	matK	63.733	-68.55	0
+Pedicularis_flammea	KC475201.1	25-OCT-2013	783	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, West side of Hornaday River	primary	matK	69.425	-124.197	0
+Pedicularis_flammea	KC475200.1	25-OCT-2013	783	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East of Paulatuk, adjacent to Darnley Bay	primary	matK	68.058	-121.639	0
+Pedicularis_flammea	JN966408.1	27-OCT-2012	785	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	matK	58.769	-93.856	0
+Pedicularis_flammea	JN966407.1	27-OCT-2012	787	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0
+Pedicularis_flammea	JN966406.1	27-OCT-2012	783	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Wet lichen heath	primary	matK	58.747	-93.863	0
+Pedicularis_flammea	JN966405.1	27-OCT-2012	782	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes fen, Fen below kame	primary	matK	58.634	-93.786	0
+Pedicularis_flammea	HG423940.2	09-APR-2014	2371	Greenland	secondary	matK	59.92247995	-43.2873459747229	0

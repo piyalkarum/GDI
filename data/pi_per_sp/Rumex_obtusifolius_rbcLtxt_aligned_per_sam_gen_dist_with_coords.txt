@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_obtusifolius	OR526575.1	25-OCT-2023	614	USA: Bishop's Bog Preserve, Portage, MI	primary	rbcL	42.7025848198459	-85.6166010466501	0.000690952956963531
+Rumex_obtusifolius	OR464853.1	26-SEP-2023	610	USA: Bishop's Bog Preserve, Portage, MI	primary	rbcL	41.4874104796573	-85.3199332556267	0.000692559826953008
+Rumex_obtusifolius	KP644020.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.3530048586106	-78.0047030179969	0.000389528979258882
+Rumex_obtusifolius	KP643941.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	39.6990565023608	-78.2086297437654	0.000389528979258882
+Rumex_obtusifolius	MG249030.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Halfway Log Dump Parking Lot, BPNP	primary	rbcL	45.227	-81.481	0.000389528979258882
+Rumex_obtusifolius	MG248814.1	21-JAN-2018	552	Canada: 60 Yorkshire St. South	primary	rbcL	43.538	-80.253	0.000389528979258882
+Rumex_obtusifolius	MG248251.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.8526	-80.4991	0.000389528979258882
+Rumex_obtusifolius	MF349550.1	21-SEP-2017	553	USA: Maryland; Smithsonian's Museum Support Ctr; 4210 Suitland Pkwy. Along service road between SI gardens Greenhouses and National Museum of American Indian; 25 m from greenhouses in drainage sump	primary	rbcL	38.844	-76.938	0.000389528979258882
+Rumex_obtusifolius	HQ590252.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 150 m NW of SR19 driveway entrance	primary	rbcL	44.026	-79.531	0.000889673107898333
+Rumex_obtusifolius	KT695425.1	29-SEP-2015	494	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00217812878362001
+Rumex_obtusifolius	KJ841534.1	04-NOV-2014	569	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Beside creek near end of hydroline	primary	rbcL	45.537	-73.155	0.000817401469884532
+Rumex_obtusifolius	KJ841533.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	rbcL	45.548	-73.152	0.000389528979258882
+Rumex_obtusifolius	JN892350.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	52.09	-3.92	0.000389528979258882
+Rumex_obtusifolius	OP710800.1	26-DEC-2022	435	Mexico: Puebla	secondary	rbcL	19.1710098	-98.4125121	0.00459770114942529
+Rumex_obtusifolius	HM850322.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000897095577319475
+Rumex_obtusifolius	JN892879.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000389528979258882
+Rumex_obtusifolius	JN892878.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000389528979258882
+Rumex_obtusifolius	JN892129.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.000389528979258882

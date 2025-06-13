@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_pratensis	LT985846.1	14-JUN-2019	209	Italy	secondary	trnL-trnF	43.1247343338053	11.6495004898973	0
+Gagea_pratensis	LT985845.1	14-JUN-2019	209	Czech Republic	secondary	trnL-trnF	49.7439047	15.3381061	0
+Gagea_pratensis	LT985844.1	14-JUN-2019	205	Germany	secondary	trnL-trnF	35.2021516247697	-82.4657491044537	0
+Gagea_pratensis	LT985843.1	14-JUN-2019	210	Germany	secondary	trnL-trnF	34.7772507254083	-84.1300090165727	0
+Gagea_pratensis	LT985842.1	14-JUN-2019	205	Germany	secondary	trnL-trnF	34.2503987384537	-83.6558846272339	0
+Gagea_pratensis	AM265607.1	23-MAY-2006	275	Italy	secondary	trnL-trnF	43.1719570761203	13.3940532120882	0

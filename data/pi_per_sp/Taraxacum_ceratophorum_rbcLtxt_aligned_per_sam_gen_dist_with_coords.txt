@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Taraxacum_ceratophorum	KJ841614.1	04-NOV-2014	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Approximately 100m from s-w slope of mountain	primary	rbcL	54.897	-67.169	0.000905797101449275
+Taraxacum_ceratophorum	KC484200.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit	primary	rbcL	63.733	-68.55	0.000905797101449275
+Taraxacum_ceratophorum	KC484199.1	25-OCT-2013	552	Canada: Yukon Territory, Richardson Mountains, Fish Creek	primary	rbcL	67.906	-136.521	0.000905797101449275
+Taraxacum_ceratophorum	KC484198.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. The Hill 2 km southwest of Sanikiluaq airport	primary	rbcL	56.558	-79.325	0.000905797101449275
+Taraxacum_ceratophorum	KC484197.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Tulugag River	primary	rbcL	68.941	-140.01	0.000905797101449275
+Taraxacum_ceratophorum	KC484196.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbour	primary	rbcL	61.82	-65.71	0.000905797101449275
+Taraxacum_ceratophorum	KC484195.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Apex	primary	rbcL	63.72	-68.45	0.000905797101449275
+Taraxacum_ceratophorum	KC484194.1	25-OCT-2013	552	Canada: Nunavut, Southhampton Island, Kirchoffer River Falls	primary	rbcL	64.017	-83.65	0.000905797101449275
+Taraxacum_ceratophorum	KC484193.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	68.719	-110.783	0.00588768115942029
+Taraxacum_ceratophorum	KC484192.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vincinity of Arctic Char Inn, Uluhaktok	primary	rbcL	70.736	-117.77	0.000905797101449275
+Taraxacum_ceratophorum	JN966031.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	rbcL	58.78	-94.195	0.00196256038647343
+Taraxacum_ceratophorum	JN966030.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Salt marsh	primary	rbcL	58.771	-93.843	0.00196256038647343
+Taraxacum_ceratophorum	JN966029.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	rbcL	58.629	-93.798	0.00196256038647343

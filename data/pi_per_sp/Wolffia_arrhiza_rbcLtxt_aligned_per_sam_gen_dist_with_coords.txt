@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Wolffia_arrhiza	MG226429.1	23-JAN-2018	552	Canada: Ontario, Kawartha Lakes, City of, Verulam Tp., 3.5 km NE of Emily Lake along E side of 10th Line Rd.	primary	rbcL	44.483	-78.55	0.0353687847738335
+Wolffia_arrhiza	JN892246.1	07-MAR-2012	535	United Kingdom: Somerset, North (6)	primary	rbcL	51.26	-2.91	0.0168224299065421
+Wolffia_arrhiza	MG227713.1	23-JAN-2018	552	Canada: Ontario, Bruce Co., Lindsay,Eastnor Tp. Hope Bay Forest ANSI, Georgian Bay shore, incl. shroeline terrace/shingle spit+Niagara Escarpment slope+plain, 20 km N of Wiarton	secondary	rbcL	43.72634945	-77.7101179040839	0.0158750491024117
+Wolffia_arrhiza	MG225875.1	23-JAN-2018	552	Canada: Ontario, Grey Co., Keppel & Sarawak Tp., Mudcreek Escarpment & Wetlands, Niagara Scarpment plain, ca. 10 km NW of Owen Sound	secondary	rbcL	44.7455453	-81.1108931	0.0256927164192706
+Wolffia_arrhiza	JN892887.1	07-MAR-2012	542	United Kingdom: Sussex,West	secondary	rbcL	50.94451385	-0.0622673284178475	0.0166358595194085

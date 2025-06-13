@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Citrullus_colocynthis	MF694841.1	16-SEP-2018	758	Pakistan: Punjab, Cholistan Desert, Dingarh	primary	matK	28.999	71.83	0.000989445910290238
+Citrullus_colocynthis	OQ272556.1	06-MAY-2023	818	Iraq	secondary	matK	33.0955793	44.1749775	0.0107212475633528
+Citrullus_colocynthis	MK309370.1	10-AUG-2019	881	India	secondary	matK	22.3511148	78.6677428	0.0234996901216362
+Citrullus_colocynthis	MK125107.1	03-FEB-2019	871	Saudi Arabia: Makkah	secondary	matK	21.420847	39.826869	0.00487944890929966
+Citrullus_colocynthis	HM850817.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00690954773869347

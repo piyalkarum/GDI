@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Prunella_vulgaris	KP643610.1	08-DEC-2015	356	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	38.2754342496301	-77.7301251497714	0.174885330877965
+Prunella_vulgaris	KP643605.1	08-DEC-2015	339	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.5314980638828	-78.899130799023	0.176235511266083
+Prunella_vulgaris	OQ310575.1	16-MAY-2023	394	Mexico: Puebla	secondary	psbA-trnH	18.9786237402914	-97.7225049915692	0.176541239251035
+Prunella_vulgaris	OQ309878.1	16-MAY-2023	393	Mexico: Puebla	secondary	psbA-trnH	18.8501285797796	-98.9572470080872	0.176541239251035
+Prunella_vulgaris	MW602273.1	14-JUN-2022	286	Mexico	secondary	psbA-trnH	19.4326296	-99.1331785	0.165459347292964
+Prunella_vulgaris	HG800564.1	03-FEB-2014	395	Italy:Lombardy, Grigna settentrionale	secondary	psbA-trnH	45.9533979	9.3876756	0.429821759886841
+Prunella_vulgaris	HE966757.1	18-SEP-2012	395	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.429821759886841

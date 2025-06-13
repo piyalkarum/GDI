@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_onobrychis	OR738196.1	13-NOV-2023	795	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.0559258270680104
+Astragalus_onobrychis	OQ830562.1	28-OCT-2023	1818	Ukraine	secondary	matK	49.4871968	31.2718321	0.00943396226415094
+Astragalus_onobrychis	OQ830561.1	28-OCT-2023	1818	Hungary	secondary	matK	41.9201462414578	-72.0974983330253	0.00943396226415094
+Astragalus_onobrychis	OQ830560.1	28-OCT-2023	1818	Hungary	secondary	matK	42.1588754789322	-73.2680415358584	0.00943396226415094
+Astragalus_onobrychis	OQ830559.1	28-OCT-2023	1818	Austria	secondary	matK	36.9148511	-4.7534501	0.00943396226415094
+Astragalus_onobrychis	MF543489.1	31-JUL-2018	788	Italy: Aosta Valley, Sarre	secondary	matK	45.7167983	7.2591539	0.00914115646258503
+Astragalus_onobrychis	MF543488.1	31-JUL-2018	795	Italy	secondary	matK	45.7017361	7.2476561	0.00904882154882155

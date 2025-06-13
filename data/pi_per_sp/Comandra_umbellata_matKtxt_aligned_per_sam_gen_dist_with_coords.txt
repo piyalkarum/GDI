@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Comandra_umbellata	OQ847517.1	15-AUG-2023	792	USA: CMR Wildlife Refuge	primary	matK	47.6694	-107.6686	0
+Comandra_umbellata	KX677170.1	09-AUG-2017	805	Canada: British Columbia, Central Okanagan Regional District, Kelowna, near intersection of Via Centrale & Country Club Dr.	primary	matK	49.955	-119.4	0
+Comandra_umbellata	MG221082.1	21-JAN-2018	785	Canada: Ontario, Chatham-Kent County, Wheatley Provincial Park, Beach and Marsh area, north bank of marsh, near eastern bridge across marsh	primary	matK	42.088	-82.442	0
+Comandra_umbellata	MG221070.1	21-JAN-2018	780	USA: North Dakota	primary	matK	48.113	-101.795	0
+Comandra_umbellata	MG221018.1	21-JAN-2018	780	USA: North Dakota	primary	matK	48.249	-101.294	0
+Comandra_umbellata	MG220954.1	21-JAN-2018	764	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, BPNP	primary	matK	45.185	-81.601	0
+Comandra_umbellata	MG220871.1	21-JAN-2018	797	Canada: Quebec, Montreal, Ile Perrot, Bois du Domaine	primary	matK	45.48	-73.906	0
+Comandra_umbellata	MG220655.1	21-JAN-2018	780	USA: North Dakota	primary	matK	48.396	-99.79	0
+Comandra_umbellata	KT176619.1	19-AUG-2015	1524	USA	secondary	matK	39.7837304	-100.445882	0

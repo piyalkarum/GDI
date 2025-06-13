@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_lanceolata	OR738089.1	13-NOV-2023	411	Kazakhstan: Mangistau region	primary	rbcL	44.13172	51.58548	0.00535142400107459
+Plantago_lanceolata	OR464835.1	26-SEP-2023	601	USA: Bishop's Bog Preserve, Portage, MI	primary	rbcL	42.1844572	-85.5919448	0.00362668728384939
+Plantago_lanceolata	OL434786.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1174	-81.138	0.00330465342963187
+Plantago_lanceolata	MN447798.1	21-FEB-2022	553	United Kingdom: England, Durham, Bishop Auckland, Auckland Castle Park	primary	rbcL	54.6721	-1.6601	0.00330465342963187
+Plantago_lanceolata	MK030054.1	16-OCT-2019	553	United Kingdom: England, County Durham, Bishop Auckland Castle Park	primary	rbcL	54.6725	-1.6586	0.00480211829690252
+Plantago_lanceolata	MK550615.1	02-MAR-2019	513	USA: New York, Cold Spring Harbor, CSHL main campus	primary	rbcL	40.51	-73.28	0.0034176704571406
+Plantago_lanceolata	MF694758.1	15-SEP-2018	552	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	35.223	72.426	0.00511102913593272
+Plantago_lanceolata	MG221948.1	26-DEC-2017	553	Canada: Quebec, Montreal, Ile Bizard, Parc-nature du Bois-de-l'Ile-Bizard, pres d'un marais	primary	rbcL	45.51	-73.883	0.00330465342963187
+Plantago_lanceolata	MG221581.1	26-DEC-2017	552	Canada: 143 Waterloo Avenue	primary	rbcL	43.5375	-80.2542	0.00330695871995771
+Plantago_lanceolata	MG221361.1	26-DEC-2017	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	rbcL	44.9454	-81.2769	0.00330465342963187
+Plantago_lanceolata	MF349765.1	21-SEP-2017	553	USA: District of Columbia; 3501 New York Avenue NE, Washington, DC 20002	primary	rbcL	38.916	-76.958	0.00330465342963187
+Plantago_lanceolata	KY463522.1	26-MAR-2017	535	USA: New York, New York City, Natural area adjacent to Central Park, near a construction site	primary	rbcL	40.78	-73.97	0.0479217059831128
+Plantago_lanceolata	KT695487.1	29-SEP-2015	554	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00330247735470526
+Plantago_lanceolata	KJ841474.1	04-NOV-2014	529	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	rbcL	45.535	-73.149	0.00331930995404631
+Plantago_lanceolata	HQ644063.1	01-NOV-2011	607	USA: Georgia, Muscogee County, Columbus, Columbus State University	primary	rbcL	32.4996	-84.9367	0.00349885546155658
+Plantago_lanceolata	JN891817.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.14	0.00333306013516838
+Plantago_lanceolata	MT931645.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.0347289589579614
+Plantago_lanceolata	KY951707.1	18-APR-2018	528	Kuwait	secondary	rbcL	29.9617917643075	48.1607685182186	0.00499209449271879
+Plantago_lanceolata	KY951706.1	18-APR-2018	500	Kuwait	secondary	rbcL	30.2742484380574	47.9769556083611	0.00513260790722792
+Plantago_lanceolata	MG222127.1	26-DEC-2017	553	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	secondary	rbcL	43.72634945	-77.7101179040839	0.00330465342963187
+Plantago_lanceolata	GQ248673.1	24-JUN-2009	553	India	secondary	rbcL	22.3511148	78.6677428	0.00330465342963187
+Plantago_lanceolata	KJ746278.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00350609519141779
+Plantago_lanceolata	KJ204385.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.00332078581891536
+Plantago_lanceolata	HM850265.1	23-JUL-2011	715	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00352143164312717
+Plantago_lanceolata	JN893615.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.1265800298743	-3.34181703087779	0.00333306013516838
+Plantago_lanceolata	JN891961.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.0950419720773	-3.04170237339582	0.00333306013516838
+Plantago_lanceolata	JN890941.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00333306013516838
+Plantago_lanceolata	KY549396.1	20-AUG-2017	541	Iran	secondary	rbcL	26.9383023	56.2500035	0.00385244491653469

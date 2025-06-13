@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_pontica	MG224035.1	26-DEC-2017	552	Canada: Brook Twp, Watford	primary	rbcL	42.95	-81.883	0.00144927536231884
+Artemisia_pontica	MG221625.1	26-DEC-2017	552	Canada: Erindale	primary	rbcL	52.1421	-106.577	0.00144927536231884
+Artemisia_pontica	KX582018.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	44.2495566002796	80.8924531706298	0.00072463768115942
+Artemisia_pontica	KX582017.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	44.4627141025253	80.6742471994143	0.00072463768115942
+Artemisia_pontica	KX582016.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	44.0289415669241	80.7822089883376	0.00072463768115942
+Artemisia_pontica	KX582015.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	43.856866445744	80.3057300318874	0.00072463768115942

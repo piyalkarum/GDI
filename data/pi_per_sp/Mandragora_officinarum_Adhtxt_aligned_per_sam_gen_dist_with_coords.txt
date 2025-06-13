@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mandragora_officinarum	MH703717.1	11-SEP-2018	3324	Jordan	secondary	Adh	43.9990799459368	-93.733918191284	0.378358653032735
+Mandragora_officinarum	MH703716.1	11-SEP-2018	3324	Lebanon	secondary	Adh	40.9192298740396	-76.4172909651124	0.378358653032735
+Mandragora_officinarum	MH703709.1	11-SEP-2018	1998	Jordan	secondary	Adh	44.9762395888461	-92.9970837907477	0.191920662246918
+Mandragora_officinarum	MH703708.1	11-SEP-2018	1998	Lebanon	secondary	Adh	39.9872175371762	-76.5230643846956	0.191920662246918
+Mandragora_officinarum	JX067428.1	31-JUL-2012	1999	Greece	secondary	Adh	37.06514945	25.1919784157294	0.192443996791823
+Mandragora_officinarum	JX067427.1	31-JUL-2012	1999	Greece	secondary	Adh	35.3084952	24.463342318423	0.192443996791823

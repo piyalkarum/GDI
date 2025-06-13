@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Utricularia_australis	JN893264.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.57	-4.16	0.001
+Utricularia_australis	LC682630.1	10-AUG-2022	553	Japan:Aichi, Nagakute	secondary	rbcL	35.174318	137.070047	0.001
+Utricularia_australis	MK924975.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7709747713353	-2.81205991057373	0.001
+Utricularia_australis	MK924736.1	14-JAN-2020	500	United Kingdom	secondary	rbcL	54.8337284926215	-3.13482951001579	0.00801010101010101
+Utricularia_australis	MF572257.1	31-JUL-2018	574	Italy: Aosta Valley, Verrayes, Loson	secondary	rbcL	45.7796478	7.5534861	0.001
+Utricularia_australis	MF572256.1	31-JUL-2018	574	Italy: Aosta Valley, Arvier, Lolair	secondary	rbcL	45.6930619	7.1393712	0.001
+Utricularia_australis	JN893443.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.001
+Utricularia_australis	MF572255.1	31-JUL-2018	546	Italy	secondary	rbcL	46.0407825784953	6.74164520003162	0.00101010101010101
+Utricularia_australis	MF572254.1	31-JUL-2018	572	Italy	secondary	rbcL	45.34642389838	8.24350528155184	0.001

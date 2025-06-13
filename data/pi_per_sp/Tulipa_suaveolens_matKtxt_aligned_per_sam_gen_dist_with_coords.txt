@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tulipa_suaveolens	OR703766.1	11-NOV-2023	470	Kazakhstan: Akmola region	secondary	matK	52.7012331338604	69.3884722870756	0.0122397735398568
+Tulipa_suaveolens	OR703757.1	11-NOV-2023	637	Kazakhstan: Akmola region	secondary	matK	52.2703461684546	69.6787604208555	0.00362916107596959
+Tulipa_suaveolens	OR703756.1	11-NOV-2023	458	Kazakhstan: Akmola region	secondary	matK	52.7112569299244	69.7963923162406	0.00507565370089726
+Tulipa_suaveolens	HF953079.1	04-DEC-2013	923	Russia	secondary	matK	64.6863136	97.7453061	0.0137064205473549

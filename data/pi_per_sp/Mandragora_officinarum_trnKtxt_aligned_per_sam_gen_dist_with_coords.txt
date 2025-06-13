@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mandragora_officinarum	MH703707.1	11-SEP-2018	634	Lebanon	secondary	trnK	40.375713	-76.4626118	0.00632911392405063
+Mandragora_officinarum	MH703706.1	11-SEP-2018	634	Jordan	secondary	trnK	44.6663146	-93.6261918	0.00632911392405063
+Mandragora_officinarum	JX090170.1	31-JUL-2012	632	Cyprus	secondary	trnK	34.9174159	32.8899027	0.00316455696202532
+Mandragora_officinarum	JX090169.1	31-JUL-2012	632	Spain	secondary	trnK	39.3260685	-4.8379791	0.00316455696202532
+Mandragora_officinarum	JX067414.1	31-JUL-2012	632	Greece: Paros	secondary	trnK	37.0651048	25.1921674	0.00316455696202532
+Mandragora_officinarum	JX067413.1	31-JUL-2012	632	Greece: Crete	secondary	trnK	35.3084952	24.4633423	0.00316455696202532

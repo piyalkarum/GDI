@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atriplex_patula	MG249776.1	21-JAN-2018	553	Canada: Ontario, Bruce, Bruce, Kincardine	primary	rbcL	44.1667	-81.6333	0.10071203969274
+Atriplex_patula	MG249463.1	21-JAN-2018	552	Canada: Ontario, Wellington County, City of Guelph, Stone Road and Eramosa River, Old Jail Quarry	primary	rbcL	43.549	-80.199	0.100921187947973
+Atriplex_patula	MG247994.1	21-JAN-2018	553	Canada: Ontario, Wellington County, City of Guelph, South-East of Summerfield Road along Victoria Road South	primary	rbcL	43.5485	-80.2503	0.10071203969274
+Atriplex_patula	MG245927.1	21-JAN-2018	522	Canada: Yukon Territory, 946 Lake. Alaska Highway near Whitehorse	primary	rbcL	60.812	-135.388	0.103601810147777
+Atriplex_patula	KX677834.1	29-APR-2017	552	Canada: British Columbia, Central Okanagan Regional District, Kelowna, topsoil in landfill	primary	rbcL	49.88	-119.444	0.100921187947973
+Atriplex_patula	HQ589970.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, Echo Valley Parking Lot	primary	rbcL	44.025	-79.53	0.10071203969274
+Atriplex_patula	JN890599.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.52	-3.21	0.101598715952329
+Atriplex_patula	KY884370.1	30-APR-2018	600	United Kingdom: England, Greater London	secondary	rbcL	51.4893335	-0.1440551	0.510466131092491
+Atriplex_patula	HM849801.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.100095359186268
+Atriplex_patula	JN891227.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.101598715952329
+Atriplex_patula	JN891001.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9875065	-1.1773256	0.101598715952329
+Atriplex_patula	HM587650.1	29-APR-2011	654	Russia	secondary	rbcL	52.8946613	40.5071721	0.50321780228483

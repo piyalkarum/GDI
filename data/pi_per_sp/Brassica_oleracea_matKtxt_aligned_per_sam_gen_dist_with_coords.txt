@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brassica_oleracea	KX783643.1	31-MAY-2017	737	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	matK	31.189	31.189	0.00111318907154429
+Brassica_oleracea	KX783642.1	31-MAY-2017	737	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	31.2	30.022	0.00111318907154429
+Brassica_oleracea	HQ619800.1	26-DEC-2010	822	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.00310657474192411
+Brassica_oleracea	MG924007.1	09-SEP-2018	1509	South Korea	secondary	matK	36.3880911806926	128.64597966795	0.000854282282119408
+Brassica_oleracea	MG924006.1	09-SEP-2018	1509	South Korea	secondary	matK	37.3949070393512	128.089719681921	0.000854282282119408
+Brassica_oleracea	MG924005.1	09-SEP-2018	1509	South Korea	secondary	matK	36.6088500489779	128.357278452221	0.000854282282119408
+Brassica_oleracea	MG924004.1	09-SEP-2018	1509	South Korea	secondary	matK	37.3155542939771	127.860426362061	0.000854282282119408
+Brassica_oleracea	LC064392.1	14-JUL-2015	2208	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.000797066289537351
+Brassica_oleracea	HM850745.1	23-JUL-2011	798	Portugal	secondary	matK	39.6621648	-8.1353519	0.00320492847829102
+Brassica_oleracea	JN894595.1	07-MAR-2012	796	United Kingdom: Glamorgan	secondary	matK	51.3416143864738	-3.4925768443347	0.00106193953191371
+Brassica_oleracea	JN894405.1	07-MAR-2012	760	United Kingdom: Glamorgan	secondary	matK	52.2250812026228	-4.12138485325188	0.00109701805404902
+Brassica_oleracea	AY541618.1	07-MAR-2004	2557	Spain	secondary	matK	42.7481523	-1.59731374769854	0.00228802792685116

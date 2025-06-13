@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Molinia_caerulea	MG227459.1	23-JAN-2018	552	Canada: Kingston Tp., Frontenac County, ON	primary	rbcL	44.3987551438359	-77.4725068181317	0.000402576489533011
+Molinia_caerulea	MG225886.1	23-JAN-2018	552	Canada: Cedarholme, Frontenac Co., ON	primary	rbcL	43.8770752086596	-76.6759103984539	0.001719441812938
+Molinia_caerulea	MG225664.1	23-JAN-2018	552	Canada: Cedarholme, Frontenac Co., ON	primary	rbcL	44.0590104355525	-76.7172562159612	0.001719441812938
+Molinia_caerulea	JN893441.1	07-MAR-2012	376	United Kingdom: Cardiganshire	primary	rbcL	52.13	-4.2	0.000592592592592593
+Molinia_caerulea	JN893148.1	07-MAR-2012	542	United Kingdom: Sussex, West (13)	primary	rbcL	50.99	-0.78	0.000410761963442185
+Molinia_caerulea	MF998328.1	09-DEC-2017	1353	France	secondary	rbcL	46.603354	1.8883335	0.000402576489533011
+Molinia_caerulea	KJ204378.1	29-JAN-2015	548	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00040551500405515
+Molinia_caerulea	JN893350.1	07-MAR-2012	541	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000411522633744856
+Molinia_caerulea	JN893349.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000410761963442185
+Molinia_caerulea	AJ746295.1	07-JAN-2005	1309	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.000402576489533011

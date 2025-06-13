@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lycium_europaeum	KR735154.1	24-JUN-2015	622	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	1.09225797714936	37.2616878020857	0
+Lycium_europaeum	KR735000.1	24-JUN-2015	542	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.318789760170673	36.504790134738	0
+Lycium_europaeum	KR734980.1	24-JUN-2015	623	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.905228592502408	37.3750091935899	0
+Lycium_europaeum	KR734577.1	24-JUN-2015	591	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	-0.391168780040597	36.8129976284212	0
+Lycium_europaeum	OR343814.1	21-OCT-2023	623	Egypt	secondary	matK	26.2540493	29.2675469	0

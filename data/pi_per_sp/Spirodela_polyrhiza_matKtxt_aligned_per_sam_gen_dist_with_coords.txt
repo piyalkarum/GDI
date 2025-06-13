@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spirodela_polyrhiza	LC219338.1	16-MAR-2017	744	China:Zhejiang, East Tiaoxi River	primary	matK	30.3855	119.9648	0.00033725287887952
+Spirodela_polyrhiza	LC219319.1	16-MAR-2017	825	China:Zhejiang, East Tiaoxi River	primary	matK	30.3736	119.937	0.000395933411736049
+Spirodela_polyrhiza	LC219285.1	16-MAR-2017	810	China:Zhejiang, East Tiaoxi River	primary	matK	30.3231	119.9455	0.000398251134202477
+Spirodela_polyrhiza	LC219253.1	16-MAR-2017	771	China:Zhejiang, East Tiaoxi River	primary	matK	30.4196	120.0209	0.000322683058705995
+Spirodela_polyrhiza	LC219240.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.4311	120.0504	0.000322403769976189
+Spirodela_polyrhiza	KP017709.1	27-MAY-2015	820	China: Chao Lake	secondary	matK	31.2836635948365	117.788118285085	0.000318377243922815
+Spirodela_polyrhiza	KP017699.1	27-MAY-2015	820	China: Chao Lake	secondary	matK	31.1539599626637	117.0405630689	0.000318377243922815
+Spirodela_polyrhiza	KP017685.1	27-MAY-2015	820	China: Chao Lake	secondary	matK	30.6959878388767	117.577984331365	0.000318377243922815
+Spirodela_polyrhiza	KP017682.1	27-MAY-2015	820	China: Chao Lake	secondary	matK	32.1378192382118	117.297703273563	0.000318377243922815
+Spirodela_polyrhiza	KP017680.1	27-MAY-2015	820	China: Chao Lake	secondary	matK	30.6821761799937	117.489027531328	0.000318377243922815
+Spirodela_polyrhiza	KP017678.1	27-MAY-2015	820	China: Chao Lake	secondary	matK	32.3278917423902	116.994643781296	0.000318377243922815
+Spirodela_polyrhiza	KP017674.1	27-MAY-2015	820	China: Chao Lake	secondary	matK	31.4489028322423	117.740349689335	0.000318377243922815
+Spirodela_polyrhiza	KP017672.1	27-MAY-2015	820	China: Chao Lake	secondary	matK	31.4934483628101	117.611653951557	0.000318377243922815
+Spirodela_polyrhiza	KP017669.1	27-MAY-2015	820	China: Chao Lake	secondary	matK	31.392671406129	117.501161267064	0.00137112810864645
+Spirodela_polyrhiza	KP017668.1	27-MAY-2015	820	China: Chao Lake	secondary	matK	30.7897826478115	117.866578470848	0.000318377243922815
+Spirodela_polyrhiza	KC584946.1	04-JUN-2013	818	Italy: Umbria	secondary	matK	42.965916	12.490236	0.000544736936937932
+Spirodela_polyrhiza	HE967005.1	18-SEP-2012	665	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00452562464156371
+Spirodela_polyrhiza	JN895560.1	07-MAR-2012	739	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000333574597979671
+Spirodela_polyrhiza	JN894561.1	07-MAR-2012	777	United Kingdom: West Sussex (13)	secondary	matK	50.984855	-0.104519	0.000322126637916112

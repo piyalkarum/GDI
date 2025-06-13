@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_subspathacea	KC474400.1	25-OCT-2013	775	Canada: Nunavut, Baffin Island, Iqaluit, Sylvia Grinnell Park	primary	matK	63.739	-68.559	0.000969836614997905
+Carex_subspathacea	KC474399.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	matK	71.313	-116.916	0.000647678174420068
+Carex_subspathacea	KC474398.1	25-OCT-2013	769	Canada: Nunavut, Northwest Territories Mainland, Rankin Inlet, 2 km NW of mouth of Meliadine River along north bank, 7 km N of Rankin Inlet, Meliadine River Park study area. Hudson Bay	primary	matK	62.867	-92.117	0.000975292587776333
+Carex_subspathacea	KC474397.1	25-OCT-2013	770	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. In the vicinity of the fresh water lake in lowlands 1 km W of Kihlbay	primary	matK	56.472	-79.042	0.000649772853934102
+Carex_subspathacea	KC474396.1	25-OCT-2013	775	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk, From beach below Polar Continental Shelf Project base	primary	matK	69.5	-133	0.000647678174420068

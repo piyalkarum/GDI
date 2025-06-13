@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_hypnoides	JN891619.1	07-MAR-2012	520	United Kingdom: Breconshire	primary	rbcL	51.82	-3.69	0
+Saxifraga_hypnoides	MK925333.1	14-JAN-2020	537	United Kingdom	secondary	rbcL	54.5046852180683	-1.86760502727124	0
+Saxifraga_hypnoides	MK925308.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8252173238621	-2.28549659278457	0
+Saxifraga_hypnoides	MK925232.1	14-JAN-2020	531	United Kingdom	secondary	rbcL	54.7725969120631	-1.80006390678443	0
+Saxifraga_hypnoides	MK925105.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.898672205054	-2.88631039389483	0
+Saxifraga_hypnoides	MK925064.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9913072805839	-2.51492950787267	0
+Saxifraga_hypnoides	MK924745.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3226197132891	-3.54640865124904	0
+Saxifraga_hypnoides	MK924681.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7576137681977	-3.02814701701978	0
+Saxifraga_hypnoides	MK924592.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0986138080009	-3.01118085120345	0
+Saxifraga_hypnoides	MK924427.1	14-JAN-2020	541	United Kingdom	secondary	rbcL	55.1413903650849	-2.78547772675498	0
+Saxifraga_hypnoides	JN892054.1	07-MAR-2012	511	United Kingdom: Glamorgan	secondary	rbcL	50.6251101339007	-3.26846248962986	0
+Saxifraga_hypnoides	JN892053.1	07-MAR-2012	484	United Kingdom: Glamorgan	secondary	rbcL	51.8211727116312	-4.20337643127686	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thinopyrum_intermedium	OK181361.1	31-OCT-2022	946	Germany	secondary	trnL-trnF	31.4399019	-95.350778	0.00296956198960653
+Thinopyrum_intermedium	DQ912410.1	24-SEP-2006	990	Czech Republic	secondary	trnL-trnF	50.5119594715209	14.882611514293	0.00141715709508912
+Thinopyrum_intermedium	DQ912409.1	24-SEP-2006	990	Slovakia	secondary	trnL-trnF	48.7411522	19.4528646	0.00212641860477709
+Thinopyrum_intermedium	DQ912408.1	24-SEP-2006	986	Czech Republic	secondary	trnL-trnF	50.0997564922093	14.4773285137152	0.00212778452906391

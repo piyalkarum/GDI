@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_platanifolius	EU792732.1	30-JUN-2009	798	France	secondary	rpl20-rps12	46.3974379954586	1.33550936234862	0
+Ranunculus_platanifolius	EU792731.1	30-JUN-2009	798	France	secondary	rpl20-rps12	46.1505159348883	1.44092490145541	0
+Ranunculus_platanifolius	EU792730.1	30-JUN-2009	798	France	secondary	rpl20-rps12	46.426856026352	1.36583992017443	0
+Ranunculus_platanifolius	EU792729.1	30-JUN-2009	798	France	secondary	rpl20-rps12	46.1346351070152	0.839697166187109	0
+Ranunculus_platanifolius	EU792728.1	30-JUN-2009	798	Italy	secondary	rpl20-rps12	42.314152829028	12.0142914340116	0
+Ranunculus_platanifolius	EU792724.1	30-JUN-2009	798	Italy	secondary	rpl20-rps12	43.2897944817921	13.0782143268034	0
+Ranunculus_platanifolius	EU792723.1	30-JUN-2009	798	Italy	secondary	rpl20-rps12	43.3991137012746	13.0739977833295	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spiraea_chamaedryfolia	OR738169.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.27639	83.28917	0.000615006150061501
+Spiraea_chamaedryfolia	LC689790.1	03-MAY-2022	599	Japan: Yamanashi	primary	rbcL	35.7819	138.8255	0.000556483027267668
+Spiraea_chamaedryfolia	LC694321.1	03-MAY-2022	599	Japan: Shizuoka	secondary	rbcL	34.9332488	138.0955398	0.00177535391162869
+Spiraea_chamaedryfolia	MG246097.1	21-JAN-2018	552	USA: Illinois, Morton Arboretum, Lisle, dd-66	secondary	rbcL	31.98710035	-102.13883116079	0.000603864734299517

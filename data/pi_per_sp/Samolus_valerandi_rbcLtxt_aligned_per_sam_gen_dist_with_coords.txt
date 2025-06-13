@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Samolus_valerandi	JN893722.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.62	-4.25	0.000634920634920635
+Samolus_valerandi	HM850335.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0019047619047619
+Samolus_valerandi	JN893494.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000634920634920635
+Samolus_valerandi	JN892381.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000634920634920635

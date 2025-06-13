@@ -1,0 +1,47 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phalacrocarpum_oppositifolium	MT598704.1	04-JUL-2022	448	Spain: Lugo, Sierra de Ancares	secondary	psbA-trnH	43.0157321	-7.5583247	0.0235131254216825
+Phalacrocarpum_oppositifolium	MT598703.1	04-JUL-2022	448	Spain: Leon, Fabero	secondary	psbA-trnH	42.7680405	-6.6249887	0.00749052324136217
+Phalacrocarpum_oppositifolium	MT598702.1	04-JUL-2022	448	Spain: Zamora, San Martin de Castaneda	secondary	psbA-trnH	42.3699247111902	-6.00070681966597	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598701.1	04-JUL-2022	448	Spain: Zamora, San Martin de Castaneda	secondary	psbA-trnH	42.356217414903	-7.2826197776715	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598700.1	04-JUL-2022	448	Spain: Zamora, San Martin de Castaneda	secondary	psbA-trnH	42.2437999349462	-6.97963016956223	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598698.1	04-JUL-2022	448	Spain: Leon, Sierra del Teleno	secondary	psbA-trnH	42.005724383408	-6.58296562450967	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598697.1	04-JUL-2022	448	Spain: Leon, Sierra del Teleno	secondary	psbA-trnH	42.6741542501452	-5.69290779882672	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598696.1	04-JUL-2022	448	Spain: Leon, Sierra del Teleno	secondary	psbA-trnH	42.5569036339104	-7.07610910383229	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598695.1	04-JUL-2022	448	Spain: Leon, Sierra del Teleno	secondary	psbA-trnH	42.8706476597369	-6.77860772719695	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598694.1	04-JUL-2022	448	Spain: Zamora, San Martin de Castaneda	secondary	psbA-trnH	41.598254912972	-7.32031603314843	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598693.1	04-JUL-2022	448	Spain: Leon, Sierra del Teleno	secondary	psbA-trnH	43.0654160987041	-6.95762858711954	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598692.1	04-JUL-2022	448	Spain: Zamora, San Martin de Castaneda	secondary	psbA-trnH	42.1776849179339	-6.81165696049317	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598691.1	04-JUL-2022	448	Spain: Zamora, San Martin de Castaneda	secondary	psbA-trnH	41.6161859886681	-6.87968217976294	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598690.1	04-JUL-2022	448	Spain: Zamora, San Martin de Castaneda	secondary	psbA-trnH	42.0860913835781	-7.60152643273973	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598689.1	04-JUL-2022	448	Spain: Zamora, Sotillo de Sanabria	secondary	psbA-trnH	42.091499	-6.7216984	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598687.1	04-JUL-2022	448	Portugal: Braganca, Serra de Nogueira	secondary	psbA-trnH	42.0206222502853	-7.74022533182957	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598686.1	04-JUL-2022	448	Spain: Ourense, Las Portas dam	secondary	psbA-trnH	42.8773436008802	-7.25441452642328	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598684.1	04-JUL-2022	448	Spain: Zamora, Sarracin de Aliste	secondary	psbA-trnH	42.1515027563658	-5.89214273721709	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598683.1	04-JUL-2022	448	Portugal: Braganca, Serra de Nogueira	secondary	psbA-trnH	41.4860924117649	-7.74889873300901	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598682.1	04-JUL-2022	448	Spain: Ourense, Lobios	secondary	psbA-trnH	41.901747	-8.0840143	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598681.1	04-JUL-2022	448	Spain: Ourense, Baltar	secondary	psbA-trnH	41.9509733	-7.7157216	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598680.1	04-JUL-2022	448	Spain: Ourense, Villarino de Conso	secondary	psbA-trnH	42.7709295112048	-7.03904377062205	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598679.1	04-JUL-2022	448	Spain: Ourense, Las Portas dam	secondary	psbA-trnH	42.0343869372507	-8.65461276068511	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598678.1	04-JUL-2022	448	Spain: Ourense, Las Portas dam	secondary	psbA-trnH	42.4899587895564	-7.18404745541094	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598677.1	04-JUL-2022	448	Spain: Ourense, Covas	secondary	psbA-trnH	41.9818173978232	-7.67010042759961	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598676.1	04-JUL-2022	448	Spain: Ourense, Covas	secondary	psbA-trnH	43.1825271430011	-8.73130910894178	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598675.1	04-JUL-2022	448	Spain: Ourense, Covas	secondary	psbA-trnH	42.815499830111	-7.47113020039879	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598674.1	04-JUL-2022	448	Spain: Ourense, Covas	secondary	psbA-trnH	42.0989793271279	-7.46862841707167	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598673.1	04-JUL-2022	448	Spain: Ourense, Covas	secondary	psbA-trnH	42.1004294440202	-8.52971151079778	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598672.1	04-JUL-2022	448	Spain: Ourense, Covas	secondary	psbA-trnH	42.7756886243041	-8.46602166894835	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598671.1	04-JUL-2022	448	Portugal: Braganca, Serra de Nogueira	secondary	psbA-trnH	41.6088599794083	-5.73567120168645	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598670.1	04-JUL-2022	448	Spain: Ourense, Villarino de Conso	secondary	psbA-trnH	43.1938087745024	-8.03981342408016	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598669.1	04-JUL-2022	447	Spain: Zamora, Sarracin de Aliste	secondary	psbA-trnH	42.4652586074046	-5.45034273012182	0.00835197613721103
+Phalacrocarpum_oppositifolium	MT598668.1	04-JUL-2022	448	Portugal: Tras-os-Montes	secondary	psbA-trnH	41.5929859	-6.7288269	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598667.1	04-JUL-2022	448	Spain: Ourense, Las Portas dam	secondary	psbA-trnH	41.8603033880524	-8.74285634913661	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598666.1	04-JUL-2022	448	Spain: Ourense, Las Portas dam	secondary	psbA-trnH	42.4971859291077	-7.66647413546582	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598665.1	04-JUL-2022	448	Portugal: Braganca, Serra de Nogueira	secondary	psbA-trnH	41.7896527500087	-6.485235107251	0.00615090461986435
+Phalacrocarpum_oppositifolium	MT598664.1	04-JUL-2022	448	Portugal: Serra da Estrela	secondary	psbA-trnH	40.2328143404103	-6.58619804046528	0.0194454431660808
+Phalacrocarpum_oppositifolium	MT598663.1	04-JUL-2022	448	Portugal: Covao d'Ametade, Serra da Estrela	secondary	psbA-trnH	40.328892	-7.58873194979076	0.0194454431660808
+Phalacrocarpum_oppositifolium	MT598662.1	04-JUL-2022	448	Portugal: Serra da Estrela	secondary	psbA-trnH	39.8430299816503	-7.59886740087146	0.0194454431660808
+Phalacrocarpum_oppositifolium	MT598661.1	04-JUL-2022	448	Portugal: Manteigas, Covao d'Ametade, Serra da Estrela	secondary	psbA-trnH	40.4005617	-7.5408682	0.0194454431660808
+Phalacrocarpum_oppositifolium	MT598660.1	04-JUL-2022	448	Spain: Cantabria, Pesaguero	secondary	psbA-trnH	43.0769294	-4.5386784	0.0062502219381414
+Phalacrocarpum_oppositifolium	MT598659.1	04-JUL-2022	448	Spain: Zamora, Sarracin de Aliste	secondary	psbA-trnH	41.5546750595762	-5.40677887327482	0.00833355527147473
+Phalacrocarpum_oppositifolium	MT598699.1	04-JUL-2022	448	Spain	secondary	psbA-trnH	42.0770336	-6.5875743526105	0.00907804676680516
+Phalacrocarpum_oppositifolium	MT598688.1	04-JUL-2022	448	Spain	secondary	psbA-trnH	42.6965966	-6.5127579	0.0112606974184155
+Phalacrocarpum_oppositifolium	MT598685.1	04-JUL-2022	448	Spain	secondary	psbA-trnH	41.6528058	-5.9975786	0.00615090461986435

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eurybia_sibirica	MG225201.1	21-JAN-2018	779	Canada: Yukon Territory, Faro, Van Gorder Creek Interpretive Trail	primary	matK	62.235	-133.342	0
+Eurybia_sibirica	MG224869.1	21-JAN-2018	620	Canada: Yukon Territory, Kluane National Park, Fisher Glacier near Alsek, S-facing slope above glacier	primary	matK	60.132	-138.206	0
+Eurybia_sibirica	KC474790.1	25-OCT-2013	766	Canada: Yukon Territory, Babbage River Along river gravel bar in river. Site 4	primary	matK	68.95	-138.533	0
+Eurybia_sibirica	KC474789.1	25-OCT-2013	773	Canada: Yukon Territory, Sheep Creek South of, at base of north facing slope near confluence of Sheep Creek and Firth River	primary	matK	69.467	-140.983	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedera_hibernica	HQ220358.1	04-DEC-2011	912	USA: Washington	secondary	trnL-trnF	38.3793046715375	-77.886205669563	0
+Hedera_hibernica	HQ220357.1	04-DEC-2011	912	USA	secondary	trnL-trnF	39.7837304	-100.445882	0
+Hedera_hibernica	HQ220356.1	04-DEC-2011	912	USA: Washington	secondary	trnL-trnF	39.5198366878144	-77.7329562173049	0
+Hedera_hibernica	AJ537464.1	10-MAY-2003	937	United Kingdom:Leicestershire	secondary	trnL-trnF	52.666667	-1	0
+Hedera_hibernica	AF515542.1	14-APR-2003	367	Portugal: Lindoso	secondary	trnL-trnF	41.8666101	-8.1997242	0

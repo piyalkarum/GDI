@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Buglossoides_incrassata	HG939442.1	09-APR-2015	654	France:Rhone-Alpes, Caussols, 1260 m	secondary	trnL-trnF	45.3175313	5.72129435258561	0.0355827234637908
+Buglossoides_incrassata	HG939440.1	09-APR-2015	655	Turkey:Bursa, Uludag, 2050 m	secondary	trnL-trnF	40.2279872	28.8599537	0.0456099523331713
+Buglossoides_incrassata	KC542553.1	19-JUN-2013	851	Syria	secondary	trnL-trnF	34.6401861	39.0494106	0.0228985814725105
+Buglossoides_incrassata	EU599941.1	31-MAR-2009	347	Greece	secondary	trnL-trnF	43.2097838	-77.6930602	0.0611715254669066

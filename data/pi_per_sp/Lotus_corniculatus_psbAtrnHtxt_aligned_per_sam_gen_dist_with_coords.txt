@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_corniculatus	OR465008.1	26-SEP-2023	351	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	psbA-trnH	42.28873151	-85.61892891	0.00195618153364632
+Lotus_corniculatus	OK863891.1	19-SEP-2022	327	Russia	secondary	psbA-trnH	40.0481790903429	-83.7304976548327	0.00169894665307509
+Lotus_corniculatus	OK863890.1	19-SEP-2022	327	Russia	secondary	psbA-trnH	40.2272423256472	-83.6189398466338	0.00169894665307509
+Lotus_corniculatus	OK863889.1	19-SEP-2022	328	Russia	secondary	psbA-trnH	39.7197827820522	-85.3005954574882	0.0128995790957714
+Lotus_corniculatus	OK863888.1	19-SEP-2022	327	Russia	secondary	psbA-trnH	40.9307370720324	-84.1842661351189	0.00169894665307509
+Lotus_corniculatus	OK863887.1	19-SEP-2022	327	Russia	secondary	psbA-trnH	39.6665082475909	-85.1660109380525	0.00169894665307509
+Lotus_corniculatus	OK863886.1	19-SEP-2022	327	Russia	secondary	psbA-trnH	40.0927225942617	-84.869331046692	0.00169894665307509
+Lotus_corniculatus	OK863885.1	19-SEP-2022	327	Russia	secondary	psbA-trnH	40.306302635526	-83.279249633029	0.00449910476374917
+Lotus_corniculatus	HG800542.1	03-FEB-2014	634	Italy:Lombardy, Grigna settentrionale	secondary	psbA-trnH	45.9533979	9.3876756	0.0017749378771743
+Lotus_corniculatus	HE966695.1	18-SEP-2012	634	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0017749378771743

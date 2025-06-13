@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bellardia_trixago	KX959183.1	02-NOV-2017	1036	Spain: Burgos, Castrillo de la Vega	primary	matK	41.669025552846	-3.90426220096013	0.00397200618602833
+Bellardia_trixago	KX959182.1	02-NOV-2017	1036	Spain: Burgos, Castrillo de la Vega	primary	matK	42.1157785768741	-4.29863648179221	0.00632161296367939
+Bellardia_trixago	KX959116.1	02-NOV-2017	1036	Spain: Caceres, Poblado del embalse de Gabriel y Galan	primary	matK	40.1378366151506	-6.75910868020035	0.00397200618602833
+Bellardia_trixago	KX959115.1	02-NOV-2017	1036	Spain: Caceres, Poblado del embalse de Gabriel y Galan	primary	matK	39.4360582315384	-5.76893594861711	0.00397200618602833
+Bellardia_trixago	JF900577.1	05-MAR-2013	813	Spain	secondary	matK	39.3260685	-4.8379791	0.00392499435198434
+Bellardia_trixago	HM850809.1	23-JUL-2011	711	Portugal	secondary	matK	39.6621648	-8.1353519	0.01573569287855

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tanacetum_balsamita	MG224586.1	26-DEC-2017	502	Canada	secondary	rbcL	60.7194708427682	-108.635752561146	0
+Tanacetum_balsamita	MG224275.1	26-DEC-2017	552	Canada	secondary	rbcL	61.5970332901658	-107.506676028078	0
+Tanacetum_balsamita	MG224210.1	26-DEC-2017	552	Canada	secondary	rbcL	60.8665779784054	-107.310888213131	0
+Tanacetum_balsamita	MG223507.1	26-DEC-2017	552	Canada	secondary	rbcL	60.5336709410962	-107.556808942886	0
+Tanacetum_balsamita	MG222847.1	26-DEC-2017	552	Canada	secondary	rbcL	61.1416791306983	-107.852644179938	0

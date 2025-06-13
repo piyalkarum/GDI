@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Verbascum_nigrum	JN896027.1	07-MAR-2012	765	United Kingdom: Monmouthshire	primary	matK	51.66	-3.02	0.00144833110762057
+Verbascum_nigrum	OQ303545.1	13-JUN-2023	649	Latvia	secondary	matK	56.8406494	24.7537645	0.00105473622422775
+Verbascum_nigrum	JN896246.1	07-MAR-2012	707	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.000471475719000471
+Verbascum_nigrum	JN896238.1	07-MAR-2012	876	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000949340530596762

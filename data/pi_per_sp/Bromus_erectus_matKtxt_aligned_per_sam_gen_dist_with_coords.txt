@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_erectus	JN895105.1	07-MAR-2012	778	United Kingdom: Somerset, North (6)	primary	matK	51.26	-2.74	0.00175983729219194
+Bromus_erectus	JN894179.1	07-MAR-2012	538	United Kingdom: Denbighshire	primary	matK	53.29	-3.63	0.00420388201288182
+Bromus_erectus	FR865051.1	09-JUN-2011	460	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00610132020218453
+Bromus_erectus	HE966883.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00596453936531956
+Bromus_erectus	JN895533.1	07-MAR-2012	694	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00315291338127387

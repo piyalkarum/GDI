@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosotis_laxa	MG225061.1	21-JAN-2018	750	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Princess Point, Ginger Valley	primary	matK	43.2729	-79.9	0.00361601255715851
+Myosotis_laxa	KJ840949.1	23-SEP-2014	793	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	matK	45.538	-73.158	0.00382394131098794
+Myosotis_laxa	JN895883.1	07-MAR-2012	773	United Kingdom: Glamorgan	primary	matK	51.14	-3.18	0.00240693939849947
+Myosotis_laxa	AY092865.1	29-JUN-2002	895	New Zealand	secondary	matK	-41.5000831	172.8344077	0.00483392016326873
+Myosotis_laxa	JN895730.1	07-MAR-2012	738	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00247120136466944
+Myosotis_laxa	JN894120.1	07-MAR-2012	759	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.00242464985994398

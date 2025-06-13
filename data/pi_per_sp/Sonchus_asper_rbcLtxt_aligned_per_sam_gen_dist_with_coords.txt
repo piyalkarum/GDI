@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sonchus_asper	OR538521.1	17-OCT-2023	614	USA: Carriage Hill North, East Lansing, MI	primary	rbcL	42.7603214	-84.46197423	0
+Sonchus_asper	OR464856.1	26-SEP-2023	621	USA: Brother Rice High School Athletic Fields, Bloomfield Hills, MI	primary	rbcL	42.53501538	-83.2598711	0
+Sonchus_asper	MG223727.1	26-DEC-2017	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Sassafras Point, Sassafras Point Trail	primary	rbcL	43.272	-79.904	0
+Sonchus_asper	MG222476.1	26-DEC-2017	551	Canada: Quebec, Montreal, Island of Montreal, Parc Senneville, entre le boise et la caserne de pompiers	primary	rbcL	45.419	-73.952	0
+Sonchus_asper	MG222345.1	26-DEC-2017	552	Canada: 143 Waterloo Avenue	primary	rbcL	43.5375	-80.2542	0
+Sonchus_asper	MG221801.1	26-DEC-2017	552	Canada: Alberta, Devonian Botanical Gardens, ca 7 km north of, 1/2 km east of Hwy 60 on Twp rd 515	primary	rbcL	53.45	-113.75	0
+Sonchus_asper	KX678573.1	29-APR-2017	548	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Campbell Lake Forest Service Road	primary	rbcL	50.046	-125.461	0
+Sonchus_asper	KJ841589.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, on north side of road that connects reasearch building and chalets	primary	rbcL	45.537	-73.1518	0
+Sonchus_asper	HQ644073.1	01-NOV-2011	607	USA: Georgia, Muscogee County, Columbus, Columbus State University	primary	rbcL	32.4996	-84.9367	0
+Sonchus_asper	JN893038.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0
+Sonchus_asper	OP710940.1	26-DEC-2022	251	Mexico: Puebla	secondary	rbcL	19.1710098	-98.4125121	0.000468713381767049
+Sonchus_asper	MN204768.1	30-NOV-2021	683	China	secondary	rbcL	34.510982781258	105.559204128456	0.000234356690883525
+Sonchus_asper	MK749928.1	01-JAN-2020	714	China	secondary	rbcL	34.92415868847	104.246499883561	0.000234356690883525
+Sonchus_asper	MG223444.1	26-DEC-2017	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, South Cameron Lake Road	secondary	rbcL	43.72634945	-77.7101179040839	0
+Sonchus_asper	HM850372.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Sonchus_asper	JN892071.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0
+Sonchus_asper	JN891246.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Sonchus_asper	JN891245.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

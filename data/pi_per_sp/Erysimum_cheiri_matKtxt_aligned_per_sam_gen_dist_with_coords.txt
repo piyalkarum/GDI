@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erysimum_cheiri	KX783674.1	31-MAY-2017	585	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	matK	31.189	31.189	0
+Erysimum_cheiri	JN894939.1	07-MAR-2012	680	United Kingdom: Monmouthshire	primary	matK	51.59	-2.7	0
+Erysimum_cheiri	JN893988.1	07-MAR-2012	734	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0
+Erysimum_cheiri	JN893987.1	07-MAR-2012	772	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

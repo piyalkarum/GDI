@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nothobartsia_spicata	KX959122.1	02-NOV-2017	1038	Spain: Oviedo, Ribadesella	primary	trnK	43.0421418445841	-5.42849892275853	0
+Nothobartsia_spicata	KX959121.1	02-NOV-2017	1038	Spain: Oviedo, Ribadesella	primary	trnK	43.2754980152735	-4.70915586270937	0
+Nothobartsia_spicata	KX959100.1	02-NOV-2017	1038	Spain: Santander, Penarrubia, La Hermida	primary	trnK	43.9224416725156	-4.44778071175432	0
+Nothobartsia_spicata	KX959099.1	02-NOV-2017	1031	Spain: Santander, Penarrubia, La Hermida	primary	trnK	42.7023959651498	-4.72064191979264	0

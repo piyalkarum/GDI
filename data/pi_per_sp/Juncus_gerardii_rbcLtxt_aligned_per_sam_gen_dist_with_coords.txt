@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_gerardii	MG227439.1	23-JAN-2018	552	Canada: Birch Cove, north of St. Andrews, New Brunswick	primary	rbcL	45.1667	-67.0333	0.000679347826086957
+Juncus_gerardii	MG226269.1	23-JAN-2018	552	Canada: Rockcliffe Park, Ottawa River, ON	primary	rbcL	45.4583	-75.6833	0.00185348950176487
+Juncus_gerardii	MG226178.1	23-JAN-2018	552	Canada: Maitland River, Huron County, ON	primary	rbcL	43.75	-81.7167	0.000679347826086957
+Juncus_gerardii	KX678617.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Surrey, Crescent Beach, Blackie Spit	primary	rbcL	49.06	-122.879	0.00230638805248951
+Juncus_gerardii	JN891644.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.5	-3.13	0.000692734515145521
+Juncus_gerardii	OR670301.1	06-NOV-2023	569	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00185214965578741
+Juncus_gerardii	JN893100.1	07-MAR-2012	524	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000715648854961832
+Juncus_gerardii	JN893099.1	07-MAR-2012	507	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00074061946971646
+Juncus_gerardii	JN892556.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000692734515145521

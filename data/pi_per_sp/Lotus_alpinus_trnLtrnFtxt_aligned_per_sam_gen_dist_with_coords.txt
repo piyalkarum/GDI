@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_alpinus	MK751652.1	20-DEC-2020	842	Spain: Soria, near Montenegro de Cameros	primary	trnL-trnF	41.7692135102525	-2.52445462638919	0.00322361723786902
+Lotus_alpinus	MK751651.1	20-DEC-2020	842	Spain: Soria, near Montenegro de Cameros	primary	trnL-trnF	41.8155373357208	-1.60621074425177	0.00525958601968103
+Lotus_alpinus	MK751650.1	20-DEC-2020	842	Spain: Burgos, near Barriosuso	primary	trnL-trnF	41.96	-3.48	0.00525958601968103
+Lotus_alpinus	MF167382.1	17-AUG-2018	915	Turkey	primary	trnL-trnF	40.07	29.22	0.00435712153324396
+Lotus_alpinus	MF167381.1	17-AUG-2018	915	Switzerland	primary	trnL-trnF	46.76	10.11	0.00367846527263995
+Lotus_alpinus	MF167380.1	17-AUG-2018	915	Spain	primary	trnL-trnF	42.55	0.59	0.00336620922267899
+Lotus_alpinus	MF167379.1	17-AUG-2018	915	Switzerland	primary	trnL-trnF	46.66	9.62	0.00336620922267899
+Lotus_alpinus	MF158233.1	17-AUG-2018	842	Spain	primary	trnL-trnF	42.09	-2.75	0.00322361723786902

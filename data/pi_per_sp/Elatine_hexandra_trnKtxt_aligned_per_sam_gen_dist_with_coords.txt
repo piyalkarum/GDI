@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elatine_hexandra	KU604766.1	31-OCT-2017	767	Austria: Lower Austria	secondary	trnK	48.2817813	15.7632457	0.184971098265896
+Elatine_hexandra	KU604765.1	31-OCT-2017	767	Austria: Steiermark	secondary	trnK	47.2500001	15.1666665	0.184971098265896
+Elatine_hexandra	KU604764.1	31-OCT-2017	767	Ireland: Galway	secondary	trnK	53.2744122	-9.0490601	0.184971098265896
+Elatine_hexandra	KR131968.1	23-MAR-2016	842	Austria: Osterreich	secondary	trnK	47.59397	14.12456	0.554913294797688

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Primula_farinosa	EF218539.1	31-JAN-2008	929	Sweden: Sormland	secondary	trnL-trnF	58.9597833	17.5333912	0.000489918044026753
+Primula_farinosa	EF218538.1	31-JAN-2008	929	Spain: Pyrenees	secondary	trnL-trnF	41.9118916471696	1.20578552276778	0.000489918044026753
+Primula_farinosa	EF218537.1	31-JAN-2008	929	Sweden: Oland	secondary	trnL-trnF	56.7815961	16.6621561	0.000489918044026753
+Primula_farinosa	DQ379725.1	14-SEP-2006	929	United Kingdom: Cumbria	secondary	trnL-trnF	54.6143136	-2.9420899	0.000489918044026753
+Primula_farinosa	DQ379724.1	14-SEP-2006	936	France: Pyrenees	secondary	trnL-trnF	48.8738565	2.3852638	0.000489918044026753
+Primula_farinosa	DQ379723.1	14-SEP-2006	929	Switzerland: Alps	secondary	trnL-trnF	46.3400988	6.1722939	0.000489918044026753
+Primula_farinosa	DQ379722.1	14-SEP-2006	929	Spain: Pyrenees	secondary	trnL-trnF	43.0789498701512	0.686412894422172	0.000489918044026753
+Primula_farinosa	DQ379721.1	14-SEP-2006	927	Italy: Alps	secondary	trnL-trnF	46.4383632055388	9.41230514547567	0.00343238207315877
+Primula_farinosa	DQ379720.1	14-SEP-2006	929	Italy: Alps	secondary	trnL-trnF	45.8325539624333	9.48916434362145	0.000489918044026753
+Primula_farinosa	DQ379718.1	14-SEP-2006	929	Slovakia: Carpathians	secondary	trnL-trnF	48.7992705	20.1596739	0.00127298463540586
+Primula_farinosa	DQ379716.1	14-SEP-2006	929	United Kingdom: Teesdale	secondary	trnL-trnF	54.5629815	-1.3058935	0.000489918044026753
+Primula_farinosa	DQ379719.1	14-SEP-2006	929	Poland	secondary	trnL-trnF	49.4818353	19.8724552679553	0.00127298463540586

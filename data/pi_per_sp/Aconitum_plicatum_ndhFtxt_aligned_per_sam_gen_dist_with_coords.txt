@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aconitum_plicatum	KF219879.1	01-OCT-2014	635	Czech Republic	secondary	ndhF	49.0610506558535	14.6733038873003	0
+Aconitum_plicatum	KF219878.1	01-OCT-2014	608	Czech Republic	secondary	ndhF	49.2232194620619	14.4660406809315	0
+Aconitum_plicatum	KF219848.1	01-OCT-2014	635	Poland	secondary	ndhF	52.215933	19.134422	0
+Aconitum_plicatum	KF219844.1	01-OCT-2014	540	Czech Republic	secondary	ndhF	50.3832849158778	15.1818605662851	0

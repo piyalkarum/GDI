@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aethusa_cynapium	JN894401.1	07-MAR-2012	819	United Kingdom: Monmouthshire	primary	matK	51.63	-3.14	0
+Aethusa_cynapium	KJ204433.1	29-JAN-2015	826	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0
+Aethusa_cynapium	JN896150.1	07-MAR-2012	755	United Kingdom: Glamorgan	secondary	matK	51.4539360931315	-2.25124537279997	0
+Aethusa_cynapium	JN895996.1	07-MAR-2012	821	United Kingdom: Glamorgan	secondary	matK	51.5829353137908	-4.37321369670545	0

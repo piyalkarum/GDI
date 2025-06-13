@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_triquetrum	HF934797.1	12-MAY-2015	292	Tunisia:Tabarka, Tell Atlas	secondary	trnL-trnF	36.9545614	8.7573829	0.0140350877192982
+Allium_triquetrum	HF934794.1	12-MAY-2015	286	Spain:Hort	secondary	trnL-trnF	41.6761092	2.6187937	0.0425106086515929
+Allium_triquetrum	KF550175.1	01-JAN-2014	712	Spain: Malaga	secondary	trnL-trnF	36.7213028	-4.4216366	0.0144404332129964
+Allium_triquetrum	HF934796.1	12-MAY-2015	292	Spain	secondary	trnL-trnF	36.8781793	-4.8468061	0.0140350877192982

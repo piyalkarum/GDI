@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_abrotanifolia	HE614440.1	27-JAN-2012	1129	Italy:Monte Spluga	secondary	cob	45.4796178025503	8.99252106553637	0.566081129600234
+Jacobaea_abrotanifolia	HE614368.1	27-JAN-2012	944	Italy:Monte Spluga	secondary	cob	46.0076963832818	9.00767119690783	0.567721044524596
+Jacobaea_abrotanifolia	HE614296.1	27-JAN-2012	595	Italy:Monte Spluga	secondary	cob	45.8333286904491	9.80184109926094	0.515675185736945
+Jacobaea_abrotanifolia	HE614512.1	27-JAN-2012	616	Italy:Monte Spluga	secondary	cob	45.5148988135153	9.38910053260359	0.565038176262928

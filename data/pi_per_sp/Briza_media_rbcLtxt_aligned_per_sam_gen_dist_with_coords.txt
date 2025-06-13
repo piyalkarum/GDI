@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Briza_media	JN890780.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.77	-4.03	0.00445544554455446
+Briza_media	FR865143.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.0174646972894011
+Briza_media	JN890933.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00445544554455446
+Briza_media	JN890930.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00445544554455446
+Briza_media	AJ746285.1	07-JAN-2005	1332	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00409836065573771

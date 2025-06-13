@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Klasea_nudicaulis	AM117868.1	27-OCT-2006	218	France:Hautes-Alpes	secondary	ITS	44.4575023048007	6.60453841019666	0.416797686816662
+Klasea_nudicaulis	AM117867.1	27-OCT-2006	253	France:Hautes-Alpes	secondary	ITS	44.6129473317152	7.53047821809588	0.422273889793071
+Klasea_nudicaulis	AJ868038.1	31-OCT-2005	217	Spain:Granada	secondary	ITS	37.1324614653413	-4.35056707379319	0.416797686816662
+Klasea_nudicaulis	AJ868037.1	31-OCT-2005	254	Spain:Granada	secondary	ITS	37.4812716068684	-3.04027129032067	0.41835232116562

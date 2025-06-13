@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_rubiginosa	MG679203.1	16-JAN-2019	734	India	primary	matK	31.09	77.15	0.00552029843211622
+Rosa_rubiginosa	JN894320.1	07-MAR-2012	838	United Kingdom: Glamorgan	primary	matK	51.6	-3.64	0.00181653042688465
+Rosa_rubiginosa	JN895797.1	07-MAR-2012	731	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00185960018596002
+Rosa_rubiginosa	JN895796.1	07-MAR-2012	826	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00184416781927155

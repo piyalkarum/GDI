@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Zostera_noltei	EF198334.1	31-JUL-2007	717	Germany	secondary	matK	40.4203479	-79.1166983	0.00284495021337127
+Zostera_noltei	JQ990924.1	01-APR-2013	688	Denmark	secondary	matK	55.670249	10.3333283	0.00293255131964809
+Zostera_noltei	JN894022.1	07-MAR-2012	826	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00249687890137328
+Zostera_noltei	JN894021.1	07-MAR-2012	782	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.0010230179028133
+Zostera_noltei	JN225377.1	01-FEB-2012	859	Germany	secondary	matK	54.3868669719956	7.64377884038258	0.00464869916860297
+Zostera_noltei	JN225376.1	01-FEB-2012	859	Germany	secondary	matK	55.6240068625345	7.44963429491588	0.00464869916860297

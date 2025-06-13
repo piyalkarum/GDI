@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Imperata_cylindrica	OQ851355.1	14-AUG-2023	436	Egypt	primary	rbcL	30.8514	29.3772	0.00100344036697248
+Imperata_cylindrica	MG968338.1	13-FEB-2019	520	Indonesia: Jambi, Bukit Duabelas National Park	primary	rbcL	-1.70254516737965	103.416325055181	0.000852056359482102
+Imperata_cylindrica	MG968319.1	13-FEB-2019	520	Indonesia: Jambi, Bukit Duabelas National Park	primary	rbcL	-2.54101255964536	103.083850054915	0.000852056359482102
+Imperata_cylindrica	MG772758.1	18-JUL-2018	525	South Africa	primary	rbcL	-29.7039	31.0514	0.000846743835874271
+Imperata_cylindrica	ON594257.1	30-MAY-2023	619	Australia: Queensland, Sunshine Coast, Beerwah Scientific Area 1	secondary	rbcL	-27.61101435	153.072117748027	0.0091078318495055
+Imperata_cylindrica	MW085960.1	29-JUN-2022	887	USA: Mississippi	secondary	rbcL	32.9715285	-89.7348497	0.00622390005074431
+Imperata_cylindrica	MN192769.1	30-NOV-2021	505	China	secondary	rbcL	35.000074	104.999927	0.00099009900990099
+Imperata_cylindrica	MN216484.1	19-FEB-2020	560	Tanzania	secondary	rbcL	-6.5247123	35.7878438	0.00173399390243902
+Imperata_cylindrica	MF998298.1	09-DEC-2017	1353	Madagascar	secondary	rbcL	-18.9249604	46.4416422	0.00221114790923656
+Imperata_cylindrica	KX282823.1	28-MAY-2017	533	Kuwait	secondary	rbcL	29.4868557462598	47.1102679676888	0.00571681779393845
+Imperata_cylindrica	KX282822.1	28-MAY-2017	580	Kuwait	secondary	rbcL	28.8860170366901	48.3389740117201	0.00964607387637507
+Imperata_cylindrica	KX282821.1	28-MAY-2017	523	Kuwait	secondary	rbcL	28.7757219341491	47.9081756850655	0.000956022944550669
+Imperata_cylindrica	KX298980.1	06-FEB-2017	710	Egypt	secondary	rbcL	26.2540493	29.2675469	0.00200182379580973
+Imperata_cylindrica	KF163517.1	28-OCT-2013	1290	South Korea	secondary	rbcL	37.0763143121953	127.28276714094	0.00201426785464268
+Imperata_cylindrica	KF163516.1	28-OCT-2013	1290	South Korea	secondary	rbcL	36.7401669464905	128.789728063217	0.00201426785464268
+Imperata_cylindrica	KC164313.1	26-FEB-2013	1290	South Korea: Daeja-dong, Goyang-si, Gyeonggi-do	secondary	rbcL	37.7038838	126.8815563	0.00201426785464268
+Imperata_cylindrica	HQ600371.1	02-AUG-2012	751	South Korea	secondary	rbcL	37.1416884602925	128.047034718728	0.00365974676695959

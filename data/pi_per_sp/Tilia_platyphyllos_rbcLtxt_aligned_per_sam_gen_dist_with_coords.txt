@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tilia_platyphyllos	MG248614.1	21-JAN-2018	552	Canada: Ottawa Arbortum	primary	rbcL	45.4214	-75.6919	0
+Tilia_platyphyllos	MG246776.1	21-JAN-2018	552	Canada: Arthabaska, Quebec	primary	rbcL	45.9167	-72.0833	0
+Tilia_platyphyllos	JN890677.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.28	-3.84	0
+Tilia_platyphyllos	JN891178.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2707623721354	-2.83635944077554	0
+Tilia_platyphyllos	JN891176.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.3040823308581	-3.75294791456503	0
+Tilia_platyphyllos	KP088889.1	15-MAR-2015	785	China	secondary	rbcL	39.1081168199102	115.890050718398	0
+Tilia_platyphyllos	KP088888.1	15-MAR-2015	785	China	secondary	rbcL	39.4797735444286	117.236270272897	0

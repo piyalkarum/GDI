@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_suaveolens	ON684593.1	21-AUG-2022	1530	Portugal: Utopia, Pedreira, Povoa do Lanhoso	primary	matK	41.61855	-8.32338	0.00412509353612675
+Mentha_suaveolens	KX783715.1	31-MAY-2017	793	Egypt: Alexandria, Mariot, Mostafa Kamel Village	primary	matK	30.926	29.776	0.00133236412964286
+Mentha_suaveolens	JN896124.1	07-MAR-2012	813	United Kingdom: Monmouthshire	primary	matK	51.56	-3.04	0.0038838020799143
+Mentha_suaveolens	LC126646.1	03-AUG-2016	820	Japan	secondary	matK	37.0280087674061	140.045031757386	0.00581096419702253
+Mentha_suaveolens	LC126645.1	03-AUG-2016	820	Japan	secondary	matK	36.5250146318831	138.121415883787	0.00554866735674247
+Mentha_suaveolens	LC126644.1	03-AUG-2016	820	Japan	secondary	matK	37.236364089095	138.746876293435	0.00769824708515619
+Mentha_suaveolens	KP172057.1	04-FEB-2015	742	Pakistan	secondary	matK	30.3308401	71.247499	0.00190034260499133
+Mentha_suaveolens	HM850798.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00131648028690095
+Mentha_suaveolens	JN894423.1	07-MAR-2012	866	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00171220748052102

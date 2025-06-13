@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Picris_hieracioides	LC767963.1	27-MAY-2023	262	Japan:Niigata, Mt.Hiuchi	primary	rbcL	-36.9227	138.0681	0.000477099236641221
+Picris_hieracioides	MG221592.1	26-DEC-2017	552	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #6 trail	primary	rbcL	43.097	-79.281	0.000227686703096539
+Picris_hieracioides	JN890665.1	07-MAR-2012	531	United Kingdom: Monmouthshire	primary	rbcL	51.81	-3.01	0.00023719165085389
+Picris_hieracioides	KJ746259.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00023719165085389
+Picris_hieracioides	KJ204384.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.0021049798931688
+Picris_hieracioides	KF196021.1	20-JAN-2014	704	China: Shanxi, Huozhou	secondary	rbcL	36.586266	111.821311	0.000227686703096539
+Picris_hieracioides	KF196020.1	20-JAN-2014	704	China: Yunnan, Lushui	secondary	rbcL	25.8255921	98.8573411	0.000227686703096539
+Picris_hieracioides	JN893614.1	07-MAR-2012	529	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000238095238095238
+Picris_hieracioides	JN890580.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000232342007434944

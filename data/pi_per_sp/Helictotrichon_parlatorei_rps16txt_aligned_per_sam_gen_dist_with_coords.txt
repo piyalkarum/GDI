@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helictotrichon_parlatorei	MH090990.1	04-DEC-2018	713	Austria: Karawanken, Petzen	primary	rps16	46.51083	14.76917	0.00327255726975222
+Helictotrichon_parlatorei	MH090989.1	04-DEC-2018	713	Italy: Alpes-Maritimes, Colle di Tenda	primary	rps16	44.15009	7.56121	0.00124668848371513
+Helictotrichon_parlatorei	MH090988.1	04-DEC-2018	713	Italy: Prov. Torino, Colle delle Finestre	primary	rps16	45.06494	7.01254	0.00257129499766246
+Helictotrichon_parlatorei	MH090987.1	04-DEC-2018	713	France: Dept. Hautes-Alpes, Mt. Viso	primary	rps16	44.70441	7.03974	0.00124668848371513
+Helictotrichon_parlatorei	MH090986.1	04-DEC-2018	713	France: Dept. Hautes-Alpes, Vallon du Melezet	primary	rps16	44.46491	6.42746	0.00257129499766246
+Helictotrichon_parlatorei	MH090985.1	04-DEC-2018	713	Italy: Prov. Bergamo, M. Arera	primary	rps16	45.94477	9.82276	0.00124668848371513
+Helictotrichon_parlatorei	MH090984.1	04-DEC-2018	713	France: Dept. Hautes-Alpes, Tal des Reallon	primary	rps16	44.60186	6.35816	0.00124668848371513
+Helictotrichon_parlatorei	MH090983.1	04-DEC-2018	713	Italy: Prov. Torino, Mt. Albergian (Gran Costa)	primary	rps16	45.03743	7.02473	0.00124668848371513
+Helictotrichon_parlatorei	MH090981.1	04-DEC-2018	713	Italy: Piemont, Limone	primary	rps16	44.2	7.56667	0.00124668848371513
+Helictotrichon_parlatorei	MH090980.1	04-DEC-2018	713	France: Grand Lac	primary	rps16	46.56556	5.74917	0.00124668848371513
+Helictotrichon_parlatorei	MH090973.1	04-DEC-2018	713	Austria: Salzkammergut, Graskogerl	primary	rps16	47.70278	15.09472	0.00327255726975222
+Helictotrichon_parlatorei	MH090972.1	04-DEC-2018	713	Austria: Steiermark, Trechtling	primary	rps16	47.53194	15.00972	0.00459716378369955
+Helictotrichon_parlatorei	MH090971.1	04-DEC-2018	713	Italy: Prov Aosta, Grajische Alpen	primary	rps16	45.54083	7.01806	0.00124668848371513
+Helictotrichon_parlatorei	MH090970.1	04-DEC-2018	713	Italy: Trienter Alpen, Monte Tombea	primary	rps16	45.80611	10.62722	0.00257129499766246
+Helictotrichon_parlatorei	MH090969.1	04-DEC-2018	713	Italy: Prov. Bergamo, Bergamasker Alpen	primary	rps16	45.90633	9.38442	0.00257129499766246
+Helictotrichon_parlatorei	MH090968.1	04-DEC-2018	713	Italy: Provinz Verona, Monte Baldo	primary	rps16	45.68806	10.81361	0.00225962287673368
+Helictotrichon_parlatorei	MH090966.1	04-DEC-2018	713	Italy: Provinz Torino, Monte Orsiera	primary	rps16	45.06472	7.10667	0.00389590151160979
+Helictotrichon_parlatorei	MH090965.1	04-DEC-2018	713	Italy: Provinz Verona, Monte Baldo	primary	rps16	45.73379	10.83423	0.00225962287673368
+Helictotrichon_parlatorei	MH090964.1	04-DEC-2018	713	Italy: Valdritta, Monte Baldo	primary	rps16	45.72639	10.84389	0.00225962287673368

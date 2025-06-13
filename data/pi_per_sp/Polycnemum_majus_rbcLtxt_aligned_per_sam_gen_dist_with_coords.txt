@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polycnemum_majus	MG249929.1	21-JAN-2018	552	Canada: Bothwell, ON	primary	rbcL	42.5	-81.6	0.483009708737864
+Polycnemum_majus	MG246977.1	21-JAN-2018	552	Canada: Puslinch, ON	primary	rbcL	43.4601	-80.2734	0.483009708737864
+Polycnemum_majus	JQ407827.1	09-JAN-2013	618	Greece: Trikala	primary	rbcL	39.61	21.43	0.141990291262136
+Polycnemum_majus	JQ407826.1	09-JAN-2013	721	Hungary: Suemeg	primary	rbcL	46.99	17.28	0.139341141970873
+Polycnemum_majus	JQ407822.1	09-JAN-2013	707	Ukraine: Chechelnytsky region	primary	rbcL	48.25	29.31	0.138824480575658
+Polycnemum_majus	JQ407821.1	09-JAN-2013	709	Austria: 'Zeilerberg' near Winden	primary	rbcL	47.98	16.76	0.140216902718619
+Polycnemum_majus	JQ407829.1	09-JAN-2013	722	Italy: Prov. Siena	secondary	rbcL	43.1672254	11.4671812	0.140035587754912
+Polycnemum_majus	JQ407828.1	09-JAN-2013	721	Germany: Thueringen, 35km NNE Erfurt	secondary	rbcL	51.2094255	10.4589044	0.139839207539792
+Polycnemum_majus	JQ407825.1	09-JAN-2013	719	France: Dep. Basses-Alpes, Vaucluse, Gubian	secondary	rbcL	49.9246182	1.0791444	0.139690293878959

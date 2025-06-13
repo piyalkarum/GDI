@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dryopteris_cristata	JQ683002.1	15-JUL-2012	317	USA	secondary	trnL-trnF	40.1262370169505	-100.102596178573	0
+Dryopteris_cristata	JQ682997.1	15-JUL-2012	316	USA	secondary	trnL-trnF	40.4361157006392	-100.26371769407	0
+Dryopteris_cristata	JQ682995.1	15-JUL-2012	290	USA	secondary	trnL-trnF	40.2066922135001	-100.108062766743	0
+Dryopteris_cristata	JQ682988.1	15-JUL-2012	245	USA	secondary	trnL-trnF	39.534946219842	-99.5254029924283	0
+Dryopteris_cristata	JQ682987.1	15-JUL-2012	274	USA	secondary	trnL-trnF	40.234049910811	-100.33162891829	0
+Dryopteris_cristata	JQ682986.1	15-JUL-2012	317	USA	secondary	trnL-trnF	40.3922339777495	-99.6304013204562	0
+Dryopteris_cristata	JN105315.1	18-SEP-2011	286	USA	secondary	trnL-trnF	39.2879910618835	-100.248646469528	0

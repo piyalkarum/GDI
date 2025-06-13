@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helleborus_foetidus	MF349408.1	21-SEP-2017	553	USA: District of Columbia; US Botanical Garden, Washington	primary	rbcL	38.888	-77.012	0.000470809792843691
+Helleborus_foetidus	JN893216.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.44	-3.6	0.000470809792843691
+Helleborus_foetidus	MK924625.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.000470809792843691
+Helleborus_foetidus	JN892870.1	07-MAR-2012	531	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.00188323917137476
+Helleborus_foetidus	JN892869.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000470809792843691

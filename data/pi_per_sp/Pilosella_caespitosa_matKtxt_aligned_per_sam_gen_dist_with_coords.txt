@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pilosella_caespitosa	KX677447.1	09-AUG-2017	786	Canada: British Columbia, Fraser Valley Regional District, East side of Harrison Lake, East Harrison Forest Service Road	primary	matK	49.418	-121.759	0.0010451962584142
+Pilosella_caespitosa	MG225346.1	21-JAN-2018	800	Canada: Ontario, Kenora District, Dryden	primary	matK	49.7833	-92.8333	0.0013194810201967
+Pilosella_caespitosa	MG225109.1	21-JAN-2018	783	Canada: Ontario, Thunder Bay District, Neebing Twp., Thunder Bay	primary	matK	48.297	-89.239	0.00290791207368313
+Pilosella_caespitosa	HQ593322.1	09-NOV-2011	874	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 10 m W of Sumach junction	primary	matK	44.032	-79.534	0.00124992124992125
+Pilosella_caespitosa	HQ593321.1	09-NOV-2011	781	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., S facing slope between classroom and Willow Ridge, 250 m N of creek	primary	matK	44.027	-79.536	0.00133699633699634
+Pilosella_caespitosa	KP210410.1	28-NOV-2015	814	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Along Yellow Trail	primary	matK	45.546	-73.168	0.00424450810133641

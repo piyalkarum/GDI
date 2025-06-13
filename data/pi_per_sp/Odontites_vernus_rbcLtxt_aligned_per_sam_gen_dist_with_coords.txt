@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_vernus	JN892048.1	07-MAR-2012	524	United Kingdom: Glamorgan (41)	primary	rbcL	51.54	-3.25	0
+Odontites_vernus	JN890584.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.2	-3.95	0
+Odontites_vernus	JN893426.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Odontites_vernus	JN890961.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0

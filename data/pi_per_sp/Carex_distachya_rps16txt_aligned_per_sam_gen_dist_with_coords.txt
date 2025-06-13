@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_distachya	MZ892083.1	12-DEC-2021	772	Turkey: Manisa, Borlu	secondary	rps16	38.7519292	28.4686621	0.00584466390791807
+Carex_distachya	MZ892082.1	12-DEC-2021	777	Tunisia	secondary	rps16	36.8002068	10.1857757	0.00778804067261663
+Carex_distachya	MZ892081.1	12-DEC-2021	777	Spain: Toledo	secondary	rps16	39.8560679	-4.0239568	0.0041053027282182
+Carex_distachya	MZ892080.1	12-DEC-2021	776	Spain: Barcelona	secondary	rps16	41.3828939	2.1774322	0.00453541025509992
+Carex_distachya	MZ892079.1	12-DEC-2021	775	Morocco: Tanger-Tetuan	secondary	rps16	35.202941	-5.5510167	0.00648009965596034
+Carex_distachya	MZ892078.1	12-DEC-2021	745	Greece: Creta, Kissamos-Koutsomatadas	secondary	rps16	35.3084952	24.463342318423	0.00335570469798658
+Carex_distachya	MZ892077.1	12-DEC-2021	776	France: Languedoc-Rosellon	secondary	rps16	43.654203	3.6746699	0.00345120011592768

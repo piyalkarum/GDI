@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_viride	MK827548.1	30-APR-2020	858	Sweden: Jamtland	secondary	rps4	63.8855812304168	15.7119333400746	0.00058411214953271
+Asplenium_viride	MK827547.1	30-APR-2020	873	Sweden: Jamtland	secondary	rps4	64.0563040873506	14.5398474599223	0.00058411214953271
+Asplenium_viride	MK827546.1	30-APR-2020	858	Norway: Troms	secondary	rps4	69.5311071	19.5296839	0.00058411214953271
+Asplenium_viride	MK827482.1	30-APR-2020	856	China	secondary	rps4	35.000074	104.999927	0.000585480093676815
+Asplenium_viride	MK827397.1	30-APR-2020	856	China: Taiwan Island	secondary	rps4	-0.5514987	166.9348568	0.00233781654227495

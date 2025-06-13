@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pistacia_lentiscus	KU504609.1	30-JUL-2016	842	Spain: Granada	primary	atpB-rbcL	36.88	-3.3	0.00870556282983369
+Pistacia_lentiscus	KU504608.1	30-JUL-2016	833	Spain: Cordoba	primary	atpB-rbcL	38.7	-5.08	0.00405248553537474
+Pistacia_lentiscus	KU504607.1	30-JUL-2016	843	Spain: Huesca	primary	atpB-rbcL	42.18	-0.06	0.00503198263936442
+Pistacia_lentiscus	KU504606.1	30-JUL-2016	840	Algeria: Oran	primary	atpB-rbcL	35.2319731298693	-0.978516858115168	0.00503835955062591
+Pistacia_lentiscus	KU504605.1	30-JUL-2016	842	Algeria: Oran	primary	atpB-rbcL	36.1412809377508	-1.40404491022322	0.00463609982067875
+Pistacia_lentiscus	KU504604.1	30-JUL-2016	840	Cyprus: Lamaka	primary	atpB-rbcL	34.9	33.31	0.0040202820284596
+Pistacia_lentiscus	KP031679.1	07-FEB-2015	749	Syria	secondary	atpB-rbcL	34.6401861	39.0494106	0.0044551830090443

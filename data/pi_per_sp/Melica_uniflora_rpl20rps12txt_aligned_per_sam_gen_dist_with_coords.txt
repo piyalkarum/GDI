@@ -1,0 +1,50 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melica_uniflora	KX910045.1	29-MAR-2017	660	Montenegro: vicinity of Povija, near Ostrog Monastery	primary	rpl20-rps12	42.67	19.0297	9.47927683511902e-05
+Melica_uniflora	KX910044.1	29-MAR-2017	660	Croatia: Dinaric Alps, near Lokvarka Cave	primary	rpl20-rps12	44.7619212633982	15.066271407509	9.47927683511902e-05
+Melica_uniflora	KX910043.1	29-MAR-2017	659	Croatia: Dinaric Alps, near Lokvarka Cave	primary	rpl20-rps12	45.7968697270388	14.9844482975829	0.00151745068285281
+Melica_uniflora	KX910042.1	29-MAR-2017	660	Austria: S Hainburg an dem Donau, Hundsheimer Berge	primary	rpl20-rps12	48.133	16.933	9.47927683511902e-05
+Melica_uniflora	KX910041.1	29-MAR-2017	660	Hungary: Hereg near Tatabanya	primary	rpl20-rps12	47.5193513955127	19.6837995537017	9.47927683511902e-05
+Melica_uniflora	KX910040.1	29-MAR-2017	660	Hungary: Hereg near Tatabanya	primary	rpl20-rps12	46.9244250834278	18.4299307655365	9.47927683511902e-05
+Melica_uniflora	KX910039.1	29-MAR-2017	660	Hungary: N Pecs, Misina Mt.	primary	rpl20-rps12	46.1	18.22	9.47927683511902e-05
+Melica_uniflora	KX910038.1	29-MAR-2017	660	Bulgaria: Western Stara Planina Mts., Vratsa, near Ledenika Cave	primary	rpl20-rps12	43.204	23.491	9.47927683511902e-05
+Melica_uniflora	KX910037.1	29-MAR-2017	660	Bulgaria: Rila Mts., Kirilova Polyana	primary	rpl20-rps12	42.15	23.422	9.47927683511902e-05
+Melica_uniflora	KX910036.1	29-MAR-2017	660	Bulgaria: Lyulin Mts., Klisura	primary	rpl20-rps12	42.65	23.15	9.47927683511902e-05
+Melica_uniflora	KX910035.1	29-MAR-2017	660	Bulgaria: Vitosha Mts., Belata Voda	primary	rpl20-rps12	42.644	23.227	9.47927683511902e-05
+Melica_uniflora	KX910034.1	29-MAR-2017	660	Bulgaria: Western Rhodope Mts., Perperikon	primary	rpl20-rps12	41.687	25.546	9.47927683511902e-05
+Melica_uniflora	KX910033.1	29-MAR-2017	660	Bulgaria: Black Sea coast, Golden Sands	primary	rpl20-rps12	43.26	28.027	9.47927683511902e-05
+Melica_uniflora	KX910032.1	29-MAR-2017	660	Bulgaria: Vitosha Mts., Knyajevo	primary	rpl20-rps12	42.653	23.242	9.47927683511902e-05
+Melica_uniflora	KX910031.1	29-MAR-2017	660	Slovenia: Ljubljana-Podutik	primary	rpl20-rps12	46.078	14.443	9.47927683511902e-05
+Melica_uniflora	KX910030.1	29-MAR-2017	660	Germany: E Kleinsaubernitz	primary	rpl20-rps12	51.267	14.618	9.47927683511902e-05
+Melica_uniflora	KX910029.1	29-MAR-2017	660	France: Central Pyrenees, vicinity of village Cassagnas	primary	rpl20-rps12	44.249	3.975	9.47927683511902e-05
+Melica_uniflora	KX910028.1	29-MAR-2017	659	Austria: Thayatal, Hardegg	primary	rpl20-rps12	49.3792502566871	16.9598166494053	0.00151745068285281
+Melica_uniflora	KX910027.1	29-MAR-2017	660	Austria: Thayatal, Hardegg	primary	rpl20-rps12	49.4556304689649	15.3667870658002	9.47927683511902e-05
+Melica_uniflora	KX910026.1	29-MAR-2017	660	Austria: Thayatal, Hardegg	primary	rpl20-rps12	48.3314278293339	16.3854689463822	9.47927683511902e-05
+Melica_uniflora	KX910025.1	29-MAR-2017	660	Slovenia: Kamnisko-Savinjske Alpe, Krvavec Mt.	primary	rpl20-rps12	46.288	14.515	9.47927683511902e-05
+Melica_uniflora	KX910024.1	29-MAR-2017	660	Italy: Western Alps, vicinity of village Canebola	primary	rpl20-rps12	46.178	13.388	9.47927683511902e-05
+Melica_uniflora	KX910023.1	29-MAR-2017	660	Sweden: Oland, vicinity of Morbylang	primary	rpl20-rps12	56.533	16.467	9.47927683511902e-05
+Melica_uniflora	KX910022.1	29-MAR-2017	660	Austria: Vien	primary	rpl20-rps12	48.179	16.313	9.47927683511902e-05
+Melica_uniflora	KX910021.1	29-MAR-2017	664	Romania: Transilvania, Cisnadie near Sibiu	primary	rpl20-rps12	45.7128	24.1491	9.48406676783005e-05
+Melica_uniflora	KX910020.1	29-MAR-2017	660	Poland: Sudetes, Gory Kaczawskie Mts., vicinity of village Jawor, 'Wawoz Mysliborski' reserve	primary	rpl20-rps12	51.02	16.1	9.47927683511902e-05
+Melica_uniflora	KX910019.1	29-MAR-2017	660	Poland: Sudetes, Gory Kaczawskie Mts., Swiny near Bolkow	primary	rpl20-rps12	50.95	16.12	9.47927683511902e-05
+Melica_uniflora	KX910018.1	29-MAR-2017	660	Poland: Pieniny Mts., Szafranowka Mt.	primary	rpl20-rps12	49.41	20.48	9.47927683511902e-05
+Melica_uniflora	KX910017.1	29-MAR-2017	660	Poland: vicinity of Dylewo, 'Uroczysko Dylewo' reserve	primary	rpl20-rps12	53.54	19.96	9.47927683511902e-05
+Melica_uniflora	KX910016.1	29-MAR-2017	660	Poland: vicinity of Krotoszyn	primary	rpl20-rps12	51.695	17.4411	9.47927683511902e-05
+Melica_uniflora	KX910015.1	29-MAR-2017	660	Poland: Pojezierze Chodzieskie lakeland, near Wagrowiec, 'Debina' reserve	primary	rpl20-rps12	52.8	17.14	9.47927683511902e-05
+Melica_uniflora	KX910014.1	29-MAR-2017	660	Poland: Kartoszyno	primary	rpl20-rps12	54.76	18.1	9.47927683511902e-05
+Melica_uniflora	KX910013.1	29-MAR-2017	660	Poland: Pojezierze Drawskie lakeland, Moczele	primary	rpl20-rps12	53.08	15.9	9.47927683511902e-05
+Melica_uniflora	KX910012.1	29-MAR-2017	660	Poland: Western Carpathians, Beskid Wyspowy Mts., 'Bialowodzka Gora' reserve	primary	rpl20-rps12	49.68	20.62	9.47927683511902e-05
+Melica_uniflora	KX910011.1	29-MAR-2017	660	Poland: Western Carpathians, Pogorze Roznowskie foothills, Wroblowice	primary	rpl20-rps12	49.877	20.867	9.47927683511902e-05
+Melica_uniflora	KX910010.1	29-MAR-2017	660	Poland: Wyzyna Slasko-Krakowska Upland, 'Zielona Gora' reserve	primary	rpl20-rps12	50.78	19.23	9.47927683511902e-05
+Melica_uniflora	KX910009.1	29-MAR-2017	660	Poland: Wyzyna Malopolska Upland, Dubie, Widoma Mt.	primary	rpl20-rps12	50.17	19.72	9.47927683511902e-05
+Melica_uniflora	KX910008.1	29-MAR-2017	660	Germany: Hessen, vicinity of Breithardt	primary	rpl20-rps12	50.175	8.0833	9.47927683511902e-05
+Melica_uniflora	KX910007.1	29-MAR-2017	660	Czech Republic: Znojmo	secondary	rpl20-rps12	48.8554341	16.0489457	9.47927683511902e-05
+Melica_uniflora	KX910006.1	29-MAR-2017	660	Ukraine: Rastivci	secondary	rpl20-rps12	49.22424	26.09528	9.47927683511902e-05
+Melica_uniflora	KX910003.1	29-MAR-2017	660	France: Alpes Maritimes, Col du Castillon	secondary	rpl20-rps12	43.9420151	7.0202319150654	9.47927683511902e-05
+Melica_uniflora	KX910001.1	29-MAR-2017	660	Romania: Craiova	secondary	rpl20-rps12	44.3190159	23.7965614	9.47927683511902e-05
+Melica_uniflora	KX910000.1	29-MAR-2017	660	Italy: Mt. Faito, Castellamare di Stabia	secondary	rpl20-rps12	46.2394633	12.9473081	9.47927683511902e-05
+Melica_uniflora	KX909999.1	29-MAR-2017	660	Slovakia: Dubnik	secondary	rpl20-rps12	47.9585854	18.4132259	9.47927683511902e-05
+Melica_uniflora	KX909998.1	29-MAR-2017	660	Denmark: Langeland, Morkholm	secondary	rpl20-rps12	55.117718	10.9321883	0.00157857022424549
+Melica_uniflora	KX909996.1	29-MAR-2017	660	Hungary: Cserepfalu, Hor-volgy	secondary	rpl20-rps12	47.9429765	20.5360221	9.47927683511902e-05
+Melica_uniflora	KX910005.1	29-MAR-2017	660	Ukraine	secondary	rpl20-rps12	48.68832	26.17115	9.47927683511902e-05
+Melica_uniflora	KX910004.1	29-MAR-2017	660	France	secondary	rpl20-rps12	42.4794084	3.1275893	9.47927683511902e-05
+Melica_uniflora	KX909997.1	29-MAR-2017	664	Poland	secondary	rpl20-rps12	49.1783356	22.5265964	9.48406676783005e-05

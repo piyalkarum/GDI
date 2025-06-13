@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Halocnemum_strobilaceum	OQ077136.1	28-JUN-2023	542	Kazakhstan	secondary	rps16	48.2603813605438	65.6248200257065	0
+Halocnemum_strobilaceum	OQ077135.1	28-JUN-2023	542	Kazakhstan	secondary	rps16	48.648985729003	66.2473886384601	0
+Halocnemum_strobilaceum	MK937266.1	30-NOV-2020	532	Italy: Toscana	secondary	rps16	43.5396149137479	12.1796812595788	0
+Halocnemum_strobilaceum	MK937265.1	30-NOV-2020	532	Italy: Toscana	secondary	rps16	43.7899585542999	11.1806333971593	0
+Halocnemum_strobilaceum	MK937264.1	30-NOV-2020	532	Italy: Toscana	secondary	rps16	43.3491478030441	12.285393057236	0
+Halocnemum_strobilaceum	MK937263.1	30-NOV-2020	532	Italy: Toscana	secondary	rps16	44.2131150404674	11.1104648184435	0
+Halocnemum_strobilaceum	MK937254.1	30-NOV-2020	532	Italy: Ravenna	secondary	rps16	44.0880042529397	12.3741044789663	0
+Halocnemum_strobilaceum	MK937253.1	30-NOV-2020	532	Italy: Ravenna	secondary	rps16	44.3365865597987	13.3073466586917	0
+Halocnemum_strobilaceum	MK937252.1	30-NOV-2020	532	Italy: Ravenna	secondary	rps16	44.6971458104788	12.0126761054481	0
+Halocnemum_strobilaceum	MK937251.1	30-NOV-2020	532	Italy: Ravenna	secondary	rps16	44.518602094991	12.9947540176281	0

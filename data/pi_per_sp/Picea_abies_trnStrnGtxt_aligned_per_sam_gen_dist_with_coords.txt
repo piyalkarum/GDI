@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Picea_abies	JX508558.1	09-AUG-2013	626	Serbia: Predov Krst, Tara National Park	secondary	trnS-trnG	44.0408334104628	19.0239591983516	0.00355573477258393
+Picea_abies	JX508557.1	09-AUG-2013	626	Serbia: Predov Krst, Tara National Park	secondary	trnS-trnG	43.8392869292804	19.7797369906999	0.00355573477258393
+Picea_abies	JX508556.1	09-AUG-2013	626	Austria: Eisenkappel, Kaernten	secondary	trnS-trnG	46.2567881064397	13.9758763062504	0.00355573477258393
+Picea_abies	JX508555.1	09-AUG-2013	626	Austria: Eisenkappel, Kaernten	secondary	trnS-trnG	46.0044945051369	15.2206300098984	0.00355573477258393
+Picea_abies	JX508554.1	09-AUG-2013	618	Russia: Kostroma, Kostroma	secondary	trnS-trnG	57.7679158	40.9269141	0.016504854368932
+Picea_abies	JX508553.1	09-AUG-2013	626	Norway: Modalen, Hordaland	secondary	trnS-trnG	60.87969395	5.96139110582111	0.00483782582172731

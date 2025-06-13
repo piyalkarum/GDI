@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Briza_maxima	MW719273.1	04-SEP-2021	892	Brazil	secondary	matK	-10.3333333	-53.2	0.0008907891073449
+Briza_maxima	LR606929.1	25-JAN-2021	2133	France	secondary	matK	46.603354	1.8883335	0.00208625461041155
+Briza_maxima	KJ529359.1	22-FEB-2015	969	Spain	secondary	matK	39.3260685	-4.8379791	0.00445768601250991
+Briza_maxima	KJ599229.1	21-SEP-2014	506	Australia: Victoria	secondary	matK	-36.5986096	144.6780052	0.000515463917525773
+Briza_maxima	FN908048.1	17-MAY-2012	2145	Portugal:Azores	secondary	matK	37.8085564	-25.4731374	0.00208625461041155

@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viburnum_opulus	LC694859.1	03-MAY-2022	599	Japan: Gifu	primary	rbcL	36.0381	136.956	0.00070823486122719
+Viburnum_opulus	LC694236.1	03-MAY-2022	599	Japan: Gifu	primary	rbcL	36.0639	137.037	0.00070823486122719
+Viburnum_opulus	LC690457.1	03-MAY-2022	661	Japan: Iwate	primary	rbcL	39.5198	140.9192	0.00070823486122719
+Viburnum_opulus	LC689928.1	03-MAY-2022	599	Japan: Iwate	primary	rbcL	39.7306	141.4348	0.00422205754052271
+Viburnum_opulus	MK551150.1	02-MAR-2019	461	USA: New York, Cold Spring Harbor, CSHL main campus	primary	rbcL	40.51	-73.28	0.000542299349240781
+Viburnum_opulus	MG224126.1	26-DEC-2017	552	Canada: Manitoba, Spruce Woods Provincial Park, Isputinaw Self-guiding Trail	primary	rbcL	49.654	-99.25	0.000543478260869565
+Viburnum_opulus	MG224120.1	26-DEC-2017	551	Canada: Quebec, Montreal, Ile Perrot, Parc des Rainettes	primary	rbcL	45.36	-73.881	0.000544464609800363
+Viburnum_opulus	MG223402.1	26-DEC-2017	546	Canada: New Brunswick, Albert County, Hillsborough, 4757 Salem Road, Steeves Family Home and Surroundings	primary	rbcL	43.7667	-80.0667	0.000457875457875458
+Viburnum_opulus	MG223058.1	26-DEC-2017	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., S-facing slope north of North Barn.	primary	rbcL	44.031	-79.534	0.00070823486122719
+Viburnum_opulus	KX678771.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, Chilliwack, 1.3 km northeast of Young Road and Tower Toad, woods near open meadow margin	primary	rbcL	49.207	-121.954	0.000543478260869565
+Viburnum_opulus	KT695446.1	29-SEP-2015	536	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.000466417910447761
+Viburnum_opulus	KJ593750.1	17-MAR-2015	553	USA: Wisconsin, Green Bay	primary	rbcL	44.527	-87.926	0.00768299486706514
+Viburnum_opulus	KJ841657.1	04-NOV-2014	523	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 70 metres north of where North Creek enters Lac Hertel, 2 metres north-north-west of North Creek	primary	rbcL	45.548	-73.1519	0.000478011472275335
+Viburnum_opulus	KJ841656.1	04-NOV-2014	520	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. La Pre (the old orchard)	primary	rbcL	45.542	-73.161	0.00129248225796964
+Viburnum_opulus	JN892941.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.14	0.000553505535055351
+Viburnum_opulus	OQ929526.1	04-JUL-2023	746	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.00110611284531207
+Viburnum_opulus	LC617883.1	11-SEP-2021	553	Japan:Shiga, Maibara	secondary	rbcL	35.3149074	136.2901179	0.00054249547920434
+Viburnum_opulus	MH657243.1	01-AUG-2020	567	China: Xi'an Botanical Garden	secondary	rbcL	34.2088967	108.9540883	0.000542169067965348
+Viburnum_opulus	JN893691.1	07-MAR-2012	542	United Kingdom: Radnorshire	secondary	rbcL	52.4627049	-3.2561628	0.000553505535055351
+Viburnum_opulus	JN893199.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000553505535055351
+Viburnum_opulus	KP088910.1	15-MAR-2015	785	China	secondary	rbcL	39.9057136	116.3912972	0.00148973113605212

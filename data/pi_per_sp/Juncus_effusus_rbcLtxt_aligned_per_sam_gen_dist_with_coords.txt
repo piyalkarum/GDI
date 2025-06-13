@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_effusus	OL434755.1	14-NOV-2022	529	USA: Georgia	primary	rbcL	32.1174	-81.138	0.00494005520862345
+Juncus_effusus	MG227172.1	23-JAN-2018	552	Canada: Ontario, Norfolk County, Port Rowan, Bird Studies Canada - Avian Energetics Lab - 115 Front Road	primary	rbcL	42.615	-80.459	0.00492253924256212
+Juncus_effusus	MG226812.1	23-JAN-2018	518	Canada: New Brunswick, Albert County, New Horton Freshwater Marsh	primary	rbcL	45.7099	-64.6959	0.00500689380354929
+Juncus_effusus	MG226545.1	23-JAN-2018	552	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.765	-80.303	0.00492253924256212
+Juncus_effusus	KX678086.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, Cultus Lake, 1.4 km east of, 550 m due south of Liumchen Creek F.S. Road, DND lands	primary	rbcL	49.0674	-121.947	0.00492253924256212
+Juncus_effusus	HQ590146.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, open area near stream channel north of Echo Valley Cottage	primary	rbcL	44.026	-79.532	0.00508830570288438
+Juncus_effusus	KT695546.1	29-SEP-2015	545	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	42.9651319312745	-79.7638433616524	0.00485281750017318
+Juncus_effusus	KT375445.1	25-NOV-2015	496		primary	rbcL	32.36	-95.87	0.0335146423690618
+Juncus_effusus	KT695563.1	29-SEP-2015	519	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.0253087652018	-79.8259967223251	0.0050009999704574
+Juncus_effusus	KJ841367.1	04-NOV-2014	510	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. On side of Lac Hertel, between North and West Creeks	primary	rbcL	45.546	-73.155	0.00548203492291847
+Juncus_effusus	JN891057.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.2	0.00486873204540201
+Juncus_effusus	OP711202.1	26-DEC-2022	571	Mexico: Puebla	secondary	rbcL	19.1705686	-98.4123106	0.015406147092397
+Juncus_effusus	MW011002.1	27-JUL-2021	522	Canada: British Columbia	secondary	rbcL	55.001251	-125.002441	0.0139999232295291
+Juncus_effusus	MW010924.1	27-JUL-2021	452	New Zealand	secondary	rbcL	-41.5000831	172.8344077	0.00523903015766799
+Juncus_effusus	MN205071.1	30-NOV-2021	592	China	secondary	rbcL	34.7894197004591	104.876372649146	0.0370602405430424
+Juncus_effusus	MN185234.1	27-APR-2021	722	China	secondary	rbcL	34.2619807018775	105.343048215591	0.00527038119638547
+Juncus_effusus	KJ204358.1	29-JAN-2015	525	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00488575039177564
+Juncus_effusus	HM850089.1	23-JUL-2011	654	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00670749643304575
+Juncus_effusus	JN893383.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00486873204540201
+Juncus_effusus	JN893382.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00486873204540201
+Juncus_effusus	JN892606.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9875065	-1.1773256	0.00486873204540201

@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_adiantum-nigrum	MT657738.1	27-JUL-2021	1210	USA: Kauai	secondary	rbcL	22.0504666	-159.5587678	0.000838505236396318
+Asplenium_adiantum-nigrum	MK826924.1	30-APR-2020	1239	South Africa: Western Cape	secondary	rbcL	-34.0255098486084	20.9661824859368	0.000824086984169944
+Asplenium_adiantum-nigrum	MK826923.1	30-APR-2020	1239	South Africa: Western Cape	secondary	rbcL	-33.4657839546735	21.3913683145421	0.000824086984169944
+Asplenium_adiantum-nigrum	MK826607.1	30-APR-2020	1239	China: Yunnan	secondary	rbcL	24.6576248060497	101.675445697462	0.000824086984169944
+Asplenium_adiantum-nigrum	MK826603.1	30-APR-2020	1209	China: Yunnan	secondary	rbcL	25.7003011238726	102.200233166371	0.000780013395872886
+Asplenium_adiantum-nigrum	KR233931.1	04-OCT-2015	1321	Italy	secondary	rbcL	42.6384261	12.674297	0.00371538770372496
+Asplenium_adiantum-nigrum	KR233930.1	04-OCT-2015	1296	Armenia	secondary	rbcL	4.536307	-75.6723751	0.00070297290186793
+Asplenium_adiantum-nigrum	KP899629.1	01-SEP-2015	1234	Spain: Bu,Crespos	secondary	rbcL	42.8969226	-3.7835331	0.000830357690949344
+Asplenium_adiantum-nigrum	KP899628.1	01-SEP-2015	1234	Spain: O,Luarca	secondary	rbcL	43.5439003	-6.5357408	0.000830357690949344
+Asplenium_adiantum-nigrum	KF992423.1	22-JUL-2014	1263	Reunion	secondary	rbcL	-21.1309332	55.5265771	0.000921742445025847
+Asplenium_adiantum-nigrum	JX068692.1	31-MAY-2013	1315	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.00660450343185084
+Asplenium_adiantum-nigrum	JX068691.1	31-MAY-2013	1306	Yemen	secondary	rbcL	16.3471243	47.8915271	0.0016932289711749
+Asplenium_adiantum-nigrum	JX068690.1	31-MAY-2013	1113	USA: Hawaii	secondary	rbcL	19.5938015	-155.4283701	0.00250921812350047
+Asplenium_adiantum-nigrum	JX068689.1	31-MAY-2013	1315	United Kingdom	secondary	rbcL	55.2050391085116	-4.49659543226583	0.00133896922326478
+Asplenium_adiantum-nigrum	JX068688.1	31-MAY-2013	1313	United Kingdom	secondary	rbcL	54.0934949589282	-2.77068579236672	0.00116957021059849

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cirsium_arvense	MN314883.1	23-MAY-2020	713	USA	secondary	trnL-trnF	39.5913980832949	-100.574993958482	0.00261780104712042
+Cirsium_arvense	MN314882.1	23-MAY-2020	713	USA	secondary	trnL-trnF	40.0929954346342	-100.65923126943	0.00261780104712042
+Cirsium_arvense	KM385478.1	01-DEC-2014	472	Switzerland	secondary	trnL-trnF	46.7985624	8.2319736	0.00755041690905565
+Cirsium_arvense	KC969583.1	30-NOV-2013	816	USA	secondary	trnL-trnF	40.1206331369944	-100.089079735055	0.00231481481481481

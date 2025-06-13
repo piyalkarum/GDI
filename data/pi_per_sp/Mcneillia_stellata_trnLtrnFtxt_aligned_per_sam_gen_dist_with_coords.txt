@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mcneillia_stellata	LC714997.1	08-SEP-2022	402	Greece	secondary	trnL-trnF	43.793389203215	-77.5662945434301	0.0025974025974026
+Mcneillia_stellata	LC714996.1	08-SEP-2022	385	Greece	secondary	trnL-trnF	43.4824059491946	-78.7123433496074	0.000865800865800866
+Mcneillia_stellata	LC714995.1	08-SEP-2022	385	Greece	secondary	trnL-trnF	42.370133960335	-77.5499660236115	0.000865800865800866
+Mcneillia_stellata	LC714994.1	08-SEP-2022	385	Greece	secondary	trnL-trnF	43.4285194447939	-77.7340447851167	0.000865800865800866

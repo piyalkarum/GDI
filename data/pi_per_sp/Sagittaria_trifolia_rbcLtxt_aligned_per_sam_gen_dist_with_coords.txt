@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagittaria_trifolia	LC219127.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.051906333757	119.55519889954	0.128748039319204
+Sagittaria_trifolia	LC219116.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	31.0539147039393	120.445918371214	0.0101791324617412
+Sagittaria_trifolia	LC218821.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9412	120.126	0.0101791324617412
+Sagittaria_trifolia	LC541699.1	14-OCT-2020	1304	Japan: Okayama, Akaiwa	secondary	rbcL	34.7553412	134.0188207	0.011536977258681
+Sagittaria_trifolia	LC541698.1	14-OCT-2020	1310	Japan: Yamagata, Tainai	secondary	rbcL	37.898932	139.6320696	0.00985443808736012
+Sagittaria_trifolia	JF944159.1	13-DEC-2011	615	China: Heilongjiang Sheng	secondary	rbcL	47.8181868191846	128.703590640919	0.00997648081396835
+Sagittaria_trifolia	JF944158.1	13-DEC-2011	615	China: Heilongjiang Sheng	secondary	rbcL	48.4771759361135	129.109401006809	0.00997648081396835
+Sagittaria_trifolia	JF944157.1	13-DEC-2011	615	China: Shanxi	secondary	rbcL	37.1452977262049	111.46072977662	0.00997648081396835
+Sagittaria_trifolia	JF944156.1	13-DEC-2011	615	China: Shanxi	secondary	rbcL	37.6475025763514	111.805142675654	0.00997648081396835
+Sagittaria_trifolia	JF944155.1	13-DEC-2011	615	China: Yunnan	secondary	rbcL	25	102	0.00997648081396835
+Sagittaria_trifolia	JF944154.1	13-DEC-2011	598	China: Anhui	secondary	rbcL	32.708975780183	117.198386087194	0.0101555719504004
+Sagittaria_trifolia	JF944153.1	13-DEC-2011	615	China: Anhui	secondary	rbcL	31.2213649276921	117.20537790589	0.00997648081396835
+Sagittaria_trifolia	JF944152.1	13-DEC-2011	615	China: Guizhou	secondary	rbcL	27.570430195666	106.300997933838	0.00997648081396835
+Sagittaria_trifolia	JF944151.1	13-DEC-2011	615	China: Guizhou	secondary	rbcL	27.1318111354344	107.55475339717	0.00997648081396835

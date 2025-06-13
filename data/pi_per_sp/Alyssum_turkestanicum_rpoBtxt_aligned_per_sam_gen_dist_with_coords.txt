@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_turkestanicum	MW070274.1	19-APR-2021	889	Greece: Orthovouni	secondary	rpoB	40.2786359902048	21.4509895155231	0.000759301442672741
+Alyssum_turkestanicum	MW070273.1	19-APR-2021	889	Greece: Orthovouni	secondary	rpoB	40.2878434879075	22.1221018690543	0.000759301442672741
+Alyssum_turkestanicum	MW070270.1	19-APR-2021	878	Bulgaria: Ognyanovo	secondary	rpoB	44.5768775439645	27.3782066824573	0.000759301442672741
+Alyssum_turkestanicum	MW070269.1	19-APR-2021	878	Bulgaria: Ognyanovo	secondary	rpoB	43.2771952046133	27.8607155030296	0.000759301442672741

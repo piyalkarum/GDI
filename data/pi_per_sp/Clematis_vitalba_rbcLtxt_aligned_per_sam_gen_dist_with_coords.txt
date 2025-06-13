@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Clematis_vitalba	MG245925.1	21-JAN-2018	552	Canada: British Columbia, Fraser Valley, 5 km east of Agassiz, Herrling Island, northwest end	primary	rbcL	49.248	-121.699	0
+Clematis_vitalba	JN892899.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.5	-3.27	0
+Clematis_vitalba	JN891091.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.52	-3.21	0
+Clematis_vitalba	MG248885.1	21-JAN-2018	552	Canada: British Columbia, Bowen Island, near Galbraith Bay	secondary	rbcL	48.3774854270109	-123.267084316441	0
+Clematis_vitalba	MG246266.1	21-JAN-2018	552	Canada: British Columbia, The pass, Mayne Island	secondary	rbcL	49.5272068807708	-122.038222258764	0
+Clematis_vitalba	KX162903.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.000266524520255864
+Clematis_vitalba	FR865151.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.000266524520255864
+Clematis_vitalba	JN891541.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_adiantum-nigrum	KU756231.1	09-OCT-2016	523	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.000321130378933847
+Asplenium_adiantum-nigrum	KU756230.1	09-OCT-2016	520	Germany	secondary	psbA-trnH	34.895926	-83.4665496	0.000320512820512821
+Asplenium_adiantum-nigrum	KU756229.1	09-OCT-2016	520	Armenia	secondary	psbA-trnH	4.536307	-75.6723751	0.0019705314122716
+Asplenium_adiantum-nigrum	KU724269.1	04-SEP-2016	532	Spain: Caceres, Losar de la Vera	secondary	psbA-trnH	40.121961	-5.6069115	0.000321130378933847
+Asplenium_adiantum-nigrum	KU724268.1	04-SEP-2016	532	Spain: Burgos, Crespos	secondary	psbA-trnH	42.8969226	-3.7835331	0.000321130378933847
+Asplenium_adiantum-nigrum	KU724267.1	04-SEP-2016	532	Spain: Asturias, Luarca	secondary	psbA-trnH	43.5439003	-6.5357408	0.000321130378933847
+Asplenium_adiantum-nigrum	HE966497.1	18-SEP-2012	456	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.000365497076023392

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_styriaca	LT971389.1	11-FEB-2019	725	Austria	secondary	ITS2	46.7280305740851	14.4123841148694	0
+Saxifraga_styriaca	LT971388.1	11-FEB-2019	726	Austria	secondary	ITS2	46.4605131984654	13.8804055919035	0
+Saxifraga_styriaca	LT970999.1	11-FEB-2019	727	Austria	secondary	ITS2	46.6308370502482	14.9488099152765	0
+Saxifraga_styriaca	LT970998.1	11-FEB-2019	725	Austria	secondary	ITS2	47.528836985748	14.4329972833974	0

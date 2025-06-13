@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosotis_arvensis	LC439239.1	02-NOV-2019	817	Japan:Ibaraki, Tsukuba, Tsukuba Botanical Garden	primary	matK	36.101	140.1109	0.0279034297647326
+Myosotis_arvensis	AY092861.1	29-JUN-2002	883	Germany	secondary	matK	40.4203479	-79.1166983	0.0111139014478519
+Myosotis_arvensis	HM850871.1	23-JUL-2011	807	Portugal	secondary	matK	39.6621648	-8.1353519	0.0121360306320265
+Myosotis_arvensis	JN893978.1	07-MAR-2012	761	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.0118531371390199

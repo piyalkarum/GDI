@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_deltoides	JN894957.1	07-MAR-2012	805	United Kingdom: Merionethshire	primary	matK	52.85	-4.23	0.00031055900621118
+Dianthus_deltoides	HG998050.1	06-OCT-2022	2672	Germany	secondary	matK	40.9880078879975	-79.4903920852433	0.00120661635388143
+Dianthus_deltoides	KU722870.1	27-SEP-2016	837	Germany	secondary	matK	39.7432856765048	-79.6667102726334	0.00029868578255675
+Dianthus_deltoides	KU722869.1	27-SEP-2016	837	Germany	secondary	matK	41.2284497290781	-78.7599762171151	0.00029868578255675
+Dianthus_deltoides	JN895428.1	07-MAR-2012	837	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00029868578255675

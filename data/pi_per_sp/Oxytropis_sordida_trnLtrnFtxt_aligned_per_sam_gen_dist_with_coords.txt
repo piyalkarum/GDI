@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxytropis_sordida	LS991918.1	11-OCT-2018	762	Russia:Chukotka, Wrangel Island	secondary	trnL-trnF	70.8255369118473	-179.467582700735	0.00112781954887218
+Oxytropis_sordida	LS991917.1	11-OCT-2018	766	Russia:Chukotka, Wrangel Island	secondary	trnL-trnF	70.6555498217165	-180.027637450424	0.00112191473448018
+Oxytropis_sordida	LS991900.1	11-OCT-2018	765	Russia:Buryatia	secondary	trnL-trnF	53.2193672158528	108.917345819315	0.000764619155026089
+Oxytropis_sordida	LS991899.1	11-OCT-2018	765	Russia:Buryatia	secondary	trnL-trnF	52.1564067993755	109.336710017166	0.000764619155026089
+Oxytropis_sordida	LS991898.1	11-OCT-2018	765	Russia:Buryatia	secondary	trnL-trnF	51.9904650761684	109.619753107658	0.000764619155026089
+Oxytropis_sordida	LS991897.1	11-OCT-2018	765	Russia:Buryatia	secondary	trnL-trnF	52.2553142568255	109.513079616026	0.000764619155026089
+Oxytropis_sordida	LS991896.1	11-OCT-2018	765	Russia:Buryatia	secondary	trnL-trnF	52.1152305814052	109.859642184784	0.00190272103647608
+Oxytropis_sordida	LN898533.1	23-DEC-2015	706	Russia	secondary	trnL-trnF	64.6863136	97.7453061	0.00121753246753247

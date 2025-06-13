@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhaponticoides_ruthenica	MT917314.1	03-MAR-2023	789	China	secondary	COI	34.4110753327767	105.714413283944	0.637046359731858
+Rhaponticoides_ruthenica	MT930404.1	03-MAR-2023	572	China	secondary	COI	34.9605451545058	105.728255438864	0.606741459260682
+Rhaponticoides_ruthenica	MT922671.1	03-MAR-2023	748	China	secondary	COI	35.0423192644829	105.730113710961	0.384517526222176
+Rhaponticoides_ruthenica	AJ868068.1	31-OCT-2005	220	Kyrgyzstan	secondary	COI	41.7769933433402	75.2854176012882	NA
+Rhaponticoides_ruthenica	AJ868067.1	31-OCT-2005	254	Kyrgyzstan	secondary	COI	41.8657882777522	74.9896227949373	NA
+Rhaponticoides_ruthenica	AJ868066.1	31-OCT-2005	545	Kyrgyzstan	secondary	COI	42.9939202262061	74.9548552796433	0.589288191552966

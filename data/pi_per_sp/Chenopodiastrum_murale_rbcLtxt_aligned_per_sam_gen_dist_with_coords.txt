@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chenopodiastrum_murale	MK097153.1	21-MAY-2019	553	Bahrain	primary	rbcL	26.211495	50.587557	0.0636900246514524
+Chenopodiastrum_murale	KX677799.1	29-APR-2017	552	Canada: British Columbia, Capital Regional District, Oak Bay, 2744 Bowker Avenue, near Greatford Place, vacant lot, in disturbed ground near demolished home site	primary	rbcL	48.432	-123.306	0.0636900246514524
+Chenopodiastrum_murale	JQ412342.1	16-JAN-2013	552	South Africa: Western Cape, Cape Town, Robben Island	primary	rbcL	-33.808	18.377	0.0636900246514524
+Chenopodiastrum_murale	OQ392033.1	10-MAY-2023	522	Peru	secondary	rbcL	-7.06152186575651	-74.1633278029019	0.0637793781439529
+Chenopodiastrum_murale	OQ391982.1	10-MAY-2023	525	Peru	secondary	rbcL	-6.33826335576713	-74.9365145505495	0.0638684610258964
+Chenopodiastrum_murale	OQ391976.1	10-MAY-2023	522	Peru	secondary	rbcL	-6.12221036483743	-75.0528067335134	0.0637793781439529
+Chenopodiastrum_murale	OQ391788.1	10-MAY-2023	522	Peru	secondary	rbcL	-7.39284589794545	-75.6115968653516	0.0637793781439529
+Chenopodiastrum_murale	OQ391254.1	10-MAY-2023	528	Peru	secondary	rbcL	-6.62141760998325	-74.7734206203632	0.0637266494123389
+Chenopodiastrum_murale	KY884353.1	30-APR-2018	597	Portugal	secondary	rbcL	39.9901731579296	-7.75003836553339	0.511748125773966
+Chenopodiastrum_murale	MG248339.1	21-JAN-2018	552	Canada: Ontario, Oxford Co., E Oxford Tp., along Hwy 401 near intersection of Hwy 59, about 2 mi S of Woodstock.	secondary	rbcL	43.72634945	-77.7101179040839	0.0768794201402524
+Chenopodiastrum_murale	KX282654.1	28-MAY-2017	517	Kuwait	secondary	rbcL	29.2557448012181	48.9001475703084	0.0633250572486095
+Chenopodiastrum_murale	KX282653.1	28-MAY-2017	526	Kuwait	secondary	rbcL	29.4282242388219	47.7782598271596	0.0657895073924022
+Chenopodiastrum_murale	KX282652.1	28-MAY-2017	507	Kuwait	secondary	rbcL	28.5662096325865	48.0555179123227	0.063206123626331
+Chenopodiastrum_murale	KX298989.1	06-FEB-2017	710	Egypt	secondary	rbcL	26.2540493	29.2675469	0.0639308240902904
+Chenopodiastrum_murale	HM849890.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.7056231960609	-9.18961662457855	0.071631800980293
+Chenopodiastrum_murale	JQ988068.1	17-DEC-2012	569	Saudi Arabia	secondary	rbcL	25.6242618	42.3528328	0.063986509352492
+Chenopodiastrum_murale	JN891260.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.064364998048655
+Chenopodiastrum_murale	JN891259.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.064364998048655
+Chenopodiastrum_murale	HM587675.1	29-APR-2011	650	Italy: Gargano	secondary	rbcL	41.7234694	15.8239262	0.531045498866181

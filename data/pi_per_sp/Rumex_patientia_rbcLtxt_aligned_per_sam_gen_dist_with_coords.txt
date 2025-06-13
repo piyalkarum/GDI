@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_patientia	MG249238.1	21-JAN-2018	552	Canada: Ontario, City of Toronto, City of Toronto, On exposed fill in parking lot, Coxwell and Queen St.	primary	rbcL	43.667	-79.317	0.150105708245243
+Rumex_patientia	KM065421.1	01-JUL-2017	689		primary	rbcL	27.4649	99.4212	0.59452846566845
+Rumex_patientia	JF944143.1	13-DEC-2011	640	China	secondary	rbcL	35.3725651918609	105.380627156781	0.147491349480969
+Rumex_patientia	JF944142.1	13-DEC-2011	583	China	secondary	rbcL	34.3006435668747	104.975152947973	0.148465703971119
+Rumex_patientia	JF944141.1	13-DEC-2011	604	China	secondary	rbcL	34.7200687297385	104.395366037313	0.148465703971119

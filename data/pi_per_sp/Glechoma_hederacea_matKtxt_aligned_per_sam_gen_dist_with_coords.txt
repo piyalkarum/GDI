@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glechoma_hederacea	OR538515.1	17-OCT-2023	904	USA: Brother Rice High School Athletic Fields, Bloomfield Hills, MI	primary	matK	43.1734373633525	-83.531203092278	0.00105875251197436
+Glechoma_hederacea	OR538514.1	17-OCT-2023	837	USA: Brother Rice High School Athletic Fields, Bloomfield Hills, MI	primary	matK	43.2334599365463	-83.7513909359914	0.000745691006758915
+Glechoma_hederacea	OR464945.1	26-SEP-2023	903	USA: WMU Parking Lot 61, Kalamazoo, MI	primary	matK	42.4435831685493	-86.5738690155187	0.000980136159773098
+Glechoma_hederacea	OR464944.1	26-SEP-2023	840	USA: WMU Parking Lot 61, Kalamazoo, MI	primary	matK	42.3897438443987	-84.8228069511882	0.000745691006758915
+Glechoma_hederacea	KP642936.1	08-DEC-2015	751	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.892	-78.146	0.00215839975203986
+Glechoma_hederacea	MG224988.1	21-JAN-2018	777	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #2 trail	primary	matK	43.107	-79.275	0.00074640306981922
+Glechoma_hederacea	MG224878.1	21-JAN-2018	777	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Princess Point	primary	matK	43.276	-79.897	0.00074640306981922
+Glechoma_hederacea	HQ593314.1	09-NOV-2011	848	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., S of N-most trail, approx. 500 m E of Dufferin	primary	matK	44.036	-79.524	0.00123442514257161
+Glechoma_hederacea	KP402316.1	06-JAN-2016	678	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, Cumberstone Rd. - on left side of road near gate before going down the hill to the CO2 site	primary	matK	38.87	-76.551	0.00238507764018344
+Glechoma_hederacea	KP402300.1	06-JAN-2016	672	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, VINEL2 SWNE1	primary	matK	38.889	-76.551	0.000417350848385331
+Glechoma_hederacea	KJ840923.1	23-SEP-2014	780	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	matK	45.542	-73.154	0.000558003444136951
+Glechoma_hederacea	JN894126.1	07-MAR-2012	767	United Kingdom: Carmarthenshire	primary	matK	51.83	-4.14	0.000750275274381404
+Glechoma_hederacea	HM850789.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.000794131383315729
+Glechoma_hederacea	JN895162.1	07-MAR-2012	773	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00287605567370162
+Glechoma_hederacea	JN894046.1	07-MAR-2012	808	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000745691006758915
+Glechoma_hederacea	JN894045.1	07-MAR-2012	670	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00282944614285269

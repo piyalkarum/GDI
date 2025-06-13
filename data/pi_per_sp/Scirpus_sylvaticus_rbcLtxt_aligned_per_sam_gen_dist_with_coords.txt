@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scirpus_sylvaticus	OR738073.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.1109	63.55593	0
+Scirpus_sylvaticus	JN892798.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.77	-2.87	0
+Scirpus_sylvaticus	JN893782.1	07-MAR-2012	537	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Scirpus_sylvaticus	JN893781.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7523771058528	-3.68728755770885	0
+Scirpus_sylvaticus	JN892926.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.6559656281735	-3.80852618796263	0

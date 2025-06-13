@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chorispora_tenella	OR738132.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.00410004100041
+Chorispora_tenella	MG249892.1	21-JAN-2018	552	Canada: British Columbia, Okanagan, Richter Pass, E (or W?) of highway from Osoyoos, past Painted Lake	primary	rbcL	49.067	-119.583	0.00402576489533011
+Chorispora_tenella	MG246125.1	21-JAN-2018	552	Canada: British Columbia, Thompson-Okanagan, Soap Lake	primary	rbcL	50.383	-121.317	0.00402576489533011
+Chorispora_tenella	KX678840.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, South Okanagan Grassland Provincial Protected Area, roadside & just beyond fence on Nighthawk Rd.	primary	rbcL	49.014	-119.675	0.00402576489533011
+Chorispora_tenella	MT930754.1	03-MAR-2023	569	China	secondary	rbcL	35.2056758855079	105.16129698419	0.011925337439361
+Chorispora_tenella	MT930753.1	03-MAR-2023	568	China	secondary	rbcL	35.0936788795545	104.322628489816	0.00391477810622307
+Chorispora_tenella	MT930752.1	03-MAR-2023	571	China	secondary	rbcL	35.2823565670495	104.067194179394	0.0039086115094445
+Chorispora_tenella	MT930751.1	03-MAR-2023	567	China	secondary	rbcL	34.6478569294997	104.131888467518	0.0119401850764743
+Chorispora_tenella	MT930750.1	03-MAR-2023	565	China	secondary	rbcL	34.7899955482767	105.477539082678	0.00393557745280585
+Chorispora_tenella	KM892714.1	11-OCT-2018	577	China	secondary	rbcL	35.1980119000853	105.228325163709	0.0126780056658955

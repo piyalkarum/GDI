@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dipsacus_fullonum	MZ676696.1	10-AUG-2022	604	United Kingdom: England, County Durham, South facing sloped meadow	primary	rbcL	54.754	-1.5789	0.00249833176253414
+Dipsacus_fullonum	MG223557.1	26-DEC-2017	553	Canada: Ontario, Essex, Essex, Strangfield	primary	rbcL	42.1723	-82.8173	0.00013910140492419
+Dipsacus_fullonum	MG223065.1	26-DEC-2017	552	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, trailhead parking lot at end of Wiley Road	primary	rbcL	43.102	-79.272	0.000139353400222965
+Dipsacus_fullonum	MG221733.1	26-DEC-2017	552	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0.000139353400222965
+Dipsacus_fullonum	MF349771.1	21-SEP-2017	553	USA: Virginia; Springfield Bypass, at exit (cloverleaf) to Franconia Rd W, just off of I-95/395.	primary	rbcL	38.779	-77.181	0.00013910140492419
+Dipsacus_fullonum	KX678924.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, Vancouver	primary	rbcL	49.25	-123.1	0.000139353400222965
+Dipsacus_fullonum	HQ590068.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., edge of old experiment plot 200 m N of SR 19 and 400 m E of Willow Ridge	primary	rbcL	44.024	-79.535	0.000802675585284281
+Dipsacus_fullonum	KT695428.1	29-SEP-2015	514	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.000149655791679138
+Dipsacus_fullonum	JN893731.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000141924496168039
+Dipsacus_fullonum	JN890898.1	07-MAR-2012	542	United Kingdom: Monmouthshire (35)	primary	rbcL	51.51	-3.07	0.000141924496168039
+Dipsacus_fullonum	KJ204331.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000140114894213255
+Dipsacus_fullonum	JN893294.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.000141924496168039
+Dipsacus_fullonum	JN892429.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.0459163442745	-2.22130618420989	0.000141924496168039
+Dipsacus_fullonum	JN891955.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.5728700247195	-3.16741852890492	0.000141924496168039

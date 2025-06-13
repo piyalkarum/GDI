@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_aquatica	LC125244.1	03-AUG-2016	412	Japan	secondary	psbA-trnH	36.5748441	139.2394179	0.0284152279326219
+Mentha_aquatica	KP218932.1	26-APR-2015	305	Pakistan	secondary	psbA-trnH	30.3308401	71.247499	0.0240437158469945
+Mentha_aquatica	KM009034.1	22-SEP-2014	395	Cyprus	secondary	psbA-trnH	34.9174159	32.8899027	0.0275426275835818
+Mentha_aquatica	KC584963.1	04-JUN-2013	382	Italy: Umbria	secondary	psbA-trnH	42.965916	12.490236	0.0200698080279232

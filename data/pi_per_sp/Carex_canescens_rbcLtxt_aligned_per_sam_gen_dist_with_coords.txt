@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_canescens	KX678310.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, marshy area just off Nitnat Rd.	primary	rbcL	48.9126	-124.488	0.000905797101449275
+Carex_canescens	KJ841159.1	04-NOV-2014	439	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, Quebec, north-west edge of pond on East Hill	primary	rbcL	45.548	-73.1389	0.000569476082004556
+Carex_canescens	KC482257.1	25-OCT-2013	552	Canada: Yukon Territory, Yukon Mainland, Richardson Mountains, Tributary of Fish Creek, south of Vunta Creek	primary	rbcL	67.893	-136.56	0.00288007228091109
+Carex_canescens	JN965344.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, Willow fen W. of depot.	primary	rbcL	58.304	-92.982	0.000905797101449275
+Carex_canescens	JX644609.1	13-NOV-2012	1295	China: Jilin	secondary	rbcL	43.7289674	126.1997366	0.000499001996007984

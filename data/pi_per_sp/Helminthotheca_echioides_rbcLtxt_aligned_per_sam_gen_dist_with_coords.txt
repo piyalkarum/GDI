@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helminthotheca_echioides	JN890664.1	07-MAR-2012	458	United Kingdom: Monmouthshire	primary	rbcL	51.5	-3.13	0.000453514739229025
+Helminthotheca_echioides	MG223995.1	26-DEC-2017	552	Canada	secondary	rbcL	61.0666922	-107.991707	0.000373134328358209
+Helminthotheca_echioides	HM850259.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.001979178829492
+Helminthotheca_echioides	JN893613.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.000380952380952381
+Helminthotheca_echioides	JN892459.1	07-MAR-2012	529	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000390625
+Helminthotheca_echioides	JN891380.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000380952380952381

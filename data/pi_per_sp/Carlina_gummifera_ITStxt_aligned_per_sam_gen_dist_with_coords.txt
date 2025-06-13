@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carlina_gummifera	HE687372.1	04-MAY-2012	671	Morocco:Marrakech	secondary	ITS	30.7918104068311	-7.79765265186729	0.00160629776772351
+Carlina_gummifera	HE687349.1	04-MAY-2012	672	Morocco:Marrakech	secondary	ITS	31.8950201429697	-8.8641671916473	0.00117545073684932
+Carlina_gummifera	HE687343.1	04-MAY-2012	679	Morocco:Marrakech	secondary	ITS	32.3105779406555	-7.74062468388728	0.00160079751997681
+Carlina_gummifera	HE687340.1	04-MAY-2012	681	Morocco:Marrakech	secondary	ITS	31.6985350487655	-8.24429080449571	0.00117105935291641
+Carlina_gummifera	HE602381.1	14-OCT-2011	581	Morocco	secondary	ITS	28.3347722	-10.3713379	0.00258175559380379

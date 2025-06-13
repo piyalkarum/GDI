@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_flexuosa	KX677938.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Burnaby Lake Regional Park	primary	rbcL	49.248	-122.919	0.0465627778170025
+Cardamine_flexuosa	JN892704.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.69	-3.39	0.0463764157007415
+Cardamine_flexuosa	MN192566.1	30-NOV-2021	717	China	secondary	rbcL	34.2537940175544	104.821068943869	0.0452809936234285
+Cardamine_flexuosa	MN192565.1	30-NOV-2021	716	China	secondary	rbcL	35.5130375981894	104.106786145853	0.0450078357330631
+Cardamine_flexuosa	KM892713.1	11-OCT-2018	577	China	secondary	rbcL	35.4597079310006	105.55962093466	0.0458982932859388
+Cardamine_flexuosa	KM892699.1	11-OCT-2018	577	China	secondary	rbcL	35.0455226107379	105.38260246437	0.0458982932859388
+Cardamine_flexuosa	KM892687.1	11-OCT-2018	577	China	secondary	rbcL	34.803879177255	105.485681365107	0.0458982932859388
+Cardamine_flexuosa	KM892686.1	11-OCT-2018	577	China	secondary	rbcL	35.3876834222187	105.13612725796	0.0461194699837022
+Cardamine_flexuosa	KM892680.1	11-OCT-2018	577	China	secondary	rbcL	35.299444880509	104.637271837876	0.0458982932859388
+Cardamine_flexuosa	JN893084.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.0463764157007415
+Cardamine_flexuosa	JN891997.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	52.2757607622371	-3.33579926635547	0.0463764157007415
+Cardamine_flexuosa	JN891996.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.8629984992891	-3.82384332778436	0.0463764157007415
+Cardamine_flexuosa	AB247994.1	20-APR-2006	719	Japan:Tokyo, Hachioji, Minami-osawa	secondary	rbcL	35.6141378	139.3799404	0.597062628365555
+Cardamine_flexuosa	OR128485.1	29-AUG-2023	1090	South Korea	secondary	rbcL	36.94033	126.61458	0.0450651793157688
+Cardamine_flexuosa	MK044308.1	15-MAY-2019	748	South Korea	secondary	rbcL	37.7598955	126.7801502	0.0429512495129479

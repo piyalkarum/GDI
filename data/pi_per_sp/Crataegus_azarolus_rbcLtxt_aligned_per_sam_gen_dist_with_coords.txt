@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crataegus_azarolus	MN662635.1	13-OCT-2020	461	Lebanon	secondary	rbcL	40.375713	-76.4626118	0
+Crataegus_azarolus	HG765049.1	18-NOV-2013	711	Italy	secondary	rbcL	42.6445484657276	11.503680869335	0
+Crataegus_azarolus	HG765048.1	18-NOV-2013	711	Italy	secondary	rbcL	42.0093679375592	11.9757947794712	0
+Crataegus_azarolus	HG765047.1	18-NOV-2013	711	Italy	secondary	rbcL	42.8219657658559	11.9584998893164	0
+Crataegus_azarolus	HG765046.1	18-NOV-2013	711	Italy	secondary	rbcL	42.8123052034159	13.0913238550359	0

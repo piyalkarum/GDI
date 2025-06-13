@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_rotundifolium	HG516068.2	04-APR-2014	449	Slovakia:Belanske Tatry	primary	ETS	49.5560419065952	20.0774036567443	0.00519673348181143
+Leucanthemum_rotundifolium	HG516067.2	04-APR-2014	449	Slovakia:Belanske Tatry	primary	ETS	48.7766398322336	19.8736030077629	0.00519673348181143
+Leucanthemum_rotundifolium	HG516066.2	04-APR-2014	449	Slovakia:Belanske Tatry	primary	ETS	48.9918986546067	20.7570419238018	0.0066815144766147
+Leucanthemum_rotundifolium	HG516065.2	04-APR-2014	449	Slovakia:Belanske Tatry	primary	ETS	49.1404502813211	20.7417409482717	0.00519673348181143

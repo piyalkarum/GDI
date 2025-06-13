@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brachypodium_retusum	KP709871.1	28-FEB-2016	764	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.00374573615738537
+Brachypodium_retusum	KP709870.1	28-FEB-2016	765	Spain	secondary	trnL-trnF	38.6992685061044	-4.49871196045626	0.00176293754452439
+Brachypodium_retusum	KP709869.1	28-FEB-2016	765	Spain	secondary	trnL-trnF	38.9680177082864	-4.6245820016548	0.00176293754452439
+Brachypodium_retusum	KP709868.1	28-FEB-2016	765	Spain	secondary	trnL-trnF	39.1126924679278	-4.96328509643627	0.0026343972395135
+Brachypodium_retusum	KP709867.1	28-FEB-2016	765	Spain	secondary	trnL-trnF	39.8751018778396	-4.63552256171758	0.00263496756653902
+Brachypodium_retusum	KP709866.1	28-FEB-2016	764	France	secondary	trnL-trnF	46.603354	1.8883335	0.00152705061082024
+Brachypodium_retusum	JN187672.1	27-FEB-2012	744	Spain	secondary	trnL-trnF	38.9289165825802	-4.16488673047881	0.00142045454545455

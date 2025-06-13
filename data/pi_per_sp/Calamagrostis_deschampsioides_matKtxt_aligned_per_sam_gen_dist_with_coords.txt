@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_deschampsioides	KX873273.1	16-OCT-2017	681	Canada: Yukon, Blow River Delta east, Danny C. Gordon's goose camp	primary	matK	69.4833	-137.6	0.00151998800580344
+Calamagrostis_deschampsioides	KX873272.1	16-OCT-2017	822	Canada: Yukon, Blow River Delta east, Bill Storr Channel	primary	matK	69.4333	-137.35	0.000146842878120411
+Calamagrostis_deschampsioides	KC474232.1	25-OCT-2013	669	Canada: Northwest Territories, Mainland Northwest Territories, Polar Continental Shelf Project Base north of the baseball diamond	primary	matK	69.5	-133	0.000160771704180064
+Calamagrostis_deschampsioides	KC474231.1	25-OCT-2013	773	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Danny C. Gordon's goose camp	primary	matK	68.895	-136.961	0.000146842878120411
+Calamagrostis_deschampsioides	JN966158.1	27-OCT-2012	737	Canada: Manitoba, Churchill, unspecified locality, Esker. High marsh	primary	matK	59.4240133766766	-93.256405492501	0.000146842878120411
+Calamagrostis_deschampsioides	JN966156.1	27-OCT-2012	737	Canada: Manitoba, Churchill, unspecified locality, Sand spit, meadow	primary	matK	59.1963921867401	-93.177602549424	0.000146842878120411
+Calamagrostis_deschampsioides	JN966155.1	27-OCT-2012	737	Canada: Manitoba, Churchill, unspecified locality, Sand spit, wet meadow	primary	matK	58.3386845911418	-94.2758461407603	0.000146842878120411
+Calamagrostis_deschampsioides	JN966154.1	27-OCT-2012	544	Canada: Manitoba, Churchill, unspecified locality, Sand spit, meadow	primary	matK	58.8803333508834	-93.2171526561063	0.000183823529411765
+Calamagrostis_deschampsioides	JN966153.1	27-OCT-2012	728	Canada: Manitoba, Churchill, unspecified locality, Upper salt marsh	primary	matK	58.3368799188989	-94.809715708558	0.000147492625368732
+Calamagrostis_deschampsioides	JN966147.1	27-OCT-2012	737	Canada: Manitoba	primary	matK	58.734	-94.112	0.000146842878120411
+Calamagrostis_deschampsioides	JN966146.1	27-OCT-2012	737	Canada: Manitoba, Churchill, 2 km NW Churchill, Cape Merry, Organic matter and sand substrate in crevices between large, smooth and rounded quartzite rock outcrops.	primary	matK	58.3833772343954	-94.9797193268789	0.000146842878120411

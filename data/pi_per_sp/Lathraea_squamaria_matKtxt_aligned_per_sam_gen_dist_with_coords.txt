@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathraea_squamaria	JN894838.1	07-MAR-2012	789	United Kingdom: Denbighshire	primary	matK	53.11	-3.31	0.00656177104719786
+Lathraea_squamaria	MK926045.1	14-JAN-2020	743	United Kingdom	secondary	matK	54.2570149418045	-2.21832964687736	0.00692032097789055
+Lathraea_squamaria	MK925991.1	14-JAN-2020	824	United Kingdom	secondary	matK	55.1741591717602	-2.95769046203373	0.00672987747411152
+Lathraea_squamaria	MK925832.1	14-JAN-2020	817	United Kingdom	secondary	matK	54.1453091341715	-3.23806070507998	0.006769039754492
+Lathraea_squamaria	MK925799.1	14-JAN-2020	765	United Kingdom	secondary	matK	55.183171709979	-3.88414832595537	0.00821834354428699
+Lathraea_squamaria	MK925783.1	14-JAN-2020	823	United Kingdom	secondary	matK	54.4618541345896	-3.7792607000439	0.00673703744592795
+Lathraea_squamaria	JF900565.1	05-MAR-2013	1016	Germany	secondary	matK	34.895926	-83.4665496	0.0159971624468295
+Lathraea_squamaria	JN893857.1	07-MAR-2012	791	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0069490310153242
+Lathraea_squamaria	HM193524.1	24-AUG-2010	2384	Czech Republic: Malcice	secondary	matK	49.3900515	14.0445108	0.0216670128818474
+Lathraea_squamaria	AM503817.1	31-AUG-2007	1059	Italy:Trentino	secondary	matK	46.1029536	11.1297425	0.0232872204613231

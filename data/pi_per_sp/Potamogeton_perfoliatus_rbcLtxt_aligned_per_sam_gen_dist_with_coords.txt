@@ -1,0 +1,27 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_perfoliatus	OR738069.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.17416	63.47076	0.0675003047475213
+Potamogeton_perfoliatus	MF694543.1	04-SEP-2018	496	Canada: Lake Opinicon, Leeds Co., ON	primary	rbcL	44.975379924794	-77.080400725236	0.515518273097729
+Potamogeton_perfoliatus	MF694527.1	04-SEP-2018	450	Canada: Crow Lake, ON	primary	rbcL	44.9758148102793	-76.8842038784121	0.514872507790715
+Potamogeton_perfoliatus	MF694618.1	04-SEP-2018	552	Canada: Lake Opinicon, Leeds Co., ON	primary	rbcL	43.6929480366747	-76.593849901622	0.0670754419198033
+Potamogeton_perfoliatus	MF694603.1	04-SEP-2018	552	Canada: Crow Lake, ON	primary	rbcL	44.4711820292721	-78.5653991594254	0.0670754419198033
+Potamogeton_perfoliatus	JN891364.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.63	-3.48	0.066397738788474
+Potamogeton_perfoliatus	OQ754226.1	02-AUG-2023	990	Russia	secondary	rbcL	64.6863136	97.7453061	0.0709673903175204
+Potamogeton_perfoliatus	MH170926.1	28-OCT-2018	668	Turkey	secondary	rbcL	38.6546379070336	35.8757872488756	0.0691516032401683
+Potamogeton_perfoliatus	MH170925.1	28-OCT-2018	703	Turkey	secondary	rbcL	39.1216052404161	34.0987783996214	0.0685227787124572
+Potamogeton_perfoliatus	MH170924.1	28-OCT-2018	703	Turkey	secondary	rbcL	38.6501609226089	35.815663690974	0.0685227787124572
+Potamogeton_perfoliatus	MH170923.1	28-OCT-2018	703	Turkey	secondary	rbcL	39.5356261968473	34.8015178814157	0.0685227787124572
+Potamogeton_perfoliatus	MH170922.1	28-OCT-2018	703	Turkey	secondary	rbcL	38.7475254452475	34.1162660444347	0.0685227787124572
+Potamogeton_perfoliatus	FJ956826.1	30-DEC-2010	890	China: Linbao, Henan	secondary	rbcL	34.5453526	110.8795605	0.0703950146724286
+Potamogeton_perfoliatus	FJ956825.1	30-DEC-2010	890	China: Weinan, Shanxi	secondary	rbcL	34.9438597051371	110.906884390667	0.0703950146724286
+Potamogeton_perfoliatus	AB871489.1	01-MAR-2014	786	Japan	secondary	rbcL	36.5748441	139.2394179	0.507235857850811
+Potamogeton_perfoliatus	JN893623.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0.0675003047475213
+Potamogeton_perfoliatus	EU741052.1	02-JUN-2009	1335	China: Mishan, Heilongjiang	secondary	rbcL	45.2680833	131.9862176	0.0680060161941614
+Potamogeton_perfoliatus	EU741051.1	02-JUN-2009	1335	China: Weinan, Shanxi	secondary	rbcL	34.3546149265852	110.511622340919	0.0675849023333377
+Potamogeton_perfoliatus	JF943569.1	13-DEC-2011	615	China: Yunnan	secondary	rbcL	25.3579349911581	102.280021473715	0.0666670579427898
+Potamogeton_perfoliatus	JF943568.1	13-DEC-2011	615	China: Yunnan	secondary	rbcL	24.1691757887515	101.632549053529	0.0666670579427898
+Potamogeton_perfoliatus	JF943567.1	13-DEC-2011	615	China: Yunnan	secondary	rbcL	24.3216382848155	101.907407861164	0.0666670579427898
+Potamogeton_perfoliatus	JF943566.1	13-DEC-2011	615	China: Heilongjiang Sheng	secondary	rbcL	48.4649556843702	129.066277992195	0.0674018437792605
+Potamogeton_perfoliatus	JF943565.1	13-DEC-2011	615	China: Neimenggu	secondary	rbcL	43.2443242	114.3251664	0.0674018437792605
+Potamogeton_perfoliatus	JF943564.1	13-DEC-2011	615	China: Heilongjiang Sheng	secondary	rbcL	48.1604163116779	128.655716124937	0.0674018437792605
+Potamogeton_perfoliatus	JF943563.1	13-DEC-2011	615	China: Heilongjiang Sheng	secondary	rbcL	47.6067927845665	128.37482740181	0.0674018437792605
+Potamogeton_perfoliatus	AB196951.1	06-JUL-2007	1349	Japan:Shiga, Nagahama	secondary	rbcL	35.4857724	136.294057	0.0680055499580068

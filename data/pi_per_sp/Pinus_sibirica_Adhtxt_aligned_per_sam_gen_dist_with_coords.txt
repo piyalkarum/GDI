@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_sibirica	KF801006.1	12-MAR-2014	1036	China: Kanasi, Xinjiang	secondary	Adh	48.79951435	87.0272937358829	0.359260415041348
+Pinus_sibirica	KT159785.1	06-JUL-2016	433	China	secondary	Adh	34.1417533	99.5011203	0.336378249385706
+Pinus_sibirica	AB455869.1	02-MAY-2009	1223	Russia	secondary	Adh	53.61672985	108.130718573365	0.357784445000046
+Pinus_sibirica	KF801031.1	12-MAR-2014	1244	China	secondary	Adh	35.6250478	111.2209922	0.380666610655689

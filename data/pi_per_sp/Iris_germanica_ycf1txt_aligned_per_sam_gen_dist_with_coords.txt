@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_germanica	MT294591.1	24-MAR-2021	1067	Italy: Picarelli, Introdacqua, L'Aquila	secondary	ycf1	40.9423862	14.7947436	0.180708180708181
+Iris_germanica	MT294590.1	24-MAR-2021	1067	Italy: Gioia dei Marsi, L'Aquila	secondary	ycf1	41.954369	13.6934148	0.180708180708181
+Iris_germanica	MT294586.1	24-MAR-2021	1067	Italy: Barisciano, L'Aquila	secondary	ycf1	42.3254511	13.5908168	0.180708180708181
+Iris_germanica	KP089524.1	15-MAR-2015	858	India: New Delhi	secondary	ycf1	28.6138954	77.2090057	0.542124542124542

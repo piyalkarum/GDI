@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Capsella_grandiflora	FR822365.1	12-FEB-2012	849	Italy:Prov. Brescia, Pilzone / Lago Iseo	primary	rps16	46.1852108814162	10.4279899351234	0.340413412917013
+Capsella_grandiflora	FR822364.1	12-FEB-2012	767	Greece:Prov. Joannina, Metsovo	primary	rps16	39.3678846509802	21.8335756568495	0.340413412917013
+Capsella_grandiflora	FR822325.1	12-FEB-2012	452	Greece:Prov. Joannina, Metsovo	primary	rps16	39.7508917088734	20.2110905540434	0.338672768878719
+Capsella_grandiflora	FR822324.1	12-FEB-2012	452	Italy:Prov. Brescia, Pilzone / Lago Iseo	primary	rps16	46.2285355979094	10.043567538494	0.338672768878719

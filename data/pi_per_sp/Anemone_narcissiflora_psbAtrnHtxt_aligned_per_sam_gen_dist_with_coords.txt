@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anemone_narcissiflora	LC631216.1	10-NOV-2021	369	Japan:Yamanashi, Minami-alps	secondary	psbA-trnH	35.6083617	138.4649893	0.035230352303523
+Anemone_narcissiflora	MF543612.1	25-JUL-2018	406	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	psbA-trnH	45.2625476660197	6.36975834070265	0.00880758807588076
+Anemone_narcissiflora	MF543611.1	25-JUL-2018	401	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	psbA-trnH	45.6565558446467	6.41473239365674	0.00880758807588076
+Anemone_narcissiflora	MF543610.1	25-JUL-2018	402	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	psbA-trnH	46.3367551155347	6.45442492183683	0.00880758807588076
+Anemone_narcissiflora	MF543609.1	25-JUL-2018	394	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	psbA-trnH	45.8999445383782	7.46172641304285	0.00880758807588076

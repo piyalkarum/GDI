@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Capsella_bursa-pastoris	OR589136.1	28-OCT-2023	329	Kazakhstan: Qaragandy region	primary	psbA-trnH	49.49993	73.26461	0.00458180060462563
+Capsella_bursa-pastoris	MF785974.1	06-DEC-2017	372	China: Chogao Xiang, on the way from Bashong Tso to Xin Tso, near Shengdong	primary	psbA-trnH	30.00403	94.21808	0.00605299754641693
+Capsella_bursa-pastoris	HE575233.1	27-FEB-2012	360	Bulgaria:Tracian Plain, Kurtova Konare	primary	psbA-trnH	42.05	24.3	0.00460137729519325
+Capsella_bursa-pastoris	HE575232.1	27-FEB-2012	360	Bulgaria:Sozopol	primary	psbA-trnH	42.26	27.42	0.00460137729519325
+Capsella_bursa-pastoris	HE575231.1	27-FEB-2012	360	Bulgaria:Sozopol	primary	psbA-trnH	42.25	27.42	0.00460137729519325
+Capsella_bursa-pastoris	FR822346.1	12-FEB-2012	360	Russia:Novosibirskaya Oblast, near Novosibirsk	primary	psbA-trnH	52.2	82.54	0.00824016558050716
+Capsella_bursa-pastoris	FR822345.1	12-FEB-2012	360	Germany:North Rhine-Westphalia, north of Muenster	primary	psbA-trnH	52.19	7.56	0.00824016558050716
+Capsella_bursa-pastoris	FR822344.1	12-FEB-2012	360	Turkey:Prov. Antalya, Taurus Mts., Bey Daglari massif	primary	psbA-trnH	36.52	30.15	0.00824016558050716
+Capsella_bursa-pastoris	KM892564.1	11-OCT-2018	416	China	secondary	psbA-trnH	35.3414916974385	104.334475012119	0.00623448405119544
+Capsella_bursa-pastoris	KM892563.1	11-OCT-2018	416	China	secondary	psbA-trnH	35.1876788863565	104.420423048421	0.00623448405119544
+Capsella_bursa-pastoris	KM892562.1	11-OCT-2018	408	China	secondary	psbA-trnH	35.3720292430085	104.106873555914	0.0060527787529596
+Capsella_bursa-pastoris	KM892561.1	11-OCT-2018	409	China	secondary	psbA-trnH	34.6033261201009	105.879403609753	0.0043864524827896
+Capsella_bursa-pastoris	KM892560.1	11-OCT-2018	408	China	secondary	psbA-trnH	34.9104383373057	105.79159078116	0.00438774292525652
+Capsella_bursa-pastoris	FJ493269.1	22-DEC-2008	417	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.00451500635335849
+Capsella_bursa-pastoris	HE966533.1	18-SEP-2012	418	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00649326137616686

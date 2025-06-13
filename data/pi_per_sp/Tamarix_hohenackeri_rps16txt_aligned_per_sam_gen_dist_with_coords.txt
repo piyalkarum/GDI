@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_hohenackeri	KT377345.1	10-JAN-2016	791	China	primary	rps16	38.8012348968428	103.679164459491	0.363954171033817
+Tamarix_hohenackeri	KT377344.1	10-JAN-2016	792	China	primary	rps16	38.588917315169	102.847607998173	0.363954171033817
+Tamarix_hohenackeri	MH626196.1	14-AUG-2019	651	Georgia	secondary	rps16	32.3293809	-83.1137366	0.363532763532763
+Tamarix_hohenackeri	MH626195.1	14-AUG-2019	651	Iran	secondary	rps16	32.6475314	54.5643516	0.363532763532763

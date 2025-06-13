@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colchicum_bulbocodium	OQ785360.1	01-AUG-2023	699	Russia	secondary	rbcL	46.0969852250122	144.700986944501	0
+Colchicum_bulbocodium	OQ785358.1	01-AUG-2023	699	Russia	secondary	rbcL	59.5707830038966	28.688081505175	0
+Colchicum_bulbocodium	OQ785357.1	01-AUG-2023	917	Russia	secondary	rbcL	46.0585873502306	142.579700016521	0
+Colchicum_bulbocodium	OQ785355.1	01-AUG-2023	917	Russia	secondary	rbcL	60.8716915566505	29.597903957232	0

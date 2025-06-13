@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagittaria_trifolia	LC541347.1	14-OCT-2020	700	Japan: Okayama, Akaiwa	secondary	5.8S rRNA	34.7553412	134.0188207	0.00147121535181237
+Sagittaria_trifolia	LC541346.1	14-OCT-2020	700	Japan: Yamagata, Tainai	secondary	5.8S rRNA	37.898932	139.6320696	0.000476190476190476
+Sagittaria_trifolia	LC169552.1	15-JUN-2017	670	Japan:Hyogo, Inagawa-cho	secondary	5.8S rRNA	34.9463165	135.352052	0.000497512437810945
+Sagittaria_trifolia	LC169551.1	15-JUN-2017	670	Japan:Niigata, Awashimaura-mura	secondary	5.8S rRNA	38.4682247	139.2544579	0.000497512437810945

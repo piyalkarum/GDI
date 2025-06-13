@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ephedra_distachya	GU111529.1	15-NOV-2009	500	Switzerland: Sion	secondary	trnL-trnF	46.2311749	7.3588795	0
+Ephedra_distachya	GU111525.1	15-NOV-2009	500	France: St. Cyprien Plage	secondary	trnL-trnF	42.6293344	3.0312099	0
+Ephedra_distachya	GU111524.1	15-NOV-2009	500	Spain: Dehesa de Valencia	secondary	trnL-trnF	40.2444872	-6.2190944	0
+Ephedra_distachya	GU111520.1	15-NOV-2009	500	Russia: C Tuva	secondary	trnL-trnF	69.1875353	33.6332545	0
+Ephedra_distachya	GU111519.1	15-NOV-2009	500	Kazakhstan: Alma-Ata district	secondary	trnL-trnF	43.1984377	76.9103345	0
+Ephedra_distachya	GU111518.1	15-NOV-2009	500	Kazakhstan: Alimtau	secondary	trnL-trnF	41.701691	68.413399	0
+Ephedra_distachya	GU111513.1	15-NOV-2009	500	Italy: Alps	secondary	trnL-trnF	45.9081401	9.1415824	0
+Ephedra_distachya	GU111512.1	15-NOV-2009	500	Turkey: E Anatolia	secondary	trnL-trnF	39.9013857	41.2349448	0
+Ephedra_distachya	GU111511.1	15-NOV-2009	500	Kazakhstan: Novokazalinsk	secondary	trnL-trnF	45.844875	62.153023	0
+Ephedra_distachya	GU111510.1	15-NOV-2009	500	Turkey: C Anatolia	secondary	trnL-trnF	36.9494974	37.464859	0
+Ephedra_distachya	GU111506.1	15-NOV-2009	500	Ukraine: S Crimea	secondary	trnL-trnF	44.4962045	34.1673991	0

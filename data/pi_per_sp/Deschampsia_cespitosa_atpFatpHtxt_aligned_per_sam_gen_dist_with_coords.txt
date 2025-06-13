@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Deschampsia_cespitosa	KX872113.1	16-OCT-2017	590	Chile: Region II, 7 km NW of Estacion de Cebollar on HWY. 21 towards Ollaguee along Salar de Ascotan	primary	atpF-atpH	-21.4998	-68.3947	0
+Deschampsia_cespitosa	KX872112.1	16-OCT-2017	661	Canada: Saskatchewan, Cypress Hills Provincial Park, near overlook (East Park)	primary	atpF-atpH	49.6783	-109.5508	0.000384024577572965
+Deschampsia_cespitosa	KX872111.1	16-OCT-2017	626	Canada: Alberta, Banff National Park, Waterfowl Lakes trail, towards Cirque Lake	primary	atpF-atpH	51.8408	-116.6228	0
+Deschampsia_cespitosa	KX872110.1	16-OCT-2017	661	USA: California, Siskiyou Co., Southern end of Taylor Lake, Russian Wilderness	primary	atpF-atpH	41.3583	-122.9669	0
+Deschampsia_cespitosa	ON745589.1	14-MAR-2023	664	South Korea	secondary	atpF-atpH	36.638392	127.6961188	0.000384024577572965

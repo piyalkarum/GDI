@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aquilegia_vulgaris	MG249883.1	21-JAN-2018	552	Canada: Simcoe Co., ON	primary	rbcL	44.4723	-79.8297	0.000231053604436229
+Aquilegia_vulgaris	MG249755.1	21-JAN-2018	551	Canada: Quebec, Montreal, Island of Montreal, Parc Beausejour	primary	rbcL	45.527	-73.734	0.000231053604436229
+Aquilegia_vulgaris	MG247785.1	21-JAN-2018	552	Canada: Port Elgin, ON	primary	rbcL	44.433	-81.383	0.000231053604436229
+Aquilegia_vulgaris	MK925424.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.4243198748211	-2.55223665929306	0.000230627306273063
+Aquilegia_vulgaris	MK925213.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.174695022217	-3.89836378719361	0.000230627306273063
+Aquilegia_vulgaris	MK924499.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1894282341914	-2.27768876604847	0.000230627306273063
+Aquilegia_vulgaris	HM849784.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000238095238095238
+Aquilegia_vulgaris	JN892873.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00185376527649618
+Aquilegia_vulgaris	JN891523.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000230627306273063

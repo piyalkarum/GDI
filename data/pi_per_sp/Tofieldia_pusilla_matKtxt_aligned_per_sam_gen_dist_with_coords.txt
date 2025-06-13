@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tofieldia_pusilla	MZ400419.1	07-DEC-2021	862	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00146635862762115
+Tofieldia_pusilla	MG216941.1	24-JAN-2018	775	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Top of Mt. Irony.	primary	matK	55.1358	-68.7733	0.000483870967741935
+Tofieldia_pusilla	KC476052.1	25-OCT-2013	777	Canada: Nunavut, Southampton Island, Coral Harbour, Salliq (Coral Harbour). Between the graveyard and the tank farm	primary	matK	64.1333	-83.1667	0.000482833063478225
+Tofieldia_pusilla	KC476051.1	25-OCT-2013	777	Canada: Nunavut, Baffin Island, Cape Dorset, Near the airport	primary	matK	64.2333	-76.5417	0.000482833063478225
+Tofieldia_pusilla	KC476050.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, 2-3 km SE of Paulatuk	primary	matK	69.4056	-124.081	0.000482833063478225
+Tofieldia_pusilla	KC476049.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Flood plain beside creek flowing into Hornaday River	primary	matK	68.0833	-121.633	0.000482833063478225
+Tofieldia_pusilla	KC476048.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Site NE of camp, about 21 km north of coast at Coronation Gulf, 24 km NNE of point	primary	matK	68.847	-112.497	0.000482833063478225
+Tofieldia_pusilla	KC476047.1	25-OCT-2013	759	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.619	-115.493	0.000494071146245059
+Tofieldia_pusilla	KC476046.1	25-OCT-2013	774	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq, shoreline of lake beside school	primary	matK	56.608	-79.269	0.000484705319248638
+Tofieldia_pusilla	JN966714.1	27-OCT-2012	780	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0.000481286186931348
+Tofieldia_pusilla	JN966713.1	27-OCT-2012	780	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Wet lichen heath	primary	matK	58.747	-93.863	0.000481286186931348
+Tofieldia_pusilla	JN966712.1	27-OCT-2012	780	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	matK	58.629	-93.798	0.000481286186931348
+Tofieldia_pusilla	MK926270.1	14-JAN-2020	809	Iceland	secondary	matK	64.9841821	-18.1059013	0.00104082396680131
+Tofieldia_pusilla	MK925940.1	14-JAN-2020	790	Sweden	secondary	matK	59.6749712	14.5208584	0.00104733803997781
+Tofieldia_pusilla	MK925816.1	14-JAN-2020	781	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.0010463634402981
+Tofieldia_pusilla	AB541044.1	29-APR-2010	2634	Austria: Mt. Dachstein	secondary	matK	47.4217532	13.6531171	0.00242737980901215
+Tofieldia_pusilla	AB451566.1	26-JAN-2011	1461	Greenland: Disko	secondary	matK	69.7808372	-53.3682007	0.000654755361194451

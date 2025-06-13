@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctium_minus	OR465010.1	26-SEP-2023	456	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	psbA-trnH	42.28790443	-85.62073412	0
+Arctium_minus	HE966480.1	18-SEP-2012	391	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.7775038559063	12.6676747746311	0
+Arctium_minus	HE966479.1	18-SEP-2012	391	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	44.884946237254	13.3057822457582	0
+Arctium_minus	HE966478.1	18-SEP-2012	391	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.4816337680758	13.5329895688471	0

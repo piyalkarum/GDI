@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cassiope_tetragona	MZ400438.1	07-DEC-2021	771	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00800912296043703
+Cassiope_tetragona	KX677462.1	09-AUG-2017	808	Canada: British Columbia, Fraser Valley Regional District, Cascade Mountains, Mount Cheam, rocky outcrop ca. near summit	primary	matK	49.185	-121.678	0.00095610546997416
+Cassiope_tetragona	KC474423.1	25-OCT-2013	771	Canada: Nunavut, Baffin Island, Iqaluit	primary	matK	63.583	-68.7333	0.00209154925187461
+Cassiope_tetragona	KC474422.1	25-OCT-2013	770	Canada: Northwest Territories, Mainland Northwest Territoires, Paulatuk	primary	matK	69.34	-124.06	0.000915210444006256
+Cassiope_tetragona	KC474421.1	25-OCT-2013	771	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	matK	70.738	-117.762	0.000914015411612116
+Cassiope_tetragona	KC474420.1	25-OCT-2013	768	Canada: Nunavut	primary	matK	56.325	-79.228	0.000914522058823529
+Cassiope_tetragona	KC474419.1	25-OCT-2013	771	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Brock lagoon, N of Brock River Delta	primary	matK	69.467	-124.211	0.000914015411612116
+Cassiope_tetragona	KC474418.1	25-OCT-2013	771	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	matK	66.839	-108.035	0.000914015411612116
+Cassiope_tetragona	KC474417.1	25-OCT-2013	771	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.644	-115.493	0.000914015411612116
+Cassiope_tetragona	KC474416.1	25-OCT-2013	767	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	matK	68.719	-110.783	0.000914691821969988
+Cassiope_tetragona	KC474415.1	25-OCT-2013	771	Canada: Northwest Territories, Banks Island, Aulavik National Park	primary	matK	73.717	-119.917	0.000914015411612116

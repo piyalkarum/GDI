@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_lucidum	MK028090.1	17-DEC-2018	725	Greece: Ionian Islands	secondary	rbcL	37.7891384	20.7900896	0.0075540549757861
+Galium_lucidum	MK028056.1	17-DEC-2018	732	Italy: Elba Island	secondary	rbcL	42.7902166	10.3402787	0.00708861806890367
+Galium_lucidum	MK028020.1	17-DEC-2018	732	France: Corsica, Strette	secondary	rbcL	42.025492	9.3985932	0.00754902322544142
+Galium_lucidum	FR865153.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.0185185185185185

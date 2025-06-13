@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Deschampsia_cespitosa	MK800783.1	04-FEB-2020	1041	USA: Idaho, Pioneer Mountians, Hyndman Peak	primary	Adh	43.74357	-114.12403	0.193214222978548
+Deschampsia_cespitosa	MK800782.1	04-FEB-2020	1041	USA: Idaho, Pioneer Mountians, Salzburger Spitzl	primary	Adh	43.76619	-114.15839	0.193602723367049
+Deschampsia_cespitosa	MK800675.1	04-FEB-2020	489	USA: Idaho, White Cloud Mountains, D.O. Lee Peak	primary	Adh	44.10969	-114.63886	0.194940764955543
+Deschampsia_cespitosa	KT453025.1	17-FEB-2017	888	Tanzania	secondary	Adh	-6.5247123	35.7878438	0.575663995372025

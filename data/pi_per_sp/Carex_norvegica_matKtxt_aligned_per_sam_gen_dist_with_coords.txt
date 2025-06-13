@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_norvegica	FJ548127.1	25-AUG-2009	733	Canada: Nunavut, SE Baffin Island, Beekman Peninsula	primary	matK	63.55	-64.67	0.000682128240109141
+Carex_norvegica	FJ548126.1	25-AUG-2009	729	Canada: Nunavut, SW Baffin Island, E end of Dorset Island	primary	matK	64.2	-76.53	0.000685871056241427
+Carex_norvegica	FJ548125.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island, Iqaluit, between Apex and Iqaluit	primary	matK	63.74	-68.48	0.000685871056241427
+Carex_norvegica	KC474365.1	25-OCT-2013	749	Canada: Nunavut, Baffin Island, Iqaluit, Baffin Island S. Iqaluit, hills just NE of settlement	primary	matK	63.75	-68.5	0.000667556742323097
+Carex_norvegica	KC474364.1	25-OCT-2013	768	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	matK	62.857	-67.354	0.000651679942810457
+Carex_norvegica	MK926332.1	14-JAN-2020	770	United Kingdom	secondary	matK	54.8931879726134	-2.42075429594544	0.000843117190395439
+Carex_norvegica	MK925809.1	14-JAN-2020	810	United Kingdom	secondary	matK	54.8718038515351	-4.36129918965505	0.000843117190395439
+Carex_norvegica	MK925733.1	14-JAN-2020	766	United Kingdom	secondary	matK	54.220168786697	-4.57886433364454	0.00084375546653923
+Carex_norvegica	LK021920.1	24-SEP-2015	2558	Italy:Lombardia, Sondrio, Central Alps	secondary	matK	37.5665213	14.2858851	0.000843117190395439

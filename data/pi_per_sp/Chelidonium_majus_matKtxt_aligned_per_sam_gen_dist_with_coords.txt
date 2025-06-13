@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chelidonium_majus	OR738219.1	13-NOV-2023	734	Kazakhstan: East Kazakhstan region	primary	matK	50.25278	83.335	0.00666129062903197
+Chelidonium_majus	OR738187.1	13-NOV-2023	754	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.0198446498623284
+Chelidonium_majus	MG221089.1	21-JAN-2018	769	Canada: Ontario, Hamilton-Wentworth, Dundas, Rock Chapel West	primary	matK	43.2755	-79.9653	0.00201618722393654
+Chelidonium_majus	HQ593230.1	09-NOV-2011	820	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., N side of driveway to Dufferin, W of flower bed	primary	matK	44.036	-79.518	0.00213646755587407
+Chelidonium_majus	KJ840893.1	23-SEP-2014	786	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Rock outcrops near staff parking lot	primary	matK	45.538	-73.156	0.00161679548818589
+Chelidonium_majus	JN895259.1	07-MAR-2012	469	United Kingdom: Glamorgan	primary	matK	51.52	-3.2	0.00624338638910467
+Chelidonium_majus	MT930072.1	03-MAR-2023	777	China	secondary	matK	35.7086639093271	104.972936922317	0.00210300894717516
+Chelidonium_majus	MH714117.1	01-SEP-2020	783	China: Hebei	secondary	matK	39.0352150009482	116.047186539977	0.00208929258944499
+Chelidonium_majus	MH659291.1	01-AUG-2020	783	China: Hebei	secondary	matK	39.4207504017445	115.952674883399	0.00208929258944499
+Chelidonium_majus	MG769019.1	30-OCT-2018	806	South Korea	secondary	matK	36.3645637906662	126.759837618826	0.00215216782150402
+Chelidonium_majus	MG769018.1	30-OCT-2018	806	South Korea	secondary	matK	36.6068683422162	128.239937754298	0.00215216782150402
+Chelidonium_majus	MG769017.1	30-OCT-2018	806	South Korea	secondary	matK	36.2866518438858	127.634248079582	0.00215216782150402
+Chelidonium_majus	MG769016.1	30-OCT-2018	806	South Korea	secondary	matK	36.8081401327698	127.028272349626	0.00215216782150402
+Chelidonium_majus	JX087914.1	04-JUL-2013	1718	China	secondary	matK	35.4914037127185	105.6281475961	0.00250604598297403
+Chelidonium_majus	HM851025.1	23-JUL-2011	804	Portugal	secondary	matK	39.6621648	-8.1353519	0.00981226469225961
+Chelidonium_majus	JN895722.1	07-MAR-2012	779	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00218940820107415
+Chelidonium_majus	JN895508.1	07-MAR-2012	797	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00215881670885518

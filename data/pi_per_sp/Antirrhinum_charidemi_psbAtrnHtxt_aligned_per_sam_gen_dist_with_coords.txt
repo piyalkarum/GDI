@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_charidemi	HM152889.1	24-AUG-2010	258	Spain: Almeria, Vela Blanca	secondary	psbA-trnH	36.7244397	-2.1692865	0
+Antirrhinum_charidemi	HM152888.1	24-AUG-2010	258	Spain: Almeria, cerro de Santa Cruz	secondary	psbA-trnH	37.1877306	-2.7789192	0
+Antirrhinum_charidemi	HM152887.1	24-AUG-2010	258	Spain: Almeria, barranco del Sabinar	secondary	psbA-trnH	36.8414197	-2.4628135	0
+Antirrhinum_charidemi	HM152886.1	24-AUG-2010	258	Spain: Almeria, cerro de La Lobera	secondary	psbA-trnH	36.7800542	-2.1534653	0

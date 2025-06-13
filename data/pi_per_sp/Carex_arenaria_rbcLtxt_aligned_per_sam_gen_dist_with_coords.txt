@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_arenaria	JN891232.1	07-MAR-2012	537	United Kingdom: Glamorgan	primary	rbcL	51.54	-3.75	0.000465549348230912
+Carex_arenaria	JN893000.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.2693564650983	-4.45050667975987	0.000461254612546125
+Carex_arenaria	JN892994.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	52.0540051115121	-3.91376938793206	0.000461254612546125
+Carex_arenaria	JN892452.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.6463523018142	-3.39705698321456	0.000461254612546125
+Carex_arenaria	JN892341.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.9266008037421	-4.08800249710765	0.00184931318586929

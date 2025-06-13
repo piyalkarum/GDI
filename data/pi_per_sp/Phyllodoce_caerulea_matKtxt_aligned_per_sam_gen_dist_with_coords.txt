@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phyllodoce_caerulea	MZ400439.1	07-DEC-2021	856	Sweden: Latnjavagge	primary	matK	68.35	18.49	9.60338038989724e-05
+Phyllodoce_caerulea	MG225235.1	21-JAN-2018	768	Canada: Newfoundland and Labrador, Labrador, Mont Irony, End of path to Sunny Mt., beside the pond	primary	matK	55.1138	-67.2965	0.000101884870096791
+Phyllodoce_caerulea	KC475275.1	25-OCT-2013	771	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. In the vicinity of the fresh water lake in lowlands 1 km W of Kihlbay	primary	matK	56.472	-79.042	0.00010148163182464
+Phyllodoce_caerulea	KC475274.1	25-OCT-2013	771	Canada: Nunavut, Baffin Island, Iqaluit, Run-off stream between Apex and Iqaluit	primary	matK	63.7383	-68.4819	0.00010148163182464
+Phyllodoce_caerulea	KC475273.1	25-OCT-2013	771	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour. Inner basin	primary	matK	62.8367	-67.3578	0.00010148163182464
+Phyllodoce_caerulea	KC475272.1	25-OCT-2013	715	Canada: Nunavut, Baffin Island, Iqaluit, Hillside near tundra valley	primary	matK	63.7333	-68.4667	0
+Phyllodoce_caerulea	MK926138.1	14-JAN-2020	772	United Kingdom	secondary	matK	54.9145666630929	-3.71053772877102	0.000101347927434884
+Phyllodoce_caerulea	MK926016.1	14-JAN-2020	771	United Kingdom	secondary	matK	54.6126115327499	-4.20452984673922	0.00010148163182464
+Phyllodoce_caerulea	MK926015.1	14-JAN-2020	771	United Kingdom	secondary	matK	55.0401178091576	-2.43139119301664	0.00010148163182464
+Phyllodoce_caerulea	MK925938.1	14-JAN-2020	764	United Kingdom	secondary	matK	54.975900781901	-4.63985444758988	0.000101615689462453
+Phyllodoce_caerulea	MK925937.1	14-JAN-2020	771	United Kingdom	secondary	matK	55.3631898291978	-2.72094913041562	0.00010148163182464
+Phyllodoce_caerulea	MK925893.1	14-JAN-2020	768	United Kingdom	secondary	matK	54.190853655611	-2.73513976007585	0.00010148163182464
+Phyllodoce_caerulea	MK925807.1	14-JAN-2020	778	United Kingdom	secondary	matK	54.2457859952055	-2.23377049932121	0.000100948919846558
+Phyllodoce_caerulea	AB842066.1	03-JUL-2014	1247	Japan:Hokkaido, Youteisan	secondary	matK	43.4603175	143.330715792837	0.00121220263351214

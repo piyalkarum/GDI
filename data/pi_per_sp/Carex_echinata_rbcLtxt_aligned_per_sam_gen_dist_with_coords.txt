@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_echinata	MG227416.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, 8 km au SO de Labrador City	secondary	rbcL	49.7738268	-56.8821439113846	0.00186567164179104
+Carex_echinata	MG226295.1	23-JAN-2018	552	USA: Maine, Hancock Co, Schoolic Pt, Far Sern end of Schoodic Pt in large open bog	secondary	rbcL	42.1925746	-76.0610361	0.00186567164179104
+Carex_echinata	HM849852.1	23-JUL-2011	637	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0075408670931059
+Carex_echinata	JN892781.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0019047619047619
+Carex_echinata	JN892572.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.0019047619047619

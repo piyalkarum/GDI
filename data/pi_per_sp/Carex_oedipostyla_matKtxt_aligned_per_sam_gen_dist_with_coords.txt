@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_oedipostyla	MZ892033.1	12-DEC-2021	443	Spain: Barcelona	secondary	matK	41.3828939	2.1774322	0
+Carex_oedipostyla	MZ892032.1	12-DEC-2021	543	Spain: Cadiz, Alcala de los Gazules	secondary	matK	36.4618805	-5.7238891	0.000460405156537753
+Carex_oedipostyla	MZ892030.1	12-DEC-2021	516	Morocco: Tanger	secondary	matK	35.7696302	-5.8033522	0
+Carex_oedipostyla	MZ892029.1	12-DEC-2021	486	Spain: Tenerife, Canary Isl.	secondary	matK	28.2935785	-16.6214471211441	0
+Carex_oedipostyla	MN763225.1	28-JUL-2020	731	Spain: Girona	secondary	matK	41.9793006	2.8199439	0.000460405156537753

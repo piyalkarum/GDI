@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_purpureum	JN894839.1	07-MAR-2012	867	United Kingdom: Carmarthenshire	primary	matK	51.66	-4.08	0.0201978325652999
+Lamium_purpureum	OR464940.1	26-SEP-2023	905	USA: Wood Hall Greenhouse Courtyard, Kalamazoo, MI	primary	matK	42.3537594375689	-86.0252406174243	0.0087232443738472
+Lamium_purpureum	OR464939.1	26-SEP-2023	854	USA: Wood Hall Greenhouse Courtyard, Kalamazoo, MI	primary	matK	42.1961861245167	-85.247673398248	0.00880599989352459
+Lamium_purpureum	KP402396.1	06-JAN-2016	726	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, Cumberstone Rd. - on left side of road near gate before going down the hill to the CO2 site	primary	matK	38.87	-76.551	0.00852209227053561
+Lamium_purpureum	JN893926.1	07-MAR-2012	797	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.00796426349835483
+Lamium_purpureum	JN894410.1	07-MAR-2012	847	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.0205529345819605
+Lamium_purpureum	JN894407.1	07-MAR-2012	800	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0230599867889831
+Lamium_purpureum	HQ619816.1	26-DEC-2010	843	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.0106031857907594
+Lamium_purpureum	KF188569.1	26-OCT-2013	786	Poland	secondary	matK	52.00485774269	19.148082237358	0.00783927758370849
+Lamium_purpureum	KF188568.1	26-OCT-2013	786	Poland	secondary	matK	51.9817956381039	19.0187477788444	0.0104570159515012
+Lamium_purpureum	KF188567.1	26-OCT-2013	786	Poland	secondary	matK	52.0309220806279	18.9982524135125	0.00847126172365345
+Lamium_purpureum	HM850792.1	23-JUL-2011	668	Portugal	secondary	matK	39.6621648	-8.1353519	0.00964658900937104
+Lamium_purpureum	JN894408.1	07-MAR-2012	796	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00775721302129911
+Lamium_purpureum	AM503816.2	31-AUG-2007	1053	Italy:Trentino	secondary	matK	46.1029536	11.1297425	0.0097089484145464

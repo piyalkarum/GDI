@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_suber	LM653092.1	29-JUL-2014	743	France:Casteljaloux	secondary	rbcL	44.3142971	0.0880691	0.107599021935975
+Quercus_suber	FN675728.1	08-MAR-2010	743	Italy:Apulia	secondary	rbcL	40.9842539	16.6210027	0.107599021935975
+Quercus_suber	FN675727.1	08-MAR-2010	743	Italy:Latium	secondary	rbcL	41.9808038	12.7662312	0.107599021935975
+Quercus_suber	FN675726.1	08-MAR-2010	743	Italy:Liguria	secondary	rbcL	44.4777617	8.7026296	0.107599021935975
+Quercus_suber	AB125027.1	01-APR-2004	1513	Malaysia:Fraser's Hill	secondary	rbcL	3.7130484	101.7365565	0.112667012512108
+Quercus_suber	AB124975.1	01-APR-2004	758	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.540909668223706

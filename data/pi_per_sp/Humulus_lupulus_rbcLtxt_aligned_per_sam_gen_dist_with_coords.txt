@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Humulus_lupulus	OR738172.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	49.36639	83.73361	0.00432797686645404
+Humulus_lupulus	OR660049.1	06-NOV-2023	507	Kazakhstan: Qaragandy region	primary	rbcL	49.43775	75.48958	0.00100528705888945
+Humulus_lupulus	OR464892.1	26-SEP-2023	616	USA: Bishop's Bog Preserve, Portage, MI	primary	rbcL	42.18445548	-85.59138933	0.000893966632496021
+Humulus_lupulus	MW497160.1	18-MAY-2022	553	United Kingdom: England, South Yorkshire	primary	rbcL	53.5701	-1.0229	0.000796136256138094
+Humulus_lupulus	MG248647.1	21-JAN-2018	552	Canada: Manitoba, Cypress River Rest Area	primary	rbcL	49.562	-99.084	0.00150262266487329
+Humulus_lupulus	MG246325.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.045	-100.911	0.00150262266487329
+Humulus_lupulus	KX678583.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, Camosun St., near Pacific Spirit Park	primary	rbcL	49.24	-123.197	0.000797176792842026
+Humulus_lupulus	KX678465.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, University Endowment Lands, south of 16th Avenue, at entrance to Nature Trail	primary	rbcL	49.258	-123.214	0.000797176792842026
+Humulus_lupulus	JN892729.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.55	-3.21	0.000807621870118886
+Humulus_lupulus	OQ189673.1	13-JUN-2023	817	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0.000938319019874599
+Humulus_lupulus	MT931905.1	03-MAR-2023	569	China	secondary	rbcL	35.1910601116391	104.166964607662	0.00149312711570751
+Humulus_lupulus	MN192825.1	30-NOV-2021	723	China	secondary	rbcL	34.5341752816318	105.101423041239	0.00215646316415218
+Humulus_lupulus	MH657715.1	01-AUG-2020	577	China: Hebei	secondary	rbcL	39.0000001	116	0.00228566218570941
+Humulus_lupulus	JN893093.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.6388960436461	-2.25252773991718	0.000807621870118886
+Humulus_lupulus	JN893090.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.2794984378917	-3.1384990607797	0.000807621870118886
+Humulus_lupulus	JN892585.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.000807621870118886
+Humulus_lupulus	FN689369.1	19-MAR-2010	670	Italy:Umbria	secondary	rbcL	42.965916	12.490236	0.00200543211817898

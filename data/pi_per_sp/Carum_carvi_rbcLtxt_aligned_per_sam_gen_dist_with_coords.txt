@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carum_carvi	MG221593.1	26-DEC-2017	552	Canada: Manitoba, Gillam	primary	rbcL	56.348	-94.698	0.00231884057971014
+Carum_carvi	MF786691.1	06-DEC-2017	553	China: Xizang, Chogao Xiang, on the way from Bashong Tso to Xin Tso, near Shengdong	primary	rbcL	30.00403	94.21808	0.00231665662045409
+Carum_carvi	KX677819.1	29-APR-2017	551	Canada: British Columbia, Metro Vancouver Regional District, Surrey, among weeds under Pattullo Bridge	primary	rbcL	49	-122	0.00232315290727477
+Carum_carvi	KU499883.1	05-JUL-2016	645	Egypt	primary	rbcL	30.0303	31.1956	0.0124203997643413
+Carum_carvi	OR290943.1	19-SEP-2023	497	Egypt	secondary	rbcL	26.2540493	29.2675469	0.00247169785884486
+Carum_carvi	OQ189701.1	13-JUN-2023	838	Latvia	secondary	rbcL	56.8406494	24.7537645	0.00231997404224848
+Carum_carvi	MT930266.1	03-MAR-2023	572	China	secondary	rbcL	35.8315080481626	104.790993698855	0.0022785405335103
+Carum_carvi	MT930265.1	03-MAR-2023	569	China	secondary	rbcL	35.0348485624035	104.50425535907	0.0146269856750716
+Carum_carvi	MN192454.1	30-NOV-2021	641	China	secondary	rbcL	35.5734220112496	105.52893873471	0.00217312416119626
+Carum_carvi	MK925343.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8629471177779	-3.49797712527219	0.0023649020536898
+Carum_carvi	MK924777.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0761467000788	-1.93869128650868	0.0023649020536898
+Carum_carvi	MK924532.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0.0023649020536898
+Carum_carvi	KT280085.1	01-AUG-2016	673	China: Maqu Gansu	secondary	rbcL	34.6137382	102.4654149	0.00216941490274529

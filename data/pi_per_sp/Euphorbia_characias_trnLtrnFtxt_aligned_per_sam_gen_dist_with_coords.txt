@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_characias	OQ230306.1	14-MAR-2023	1494	Spain	primary	trnL-trnF	42.56083	0.463055	0.00291491019819885
+Euphorbia_characias	OQ230305.1	14-MAR-2023	1511	Greece	primary	trnL-trnF	40.97694	21.94722	0.00336565907662068
+Euphorbia_characias	OQ230304.1	14-MAR-2023	1485	Italy	primary	trnL-trnF	41.65916	15.60277	0.00247004335054649
+Euphorbia_characias	OQ230303.1	14-MAR-2023	1485	Turkey	primary	trnL-trnF	36.87416	30.48583	0.00247004335054649

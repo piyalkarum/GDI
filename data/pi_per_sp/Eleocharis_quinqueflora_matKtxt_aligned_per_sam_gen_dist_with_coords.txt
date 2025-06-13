@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eleocharis_quinqueflora	JN893900.1	07-MAR-2012	837	United Kingdom: Glamorgan	primary	matK	51.49	-3.73	0.000821118936347608
+Eleocharis_quinqueflora	MF963686.1	10-OCT-2017	901	USA: Tulare Co, CA	secondary	matK	36.3286877	-119.3192268	0.00168202397242437
+Eleocharis_quinqueflora	JN896147.1	07-MAR-2012	803	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.000838575750287964
+Eleocharis_quinqueflora	JN896145.1	07-MAR-2012	821	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00167186808820527

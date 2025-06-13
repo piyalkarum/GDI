@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arthrocaulon_macrostachyum	OQ851354.1	14-AUG-2023	436	Egypt	primary	rbcL	31.5722	30.9549	0.47791458575452
+Arthrocaulon_macrostachyum	KY884395.1	30-APR-2018	592	Jordan: Amman	secondary	rbcL	31.9515694	35.9239625	0.186408731845276
+Arthrocaulon_macrostachyum	KY656737.1	23-JAN-2018	711	Egypt	secondary	rbcL	26.2540493	29.2675469	0.44521794920974
+Arthrocaulon_macrostachyum	KU975275.1	09-MAR-2017	680	Spain: Canary Islands	secondary	rbcL	28.2863989	-16.7960118	0.185175059967829
+Arthrocaulon_macrostachyum	KU975274.1	09-MAR-2017	680	Portugal: Algarve, Laguna Alvor, Portimao	secondary	rbcL	37.2447167	-8.15053875890853	0.185175059967829
+Arthrocaulon_macrostachyum	EU484419.1	28-FEB-2009	668	Spain	secondary	rbcL	40.1372638248723	0.278894618891244	0.184594208954036
+Arthrocaulon_macrostachyum	DQ340101.1	20-JAN-2007	754	Spain	secondary	rbcL	40.3551424743427	1.59551249105922	0.185175059967829

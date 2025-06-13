@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Muscari_baeticum	AM260554.1	10-JAN-2009	633	Spain:Granada,Sierra de Cazulas	secondary	ITS2	36.3669234074489	-3.34079633650457	0.00515317807660038
+Muscari_baeticum	AM260553.1	10-JAN-2009	634	Spain:Granada,Sierra de Cazulas	secondary	ITS2	36.5231449874473	-3.15703970898956	0.00277280046452843
+Muscari_baeticum	AM260552.1	10-JAN-2009	634	Spain:Granada,Sierra de Cazulas	secondary	ITS2	36.9078905073892	-4.70962574349403	0.00514751175708233
+Muscari_baeticum	AM260551.1	10-JAN-2009	634	Spain:Granada,Sierra de Cazulas	secondary	ITS2	37.3079732728084	-3.65853492813597	0.00277280046452843
+Muscari_baeticum	AM260550.1	10-JAN-2009	628	Spain:Granada,Sierra de Cazulas	secondary	ITS2	36.7654581159419	-2.59435315483177	0.00637260130639279

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calligonum_aphyllum	OR737996.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	49.23311	64.45108	0.0894238389024206
+Calligonum_aphyllum	MT931187.1	03-MAR-2023	569	China	secondary	rbcL	34.4435383384539	105.212706421834	0.0301353013530135
+Calligonum_aphyllum	KF585053.1	01-DEC-2013	507	China	secondary	rbcL	35.5059888475075	104.919464429447	0.0296442687747036
+Calligonum_aphyllum	KF585052.1	01-DEC-2013	507	China	secondary	rbcL	34.6783944035451	105.235874869252	0.0296442687747036

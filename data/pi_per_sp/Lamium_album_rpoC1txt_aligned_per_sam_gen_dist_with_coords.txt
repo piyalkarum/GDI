@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_album	KF055175.1	26-OCT-2013	701	Poland	secondary	rpoC1	51.3473693389873	19.4384278358596	0
+Lamium_album	JX073994.1	18-OCT-2013	701	Poland	secondary	rpoC1	51.5638783886122	18.6710517843273	0
+Lamium_album	JX073993.1	18-OCT-2013	701	Poland	secondary	rpoC1	51.8828435515996	19.6359022829348	0
+Lamium_album	JX073992.1	18-OCT-2013	701	Poland	secondary	rpoC1	51.9313926749304	20.298363184336	0

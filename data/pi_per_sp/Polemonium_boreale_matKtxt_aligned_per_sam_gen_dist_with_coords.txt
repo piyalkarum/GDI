@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polemonium_boreale	KC475431.1	25-OCT-2013	737	Canada: Northwest Territories, Banks Island, Aulavik National Park	primary	matK	73.817	-119.867	0.000540248514316586
+Polemonium_boreale	KC475430.1	25-OCT-2013	757	Canada: Northwest Territories, Banks Island, Aulavik National Park	primary	matK	73.717	-119.917	0.000540248514316586
+Polemonium_boreale	KC475429.1	25-OCT-2013	759	Canada: Northwest Territories, Banks Island, Masik River, Masik River Valley, hills on S side of valley, SSW of large oblong lake	primary	matK	71.5833	-123.171	0.000540248514316586
+Polemonium_boreale	KC475428.1	25-OCT-2013	617	Canada: Northwest Territories, Banks Island, Sachs Harbour	primary	matK	72	-125	0.00162074554294976

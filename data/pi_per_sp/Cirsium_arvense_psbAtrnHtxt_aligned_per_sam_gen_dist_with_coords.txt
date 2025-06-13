@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cirsium_arvense	OR538520.1	17-OCT-2023	452	USA: Brother Rice High School Athletic Fields, Bloomfield Hills, MI	primary	psbA-trnH	42.53497226	-83.25992407	0.00525706318363188
+Cirsium_arvense	OR465004.1	26-SEP-2023	449	USA: Bishop's Bog Preserve, Portage, MI	primary	psbA-trnH	42.1835587	-85.59452073	0.00377269352770466
+Cirsium_arvense	MN275411.1	29-MAR-2020	485	USA	secondary	psbA-trnH	39.5783971926953	-100.259188614416	0.00377248785826664
+Cirsium_arvense	MN275410.1	29-MAR-2020	485	USA	secondary	psbA-trnH	39.8261925311473	-100.700129960927	0.00377248785826664

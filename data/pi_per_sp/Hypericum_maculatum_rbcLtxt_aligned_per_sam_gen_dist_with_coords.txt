@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypericum_maculatum	MG248454.1	21-JAN-2018	552	Canada: Guelph Arbo	primary	rbcL	43.4473400044648	-79.9281345025679	0
+Hypericum_maculatum	MG247484.1	21-JAN-2018	552	Canada: Guelph Arbo.	primary	rbcL	43.6985831038695	-79.1476947986035	0
+Hypericum_maculatum	MG247112.1	21-JAN-2018	552	Canada: Guelph Arbo.	primary	rbcL	43.397688380808	-79.730501027856	0
+Hypericum_maculatum	JN890600.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.56	-3.21	0
+Hypericum_maculatum	MK925447.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3146406647542	-2.0216806024199	0
+Hypericum_maculatum	MK925021.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9805849695626	-2.10261050475272	0
+Hypericum_maculatum	MK924503.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7040970196343	-2.1732988412921	0
+Hypericum_maculatum	JN892622.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.6623851681956	-4.89840932561044	0
+Hypericum_maculatum	JN892621.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Hypericum_maculatum	JN892619.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.6378398056255	-4.22027822858751	0

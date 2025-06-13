@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_caprea	LN734812.1	28-JAN-2015	551	Czech Republic:South Bohemia	secondary	ITS	49.7441551028453	14.9600707648017	0.00302480338777979
+Salix_caprea	LN734811.1	28-JAN-2015	551	Czech Republic:South Bohemia	secondary	ITS	49.3086578388447	15.0392897197099	0.00302480338777979
+Salix_caprea	HE800878.1	05-JUN-2012	620	Russia:Primorye	secondary	ITS	43.1102126	131.878969	0.00873777881857034
+Salix_caprea	FR744741.1	08-FEB-2011	620	Russia:Kamchatka	secondary	ITS	57.1914882	160.0383819	0.00268817204301075

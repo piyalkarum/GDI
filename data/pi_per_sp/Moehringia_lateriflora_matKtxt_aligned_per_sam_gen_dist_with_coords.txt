@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Moehringia_lateriflora	JN966379.1	27-OCT-2012	751	Canada: Manitoba, Churchill, Wapusk National Park, York Factory	primary	matK	57.003	-92.304	0.00033288948069241
+Moehringia_lateriflora	OQ172387.1	18-JUN-2023	761	South Korea	secondary	matK	36.8166704279086	127.98126355049	0.00131843481577782
+Moehringia_lateriflora	OQ172386.1	18-JUN-2023	761	South Korea	secondary	matK	36.0819563832565	128.525222387138	0.000328515111695138
+Moehringia_lateriflora	OQ172385.1	18-JUN-2023	761	South Korea	secondary	matK	36.5312729349687	128.617060577762	0.000328515111695138
+Moehringia_lateriflora	OQ172384.1	18-JUN-2023	761	South Korea	secondary	matK	36.2343114563215	126.890240459415	0.000328515111695138

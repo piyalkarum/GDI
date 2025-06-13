@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kundmannia_sicula	HE687375.1	04-MAY-2012	677	Morocco:Marrakech	secondary	ITS	31.3779137467186	-7.29184549323495	0.00298974911429238
+Kundmannia_sicula	HE687363.1	04-MAY-2012	670	Morocco:Marrakech	secondary	ITS	31.7832547556438	-7.14323730158207	0.00300757304186479
+Kundmannia_sicula	HE687337.1	04-MAY-2012	678	Morocco:Marrakech	secondary	ITS	31.9954382383838	-8.56014332015327	0.00498876758723108
+Kundmannia_sicula	HE602465.1	14-OCT-2011	665	Morocco	secondary	ITS	28.3347722	-10.3713379	0.00702359216291105

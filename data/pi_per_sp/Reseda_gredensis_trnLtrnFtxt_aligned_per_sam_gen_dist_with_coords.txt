@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Reseda_gredensis	GQ891185.1	30-SEP-2010	729	Portugal: Serra da Estrela	secondary	trnL-trnF	40.32	-7.62	0.000914494741655235
+Reseda_gredensis	GQ891184.1	30-SEP-2010	729	Spain: Salamanca, Sierra de Bejar	secondary	trnL-trnF	40.3471169	-5.687645	0.000914494741655235
+Reseda_gredensis	GQ891183.1	30-SEP-2010	729	Spain: Avila, Sierra de Gredos	secondary	trnL-trnF	40.2913423	-5.1748163	0.000914494741655235
+Reseda_gredensis	GQ891182.1	30-SEP-2010	729	Spain: Avila, Burgohondo-Piedralaves	secondary	trnL-trnF	40.656478	-4.7002172	0.000914494741655235

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Torilis_japonica	KX677348.1	09-AUG-2017	810	Canada: British Columbia, Cowichan Valley Regional Distrct, Valdes Island, northwest side of island, opposite south end of De Courcy Island, little bay, 100 m east of seashore, trackside water pool on grassy bank	primary	matK	49.093	-123.689	0.000966494845360825
+Torilis_japonica	JN893951.1	07-MAR-2012	767	United Kingdom: Glamorgan	primary	matK	51.63	-4.25	0.000325945241199478
+Torilis_japonica	MN273540.1	30-NOV-2021	862	China	secondary	matK	35.000074	104.999927	0.00256357567646196
+Torilis_japonica	JN895300.1	07-MAR-2012	814	United Kingdom: Glamorgan	secondary	matK	50.8113960992409	-4.110437469021	0.000307125307125307
+Torilis_japonica	JN895299.1	07-MAR-2012	820	United Kingdom: Glamorgan	secondary	matK	51.6054619904008	-3.2883389316281	0.00096401028277635

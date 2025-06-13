@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_glacialis	MG227992.1	23-JAN-2018	668	Canada: Nunavut, Dorset Island, near SW Banks Island, Dorset Island	primary	rbcL	64.4500886770875	-75.1917858115782	0.0200186043537155
+Carex_glacialis	MG227097.1	23-JAN-2018	674	Canada: Nunavut, Baffin Island, Iqaluit, causeway to Inuit Head	primary	rbcL	63.09860650711	-68.159301888356	0.00361897490360739
+Carex_glacialis	MG227075.1	23-JAN-2018	552	USA: Alaska, Lime Hills Quad, Nushagak Big Riv Hills, Lime Hills, large ridge S of Stony Riv	primary	rbcL	61.3333	-155.567	0.00276397177031705
+Carex_glacialis	FJ548260.1	25-AUG-2009	674	Canada: Nunuavut, Baffin Island, Iqaluit, causeway to Inuit Head	primary	rbcL	63.5811297020204	-68.6736142407977	0.00361897490360739
+Carex_glacialis	FJ548259.1	25-AUG-2009	668	Canada: Northwest Territories, SW Baffin Island, Dorset Island, SW part of Cape Dorset Island	primary	rbcL	64.3881458695256	-77.7280337256927	0.0200186043537155
+Carex_glacialis	FJ548258.1	25-AUG-2009	496	Canada: Nunuavut, Baffin Island	primary	rbcL	71.38	-79.73	0.00774617996604414
+Carex_glacialis	KC482279.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk. Behind Northern Store/Hotel/Parks Canada building (Paulatuk Centre)	primary	rbcL	69.4667	-124.211	0.00276397177031705
+Carex_glacialis	KC482278.1	25-OCT-2013	552	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park, Buckland Hills, NW part	primary	rbcL	69.417	-139.633	0.00276397177031705
+Carex_glacialis	KC482277.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	rbcL	68.064	-121.603	0.00276397177031705
+Carex_glacialis	KC482276.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Sand dunes E of Kuujua River, 2 km S of on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.244	-116.528	0.00276397177031705
+Carex_glacialis	KC482275.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	rbcL	69.45	-124.197	0.00276397177031705
+Carex_glacialis	KC482274.1	25-OCT-2013	505	Canada: Nunavut, Arctic Mainland, West Hudson Bay, McConnell River System	primary	rbcL	61	-94.46	0.00281963892484325
+Carex_glacialis	KC482273.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Katapik. Area from coast up to top of rocky ridge behind	primary	rbcL	56.733	-79.383	0.00276397177031705
+Carex_glacialis	JN965368.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 5 km E Churchill, Miss Piggy, Dryas heath with willow	primary	rbcL	58.757	-94.074	0.00276397177031705
+Carex_glacialis	JN965367.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, Thompson Point, Beach ridges in sand amongst Leymus mollis and Dryas integrifolia	primary	rbcL	58.335	-93.018	0.00276397177031705
+Carex_glacialis	JN965366.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	56.8577944001896	-90.8678217008402	0.00276397177031705
+Carex_glacialis	JN965365.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	56.3979230156228	-92.4561123106111	0.00276397177031705
+Carex_glacialis	JN965364.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.6868209081868	-92.9582138741982	0.00276397177031705
+Carex_glacialis	JN965363.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.0979143484689	-92.4386513365841	0.00276397177031705
+Carex_glacialis	MG227631.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Strait of Belle Isle Dist, Great Nern Peninsula, Cape Norman, near pond S of lighthouse	secondary	rbcL	49.7738268	-56.8821439113846	0.00276397177031705

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dodartia_orientalis	OR575199.1	25-OCT-2023	794	Kazakhstan: Qaragandy region	primary	matK	47.43832	74.81248	0.00317231938375792
+Dodartia_orientalis	MT929834.1	03-MAR-2023	828	China	secondary	matK	34.5997314378369	105.303328018758	0.00248244065546441
+Dodartia_orientalis	MT929833.1	03-MAR-2023	784	China	secondary	matK	35.0825075197946	104.350241414024	0.0022333646102119
+Dodartia_orientalis	MT929832.1	03-MAR-2023	783	China	secondary	matK	35.3143362614785	104.220423766802	0.00319284802043423
+Dodartia_orientalis	MK392230.1	10-JUN-2019	1696	China	secondary	matK	35.5017862384852	105.451260155896	0.00342380796548897

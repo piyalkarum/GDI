@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fumaria_parviflora	OQ289914.1	16-MAY-2023	808	Mexico: Puebla	secondary	matK	19.1705686	-98.4123106	0
+Fumaria_parviflora	MK926378.1	14-JAN-2020	729	United Kingdom	secondary	matK	55.1362982932603	-2.06171183072257	0
+Fumaria_parviflora	MK926065.1	14-JAN-2020	778	United Kingdom	secondary	matK	55.1759026612007	-4.26099534138693	0
+Fumaria_parviflora	MK925773.1	14-JAN-2020	765	United Kingdom	secondary	matK	54.2500932022759	-3.37124683127409	0
+Fumaria_parviflora	MK925720.1	14-JAN-2020	793	United Kingdom	secondary	matK	54.6370735398175	-1.93568692838721	0

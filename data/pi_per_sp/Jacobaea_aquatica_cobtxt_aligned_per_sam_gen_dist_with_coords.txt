@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_aquatica	KX166364.1	11-MAY-2016	449	United Kingdom	primary	cob	52.404903	-4.038829	0.319648980691277
+Jacobaea_aquatica	KT250110.1	09-AUG-2015	820	Romania	secondary	cob	45.6250266410823	25.208942881928	0.519891584745949
+Jacobaea_aquatica	KT249916.1	09-AUG-2015	636	Romania	secondary	cob	46.4251970260391	23.8104320369847	0.309446873538349
+Jacobaea_aquatica	HM850080.1	23-JUL-2011	1363	Portugal	secondary	cob	39.6621648	-8.1353519	0.554231489493476
+Jacobaea_aquatica	JX895114.1	19-DEC-2012	242	Spain: Cosgaya, collado Llesba hacia Valdeloso	secondary	cob	43.0505475385032	-4.53516722423207	0.541178373304727
+Jacobaea_aquatica	JX895041.1	19-DEC-2012	414	Spain: Cosgaya, collado Llesba hacia Valdeloso	secondary	cob	42.90734647288	-5.84086361157846	0.591553419395147
+Jacobaea_aquatica	JX894969.1	19-DEC-2012	431	Spain: Cosgaya, collado Llesba hacia Valdeloso	secondary	cob	43.3913174753888	-4.64926592952207	0.618973725575693
+Jacobaea_aquatica	JX894896.1	19-DEC-2012	477	Spain: Cosgaya, collado Llesba hacia Valdeloso	secondary	cob	42.9205506356662	-4.16763317004076	0.586871245572602
+Jacobaea_aquatica	JX895228.1	17-DEC-2012	748	Spain: Cosgaya, collado Llesba hacia Valdeloso	secondary	cob	43.4881360973194	-5.76131589630734	0.313964596862179
+Jacobaea_aquatica	JX895227.1	17-DEC-2012	704	Spain: Cosgaya, collado Llesba hacia Valdeloso	secondary	cob	42.3191599099649	-5.22044100460062	0.311511872015119
+Jacobaea_aquatica	JX895226.1	17-DEC-2012	748	Spain: Cosgaya, collado Llesba hacia Valdeloso	secondary	cob	42.6605295434298	-5.11877416434642	0.314021638546626
+Jacobaea_aquatica	JX895225.1	17-DEC-2012	748	Spain: Cosgaya, collado Llesba hacia Valdeloso	secondary	cob	42.521088379799	-5.05257115133692	0.315721791057273
+Jacobaea_aquatica	JX895224.1	17-DEC-2012	748	Spain: Cosgaya, collado Llesba hacia Valdeloso	secondary	cob	42.9706299533349	-4.40251827841159	0.316070292338032
+Jacobaea_aquatica	JX895223.1	17-DEC-2012	748	Spain: Cosgaya, collado Llesba hacia Valdeloso	secondary	cob	43.3238561731548	-5.33530196226005	0.31461766514406
+Jacobaea_aquatica	JX895222.1	17-DEC-2012	748	Spain: Cosgaya, collado Llesba hacia Valdeloso	secondary	cob	42.9712890839062	-5.55302766380706	0.316372106923688
+Jacobaea_aquatica	JN894726.1	07-MAR-2012	783	United Kingdom: Glamorgan	secondary	cob	52.102189000272	-2.71432377691933	0.522314112987763
+Jacobaea_aquatica	JN894078.1	07-MAR-2012	785	United Kingdom: Cardiganshire	secondary	cob	52.6403281902667	-4.37127247178961	0.521292151288861
+Jacobaea_aquatica	JN893271.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	cob	51.7352290414151	-4.31413167598513	0.56925967180138
+Jacobaea_aquatica	JN893262.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	cob	52.0268199455871	-3.67821096442969	0.56925967180138
+Jacobaea_aquatica	FJ556954.1	17-FEB-2009	636	Germany: Hamburg, Elbe	secondary	cob	53.5385896	9.923903	0.309686776882059
+Jacobaea_aquatica	FJ556949.1	17-FEB-2009	636	Sweden: Kungaelv	secondary	cob	57.8406887083615	11.7032189890113	0.309686776882059
+Jacobaea_aquatica	FJ556948.1	17-FEB-2009	636	Sweden: Kungaelv	secondary	cob	58.7611524532541	12.0084675257462	0.309686776882059
+Jacobaea_aquatica	FJ556956.1	10-FEB-2009	502	Sweden: Kungaelv	secondary	cob	58.1900905812016	10.7365805494076	0.549004118367748
+Jacobaea_aquatica	FJ556955.1	10-FEB-2009	502	Sweden: Kungaelv	secondary	cob	57.3120548093414	12.6351194494178	0.549004118367748

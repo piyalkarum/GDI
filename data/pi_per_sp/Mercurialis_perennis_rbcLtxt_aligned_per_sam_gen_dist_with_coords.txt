@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mercurialis_perennis	MZ676675.1	10-AUG-2022	556	United Kingdom: England, County Durham, Blaid's Woods, Durham	primary	rbcL	54.7542	-1.5779	0.000475285171102662
+Mercurialis_perennis	JN890833.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0
+Mercurialis_perennis	FR865155.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.000475285171102662
+Mercurialis_perennis	JN891854.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Mercurialis_perennis	JN891851.1	07-MAR-2012	535	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0

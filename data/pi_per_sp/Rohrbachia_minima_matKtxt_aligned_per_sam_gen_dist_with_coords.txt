@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rohrbachia_minima	MN492743.1	30-NOV-2021	798	China	secondary	matK	34.8535602132956	104.368505731257	0.0223584184033322
+Rohrbachia_minima	MN492742.1	30-NOV-2021	790	China	secondary	matK	34.3538558470693	104.548968626325	0.0261596942393125
+Rohrbachia_minima	MF543561.1	31-JUL-2018	823	Italy: Aosta Valley, Nus, Rovarey	secondary	matK	45.592583565502	6.44037020596755	0.0150302514097744
+Rohrbachia_minima	MF543560.1	31-JUL-2018	829	Italy: Aosta Valley, Nus, Rovarey	secondary	matK	46.2762250687948	7.94153302253452	0.0150302514097744
+Rohrbachia_minima	MF543562.1	31-JUL-2018	811	Italy	secondary	matK	45.7409575	7.4143619	0.0151810698493081

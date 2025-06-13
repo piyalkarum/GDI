@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glaucium_flavum	JN895979.1	07-MAR-2012	822	United Kingdom: Glamorgan	primary	matK	51.38	-3.4	0.00040551500405515
+Glaucium_flavum	LN614542.1	20-MAY-2015	1525	Spain	secondary	matK	39.3260685	-4.8379791	0.0012343026252956
+Glaucium_flavum	JN895923.1	07-MAR-2012	814	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.000409500409500409
+Glaucium_flavum	JN895732.1	07-MAR-2012	795	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000419287211740042

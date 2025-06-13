@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Origanum_vulgare	OP924546.1	09-AUG-2023	783	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.00376450820275476
+Origanum_vulgare	ON947760.1	20-MAR-2023	325	Pakistan	secondary	trnL-trnF	30.3308401	71.247499	NA
+Origanum_vulgare	OL598311.1	27-MAY-2022	329	Greece: Karditsa	secondary	trnL-trnF	39.6645182420426	22.5838729722877	NA
+Origanum_vulgare	OL598309.1	27-MAY-2022	328	Greece: Karditsa, Agia Marina	secondary	trnL-trnF	39.2610409	21.7121802	NA
+Origanum_vulgare	OL598308.1	27-MAY-2022	329	Greece: Karditsa, Amaranto	secondary	trnL-trnF	40.0572605807788	21.6641567278779	NA
+Origanum_vulgare	OL598307.1	27-MAY-2022	329	Greece: Agrafiotis river	secondary	trnL-trnF	39.0544863	21.6015668	NA
+Origanum_vulgare	OL598306.1	27-MAY-2022	328	Greece: Crete, Velonado	secondary	trnL-trnF	35.2595735	24.354889	NA
+Origanum_vulgare	OL598305.1	27-MAY-2022	329	Greece: Crete, Avdou	secondary	trnL-trnF	35.2320437	25.4317481	NA
+Origanum_vulgare	KM385502.1	01-DEC-2014	504	Switzerland	secondary	trnL-trnF	46.7985624	8.2319736	NA
+Origanum_vulgare	JQ690292.1	28-FEB-2013	830	Germany	secondary	trnL-trnF	40.4203479	-79.1166983	0.000664326216732662

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_brutia	MT311779.1	28-SEP-2020	610	Greece	secondary	psbA-trnH	43.2097838	-77.6930602	0
+Pinus_brutia	MT311778.1	28-SEP-2020	618	Turkey	secondary	psbA-trnH	39.1144416171693	34.3864209880153	0
+Pinus_brutia	MT311777.1	28-SEP-2020	615	Cyprus	secondary	psbA-trnH	34.1802042465585	32.6409906056	0
+Pinus_brutia	MT311776.1	28-SEP-2020	615	Cyprus	secondary	psbA-trnH	35.4137976709373	32.9588326545517	0
+Pinus_brutia	MT311775.1	28-SEP-2020	618	Turkey	secondary	psbA-trnH	39.6231739834157	34.283271167572	0

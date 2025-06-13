@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_cebennensis	KX958845.1	02-NOV-2017	819	Spain: Barcelona, Cercs	primary	rps16	41.3045741732938	2.14084071691505	0
+Odontites_cebennensis	KX958844.1	02-NOV-2017	833	Spain: Barcelona, Cercs	primary	rps16	42.8964377015146	1.89455985510264	0
+Odontites_cebennensis	KX958989.1	02-NOV-2017	806	Spain: Gerona, Ripoll	secondary	rps16	42.1982391	2.1932496	0
+Odontites_cebennensis	KX958972.1	02-NOV-2017	806	Spain: Gerona, between Campdevanol and La Pobla de Lillet	secondary	rps16	41.9793006	2.8199439	0
+Odontites_cebennensis	KX958970.1	02-NOV-2017	826	Spain: Barcelona, between Sant Quirze de Besora and Ripoll	secondary	rps16	41.3828939	2.1774322	0

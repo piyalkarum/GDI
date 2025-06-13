@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cyclamen_repandum	AM990484.1	16-MAY-2008	588	France:Corsica, Calenzana	secondary	ITS	42.5083711	8.8552855	0.0147585769233746
+Cyclamen_repandum	AM990483.1	16-MAY-2008	586	Greece:Peloponnese	secondary	ITS	37.6899064011598	22.4497563175926	0.0102389078498294
+Cyclamen_repandum	AM990482.1	16-MAY-2008	588	Greece:Kos	secondary	ITS	36.7936933	27.0848266	0.00680852545796476
+Cyclamen_repandum	AM990481.1	16-MAY-2008	588	Greece:Peloponnese	secondary	ITS	37.4747955336841	22.2583240815835	0.00907996873379613

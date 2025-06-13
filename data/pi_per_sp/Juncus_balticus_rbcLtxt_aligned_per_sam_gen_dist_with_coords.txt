@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_balticus	MG225985.1	23-JAN-2018	552	Canada: Yukon Territory, Nisutlin River Delta	primary	rbcL	60.23	-132.567	0
+Juncus_balticus	KX679044.1	29-APR-2017	552	Canada: British Columbia, Cariboo Regional District, Alex Fraser Research Forest, approximately 5 kilometers south of 150 Mile House, Mule Deer Range, Knife Creek	primary	rbcL	52.03	-121.83	0
+Juncus_balticus	JN965600.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.20749757641	-93.7676575914221	0
+Juncus_balticus	JN965599.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	59.1482843158839	-93.6394845875643	0
+Juncus_balticus	MW010933.1	27-JUL-2021	531	Canada: Nova Scotia	secondary	rbcL	45.1960403	-63.1653789	0
+Juncus_balticus	MK925307.1	14-JAN-2020	542	Finland	secondary	rbcL	63.2467777	25.9209164	0
+Juncus_balticus	MK925093.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7197950892677	-1.91358779476067	0
+Juncus_balticus	MK924926.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1541455957402	-2.45117570018511	0
+Juncus_balticus	MK924751.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4948554432375	-4.10927683213617	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Androsace_laggeri	EF152443.2	26-DEC-2006	693	Spain	primary	rpl20-rps12	42.704	1.306	0
+Androsace_laggeri	EF152442.2	26-DEC-2006	693	Spain	primary	rpl20-rps12	42.792	-0.25	0
+Androsace_laggeri	EF152441.2	26-DEC-2006	693	France	primary	rpl20-rps12	42.796	-0.441	0
+Androsace_laggeri	EF152440.2	26-DEC-2006	693	Spain	primary	rpl20-rps12	42.65	0.267	0
+Androsace_laggeri	EF152439.2	26-DEC-2006	684	France	primary	rpl20-rps12	42.767	0.117	0

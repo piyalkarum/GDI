@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_nardina	FJ548438.1	30-AUG-2009	473	Canada: Nunuavut, Baffin Island, Cape Dorset, near the airport	primary	atpF-atpH	64.23	-76.54	0.00452718696217981
+Carex_nardina	FJ548437.1	30-AUG-2009	434	Canada: Nunuavut, Franklin District, Ellesmere Island, Alexandra Fjord	primary	atpF-atpH	78.88	-75.83	0.00329185598168011
+Carex_nardina	FJ548436.1	30-AUG-2009	418	Canada: Nunuavut, SW Baffin Island, Mallik Island, S side of Mallik Island	primary	atpF-atpH	64.25	-76.62	0.00434292059738081
+Carex_nardina	FJ548435.1	30-AUG-2009	403	Canada: Nunuavut, Baffin Island, Ogac Lake, Ney Harbour	primary	atpF-atpH	62.85	-67.34	0.00546771724504031
+Carex_nardina	FJ548434.1	30-AUG-2009	490	Canada: Nunuavut, Baffin Island, Franklin District, Nettilling Lake, Burwash Bay	primary	atpF-atpH	65.95	-71.3	0.00725716803121373
+Carex_nardina	FJ548433.1	30-AUG-2009	470	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.31	-79.29	0.00598070479493935

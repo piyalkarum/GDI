@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pilosella_aurantiaca	KX677591.1	09-AUG-2017	786	Canada: British Columbia, Squamish-Lillooet Regional District, Garibaldi Park, Cheakamus Lake Rd.	primary	matK	50.059	-123.03	0.000448028673835125
+Pilosella_aurantiaca	KX676724.1	09-AUG-2017	787	Canada: British Columbia, Columbia-Shuswap Regional District, Along Highway 1, just west of Skytrek Adventure Park	primary	matK	50.9702	-118.569	0.00045662100456621
+Pilosella_aurantiaca	HQ593320.1	09-NOV-2011	787	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., N-most trail, 100 m W of creek and 20 m S of fence line, N of hill	primary	matK	44.038	-79.524	0.000424088210347752
+Pilosella_aurantiaca	KP210409.1	28-NOV-2015	807	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	matK	45.535	-73.149	0.0004510599909788
+Pilosella_aurantiaca	KJ592981.1	17-MAR-2015	782	USA: Wisconsin, Lakewood	primary	matK	45.295	-88.475	0.00043630017452007
+Pilosella_aurantiaca	KJ592980.1	17-MAR-2015	766	USA: Wisconsin, Blackwell	primary	matK	45.464	-88.676	0.000435161009573542
+Pilosella_aurantiaca	KJ592979.1	17-MAR-2015	767	USA: Wisconsin, Goodman	primary	matK	45.634	-88.344	0.000434593654932638
+Pilosella_aurantiaca	KT250036.1	09-AUG-2015	820	Germany	secondary	matK	34.4291664213002	-82.7129694901583	0.00102861757291805
+Pilosella_aurantiaca	KT250035.1	09-AUG-2015	820	Germany	secondary	matK	34.9715901231844	-83.4502045409329	0.00102861757291805
+Pilosella_aurantiaca	KT250034.1	09-AUG-2015	820	Germany	secondary	matK	34.8137208440926	-82.5076896506383	0.00102861757291805

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polypogon_viridis	KX873512.1	16-OCT-2017	829	Peru: Ancash, Canyon of Rio Fortuleza, E of Cajacay ca. 1 km on side road below Hwy. 109	primary	matK	-10.1464	-77.4344	0
+Polypogon_viridis	KX873511.1	16-OCT-2017	869	Mexico: Mexico, 10.5 mi N of Aculco on Hwy. 55 towards San Juan Del Rio. Dry rocky slopes and flats alongside Puerto Taxhe	primary	matK	20.2247	-99.8978	0
+Polypogon_viridis	KX873205.1	16-OCT-2017	666	Mexico: Coahuila, Madera del Carmen, 17.1 mi NE of Los Pilares on road towards Campo Dos	primary	matK	28.9536	-102.5603	0
+Polypogon_viridis	HM850520.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0

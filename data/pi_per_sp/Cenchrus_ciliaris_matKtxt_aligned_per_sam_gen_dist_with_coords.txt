@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cenchrus_ciliaris	MF694838.1	16-SEP-2018	771	Pakistan: Punjab, Cholistan Desert, Kanchi mor	primary	matK	29.183	71.674	0.076186797752809
+Cenchrus_ciliaris	LN906669.1	04-JAN-2016	1830	Madagascar:Toliara, Antsapanimahavelona	primary	matK	-23.3709	43.8398	0.0798101987618117
+Cenchrus_ciliaris	MK125103.1	03-FEB-2019	485	Saudi Arabia: Makkah (Coast Road)	secondary	matK	22.6363744	39.0386503	0.299054728733116
+Cenchrus_ciliaris	KY860694.1	26-APR-2017	1536	India	secondary	matK	22.3511148	78.6677428	0.0678895639323497
+Cenchrus_ciliaris	KR734505.1	24-JUN-2015	445	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	matK	-0.27612255	36.0580092268183	0.078677985560008

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spergularia_diandra	MG248182.1	21-JAN-2018	552	Canada: Saskatchewan, Robart, S.E. 1/4 25-5-26 W. 3rd	secondary	rbcL	53.1869562	-105.7210493	0.00142225486807236
+Spergularia_diandra	MG246308.1	21-JAN-2018	552	Canada: Saskatchewan, Leader, L.S.D.1 in 33-21-26 W. 3rd	secondary	rbcL	50.8878217	-109.5449145	0.00142225486807236
+Spergularia_diandra	KX283053.1	28-MAY-2017	542	Kuwait	secondary	rbcL	29.9591422831006	48.5030243753802	0.000946969696969697
+Spergularia_diandra	KX283052.1	28-MAY-2017	539	Kuwait	secondary	rbcL	29.0127383078048	47.4783732883573	0.000950570342205323
+Spergularia_diandra	KX283051.1	28-MAY-2017	541	Kuwait	secondary	rbcL	29.9509858628388	47.2463029628018	0.000946969696969697

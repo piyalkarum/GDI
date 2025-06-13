@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Avena_sterilis	KT452971.1	17-FEB-2017	885	Australia	secondary	Adh	-24.7598838134522	134.898636916333	0.18455941358545
+Avena_sterilis	KT452970.1	17-FEB-2017	796	Australia	secondary	Adh	-24.7832882934263	133.834701312254	0.182926829268293
+Avena_sterilis	KT452946.1	17-FEB-2017	887	Palestine	secondary	Adh	31.7621153	-95.6307891	0.184833749803021
+Avena_sterilis	JX438124.1	31-MAR-2013	705	Spain	secondary	Adh	39.3260685	-4.8379791	0.550811697030821

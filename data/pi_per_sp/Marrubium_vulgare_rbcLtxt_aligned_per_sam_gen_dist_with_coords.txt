@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Marrubium_vulgare	OL537687.1	10-JAN-2022	553	USA: Texas, Lady Bird Johnson Wildflower Center	primary	rbcL	30.18	-97.885	0.000414593698175788
+Marrubium_vulgare	JN893197.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.2	-4.4	0.000423280423280423
+Marrubium_vulgare	OQ392235.1	10-MAY-2023	525	Peru	secondary	rbcL	-6.8699697	-75.0458515	0.000634920634920635
+Marrubium_vulgare	MT931600.1	03-MAR-2023	546	China	secondary	rbcL	35.000074	104.999927	0.000429000429000429
+Marrubium_vulgare	MG223259.1	26-DEC-2017	552	Canada: Ontario, York R. M., Aurora, Country Acres.	secondary	rbcL	43.7842188799013	-78.4296339717411	0.000414593698175788
+Marrubium_vulgare	MG221906.1	26-DEC-2017	552	Canada: Ontario, York R. M., Near railway stop of Emery.	secondary	rbcL	43.669405242815	-77.7990951163945	0.000414593698175788
+Marrubium_vulgare	MG221712.1	26-DEC-2017	524	Canada: Ontario, Wellington Co., Guelph.	secondary	rbcL	43.6060901	-80.2323472	0.000424088210347752
+Marrubium_vulgare	MG221690.1	26-DEC-2017	552	Canada: Ontario, Grey Co., Herman's farm N of Kimberley.	secondary	rbcL	43.5263450592924	-78.4939813697844	0.000414593698175788
+Marrubium_vulgare	HM850159.1	23-JUL-2011	1027	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00399294491353281
+Marrubium_vulgare	JN891280.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.000423280423280423

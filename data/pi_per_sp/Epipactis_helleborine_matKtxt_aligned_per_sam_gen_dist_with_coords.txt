@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epipactis_helleborine	MG217127.1	24-JAN-2018	781	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Staff House, Cypress Lake, Bruce Peninsula National Park	primary	matK	45.227	-81.527	0.0194901520941482
+Epipactis_helleborine	HQ593283.1	09-NOV-2011	802	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., 10 m E of gated creek along N-most trail	primary	matK	44.036	-79.521	0.0210306895530896
+Epipactis_helleborine	JN894966.1	07-MAR-2012	792	United Kingdom: Glamorgan (41)	primary	matK	51.54	-3.26	0.0199549853569386
+Epipactis_helleborine	MT917278.1	03-MAR-2023	784	China	secondary	matK	35.525217965731	104.539675627746	0.088502362208924
+Epipactis_helleborine	MN273563.1	30-NOV-2021	860	China	secondary	matK	34.7314190074564	105.44604210014	0.0220133138599631
+Epipactis_helleborine	JN895658.1	07-MAR-2012	778	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.0201918243633118

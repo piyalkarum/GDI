@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Populus_nigra	MH574399.1	09-DEC-2020	314	China	secondary	psbA-trnH	35.000074	104.999927	0.0114013656580843
+Populus_nigra	FJ493309.1	22-DEC-2008	372	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.0186666950703798
+Populus_nigra	KC485153.1	03-SEP-2013	294	China: Xinjiang	secondary	psbA-trnH	42.4804953	85.4633464	0.00967078695951935
+Populus_nigra	HE966752.1	18-SEP-2012	317	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0413857627735859
+Populus_nigra	FN687512.1	16-MAR-2010	370	Italy:Umbria	secondary	psbA-trnH	42.965916	12.490236	0.0137437121664251

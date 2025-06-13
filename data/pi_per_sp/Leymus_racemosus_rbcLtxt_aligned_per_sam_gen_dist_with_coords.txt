@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leymus_racemosus	MT931813.1	03-MAR-2023	569	China	secondary	rbcL	35.3485457155837	104.317490156521	0
+Leymus_racemosus	MT931812.1	03-MAR-2023	569	China	secondary	rbcL	34.3750140714329	104.813888845735	0
+Leymus_racemosus	MT931811.1	03-MAR-2023	569	China	secondary	rbcL	34.3035200431782	105.664248524021	0
+Leymus_racemosus	KP211036.1	31-AUG-2017	1274	Russia	secondary	rbcL	64.6863136	97.7453061	0

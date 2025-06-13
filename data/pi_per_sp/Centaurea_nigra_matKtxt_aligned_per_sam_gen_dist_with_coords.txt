@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_nigra	JN895499.1	07-MAR-2012	939	United Kingdom: Monmouthshire	primary	matK	51.52	-3.1	0.000272331154684096
+Centaurea_nigra	JN895178.1	07-MAR-2012	835	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.000306372549019608
+Centaurea_nigra	JN895935.1	07-MAR-2012	776	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000322164948453608
+Centaurea_nigra	JN895934.1	07-MAR-2012	927	United Kingdom: Flintshire	secondary	matK	53.2165096	-3.1402189	0.00121772543289242
+Centaurea_nigra	JN895165.1	07-MAR-2012	800	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.000316856780735108

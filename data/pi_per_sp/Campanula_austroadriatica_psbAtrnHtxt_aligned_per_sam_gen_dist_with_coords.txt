@@ -1,0 +1,24 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_austroadriatica	KC180982.1	28-OCT-2013	353	Montenegro: Boka Kotorska Risan	primary	psbA-trnH	42.514	18.6825	0.00232806335079062
+Campanula_austroadriatica	KC180981.1	28-OCT-2013	352	Montenegro: Herceg Novi	primary	psbA-trnH	42.4519	18.5458	0.00232806335079062
+Campanula_austroadriatica	KC180980.1	28-OCT-2013	352	Montenegro: Boka Kotorska Boka	primary	psbA-trnH	42.4259	18.7695	0.00232806335079062
+Campanula_austroadriatica	KC180979.1	28-OCT-2013	351	Montenegro: Virpazar Skadarsko Jezero	primary	psbA-trnH	42.246	19.0926	0.00414548414548415
+Campanula_austroadriatica	KC180978.1	28-OCT-2013	351	Montenegro: Budva	primary	psbA-trnH	42.2792	18.8358	0.00414548414548415
+Campanula_austroadriatica	KC180977.1	28-OCT-2013	352	Montenegro: Rumija	primary	psbA-trnH	42.9967786740735	18.9685656102709	0.00232806335079062
+Campanula_austroadriatica	KC180976.1	28-OCT-2013	351	Montenegro: Herceg Novi	primary	psbA-trnH	42.4553	18.5339	0.00233174233174233
+Campanula_austroadriatica	KC180975.1	28-OCT-2013	352	Montenegro: Virpazar Skadarsko Jezero	primary	psbA-trnH	41.990392889269	19.5080010919369	0.00233174233174233
+Campanula_austroadriatica	KC180974.1	28-OCT-2013	352	Montenegro: Bar Stari Grad	primary	psbA-trnH	41.7469369660915	19.8847376535506	0.00233174233174233
+Campanula_austroadriatica	KC180973.1	28-OCT-2013	352	Montenegro: Bar Stari Grad	primary	psbA-trnH	42.4308767989552	19.693411564458	0.00233174233174233
+Campanula_austroadriatica	KC180972.1	28-OCT-2013	352	Montenegro: Orjen Meljine	primary	psbA-trnH	42.4642	18.5572	0.00232806335079062
+Campanula_austroadriatica	KC180971.1	28-OCT-2013	352	Croatia: Dubrovnik Zlatni Potok	primary	psbA-trnH	42.6403	18.1236	0.00414180516453244
+Campanula_austroadriatica	KC180930.1	28-OCT-2013	351	Montenegro: Durmitor Komarnica	primary	psbA-trnH	43.0093	19.0521	0.00233174233174233
+Campanula_austroadriatica	KC180929.1	28-OCT-2013	351	Montenegro: Ulcinj Valdanos	primary	psbA-trnH	41.9541	19.1653	0.00233174233174233
+Campanula_austroadriatica	KC180928.1	28-OCT-2013	352	Croatia: Klek	primary	psbA-trnH	42.9503	17.5655	0.00414180516453244
+Campanula_austroadriatica	KC180927.1	28-OCT-2013	352	Montenegro: Karuc Skadarsko Jezero	primary	psbA-trnH	42.3553	19.1053	0.00233174233174233
+Campanula_austroadriatica	KC180926.1	28-OCT-2013	352	Montenegro: Virpazar Skadarsko Jezero	primary	psbA-trnH	42.3833676701365	19.1551208751898	0.00414180516453244
+Campanula_austroadriatica	KC180925.1	28-OCT-2013	352	Montenegro: Virpazar Skadarsko Jezero	primary	psbA-trnH	42.8386167468288	19.5911894029472	0.00233174233174233
+Campanula_austroadriatica	KC180924.1	28-OCT-2013	351	Montenegro: Virpazar Skadarsko Jezero	primary	psbA-trnH	42.2463974209668	19.1210950148142	0.00414548414548415
+Campanula_austroadriatica	KC180923.1	28-OCT-2013	350	Montenegro: Rumija	primary	psbA-trnH	42.4652303706114	18.5867860539028	0.00779220779220779
+Campanula_austroadriatica	KC180922.1	28-OCT-2013	351	Montenegro: Rumija	primary	psbA-trnH	41.5473755531403	18.6197533931053	0.00233174233174233
+Campanula_austroadriatica	KC180921.1	28-OCT-2013	352	Croatia: Dubrovnik Duboka Ljuta	primary	psbA-trnH	42.5933	18.2347	0.00414180516453244
+Campanula_austroadriatica	KC180920.1	28-OCT-2013	352	Croatia: Dubrovnik	primary	psbA-trnH	42.641	18.1263	0.00414180516453244

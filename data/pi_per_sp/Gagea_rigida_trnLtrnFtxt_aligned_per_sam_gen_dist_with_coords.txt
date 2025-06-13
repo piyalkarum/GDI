@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_rigida	LT985821.1	14-JUN-2019	197	Greece	secondary	trnL-trnF	43.7568507749087	-77.6770626527394	0
+Gagea_rigida	LT985820.1	14-JUN-2019	197	Greece	secondary	trnL-trnF	42.4228403614643	-77.1906389923521	0
+Gagea_rigida	LT985819.1	14-JUN-2019	197	Greece	secondary	trnL-trnF	43.6216546667172	-76.6563170458884	0
+Gagea_rigida	LT985818.1	14-JUN-2019	197	Greece	secondary	trnL-trnF	42.9979734895508	-78.780326022261	0
+Gagea_rigida	LT985817.1	14-JUN-2019	197	Greece	secondary	trnL-trnF	42.3772843786972	-77.8865996723833	0

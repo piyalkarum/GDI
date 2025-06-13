@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontarrhena_tortuosa	OR614068.1	05-NOV-2023	367	Kazakhstan: Qaragandy region	primary	psbA-trnH	50.21977	74.36198	0.274736906054921
+Odontarrhena_tortuosa	OK329993.1	16-NOV-2021	370	Russia: Orenburg region, Gaiskiy district, Novokievka village	primary	psbA-trnH	51.8465880812657	58.8558734614295	0.0590062340913416
+Odontarrhena_tortuosa	OK329992.1	16-NOV-2021	365	Russia: Orenburg region, Gaiskiy district, Novokievka village	primary	psbA-trnH	51.6177005085361	56.8491294820017	0.0563692787679644
+Odontarrhena_tortuosa	OK329991.1	16-NOV-2021	465	Russia: Orenburg region, Gaiskiy district, Novokievka village	primary	psbA-trnH	51.2807746085911	58.5145533631179	0.0575478749251454
+Odontarrhena_tortuosa	OK329990.1	16-NOV-2021	454	Russia: Orenburg region, Gaiskiy district, Novokievka village	primary	psbA-trnH	51.0631883111309	58.0560560587543	0.0585216185188855
+Odontarrhena_tortuosa	OK329989.1	16-NOV-2021	460	Russia: Orenburg region, Novotroitsk district, Akkermanovka village	primary	psbA-trnH	51.19	58.14	0.0669569780906623

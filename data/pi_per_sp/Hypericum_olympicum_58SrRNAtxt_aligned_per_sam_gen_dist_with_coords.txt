@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypericum_olympicum	HE653564.1	03-DEC-2012	647	Greece	secondary	5.8S rRNA	42.7649605006655	-78.3484647612565	0.00824317362184441
+Hypericum_olympicum	HE653563.1	03-DEC-2012	647	Greece	secondary	5.8S rRNA	43.837913201893	-78.0003800681494	0.00515198351365276
+Hypericum_olympicum	HE653562.1	03-DEC-2012	647	Greece	secondary	5.8S rRNA	43.5911416511129	-76.5922302112243	0.00618238021638331
+Hypericum_olympicum	HE653561.1	03-DEC-2012	647	Bulgaria	secondary	5.8S rRNA	46.7889169	23.6184909	0.00721277691911386

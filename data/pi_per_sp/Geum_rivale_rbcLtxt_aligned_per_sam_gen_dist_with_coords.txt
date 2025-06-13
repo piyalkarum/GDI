@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geum_rivale	OR738102.1	13-NOV-2023	458	Kazakhstan: East Kazakhstan region	primary	rbcL	50.32694	83.54556	0.00327510917030568
+Geum_rivale	MG322261.1	11-NOV-2018	606	United Kingdom: England, North West, Nenthead mine	primary	rbcL	54.7842	-2.3486	0.00776924938890551
+Geum_rivale	MG322251.1	11-NOV-2018	575	United Kingdom: England, County Durham, Foreshield Burn	primary	rbcL	54.8159	-2.39	0.00114249098158344
+Geum_rivale	JN893446.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.91	-3.86	0.00119543498928439
+Geum_rivale	MK925519.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.014217843247	-3.45499274028764	0.00119543498928439
+Geum_rivale	MK924980.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6690139170363	-3.08728240917975	0.00119543498928439
+Geum_rivale	MK924963.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7528346702104	-3.04651075173453	0.00119543498928439
+Geum_rivale	JN890882.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00119543498928439
+Geum_rivale	JN890881.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00119543498928439

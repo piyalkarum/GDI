@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypericum_undulatum	JN893188.1	07-MAR-2012	533	United Kingdom: Cornwall, West with Scilly (1)	primary	rbcL	50.3	-5.1	0
+Hypericum_undulatum	HM850067.1	23-JUL-2011	683	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Hypericum_undulatum	JN891707.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0
+Hypericum_undulatum	JN891706.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0

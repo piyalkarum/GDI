@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nigella_damascena	MG249292.1	21-JAN-2018	552	Canada: Eden Mills, ON	primary	rbcL	43.6333	-80.2167	0.00309806279955534
+Nigella_damascena	MF349345.1	21-SEP-2017	553	USA: District of Columbia; US Botanic Garden, Terrace. Right of main entrance	primary	rbcL	38.841	-77.072	0.00309806279955534
+Nigella_damascena	FJ626586.1	10-MAY-2009	1395	China	secondary	rbcL	35.000074	104.999927	0.00342202836700269
+Nigella_damascena	HM850201.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00717615152411092

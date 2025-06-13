@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_conglomeratus	MG248619.1	21-JAN-2018	552	Canada: British Columbia, Greater Vancouver Regional District, Coquitlam, railroad tracks near King Edward St.	primary	rbcL	49.283	-122.75	0.0234164296117018
+Rumex_conglomeratus	MG247325.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, 11 km due southeast of Nanaimo, Boat Harbour area, Greenway Lake, NE shore	primary	rbcL	49.089	-123.804	0.00336438923395445
+Rumex_conglomeratus	JN891402.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.58	-2.98	0.00343279640876683
+Rumex_conglomeratus	KJ204398.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.00312256049960968
+Rumex_conglomeratus	HM850319.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00319829424307036
+Rumex_conglomeratus	JN893125.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00343279640876683
+Rumex_conglomeratus	JN892847.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00343279640876683
+Rumex_conglomeratus	JN891137.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00343279640876683

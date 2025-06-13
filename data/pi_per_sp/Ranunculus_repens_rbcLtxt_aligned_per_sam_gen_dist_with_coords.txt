@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_repens	OR738064.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.00385349329937935
+Ranunculus_repens	MZ676697.1	10-AUG-2022	577	United Kingdom: England, County Durham, South facing sloped meadow	primary	rbcL	54.754	-1.5789	0.000536175981906612
+Ranunculus_repens	MN486529.1	15-MAY-2021	582	United Kingdom: England, Durham, Bishop Auckland Park	primary	rbcL	54.6705	-1.6679	0.000751252871894783
+Ranunculus_repens	MK932716.1	19-JUN-2019	484	China: Outside US, Jiangyong Hunan, Agriculture land	primary	rbcL	25	111	0.000607681088964511
+Ranunculus_repens	MG246986.1	21-JAN-2018	551	Canada: Quebec, Montreal, Island of Montreal, Parc Beausejour, bord de sentier pedestre	primary	rbcL	45.527	-73.731	0.000537735515822547
+Ranunculus_repens	MG246001.1	21-JAN-2018	553	Canada: Ontario, Cochrane District, Timmins, NEBIE Block#1, Basic treatment	primary	rbcL	48.4667	-81.3333	0.00547666589034138
+Ranunculus_repens	JN893674.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	52.0943133577533	-5.52769084688164	0.000542652485348383
+Ranunculus_repens	JN891878.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	52.439529568842	-3.06814010840338	0.000542652485348383
+Ranunculus_repens	JN891519.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.13	0.000542652485348383
+Ranunculus_repens	OR670284.1	06-NOV-2023	336	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0
+Ranunculus_repens	LC623606.1	02-OCT-2021	553	Japan:Kumamoto, Aso	secondary	rbcL	32.9524903	131.1214674	0.000536175981906612
+Ranunculus_repens	MK925397.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.000542652485348383
+Ranunculus_repens	HM850298.1	23-JUL-2011	1281	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000768402697923285
+Ranunculus_repens	JN893328.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.7410850097172	-3.69270121220865	0.000542652485348383
+Ranunculus_repens	JN893078.1	07-MAR-2012	522	United Kingdom: Glamorgan (41)	secondary	rbcL	50.6703750314329	-3.54399926269244	0.000563443768311922
+Ranunculus_repens	JN892133.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	50.8561536410093	-4.26884455649567	0.000542652485348383
+Ranunculus_repens	JN892099.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000542652485348383
+Ranunculus_repens	JN892098.1	07-MAR-2012	511	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000575572694831357

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cirsium_palustre	JN892815.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0
+Cirsium_palustre	MG224493.1	26-DEC-2017	552	Canada: Ontario, Algoma Dist., Havilland Tp., Harmony Beach Road at Hwy. 17, near Lake Superior	secondary	rbcL	43.72634945	-77.7101179040839	0
+Cirsium_palustre	KC589831.1	21-MAY-2013	1419	Spain	secondary	rbcL	39.3260685	-4.8379791	0
+Cirsium_palustre	HM849898.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Cirsium_palustre	JN892371.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9875065	-1.1773256	0
+Cirsium_palustre	JN891456.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Cirsium_palustre	JN891442.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

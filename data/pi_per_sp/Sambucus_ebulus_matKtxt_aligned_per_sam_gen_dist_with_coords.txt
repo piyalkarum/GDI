@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sambucus_ebulus	JN896168.1	07-MAR-2012	838	United Kingdom: Glamorgan	primary	matK	51.41	-3.36	0
+Sambucus_ebulus	ON981933.1	17-OCT-2022	774	Kenya	secondary	matK	1.4419683	38.4313975	0
+Sambucus_ebulus	MK926062.1	14-JAN-2020	803	United Kingdom	secondary	matK	54.7023545	-3.2765753	0
+Sambucus_ebulus	JN895399.1	07-MAR-2012	785	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0
+Sambucus_ebulus	JN895398.1	07-MAR-2012	831	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Sambucus_ebulus	FN668834.1	27-APR-2010	767	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0

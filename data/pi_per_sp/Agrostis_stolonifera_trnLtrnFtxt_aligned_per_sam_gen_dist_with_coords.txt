@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostis_stolonifera	KX872607.1	16-OCT-2017	815	Canada: British Columbia, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Rd. Beta Avenue ditch	primary	trnL-trnF	49.2608	-122.9892	0.00165553951642006
+Agrostis_stolonifera	KX872606.1	16-OCT-2017	880	Canada: Alberta, 26 mi E of Exshaw and W of Cochrane on Hwy. 1A	primary	trnL-trnF	51.2265	-114.6818	0.00156538424171767
+Agrostis_stolonifera	KX872605.1	16-OCT-2017	876	Kyrgyzstan: Issyk-Kul, N Issyk-Kul plains, foot of the Kungey Ala-Too, 11 k E of Ananyevo, 44 k W of Tyup	primary	trnL-trnF	42.7401	77.801	0.0032195538188147
+Agrostis_stolonifera	KJ529410.1	22-FEB-2015	689	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.00187100672086056
+Agrostis_stolonifera	KP711117.1	31-MAR-2016	705	China	secondary	trnL-trnF	30.047992	-94.3357433	0.00258159651833963

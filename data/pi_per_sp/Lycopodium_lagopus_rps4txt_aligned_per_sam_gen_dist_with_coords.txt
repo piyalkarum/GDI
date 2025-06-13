@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lycopodium_lagopus	MW801922.1	19-DEC-2021	904	Canada: British Columbia	secondary	rps4	54.493518851032	-124.359013297618	0
+Lycopodium_lagopus	MW801921.1	19-DEC-2021	904	Canada: British Columbia	secondary	rps4	54.802596795055	-126.20710128443	0
+Lycopodium_lagopus	MW801873.1	19-DEC-2021	913	Canada: Newfoundland & Labrador	secondary	rps4	49.1212094	-56.6403111	0
+Lycopodium_lagopus	MW801872.1	19-DEC-2021	913	USA: Alaska	secondary	rps4	64.4459613	-149.680909	0

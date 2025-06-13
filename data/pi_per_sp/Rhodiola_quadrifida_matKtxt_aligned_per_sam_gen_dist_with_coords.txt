@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhodiola_quadrifida	MT930179.1	03-MAR-2023	780	China	secondary	matK	34.9481756539236	104.15122685136	0.00357185625207666
+Rhodiola_quadrifida	MT930178.1	03-MAR-2023	780	China	secondary	matK	34.6424300371493	105.679784570788	0.00357185625207666
+Rhodiola_quadrifida	MT930176.1	03-MAR-2023	777	China	secondary	matK	34.5499901888412	105.309613139488	0.00357650162337662
+Rhodiola_quadrifida	KP114858.1	25-MAR-2015	771	China: Qinghai, Yushu Xian	secondary	matK	33.7431441516751	96.9239513485078	0.00584121136420095
+Rhodiola_quadrifida	KJ570483.1	09-AUG-2014	769	China: Qinghai, Yushu Xian	secondary	matK	33.3360149289017	96.3050468718229	0.00682958793888166

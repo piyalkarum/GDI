@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sisymbrium_officinale	OQ310478.1	16-MAY-2023	406	Mexico: Puebla	secondary	psbA-trnH	19.0275525880408	-99.2500380064457	0.0262880076778781
+Sisymbrium_officinale	OQ310241.1	16-MAY-2023	405	Mexico: Puebla	secondary	psbA-trnH	18.3821881537781	-98.0180114170455	0.0209876543209877
+Sisymbrium_officinale	HE966824.1	18-SEP-2012	283	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.1868948903332	13.2296073728831	0.00176678445229682
+Sisymbrium_officinale	HE966823.1	18-SEP-2012	283	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.5878342739958	13.0655370058714	0.00176678445229682
+Sisymbrium_officinale	HE966822.1	18-SEP-2012	283	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.2888127302482	14.191095322191	0.00176678445229682

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helichrysum_italicum	KJ159117.1	09-APR-2014	838	France: Corsica	secondary	trnL-trnF	42.1438824178005	8.74100107446301	0.00498420263356957
+Helichrysum_italicum	KJ159116.1	09-APR-2014	838	France: Corsica	secondary	trnL-trnF	42.4717640467251	9.69016104608386	0.00559893140492631
+Helichrysum_italicum	KJ159115.1	09-APR-2014	838	France: Corsica	secondary	trnL-trnF	41.5115591640303	8.51577158414269	0.00480338645663673
+Helichrysum_italicum	KJ159114.1	09-APR-2014	838	France: Corsica	secondary	trnL-trnF	42.827549355432	9.8177127524329	0.00659938594366813
+Helichrysum_italicum	KJ159113.1	09-APR-2014	838	France: Corsica	secondary	trnL-trnF	41.780534517205	9.21120047533702	0.00559893140492631
+Helichrysum_italicum	HM364539.1	11-OCT-2010	826	France: Corsica, Tizzano beach	secondary	trnL-trnF	42.18808965	9.06841377142769	0.0046408393866021
+Helichrysum_italicum	HM364538.1	11-OCT-2010	825	Spain: A Coruna, Carnota	secondary	trnL-trnF	42.821959	-9.0878032	0.00464646464646465

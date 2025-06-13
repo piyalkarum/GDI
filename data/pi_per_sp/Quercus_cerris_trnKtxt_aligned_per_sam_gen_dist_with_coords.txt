@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_cerris	HE583649.1	04-SEP-2011	693	Croatia	secondary	trnK	45.3658443	15.6575209	0
+Quercus_cerris	HE583648.1	04-SEP-2011	693	Greece	secondary	trnK	43.2097838	-77.6930602	0
+Quercus_cerris	HE583605.1	04-SEP-2011	693	Italy:Basilicata	secondary	trnK	40.500571	16.081953	0
+Quercus_cerris	HE583604.1	04-SEP-2011	693	Italy:Liguria	secondary	trnK	44.4777617	8.7026296	0

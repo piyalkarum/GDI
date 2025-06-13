@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_intermedia	MG247969.1	21-JAN-2018	552	Canada: Guelph, ON	primary	rbcL	43.5485	-80.2503	0.00065359477124183
+Potentilla_intermedia	MG247324.1	21-JAN-2018	552	Canada: Renfrew Co., ON	primary	rbcL	45.6667	-77.25	0.00065359477124183
+Potentilla_intermedia	MG246041.1	21-JAN-2018	552	Canada: Wellington Co., ON	primary	rbcL	43.5629	-80.275	0.00065359477124183
+Potentilla_intermedia	KX678654.1	29-APR-2017	510	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Forest Service Road	primary	rbcL	49.1879	-119.088	0.00196078431372549

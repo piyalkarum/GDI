@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_nemoralis	MF597547.1	17-JUL-2018	774	Canada: British Columbia, 3.2 km W of Gray Creek along Hwy. 3A	primary	matK	49.63	-116.788	0.00510550516046259
+Poa_nemoralis	MF597546.1	17-JUL-2018	792	Canada: Ontario, Ottawa, walking/bike path along Rideau River near Vincent Massey Park. Edge of woods with Aralia nudicaulis, Taxus.	primary	matK	45.382	-75.693	0.00561922540043537
+Poa_nemoralis	MF597545.1	17-JUL-2018	778	Canada: British Columbia, Vancouver Island, 13.3 km down from Mt. Washington alpine resort/ski area, W of Courtenay	primary	matK	49.723	-125.16	0.00547919858655474
+Poa_nemoralis	MF597544.1	17-JUL-2018	650	Canada: British Columbia, Kokanee Creek Provincial Park, along Hwy. 3A 13.3 km from ferry at Kooteny Lake.	primary	matK	49.603	-117.125	0.00562612893393199
+Poa_nemoralis	MF597543.1	17-JUL-2018	819	Canada: Saskatchewan, Cypress Hills Provincial Park, near overlook (East Park).	primary	matK	49.678	-109.551	0.00743136230471772
+Poa_nemoralis	MG216979.1	24-JAN-2018	773	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Halfway Log Dump Parking Lot, BPNP	primary	matK	45.227	-81.48	0.0118168449607045
+Poa_nemoralis	MG216960.1	24-JAN-2018	777	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Sassafras Point	primary	matK	43.2727	-79.9041	0.0075431757183811
+Poa_nemoralis	JN894298.1	07-MAR-2012	1028	United Kingdom: Monmouthshire	primary	matK	51.7	-2.9	0.00528247843576201
+Poa_nemoralis	MN492729.1	30-NOV-2021	792	China	secondary	matK	35.3930197810803	105.52123969152	0.0110248652351605
+Poa_nemoralis	MN434002.1	30-NOV-2021	791	China	secondary	matK	34.7182087374361	106.018146236871	0.00903584334812658
+Poa_nemoralis	MH116763.1	17-AUG-2018	692	China	secondary	matK	34.5788789075288	104.963131142223	0.012890818045102
+Poa_nemoralis	MH116762.1	17-AUG-2018	652	China	secondary	matK	35.1552096288792	104.0464219703	0.0138849388534514
+Poa_nemoralis	KY944655.1	21-MAR-2018	788	Turkey	secondary	matK	38.9597594	34.9249653	0.00522655666507361
+Poa_nemoralis	KJ204523.1	29-JAN-2015	775	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.00668635076608612
+Poa_nemoralis	JN894816.1	07-MAR-2012	784	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00526997331580515
+Poa_nemoralis	JN894815.1	07-MAR-2012	808	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00581719633351249

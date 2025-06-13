@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_vulgaris	OR464897.1	26-SEP-2023	892	USA: South Westnedge Park, Portage, MI	primary	matK	42.0982577668883	-85.2679326900502	0.00113302042711352
+Artemisia_vulgaris	OR464896.1	26-SEP-2023	845	USA: South Westnedge Park, Portage, MI	primary	matK	42.4069047332938	-85.9012617636008	0.00113569454184918
+Artemisia_vulgaris	MF770237.1	30-JUN-2018	750	India	primary	matK	21.58	92.15	0.00118361101197881
+Artemisia_vulgaris	MG225341.1	21-JAN-2018	786	Canada: Quebec, Montreal, Island of Montreal, Parc Summit, sur les bords d'un sentier	primary	matK	45.493	-73.608	0.000874721352488849
+Artemisia_vulgaris	HQ593183.1	09-NOV-2011	772	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill West, very north-west corner of property	primary	matK	44.03	-79.546	0.00097119930970504
+Artemisia_vulgaris	KC870883.1	30-JUL-2013	738	USA: Mercyhurst University Campus, Erie, PA	primary	matK	42.1028	-80.0514	0.00242917384562131
+Artemisia_vulgaris	JN894753.1	07-MAR-2012	1020	United Kingdom: Glamorgan	primary	matK	51.52	-3.2	0.000926216509603614
+Artemisia_vulgaris	KX581939.1	24-SEP-2016	783	China: Xinjiang, Yili	secondary	matK	43.4866097225083	81.6228824377202	0.000946095586362278
+Artemisia_vulgaris	KX581938.1	24-SEP-2016	783	China: Xinjiang, Yili	secondary	matK	43.8317211530338	81.2196303870964	0.000946095586362278
+Artemisia_vulgaris	KX581937.1	24-SEP-2016	783	China: Xinjiang, Yili	secondary	matK	43.9505861788488	81.2054063288323	0.000946095586362278
+Artemisia_vulgaris	KX581936.1	24-SEP-2016	783	China: Xinjiang, Yili	secondary	matK	44.6027745385031	81.3840210436081	0.000946095586362278
+Artemisia_vulgaris	KX581935.1	24-SEP-2016	783	China: Xinjiang, Yili	secondary	matK	44.337940327486	81.1608885669756	0.00209685073208068
+Artemisia_vulgaris	KX581934.1	24-SEP-2016	783	China: Xinjiang, Yili	secondary	matK	43.5383216569753	80.5841815652443	0.000946095586362278
+Artemisia_vulgaris	KX581933.1	24-SEP-2016	783	China: Xinjiang, Yili	secondary	matK	44.3531963709727	81.5664591741396	0.000946095586362278
+Artemisia_vulgaris	KX581932.1	24-SEP-2016	783	China: Xinjiang, Yili	secondary	matK	43.970076497672	80.7267758868799	0.00338819606181938
+Artemisia_vulgaris	KF664585.1	01-DEC-2013	857	India: Wayanad, Kerala	secondary	matK	11.6552601	76.1568728	0.00114446267549246
+Artemisia_vulgaris	KF648716.1	01-DEC-2013	873	India: Palakkad, Kerala	secondary	matK	10.7668468	76.6492732	0.00235333376314109
+Artemisia_vulgaris	KF604887.1	01-DEC-2013	873	India: Idukki, Kerala	secondary	matK	9.7685763	77.1069639	0.00114327457708999
+Artemisia_vulgaris	JN894048.1	07-MAR-2012	854	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00101535449069232

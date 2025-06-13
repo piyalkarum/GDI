@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_rupicola	LR588310.1	30-JUL-2021	2811	Germany	primary	matK	51.2294	11.7197	0.0017833414870855
+Festuca_rupicola	LR588282.1	30-JUL-2021	2812	Germany	primary	matK	49.9078	10.8492	0.00130812691685189
+Festuca_rupicola	LR588281.1	30-JUL-2021	2808	Germany	primary	matK	49.9153	10.9111	0.00118958777612481
+Festuca_rupicola	KJ746197.1	29-JUL-2014	699	Poland	secondary	matK	52.215933	19.134422	0.00143061516452074

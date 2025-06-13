@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eleusine_indica	MK260710.1	09-MAR-2019	458	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	psbA-trnH	0.464466187036491	36.9802619443529	0
+Eleusine_indica	MK260677.1	09-MAR-2019	478	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	psbA-trnH	0.167247303995379	36.9419160476792	0
+Eleusine_indica	OQ310227.1	16-MAY-2023	643	Mexico: Puebla	secondary	psbA-trnH	19.1705686	-98.4123106	0.000264131008980454
+Eleusine_indica	MH621886.1	03-MAY-2019	569	USA	secondary	psbA-trnH	39.7837304	-100.445882	0.000294464075382803
+Eleusine_indica	MH197403.1	22-JAN-2019	618	China	secondary	psbA-trnH	35.000074	104.999927	0
+Eleusine_indica	HQ600074.1	01-AUG-2012	647	South Korea	secondary	psbA-trnH	37.3105709421476	127.627559940144	0.000257997936016512
+Eleusine_indica	FJ766207.1	18-JUN-2010	650	South Korea	secondary	psbA-trnH	36.5794512211256	127.010304805645	0.000816593020379769

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_marina	MG227452.1	23-JAN-2018	661	Canada: Nunavut, Baffin Island, Baffin Island, Mary River	primary	rbcL	71.5015286173745	-79.7925874487191	0.00982318271119843
+Carex_marina	MG226915.1	23-JAN-2018	552	Canada: Manitoba, Wapusk National Park, Wapusk Nat'l Pk, N side of the Owl Riv estuary 4.0 Km inland from the coast, 130 km SE of Churchill	primary	rbcL	57.8352	-92.796	0.00392927308447937
+Carex_marina	MG225845.1	23-JAN-2018	552	USA: Alaska, Kotzebue Quad, Sweard Penninsula, Cape Espenberg, mouth of Espenberg Riv, W of mouth	primary	rbcL	66.5917	-163.975	0.00392927308447937
+Carex_marina	FJ548264.1	25-AUG-2009	661	Canada: Nunuavut, Baffin Island	primary	rbcL	71.4048013536046	-83.0165074551845	0.00982318271119843
+Carex_marina	KC482307.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.644	-115.493	0.00392927308447937
+Carex_marina	KC482306.1	25-OCT-2013	552	Canada: Nunavut, Repulse Bay, District of Franklin. Melville Peninsula. Repulse Bay. Between the 1st and 2nd ridges ESE of the settlement, about 400 m S of the garbage dump site	primary	rbcL	66.517	-86.217	0.00392927308447937
+Carex_marina	KC482305.1	25-OCT-2013	552	Canada: Yukon Territory, Yukon Mainland, Ivvavik National Park, Sheep Crrek	primary	rbcL	69.154	-140.161	0.00392927308447937

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lepidium_ruderale	JN045148.1	13-DEC-2011	208	China	secondary	psbA-trnH	35.1946611233307	104.075839983921	0.00641025641025641
+Lepidium_ruderale	JN045147.1	13-DEC-2011	208	China	secondary	psbA-trnH	35.3646123247237	105.64061216728	0.00641025641025641
+Lepidium_ruderale	JN045146.1	13-DEC-2011	210	China	secondary	psbA-trnH	35.2319020753185	105.541245625661	0.0192307692307692
+Lepidium_ruderale	JN045145.1	13-DEC-2011	208	China	secondary	psbA-trnH	35.1173662738436	105.509318519574	0.00641025641025641

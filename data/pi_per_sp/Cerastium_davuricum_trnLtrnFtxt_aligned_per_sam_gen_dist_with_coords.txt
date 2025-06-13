@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_davuricum	MH487893.1	20-JAN-2022	2087	Georgia	secondary	trnL-trnF	32.2976116032578	-83.1188924230559	0.00228301851920305
+Cerastium_davuricum	MH487892.1	20-JAN-2022	2085	Turkey	secondary	trnL-trnF	39.3161878269931	34.2141798134229	0.00312084748265171
+Cerastium_davuricum	MH487891.1	20-JAN-2022	2086	Turkey	secondary	trnL-trnF	39.5404643693622	34.7592417682005	0.00180005873414275
+Cerastium_davuricum	MH487889.1	20-JAN-2022	2086	Kazakhstan	secondary	trnL-trnF	48.1012954	66.7780818	0.00131998147927197
+Cerastium_davuricum	MH487888.1	20-JAN-2022	2086	Georgia	secondary	trnL-trnF	32.7237878056456	-82.3519570878517	0.00131998147927197

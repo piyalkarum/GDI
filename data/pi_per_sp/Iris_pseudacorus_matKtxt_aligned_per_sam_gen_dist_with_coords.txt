@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_pseudacorus	KX677070.1	09-AUG-2017	837	Canada: British Columbia, Greater Vancouver Regional District, Pitt River	primary	matK	49.5	-122	0.00289670400909993
+Iris_pseudacorus	MG217117.1	24-JAN-2018	807	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Sassafras Point	primary	matK	43.2721	-79.9051	0.00288768648748524
+Iris_pseudacorus	KX783696.1	31-MAY-2017	816	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	matK	31.189	31.189	0.0403604977080756
+Iris_pseudacorus	JN894195.1	07-MAR-2012	847	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.00293746369071044
+Iris_pseudacorus	OR703749.1	11-NOV-2023	636	Kazakhstan: Akmola region	secondary	matK	51.8742347	69.8582132	0.00297289878659868
+Iris_pseudacorus	MN384864.1	10-MAR-2020	903	Switzerland:Cartigny, Moulin de Vert	secondary	matK	46.1785081	6.0268252	0.00294110164809175
+Iris_pseudacorus	MK925999.1	14-JAN-2020	806	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00289495260436188
+Iris_pseudacorus	MK127945.1	29-MAY-2019	588	South Korea	secondary	matK	36.638392	127.6961188	0.00476528030943843
+Iris_pseudacorus	KP089622.1	15-MAR-2015	793	China: Muli, Sichuan	secondary	matK	27.9291894	101.2787073	0.00295889272921524
+Iris_pseudacorus	KP089621.1	15-MAR-2015	793	China: Shenyang, Liaoning	secondary	matK	41.8314278	123.4007626	0.00295889272921524
+Iris_pseudacorus	AY596643.1	01-FEB-2005	1915	Georgia: Gardabani	secondary	matK	41.4596178	45.089706	0.00498790356597224
+Iris_pseudacorus	KC584932.1	04-JUN-2013	848	Italy: Umbria	secondary	matK	42.965916	12.490236	0.00292699527952682
+Iris_pseudacorus	JN895735.1	07-MAR-2012	800	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00289265796408654
+Iris_pseudacorus	JF954164.1	13-DEC-2011	792	China	secondary	matK	34.4839370281054	104.270256144886	0.0029591050245095
+Iris_pseudacorus	JF954163.1	13-DEC-2011	792	China	secondary	matK	35.1866206280285	104.512370530813	0.0029591050245095
+Iris_pseudacorus	JF954162.1	13-DEC-2011	792	China	secondary	matK	34.7795386607589	104.322617418947	0.0029591050245095

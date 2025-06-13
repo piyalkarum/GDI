@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stipa_krylovii	MN481475.1	28-OCT-2020	942	Russia	secondary	trnL-trnF	64.4029600144637	98.0641004759578	0.000354233085370174
+Stipa_krylovii	MN481474.1	28-OCT-2020	941	Russia	secondary	trnL-trnF	65.3889255976559	97.8665947806512	0.000354233085370174
+Stipa_krylovii	MN481473.1	28-OCT-2020	941	Russia	secondary	trnL-trnF	65.5354128161202	98.1861319991332	0.00117014668782253
+Stipa_krylovii	MF046065.1	07-AUG-2017	722	China: Neimenggu	secondary	trnL-trnF	43.2443242	114.3251664	0.000461680517082179

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_thyrsoides	MK556101.1	22-SEP-2019	343	Switzerland	secondary	rbcL	46.014998976531	8.39863426283129	0.629883957215567
+Campanula_thyrsoides	MK556020.1	22-SEP-2019	360	Switzerland	secondary	rbcL	46.4552667091433	9.25912749956276	0.591227459517945
+Campanula_thyrsoides	MK555579.1	22-SEP-2019	357	Switzerland	secondary	rbcL	46.3414370036243	9.05017576853621	0.624612275612505
+Campanula_thyrsoides	MK555458.1	22-SEP-2019	381	Switzerland	secondary	rbcL	47.3876299183255	7.81265635763805	0.6309697586083
+Campanula_thyrsoides	MK555378.1	22-SEP-2019	382	Switzerland	secondary	rbcL	47.4415811773295	7.7895332408562	0.643417808096945

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Halocnemum_strobilaceum	OQ791305.1	02-AUG-2023	584	Egypt	primary	rbcL	31.3728	27.1903	0.000813061872025383
+Halocnemum_strobilaceum	MT931089.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.0011217807120162
+Halocnemum_strobilaceum	OK662632.1	19-JAN-2022	666	Egypt	secondary	rbcL	26.3169915377073	29.5573628692406	0.000789003746600631
+Halocnemum_strobilaceum	OK662631.1	19-JAN-2022	666	Egypt	secondary	rbcL	26.8686080589281	29.7312859076994	0.000789003746600631
+Halocnemum_strobilaceum	KX282771.1	28-MAY-2017	523	Kuwait	secondary	rbcL	28.9373691111208	47.8488103448133	0.00273470140508546
+Halocnemum_strobilaceum	KX282770.1	28-MAY-2017	541	Kuwait	secondary	rbcL	29.0918385891738	47.0812526154873	0.003072603739079

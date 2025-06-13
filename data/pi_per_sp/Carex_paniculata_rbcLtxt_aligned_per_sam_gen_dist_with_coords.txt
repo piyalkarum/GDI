@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_paniculata	JN891893.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.57	-3.47	0
+Carex_paniculata	MW010903.1	27-JUL-2021	553	Poland	secondary	rbcL	52.215933	19.134422	0
+Carex_paniculata	JN892598.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0
+Carex_paniculata	JN891912.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Carex_paniculata	JN891690.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0

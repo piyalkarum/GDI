@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Isolepis_setacea	MN450930.1	30-NOV-2021	775	China	secondary	matK	35.000074	104.999927	0.00487940409641402
+Isolepis_setacea	KX036982.1	20-APR-2017	859	Kenya	secondary	matK	1.4419683	38.4313975	0.00398022746983502
+Isolepis_setacea	HM850941.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0151248268317325
+Isolepis_setacea	JN896061.1	07-MAR-2012	702	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.00341880341880342
+Isolepis_setacea	JN895197.1	07-MAR-2012	797	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00318279569892473
+Isolepis_setacea	JN895194.1	07-MAR-2012	859	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.00398022746983502

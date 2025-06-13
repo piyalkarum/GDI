@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cynodon_dactylon	MF597289.1	17-JUL-2018	776	USA: California, Humboldt Co., 8.2 mi NW of Honeydew on Lost Coast Highway and 7.7 mi SE of Petrolia at bridge crossing Mattole River.	primary	matK	40.27	-124.227	0.00407192676838521
+Cynodon_dactylon	LC219303.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.3475	119.9378	0.00405252003800492
+Cynodon_dactylon	LC219292.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.3418	119.9271	0.00405252003800492
+Cynodon_dactylon	KP149505.1	16-NOV-2015	757	South Africa: Mpumalanga, Kruger National Park, Kruger National Park, Marula Region, Skukuza section	primary	matK	-25.006	31.573	0.00809515610391705
+Cynodon_dactylon	JQ412229.1	16-JAN-2013	731	South Africa: Western Cape, Cape Town, Robben Island	primary	matK	-33.811	18.364	0.00434254658164217
+Cynodon_dactylon	OQ390420.1	24-MAY-2023	853	Peru	secondary	matK	-6.78282953096501	-74.9482936542053	0.00406844032577241
+Cynodon_dactylon	OQ390419.1	24-MAY-2023	832	Peru	secondary	matK	-7.53712912545971	-75.0212775928923	0.00400617852221946
+Cynodon_dactylon	OQ390418.1	24-MAY-2023	855	Peru	secondary	matK	-6.40180647115198	-75.4473581411069	0.00423306610210287
+Cynodon_dactylon	OQ390417.1	24-MAY-2023	843	Peru	secondary	matK	-6.20633751976824	-74.9943164997262	0.004252360542864
+Cynodon_dactylon	MT930011.1	03-MAR-2023	782	China	secondary	matK	34.6156741439053	105.215928715776	0.0556331424372442
+Cynodon_dactylon	MH551967.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.70257735	-81.983441193043	0.00813704573147618
+Cynodon_dactylon	OL456268.1	18-APR-2022	769	Australia: Queensland, Rocklea	secondary	matK	-27.9097395450387	152.268205529264	0.00806128676942754
+Cynodon_dactylon	OL456267.1	18-APR-2022	750	Australia: Queensland, Rocklea	secondary	matK	-27.795728775665	153.18903578852	0.00473466163701069
+Cynodon_dactylon	OL456264.1	18-APR-2022	753	Australia: Queensland, Rocklea	secondary	matK	-27.1638297738013	153.531448777563	0.00563753844688085
+Cynodon_dactylon	OL456263.1	18-APR-2022	718	Australia: Queensland, Chambers Flat	secondary	matK	-27.74646	153.0834286	0.00518696211659707
+Cynodon_dactylon	MN492706.1	30-NOV-2021	791	China	secondary	matK	34.8131462236431	104.578125037626	0.00422083148191156
+Cynodon_dactylon	MN492705.1	30-NOV-2021	810	China	secondary	matK	35.3191749065332	105.462303206173	0.00401486596648048
+Cynodon_dactylon	MK925646.1	14-JAN-2020	817	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00730236041563023
+Cynodon_dactylon	MK074722.1	21-MAY-2019	840	India	secondary	matK	22.1112078467963	79.4769426162621	0.0069355016553918
+Cynodon_dactylon	MF999017.1	09-DEC-2017	1821	Tanzania	secondary	matK	-6.5247123	35.7878438	0.00953246813567507
+Cynodon_dactylon	AF144584.1	29-DEC-1999	1542	South Africa	secondary	matK	-28.8166236	24.991639	0.00443160685423049
+Cynodon_dactylon	JN228941.1	31-AUG-2011	872	India	secondary	matK	22.9183208314537	78.4667720734764	0.0055617918137255
+Cynodon_dactylon	KP056929.1	28-FEB-2015	1020	South Korea: Icheon-si, Gyeonggi-do	secondary	matK	37.2808823	127.4429132	0.0074189253646231
+Cynodon_dactylon	KP056928.1	28-FEB-2015	1020	South Korea: Yangyang-gun, Gangwon-do	secondary	matK	38.1335651	128.6211991	0.00428072021678551
+Cynodon_dactylon	KP056927.1	28-FEB-2015	1020	South Korea: Jeju-si, Jeju-do	secondary	matK	33.3939924	126.5626653	0.00410820526516239
+Cynodon_dactylon	KP056926.1	28-FEB-2015	1020	South Korea: Gyeongju-si, Gyeongsangbuk-do	secondary	matK	35.8556705	129.2248811	0.0074189253646231
+Cynodon_dactylon	HM850567.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00889872796356935
+Cynodon_dactylon	HE966911.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00820702939878859
+Cynodon_dactylon	HQ599987.1	02-AUG-2011	1318	South Korea	secondary	matK	36.638392	127.6961188	0.00437425736408879

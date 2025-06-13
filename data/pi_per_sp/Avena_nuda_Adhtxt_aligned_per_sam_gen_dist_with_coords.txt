@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Avena_nuda	KT453024.1	17-FEB-2017	888	Poland	secondary	Adh	52.215933	19.134422	0.00225886674063588
+Avena_nuda	KT453020.1	17-FEB-2017	887	Canada: Ontario	secondary	Adh	50.000678	-86.000977	0.00225886674063588
+Avena_nuda	KT452994.1	17-FEB-2017	885	Czechoslovakia	secondary	Adh	14.480176	121.0392436	0.0018089321778255
+Avena_nuda	KT452993.1	17-FEB-2017	886	Germany	secondary	Adh	31.4399019	-95.350778	0.00180688933950594
+Avena_nuda	KT452992.1	17-FEB-2017	886	Netherlands	secondary	Adh	52.2434979	5.6343227	0.00180688933950594
+Avena_nuda	KT452942.1	17-FEB-2017	885	Colombia	secondary	Adh	4.099917	-72.9088133	0.00452079658460516

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_caprea	LC758207.1	08-MAR-2023	1294	Japan:Miyagi, Botanical Gardens of Tohoku University	secondary	trnL-trnF	34.9803071	139.838919	0.000676571384855559
+Salix_caprea	LC758159.1	08-MAR-2023	1294	Japan:Hokkaido, Forestry and Forest Products Research Institute, Arboretum of Hokkaido Research Center	secondary	trnL-trnF	44.021883199765	142.809851746384	0.000676571384855559
+Salix_caprea	LC758123.1	08-MAR-2023	1294	Japan:Hiroshima, Taishakukyo Gorge	secondary	trnL-trnF	34.3917241	132.4517589	0.000676197836166924
+Salix_caprea	LC758111.1	08-MAR-2023	1295	Japan:Hokkaido, Nakagawa Experiment Forest of Hokkaido university	secondary	trnL-trnF	43.676383349461	142.295669681584	0.00115934571004732
+Salix_caprea	LC758110.1	08-MAR-2023	1295	Japan:Hokkaido, Teshio Experiment Forest of Hokkaido University	secondary	trnL-trnF	42.8570048658095	142.46361431505	0.00115934571004732
+Salix_caprea	LC758109.1	08-MAR-2023	1295	Japan:Fukushima	secondary	trnL-trnF	37.75454	140.4592144	0.00135232130874162
+Salix_caprea	LC758104.1	08-MAR-2023	1296	Japan:Hokkaido, Hiyama, Assabu-cho, Tomisato	secondary	trnL-trnF	41.8733223	140.3711414	0.00202822053672131
+Salix_caprea	LC758101.1	08-MAR-2023	1294	Japan:Ibaraki, Kitaibaraki City, Sekimoto-cho, Mt. Osho	secondary	trnL-trnF	34.834009	135.5539509	0.00202889234745168
+Salix_caprea	LC758095.1	08-MAR-2023	1295	South Korea:Gyeongsangnam-do, Hamyang-gun, Jirisan National Park	secondary	trnL-trnF	35.3315131	127.6543914	0.000676048647455139

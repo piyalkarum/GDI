@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_compressa	MF596945.1	28-FEB-2018	603	Canada: British Columbia, Mayne Island, Bennett Bay, Gulf Islands National Park Reserve of Canada, Wilkes Road off Bennett Bay Road. Along trail through woods along coast.	primary	rbcL	48.5590357321691	-122.485083874919	0
+Poa_compressa	MF596944.1	28-FEB-2018	603	Canada: Manitoba	primary	rbcL	49.3921421152554	-97.4504883682306	0
+Poa_compressa	MF596943.1	28-FEB-2018	603	Canada: British Columbia, Port Coquitlam, gravel lot along Oxford connector that parallels CPR railway along Lougheed Highway, just SE of Shaughnessy Street	primary	rbcL	48.5150416900918	-122.921065783882	0
+Poa_compressa	MF596942.1	28-FEB-2018	603	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	rbcL	49.3067667771955	-98.0937892346853	0
+Poa_compressa	MG228170.1	23-JAN-2018	603	Canada: British Columbia, Port Coquitlam, gravel lot along Oxford connector that parallels CPR railway along Lougheed Highway, just SE of Shaughnessy Street	primary	rbcL	49.0809045783812	-124.014732277541	0
+Poa_compressa	MG225770.1	23-JAN-2018	603	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	rbcL	49.6485607498229	-97.6584594019532	0
+Poa_compressa	MG225676.1	23-JAN-2018	603	Canada: Manitoba	primary	rbcL	48.7419435682878	-98.2962758631344	0
+Poa_compressa	MG225651.1	23-JAN-2018	603	Canada: British Columbia, Mayne Island, Bennett Bay, Gulf Islands National Park Reserve of Canada, Wilkes Road off Bennett Bay Road. Along trail through woods along coast.	primary	rbcL	48.6365942656459	-124.177512411695	0
+Poa_compressa	MG227409.1	23-JAN-2018	553	Canada: Ontario, Nipissing District, Sproule Township, Canoe Dock, Wildlife Research Station, Algonquin Park	secondary	rbcL	43.72634945	-77.7101179040839	0
+Poa_compressa	MG225726.1	23-JAN-2018	552	Canada: Quebec, Reg. adm. GaspesieIles-de-la-Madeleine, MRC La Haute-Gaspesie, Municipalite Sainte-Anne-des-Monts, Riviere Sainte-Anne, by bridge near road junction to lac Cascapedia, Gaspe	secondary	rbcL	46.8137431	-71.2084061	0
+Poa_compressa	KJ599121.1	21-SEP-2014	557	Australia: New South Wales	secondary	rbcL	-31.8759835	147.2869493	0
+Poa_compressa	JN893707.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Poa_compressa	JN893704.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phippsia_algida	OK247890.1	27-OCT-2022	1085	Norway: Svalbard	secondary	rpoB	78.7198519	20.3493328	0.00205131330461047
+Phippsia_algida	OK247889.1	27-OCT-2022	1080	USA: Alaska	secondary	rpoB	64.4459613	-149.680909	0.00280852831899447
+Phippsia_algida	KM523992.2	04-JUL-2015	1046	Canada: Nunavut	secondary	rpoB	65.0377727	-92.5540791	0.00134520981239513
+Phippsia_algida	KM523993.1	04-JUL-2015	1047	Norway	secondary	rpoB	64.5731537	11.5280364	0.00172615697060062
+Phippsia_algida	GQ283294.1	28-FEB-2010	1169	Canada: Nunavut, Cornwallis Island	secondary	rpoB	75.1627733101787	-95.0064635255056	0.00163016031557101
+Phippsia_algida	GQ283293.1	28-FEB-2010	1172	Canada: Nunavut, Cornwallis Island	secondary	rpoB	75.4498170489445	-94.445501617433	0.00276502029899131

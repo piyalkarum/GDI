@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_vulgaris	MZ676679.1	10-AUG-2022	568	United Kingdom: England, Durham	primary	rbcL	54.7531	-1.5806	0.00513588413157299
+Jacobaea_vulgaris	MK030055.1	16-OCT-2019	553	United Kingdom: England, Durham, Bishop Auckland Castle Park	primary	rbcL	54.6725	-1.6586	0.00181050222327052
+Jacobaea_vulgaris	MG322260.1	11-NOV-2018	593	United Kingdom: England, North West, Foreshield Burn	primary	rbcL	54.8159	-2.39	0.00614817566723565
+Jacobaea_vulgaris	MG224531.1	26-DEC-2017	552	Canada: Ontario, Thunder Bay, Roadside bank on Hwy 11-17 over MacKenzie R. S-facing bank in MacGregor Twp.	primary	rbcL	48.517	-88.95	0.0151857997442855
+Jacobaea_vulgaris	MG224118.1	26-DEC-2017	552	Canada: Prince Edward Island, Kings County, Montague, just W of Wightmans Point, 4 mi. E of Montague	primary	rbcL	46.167	-62.55	0.00181159420289855
+Jacobaea_vulgaris	JN891061.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.48	-3.61	0.00184729204038806
+Jacobaea_vulgaris	MG224214.1	26-DEC-2017	552	Canada: Nova Scotia, Cape Breton, Albert Bridge along edge of Trout Brook Road	secondary	rbcL	44.8776625946179	-63.1628429323864	0.00181159420289855
+Jacobaea_vulgaris	MG224125.1	26-DEC-2017	552	Canada: New Brunswick, Northumberland Co., Hwy 117W above Chatham - by Miramichi R.	secondary	rbcL	47.2781499451567	-68.880171745989	0.00181159420289855
+Jacobaea_vulgaris	MG222736.1	26-DEC-2017	552	Canada: Nova Scotia, Cape Breton Co., Hwy 4, Middle Cape	secondary	rbcL	44.7603622947447	-63.2446383266883	0.00181159420289855
+Jacobaea_vulgaris	MG222679.1	26-DEC-2017	552	Canada: New Brunswick, Bridge at Quarryville, Newcastle	secondary	rbcL	47.4276215792334	-68.2265565349275	0.00181159420289855
+Jacobaea_vulgaris	GU817769.1	17-OCT-2010	1454	Netherlands	secondary	rbcL	52.2434979	5.6343227	0.00284715392098375
+Jacobaea_vulgaris	JN892338.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00184729204038806
+Jacobaea_vulgaris	JN891713.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00184729204038806

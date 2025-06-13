@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erica_manipuliflora	KP737447.1	04-MAY-2015	901	Lebanon	secondary	trnL-trnF	40.375713	-76.4626118	0
+Erica_manipuliflora	KP737446.1	04-MAY-2015	908	Croatia	secondary	trnL-trnF	46.0338140094172	16.2094568901506	0
+Erica_manipuliflora	KP737445.1	04-MAY-2015	776	Greece	secondary	trnL-trnF	43.9482765920396	-78.0043207503044	0.000644329896907216
+Erica_manipuliflora	KP737444.1	04-MAY-2015	912	Greece	secondary	trnL-trnF	43.7191772131819	-76.7892570794269	0.000322164948453608
+Erica_manipuliflora	KP737443.1	04-MAY-2015	1457	Croatia	secondary	trnL-trnF	44.6536079518047	16.1232780054114	0.000322164948453608

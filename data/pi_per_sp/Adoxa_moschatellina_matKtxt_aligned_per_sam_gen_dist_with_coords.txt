@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Adoxa_moschatellina	MG225336.1	21-JAN-2018	765	Canada: Yukon Territory, Mount Klotz area	primary	matK	65.357	-140.197	0.00184045640536915
+Adoxa_moschatellina	MG225260.1	21-JAN-2018	781	Canada: Yukon Territory, Keele Range	primary	matK	66.971	-140.832	0.000777260114459783
+Adoxa_moschatellina	MG224790.1	21-JAN-2018	757	USA: Alaska, Stuver Creek drainage, Wrangell St. Elias National Park	primary	matK	62.429	-142.014	0.000796498099950064
+Adoxa_moschatellina	JN894399.1	07-MAR-2012	831	United Kingdom: Monmouthshire	primary	matK	51.8	-3.03	0.00129099003041591
+Adoxa_moschatellina	MN267139.1	30-NOV-2021	807	China	secondary	matK	35.000074	104.999927	0.00076800159525442
+Adoxa_moschatellina	JN896224.1	07-MAR-2012	773	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00131707296542582

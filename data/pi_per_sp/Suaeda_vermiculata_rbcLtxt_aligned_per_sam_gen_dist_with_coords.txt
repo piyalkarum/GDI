@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Suaeda_vermiculata	OM039308.1	19-JUN-2022	553	United Arab Emirates: Umm Al-Quwain	primary	rbcL	25.538064	55.63793	0.0229896358199172
+Suaeda_vermiculata	OM039306.1	19-JUN-2022	515	United Arab Emirates: Sharjah	primary	rbcL	25.00245	56.349646	0.0588996763754045
+Suaeda_vermiculata	OM039305.1	19-JUN-2022	553	United Arab Emirates: Sharjah	primary	rbcL	25.384603	55.41867	0.0260479760295417
+Suaeda_vermiculata	KX283069.1	28-MAY-2017	579	Kuwait	secondary	rbcL	29.3796532	47.9734174	0.0267397016567472

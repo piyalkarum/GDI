@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_pusillus	MF694542.1	04-SEP-2018	466	Canada: Ontario, Muskoka D.M. Morrison Township, south end of Morrison Lake and central Morrison Creek, Grid-216685 (31 D/14)	primary	rbcL	44.3384269865258	-78.8540708170126	0.418295409257107
+Potamogeton_pusillus	MF694539.1	04-SEP-2018	466	Canada: Ontario, Kaladar Township.	primary	rbcL	44.0140320539445	-77.8393065712002	0.418295409257107
+Potamogeton_pusillus	MF694537.1	04-SEP-2018	464	Canada: Yukon Territory, LaBiche, Lower Valley	primary	rbcL	60.1672734899664	-123.740516332339	0.424652935432625
+Potamogeton_pusillus	MF694510.1	04-SEP-2018	467	Canada: British Columbia, Surrey, golf course on Fraser Highway	primary	rbcL	48.6178608076285	-121.729853842575	0.421880169699486
+Potamogeton_pusillus	MF694504.1	04-SEP-2018	464	Canada: British Columbia, Mission, Errock Lake, slough along Malcolm Road, S of lake	primary	rbcL	49.226636983746	-120.659224808359	0.424652935432625
+Potamogeton_pusillus	MF694617.1	04-SEP-2018	553	Canada: Ontario, Muskoka D.M. Morrison Township, south end of Morrison Lake and central Morrison Creek, Grid-216685 (31 D/14)	primary	rbcL	44.9909845390124	-78.2165349818011	0.0870655186959535
+Potamogeton_pusillus	MF694615.1	04-SEP-2018	553	Canada: Ontario, Kaladar Township.	primary	rbcL	44.7682297947224	-78.3891370302109	0.0870655186959535
+Potamogeton_pusillus	MF694613.1	04-SEP-2018	552	Canada: Yukon Territory, LaBiche, Lower Valley	primary	rbcL	59.2564320403858	-124.422192407972	0.0870655186959535
+Potamogeton_pusillus	MF694588.1	04-SEP-2018	552	Canada: British Columbia, Surrey, golf course on Fraser Highway	primary	rbcL	49.3965419497494	-122.550593463256	0.08783829244859
+Potamogeton_pusillus	MF694582.1	04-SEP-2018	552	Canada: British Columbia, Mission, Errock Lake, slough along Malcolm Road, S of lake	primary	rbcL	49.4608232651367	-121.143642864515	0.0870655186959535
+Potamogeton_pusillus	MG227864.1	23-JAN-2018	552	Canada: Yukon Territory, Nordenskiold River	primary	rbcL	61.956	-136.201	0.0870655186959535
+Potamogeton_pusillus	JN893695.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.49	-3.27	0.0870669354125916
+Potamogeton_pusillus	JN891633.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.58	-2.85	0.0870669354125916
+Potamogeton_pusillus	MF694592.1	04-SEP-2018	552	Canada: Ontario, Rainy River District. Rainy River, 1.5 miles southeast of Pinewood, Dilke Township	secondary	rbcL	43.72634945	-77.7101179040839	0.0870655186959535
+Potamogeton_pusillus	KX024600.1	14-DEC-2016	881	China	secondary	rbcL	34.9274894620202	105.986759617305	0.108410631568217
+Potamogeton_pusillus	KX024599.1	14-DEC-2016	881	China	secondary	rbcL	34.2495297669329	105.134066913497	0.108672571671246
+Potamogeton_pusillus	FJ956846.1	30-DEC-2010	890	China: Taibai, Shanxi	secondary	rbcL	33.8299482861028	106.58157423585	0.108409748624049
+Potamogeton_pusillus	FJ956845.1	30-DEC-2010	890	China: Taibai, Shanxi	secondary	rbcL	34.004050518077	107.554881477411	0.108409748624049
+Potamogeton_pusillus	HM850283.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.105258510913109
+Potamogeton_pusillus	JN893628.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0870669354125916
+Potamogeton_pusillus	JF943574.1	13-DEC-2011	615	China: Guizhou	secondary	rbcL	27.1311901061595	107.174290898141	0.0980882359690307
+Potamogeton_pusillus	JF943573.1	13-DEC-2011	615	China: Hebei	secondary	rbcL	39.0000001	116	0.0980882359690307
+Potamogeton_pusillus	JF943572.1	13-DEC-2011	615	China: Neimenggu	secondary	rbcL	43.2443242	114.3251664	0.0980882359690307
+Potamogeton_pusillus	JF943571.1	13-DEC-2011	615	China: Guizhou	secondary	rbcL	26.5615054938724	107.470006339734	0.0980882359690307
+Potamogeton_pusillus	JF943570.1	13-DEC-2011	615	China: Yunnan	secondary	rbcL	25	102	0.0980882359690307
+Potamogeton_pusillus	AB250148.1	01-MAY-2009	1349	Japan:Shinano, Nagano	secondary	rbcL	36.819182	138.182686	0.105025820106845
+Potamogeton_pusillus	AB196950.1	01-MAY-2009	1349	Japan:Aomori, Kamikita	secondary	rbcL	40.8612386	141.1837188	0.105025820106845

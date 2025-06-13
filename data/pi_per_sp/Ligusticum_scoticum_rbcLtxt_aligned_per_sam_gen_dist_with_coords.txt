@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ligusticum_scoticum	MG224303.1	26-DEC-2017	552	USA: Alaska, Kenai Peninsula Borough, Kenai Fjords National Park, Harris Bay, Crater Bay, east side	primary	rbcL	59.691	-149.803	0
+Ligusticum_scoticum	MG223661.1	26-DEC-2017	552	Canada: New Brunswick, St. John Co., St. John, W side, St. John Harbour, Saints' Rest Beach, NE of Lorneville.	primary	rbcL	45.25	-66.033	0
+Ligusticum_scoticum	MK925561.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.285741866054	-3.23752932089681	0
+Ligusticum_scoticum	MK925318.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4982475903748	-4.44512568798602	0
+Ligusticum_scoticum	MK924896.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2777975038119	-2.09767001753797	0
+Ligusticum_scoticum	MK924585.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0288413196294	-3.08356659771544	0
+Ligusticum_scoticum	MK924583.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0
+Ligusticum_scoticum	MK924432.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7561078781837	-2.31280054159896	0
+Ligusticum_scoticum	MG223429.1	26-DEC-2017	552	Canada: Prince Edward Island, Queens Co., W side of ferry terminal at Wood Island.	secondary	rbcL	46.5036807	-63.5954109689673	0
+Ligusticum_scoticum	MG221963.1	26-DEC-2017	552	Canada: Nova Scotia, Digby, Sandy Cove.	secondary	rbcL	44.4912007	-66.0895751	0

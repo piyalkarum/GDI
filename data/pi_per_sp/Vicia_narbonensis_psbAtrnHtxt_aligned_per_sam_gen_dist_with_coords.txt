@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_narbonensis	KP896998.1	13-OCT-2015	373	Turkey	secondary	psbA-trnH	38.9597594	34.9249653	0.036837376460018
+Vicia_narbonensis	KP896997.1	13-OCT-2015	371	Syria	secondary	psbA-trnH	34.6401861	39.0494106	0.0377358490566038
+Vicia_narbonensis	KP896996.1	13-OCT-2015	372	Israel	secondary	psbA-trnH	30.0293794075923	34.3572639613843	0.026949347399743
+Vicia_narbonensis	KP896995.1	13-OCT-2015	372	Israel	secondary	psbA-trnH	30.8353484842113	34.846842660721	0.0260508748031572

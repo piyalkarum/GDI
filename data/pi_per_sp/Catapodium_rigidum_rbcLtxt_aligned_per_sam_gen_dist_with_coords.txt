@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Catapodium_rigidum	JN892799.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.49	-3.18	0.00369685767097967
+Catapodium_rigidum	KJ599163.1	21-SEP-2014	559	Australia: Victoria	secondary	rbcL	-36.5986096	144.6780052	0.014773814265241
+Catapodium_rigidum	HM849870.1	23-JUL-2011	677	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00368324125230203
+Catapodium_rigidum	JN892364.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00369685767097967
+Catapodium_rigidum	JN892363.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.00369685767097967

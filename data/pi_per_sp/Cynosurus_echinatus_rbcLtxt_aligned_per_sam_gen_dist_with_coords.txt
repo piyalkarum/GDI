@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cynosurus_echinatus	MF596700.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, Thetis Lake Regional Park, just N of Hwy. 1, N of Langford.	primary	rbcL	48.6863385392985	-122.466382492466	0.00182066271587762
+Cynosurus_echinatus	MF596699.1	28-FEB-2018	603	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	rbcL	49.2911631122798	-122.940534818024	0.00182066271587762
+Cynosurus_echinatus	MF596698.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island. Fairwinds Natural Area, along trail to Dolphin Lake and Enos Lake.	primary	rbcL	49.047878712269	-125.079796954437	0.00182066271587762
+Cynosurus_echinatus	MG227320.1	23-JAN-2018	603	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	rbcL	48.425053031271	-124.494471147039	0.00182066271587762
+Cynosurus_echinatus	MG226685.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island. Fairwinds Natural Area, along trail to Dolphin Lake and Enos Lake.	primary	rbcL	48.5847813314289	-123.332562484366	0.00182066271587762
+Cynosurus_echinatus	MG226328.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, Thetis Lake Regional Park, just N of Hwy. 1, N of Langford.	primary	rbcL	48.2805374652425	-122.861941278852	0.00182066271587762
+Cynosurus_echinatus	KJ599167.1	21-SEP-2014	546	Australia: Tasmania	secondary	rbcL	-42.035067	146.6366887	0.011357984244464
+Cynosurus_echinatus	HM849933.1	23-JUL-2011	690	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00333957695646215

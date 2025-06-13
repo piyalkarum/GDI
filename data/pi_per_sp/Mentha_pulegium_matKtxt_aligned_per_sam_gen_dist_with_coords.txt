@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_pulegium	ON684598.1	21-AUG-2022	1530	Portugal: Meiral, Canidelo, Vila Nova de Gaia	primary	matK	41.12447	-8.64486	0.000741409119034428
+Mentha_pulegium	JN896125.1	07-MAR-2012	873	United Kingdom: Carmarthenshire	primary	matK	51.79	-4.12	0.000741409119034428
+Mentha_pulegium	KP172056.1	04-FEB-2015	793	Pakistan	secondary	matK	30.3308401	71.247499	0.000525804620801369
+Mentha_pulegium	HM850797.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.000744211729633059
+Mentha_pulegium	HE966956.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.000806220980325367
+Mentha_pulegium	JN894226.1	07-MAR-2012	599	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0

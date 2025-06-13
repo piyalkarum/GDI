@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Triglochin_maritima	KP174317.1	13-DEC-2014	382	USA: Colorado	secondary	psbA-trnH	38.7251776	-105.607716	0.00954974974174792
+Triglochin_maritima	KP174316.1	13-DEC-2014	388	Canada: Quebec	secondary	psbA-trnH	52.4760892	-71.8258668	0.00957845532145257
+Triglochin_maritima	KP174315.1	13-DEC-2014	382	Mongolia	secondary	psbA-trnH	43.9382593	-79.2235563	0.0152618929595086
+Triglochin_maritima	KP174314.1	13-DEC-2014	309	Argentina	secondary	psbA-trnH	-34.9964963	-64.9672817	0.0750402287925168
+Triglochin_maritima	KP174313.1	13-DEC-2014	377	Japan	secondary	psbA-trnH	37.1712039165409	139.879108903239	0.00932671102510361
+Triglochin_maritima	KP174312.1	13-DEC-2014	380	Turkey	secondary	psbA-trnH	38.9597594	34.9249653	0.0104085190018204
+Triglochin_maritima	KP174311.1	13-DEC-2014	377	Japan	secondary	psbA-trnH	36.4201037542172	138.227175158093	0.00932671102510361
+Triglochin_maritima	KP174310.1	13-DEC-2014	381	Germany	secondary	psbA-trnH	40.4203479	-79.1166983	0.0103772585684547
+Triglochin_maritima	KP174309.1	13-DEC-2014	381	Hungary	secondary	psbA-trnH	41.9767629	-72.7789842	0.0103772585684547
+Triglochin_maritima	KP174308.1	13-DEC-2014	382	USA: South Dakota	secondary	psbA-trnH	44.6471761	-100.348761	0.00954974974174792
+Triglochin_maritima	KP174307.1	13-DEC-2014	382	USA: Nevada	secondary	psbA-trnH	39.5158825	-116.853722	0.0103449405819287
+Triglochin_maritima	KP174306.1	13-DEC-2014	377	Russia: Sakhalin	secondary	psbA-trnH	50.159476	143.0264412	0.00932671102510361

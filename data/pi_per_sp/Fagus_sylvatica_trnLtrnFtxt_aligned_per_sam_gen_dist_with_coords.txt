@@ -1,0 +1,35 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fagus_sylvatica	DQ875502.1	01-AUG-2007	718	Slovakia: Zvolen	secondary	trnL-trnF	48.5782517	19.1247135	0.00101497980681419
+Fagus_sylvatica	DQ875501.1	01-AUG-2007	718	Slovakia: Zamutov	secondary	trnL-trnF	48.9016824	21.5576575	0.00101497980681419
+Fagus_sylvatica	DQ875500.1	01-AUG-2007	718	United Kingdom: Scotland, Westfield	secondary	trnL-trnF	56.0026377	-3.7612966	0.00101497980681419
+Fagus_sylvatica	DQ875499.1	01-AUG-2007	718	Slovakia: Vihorlat	secondary	trnL-trnF	48.8260709	21.9831655	0.00101497980681419
+Fagus_sylvatica	DQ875498.1	01-AUG-2007	718	Romania: Retezat, Simeria	secondary	trnL-trnF	45.324775	22.78779938	0.00253352508270699
+Fagus_sylvatica	DQ875497.1	01-AUG-2007	718	Poland: Tomaszow Lubelski	secondary	trnL-trnF	50.447923	23.4291954	0.00101497980681419
+Fagus_sylvatica	DQ875496.1	01-AUG-2007	718	Germany: Tharandt	secondary	trnL-trnF	50.9853391	13.5794907	0.00101497980681419
+Fagus_sylvatica	DQ875495.1	01-AUG-2007	718	Slovakia: Tanap	secondary	trnL-trnF	49.2042095	20.2262407	0.00101497980681419
+Fagus_sylvatica	DQ875494.1	01-AUG-2007	715	Italy: Monte Taburno, Campania	secondary	trnL-trnF	41.0926483	14.6036333	0.00483176953765189
+Fagus_sylvatica	DQ875492.1	01-AUG-2007	718	Slovakia: Slovany	secondary	trnL-trnF	48.9717604	18.8228296	0.00101497980681419
+Fagus_sylvatica	DQ875491.1	01-AUG-2007	718	Slovakia: Sitno	secondary	trnL-trnF	48.4032456	18.8772471	0.00101497980681419
+Fagus_sylvatica	DQ875490.1	01-AUG-2007	717	Italy: Laghi di Monticchio, Basilicata	secondary	trnL-trnF	40.9362096	15.6098909	0.00253640937015672
+Fagus_sylvatica	DQ875487.1	01-AUG-2007	718	Slovakia: Polana	secondary	trnL-trnF	48.6600124	19.4401152	0.00101497980681419
+Fagus_sylvatica	DQ875486.1	01-AUG-2007	718	Greece: Nevrokopi	secondary	trnL-trnF	41.3439597	23.8666698	0.00236641728082595
+Fagus_sylvatica	DQ875484.1	01-AUG-2007	717	Germany: Medingen	secondary	trnL-trnF	53.0911082	10.5605294	0.00101550957389679
+Fagus_sylvatica	DQ875483.1	01-AUG-2007	718	Slovakia: Lozorno	secondary	trnL-trnF	48.3346371	17.0444471	0.00101497980681419
+Fagus_sylvatica	DQ875482.1	01-AUG-2007	718	United Kingdom: England, Lowther	secondary	trnL-trnF	54.5902092	-2.7319639	0.00101497980681419
+Fagus_sylvatica	DQ875481.1	01-AUG-2007	718	Spain: Limitaciones	secondary	trnL-trnF	42.7835421	-2.1696647	0.00101497980681419
+Fagus_sylvatica	DQ875480.1	01-AUG-2007	715	Greece: Lailias	secondary	trnL-trnF	41.2605525	23.6017078	0.00347549064126604
+Fagus_sylvatica	DQ875479.1	01-AUG-2007	718	Czech Republic: Kladska	secondary	trnL-trnF	50.0256248	12.6678963	0.00101497980681419
+Fagus_sylvatica	DQ875478.1	01-AUG-2007	718	Slovakia: Horna Suca	secondary	trnL-trnF	48.9666667	17.9833334	0.00101497980681419
+Fagus_sylvatica	DQ875477.1	01-AUG-2007	718	Sweden: Gullmarsberg	secondary	trnL-trnF	58.3813532	11.6502231	0.00101497980681419
+Fagus_sylvatica	DQ875476.1	01-AUG-2007	716	Italy: Prati di Tivo, Abruzzo	secondary	trnL-trnF	42.4997632	13.5595881	0.00101692954141196
+Fagus_sylvatica	DQ875474.1	01-AUG-2007	718	Switzerland: Glarus	secondary	trnL-trnF	46.9796562	9.108812	0.00101497980681419
+Fagus_sylvatica	DQ875473.1	01-AUG-2007	715	Italy: Foresta Umbra, Puglia	secondary	trnL-trnF	41.8447785	15.9775987354279	0.00347549064126604
+Fagus_sylvatica	DQ875472.1	01-AUG-2007	718	Italy: Annunziata, Sicilia	secondary	trnL-trnF	38.0505547	14.9694285	0.00101497980681419
+Fagus_sylvatica	DQ875471.1	01-AUG-2007	718	France: Des Collettes	secondary	trnL-trnF	43.910417	7.094001	0.00101497980681419
+Fagus_sylvatica	DQ875470.1	01-AUG-2007	719	Italy: Bosco della Martese, Abruzzo	secondary	trnL-trnF	42.6669961	13.4306624	0.00101480370899396
+Fagus_sylvatica	DQ875468.1	01-AUG-2007	718	Romania: Baia Mare	secondary	trnL-trnF	47.6565584	23.5719843	0.00346173455699503
+Fagus_sylvatica	DQ875467.1	01-AUG-2007	718	Denmark: Alsted	secondary	trnL-trnF	56.8485686	8.8215333	0.00101497980681419
+Fagus_sylvatica	DQ875466.1	01-AUG-2007	720	Italy: Pian di Novello, Tuscany	secondary	trnL-trnF	44.1161431	10.6914924	0.00101480370899396
+Fagus_sylvatica	DQ875493.1	01-AUG-2007	720	Italy	secondary	trnL-trnF	44.6063149174924	10.411791153569	0.00346138236135458
+Fagus_sylvatica	DQ875489.1	01-AUG-2007	717	Italy	secondary	trnL-trnF	45.1005832152308	9.853367610574	0.00346591383064669
+Fagus_sylvatica	DQ875485.1	01-AUG-2007	717	Italy	secondary	trnL-trnF	37.47427625	14.1385298302571	0.00101550957389679

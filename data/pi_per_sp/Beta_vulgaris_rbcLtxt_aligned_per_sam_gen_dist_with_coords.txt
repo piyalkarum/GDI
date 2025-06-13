@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Beta_vulgaris	JN893070.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.61	-3.95	0.0794143744454303
+Beta_vulgaris	MN204801.1	30-NOV-2021	724	China	secondary	rbcL	35.000074	104.999927	0.0812525185154307
+Beta_vulgaris	KY884407.1	30-APR-2018	523	Jordan: Shuna	secondary	rbcL	31.9009913	35.6266454	0.553689402727095
+Beta_vulgaris	KX808570.1	26-AUG-2017	511	Egypt	secondary	rbcL	26.2540493	29.2675469	0.0792838874680307
+Beta_vulgaris	HM849814.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.077414263165447
+Beta_vulgaris	JN891162.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.0794143744454303
+Beta_vulgaris	JN890993.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.9090369357984	-2.29497312403325	0.0794143744454303
+Beta_vulgaris	JN890992.1	07-MAR-2012	536	United Kingdom: Glamorgan	secondary	rbcL	50.8435283682336	-3.8574287158814	0.0795660036166365

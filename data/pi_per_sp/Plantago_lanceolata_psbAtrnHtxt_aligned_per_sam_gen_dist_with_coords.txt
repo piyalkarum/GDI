@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_lanceolata	OR464997.1	26-SEP-2023	331	USA: Bishop's Bog Preserve, Portage, MI	primary	psbA-trnH	42.1844572	-85.5919448	0.00225606962895098
+Plantago_lanceolata	OQ310845.1	16-MAY-2023	344	Mexico: Puebla	secondary	psbA-trnH	19.1710098	-98.4125121	0.00222643473089503
+Plantago_lanceolata	HE966742.1	18-SEP-2012	355	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00450174758641267
+Plantago_lanceolata	GQ248369.1	02-JUL-2009	296	India	secondary	psbA-trnH	22.3511148	78.6677428	0.00453138248446862

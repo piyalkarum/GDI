@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_tectorum	OR738298.1	13-NOV-2023	751	Kazakhstan: Mangistau region	primary	matK	43.50595	51.30181	0.00296679683582337
+Bromus_tectorum	OQ847510.1	15-AUG-2023	789	USA: CMR Wildlife Refuge	primary	matK	47.6693	-107.6683	0.00204316267315535
+Bromus_tectorum	MF597259.1	17-JUL-2018	789	Canada: British Columbia, Along edge of University of British Columbia Biological Sciences building	primary	matK	51.614	-123.25	0.00343330687253983
+Bromus_tectorum	MF597258.1	17-JUL-2018	776	Canada: British Columbia, Richmond, London Farm, Gilbert Beach, just E of London's Landing. Saltwater marsh.	primary	matK	49.116	-123.158	0.00197192219405432
+Bromus_tectorum	MF597257.1	17-JUL-2018	798	Canada: British Columbia, 1.9 km up Stemwinder Mountain Road. Ponderosa pine glade with Pinus ponderosa, Selaginella, Pseudotsuga, and Achillea millefolium.	primary	matK	49.377	-122.139	0.00342463666151319
+Bromus_tectorum	MF597256.1	17-JUL-2018	793	Canada: British Columbia, Kuskanook Rest Area, Kuskanook Harbour Society. Gravel around edge of lake and edge of mixed woods.	primary	matK	49.3	-116.662	0.00194892902350472
+Bromus_tectorum	MF597255.1	17-JUL-2018	779	Canada: British Columbia, Ladner, S side of Canoe Passage, W terminus of River Road. Saltwater marsh.	primary	matK	49.08	-123.156	0.00196908633901567
+Bromus_tectorum	MF597254.1	17-JUL-2018	798	Canada: British Columbia, University of British Columbia, beside Biological Sciences Building in gravel.	primary	matK	49.264	-123.252	0.00368958308724824
+Bromus_tectorum	MT929976.1	03-MAR-2023	788	China	secondary	matK	35.7631509575699	105.333755514997	0.00386845437984613
+Bromus_tectorum	MT929975.1	03-MAR-2023	777	China	secondary	matK	34.6038959443395	105.166855793619	0.00178791170985013
+Bromus_tectorum	OM048607.1	08-AUG-2022	1214	Iran: Fars, Dasht-e Arzhan	secondary	matK	28.3071988	55.1923987	0.00217323173233049
+Bromus_tectorum	KJ529321.1	22-FEB-2015	969	Spain	secondary	matK	39.3260685	-4.8379791	0.0037772498596529
+Bromus_tectorum	KM487281.1	23-MAR-2015	2491	Afghanistan	secondary	matK	33.7680065	66.2385139	0.00227832335705888
+Bromus_tectorum	KF713104.1	15-DEC-2013	1014	South Korea: Uiwang-si, Gyeonggi-do	secondary	matK	37.3449082	126.9689861	0.00577239915401184
+Bromus_tectorum	HQ600020.1	02-AUG-2011	1325	South Korea	secondary	matK	36.638392	127.6961188	0.00227832335705888

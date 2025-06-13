@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calystegia_sepium	KX677153.1	09-AUG-2017	818	Canada: British Columbia, Metro Vancouver Regional Distrct, Vancouver, Jericho Park, duck pond, north shore	primary	matK	49.272	-123.197	0.00103800157028654
+Calystegia_sepium	HQ593197.1	09-NOV-2011	797	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 10 m N of marsh	primary	matK	44.026	-79.535	0.00131832137996796
+Calystegia_sepium	JN894556.1	07-MAR-2012	843	United Kingdom: Cardiganshire	primary	matK	52.14	-4.64	0.00103912813232966
+Calystegia_sepium	KC529155.1	31-JAN-2015	588	Finland	secondary	matK	63.2467777	25.9209164	0.00262832405689549
+Calystegia_sepium	KC529154.1	31-JAN-2015	693	Turkey	secondary	matK	38.9597594	34.9249653	0.00107288094301081
+Calystegia_sepium	KC529153.1	31-JAN-2015	693	United Kingdom: Wales	secondary	matK	52.2928116	-3.73893	0.00135867018983902
+Calystegia_sepium	KC529152.1	31-JAN-2015	693	USA	secondary	matK	39.7837304	-100.445882	0.00135867018983902
+Calystegia_sepium	KC529151.1	31-JAN-2015	693	Canada	secondary	matK	61.0666922	-107.991707	0.00135867018983902
+Calystegia_sepium	KC529150.1	31-JAN-2015	693	Portugal	secondary	matK	40.0459051776082	-8.52915578763423	0.00107288094301081
+Calystegia_sepium	HM850892.1	23-JUL-2011	819	Portugal	secondary	matK	39.960296171071	-9.20133230674472	0.00131544727102011
+Calystegia_sepium	JN896031.1	07-MAR-2012	728	United Kingdom: Cardiganshire	secondary	matK	52.6976268622062	-4.65172522825356	0.00105794139772627
+Calystegia_sepium	JN894767.1	07-MAR-2012	702	United Kingdom: Cardiganshire	secondary	matK	52.4550975960423	-2.98004520295157	0.00356858149065941

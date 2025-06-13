@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spergularia_marina	OQ172931.1	18-JUN-2023	184	South Korea	secondary	psbA-trnH	36.7120540404417	126.964419258944	0.00546448087431694
+Spergularia_marina	OQ172930.1	18-JUN-2023	183	South Korea	secondary	psbA-trnH	36.8759410841179	127.432935971079	0.00546448087431694
+Spergularia_marina	OQ172929.1	18-JUN-2023	183	South Korea	secondary	psbA-trnH	37.4332791061397	127.346970712017	0.00546448087431694
+Spergularia_marina	OQ172928.1	18-JUN-2023	183	South Korea	secondary	psbA-trnH	36.2507658014246	128.194116029947	0.00819672131147541
+Spergularia_marina	OQ172927.1	18-JUN-2023	183	South Korea	secondary	psbA-trnH	37.4217447911966	127.867510056313	0.00819672131147541

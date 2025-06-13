@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Symphytum_tuberosum	MK926362.1	14-JAN-2020	771	United Kingdom	secondary	matK	54.5491169770239	-3.6390092365687	0
+Symphytum_tuberosum	MK926196.1	14-JAN-2020	771	United Kingdom	secondary	matK	54.7413016085954	-3.50101735546611	0
+Symphytum_tuberosum	MK926134.1	14-JAN-2020	772	United Kingdom	secondary	matK	53.9108666363522	-2.91530680532503	0
+Symphytum_tuberosum	MK926055.1	14-JAN-2020	756	United Kingdom	secondary	matK	55.1700884871906	-3.83032856671938	0
+Symphytum_tuberosum	MK926033.1	14-JAN-2020	802	United Kingdom	secondary	matK	55.2692941440596	-2.47913310076604	0

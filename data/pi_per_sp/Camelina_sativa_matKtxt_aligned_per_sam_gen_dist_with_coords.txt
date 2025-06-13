@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Camelina_sativa	OR735615.1	13-NOV-2023	632	Kazakhstan: Akmola region	secondary	matK	51.8742347	69.8582132	0.0134493670886076
+Camelina_sativa	MT917681.1	03-MAR-2023	770	China	secondary	matK	35.000074	104.999927	0.0358329547671765
+Camelina_sativa	MK926250.1	14-JAN-2020	756	United Kingdom	secondary	matK	55.2056207116923	-3.80437225218437	0.00978459245864309
+Camelina_sativa	MK926242.1	14-JAN-2020	781	United Kingdom	secondary	matK	55.3439682334669	-3.90393409244697	0.0097959803839383
+Camelina_sativa	MK925875.1	14-JAN-2020	744	United Kingdom	secondary	matK	54.7706617679767	-2.94699253892116	0.00992326800054444

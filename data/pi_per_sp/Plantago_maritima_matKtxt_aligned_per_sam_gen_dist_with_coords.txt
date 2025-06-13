@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_maritima	OR738239.1	13-NOV-2023	626	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.217252396166134
+Plantago_maritima	KC475294.1	25-OCT-2013	725	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Unnamed cove on west coast, 1/2 way down island	primary	matK	56.322	-79.7	0.0543130990415335
+Plantago_maritima	JN966426.1	27-OCT-2012	708	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	matK	58.789	-94.227	0.0543130990415335
+Plantago_maritima	MK925931.1	14-JAN-2020	757	United Kingdom	secondary	matK	54.8958484948846	-2.61355899567579	0.0543130990415335
+Plantago_maritima	MK925629.1	14-JAN-2020	879	United Kingdom	secondary	matK	55.3002134158244	-2.54770356309434	0.0543130990415335

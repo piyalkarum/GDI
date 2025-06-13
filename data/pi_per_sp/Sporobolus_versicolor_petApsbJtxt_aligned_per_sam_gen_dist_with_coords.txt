@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sporobolus_versicolor	KT957695.1	07-NOV-2016	464	France: Port Saint Louis du Rhone, Bouches du Rhone	secondary	petA-psbJ	43.3825559	4.8102294	0
+Sporobolus_versicolor	KT957694.1	07-NOV-2016	464	Italy: Pantano, Sicily	secondary	petA-psbJ	44.5796495561878	11.3963608025676	0
+Sporobolus_versicolor	KT957693.1	07-NOV-2016	464	Spain: Roche, Andalusia	secondary	petA-psbJ	37.6293078	-0.917777228427205	0
+Sporobolus_versicolor	KT957690.1	07-NOV-2016	464	Italy: Pantano, Sicily	secondary	petA-psbJ	44.5188658633134	10.2895715937374	0
+Sporobolus_versicolor	KT957689.1	07-NOV-2016	464	Italy: Pantano, Sicily	secondary	petA-psbJ	44.1501282091124	9.71274701981436	0
+Sporobolus_versicolor	KT957669.1	07-NOV-2016	464	France: Grande Motte Herault	secondary	petA-psbJ	43.5598769	4.0906584	0
+Sporobolus_versicolor	KT957668.1	07-NOV-2016	464	Portugal: Tagus estuary	secondary	petA-psbJ	38.8225458	-8.9592493	0
+Sporobolus_versicolor	KT957692.1	07-NOV-2016	464	Spain	secondary	petA-psbJ	36.6974623561778	-5.02058822260782	0
+Sporobolus_versicolor	KT957691.1	07-NOV-2016	464	Spain	secondary	petA-psbJ	37.4408836985876	-4.32167916740133	0
+Sporobolus_versicolor	KT957667.1	07-NOV-2016	464	France	secondary	petA-psbJ	42.18808965	9.06841377142769	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubia_peregrina	JN891153.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.61	-2.72	0.00275862068965517
+Rubia_peregrina	MK028071.1	17-DEC-2018	721	Italy: Elba Island	secondary	rbcL	42.7902166	10.3402787	0.0117918476785229
+Rubia_peregrina	HM850312.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.003125
+Rubia_peregrina	JN892897.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00275862068965517
+Rubia_peregrina	JN892896.1	07-MAR-2012	511	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.0031496062992126
+Rubia_peregrina	MW818163.1	05-APR-2021	140	Spain	secondary	rbcL	28.6551163	-17.8572685655797	0

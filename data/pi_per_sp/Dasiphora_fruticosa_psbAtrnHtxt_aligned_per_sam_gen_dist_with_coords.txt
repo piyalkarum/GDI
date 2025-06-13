@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dasiphora_fruticosa	MF785871.1	06-DEC-2017	322	China: On the way from Muli to Chang-Hai-Zi Lake, near the pass	primary	psbA-trnH	28.12731	101.16031	0.0188110238571557
+Dasiphora_fruticosa	JN044376.1	13-DEC-2011	333	China	secondary	psbA-trnH	34.460559046032	105.227510524052	0.0145161624600877
+Dasiphora_fruticosa	JN044375.1	13-DEC-2011	333	China	secondary	psbA-trnH	34.6750177123926	105.725347821582	0.0129585300613338
+Dasiphora_fruticosa	JN044374.1	13-DEC-2011	325	China	secondary	psbA-trnH	35.3136536018238	105.882461231869	0.00940771688375522
+Dasiphora_fruticosa	JN044373.1	13-DEC-2011	339	China	secondary	psbA-trnH	34.3224663346912	105.585022373395	0.00917740170076619

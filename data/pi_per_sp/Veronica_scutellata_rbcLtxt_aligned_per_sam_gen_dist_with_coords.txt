@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_scutellata	MG223985.1	26-DEC-2017	552	Canada: Manitoba, Wapusk National Park, Owl River	primary	rbcL	57.815	-92.881	0.000739371534195933
+Veronica_scutellata	KX678126.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, marshy area just off Nitnat Rd.	primary	rbcL	48.9126	-124.488	0.000739371534195933
+Veronica_scutellata	KJ841653.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	rbcL	45.548	-73.152	0.000739371534195933
+Veronica_scutellata	JN891680.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.47	-3.47	0.000738007380073801
+Veronica_scutellata	JN891027.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0036941293627354
+Veronica_scutellata	JN891026.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000738007380073801

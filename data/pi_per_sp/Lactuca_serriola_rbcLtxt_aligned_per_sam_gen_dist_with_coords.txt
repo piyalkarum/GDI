@@ -1,0 +1,26 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lactuca_serriola	OQ832164.1	15-AUG-2023	553	USA: American Prairie White Rock Unit	primary	rbcL	47.9867	-107.9798	0.00106012531476477
+Lactuca_serriola	MG223598.1	26-DEC-2017	552	Canada: Yukon Territory, Whitehorse, Cowley Creek	primary	rbcL	60.59	-134.896	7.54830917874396e-05
+Lactuca_serriola	MG223367.1	26-DEC-2017	553	Canada: Ontario, Simcoe, Simcoe, Innisfil	primary	rbcL	44.3046	-79.5829	7.53465943339361e-05
+Lactuca_serriola	MG223253.1	26-DEC-2017	553	Canada: Ontario, Halton, Halton, Moffat	primary	rbcL	43.5	-79.9167	7.53465943339361e-05
+Lactuca_serriola	MG222337.1	26-DEC-2017	553	Canada: Ontario, Wellington, Wellington, Arkell Station	primary	rbcL	43.5373	-80.1678	7.53465943339361e-05
+Lactuca_serriola	MG221915.1	26-DEC-2017	553	Canada: Ontario, Regional Municipality of York, Regional Municipality of York, Jokers Hill West., SR19 ditch, 10 m W of Dufferin.	primary	rbcL	44.05	-79.4833	7.53465943339361e-05
+Lactuca_serriola	HQ590149.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., SR19 ditch, 10 m W of Dufferin	primary	rbcL	44.026	-79.527	7.53465943339361e-05
+Lactuca_serriola	JN892548.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	7.68757687576876e-05
+Lactuca_serriola	MT930494.1	03-MAR-2023	566	China	secondary	rbcL	34.859020454255	104.427113066635	7.53465943339361e-05
+Lactuca_serriola	MT930493.1	03-MAR-2023	569	China	secondary	rbcL	34.8443066104416	104.156585589624	7.53465943339361e-05
+Lactuca_serriola	MT930492.1	03-MAR-2023	572	China	secondary	rbcL	34.1876956085831	104.818470342477	7.53465943339361e-05
+Lactuca_serriola	MT930491.1	03-MAR-2023	572	China	secondary	rbcL	34.7921751853684	103.977972261075	7.53465943339361e-05
+Lactuca_serriola	MT642620.1	18-AUG-2021	793	South Korea	secondary	rbcL	36.1029533268731	127.473956731238	0.000735603194619588
+Lactuca_serriola	MT642619.1	18-AUG-2021	793	South Korea	secondary	rbcL	36.5478737799476	126.8620562798	0.000735603194619588
+Lactuca_serriola	MT642618.1	18-AUG-2021	793	South Korea	secondary	rbcL	36.7840588025014	127.536170116436	0.000735603194619588
+Lactuca_serriola	MT642617.1	18-AUG-2021	793	South Korea	secondary	rbcL	36.3267531437855	128.655657435693	0.000735603194619588
+Lactuca_serriola	MT642616.1	18-AUG-2021	793	South Korea	secondary	rbcL	37.0436505002525	127.743590016829	0.000735603194619588
+Lactuca_serriola	MT642615.1	18-AUG-2021	793	South Korea	secondary	rbcL	36.1039331091927	128.290488020992	0.000735603194619588
+Lactuca_serriola	MT642614.1	18-AUG-2021	793	South Korea	secondary	rbcL	37.2496209481768	128.267628750452	0.000735603194619588
+Lactuca_serriola	MT642613.1	18-AUG-2021	793	South Korea	secondary	rbcL	36.4298452173733	127.314302120808	0.000735603194619588
+Lactuca_serriola	MT642612.1	18-AUG-2021	793	South Korea	secondary	rbcL	36.4403184990928	126.782071182885	0.000735603194619588
+Lactuca_serriola	KJ204362.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	7.58955676988464e-05
+Lactuca_serriola	HM850098.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00662042875157629
+Lactuca_serriola	JN893848.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	7.68757687576876e-05
+Lactuca_serriola	JN891430.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	7.68757687576876e-05

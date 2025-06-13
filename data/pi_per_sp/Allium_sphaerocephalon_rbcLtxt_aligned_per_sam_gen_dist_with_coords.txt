@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_sphaerocephalon	MK924728.1	14-JAN-2020	542	France	secondary	rbcL	46.603354	1.8883335	0.0247530991284384
+Allium_sphaerocephalon	KX282524.1	28-MAY-2017	529	Kuwait	secondary	rbcL	29.9510015276161	48.1864617861553	0.0204819785453169
+Allium_sphaerocephalon	KX282523.1	28-MAY-2017	529	Kuwait	secondary	rbcL	28.6041152574813	48.091937555315	0.0210786981344637
+Allium_sphaerocephalon	FR865142.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.0511885156451517

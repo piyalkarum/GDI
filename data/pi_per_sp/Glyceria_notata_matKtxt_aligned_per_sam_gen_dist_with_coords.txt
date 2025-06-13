@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glyceria_notata	JN895613.1	07-MAR-2012	1035	United Kingdom: Monmouthshire	primary	matK	51.58	-2.94	0.000413052457662123
+Glyceria_notata	KJ599302.1	21-SEP-2014	581	Italy: Bolzano	secondary	matK	46.6559455	11.2302129	0.00057372346528973
+Glyceria_notata	JN894448.1	07-MAR-2012	730	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00045662100456621
+Glyceria_notata	JN894123.1	07-MAR-2012	807	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00144339692751806

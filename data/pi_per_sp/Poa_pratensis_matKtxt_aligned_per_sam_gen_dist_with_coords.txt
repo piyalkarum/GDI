@@ -1,0 +1,74 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_pratensis	KC475424.1	25-OCT-2013	777	Canada: Nunavut, Baffin Island, Iqaluit, Hills just NE of settlement	primary	matK	68.75	-68.5	0.00117343485827946
+Poa_pratensis	JN894299.1	07-MAR-2012	1032	United Kingdom: Glamorgan	primary	matK	51.52	-3.75	0.00267673364323813
+Poa_pratensis	JN894113.1	07-MAR-2012	1042	United Kingdom: Glamorgan	primary	matK	51.52	-3.2	0.00180063222395734
+Poa_pratensis	KC475420.1	25-OCT-2013	773	Canada: Northwest Territories, Banks Island, Masik River Valley, hills on S side of valley, SSW of large oblong lake	primary	matK	71.58	-123.17	0.00117762807588143
+Poa_pratensis	KC475419.1	25-OCT-2013	773	Canada: Northwest Territories, Banks Island, Hills between Big River and Egg River, near junction of the two rivers	primary	matK	72.43	-129.38	0.00117762807588143
+Poa_pratensis	KC475418.1	25-OCT-2013	774	Canada: Northwest Territories, NWT mainland, Inuvik, between town and lagoon, on NW side of town	primary	matK	68.35	-133.72	0.00117665191499192
+Poa_pratensis	KC475417.1	25-OCT-2013	773	Canada: Northwest Territories, Melville Island, McCormick Inlet, ~10 km SW of head of inlet at river delta	primary	matK	75.79	-112.44	0.00117762807588143
+Poa_pratensis	KC475416.1	25-OCT-2013	773	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	matK	76.56	-118.86	0.00238642163255719
+Poa_pratensis	KC475415.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	matK	70.735	-117.761	0.00237902890074546
+Poa_pratensis	KC475414.1	25-OCT-2013	728	Canada: Nunavut, Ellesmere Island, Two Basin Lake, 23 km ESE of Eureka airstrip. Ridge Lake drainage gully	primary	matK	79.4232493959066	-87.5394034175927	0.00115813323967792
+Poa_pratensis	KC475413.1	25-OCT-2013	774	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Small point into ocean, ~10 km SW of Sanikiluaq	primary	matK	56.478	-79.386	0.00238474531293096
+Poa_pratensis	KC475412.1	25-OCT-2013	777	Canada: Northwest Territories, Baffin Island, Sylvia Grinnell Park	primary	matK	63.733	-68.55	0.00117343485827946
+Poa_pratensis	KC475411.1	25-OCT-2013	710	Canada: Northwest Territories, NWT mainland, Nicolson Island, Liverpool Bay	primary	matK	69.7343459769199	-130.859853959006	0.00313609689452247
+Poa_pratensis	KC475410.1	25-OCT-2013	702	Canada: Northwest Territories, NWT mainland, Nicolson Island, Liverpool Bay	primary	matK	70.2095408277886	-127.379512209296	0.00322143418771269
+Poa_pratensis	KC475409.1	25-OCT-2013	774	Canada: Northwest Territories, NWT mainland, Inuvialuit summer camp on narrow isthmus of Kitigazuit Island	primary	matK	69.35	-133.68	0.00117665191499192
+Poa_pratensis	KC475408.1	25-OCT-2013	774	Canada: Nunavut, Axel Heiberg Island, Large valley along upper Bukken River	primary	matK	80.1071979329906	-92.2407998608721	0.00117665191499192
+Poa_pratensis	KC475407.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Region SW of camp, ca. 9 km north of Coronation Gulf coast, 12 km north of point	primary	matK	68.728	-112.678	0.00117343485827946
+Poa_pratensis	JN966447.1	27-OCT-2012	737	Canada: Manitoba, Churchill, 23 km E Churchill, Fort Churchill, Spaceport project, chuchill area. Site 9. Below ridge. Lower slope below white spruce belt in willow zone. Moist, mossy.	primary	matK	58.733	-93.783	0.00114785831769797
+Poa_pratensis	JN966446.1	27-OCT-2012	737	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, Before willow zone.	primary	matK	58.734	-93.811	0.00114785831769797
+Poa_pratensis	JN966442.1	27-OCT-2012	737	Canada: Manitoba, Churchill, unspecified locality	primary	matK	58.732	-93.822	0.00114785831769797
+Poa_pratensis	JN966438.1	27-OCT-2012	776	Canada: Manitoba, Churchill, Vicinity of Churchill, Boreal Gardens, Weeds in green house	primary	matK	58.765	-94.142	0.00117450443291644
+Poa_pratensis	MF597565.1	17-JUL-2018	790	Canada: British Columbia, End of Hudson Bay Mountain trail that starts at alpine ski area at the end of Hudson Bay Mountain Road, W of Smithers.	primary	matK	54.784	-127.291	0.00117938184484991
+Poa_pratensis	MF597564.1	17-JUL-2018	790	Canada: British Columbia, Big Bell Mountain, McBride, ridge top with alpine vegetation	primary	matK	53.284	-120.349	0.00131475298957556
+Poa_pratensis	MF597563.1	17-JUL-2018	819	Canada: British Columbia, Old gravel mining area, just S of Hwy 16, N of Bulkley River, just E of Ross Lake.	primary	matK	54.397	-125.999	0.00337959968468857
+Poa_pratensis	MF597562.1	17-JUL-2018	819	Canada: British Columbia, Olsen Rest Area, along Hwy. 3 12.7 km W of Sparwood. Lawn of rest area.	primary	matK	49.626	-114.932	0.0019190709733162
+Poa_pratensis	MF597561.1	17-JUL-2018	794	Canada: British Columbia, Vancouver Island, Saanich Peninsula, at corner of Derrick Road and Norris Road, south of Deep Cove.	primary	matK	48.671	-123.472	0.00117551962432904
+Poa_pratensis	MF597560.1	17-JUL-2018	780	Canada: Saskatchewan, Along Hwy. 18, N of road the leads to entrance of Grasslands National Park, 6.5 km S of Wood Moutain Regional Park	primary	matK	49.269	-106.389	0.00118980136893081
+Poa_pratensis	MF597559.1	17-JUL-2018	793	Canada: Manitoba, 3 miles South of Spruce Woods Provincial Park southern boundary on Hwy 5 towards Glenboro.	primary	matK	49.609	-99.282	0.00202089796481338
+Poa_pratensis	MF597558.1	17-JUL-2018	819	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Mount Raymond peak (accessible only by hiking trail).	primary	matK	53.27	-132.235	0.0013678919559261
+Poa_pratensis	MF597557.1	17-JUL-2018	754	Canada: Saskatchewan, Big Muddy Badlands, along Hwy. 18, ca. 28 km E of junction of highways 18 and 36, E of Coronach.	primary	matK	49.041	-104.856	0.00120298832419136
+Poa_pratensis	MG217136.1	24-JAN-2018	773	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Halfway Log Dump Parking Lot, BPNP	primary	matK	45.227	-81.481	0.00173128306954791
+Poa_pratensis	MG217073.1	24-JAN-2018	761	USA: Alaska, Kenai Penninsula, W of Hope, S side of Turn Again Arm. Porcupine Cr. Camp Ground, Gull Rock Tr.	primary	matK	60	-149	0.00175322242764847
+Poa_pratensis	MG217044.1	24-JAN-2018	534	Canada: Nunavut, Ellesmere Island, Two Basin Lake, 23 km ESE ofEureka airstrip	primary	matK	80.0932549639007	-83.7029190459439	0.000832292967124428
+Poa_pratensis	MG216936.1	24-JAN-2018	778	Canada: Nunavut, Axel Heiberg Island, Large valley along upper Bukken River	primary	matK	79.9315099188499	-91.0757000206079	0.00117314165383692
+Poa_pratensis	HQ593389.1	09-NOV-2011	781	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., SW of property	primary	matK	44.026	-79.542	0.00116933049701925
+Poa_pratensis	KJ840969.1	23-SEP-2014	771	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	matK	45.535	-73.149	0.00124522581784885
+Poa_pratensis	KJ840968.1	23-SEP-2014	742	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Between base of s-w slope of mountain and nearby fen	primary	matK	54.899	-67.171	0.00117446717490762
+Poa_pratensis	KC475423.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Pond Inlet	primary	matK	72.78	-77	0.00117665191499192
+Poa_pratensis	KC475422.1	25-OCT-2013	762	Canada: Northwest Territories, Banks Island, De Salis Bay, flat plain along Sandhill River, 1.5-2km from mouth	primary	matK	71.45	-121.87	0.00117190088158186
+Poa_pratensis	KC475421.1	25-OCT-2013	774	Canada: Nunavut, Ellesmere Island, Eureka	primary	matK	80	-85.95	0.00117665191499192
+Poa_pratensis	JN966444.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes burn site, burn site 5 years after fire	primary	matK	58.617	-93.812	0.0024866025677423
+Poa_pratensis	JN896174.1	07-MAR-2012	738	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00114554310097015
+Poa_pratensis	JN895207.1	07-MAR-2012	863	United Kingdom: Cardiganshire	secondary	matK	52.5161334992565	-2.6404790998364	0.00270060235241846
+Poa_pratensis	MT929963.1	03-MAR-2023	779	China	secondary	matK	34.9142170294105	103.934677764376	0.0011713428024582
+Poa_pratensis	JN896263.1	07-MAR-2012	834	United Kingdom: Cardiganshire	secondary	matK	52.4570289687205	-3.57062867205662	0.00118674864202686
+Poa_pratensis	JN896247.1	07-MAR-2012	808	United Kingdom: Cardiganshire	secondary	matK	52.9306837660553	-4.41243627980436	0.00296348127024227
+Poa_pratensis	KM523898.1	12-JUL-2015	674	USA: Colorado	secondary	matK	38.7251776	-105.607716	0.00124006179495696
+Poa_pratensis	MN450968.1	30-NOV-2021	798	China	secondary	matK	34.7109500281022	104.445796457888	0.00544569701352192
+Poa_pratensis	MN434003.1	30-NOV-2021	794	China	secondary	matK	35.6080636732293	104.659616059335	0.00117742672415693
+Poa_pratensis	KX873502.1	16-OCT-2017	633	USA: Utah, Daggett Co., 19 mi from Manila, Ashley National Forest, Uinta Mountains, Greens Draw	secondary	matK	35.5903318	-88.0583569	0.00351204699420257
+Poa_pratensis	MT273314.1	31-MAR-2021	754	Russia	secondary	matK	64.6863136	97.7453061	0.00116297448164861
+Poa_pratensis	MT273313.1	31-MAR-2021	788	Greece	secondary	matK	43.2097838	-77.6930602	0.00115261232509884
+Poa_pratensis	LR606966.1	25-JAN-2021	2024	Germany	secondary	matK	40.4203479	-79.1166983	0.00180589343772531
+Poa_pratensis	MT433217.1	31-MAY-2020	1535	Norway	secondary	matK	64.5731537	11.5280364	0.00184876673658198
+Poa_pratensis	KJ529346.1	22-FEB-2015	693	Spain	secondary	matK	39.3260685	-4.8379791	0.00682803461985199
+Poa_pratensis	MF999127.1	09-DEC-2017	1829	Reunion	secondary	matK	-21.1309332	55.5265771	0.00145807646629205
+Poa_pratensis	KY944659.1	21-MAR-2018	754	USA	secondary	matK	39.7837304	-100.445882	0.00116297448164861
+Poa_pratensis	KY378880.1	25-FEB-2018	788	Turkey	secondary	matK	38.9597594	34.9249653	0.00240994417886392
+Poa_pratensis	MG217119.1	24-JAN-2018	772	Canada: Newfoundland and Labrador, North Boat Harbour	secondary	matK	51.5898366	-55.9889934	0.00173206260410193
+Poa_pratensis	MG217091.1	24-JAN-2018	756	Canada: Newfoundland and Labrador, Cape Norman	secondary	matK	51.633333	-55.9	0.00116063088798015
+Poa_pratensis	MG217005.1	24-JAN-2018	772	Canada: Quebec, Reg. adm. GaspesieIles-de-la-Madeleine, MRC La Haute-Gaspesie, Municipalite Sainte-Anne-des-Monts, Riviere Ste. Anne, near Grande Fosse Lookout, Gaspe	secondary	matK	46.8137431	-71.2084061	0.00173206260410193
+Poa_pratensis	MG216966.1	24-JAN-2018	796	Canada: Ontario, Thunder Bay District, Falling Snow	secondary	matK	48.1700659	-89.7981087	0.0126326327537044
+Poa_pratensis	KJ746198.1	29-JUL-2014	699	Poland	secondary	matK	52.215933	19.134422	0.0012029672754973
+Poa_pratensis	KJ599261.1	21-SEP-2014	769	Australia: Victoria	secondary	matK	-36.1217173247722	144.484447252469	0.00177485648826202
+Poa_pratensis	KJ599260.1	21-SEP-2014	769	Australia: Victoria	secondary	matK	-36.4421820995434	144.038613669754	0.00120882390766047
+Poa_pratensis	KF713160.1	15-DEC-2013	1014	South Korea: Suwon-si, Gyeonggi-do	secondary	matK	37.267483	126.934611	0.00118297243775018
+Poa_pratensis	KF713159.1	15-DEC-2013	1014	South Korea: Andong-si, Gyeongsangbuk-do	secondary	matK	36.5759169	128.5060124	0.00118297243775018
+Poa_pratensis	HM850516.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00247286564647132
+Poa_pratensis	JN895210.1	07-MAR-2012	713	United Kingdom: Cardiganshire	secondary	matK	52.1837023497551	-5.16243516198926	0.00117981109005386
+Poa_pratensis	JN895204.1	07-MAR-2012	809	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00312348498112188
+Poa_pratensis	JN894696.1	07-MAR-2012	764	United Kingdom: Cardiganshire	secondary	matK	51.4838407089653	-4.569885740067	0.00174540552123885
+Poa_pratensis	HQ600017.1	02-AUG-2011	1328	South Korea	secondary	matK	36.8032746021245	127.843925647675	0.0091936544415755
+Poa_pratensis	HQ600012.1	02-AUG-2011	1346	South Korea	secondary	matK	36.8261139447542	127.373732227738	0.00937943709046816

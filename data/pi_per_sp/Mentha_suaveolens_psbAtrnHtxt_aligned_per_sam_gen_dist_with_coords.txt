@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_suaveolens	LC125237.1	03-AUG-2016	403	Japan	secondary	psbA-trnH	36.6056693031453	138.334081593227	0.0136314109994097
+Mentha_suaveolens	LC125236.1	03-AUG-2016	404	Japan	secondary	psbA-trnH	36.038512065151	139.492693765822	0.0136840578182257
+Mentha_suaveolens	LC125235.1	03-AUG-2016	403	Japan	secondary	psbA-trnH	36.6971294976814	139.175218846823	0.0178341098739109
+Mentha_suaveolens	KP218936.1	26-APR-2015	405	Pakistan	secondary	psbA-trnH	30.3308401	71.247499	0.0202821869488536

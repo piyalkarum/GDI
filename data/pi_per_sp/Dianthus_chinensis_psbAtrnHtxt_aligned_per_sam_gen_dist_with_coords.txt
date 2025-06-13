@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_chinensis	OQ172774.1	18-JUN-2023	241	South Korea	secondary	psbA-trnH	37.3983535063063	127.514713856901	0.00250720866446304
+Dianthus_chinensis	OQ172773.1	18-JUN-2023	259	South Korea	secondary	psbA-trnH	36.7501728287414	127.430871303388	0.00247616434597709
+Dianthus_chinensis	OQ172772.1	18-JUN-2023	249	South Korea	secondary	psbA-trnH	36.9696810742528	127.844923603099	0.00740877294396949
+Dianthus_chinensis	OQ172771.1	18-JUN-2023	249	South Korea	secondary	psbA-trnH	36.262494795113	127.095334152724	0.00245323936026023
+Dianthus_chinensis	OQ172770.1	18-JUN-2023	253	China	secondary	psbA-trnH	35.000074	104.999927	0.00421595332891316
+Dianthus_chinensis	OQ172769.1	18-JUN-2023	242	South Korea	secondary	psbA-trnH	36.8745417773432	128.753746063787	0.00250035018910212

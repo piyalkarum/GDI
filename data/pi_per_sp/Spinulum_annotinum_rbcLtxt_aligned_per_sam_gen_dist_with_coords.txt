@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spinulum_annotinum	MG215516.1	24-JAN-2018	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On the SW slope, 15 meters left of E710I9.	primary	rbcL	57.3886	-69.1264	0.000649826335856272
+Spinulum_annotinum	KJ593694.1	17-MAR-2015	522	USA: Wisconsin, Armstrong Creek	primary	rbcL	45.683	-88.448	0.000551571980143409
+Spinulum_annotinum	KJ593693.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.47	-88.776	0.00403882798923744
+Spinulum_annotinum	KJ593692.1	17-MAR-2015	553	USA: Wisconsin, Dunbar	primary	rbcL	45.715	-88.226	0.000649592340221694
+Spinulum_annotinum	KJ593691.1	17-MAR-2015	541	USA: Wisconsin, Dunbar	primary	rbcL	45.673	-88.201	0.000598071713531394
+Spinulum_annotinum	KF977477.1	05-APR-2014	577	USA: Dairymen's Club near Boulder Junction, Wisconsin	primary	rbcL	46.15	-89.68	0.00138452597806985
+Spinulum_annotinum	KC483144.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Tukarak Island, slightly east facing slope below large rock hills, 50 m from shore	primary	rbcL	56.386	-78.872	0.000649826335856272
+Spinulum_annotinum	KC483143.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour. Inner basin	primary	rbcL	62.8367	-67.3578	0.000649826335856272
+Spinulum_annotinum	KC483142.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Cormack Bay Frobisher Bay	primary	rbcL	63.45	-67.25	0.000649826335856272
+Spinulum_annotinum	KC483141.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, McConnell River System, ca. 32.5 km from Hudson Bay Coast	primary	rbcL	61.03	-94.79	0.000649826335856272
+Spinulum_annotinum	JN965663.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	rbcL	58.629	-93.798	0.000649826335856272
+Spinulum_annotinum	MW801642.1	19-DEC-2021	1248	China: Sichuan	secondary	rbcL	53.7663425963799	-6.04129438536796	0.00146928868789359
+Spinulum_annotinum	MW801641.1	19-DEC-2021	1248	China: Sichuan	secondary	rbcL	53.116904409979	-6.86577367976366	0.00146928868789359
+Spinulum_annotinum	MW801640.1	19-DEC-2021	1248	China: Taiwan	secondary	rbcL	-7.33110477491123	-34.1006146400044	0.00146928868789359
+Spinulum_annotinum	MW801639.1	19-DEC-2021	1249	Canada: Labrador	secondary	rbcL	55.9114861	-61.7019148	0.00155517579241431
+Spinulum_annotinum	MW801638.1	19-DEC-2021	1249	Canada: British Columbia	secondary	rbcL	55.4488660959846	-124.694929162592	0.00155517579241431
+Spinulum_annotinum	MW801637.1	19-DEC-2021	1248	Canada: British Columbia	secondary	rbcL	55.4568970516971	-124.090673766808	0.00155616153150917
+Spinulum_annotinum	MW801636.1	19-DEC-2021	1249	China: Taiwan	secondary	rbcL	-7.44337155407334	-34.3395082892758	0.00146830294879873
+Spinulum_annotinum	MW801635.1	19-DEC-2021	1249	China: Taiwan	secondary	rbcL	-6.97441593030924	-35.5018668065882	0.00146830294879873
+Spinulum_annotinum	MH646771.1	03-DEC-2018	1278	Iceland: Adalvik	secondary	rbcL	65.9491793024037	-23.314691998472	0.00484580034930638
+Spinulum_annotinum	MF953588.1	01-AUG-2018	549	Iceland: Adalvik	secondary	rbcL	66.2133467810481	-23.5850469132294	0.000653392925055688
+Spinulum_annotinum	MF953587.1	01-AUG-2018	549	Iceland: Adalvik	secondary	rbcL	66.3333608548995	-21.8100798319419	0.000653392925055688
+Spinulum_annotinum	MF953586.1	01-AUG-2018	549	Iceland: Akureyri	secondary	rbcL	65.6839035	-18.1121756	0.000653392925055688
+Spinulum_annotinum	MF953585.1	01-AUG-2018	549	Iceland: Snaefellsnes	secondary	rbcL	65.0079489334137	-23.6600637428791	0.000653392925055688
+Spinulum_annotinum	MF953584.1	01-AUG-2018	549	Iceland: Snaefellsnes	secondary	rbcL	65.6088435086658	-21.6906129787535	0.000653392925055688
+Spinulum_annotinum	MF953583.1	01-AUG-2018	549	Iceland: Adalvik	secondary	rbcL	66.0234278416982	-21.7672961438545	0.000653392925055688
+Spinulum_annotinum	MG215473.1	24-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0.000649826335856272
+Spinulum_annotinum	KT821258.1	17-SEP-2016	1322	South Korea	secondary	rbcL	36.638392	127.6961188	0.0160136102434794
+Spinulum_annotinum	AB574622.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.00151432298464053

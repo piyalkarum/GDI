@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Najas_minor	LC128236.1	01-APR-2017	508	Japan: Fukushima	secondary	rpoC1	37.5299774469775	141.325318561556	0
+Najas_minor	LC128235.1	01-APR-2017	508	Japan: Fukushima	secondary	rpoC1	37.2524761541404	139.560169367564	0
+Najas_minor	LC128234.1	01-APR-2017	508	Greece: Thessaloniki	secondary	rpoC1	40.6403167	22.9352716	0
+Najas_minor	LC128233.1	01-APR-2017	508	South Korea	secondary	rpoC1	36.638392	127.6961188	0
+Najas_minor	LC128232.1	01-APR-2017	508	Italy: Trieste	secondary	rpoC1	45.6496485	13.7772781	0
+Najas_minor	KM373910.1	17-NOV-2015	2055	USA: Pennsylvania Mercer Co. Wilhelm Lake	secondary	rpoC1	41.4141711	-80.1315293	0.000338066260987153
+Najas_minor	KC584917.1	04-JUN-2013	493	Italy: Umbria	secondary	rpoC1	42.965916	12.490236	0.000338066260987153

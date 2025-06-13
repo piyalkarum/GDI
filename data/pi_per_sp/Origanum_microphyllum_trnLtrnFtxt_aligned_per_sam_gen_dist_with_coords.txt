@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Origanum_microphyllum	OL598287.1	27-MAY-2022	329	Greece: Crete, Nisimos	secondary	trnL-trnF	35.3084952	24.463342318423	0.00821595374008451
+Origanum_microphyllum	OL598286.1	27-MAY-2022	329	Greece: Crete, Lagou	secondary	trnL-trnF	35.1998042	25.4705172	0.00821595374008451
+Origanum_microphyllum	OL598285.1	27-MAY-2022	328	Greece: Crete, Karfi	secondary	trnL-trnF	34.827754903884	25.775310770978	0.0100609756097561
+Origanum_microphyllum	OL598284.1	27-MAY-2022	329	Greece: Crete, Karfi	secondary	trnL-trnF	34.8958094678934	25.9189339438028	0.00760619764252354
+Origanum_microphyllum	OL598283.1	27-MAY-2022	329	Greece: Crete, Kastamonitsa	secondary	trnL-trnF	35.1926687	25.3780868	0.0115594187856772
+Origanum_microphyllum	OL598282.1	27-MAY-2022	329	Greece: Crete, Lassithi	secondary	trnL-trnF	35.1241318	25.9060167	0.0069945881829639
+Origanum_microphyllum	OL598281.1	27-MAY-2022	329	Greece: Crete, Samaria	secondary	trnL-trnF	34.9388470889039	24.6301287030371	0.0115594187856772
+Origanum_microphyllum	OL598280.1	27-MAY-2022	328	Greece: Crete, Samaria	secondary	trnL-trnF	35.8355573202996	23.813196549503	0.0100609756097561
+Origanum_microphyllum	OL598279.1	27-MAY-2022	329	Greece: Crete, Samaria	secondary	trnL-trnF	35.8125560843544	24.327670686024	0.00821595374008451
+Origanum_microphyllum	OL598278.1	27-MAY-2022	329	Greece: Crete, Samaria	secondary	trnL-trnF	35.4445828337131	24.9040221439261	0.0069945881829639
+Origanum_microphyllum	JQ690298.1	28-FEB-2013	830	Greece	secondary	trnL-trnF	43.2097838	-77.6930602	0

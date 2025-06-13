@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_lanceolata	OR738256.1	13-NOV-2023	600	Kazakhstan: Mangistau region	primary	matK	44.13172	51.58548	0.245420094233071
+Plantago_lanceolata	OR464902.1	26-SEP-2023	887	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.2378426972477	-85.1490353275325	0.0433809071198369
+Plantago_lanceolata	OR464901.1	26-SEP-2023	828	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.5666264226895	-86.0246340437704	0.0435501340936432
+Plantago_lanceolata	OL434917.1	14-NOV-2022	776	USA: Georgia	primary	matK	32.1174	-81.138	0.0436052558354213
+Plantago_lanceolata	MG225325.1	21-JAN-2018	765	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	matK	45.19	-81.421	0.0433873778664983
+Plantago_lanceolata	MG224902.1	21-JAN-2018	782	Canada: Quebec, Montreal, Ile Bizard, Parc-nature du Bois-de-l'Ile-Bizard, pres d'un marais	primary	matK	45.51	-73.883	0.043585414979276
+Plantago_lanceolata	KJ840964.1	23-SEP-2014	634	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	matK	45.535	-73.149	0.0437789637579974
+Plantago_lanceolata	JN894031.1	07-MAR-2012	808	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.14	0.0437626800528307
+Plantago_lanceolata	OQ290591.1	16-MAY-2023	708	Mexico: Puebla	secondary	matK	19.1710098	-98.4125121	0.0437328422261058
+Plantago_lanceolata	MT929903.1	03-MAR-2023	753	China	secondary	matK	35.000074	104.999927	0.0778413233966432
+Plantago_lanceolata	EU718056.1	31-MAY-2009	1286	Spain: Madrid, Colmenar Viejo	secondary	matK	40.6587726	-3.7659722	0.504038989326806
+Plantago_lanceolata	GQ248179.1	02-JUL-2009	785	India	secondary	matK	22.3511148	78.6677428	0.0443020338267897
+Plantago_lanceolata	KJ746164.1	29-JUL-2014	687	Poland	secondary	matK	52.215933	19.134422	0.0495326533255568
+Plantago_lanceolata	KJ204519.1	29-JAN-2015	815	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.0437419083538275
+Plantago_lanceolata	HM851043.1	23-JUL-2011	801	Portugal	secondary	matK	39.6621648	-8.1353519	0.0447281173959178
+Plantago_lanceolata	HE966968.1	18-SEP-2012	739	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0450843724004634
+Plantago_lanceolata	JN895253.1	07-MAR-2012	848	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0433796789082582
+Plantago_lanceolata	JN894153.1	07-MAR-2012	776	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.0432773511056461
+Plantago_lanceolata	MF350193.1	21-SEP-2017	758	USA	secondary	matK	38.8950368	-77.0365427	0.0433895725970361
+Plantago_lanceolata	MF540157.1	31-AUG-2017	434	Iran	secondary	matK	26.9383023	56.2500035	0.0772043034253861

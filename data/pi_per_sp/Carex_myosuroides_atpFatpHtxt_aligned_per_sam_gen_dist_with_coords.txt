@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_myosuroides	FJ548464.1	30-AUG-2009	248	Canada: Nunuavut, Victoria Island, Franklin District, Mount Bumpus	primary	atpF-atpH	69.48	-112.05	0.00403225806451613
+Carex_myosuroides	FJ548463.1	30-AUG-2009	419	Canada: Nunuavut, Baffin Island, Iqaluit, between Graveyard and Apex beside the upper trail and near Upper Tundra Valley	primary	atpF-atpH	63.75	-68.52	0.00330513213529612
+Carex_myosuroides	FJ548462.1	30-AUG-2009	332	Canada: Nunuavut, Baffin Island, Iortoq Fiord 25 km from coast	primary	atpF-atpH	69.92	-77	0.00351360325126357
+Carex_myosuroides	FJ548461.1	30-AUG-2009	497	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.89	-80.85	0.00314364703405198

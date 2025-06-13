@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sorbus_aucuparia	KY799096.1	04-MAR-2018	682	Russia: Moscow, Main Botanical Garden named N.V. Tsitsin Russian Academy of Sciences, Arboretum	secondary	trnL-trnF	55.7505412	37.6174782	0.00146627565982405
+Sorbus_aucuparia	KP794850.1	04-JAN-2016	941	Bosnia and Herzegovina	secondary	trnL-trnF	43.9025174628698	17.6420435563908	0.000209467951403435
+Sorbus_aucuparia	KP794849.1	04-JAN-2016	941	Bosnia and Herzegovina	secondary	trnL-trnF	45.0437907179475	18.1095559016888	0.000209467951403435
+Sorbus_aucuparia	KP794848.1	04-JAN-2016	941	Bosnia and Herzegovina	secondary	trnL-trnF	43.9911341019209	18.2017536465939	0.000209467951403435
+Sorbus_aucuparia	KP794847.1	04-JAN-2016	941	Finland	secondary	trnL-trnF	63.2467777	25.9209164	0.000209467951403435
+Sorbus_aucuparia	KP794846.1	04-JAN-2016	941	United Kingdom: Great Britain	secondary	trnL-trnF	54.3151594	-1.9181532	0.000209467951403435
+Sorbus_aucuparia	KP794845.1	04-JAN-2016	941	Austria	secondary	trnL-trnF	36.8385909869497	-5.00934815734164	0.000209467951403435
+Sorbus_aucuparia	KP794844.1	04-JAN-2016	941	Austria	secondary	trnL-trnF	36.7215582072284	-3.81928140338781	0.000209467951403435

@@ -1,0 +1,206 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Orostachys_spinosa	LT222706.1	02-JUN-2017	367	Russia:Novosibirsk Reg., Novosibirsk	primary	psbA-trnH	55.1164310417812	82.1361032053142	0.0156809317732543
+Orostachys_spinosa	LT222705.1	02-JUN-2017	367	Russia:Novosibirsk Reg., Novosibirsk	primary	psbA-trnH	55.6990087096057	83.4352930254839	0.0156809317732543
+Orostachys_spinosa	LT222704.1	02-JUN-2017	367	Russia:Novosibirsk Reg., Novosibirsk	primary	psbA-trnH	54.4207642296486	82.5654679291013	0.0156809317732543
+Orostachys_spinosa	LT222703.1	02-JUN-2017	367	Russia:Novosibirsk Reg., Novosibirsk	primary	psbA-trnH	55.1598148384961	82.3114977525499	0.0156809317732543
+Orostachys_spinosa	LT222702.1	02-JUN-2017	367	Russia:Novosibirsk Reg., Novosibirsk	primary	psbA-trnH	55.0622314721927	83.334564303776	0.0156809317732543
+Orostachys_spinosa	LT222701.1	02-JUN-2017	367	Russia:Novosibirsk Reg., Novosibirsk	primary	psbA-trnH	55.2055808371536	83.4309773521985	0.0156809317732543
+Orostachys_spinosa	LT222700.1	02-JUN-2017	367	Russia:Novosibirsk Reg., Novosibirsk	primary	psbA-trnH	55.1392591797155	84.5239461867919	0.0156809317732543
+Orostachys_spinosa	LT222699.1	02-JUN-2017	367	Russia:Novosibirsk Reg., Novosibirsk	primary	psbA-trnH	54.7142558016965	83.1669296973482	0.0156809317732543
+Orostachys_spinosa	LT222698.1	02-JUN-2017	367	Russia:Novosibirsk Reg., Novosibirsk	primary	psbA-trnH	55.7853239096018	82.5761305736001	0.0156809317732543
+Orostachys_spinosa	LT222697.1	02-JUN-2017	367	Russia:Novosibirsk Reg., Novosibirsk	primary	psbA-trnH	55.2793247896366	84.2456806902807	0.0156809317732543
+Orostachys_spinosa	LT222696.1	02-JUN-2017	367	Russia:Novosibirsk Reg., Novosibirsk	primary	psbA-trnH	54.3412279426264	82.8974583179146	0.0156809317732543
+Orostachys_spinosa	LT222695.1	02-JUN-2017	367	Russia:Novosibirsk Reg., Novosibirsk	primary	psbA-trnH	55.2017149901665	83.5109867031111	0.0156809317732543
+Orostachys_spinosa	LT222694.1	02-JUN-2017	367	Russia:Altai Rep., Bashkaus Riv.	primary	psbA-trnH	51.2128650176176	88.3650957337301	0.0116471656782604
+Orostachys_spinosa	LT222693.1	02-JUN-2017	367	Russia:Altai Rep., Bashkaus Riv.	primary	psbA-trnH	50.6967719433785	86.9527504285065	0.0136774055671315
+Orostachys_spinosa	LT222692.1	02-JUN-2017	367	Russia:Altai Rep., Bashkaus Riv.	primary	psbA-trnH	51.2096844778708	88.714472882864	0.0136774055671315
+Orostachys_spinosa	LT222691.1	02-JUN-2017	367	Russia:Altai Rep., Bashkaus Riv.	primary	psbA-trnH	50.2873208408701	87.1876475808294	0.0136774055671315
+Orostachys_spinosa	LT222690.1	02-JUN-2017	367	Russia:Altai Rep., Bashkaus Riv.	primary	psbA-trnH	51.2659714172652	88.026976425106	0.0136774055671315
+Orostachys_spinosa	LT222689.1	02-JUN-2017	367	Russia:Altai Rep., Bashkaus Riv.	primary	psbA-trnH	51.3728506600714	88.3884401581933	0.0201287599508468
+Orostachys_spinosa	LT222688.1	02-JUN-2017	367	Russia:Altai Rep., Bashkaus Riv.	primary	psbA-trnH	50.3927105308372	88.771648012829	0.0119677298712401
+Orostachys_spinosa	LT222687.1	02-JUN-2017	367	Russia:Altai Rep., Bashkaus Riv.	primary	psbA-trnH	50.7955255250857	87.2203398886295	0.00925629107228722
+Orostachys_spinosa	LT222686.1	02-JUN-2017	381	Russia:Altai Rep., Bashkaus Riv.	primary	psbA-trnH	51.5320274983743	88.2214514127208	0.0144120318427099
+Orostachys_spinosa	LT222685.1	02-JUN-2017	367	Russia:Altai Rep., Bashkaus Riv.	primary	psbA-trnH	50.0009598515216	88.4240346123276	0.0163888443660843
+Orostachys_spinosa	LT222684.1	02-JUN-2017	367	Russia:Altai Rep., Bashkaus Riv.	primary	psbA-trnH	50.3369269839579	88.0120391848421	0.0136774055671315
+Orostachys_spinosa	LT222683.1	02-JUN-2017	367	Russia:Altai Rep., Bashkaus Riv.	primary	psbA-trnH	50.3706037998923	86.497134177815	0.0136774055671315
+Orostachys_spinosa	LT222682.1	02-JUN-2017	367	Russia:Khabarovsky Terr., Vaninskii Distr.	primary	psbA-trnH	49.1741990181876	141.001886579947	0.00992413314099483
+Orostachys_spinosa	LT222681.1	02-JUN-2017	367	Russia:Khabarovsky Terr., Vaninskii Distr.	primary	psbA-trnH	49.6815961498116	141.192044961259	0.00992413314099483
+Orostachys_spinosa	LT222680.1	02-JUN-2017	367	Russia:Khabarovsky Terr., Vaninskii Distr.	primary	psbA-trnH	49.512822478472	141.357819657793	0.00992413314099483
+Orostachys_spinosa	LT222679.1	02-JUN-2017	367	Russia:Khabarovsky Terr., Vaninskii Distr.	primary	psbA-trnH	49.0731876350713	141.497211631714	0.00992413314099483
+Orostachys_spinosa	LT222678.1	02-JUN-2017	367	Russia:Khabarovsky Terr., Vaninskii Distr.	primary	psbA-trnH	49.5203605337121	140.345677523907	0.00992413314099483
+Orostachys_spinosa	LT222677.1	02-JUN-2017	367	Russia:Khabarovsky Terr., Vaninskii Distr.	primary	psbA-trnH	49.569897412613	141.340100131978	0.00992413314099483
+Orostachys_spinosa	LT222676.1	02-JUN-2017	367	Russia:Khabarovsky Terr., Vaninskii Distr.	primary	psbA-trnH	48.9947930891004	139.455800288465	0.00992413314099483
+Orostachys_spinosa	LT222675.1	02-JUN-2017	367	Russia:Khabarovsky Terr., Vaninskii Distr.	primary	psbA-trnH	49.1636666364158	140.331263477333	0.00992413314099483
+Orostachys_spinosa	LT222670.1	02-JUN-2017	367	China:Heilongjiang, Heihe	primary	psbA-trnH	50.9140225160579	127.870138096958	0.0143452476358391
+Orostachys_spinosa	LT222669.1	02-JUN-2017	367	China:Heilongjiang, Heihe	primary	psbA-trnH	49.6491076574213	127.871505923152	0.0143452476358391
+Orostachys_spinosa	LT222668.1	02-JUN-2017	367	China:Heilongjiang, Heihe	primary	psbA-trnH	49.9557359271413	128.142823851555	0.0143452476358391
+Orostachys_spinosa	LT222667.1	02-JUN-2017	367	Russia:Amur Terr., Skovorodinsky Distr.	primary	psbA-trnH	54.12	124.61	0.0143452476358391
+Orostachys_spinosa	LT222666.1	02-JUN-2017	367	Russia:Khabarovsky Terr., Khor River	primary	psbA-trnH	48.0940931219122	136.115599954714	0.00992413314099483
+Orostachys_spinosa	LT222665.1	02-JUN-2017	367	Russia:Khabarovsky Terr., Khor River	primary	psbA-trnH	48.1422057750204	136.673320040425	0.00992413314099483
+Orostachys_spinosa	LT222664.1	02-JUN-2017	367	Russia:Khabarovsky Terr., Khor River	primary	psbA-trnH	47.476652317593	136.321713517933	0.00992413314099483
+Orostachys_spinosa	LT222663.1	02-JUN-2017	367	Russia:Khabarovsky Terr., Khor River	primary	psbA-trnH	47.4396201822295	136.016426681011	0.00992413314099483
+Orostachys_spinosa	LT222662.1	02-JUN-2017	367	China:Inner Mongolia, Yakeshi Shi	primary	psbA-trnH	49.5018469405595	122.202615714073	0.0129962066570497
+Orostachys_spinosa	LT222661.1	02-JUN-2017	367	China:Inner Mongolia, Yakeshi Shi	primary	psbA-trnH	48.9327954760197	121.481354739455	0.0129962066570497
+Orostachys_spinosa	LT222660.1	02-JUN-2017	367	China:Inner Mongolia, Yakeshi Shi	primary	psbA-trnH	49.5053008444969	121.611407801675	0.0129962066570497
+Orostachys_spinosa	LT222659.1	02-JUN-2017	367	China:Inner Mongolia, Yakeshi Shi	primary	psbA-trnH	49.3940133247034	120.439467554893	0.0129962066570497
+Orostachys_spinosa	LT222658.1	02-JUN-2017	367	China:Inner Mongolia, Yakeshi Shi	primary	psbA-trnH	49.399660800261	120.83995647427	0.0129962066570497
+Orostachys_spinosa	LT222657.1	02-JUN-2017	367	China:Inner Mongolia, Yakeshi Shi	primary	psbA-trnH	49.7113480743342	121.232144921609	0.0129962066570497
+Orostachys_spinosa	LT222656.1	02-JUN-2017	367	China:Inner Mongolia, Yakeshi Shi	primary	psbA-trnH	48.9629572556339	120.9936073975	0.0129962066570497
+Orostachys_spinosa	LT222655.1	02-JUN-2017	367	China:Inner Mongolia, Yakeshi Shi	primary	psbA-trnH	49.544770971739	121.452508757518	0.0129962066570497
+Orostachys_spinosa	LT222654.1	02-JUN-2017	367	China:Inner Mongolia, Yakeshi Shi	primary	psbA-trnH	49.6911620237252	120.219665914377	0.0129962066570497
+Orostachys_spinosa	LT222653.1	02-JUN-2017	367	China:Inner Mongolia, Yakeshi Shi	primary	psbA-trnH	48.9882563194488	120.868247519515	0.0129962066570497
+Orostachys_spinosa	LT222652.1	02-JUN-2017	367	China:Inner Mongolia, Yakeshi Shi	primary	psbA-trnH	48.7931606521306	119.925892096728	0.0129962066570497
+Orostachys_spinosa	LT222651.1	02-JUN-2017	367	China:Inner Mongolia, Yakeshi Shi	primary	psbA-trnH	48.6147304829509	120.298890422616	0.0129962066570497
+Orostachys_spinosa	LT222650.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.1080457489012	85.9612742739454	0.0180584495378533
+Orostachys_spinosa	LT222649.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.4925533707891	85.5951448267382	0.00925629107228722
+Orostachys_spinosa	LT222648.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.8804036986237	86.0053099343016	0.00925629107228722
+Orostachys_spinosa	LT222647.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	50.4006121801024	86.3515898288777	0.0136774055671315
+Orostachys_spinosa	LT222646.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.1805473135904	87.3892203681293	0.0136907624085056
+Orostachys_spinosa	LT222645.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	50.7585343246262	86.2412024269398	0.0157076454560026
+Orostachys_spinosa	LT222644.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	50.6967178873666	87.0108459588775	0.00925629107228722
+Orostachys_spinosa	LT222643.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	50.925751339832	85.1217307658121	0.0157076454560026
+Orostachys_spinosa	LT222642.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.2874660550581	86.1321085905657	0.0119143025057435
+Orostachys_spinosa	LT222641.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	50.5917052975851	85.4200684507503	0.0109793236095528
+Orostachys_spinosa	LT222640.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.482725166976	86.9882904399228	0.00925629107228722
+Orostachys_spinosa	LT222639.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.3588964927212	86.9752286955291	0.00925629107228722
+Orostachys_spinosa	LT222638.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.9214142615441	86.685840121128	0.00925629107228722
+Orostachys_spinosa	LT222637.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.5941767576322	86.6225749912	0.0157076454560026
+Orostachys_spinosa	LT222636.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.2629923913052	84.8714597165302	0.0154004381043971
+Orostachys_spinosa	LT222635.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.8266337194699	85.4760457284419	0.0191403536891596
+Orostachys_spinosa	LT222634.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.2145219834025	86.3504620845618	0.0154004381043971
+Orostachys_spinosa	LT222633.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.6881633805667	86.3955108334471	0.00925629107228722
+Orostachys_spinosa	LT222632.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	50.5470537494133	86.5820794980952	0.0157076454560026
+Orostachys_spinosa	LT222631.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	50.8742790645016	86.2483076743656	0.0109793236095528
+Orostachys_spinosa	LT222630.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	50.7702239421093	84.8746470919882	0.0118875888229952
+Orostachys_spinosa	LT222629.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.5753748057995	86.357167808771	0.0136774055671315
+Orostachys_spinosa	LT222628.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	51.068803193881	86.5411079764365	0.0157076454560026
+Orostachys_spinosa	LT222627.1	02-JUN-2017	367	Russia:Altai Rep., Katun Riv.	primary	psbA-trnH	50.5353488477453	86.067711935719	0.0157076454560026
+Orostachys_spinosa	LT222626.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.9467437947627	104.492351771803	0.0156809317732543
+Orostachys_spinosa	LT222625.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.762682484175	103.489727724912	0.0154004381043971
+Orostachys_spinosa	LT222624.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.6360586863513	103.247089552914	0.0201287599508468
+Orostachys_spinosa	LT222623.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.1416554302383	104.764699098342	0.0216781535502484
+Orostachys_spinosa	LT222622.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	52.6676211135253	104.195081406579	0.0201020462680985
+Orostachys_spinosa	LT222621.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	52.0552719261105	104.899707063475	0.0184190842549554
+Orostachys_spinosa	LT222620.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.2923309340213	104.175143052745	0.0157076454560026
+Orostachys_spinosa	LT222619.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.5205386001712	105.42281116538	0.0200753325853502
+Orostachys_spinosa	LT222618.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	52.3307496633922	104.780763677662	0.0157076454560026
+Orostachys_spinosa	LT222617.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	52.0242839792508	104.868409640848	0.0157076454560026
+Orostachys_spinosa	LT222616.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.6029403838013	105.060372124368	0.0157076454560026
+Orostachys_spinosa	LT222615.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.7593726641457	104.44184687897	0.0154004381043971
+Orostachys_spinosa	LT222614.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	52.6964827831839	105.238515660382	0.0156809317732543
+Orostachys_spinosa	LT222613.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.2232779236994	104.176520773429	0.0156809317732543
+Orostachys_spinosa	LT222612.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	52.371491106375	104.911635626793	0.0156809317732543
+Orostachys_spinosa	LT222611.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	52.1991093492931	104.623313497437	0.0156809317732543
+Orostachys_spinosa	LT222610.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	52.5517845777896	105.349942102001	0.0201020462680985
+Orostachys_spinosa	LT222609.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.4573666399897	103.713982157522	0.0156809317732543
+Orostachys_spinosa	LT222608.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.5485862942425	103.747987843344	0.0156809317732543
+Orostachys_spinosa	LT222607.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.8918186725019	104.293339323386	0.0156809317732543
+Orostachys_spinosa	LT222606.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.9681990927025	103.641489238362	0.0156809317732543
+Orostachys_spinosa	LT222605.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	52.3340345527863	103.784381157372	0.0156809317732543
+Orostachys_spinosa	LT222604.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	51.933789783867	105.470315754543	0.0156809317732543
+Orostachys_spinosa	LT222603.1	02-JUN-2017	367	Russia:Irkutsk Reg., L. Baikal	primary	psbA-trnH	52.1965115513405	105.530027575973	0.0156809317732543
+Orostachys_spinosa	LT222602.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	50.672474912896	126.520089950522	0.00992413314099483
+Orostachys_spinosa	LT222601.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	50.7555263601445	127.093115527511	0.00992413314099483
+Orostachys_spinosa	LT222600.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	50.3660038177527	128.859001238097	0.021638083026126
+Orostachys_spinosa	LT222599.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	50.9707616597345	128.240202538344	0.0126355719399476
+Orostachys_spinosa	LT222598.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	51.1465446215129	127.518901144788	0.00992413314099483
+Orostachys_spinosa	LT222597.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	51.1278466978587	127.801156853513	0.00992413314099483
+Orostachys_spinosa	LT222596.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	50.7130459522657	126.732211113315	0.00992413314099483
+Orostachys_spinosa	LT222595.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	50.8542361351467	126.906286058561	0.00992413314099483
+Orostachys_spinosa	LT222594.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	50.1939636623322	126.701510587785	0.00992413314099483
+Orostachys_spinosa	LT222593.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	50.2264536399082	128.770751270012	0.00992413314099483
+Orostachys_spinosa	LT222592.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	49.70826360879	127.177854060425	0.021638083026126
+Orostachys_spinosa	LT222591.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	50.8402841232031	126.670217763552	0.00992413314099483
+Orostachys_spinosa	LT222590.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	51.040168672681	127.165980353883	0.00992413314099483
+Orostachys_spinosa	LT222589.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	50.8761657368269	128.51483786685	0.00992413314099483
+Orostachys_spinosa	LT222588.1	02-JUN-2017	367	Russia:Amur Terr., Blagoveshchensk	primary	psbA-trnH	50.8982602661467	126.525079302173	0.00992413314099483
+Orostachys_spinosa	LT222587.1	02-JUN-2017	367	Russia:Primorsky Terr., Lazovsky Distr.	primary	psbA-trnH	43.0860925545951	133.304815374391	0.0129962066570497
+Orostachys_spinosa	LT222586.1	02-JUN-2017	367	Russia:Primorsky Terr., Lazovsky Distr.	primary	psbA-trnH	43.017208128466	133.427324329511	0.0129962066570497
+Orostachys_spinosa	LT222585.1	02-JUN-2017	367	Russia:Primorsky Terr., Lazovsky Distr.	primary	psbA-trnH	43.2762534790308	135.012954324784	0.0129962066570497
+Orostachys_spinosa	LT222584.1	02-JUN-2017	367	Russia:Primorsky Terr., Lazovsky Distr.	primary	psbA-trnH	43.8754161523977	134.676371650908	0.0129962066570497
+Orostachys_spinosa	LT222583.1	02-JUN-2017	367	Russia:Primorsky Terr., Lazovsky Distr.	primary	psbA-trnH	43.0099274139639	133.39096258654	0.0129962066570497
+Orostachys_spinosa	LT222582.1	02-JUN-2017	367	Russia:Primorsky Terr., Lazovsky Distr.	primary	psbA-trnH	43.393499382389	134.587284325971	0.0129962066570497
+Orostachys_spinosa	LT222581.1	02-JUN-2017	367	Russia:Primorsky Terr., Lazovsky Distr.	primary	psbA-trnH	43.7732570141295	133.852559835191	0.0129962066570497
+Orostachys_spinosa	LT222580.1	02-JUN-2017	367	Russia:Primorsky Terr., Lazovsky Distr.	primary	psbA-trnH	43.9803966849399	133.656610179561	0.0129962066570497
+Orostachys_spinosa	LT222579.1	02-JUN-2017	367	Russia:Primorsky Terr., Lazovsky Distr.	primary	psbA-trnH	42.6730207388459	134.253068892609	0.0129962066570497
+Orostachys_spinosa	LT222578.1	02-JUN-2017	367	Russia:Primorsky Terr., Lazovsky Distr.	primary	psbA-trnH	44.1474828493409	133.649386457852	0.0129962066570497
+Orostachys_spinosa	LT222577.1	02-JUN-2017	367	Russia:Primorsky Terr., Lazovsky Distr.	primary	psbA-trnH	43.3663310809754	134.488071498717	0.0129962066570497
+Orostachys_spinosa	LT222576.1	02-JUN-2017	367	Russia:Primorsky Terr., Lazovsky Distr.	primary	psbA-trnH	43.6151308647095	132.974673052316	0.0129962066570497
+Orostachys_spinosa	LT222575.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Abelilovsky Distr.	primary	psbA-trnH	53.9240319635834	57.5201491373848	0.0136774055671315
+Orostachys_spinosa	LT222574.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Abelilovsky Distr.	primary	psbA-trnH	54.6906801609312	57.8292199231673	0.00925629107228722
+Orostachys_spinosa	LT222573.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Abelilovsky Distr.	primary	psbA-trnH	54.730205024507	58.0012802207643	0.0136774055671315
+Orostachys_spinosa	LT222572.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Abelilovsky Distr.	primary	psbA-trnH	54.3284398658184	59.0176849057085	0.00925629107228722
+Orostachys_spinosa	LT222571.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Abelilovsky Distr.	primary	psbA-trnH	54.1841561846457	58.5123926858971	0.00925629107228722
+Orostachys_spinosa	LT222570.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Abelilovsky Distr.	primary	psbA-trnH	54.726557127077	57.9914468671724	0.0136774055671315
+Orostachys_spinosa	LT222569.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Abelilovsky Distr.	primary	psbA-trnH	53.5589283534252	56.7914559763535	0.00925629107228722
+Orostachys_spinosa	LT222568.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Abelilovsky Distr.	primary	psbA-trnH	53.5050813027761	58.2282402818114	0.00925629107228722
+Orostachys_spinosa	LT222567.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Abelilovsky Distr.	primary	psbA-trnH	54.4114180094253	57.4637404640603	0.00925629107228722
+Orostachys_spinosa	LT222566.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Abelilovsky Distr.	primary	psbA-trnH	54.1991640669894	58.7546601486749	0.00925629107228722
+Orostachys_spinosa	LT222565.1	02-JUN-2017	367	Russia:Zabaikalski Terr., Chita	primary	psbA-trnH	51.2559795754022	112.869826651523	0.0136774055671315
+Orostachys_spinosa	LT222564.1	02-JUN-2017	367	Russia:Zabaikalski Terr., Chita	primary	psbA-trnH	51.7915492114099	114.40155775338	0.0136774055671315
+Orostachys_spinosa	LT222563.1	02-JUN-2017	367	Russia:Zabaikalski Terr., Chita	primary	psbA-trnH	51.8555451808635	113.53864853625	0.0189667147512956
+Orostachys_spinosa	LT222562.1	02-JUN-2017	367	Russia:Zabaikalski Terr., Chita	primary	psbA-trnH	51.7132669465918	112.189176013526	0.0189667147512956
+Orostachys_spinosa	LT222561.1	02-JUN-2017	367	Russia:Zabaikalski Terr., Chita	primary	psbA-trnH	52.2372814517246	112.731070179459	0.0136774055671315
+Orostachys_spinosa	LT222560.1	02-JUN-2017	367	Russia:Zabaikalski Terr., Chita	primary	psbA-trnH	52.8387123361944	113.78202054347	0.0136774055671315
+Orostachys_spinosa	LT222559.1	02-JUN-2017	367	Russia:Zabaikalski Terr., Chita	primary	psbA-trnH	51.8155383933242	113.448955683395	0.0136774055671315
+Orostachys_spinosa	LT222558.1	02-JUN-2017	367	Russia:Zabaikalski Terr., Chita	primary	psbA-trnH	51.6203830331221	112.792007893459	0.0136774055671315
+Orostachys_spinosa	LT222557.1	02-JUN-2017	367	Russia:Zabaikalski Terr., Chita	primary	psbA-trnH	51.7353584509598	114.41430658054	0.0136774055671315
+Orostachys_spinosa	LT222556.1	02-JUN-2017	367	Russia:Zabaikalski Terr., Chita	primary	psbA-trnH	51.6149951761557	114.753999925332	0.00925629107228722
+Orostachys_spinosa	LT222555.1	02-JUN-2017	367	Russia:Zabaikalski Terr., Chita	primary	psbA-trnH	52.084478182246	114.177976645794	0.0136774055671315
+Orostachys_spinosa	LT222554.1	02-JUN-2017	367	Russia:Zabaikalski Terr., Chita	primary	psbA-trnH	51.4855750237588	113.036886641783	0.0136774055671315
+Orostachys_spinosa	LT222553.1	02-JUN-2017	367	Russia:Primorsky Terr., Lazovsky Distr.	primary	psbA-trnH	43.8145684990672	133.060926858777	0.0129962066570497
+Orostachys_spinosa	LT222552.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Ufa	primary	psbA-trnH	54.7567000791872	57.6308558997385	0.0136774055671315
+Orostachys_spinosa	LT222551.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Ufa	primary	psbA-trnH	54.4279177653853	55.5092007638798	0.0136774055671315
+Orostachys_spinosa	LT222550.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Ufa	primary	psbA-trnH	54.4549139789521	56.2234919210393	0.0136774055671315
+Orostachys_spinosa	LT222549.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Ufa	primary	psbA-trnH	54.6472641431791	56.0237678352461	0.0136774055671315
+Orostachys_spinosa	LT222548.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Ufa	primary	psbA-trnH	54.5255945119309	55.6462895135743	0.0136774055671315
+Orostachys_spinosa	LT222547.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Ufa	primary	psbA-trnH	54.9063248521371	55.4195866412702	0.0136774055671315
+Orostachys_spinosa	LT222546.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Ufa	primary	psbA-trnH	54.5002828969116	56.4263224742848	0.00925629107228722
+Orostachys_spinosa	LT222545.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Ufa	primary	psbA-trnH	55.1654066300564	56.7883962547587	0.0136774055671315
+Orostachys_spinosa	LT222544.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Ufa	primary	psbA-trnH	55.2318410717493	56.5967829795582	0.0136774055671315
+Orostachys_spinosa	LT222543.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Ufa	primary	psbA-trnH	54.9228259734798	57.5559009027325	0.0136774055671315
+Orostachys_spinosa	LT222542.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Ufa	primary	psbA-trnH	54.3590562016302	55.1234440544327	0.0136774055671315
+Orostachys_spinosa	LT222541.1	02-JUN-2017	367	Russia:Rep. of Bashkortostan, Ufa	primary	psbA-trnH	55.1239936821056	56.6378426952573	0.0136774055671315
+Orostachys_spinosa	LT222540.1	02-JUN-2017	367	Russia:Primorsky Terr., Anuchinsky Distr.	primary	psbA-trnH	44.583683681164	133.033508213438	0.0154405086285196
+Orostachys_spinosa	LT222538.1	02-JUN-2017	367	Russia:Primorsky Terr., Anuchinsky Distr.	primary	psbA-trnH	44.5265558296287	132.12570003182	0.0154405086285196
+Orostachys_spinosa	LT222537.1	02-JUN-2017	367	Russia:Primorsky Terr., Anuchinsky Distr.	primary	psbA-trnH	43.5222652447708	132.828162142715	0.0154405086285196
+Orostachys_spinosa	LT222536.1	02-JUN-2017	367	Russia:Primorsky Terr., Anuchinsky Distr.	primary	psbA-trnH	44.1508447911354	132.62177325192	0.0122348666987231
+Orostachys_spinosa	LT222535.1	02-JUN-2017	367	Russia:Primorsky Terr., Anuchinsky Distr.	primary	psbA-trnH	43.205737402418	133.760655682648	0.0154405086285196
+Orostachys_spinosa	LT222533.1	02-JUN-2017	367	Russia:Primorsky Terr., Anuchinsky Distr.	primary	psbA-trnH	43.2537814783493	132.025384901282	0.0154405086285196
+Orostachys_spinosa	LT222532.1	02-JUN-2017	367	Russia:Primorsky Terr., Anuchinsky Distr.	primary	psbA-trnH	43.615096926033	132.578260434121	0.0154405086285196
+Orostachys_spinosa	LT222531.1	02-JUN-2017	367	Russia:Primorsky Terr., Anuchinsky Distr.	primary	psbA-trnH	43.4936271868218	131.839723988031	0.0122348666987231
+Orostachys_spinosa	LT222530.1	02-JUN-2017	367	Russia:Primorsky Terr., Anuchinsky Distr.	primary	psbA-trnH	43.5753999119835	133.047967839702	0.0154405086285196
+Orostachys_spinosa	LT222529.1	02-JUN-2017	367	Russia:Primorsky Terr., Anuchinsky Distr.	primary	psbA-trnH	43.7696305241964	133.009377675664	0.0154405086285196
+Orostachys_spinosa	LT222528.1	02-JUN-2017	374	Russia:Khabarovsky Terr., Shantar Islands	primary	psbA-trnH	54.5287682379311	136.684073153263	0.0136761555953451
+Orostachys_spinosa	LT222527.1	02-JUN-2017	374	Russia:Khabarovsky Terr., Shantar Islands	primary	psbA-trnH	54.866987280034	137.897781816125	0.0136761555953451
+Orostachys_spinosa	LT222526.1	02-JUN-2017	374	Russia:Khabarovsky Terr., Shantar Islands	primary	psbA-trnH	55.2040930073534	137.825766696263	0.0119652299276674
+Orostachys_spinosa	LT222525.1	02-JUN-2017	367	Russia:Magadan Terr., Susumansky Distr.	primary	psbA-trnH	63.865669176263	154.29335558547	0.0136774055671315
+Orostachys_spinosa	LT222524.1	02-JUN-2017	367	Russia:Magadan Terr., Susumansky Distr.	primary	psbA-trnH	64.2137060994049	152.893873917275	0.0136774055671315
+Orostachys_spinosa	LT222523.1	02-JUN-2017	367	Russia:Primorsky Terr., Mikhailovsky Distr.	primary	psbA-trnH	43.8328441519037	132.205166282608	0.0129962066570497
+Orostachys_spinosa	LT222522.1	02-JUN-2017	367	Russia:Primorsky Terr., Mikhailovsky Distr.	primary	psbA-trnH	43.1643365135876	131.766069159684	0.0129962066570497
+Orostachys_spinosa	LT222521.1	02-JUN-2017	367	Russia:Primorsky Terr., Mikhailovsky Distr.	primary	psbA-trnH	44.3086819263074	132.137986914317	0.0154405086285196
+Orostachys_spinosa	LT222520.1	02-JUN-2017	367	Russia:Primorsky Terr., Mikhailovsky Distr.	primary	psbA-trnH	43.6877063389966	131.852398235319	0.0129962066570497
+Orostachys_spinosa	LT222519.1	02-JUN-2017	367	Russia:Primorsky Terr., Mikhailovsky Distr.	primary	psbA-trnH	43.9316660363779	131.752092572503	0.0129962066570497
+Orostachys_spinosa	LT222518.1	02-JUN-2017	367	Russia:Primorsky Terr., Mikhailovsky Distr.	primary	psbA-trnH	43.3773104482136	131.398119488396	0.0129962066570497
+Orostachys_spinosa	LT222517.1	02-JUN-2017	367	Russia:Primorsky Terr., Mikhailovsky Distr.	primary	psbA-trnH	44.2129543312507	132.306298779353	0.0154405086285196
+Orostachys_spinosa	LT222516.1	02-JUN-2017	367	Russia:Primorsky Terr., Mikhailovsky Distr.	primary	psbA-trnH	44.1300834661897	132.205709452363	0.0129962066570497
+Orostachys_spinosa	LT222515.1	02-JUN-2017	367	Russia:Primorsky Terr., Mikhailovsky Distr.	primary	psbA-trnH	44.1023152342609	131.822043967796	0.0154405086285196
+Orostachys_spinosa	LT222514.1	02-JUN-2017	367	Russia:Primorsky Terr., Mikhailovsky Distr.	primary	psbA-trnH	44.0957038196688	131.254747038122	0.0129962066570497
+Orostachys_spinosa	LT222513.1	02-JUN-2017	367	Russia:Primorsky Terr., Mikhailovsky Distr.	primary	psbA-trnH	43.6397455249538	131.665699813074	0.0129962066570497
+Orostachys_spinosa	LT222512.1	02-JUN-2017	367	Russia:Primorsky Terr., Mikhailovsky Distr.	primary	psbA-trnH	44.7958854672542	132.058693372999	0.0129962066570497
+Orostachys_spinosa	LT222511.1	02-JUN-2017	367	Russia:Primorsky Terr., Khankayski Distr., Khanka	primary	psbA-trnH	45.24	131.98	0.0122348666987231
+Orostachys_spinosa	LT222510.1	02-JUN-2017	367	Russia:Primorsky Terr., Khankayski Distr., Khanka	primary	psbA-trnH	45.2620687314377	-130.825245607308	0.0122348666987231
+Orostachys_spinosa	LT222509.1	02-JUN-2017	367	Russia:Primorsky Terr., Khankayski Distr., Khanka	primary	psbA-trnH	45.3233355683595	-132.096845706511	0.0122348666987231
+Orostachys_spinosa	LT222508.1	02-JUN-2017	367	Russia:Primorsky Terr., Khankayski Distr., Khanka	primary	psbA-trnH	46.1260279978217	-132.186926253526	0.0122348666987231
+Orostachys_spinosa	LT222507.1	02-JUN-2017	367	Russia:Primorsky Terr., Khankayski Distr., Khanka	primary	psbA-trnH	45.4684937037151	-132.669539590847	0.0122348666987231
+Orostachys_spinosa	LT222506.1	02-JUN-2017	367	Russia:Primorsky Terr., Khankayski Distr., Khanka	primary	psbA-trnH	45.1771523456835	-132.102042619182	0.0122348666987231
+Orostachys_spinosa	LT222505.1	02-JUN-2017	367	Russia:Primorsky Terr., Khankayski Distr., Khanka	primary	psbA-trnH	45.2616220361035	-132.996732750475	0.0122348666987231
+Orostachys_spinosa	LT222504.1	02-JUN-2017	367	Russia:Primorsky Terr., Khankayski Distr., Khanka	primary	psbA-trnH	44.6829288602819	-132.03570591121	0.0122348666987231
+Orostachys_spinosa	LT222503.1	02-JUN-2017	367	Russia:Primorsky Terr., Khankayski Distr., Khanka	primary	psbA-trnH	45.5472479634309	-131.174961401701	0.0122348666987231
+Orostachys_spinosa	LT222502.1	02-JUN-2017	367	Russia:Primorsky Terr., Khankayski Distr., Khanka	primary	psbA-trnH	44.9721368573447	-132.297089859454	0.0122348666987231
+Orostachys_spinosa	LT222501.1	02-JUN-2017	367	Russia:Primorsky Terr., Khankayski Distr., Khanka	primary	psbA-trnH	45.758281044371	-132.554715271543	0.0122348666987231
+Orostachys_spinosa	LT222500.1	02-JUN-2017	367	Russia:Primorsky Terr., Khankayski Distr., Khanka	primary	psbA-trnH	45.0261680028332	-133.196834522758	0.0122348666987231
+Orostachys_spinosa	LT222674.1	02-JUN-2017	367	Russia	secondary	psbA-trnH	64.2105855529981	98.442715276984	0.0197814820751189
+Orostachys_spinosa	LT222673.1	02-JUN-2017	367	Russia	secondary	psbA-trnH	64.7947388580274	97.3141450241251	0.0163888443660843
+Orostachys_spinosa	LT222672.1	02-JUN-2017	367	Russia	secondary	psbA-trnH	64.2046499500599	96.690120622082	0.00925629107228722
+Orostachys_spinosa	LT222671.1	02-JUN-2017	367	Russia	secondary	psbA-trnH	64.7677519030324	97.1787286764897	0.0180183790137309

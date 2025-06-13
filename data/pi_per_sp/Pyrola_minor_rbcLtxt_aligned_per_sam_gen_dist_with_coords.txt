@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pyrola_minor	MZ359346.1	07-DEC-2021	542	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.00391028450559293
+Pyrola_minor	MG224414.1	26-DEC-2017	552	Canada: Cochrane, On	primary	rbcL	49.0667	-81.0167	0.0041183164646596
+Pyrola_minor	MG224380.1	26-DEC-2017	485	Canada: Yukon Territory, La Biche River	primary	rbcL	60.048	-124	0.0147121993127148
+Pyrola_minor	MG222310.1	26-DEC-2017	552	Canada: Port Arthur, On	primary	rbcL	48.45	-89.23	0.0119334906002989
+Pyrola_minor	MG221698.1	26-DEC-2017	485	Canada: Yukon Territory, Richardson Mountains, tributary of Fish Creek, S of Vunta Creek	primary	rbcL	67.88	-136.558	0.00594931271477663
+Pyrola_minor	KX678100.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Manning Park, Road to Sub-Alpine Meadows	primary	rbcL	49.0792	-120.769	0.0041183164646596
+Pyrola_minor	JN890802.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.69	-2.71	0.00391028450559293
+Pyrola_minor	JN892804.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00391028450559293
+Pyrola_minor	JN891118.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0.00391028450559293

@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Circaea_alpina	MG249584.1	21-JAN-2018	552	Canada: Ontario, Nipissing District, Pentland Twp., Algonquin Park, ~10km in from Kiosk stop-gate, portage trail @ 2nd bridge	primary	rbcL	46.05	-78.922	0.00183251724020404
+Circaea_alpina	MG249102.1	21-JAN-2018	552	Canada: Yukon Territory, Crow River Hotsprings	primary	rbcL	60.2	-125.791	0.00183251724020404
+Circaea_alpina	MG248543.1	21-JAN-2018	552	Canada: Yukon Territory, La Biche River, east of river, pipeline right-of-way	primary	rbcL	60.145	-124.042	0.00183251724020404
+Circaea_alpina	MG248188.1	21-JAN-2018	552	Canada: British Columbia, Elk Mountain, SE of Chilliwack	primary	rbcL	49.133	-121.167	0.00823441992647209
+Circaea_alpina	KX678458.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, marshy area just off Nitnat Rd.	primary	rbcL	48.9126	-124.488	0.00823441992647209
+Circaea_alpina	KJ593307.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.557	-88.792	0.00355473026242712
+Circaea_alpina	KJ593306.1	17-MAR-2015	553	USA: Wisconsin, Florence	primary	rbcL	45.918	-88.465	0.00183208044835283
+Circaea_alpina	MN205043.1	30-NOV-2021	721	China	secondary	rbcL	35.6865126446733	105.675830979489	0.00271763668407207
+Circaea_alpina	MN192728.1	30-NOV-2021	653	China	secondary	rbcL	34.7920587625777	104.135184317318	0.00180865530659528
+Circaea_alpina	LC627476.1	28-OCT-2021	553	Japan:Hokkaido, Shikaoicho	secondary	rbcL	43.4603175	143.330715792837	0.00183208044835283
+Circaea_alpina	MK925381.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00186978447893151
+Circaea_alpina	MH116110.1	17-AUG-2018	628	China	secondary	rbcL	34.9231264420261	104.167930583095	0.00281784149994253
+Circaea_alpina	MH116109.1	17-AUG-2018	650	China	secondary	rbcL	35.5740423660327	104.923494587611	0.00434445235968362
+Circaea_alpina	MG247201.1	21-JAN-2018	552	Canada: Ontario, Kenora District, Dryden	secondary	rbcL	49.785698	-92.835846	0.00183251724020404
+Circaea_alpina	JX100746.1	23-OCT-2012	553	Japan: Mt. Oozare/yama	secondary	rbcL	33.4594995	129.7210237	0.00183208044835283
+Circaea_alpina	JN892266.1	07-MAR-2012	502	United Kingdom: Breconshire	secondary	rbcL	52.9875065	-1.1773256	0.00199203187250996

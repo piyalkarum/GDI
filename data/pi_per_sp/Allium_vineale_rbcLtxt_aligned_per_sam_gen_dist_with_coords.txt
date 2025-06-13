@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_vineale	MG228018.1	23-JAN-2018	531	Canada: Ontario, Niagara R. M., Queenston Escarpment ANSI, Town of Niagara-on, ERROR 29	secondary	rbcL	43.3863633221426	-78.0181029262714	0.00125549278091651
+Allium_vineale	MG226420.1	23-JAN-2018	552	Canada: Ontario, Lambton Co., Near Thedford, along the River Rd. from Conc. I to that along River, almost at the turn, on S side of road.	secondary	rbcL	43.1877436119666	-78.4931828480521	0.00311541682060715
+Allium_vineale	HM849756.1	23-JUL-2011	665	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00124378109452736
+Allium_vineale	JN893387.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.000616142945163278

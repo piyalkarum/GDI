@@ -1,0 +1,34 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lolium_arundinaceum	MF597031.1	28-FEB-2018	603	Canada: British Columbia, 34 mi W of New Aiyansh on road towards Kincolith (Ginglox).	primary	rbcL	54.7741713618922	-130.211846451571	0.000653922968593299
+Lolium_arundinaceum	MF597030.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, 12.3 km N/ NW of Queen Charlotte City along main logging road.	primary	rbcL	53.645006989108	-132.094823820147	0.000653922968593299
+Lolium_arundinaceum	MF597029.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, ~20 km along logging road N/ NW of Queen Charlotte City.	primary	rbcL	54.0053830296171	-133.268351081432	0.000653922968593299
+Lolium_arundinaceum	MF597028.1	28-FEB-2018	549	Canada: British Columbia, Lower Mainland, Richmond, London's Landing, saltwater marsh.	primary	rbcL	49.5067601913401	-121.997663034834	0.000589814030109252
+Lolium_arundinaceum	MF597027.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, just W of intersection with Hwy. 19 and road from Cumberland that meets Hwy. 19.	primary	rbcL	50.0241259980508	-124.260699568235	0.000653922968593299
+Lolium_arundinaceum	MF597026.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, 0.2 km N of Hwy. 19 along Northwest Bay Road (Nanoose area)	primary	rbcL	49.7524338685863	-123.616681511949	0.00166046574510379
+Lolium_arundinaceum	MG227995.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, 12.3 km N/ NW of Queen Charlotte City along main logging road.	primary	rbcL	52.9249739029484	-130.914073628406	0.000653922968593299
+Lolium_arundinaceum	MG227530.1	23-JAN-2018	603	Canada: British Columbia, 34 mi W of New Aiyansh on road towards Kincolith (Ginglox).	primary	rbcL	55.1917857855446	-130.392406800889	0.000653922968593299
+Lolium_arundinaceum	MG227438.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, 0.2 km N of Hwy. 19 along Northwest Bay Road (Nanoose area)	primary	rbcL	49.9483937968004	-124.19355365008	0.00166046574510379
+Lolium_arundinaceum	MG227191.1	23-JAN-2018	552	Canada: Ontario, Lambton County, St. Clair Twp., Wet ditch along Hwy 40, south of Sarnia	primary	rbcL	42.78	-82.418	0.000588850596430405
+Lolium_arundinaceum	MG226442.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, just W of intersection with Hwy. 19 and road from Cumberland that meets Hwy. 19.	primary	rbcL	49.7314104711576	-123.667106179036	0.000653922968593299
+Lolium_arundinaceum	MG226031.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, ~20 km along logging road N/ NW of Queen Charlotte City.	primary	rbcL	53.7814665601475	-131.999018231979	0.000653922968593299
+Lolium_arundinaceum	MG225999.1	23-JAN-2018	549	Canada: British Columbia, Lower Mainland, Richmond, London's Landing, saltwater marsh.	primary	rbcL	49.2316695002017	-122.715970557071	0.000589814030109252
+Lolium_arundinaceum	MG225878.1	23-JAN-2018	551	Canada: Quebec, Montreal, Island of Montreal, Parc de la Pointe-aux-Prairies sect. du Bois-de-l'Heritage, pres d'un sentier de gravier	primary	rbcL	45.675	-73.507	0.000589848227742826
+Lolium_arundinaceum	HQ590163.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 15 m E of entrance to overgrown orchard	primary	rbcL	44.027	-79.544	0.000652854346215
+Lolium_arundinaceum	HQ590100.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, N side of Dufferin Driveway	primary	rbcL	44.03	-79.53	0.000652854346215
+Lolium_arundinaceum	KJ841555.1	04-NOV-2014	519	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, east edge of gravel parking lot, on edge of gravel adjacent to small ditch	primary	rbcL	45.536	-73.156	0.000624347805695928
+Lolium_arundinaceum	MF998455.1	09-DEC-2017	1353	USA	secondary	rbcL	50.362174	8.6428355	0.000812089265591865
+Lolium_arundinaceum	MG226984.1	23-JAN-2018	524	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Sassafras Point/South Shore trails, in ravine behind RBG Aviary	secondary	rbcL	43.72634945	-77.7101179040839	0.00258214411603657
+Lolium_arundinaceum	KT438962.1	23-SEP-2016	632	Ukraine	secondary	rbcL	37.9382413	58.387981	0.000733580013765674
+Lolium_arundinaceum	KT438953.1	23-SEP-2016	632	France	secondary	rbcL	47.0870371113483	2.74186661863687	0.0129957378844153
+Lolium_arundinaceum	KT438949.1	23-SEP-2016	632	France	secondary	rbcL	46.9419688923144	1.88915243037601	0.000733580013765674
+Lolium_arundinaceum	KJ204343.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.000589814030109252
+Lolium_arundinaceum	KJ599212.1	21-SEP-2014	559	Australia: Victoria	secondary	rbcL	-37.1167577252009	145.099672756081	0.00231380367050699
+Lolium_arundinaceum	KJ599211.1	21-SEP-2014	553	Australia: Victoria	secondary	rbcL	-36.6141677486707	145.198229381324	0.00233414353566567
+Lolium_arundinaceum	KF713017.1	15-DEC-2013	1096	South Korea: Iksan-si, Jeollabuk-do	secondary	rbcL	35.9479291	126.9578025	0.00081560823741923
+Lolium_arundinaceum	KF713016.1	15-DEC-2013	1096	South Korea: Icheon	secondary	rbcL	37.2808823	127.4429132	0.00081560823741923
+Lolium_arundinaceum	KF713015.1	15-DEC-2013	1096	South Korea: Suwon-si, Gyeonggi-do	secondary	rbcL	37.267483	126.934611	0.00081560823741923
+Lolium_arundinaceum	KF713014.1	15-DEC-2013	1096	South Korea: Andong-si, Gyeongsangbuk-do	secondary	rbcL	36.5759169	128.5060124	0.00081560823741923
+Lolium_arundinaceum	KF713013.1	15-DEC-2013	1096	South Korea: Wonju-si, Gangwon-do	secondary	rbcL	37.3420996	127.9197603	0.00081560823741923
+Lolium_arundinaceum	HM850001.1	23-JUL-2011	684	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00136412877625244
+Lolium_arundinaceum	JN891701.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000599921488351665
+Lolium_arundinaceum	JN891699.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000599921488351665

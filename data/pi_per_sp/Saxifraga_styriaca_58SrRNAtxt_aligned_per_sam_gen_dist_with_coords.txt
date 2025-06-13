@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_styriaca	LT971389.1	11-FEB-2019	725	Austria	secondary	5.8S rRNA	46.7952464682321	15.6008858226063	0
+Saxifraga_styriaca	LT971388.1	11-FEB-2019	726	Austria	secondary	5.8S rRNA	47.4342205274445	14.7751123172407	0
+Saxifraga_styriaca	LT970999.1	11-FEB-2019	727	Austria	secondary	5.8S rRNA	46.7111655326993	14.3336212023273	0
+Saxifraga_styriaca	LT970998.1	11-FEB-2019	725	Austria	secondary	5.8S rRNA	47.6765121724912	14.0241895168035	0

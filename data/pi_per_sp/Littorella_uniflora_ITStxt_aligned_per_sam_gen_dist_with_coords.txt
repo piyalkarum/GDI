@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Littorella_uniflora	AJ548963.1	04-MAR-2003	777	Iceland	secondary	ITS	64.9841821	-18.1059013	0.00740713734437771
+Littorella_uniflora	AJ548962.1	04-MAR-2003	771	Czech Republic	secondary	ITS	49.7439047	15.3381061	0.00347460165464445
+Littorella_uniflora	AJ548961.1	04-MAR-2003	758	Sweden	secondary	ITS	59.6749712	14.5208584	0.00263852242744063
+Littorella_uniflora	AJ548960.1	04-MAR-2003	766	Denmark	secondary	ITS	55.670249	10.3333283	0.00304841137677634

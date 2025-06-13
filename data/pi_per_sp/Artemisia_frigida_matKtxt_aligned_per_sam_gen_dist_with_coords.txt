@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_frigida	OQ847502.1	15-AUG-2023	795	USA: American Prairie Buffalo Camp	primary	matK	47.7624	-107.7764	0.00109218849654554
+Artemisia_frigida	MG225356.1	21-JAN-2018	773	Canada: Yukon Territory, Beaver River above lower rapids	primary	matK	60.027	-124.611	0.00111174373897202
+Artemisia_frigida	MG225289.1	21-JAN-2018	748	USA: North Dakota	primary	matK	48.326	-100.765	0.00114591291061879
+Artemisia_frigida	MG225250.1	21-JAN-2018	787	USA: Alaska, Gates of the Arctic, Killik River dunes	primary	matK	68.284	-154.048	0.00109495454535012
+Artemisia_frigida	MG225000.1	21-JAN-2018	787	Canada: Yukon Territory, Five Fingers Coal Mine, Yukon River	primary	matK	62.206	-136.336	0.00109495454535012
+Artemisia_frigida	MT917309.1	03-MAR-2023	777	China	secondary	matK	34.4778632652181	105.683680463973	0.00296147852649922
+Artemisia_frigida	MT917297.1	03-MAR-2023	789	China	secondary	matK	34.373013754347	104.957220704919	0.00403781335966234
+Artemisia_frigida	MT917293.1	03-MAR-2023	788	China	secondary	matK	34.7824727716266	105.926839073501	0.00219849817193984

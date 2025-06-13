@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Clausia_aprica	LK021319.1	11-JUN-2014	754	Russia:Perm Krai, Kungurski raion	primary	trnL-trnF	57.22	57.05	0.00397877984084881
+Clausia_aprica	LK021318.1	11-JUN-2014	754	Russia:Voronezhskaya Oblast, Liski Raion	primary	trnL-trnF	50.59	39.19	0.00397877984084881
+Clausia_aprica	LK021317.1	11-JUN-2014	754	Kazakhstan:Akmolinskaya Oblast, Burabaisky Raion	primary	trnL-trnF	53.07	70.19	0.00397877984084881
+Clausia_aprica	LK021316.1	11-JUN-2014	754	Russia:Voronezhskaya Oblast, Bobrov Raion	primary	trnL-trnF	50.47	40.01	0.00397877984084881
+Clausia_aprica	LK021315.1	11-JUN-2014	754	Russia:Tatarstan, Bulgulma Raion	primary	trnL-trnF	54.42	52.38	0.00397877984084881
+Clausia_aprica	LK021314.1	11-JUN-2014	754	Russia:Magadanskaya Oblast, Srednakans Raion	primary	trnL-trnF	62.34	152.23	0.00497347480106101
+Clausia_aprica	LK021313.1	11-JUN-2014	754	Mongolia:Selenge Aimag, Jahvlant Sum	primary	trnL-trnF	49.33	106.13	0.00497347480106101
+Clausia_aprica	LK021312.1	11-JUN-2014	754	Mongolia:Bayan-Olgiy Aimag, Ulaankhus Sum	primary	trnL-trnF	49.03	89.44	0.00497347480106101
+Clausia_aprica	LK021311.1	11-JUN-2014	754	Mongolia:Bayan-Olgiy Aimag, Tobol Sum	primary	trnL-trnF	48.38	90	0.00497347480106101

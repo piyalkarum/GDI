@@ -1,0 +1,24 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galanthus_elwesii	MK706057.1	21-DEC-2019	926	Serbia: ex. hort., Faculty of Forestry, Belgrade	primary	trnL-trnF	44.78275	20.425453	0.0170269053016185
+Galanthus_elwesii	MK706056.1	21-DEC-2019	924	Macedonia: Mt. Zeden	primary	trnL-trnF	42.033214	21.163175	0.00153408700432635
+Galanthus_elwesii	MK706055.1	21-DEC-2019	923	Macedonia: Mt. Sar Planina, Surdolos	primary	trnL-trnF	42.089308	20.992506	0.00153489518858202
+Galanthus_elwesii	MK706054.1	21-DEC-2019	935	Serbia: Mt. Vidlic, Velika Paramunica	primary	trnL-trnF	43.0484614247393	22.8504511501002	0.00118465477344211
+Galanthus_elwesii	MK706053.1	21-DEC-2019	935	Serbia: Mt. Vidlic, Velika Paramunica	primary	trnL-trnF	43.1438180086872	23.0299795993957	0.00118465477344211
+Galanthus_elwesii	MK706052.1	21-DEC-2019	935	Serbia: Mt. Vidlic, Velika Paramunica	primary	trnL-trnF	43.5263569927158	22.1443486267637	0.00118465477344211
+Galanthus_elwesii	MK706051.1	21-DEC-2019	935	Serbia: Svrljig Mts., Ples	primary	trnL-trnF	43.3882317518924	22.3189734166109	0.00118465477344211
+Galanthus_elwesii	MK706050.1	21-DEC-2019	935	Serbia: Svrljig Mts., Ples	primary	trnL-trnF	42.8003621316817	21.5148818595663	0.00118465477344211
+Galanthus_elwesii	MK706049.1	21-DEC-2019	935	Serbia: Svrljig Mts., Ples	primary	trnL-trnF	43.2268117384694	22.0085240845945	0.00118465477344211
+Galanthus_elwesii	MK706048.1	21-DEC-2019	935	Serbia: Svrljig Mts., Ples	primary	trnL-trnF	43.0914976862354	22.0652192590706	0.00118465477344211
+Galanthus_elwesii	MK706047.1	21-DEC-2019	935	Serbia: Sicevo Gorge, Kusaca	primary	trnL-trnF	42.6365984046819	21.8229316774939	0.00118465477344211
+Galanthus_elwesii	MK706046.1	21-DEC-2019	935	Serbia: Sicevo Gorge, Kusaca	primary	trnL-trnF	43.902387824639	21.7580255103384	0.00118465477344211
+Galanthus_elwesii	MK706045.1	21-DEC-2019	935	Serbia: Sicevo Gorge, Kusaca	primary	trnL-trnF	43.2900423685314	22.3003713077015	0.00118465477344211
+Galanthus_elwesii	MK706044.1	21-DEC-2019	935	Serbia: Sicevo Gorge, Kusaca	primary	trnL-trnF	43.3156472477064	22.9932635462773	0.00118465477344211
+Galanthus_elwesii	MK706043.1	21-DEC-2019	935	Serbia: Sicevo Gorge, Kusaca	primary	trnL-trnF	42.5825531656321	22.0231994847354	0.00118465477344211
+Galanthus_elwesii	MK706042.1	21-DEC-2019	935	Serbia: Pirot, Crni Vrh	primary	trnL-trnF	42.4339935549202	22.865127255915	0.00118465477344211
+Galanthus_elwesii	MK706041.1	21-DEC-2019	935	Serbia: Pirot, Crni Vrh	primary	trnL-trnF	42.7762027614661	23.0724529560279	0.00118465477344211
+Galanthus_elwesii	MK706040.1	21-DEC-2019	935	Serbia: Pirot, Crni Vrh	primary	trnL-trnF	43.7352765406438	22.2111112988303	0.00118465477344211
+Galanthus_elwesii	MK706039.1	21-DEC-2019	935	Serbia: Mt. Vidlic, Velika Paramunica	primary	trnL-trnF	42.8891756848012	22.0794279287693	0.00151904953510472
+Galanthus_elwesii	MK706038.1	21-DEC-2019	935	Serbia: Mt. Vidlic, Basarski Kamen	primary	trnL-trnF	43.0455379742199	23.5775589592485	0.00151904953510472
+Galanthus_elwesii	MK706037.1	21-DEC-2019	935	Serbia: Mt. Vidlic, Basarski Kamen	primary	trnL-trnF	42.8114546451131	21.7863416442846	0.00151904953510472
+Galanthus_elwesii	MK706036.1	21-DEC-2019	935	Serbia: Mt. Vidlic, Basarski Kamen	primary	trnL-trnF	43.1856294080539	21.5107927554236	0.00151904953510472
+Galanthus_elwesii	JQ044710.1	17-JUL-2013	862	Ukraine	secondary	trnL-trnF	49.4871968	31.2718321	0.00270007865598744

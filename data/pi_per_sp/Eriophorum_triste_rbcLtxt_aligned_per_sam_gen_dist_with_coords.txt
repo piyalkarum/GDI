@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eriophorum_triste	KT960697.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.7150851287648	-18.4119084919598	0.0072463768115942
+Eriophorum_triste	KT960567.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.7904143897745	-22.9110421925135	0.000805152979066023
+Eriophorum_triste	KT960501.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1282493721567	-22.1788027645102	0.000805152979066023
+Eriophorum_triste	KC482831.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vicinity of Holman Island Airport, Uluhaktok	primary	rbcL	70.758	-117.79	0.000805152979066023
+Eriophorum_triste	KC482830.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, John Richardson Bay, Near glacier face	primary	rbcL	80.2	-71.2	0.000805152979066023
+Eriophorum_triste	KC482829.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of small round lake NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.299	-116.487	0.000805152979066023
+Eriophorum_triste	KC482828.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Grise Fiord, Adjacent to airport	primary	rbcL	76.417	-83.017	0.000805152979066023
+Eriophorum_triste	KC482827.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island (Nunavut), Namaycush Lake, East of, near base camp. Shallow system of N-S oriented drumlin ridges and intervening swales, composed of alkaline silty till	primary	rbcL	70.667	-107.55	0.000805152979066023
+Eriophorum_triste	KC482826.1	25-OCT-2013	552	Canada: Nunavut	primary	rbcL	62.917	-92.233	0.000805152979066023
+Eriophorum_triste	KC482825.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, West side of Hornaday River, east of Castle Butte	primary	rbcL	68.2528	-121.811	0.000805152979066023

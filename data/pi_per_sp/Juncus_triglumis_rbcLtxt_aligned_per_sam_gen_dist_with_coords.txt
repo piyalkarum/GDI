@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_triglumis	KT960661.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.6538226013224	-20.5459801739776	0.00885668276972625
+Juncus_triglumis	KT960402.1	13-DEC-2015	537	Greenland: NE, Zackenberg	primary	rbcL	75.1096020197652	-19.6918798280688	0.00869025450031037
+Juncus_triglumis	KC483045.1	25-OCT-2013	518	Canada: Northwest Territories, Victoria Island, Minto Inlet, Moist clay banks in river valley at base of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.299	-116.419	0.00868725868725869
+Juncus_triglumis	KC483044.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, along Darnley Bay	primary	rbcL	69.3944	-124.117	0.00885668276972625
+Juncus_triglumis	KC483043.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East side of Hornaday River	primary	rbcL	68.3	-121.858	0.00885668276972625
+Juncus_triglumis	KC483042.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Camp 13 km north of Oterkvik Point, 10 km north of coast at Coronation Gulf, upper camp area	primary	rbcL	68.739	-112.625	0.00885668276972625
+Juncus_triglumis	KC483041.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, 0.5 km south of oil tanks south of airfield. Sylvia Grinnell Park Study Area	primary	rbcL	63.729	-68.533	0.00885668276972625
+Juncus_triglumis	KC483040.1	25-OCT-2013	552	Canada: Nunavut, Nunavut Mainland, Rankin Inlet	primary	rbcL	62.817	-92.083	0.00885668276972625
+Juncus_triglumis	KC483039.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Soper Riv., Soper River at Mt. Joy	primary	rbcL	63.267	-69.633	0.00885668276972625
+Juncus_triglumis	KC483038.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay, 1-2 km SW of Mt. Pelly, ~15 km northeast of Cambridge Bay, along road to Mt. Pelly	primary	rbcL	69.286	-104.883	0.00885668276972625
+Juncus_triglumis	JN965610.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.9308014802207	-94.5148010188954	0.0726891189977445
+Juncus_triglumis	JN965609.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.9708716687836	-93.6089103655426	0.00885668276972625
+Juncus_triglumis	JN965608.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.4299898491639	-92.8642268815474	0.00885668276972625
+Juncus_triglumis	JN965607.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, In gravel.	primary	rbcL	58.8775129049403	-93.4283376471872	0.00885668276972625
+Juncus_triglumis	JN965606.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.9261453792473	-94.1601417513595	0.0794878947270894
+Juncus_triglumis	JN965605.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.9520792839993	-93.3399976482743	0.00885668276972625
+Juncus_triglumis	JN891645.1	07-MAR-2012	542	United Kingdom: Caernarfonshire	primary	rbcL	53.15	-4	0.00903676319572808
+Juncus_triglumis	JN893819.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	52.8813736838227	-3.89522982027076	0.00903676319572808
+Juncus_triglumis	JN893725.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.6733818763627	-4.56585668415656	0.00903676319572808

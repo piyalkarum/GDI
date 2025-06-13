@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Filipendula_vulgaris	JN891051.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.77	-4.17	0.00304761904761905
+Filipendula_vulgaris	MG248088.1	21-JAN-2018	552	Canada: Ontario, Peel R. M., Chinguacousy Tp., Caledon Mountain Slope Forest ANSI, N of Terra Cotta, loose boundaries of Rds. 12, 19 and Mississauga Rd.	secondary	rbcL	43.72634945	-77.7101179040839	0.00298507462686567
+Filipendula_vulgaris	KJ746219.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00273556231003039
+Filipendula_vulgaris	HM850007.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.014869310146638
+Filipendula_vulgaris	JN890879.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.00304761904761905
+Filipendula_vulgaris	JN890650.1	07-MAR-2012	524	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00305343511450382

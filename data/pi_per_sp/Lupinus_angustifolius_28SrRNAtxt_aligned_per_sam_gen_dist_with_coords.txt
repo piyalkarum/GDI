@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lupinus_angustifolius	XM_019591510.1	16-DEC-2016	2454	Australia: Western Australia	secondary	28S rRNA	-24.3353639492645	121.026904376578	0.170825026050638
+Lupinus_angustifolius	XM_019591509.1	16-DEC-2016	2457	Australia: Western Australia	secondary	28S rRNA	-25.2661712704946	121.797647461616	0.170825026050638
+Lupinus_angustifolius	XM_019591508.1	16-DEC-2016	2460	Australia: Western Australia	secondary	28S rRNA	-25.7438660276289	120.749297985797	0.170825026050638
+Lupinus_angustifolius	XM_019570732.1	16-DEC-2016	2298	Australia: Western Australia	secondary	28S rRNA	-25.3688197222572	120.763331857902	0.24587807613107
+Lupinus_angustifolius	XM_019560062.1	16-DEC-2016	1648	Australia: Western Australia	secondary	28S rRNA	-24.5235653891211	120.495928666338	0.539616963385945

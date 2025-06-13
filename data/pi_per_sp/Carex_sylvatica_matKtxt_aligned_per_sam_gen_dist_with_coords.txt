@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_sylvatica	JN896090.1	07-MAR-2012	822	United Kingdom: Glamorgan	primary	matK	51.49	-3.28	0.000442477876106195
+Carex_sylvatica	MN763619.1	28-JUL-2020	565	Canada: British Columbia, Pender Island	secondary	matK	48.7786931	-123.2816111	0.00176991150442478
+Carex_sylvatica	KJ204454.1	29-JAN-2015	831	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.000442477876106195
+Carex_sylvatica	JN895097.1	07-MAR-2012	805	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000442477876106195
+Carex_sylvatica	JN894971.1	07-MAR-2012	742	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000442477876106195

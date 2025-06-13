@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_vulgaris	LR746164.1	25-JAN-2021	858	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.00234194483957527
+Linaria_vulgaris	KX061020.1	25-DEC-2016	857	Canada: Calgary, AB	secondary	trnL-trnF	51.1310077	-114.0241697	0.00302221694841881
+Linaria_vulgaris	KM385494.1	01-DEC-2014	520	Switzerland	secondary	trnL-trnF	46.7985624	8.2319736	NA
+Linaria_vulgaris	KF623221.1	07-DEC-2013	284	France: Chamonix	secondary	trnL-trnF	45.9246705	6.8727506	NA

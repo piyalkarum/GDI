@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Torilis_arvensis	KX677096.1	09-AUG-2017	811	Canada: British Columbia, Metro Vancouver Regional District, South Vancouver, near Oak Street Bridge, along disused railroad siding in back of warehouse	primary	matK	49.2013	-123.128	0.091898566161201
+Torilis_arvensis	KP149509.1	16-NOV-2015	746	South Africa: Western Cape, Mooiplass Renosterveld Conservancy	primary	matK	-33.9263	18.7491	0.101606261086856
+Torilis_arvensis	JN893950.1	07-MAR-2012	801	France: Cher	primary	matK	47.01	2.19	0.0976956584982728
+Torilis_arvensis	ON758380.1	10-OCT-2022	1234	Iraq: Dohuk	secondary	matK	36.8542598	42.9924528	0.557246786441352
+Torilis_arvensis	KJ204545.1	29-JAN-2015	836	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0906340631943207
+Torilis_arvensis	JN895445.1	07-MAR-2012	828	United Kingdom: Sussex,West	secondary	matK	50.94451385	-0.0622673284178475	0.0976956584982728
+Torilis_arvensis	JN895444.1	07-MAR-2012	853	United Kingdom: Oxfordshire	secondary	matK	51.833333	-1.25	0.0884537440029757

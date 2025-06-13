@@ -1,0 +1,35 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostis_stolonifera	MF596543.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Hadyn Turner Campground, S end of Queen Charlotte City.	primary	rbcL	53.0422700563021	-131.274851393747	0.00132637030116844
+Agrostis_stolonifera	MF596542.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Hadyn Turner Campground, S end of Queen Charlotte City.	primary	rbcL	53.0524743169431	-132.283156377871	0.00132637030116844
+Agrostis_stolonifera	MF596541.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, along Tlell River adjacent to Naikoon Provincial Park along Hwy. 16.	primary	rbcL	54.1924421871139	-132.106726809856	0.00132637030116844
+Agrostis_stolonifera	MF596540.1	28-FEB-2018	549	Canada: British Columbia, Hazelton Mountains, along Skeena River 15 km E of Cedarvale along Hwy. 16 just W of junction 37	primary	rbcL	55.6222649017705	-123.588410098131	0.00348611355755688
+Agrostis_stolonifera	MF596539.1	28-FEB-2018	549	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, Moresby Camp, Gillett Arm of Cumshewa Inlet, 11 km from Y junction of the loop road	primary	rbcL	53.7095243161254	-131.255220072839	0.00143511618921455
+Agrostis_stolonifera	MF596538.1	28-FEB-2018	549	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, N shore of Skidegate Lake at campground	primary	rbcL	53.0929475991454	-131.760941502447	0.00143511618921455
+Agrostis_stolonifera	MF596537.1	28-FEB-2018	549	Canada: British Columbia, Lower Mainland, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Road, Beta Avenue ditch.	primary	rbcL	49.76180186629	-123.216226907785	0.00143511618921455
+Agrostis_stolonifera	MF596536.1	28-FEB-2018	603	Canada: British Columbia, Summerland, Sun-Oka Beach Provincial Park.	primary	rbcL	50.1046161181157	-120.152322333784	0.00334233454850623
+Agrostis_stolonifera	MF596535.1	28-FEB-2018	549	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, 3.2 km up road to Moresby Camp from Y junction (loop road) just over bridge at small creek	primary	rbcL	53.4561127406142	-131.504321329598	0.00143511618921455
+Agrostis_stolonifera	MG228237.1	23-JAN-2018	549	Canada: British Columbia, Hazelton Mountains, along Skeena River 15 km E of Cedarvale along Hwy. 16 just W of junction 37	primary	rbcL	54.8562278705852	-122.786544990536	0.00348611355755688
+Agrostis_stolonifera	MG228011.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Hadyn Turner Campground, S end of Queen Charlotte City.	primary	rbcL	52.8823515914975	-133.445914128172	0.00132637030116844
+Agrostis_stolonifera	MG227726.1	23-JAN-2018	549	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, Moresby Camp, Gillett Arm of Cumshewa Inlet, 11 km from Y junction of the loop road	primary	rbcL	53.4802291077953	-133.222204884471	0.00143511618921455
+Agrostis_stolonifera	MG227555.1	23-JAN-2018	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	rbcL	43.274	-79.899	0.00142971650455613
+Agrostis_stolonifera	MG227333.1	23-JAN-2018	552	Canada: Ontario, City of Toronto, City of Toronto, Edge of Don River	primary	rbcL	43.689	-79.361	0.00142971650455613
+Agrostis_stolonifera	MG227127.1	23-JAN-2018	549	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, N shore of Skidegate Lake at campground	primary	rbcL	53.052680303309	-132.118442694428	0.00143511618921455
+Agrostis_stolonifera	MG226817.1	23-JAN-2018	549	Canada: British Columbia, Lower Mainland, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Road, Beta Avenue ditch.	primary	rbcL	49.0295914192818	-123.025028146594	0.00143511618921455
+Agrostis_stolonifera	MG226774.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Hadyn Turner Campground, S end of Queen Charlotte City.	primary	rbcL	52.5151286135663	-132.078516453201	0.00132637030116844
+Agrostis_stolonifera	MG226403.1	23-JAN-2018	603	Canada: British Columbia, Summerland, Sun-Oka Beach Provincial Park.	primary	rbcL	48.7724052724719	-119.611038767979	0.00334233454850623
+Agrostis_stolonifera	MG226278.1	23-JAN-2018	549	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, 3.2 km up road to Moresby Camp from Y junction (loop road) just over bridge at small creek	primary	rbcL	52.5815435289264	-131.273815873247	0.00143511618921455
+Agrostis_stolonifera	MG226001.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, along Tlell River adjacent to Naikoon Provincial Park along Hwy. 16.	primary	rbcL	53.6800021060254	-130.669805248101	0.00132637030116844
+Agrostis_stolonifera	MG225657.1	23-JAN-2018	549	Canada: Ontario, Algoma District, Sault Ste. Marie, Sault Ste. Marie	primary	rbcL	46.501	-84.441	0.00143754242114898
+Agrostis_stolonifera	HQ589943.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, open area near stream channel north of Echo Valley Cottage	primary	rbcL	44.026	-79.532	0.00132040939132497
+Agrostis_stolonifera	HQ589942.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, directly NW of Dufferin St. and driveway	primary	rbcL	44.03	-79.528	0.00132040939132497
+Agrostis_stolonifera	KJ841087.1	04-NOV-2014	566	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	rbcL	45.542	-73.154	0.00141118333578035
+Agrostis_stolonifera	JN891529.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.71	-3.42	0.00145697638118659
+Agrostis_stolonifera	MN205077.1	30-NOV-2021	724	China	secondary	rbcL	30.7074783791121	-94.8741239422631	0.00502300923153971
+Agrostis_stolonifera	MN192752.1	30-NOV-2021	723	China	secondary	rbcL	30.2825732537307	-95.0147170886289	0.00666164211726268
+Agrostis_stolonifera	KP711233.1	31-MAR-2016	1096	China	secondary	rbcL	29.779455005657	-94.7378881443894	0.000844308782344495
+Agrostis_stolonifera	KJ204295.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.1190902301113	6.73689222558191	0.00143511618921455
+Agrostis_stolonifera	KJ204294.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	45.3935890499574	6.61402233442355	0.00143511618921455
+Agrostis_stolonifera	HM849748.1	23-JUL-2011	664	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00118323363246643
+Agrostis_stolonifera	JN893045.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.1791552216098	-4.09788418895849	0.00145697638118659
+Agrostis_stolonifera	JN893044.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.0152051404555	-3.55476285756518	0.00145697638118659
+Agrostis_stolonifera	AJ746280.1	07-JAN-2005	1316	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.0188763778111521

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_hirsutum	MW070308.1	19-APR-2021	888	Romania: Palazu Mic	secondary	rpoB	43.6670575158072	28.8629231057967	0.000900900900900901
+Alyssum_hirsutum	MW070307.1	19-APR-2021	888	Romania: Palazu Mic	secondary	rpoB	44.5347286850876	27.527789911316	0.000900900900900901
+Alyssum_hirsutum	MW070268.1	19-APR-2021	888	Ukraine: Crimea, Demerdzhy Yaila	secondary	rpoB	44.4493232316092	34.0559851458417	0.00135135135135135
+Alyssum_hirsutum	MW070267.1	19-APR-2021	888	Ukraine: Crimea, Demerdzhy Yaila	secondary	rpoB	44.9344596615598	34.5963142313683	0.00135135135135135
+Alyssum_hirsutum	MW070276.1	19-APR-2021	888	Bulgaria	secondary	rpoB	43.6137013217997	26.3955201828146	0.0027027027027027
+Alyssum_hirsutum	MW070275.1	19-APR-2021	888	Bulgaria	secondary	rpoB	42.1448713728855	27.1928845678643	0.000900900900900901

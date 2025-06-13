@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Acer_platanoides	MG249642.1	21-JAN-2018	553	Canada: Ontario, Chatham-Kent County, Wheatley Provincial Park, Group Camping Area #2, and trail to cemetary	primary	rbcL	42.0939	-82.4619	0
+Acer_platanoides	MG249068.1	21-JAN-2018	553	Canada: Quebec, Montreal, Island of Montreal, Parc Bernard-Belleau	primary	rbcL	45.474	-73.759	0
+Acer_platanoides	KX678367.1	29-APR-2017	551	Canada: British Columbia, Metro Vancouver Regional District, Point Grey, cliffs overlooking Strait of Georgia	primary	rbcL	49.267	-123.233	0
+Acer_platanoides	KX678193.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Pacific Spirit Park	primary	rbcL	49.249	-123.207	0
+Acer_platanoides	KX162876.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.4409723629452	-3.36783435393492	0.000556483027267668
+Acer_platanoides	KX162875.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.2755990491092	-4.42155591365352	0.000556483027267668
+Acer_platanoides	FN689356.1	19-MAR-2010	670	Italy:Latium	secondary	rbcL	41.9808038	12.7662312	0.00111296605453534

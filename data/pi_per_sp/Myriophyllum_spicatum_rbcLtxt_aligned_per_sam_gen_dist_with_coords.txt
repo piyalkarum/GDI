@@ -1,0 +1,44 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myriophyllum_spicatum	OQ404761.1	03-JUL-2023	613	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	rbcL	42.26524002	-85.63755486	0.0141171512852929
+Myriophyllum_spicatum	MN179615.1	14-SEP-2019	582	USA: New York, Lake Ronkonkoma, Lake Ronkonkoma	primary	rbcL	40.9961760441625	-71.9708954838095	0.014087988136431
+Myriophyllum_spicatum	MH469626.1	20-JUN-2018	414	USA: New York, Ronkonkoma, On the beach near the waters of Lake Ronkonkoma	primary	rbcL	40.4406705588853	-72.6816790611109	0.0145053166897827
+Myriophyllum_spicatum	MG648694.1	15-DEC-2018	553	Canada: New Brunswick, Fredericton, Saint John River	primary	rbcL	45.9729	-66.7434	0.0141816289357273
+Myriophyllum_spicatum	MG648693.1	15-DEC-2018	553	Canada: New Brunswick, Fredericton, Saint John River	primary	rbcL	45.972	-66.6826	0.0141816289357273
+Myriophyllum_spicatum	MG648692.1	15-DEC-2018	553	Canada: New Brunswick, Fredericton, Saint John River	primary	rbcL	45.9755	-66.7594	0.0141816289357273
+Myriophyllum_spicatum	MG648691.1	15-DEC-2018	553	Canada: New Brunswick, Fredericton, Saint John River	primary	rbcL	45.983	-66.774	0.0141816289357273
+Myriophyllum_spicatum	MG648690.1	15-DEC-2018	553	Canada: New Brunswick, Fredericton, Saint John River	primary	rbcL	45.9771	-66.6947	0.0141816289357273
+Myriophyllum_spicatum	MG648689.1	15-DEC-2018	400	Canada: New Brunswick, Fredericton, Saint John River	primary	rbcL	45.9758	-66.6885	0.0144173247188323
+Myriophyllum_spicatum	MG247120.1	21-JAN-2018	552	Canada: British Columbia, NNE of Matsqui, E of Mission Bridge	primary	rbcL	49.133	-122.275	0.0142075078206465
+Myriophyllum_spicatum	KX679229.1	29-APR-2017	546	Canada: British Columbia, Greater Vancouver Regional District, Pitt Meadows, North Alouette River, at Neaves Road bridge, ca. 28 km due east of Vancouver	primary	rbcL	49.2715	-122.644	0.0141890704621332
+Myriophyllum_spicatum	LC219126.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3855	119.9648	0.0141640597844977
+Myriophyllum_spicatum	LC219109.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.377	119.9517	0.0141640597844977
+Myriophyllum_spicatum	LC219084.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3673	119.9451	0.0141640597844977
+Myriophyllum_spicatum	LC219077.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3475	119.9378	0.0141640597844977
+Myriophyllum_spicatum	LC219068.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3418	119.9271	0.0141640597844977
+Myriophyllum_spicatum	LC219062.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3445	119.9476	0.0141640597844977
+Myriophyllum_spicatum	LC219051.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3231	119.9455	0.0141640597844977
+Myriophyllum_spicatum	LC219044.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3	119.947	0.0141640597844977
+Myriophyllum_spicatum	LC219037.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	29.8296667845147	120.695602211173	0.0141640597844977
+Myriophyllum_spicatum	LC219030.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	29.5241106915839	120.360958563731	0.0141640597844977
+Myriophyllum_spicatum	LC219012.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.2829	119.9448	0.0141640597844977
+Myriophyllum_spicatum	LC219009.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4086	119.9817	0.0141640597844977
+Myriophyllum_spicatum	LC219001.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4106	119.9896	0.0141640597844977
+Myriophyllum_spicatum	LC218986.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4196	120.0209	0.0141640597844977
+Myriophyllum_spicatum	LC218969.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4242	120.0209	0.0141640597844977
+Myriophyllum_spicatum	LC218963.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4311	120.0504	0.0141640597844977
+Myriophyllum_spicatum	LC218953.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4311	120.0503	0.0141640597844977
+Myriophyllum_spicatum	LC218906.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.596	120.0595	0.0141640597844977
+Myriophyllum_spicatum	LC218842.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9224	120.1252	0.0141640597844977
+Myriophyllum_spicatum	LC218833.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9351	120.1262	0.0141640597844977
+Myriophyllum_spicatum	MN205282.1	30-NOV-2021	721	China	secondary	rbcL	35.000074	104.999927	0.0137732222934017
+Myriophyllum_spicatum	MK925090.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.0141617985484156
+Myriophyllum_spicatum	MG246326.1	21-JAN-2018	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island West, stranded pond, FFNMP	secondary	rbcL	43.72634945	-77.7101179040839	0.0141816289357273
+Myriophyllum_spicatum	JX100775.1	23-OCT-2012	553	Greece: Kerkini	secondary	rbcL	41.2173479	23.0847439	0.0141816289357273
+Myriophyllum_spicatum	JX100773.1	23-OCT-2012	553	Netherlands: Ter Apel, Bosbeek	secondary	rbcL	52.8742433	7.0617746	0.0141816289357273
+Myriophyllum_spicatum	JX100772.1	23-OCT-2012	553	Netherlands: Brabantse Biesbosch	secondary	rbcL	51.7781516	4.7617363	0.0141816289357273
+Myriophyllum_spicatum	JX100771.1	23-OCT-2012	553	Hungary: Hongarije	secondary	rbcL	46.3918447154802	19.2310085961803	0.0141816289357273
+Myriophyllum_spicatum	JX100770.1	23-OCT-2012	553	Hungary: Hongarije	secondary	rbcL	46.68497446848	18.6368017866144	0.0141816289357273
+Myriophyllum_spicatum	JX100769.1	23-OCT-2012	553	Hungary: Hongarije	secondary	rbcL	46.9252321870934	19.3406886859724	0.0141816289357273
+Myriophyllum_spicatum	JN893429.1	07-MAR-2012	524	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0141941391941392
+Myriophyllum_spicatum	JN891248.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.0141617985484156
+Myriophyllum_spicatum	EF529701.1	30-APR-2007	877	USA: Connecticut	secondary	rbcL	41.6500201	-72.7342163	0.595276060616173

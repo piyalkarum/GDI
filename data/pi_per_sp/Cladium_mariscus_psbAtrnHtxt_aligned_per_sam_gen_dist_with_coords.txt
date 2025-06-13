@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cladium_mariscus	MF543627.1	25-JUL-2018	601	Italy: Aosta Valley, Arvier, Lolair	secondary	psbA-trnH	44.9444703126392	7.66606515433798	0
+Cladium_mariscus	MF543626.1	25-JUL-2018	601	Italy: Aosta Valley, Arvier, Lolair	secondary	psbA-trnH	45.669853631612	7.87900633532264	0
+Cladium_mariscus	MF543625.1	25-JUL-2018	255	Italy: Aosta Valley, Arvier, Lolair	secondary	psbA-trnH	46.3277517376861	6.95211361991832	0
+Cladium_mariscus	MF543624.1	25-JUL-2018	255	Italy: Aosta Valley, Arvier, Lolair	secondary	psbA-trnH	45.1818550839462	6.83369453685655	0

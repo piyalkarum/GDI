@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypericum_perforatum	OR465014.1	26-SEP-2023	606	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	psbA-trnH	42.2879354	-85.61744993	0.039635294283786
+Hypericum_perforatum	MT228083.1	01-MAR-2021	610	Greece	primary	psbA-trnH	41.05	24.46	0.0386436670232607
+Hypericum_perforatum	MT228082.1	01-MAR-2021	610	Greece	primary	psbA-trnH	40.31	23.44	0.0341088075045383
+Hypericum_perforatum	MT228081.1	01-MAR-2021	610	Greece	primary	psbA-trnH	41	25.05	0.0311056034502578
+Hypericum_perforatum	MT228080.1	01-MAR-2021	610	Greece	primary	psbA-trnH	41.16	24.29	0.0324236640191323
+Hypericum_perforatum	MT228079.1	01-MAR-2021	608	Greece	primary	psbA-trnH	41.09	24.34	0.0392448154102446
+Hypericum_perforatum	MT228078.1	01-MAR-2021	590	Greece	primary	psbA-trnH	41.05	24.45	0.0594992650307306
+Hypericum_perforatum	MT228077.1	01-MAR-2021	590	Greece	primary	psbA-trnH	40.3009601985547	24.1581423774839	0.0366693083378479
+Hypericum_perforatum	MT228076.1	01-MAR-2021	610	Greece	primary	psbA-trnH	40.4602692364219	23.6417987259324	0.0480119226430254
+Hypericum_perforatum	HE966665.1	18-SEP-2012	622	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.072546110633069

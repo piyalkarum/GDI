@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_trachelium	MG224283.1	26-DEC-2017	552	Canada: OAC garden, Guelph	primary	rbcL	44.169933531151	-81.048859599184	0.160060134757715
+Campanula_trachelium	MG224050.1	26-DEC-2017	552	Canada: City of Guelph	primary	rbcL	42.9096900298495	-80.5607626332892	0.160060134757715
+Campanula_trachelium	MG221224.1	26-DEC-2017	552	Canada: Kingston tp	primary	rbcL	44.2314	-76.4847	0.160060134757715
+Campanula_trachelium	JN891485.1	07-MAR-2012	540	United Kingdom: Glamorgan	primary	rbcL	51.43	-3.44	0.157006054324012
+Campanula_trachelium	MK556102.1	22-SEP-2019	346	Poland	secondary	rbcL	53.0208119309015	18.6228973530273	0.608781439995389
+Campanula_trachelium	MK556021.1	22-SEP-2019	372	Poland	secondary	rbcL	52.2901011511729	20.1636057771143	0.596714389425339
+Campanula_trachelium	MK555580.1	22-SEP-2019	357	Poland	secondary	rbcL	52.3181132242686	18.8066906175806	0.543851137602413
+Campanula_trachelium	MK555459.1	22-SEP-2019	381	Poland	secondary	rbcL	52.3585116050766	18.9189559780567	0.163713657802344
+Campanula_trachelium	DQ356118.1	30-JUN-2007	1215	Sweden	secondary	rbcL	59.6749712	14.5208584	0.154365005947686
+Campanula_trachelium	KJ204309.1	29-JAN-2015	548	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.160060134757715
+Campanula_trachelium	JN893653.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.157230365216296
+Campanula_trachelium	JN890715.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.157230365216296

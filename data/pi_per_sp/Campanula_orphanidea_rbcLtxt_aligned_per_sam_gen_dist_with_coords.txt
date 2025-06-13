@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_orphanidea	MK556086.1	22-SEP-2019	346	Bulgaria	secondary	rbcL	47.0180267917999	23.3004782245694	0.530205345738129
+Campanula_orphanidea	MK556004.1	22-SEP-2019	360	Bulgaria	secondary	rbcL	46.0577635918267	23.5431856182035	0.535300733296498
+Campanula_orphanidea	MK555556.1	22-SEP-2019	357	Bulgaria	secondary	rbcL	47.1676581092394	23.1349330138664	0.564241416220874
+Campanula_orphanidea	MK555363.1	22-SEP-2019	382	Bulgaria	secondary	rbcL	46.9132841961297	23.378025628278	0.582397471809237

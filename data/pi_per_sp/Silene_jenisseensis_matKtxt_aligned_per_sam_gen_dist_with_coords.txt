@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_jenisseensis	OQ172476.1	18-JUN-2023	782	South Korea	secondary	matK	37.4068191327929	127.273964614041	0.00287061773253378
+Silene_jenisseensis	OQ172475.1	18-JUN-2023	782	South Korea	secondary	matK	35.9415676300369	127.008107226835	0.00287061773253378
+Silene_jenisseensis	OQ172474.1	18-JUN-2023	782	South Korea	secondary	matK	37.2813320068482	127.423994374509	0.00492939098255976
+Silene_jenisseensis	OQ172473.1	18-JUN-2023	782	South Korea	secondary	matK	35.8584722076475	127.936134631568	0.00287061773253378
+Silene_jenisseensis	OQ172472.1	18-JUN-2023	782	South Korea	secondary	matK	36.6815284684203	127.762370517695	0.00287061773253378
+Silene_jenisseensis	MH714125.1	01-SEP-2020	771	China: Hebei	secondary	matK	39.0000001	116	0.0123197903014417

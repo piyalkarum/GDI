@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salsola_collina	OR508841.1	17-OCT-2023	574	Kazakhstan: Qaragandy region	primary	rbcL	46.77978	74.70621	0.17062148962149
+Salsola_collina	MG247682.1	21-JAN-2018	552	Canada: Ontario, Prescott and Russell Co., Caledonia Tp., Caledonia Springs, by CPR siding	primary	rbcL	45.542	-74.8	0.173237343852728
+Salsola_collina	MW736016.1	07-AUG-2022	796	China	secondary	rbcL	35.3259989277066	105.373336755223	0.454759208026884
+Salsola_collina	MW736015.1	07-AUG-2022	788	China	secondary	rbcL	34.5071176075008	104.732161955427	0.454402065169741
+Salsola_collina	MW718978.1	23-JUL-2022	523	China	secondary	rbcL	35.0636853122206	105.98123999963	0.173247268561209
+Salsola_collina	MW718977.1	23-JUL-2022	523	China	secondary	rbcL	34.4292511374703	105.544992318605	0.173247268561209
+Salsola_collina	MG248219.1	21-JAN-2018	552	Canada: Ontario, York R. M., Vaughan Tp., Railway yard 4.5 km S of Maple	secondary	rbcL	44.5625697813011	-77.5219896726257	0.173237343852728
+Salsola_collina	MG246901.1	21-JAN-2018	552	Canada: Ontario, Kenora Dist., Minaki	secondary	rbcL	43.5335574187375	-78.8145138865605	0.173237343852728
+Salsola_collina	KX262527.1	11-APR-2017	568	Pakistan	secondary	rbcL	30.3308401	71.247499	0.460082134584997
+Salsola_collina	HM131782.1	29-JUN-2010	1343	China: Xiangride, Dulan, Qinghai	secondary	rbcL	35.9946643	97.8879634	0.164684832100171
+Salsola_collina	HM131781.1	29-JUN-2010	1343	China: Urumqi, Xinjiang	secondary	rbcL	43.8368402	87.5753263	0.164684832100171

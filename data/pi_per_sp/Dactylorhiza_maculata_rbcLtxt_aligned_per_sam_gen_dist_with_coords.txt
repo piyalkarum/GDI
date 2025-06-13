@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dactylorhiza_maculata	OR640473.1	05-NOV-2023	482	Kazakhstan: Qaragandy region	primary	rbcL	49.41064	75.43456	0
+Dactylorhiza_maculata	JN893308.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.13	0
+Dactylorhiza_maculata	GQ248587.1	24-JUN-2009	553	Sweden: Soedermanland, Svarta	secondary	rbcL	58.8200281	17.0937484	0
+Dactylorhiza_maculata	HG416988.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0
+Dactylorhiza_maculata	JN890893.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.3533062607304	-1.91664691459367	0
+Dactylorhiza_maculata	JN890892.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.8384628460139	-0.464760370566154	0

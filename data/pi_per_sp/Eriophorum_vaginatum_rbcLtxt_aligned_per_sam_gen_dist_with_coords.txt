@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eriophorum_vaginatum	MZ359299.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Eriophorum_vaginatum	LC377016.1	18-APR-2018	262	Japan: Toyama, Mt.Taro	primary	rbcL	36.44	137.51	0
+Eriophorum_vaginatum	KC482838.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of small round lake NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.299	-116.487	0
+Eriophorum_vaginatum	KC482837.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	rbcL	69.4222	-124.114	0
+Eriophorum_vaginatum	KC482836.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Large unnamed lake, ca. 18 km ENE of Johansen Bay airstrip	primary	rbcL	68.767	-110.819	0
+Eriophorum_vaginatum	KC482835.1	25-OCT-2013	552	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk, On Beaufort Sea	primary	rbcL	69.45	-133.033	0
+Eriophorum_vaginatum	KC482834.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, 0.5 km south of oil tanks south of airfield	primary	rbcL	63.724	-68.533	0
+Eriophorum_vaginatum	KC482833.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Winton Bay Camp	primary	rbcL	63.4	-65.667	0
+Eriophorum_vaginatum	KC482832.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	rbcL	62.834	-67.354	0
+Eriophorum_vaginatum	JN892235.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.71	-3.56	0
+Eriophorum_vaginatum	AB369971.1	03-APR-2014	1408	Japan:Iwate, Takizawa	secondary	rbcL	39.73477	141.0770901	0
+Eriophorum_vaginatum	JN892385.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Eriophorum_vaginatum	JN892163.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9875065	-1.1773256	0
+Eriophorum_vaginatum	JN891804.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0

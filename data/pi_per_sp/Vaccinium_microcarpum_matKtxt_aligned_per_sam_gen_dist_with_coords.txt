@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vaccinium_microcarpum	JN966392.1	27-OCT-2012	771	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0.000672043010752688
+Vaccinium_microcarpum	JN966391.1	27-OCT-2012	747	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	matK	58.692	-94.132	0.00268007513926674
+Vaccinium_microcarpum	MK925745.1	14-JAN-2020	775	United Kingdom	secondary	matK	55.3712086438449	-2.75875205853777	0.000669344042838019
+Vaccinium_microcarpum	MK925709.1	14-JAN-2020	774	United Kingdom	secondary	matK	54.622661172266	-3.46586373415398	0.000669344042838019
+Vaccinium_microcarpum	MK925702.1	14-JAN-2020	771	United Kingdom	secondary	matK	54.7314920862729	-1.90733020294852	0.000669344042838019

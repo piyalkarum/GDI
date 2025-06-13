@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_vulgaris	MG221566.1	26-DEC-2017	553	Canada: Ontario, Lambton Co. Marthaville Habitat Management area (St Clair Reg. Conservation Authority), W side of Marthaville Rd.	primary	rbcL	42.914	-82.171	0
+Odontites_vulgaris	MN204989.1	30-NOV-2021	689	China	secondary	rbcL	34.6869008804622	105.429191291188	0.000485908649173955
+Odontites_vulgaris	MN204988.1	30-NOV-2021	694	China	secondary	rbcL	35.6916802196295	105.407114543637	0.000482392667631452
+Odontites_vulgaris	KU235136.1	18-JAN-2016	1416	Russia	secondary	rbcL	64.6863136	97.7453061	0.000968301316805407

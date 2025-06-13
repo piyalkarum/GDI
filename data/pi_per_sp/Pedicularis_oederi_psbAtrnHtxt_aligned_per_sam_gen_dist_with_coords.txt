@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_oederi	JN046071.1	13-DEC-2011	357	China: Tibet	secondary	psbA-trnH	29.7551053719861	91.2365159247614	0.0028037432201345
+Pedicularis_oederi	JN046070.1	13-DEC-2011	357	China: Tibet	secondary	psbA-trnH	30.4845932180012	90.1688434050926	0.000933706816059757
+Pedicularis_oederi	JN046069.1	13-DEC-2011	356	China: Sichuan	secondary	psbA-trnH	53.2780787	-6.2107338	0.000936329588014981
+Pedicularis_oederi	JN046068.1	13-DEC-2011	357	China: Yunnan	secondary	psbA-trnH	25	102	0.000933706816059757

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymbra_capitata	HE819514.1	22-MAY-2013	599	Italy:Puglia	primary	rbcL	40.08	18.48	0
+Thymbra_capitata	HE819513.1	22-MAY-2013	599	Italy:Lazio	primary	rbcL	41.3	13.55	0
+Thymbra_capitata	HE819512.1	22-MAY-2013	599	Italy:Sicilia	primary	rbcL	37.15	15.23	0
+Thymbra_capitata	KX709606.1	20-AUG-2017	486	Egypt	secondary	rbcL	26.2540493	29.2675469	0

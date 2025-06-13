@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Betonica_officinalis	JN896053.1	07-MAR-2012	793	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.14	0.00196526617567818
+Betonica_officinalis	JN895102.1	07-MAR-2012	720	United Kingdom: Somerset, North (6)	primary	matK	51.28	-2.75	0.00212962962962963
+Betonica_officinalis	KJ746158.1	29-JUL-2014	665	Poland	secondary	matK	52.215933	19.134422	0.00332405086791052
+Betonica_officinalis	HE967006.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00546575207130739
+Betonica_officinalis	JN895213.1	07-MAR-2012	836	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.001948529540361
+Betonica_officinalis	JN895211.1	07-MAR-2012	873	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00191243653590712

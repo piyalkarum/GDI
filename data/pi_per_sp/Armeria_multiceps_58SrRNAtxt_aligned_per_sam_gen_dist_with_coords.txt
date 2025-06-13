@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_multiceps	LC757054.1	24-AUG-2023	805	France:Monte d'Oro	primary	5.8S rRNA	42.2593887354673	8.66743777309989	0
+Armeria_multiceps	LC757053.1	24-AUG-2023	805	France:Monte d'Oro	primary	5.8S rRNA	41.556548910737	8.5866886121686	0
+Armeria_multiceps	LC757052.1	24-AUG-2023	805	France:Monte d'Oro	primary	5.8S rRNA	41.7689988928855	8.01740060212834	0
+Armeria_multiceps	LC757051.1	24-AUG-2023	805	France:Col di Bavella	primary	5.8S rRNA	42.5621548797841	8.77382401014763	0
+Armeria_multiceps	LC757050.1	24-AUG-2023	805	France:Col di Bavella	primary	5.8S rRNA	41.9479284835659	8.37589730923985	0
+Armeria_multiceps	LC757049.1	24-AUG-2023	805	France:Col di Bavella	primary	5.8S rRNA	41.6410991417319	9.24282172626155	0

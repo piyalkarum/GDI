@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosotis_asiatica	KC475038.1	25-OCT-2013	750	Canada: Yukon Territory, Herschel Island, Highest point on Island	primary	matK	69.617	-139.083	0
+Myosotis_asiatica	KC475037.1	25-OCT-2013	744	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park, NW part	primary	matK	69.4167	-139.633	0
+Myosotis_asiatica	KC475036.1	25-OCT-2013	750	Canada: Yukon Territory, Richardson Mountains, Skull Range	primary	matK	68.583	-137.033	0
+Myosotis_asiatica	KC475035.1	25-OCT-2013	750	Canada: Yukon Territory, Shingle Point, Coastline near Runningm River	primary	matK	68.967	-137.267	0
+Myosotis_asiatica	KC475034.1	25-OCT-2013	750	Canada: Yukon Territory, Craig Creek, In unnamed valley of Craig Creek	primary	matK	69.467	-140.983	0

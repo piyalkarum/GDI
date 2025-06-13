@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Himantoglossum_hircinum	KJ596138.1	20-OCT-2014	2234	Spain	secondary	LEAFY	43.0521905	-7.3845817	0.00044762757385855
+Himantoglossum_hircinum	KJ596137.1	20-OCT-2014	2234	United Kingdom	secondary	LEAFY	52.2443103	0.4065503	0.000149209191286183
+Himantoglossum_hircinum	KJ596136.1	20-OCT-2014	2234	Morocco	secondary	LEAFY	33.527605	-5.107408	0.000149209191286183
+Himantoglossum_hircinum	KJ596135.1	20-OCT-2014	2234	Germany	secondary	LEAFY	49.1356239	7.1349429	0.000149209191286183

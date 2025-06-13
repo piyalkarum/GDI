@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_fladnizensis	MG248198.1	21-JAN-2018	552	USA: Alaska, North Slope Borough, Gates of the Arctic National Park, Castle Mountain	primary	rbcL	68.564	-152.621	0.000301932367149758
+Draba_fladnizensis	MG246054.1	21-JAN-2018	552	USA: Alaska, Southeast Fairbanks Census Area, Wrangell-St. Elias National Park Preserve, Wellesley Mountain	primary	rbcL	62.429	-141.271	0.000301932367149758
+Draba_fladnizensis	MG245977.1	21-JAN-2018	552	Canada: Yukon Territory, Printer's Pass, above Pika Camp	primary	rbcL	61.217	-138.259	0.000301932367149758
+Draba_fladnizensis	KT960505.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1165727816765	-22.5080330453961	0.000301932367149758
+Draba_fladnizensis	KT960424.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.0979740420266	-22.334663397376	0.000301932367149758
+Draba_fladnizensis	KC482589.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Aulavik National Park, Banks of the Thomsen River	primary	rbcL	73.4503	-119.805	0.000301932367149758
+Draba_fladnizensis	MT930784.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.00181159420289855

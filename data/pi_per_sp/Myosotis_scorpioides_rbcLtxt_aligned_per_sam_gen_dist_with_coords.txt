@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosotis_scorpioides	MG322257.1	11-NOV-2018	580	United Kingdom: England, Cumbria, Foreshield Burn	primary	rbcL	54.8159	-2.39	0.0125882973115445
+Myosotis_scorpioides	MG223942.1	26-DEC-2017	525	Canada: Yukon Territory, Haines Junction, flower bed at Kluane Park Inn	primary	rbcL	60.733	-137.517	0.0144997220678155
+Myosotis_scorpioides	JN891309.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.54	-3.39	0.00617219693597714
+Myosotis_scorpioides	JN893379.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.9204646199276	-2.44651959463049	0.00617219693597714
+Myosotis_scorpioides	JN893378.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.9200068408805	-3.56927392094279	0.00617219693597714

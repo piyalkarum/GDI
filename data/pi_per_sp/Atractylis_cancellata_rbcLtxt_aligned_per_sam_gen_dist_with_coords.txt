@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atractylis_cancellata	KX282585.1	28-MAY-2017	518	Kuwait	secondary	rbcL	28.5993284802504	48.4149925895219	0.00514800514800515
+Atractylis_cancellata	KX282584.1	28-MAY-2017	517	Kuwait	secondary	rbcL	29.5725846297049	47.1881875078472	0.00515796260477112
+Atractylis_cancellata	KX282583.1	28-MAY-2017	522	Kuwait	secondary	rbcL	29.126204094567	48.083684853389	0.00510855683269476
+Atractylis_cancellata	KC589797.1	21-MAY-2013	632	Spain	secondary	rbcL	39.3260685	-4.8379791	0.015414524585471

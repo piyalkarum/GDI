@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ajuga_pyramidalis	MK926174.1	14-JAN-2020	848	United Kingdom	secondary	matK	55.0565026287409	-4.18479029347036	0.00126262626262626
+Ajuga_pyramidalis	MK926003.1	14-JAN-2020	856	United Kingdom	secondary	matK	54.0751864095598	-4.20052642622326	0.00126262626262626
+Ajuga_pyramidalis	MK925854.1	14-JAN-2020	786	United Kingdom	secondary	matK	55.2000360730423	-2.84554800024762	0.00130208333333333
+Ajuga_pyramidalis	MK925850.1	14-JAN-2020	740	France	secondary	matK	46.603354	1.8883335	0.000675675675675676
+Ajuga_pyramidalis	MK925737.1	14-JAN-2020	792	Italy	secondary	matK	42.6384261	12.674297	0.00450301153426153

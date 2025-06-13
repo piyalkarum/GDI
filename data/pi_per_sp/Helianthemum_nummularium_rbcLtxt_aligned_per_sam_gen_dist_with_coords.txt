@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_nummularium	JN893033.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.57	-3.98	0.00198019801980198
+Helianthemum_nummularium	KJ204353.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00193798449612403
+Helianthemum_nummularium	FR865140.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.00589838053572799
+Helianthemum_nummularium	JN891932.1	07-MAR-2012	524	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00198019801980198

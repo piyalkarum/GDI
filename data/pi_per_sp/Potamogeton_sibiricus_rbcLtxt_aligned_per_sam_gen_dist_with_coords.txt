@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_sibiricus	MF694535.1	04-SEP-2018	514	Canada: Northwest Territories, Parson Lake district, N of Inuvik	primary	rbcL	69.6775260049643	-135.939182862942	0.369581811414549
+Potamogeton_sibiricus	MF694497.1	04-SEP-2018	513	Canada: Quebec, Ungava Bay (western slope), Hopes Advance Bay, Nunavik, in the vicinity of Aupaluk. UTM, 19VDR643719	primary	rbcL	59.2683007994577	-71.2734871072081	0.366450638380463
+Potamogeton_sibiricus	MF694609.1	04-SEP-2018	552	Canada: Northwest Territories, Parson Lake district, N of Inuvik	primary	rbcL	69.2871953261884	-136.522952156088	0.367366452317909
+Potamogeton_sibiricus	MF694578.1	04-SEP-2018	553	Canada: Quebec, Ungava Bay (western slope), Hopes Advance Bay, Nunavik, in the vicinity of Aupaluk. UTM, 19VDR643719	primary	rbcL	60.0441196206205	-69.0517822423532	0.367366452317909

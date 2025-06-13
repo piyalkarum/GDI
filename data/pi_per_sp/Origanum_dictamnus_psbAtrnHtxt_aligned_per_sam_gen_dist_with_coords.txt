@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Origanum_dictamnus	OL598238.1	27-MAY-2022	361	Greece: Crete, Zaros	secondary	psbA-trnH	35.4887655375796	25.2998088608464	0.0257752854536856
+Origanum_dictamnus	OL598237.1	27-MAY-2022	361	Greece: Crete, Zaros	secondary	psbA-trnH	35.463047278763	25.7030181365657	0.0219643098439295
+Origanum_dictamnus	OL598236.1	27-MAY-2022	329	Greece: Crete, Sugia	secondary	psbA-trnH	35.4988432810461	25.237743227771	0.0159991474534806
+Origanum_dictamnus	OL598235.1	27-MAY-2022	330	Greece: Crete, Sugia	secondary	psbA-trnH	34.4629528614757	24.3154780626185	0.022082850335964
+Origanum_dictamnus	KC138325.1	31-OCT-2014	400	Greece: Chania	secondary	psbA-trnH	35.5120831	24.0191544	0.0159922394678492

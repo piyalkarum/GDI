@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Briza_minor	LR699063.1	12-AUG-2019	599	Italy	primary	psbA-trnH	42.3970608581122	11.8108237593263	0.00356821151723525
+Briza_minor	LR699057.1	12-AUG-2019	599	Italy	primary	psbA-trnH	41.0416151447841	13.1260932419131	0.00356821151723525
+Briza_minor	KJ529177.1	22-FEB-2015	529	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0.00378071833648393
+Briza_minor	HQ600154.1	01-AUG-2012	649	South Korea	secondary	psbA-trnH	36.638392	127.6961188	0.00335570469798658

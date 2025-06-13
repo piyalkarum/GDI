@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salvia_glutinosa	MW469259.1	31-JAN-2023	594	China	secondary	matK	34.4055718552441	105.071495602223	0
+Salvia_glutinosa	MW469258.1	31-JAN-2023	594	China	secondary	matK	34.745002259691	105.989884115308	0
+Salvia_glutinosa	MW469257.1	31-JAN-2023	594	Mexico	secondary	matK	19.2525623168512	-98.3882956119897	0
+Salvia_glutinosa	MW469256.1	31-JAN-2023	594	Mexico	secondary	matK	19.5635093363148	-98.6437136979965	0

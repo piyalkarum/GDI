@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mandragora_officinarum	JX067412.1	31-JUL-2012	449	Greece: Paros	secondary	psbA-trnH	37.0651048	25.1921674	0
+Mandragora_officinarum	JX067411.1	31-JUL-2012	449	Cyprus	secondary	psbA-trnH	34.9174159	32.8899027	0
+Mandragora_officinarum	JX067402.1	31-JUL-2012	449	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0
+Mandragora_officinarum	JX067401.1	31-JUL-2012	449	Greece: Crete	secondary	psbA-trnH	35.3084952	24.4633423	0
+Mandragora_officinarum	HE687474.1	04-MAY-2012	417	Morocco:Marrakech	secondary	psbA-trnH	31.6258257	-7.9891608	0
+Mandragora_officinarum	HE659544.1	03-FEB-2012	416	Morocco	secondary	psbA-trnH	28.3347722	-10.3713379	0

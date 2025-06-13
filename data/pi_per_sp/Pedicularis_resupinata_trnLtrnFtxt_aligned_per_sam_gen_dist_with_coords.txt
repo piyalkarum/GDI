@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_resupinata	AB280447.1	26-APR-2007	1619	Japan: Yamagata, Mt. Gassan	secondary	trnL-trnF	38.5486934	140.0268363	0.00406052463221604
+Pedicularis_resupinata	AB110917.1	02-DEC-2003	1689	Japan: Kochi, The Tengu Highlands	secondary	trnL-trnF	33.5680384	133.5394221	0.00975120242556458
+Pedicularis_resupinata	AB110916.1	02-DEC-2003	1683	Japan: Nagano, Mt. Chogadake	secondary	trnL-trnF	35.9053376229734	137.96996239757	0.010265242778455
+Pedicularis_resupinata	AB110914.1	02-DEC-2003	1662	Japan: Aichi, Mt. Ishinomaki	secondary	trnL-trnF	35.1219442	137.081740723195	0.00516695811628224
+Pedicularis_resupinata	AB110913.1	02-DEC-2003	1663	Japan: Gifu, Hokonoko Lake	secondary	trnL-trnF	35.4230949	136.7627526	0.005165614262434
+Pedicularis_resupinata	AB110912.1	02-DEC-2003	1662	Japan: Hokkaido, Rebun Island	secondary	trnL-trnF	45.36878	141.0246164	0.00413061655086602
+Pedicularis_resupinata	AB110781.1	27-NOV-2003	1660	Japan: Nagano, Tobu, Ikenotaira Marsh	secondary	trnL-trnF	35.797588500216	138.216093926672	0.00396103508801827
+Pedicularis_resupinata	AB110782.1	27-NOV-2003	1664	Japan	secondary	trnL-trnF	37.5850396	140.4313889	0.00447205434721382

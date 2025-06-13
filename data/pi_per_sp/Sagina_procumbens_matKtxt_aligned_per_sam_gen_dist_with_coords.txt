@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_procumbens	JN894087.1	07-MAR-2012	772	United Kingdom: Glamorgan	primary	matK	51.53	-3.21	0.000223413762287757
+Sagina_procumbens	OQ172430.1	18-JUN-2023	776	South Korea	secondary	matK	36.7725310075616	127.773978598682	0.000227998176014592
+Sagina_procumbens	OQ172429.1	18-JUN-2023	776	South Korea	secondary	matK	36.5415003356143	127.979391441558	0.000227998176014592
+Sagina_procumbens	OQ172428.1	18-JUN-2023	776	South Korea	secondary	matK	36.3838417941568	128.399012980902	0.000227998176014592
+Sagina_procumbens	OQ172427.1	18-JUN-2023	776	South Korea	secondary	matK	36.8622071435915	126.942734231521	0.000227998176014592
+Sagina_procumbens	HM850782.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00135674334106945
+Sagina_procumbens	JN895587.1	07-MAR-2012	811	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.000221336874723329

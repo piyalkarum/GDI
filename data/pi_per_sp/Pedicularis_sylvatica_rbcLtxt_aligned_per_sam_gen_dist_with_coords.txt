@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_sylvatica	MG221710.1	26-DEC-2017	552	Canada: Guelph, ON	primary	rbcL	43.5485	-80.2503	0
+Pedicularis_sylvatica	JN891517.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.13	0
+Pedicularis_sylvatica	JN893223.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Pedicularis_sylvatica	JN892604.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9875065	-1.1773256	0
+Pedicularis_sylvatica	JN891318.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

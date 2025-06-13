@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_pratensis	KF050508.1	23-DEC-2013	847	Spain	secondary	Adh	39.3260685	-4.8379791	0.0443645096234718
+Tragopogon_pratensis	KF050507.1	23-DEC-2013	588	Russia: Moscow region	secondary	Adh	55.7048709	37.3677695	0.0221855845686164
+Tragopogon_pratensis	KT167161.1	19-AUG-2015	753	United Kingdom	secondary	Adh	54.7357720409045	-2.75533464063848	0.00994757243043506
+Tragopogon_pratensis	KT167160.1	19-AUG-2015	753	United Kingdom	secondary	Adh	53.9522410173112	-2.29755223428569	0.00994757243043506
+Tragopogon_pratensis	KT167159.1	19-AUG-2015	818	United Kingdom	secondary	Adh	54.8631176948775	-2.98339466557122	0.00981607447285014
+Tragopogon_pratensis	KT167158.1	19-AUG-2015	521	United Kingdom	secondary	Adh	53.5128216763958	-1.2248050380131	0.0140005729404771
+Tragopogon_pratensis	KT167157.1	19-AUG-2015	818	United Kingdom	secondary	Adh	54.7834601969686	-2.44652531186388	0.00981607447285014

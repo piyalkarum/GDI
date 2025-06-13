@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anemone_narcissiflora	AB219679.1	20-DEC-2005	929	Japan: Hokkaido, Mts. Taisetsuzan	secondary	rpl16	43.6525812018661	142.739339355036	0.00108070032189561
+Anemone_narcissiflora	AB219678.1	20-DEC-2005	929	Japan: Iwate, Mt. Yakeishidake	secondary	rpl16	39.1637016	140.8288204	0.00035880875493362
+Anemone_narcissiflora	AB248021.1	20-APR-2006	923	Japan:Yamagata, Mts. Gassan	secondary	rpl16	38.2553393	140.3400205	0.000361141206211629
+Anemone_narcissiflora	AB248020.1	20-APR-2006	924	Japan:Hokkaido, Mt. Yubaridake	secondary	rpl16	43.2562505219845	143.65983255472	0.000360750360750361

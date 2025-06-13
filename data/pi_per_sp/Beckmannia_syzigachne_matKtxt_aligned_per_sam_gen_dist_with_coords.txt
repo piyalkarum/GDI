@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Beckmannia_syzigachne	KX873237.1	16-OCT-2017	686	Canada: British Columbia, Marquart Lake West Forest Recreation Site, justt off Hwy. 97C NE of Merritt. Grasslands Interpretive Area	primary	matK	50.0769	-120.6514	0
+Beckmannia_syzigachne	MF597191.1	17-JUL-2018	819	Canada: British Columbia, Just off Hwy. 16 along Keillor Road, 98 km W of Prince George.	primary	matK	53.948	-123.797	0.000622070537505141
+Beckmannia_syzigachne	MF597190.1	17-JUL-2018	819	Canada: Alberta, E shore of Lesser Slave Lake	primary	matK	55.328	-114.754	0.000622070537505141
+Beckmannia_syzigachne	MF597189.1	17-JUL-2018	819	Canada: Manitoba	primary	matK	49.281	-98.635	0.000622070537505141
+Beckmannia_syzigachne	JN966136.1	27-OCT-2012	779	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, Gravel of island, 4 miles upstream from York Factory	primary	matK	58.7593735448423	-93.9103491602727	0.000429009000309131
+Beckmannia_syzigachne	JN966135.1	27-OCT-2012	779	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, Upland meadow	primary	matK	58.0515452217415	-92.8718772490388	0.000429009000309131
+Beckmannia_syzigachne	JN966134.1	27-OCT-2012	682	Canada: Manitoba, Churchill, unspecified locality	primary	matK	58.733	-93.733	0
+Beckmannia_syzigachne	OK247794.1	27-OCT-2022	788	Canada: Manitoba	secondary	matK	55.001251	-97.001038	0.000430804167779856
+Beckmannia_syzigachne	MW251088.1	06-APR-2022	788	USA	secondary	matK	39.7837304	-100.445882	0.000430804167779856
+Beckmannia_syzigachne	MH265194.1	22-JAN-2019	887	China	secondary	matK	35.000074	104.999927	0.00104725408552887
+Beckmannia_syzigachne	KF713091.1	15-DEC-2013	1014	South Korea: Icheon	secondary	matK	37.2808823	127.4429132	0.000751313911290981
+Beckmannia_syzigachne	KF713087.1	15-DEC-2013	1014	South Korea: Ansan-si, Gyeonggi-do	secondary	matK	37.306308	126.8738475	0.000751313911290981
+Beckmannia_syzigachne	HQ600043.1	02-AUG-2011	1342	South Korea	secondary	matK	36.638392	127.6961188	0.00103595604058256

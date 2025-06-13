@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sparganium_natans	MG226320.1	23-JAN-2018	521	Canada: Yukon Territory, Taye Lake	primary	rbcL	60.933	-136.35	0.00742794960392963
+Sparganium_natans	MG226196.1	23-JAN-2018	419	Canada: Yukon Territory, No Gold Creek, Horseshoe Slough	primary	rbcL	63.433	-135.1	0.0393794749403341
+Sparganium_natans	JN966012.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 27 km E Churchill, Fort Churchill, Spaceport project, Churchill area, east of Study Centre Raised beach ridge, extreme disturbance	primary	rbcL	58.2672757695232	-93.4039085824226	0.0084150540521958
+Sparganium_natans	JN966011.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 25 km E Churchill, Fort Churchill, Spaceport project, Churchill area, Moist area between flat ground and pond	primary	rbcL	58.5338354718038	-93.1599182244313	0.0084150540521958
+Sparganium_natans	JN966010.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, Willow fen west of depot	primary	rbcL	58.8522484502055	-93.5966011076838	0.00591899001575488
+Sparganium_natans	JN891615.1	07-MAR-2012	517	United Kingdom: Glamorgan	primary	rbcL	51.63	-3.88	0.00598548571734774
+Sparganium_natans	LC004545.1	04-DEC-2015	1311	Russia	secondary	rbcL	64.6863136	97.7453061	0.00594256094404538
+Sparganium_natans	JN893211.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	52.5125580747966	-4.53453023161479	0.00594258214669807
+Sparganium_natans	JN890967.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2347676880152	-2.9066459386387	0.00594258214669807

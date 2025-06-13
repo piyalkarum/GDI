@@ -1,0 +1,36 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hydrilla_verticillata	MN179614.1	14-SEP-2019	585	USA: New York, Lake Ronkonkoma, Lake Ronkonkoma	primary	rbcL	40.6198668654787	-72.7770083994855	0.000426548618972417
+Hydrilla_verticillata	MN179612.1	14-SEP-2019	550	USA: New York, Lake Ronkonkoma, Lake Ronkonkoma	primary	rbcL	40.4993412763404	-73.6390825189226	0.0004293688278231
+Hydrilla_verticillata	MN123630.1	13-JUL-2019	575	USA: New York, Lake Ronkonkoma, Lake Ronkonkoma	primary	rbcL	40.938932833583	-73.5945033905097	0.000426646380545236
+Hydrilla_verticillata	MN123629.1	13-JUL-2019	581	USA: New York, Lake Ronkonkoma, Lake Ronkonkoma	primary	rbcL	41.6550059208318	-73.3178517852704	0.000426646380545236
+Hydrilla_verticillata	MN123628.1	13-JUL-2019	575	USA: New York, Lake Ronkonkoma, Lake Ronkonkoma	primary	rbcL	41.1612653154133	-73.669383607526	0.000426646380545236
+Hydrilla_verticillata	MH453504.1	20-JUN-2018	414	USA: New York, Ronkonkoma, In the waters of Lake Ronkonkoma	primary	rbcL	40.934674683727	-73.466188429386	0.000497300369423132
+Hydrilla_verticillata	MH453503.1	20-JUN-2018	529	USA: New York, Ronkonkoma, In the waters of Lake Ronkonkoma	primary	rbcL	41.5847647572554	-72.4878922586227	0.000389191593461581
+Hydrilla_verticillata	MH453502.1	20-JUN-2018	522	USA: New York, Ronkonkoma, On the beach near Lake Ronkonkoma	primary	rbcL	39.985327483286	-72.8867112566122	0.000394410637818346
+Hydrilla_verticillata	LC219129.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3855	119.9648	0.000426842977993873
+Hydrilla_verticillata	LC219113.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.377	119.9517	0.000426842977993873
+Hydrilla_verticillata	LC219100.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3736	119.937	0.000426842977993873
+Hydrilla_verticillata	LC219082.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3673	119.9451	0.000426842977993873
+Hydrilla_verticillata	LC219057.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3231	119.9455	0.00157086585332074
+Hydrilla_verticillata	LC219043.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.7241772036084	120.421501810415	0.00157086585332074
+Hydrilla_verticillata	LC219042.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.1314544989882	120.305172652532	0.000426842977993873
+Hydrilla_verticillata	LC219029.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.2821	119.9447	0.000426842977993873
+Hydrilla_verticillata	LC219019.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	29.9215442278883	119.961841894201	0.00157086585332074
+Hydrilla_verticillata	LC219016.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.6086637061927	119.461920208605	0.000426842977993873
+Hydrilla_verticillata	LC219007.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.0922035980036	120.125548196283	0.00157086585332074
+Hydrilla_verticillata	LC219006.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	31.0802438920968	120.165247098953	0.000426842977993873
+Hydrilla_verticillata	LC218982.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.0303850721908	120.758681825215	0.00157086585332074
+Hydrilla_verticillata	LC218977.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	29.9404730566061	120.161401133723	0.000426842977993873
+Hydrilla_verticillata	LC218965.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4311	120.0504	0.000426842977993873
+Hydrilla_verticillata	LC218958.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	31.1960679769564	119.984306112338	0.000426842977993873
+Hydrilla_verticillata	LC218957.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9696049129687	120.352268399245	0.00157086585332074
+Hydrilla_verticillata	LC218956.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	29.6914523732979	120.216508366268	0.000426842977993873
+Hydrilla_verticillata	LC218946.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4365648634183	120.839664318376	0.000426842977993873
+Hydrilla_verticillata	LC218916.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.5609	120.0626	0.000426842977993873
+Hydrilla_verticillata	LC218912.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	31.2400428971325	120.755424595996	0.00157086585332074
+Hydrilla_verticillata	LC218909.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9519442379898	119.341353466189	0.000426842977993873
+Hydrilla_verticillata	LC218873.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.8961	120.101	0.000426842977993873
+Hydrilla_verticillata	LC218841.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9224	120.1252	0.000426842977993873
+Hydrilla_verticillata	LC218825.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9412	120.126	0.000426842977993873
+Hydrilla_verticillata	MK925446.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00043452544737562
+Hydrilla_verticillata	LC128113.1	01-APR-2017	1179	Japan: Tochigi	secondary	rbcL	36.6782167	139.8096549	0.00204669289309715

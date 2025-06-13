@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fumana_ericoides	OL536907.1	10-JAN-2022	553	USA: Missouri	primary	COI	38.3417856860459	-90.3525009696152	0.477363110899658
+Fumana_ericoides	OL536488.1	10-JAN-2022	355	USA: Missouri	primary	COI	38.365750181397	-90.6260026796936	0.625947468164402
+Fumana_ericoides	OL312464.1	04-JAN-2022	299	USA: Missouri Botanical Garden, Shoenberg Temperate House.	primary	COI	38.614472	-90.259083	0.566468960507537
+Fumana_ericoides	OL689997.1	08-DEC-2021	824	USA: Missouri	primary	COI	38.1579259928054	-90.4521340738464	0.572881479332221
+Fumana_ericoides	FJ492020.1	08-APR-2009	673	Spain: Almeria, Cabo de Gata	secondary	COI	36.9548859408379	-1.40961416258526	0.480672105938607
+Fumana_ericoides	FJ491992.1	08-APR-2009	350	Spain: Almeria, Cabo de Gata	secondary	COI	36.9091616696324	-1.66141597073261	0.58909106513548

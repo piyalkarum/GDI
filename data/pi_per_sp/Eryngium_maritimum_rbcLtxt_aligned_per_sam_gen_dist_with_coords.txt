@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eryngium_maritimum	MG223420.1	26-DEC-2017	552	Canada: Vineland Station, ON	primary	rbcL	45.8979	-66.5713	0.00185980647510222
+Eryngium_maritimum	JN892018.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.4	-4.09	0.000462107208872458
+Eryngium_maritimum	JN893255.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000462107208872458
+Eryngium_maritimum	JN891087.1	07-MAR-2012	529	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000473484848484848
+Eryngium_maritimum	JN891082.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000462107208872458

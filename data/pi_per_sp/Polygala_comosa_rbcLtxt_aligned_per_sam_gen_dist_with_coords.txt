@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygala_comosa	OR660059.1	06-NOV-2023	477	Kazakhstan: Qaragandy region	primary	rbcL	49.51924	73.22125	0.00356917669928548
+Polygala_comosa	OL542848.1	09-NOV-2022	397	Turkey	secondary	rbcL	38.9102117072906	34.8744263178439	0.00668632429160638
+Polygala_comosa	OL542847.1	09-NOV-2022	511	Turkey	secondary	rbcL	39.2402622214054	34.0809530920214	0.00244522171782141
+Polygala_comosa	KJ746225.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00479255499981746

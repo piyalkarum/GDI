@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Betula_pubescens	OR738014.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.27167	83.16528	0.0002050020500205
+Betula_pubescens	OR738006.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.00164824981653971
+Betula_pubescens	KX678331.1	29-APR-2017	551	Canada: British Columbia, Metro Vancouver Regional District, Richmond, east of No. 6 Road, south of radio tower, peaty birch woods	primary	rbcL	49.156	-123.067	0.000205380981721093
+Betula_pubescens	JN893073.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.75	-3.4	0.0002050020500205
+Betula_pubescens	MN531394.1	09-MAR-2020	485	Germany: Grosshansdorf	secondary	rbcL	53.6635561	10.2835977	0
+Betula_pubescens	KX162899.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.1561716093717	-3.93562843501344	0.0002050020500205
+Betula_pubescens	KX162898.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	53.9875296507815	-3.25378040666624	0.0002050020500205
+Betula_pubescens	JN893293.1	07-MAR-2012	522	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000212856534695615
+Betula_pubescens	JN893289.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.8291905945381	0.184487814411771	0.0002050020500205
+Betula_pubescens	JN893280.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.5396270164488	-1.11662135699208	0.0002050020500205

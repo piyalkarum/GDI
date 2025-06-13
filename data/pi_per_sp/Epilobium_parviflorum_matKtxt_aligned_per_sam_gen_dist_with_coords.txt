@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_parviflorum	MG221036.1	21-JAN-2018	793	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	matK	43.274	-79.899	0.000381970970206264
+Epilobium_parviflorum	MG220808.1	21-JAN-2018	790	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island, shoreline, FFNMP	primary	matK	45.266	-81.7	0.000381970970206264
+Epilobium_parviflorum	MG220791.1	21-JAN-2018	791	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	matK	42.765	-80.303	0.000380952380952381
+Epilobium_parviflorum	HQ593282.1	09-NOV-2011	785	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 5 m E of Racing Barn	primary	matK	44.029	-79.533	0.000382482310193154
+Epilobium_parviflorum	HQ593281.1	09-NOV-2011	749	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., SW edge of pond	primary	matK	44.035	-79.518	0.000393545848091303
+Epilobium_parviflorum	JN895757.1	07-MAR-2012	793	United Kingdom: Sussex, West (13)	primary	matK	51	-0.7	0.000381460995613199
+Epilobium_parviflorum	KJ204474.1	29-JAN-2015	769	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00056390977443609
+Epilobium_parviflorum	HM851001.1	23-JUL-2011	825	Portugal	secondary	matK	39.6621648	-8.1353519	0.00286629324969865

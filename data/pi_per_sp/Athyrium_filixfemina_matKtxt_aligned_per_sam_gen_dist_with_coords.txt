@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Athyrium_filix-femina	MG183307.1	13-DEC-2017	795	USA	secondary	matK	39.7837304	-100.445882	0.19106621106324
+Athyrium_filix-femina	MG183306.1	13-DEC-2017	795	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.189283415044817
+Athyrium_filix-femina	MG183305.1	13-DEC-2017	796	Czech Republic	secondary	matK	49.7439047	15.3381061	0.188025553409597
+Athyrium_filix-femina	KX656133.1	31-AUG-2017	653	USA: Massachusetts	secondary	matK	42.3788774	-72.032366	0.553280839895013

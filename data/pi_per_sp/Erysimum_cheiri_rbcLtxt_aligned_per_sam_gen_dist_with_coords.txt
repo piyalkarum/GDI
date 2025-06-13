@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erysimum_cheiri	MG249144.1	21-JAN-2018	552	Canada: British Columbia, Gulf Islands, N Pender Island, Port Washington, foot of 1202 Bridges Road	primary	rbcL	48.8132	-123.321	0
+Erysimum_cheiri	MG249099.1	21-JAN-2018	552	Canada: British Columbia, Victoria, 400 m west of Clover Point, below Dallas Road	primary	rbcL	48.4064	-123.353	0
+Erysimum_cheiri	MF349308.1	21-SEP-2017	553	USA: District of Columbia; US National Arboretum, National Herb Garden	primary	rbcL	38.919	-76.96	0
+Erysimum_cheiri	KX783873.1	31-MAY-2017	552	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	rbcL	31.189	31.189	0
+Erysimum_cheiri	JN892013.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.59	-2.7	0
+Erysimum_cheiri	JN890728.1	07-MAR-2012	537	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0
+Erysimum_cheiri	JN890727.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

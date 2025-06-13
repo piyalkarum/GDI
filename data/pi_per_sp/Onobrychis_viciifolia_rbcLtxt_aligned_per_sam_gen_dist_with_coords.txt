@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Onobrychis_viciifolia	MG245945.1	21-JAN-2018	552	Canada: Yukon Territory, Alaska Highway, km 1342 Jakes Corner	primary	rbcL	60.34	-133.994	0.000529875344247096
+Onobrychis_viciifolia	KX679141.1	29-APR-2017	552	Canada: British Columbia, East Kootenay Regional District, Wasa	primary	rbcL	49.783	-115.733	0.000529875344247096
+Onobrychis_viciifolia	MT931461.1	03-MAR-2023	561	China	secondary	rbcL	35.3291463624523	105.563983073526	0.000530433303542547
+Onobrychis_viciifolia	MT931460.1	03-MAR-2023	572	China	secondary	rbcL	34.2990515676048	104.590207876038	0.000772245657156143
+Onobrychis_viciifolia	MK925491.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3835995307943	-2.15384300597174	0
+Onobrychis_viciifolia	MK924672.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2644451472756	-2.75851985401766	0
+Onobrychis_viciifolia	MK924513.1	14-JAN-2020	531	United Kingdom	secondary	rbcL	55.3644845149956	-3.95648313780428	0
+Onobrychis_viciifolia	KJ746267.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.000817938334880596

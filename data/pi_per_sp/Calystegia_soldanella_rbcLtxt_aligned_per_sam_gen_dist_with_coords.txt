@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calystegia_soldanella	KX678003.1	29-APR-2017	552	Canada: British Columbia, Alberni-Clayoquot Regional District, Long Beach, sand dunes	primary	rbcL	49.072	-123.753	0.100184842883549
+Calystegia_soldanella	LC027923.1	14-FEB-2015	755	Japan:Shiga, Nagahama	primary	rbcL	35.35	136.28	0.103864656544521
+Calystegia_soldanella	JN893185.1	07-MAR-2012	542	United Kingdom: Cornwall, West with Scilly (1)	primary	rbcL	50.13	-5.49	0.100184501845018
+Calystegia_soldanella	MN726061.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.638392	127.6961188	0.104129919393077
+Calystegia_soldanella	MG224158.1	26-DEC-2017	552	Canada: British Columbia, Queen Charlotte Islands, Graham Island, 1.5 mi N of Tlell River bridge.	secondary	rbcL	49.25783145	-123.246241986222	0.100184842883549
+Calystegia_soldanella	KC529315.1	31-JAN-2015	606	Morocco	secondary	rbcL	28.3347722	-10.3713379	0.100204918032787
+Calystegia_soldanella	KT626673.1	13-FEB-2016	1304	New Zealand	secondary	rbcL	-41.5000831	172.8344077	0.103788105448622
+Calystegia_soldanella	JN891775.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.101664855053275
+Calystegia_soldanella	JN891770.1	07-MAR-2012	529	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.1
+Calystegia_soldanella	AB478410.1	23-JUL-2009	229	Japan	secondary	rbcL	36.5748441	139.2394179	0.455875147211632
+Calystegia_soldanella	AB478409.1	23-JUL-2009	229	Japan:Shiga, Lake Biwa	secondary	rbcL	35.2486461	136.0825575	0.455875147211632

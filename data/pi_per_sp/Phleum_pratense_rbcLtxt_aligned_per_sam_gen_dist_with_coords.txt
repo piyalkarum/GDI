@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phleum_pratense	JN890660.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.44	0.000216401756325618
+Phleum_pratense	MF596914.1	28-FEB-2018	603	Canada: British Columbia	primary	rbcL	53.0798214251562	-123.546196731143	0.000198631551508246
+Phleum_pratense	MF596913.1	28-FEB-2018	603	Canada: Manitoba, Mary Jane Reservoir, ~10 km NW of Manitou, open, relatively undisturbed prairie habitat S of the reservoir and N of the railroad tracks.	primary	rbcL	49.3049800427011	-99.7676197241649	0.000198631551508246
+Phleum_pratense	MF596912.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, Mosquito Lake.	primary	rbcL	52.8671966277393	-132.53741380035	0.000198631551508246
+Phleum_pratense	MG228245.1	23-JAN-2018	552	Canada: Ontario, Kenora District, Dryden Township, Dryden, outside of NEBIE Block #1	primary	rbcL	49.639	-92.779	0.000213084026054755
+Phleum_pratense	MG228125.1	23-JAN-2018	552	Canada: Ontario, Renfrew District, Petawawa, NEBIE field study site	primary	rbcL	45.9	-77.2833	0.000213084026054755
+Phleum_pratense	MG227968.1	23-JAN-2018	552	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.765	-80.303	0.000213084026054755
+Phleum_pratense	MG227229.1	23-JAN-2018	553	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Bridle Trail	primary	rbcL	43.3248	-79.8021	0.000212962226579564
+Phleum_pratense	MG227046.1	23-JAN-2018	603	Canada: British Columbia	primary	rbcL	53.1875947628269	-123.349939948373	0.000198631551508246
+Phleum_pratense	MG226579.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, Mosquito Lake.	primary	rbcL	53.4463464608997	-130.866057588027	0.000198631551508246
+Phleum_pratense	MG225996.1	23-JAN-2018	553	Canada: Ontario, Thunder Bay District, Geraldton	primary	rbcL	49.3466	-87.8704	0.000212962226579564
+Phleum_pratense	MG225658.1	23-JAN-2018	603	Canada: Manitoba, Mary Jane Reservoir, ~10 km NW of Manitou, open, relatively undisturbed prairie habitat S of the reservoir and N of the railroad tracks.	primary	rbcL	49.1282033157916	-97.7308322513814	0.000198631551508246
+Phleum_pratense	HQ590204.1	09-NOV-2011	589	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., approx. 100 m NW of gazebo	primary	rbcL	44.033	-79.536	0.000200507926583889
+Phleum_pratense	KT695568.1	29-SEP-2015	540	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.000217288691278656
+Phleum_pratense	KJ593596.1	17-MAR-2015	503	USA: Wisconsin, Popple River	primary	rbcL	45.82	-88.746	0.000228690271684732
+Phleum_pratense	KJ593595.1	17-MAR-2015	536	USA: Wisconsin, Laona	primary	rbcL	45.569	-88.787	0.0002150959213859
+Phleum_pratense	KJ841460.1	04-NOV-2014	570	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.000275010462176573
+Phleum_pratense	JN891571.1	07-MAR-2012	542	United Kingdom: Perthshire, East (89)	primary	rbcL	56.81	-3.46	0.000216401756325618
+Phleum_pratense	JN890662.1	07-MAR-2012	367	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.2	0.000194628260023355
+Phleum_pratense	KJ204383.1	29-JAN-2015	546	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.000213824384733856
+Phleum_pratense	JN893804.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000216401756325618
+Phleum_pratense	JN893799.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00208098946299275
+Phleum_pratense	OQ189699.1	13-JUN-2023	789	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0.00226039300949566
+Phleum_pratense	MG226327.1	23-JAN-2018	553	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	secondary	rbcL	43.72634945	-77.7101179040839	0.000212962226579564
+Phleum_pratense	KP711236.1	31-MAR-2016	1096	China	secondary	rbcL	35.000074	104.999927	0.000298414441440029
+Phleum_pratense	HM850252.1	23-JUL-2011	1312	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00204793763377102
+Phleum_pratense	HQ600472.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.000895514356192771
+Phleum_pratense	JN893835.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000216401756325618
+Phleum_pratense	AJ746298.1	07-JAN-2005	1332	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.000317110365982205

@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_nivalis	MZ359315.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Ranunculus_nivalis	MG249613.1	21-JAN-2018	552	Canada: Yukon Territory, Printer's Pass	primary	rbcL	61.194	-138.325	0
+Ranunculus_nivalis	MG245904.1	21-JAN-2018	552	Canada: Yukon Territory, Richardson Mountains, tributary of Fish Creek, S of Vunta Creek	primary	rbcL	67.896	-136.559	0
+Ranunculus_nivalis	KT960681.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.6007907606361	-20.0704074364271	0
+Ranunculus_nivalis	KT960510.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.7078022176983	-19.8157660054523	0
+Ranunculus_nivalis	KT960502.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.7480186417974	-18.6149060233931	0
+Ranunculus_nivalis	KC483855.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of small round lake NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.267	-116.492	0
+Ranunculus_nivalis	KC483854.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.8442	-67.3239	0
+Ranunculus_nivalis	KC483853.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Sylvia Grinnell Park, off Crystal II road at the most eastern entrance to the park	primary	rbcL	63.7333	-68.5667	0
+Ranunculus_nivalis	KC483852.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit	primary	rbcL	63.733	-68.467	0
+Ranunculus_nivalis	KC483851.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.912	-109.584	0
+Ranunculus_nivalis	KC483850.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Viks Fiord	primary	rbcL	76.033	-91.533	0
+Ranunculus_nivalis	KC483849.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Masik River, Masik River Valley, hills on S side of valley, SSW of large oblong lake	primary	rbcL	71.5744	-123.185	0

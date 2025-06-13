@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lithospermum_officinale	KP210397.1	28-NOV-2015	735	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, on west edge of mowed area behind chalets, within 20 metres of chalets	primary	matK	45.537	-73.153	0.00239442311578097
+Lithospermum_officinale	JN895434.1	07-MAR-2012	707	United Kingdom: Carmarthenshire	primary	matK	51.69	-4.3	0.000353606789250354
+Lithospermum_officinale	EU599679.1	31-MAR-2009	1585	Italy	secondary	matK	42.6384261	12.674297	0.000680272108843537
+Lithospermum_officinale	JN895733.1	07-MAR-2012	805	United Kingdom: Anglesey	secondary	matK	53.2782257	-4.331344	0.000680272108843537
+Lithospermum_officinale	JN894350.1	07-MAR-2012	808	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.000680272108843537

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_cambessedesii	MN334896.1	16-OCT-2019	579	Spain	secondary	Adh	38.9743901	1.41974631785153	0
+Silene_cambessedesii	MN334895.1	16-OCT-2019	579	Spain	secondary	Adh	39.6043884	2.59691437756011	0
+Silene_cambessedesii	MN334894.1	16-OCT-2019	579	Spain	secondary	Adh	38.8442414	1.40254544006249	0
+Silene_cambessedesii	MN334893.1	16-OCT-2019	579	Spain	secondary	Adh	39.3391978	3.054137	0
+Silene_cambessedesii	MN334892.1	16-OCT-2019	579	Spain	secondary	Adh	38.7063909	1.43352655883119	0
+Silene_cambessedesii	MN334891.1	16-OCT-2019	579	Spain	secondary	Adh	41.2575148	1.9053097	0

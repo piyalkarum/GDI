@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_chalcedonica	MG246044.1	21-JAN-2018	552	Canada: Ontario, Parry Sound Dist., Carling Tp., S side of road to Killbear Park, 2 km WSW of Shebeshekong Community, at road to dump.	primary	rbcL	45.417	-80.233	0
+Silene_chalcedonica	MG249784.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Valleys of the Rouge, Section III	secondary	rbcL	44.1305889689397	-77.5297257240867	0
+Silene_chalcedonica	MG248799.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, North York Twnp.	secondary	rbcL	43.6002393785941	-78.3534523641036	0
+Silene_chalcedonica	MG245961.1	21-JAN-2018	552	Canada: Manitoba, Riding Mountain National Park, along roadside E of Hwy 10 at N side of park	secondary	rbcL	50.9959116	-98.7987473049144	0

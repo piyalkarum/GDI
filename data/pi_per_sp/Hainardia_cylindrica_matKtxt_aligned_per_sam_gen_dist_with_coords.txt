@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hainardia_cylindrica	LR606940.1	25-JAN-2021	2134	Germany	secondary	matK	40.4203479	-79.1166983	0.00296810976955634
+Hainardia_cylindrica	KJ529366.1	22-FEB-2015	969	Spain	secondary	matK	39.3260685	-4.8379791	0.00216561903868405
+Hainardia_cylindrica	KJ599283.1	21-SEP-2014	769	Australia: Victoria	secondary	matK	-36.5986096	144.6780052	0.0030464130326442
+Hainardia_cylindrica	FN908058.1	17-MAY-2012	1905	Portugal:Azores	secondary	matK	37.8085564	-25.4731374	0.00262411252153432

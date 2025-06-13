@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_hyperborea	KC474834.1	25-OCT-2013	777	Canada: Nunavut, Devon Island, Croker Bay, E side near entrance	primary	matK	74.533	-82.783	0.000759818544075104
+Festuca_hyperborea	KC474833.1	25-OCT-2013	777	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	matK	74.907	-109.59	0.000737811499431977
+Festuca_hyperborea	KC474832.1	25-OCT-2013	773	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	matK	76.56	-118.88	0.000763587432249203
+Festuca_hyperborea	KC474831.1	25-OCT-2013	777	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, head of bay, 14 km N of the abandoned Mould Bay weather station	primary	matK	76.36	-119.51	0.000737811499431977
+Festuca_hyperborea	KC474830.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Gentle slope below steep scree below a large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.244	-116.339	0.000737811499431977
+Festuca_hyperborea	KC474829.1	25-OCT-2013	777	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, Mould Bay Peninsula, east side, ca 10 km E of Mould Bay	primary	matK	76.23	-118.95	0.000759818544075104
+Festuca_hyperborea	KC474828.1	25-OCT-2013	771	Canada: Nunavut, Axel Heiberg Island, Bukken River, High altitude meadow above Bukken River headwaters	primary	matK	80.52	-92.065	0.000765025632427972
+Festuca_hyperborea	KC474827.1	25-OCT-2013	686	Canada: Nunavut, Bathurst Island, Polar Bear Pass, Research Station	primary	matK	75.73	-98.42	0.000834815654531451

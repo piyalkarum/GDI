@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_maculatum	KF055187.1	26-OCT-2013	701	Italy	secondary	rpoC1	42.6384261	12.674297	0
+Lamium_maculatum	KF055186.1	26-OCT-2013	701	Romania	secondary	rpoC1	45.9852129	24.6859225	0
+Lamium_maculatum	KF055185.1	26-OCT-2013	701	France	secondary	rpoC1	46.603354	1.8883335	0
+Lamium_maculatum	JX074003.1	18-OCT-2013	701	Poland	secondary	rpoC1	52.3155092478663	18.2050096017762	0
+Lamium_maculatum	JX074002.1	18-OCT-2013	701	Poland	secondary	rpoC1	51.6563813737668	19.3215751304345	0

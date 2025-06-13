@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_exigua	MG221075.1	21-JAN-2018	803	Canada: Ontario, York R. M., East Gwillimburg Tp., Lake Simcoe Lowlands, Holland Landing Prairie ANSI, on a plain ca. 3 km N. of the town of Holland Landing.	primary	matK	44.122	-79.492	0.094629056252214
+Euphorbia_exigua	JN894771.1	07-MAR-2012	844	United Kingdom: Monmouthshire	primary	matK	51.59	-2.86	0.0216516779772578
+Euphorbia_exigua	KJ204478.1	29-JAN-2015	815	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.0232880902145277
+Euphorbia_exigua	HM850916.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.0248535795926733
+Euphorbia_exigua	JN894465.1	07-MAR-2012	840	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.0216273474496855
+Euphorbia_exigua	JN894464.1	07-MAR-2012	803	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0215461409298799

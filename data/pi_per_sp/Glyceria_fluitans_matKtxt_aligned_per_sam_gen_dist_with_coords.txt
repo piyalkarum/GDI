@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glyceria_fluitans	JN894745.1	07-MAR-2012	828	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.000963060136598367
+Glyceria_fluitans	MT433201.1	31-MAY-2020	1436	Norway	secondary	matK	64.5731537	11.5280364	0.00287537013210941
+Glyceria_fluitans	HM850538.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00095935876714139
+Glyceria_fluitans	JN894426.1	07-MAR-2012	726	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.0020809584876983
+Glyceria_fluitans	JN894365.1	07-MAR-2012	802	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000967794013588618

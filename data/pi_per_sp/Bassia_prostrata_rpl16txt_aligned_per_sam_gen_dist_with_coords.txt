@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bassia_prostrata	KF785876.1	22-AUG-2014	795	Hungary: Erd., Magaspart	primary	rpl16	47.3433	18.9461	0.00950753450996036
+Bassia_prostrata	KF785875.1	22-AUG-2014	795	Hungary: Besenyotelek, Csuportos-legelo	primary	rpl16	47.6856	20.4658	0.00950753450996036
+Bassia_prostrata	KF785874.1	22-AUG-2014	263	Georgia: Kartli prov., Kura valley, surroundings of Dzvaris eklesia	primary	rpl16	41.85	44.73	0.0271317829457364
+Bassia_prostrata	KF785873.1	22-AUG-2014	719	Mongolia: Gobi Altai	secondary	rpl16	45.3463139	95.9325806	0.00997114137134191

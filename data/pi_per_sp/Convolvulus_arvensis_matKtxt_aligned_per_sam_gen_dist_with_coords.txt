@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Convolvulus_arvensis	OR738186.1	13-NOV-2023	799	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.265402933915605
+Convolvulus_arvensis	OQ847518.1	15-AUG-2023	795	USA: American Prairie, near Enrico	primary	matK	47.7444	-107.7761	0.0107721956379276
+Convolvulus_arvensis	KX677492.1	09-AUG-2017	771	Canada: British Columbia, Metro Vancouver Regional Distrct, Vancouver, Jericho Park, duckpond, north shore, pond margin, by park lawn	primary	matK	49.272	-123.197	0.0109231742761046
+Convolvulus_arvensis	KX676811.1	09-AUG-2017	804	Canada: British Columbia, Central Okanagan Regional District, Kelowna, Quail Ridge Blvd. at sharp bend in the road	primary	matK	49.962	-119.388	0.0107978262998752
+Convolvulus_arvensis	MH211037.1	07-OCT-2018	860	Bahrain	primary	matK	26.211344	50.590258	0.0217021771477993
+Convolvulus_arvensis	MG225365.1	21-JAN-2018	783	USA: North Dakota	primary	matK	48.045	-100.911	0.0106849845469996
+Convolvulus_arvensis	MG225324.1	21-JAN-2018	783	USA: North Dakota	primary	matK	46.175	-102.44	0.0106849845469996
+Convolvulus_arvensis	MG225307.1	21-JAN-2018	732	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	matK	42.454	-81.884	0.0128315880258565
+Convolvulus_arvensis	MG224933.1	21-JAN-2018	783	USA: North Dakota	primary	matK	48.6	-102.01	0.0106849845469996
+Convolvulus_arvensis	HQ593245.1	09-NOV-2011	788	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Front yard at Willow Ridge	primary	matK	44.024	-79.537	0.0107201080297668
+Convolvulus_arvensis	JN895762.1	07-MAR-2012	768	United Kingdom: Radnorshire	primary	matK	52.26	-2.99	0.0106904817637108
+Convolvulus_arvensis	MT930209.1	03-MAR-2023	793	China	secondary	matK	35.2769939634917	105.212188756056	0.0107859180812223
+Convolvulus_arvensis	MT930208.1	03-MAR-2023	784	China	secondary	matK	34.3181097152358	104.327523318543	0.0107098003254671
+Convolvulus_arvensis	MT930207.1	03-MAR-2023	784	China	secondary	matK	34.7093483954441	104.926885234936	0.0107098003254671
+Convolvulus_arvensis	MT930206.1	03-MAR-2023	786	China	secondary	matK	35.2687089490372	104.349739723783	0.0106831110078397
+Convolvulus_arvensis	MT930205.1	03-MAR-2023	784	China	secondary	matK	34.5484105621813	104.751323435064	0.0107098003254671
+Convolvulus_arvensis	MT930204.1	03-MAR-2023	785	China	secondary	matK	34.1907658337024	105.330004097311	0.0106964382629211
+Convolvulus_arvensis	MT930203.1	03-MAR-2023	789	China	secondary	matK	35.2883027319611	104.063350606865	0.010748566659973
+Convolvulus_arvensis	MH198115.1	03-JUN-2018	633	USA	secondary	matK	39.597242427734	-99.8563397900021	0.0107921512261747
+Convolvulus_arvensis	MG946999.1	29-MAY-2018	906	Pakistan	secondary	matK	30.3308401	71.247499	0.0107220357972753
+Convolvulus_arvensis	KC529020.1	31-JAN-2015	693	Turkey	secondary	matK	38.9597594	34.9249653	0.0107133208286014
+Convolvulus_arvensis	KC529019.1	31-JAN-2015	693	Spain	secondary	matK	39.3260685	-4.8379791	0.0107133208286014
+Convolvulus_arvensis	KT176616.1	19-AUG-2015	1509	USA	secondary	matK	39.7540244275989	-99.3123254034661	0.0107684282324606
+Convolvulus_arvensis	KJ204459.1	29-JAN-2015	846	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0107712912626001
+Convolvulus_arvensis	HM850893.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.0110746341500479
+Convolvulus_arvensis	JN894766.1	07-MAR-2012	799	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0106857971026589
+Convolvulus_arvensis	JN894765.1	07-MAR-2012	839	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.0107477733521616

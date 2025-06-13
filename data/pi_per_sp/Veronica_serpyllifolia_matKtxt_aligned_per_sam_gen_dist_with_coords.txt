@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_serpyllifolia	OR464950.1	26-SEP-2023	805	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.28814155	-85.61992175	0.00932328697037021
+Veronica_serpyllifolia	HQ593492.1	09-NOV-2011	781	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, in scrubby woods on edge of cultivated fields, east of old gravel pits	primary	matK	44.028	-79.543	0.00887413017625228
+Veronica_serpyllifolia	HQ593491.1	09-NOV-2011	789	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., N half of racing track	primary	matK	44.032	-79.534	0.00879491307815688
+Veronica_serpyllifolia	KP210449.1	28-NOV-2015	700	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	matK	45.538	-73.158	0.00984620916373244
+Veronica_serpyllifolia	JN894959.1	07-MAR-2012	800	United Kingdom: Glamorgan (41)	primary	matK	51.53	-3.22	0.0087914879594448
+Veronica_serpyllifolia	MN433429.1	30-NOV-2021	794	China	secondary	matK	35.000074	104.999927	0.068897970609354
+Veronica_serpyllifolia	HM851040.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.0161347313240322
+Veronica_serpyllifolia	JN894217.1	07-MAR-2012	805	United Kingdom: Glamorgan	secondary	matK	52.2663832207165	-3.88038777515996	0.00874740176909873
+Veronica_serpyllifolia	JN894216.1	07-MAR-2012	767	United Kingdom: Glamorgan	secondary	matK	52.024707557543	-4.1605695723862	0.00962264365689468
+Veronica_serpyllifolia	JN894215.1	07-MAR-2012	785	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00884879628787804

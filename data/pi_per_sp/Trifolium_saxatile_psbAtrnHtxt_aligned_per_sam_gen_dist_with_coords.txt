@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_saxatile	MF543699.1	25-JUL-2018	255	Italy: Aosta Valley, Cogne, Valeille	secondary	psbA-trnH	45.0805767156426	7.06475307894737	0
+Trifolium_saxatile	MF543698.1	25-JUL-2018	255	Italy: Aosta Valley, Cogne, Valeille	secondary	psbA-trnH	45.1884656284566	7.37744716348948	0
+Trifolium_saxatile	MF543697.1	25-JUL-2018	255	Italy: Aosta Valley, Cogne, Valeille	secondary	psbA-trnH	45.1125760579574	6.59081566457428	0
+Trifolium_saxatile	MF543696.1	25-JUL-2018	255	Italy: Aosta Valley, Cogne, Valeille	secondary	psbA-trnH	45.9898808397515	7.81941599767563	0
+Trifolium_saxatile	MF543695.1	25-JUL-2018	255	Italy	secondary	psbA-trnH	45.5688827	7.1181711	0

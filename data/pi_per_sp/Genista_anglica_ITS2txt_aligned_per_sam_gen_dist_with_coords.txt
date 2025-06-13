@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_anglica	AJ699025.1	30-APR-2005	222	Portugal:Beira Alta, Serra de Estrella	secondary	ITS2	41.2553556	-8.1433384	0.00225225225225225
+Genista_anglica	AJ699023.1	30-APR-2005	222	Denmark:N. Jutland, Hjardemal Klit, Thy	secondary	ITS2	56.82644685	9.58115569857883	0.00225225225225225
+Genista_anglica	AJ699021.1	30-APR-2005	222	Italy:Calabria, Aspromonte, Puntone Scirocco	secondary	ITS2	44.6693744	11.5122716	0.00563063063063063
+Genista_anglica	AJ698985.1	30-APR-2005	222	Morocco:Tanger, Bou Hassim	secondary	ITS2	35.7696302	-5.8033522	0.00563063063063063
+Genista_anglica	AJ971544.1	24-MAR-2006	222	Spain	secondary	ITS2	40.258386	-5.5223912	0.00225225225225225

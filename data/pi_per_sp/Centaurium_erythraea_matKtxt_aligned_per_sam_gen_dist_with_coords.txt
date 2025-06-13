@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurium_erythraea	MK325342.1	30-APR-2019	845	Italy: Sicilia, Mitello & San Fratello	primary	matK	38.02	14.36	0.0037691471915728
+Centaurium_erythraea	MK325328.1	30-APR-2019	820	France: Herault, Languedoc, Lac des Reves	primary	matK	43.33	3.56	0.00264974811272163
+Centaurium_erythraea	MK325326.1	30-APR-2019	845	Ireland: Galway, Carraroe, Connemara	primary	matK	53.14	-9.37	0.00263687915478935
+Centaurium_erythraea	MK325324.1	30-APR-2019	845	Spain: Orense, Larouco	primary	matK	42.19	-7.13	0.0262209771287521
+Centaurium_erythraea	MK325309.1	30-APR-2019	828	Italy: Cerdena, Nuoro	primary	matK	39.41	9.27	0.00285011235668117
+Centaurium_erythraea	MK325302.1	30-APR-2019	845	Spain: Menorca, La Mola de Fornells	primary	matK	40.03	4.08	0.00263687915478935
+Centaurium_erythraea	MK325293.1	30-APR-2019	851	Spain: Valencia, Els Corrals	primary	matK	39	-0.19	0.00278301191359742
+Centaurium_erythraea	MK325289.1	30-APR-2019	851	Spain: Madrid, Reduena	primary	matK	40.49	-3.36	0.00278301191359742
+Centaurium_erythraea	MK325288.1	30-APR-2019	851	Spain: Huelva, Aroche	primary	matK	37.56	-6.58	0.00278301191359742
+Centaurium_erythraea	MK325287.1	30-APR-2019	851	Portugal: Baixo Alentejo, Brejos da Cima	primary	matK	38.19	-8.45	0.00278301191359742
+Centaurium_erythraea	MK325282.1	30-APR-2019	851	Spain: Los Molinos, Sierra de Guara	primary	matK	42.24	-0.07	0.00257492645527206
+Centaurium_erythraea	KX677228.1	09-AUG-2017	830	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, University Endowment Lands, along SW Marine Dr.	primary	matK	49.245	-123.218	0.00284369274374393
+Centaurium_erythraea	JN895501.1	07-MAR-2012	824	United Kingdom: Glamorgan	primary	matK	51.56	-3.25	0.00284499156659321
+Centaurium_erythraea	MK325314.1	30-APR-2019	851	Bulgaria: Fargovo	secondary	matK	41.5766389	23.9969168	0.00278301191359742
+Centaurium_erythraea	KJ204456.1	29-JAN-2015	854	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00278201000628735
+Centaurium_erythraea	HM850820.1	23-JUL-2011	822	Portugal	secondary	matK	39.6621648	-8.1353519	0.00263683819950532
+Centaurium_erythraea	JN894720.1	07-MAR-2012	827	United Kingdom: Glamorgan	secondary	matK	51.5757401337313	-2.63689954150746	0.00269998546004967
+Centaurium_erythraea	JN894719.1	07-MAR-2012	848	United Kingdom: Glamorgan	secondary	matK	51.3629507216423	-3.53131449677973	0.0026393722707654
+Centaurium_erythraea	MK325281.1	30-APR-2019	845	Montenegro	secondary	matK	42.37136985	18.8557126959817	0.00263687915478935

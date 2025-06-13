@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Morella_faya	AJ626779.1	03-FEB-2005	762	Portugal	secondary	ITS	39.6621648	-8.1353519	0
+Morella_faya	AJ626778.1	03-FEB-2005	762	Spain:Gomera, Canary Islands	secondary	ITS	28.0939532	-17.1347936	0
+Morella_faya	AJ626777.1	03-FEB-2005	762	Spain:La Palma, Canary Islands	secondary	ITS	28.6551163	-17.8572685655797	0
+Morella_faya	AJ626776.1	03-FEB-2005	762	Spain:Tenerife, Canary Islands	secondary	ITS	28.0813499	-16.7262371	0

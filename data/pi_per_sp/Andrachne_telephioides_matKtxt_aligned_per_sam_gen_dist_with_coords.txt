@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Andrachne_telephioides	MH211043.1	07-OCT-2018	785	Bahrain	primary	matK	26.042528	50.541887	0.456475583864119
+Andrachne_telephioides	AM745807.1	08-JAN-2008	1876	Oman	primary	matK	17.32	54.08	0.213727069213772
+Andrachne_telephioides	AM745805.1	08-JAN-2008	1876	Tajikistan	primary	matK	38.56	68.77	0.181967445643606
+Andrachne_telephioides	AM745803.1	08-JAN-2008	1874	Turkey	primary	matK	36.87	30.55	0.176426433064342

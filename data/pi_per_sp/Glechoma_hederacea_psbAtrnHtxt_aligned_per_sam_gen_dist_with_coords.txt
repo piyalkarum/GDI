@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glechoma_hederacea	OR538516.1	17-OCT-2023	380	USA: Brother Rice High School Athletic Fields, Bloomfield Hills, MI	primary	psbA-trnH	42.53511	-83.259932	0.0327452765187133
+Glechoma_hederacea	OR465020.1	26-SEP-2023	380	USA: WMU Parking Lot 61, Kalamazoo, MI	primary	psbA-trnH	42.28319225	-85.61890645	0.0108184938064307
+Glechoma_hederacea	KP643360.1	08-DEC-2015	404	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	38.8697016742382	-78.0635616045059	0.0109992456780431
+Glechoma_hederacea	KP643213.1	08-DEC-2015	404	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.6624196721986	-78.0144733156302	0.0109992456780431
+Glechoma_hederacea	JX074040.1	18-OCT-2013	366	Poland	secondary	psbA-trnH	52.215933	19.134422	0.016692207258762

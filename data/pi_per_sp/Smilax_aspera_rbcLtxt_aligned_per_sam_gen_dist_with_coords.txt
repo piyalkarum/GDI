@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Smilax_aspera	KX394660.1	05-DEC-2016	719	China	secondary	rbcL	35.3499701027	105.315625652951	0.013377374459244
+Smilax_aspera	KX394659.1	05-DEC-2016	719	China	secondary	rbcL	35.559266158162	105.319725535475	0.013377374459244
+Smilax_aspera	GU945056.1	20-APR-2010	651	Spain	secondary	rbcL	39.5501143370114	-4.60517616771728	NA
+Smilax_aspera	GU945051.1	20-APR-2010	1339	France	secondary	rbcL	46.603354	1.8883335	0.0016820728739603
+Smilax_aspera	GU945050.1	20-APR-2010	693	Spain	secondary	rbcL	39.2212488962389	-5.01741199494986	0.00184657591703891
+Smilax_aspera	KM527355.1	15-SEP-2015	560	Croatia	secondary	rbcL	45.3658443	15.6575209	NA
+Smilax_aspera	HM850359.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00129826800724928
+Smilax_aspera	JF944307.1	13-DEC-2011	615	China: Yunnan	secondary	rbcL	25	102	NA
+Smilax_aspera	JF944306.1	13-DEC-2011	615	Spain: Ceuta	secondary	rbcL	35.888361	-5.304138	NA
+Smilax_aspera	JF944305.1	13-DEC-2011	615	China: Tibet	secondary	rbcL	29.8556443	90.8749807	NA

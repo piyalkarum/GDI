@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_castaneus	KX678165.1	29-APR-2017	552	Canada: British Columbia, Thompson-Nicola Regional District, Merritt area, Roth and Edna Lake area, southwest of Merritt, south of Iron Mountain	primary	rbcL	50.0242	-120.708	0.0328348614854381
+Juncus_castaneus	KT960685.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.2960008390104	-19.8297408726289	0.00181159420289855
+Juncus_castaneus	KT960528.1	13-DEC-2015	516	Greenland: NE, Zackenberg	primary	rbcL	74.6395713483274	-17.5744605843491	0.00183031869078381
+Juncus_castaneus	KT960477.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.9454337823731	-18.0275510004244	0.00181159420289855
+Juncus_castaneus	KC483034.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Murray Point, Murray Point, W side of Wilbank Bay	primary	rbcL	68.678	-110.367	0.00181159420289855
+Juncus_castaneus	KC483033.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Small tributary running into Hornaday River	primary	rbcL	68.7167	-122.311	0.00181159420289855
+Juncus_castaneus	KC483032.1	25-OCT-2013	552	Canada: Yukon Territory, Yukon Mainland, Buckland Hills, Ivvavik National Park, Buckland Hills, NW part	primary	rbcL	69.417	-139.633	0.00181159420289855
+Juncus_castaneus	KC483031.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Slidre Fiord Quad, Fosheim Penin, Hot Weather Cr., base camp and vicinity, 'Picnic Lake'	primary	rbcL	79.95	-84.483	0.00181159420289855
+Juncus_castaneus	KC483030.1	25-OCT-2013	552	Canada: Nunavut	primary	rbcL	64.3	-96.133	0.00181159420289855
+Juncus_castaneus	KC483029.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Kimmirut, Hameau	primary	rbcL	62.85	-69.867	0.00181159420289855
+Juncus_castaneus	KC483028.1	25-OCT-2013	552	Canada: Nunavut, Nunavut Mainland, Rankin Inlet, 13 km NW of Rankin Inlet along Meliadine esker at 55 K/16 396758 at NE end Sik-sik' Lake, Meliadine River Park study area, Hudson Bay'	primary	rbcL	62.917	-92.225	0.00181159420289855
+Juncus_castaneus	KC483027.1	25-OCT-2013	545	Canada: Northwest Territories, Victoria Island, Minto Inlet, Moist clay banks in river valley at base of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.299	-116.419	0.0018348623853211
+Juncus_castaneus	JN965604.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.8701441345658	-93.9868746327132	0.00181159420289855
+Juncus_castaneus	JN965603.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.0972374594094	-92.763486769127	0.00181159420289855
+Juncus_castaneus	MK925532.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.583468770434	-2.32588324196037	0.00184842883548983
+Juncus_castaneus	MK925444.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1877930858961	-2.01068138665542	0.00184842883548983
+Juncus_castaneus	MK925366.1	14-JAN-2020	542	Norway	secondary	rbcL	64.5731537	11.5280364	0.00184842883548983
+Juncus_castaneus	MK924985.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9930362118175	-2.79440402490848	0.00184842883548983
+Juncus_castaneus	MK924665.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9678692656883	-3.53854456922413	0.00184842883548983

@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_doronicum	JX895009.1	19-DEC-2012	440	France: Hautes Alpes, col de Gleize	secondary	trnK	44.8283029242859	6.53967276392388	0.274732777510555
+Senecio_doronicum	JX895000.1	19-DEC-2012	440	Italy: Rieti, NE Monte Terminillo	secondary	trnK	42.2980629732459	12.7007542154197	0.276134359467693
+Senecio_doronicum	JX894996.1	19-DEC-2012	440	France: Savoie, pr. col du Galibier, cara norte, alrededor de Les Granges	secondary	trnK	47.9139836306431	3.34605267574545	0.274732777510555
+Senecio_doronicum	JX894995.1	19-DEC-2012	440	France: Jura, Massif du Jura, La Dole	secondary	trnK	46.5593131992007	6.77788394994489	0.274732777510555
+Senecio_doronicum	JX894994.1	19-DEC-2012	440	Andorra: Ordino, port de Siguer, estanyons de Banyell	secondary	trnK	42.3462765554291	2.1260125397934	0.276134359467693
+Senecio_doronicum	JX894993.1	19-DEC-2012	440	Spain: Lena, Tuiza de Arriba, pe a Ubi a, ladera este	secondary	trnK	43.3188539824936	-6.22068055852847	0.276134359467693
+Senecio_doronicum	JX894992.1	19-DEC-2012	440	Spain: Lena, Tuiza de Arriba, pe a Cerreos, ladera este	secondary	trnK	43.5478510041712	-5.10424974227501	0.276134359467693
+Senecio_doronicum	JX894991.1	19-DEC-2012	440	Spain: Lena, Tuiza de Arriba, pe a Cerreos, ladera este	secondary	trnK	43.7046521320796	-5.55346386169952	0.276134359467693
+Senecio_doronicum	JX894990.1	19-DEC-2012	440	Switzerland: Valais, Valsorey, Grand Combin	secondary	trnK	46.7877194905083	7.31112712444132	0.274732777510555
+Senecio_doronicum	JX894937.1	19-DEC-2012	478	France: Hautes Alpes, col de Gleize	secondary	trnK	43.8342664460707	5.75395896513798	0.275078405761809
+Senecio_doronicum	JX894928.1	19-DEC-2012	478	Italy: Rieti, NE Monte Terminillo	secondary	trnK	42.767865793788	11.8403903989499	0.275078405761809
+Senecio_doronicum	JX894924.1	19-DEC-2012	478	France: Savoie, pr. col du Galibier, cara norte, alrededor de Les Granges	secondary	trnK	48.2655599767611	3.14647335098632	0.275078405761809
+Senecio_doronicum	JX894923.1	19-DEC-2012	478	France: Jura, Massif du Jura, La Dole	secondary	trnK	46.7620396454181	6.38117086130073	0.275078405761809
+Senecio_doronicum	JX894922.1	19-DEC-2012	478	Andorra: Ordino, port de Siguer, estanyons de Banyell	secondary	trnK	43.4394919729106	1.75549621454142	0.275078405761809
+Senecio_doronicum	JX894921.1	19-DEC-2012	478	Spain: Lena, Tuiza de Arriba, pe a Ubi a, ladera este	secondary	trnK	43.2829161046697	-5.76919377218417	0.275576512954477
+Senecio_doronicum	JX894920.1	19-DEC-2012	478	Spain: Lena, Tuiza de Arriba, pe a Cerreos, ladera este	secondary	trnK	42.6551045269686	-5.01347173871032	0.275576512954477
+Senecio_doronicum	JX894919.1	19-DEC-2012	478	Spain: Lena, Tuiza de Arriba, pe a Cerreos, ladera este	secondary	trnK	43.47673178839	-4.79879489130126	0.275576512954477
+Senecio_doronicum	JX894918.1	19-DEC-2012	478	Switzerland: Valais, Valsorey, Grand Combin	secondary	trnK	45.7043683056712	6.4754083713793	0.275078405761809
+Senecio_doronicum	JX895008.1	19-DEC-2012	440	Italy	secondary	trnK	44.5952941833641	8.02549739968252	0.274732777510555
+Senecio_doronicum	JX894997.1	19-DEC-2012	440	France	secondary	trnK	44.754336523875	5.49203222584814	0.274732777510555
+Senecio_doronicum	JX894936.1	19-DEC-2012	478	Italy	secondary	trnK	44.4043057414955	7.54980123389633	0.275078405761809
+Senecio_doronicum	JX894925.1	19-DEC-2012	478	France	secondary	trnK	44.6413381476498	6.41482683390949	0.275078405761809

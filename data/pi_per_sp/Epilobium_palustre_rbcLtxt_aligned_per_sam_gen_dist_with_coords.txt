@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_palustre	MG249389.1	21-JAN-2018	552	Canada: Yukon Territory, Blow River Delta east, Danny C. Gordon's goose camp	primary	rbcL	68.896	-136.961	0.00254353964691416
+Epilobium_palustre	KC482705.1	25-OCT-2013	552	Canada: Nunavut, Southampton Island, Coral Harbour, Salliq (Coral Harbour), low lying between graveyard and oil tank farm	primary	rbcL	64.1333	-83.1667	0.00254353964691416
+Epilobium_palustre	KC482704.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. South shore of island, South Camp	primary	rbcL	55.989	-79.733	0.00254353964691416
+Epilobium_palustre	JN965525.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	rbcL	58.626	-94.23	0.00254353964691416
+Epilobium_palustre	JN965524.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Willow zone.	primary	rbcL	58.75	-94.11	0.00254353964691416
+Epilobium_palustre	JN965523.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, York Factory	primary	rbcL	56.5268983192756	-93.2700319769355	0.00330012980163767
+Epilobium_palustre	JN965522.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.856	-92.753	0.00254353964691416
+Epilobium_palustre	JN965521.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, Medow transition.	primary	rbcL	58.626	-94.229	0.00254353964691416
+Epilobium_palustre	JN965520.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality, Sand spit. Pond edge by influent stream	primary	rbcL	58.74	-93.82	0.00254353964691416
+Epilobium_palustre	JN965519.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, Black spuce-larch muskeg forest above Hudson`s Bay post.	primary	rbcL	56.6723809273419	-92.6936372094465	0.00254353964691416
+Epilobium_palustre	JN893053.1	07-MAR-2012	542	United Kingdom: Aberdeenshire, South (92)	primary	rbcL	56.97	-3.5	0.00259214013431105
+Epilobium_palustre	MT931748.1	03-MAR-2023	568	China	secondary	rbcL	34.7571892731345	104.180307832458	0.021319782608513
+Epilobium_palustre	MK924866.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2029042550472	-2.60166867078693	0.00259214013431105
+Epilobium_palustre	MK924440.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0865596053487	-4.3231789124521	0.00259214013431105
+Epilobium_palustre	KT280096.1	01-AUG-2016	673	China: Maqu Gansu	secondary	rbcL	34.6137382	102.4654149	0.00332038994561337
+Epilobium_palustre	JN892931.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.9352222178897	-4.86029796690284	0.00259214013431105
+Epilobium_palustre	JN892929.1	07-MAR-2012	522	United Kingdom: Cardiganshire	secondary	rbcL	52.9640378114399	-4.38444168460646	0.00432257669620002
+Epilobium_palustre	JF941485.1	13-DEC-2011	606	China	secondary	rbcL	34.6620508110222	104.882233766536	0.00332038994561337
+Epilobium_palustre	JF941484.1	13-DEC-2011	606	China	secondary	rbcL	35.0357765174388	105.146163139182	0.0164523383885659
+Epilobium_palustre	JF941483.1	13-DEC-2011	606	China	secondary	rbcL	35.5510864385535	104.93087525662	0.00332038994561337

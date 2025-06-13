@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_vahliana	MG225884.1	23-JAN-2018	552	Canada: Nunavut, Ellesmere Island, Two Basin Lake, 23 km ESE ofEureka airstrip	primary	rbcL	79.93	-84.67	0
+Puccinellia_vahliana	KC483808.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Caledonian Bay, Along N side of Danish River. ~ 4 km from river mouth along streamlet in delta outwash plain below hills to W of Danish River	primary	rbcL	79.954	-81.199	0
+Puccinellia_vahliana	KC483807.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island (Northwest Territories), Ibbett Bay, SE valley from. A raised river terrace composed of alkaline silty diamicton deposits from Weatherall formation	primary	rbcL	75.9	-114.5	0
+Puccinellia_vahliana	KC483806.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island (Northwest Territories), NE part. Parker River Valley, N side c. 7 km from sea	primary	rbcL	73.617	-115.85	0
+Puccinellia_vahliana	KC483805.1	25-OCT-2013	552	Canada: Nunavut, Bathurst Island, Polar Bear Pass	primary	rbcL	75.717	-98.383	0
+Puccinellia_vahliana	KC483804.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay, at north edge of town	primary	rbcL	69.26	-105.1	0
+Puccinellia_vahliana	KC483803.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Between McGill High Arctic Research camp and Ermine Camp	primary	rbcL	79.43	-90.72	0
+Puccinellia_vahliana	KC483802.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Edge of large river rock field between Colour Lake and Thompson River, near end of Thompson Glacier	primary	rbcL	79.42	-90.69	0
+Puccinellia_vahliana	KC483801.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Dundas Harbour, W of harbour mouth	primary	rbcL	74.52	-82.56	0
+Puccinellia_vahliana	KC483800.1	25-OCT-2013	552	Canada: Nunavut, Bathurst Island, Goodsir Inlet, beside small creek 2 km N of inlet	primary	rbcL	75.77	-98.02	0

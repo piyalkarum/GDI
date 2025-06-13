@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_obscurum	JN892270.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.51	-3.68	0.000477099236641221
+Epilobium_obscurum	MK925321.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7037278833977	-4.357403470719	0.000477099236641221
+Epilobium_obscurum	MK924891.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4285815819478	-3.27136475156448	0.000477099236641221
+Epilobium_obscurum	HM849975.1	23-JUL-2011	656	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000477099236641221
+Epilobium_obscurum	JN892495.1	07-MAR-2012	524	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00190839694656489

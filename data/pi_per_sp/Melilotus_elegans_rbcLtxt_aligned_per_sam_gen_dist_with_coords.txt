@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melilotus_elegans	MN533425.1	28-OCT-2019	754	China	secondary	rbcL	35.3999798443707	104.924146878248	0
+Melilotus_elegans	MN533424.1	28-OCT-2019	754	China	secondary	rbcL	34.3509218255768	104.547808044376	0
+Melilotus_elegans	MN533423.1	28-OCT-2019	754	China	secondary	rbcL	35.7421530928261	104.864173210357	0
+Melilotus_elegans	MN533422.1	28-OCT-2019	754	China	secondary	rbcL	35.4818786816113	105.45072686066	0
+Melilotus_elegans	MN533421.1	28-OCT-2019	754	China	secondary	rbcL	35.2421824210722	105.48364930778	0
+Melilotus_elegans	MN533420.1	28-OCT-2019	754	China	secondary	rbcL	34.4374951435325	104.254669917046	0
+Melilotus_elegans	MN532700.1	28-OCT-2019	754	USA	secondary	rbcL	38.9773628841275	-100.695723004768	0
+Melilotus_elegans	MN532699.1	28-OCT-2019	754	USA	secondary	rbcL	40.1581098369885	-100.807629768693	0
+Melilotus_elegans	MG249113.1	21-JAN-2018	553	Canada: Manitoba, Brandon, introduction nursery, Exp. Farm. Seed origin, near Lake Kinnereth, Israel, via. The Hebrew University of Jerusalem	secondary	rbcL	50.1343962674269	-98.3983316698218	0
+Melilotus_elegans	MG247041.1	21-JAN-2018	553	Canada: Manitoba, Brandon, introduction nursery, Exp. Farm. Seed origin, near Lake Kinnereth, Israel	secondary	rbcL	50.9689966669525	-98.8509334836568	0
+Melilotus_elegans	MG246088.1	21-JAN-2018	553	Canada: Manitoba, Experimental Farm, Brandon, wasteland	secondary	rbcL	50.5948068543652	-98.6613459106431	0

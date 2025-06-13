@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_borbasii	MF167387.1	17-AUG-2018	915	Hungary	primary	trnL-trnF	47.53	19	0.000273522975929978
+Lotus_borbasii	MF167386.1	17-AUG-2018	915	Hungary	primary	trnL-trnF	47.62	18.98	0.000273522975929978
+Lotus_borbasii	MF167385.1	17-AUG-2018	915	Hungary	primary	trnL-trnF	47.55	19	0.000273522975929978
+Lotus_borbasii	MF167384.1	17-AUG-2018	915	Hungary	primary	trnL-trnF	47.42	19.47	0.000273522975929978
+Lotus_borbasii	MF167388.1	17-AUG-2018	914	Czech Republic	secondary	trnL-trnF	49.7439047	15.3381061	0.00109409190371991

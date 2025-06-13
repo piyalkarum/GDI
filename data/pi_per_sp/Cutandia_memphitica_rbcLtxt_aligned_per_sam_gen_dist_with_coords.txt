@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cutandia_memphitica	MK097166.1	21-MAY-2019	553	Bahrain	primary	rbcL	26.173139	50.493194	0
+Cutandia_memphitica	KX282686.1	28-MAY-2017	528	Kuwait	secondary	rbcL	29.80201335567	48.6417941417632	0
+Cutandia_memphitica	KX282685.1	28-MAY-2017	522	Kuwait	secondary	rbcL	29.8956402904756	47.1992426562603	0
+Cutandia_memphitica	KX282684.1	28-MAY-2017	522	Kuwait	secondary	rbcL	29.3246286469563	47.2044143021468	0

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vaccinium_vitis-idaea	MZ393057.1	26-OCT-2022	668	Russia: Sakhalin region, Korsakovo district	primary	trnS-trnG	46.63639	142.895	0.0146360788045375
+Vaccinium_vitis-idaea	MZ393056.1	26-OCT-2022	657	Russia: Chukotka, Bilibino district	primary	trnS-trnG	68.06	166.44	0.0177033732236698
+Vaccinium_vitis-idaea	MZ393055.1	26-OCT-2022	662	Russia: Amur region, Zeya district	primary	trnS-trnG	53.9471	127.75258	0.0146460625382205
+Vaccinium_vitis-idaea	MZ393054.1	26-OCT-2022	436	Russia: Khanty-Mansi region, Nefteyugansk district	primary	trnS-trnG	60.0976	72.75015	0.0760984568877641
+Vaccinium_vitis-idaea	MZ393053.1	26-OCT-2022	668	Russia: Primorie region, Terney district	primary	trnS-trnG	45.15593	135.8993	0.0153944279239042
+Vaccinium_vitis-idaea	MZ393052.1	26-OCT-2022	436	Russia: Yamalo-Nenets region, Pur district	primary	trnS-trnG	64.29214	76.04873	0.0137623466554185
+Vaccinium_vitis-idaea	DQ073201.1	04-JUL-2005	699	France: V. vitis-idaea, Rhone-Alpes, Isere, Belledonne, Chamrousse	primary	trnS-trnG	45.12	5.9	0.0184818296962551

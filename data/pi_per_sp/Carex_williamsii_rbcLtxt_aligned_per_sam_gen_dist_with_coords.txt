@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_williamsii	MG225703.1	23-JAN-2018	552	Canada: Yukon Territory, Quartet Lake, Bonnet Plume Drainage	primary	rbcL	65.1197	-134.428	0
+Carex_williamsii	KC482388.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Rocky ledges above fresh lake in lowlands 1 km W of Kihlbay	primary	rbcL	56.472	-79.042	0
+Carex_williamsii	JN965423.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	rbcL	58.769	-93.856	0
+Carex_williamsii	JN965422.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0
+Carex_williamsii	JN965421.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	rbcL	58.178	-93.637	0

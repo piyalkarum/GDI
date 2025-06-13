@@ -1,0 +1,24 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_helioscopia	MT447203.1	01-MAY-2022	702	South Korea	primary	rbcL	33.43	126.82	0.00447091404490982
+Euphorbia_helioscopia	MT447202.1	01-MAY-2022	702	South Korea	primary	rbcL	36.17	129.22	0.00447091404490982
+Euphorbia_helioscopia	MT447201.1	01-MAY-2022	702	South Korea	primary	rbcL	37.02	129.23	0.00447091404490982
+Euphorbia_helioscopia	MT447200.1	01-MAY-2022	702	South Korea	primary	rbcL	36.63	129.42	0.00447091404490982
+Euphorbia_helioscopia	MK932719.1	19-JUN-2019	493	China: Outside US, Jiangyong Hunan, Agriculture land	primary	rbcL	25	111	0.00446257230286268
+Euphorbia_helioscopia	MK883593.1	20-MAY-2019	491	China: Outside US, Jiangyong, Hunan, agriculture land	primary	rbcL	25.8	111.1	0.00438671160551503
+Euphorbia_helioscopia	MF694976.1	16-SEP-2018	553	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	34.7097935061697	72.2948873165231	0.00473222001299176
+Euphorbia_helioscopia	MF694710.1	15-SEP-2018	552	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	34.9019800293574	71.7161891557151	0.0407133822740621
+Euphorbia_helioscopia	MF694709.1	15-SEP-2018	486	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	35.8268211173538	72.266645141854	0.0043561313934002
+Euphorbia_helioscopia	MG247800.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, BPNP Visitor Centre entrance road	primary	rbcL	45.257	-81.656	0.00473284934634524
+Euphorbia_helioscopia	MG246893.1	21-JAN-2018	552	Canada: Ontario, Niagara County, Thorold Township, Field at Eller and Cataract Road	primary	rbcL	43.093	-79.262	0.00473284934634524
+Euphorbia_helioscopia	MG245997.1	21-JAN-2018	552	Canada: Ontario, Alfred and Ritchance, 5.0-5.5 km east of Alfrad	primary	rbcL	45.559	-74.818	0.00473284934634524
+Euphorbia_helioscopia	KX677930.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Richmond, 300 m east of No. 3 Rd, opposite 8751 Finn Road, along ditch by mowed oat field margin	primary	rbcL	49.119	-123.132	0.00473284934634524
+Euphorbia_helioscopia	KJ841316.1	04-NOV-2014	505	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	rbcL	45.535	-73.149	0.011498313500371
+Euphorbia_helioscopia	MN205019.1	30-NOV-2021	724	China	secondary	rbcL	35.0931161743609	104.654844806118	0.00468018899567869
+Euphorbia_helioscopia	MZ708964.1	21-AUG-2021	569	Pakistan	secondary	rbcL	30.3308401	71.247499	0.010659120217393
+Euphorbia_helioscopia	MN185220.1	27-APR-2021	718	China	secondary	rbcL	35.5411931351641	105.473624422374	0.00468504158435834
+Euphorbia_helioscopia	KX709611.1	20-AUG-2017	486	Egypt	secondary	rbcL	26.2540493	29.2675469	0.021109011555684
+Euphorbia_helioscopia	KT280098.1	01-AUG-2016	673	China: Maqu Gansu	secondary	rbcL	34.6137382	102.4654149	0.0188495199912033
+Euphorbia_helioscopia	HM849988.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00985106453057422
+Euphorbia_helioscopia	JN891593.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00479636507990776
+Euphorbia_helioscopia	JN891355.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00479636507990776
+Euphorbia_helioscopia	MN399884.1	12-FEB-2020	603	Pakistan	secondary	rbcL	33.9944889	72.9331737	0.00481973034585583

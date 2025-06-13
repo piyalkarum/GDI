@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kali_turgidum	OQ791299.1	02-AUG-2023	584	Egypt	primary	rbcL	31.3728	27.1903	0.0449839684669303
+Kali_turgidum	MG247392.1	21-JAN-2018	552	Canada: Ontario, Norfolk Co., South Walsingham Tp., Long Point, Bouck Pond, Townsend Ridge, at the South Beach	primary	rbcL	42.55	-80.233	0.0448937844883405
+Kali_turgidum	MG246025.1	21-JAN-2018	553	Canada: Ontario, tumbleweed, Wellington, Guelph	primary	rbcL	43.5485	-80.2503	0.0442763615550602
+Kali_turgidum	KP149542.1	16-NOV-2015	552	South Africa: Northern Cape, Douglas opposite spar and caltex garage	primary	rbcL	-29.061	23.78	0.0443514320233413
+Kali_turgidum	JQ412416.1	16-JAN-2013	552	South Africa: Western Cape, Cape Town, Robben Island	primary	rbcL	-33.807	18.377	0.123005659376723
+Kali_turgidum	JN893640.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.56	-4.15	0.0452643762607464
+Kali_turgidum	MH598919.1	22-JAN-2019	571	Saudi Arabia: Taif	secondary	rbcL	21.5190504047724	40.1321558244238	0.0442602485733466
+Kali_turgidum	MH598916.1	22-JAN-2019	590	Saudi Arabia: Taif	secondary	rbcL	21.373948229221	40.1828973722575	0.0444140406984783
+Kali_turgidum	MH598908.1	22-JAN-2019	581	Saudi Arabia: Makkah (Coast Road)	secondary	rbcL	22.6363744	39.0386503	0.0444281403013476
+Kali_turgidum	KY794554.1	23-JAN-2018	629	Egypt	secondary	rbcL	25.9166809260933	28.9693932653038	0.0441729123993167
+Kali_turgidum	KX789408.1	26-AUG-2017	420	Egypt	secondary	rbcL	25.9473201462391	28.4810268849211	0.0456824336351895
+Kali_turgidum	HM850332.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0462838785754542
+Kali_turgidum	JN893168.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.1010582613303	-3.37481265783066	0.0452643762607464
+Kali_turgidum	JN893160.1	07-MAR-2012	520	United Kingdom: Glamorgan	secondary	rbcL	50.5656205176078	-3.65935084200945	0.0457841148877583
+Kali_turgidum	JN893159.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.982580455655	-4.26968316776236	0.0452643762607464
+Kali_turgidum	HM630015.1	03-APR-2011	688	Denmark	secondary	rbcL	57.088801	9.2731047	0.567046916561884

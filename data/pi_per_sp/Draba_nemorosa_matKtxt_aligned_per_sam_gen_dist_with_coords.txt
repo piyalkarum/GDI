@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_nemorosa	KX677588.1	09-AUG-2017	780	Canada: British Columbia, Okanagan-Similkameen Regional District, Along Ashnola Rd.	primary	matK	49.132	-120.066	0.00451876212874913
+Draba_nemorosa	JN966269.1	27-OCT-2012	765	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes burn site, burn site 5 years after fire	primary	matK	58.617	-93.812	0.00426475027986806
+Draba_nemorosa	JN966268.1	27-OCT-2012	754	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Dry gravel ridge	primary	matK	58.75	-94.11	0.00430261651006686
+Draba_nemorosa	JN966267.1	27-OCT-2012	502	Canada: Manitoba, Churchill, unspecified locality	primary	matK	58.74	-93.82	0.00841564617107606
+Draba_nemorosa	MT917845.1	03-MAR-2023	761	China	secondary	matK	34.2776140374985	105.474887670618	0.00429538352735942
+Draba_nemorosa	MT917844.1	03-MAR-2023	771	China	secondary	matK	34.8306767257319	104.872092967452	0.00545887473112487
+Draba_nemorosa	MT917843.1	03-MAR-2023	771	China	secondary	matK	35.1016616917757	104.450596270376	0.00468329907571857
+Draba_nemorosa	MT917842.1	03-MAR-2023	768	China	secondary	matK	35.7967418141279	105.401971301648	0.0136284749833812
+Draba_nemorosa	MT917836.1	03-MAR-2023	765	China	secondary	matK	34.3882632061938	105.532396601337	0.0155007600696344
+Draba_nemorosa	MT917833.1	03-MAR-2023	764	China	secondary	matK	35.3279483422608	104.742314891365	0.0143464418645219
+Draba_nemorosa	KM892760.1	11-OCT-2018	747	China	secondary	matK	35.1184933656018	105.253004345929	0.00454122791271371
+Draba_nemorosa	JF953670.1	13-DEC-2011	711	China	secondary	matK	34.6837938993305	104.340597082543	0.00721168925901475
+Draba_nemorosa	JF953669.1	13-DEC-2011	711	China	secondary	matK	34.4855404407195	105.564581778873	0.00546028602996758
+Draba_nemorosa	JF953668.1	13-DEC-2011	711	China	secondary	matK	34.682372884501	105.524088168966	0.00485536291663527
+Draba_nemorosa	MK044328.1	15-MAY-2019	810	South Korea	secondary	matK	35.68162	128.66447	0.00686885041949416

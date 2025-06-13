@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_atrata	MK924686.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0
+Carex_atrata	MK924611.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Carex_atrata	JX644605.1	13-NOV-2012	1295	China: Jilin	secondary	rbcL	43.7289674	126.1997366	0
+Carex_atrata	JN892343.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Syringa_vulgaris	OR738290.1	13-NOV-2023	806	Kazakhstan: East Kazakhstan region	primary	matK	50.26611	83.22889	0.000331564986737401
+Syringa_vulgaris	KX677526.1	09-AUG-2017	803	Canada: British Columbia, Okanagan-Similkameen Regional District, North of Osoyoos, Haynes Ranch Protected Area	primary	matK	49.089	-119.536	0.000324675324675325
+Syringa_vulgaris	MG225004.1	21-JAN-2018	776	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	matK	45.19	-81.42	0.000348675034867503
+Syringa_vulgaris	HQ593463.1	09-NOV-2011	869	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., Approx. 200 m E of Dufferin on northern trail	primary	matK	44.036	-79.518	0.000324675324675325
+Syringa_vulgaris	KJ841022.1	23-SEP-2014	770	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Parking lot by maintenance shed, by edge of road	primary	matK	45.538	-73.156	0.00132959067095555

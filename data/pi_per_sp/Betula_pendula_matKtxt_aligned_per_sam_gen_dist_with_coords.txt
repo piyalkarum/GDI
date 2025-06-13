@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Betula_pendula	OR738221.1	13-NOV-2023	732	Kazakhstan: East Kazakhstan region	primary	matK	50.37333	83.89556	0.0128267784929538
+Betula_pendula	KX676526.1	09-AUG-2017	809	Canada: British Columbia, Metro Vancouver Regional District, Richmond, Lulu Island, in beat bog	primary	matK	49.167	-123.083	0.0129742760605307
+Betula_pendula	MT917204.1	03-MAR-2023	807	China	secondary	matK	35.000074	104.999927	0.0128819190849278
+Betula_pendula	MN531434.1	09-MAR-2020	698	Germany: Grosshansdorf	secondary	matK	53.6635561	10.2835977	0.013070432187776
+Betula_pendula	AY372014.1	01-SEP-2004	2522	Germany: Kelheim	secondary	matK	49.2449238437256	11.9656224601704	0.0131089807505931
+Betula_pendula	AY372013.1	01-SEP-2004	2526	Germany: Seebachtal	secondary	matK	50.5886935	8.0092729	0.0153210768757343
+Betula_pendula	AY372012.1	01-SEP-2004	2534	Sweden: Hage	secondary	matK	57.8315737446668	16.8421559796814	0.0130793374510344
+Betula_pendula	AY372011.1	01-SEP-2004	2546	Sweden: Hage	secondary	matK	57.2101055191442	17.8402493829111	0.0132176884616935
+Betula_pendula	AY372010.1	01-SEP-2004	2546	Sweden: Tofta	secondary	matK	57.1732554	12.2970765	0.0133814082471084
+Betula_pendula	AY372009.1	01-SEP-2004	2544	United Kingdom: Glen Affric, Great Britain	secondary	matK	57.2636381	-4.9995719	0.0129159068251498
+Betula_pendula	AY372008.1	01-SEP-2004	2513	Germany: Kelheim	secondary	matK	49.3820943421374	11.9523710895917	0.0145608423684032
+Betula_pendula	GQ248087.1	02-JUL-2009	784	United Kingdom: Duddon Valley, Cumbria	secondary	matK	54.3498364	-3.2113982	0.0143350292362645
+Betula_pendula	KJ204446.1	29-JAN-2015	780	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0127716496668921
+Betula_pendula	JN895392.1	07-MAR-2012	697	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0131970473226273
+Betula_pendula	JN895391.1	07-MAR-2012	820	United Kingdom: Montgomeryshire	secondary	matK	52.615273	-3.4649973	0.0128012254860986
+Betula_pendula	JN895193.1	07-MAR-2012	784	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.0130511283665135
+Betula_pendula	AM503811.1	31-AUG-2007	576	Italy:Trentino	secondary	matK	46.5019822661321	11.3559646346235	0.192352546408357
+Betula_pendula	AM503810.1	31-AUG-2007	980	Italy:Trentino	secondary	matK	45.7451891466045	10.3944303459621	0.0183911525222392

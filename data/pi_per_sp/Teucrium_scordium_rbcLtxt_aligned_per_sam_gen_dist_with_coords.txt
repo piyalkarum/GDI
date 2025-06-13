@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Teucrium_scordium	MK925463.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3010575341045	-2.09597936969937	0
+Teucrium_scordium	MK924535.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9552144877468	-2.89923484369694	0
+Teucrium_scordium	JN893057.1	07-MAR-2012	542	United Kingdom: Devon,North	secondary	rbcL	50.7241405	-3.66077881614107	0
+Teucrium_scordium	JN893048.1	07-MAR-2012	542	Ireland: Clare	secondary	rbcL	52.8572575	-8.9374359	0

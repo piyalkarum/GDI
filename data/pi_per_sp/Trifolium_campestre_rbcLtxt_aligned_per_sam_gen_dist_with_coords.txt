@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_campestre	MG248875.1	21-JAN-2018	552	Canada: Ontario, Thunder Bay Dist., Strange Tp., Hwy 588 all along N shore of Whitefish Lake.	primary	rbcL	48.233	-89.967	0.00794916773490887
+Trifolium_campestre	MG247461.1	21-JAN-2018	552	Canada: Ontario, York R. M., King Tp., Jokers Hill West, SE of entrace to overgrown orchard.	primary	rbcL	44.026	-79.542	0.0243078411850811
+Trifolium_campestre	MG247345.1	21-JAN-2018	552	Canada: Ontario, Thunder Bay Dist., Thunder Bay City, S edge, Fort William Indian Reservation No. 52, Mt. McKay Ski Club parking lot.	primary	rbcL	48.35	-89.3	0.00794916773490887
+Trifolium_campestre	KX679186.1	29-APR-2017	552	Canada: British Columbia, Powell River Regional District, Texada Island, Gillies Bay Road, 5.4 kilometers southeast of Vanada	primary	rbcL	49.717	-124.517	0.00794916773490887
+Trifolium_campestre	KX677908.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox Valley Regional District, Kin Beach Provincial Park	primary	rbcL	49.73	-124.898	0.00794916773490887
+Trifolium_campestre	KP402734.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H16x3y8	primary	rbcL	38.889	-76.559	0.0243765641748981
+Trifolium_campestre	KJ841631.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.0158791673777562
+Trifolium_campestre	MG248443.1	21-JAN-2018	347	Canada: British Columbia	secondary	rbcL	55.001251	-125.002441	NA
+Trifolium_campestre	KJ204414.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.0078318976604043
+Trifolium_campestre	HM850410.1	23-JUL-2011	669	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00778693541823139
+Trifolium_campestre	JX505488.1	09-JAN-2013	920	Portugal: Azores Island	secondary	rbcL	38.5855122	-27.9302237	NA
+Trifolium_campestre	JN891072.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00803102268522229
+Trifolium_campestre	JN891071.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00803102268522229
+Trifolium_campestre	JN891066.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00803102268522229

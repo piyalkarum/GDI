@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxalis_stricta	KP643939.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.892	-78.146	0.000452489058364127
+Oxalis_stricta	MH087483.1	08-APR-2018	528	China: Outside US, Beijing, Beijing No. 166 High School Campus	primary	rbcL	39.9208	116.4154	0
+Oxalis_stricta	MG249757.1	21-JAN-2018	553	Canada: Ontario, Wellington County, Puslinch Township, Little Tract, 500m north of South entrance (County Road 34)	primary	rbcL	43.4602	-80.2734	0.000452489058364127
+Oxalis_stricta	MG249641.1	21-JAN-2018	552	Canada: Ontario, Algoma District, Sault Ste. Marie, Sault Ste. Marie	primary	rbcL	46.501	-84.441	0.000452898550724638
+Oxalis_stricta	MG249590.1	21-JAN-2018	552	Canada: Ontario, Elgin County, Big Otter Creek at Carson Line	primary	rbcL	42.814	-80.765	0.000452898550724638
+Oxalis_stricta	MG249354.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.045	-100.911	0.000452898550724638
+Oxalis_stricta	MG248404.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	47.906	-101.306	0.00158514492753623
+Oxalis_stricta	MG248159.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	47.404	-101.925	0.00158514492753623
+Oxalis_stricta	MG247340.1	21-JAN-2018	552	Canada: Ontario, Norfolk County, Norfolk Twp., Carr Tract and Nursery Tract (St. Williams Forest), North Walsingham/South Walsingham Townline Road	primary	rbcL	42.712	-80.474	0.000452898550724638
+Oxalis_stricta	MG247188.1	21-JAN-2018	552	Canada: 5 Yorkshire Ave.	primary	rbcL	43.539	-80.255	0.000452898550724638
+Oxalis_stricta	MG246089.1	21-JAN-2018	552	Canada: Ontario, Algoma District, Michipicoten Twp., Michipicoten Bay	primary	rbcL	47.93	-84.843	0.000452898550724638
+Oxalis_stricta	KJ593580.1	17-MAR-2015	553	USA: Wisconsin, Abrams	primary	rbcL	44.844	-88.072	0.000452489058364127
+Oxalis_stricta	KJ593579.1	17-MAR-2015	524	USA: Wisconsin, Mountain	primary	rbcL	45.148	-88.558	0
+Oxalis_stricta	KJ593578.1	17-MAR-2015	553	USA: Wisconsin, Mountain	primary	rbcL	45.147	-88.319	0.000452489058364127
+Oxalis_stricta	KJ841439.1	04-NOV-2014	538	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. La Pre (the old orchard)	primary	rbcL	45.542	-73.161	0
+Oxalis_stricta	ON341387.1	30-APR-2023	553	USA: Georgia	secondary	rbcL	32.3293809	-83.1137366	0.00316824239326991
+Oxalis_stricta	MN601461.1	15-DEC-2019	1201	USA	secondary	rbcL	39.7837304	-100.445882	0.000452489058364127

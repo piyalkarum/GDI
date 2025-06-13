@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pimpinella_saxifraga	KJ746170.1	29-JUL-2014	696	Poland	secondary	matK	52.215933	19.134422	0.0014367816091954
+Pimpinella_saxifraga	FR865050.1	09-JUN-2011	734	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00136988352247208
+Pimpinella_saxifraga	JN894986.1	07-MAR-2012	821	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00321229340755722
+Pimpinella_saxifraga	JN894985.1	07-MAR-2012	785	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00227174789546233

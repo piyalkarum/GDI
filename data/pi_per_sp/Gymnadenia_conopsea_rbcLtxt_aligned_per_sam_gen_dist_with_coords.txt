@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gymnadenia_conopsea	LC767981.1	27-MAY-2023	262	Japan:Niigata, Mt.Hiuchi	primary	rbcL	-36.9227	138.0681	0
+Gymnadenia_conopsea	MN204706.1	30-NOV-2021	724	China	secondary	rbcL	34.2955356298189	105.681652117273	0.00423194619604424
+Gymnadenia_conopsea	MN192486.1	30-NOV-2021	660	China	secondary	rbcL	34.1581901096233	104.928283078636	0.00377369197593917
+Gymnadenia_conopsea	JQ933349.1	30-SEP-2012	1334	China	secondary	rbcL	34.5967343920105	104.500122725491	0.00504593798170557
+Gymnadenia_conopsea	KP768976.1	29-APR-2015	402	China	secondary	rbcL	35.488548874992	105.016021731068	0.00333879127568907
+Gymnadenia_conopsea	JN890895.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.8507924191875	-1.31172154536139	0.00185765506526258
+Gymnadenia_conopsea	JN890669.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.616179226333	-0.92717568729972	0.00185765506526258

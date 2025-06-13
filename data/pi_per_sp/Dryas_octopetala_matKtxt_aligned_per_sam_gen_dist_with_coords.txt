@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dryas_octopetala	MZ400433.1	07-DEC-2021	859	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00188818231751627
+Dryas_octopetala	JN966273.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0.00128700128700129
+Dryas_octopetala	JN966272.1	27-OCT-2012	775	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas heath	primary	matK	58.769	-93.862	0.00129032258064516
+Dryas_octopetala	JN895099.1	07-MAR-2012	829	United Kingdom: Caernarfonshire	primary	matK	53.12	-3.94	0.00189179824262901
+Dryas_octopetala	LC760005.1	12-SEP-2023	834	Japan:Yamanashi, Minami-alps	secondary	matK	35.6083617	138.4649893	0.00120265669249884

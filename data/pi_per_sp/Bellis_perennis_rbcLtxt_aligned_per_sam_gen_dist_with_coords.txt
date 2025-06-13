@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bellis_perennis	MN486530.1	15-MAY-2021	547	United Kingdom: England, Durham, Bishop Auckland Park	primary	rbcL	54.6721	-1.6605	0.00257671488249765
+Bellis_perennis	MK030041.1	16-OCT-2019	553	United Kingdom: England, County Durham, Aukland Castle Park, Bishop Aukland	primary	rbcL	54.6721	-1.6602	0.00559008970138824
+Bellis_perennis	MG322253.1	11-NOV-2018	606	United Kingdom: England, Cumbria, Foreshield Burn	primary	rbcL	54.8159	-2.39	0.00883103373084783
+Bellis_perennis	MG223664.1	26-DEC-2017	552	Canada: Greenville Co	primary	rbcL	44.7167	-75.5167	0.00107574767549402
+Bellis_perennis	MG223323.1	26-DEC-2017	552	Canada: OAC campus	primary	rbcL	43.5485	-80.2503	0.00107574767549402
+Bellis_perennis	MG221843.1	26-DEC-2017	552	Canada: Ontario, Huron Co	primary	rbcL	43.807	-81.578	0.00107574767549402
+Bellis_perennis	KX679265.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, Fairy Lake Forest Recreation Site	primary	rbcL	48.587	-124.35	0.00107574767549402
+Bellis_perennis	KX678823.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox Valley Regional District, Courtenay, back yard of 2593 Kathy Crescent, near Meadow Brook Pond	primary	rbcL	49.726	-124.982	0.00107574767549402
+Bellis_perennis	KX678672.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Kin Beach Provincial Park	primary	rbcL	49.73	-124.898	0.00107574767549402
+Bellis_perennis	JN892812.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.14	0.00109378446634079
+Bellis_perennis	JN890907.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.00109378446634079
+Bellis_perennis	MW010875.1	27-JUL-2021	553	Canada: British Columbia	secondary	rbcL	55.1654082377861	-125.166267750829	0.00107418246628972
+Bellis_perennis	MW010874.1	27-JUL-2021	652	Canada: British Columbia	secondary	rbcL	54.8063824557362	-125.021257107354	0.00165460380744168
+Bellis_perennis	KJ204304.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00270504396596012
+Bellis_perennis	HM849813.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00335823091513938
+Bellis_perennis	JN892714.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00109378446634079
+Bellis_perennis	JN890661.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00109378446634079
+Bellis_perennis	JN890566.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00109378446634079

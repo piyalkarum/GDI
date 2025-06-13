@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_gramineus	LC349932.1	02-JUL-2020	688	Japan: Fukushima	secondary	5.8S rRNA	37.75454	140.4592144	0
+Potamogeton_gramineus	LC316764.1	21-AUG-2018	620	Japan:Aomori, Tsugaru	secondary	5.8S rRNA	40.8087605	140.3803311	0
+Potamogeton_gramineus	AB491756.1	13-APR-2012	694	Japan:Fukui, Fukui	secondary	5.8S rRNA	36.4311736798454	136.38472438356	0
+Potamogeton_gramineus	AB491755.1	13-APR-2012	694	Japan:Fukui, Fukui	secondary	5.8S rRNA	35.9980100947343	135.662559319807	0
+Potamogeton_gramineus	AB491754.1	13-APR-2012	694	Japan:Fukui, Fukui	secondary	5.8S rRNA	35.1666969862429	136.278545662819	0
+Potamogeton_gramineus	AB491753.1	13-APR-2012	694	Japan:Fukui, Fukui	secondary	5.8S rRNA	35.6843353014179	135.532242278639	0

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aruncus_dioicus	KX677686.1	09-AUG-2017	778	Canada: British Columbia, Vancouver Island, Capital Regional District, Fairy Lake Forest Recreation Site	primary	matK	48.587	-124.35	0.00247952204396995
+Aruncus_dioicus	KX677647.1	09-AUG-2017	778	Canada: British Columbia, Fraser Valley Regional District, East side of Harrison Lake, East Harrison Forest Service Road	primary	matK	49.418	-121.759	0.00247952204396995
+Aruncus_dioicus	KX677543.1	09-AUG-2017	778	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Baden Powell trail	primary	matK	49.334	-122.954	0.00247952204396995
+Aruncus_dioicus	KX676941.1	09-AUG-2017	778	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Strathcona Provincial Park, Buttle Lake	primary	matK	49.835	-125.627	0.00247952204396995
+Aruncus_dioicus	KX676542.1	09-AUG-2017	778	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	matK	49.376	-122.862	0.00247952204396995
+Aruncus_dioicus	KP210361.1	28-NOV-2015	811	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Near Gault House	primary	matK	45.542	-73.153	0.00653979010056667
+Aruncus_dioicus	LC632487.1	10-NOV-2021	953	Japan:Hokkaido, Hidakacho	secondary	matK	43.4603175	143.330715792837	0.0103684200290711

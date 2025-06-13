@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sedum_villosum	MT181595.1	19-SEP-2020	1140	Norway: Oppland, Lom, Gokkerdalen at the foot of mt. Lauvho	secondary	matK	65.9003096	12.8069858	0.000461041954817888
+Sedum_villosum	MK926029.1	14-JAN-2020	853	Iceland	secondary	matK	65.0772846822607	-17.1572501802127	0.000390777647518562
+Sedum_villosum	MK926002.1	14-JAN-2020	860	Iceland	secondary	matK	65.4019904095331	-19.507084688193	0.00127005465043348
+Sedum_villosum	MK925897.1	14-JAN-2020	799	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.000418235048097031

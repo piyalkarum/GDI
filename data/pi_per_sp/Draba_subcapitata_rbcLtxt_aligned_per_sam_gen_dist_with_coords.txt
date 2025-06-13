@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_subcapitata	KT960631.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1537972787228	-23.2809154486742	0
+Draba_subcapitata	KT960517.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.3000578594686	-23.255769692777	0
+Draba_subcapitata	KC482648.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve. Head of Tanquary Fiord Quad., Omega Lakes	primary	rbcL	81.4167	-76.9167	0
+Draba_subcapitata	KC482647.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	rbcL	74.5333	-82.7833	0
+Draba_subcapitata	KC482646.1	25-OCT-2013	552	Canada: Stefansson Island, Base camp Site 71. N-S trending drumlin ridges and ponds & glaciolacustrine deposits in the swales	primary	rbcL	73.4	-104.867	0
+Draba_subcapitata	KC482645.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Aulavik National Park, (Aulavik National Park). Green cabin beside the Thomsen River	primary	rbcL	73.2247	-119.535	0
+Draba_subcapitata	KC482644.1	25-OCT-2013	552	Canada: Nunavut, Bathurst Island, Polar Bear Pass	primary	rbcL	75.7167	-98.3833	0
+Draba_subcapitata	KC482643.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, 9 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.739	-115.4	0
+Draba_subcapitata	KC482642.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.913	-109.59	0

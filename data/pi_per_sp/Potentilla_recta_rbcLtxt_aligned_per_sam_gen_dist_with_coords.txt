@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_recta	OR538535.1	17-OCT-2023	614	USA: South Westnedge Park, Portage, MI	primary	rbcL	42.184733	-85.592508	0.000302480338777979
+Potentilla_recta	OR464884.1	26-SEP-2023	617	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28762162	-85.61624025	0.000301932367149758
+Potentilla_recta	MG249942.1	21-JAN-2018	552	Canada: British Columbia, Valemont	primary	rbcL	52.83	-119.278	0.00181214217452677
+Potentilla_recta	MG247101.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	rbcL	45.188	-81.416	0.000301932367149758
+Potentilla_recta	MG246317.1	21-JAN-2018	552	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.765	-80.303	0.000301932367149758
+Potentilla_recta	HQ590222.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., approx. 250 m W of Dufferin, N edge of poperty	primary	rbcL	44.04	-79.53	0.000301932367149758
+Potentilla_recta	MG248323.1	21-JAN-2018	553	Canada: Ontario, Wellington County, Puslinch Township, Little Tract, 500m north of South entrance (County Road 34)	secondary	rbcL	43.72634945	-77.7101179040839	0.000301932367149758

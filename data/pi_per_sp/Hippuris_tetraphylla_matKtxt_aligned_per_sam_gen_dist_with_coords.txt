@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hippuris_tetraphylla	KX677582.1	09-AUG-2017	810	Canada: British Columbia, Central Coast Regional District, Bella Coola, eastuary, 600 m west of eastern border of estuary, west of elementary school	primary	matK	52.38	-126.75	0.00112917795844625
+Hippuris_tetraphylla	KC474899.1	25-OCT-2013	742	Canada: Northwest Territories, Tuktoyaktuk, Tuktoyaktuk. Near Barge dock	primary	matK	68.6854897901791	-131.911552230779	0.00112309074573226
+Hippuris_tetraphylla	KC474898.1	25-OCT-2013	767	Canada: Nunavut, Bathurst Inlet, West side of inlet	primary	matK	66.87	-108	0.0017730096439841
+Hippuris_tetraphylla	KC474897.1	25-OCT-2013	706	Canada: Northwest Territories, Inuvialuit Region, Tuktoyaktuk, Township area. Near P.C.S.P. base	primary	matK	69.6358605637128	-134.867482603243	0.00118035882908404
+Hippuris_tetraphylla	JN966334.1	27-OCT-2012	787	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	matK	58.626	-94.23	0.00443408345520971
+Hippuris_tetraphylla	JN966333.1	27-OCT-2012	786	Canada: Manitoba, Churchill, Wapusk National Park, Thompson Point, Beach ridges in sand amongst Leymus mollis and Dryas integrifolia	primary	matK	58.335	-93.018	0.00107072597045427
+Hippuris_tetraphylla	JN966332.1	27-OCT-2012	767	Canada: Manitoba, Churchill, Wapusk National Park, Laperousse Bay, Mast River, Dryas integrifolia/Shepherdia canadensis moraine with Saxifraga tricuspidata and S. oppositifolia.	primary	matK	58.722	-93.428	0.0017730096439841

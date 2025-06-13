@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vahlodea_atropurpurea	KX873551.1	16-OCT-2017	901	Canada: British Columbia, Maroon Mountain Trail from end of road to ridge top	primary	matK	54.8067	-128.7338	0.00309216961786966
+Vahlodea_atropurpurea	KX677080.1	09-AUG-2017	818	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, campsite along Tulameen River	primary	matK	49.434	-121.013	0.00272698706375312
+Vahlodea_atropurpurea	MF597648.1	17-JUL-2018	805	Canada: British Columbia, Maroon Mountain Trail from end of road to ridge top.	primary	matK	54.807	-128.734	0.00428819699507373
+Vahlodea_atropurpurea	MF597647.1	17-JUL-2018	811	Canada: British Columbia, Queen Charlotte Islands, Graham Island, along trail up mountain, bowl just below Mount Raymond peak, and alpine area between Slatechuck Mountain and Mount Raymond	primary	matK	53.268	-132.233	0.00555451527829806
+Vahlodea_atropurpurea	MF597646.1	17-JUL-2018	819	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Slatechuck Mountain. Rocky mountain ridge and associated grass/ sedge meadow, accessible only by hiking trail.	primary	matK	53.261	-132.238	0.00444740055585899
+Vahlodea_atropurpurea	MF597645.1	17-JUL-2018	817	Canada: British Columbia, Big Bell Mountain, McBride, ridge top with alpine vegetation	primary	matK	53.284	-120.349	0.00476877658292592
+Vahlodea_atropurpurea	MF597644.1	17-JUL-2018	776	Canada: British Columbia, end of Hudson Bay Mountain Road at alpine ski area, W of Smithers	primary	matK	54.768	-127.28	0.00239704075636985
+Vahlodea_atropurpurea	LR607002.1	25-JAN-2021	2074	Canada	secondary	matK	61.0666922	-107.991707	0.00504939630167615

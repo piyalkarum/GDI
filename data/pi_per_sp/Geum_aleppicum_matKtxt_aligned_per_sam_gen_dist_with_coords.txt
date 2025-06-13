@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geum_aleppicum	MG220793.1	21-JAN-2018	761	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	matK	51.273	-80.641	0.0147987823271005
+Geum_aleppicum	HQ593312.1	09-NOV-2011	777	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., 250 m W of gated creek crossing on N-most trail	primary	matK	44.037	-79.523	0.00494031901366195
+Geum_aleppicum	MT930138.1	03-MAR-2023	771	China	secondary	matK	35.1363973775363	106.008244524294	0.00394046361426743
+Geum_aleppicum	MT930137.1	03-MAR-2023	766	China	secondary	matK	34.6215372287731	104.644755608144	0.00394175021814783
+Geum_aleppicum	MH714132.1	01-SEP-2020	770	China: Hebei	secondary	matK	39.0000001	116	0.00394132022602529

@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sabulina_rubella	MG246445.1	21-JAN-2018	552	Canada: Yukon Territory, Stokes Point, DEW Line Station	primary	rbcL	69.33	-138.733	0
+Sabulina_rubella	KT960613.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1387643829654	-21.0313297128566	0
+Sabulina_rubella	KT960506.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.3056812782861	-21.0396436117999	0
+Sabulina_rubella	KT960448.1	13-DEC-2015	540	Greenland: NE, Zackenberg	primary	rbcL	73.5989939424181	-21.0772940860517	0
+Sabulina_rubella	KC483194.1	25-OCT-2013	552	Canada: Northwest Territories, Axel Heiberg Island, Expedition Fiord	primary	rbcL	79.4	-90.8	0
+Sabulina_rubella	KC483193.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.68	-115.492	0
+Sabulina_rubella	KC483192.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Summit of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.514	-116.439	0
+Sabulina_rubella	KC483191.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk. Behind Northern Store/Hotel/Parks Canada building (Paulatuk Centre)	primary	rbcL	69.467	-124.211	0
+Sabulina_rubella	KC483190.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay	primary	rbcL	69.1	-105.117	0
+Sabulina_rubella	KC483189.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Kimmirut	primary	rbcL	62.85	-69.867	0
+Sabulina_rubella	KC483188.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Small cliff south of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	rbcL	68.703	-112.653	0
+Sabulina_rubella	KC483187.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of cliffs on S shore of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.27	-116.46	0
+Sabulina_rubella	JN965677.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality	primary	rbcL	59.164206466262	-94.5279516906552	0
+Sabulina_rubella	JN965676.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality	primary	rbcL	59.2431458699208	-92.8695072637031	0
+Sabulina_rubella	JN965675.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 23 km E Churchill, CNSC	primary	rbcL	58.738	-93.819	0
+Sabulina_rubella	JN965674.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality	primary	rbcL	58.7207913012964	-93.0531298059908	0
+Sabulina_rubella	JN965673.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh	primary	rbcL	58.75	-94.11	0
+Sabulina_rubella	MK925035.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0
+Sabulina_rubella	MK924809.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9756002082911	-2.20522666770093	0
+Sabulina_rubella	MK924544.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1875621678707	-2.20406099784015	0

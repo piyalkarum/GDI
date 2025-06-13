@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trollius_europaeus	MZ400423.1	07-DEC-2021	861	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00331148000655375
+Trollius_europaeus	JN896026.1	07-MAR-2012	744	United Kingdom: Carmarthenshire	primary	matK	51.92	-3.78	0.000537634408602151
+Trollius_europaeus	OL943587.1	13-NOV-2022	797	Austria	secondary	matK	36.9148511	-4.7534501	0.00132620984606252
+Trollius_europaeus	HQ440178.1	18-JAN-2011	1212	Germany	secondary	matK	34.895926	-83.4665496	0.00175281463161552
+Trollius_europaeus	JN895995.1	07-MAR-2012	727	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.000550206327372765
+Trollius_europaeus	JN895993.1	07-MAR-2012	871	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00119569860158638

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_tenella	GQ283310.1	28-FEB-2010	809	Canada: Nunavut, Baffin Island	secondary	rpl16	68.3770554620234	-73.4226289878862	0
+Puccinellia_tenella	GQ283309.1	28-FEB-2010	808	Canada: Nunavut, Baffin Island	secondary	rpl16	69.3347245832255	-74.0054496458624	0
+Puccinellia_tenella	GQ283308.1	28-FEB-2010	808	Canada: Northwest Territories, Banks Island	secondary	rpl16	73.622445	-120.4848087	0
+Puccinellia_tenella	GQ283307.1	28-FEB-2010	808	Canada: Nunavut, Baffin Island	secondary	rpl16	69.0198550590778	-73.8107908580709	0

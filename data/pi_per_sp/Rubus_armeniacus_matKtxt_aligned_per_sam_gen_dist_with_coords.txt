@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubus_armeniacus	OL954277.1	23-NOV-2022	981	South Africa: Western Cape, 450m NNE of Constantia Nek	primary	matK	-34.0075	18.40833333	0.00157124796821383
+Rubus_armeniacus	OL954263.1	23-NOV-2022	993	South Africa: Western Cape, Hout Bay, at the road Kirstenbosch - Hout Bay, 0.5 km W of Constantia NEastern Capek	primary	matK	-34.01194444	18.39972222	0.00155886687826522
+Rubus_armeniacus	OL954197.1	23-NOV-2022	990	South Africa: Eastern Cape, Hogsback, S margin of the town, Away With The Fairies camp garden	primary	matK	-32.601907	26.939384	0.0079533579420204
+Rubus_armeniacus	OL954185.1	23-NOV-2022	1025	South Africa: Eastern Cape, 900 m E of Hogsback, stream bank in tree plantations	primary	matK	-32.596696	26.947791	0.00155750509732811
+Rubus_armeniacus	KX677516.1	09-AUG-2017	791	Canada: British Columbia, Kootenay Boundary Regional District, north of Christian Valley, Just west of Kettle River Forest Service Road	primary	matK	49.6983	-118.778	0.00252844500632111
+Rubus_armeniacus	KM036529.1	28-SEP-2014	981	Germany: Rheinland-Pfalz, near Neustadt	secondary	matK	49.9022447	6.85943097983571	0.00157542568843191
+Rubus_armeniacus	KM036528.1	28-SEP-2014	945	Czech Republic	secondary	matK	49.5940567	17.251143	0.00126890480872782

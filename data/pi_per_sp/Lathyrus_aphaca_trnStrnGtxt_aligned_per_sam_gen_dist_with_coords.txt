@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_aphaca	JX505529.1	09-JAN-2013	741	Portugal: Azores Island	secondary	trnS-trnG	38.5855122	-27.9302237	0
+Lathyrus_aphaca	JX505528.1	09-JAN-2013	741	Turkey	secondary	trnS-trnG	39.3457732459702	34.3274952139021	0
+Lathyrus_aphaca	JX505527.1	09-JAN-2013	741	Turkey	secondary	trnS-trnG	38.4007880320289	34.0474067554628	0
+Lathyrus_aphaca	JX505526.1	09-JAN-2013	741	Turkey	secondary	trnS-trnG	39.0103768518003	35.8455492222769	0
+Lathyrus_aphaca	JX505525.1	09-JAN-2013	741	Pakistan	secondary	trnS-trnG	30.3308401	71.247499	0
+Lathyrus_aphaca	JX505524.1	09-JAN-2013	741	Nepal	secondary	trnS-trnG	28.1083929	84.0917139	0

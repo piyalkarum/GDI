@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_canariensis	MH626139.1	14-AUG-2019	837	Spain	secondary	trnS-trnG	39.2421238441365	-5.08777095389438	0
+Tamarix_canariensis	MH626138.1	14-AUG-2019	837	Spain	secondary	trnS-trnG	39.4539089459349	-4.62441163668214	0
+Tamarix_canariensis	MH626137.1	14-AUG-2019	837	Spain	secondary	trnS-trnG	38.8719626530147	-4.56098851072926	0
+Tamarix_canariensis	MH626136.1	14-AUG-2019	837	Spain	secondary	trnS-trnG	38.9292324878544	-4.06601337581905	0

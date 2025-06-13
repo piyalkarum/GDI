@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxytropis_glabra	KF011569.1	30-JUL-2013	387	China: Yijinhuoluo Banner,Ordos	primary	psbA-trnH	39.19	109.48	0.00749354005167959
+Oxytropis_glabra	KF011564.1	30-JUL-2013	391	China: Inner Mongolia, Linhe District	primary	psbA-trnH	40.48	107.28	0.00774400761315649
+Oxytropis_glabra	KF011563.1	30-JUL-2013	391	China: Inner Mongolia, Alxazuo Banner, Alxa League	primary	psbA-trnH	40.09	104.4	0.0100590151800525
+Oxytropis_glabra	LR898301.1	25-JAN-2021	458	Russia:Krasnoyarsk Region	secondary	psbA-trnH	63.3233807	97.0979974	0.00981912144702842
+Oxytropis_glabra	LR898300.1	25-JAN-2021	458	Russia:Buryatia	secondary	psbA-trnH	52.4326759539308	108.187675949325	0.00981912144702842
+Oxytropis_glabra	LR898299.1	25-JAN-2021	458	Russia:Buryatia	secondary	psbA-trnH	52.9778264157048	110.422320090062	0.00981912144702842
+Oxytropis_glabra	LN898505.1	23-DEC-2015	425	Russia	secondary	psbA-trnH	64.6863136	97.7453061	0.00981912144702842
+Oxytropis_glabra	KF011568.1	30-JUL-2013	391	China: Inner Mongolia, Yijinhuoluo Banner	secondary	psbA-trnH	39.4665132	109.7191194	0.00720606409061771
+Oxytropis_glabra	KF011567.1	30-JUL-2013	391	China: Inner Mongolia, Wushen Banner, Ordos	secondary	psbA-trnH	44.2464962235166	115.869098343372	0.00774400761315649
+Oxytropis_glabra	KF011566.1	30-JUL-2013	391	China: Inner Mongolia, Etuokeqian Banner, Ordos	secondary	psbA-trnH	44.4681018048354	116.576802722478	0.00774400761315649
+Oxytropis_glabra	KF011565.1	30-JUL-2013	391	China: Inner Mongolia	secondary	psbA-trnH	43.2443242	114.3251664	0.00774400761315649

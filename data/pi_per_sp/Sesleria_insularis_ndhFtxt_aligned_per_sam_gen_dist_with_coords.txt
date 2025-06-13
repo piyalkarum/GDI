@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sesleria_insularis	KY910546.1	02-MAY-2018	1790	France	secondary	ndhF	47.346483434604	1.27828419909686	0
+Sesleria_insularis	KY910545.1	02-MAY-2018	1791	Italy	secondary	ndhF	42.6980498496784	11.8259755429402	0
+Sesleria_insularis	KY910544.1	02-MAY-2018	1789	Italy	secondary	ndhF	42.7674639687415	12.0672176133543	0
+Sesleria_insularis	KY910543.1	02-MAY-2018	1792	France	secondary	ndhF	46.3048545204904	1.4801038448288	0
+Sesleria_insularis	KY910542.1	02-MAY-2018	1791	Italy	secondary	ndhF	43.3748949690931	13.1195640520331	0

@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_thyrrena	HF547624.1	07-JAN-2013	221	Italy:Ischia Island	secondary	ITS2	40.6317951102451	14.5376326063149	0
+Genista_thyrrena	HF547623.1	07-JAN-2013	221	Italy:Ischia Island	secondary	ITS2	40.1079075517104	13.7056249962488	0
+Genista_thyrrena	HF547622.1	07-JAN-2013	221	Italy:Ischia Island	secondary	ITS2	40.4384996034012	13.5387828110952	0
+Genista_thyrrena	HF547621.1	07-JAN-2013	221	Italy:Ischia Island	secondary	ITS2	41.1818546782267	14.7511112572586	0
+Genista_thyrrena	HF547620.1	07-JAN-2013	221	Italy:Ischia Island	secondary	ITS2	40.9006340923814	13.0595617629308	0
+Genista_thyrrena	HF547619.1	07-JAN-2013	221	Italy:Ischia Island	secondary	ITS2	41.1964278188866	13.6660802887664	0
+Genista_thyrrena	HF547618.1	07-JAN-2013	221	Italy:Ischia Island	secondary	ITS2	40.5253387573026	14.7185426479039	0
+Genista_thyrrena	HF547617.1	07-JAN-2013	221	Italy:Ischia Island	secondary	ITS2	40.9737736366198	13.6263256215482	0
+Genista_thyrrena	HF547616.1	07-JAN-2013	221	Italy:Ischia Island	secondary	ITS2	41.4538157254848	13.4644102998354	0
+Genista_thyrrena	HF547615.1	07-JAN-2013	221	Italy:Ischia Island	secondary	ITS2	40.623624940445	14.4172944636397	0
+Genista_thyrrena	AJ402871.1	04-JAN-2002	221	Italy: Latium, Ponza island	secondary	ITS2	40.9063661	12.9521848	0

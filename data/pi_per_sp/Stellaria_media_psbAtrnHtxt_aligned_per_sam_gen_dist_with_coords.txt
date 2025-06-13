@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_media	OR465000.1	26-SEP-2023	350	USA: Bishop's Bog Preserve, Portage, MI	primary	psbA-trnH	42.18359579	-85.59372067	0
+Stellaria_media	KP643467.1	08-DEC-2015	364	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	38.9106696610945	-78.031680246149	0
+Stellaria_media	KP643289.1	08-DEC-2015	364	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	38.5062650419839	-78.6280500827468	0
+Stellaria_media	KP643283.1	08-DEC-2015	364	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.0632702527254	-77.578128922659	0
+Stellaria_media	OQ172950.1	18-JUN-2023	311	South Korea	secondary	psbA-trnH	36.9010488626349	128.10490715427	0
+Stellaria_media	OQ172949.1	18-JUN-2023	311	South Korea	secondary	psbA-trnH	36.9374234254343	127.651427497681	0
+Stellaria_media	OQ172948.1	18-JUN-2023	311	South Korea	secondary	psbA-trnH	36.5644263518072	128.261108799559	0
+Stellaria_media	OQ172947.1	18-JUN-2023	311	South Korea	secondary	psbA-trnH	36.6011341943215	126.615184860049	0
+Stellaria_media	KF954538.1	31-DEC-2015	295	South Korea: Dokdo	secondary	psbA-trnH	37.2421201	131.8647159	0

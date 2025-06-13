@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cyperus_esculentus	MG227957.1	23-JAN-2018	552	Canada: Ontario, Ottawa, City of, Nepean, 200 m W of Acres Rd. on S side of Hig, hway 417	primary	rbcL	45.3417	-75.825	0
+Cyperus_esculentus	MG227263.1	23-JAN-2018	553	Canada: Ontario, Niagara, Niagara, Vineland	primary	rbcL	43.1539	-79.3922	0
+Cyperus_esculentus	MG227024.1	23-JAN-2018	553	Canada: Ontario, Oxford County, Oxford County, Innerkip/Woodstock	primary	rbcL	43.1306	-80.7467	0
+Cyperus_esculentus	MG225993.1	23-JAN-2018	552	Canada: Ontario, Simcoe Co., Sunnidale Tp., E shore Nottawasaga R. at exit from Jack L.	primary	rbcL	44.483	-80	0
+Cyperus_esculentus	KX219775.1	01-FEB-2017	287	India: Kapildhara	primary	rbcL	22.7009	81.7056	0
+Cyperus_esculentus	KX219768.1	01-FEB-2017	287	India: Gujrat	primary	rbcL	22.5694	72.9312	0
+Cyperus_esculentus	KT695561.1	29-SEP-2015	497	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0
+Cyperus_esculentus	JQ591227.1	24-APR-2012	552	Costa Rica: Area de Conservacion Guanacaste, San Cristobal, Tajo Angeles	primary	rbcL	10.7122831196922	-86.0412262136838	0
+Cyperus_esculentus	JQ591226.1	24-APR-2012	552	Costa Rica: Area de Conservacion Guanacaste, San Cristobal, Tajo Angeles	primary	rbcL	11.4545573622306	-86.05635492529	0
+Cyperus_esculentus	JQ591225.1	24-APR-2012	552	Costa Rica: Area de Conservacion Guanacaste, San Cristobal, Tajo Angeles	primary	rbcL	11.2369636506463	-84.6764370173678	0
+Cyperus_esculentus	OM672242.1	24-DEC-2022	460	Nigeria	secondary	rbcL	9.6000359	7.9999721	0
+Cyperus_esculentus	MW010912.1	27-JUL-2021	399	USA: New Mexico	secondary	rbcL	34.5802074	-105.996047	0
+Cyperus_esculentus	MW010880.1	27-JUL-2021	553	Canada: Ontario	secondary	rbcL	50.000678	-86.000977	0
+Cyperus_esculentus	MG227574.1	23-JAN-2018	552	Canada: Ontario, Stormont, Dundas and Glengarry Co., Osnabruck Tp., Mille Roches Island, St. Lawrence Parkway, ca. 1.3 km S of Long Sault P.O., St. Lawrence River	secondary	rbcL	43.72634945	-77.7101179040839	0
+Cyperus_esculentus	LK029904.1	19-JUN-2015	1277	Argentina	secondary	rbcL	-34.9964963	-64.9672817	8.70094840337597e-05
+Cyperus_esculentus	LK029903.1	19-JUN-2015	1277	USA	secondary	rbcL	39.7837304	-100.445882	8.70094840337597e-05
+Cyperus_esculentus	LK029902.1	19-JUN-2015	1277	Italy	secondary	rbcL	42.6384261	12.674297	8.70094840337597e-05
+Cyperus_esculentus	LK029901.1	19-JUN-2015	1277	Burkina Faso	secondary	rbcL	12.0753083	-1.6880314	8.70094840337597e-05
+Cyperus_esculentus	HM849937.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000348037936135039

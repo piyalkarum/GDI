@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Torminalis_glaberrima	JN892541.1	07-MAR-2012	534	United Kingdom: Monmouthshire	primary	rbcL	51.63	-2.67	0.00104403500661956
+Torminalis_glaberrima	MN662678.1	13-OCT-2020	990	Lebanon	secondary	rbcL	40.375713	-76.4626118	0.00214395321231072
+Torminalis_glaberrima	HG765095.1	18-NOV-2013	711	Italy	secondary	rbcL	42.7457610934314	12.9407652603329	0.00119660319094184
+Torminalis_glaberrima	HG765094.1	18-NOV-2013	711	Italy	secondary	rbcL	42.2548472545546	12.8265967374852	0.00119660319094184
+Torminalis_glaberrima	HG765093.1	18-NOV-2013	711	Italy	secondary	rbcL	42.8149968271517	12.4235638385815	0.00119660319094184
+Torminalis_glaberrima	JN892255.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00124494568356718
+Torminalis_glaberrima	JN891605.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00124494568356718

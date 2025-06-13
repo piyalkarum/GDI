@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Honckenya_peploides	KX678529.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Alberni-Clayoquot Regional District, Beach at Pachena Bay	primary	rbcL	48.7929	-125.117	0
+Honckenya_peploides	KT960638.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.6031799167814	-20.5791610982657	0
+Honckenya_peploides	KT960547.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.2305709531692	-18.9066799020449	0
+Honckenya_peploides	KC482988.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Coast opposite Richardson Islands, ca. 18 km E of Johansen Bay airstrip	primary	rbcL	68.733	-110.719	0
+Honckenya_peploides	KC482987.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Beach area	primary	rbcL	56.331	-79.514	0
+Honckenya_peploides	KC482986.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	rbcL	71.313	-116.916	0
+Honckenya_peploides	KC482985.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, along Darnley Bay	primary	rbcL	69.419	-124.022	0
+Honckenya_peploides	KC482984.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, East side of Sylvia Grinnell River 1.5 km south of main rapids	primary	rbcL	63.7417	-68.5583	0
+Honckenya_peploides	KC482983.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Inlet of bay on west side of peninsula along west side of Padliak Inlet. Site 68	primary	rbcL	69.4667	-103.083	0
+Honckenya_peploides	JN965589.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	rbcL	58.769	-93.856	0
+Honckenya_peploides	JN965588.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Salt marsh	primary	rbcL	58.771	-93.843	0
+Honckenya_peploides	JN893555.1	07-MAR-2012	542	United Kingdom	primary	rbcL	53.28	-4.63	0
+Honckenya_peploides	JN892526.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.47	-3.64	0
+Honckenya_peploides	JN893256.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0
+Honckenya_peploides	JN892690.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

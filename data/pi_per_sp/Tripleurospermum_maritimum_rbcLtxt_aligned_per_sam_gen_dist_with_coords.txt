@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tripleurospermum_maritimum	MG224235.1	26-DEC-2017	552	Canada: Northwest Territories, Cape Bathurst, bay near north coast	primary	rbcL	70.548	-128.018	0.00459726788940176
+Tripleurospermum_maritimum	MG223926.1	26-DEC-2017	552	Canada: Manitoba, Wapusk National Park, Nelson River, mouth of 10 km N of Fort Nelson	primary	rbcL	57.164	-92.506	0.00459726788940176
+Tripleurospermum_maritimum	MG221635.1	26-DEC-2017	552	Canada: Yukon Territory, Blow River Delta	primary	rbcL	68.929	-137.207	0.00459726788940176
+Tripleurospermum_maritimum	KC484292.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Sachs Harbour	primary	rbcL	71.983	-125.333	0.00459726788940176
+Tripleurospermum_maritimum	KC484291.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	rbcL	71.313	-116.916	0.00459726788940176
+Tripleurospermum_maritimum	KC484290.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	70.735	-117.761	0.00459726788940176
+Tripleurospermum_maritimum	KC484289.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. South shore of island, South Camp	primary	rbcL	55.989	-79.733	0.00459726788940176
+Tripleurospermum_maritimum	KC484288.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	rbcL	68.628	-112.714	0.00459726788940176
+Tripleurospermum_maritimum	KC484287.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	70.79	-117.76	0.00459726788940176
+Tripleurospermum_maritimum	KC484286.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Rankin Inlet	primary	rbcL	62.8	-92.0833	0.00459726788940176
+Tripleurospermum_maritimum	KC484285.1	25-OCT-2013	552	Canada: Nunavut	primary	rbcL	63.75	-68.517	0.00459726788940176
+Tripleurospermum_maritimum	KC484284.1	25-OCT-2013	525	Canada: Nunavut, Southampton Island, Coral Harbour, Adjacent to the Inns North building	primary	rbcL	64.137	-83.165	0.00471944905204086
+Tripleurospermum_maritimum	JN966051.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 12 km S Churchill, Goose Creek Marina, Road side	primary	rbcL	58.663	-94.167	0.00459726788940176
+Tripleurospermum_maritimum	JN966050.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Town of Churchill, near Kelsey and Munk Streets, disturbed area behind Northern Store	primary	rbcL	58.77	-94.172	0.00459726788940176
+Tripleurospermum_maritimum	JN892563.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.45	-3.17	0.00725632148141373
+Tripleurospermum_maritimum	MK924607.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00725632148141373
+Tripleurospermum_maritimum	JN892195.1	07-MAR-2012	530	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.0660090245004929

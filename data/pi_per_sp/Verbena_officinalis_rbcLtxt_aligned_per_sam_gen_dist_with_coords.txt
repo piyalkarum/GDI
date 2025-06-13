@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Verbena_officinalis	JX887636.1	01-OCT-2013	525	India: Maharashtra, Aurangabad	primary	rbcL	19.92	75.31	0.0405706874189364
+Verbena_officinalis	JN893754.1	07-MAR-2012	542	United Kingdom: Flintshire	primary	rbcL	53.22	-3.5	0.00744425915632141
+Verbena_officinalis	KJ204423.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00728855721393035
+Verbena_officinalis	HM850444.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00982823975361289
+Verbena_officinalis	JN892331.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.8285069815597	-3.16648322778959	0.00744425915632141
+Verbena_officinalis	JN891562.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.2137636387753	-4.02978936087594	0.00744425915632141
+Verbena_officinalis	JN891140.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00744425915632141

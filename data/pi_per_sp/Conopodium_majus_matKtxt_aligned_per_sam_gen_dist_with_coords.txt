@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Conopodium_majus	JN895514.1	07-MAR-2012	782	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.000474158368895211
+Conopodium_majus	JN895810.1	07-MAR-2012	776	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000474158368895211
+Conopodium_majus	JN895522.1	07-MAR-2012	703	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00142247510668563
+Conopodium_majus	JN894264.1	07-MAR-2012	783	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000474158368895211

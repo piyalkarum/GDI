@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Adonis_vernalis	OL943559.1	13-NOV-2022	959	Romania	secondary	rpl16	45.9852129	24.6859225	0.000893788172203188
+Adonis_vernalis	OL943558.1	13-NOV-2022	959	Austria	secondary	rpl16	36.9148511	-4.7534501	0.00119171756293758
+Adonis_vernalis	OL943557.1	13-NOV-2022	964	Spain	secondary	rpl16	39.3260685	-4.8379791	0.000893788172203188
+Adonis_vernalis	LR735974.1	09-JAN-2020	1023	Romania:Dobruja, Hagieni	secondary	rpl16	44.5245483	28.3921691	0.00171315782819149
+Adonis_vernalis	LR735972.1	09-JAN-2020	1023	Germany:Rhineland-Palatinate, Mainzer Sand	secondary	rpl16	50.0141757	8.2086151	0.00171315782819149
+Adonis_vernalis	LR735973.1	09-JAN-2020	1022	Hungary	secondary	rpl16	47.103072	18.5062825	0.000847874396233846
+Adonis_vernalis	LR735971.1	09-JAN-2020	1023	Austria	secondary	rpl16	47.9571041653733	16.5422377446931	0.00200190446373201
+Adonis_vernalis	LR735970.1	09-JAN-2020	1023	Austria	secondary	rpl16	48.5020136077999	16.2532971495498	0.00113593783558584

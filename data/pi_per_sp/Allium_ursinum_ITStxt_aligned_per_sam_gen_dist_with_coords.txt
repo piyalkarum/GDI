@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_ursinum	HE962498.1	10-APR-2013	645	Germany:North Rhine-Westfalia, Brochterbeck,Teutoburg Forest	primary	ITS	52.23	7.76	0.0025879917184265
+Allium_ursinum	FR682005.1	29-SEP-2011	644	Germany:Bavaria, N Frankonian Switzerland	primary	ITS	50.06	11.02	0.0010351966873706
+Allium_ursinum	FR682004.1	29-SEP-2011	644	Ireland:Belfast, near Castle	primary	ITS	55.0281959841057	6.41549247757503	0.0010351966873706
+Allium_ursinum	FR682003.1	29-SEP-2011	644	Germany:Bad Iburg, Kleiner Freeden	primary	ITS	52.09	8.04	0.0010351966873706
+Allium_ursinum	FR682002.1	29-SEP-2011	644	Ireland:Belfast, near Castle	primary	ITS	53.7646481906047	4.94283280724282	0.0010351966873706
+Allium_ursinum	HF934356.1	12-MAY-2015	644	Germany:Thuringia, Keula	secondary	ITS	51.1155676509118	10.5777268251881	0.0010351966873706
+Allium_ursinum	AJ412744.1	12-JUL-2002	644	Germany:Thuringia, Keula	secondary	ITS	51.4281732311718	11.7059618313008	0.0025879917184265

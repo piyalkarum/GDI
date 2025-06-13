@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hordeum_secalinum	JN891198.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Hordeum_secalinum	JN891196.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Hordeum_secalinum	JN891195.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Hordeum_secalinum	AJ746292.1	07-JAN-2005	1299	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0

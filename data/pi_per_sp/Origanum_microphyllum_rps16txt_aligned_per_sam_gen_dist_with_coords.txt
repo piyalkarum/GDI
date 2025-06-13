@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Origanum_microphyllum	OL598324.1	27-MAY-2022	886	Greece: Crete, Diktaion Andro	secondary	rps16	35.3084952	24.463342318423	0.00206922498118886
+Origanum_microphyllum	OL598323.1	27-MAY-2022	886	Greece: Crete, Kastamonitsa	secondary	rps16	35.1926687	25.3780868	0.000940556809631302
+Origanum_microphyllum	OL598322.1	27-MAY-2022	886	Greece: Crete, Lassithi	secondary	rps16	35.1241318	25.9060167	0.00206922498118886
+Origanum_microphyllum	OL598321.1	27-MAY-2022	886	Greece: Crete, Samaria	secondary	rps16	35.6064607626782	23.1809447721896	0.000940556809631302
+Origanum_microphyllum	OL598320.1	27-MAY-2022	886	Greece: Crete, Samaria	secondary	rps16	35.3873272918753	24.2793294069446	0.000940556809631302
+Origanum_microphyllum	OL598319.1	27-MAY-2022	886	Greece: Crete, Samaria	secondary	rps16	34.8993616621121	23.9023344187621	0.000940556809631302
+Origanum_microphyllum	OL598318.1	27-MAY-2022	886	Greece: Crete, Samaria	secondary	rps16	35.2811594551352	23.5209685230192	0.0018811136192626

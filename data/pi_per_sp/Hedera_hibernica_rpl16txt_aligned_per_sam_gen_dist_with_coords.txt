@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedera_hibernica	HQ220390.1	04-DEC-2011	826	USA: Washington	secondary	rpl16	38.8948477953524	-78.1706515459453	0.00248385494287134
+Hedera_hibernica	HQ220389.1	04-DEC-2011	826	USA	secondary	rpl16	39.7837304	-100.445882	0.00248385494287134
+Hedera_hibernica	HQ220388.1	04-DEC-2011	826	USA: Washington	secondary	rpl16	38.9640903444337	-76.603531307688	0.00248385494287134
+Hedera_hibernica	AF515547.1	14-APR-2003	704	Portugal: Lindoso	secondary	rpl16	41.8666101	-8.1997242	0.00745156482861401

@@ -1,0 +1,43 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_glauca	MF597530.1	17-JUL-2018	798	Canada: Yukon Territory, Richardson Mountains, the Dempster Hwy (5) towards Inuvik. Open slopes in bog with Carex, Ledum, Rubus arcticus, Betula nana and Salix	primary	matK	66.875	-136.33	0.00178730385856864
+Poa_glauca	MF597529.1	17-JUL-2018	779	Canada: Alberta, Jasper National Park, Horseshoe Lake trail, just below lake.	primary	matK	52.695	-117.867	0.00125492862471751
+Poa_glauca	MF597528.1	17-JUL-2018	819	USA: Alaska, 15 mi E of Chicken on road towards Boundary. Wet meadow with Carex, Salix, and scattered Picea glauca.	primary	matK	64.078	-141.625	0.000881015139246951
+Poa_glauca	MF597527.1	17-JUL-2018	819	Canada: Yukon Territory, 0.5 mi E of Alaska/Yukon boundary on road towards Dawson.	primary	matK	64.084	-140.983	0.00229679902538104
+Poa_glauca	MF597526.1	17-JUL-2018	766	Canada: Yukon Territory, 95 km N of Hwy. 2 on Dempster Hwy. (5) and 134 mi S of Eagle Plains	primary	matK	65.063	-138.263	0.0024895042960496
+Poa_glauca	MG217132.1	24-JAN-2018	393	Canada: Nunavut, Ellesmere Island, Two Basin Lake, 23 km ESE ofEureka airstrip, 100-150 m	primary	matK	79.93	-84.67	0.00130329547570285
+Poa_glauca	KC475383.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.644	-115.493	0.000833396585439971
+Poa_glauca	KC475382.1	25-OCT-2013	733	Canada: Nunavut	primary	matK	62.875	-92.142	0.0023185989713517
+Poa_glauca	KC475381.1	25-OCT-2013	769	Canada: Nunavut, Mainland Nunavut, Coppermine, Coppermine airport	primary	matK	67.817	-115.239	0.000838225774416755
+Poa_glauca	KC475380.1	25-OCT-2013	773	Canada: Northwest Territories, Banks Island, De Salis Bay, ~2km N of Sandhill River, ~3km E of Windrum Lagoon, SE shore of small lake	primary	matK	71.47	-121.9	0.000835658921803441
+Poa_glauca	KC475379.1	25-OCT-2013	773	Canada: Northwest Territories, Banks Island, Hills between Big River and Egg River, near junction of the two rivers	primary	matK	72.43	-129.38	0.000835658921803441
+Poa_glauca	KC475378.1	25-OCT-2013	774	Canada: Northwest Territories, NWT mainland, Nicolson Island, Liverpool Bay	primary	matK	69.88	-129.03	0.00226106286110841
+Poa_glauca	KC475377.1	25-OCT-2013	774	Canada: Northwest Territories, NWT mainland, Cape Dalhousie	primary	matK	70.23	-129.67	0.00125561661788887
+Poa_glauca	KC475376.1	25-OCT-2013	774	Canada: Northwest Territories, NWT mainland, Holmes Creek, E side of MacKenzie Delta, Tuk area	primary	matK	69.07	-134.28	0.000835169732519719
+Poa_glauca	KC475375.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Small cliff south of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	matK	68.703	-112.653	0.00225729970208448
+Poa_glauca	KC475374.1	25-OCT-2013	773	Canada: Northwest Territories, Melville Island, McCormick Inlet, ~10 km SW of head of inlet at river delta	primary	matK	75.79	-112.44	0.000835658921803441
+Poa_glauca	KC475373.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Pond Inlet	primary	matK	72.78	-77	0.000835169732519719
+Poa_glauca	KC475372.1	25-OCT-2013	774	Canada: Nunavut, Ellesmere Island, Alexandra Fiord, RCMP Post on S side of fiord	primary	matK	78.88	-75.75	0.000835169732519719
+Poa_glauca	KC475371.1	25-OCT-2013	775	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	matK	68.628	-112.714	0.000834577125257093
+Poa_glauca	KC475370.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vincinity of Arctic Char Inn, Uluhaktok	primary	matK	70.736	-117.77	0.000833396585439971
+Poa_glauca	KC475369.1	25-OCT-2013	554	Canada: Nunavut, Victoria Island, Cambridge Bay, vicinity of picnic area along Freshwater Creek, ~3 km NE of village, growing at edge of small lake	primary	matK	69.12	-105.05	0.000924539931319891
+Poa_glauca	KC475368.1	25-OCT-2013	704	Canada: Nunavut, Baffin Island, Iqaluit. Disturbed site along road near Iqaluit Town Office, bank of road beside wet ditch	primary	matK	63.75	-68.52	0.000870083605664659
+Poa_glauca	KC475367.1	25-OCT-2013	776	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk. Behind Northern Store/Hotel/Parks Canada building (Paulatuk Centre)	primary	matK	69.4667	-124.211	0.00083398607828371
+Poa_glauca	KC475366.1	25-OCT-2013	693	Canada: Nunavut, Ellesmere Island, Tanquary Camp, Ellesmere Island National Park Reserve. Steep silt-loose gravel slope ~2.5 km SSE of Camp	primary	matK	81.4	-76.87	0.000880394231106655
+Poa_glauca	KC475365.1	25-OCT-2013	764	Canada: Nunavut, Ellesmere Island, Hazen Camp, N shore of Lake Hazen, Ellesmere Island National Park Reserve. Erosion gully on sandy slope, ~2.5 km N of Camp	primary	matK	81.82	-71.33	0.000841155874159255
+Poa_glauca	KC475364.1	25-OCT-2013	774	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Peninsula to NW of Sanikiluaq, 1/3 of the distance between The Bluffs and Katapik, on west shore of peninsula	primary	matK	56.736	-79.317	0.000835169732519719
+Poa_glauca	KC475363.1	25-OCT-2013	774	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. The Hill 2 km southwest of Sanikiluaq airport	primary	matK	56.558	-79.325	0.000835169732519719
+Poa_glauca	KC475362.1	25-OCT-2013	774	Canada: Nunavut, Axel Heiberg Island, Expedition Fiord, N side of valley near foot of glacier at head of fiord	primary	matK	79.4	-90.8	0.000835169732519719
+Poa_glauca	JN966445.1	27-OCT-2012	777	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	matK	58.772	-94.163	0.000833396585439971
+Poa_glauca	JN966441.1	27-OCT-2012	774	Canada: Manitoba, Churchill, 5 km SE Churchill, Intersection of Goose Creek Rd and Canadian National Railway, Side of the railway	primary	matK	59.1880300660754	-95.3556210465129	0.000835169732519719
+Poa_glauca	JN966440.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	matK	58.626	-94.23	0.000833396585439971
+Poa_glauca	JN966439.1	27-OCT-2012	774	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	matK	58.78	-94.195	0.00226106286110841
+Poa_glauca	JN966437.1	27-OCT-2012	775	Canada: Manitoba, Churchill, Vicinity of Churchill, Boreal Gardens, Weeds in green house	primary	matK	58.765	-94.142	0.00226031051057604
+Poa_glauca	JN966428.1	27-OCT-2012	779	Canada: Manitoba, Churchill, 5 km SE Churchill, Intersection of Goose Creek Rd and Canadian National Railway, Side of the railway	primary	matK	59.0222300804771	-94.3333738670234	0.000832993004262258
+Poa_glauca	JN894112.1	07-MAR-2012	1056	United Kingdom: Cardiganshire	primary	matK	52.11	-4.07	0.00246904132913448
+Poa_glauca	MH898822.1	31-MAR-2019	788	Canada	secondary	matK	60.6225755816126	-107.916730955886	0.000802271349856442
+Poa_glauca	KY944629.1	21-MAR-2018	788	Turkey	secondary	matK	38.9597594	34.9249653	0.00123414692635552
+Poa_glauca	KY944628.1	21-MAR-2018	787	Russia	secondary	matK	64.9655052500441	96.6528089479897	0.00246392342034168
+Poa_glauca	KY944627.1	21-MAR-2018	755	Russia	secondary	matK	64.7585637790379	96.1786408973837	0.00128335983087449
+Poa_glauca	KY378870.1	25-FEB-2018	788	Canada	secondary	matK	60.3262945088047	-108.189902212646	0.000802271349856442
+Poa_glauca	JN895056.1	07-MAR-2012	740	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00245908090119288
+Poa_glauca	JN894995.1	07-MAR-2012	783	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.00140545063428701

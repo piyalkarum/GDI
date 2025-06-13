@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_atherodes	MG226640.1	23-JAN-2018	552	Canada: British Columbia, Wells Gray Provincial Park, Placid Lk, near the base of Green Mt	primary	rbcL	51.9333	-122.117	0
+Carex_atherodes	MG227869.1	23-JAN-2018	552	Canada: Ontario, Rouge National Urban Park, Sector 6	secondary	rbcL	43.72634945	-77.7101179040839	0
+Carex_atherodes	MG227354.1	23-JAN-2018	518	Canada: Quebec, MRC Brome Missisquoi, Saint Armand, secteur sud ouest de l'etang Streit, le long du sentier, tout pres de la rte 133	secondary	rbcL	46.8137431	-71.2084061	0
+Carex_atherodes	MG227254.1	23-JAN-2018	552	USA: Michigan, Oscoda Co, Near center of sect 1, T28N R1E, 5 km SE of Lewiston	secondary	rbcL	43.7895101	-72.8848295	0

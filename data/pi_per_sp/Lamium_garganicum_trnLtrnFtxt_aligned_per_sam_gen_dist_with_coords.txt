@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_garganicum	KC350863.1	18-OCT-2013	323	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.0228706624605678
+Lamium_garganicum	KC350862.1	18-OCT-2013	323	France	secondary	trnL-trnF	46.7477128345467	2.74024738468215	0.00863112968913283
+Lamium_garganicum	KC350861.1	18-OCT-2013	323	France	secondary	trnL-trnF	46.3286556022469	2.89617744471096	0.00629449853991073
+Lamium_garganicum	KC350860.1	18-OCT-2013	323	Italy	secondary	trnL-trnF	42.9851378011914	12.5806798142825	0.00629449853991073
+Lamium_garganicum	KC350859.1	18-OCT-2013	323	Italy	secondary	trnL-trnF	42.8731799720747	13.8242580720619	0.00629449853991073

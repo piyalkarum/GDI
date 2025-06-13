@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_minima	LT985836.1	14-JUN-2019	205	Sweden	secondary	trnL-trnF	59.6749712	14.5208584	0
+Gagea_minima	LT985835.1	14-JUN-2019	204	Italy	secondary	trnL-trnF	43.086755664156	12.4847235295769	0
+Gagea_minima	LT985834.1	14-JUN-2019	204	Italy	secondary	trnL-trnF	42.171766613497	12.1353607992115	0
+Gagea_minima	LT985833.1	14-JUN-2019	204	Italy	secondary	trnL-trnF	41.8573298321303	12.5845521955876	0
+Gagea_minima	LT985832.1	14-JUN-2019	204	France	secondary	trnL-trnF	46.603354	1.8883335	0
+Gagea_minima	LT985831.1	14-JUN-2019	204	Czech Republic	secondary	trnL-trnF	49.7439047	15.3381061	0
+Gagea_minima	AM283109.1	23-JUN-2006	251	Italy	secondary	trnL-trnF	42.534934423361	12.27737861288	0
+Gagea_minima	AM238539.1	04-APR-2006	260	Ukraine:Carpathians	secondary	trnL-trnF	48.6329122	23.6260931	0

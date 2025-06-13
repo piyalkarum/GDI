@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedlundia_hybrida	MG247196.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Grounds of Victoria College, University of Toronto, Queen's Park Cres. and Charles St. W., Toronto.	primary	rbcL	43.667	-79.388	0
+Hedlundia_hybrida	MG247702.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Toronto Islands, near bridge to Snake Island	secondary	rbcL	43.6428234891204	-78.7154042562154	0
+Hedlundia_hybrida	MG246398.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Surrey Pl., Toronto.	secondary	rbcL	44.5253226536399	-77.8568785615057	0
+Hedlundia_hybrida	MG246274.1	21-JAN-2018	505	Canada: Ontario, Toronto, City of, High Park, Toronto.	secondary	rbcL	43.665638	-79.4744388	0

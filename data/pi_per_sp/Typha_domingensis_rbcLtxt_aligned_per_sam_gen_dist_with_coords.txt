@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Typha_domingensis	OQ791302.1	02-AUG-2023	584	Egypt	primary	rbcL	30.8551	29.3789	0.137461481012999
+Typha_domingensis	OL434768.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.126	-81.14	0.134691848906561
+Typha_domingensis	KX283090.1	28-MAY-2017	576	Kuwait	secondary	rbcL	29.3796532	47.9734174	0.134980988593156
+Typha_domingensis	HM850430.1	23-JUL-2011	686	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.135975658493397
+Typha_domingensis	FJ914236.1	19-MAY-2009	798	USA: FL, Gainesville, University of Florida, Main Campus	secondary	rbcL	62.437516	-158.073157014603	0.54225381262255

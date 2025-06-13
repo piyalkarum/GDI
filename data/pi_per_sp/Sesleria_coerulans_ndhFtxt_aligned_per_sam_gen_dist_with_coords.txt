@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sesleria_coerulans	KY910521.1	02-MAY-2018	1783	Serbia	secondary	ndhF	44.0657607493603	21.4819474972502	0.00252525332047666
+Sesleria_coerulans	KY910520.1	02-MAY-2018	1784	Serbia	secondary	ndhF	43.3914101832795	21.8041199410878	0.00294447648501296
+Sesleria_coerulans	KY910519.1	02-MAY-2018	1784	Bulgaria	secondary	ndhF	46.7889169	23.6184909	0.00322490273290976
+Sesleria_coerulans	KY910518.1	02-MAY-2018	1824	Macedonia	secondary	ndhF	41.1927739	-95.4256198	0.00350375620270165
+Sesleria_coerulans	KY910517.1	02-MAY-2018	1785	Montenegro	secondary	ndhF	-29.6826112	-51.4687455	0.00519024757729437

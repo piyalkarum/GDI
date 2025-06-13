@@ -1,0 +1,44 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_amara	MW476467.1	26-APR-2021	619	North Macedonia: Mavrovo, from Strezimir to Korab peak	primary	ITS	41.7498942889613	19.4282444962117	0.00361566274328794
+Cardamine_amara	MW476466.1	26-APR-2021	619	North Macedonia: Mavrovo, from Strezimir to Korab peak	primary	ITS	42.3978540134284	20.8937270567821	0.00661589353027156
+Cardamine_amara	MW476465.1	26-APR-2021	619	North Macedonia: Mavrovo, from Strezimir to Korab peak	primary	ITS	41.7655819028041	21.5663482560971	0.00519270713131779
+Cardamine_amara	MW476464.1	26-APR-2021	619	North Macedonia: Mavrovo, from Strezimir to Korab peak	primary	ITS	41.9845730257267	20.8311484601059	0.00519270713131779
+Cardamine_amara	MW476463.1	26-APR-2021	619	North Macedonia: Mavrovo, from Strezimir to Korab peak	primary	ITS	41.6480532956085	21.5400060503558	0.00773136395107316
+Cardamine_amara	MW476462.1	26-APR-2021	619	North Macedonia: Mavrovo, from Strezimir to Korab peak	primary	ITS	41.1863961023265	21.0557180645469	0.0323486422032464
+Cardamine_amara	MW476461.1	26-APR-2021	619	North Macedonia: Mavrovo, from Strezimir to Korab peak	primary	ITS	41.4455304384988	20.8047944976195	0.00638510654665743
+Cardamine_amara	MW476460.1	26-APR-2021	619	North Macedonia: Mavrovo, from Strezimir to Korab peak	primary	ITS	42.4022514815102	20.8475181831821	0.00519270713131779
+Cardamine_amara	MW476459.1	26-APR-2021	619	North Macedonia: Mavrovo, from Strezimir to Korab peak	primary	ITS	41.9167173437338	20.1583682437715	0.00511577813677975
+Cardamine_amara	MW476458.1	26-APR-2021	619	Serbia: Stara planina Mts., valley of Dojkinacka river	primary	ITS	43.5129467096604	22.6368234190735	0.00511577813677975
+Cardamine_amara	MW476457.1	26-APR-2021	619	Serbia: Stara planina Mts., valley of Dojkinacka river	primary	ITS	43.3728213569621	22.9673063628333	0.0066928225248096
+Cardamine_amara	MW476456.1	26-APR-2021	619	Serbia: Stara planina Mts., valley of Dojkinacka river	primary	ITS	42.7080816218418	21.9831440221508	0.00519270713131779
+Cardamine_amara	MW476455.1	26-APR-2021	619	Serbia: Stara planina Mts., valley of Dojkinacka river	primary	ITS	43.1661407590331	23.3263851006624	0.00361566274328794
+Cardamine_amara	MW476454.1	26-APR-2021	619	Serbia: Stara planina Mts., valley of Dojkinacka river	primary	ITS	42.7475695239905	22.2738676597819	0.00511577813677975
+Cardamine_amara	MW476453.1	26-APR-2021	619	Serbia: Stara planina Mts., valley of Dojkinacka river	primary	ITS	42.5620945322612	22.8173842820479	0.00457727517501346
+Cardamine_amara	MW476452.1	26-APR-2021	619	Serbia: Stara planina Mts., valley of Dojkinacka river	primary	ITS	42.8140698749571	22.9773290881113	0.00615431956304331
+Cardamine_amara	MW476451.1	26-APR-2021	619	Slovakia: Kremnicke vrchy Mts., E of Kremnica, Keslo	primary	ITS	48.70859	18.93801	0.00361566274328794
+Cardamine_amara	MW476450.1	26-APR-2021	619	Slovakia: Zapadne Tatry Mts., near Tatliakovo jazero	primary	ITS	49.1858882016811	19.1894231154252	0.00846218939918455
+Cardamine_amara	MW476449.1	26-APR-2021	619	Slovakia: Zapadne Tatry Mts., near Tatliakovo jazero	primary	ITS	49.335917441074	20.0421840663363	0.0100392337872144
+Cardamine_amara	MW476448.1	26-APR-2021	619	Slovakia: Zapadne Tatry Mts., near Tatliakovo jazero	primary	ITS	48.9381384110171	20.1007587759778	0.00630817755211939
+Cardamine_amara	MW476447.1	26-APR-2021	619	Slovakia: Zapadne Tatry Mts., near Tatliakovo jazero	primary	ITS	49.7587842015097	18.7696788602056	0.00703900300023079
+Cardamine_amara	MW476446.1	26-APR-2021	619	Slovakia: Zapadne Tatry Mts., near Tatliakovo jazero	primary	ITS	48.8780800010314	19.3251865408114	0.0057696745903531
+Cardamine_amara	MW476445.1	26-APR-2021	619	Slovakia: Zapadne Tatry Mts., near Tatliakovo jazero	primary	ITS	49.5036041794213	20.8682997437122	0.00361566274328794
+Cardamine_amara	MW476444.1	26-APR-2021	619	Slovakia: Zapadne Tatry Mts., Latana dolina valley	primary	ITS	48.3360119807739	19.8784398508155	0.00519270713131779
+Cardamine_amara	MW476443.1	26-APR-2021	619	Slovakia: Zapadne Tatry Mts., Latana dolina valley	primary	ITS	49.6238666428882	19.9273997578612	0.00361566274328794
+Cardamine_amara	MW476442.1	26-APR-2021	619	Serbia: Kopaonik Mts., Karaman stream	primary	ITS	43.288471	20.816872	0.00361566274328794
+Cardamine_amara	MW476441.1	26-APR-2021	619	Bulgaria: Rila Mts., near Malyovitsa chalet	primary	ITS	42.0203837176497	22.2895618427449	0.00473113316408955
+Cardamine_amara	MW476440.1	26-APR-2021	619	Bulgaria: Rila Mts., near Malyovitsa chalet	primary	ITS	42.0393112113012	24.4826698917256	0.00600046157396723
+Cardamine_amara	MW476439.1	26-APR-2021	619	Bulgaria: Rila Mts., near Malyovitsa chalet	primary	ITS	42.3943953804232	24.5204483751585	0.00719286098930687
+Cardamine_amara	MW476438.1	26-APR-2021	619	Bulgaria: Rila Mts., near Malyovitsa chalet	primary	ITS	42.4534415660611	23.122124079873	0.00765443495653512
+Cardamine_amara	MW476437.1	26-APR-2021	619	Bulgaria: Pirin Mts., Bansko, near Demyanitsa chalet	primary	ITS	41.63790493124	22.378662838884	0.00511577813677975
+Cardamine_amara	MW476436.1	26-APR-2021	619	Bulgaria: Pirin Mts., Bansko, near Demyanitsa chalet	primary	ITS	41.8958594450992	23.9928529105374	0.00361566274328794
+Cardamine_amara	MW476435.1	26-APR-2021	619	Bulgaria: Stara planina Mts., Tetevenska planina, near Vezen chalet	primary	ITS	42.7551098785805	23.6151780419771	0.00630817755211939
+Cardamine_amara	MW476434.1	26-APR-2021	619	Bulgaria: Stara planina Mts., Tetevenska planina, near Vezen chalet	primary	ITS	42.5432150681869	25.0492776051655	0.00473113316408955
+Cardamine_amara	MW476433.1	26-APR-2021	619	Bulgaria: Vitosha Mts., close to Aleko chalet	primary	ITS	42.4322185610906	24.0638391050592	0.00607739056850527
+Cardamine_amara	MW476432.1	26-APR-2021	619	Bulgaria: Vitosha Mts., close to Aleko chalet	primary	ITS	42.7314646105038	23.9909872535749	0.00511577813677975
+Cardamine_amara	MW476431.1	26-APR-2021	619	Bulgaria: Vitosha Mts., close to Aleko chalet	primary	ITS	42.8477722041433	22.8297179182014	0.0078082929456112
+Cardamine_amara	MW476430.1	26-APR-2021	619	Bulgaria: Western Rhodope Mts., Beglika, tributary of Semsiza river	primary	ITS	42.1633111052483	25.1529748913515	0.00361566274328794
+Cardamine_amara	MW476429.1	26-APR-2021	619	Bulgaria: Western Rhodope Mts., Beglika, tributary of Semsiza river	primary	ITS	42.4543501902751	24.337145490813	0.00765443495653512
+Cardamine_amara	MW476428.1	26-APR-2021	619	Bulgaria: Western Rhodope Mts., Beglika, tributary of Semsiza river	primary	ITS	41.7514930150283	24.0452361390182	0.00607739056850527
+Cardamine_amara	MW476427.1	26-APR-2021	619	Bulgaria: Western Rhodope Mts., Beglika, tributary of Semsiza river	primary	ITS	41.1464840152236	24.6653251336953	0.00511577813677975
+Cardamine_amara	MW476426.1	26-APR-2021	619	Bulgaria: Western Rhodope Mts., Beglika, tributary of Semsiza river	primary	ITS	41.5823798065123	24.9836008283776	0.00630817755211939
+Cardamine_amara	MW476425.1	26-APR-2021	619	Bulgaria: Western Rhodope Mts., Beglika, tributary of Semsiza river	primary	ITS	42.0929487188695	24.3218804370032	0.0213093314870375

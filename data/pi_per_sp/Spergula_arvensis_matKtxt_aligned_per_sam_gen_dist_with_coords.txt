@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spergula_arvensis	JN894814.1	07-MAR-2012	804	United Kingdom: Monmouthshire	primary	matK	51.61	-2.87	0.00292262211594618
+Spergula_arvensis	OQ172493.1	18-JUN-2023	770	South Korea	secondary	matK	36.5543921146597	127.15837766415	0.00256452686630909
+Spergula_arvensis	OQ172492.1	18-JUN-2023	770	South Korea	secondary	matK	36.2958443019477	127.755003487968	0.00256452686630909
+Spergula_arvensis	OQ172491.1	18-JUN-2023	770	South Korea	secondary	matK	36.6361212862818	126.663922927191	0.00256452686630909
+Spergula_arvensis	HM850775.1	23-JUL-2011	770	Portugal	secondary	matK	39.6621648	-8.1353519	0.00847905983081864
+Spergula_arvensis	JN895158.1	07-MAR-2012	749	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00304096776782007
+Spergula_arvensis	JN894908.1	07-MAR-2012	715	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00242052124582245

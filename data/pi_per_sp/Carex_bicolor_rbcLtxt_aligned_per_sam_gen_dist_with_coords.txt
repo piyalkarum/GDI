@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_bicolor	MG226870.1	23-JAN-2018	552	Canada: Nunavut, Victoria Island, Cambridge Bay, 7.5 km along the road to Ovayok (Mount Pelly)	primary	rbcL	69.158	-104.902	0.0457057823129252
+Carex_bicolor	MG226856.1	23-JAN-2018	552	Canada: Yukon Territory, Richardson Mountains, Fish Creek	primary	rbcL	67.899	-136.503	0.0457057823129252
+Carex_bicolor	MG226270.1	23-JAN-2018	552	USA: Alaska, Gates of the Arctic, Shainin Lake	primary	rbcL	68.332	-151.042	0.0457057823129252
+Carex_bicolor	MG226180.1	23-JAN-2018	510	Canada: Alberta, Jasper National Park, Wilcox Pass trl, Ne of Hwy 93, the Icefield Centre, and Athabasca Glacier	primary	rbcL	52.2397	-117.219	0.0447619047619048
+Carex_bicolor	MG226107.1	23-JAN-2018	552	USA: Alaska, Sitka Quad, Alexander Archipelago, Chichagof I, Sithok Bay, USFS rd 7540	primary	rbcL	57.5333	-135	0.0457057823129252
+Carex_bicolor	MG225990.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, st Barbe South, SJI99 13, st John Island, Sern peninsula, Open gravel with small vegetation patches, upper part more turfy, on Sern shore, gravel coated with marl	primary	rbcL	50.7965	-57.243	0.0457057823129252
+Carex_bicolor	KC482248.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Gravel River	primary	rbcL	68.76	-139.557	0.0457057823129252
+Carex_bicolor	KC482247.1	25-OCT-2013	552	Canada: Nunavut, Nunavut Mainland, Rankin Inlet, At roadside behind cemetary	primary	rbcL	62.808	-92.083	0.0457057823129252
+Carex_bicolor	KC482246.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Near Red Rocks Rising hiking area, west side of Hornaday River	primary	rbcL	68.6222	-122.433	0.0457057823129252
+Carex_bicolor	KC482245.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, along Darnley Bay	primary	rbcL	69.3944	-124.117	0.0457057823129252
+Carex_bicolor	KC482244.1	25-OCT-2013	552	Canada: Nunavut, Coats Island, Cairn Cove	primary	rbcL	62.817	-81.933	0.0457057823129252
+Carex_bicolor	JN965343.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 45 km E Churchill, Fort Churchill, Spaceport project. Churchill area. Site 3. Moist area between gravel pad and pond.	primary	rbcL	57.853	-92.758	0.0457057823129252
+Carex_bicolor	MK949911.1	21-MAY-2021	696	Canada	secondary	rbcL	61.0666922	-107.991707	0.547525510204082

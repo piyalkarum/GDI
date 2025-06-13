@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Briza_minor	KX873238.1	16-OCT-2017	833	Peru: Ancash, Cordillera Negra E slope, ca. 18 km SW of Shupluy and Rio Santa, ca. 3.5 km E of Poncos on road over Cerro Pucacruz	primary	matK	-9.248	-77.7289	0.00775561037545651
+Briza_minor	OQ390252.1	24-MAY-2023	859	Peru	secondary	matK	-6.77215952419388	-75.3014785842516	0.0237289840594702
+Briza_minor	OQ390251.1	24-MAY-2023	853	Peru	secondary	matK	-6.3889669651779	-75.0884733865935	0.0230520369115043
+Briza_minor	ON341186.1	30-APR-2023	724	USA: Georgia	secondary	matK	32.3293809	-83.1137366	0.00895489845335729
+Briza_minor	MW719275.1	04-SEP-2021	892	Brazil	secondary	matK	-10.3333333	-53.2	0.00764588184765462
+Briza_minor	LR606843.1	25-JAN-2021	2122	Italy	secondary	matK	42.6384261	12.674297	0.0113841169824706
+Briza_minor	KJ529358.1	22-FEB-2015	960	Spain	secondary	matK	39.3260685	-4.8379791	0.00996272685077895
+Briza_minor	MF999112.1	09-DEC-2017	1821	Kenya	secondary	matK	1.4419683	38.4313975	0.00808206780469395
+Briza_minor	KJ599228.1	21-SEP-2014	504	Australia: Victoria	secondary	matK	-36.5986096	144.6780052	0.009265735591267
+Briza_minor	HM850580.1	23-JUL-2011	476	Portugal	secondary	matK	39.6621648	-8.1353519	0.0176769943986918
+Briza_minor	HQ600040.1	02-AUG-2011	1333	South Korea	secondary	matK	36.638392	127.6961188	0.00772238773230931

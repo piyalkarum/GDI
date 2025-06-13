@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helictochloa_bromoides	LR606903.1	25-JAN-2021	2124	France	secondary	matK	46.3165234539093	2.37628432708749	0.0192449967249577
+Helictochloa_bromoides	KJ529356.1	22-FEB-2015	969	Spain	secondary	matK	39.865415970455	-4.60854176251284	0.0198648960258867
+Helictochloa_bromoides	HG797430.1	26-SEP-2014	762	France	secondary	matK	46.1326701275559	2.76665760633134	0.0217397778373388
+Helictochloa_bromoides	JX438087.1	31-MAR-2013	1245	Spain	secondary	matK	40.0084149421642	-4.08827922171653	0.0396957299295986

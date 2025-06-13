@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_nigrum	FM177458.1	11-NOV-2008	640	Netherlands:Amsterdam, Botanical Garden	secondary	ITS	52.3326681	4.8604715	0.00520833333333333
+Allium_nigrum	FM177370.1	11-NOV-2008	640	Turkey	secondary	ITS	38.9597594	34.9249653	0.00208333333333333
+Allium_nigrum	FM177369.1	11-NOV-2008	640	Germany:Leipzig, Botanical Garden	secondary	ITS	50.4933547300524	12.5670444634009	0.003125
+Allium_nigrum	FM177368.1	11-NOV-2008	640	Germany:Leipzig, Botanical Garden	secondary	ITS	50.5556522493445	12.5639631725089	0.00208333333333333

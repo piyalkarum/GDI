@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_alpinum	MZ359310.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.0091826122197794
+Cerastium_alpinum	KT307937.1	20-MAR-2016	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Top of Mt. Irony, 30 m right of Inoukshouk.	primary	rbcL	55.2231	-69.4894	0.000698031551026106
+Cerastium_alpinum	KT960521.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.247396947595	-21.8249573801938	0.000698031551026106
+Cerastium_alpinum	KT960469.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.7681450878686	-20.797161007631	0.000698031551026106
+Cerastium_alpinum	KT960429.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.7496300614822	-18.1521416287889	0.000698031551026106
+Cerastium_alpinum	KC482408.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, River valley at base of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.317	-116.418	0.000698031551026106
+Cerastium_alpinum	KC482407.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island, Itiliapik, ~35 km SE of Sanikiluaq, slopes to south of camp ~0.5 km, near boat launch	primary	rbcL	56.456	-79.003	0.000698031551026106
+Cerastium_alpinum	KC482406.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbour	primary	rbcL	61.82	-65.71	0.000698031551026106
+Cerastium_alpinum	JN965428.1	27-OCT-2012	515	Canada: Manitoba, Churchill, unspecified locality	primary	rbcL	58.74	-93.82	0.00074827895839569
+Cerastium_alpinum	JN891141.1	07-MAR-2012	542	United Kingdom	primary	rbcL	53.16	-3.97	0.000709622480840193
+Cerastium_alpinum	MK924614.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0958488117137	-3.15106235536213	0.000709622480840193
+Cerastium_alpinum	MK924443.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8957375115507	-3.85962942178251	0.000709622480840193
+Cerastium_alpinum	JN890579.1	07-MAR-2012	542	United Kingdom: Perthshire,Mid	secondary	rbcL	57.0420291296144	-3.79698075811324	0.000709622480840193
+Cerastium_alpinum	JN890578.1	07-MAR-2012	542	United Kingdom: Perthshire,Mid	secondary	rbcL	55.6704720827241	-2.99340527286986	0.000709622480840193

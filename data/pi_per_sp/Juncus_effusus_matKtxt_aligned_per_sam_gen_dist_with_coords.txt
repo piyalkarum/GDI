@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_effusus	OL434894.1	14-NOV-2022	652	USA: Georgia	primary	matK	32.1174	-81.138	0.0113507434673574
+Juncus_effusus	HQ593334.1	09-NOV-2011	705	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, open area near stream channel north of Echo Valley Cottage	primary	matK	44.026	-79.532	0.00897100841409172
+Juncus_effusus	JN894243.1	07-MAR-2012	864	United Kingdom: Glamorgan	primary	matK	51.52	-3.2	0.00947864884609716
+Juncus_effusus	OQ289864.1	16-MAY-2023	795	Mexico: Puebla	secondary	matK	19.1705686	-98.4123106	0.0378421806550971
+Juncus_effusus	MH551744.1	11-MAR-2019	705	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.70257735	-81.983441193043	0.00924646836277811
+Juncus_effusus	KJ204492.1	29-JAN-2015	833	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00947997105774168
+Juncus_effusus	HM850950.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0147791362905923
+Juncus_effusus	JN895717.1	07-MAR-2012	824	United Kingdom: Breconshire (42)	secondary	matK	52.9875065	-1.1773256	0.00831991708878742
+Juncus_effusus	JN894707.1	07-MAR-2012	817	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00834102160735994

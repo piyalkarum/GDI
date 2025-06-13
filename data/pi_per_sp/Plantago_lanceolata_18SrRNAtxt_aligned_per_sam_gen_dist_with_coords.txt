@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_lanceolata	LR997866.1	06-JAN-2022	346	Estonia:Parnu maakond, Laelatu	primary	18S rRNA	58.6163236242568	25.1432490984534	0.149886092926375
+Plantago_lanceolata	LR997865.1	06-JAN-2022	346	Estonia:Parnu maakond, Laelatu	primary	18S rRNA	58.5771620975161	22.4616489864942	0.149886092926375
+Plantago_lanceolata	LR996317.1	06-JAN-2022	346	Estonia:Parnu maakond, Laelatu	primary	18S rRNA	58.6626024216075	23.4155981913575	0.150517929485787
+Plantago_lanceolata	LR996316.1	06-JAN-2022	345	Estonia:Parnu maakond, Laelatu	primary	18S rRNA	58.3966823330085	23.3915921592158	0.149552983248635
+Plantago_lanceolata	AB281171.1	08-MAY-2007	675	Japan: Gifu Pharmaceutical University	secondary	18S rRNA	35.4685771	136.7336821	0.578137477409322

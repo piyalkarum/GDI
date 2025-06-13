@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_saxatile	HG794225.1	04-JAN-2016	641	Georgia:Imeretia, Tskaltubo - Tsageri	secondary	5.8S rRNA	42.3471464	42.5971538	0.000445732114998886
+Allium_saxatile	HG794201.1	04-JAN-2016	641	Georgia:Manglisi	secondary	5.8S rRNA	41.6986621	44.3830654	0.000445732114998886
+Allium_saxatile	HG794178.1	04-JAN-2016	641	Russia:North Ossetia, Tseyskoye Gorge, Nizhny Tsey	secondary	5.8S rRNA	42.7556839	43.9856290987111	0.00133719634499666
+Allium_saxatile	HG794210.1	04-JAN-2016	641	Georgia	secondary	5.8S rRNA	42.6969414	44.5181108	0.000445732114998886
+Allium_saxatile	HG794207.1	04-JAN-2016	641	Georgia	secondary	5.8S rRNA	42.634241	44.6186561	0.000445732114998886
+Allium_saxatile	HG794203.1	04-JAN-2016	641	Georgia	secondary	5.8S rRNA	41.9130657	44.0927211	0.000445732114998886
+Allium_saxatile	HG794202.1	04-JAN-2016	641	Georgia	secondary	5.8S rRNA	41.7881642	45.1646249	0.000445732114998886
+Allium_saxatile	HG794194.1	04-JAN-2016	641	Russia	secondary	5.8S rRNA	44.039775	43.0706669	0.00133719634499666

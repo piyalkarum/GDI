@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_durieui	HE649618.1	04-FEB-2013	207	Algeria	secondary	trnL-trnF	28.0000272	2.9999825	0
+Gagea_durieui	HE649617.1	04-FEB-2013	207	Spain	secondary	trnL-trnF	38.5299677385008	-5.36162275984323	0
+Gagea_durieui	HE649616.1	04-FEB-2013	207	Spain	secondary	trnL-trnF	40.1757377838103	-5.0502900961694	0
+Gagea_durieui	HE649615.1	04-FEB-2013	207	Morocco	secondary	trnL-trnF	28.3347722	-10.3713379	0

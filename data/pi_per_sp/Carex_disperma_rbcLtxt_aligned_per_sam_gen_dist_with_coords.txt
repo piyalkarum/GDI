@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_disperma	MG226198.1	23-JAN-2018	552	USA: Michigan, Oscoda Co, 5 mi NW of Comins, E of and near Hunt Crk, 0.5 mi S of Montmorency Co. border	primary	rbcL	44.8467	-84.144	0.00219346366436151
+Carex_disperma	MG225751.1	23-JAN-2018	523	USA: Alaska, Big Delta Quad, Fort Wainwright Military Reservation, Yukon Tanana Uplands, N end MOUT Site, E side Transm rd	primary	rbcL	64.8417	-146.974	0.00386564539615496
+Carex_disperma	KJ841173.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Menyanthes Pond	primary	rbcL	45.0717119949598	-72.8870433603819	0.00251521398611184
+Carex_disperma	KJ841172.1	04-NOV-2014	516	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Forest to fen transition near base of s-w slope of mountain	primary	rbcL	54.899	-67.171	0.00718079224050967
+Carex_disperma	KJ841171.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Menyanthes Pond	primary	rbcL	45.3507006811329	-72.3106808408859	0.00219346366436151
+Carex_disperma	KC482265.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. 5 km southwest of Sanikiluaq	primary	rbcL	56.558	-79.344	0.00690094684628052
+Carex_disperma	KR902904.1	29-MAY-2016	1364	USA: Colorado	secondary	rbcL	38.7251776	-105.607716	0.00267940097239571

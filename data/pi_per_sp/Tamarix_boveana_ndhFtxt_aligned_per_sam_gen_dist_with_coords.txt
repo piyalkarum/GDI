@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_boveana	MH626227.1	14-AUG-2019	698	Spain	secondary	ndhF	39.3016625951471	-5.27959013047157	0.00143266475644699
+Tamarix_boveana	KP244441.1	23-JUN-2015	736	Spain	secondary	ndhF	39.1727892080241	-4.83069805304187	0.00135869565217391
+Tamarix_boveana	KP244440.1	23-JUN-2015	743	Morocco	secondary	ndhF	28.3347722	-10.3713379	0.00137908514293644
+Tamarix_boveana	KP244439.1	23-JUN-2015	743	Algeria	secondary	ndhF	28.0000272	2.9999825	0.00230953861247674

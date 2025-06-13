@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Primula_egaliksensis	KC475522.1	25-OCT-2013	776	Canada: Yukon Territory, Ivvavik National Park, Firth River	primary	matK	68.88	-140.423	0.00204746065874022
+Primula_egaliksensis	KC475521.1	25-OCT-2013	777	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. In the vicinity of the fresh water lake in lowlands 1 km W of Kihlbay	primary	matK	56.472	-79.042	0.00204635498753146
+Primula_egaliksensis	JN966474.1	27-OCT-2012	561	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	matK	58.789	-94.227	0.0023767082590612
+Primula_egaliksensis	JN966472.1	27-OCT-2012	780	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas heath	primary	matK	58.769	-93.862	0.00171710738721048

@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_hyperborea	KT960726.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.3883922511645	-20.1480702584808	0.000812720206312884
+Festuca_hyperborea	KT960498.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.166538459416	-22.8657795364792	0.000812720206312884
+Festuca_hyperborea	KC482901.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Croker Bay, E side near entrance	primary	rbcL	74.533	-82.783	0.000812720206312884
+Festuca_hyperborea	KC482900.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.907	-109.59	0.00120772946859903
+Festuca_hyperborea	KC482899.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	rbcL	76.56	-118.88	0.000812720206312884
+Festuca_hyperborea	KC482898.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, head of bay, 14 km N of the abandoned Mould Bay weather station	primary	rbcL	76.36	-119.51	0.00120772946859903
+Festuca_hyperborea	KC482897.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Gentle slope below steep scree below a large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.244	-116.339	0.00120772946859903
+Festuca_hyperborea	KC482896.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, Mould Bay Peninsula, east side, ca 10 km E of Mould Bay	primary	rbcL	76.23	-118.95	0.000812720206312884
+Festuca_hyperborea	KC482895.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Bukken River, High altitude meadow above Bukken River headwaters	primary	rbcL	80.52	-92.065	0.000812720206312884
+Festuca_hyperborea	KC482894.1	25-OCT-2013	532	Canada: Nunavut, Bathurst Island, Polar Bear Pass, Research Station	primary	rbcL	75.73	-98.42	0.0012531328320802

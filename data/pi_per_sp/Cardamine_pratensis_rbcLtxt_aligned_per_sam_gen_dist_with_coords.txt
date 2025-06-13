@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_pratensis	MN447813.1	21-FEB-2022	561	United Kingdom: England, County Durham, Auckland Castle grounds	primary	rbcL	54.6719	-1.66	0.00371766222387766
+Cardamine_pratensis	MZ359329.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.000157529930686831
+Cardamine_pratensis	MG246605.1	21-JAN-2018	552	Canada: Yukon Territory, Blow River Delta	primary	rbcL	68.929	-137.207	0.000157529930686831
+Cardamine_pratensis	MG246279.1	21-JAN-2018	552	Canada: Yukon Territory, Vuntut National Park, Dog Creek camp	primary	rbcL	68.465	-138.746	0.000157529930686831
+Cardamine_pratensis	KX679092.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, NE corner of W. 16th Ave. & SW Marine Dr.	primary	rbcL	49.253	-123.246	0.000157529930686831
+Cardamine_pratensis	KT960608.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.3416527720601	-19.9930896733556	0.000157529930686831
+Cardamine_pratensis	KT960580.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.6694786233413	-18.6120245171633	0.000157529930686831
+Cardamine_pratensis	KT960566.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.0134025318317	-20.9844505130537	0.000157529930686831
+Cardamine_pratensis	KT960409.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	0.000157529930686831
+Cardamine_pratensis	KC482221.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Sylvia Grinnell Park	primary	rbcL	63.7386	-68.5586	0.000157529930686831
+Cardamine_pratensis	KC482220.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Sylvia Grinnell Park, East side of Sylvia Grinnell River 1.5 km south of main rapids	primary	rbcL	63.7347	-68.5583	0.000157529930686831
+Cardamine_pratensis	KC482219.1	25-OCT-2013	552	Canada: Nunavut, Rankin Inlet, 13 km NW of Rankin Inlet along Meliadine esker at NE end Sik-sik' Lake, Meliadine River Park study area, Hudson Bay.'	primary	rbcL	62.9167	-92.225	0.000157529930686831
+Cardamine_pratensis	KC482218.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, River valley at N head of Minto Inlet, ~ 3 km from Inlet	primary	rbcL	71.68	-115.492	0.000157245066436041
+Cardamine_pratensis	KC482217.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	68.719	-110.783	0.000157529930686831
+Cardamine_pratensis	KC482216.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East side of Hornaday River, at base of NW facing ridge	primary	rbcL	68.406	-121.989	0.000157529930686831
+Cardamine_pratensis	KC482215.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq, shoreline of lake beside school	primary	rbcL	56.608	-79.269	0.000157529930686831
+Cardamine_pratensis	KC482214.1	25-OCT-2013	552	Canada: Northwest Territories, Cape Bathurst, brook system N of river from Lake McKinlay, 0.7-1.5 km from sea	primary	rbcL	70.4833	-127.8	0.000157529930686831
+Cardamine_pratensis	KC482213.1	25-OCT-2013	552	Canada: Nunavut, Southampton Island, Coral Harbour, low lying between graveyard and oil tank farm	primary	rbcL	64.1333	-83.1667	0.000157529930686831
+Cardamine_pratensis	JN965330.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	rbcL	58.626	-94.23	0.000157529930686831
+Cardamine_pratensis	JN893058.1	07-MAR-2012	539	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.000161329353875938
+Cardamine_pratensis	HM849848.1	23-JUL-2011	1066	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000239769820971867
+Cardamine_pratensis	JN891987.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000160436386972565
+Cardamine_pratensis	JN891765.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000160436386972565
+Cardamine_pratensis	JN891764.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000160436386972565

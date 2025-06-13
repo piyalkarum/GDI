@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_hirsuta	KC475212.1	25-OCT-2013	780	Canada: Nunavut, Axel Heiberg Island, Expedition Fiord, McGill Univ. base camp on N side of valley near foot of glacier at head of fiord	primary	matK	79.5567170308221	-91.5851089216479	0.0780903034789045
+Pedicularis_hirsuta	KC475211.1	25-OCT-2013	783	Canada: Nunavut, Axel Heiberg Island, Expedition River, N side of Expedition River. On NE side of Gypsum Hill, between camp and river	primary	matK	79.6552814275841	-90.2579557173295	0.0779723502304147
+Pedicularis_hirsuta	KC475210.1	25-OCT-2013	783	Canada: Nunavut, Ellesmere Island, Scoresby Bay	primary	matK	79.867	-71.533	0.0779723502304147
+Pedicularis_hirsuta	KC475209.1	25-OCT-2013	783	Canada: Nunavut, Bathurst Island, Polar Bear Pass, Research Station	primary	matK	75.73	-98.42	0.0779723502304147
+Pedicularis_hirsuta	KC475208.1	25-OCT-2013	783	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	matK	74.905	-109.593	0.0779723502304147
+Pedicularis_hirsuta	KC475207.1	25-OCT-2013	780	Canada: Nunavut, Ellesmere Island, Fosheim Peninsula, Hot Weather Creek	primary	matK	79.97	-84.43	0.0780903034789045
+Pedicularis_hirsuta	KC475206.1	25-OCT-2013	780	Canada: Nunavut, Ellesmere Island, Alexandra Fiord, valley at head of fiord (14 km WSW of RCMP post)	primary	matK	78.83	-76.42	0.0780903034789045
+Pedicularis_hirsuta	HG423951.1	09-APR-2014	1009	Greenland:Qaasuitsup, Aasiat	secondary	matK	76	-57	0.546160311358373

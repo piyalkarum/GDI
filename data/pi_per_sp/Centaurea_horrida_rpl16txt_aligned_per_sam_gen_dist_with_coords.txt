@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_horrida	MH921520.1	01-SEP-2022	853	Italy: Sardinia, Tavolara	secondary	rpl16	40.4039004343875	9.02959774573746	0
+Centaurea_horrida	MH921519.1	01-SEP-2022	853	Italy: Sardinia, Tavolara	secondary	rpl16	40.5300659195637	10.7402022123146	0
+Centaurea_horrida	MH921518.1	01-SEP-2022	853	Italy: Sardinia, Tavolara	secondary	rpl16	40.9396187264746	9.06641486711786	0
+Centaurea_horrida	MH921517.1	01-SEP-2022	853	Italy: Sardinia, Lio Marina	secondary	rpl16	40.1391802185752	9.4652490718627	0
+Centaurea_horrida	MH921516.1	01-SEP-2022	853	Italy: Sardinia, Marina Lio	secondary	rpl16	40.6792696165121	8.79397495436258	0
+Centaurea_horrida	MH921515.1	01-SEP-2022	853	Italy: Sardinia, Marina Lio	secondary	rpl16	40.7133133922124	9.82119283575421	0
+Centaurea_horrida	MH921514.1	01-SEP-2022	853	Italy: Sardinia, Cala Barca	secondary	rpl16	40.319109387576	9.21901187229465	0
+Centaurea_horrida	MH921513.1	01-SEP-2022	853	Italy: Sardinia, Cala Barca	secondary	rpl16	40.9946663018451	7.36978748605023	0
+Centaurea_horrida	MH921512.1	01-SEP-2022	853	Italy: Sardinia, Cala Barca	secondary	rpl16	41.37046499786	7.92276200568334	0
+Centaurea_horrida	MH921511.1	01-SEP-2022	853	Italy: Sardinia, Coscia Donna	secondary	rpl16	40.5042086534189	9.14057244895558	0
+Centaurea_horrida	MH921510.1	01-SEP-2022	853	Italy: Sardinia, Coscia Donna	secondary	rpl16	40.7025782429133	9.04425959253859	0
+Centaurea_horrida	MH921509.1	01-SEP-2022	853	Italy: Sardinia, Coscia Donna	secondary	rpl16	41.3968685521439	7.39180641309518	0
+Centaurea_horrida	MH921508.1	01-SEP-2022	853	Italy: Sardinia, Capo Falcone	secondary	rpl16	40.5939698661207	8.38440755837646	0
+Centaurea_horrida	MH921507.1	01-SEP-2022	853	Italy: Sardinia, Capo Falcone	secondary	rpl16	40.4515257685915	7.28663578059076	0
+Centaurea_horrida	MH921506.1	01-SEP-2022	853	Italy: Sardinia, Fornelli	secondary	rpl16	41.4943595743046	8.14072081207418	0
+Centaurea_horrida	MH921505.1	01-SEP-2022	848	Italy: Sardinia, Fornelli	secondary	rpl16	41.5038527208893	9.21379636742262	0
+Centaurea_horrida	MH921504.1	01-SEP-2022	848	Italy: Sardinia, Fornelli	secondary	rpl16	41.5133728489963	8.59191360820255	0
+Centaurea_horrida	MH921503.1	01-SEP-2022	853	Italy: Sardinia, Piano Streti	secondary	rpl16	40.2361594646537	8.64958431490474	0
+Centaurea_horrida	MH921502.1	01-SEP-2022	853	Italy: Sardinia, Piano Streti	secondary	rpl16	39.4196528353793	8.94428307904859	0
+Centaurea_horrida	MH921501.1	01-SEP-2022	853	Italy: Sardinia, Piano Streti	secondary	rpl16	39.5026258249149	9.028893595221	0

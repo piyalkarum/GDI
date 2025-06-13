@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hieracium_umbellatum	MG224563.1	26-DEC-2017	552	Canada: Manitoba, Gillam	primary	rbcL	56.348	-94.698	0.00125418060200669
+Hieracium_umbellatum	MG223939.1	26-DEC-2017	552	Canada: Northwest Territories, Nahanni National Park, Sundog Creek drainage, Cat Camp	primary	rbcL	61.602	-124.347	0.00125418060200669
+Hieracium_umbellatum	MG223083.1	26-DEC-2017	552	Canada: Yukon Territory, 2nd Dodo Lake, north of Alaska Highway	primary	rbcL	60.048	-129.077	0.00125418060200669
+Hieracium_umbellatum	MG222962.1	26-DEC-2017	552	Canada: Yukon Territory, Whitehorse, S of, Venus Rd intersection with the Alaska Hwy	primary	rbcL	60.6	-134.817	0.00125418060200669
+Hieracium_umbellatum	MG222866.1	26-DEC-2017	552	Canada: Yukon Territory, Crow River Hotsprings	primary	rbcL	60.2	-125.79	0.00125418060200669
+Hieracium_umbellatum	MG222735.1	26-DEC-2017	552	Canada: Yukon Territory, Larsen Hotsprings Lower Pool	primary	rbcL	60.2	-125.4	0.00125418060200669
+Hieracium_umbellatum	KX679013.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, East of Manning Park, Pasayten Forest Service Road	primary	rbcL	49.132	-120.585	0.00433960144110421
+Hieracium_umbellatum	KC482959.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0.00125418060200669
+Hieracium_umbellatum	MT930461.1	03-MAR-2023	569	China	secondary	rbcL	35.6537596634561	104.294598281793	0.0127920304366195
+Hieracium_umbellatum	MN204741.1	30-NOV-2021	724	China	secondary	rbcL	35.8433378821628	105.006441758788	0.00144419223768005
+Hieracium_umbellatum	MN185075.1	27-APR-2021	722	China	secondary	rbcL	34.2799356334781	105.272715035114	0.00144419223768005
+Hieracium_umbellatum	JQ933362.1	30-SEP-2012	1379	Bhutan: Thimphu	secondary	rbcL	27.4781469	89.6262797	0.00160042961117799
+Hieracium_umbellatum	KF196019.1	20-JAN-2014	704	China: Yunnan, Zhongdian	secondary	rbcL	27.8717021	99.8365499	0.00158066188761229
+Hieracium_umbellatum	JX848418.1	06-AUG-2013	1323	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.00144113912417151

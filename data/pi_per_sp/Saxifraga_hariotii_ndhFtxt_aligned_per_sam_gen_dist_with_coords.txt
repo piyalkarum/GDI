@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_hariotii	OP823070.1	29-JAN-2023	1067	France: Occitanie, Arette la Pierre St. Martin, Ernaz, Anie	secondary	ndhF	43.4978587205495	0.844938168495511	0
+Saxifraga_hariotii	OP823069.1	29-JAN-2023	1067	France: Occitanie, Arette la Pierre St. Martin, Ernaz, Anie	secondary	ndhF	44.2727664195104	1.22990142710025	0
+Saxifraga_hariotii	OP823068.1	29-JAN-2023	1067	France: Occitanie, Arette la Pierre St. Martin, Ernaz, Anie	secondary	ndhF	43.063504709702	1.6516886899142	0
+Saxifraga_hariotii	OP823067.1	29-JAN-2023	1067	France: Occitanie, Arette la Pierre St. Martin, Ernaz, Anie	secondary	ndhF	43.9991616721531	1.23861057677754	0
+Saxifraga_hariotii	OP823066.1	29-JAN-2023	1067	France: Occitanie, Arette la Pierre St. Martin, Ernaz, Anie	secondary	ndhF	44.0278990631622	2.148691461935	0

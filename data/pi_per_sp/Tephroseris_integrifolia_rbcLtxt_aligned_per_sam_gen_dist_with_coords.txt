@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tephroseris_integrifolia	MK924933.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.706806268786	-3.73606093007771	0
+Tephroseris_integrifolia	MK924858.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1638620522769	-2.74005606625021	0
+Tephroseris_integrifolia	MK924643.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2197544350891	-4.11444343795931	0
+Tephroseris_integrifolia	GU817786.1	17-OCT-2010	1483	Turkey	secondary	rbcL	38.9597594	34.9249653	0

@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_ircutianum	HE681078.1	22-APR-2013	342	Croatia:Istarska	secondary	trnL-trnF	46.3557912222899	16.2599289720166	0.000508517670989067
+Leucanthemum_ircutianum	HE681076.1	22-APR-2013	342	Croatia:Istarska	secondary	trnL-trnF	46.8031946609966	16.8167546437705	0.000508517670989067
+Leucanthemum_ircutianum	HE681073.1	22-APR-2013	342	Italy:Calabria	secondary	trnL-trnF	39.0565974	16.5249864	0.000508517670989067
+Leucanthemum_ircutianum	HE681041.1	22-APR-2013	342	Spain:Castilia y Leon	secondary	trnL-trnF	41.55005	-5.1387401	0.000508517670989067
+Leucanthemum_ircutianum	HE681040.1	22-APR-2013	342	Portugal:Lisboa	secondary	trnL-trnF	38.7077507	-9.1365919	0.000508517670989067
+Leucanthemum_ircutianum	HE681038.1	22-APR-2013	342	Croatia:Primorsko-Goranska	secondary	trnL-trnF	45.4225937	14.6172032	0.0030511060259344
+Leucanthemum_ircutianum	HE681037.1	22-APR-2013	342	Slovenia:Goriska	secondary	trnL-trnF	46.1041101	13.8123375	0.000508517670989067
+Leucanthemum_ircutianum	HE681036.1	22-APR-2013	342	France:Aquitaine	secondary	trnL-trnF	45.4039367	0.3756199	0.000508517670989067
+Leucanthemum_ircutianum	HE681035.1	22-APR-2013	342	Spain:Pais Vasco	secondary	trnL-trnF	42.7286531	-1.9738375	0.00330536486142893
+Leucanthemum_ircutianum	HE681034.1	22-APR-2013	342	Spain:Navarra	secondary	trnL-trnF	42.6125488	-1.8307877	0.0030511060259344
+Leucanthemum_ircutianum	HE681025.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	48.0579028160555	11.5700492407268	0.000508517670989067
+Leucanthemum_ircutianum	HE681022.1	22-APR-2013	342	Austria:Vorarlberg	secondary	trnL-trnF	46.6058802596941	9.92554461755915	0.000508517670989067
+Leucanthemum_ircutianum	HE681019.1	22-APR-2013	342	Austria:Vorarlberg	secondary	trnL-trnF	47.8984264969871	9.29681978447189	0.000508517670989067
+Leucanthemum_ircutianum	HE681017.1	22-APR-2013	342	Austria:Tirol	secondary	trnL-trnF	47.6192843932618	11.7278827445504	0.000508517670989067
+Leucanthemum_ircutianum	HE681016.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	49.1310013435419	12.6245092175561	0.000508517670989067
+Leucanthemum_ircutianum	HE681014.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	49.5270579843962	11.4915696019131	0.000508517670989067
+Leucanthemum_ircutianum	HE681013.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	48.694955811699	11.9857741557814	0.000508517670989067
+Leucanthemum_ircutianum	HE680990.1	22-APR-2013	342	France:Provence-Alpes	secondary	trnL-trnF	44.0580563	6.0638506	0.000508517670989067
+Leucanthemum_ircutianum	HE680989.1	22-APR-2013	342	Austria:Kaernten	secondary	trnL-trnF	46.7500001	13.8333333	0.00330536486142893
+Leucanthemum_ircutianum	HE680988.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	48.8855488039905	12.2969863940389	0.000508517670989067
+Leucanthemum_ircutianum	HE680987.1	22-APR-2013	342	Austria:Tirol	secondary	trnL-trnF	46.9527320950398	10.8547834845691	0.000508517670989067
+Leucanthemum_ircutianum	HE680986.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	49.4892908439258	10.904459261366	0.000508517670989067
+Leucanthemum_ircutianum	HE680985.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	49.4284023182206	11.0438235050706	0.000508517670989067
+Leucanthemum_ircutianum	HE680984.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	49.0502373856487	11.3491664472912	0.000508517670989067

@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Schizachne_purpurascens	MF597036.1	28-FEB-2018	603	Canada: British Columbia, Seely Lake Provincial Park, W of Hazelton along Hwy. 16.	primary	rbcL	54.7915292336973	-126.370506502167	0.0021046914745071
+Schizachne_purpurascens	MF597035.1	28-FEB-2018	603	Canada: Manitoba, Mary Jane Reservoir, ~ 10 km W of Manitou	primary	rbcL	49.9624477057683	-98.7156270019989	0.0021046914745071
+Schizachne_purpurascens	MF597034.1	28-FEB-2018	603	Canada: Manitoba, 3 miles South of Spruce Woods Provincial Park southern boundary on Hwy 5 towards Glenboro.	primary	rbcL	49.8041950415814	-98.1076205272786	0.0021046914745071
+Schizachne_purpurascens	MF597033.1	28-FEB-2018	603	Canada: Saskatchewan, Cypress Hills Provincial Park, near overlook (East Park).	primary	rbcL	50.1646816505564	-109.293840185056	0.0021046914745071
+Schizachne_purpurascens	MF597032.1	28-FEB-2018	603	Canada: Alberta, 30 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	rbcL	50.9312485929825	-115.030593639438	0.0021046914745071
+Schizachne_purpurascens	MG227967.1	23-JAN-2018	603	Canada: Saskatchewan, Cypress Hills Provincial Park, near overlook (East Park).	primary	rbcL	49.0383497739284	-109.807019695141	0.0021046914745071
+Schizachne_purpurascens	MG227571.1	23-JAN-2018	603	Canada: Manitoba, Mary Jane Reservoir, ~ 10 km W of Manitou	primary	rbcL	49.6747226420028	-99.2656812890646	0.0021046914745071
+Schizachne_purpurascens	MG227226.1	23-JAN-2018	603	Canada: Manitoba, 3 miles South of Spruce Woods Provincial Park southern boundary on Hwy 5 towards Glenboro.	primary	rbcL	49.4401986598595	-99.3173151393392	0.0021046914745071
+Schizachne_purpurascens	MG226507.1	23-JAN-2018	603	Canada: Alberta, 30 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	rbcL	50.7671526365383	-113.686782456952	0.0021046914745071
+Schizachne_purpurascens	MG226298.1	23-JAN-2018	603	Canada: British Columbia, Seely Lake Provincial Park, W of Hazelton along Hwy. 16.	primary	rbcL	55.3198076162526	-126.450525512527	0.0021046914745071
+Schizachne_purpurascens	HQ590262.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., Sugar bush with sap lines	primary	rbcL	44.036	-79.518	0.00209052219921785
+Schizachne_purpurascens	KJ593680.1	17-MAR-2015	551	USA: Wisconsin, Laona	primary	rbcL	45.555	-88.796	0.0020174521989404
+Schizachne_purpurascens	KJ841556.1	04-NOV-2014	545	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Burned Hill on Mont St. Hilaire	primary	rbcL	45.542	-73.166	0.00194913180293247
+Schizachne_purpurascens	KF977469.1	05-APR-2014	587	USA: Dairymen's Club near Boulder Junction, Wisconsin	primary	rbcL	46.15	-89.68	0.0285641212199805
+Schizachne_purpurascens	MG227070.1	23-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0.00201288244766506
+Schizachne_purpurascens	MG226949.1	23-JAN-2018	552	Canada: Alberta, SW Alberta.	secondary	rbcL	53.3380125	-113.6200976	0.00201288244766506
+Schizachne_purpurascens	MG226800.1	23-JAN-2018	552	Canada: Ontario, Kenora District, Dryden	secondary	rbcL	49.785698	-92.835846	0.00201288244766506
+Schizachne_purpurascens	MG226740.1	23-JAN-2018	552	Canada: Ontario, Thunder Bay District, Falling Snow	secondary	rbcL	48.1680407	-89.7821753	0.0104131762183349
+Schizachne_purpurascens	KJ593679.1	17-MAR-2015	553	USA: Wisconsin, Lakewood	secondary	rbcL	45.300694	-88.524174	0.00201015249859499

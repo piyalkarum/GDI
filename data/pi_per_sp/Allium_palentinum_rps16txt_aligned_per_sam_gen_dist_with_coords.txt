@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_palentinum	OM032831.1	08-MAR-2022	860	Spain: Leon, Marana, valle de Valverde	secondary	rps16	42.5989995	-5.5682413	0
+Allium_palentinum	OM032829.1	08-MAR-2022	860	Spain: Palencia, ladera N del Espiguete	secondary	rps16	42.0108856	-4.5328735	0
+Allium_palentinum	OM032828.1	08-MAR-2022	860	Spain: Velilla del Rio Carrion	secondary	rps16	42.1078013674536	-5.45046211219488	0
+Allium_palentinum	OM032830.1	08-MAR-2022	860	Spain	secondary	rps16	42.5965497419676	-5.71688721003535	0

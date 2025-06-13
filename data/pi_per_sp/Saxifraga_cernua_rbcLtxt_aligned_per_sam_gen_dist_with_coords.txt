@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_cernua	MZ359342.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Saxifraga_cernua	MG249722.1	21-JAN-2018	552	Canada: Yukon Territory, Mount Sedgwick	primary	rbcL	68.858	-139.153	0
+Saxifraga_cernua	MG248021.1	21-JAN-2018	552	Canada: Yukon Territory, Printer's Pass, Ruby Mountains	primary	rbcL	61.191	-138.34	0
+Saxifraga_cernua	KT960658.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.7572481899251	-17.8270601540493	0
+Saxifraga_cernua	KT960536.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.9005439031706	-22.1456589743632	0
+Saxifraga_cernua	KT960462.1	13-DEC-2015	530	Greenland: NE, Zackenberg	primary	rbcL	74.070387535693	-23.1134412975683	0
+Saxifraga_cernua	KC484027.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Small cliff south of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	rbcL	68.703	-112.653	0
+Saxifraga_cernua	KC484026.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Scoresby Bay	primary	rbcL	79.867	-71.5333	0
+Saxifraga_cernua	KC484025.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island, McCormick Inlet, ca. 10 km SW of head of inlet at river delta	primary	rbcL	75.79	-112.44	0
+Saxifraga_cernua	KC484024.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.906	-109.597	0
+Saxifraga_cernua	KC484023.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Upper slope of Lookout Hill	primary	rbcL	68.689	-122.283	0
+Saxifraga_cernua	KC484022.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Aulavik National Park	primary	rbcL	73.45	-119.8	0
+Saxifraga_cernua	KC484021.1	25-OCT-2013	522	Canada: Nunavut, Axel Heiberg Island, Bukken River headwaters	primary	rbcL	80.517	-92.05	0
+Saxifraga_cernua	KC484020.1	25-OCT-2013	551	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. The Bluff, approximately 6 km NW of Sanikiluaq, halfway up west peninsula	primary	rbcL	56.647	-79.364	0
+Saxifraga_cernua	KC484019.1	25-OCT-2013	552	Canada: Nunavut, Cornwallis Island, Resolute Bay	primary	rbcL	74.68	-94.83	0
+Saxifraga_cernua	KC484018.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.247	-116.513	0
+Saxifraga_cernua	KC484017.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	rbcL	76.56	-118.88	0
+Saxifraga_cernua	MK925398.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4779859937879	-3.30837716160681	0
+Saxifraga_cernua	MK925282.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0669913011937	-4.06996393322306	0
+Saxifraga_cernua	MK925100.1	14-JAN-2020	542	Russia	secondary	rbcL	64.6863136	97.7453061	0
+Saxifraga_cernua	MK924804.1	14-JAN-2020	542	Svalbard	secondary	rbcL	78.7198519	20.3493328	0

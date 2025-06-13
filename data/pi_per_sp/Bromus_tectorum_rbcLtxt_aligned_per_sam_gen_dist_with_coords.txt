@@ -1,0 +1,26 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_tectorum	OR738153.1	13-NOV-2023	542	Kazakhstan: Mangistau region	primary	rbcL	43.50595	51.30181	0.0739233492128391
+Bromus_tectorum	OQ832148.1	15-AUG-2023	553	USA: CMR Wildlife Refuge	primary	rbcL	47.6693	-107.6683	0.0739452413571554
+Bromus_tectorum	MF596662.1	28-FEB-2018	603	Canada: British Columbia, Along edge of University of British Columbia Biological Sciences building	primary	rbcL	52.2817833691812	-123.080728206371	0.0737128409304807
+Bromus_tectorum	MF596661.1	28-FEB-2018	603	Canada: British Columbia, Richmond, London Farm, Gilbert Beach, just E of London's Landing. Saltwater marsh.	primary	rbcL	49.8053331159837	-122.88066550622	0.0737128409304807
+Bromus_tectorum	MF596660.1	28-FEB-2018	603	Canada: British Columbia, 1.9 km up Stemwinder Mountain Road. Ponderosa pine glade with Pinus ponderosa, Selaginella, Pseudotsuga, and Achillea millefolium.	primary	rbcL	49.9974008071497	-121.886105231053	0.0737128409304807
+Bromus_tectorum	MF596659.1	28-FEB-2018	603	Canada: British Columbia, Kuskanook Rest Area, Kuskanook Harbour Society. Gravel around edge of lake and edge of mixed woods.	primary	rbcL	50.0238589586933	-115.891220964691	0.0737128409304807
+Bromus_tectorum	MF596658.1	28-FEB-2018	603	Canada: British Columbia, Ladner, S side of Canoe Passage, W terminus of River Road. Saltwater marsh.	primary	rbcL	49.6473396731686	-123.006678147123	0.0737128409304807
+Bromus_tectorum	MF596657.1	28-FEB-2018	603	Canada: British Columbia, University of British Columbia, beside Biological Sciences Building in gravel.	primary	rbcL	50.1460595274765	-123.295938511294	0.0737128409304807
+Bromus_tectorum	MG228090.1	23-JAN-2018	603	Canada: British Columbia, 1.9 km up Stemwinder Mountain Road. Ponderosa pine glade with Pinus ponderosa, Selaginella, Pseudotsuga, and Achillea millefolium.	primary	rbcL	48.7249221572689	-122.512221401098	0.0737128409304807
+Bromus_tectorum	MG227987.1	23-JAN-2018	603	Canada: British Columbia, Ladner, S side of Canoe Passage, W terminus of River Road. Saltwater marsh.	primary	rbcL	48.7416963605973	-124.348470179949	0.0737128409304807
+Bromus_tectorum	MG227482.1	23-JAN-2018	603	Canada: British Columbia, Kuskanook Rest Area, Kuskanook Harbour Society. Gravel around edge of lake and edge of mixed woods.	primary	rbcL	49.5099832124914	-116.204939116842	0.0737128409304807
+Bromus_tectorum	MG226571.1	23-JAN-2018	603	Canada: British Columbia, Along edge of University of British Columbia Biological Sciences building	primary	rbcL	51.3237205331703	-122.085427432638	0.0737128409304807
+Bromus_tectorum	MG225894.1	23-JAN-2018	603	Canada: British Columbia, Richmond, London Farm, Gilbert Beach, just E of London's Landing. Saltwater marsh.	primary	rbcL	49.4348064458146	-122.075088334201	0.0737128409304807
+Bromus_tectorum	MG225707.1	23-JAN-2018	603	Canada: British Columbia, University of British Columbia, beside Biological Sciences Building in gravel.	primary	rbcL	49.6720293266915	-122.602693411744	0.0737128409304807
+Bromus_tectorum	MT931772.1	03-MAR-2023	568	China	secondary	rbcL	34.169902312853	104.688098220045	0.0738727723710886
+Bromus_tectorum	MT931771.1	03-MAR-2023	565	China	secondary	rbcL	35.1982267403919	105.620306065515	0.0739342611145757
+Bromus_tectorum	KX282614.1	28-MAY-2017	521	Kuwait	secondary	rbcL	29.4808704600732	48.8025014398381	0.0765892917224726
+Bromus_tectorum	KX282613.1	28-MAY-2017	521	Kuwait	secondary	rbcL	29.4068063572432	48.3395704905721	0.0765892917224726
+Bromus_tectorum	FJ898503.1	03-FEB-2011	1526	USA: Iowa	secondary	rbcL	41.9216734	-93.3122705	0.607700810588615
+Bromus_tectorum	GQ373395.1	27-OCT-2009	799	Afghanistan	secondary	rbcL	33.6067614899865	65.3394568798919	0.554897833300575
+Bromus_tectorum	KF712972.1	15-DEC-2013	1096	South Korea: Wando, Jeollanam-do	secondary	rbcL	34.34488865	126.691058840622	0.0733755357504315
+Bromus_tectorum	KF712971.1	15-DEC-2013	1096	South Korea: Wonju-si, Gangwon-do	secondary	rbcL	37.3420996	127.9197603	0.0733755357504315
+Bromus_tectorum	KF712970.1	15-DEC-2013	1096	South Korea: Uiwang-si, Gyeonggi-do	secondary	rbcL	37.3449082	126.9689861	0.0733755357504315
+Bromus_tectorum	HQ600441.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.076206677563495
+Bromus_tectorum	HQ221819.1	21-MAR-2011	787	Afghanistan	secondary	rbcL	34.550620711234	65.9192479734242	0.550663376113425

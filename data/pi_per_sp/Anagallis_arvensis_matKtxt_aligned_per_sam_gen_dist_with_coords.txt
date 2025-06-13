@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anagallis_arvensis	OL434921.1	14-NOV-2022	793	USA: Georgia	primary	matK	32.1174	-81.138	0.00018896447467876
+Anagallis_arvensis	JN895967.1	07-MAR-2012	773	United Kingdom: Cornwall, West with Scilly (1)	primary	matK	50.32	-5.23	9.8116169544741e-05
+Anagallis_arvensis	JN893965.1	07-MAR-2012	826	United Kingdom	primary	matK	53.19	-4.45	0.00019047619047619
+Anagallis_arvensis	OQ390211.1	24-MAY-2023	763	Peru	secondary	matK	-6.37718652293486	-75.0351403052305	9.86582478295185e-05
+Anagallis_arvensis	OQ390210.1	24-MAY-2023	763	Peru	secondary	matK	-7.59236997431629	-74.8388967840253	9.99000999000999e-05
+Anagallis_arvensis	OQ390209.1	24-MAY-2023	829	Peru	secondary	matK	-7.1702990981563	-74.3455209867592	0.000190985485103132
+Anagallis_arvensis	OQ289917.1	16-MAY-2023	789	Mexico: Puebla	secondary	matK	18.4734689353281	-97.9486300004393	0.000181061017562919
+Anagallis_arvensis	OQ289916.1	16-MAY-2023	792	Mexico: Puebla	secondary	matK	18.4068572048426	-98.4500713360047	0.00018037518037518
+Anagallis_arvensis	OQ289893.1	16-MAY-2023	789	Mexico: Puebla	secondary	matK	19.480050217392	-98.4010737754063	0.000181061017562919
+Anagallis_arvensis	KX299007.1	06-FEB-2017	858	Egypt	secondary	matK	26.2540493	29.2675469	0.000177683013503909
+Anagallis_arvensis	KJ204439.1	29-JAN-2015	822	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.000177683013503909
+Anagallis_arvensis	HM850730.1	23-JUL-2011	804	Portugal	secondary	matK	39.6621648	-8.1353519	0.00215508316137447
+Anagallis_arvensis	HE966876.1	18-SEP-2012	742	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.000192529842125529
+Anagallis_arvensis	JN895656.1	07-MAR-2012	771	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	9.87947046038332e-05
+Anagallis_arvensis	JN895655.1	07-MAR-2012	795	United Kingdom: Radnorshire	secondary	matK	52.4627049	-3.2561628	9.87947046038332e-05

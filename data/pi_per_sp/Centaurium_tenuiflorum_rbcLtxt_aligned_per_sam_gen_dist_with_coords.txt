@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurium_tenuiflorum	MK925102.1	14-JAN-2020	529	United Kingdom	secondary	rbcL	55.0691481648524	-2.09813652019165	0.000558035714285714
+Centaurium_tenuiflorum	MK925085.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4477510665842	-3.48348034722027	0.00054421768707483
+Centaurium_tenuiflorum	MK924877.1	14-JAN-2020	542	Greece	secondary	rbcL	43.2097838	-77.6930602	0.00054421768707483
+Centaurium_tenuiflorum	MK924739.1	14-JAN-2020	533	United Kingdom	secondary	rbcL	54.7709770208509	-3.63583083793403	0.000553709856035437
+Centaurium_tenuiflorum	MK924628.1	14-JAN-2020	511	Spain	secondary	rbcL	39.3260685	-4.8379791	0.000559127760693318
+Centaurium_tenuiflorum	MK924489.1	14-JAN-2020	529	United Kingdom	secondary	rbcL	54.2213340368674	-2.43250386022963	0.000558035714285714
+Centaurium_tenuiflorum	MK924438.1	14-JAN-2020	542	Cyprus	secondary	rbcL	34.9174159	32.8899027	0.00054421768707483
+Centaurium_tenuiflorum	HM849878.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00386156210652467

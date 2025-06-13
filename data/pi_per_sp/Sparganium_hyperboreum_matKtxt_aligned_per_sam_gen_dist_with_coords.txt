@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sparganium_hyperboreum	KC475921.1	25-OCT-2013	773	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Sheep Creek	primary	matK	69.161	-140.148	0.000467508181393174
+Sparganium_hyperboreum	KC475920.1	25-OCT-2013	773	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Mainland south of delta	primary	matK	68.868	-136.991	0.000467508181393174
+Sparganium_hyperboreum	KC475919.1	25-OCT-2013	773	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Mount Conybeare	primary	matK	69.44	-139.997	0.000467508181393174
+Sparganium_hyperboreum	LC004524.1	04-DEC-2015	713	Russia	secondary	matK	64.6863136	97.7453061	0.00140252454417952

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geranium_rotundifolium	JN893670.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.4	-3.26	0.00226131541725601
+Geranium_rotundifolium	MK925340.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.898353739085	-3.9471235644476	0.00226131541725601
+Geranium_rotundifolium	MK925095.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.800582411287	-2.97783255601607	0.00226131541725601
+Geranium_rotundifolium	MK924510.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.418936333614	-4.23058457697544	0.00226131541725601
+Geranium_rotundifolium	JX913469.1	11-OCT-2013	1050	Andorra	secondary	rbcL	42.5407167	1.5732033	0.00257791507641753
+Geranium_rotundifolium	HG416999.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.0120825855497973
+Geranium_rotundifolium	HM850028.1	23-JUL-2011	714	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00660904687740677
+Geranium_rotundifolium	JN893651.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.1903214124731	-3.34670554079743	0.00226131541725601
+Geranium_rotundifolium	JN893650.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.0977035356634	-4.66894746303505	0.00226131541725601

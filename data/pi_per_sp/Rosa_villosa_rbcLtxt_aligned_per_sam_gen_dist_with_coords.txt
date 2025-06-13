@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_villosa	HE999628.1	06-JAN-2014	521	Switzerland	secondary	rbcL	45.926085363191	7.95980427313938	0.00319897632757518
+Rosa_villosa	HE999627.1	06-JAN-2014	521	Switzerland	secondary	rbcL	47.488133821991	7.77943804749338	0.00191938579654511
+Rosa_villosa	HE999626.1	06-JAN-2014	521	Switzerland	secondary	rbcL	46.7416897150085	9.22608079032785	0.00447856685860525
+Rosa_villosa	AJ628807.1	11-APR-2005	569	Germany:Mecklenburg-Vorpommern, Luebz	secondary	rbcL	53.4615326	12.0293514	0.00191938579654511

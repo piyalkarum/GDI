@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_suavis	FN400721.1	07-JAN-2010	481	France	secondary	trnS-trnG	45.7829407597742	1.70806623910398	0
+Viola_suavis	FN400720.1	07-JAN-2010	481	Bulgaria	secondary	trnS-trnG	46.7889169	23.6184909	0
+Viola_suavis	FN400719.1	07-JAN-2010	481	France	secondary	trnS-trnG	47.0066066739405	1.14947653183939	0
+Viola_suavis	FN400718.1	07-JAN-2010	481	Italy	secondary	trnS-trnG	42.5201250484689	11.5365350829503	0
+Viola_suavis	FN400717.1	07-JAN-2010	481	Italy	secondary	trnS-trnG	42.7956632920025	12.6912465140661	0
+Viola_suavis	FN400716.1	07-JAN-2010	481	Russia	secondary	trnS-trnG	64.6863136	97.7453061	0
+Viola_suavis	FN400715.1	07-JAN-2010	481	Spain	secondary	trnS-trnG	39.3260685	-4.8379791	0

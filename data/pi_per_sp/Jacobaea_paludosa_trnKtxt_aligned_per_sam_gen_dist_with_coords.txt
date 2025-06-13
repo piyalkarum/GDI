@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_paludosa	JX895034.1	19-DEC-2012	431	Latvia: pr. Daugavpils	secondary	trnK	54.9970227820766	26.4106099492753	0.335884353741497
+Jacobaea_paludosa	JX894962.1	19-DEC-2012	472	Latvia: pr. Daugavpils	secondary	trnK	55.7573459222956	25.4188411247206	0.336446442983973
+Jacobaea_paludosa	JX895031.1	19-DEC-2012	431	Russia	secondary	trnK	54.3821070095603	44.4045399161294	0.335884353741497
+Jacobaea_paludosa	JX894959.1	19-DEC-2012	472	Russia	secondary	trnK	54.1626739077076	46.3302067692655	0.338147123256082

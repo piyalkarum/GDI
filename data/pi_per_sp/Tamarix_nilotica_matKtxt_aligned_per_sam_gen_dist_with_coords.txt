@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_nilotica	OM039339.1	19-JUN-2022	797	United Arab Emirates: Umm Al-Quwain	primary	matK	25.5139	55.547588	0.0044671539753507
+Tamarix_nilotica	MZ563169.1	24-APR-2022	695	Greece: Crete, Chania, Paleochora beach	primary	matK	35.223	23.67	0.00098046905639658
+Tamarix_nilotica	MZ563168.1	24-APR-2022	695	Greece: Crete, Heraklion, near Dermatos	primary	matK	34.979	25.335	0.00098046905639658
+Tamarix_nilotica	MZ563167.1	24-APR-2022	695	Greece: Crete, Lassithi, Kalo Nero	primary	matK	35.014	26.046	0.00098046905639658
+Tamarix_nilotica	MZ563166.1	24-APR-2022	695	Greece: Crete, Heraklion, Aposelemis	primary	matK	35.33	25.327	0.00098046905639658
+Tamarix_nilotica	MZ563165.1	24-APR-2022	695	Greece: Crete, Heraklion, near Dermatos	primary	matK	34.979	25.324	0.00098046905639658
+Tamarix_nilotica	MZ563164.1	24-APR-2022	695	Greece: Crete, Lassithi, Xerokambos	primary	matK	35.051	26.232	0.00098046905639658
+Tamarix_nilotica	KX758466.1	29-AUG-2017	450	Egypt	secondary	matK	26.2540493	29.2675469	0.00268550163287005

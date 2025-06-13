@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_bulbosa	AH015559.2	31-DEC-2007	1730	USA	secondary	trnL-trnF	40.497167432078	-99.7434231998454	0.014673478551697
+Poa_bulbosa	AH015557.3	31-DEC-2007	1910	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.0212452936996729
+Poa_bulbosa	EU792472.1	11-MAY-2009	1723	USA	secondary	trnL-trnF	39.5250330038622	-100.082088169284	0.0153130649301814
+Poa_bulbosa	AY504637.1	13-SEP-2004	888	Poland	secondary	trnL-trnF	52.215933	19.134422	0.0124950035359592

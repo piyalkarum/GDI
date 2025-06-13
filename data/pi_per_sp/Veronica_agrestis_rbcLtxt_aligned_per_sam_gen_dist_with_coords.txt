@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_agrestis	OL434827.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1174	-81.138	0.0214362668448229
+Veronica_agrestis	MG223009.1	26-DEC-2017	552	Canada: Guelph Arbo.	primary	rbcL	43.7432258886822	-80.2736553799632	0.0113086486984297
+Veronica_agrestis	MG221814.1	26-DEC-2017	552	Canada: Guelph lake	primary	rbcL	43.8573859417887	-80.1159893190376	0.00975313932360753
+Veronica_agrestis	JN891674.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.14	-4.61	0.00743440719329295
+Veronica_agrestis	HM850446.1	23-JUL-2011	1308	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0116027007818053
+Veronica_agrestis	JN893551.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.6317899487312	-2.08066971712545	0.00743440719329295
+Veronica_agrestis	JN891832.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7651898762436	-1.47452968071232	0.00743440719329295

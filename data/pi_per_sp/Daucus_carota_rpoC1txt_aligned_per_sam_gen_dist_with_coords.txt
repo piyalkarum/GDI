@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daucus_carota	HQ593968.1	10-NOV-2011	487	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Front lawn of Willow Ridge	primary	rpoC1	44.024	-79.537	0.555312954876274
+Daucus_carota	KT347801.1	13-JUL-2016	1055	Portugal: Cabo Sardao	secondary	rpoC1	37.5986309	-8.8161381	0.139292318704308
+Daucus_carota	KT347800.1	13-JUL-2016	1054	France: Bretagne, Morbihan, Belle-Ile, l'Apothicairerie	secondary	rpoC1	47.0025696	1.6807506	0.139120671511315
+Daucus_carota	KT347799.1	13-JUL-2016	1058	France: Corsica, Santa Manza	secondary	rpoC1	41.4039599	9.2273408	0.140381643323045
+Daucus_carota	KT347798.1	13-JUL-2016	1055	France: Corsica, Porto	secondary	rpoC1	42.2676535	8.6941493	0.139362822538178

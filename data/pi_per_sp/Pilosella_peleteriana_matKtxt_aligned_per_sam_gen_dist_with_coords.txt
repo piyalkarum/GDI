@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pilosella_peleteriana	JN893940.1	07-MAR-2012	899	United Kingdom: Montgomeryshire	primary	matK	52.72	-3.05	0.00151687523701176
+Pilosella_peleteriana	JN896097.1	07-MAR-2012	916	United Kingdom: Montgomeryshire	secondary	matK	52.003825946502	-3.4251960722082	0.00297247931270317
+Pilosella_peleteriana	JN894562.1	07-MAR-2012	951	United Kingdom: Montgomeryshire	secondary	matK	52.6961549746819	-2.17353330122718	0.00145560407569141
+Pilosella_peleteriana	AJ633186.1	10-OCT-2004	979	Switzerland	secondary	matK	46.7985624	8.2319736	0

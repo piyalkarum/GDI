@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daucus_involucratus	MN260980.1	25-AUG-2020	273	Turkey:Izmir	primary	nad4	37.9369744572147	26.8249821550708	0.234432234432234
+Daucus_involucratus	MN260979.1	25-AUG-2020	273	Greece:Peloponnese	primary	nad4	38.4867697762014	22.7432001649973	0.234432234432234
+Daucus_involucratus	MN260943.1	25-AUG-2020	8015	Turkey:Izmir	primary	nad4	37.9321393385917	27.3013278058274	0.234515422186997
+Daucus_involucratus	MN260942.1	25-AUG-2020	8020	Greece:Peloponnese	primary	nad4	37.5864139379359	23.7711725719665	0.234515422186997

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_mugo	MG215199.1	24-JAN-2018	552	Canada: British Columbia, Greater Vancouver Regional Dist, Vancouver, UBC Botanical Garden Alpine Garden, European section	primary	rbcL	49.25	-123.233	0
+Pinus_mugo	FR831923.1	25-MAR-2011	701	Italy:Trentino	secondary	rbcL	46.1511502402214	10.0415152306933	0
+Pinus_mugo	FR831922.1	25-MAR-2011	701	Italy:Piedmont	secondary	rbcL	45.060735	7.923549	0
+Pinus_mugo	MG215120.1	24-JAN-2018	552	USA: Washington, Gotelli Conifer Area, bed #60	secondary	rbcL	45.3658443	15.6575209	0
+Pinus_mugo	FR831921.1	25-MAR-2011	701	Italy:Trentino	secondary	rbcL	46.3512987021556	10.6111610284959	0
+Pinus_mugo	FR831920.1	25-MAR-2011	701	Italy:Friuli Venezia Giulia	secondary	rbcL	46.151042	13.055904	0
+Pinus_mugo	FR831919.1	25-MAR-2011	701	Italy:Abruzzo	secondary	rbcL	42.227681	13.854983	0

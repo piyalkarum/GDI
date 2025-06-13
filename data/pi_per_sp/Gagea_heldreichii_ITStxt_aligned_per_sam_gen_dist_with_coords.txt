@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_heldreichii	HE649543.1	04-FEB-2013	615	Greece	secondary	ITS	43.5634014475926	-78.6036487753479	0.0103485838779956
+Gagea_heldreichii	HE649542.1	04-FEB-2013	615	Greece	secondary	ITS	43.4068247786062	-76.8255390169934	0.0103485838779956
+Gagea_heldreichii	HE649541.1	04-FEB-2013	615	Greece	secondary	ITS	43.580427736861	-76.7695386000731	0.0103485838779956
+Gagea_heldreichii	AM265534.1	23-MAY-2006	673	Ukraine:Crimea	secondary	ITS	45.6856952	33.9329411	0.0310457516339869

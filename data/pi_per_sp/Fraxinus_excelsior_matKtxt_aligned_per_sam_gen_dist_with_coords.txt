@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fraxinus_excelsior	JN895188.1	07-MAR-2012	829	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.14	0
+Fraxinus_excelsior	KJ204481.1	29-JAN-2015	777	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0
+Fraxinus_excelsior	JN894346.1	07-MAR-2012	785	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0
+Fraxinus_excelsior	JN893856.1	07-MAR-2012	821	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0
+Fraxinus_excelsior	AM933427.1	23-DEC-2010	1224	Switzerland:Lausanne	secondary	matK	46.5218269	6.6327025	0
+Fraxinus_excelsior	KP089085.1	15-MAR-2015	742	China	secondary	matK	39.9057136	116.3912972	0

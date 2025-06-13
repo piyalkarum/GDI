@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Muscari_neglectum	OP096332.1	01-MAR-2023	976	Greece	secondary	trnL-trnF	42.7809157828363	-78.1127993709403	0.000885478158205431
+Muscari_neglectum	OP096331.1	01-MAR-2023	955	Greece	secondary	trnL-trnF	43.525379180177	-77.932559511239	0.000885478158205431
+Muscari_neglectum	MW960336.1	21-AUG-2022	433	Iran	secondary	trnL-trnF	32.6475314	54.5643516	0
+Muscari_neglectum	MH152646.1	22-MAY-2019	1521	Turkey	secondary	trnL-trnF	38.576945114819	34.4299089928665	0.00096401028277635
+Muscari_neglectum	JX090562.1	31-MAY-2013	847	Turkey	secondary	trnL-trnF	39.2536761700561	35.2626794696901	0.00273496659918721

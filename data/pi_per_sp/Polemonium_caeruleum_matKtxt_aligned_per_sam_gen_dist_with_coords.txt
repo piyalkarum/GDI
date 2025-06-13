@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polemonium_caeruleum	LC760012.1	12-SEP-2023	1159	Japan:Yamanashi, Minami-alps	secondary	matK	35.6083617	138.4649893	0.0623310419445891
+Polemonium_caeruleum	MT918164.1	03-MAR-2023	783	China	secondary	matK	35.8215034520254	104.602719216497	0.0744229145874437
+Polemonium_caeruleum	MT918163.1	03-MAR-2023	784	China	secondary	matK	35.1055244571591	104.972940044546	0.0751932220516802
+Polemonium_caeruleum	LC548593.1	18-JUL-2020	698	Pakistan	secondary	matK	30.3308401	71.247499	0.28006825460217
+Polemonium_caeruleum	MK925824.1	14-JAN-2020	792	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.0740382201339119

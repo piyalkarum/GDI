@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eleocharis_ovata	MG227659.1	23-JAN-2018	552	Canada: Dorset, ON	primary	rbcL	45.233	-78.883	0
+Eleocharis_ovata	MG226299.1	23-JAN-2018	552	Canada: Frontenac Park, Bedford Twp., Frontenac Co., ON	primary	rbcL	44.6667	-76.7	0
+Eleocharis_ovata	MG225663.1	23-JAN-2018	291	Canada: British Columbia, Kelowna, Ellison Lake	primary	rbcL	49.979	-119.393	0
+Eleocharis_ovata	KJ841294.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	rbcL	45.548	-73.152	0
+Eleocharis_ovata	JX644677.1	13-NOV-2012	1295	China: Jilin	secondary	rbcL	43.7289674	126.1997366	0

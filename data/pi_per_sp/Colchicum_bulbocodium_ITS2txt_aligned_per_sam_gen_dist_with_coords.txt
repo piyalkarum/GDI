@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colchicum_bulbocodium	AM422384.1	11-FEB-2007	428	Ukraine:Shandra	secondary	ITS2	49.78112	31.164486	0
+Colchicum_bulbocodium	AM422383.1	11-FEB-2007	428	Romania:Cluj-Napoca	secondary	ITS2	46.769379	23.5899542	0
+Colchicum_bulbocodium	AM422381.1	11-FEB-2007	428	Hungary:Kelebia	secondary	ITS2	46.1971101	19.6071741	0
+Colchicum_bulbocodium	AM422378.1	11-FEB-2007	428	Hungary:Hosszupalyi	secondary	ITS2	47.39177	21.7335185	0
+Colchicum_bulbocodium	AM422377.1	11-FEB-2007	428	Hungary:Ujleta	secondary	ITS2	47.4624566	21.8767447	0
+Colchicum_bulbocodium	AM422376.1	11-FEB-2007	428	Hungary:Debrecen-Bank	secondary	ITS2	47.4746901	21.7350146	0
+Colchicum_bulbocodium	AM422375.1	11-FEB-2007	428	Hungary:Tura	secondary	ITS2	47.60935	19.5949442	0
+Colchicum_bulbocodium	AM422374.1	11-FEB-2007	428	Austria:Annenheim	secondary	ITS2	46.6599356	13.9007214	0
+Colchicum_bulbocodium	AM422372.1	11-FEB-2007	428	France:Seranon	secondary	ITS2	43.7742384	6.7041357	0

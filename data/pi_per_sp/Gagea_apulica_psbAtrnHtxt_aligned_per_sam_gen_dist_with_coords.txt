@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_apulica	HE649700.1	04-FEB-2013	281	Italy:Sicily, San Vito Lo Capo, Trapani	secondary	psbA-trnH	37.11745045	14.4401188071578	0
+Gagea_apulica	HE649699.1	04-FEB-2013	281	Italy:Sicily, Campobello di Mazara, Trapani	secondary	psbA-trnH	37.5753323	12.7226669	0
+Gagea_apulica	HE649698.1	04-FEB-2013	281	Italy	secondary	psbA-trnH	42.7176599179751	13.6461730291115	0
+Gagea_apulica	HE649697.1	04-FEB-2013	281	Italy	secondary	psbA-trnH	42.5186290074425	11.8907615933795	0
+Gagea_apulica	HE649696.1	04-FEB-2013	281	France	secondary	psbA-trnH	46.603354	1.8883335	0

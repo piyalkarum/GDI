@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arbutus_unedo	ON684495.1	21-AUG-2022	1428	Portugal: Vila Nova de Mil Fontes, Odemira, Beja	primary	rbcL	37.78416	-8.71611	0.0113095238095238
+Arbutus_unedo	MN662628.1	13-OCT-2020	482	Lebanon	secondary	rbcL	40.375713	-76.4626118	0.00138312586445367
+Arbutus_unedo	MN783754.1	20-SEP-2020	617	Spain	secondary	rbcL	39.3260685	-4.8379791	0.00559049615653389
+Arbutus_unedo	KM527347.1	15-SEP-2015	560	Croatia	secondary	rbcL	45.3658443	15.6575209	0.0182831458305114

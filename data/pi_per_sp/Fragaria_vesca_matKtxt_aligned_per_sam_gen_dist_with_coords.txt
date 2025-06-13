@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fragaria_vesca	KX677112.1	09-AUG-2017	769	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	matK	50.0449	-125.501	0.000487702561827009
+Fragaria_vesca	KX676949.1	09-AUG-2017	816	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, campsite along Tulameen River	primary	matK	49.4343	-121.013	0.000474910759496172
+Fragaria_vesca	KX676908.1	09-AUG-2017	769	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Loveland Bay Forest Service Road	primary	matK	50.0508	-125.371	0.000487702561827009
+Fragaria_vesca	KP642876.1	08-DEC-2015	740	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.892	-78.146	0.00136449239445663
+Fragaria_vesca	MG221050.1	21-JAN-2018	782	Canada: Quebec, Montreal, Island of Montreal, Lieu vacant Ponner	primary	matK	45.461	-73.785	0.000469605056387185
+Fragaria_vesca	MG220731.1	21-JAN-2018	764	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Flowerpot Island, FFNMP	primary	matK	45.303	-81.621	0.000489811805104477
+Fragaria_vesca	KJ840919.1	23-SEP-2014	749	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Across road from Chalet complex	primary	matK	45.537	-73.153	0.000320613362302406
+Fragaria_vesca	KJ840918.1	23-SEP-2014	800	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Slope behind research station	primary	matK	45.535	-73.149	0.000462660585150799
+Fragaria_vesca	JN895322.1	07-MAR-2012	796	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.14	0.000489811805104477
+Fragaria_vesca	JN894503.1	07-MAR-2012	776	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.000486376134170816
+Fragaria_vesca	MT930118.1	03-MAR-2023	762	China	secondary	matK	29.4319828380352	-94.1311998033325	0.000489811805104477
+Fragaria_vesca	MT930117.1	03-MAR-2023	786	China	secondary	matK	29.600249685013	-94.8646622161886	0.000489811805104477
+Fragaria_vesca	HQ619833.1	26-DEC-2010	825	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.000476971944112562
+Fragaria_vesca	MH116653.1	17-AUG-2018	692	China	secondary	matK	29.9970717329558	-95.1875699793102	0.00170010200612037
+Fragaria_vesca	MH116652.1	17-AUG-2018	692	China	secondary	matK	30.0254803861812	-93.481415277066	0.000340020401224073
+Fragaria_vesca	HM850686.1	23-JUL-2011	801	Portugal	secondary	matK	39.6621648	-8.1353519	0.0052589286418387
+Fragaria_vesca	JN895159.1	07-MAR-2012	787	United Kingdom: Breconshire (42)	secondary	matK	52.9875065	-1.1773256	0.00048160433153344
+Fragaria_vesca	JN894109.1	07-MAR-2012	810	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000378755559291111

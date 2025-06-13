@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oplismenus_undulatifolius	OM837705.1	09-MAR-2023	589	Indonesia	primary	rbcL	-1.95	103.25	0.00511958810321882
+Oplismenus_undulatifolius	LC413479.1	31-JUL-2018	262	Japan:Aichi, Chita	secondary	rbcL	34.970089	136.860738	0
+Oplismenus_undulatifolius	KF163524.1	28-OCT-2013	1290	South Korea	secondary	rbcL	36.5917556330191	126.71331158438	0.00177397473531819
+Oplismenus_undulatifolius	KF163523.1	28-OCT-2013	1290	South Korea	secondary	rbcL	36.5906072996317	127.34586707466	0.00177397473531819
+Oplismenus_undulatifolius	KC164322.1	26-FEB-2013	1290	South Korea: Anyang-si, Gyeonggi-do	secondary	rbcL	37.3938528	126.9570605	0.00177397473531819
+Oplismenus_undulatifolius	HQ600409.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.0688664569177	127.57591232958	0.00227849292965013
+Oplismenus_undulatifolius	HQ600388.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.5424252635961	127.590456170272	0.00227849292965013
+Oplismenus_undulatifolius	AB729104.1	19-JUN-2012	504	Japan:Kyoto, Kyoto, Mt. Yoshida	secondary	rbcL	35.021921	135.784011	0
+Oplismenus_undulatifolius	AM849360.1	09-JAN-2008	1398	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.00212185471569902

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_charidemi	EU717979.1	31-MAY-2009	1255	Spain: Almeria, C. Gata, Vela Blanca	secondary	trnK	37.0665651308579	-3.28569780573301	0.000796812749003984
+Antirrhinum_charidemi	EU717978.1	31-MAY-2009	1267	Spain: Almeria, C. Gata, Santa Cruz	secondary	trnK	36.670843378057	-2.89693140417255	0.000113830392714855
+Antirrhinum_charidemi	EU717977.1	31-MAY-2009	1255	Spain: Almeria, C. Gata, Sabinal	secondary	trnK	37.6540583911325	-2.31479644757449	0.000113830392714855
+Antirrhinum_charidemi	EU717976.1	31-MAY-2009	1255	Spain: Almeria, C. Gata, Vela Blanca	secondary	trnK	36.4533480591848	-1.54819376351705	0.000113830392714855
+Antirrhinum_charidemi	EU717975.1	31-MAY-2009	1267	Spain: Almeria, C. Gata, Santa Cruz	secondary	trnK	36.3000642355859	-2.32922874021157	0.000113830392714855
+Antirrhinum_charidemi	EU717974.1	31-MAY-2009	1255	Spain: Almeria, C. Gata, Sabinal	secondary	trnK	37.4898979278198	-3.05331206318051	0.000113830392714855
+Antirrhinum_charidemi	EU717973.1	31-MAY-2009	1255	Spain: Almeria, C. Gata, La Lobera	secondary	trnK	37.3431699924478	-1.54126216691202	0.000113830392714855
+Antirrhinum_charidemi	HM152972.1	24-AUG-2010	1255	Spain: Almeria, barranco del Sabinar	secondary	trnK	37.410070260518	-1.91929799451062	0.000113830392714855

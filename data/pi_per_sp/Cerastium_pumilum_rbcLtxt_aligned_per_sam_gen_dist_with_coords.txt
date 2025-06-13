@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_pumilum	MG246629.1	21-JAN-2018	552	Canada: Ontario, Niagara County, St. Catherines, QEW highway exit at Hwy. 44 (Lake Street Exit 46)	primary	rbcL	43.179	-79.252	0
+Cerastium_pumilum	JN892589.1	07-MAR-2012	458	United Kingdom: Caernarfonshire	primary	rbcL	53.33	-3.85	0
+Cerastium_pumilum	JN892005.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0
+Cerastium_pumilum	JN892000.1	07-MAR-2012	542	United Kingdom: Surrey	secondary	rbcL	51.2715316	-0.3414524	0

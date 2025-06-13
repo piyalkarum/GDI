@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lapsana_communis	KP643857.1	08-DEC-2015	525	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.5823429082857	-78.1297174175571	0.000766779392499162
+Lapsana_communis	KP643762.1	08-DEC-2015	524	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.7859263098975	-77.6085354297567	0.000768252104129967
+Lapsana_communis	KP643651.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.4487427393109	-77.5811630542563	0.000738983740792059
+Lapsana_communis	MG223354.1	26-DEC-2017	552	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Brackenbrae Trail	primary	rbcL	43.295	-79.8693	0.000739202136717665
+Lapsana_communis	MG221815.1	26-DEC-2017	527	Canada: British Columbia, Vancouver Island, Victoria, Fernwood	primary	rbcL	48.437	-123.343	0.000644745325596389
+Lapsana_communis	MG221740.1	26-DEC-2017	553	Canada: Ontario, Wellington, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	0.000738983740792059
+Lapsana_communis	HQ590151.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, Compost area north of Dufferin St. driveway	primary	rbcL	44.031	-79.53	0.00210249915750756
+Lapsana_communis	KT695556.1	29-SEP-2015	516	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.2754792895129	-81.2145826144266	0.000647249190938511
+Lapsana_communis	KT695433.1	29-SEP-2015	529	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.7146188346685	-79.9819923408378	0.000760944579470099
+Lapsana_communis	KJ841373.1	04-NOV-2014	528	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 70 m south of chalets	primary	rbcL	45.546	-73.1531	0.000761183261183261
+Lapsana_communis	JN893425.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.52	-3.21	0.000742579916505485
+Lapsana_communis	KJ204363.2	29-JAN-2015	539	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.0095520875977624
+Lapsana_communis	HM850099.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000633713561470215
+Lapsana_communis	JN892070.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000742579916505485
+Lapsana_communis	JN890756.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.000742579916505485
+Lapsana_communis	JN890755.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000742579916505485

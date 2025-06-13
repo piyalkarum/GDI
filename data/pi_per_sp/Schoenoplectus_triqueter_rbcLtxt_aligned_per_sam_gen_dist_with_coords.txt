@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Schoenoplectus_triqueter	LC219117.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3855	119.9648	0
+Schoenoplectus_triqueter	LC219059.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3231	119.9455	0
+Schoenoplectus_triqueter	LC219036.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.2999	119.9471	0
+Schoenoplectus_triqueter	LC219023.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.2821	119.9447	0
+Schoenoplectus_triqueter	LC219017.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.2829	119.9448	0
+Schoenoplectus_triqueter	LC219010.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3992	119.9725	0
+Schoenoplectus_triqueter	LC218951.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4311	120.0503	0
+Schoenoplectus_triqueter	LC218911.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.596	120.0595	0
+Schoenoplectus_triqueter	LC655245.1	20-APR-2022	553	Japan:Aichi, Nissin	secondary	rbcL	35.1447924	137.0254267	0
+Schoenoplectus_triqueter	LC655244.1	20-APR-2022	553	Japan:Aichi, Nagoya	secondary	rbcL	35.1851045	136.8998438	0
+Schoenoplectus_triqueter	MN205065.1	30-NOV-2021	724	China	secondary	rbcL	35.000074	104.999927	0
+Schoenoplectus_triqueter	MK925531.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3523924875631	-2.33184635730077	0
+Schoenoplectus_triqueter	MK924872.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.8970867460968	-3.55152322891719	0
+Schoenoplectus_triqueter	GQ130367.1	15-JUN-2009	1293	South Korea	secondary	rbcL	36.638392	127.6961188	0
+Schoenoplectus_triqueter	AB369960.1	03-APR-2014	1408	Japan:Okayama, Maniwa	secondary	rbcL	35.075681	133.7532375	0

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_lusitanica	FM212704.1	27-APR-2009	643	Spain:Huelva	primary	5.8S rRNA	36.7454138041613	-6.52655822017313	0.00355476560764275
+Campanula_lusitanica	FM212703.1	27-APR-2009	699	Spain:Huelva	primary	5.8S rRNA	37.6286869166541	-6.0937955791724	0.000853092890818413
+Campanula_lusitanica	FM212702.1	27-APR-2009	699	Spain:Sevilla	primary	5.8S rRNA	37.16	-6.03	0.00209713371595376
+Campanula_lusitanica	FM212701.1	27-APR-2009	699	Spain:Malaga	primary	5.8S rRNA	36.33	-5.16	0.00209713371595376
+Campanula_lusitanica	FM212700.1	27-APR-2009	699	Spain:Malaga	primary	5.8S rRNA	36.9587035831693	-3.31805046115665	0.000853092890818413
+Campanula_lusitanica	FM212699.1	27-APR-2009	699	Spain:Malaga	primary	5.8S rRNA	37.3621354449309	-4.16146332220578	0.000853092890818413
+Campanula_lusitanica	FM212698.1	27-APR-2009	699	Spain:Sevilla	primary	5.8S rRNA	37.31	-6.09	0.000853092890818413
+Campanula_lusitanica	FM212697.1	27-APR-2009	699	Spain:Jaen	primary	5.8S rRNA	38.1	-3.46	0.000853092890818413

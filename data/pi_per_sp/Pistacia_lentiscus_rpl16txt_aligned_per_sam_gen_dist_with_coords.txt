@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pistacia_lentiscus	KT981940.1	08-APR-2016	831	Turkey: Izmir	primary	rpl16	37.69	27.16	0.0046351923296641
+Pistacia_lentiscus	KT981939.1	08-APR-2016	832	Tunisia: Tabarka	primary	rpl16	36.84	8.71	0.00407532406650827
+Pistacia_lentiscus	KT981938.1	08-APR-2016	832	Morocco: Central Rif	primary	rpl16	34.96	-4.33	0.00462983527778149
+Pistacia_lentiscus	KT981937.1	08-APR-2016	832	Morocco: Tanger	primary	rpl16	35.55	-5.57	0.00490753591649296
+Pistacia_lentiscus	KT981936.1	08-APR-2016	832	Libya: Cyrenaica	primary	rpl16	32.86	22.29	0.00389019030736729
+Pistacia_lentiscus	KT981935.1	08-APR-2016	812	Libya: Cyrenaica	primary	rpl16	31.835729242095	21.0580998950746	0.00397913027063926
+Pistacia_lentiscus	KT981934.1	08-APR-2016	832	Libya: Cyrenaica	primary	rpl16	32.6997576709485	19.9525879168226	0.00796801412246475
+Pistacia_lentiscus	KT981933.1	08-APR-2016	832	Spain: Cadiz	primary	rpl16	36.18	-5.96	0.00870765909287895
+Pistacia_lentiscus	KT981932.1	08-APR-2016	832	Algeria: Chlef	primary	rpl16	36.9144239008462	1.13043511249982	0.00388780181704681
+Pistacia_lentiscus	KT981931.1	08-APR-2016	832	Algeria: Chlef	primary	rpl16	35.6663532886258	0.567115200314041	0.00426023530911182
+Pistacia_lentiscus	KT981930.1	08-APR-2016	832	Algeria: Oran	primary	rpl16	35.263906936644	-0.323136948437433	0.00407293557618779
+Pistacia_lentiscus	KT981929.1	08-APR-2016	832	Algeria: Oran	primary	rpl16	36.2077189223693	-0.854354246609005	0.00472023618356893
+Pistacia_lentiscus	KT981928.1	08-APR-2016	832	Algeria: El Tarf	primary	rpl16	36.86	8.44	0.00314837936317003
+Pistacia_lentiscus	KT981927.1	08-APR-2016	832	Cyprus: Lamaka	primary	rpl16	34.9	33.31	0.00388802433358424

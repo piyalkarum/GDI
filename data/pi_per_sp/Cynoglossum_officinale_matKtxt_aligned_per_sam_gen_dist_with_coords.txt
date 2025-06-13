@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cynoglossum_officinale	HQ593260.1	09-NOV-2011	808	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, NE end of racing track at edge of forest	primary	matK	44.034	-79.539	0.00101394467804989
+Cynoglossum_officinale	JN895112.1	07-MAR-2012	772	United Kingdom: Glamorgan (41)	primary	matK	51.63	-4.24	0.00103761873920553
+Cynoglossum_officinale	JN894638.1	07-MAR-2012	768	United Kingdom: Glamorgan	primary	matK	51.53	-3.75	0.00104862967914438
+Cynoglossum_officinale	MT917551.1	03-MAR-2023	768	China	secondary	matK	35.000074	104.999927	0.00185401457765271
+Cynoglossum_officinale	EU599664.1	31-MAR-2009	1571	Turkey	secondary	matK	38.9597594	34.9249653	0.00382669320341373
+Cynoglossum_officinale	JN895550.1	07-MAR-2012	806	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00101801468466664

@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_simpliciuscula	MG228205.1	23-JAN-2018	663	Canada: Nunavut, Baffin Island, vicinity of Mary River	primary	rbcL	72.1847053789137	-82.3678726020637	0.00566775385953468
+Carex_simpliciuscula	MG226159.1	23-JAN-2018	552	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	rbcL	68.6155	-140.772	0.000752959843192124
+Carex_simpliciuscula	FJ548284.1	25-AUG-2009	663	Canada: Nunuavut, Baffin Island	primary	rbcL	72.1531026847393	-80.7055179508941	0.00566775385953468
+Carex_simpliciuscula	KT960618.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1331863659152	-19.5314455683714	0.000752959843192124
+Carex_simpliciuscula	KT960593.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.4044495181863	-21.7291527114329	0.000752959843192124
+Carex_simpliciuscula	KT960422.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	0.000752959843192124
+Carex_simpliciuscula	KC483068.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Baffin Island, Baffinland Iron Mines, Mary River project	primary	rbcL	71.5	-80.48	0.000752959843192124
+Carex_simpliciuscula	KC483067.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Melville Peninsula, District of Franklin. Melville Peninsula. Repulse Bay. About 500 m NNW of the settlement and 300 m N of the radio link towers	primary	rbcL	66.533	-86.25	0.000752959843192124
+Carex_simpliciuscula	KC483066.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East bank of Hornaday River	primary	rbcL	68.2417	-121.85	0.000752959843192124
+Carex_simpliciuscula	KC483065.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Croker Bay, Devon Island, SE side. Croker Bay, E side near entrance	primary	rbcL	74.533	-82.783	0.000752959843192124
+Carex_simpliciuscula	KC483064.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Johan Peninsula, Alexandra Fiord	primary	rbcL	78.883	-75.833	0.000752959843192124
+Carex_simpliciuscula	KC483063.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vicinity of Holman Island Airport, Uluhaktok	primary	rbcL	70.758	-117.79	0.000752959843192124
+Carex_simpliciuscula	JN965622.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 32 km E Churchill, Fort Churchill, Spaceport project, churchill area. Site 12. Beach ridge. Flat gravel area, sparsely colonized. Some small areas of seepage.	primary	rbcL	57.0827417716711	-93.8270945338331	0.000752959843192124
+Carex_simpliciuscula	JN965621.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, In gravel.	primary	rbcL	57.1958280810274	-90.7587360370992	0.00248415298949846
+Carex_simpliciuscula	JN965620.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	56.4562304655421	-92.0228721521162	0.000752959843192124
+Carex_simpliciuscula	JN965619.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	56.3288222363958	-92.6716904177167	0.000752959843192124
+Carex_simpliciuscula	MK924573.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8843752805166	-4.47269749570396	0.000769357157527213
+Carex_simpliciuscula	MK924431.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0240152097263	-2.26038876972281	0.000769357157527213
+Carex_simpliciuscula	MG227629.1	23-JAN-2018	552	USA: Oregon, Wallowa Co, Banks of seasonal tributary of Slick Rock Crk 10 arline mi S of Enterprise	secondary	rbcL	42.0147513	-89.3323279	0.000752959843192124

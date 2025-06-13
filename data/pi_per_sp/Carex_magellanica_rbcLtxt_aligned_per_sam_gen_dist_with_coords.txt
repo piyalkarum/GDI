@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_magellanica	JN965395.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 24 km E Churchill, Gordon Point, Tundra between Gordon Point and Polar Bear Point	primary	rbcL	58.787	-93.72	0.000245098039215686
+Carex_magellanica	JN893834.1	07-MAR-2012	538	United Kingdom: Cardiganshire	primary	rbcL	52.31	-3.75	0.0002465483234714
+Carex_magellanica	MW011009.1	27-JUL-2021	553	Canada: Quebec	secondary	rbcL	52.4760892	-71.8258668	0.000245098039215686
+Carex_magellanica	MG227829.1	23-JAN-2018	522	USA: Alaska, Seward Quad, Seward Quad, Kenai Penin, Resurrection Riv valley, approx 3 km NW of mouth of Placer Crk	secondary	rbcL	39.4703246	-86.6413912	0.000245098039215686
+Carex_magellanica	MG226851.1	23-JAN-2018	552	USA: Maine, Hancock Co, Schoodic Pt, far S end of Schoodic Pt in large open bog	secondary	rbcL	42.1925746	-76.0610361	0.000245098039215686
+Carex_magellanica	MG226846.1	23-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0.000245098039215686
+Carex_magellanica	MG226688.1	23-JAN-2018	510	Canada: Newfoundland and Labrador, Bonavista North Dist, Maladie Head Trail	secondary	rbcL	47.6235417	-57.6431700998735	0.0019622345979812
+Carex_magellanica	JN891209.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	51.8177763691069	-5.03538189548003	0.000245098039215686
+Carex_magellanica	JN891208.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	51.9041654038045	-2.77288630288775	0.000245098039215686

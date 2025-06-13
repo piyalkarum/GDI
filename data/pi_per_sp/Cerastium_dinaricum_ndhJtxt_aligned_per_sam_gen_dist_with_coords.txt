@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_dinaricum	MH487938.1	20-JAN-2022	2112	Montenegro	secondary	ndhJ	-29.500978684542	-51.8023876973353	0
+Cerastium_dinaricum	MH487937.1	20-JAN-2022	2112	Montenegro	secondary	ndhJ	-28.9228845223178	-51.8459046611842	0
+Cerastium_dinaricum	MH487936.1	20-JAN-2022	2112	Montenegro	secondary	ndhJ	-29.7199312024816	-50.9339029709503	0
+Cerastium_dinaricum	MH487935.1	20-JAN-2022	2112	Montenegro	secondary	ndhJ	-30.2544944910415	-50.7704923844163	0
+Cerastium_dinaricum	MH487934.1	20-JAN-2022	2112	Bosnia and Herzegovina	secondary	ndhJ	44.8331057989219	18.4924233085895	0
+Cerastium_dinaricum	MH487933.1	20-JAN-2022	2112	Montenegro	secondary	ndhJ	-30.5080705524636	-51.5576134003338	0
+Cerastium_dinaricum	MH487932.1	20-JAN-2022	2122	Bosnia and Herzegovina	secondary	ndhJ	44.2995319798946	17.0749666748148	0
+Cerastium_dinaricum	MH487931.1	20-JAN-2022	2116	Slovenia	secondary	ndhJ	46.749765319124	14.2276085355487	0
+Cerastium_dinaricum	MH487930.1	20-JAN-2022	2124	Croatia	secondary	ndhJ	44.8482639055103	15.5506534061696	0
+Cerastium_dinaricum	MH487929.1	20-JAN-2022	2132	Croatia	secondary	ndhJ	45.6237567958484	15.3442255935828	0
+Cerastium_dinaricum	MH487928.1	20-JAN-2022	2124	Croatia	secondary	ndhJ	44.7357309976799	16.0165970145735	0
+Cerastium_dinaricum	KJ716526.1	05-JUL-2014	2164	Montenegro	secondary	ndhJ	-29.3384476295776	-51.4221767828199	0
+Cerastium_dinaricum	KJ716525.1	05-JUL-2014	2164	Montenegro	secondary	ndhJ	-30.4877067807282	-51.8353702750625	0
+Cerastium_dinaricum	KJ716524.1	05-JUL-2014	2164	Montenegro	secondary	ndhJ	-30.1622689833348	-51.0059371709788	0
+Cerastium_dinaricum	KJ716523.1	05-JUL-2014	2164	Montenegro	secondary	ndhJ	-30.1735051179434	-51.8935199457008	0
+Cerastium_dinaricum	KJ716522.1	05-JUL-2014	2164	Montenegro	secondary	ndhJ	-29.8835132370465	-50.6866020568503	0
+Cerastium_dinaricum	KJ716521.1	05-JUL-2014	2174	Bosnia and Herzegovina	secondary	ndhJ	44.9477420573431	16.789503019593	0
+Cerastium_dinaricum	KJ716520.1	05-JUL-2014	2176	Croatia	secondary	ndhJ	45.6012907076057	15.7155176123004	0
+Cerastium_dinaricum	KJ716519.1	05-JUL-2014	2176	Croatia	secondary	ndhJ	45.3625679193692	15.4524666010735	0
+Cerastium_dinaricum	KJ716518.1	05-JUL-2014	2184	Croatia	secondary	ndhJ	45.6213446460111	14.9044638363063	0
+Cerastium_dinaricum	KJ716517.1	05-JUL-2014	2168	Slovenia	secondary	ndhJ	46.0536967717551	16.0148813735552	0

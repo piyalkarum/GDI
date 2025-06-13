@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Callitriche_hermaphroditica	KX676652.1	09-AUG-2017	820	Canada: British Columbia, Thompson-Nicola Regional District, Wells Gray Provincial Park, Shadow Lake, 8 km south of Clearwater Lake	primary	matK	52.067	-120.033	0.0131055769732933
+Callitriche_hermaphroditica	JN966161.1	27-OCT-2012	746	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	matK	58.78	-94.195	0.047445431868167
+Callitriche_hermaphroditica	JN894013.1	07-MAR-2012	851	United Kingdom: Montgomeryshire	primary	matK	52.77	-3.11	0.0120341005688877
+Callitriche_hermaphroditica	JN896069.1	07-MAR-2012	792	United Kingdom: Montgomeryshire	secondary	matK	53.1898443254463	-3.4816069489934	0.0121248227677275
+Callitriche_hermaphroditica	JN896067.1	07-MAR-2012	825	United Kingdom: Montgomeryshire	secondary	matK	52.420947489633	-4.00570800474596	0.0120348459919899

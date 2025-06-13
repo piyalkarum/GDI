@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymbra_capitata	HE819478.1	22-MAY-2013	394	Italy:Puglia	primary	psbA-trnH	40.08	18.48	0.0331737605286389
+Thymbra_capitata	HE819477.1	22-MAY-2013	394	Italy:Lazio	primary	psbA-trnH	41.3	13.55	0.0257950354993222
+Thymbra_capitata	HE819476.1	22-MAY-2013	394	Italy:Sicilia	primary	psbA-trnH	37.15	15.23	0.0257950354993222
+Thymbra_capitata	EU627575.1	01-APR-2009	313	Greece	secondary	psbA-trnH	42.6213796202415	-77.2570280405916	0.0511901215290262
+Thymbra_capitata	EU627574.1	01-APR-2009	370	Greece	secondary	psbA-trnH	43.2924571473672	-77.7478741304136	0.0357771800555473

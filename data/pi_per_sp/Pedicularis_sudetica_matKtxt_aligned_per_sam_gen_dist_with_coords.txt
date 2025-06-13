@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_sudetica	KC475189.1	25-OCT-2013	783	Canada: Northwest Territories, Banks Island, Parker River, Parker River Valley, N side c. 7 km from sea	primary	matK	73.6167	-115.85	0.00141904356463743
+Pedicularis_sudetica	KC475188.1	25-OCT-2013	783	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	matK	68.719	-110.783	0.00170339806355132
+Pedicularis_sudetica	KC475187.1	25-OCT-2013	780	Canada: Northwest Territories, Banks Island, De Salis Bay, Flat plain along Sandhill River, 1.5-2km from mouth	primary	matK	71.4544	-121.868	0.00142450142450142
+Pedicularis_sudetica	KC475186.1	25-OCT-2013	783	Canada: Northwest Territories, Anderson River, Cape Bathurst E side, brook system N of river from Lake Mc kinlay, 0.7 - 1.5 km from sea	primary	matK	70.4833	-127.8	0.00141904356463743
+Pedicularis_sudetica	KC475185.1	25-OCT-2013	783	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	matK	71.313	-116.916	0.00170339806355132
+Pedicularis_sudetica	HG424034.2	09-APR-2014	2393	Russia:Polar Ural	secondary	matK	66.9230873	64.4945151	0.00854326163273752
+Pedicularis_sudetica	HG424038.2	09-APR-2014	2393	Russia:Chukotka	secondary	matK	66.0006475	169.4900869	0.0233294660070671
+Pedicularis_sudetica	HG424037.2	09-APR-2014	2393	Russia:Sibiryakov Island	secondary	matK	72.8921238	79.1126992	0.00698310213878687
+Pedicularis_sudetica	HG424036.2	09-APR-2014	2356	Russia:Yamal	secondary	matK	44.1681909	39.0056657	0.0105240019904787
+Pedicularis_sudetica	HG424035.2	09-APR-2014	2393	Russia:Yakutia	secondary	matK	66.941626	129.642371	0.00783489065865942

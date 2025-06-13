@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_peregrina	KP897110.1	13-OCT-2015	686	Spain	secondary	matK	39.3260685	-4.8379791	0
+Vicia_peregrina	KP897109.1	13-OCT-2015	686	Turkey	secondary	matK	38.9597594	34.9249653	0
+Vicia_peregrina	KP897108.1	13-OCT-2015	686	Uzbekistan	secondary	matK	41.32373	63.9528098	0
+Vicia_peregrina	KP897107.1	13-OCT-2015	686	Iran	secondary	matK	33.2698265229726	54.2095021538802	0
+Vicia_peregrina	KM487296.1	23-MAR-2015	670	Iran	secondary	matK	32.9074194092972	54.1201113364169	0

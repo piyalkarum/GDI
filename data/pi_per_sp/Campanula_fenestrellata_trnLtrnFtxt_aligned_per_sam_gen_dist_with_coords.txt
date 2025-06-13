@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_fenestrellata	MN699317.1	20-JAN-2022	890	Croatia: Alan	secondary	trnL-trnF	45.0713529	14.9314125	0.00052442882841892
+Campanula_fenestrellata	MN699315.1	20-JAN-2022	890	Croatia: Zrmanja, Kudin most	secondary	trnL-trnF	44.1573896	15.8817533	0.00052442882841892
+Campanula_fenestrellata	MN699314.1	20-JAN-2022	890	Croatia: Lukovo	secondary	trnL-trnF	44.8553134	14.8927325	0.00052442882841892
+Campanula_fenestrellata	MN699312.1	20-JAN-2022	890	Croatia: Velebit, Baske Ostarije	secondary	trnL-trnF	44.4160491373731	15.5327145481775	0.00127340823970037
+Campanula_fenestrellata	MN699311.1	20-JAN-2022	889	Croatia: Karlobag	secondary	trnL-trnF	44.527923	15.0724951	0.00127484064491939
+Campanula_fenestrellata	MN699310.1	20-JAN-2022	890	Croatia: Jablanac	secondary	trnL-trnF	44.7062513	14.8977811	0.00127340823970037
+Campanula_fenestrellata	MN699308.1	20-JAN-2022	890	Croatia: Drnis	secondary	trnL-trnF	43.8602746	16.1557855	0.00262197562383354
+Campanula_fenestrellata	MN699307.1	20-JAN-2022	890	Croatia: island Krk, Vrbnik	secondary	trnL-trnF	45.22804105	14.5779926960857	0.00052442882841892
+Campanula_fenestrellata	MN699306.1	20-JAN-2022	890	Croatia: Velebit, Velika Paklenica	secondary	trnL-trnF	44.2489334521598	16.5903754237937	0.00052442882841892
+Campanula_fenestrellata	KF957767.1	05-NOV-2014	890	Croatia: Istra, Plomin	secondary	trnL-trnF	45.1380212	14.1801746	0.00142338949204383
+Campanula_fenestrellata	KF957766.1	05-NOV-2014	890	Croatia: NP Krka, Roski slap	secondary	trnL-trnF	43.9189188	15.9785287928414	0.00052442882841892
+Campanula_fenestrellata	FJ426584.1	23-MAR-2009	890	Croatia	secondary	trnL-trnF	45.1284689265682	16.2825113502935	0.00052442882841892
+Campanula_fenestrellata	FJ426579.1	23-MAR-2009	890	Croatia	secondary	trnL-trnF	46.0506480497378	15.980440931026	0.00052442882841892
+Campanula_fenestrellata	MN699316.1	20-JAN-2022	890	Croatia	secondary	trnL-trnF	43.924669	15.6221875	0.00052442882841892
+Campanula_fenestrellata	MN699313.1	20-JAN-2022	890	Croatia	secondary	trnL-trnF	44.9767354	14.4434184	0.00142338949204383
+Campanula_fenestrellata	MN699309.1	20-JAN-2022	890	Croatia	secondary	trnL-trnF	44.4938821	14.9612564	0.00052442882841892

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bunias_orientalis	FM958517.1	16-JAN-2011	172	Russia:Altai, Oroktoi	primary	ITS	51.02	86.05	0.00436046511627907
+Bunias_orientalis	FM958516.1	03-DEC-2009	1162	Russia:Altai, river Kuba	primary	ITS	52.2	86.23	0.0281830481205207
+Bunias_orientalis	HE863772.1	06-JUL-2012	1041	Russia:Altai, Chineta	secondary	ITS	49.7995174	86.5788193	0.0548104708482067
+Bunias_orientalis	FM958518.1	16-JAN-2011	185	Russia:Tver, cloister Orscha	secondary	ITS	56.858675	35.9208284	0.00280483972344437
+Bunias_orientalis	FM958515.1	03-DEC-2009	1162	Germany:Osnabrueck	secondary	ITS	52.2719595	8.047635	0.0281830481205207

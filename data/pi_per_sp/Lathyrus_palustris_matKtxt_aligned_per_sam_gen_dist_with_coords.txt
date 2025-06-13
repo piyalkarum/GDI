@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_palustris	KX677047.1	09-AUG-2017	766	Canada: British Columbia, Comox Regional District, Courtenay River, river estuary, behind the sawmill	primary	matK	49.699	-124.985	0.0137264309075064
+Lathyrus_palustris	MG221104.1	21-JAN-2018	769	USA: North Dakota	primary	matK	48.11	-100.377	0.0252395548827735
+Lathyrus_palustris	MG220865.1	21-JAN-2018	769	USA: North Dakota	primary	matK	47.672	-100.11	0.0252395548827735
+Lathyrus_palustris	MG220767.1	21-JAN-2018	777	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Singing Sands, BPNP	primary	matK	45.192	-81.578	0.0141100578180839
+Lathyrus_palustris	JN894835.1	07-MAR-2012	780	United Kingdom: Caernarfonshire	primary	matK	51.43	-2.32	0.0128874693216964
+Lathyrus_palustris	JN893916.1	07-MAR-2012	905	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0130022419866814

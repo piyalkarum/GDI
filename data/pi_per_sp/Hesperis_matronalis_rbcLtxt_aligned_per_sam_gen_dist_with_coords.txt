@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hesperis_matronalis	OR464889.1	26-SEP-2023	601	USA: South Westnedge Park, Portage, MI	primary	rbcL	42.185215	-85.592543	0
+Hesperis_matronalis	MG249685.1	21-JAN-2018	552	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.765	-80.303	0
+Hesperis_matronalis	MG249252.1	21-JAN-2018	552	Canada: Alberta, Drumheller, Red River	primary	rbcL	51.467	-112.712	0
+Hesperis_matronalis	MG249101.1	21-JAN-2018	552	Canada: Yukon Territory, Whitehorse, Riverdale, 29 Tay Street	primary	rbcL	60.705	-135.017	0
+Hesperis_matronalis	MG248527.1	21-JAN-2018	552	Canada: Manitoba, Winnipeg, Red River, Pembrina Drive, near boat launch	primary	rbcL	49.824	-97.147	0
+Hesperis_matronalis	MG247442.1	21-JAN-2018	519	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Bridle Trail	primary	rbcL	43.2935	-79.8733	0
+Hesperis_matronalis	HQ590129.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., N side of driveway to Dufferin	primary	rbcL	44.036	-79.518	0
+Hesperis_matronalis	KT695519.1	29-SEP-2015	553	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0
+Hesperis_matronalis	KJ841356.1	04-NOV-2014	507	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	rbcL	45.535	-73.149	0

@@ -1,0 +1,31 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Medicago_lupulina	OR738079.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.1109	63.55593	0.00455076782628915
+Medicago_lupulina	OR538522.1	17-OCT-2023	612	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28833279	-85.61955311	0.00101609194069143
+Medicago_lupulina	OR538508.1	17-OCT-2023	595	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28837021	-85.61979401	0.000904148919448773
+Medicago_lupulina	OR464885.1	26-SEP-2023	614	USA: WMU Parking Lot 41, Kalamazoo, MI	primary	rbcL	42.284551	-85.61471022	0.00101421104265361
+Medicago_lupulina	OL434738.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.126	-81.14	0.000915959823717287
+Medicago_lupulina	MG249953.1	21-JAN-2018	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Cyprus Lake, BPNP	primary	rbcL	45.2	-81.5	0.000915959823717287
+Medicago_lupulina	MG249853.1	21-JAN-2018	552	Canada: Ontario, Cochrane District, Kapuskasing	primary	rbcL	49.4167	-82.4333	0.000916658384386693
+Medicago_lupulina	MG249820.1	21-JAN-2018	552	Canada: 143 Waterloo Avenue	primary	rbcL	43.5375	-80.2542	0.000916658384386693
+Medicago_lupulina	MG249407.1	21-JAN-2018	512	Canada: Ontario, Chatham-Kent County, Wheatley Provincial Park, Beach and Marsh area, north bank of marsh, near eastern bridge across marsh	primary	rbcL	42.088	-82.442	0.000898291356068861
+Medicago_lupulina	MG248480.1	21-JAN-2018	552	Canada: Ontario, Huron, Huron, Grand Bend	primary	rbcL	43.3167	-81.75	0.000916658384386693
+Medicago_lupulina	MG247451.1	21-JAN-2018	552	Canada: Yukon Territory, North Klondike Highway, km 678, Dempster Corner Services	primary	rbcL	63.991	-138.75	0.000916658384386693
+Medicago_lupulina	MG247137.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.968	-99.848	0.0115177787297053
+Medicago_lupulina	MG246607.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.6	-102.01	0.000916658384386693
+Medicago_lupulina	MG246070.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.943	-100.508	0.000916658384386693
+Medicago_lupulina	KX678994.1	29-APR-2017	552	Canada: British Columbia, Capital Regional District, Victoria, Esquimalt, Macaulay Point	primary	rbcL	48.417	-123.417	0.000916658384386693
+Medicago_lupulina	KX678486.1	29-APR-2017	518	Canada: British Columbia, East Kootenay Regional District, Dry Gulch Provincial Park	primary	rbcL	50.5862	-116.035	0.000890357830546143
+Medicago_lupulina	HQ590180.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., NW end of property	primary	rbcL	44.032	-79.534	0.000957259423248031
+Medicago_lupulina	KT695579.1	29-SEP-2015	473	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00711189638392395
+Medicago_lupulina	KJ841412.1	04-NOV-2014	509	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 70-100 metres north of Research Station, about 50 metres to east of access road, along small trail	primary	rbcL	45.536	-73.1495	0.000902328889989985
+Medicago_lupulina	HQ644055.1	01-NOV-2011	607	USA: Georgia, Muscogee County, Columbus, Columbus State University	primary	rbcL	32.4996	-84.9367	0.000957259423248031
+Medicago_lupulina	JN892938.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.62	-3.94	0.000927718466376059
+Medicago_lupulina	OP711379.1	26-DEC-2022	529	Mexico: Puebla	secondary	rbcL	19.1710098	-98.4125121	0.000883171815814166
+Medicago_lupulina	MN204902.1	30-NOV-2021	724	China	secondary	rbcL	35.1704272172103	106.010347294503	0.00139011169283305
+Medicago_lupulina	MN204901.1	30-NOV-2021	724	China	secondary	rbcL	35.5600418934151	105.186360758653	0.00123719049835693
+Medicago_lupulina	MN601454.1	15-DEC-2019	1428	USA	secondary	rbcL	39.7837304	-100.445882	0.00128481861799877
+Medicago_lupulina	KJ746240.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00496209148941994
+Medicago_lupulina	KJ204374.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.000920819324454724
+Medicago_lupulina	HM850164.1	23-JUL-2011	652	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00352495706603562
+Medicago_lupulina	JN890607.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000927718466376059
+Medicago_lupulina	JN890606.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000927718466376059

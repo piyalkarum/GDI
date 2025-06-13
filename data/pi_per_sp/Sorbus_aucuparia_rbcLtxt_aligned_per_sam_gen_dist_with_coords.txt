@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sorbus_aucuparia	OR464890.1	26-SEP-2023	614	USA: West Lake Nature Preserve, Portage, MI	primary	rbcL	42.18641882	-85.58646756	0.000182149362477231
+Sorbus_aucuparia	OP964370.1	12-DEC-2022	533	USA: Washington, Omak, Wenatchee Valley College Omak Campus	primary	rbcL	48.41188	-119.531471	0.000208463623097769
+Sorbus_aucuparia	MG247658.1	21-JAN-2018	552	Canada: Alberta, Edmonton	primary	rbcL	53.567	-113.383	0.000203128173877717
+Sorbus_aucuparia	MG246631.1	21-JAN-2018	553	Canada: Yukon Territory, Whitehorse, Bert Law Island Park	primary	rbcL	60.704	-135.048	0.000203128173877717
+Sorbus_aucuparia	HQ590284.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 50 m NW of SR19 driveway entrance at E edge of creek	primary	rbcL	44.025	-79.53	0.000184877056757256
+Sorbus_aucuparia	JN893712.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000207296849087894
+Sorbus_aucuparia	MK925256.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1704006060083	-4.17514412449933	0.000207296849087894
+Sorbus_aucuparia	KX163051.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.4631019123019	-2.68994928853159	0.000195963158926122
+Sorbus_aucuparia	KX163050.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.8313723877933	-2.65981716726951	0.000195963158926122
+Sorbus_aucuparia	KX163049.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.3757023136745	-2.71337580130727	0.000195963158926122
+Sorbus_aucuparia	KX163048.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.2183318045153	-2.34855020099836	0.000195963158926122
+Sorbus_aucuparia	KX163047.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	53.8151236115057	-3.09070509993422	0.000195963158926122
+Sorbus_aucuparia	KX163046.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.621211704507	-4.77609308734578	0.000195963158926122
+Sorbus_aucuparia	HG765089.1	18-NOV-2013	711	Italy	secondary	rbcL	42.3999612301594	11.6679182178275	0.000156274417877793
+Sorbus_aucuparia	HG765088.1	18-NOV-2013	711	Italy	secondary	rbcL	43.2929684067724	11.9432992363012	0.00356707536822154
+Sorbus_aucuparia	JN893288.1	07-MAR-2012	524	United Kingdom: Breconshire (42)	secondary	rbcL	52.7464641093446	-2.39110056613798	0.000212044105173876
+Sorbus_aucuparia	JN893287.1	07-MAR-2012	524	United Kingdom: Breconshire (42)	secondary	rbcL	53.7738139888461	-0.625996783190337	0.000212044105173876
+Sorbus_aucuparia	JN891345.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.6297076189054	-1.67221664740908	0.000207296849087894
+Sorbus_aucuparia	JN891093.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	53.1367252475884	-0.623991001411128	0.000207296849087894

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_striatum	KX677987.1	29-APR-2017	552	Canada: British Columbia, Capital Regional District, Greater Victoria, Saanich, St. George's Anglican Church, 03909 St. George's Lane	primary	rbcL	48.463	-123.295	0.000932835820895522
+Trifolium_striatum	JN890920.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.94	-4.49	0.000952380952380952
+Trifolium_striatum	HM850425.1	23-JUL-2011	691	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00378997867803838
+Trifolium_striatum	JN892955.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000952380952380952
+Trifolium_striatum	JN892954.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.000952380952380952

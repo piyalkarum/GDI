@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthoxanthum_aristatum	KC897711.1	07-MAY-2014	869	Spain: Galicia	secondary	trnL-trnF	42.7361048865697	-9.06924406407751	0.000767165324127349
+Anthoxanthum_aristatum	KC897710.1	07-MAY-2014	869	Spain: Galicia	secondary	trnL-trnF	42.540170122784	-8.94998173768339	0.000767165324127349
+Anthoxanthum_aristatum	KC897705.1	07-MAY-2014	870	Spain: Galicia	secondary	trnL-trnF	42.6839658994957	-7.52096433931685	0.000767165324127349
+Anthoxanthum_aristatum	KC897704.1	07-MAY-2014	870	Spain: Galicia	secondary	trnL-trnF	42.2825621706195	-8.98530092497141	0.000767165324127349

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_gaditana	GQ901198.1	03-NOV-2009	341	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.00685124489678569
+Armeria_gaditana	GQ901197.1	03-NOV-2009	341	Spain: Conil de la frontera	secondary	trnL-trnF	36.2472633960485	-6.55498563055483	0.00489333563337358
+Armeria_gaditana	GQ901196.1	03-NOV-2009	340	Spain: Conil de la frontera	secondary	trnL-trnF	37.027265392899	-6.67006316318541	0.00490196078431373
+Armeria_gaditana	GQ901195.1	03-NOV-2009	364	Spain: Conil de la frontera	secondary	trnL-trnF	35.591271947542	-6.29271328922141	0.00488758553274682

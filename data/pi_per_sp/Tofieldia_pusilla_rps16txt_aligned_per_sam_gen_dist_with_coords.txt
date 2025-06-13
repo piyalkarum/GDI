@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tofieldia_pusilla	OP005232.1	12-APR-2023	684	Norway: Svalbard, Ringhorndalen	primary	rps16	78.5465285804946	16.7351771154421	0.000649772579597141
+Tofieldia_pusilla	OP005231.1	12-APR-2023	684	Norway: Svalbard, Ringhorndalen	primary	rps16	80.1274739305751	15.0730724347629	0.000649772579597141
+Tofieldia_pusilla	OP005230.1	12-APR-2023	684	Norway: Svalbard, Ringhorndalen	primary	rps16	79.838713310561	15.2662244401752	0.000649772579597141
+Tofieldia_pusilla	OP005229.1	12-APR-2023	685	Greenland: Disko	primary	rps16	69.25	-53.542	0.000974658869395711
+Tofieldia_pusilla	OP005228.1	12-APR-2023	684	Norway: Svalbard, Ringhorndalen	primary	rps16	79.33	16.161	0.000649772579597141
+Tofieldia_pusilla	OP005227.1	12-APR-2023	684	Norway: Svalbard, Bockfjorden	primary	rps16	79.389	13.438	0.000649772579597141
+Tofieldia_pusilla	OP005226.1	12-APR-2023	684	Norway: Svalbard, Blomstrandhalvoya	primary	rps16	78.974	12.179	0.000649772579597141
+Tofieldia_pusilla	OP005225.1	12-APR-2023	685	Greenland: Angmagssalik Island	primary	rps16	65.717	-37.583	0.000974658869395711
+Tofieldia_pusilla	OP005224.1	12-APR-2023	686	USA: Alaska, Nome	primary	rps16	64.894	-165.215	0.000974658869395711
+Tofieldia_pusilla	OP005223.1	12-APR-2023	685	Canada: Victoria Island, Boot inlet	primary	rps16	71.51	-117.338	0.000974658869395711

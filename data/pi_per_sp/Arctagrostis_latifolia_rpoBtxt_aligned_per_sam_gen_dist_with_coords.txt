@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctagrostis_latifolia	OK247862.1	27-OCT-2022	1107	Russia: Magadan	secondary	rpoB	63.5515028	154.014726	0.00606345575255611
+Arctagrostis_latifolia	MW251060.1	06-APR-2022	1131	Canada	secondary	rpoB	61.0666922	-107.991707	0.00477645969838626
+Arctagrostis_latifolia	KM523954.1	04-JUL-2015	1134	Canada: Nunavut	secondary	rpoB	64.8584312619834	-94.2130928510823	0.00417843295254391
+Arctagrostis_latifolia	KM523953.1	04-JUL-2015	1134	Canada: Nunavut	secondary	rpoB	65.5350122454961	-91.3579752355169	0.00658978865976695

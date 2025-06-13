@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ophrys_sphegodes	KU931816.1	14-FEB-2017	828	Iran	secondary	trnL-trnF	32.7408033573159	54.6598087258405	0
+Ophrys_sphegodes	KU931815.1	14-FEB-2017	834	Iran	secondary	trnL-trnF	32.4192650684763	54.2652244493803	0
+Ophrys_sphegodes	KU931813.1	14-FEB-2017	845	Iran	secondary	trnL-trnF	33.43929300778	55.0118804841025	0
+Ophrys_sphegodes	KU931812.1	14-FEB-2017	845	Iran	secondary	trnL-trnF	33.5224554485902	54.479221051877	0

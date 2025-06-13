@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Androsace_chaixii	EU523250.2	23-MAR-2008	731	France	primary	rpl20-rps12	45.1721924592281	5.02904339466709	0
+Androsace_chaixii	EU523249.2	23-MAR-2008	731	France	primary	rpl20-rps12	44.1563969360489	5.78613183436414	0
+Androsace_chaixii	EU523248.2	23-MAR-2008	731	France	primary	rpl20-rps12	44.0381182013886	6.03329512568128	0
+Androsace_chaixii	EU523247.2	23-MAR-2008	731	France	primary	rpl20-rps12	44.0433087843819	6.17525590152041	0
+Androsace_chaixii	EU523246.2	23-MAR-2008	731	France	primary	rpl20-rps12	45.041849331377	5.9710425782339	0
+Androsace_chaixii	EU523245.2	23-MAR-2008	731	France	primary	rpl20-rps12	44.5451443664616	4.72435636494512	0
+Androsace_chaixii	EU523244.2	23-MAR-2008	731	France	primary	rpl20-rps12	44.7944060449967	6.64390303248085	0
+Androsace_chaixii	EF587876.3	06-JUN-2007	742	France	primary	rpl20-rps12	44.2525568515614	6.17127369043135	0
+Androsace_chaixii	EF587875.3	06-JUN-2007	742	France	primary	rpl20-rps12	45.1103390692658	5.26109984592186	0

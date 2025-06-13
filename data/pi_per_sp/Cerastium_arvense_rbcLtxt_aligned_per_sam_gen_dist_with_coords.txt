@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_arvense	MG249721.1	21-JAN-2018	552	Canada: Yukon Territory, Kluane National Park, Fisher Glacier near Alsek, S-facing slope above Fisher Glacier	primary	rbcL	60.132	-138.206	0.00762304689863689
+Cerastium_arvense	MG249217.1	21-JAN-2018	552	Canada: Yukon Territory, Five Fingers Coal Mine, Yukon River	primary	rbcL	62.206	-136.336	0.00762304689863689
+Cerastium_arvense	MG248978.1	21-JAN-2018	552	Canada: Yukon Territory, Larsen Hotsprings Lower Pool	primary	rbcL	60.2	-125.4	0.00762304689863689
+Cerastium_arvense	KY620216.1	17-APR-2017	506	USA: New York, Cold Spring Harbor, next to 1 bungtown road	primary	rbcL	40.87	-73.46	0.0112215863481583
+Cerastium_arvense	KP402682.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H13x10y2	primary	rbcL	38.889	-76.559	0.00762244824823435
+Cerastium_arvense	MT930975.1	03-MAR-2023	568	China	secondary	rbcL	35.000074	104.999927	0.00773485432751378
+Cerastium_arvense	MK925228.1	14-JAN-2020	542	Sweden	secondary	rbcL	59.6749712	14.5208584	0.00777325495629684
+Cerastium_arvense	MK924953.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.813026519253	-3.75432780356244	0.00777325495629684
+Cerastium_arvense	MK924816.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9572396863326	-2.49547314861634	0.00777325495629684
+Cerastium_arvense	KJ746295.1	29-JUL-2014	658	Poland	secondary	rbcL	52.51437456146	19.8276706408719	0.0986606925442616
+Cerastium_arvense	KJ746294.1	29-JUL-2014	658	Poland	secondary	rbcL	52.3429704408649	17.9755310551451	0.00732122482926888
+Cerastium_arvense	JX848446.1	06-AUG-2013	1378	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.00750323217928561
+Cerastium_arvense	JN892221.1	07-MAR-2012	489	United Kingdom: Radnorshire	secondary	rbcL	52.4627049	-3.2561628	0.0114068578119626
+Cerastium_arvense	JN892004.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.00777325495629684
+Cerastium_arvense	OQ326786.1	23-AUG-2023	720	China	secondary	rbcL	35.6250478	111.2209922	0.00762898670644859

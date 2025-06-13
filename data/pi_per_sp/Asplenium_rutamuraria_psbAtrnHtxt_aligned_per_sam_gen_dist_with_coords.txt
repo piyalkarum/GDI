@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_ruta-muraria	KU724302.1	04-SEP-2016	541	Spain: Burgos, Crespos	secondary	psbA-trnH	42.1203899209164	-3.31415432395406	0.172638436482085
+Asplenium_ruta-muraria	KU724301.1	04-SEP-2016	541	Spain: Burgos, Crespos	secondary	psbA-trnH	42.6227951043945	-3.64063253826921	0.172638436482085
+Asplenium_ruta-muraria	AB575519.1	03-DEC-2010	477	Japan	secondary	psbA-trnH	36.5748441	139.2394179	0.172638436482085
+Asplenium_ruta-muraria	HE966498.1	18-SEP-2012	322	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.517915309446254

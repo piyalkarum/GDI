@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antennaria_alpina	MZ400443.1	07-DEC-2021	621	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00107353730542136
+Antennaria_alpina	KC474014.1	25-OCT-2013	779	Canada: Nunavut, Baffin Island, Sylvia Grinnell River, Rivershore by waterfall along Sylvia Grinnell River, 1.5 km west of airfield	primary	matK	63.733	-68.567	0.0013004993648724
+Antennaria_alpina	KC474013.1	25-OCT-2013	783	Canada: Nunavut, Baffin Island, Iqaluit	primary	matK	62.833	-67.35	0.00140096784306302
+Antennaria_alpina	KC474012.1	25-OCT-2013	764	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East bank of Hornaday River	primary	matK	68.242	-121.85	0.00184566917627089

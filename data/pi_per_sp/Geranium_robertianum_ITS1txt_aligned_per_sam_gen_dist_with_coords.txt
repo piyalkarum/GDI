@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geranium_robertianum	LC125502.1	02-DEC-2017	657	Japan: Shiga, Mt. Ibuki	secondary	ITS1	35.6514430384865	137.107568173534	0.00398535646953256
+Geranium_robertianum	AB689056.1	18-DEC-2012	693	Japan: Gifu, Takayama, Shin-hotaka	secondary	ITS1	35.4230949	136.7627526	0.00975281323247647
+Geranium_robertianum	AB689055.1	18-DEC-2012	710	Japan: Shiga, Maibara, Mt. Ibuki	secondary	ITS1	34.7929427487789	135.658540325733	0.00393577298606269
+Geranium_robertianum	AB689054.1	18-DEC-2012	715	Japan: Gunma, Kiryu, Hishi	secondary	ITS1	44.5000327318065	141.700166326154	0.00269173278409993
+Geranium_robertianum	AB689053.1	18-DEC-2012	723	Japan: Fukushima, Iwaki	secondary	ITS1	37.0504227	140.8876338	0.0022610004811397
+Geranium_robertianum	AB689052.1	18-DEC-2012	704	Japan: Gifu, Kani	secondary	ITS1	35.4422639709849	137.813926815201	0.00227388928118773
+Geranium_robertianum	AB689051.1	18-DEC-2012	710	Japan: Niigata	secondary	ITS1	37.6452283	138.7669125	0.00226673091128127
+Geranium_robertianum	AB689050.1	18-DEC-2012	710	Japan: Fukuoka, Kitakyushu, Hirao-dai	secondary	ITS1	33.5898988	130.4017509	0.00226430372110992
+Geranium_robertianum	AB689049.1	18-DEC-2012	665	Japan: Hyogo, Takarazuka, Oharano	secondary	ITS1	34.9138915	135.3053647	0.00572612889488895
+Geranium_robertianum	AB689048.1	18-DEC-2012	709	Japan: Miyagi, Sendai, Aoba-ku	secondary	ITS1	38.2691248	140.8705271	0.00226560173004593
+Geranium_robertianum	AB689047.1	18-DEC-2012	710	Japan: Kanagawa, Fujisawa	secondary	ITS1	36.0433692350806	138.843157384786	0.00226430372110992
+Geranium_robertianum	AB689046.1	18-DEC-2012	709	Japan: Kanagawa, Ashigarashimo-gun, Hakone, Hakone Shrine	secondary	ITS1	35.2040462	139.0248018	0.00226560173004593
+Geranium_robertianum	AB689045.1	18-DEC-2012	710	Japan: Hokkaido, Sapporo, Kita-ku	secondary	ITS1	43.0906772	141.3408432	0.00226430372110992
+Geranium_robertianum	AB689044.1	18-DEC-2012	712	Japan: Shiga, Hikone, the foot of Mt. Ryozen	secondary	ITS1	34.6522983730293	135.976502013727	0.00399440744241224
+Geranium_robertianum	AB689043.1	18-DEC-2012	690	Japan: Iwate, Morioka, Higashi-midorigaoka	secondary	ITS1	39.9724169	141.2124422	0.0022525849822735
+Geranium_robertianum	AB689042.1	18-DEC-2012	709	Japan: Shiga, Hikone, Taga, Gongen Valley	secondary	ITS1	35.1127058060438	134.839952266336	0.00393855151114076
+Geranium_robertianum	AB689041.1	18-DEC-2012	709	Japan: Tokushima, Miyoshi, Mt. Tsurugi, near the summit	secondary	ITS1	34.0698307	134.5550353	0.00393855151114076
+Geranium_robertianum	AB689040.1	18-DEC-2012	736	Japan: Hokkaido, Sapporo, Chuo-ku, Maruyama Park	secondary	ITS1	43.0388075	141.3037498	0.00244224101801424
+Geranium_robertianum	AB689039.1	18-DEC-2012	725	Japan: Hyogo, Kobe, Kita-ku	secondary	ITS1	34.7881665	135.1779154	0.00552394163827169
+Geranium_robertianum	AB689038.1	18-DEC-2012	712	Japan: Hyogo, Kobe, Higashinada-ku	secondary	ITS1	34.7289766	135.2734095	0.00228052510121405
+Geranium_robertianum	AB703073.1	11-SEP-2012	710	Japan: Gunma, Kiryu, Hishi	secondary	ITS1	43.9786788288001	142.68965556395	0.00331860119838594
+Geranium_robertianum	AB703072.1	11-SEP-2012	708	Japan: Gifu, Kani	secondary	ITS1	35.6604501817613	137.408017881178	0.00778397620367351
+Geranium_robertianum	AB703071.1	11-SEP-2012	712	Japan: Kanagawa, Fujisawa	secondary	ITS1	36.0912099156423	139.074280988401	0.0044325844681085
+Geranium_robertianum	AJ884947.1	07-JAN-2006	661	United Kingdom	secondary	ITS1	54.7023545	-3.2765753	0.010753200600957

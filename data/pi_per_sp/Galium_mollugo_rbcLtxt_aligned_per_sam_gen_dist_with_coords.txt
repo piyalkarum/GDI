@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_mollugo	MG224579.1	26-DEC-2017	553	Canada: Ontario, Wellington, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	0.00111848393500478
+Galium_mollugo	MG224386.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Halfway Log Dump Parking Lot, BPNP	primary	rbcL	45.227	-81.48	0.00112532575219142
+Galium_mollugo	MG222628.1	26-DEC-2017	552	Canada: Nova Scotia, Shelburne County, Hwy 103 between Port Joli and Sable River	primary	rbcL	43.857	-65.002	0.00112532575219142
+Galium_mollugo	MG222189.1	26-DEC-2017	552	Canada: New Brunswick, Kouchibouguac National Park, Kent Co, St. Louis Parish	primary	rbcL	46.962	-65.048	0.00112532575219142
+Galium_mollugo	MG222089.1	26-DEC-2017	525	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.765	-80.303	0.00135705564276993
+Galium_mollugo	MG221981.1	26-DEC-2017	553	Canada: Ontario, Durham, Durham, Uxbridge	primary	rbcL	44.1114	-79.1233	0.00111848393500478
+Galium_mollugo	KJ841339.1	04-NOV-2014	511	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, to north-west of gravel parking lot, about 1 metre south-east of 'Seteur de Service' sign	primary	rbcL	45.536	-73.157	0.00113636363636364
+Galium_mollugo	HQ619780.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00111848393500478
+Galium_mollugo	MK028043.1	17-DEC-2018	732	France: Corsica, Calvi	secondary	rbcL	42.5677079	8.7590528	0.0144023585340414
+Galium_mollugo	KJ746284.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00130903425199867
+Galium_mollugo	KJ593432.1	17-MAR-2015	553	USA: Wisconsin, Wrightstown	secondary	rbcL	44.3310901	-88.1684289	0.00111848393500478
+Galium_mollugo	HM850019.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00284597914076377
+Galium_mollugo	JN893410.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00112127609664555
+Galium_mollugo	JN893407.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00112127609664555
+Galium_mollugo	JN891158.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00112127609664555

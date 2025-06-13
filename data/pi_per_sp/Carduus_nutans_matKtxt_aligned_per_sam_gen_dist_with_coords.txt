@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carduus_nutans	MG225128.1	21-JAN-2018	722	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	matK	43.529	-80.229	0.000998360658814344
+Carduus_nutans	MG225039.1	21-JAN-2018	781	USA: North Dakota	primary	matK	47.906	-101.306	0.0020112651799122
+Carduus_nutans	JN894377.1	07-MAR-2012	948	United Kingdom: Glamorgan	primary	matK	51.52	-3.2	0.00100127240056489
+Carduus_nutans	JN893895.1	07-MAR-2012	807	United Kingdom: Cornwall, West with Scilly (1)	primary	matK	50.36	-5.12	0.000893604856193858
+Carduus_nutans	KT176586.1	19-AUG-2015	1521	USA	secondary	matK	39.2085267114902	-100.814386811035	0.00110365699176439
+Carduus_nutans	KT249947.1	09-AUG-2015	820	Germany	secondary	matK	40.4203479	-79.1166983	0.000993130186105418
+Carduus_nutans	KC969472.1	30-NOV-2013	981	USA	secondary	matK	39.4257403200318	-101.101356064398	0.00142186445587333
+Carduus_nutans	JN896085.1	07-MAR-2012	661	United Kingdom: Carmarthenshire	secondary	matK	51.4983607414355	-3.30101570033192	0.00107776641296781
+Carduus_nutans	JN896084.1	07-MAR-2012	768	United Kingdom: Carmarthenshire	secondary	matK	51.6982438876072	-3.16497657545006	0.000918707619557459

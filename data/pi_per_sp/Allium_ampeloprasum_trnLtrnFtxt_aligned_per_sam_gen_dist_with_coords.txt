@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_ampeloprasum	MK850988.1	05-NOV-2019	587	Iran	secondary	trnL-trnF	32.6475314	54.5643516	0.00528109028960818
+Allium_ampeloprasum	EU626251.1	13-JAN-2010	704	Argentina	secondary	trnL-trnF	-35.1301000252699	-65.3805975384389	0.00397411790274032
+Allium_ampeloprasum	EU626249.1	13-JAN-2010	704	USA	secondary	trnL-trnF	39.7837304	-100.445882	0.00397411790274032
+Allium_ampeloprasum	EU626248.1	13-JAN-2010	704	Croatia	secondary	trnL-trnF	45.3658443	15.6575209	0.00397411790274032
+Allium_ampeloprasum	EU626247.1	13-JAN-2010	704	Argentina	secondary	trnL-trnF	-35.1046042088161	-64.3095845605289	0.00397411790274032
+Allium_ampeloprasum	EU626246.1	13-JAN-2010	704	United Kingdom	secondary	trnL-trnF	54.7023545	-3.2765753	0.00397411790274032
+Allium_ampeloprasum	EU626245.1	13-JAN-2010	704	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.00659732884681692
+Allium_ampeloprasum	EU626243.1	13-JAN-2010	698	China: Shanxi Province	secondary	trnL-trnF	37	112	0.00489815144755275
+Allium_ampeloprasum	EU626240.1	13-JAN-2010	698	Egypt	secondary	trnL-trnF	26.2540493	29.2675469	0.00489815144755275
+Allium_ampeloprasum	EU626239.1	13-JAN-2010	698	Netherlands	secondary	trnL-trnF	51.9953669627997	4.61858221975384	0.00621464100398803
+Allium_ampeloprasum	EU626238.1	13-JAN-2010	698	Netherlands	secondary	trnL-trnF	51.9692347798267	4.37314652360529	0.00489815144755275

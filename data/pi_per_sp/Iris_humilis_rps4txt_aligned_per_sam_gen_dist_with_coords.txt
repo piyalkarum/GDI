@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_humilis	ON569596.1	14-JAN-2023	835	Russia: Altai Republic, Kosh-Agach District, mouth of Tydtugem River	primary	rps4	50.1873	88.124	0
+Iris_humilis	ON569595.1	14-JAN-2023	835	Russia: Altai Republic, Kosh-Agach District, between Kurai and Chagan-Uzun	primary	rps4	50.1694	88.2086	0
+Iris_humilis	ON569594.1	14-JAN-2023	835	Russia: Altai Republic, Ongudaysky District, Ak-Boom Rock	primary	rps4	50.3536	87.0569	0
+Iris_humilis	ON569593.1	14-JAN-2023	835	Russia: Altai Republic, Ongudaysky District, confluence of Chuya and Katun Rivers	primary	rps4	50.397	86.674	0
+Iris_humilis	ON569592.1	14-JAN-2023	835	Russia: Altai Republic, Ongudaysky District, Ak-Boom Rock	primary	rps4	50.2143	87.3249	0
+Iris_humilis	ON569591.1	14-JAN-2023	836	Hungary: Bugac	primary	rps4	46.6594	19.5988	0
+Iris_humilis	ON569590.1	14-JAN-2023	836	Hungary: Csakvar	primary	rps4	47.3933	18.4605	0
+Iris_humilis	ON569589.1	14-JAN-2023	836	Hungary: Gyorszentivan	primary	rps4	47.6978	17.7364	0
+Iris_humilis	ON569588.1	14-JAN-2023	836	Mongolia: Khuvsgul Aimag, near Khuvsgul Lake	primary	rps4	50.567	100.467	0
+Iris_humilis	ON569587.1	14-JAN-2023	836	Mongolia: Khuvsgul Aimag, Khatgal Sum	primary	rps4	50.6192	100.512	0
+Iris_humilis	ON569586.1	14-JAN-2023	836	Russia: Tuva, near Dus-Khol Lake	primary	rps4	51.356	94.4469	0
+Iris_humilis	ON569585.1	14-JAN-2023	836	Russia: Tuva, Tandinsky District	primary	rps4	51.3556	94.454	0
+Iris_humilis	ON569584.1	14-JAN-2023	836	Russia: Altai Krai, Bayevsky District	primary	rps4	53.5	80.45	0
+Iris_humilis	ON569583.1	14-JAN-2023	836	Russia: Amur Oblast, Novotroitskoe	primary	rps4	50.4994	127.5533	0
+Iris_humilis	ON569582.1	14-JAN-2023	836	Russia: Buryatia, Kyakhtinsky District, Chikoy River	primary	rps4	50.4494	106.91	0
+Iris_humilis	ON569581.1	14-JAN-2023	836	Russia: Buryatia, Tunkinsky District, Mondy	primary	rps4	51.6976	100.8677	0
+Iris_humilis	ON569580.1	14-JAN-2023	836	Russia: Buryatia, Bichursky District, Bichura	primary	rps4	50.6289	107.6647	0
+Iris_humilis	ON569579.1	14-JAN-2023	836	Russia: Buryatia, Tarbagataysky District	primary	rps4	51.5383	107.3461	0
+Iris_humilis	ON569578.1	14-JAN-2023	836	Russia: Zabaykalsky Krai,Lesnoi Gorodok	primary	rps4	51.667	112.9817	0
+Iris_humilis	ON569577.1	14-JAN-2023	836	Russia: Zabaykalsky Krai, Ingoda	primary	rps4	51.8306	113.0864	0
+Iris_humilis	ON569576.1	14-JAN-2023	836	Russia: Zabaykalsky Krai, Ingoda River	primary	rps4	51.7472	113.8464	0
+Iris_humilis	ON569575.1	14-JAN-2023	836	Russia: Belgorod Oblast, Urazovo	primary	rps4	50.0786	38.048	0
+Iris_humilis	ON569574.1	14-JAN-2023	836	Ukraine: Cherkasy Oblast, Irdyn	primary	rps4	49.3692	31.6792	0
+Iris_humilis	ON569573.1	14-JAN-2023	836	Ukraine: Poltava Oblast, Deimanivka	primary	rps4	50.2167	32.6339	0

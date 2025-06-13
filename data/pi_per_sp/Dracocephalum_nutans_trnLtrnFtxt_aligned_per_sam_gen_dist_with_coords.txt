@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dracocephalum_nutans	OL808291.1	14-JUN-2023	797	China	secondary	trnL-trnF	35.0201643684007	103.937483891093	0.00261930705887283
+Dracocephalum_nutans	OL808290.1	14-JUN-2023	484	Kyrgyzstan	secondary	trnL-trnF	42.4858224	74.714583	0.00209543830524378
+Dracocephalum_nutans	OL808289.1	14-JUN-2023	793	China	secondary	trnL-trnF	34.8228060441487	104.145903075282	0.00223332278328939
+Dracocephalum_nutans	OL808288.1	14-JUN-2023	766	USA	secondary	trnL-trnF	39.7837304	-100.445882	0.00152967913739547
+Dracocephalum_nutans	OL808287.1	14-JUN-2023	797	China	secondary	trnL-trnF	34.801606248973	104.075014370891	0.00146072223565225

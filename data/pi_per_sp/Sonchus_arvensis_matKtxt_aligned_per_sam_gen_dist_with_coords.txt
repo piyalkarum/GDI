@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sonchus_arvensis	OQ847556.1	15-AUG-2023	795	USA: CMR Wildlife Refuge	primary	matK	47.6705	-107.6634	0.00380200191118909
+Sonchus_arvensis	MF770209.1	30-JUN-2018	738	India	primary	matK	23.44	92.39	0.00233959152667406
+Sonchus_arvensis	MG225099.1	21-JAN-2018	795	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay, pres des clotures	primary	matK	45.513	-73.748	0.00236328248105212
+Sonchus_arvensis	MG225031.1	21-JAN-2018	779	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	matK	42.765	-80.303	0.00255402843537179
+Sonchus_arvensis	MG225020.1	21-JAN-2018	780	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., E edge of road between two ponds.	primary	matK	44.03	-79.534	0.00248984730596156
+Sonchus_arvensis	MG224875.1	21-JAN-2018	779	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	matK	42.454	-81.884	0.00255402843537179
+Sonchus_arvensis	MG224844.1	21-JAN-2018	779	Canada: Ontario, Bruce County, North Bruce Peninsula Township, West beach, Flowerpot Island, FFNMP	primary	matK	45.296	-81.629	0.00347882424934747
+Sonchus_arvensis	HQ593453.1	09-NOV-2011	780	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., NE end of road between two ponds	primary	matK	44.031	-79.538	0.00236812255280563
+Sonchus_arvensis	KJ593108.1	17-MAR-2015	687	USA: Wisconsin, Laona	primary	matK	45.536	-88.651	0.0036037482897677
+Sonchus_arvensis	KJ841017.1	23-SEP-2014	753	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	matK	45.542	-73.154	0.00344691512495721
+Sonchus_arvensis	JN895828.1	07-MAR-2012	939	United Kingdom: Cardiganshire	primary	matK	52.42	-4.08	0.00304328583837236
+Sonchus_arvensis	MT917386.1	03-MAR-2023	786	China	secondary	matK	34.5019300010768	104.563212864665	0.0276592429177941
+Sonchus_arvensis	OP271890.1	01-MAR-2023	772	Bangladesh	secondary	matK	-0.2864982	36.0514231	0.00750277500682968
+Sonchus_arvensis	MN218598.1	01-SEP-2019	288	Indonesia	secondary	matK	-2.4833826	117.8902853	0.00892857142857143
+Sonchus_arvensis	MH265200.1	22-JAN-2019	919	China	secondary	matK	35.3268018960686	104.94171344235	0.0102058597101997
+Sonchus_arvensis	MG224913.1	21-JAN-2018	800	Canada: Ontario, Rouge National Urban Park, Sector 2	secondary	matK	43.72634945	-77.7101179040839	0.00344379811893306
+Sonchus_arvensis	DQ508002.1	01-JUL-2006	2812	USA	secondary	matK	39.7837304	-100.445882	0.00305419408394347
+Sonchus_arvensis	DQ508001.1	01-JUL-2006	2774	Taiwan	secondary	matK	23.5983227	120.8353769	0.00396101120593739
+Sonchus_arvensis	KT250049.1	09-AUG-2015	820	Germany	secondary	matK	35.4349090521469	-83.626961207602	0.00299559188696207
+Sonchus_arvensis	KT250048.1	09-AUG-2015	820	Germany	secondary	matK	35.2699583451102	-84.362620023365	0.00299559188696207
+Sonchus_arvensis	KT250046.1	09-AUG-2015	820	Germany	secondary	matK	34.7316926549972	-82.6985386666918	0.00415871955493068
+Sonchus_arvensis	JN894381.1	07-MAR-2012	965	United Kingdom: Montgomeryshire	secondary	matK	52.615273	-3.4649973	0.00302089905086842

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_flacca	MG226669.1	23-JAN-2018	552	Canada: Campbellville, Halton Co., ON	primary	rbcL	43.4881	-79.9822	0
+Carex_flacca	MG226033.1	23-JAN-2018	552	Canada: Bond Tract, Puslinch Lake, Wellington County, ON	primary	rbcL	43	-80	0
+Carex_flacca	MG225661.1	23-JAN-2018	491	Canada: Ontario, Brant county, Onondaga township, ca 2.5 km W of Onondaga, McLellan Road, ca 70 m S of county road 54	primary	rbcL	43.063	-80.092	0
+Carex_flacca	JN893127.1	07-MAR-2012	531	United Kingdom: Monmouthshire	primary	rbcL	51.52	-3.04	0
+Carex_flacca	KJ204311.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0
+Carex_flacca	JN891463.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	50.9855427185835	-3.34810050644168	0
+Carex_flacca	JN891462.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.4742643077647	-2.20833905703176	0

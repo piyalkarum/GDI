@@ -1,0 +1,35 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lonicera_tatarica	OR738097.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	48.93444	83.71778	0.124934025355299
+Lonicera_tatarica	OR738092.1	13-NOV-2023	542	Kazakhstan: Mangistau region	primary	rbcL	46.2653	55.2601	0.124183709209476
+Lonicera_tatarica	OR738084.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.188326464402485
+Lonicera_tatarica	OR738057.1	13-NOV-2023	542	Kazakhstan: Atyrau region	primary	rbcL	46.31201	55.29419	0.124183709209476
+Lonicera_tatarica	OQ832141.1	15-AUG-2023	553	USA: Bowdoin Wildlife Refuge	primary	rbcL	48.3936	-107.7271	0.122972352051239
+Lonicera_tatarica	OR464871.1	26-SEP-2023	609	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28860361	-85.61999601	0.122174067531809
+Lonicera_tatarica	OR464868.1	26-SEP-2023	616	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28785996	-85.62008905	0.122897708636857
+Lonicera_tatarica	LC694241.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	42.9925	141.391	0.123335860938766
+Lonicera_tatarica	MG224583.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	47.16	-100.741	0.122644076795502
+Lonicera_tatarica	MG223991.1	26-DEC-2017	525	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, South Point Trail, Rondeau Road trailhead parking lot	primary	rbcL	42.279	-81.861	0.122214439935969
+Lonicera_tatarica	MG223581.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Horse Lake, BPNP	primary	rbcL	45.237	-81.527	0.13960677431748
+Lonicera_tatarica	MG223222.1	26-DEC-2017	552	Canada: Alberta, Drumheller, Visitor Centre	primary	rbcL	51.468	-112.714	0.123384004388206
+Lonicera_tatarica	MG222655.1	26-DEC-2017	552	Canada: Ontario, Hamilton-Wentworth, Dundas, Rock Chapel West	primary	rbcL	43.276	-79.95	0.123384004388206
+Lonicera_tatarica	MG222348.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	48.249	-101.294	0.122978323070142
+Lonicera_tatarica	MG222288.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	46.662	-100.895	0.122644076795502
+Lonicera_tatarica	KX678658.1	29-APR-2017	552	Canada: British Columbia, Cariboo Regional District, 108 Mile Ranch, undeveloped section of private property	primary	rbcL	51.743	-121.344	0.122644076795502
+Lonicera_tatarica	HQ590167.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., W side of trail 20 m from road above North Barn	primary	rbcL	44.032	-79.534	0.125030441733806
+Lonicera_tatarica	KT695476.1	29-SEP-2015	549	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.8518464950165	-80.0522175789435	0.122648128847408
+Lonicera_tatarica	KT695435.1	29-SEP-2015	444	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.3655498253196	-80.8719281989277	0.126322600737771
+Lonicera_tatarica	KJ841385.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Parking lot by maintenance shed, by edge of road	primary	rbcL	45.538	-73.156	0.122978323070142
+Lonicera_tatarica	KC473894.1	29-JAN-2013	482	USA: New York, New York City, Jamaica Bay	primary	rbcL	40.61	-73.82	0.122307568415652
+Lonicera_tatarica	OR670315.1	06-NOV-2023	569	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.122636387324765
+Lonicera_tatarica	MT931263.1	03-MAR-2023	569	China	secondary	rbcL	35.4313153834161	105.423557095004	0.12337541301229
+Lonicera_tatarica	MG223933.1	26-DEC-2017	553	Canada: Ontario, Norfolk County, Delhi Township, Fisher's Glen CA, Near North Parking Lot	secondary	rbcL	43.72634945	-77.7101179040839	0.122972352051239
+Lonicera_tatarica	AB937197.1	04-OCT-2014	680	Japan: Nagano, Karuizawa Botanical Garden	secondary	rbcL	36.6485851	138.1947664	0.458464400960979
+Lonicera_tatarica	AB937184.1	04-OCT-2014	687	China	secondary	rbcL	34.4847899798119	105.793830101234	0.458604831127949
+Lonicera_tatarica	AB937176.1	04-OCT-2014	687	Japan: Iwate, Hachimantai	secondary	rbcL	39.9564706	141.0709451	0.458604831127949
+Lonicera_tatarica	AB937167.1	04-OCT-2014	686	Japan: Tochigi, Nikko Botanical Garden	secondary	rbcL	36.7498993	139.5866943	0.4583625927058
+Lonicera_tatarica	AB937165.1	04-OCT-2014	683	USA	secondary	rbcL	39.7837304	-100.445882	0.458554664378766
+Lonicera_tatarica	AB937144.1	04-OCT-2014	687	Japan: Nagano, Matsumoto	secondary	rbcL	36.2382047	137.9687141	0.458604831127949
+Lonicera_tatarica	AB937141.1	04-OCT-2014	687	Japan: Nagano, Omachi	secondary	rbcL	36.5029093	137.8508885	0.459499939410548
+Lonicera_tatarica	KP088670.1	15-MAR-2015	785	China	secondary	rbcL	39.5969377326351	117.243676155659	0.120861762346303
+Lonicera_tatarica	KP088669.1	15-MAR-2015	785	China	secondary	rbcL	40.3160111519728	115.803146131447	0.120576652041422
+Lonicera_tatarica	KP088668.1	15-MAR-2015	785	China	secondary	rbcL	39.3675217182303	116.569679426623	0.120861762346303

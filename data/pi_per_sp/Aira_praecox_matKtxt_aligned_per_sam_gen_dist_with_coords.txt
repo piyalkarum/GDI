@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aira_praecox	MF597149.1	17-JUL-2018	819	Canada: British Columbia, Vancouver Island, Thetis Lake Regional Park, just N of Hwy. 1, N of Langford.	primary	matK	48.465	-123.472	0.00105892697205756
+Aira_praecox	MF597148.1	17-JUL-2018	819	Canada: British Columbia, Francis Point Provincial Park - just south of Pender Harbour, Sunshine Coast	primary	matK	49.613	-124.055	0.00105892697205756
+Aira_praecox	MF597147.1	17-JUL-2018	819	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	matK	48.843	-123.305	0.00105892697205756
+Aira_praecox	JN894584.1	07-MAR-2012	851	United Kingdom: Carmarthenshire	primary	matK	52.05	-3.7	0.000830784277805231
+Aira_praecox	LR606813.1	25-JAN-2021	2117	Germany	secondary	matK	40.4203479	-79.1166983	0.000815502660521111
+Aira_praecox	HM850558.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00191657874142917
+Aira_praecox	JN895889.1	07-MAR-2012	792	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000856399144145986

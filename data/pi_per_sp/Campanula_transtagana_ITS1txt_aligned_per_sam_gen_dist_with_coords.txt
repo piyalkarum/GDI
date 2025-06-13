@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_transtagana	FM212781.1	27-APR-2009	732	Spain:Huelva	primary	ITS1	37.34	-6.45	0.0525841886597138
+Campanula_transtagana	FM212780.1	27-APR-2009	727	Spain:Huelva	primary	ITS1	37.24	-6.23	0.0339730939424407
+Campanula_transtagana	FM212726.1	27-APR-2009	608	Spain:Sevilla	primary	ITS1	37.41	-6.18	0.0171646654879059
+Campanula_transtagana	FM212725.1	27-APR-2009	649	Spain:Sevilla	primary	ITS1	37.43	-6.1	0.0133065837653961
+Campanula_transtagana	FM212724.1	27-APR-2009	698	Spain:Huelva	primary	ITS1	37.6271863307814	-6.95447791836155	0.0240809996606331
+Campanula_transtagana	FM212723.1	27-APR-2009	698	Spain:Huelva	primary	ITS1	38.2446691174894	-6.63327248225377	0.0240809996606331
+Campanula_transtagana	FM212722.1	27-APR-2009	699	Spain:Cordoba	primary	ITS1	38.16	-4.19	0.0218303237932161
+Campanula_transtagana	FM212721.1	27-APR-2009	692	Spain:Cordoba	primary	ITS1	38.19	-4.19	0.021302412463833

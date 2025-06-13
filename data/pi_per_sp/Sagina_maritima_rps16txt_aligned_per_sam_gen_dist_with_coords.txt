@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_maritima	OK505819.1	22-FEB-2022	736	Greece: Island of Lesvos, Skala Kalloni	primary	rps16	39.2	26.216667	0.00127125039530048
+Sagina_maritima	OK505818.1	22-FEB-2022	736	Greece: Island of Lesvos, Parakila	primary	rps16	39.2	26.166667	0.00232209082807065
+Sagina_maritima	OK505817.1	22-FEB-2022	736	Greece: Anaxiatiko	primary	rps16	39.1219077027564	21.2618134376333	0.00127125039530048
+Sagina_maritima	OK505816.1	22-FEB-2022	747	Greece: Anaxiatiko	primary	rps16	38.5495876972317	20.7836181946813	0.00254250079060095
+Sagina_maritima	OK505815.1	22-FEB-2022	736	Greece: Keramoti, Salines	primary	rps16	40.883333	24.716667	0.00254250079060095
+Sagina_maritima	MT671703.1	06-DEC-2021	698	Germany	primary	rps16	54.6	8.5	0.00154286973771214
+Sagina_maritima	OK505814.1	22-FEB-2022	736	Spain: A Coruna, Praia do Testal	secondary	rps16	42.7903644	-8.9134689	0.00127125039530048
+Sagina_maritima	OK505813.1	22-FEB-2022	736	Portugal: Azores, Ilha do Faial, Horta	secondary	rps16	38.5300378	-28.6504756	0.001474590564537
+Sagina_maritima	OK505812.1	22-FEB-2022	736	United Kingdom: Cambridge	secondary	rps16	52.2055314	0.1186637	0.001474590564537
+Sagina_maritima	OK505811.1	22-FEB-2022	736	United Kingdom: Cardiganshire, Aberystwyth	secondary	rps16	52.0794889994259	-3.30995700663218	0.00253681085950302
+Sagina_maritima	OK505810.1	22-FEB-2022	736	United Kingdom: Cardiganshire, Aberystwyth	secondary	rps16	51.6411985965012	-4.81112444059862	0.00253681085950302
+Sagina_maritima	MT671705.1	06-DEC-2021	698	United Kingdom	secondary	rps16	54.7023545	-3.2765753	0.00154286973771214
+Sagina_maritima	MT671704.1	06-DEC-2021	698	Spain	secondary	rps16	39.3260685	-4.8379791	0.00242450958783337
+Sagina_maritima	OK505820.1	22-FEB-2022	736	Greece	secondary	rps16	38.9753895	26.3684237	0.00127125039530048

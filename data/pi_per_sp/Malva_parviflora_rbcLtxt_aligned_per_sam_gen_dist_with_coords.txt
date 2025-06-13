@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Malva_parviflora	MH115441.1	07-OCT-2018	553	Bahrain	primary	rbcL	26.045647	50.542264	0.000100462125778581
+Malva_parviflora	MG249814.1	21-JAN-2018	552	Canada: British Columbia, Cache Creek, 2 km northwest of, Horsting's Farm, Highway 97	primary	rbcL	50.829	-121.35	0.000100644122383253
+Malva_parviflora	KR737482.1	13-MAY-2016	477	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.935081946014064	36.8892529560222	0.000116468669927789
+Malva_parviflora	KR737447.1	13-MAY-2016	480	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	-0.0307466578795624	36.0805905631117	0
+Malva_parviflora	KR736980.1	13-MAY-2016	471	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	-0.0432741496210923	37.0211325638255	0
+Malva_parviflora	KR736757.1	13-MAY-2016	472	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.373535458959533	36.4442965679697	0
+Malva_parviflora	JQ412388.1	16-JAN-2013	552	South Africa: Western Cape, Cape Town, Robben Island	primary	rbcL	-33.81	18.379	0.000100644122383253
+Malva_parviflora	OQ391580.1	10-MAY-2023	525	Peru	secondary	rbcL	-6.85516327910513	-74.9633032100291	0.000764420764420765
+Malva_parviflora	OQ391558.1	10-MAY-2023	516	Peru	secondary	rbcL	-7.54958902589218	-75.0199354455242	0.000775494961541473
+Malva_parviflora	ON951014.1	17-OCT-2022	567	Kenya	secondary	rbcL	1.4419683	38.4313975	0.000259000259000259
+Malva_parviflora	MK291495.1	31-DEC-2019	553	Bahrain	secondary	rbcL	25.2277075	55.1715492	0.000100462125778581
+Malva_parviflora	MH598881.1	22-JAN-2019	590	Saudi Arabia: Taif	secondary	rbcL	21.2702801	40.4158308	0.000599295333362379
+Malva_parviflora	MF668595.1	24-JAN-2018	653	Egypt	secondary	rbcL	26.2540493	29.2675469	0.000315049998099188
+Malva_parviflora	MG247827.1	21-JAN-2018	552	Canada: British Columbia, Victoria	secondary	rbcL	47.9851002273822	-123.845895829681	0.000100644122383253
+Malva_parviflora	MG246226.1	21-JAN-2018	552	Canada: British Columbia, Victoria	secondary	rbcL	48.8370922018337	-124.514193857841	0.000100644122383253
+Malva_parviflora	KX282871.1	28-MAY-2017	574	Kuwait	secondary	rbcL	28.8265583380874	47.1987744992253	0.0015239162394774
+Malva_parviflora	KX282870.1	28-MAY-2017	580	Kuwait	secondary	rbcL	29.3369779260915	47.7133061880686	0.000406058033925892
+Malva_parviflora	KX282869.1	28-MAY-2017	576	Kuwait	secondary	rbcL	29.0452124254235	47.1605835672455	0.000406723210596816
+Malva_parviflora	HM850158.1	23-JUL-2011	689	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000315236012910432

@@ -1,0 +1,31 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melilotus_altissimus	JN892934.1	07-MAR-2012	534	United Kingdom: Cardiganshire	primary	rbcL	52.41	-4.08	0
+Melilotus_altissimus	MN533412.1	28-OCT-2019	754	China	secondary	rbcL	35.000074	104.999927	0
+Melilotus_altissimus	MN533411.1	28-OCT-2019	754	USA	secondary	rbcL	40.5595375636424	-100.697388216893	0
+Melilotus_altissimus	MN532808.1	28-OCT-2019	754	USA	secondary	rbcL	40.5081231594172	-100.981625707973	0
+Melilotus_altissimus	MN532807.1	28-OCT-2019	754	USA	secondary	rbcL	39.3746126121122	-99.865030567147	0
+Melilotus_altissimus	MN532806.1	28-OCT-2019	754	USA	secondary	rbcL	39.5674453260746	-99.4936803743331	0
+Melilotus_altissimus	MN532805.1	28-OCT-2019	754	USA	secondary	rbcL	40.1000030252105	-100.319277601843	0
+Melilotus_altissimus	MN532804.1	28-OCT-2019	754	USA	secondary	rbcL	39.5773397295641	-99.4601039839483	0
+Melilotus_altissimus	MN532803.1	28-OCT-2019	754	USA	secondary	rbcL	39.5175768197902	-100.655172390256	0
+Melilotus_altissimus	MN532802.1	28-OCT-2019	754	USA	secondary	rbcL	39.1737001840893	-99.8628883333694	0
+Melilotus_altissimus	MN532801.1	28-OCT-2019	754	USA	secondary	rbcL	40.002997617495	-100.492890426382	0
+Melilotus_altissimus	MN532800.1	28-OCT-2019	754	USA	secondary	rbcL	39.8193201985251	-100.007543778971	0
+Melilotus_altissimus	MN532799.1	28-OCT-2019	754	USA	secondary	rbcL	40.5013063216234	-100.270082627236	0
+Melilotus_altissimus	MN532798.1	28-OCT-2019	754	USA	secondary	rbcL	40.0670729063475	-99.8641214367512	0
+Melilotus_altissimus	MN532797.1	28-OCT-2019	754	USA	secondary	rbcL	39.837015327025	-101.314808628656	0
+Melilotus_altissimus	MN532796.1	28-OCT-2019	754	USA	secondary	rbcL	39.4086290305804	-100.357115625766	0
+Melilotus_altissimus	MN532795.1	28-OCT-2019	754	USA	secondary	rbcL	39.9448483473407	-99.407150492041	0
+Melilotus_altissimus	MN532794.1	28-OCT-2019	754	USA	secondary	rbcL	40.2923417593555	-99.5760458252937	0
+Melilotus_altissimus	MN532793.1	28-OCT-2019	754	USA	secondary	rbcL	39.7307495180128	-99.849345637241	0
+Melilotus_altissimus	MN532792.1	28-OCT-2019	754	USA	secondary	rbcL	39.61382785166	-100.272849146007	0
+Melilotus_altissimus	MN532791.1	28-OCT-2019	754	USA	secondary	rbcL	40.5348459486844	-100.676214275629	0
+Melilotus_altissimus	MN532790.1	28-OCT-2019	754	USA	secondary	rbcL	40.2569775879803	-99.4712202031916	0
+Melilotus_altissimus	MN532789.1	28-OCT-2019	754	USA	secondary	rbcL	40.3401858883022	-100.991350491442	0
+Melilotus_altissimus	MN532696.1	28-OCT-2019	754	USA	secondary	rbcL	40.0550745078027	-100.701784514304	0
+Melilotus_altissimus	MN532695.1	28-OCT-2019	754	USA	secondary	rbcL	40.0526828395182	-99.4221661081817	0
+Melilotus_altissimus	MG248071.1	21-JAN-2018	552	Canada: Ontario, Niagara R. M., Niagara.	secondary	rbcL	43.72634945	-77.7101179040839	0
+Melilotus_altissimus	MG247533.1	21-JAN-2018	552	Canada: Nova Scotia, Annapolis Co., Near Thorne Cove.	secondary	rbcL	45	-63.75	0
+Melilotus_altissimus	MG246276.1	21-JAN-2018	552	Canada: Ontario, Connestoga.	secondary	rbcL	43.447096	-80.4915908	0
+Melilotus_altissimus	JN890824.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Melilotus_altissimus	JN890823.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

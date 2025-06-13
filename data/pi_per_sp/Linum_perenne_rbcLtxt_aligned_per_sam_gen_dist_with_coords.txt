@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linum_perenne	MF349746.1	21-SEP-2017	553	USA: District of Columbia; Bartholdi Park located behind the U.S. Botanic Garden, 100 Maryland Ave.	primary	rbcL	38.887	-77.012	0.0201928872814949
+Linum_perenne	HQ590161.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 200 m S of classroom	primary	rbcL	44.028	-79.532	0.0201564380264741
+Linum_perenne	MT930608.1	03-MAR-2023	566	China	secondary	rbcL	35.7393026921754	105.037587045027	0.01976401179941
+Linum_perenne	MT930607.1	03-MAR-2023	565	China	secondary	rbcL	35.2551908117904	104.08015408561	0.120998945963468
+Linum_perenne	MK925223.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0856256665034	-1.87339010116455	0.0202952029520295
+Linum_perenne	MK924979.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.5213367153612	-2.90546644437515	0.0202952029520295
+Linum_perenne	MK924507.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9577615153666	-2.2264956904796	0.0202952029520295

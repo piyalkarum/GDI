@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hibiscus_trionum	MG247446.1	21-JAN-2018	552	Canada: UofG campus	primary	rbcL	43.6927823962682	-79.7264476230249	0.00380237125144132
+Hibiscus_trionum	MG247290.1	21-JAN-2018	552	Canada: UofG Campus	primary	rbcL	43.8966058435834	-80.8027627909112	0.00380237125144132
+Hibiscus_trionum	MG247289.1	21-JAN-2018	552	Canada: Middlesex Co	primary	rbcL	43	-81.5	0.00380237125144132
+Hibiscus_trionum	MG246509.1	21-JAN-2018	552	Canada: Huron Co	primary	rbcL	44.0187	-81.6574	0.00380237125144132
+Hibiscus_trionum	KR736802.1	13-MAY-2016	505	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.742306282725221	37.5915984889531	0.00935112444118766
+Hibiscus_trionum	KR736691.1	13-MAY-2016	525	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.620076126329818	36.6238263788283	0.00495697074010327
+Hibiscus_trionum	MT931735.1	03-MAR-2023	571	China	secondary	rbcL	35.000074	104.999927	0.00379790436004038
+Hibiscus_trionum	HM850051.1	23-JUL-2011	689	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0169840849945522

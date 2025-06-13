@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_amplexicaule	JX073998.1	18-OCT-2013	701	Poland	secondary	rpoC1	52.0069571344956	20.416211829544	0
+Lamium_amplexicaule	JX073997.1	18-OCT-2013	701	Poland	secondary	rpoC1	52.7885189503525	20.0441448282749	0
+Lamium_amplexicaule	JX073996.1	18-OCT-2013	701	Poland	secondary	rpoC1	52.8303597497895	19.5855389541741	0
+Lamium_amplexicaule	JX073995.1	18-OCT-2013	701	Poland	secondary	rpoC1	52.9376768758774	19.4103498756705	0

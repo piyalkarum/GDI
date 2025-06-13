@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_montana	MG223983.1	26-DEC-2017	551	Canada: Guelph Conservation Area	primary	rbcL	43.5485	-80.2503	0.00181488203266788
+Centaurea_montana	MG223927.1	26-DEC-2017	552	Canada: Regina	primary	rbcL	50.4553	-104.61	0.000604960677555959
+Centaurea_montana	MG223403.1	26-DEC-2017	552	Canada: Laval	primary	rbcL	45.5708	-73.6901	0.000604960677555959
+Centaurea_montana	MG223271.1	26-DEC-2017	553	Canada: Quebec, The Golden Valley, Val-d'Or, Au bord du ruisseau du boise entre les rues Villeneuve et Cure-Roy. Pres du petit parc	primary	rbcL	48.097	-77.782	0.000604960677555959

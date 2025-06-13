@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vitis_vinifera	KX784023.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	31.2	30.022	NA
+Vitis_vinifera	AJ635355.1	07-APR-2004	1403	Greece	secondary	rbcL	43.2097838	-77.6930602	0.0110410562151725
+Vitis_vinifera	AJ487012.1	16-MAY-2002	151	Hungary	secondary	rbcL	42.4067699391054	-73.4580184177815	NA
+Vitis_vinifera	AJ487011.1	16-MAY-2002	121	Hungary	secondary	rbcL	41.7407067493686	-72.4882871488476	NA
+Vitis_vinifera	KP088918.1	15-MAR-2015	785	China	secondary	rbcL	39.9057136	116.3912972	NA

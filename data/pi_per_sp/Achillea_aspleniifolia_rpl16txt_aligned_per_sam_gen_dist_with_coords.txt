@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achillea_aspleniifolia	HQ450963.1	27-FEB-2012	859	Czech Republic: S Moravia	secondary	rpl16	50.0136697059435	18.3911453213672	0.00039032006245121
+Achillea_aspleniifolia	HQ450962.1	27-FEB-2012	859	Czech Republic: S Moravia	secondary	rpl16	50.236012061268	17.5023845874045	0.00039032006245121
+Achillea_aspleniifolia	HQ450961.1	27-FEB-2012	859	Austria: Burgenland	secondary	rpl16	46.6528301908519	16.1790785736099	0.00039032006245121
+Achillea_aspleniifolia	HQ450960.1	27-FEB-2012	859	Austria: Burgenland	secondary	rpl16	47.1603990483367	15.8160863566857	0.00039032006245121
+Achillea_aspleniifolia	HQ450959.1	27-FEB-2012	859	Austria: Burgenland	secondary	rpl16	47.7255158732997	15.4531434430466	0.00039032006245121
+Achillea_aspleniifolia	HQ450958.1	27-FEB-2012	876	Austria: Burgenland	secondary	rpl16	47.5783667347186	16.8020366503749	0.000975800156128025
+Achillea_aspleniifolia	HQ450957.1	27-FEB-2012	876	Austria: Burgenland	secondary	rpl16	46.998714115901	15.9942406148245	0.000975800156128025

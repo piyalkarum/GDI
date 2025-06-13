@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Onosma_arenaria	JX267922.1	18-SEP-2012	589	Romania: Letea	secondary	rps16	45.0667551057688	29.3221634576484	0.353790613718412
+Onosma_arenaria	JX267921.1	18-SEP-2012	589	Romania: Caraorman	secondary	rps16	45.1228750178195	28.9483968271712	0.353790613718412
+Onosma_arenaria	JX267903.1	18-SEP-2012	795	Romania: Letea	secondary	rps16	45.1612515986604	28.9749555047457	0.353790613718412
+Onosma_arenaria	JX267902.1	18-SEP-2012	795	Romania: Caraorman	secondary	rps16	44.2430160289506	29.7900565553061	0.353790613718412

@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_major	OR738240.1	13-NOV-2023	662	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.223392056459297
+Plantago_major	OR575188.1	25-OCT-2023	764	Kazakhstan: Qaragandy region	primary	matK	46.77978	74.70621	0.0442500633637341
+Plantago_major	OL434901.1	14-NOV-2022	718	USA: Georgia	primary	matK	32.126	-81.14	0.0427630449733009
+Plantago_major	ON684580.1	21-AUG-2022	1509	Portugal: Estacao Agronomica Nacional, Oeiras, Lisboa	primary	matK	38.69611	-9.31805	0.0426087335949551
+Plantago_major	KX676649.1	09-AUG-2017	779	Canada: British Columbia, Squamish-Lillooet Regional District, Ashlu Main Rd., near Squamish	primary	matK	49.933	-123.364	0.0431179162794499
+Plantago_major	MG225134.1	21-JAN-2018	701	USA: North Dakota	primary	matK	48.943	-100.508	0.0416554122013935
+Plantago_major	KJ593055.1	17-MAR-2015	756	USA: Wisconsin, Abrams	primary	matK	44.814	-88.03	0.0432931929803989
+Plantago_major	KJ593054.1	17-MAR-2015	675	USA: Wisconsin, Laona	primary	matK	45.51	-88.714	0.042538784479753
+Plantago_major	KJ840965.1	23-SEP-2014	733	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, west side of Blue Trail, n-w of Sunrise summit	primary	matK	45.557	-73.1646	0.042921991162899
+Plantago_major	JN966425.1	27-OCT-2012	749	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	matK	58.78	-94.195	0.043353621492059
+Plantago_major	JN894945.1	07-MAR-2012	790	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.0421646929318564
+Plantago_major	MN317531.1	30-SEP-2021	767	China	secondary	matK	35.000074	104.999927	0.0499871693882884
+Plantago_major	HQ619825.1	26-DEC-2010	825	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.0424263353005474
+Plantago_major	MG428543.1	02-APR-2018	718	Austria	secondary	matK	36.9148511	-4.7534501	0.542833950549565
+Plantago_major	KX299004.1	06-FEB-2017	833	Egypt	secondary	matK	26.2540493	29.2675469	0.0431288645601547
+Plantago_major	KJ204520.1	29-JAN-2015	816	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0427844491454252
+Plantago_major	HM851044.1	23-JUL-2011	801	Portugal	secondary	matK	39.6621648	-8.1353519	0.0443249824270975
+Plantago_major	HE966969.1	18-SEP-2012	727	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0477211815934031
+Plantago_major	JN895254.1	07-MAR-2012	859	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0423766549954164

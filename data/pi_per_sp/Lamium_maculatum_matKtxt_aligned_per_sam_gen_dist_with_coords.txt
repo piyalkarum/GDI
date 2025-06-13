@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_maculatum	KF188563.1	26-OCT-2013	786	Poland	secondary	matK	52.0730740235621	19.1951627082447	0.00154850772496591
+Lamium_maculatum	KF188562.1	26-OCT-2013	786	Poland	secondary	matK	51.7379589291118	19.2396708844755	0.00101781170483461
+Lamium_maculatum	KF055085.1	26-OCT-2013	786	Italy	secondary	matK	42.6384261	12.674297	0.00309701544993182
+Lamium_maculatum	KF055084.1	26-OCT-2013	786	Romania	secondary	matK	45.9852129	24.6859225	0.00101781170483461
+Lamium_maculatum	KF055083.1	26-OCT-2013	786	France	secondary	matK	46.603354	1.8883335	0.00154850772496591
+Lamium_maculatum	HE966944.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00110497237569061

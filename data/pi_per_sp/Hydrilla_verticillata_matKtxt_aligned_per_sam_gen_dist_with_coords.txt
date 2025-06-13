@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hydrilla_verticillata	LC219318.1	16-MAR-2017	618	China:Zhejiang, East Tiaoxi River	primary	matK	30.3736	119.937	0.00088261253309797
+Hydrilla_verticillata	LC219287.1	16-MAR-2017	630	China:Zhejiang, East Tiaoxi River	primary	matK	30.3231	119.9455	0.000865800865800866
+Hydrilla_verticillata	LC219279.1	16-MAR-2017	684	China:Zhejiang, East Tiaoxi River	primary	matK	30.2999	119.9471	0.000797448165869219
+Hydrilla_verticillata	LC219250.1	16-MAR-2017	609	China:Zhejiang, East Tiaoxi River	primary	matK	30.2583757452011	119.40128264013	0.000895656068069861
+Hydrilla_verticillata	LC219246.1	16-MAR-2017	810	China:Zhejiang, East Tiaoxi River	primary	matK	29.8448854830373	119.264136399664	0.000673400673400673
+Hydrilla_verticillata	LC219239.1	16-MAR-2017	771	China:Zhejiang, East Tiaoxi River	primary	matK	30.4311	120.0504	0.000707463742483198
+Hydrilla_verticillata	LC219233.1	16-MAR-2017	708	China:Zhejiang, East Tiaoxi River	primary	matK	30.3390858820795	119.152487709962	0.000770416024653313
+Hydrilla_verticillata	LC219232.1	16-MAR-2017	828	China:Zhejiang, East Tiaoxi River	primary	matK	30.9089394526189	120.319711296093	0.000658761528326746
+Hydrilla_verticillata	LC219223.1	16-MAR-2017	822	China:Zhejiang, East Tiaoxi River	primary	matK	29.9680622251815	120.847638019292	0.0006635700066357
+Hydrilla_verticillata	LC219197.1	16-MAR-2017	699	China:Zhejiang, East Tiaoxi River	primary	matK	30.596	120.0595	0.000781453503516541
+Hydrilla_verticillata	OL989377.1	29-JAN-2022	1095	India: J&K,Srinagar	secondary	matK	28.5424922	77.2029544	0.000521966072205307
+Hydrilla_verticillata	LC128068.1	01-APR-2017	1048	Japan: Tochigi	secondary	matK	36.6782167	139.8096549	0.00821854918405939

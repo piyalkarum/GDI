@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_ciliata	KF547583.1	09-SEP-2014	374	Spain: Reg. Castile and Leon, Prov. Leon,Torrestio	primary	trnL-trnF	43.0456	-6.0464	0.00178731009830206
+Arabis_ciliata	KF547582.1	09-SEP-2014	374	Spain: Aragon, Prov. Huesca,Aisa	primary	trnL-trnF	42.6797	-0.6197	0.0017825311942959
+Arabis_ciliata	KF547581.1	09-SEP-2014	374	Switzerland: Graubuenden,Muenster	primary	trnL-trnF	46.6306	10.4464	0.0017825311942959
+Arabis_ciliata	KF547570.1	09-SEP-2014	374	Bosnia and Herzegovina: Republika Srpska,Sarajevo, near peak of Mt. Trebevic	primary	trnL-trnF	43.79	18.51	0.00406384996455231
+Arabis_ciliata	KF547519.1	09-SEP-2014	374	Italy: Lombardy, Prov. Brescia,near Magasa, Valle de Vestino	primary	trnL-trnF	45.7826	10.6166	0.00406384996455231
+Arabis_ciliata	HQ646685.1	31-DEC-2011	362	Spain: Prov. Huesca, Chia, pista a Plan, collado de Chia	primary	trnL-trnF	42.57	0.39	0.00184162062615101
+Arabis_ciliata	HQ646670.1	31-DEC-2011	358	Spain: Prov. Leon, Montes Aquilianos, Los Apostoles	primary	trnL-trnF	42.45	-6.6	0.000933706816059757

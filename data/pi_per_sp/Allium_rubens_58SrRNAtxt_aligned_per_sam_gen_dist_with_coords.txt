@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_rubens	AM949616.1	05-FEB-2009	643	Russia:Altai mountains, Sailugem range, Chernaja	secondary	5.8S rRNA	49.68267057132	84.7057543076363	0
+Allium_rubens	AM949615.1	05-FEB-2009	643	Russia:Tuva, Mogen-Buren river	secondary	5.8S rRNA	50.1327353	89.7687185	0
+Allium_rubens	AM949614.1	05-FEB-2009	643	Russia:Altai, rivers Chuja-Katun	secondary	5.8S rRNA	49.7995174	86.5788193	0
+Allium_rubens	AM949617.1	05-FEB-2009	643	Russia	secondary	5.8S rRNA	50.1428994765112	85.9937478964192	0

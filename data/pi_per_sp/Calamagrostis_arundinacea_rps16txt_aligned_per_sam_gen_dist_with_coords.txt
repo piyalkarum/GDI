@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_arundinacea	OL540231.1	16-AUG-2022	820	Russia	secondary	rps16	64.3488891482114	98.4685389662945	0.324025588722782
+Calamagrostis_arundinacea	OL540230.1	16-AUG-2022	819	France	secondary	rps16	46.4290479429396	1.61329851977082	0.324748755517986
+Calamagrostis_arundinacea	OL540229.1	16-AUG-2022	820	Romania	secondary	rps16	45.2879388741467	23.9283139675775	0.324025588722782
+Calamagrostis_arundinacea	OL540135.1	16-AUG-2022	728	Russia	secondary	rps16	64.9741599433808	97.9462136282804	0.323920202624327
+Calamagrostis_arundinacea	OL540134.1	16-AUG-2022	728	France	secondary	rps16	47.3827239829916	1.42510612358876	0.323920202624327
+Calamagrostis_arundinacea	OL540133.1	16-AUG-2022	728	Romania	secondary	rps16	46.3972382749977	23.6586069546327	0.325081627836997

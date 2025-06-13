@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cistus_ladanifer	KY651349.1	30-JUN-2018	453	Spain	primary	trnL-trnF	37.29	-6.23	0.00335731414868106
+Cistus_ladanifer	MZ869759.1	17-SEP-2021	415	Portugal	secondary	trnL-trnF	39.6621648	-8.1353519	0.00360824742268041
+Cistus_ladanifer	DQ093046.1	11-JUL-2005	418	Portugal: Sagres	secondary	trnL-trnF	37.0078288	-8.941924	0.00335731414868106
+Cistus_ladanifer	DQ093045.1	11-JUL-2005	417	Portugal: Cabo de San Vicente	secondary	trnL-trnF	37.0226155	-8.9966125	0.00676090215947893
+Cistus_ladanifer	DQ093044.1	11-JUL-2005	284	Spain: Al, Sierra de la Alhamilla	secondary	trnL-trnF	36.835941	-2.4494444	0.00424028268551237
+Cistus_ladanifer	DQ093043.1	11-JUL-2005	417	Spain: M, Boadilla del Monte	secondary	trnL-trnF	40.4053485	-3.8764663	0.0125984193156203

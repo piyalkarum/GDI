@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_purpureum	MG222625.1	26-DEC-2017	552	Canada: Guelph Arbo.	primary	rbcL	43.5485	-80.2503	0.00198668785670505
+Lamium_purpureum	JN891872.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.66	-4.08	0.00605134016515704
+Lamium_purpureum	OR464858.1	26-SEP-2023	615	USA: Wood Hall Greenhouse Courtyard, Kalamazoo, MI	primary	rbcL	42.28211949	-85.61620731	0.00207531978693371
+Lamium_purpureum	MG224246.1	26-DEC-2017	552	Canada: British Columbia, Vancouver Island, Victoria,University of Victoria, Cornett Building	primary	rbcL	48.475	-123.35	0.00198668785670505
+Lamium_purpureum	KP402762.1	06-JAN-2016	527	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, Cumberstone Rd. - on left side of road near gate before going down the hill to the CO2 site	primary	rbcL	38.87	-76.551	0.00285585103660009
+Lamium_purpureum	JN890649.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.00198909131561207
+Lamium_purpureum	JN891287.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00605134016515704
+Lamium_purpureum	JN891284.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00605134016515704
+Lamium_purpureum	HQ619755.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00198350699233052
+Lamium_purpureum	KF055132.1	26-OCT-2013	1162	Poland	secondary	rbcL	51.9030697441497	20.2439702017074	0.00176474741154961
+Lamium_purpureum	KF055131.1	26-OCT-2013	1162	Poland	secondary	rbcL	52.7403007100988	18.2998011392092	0.00194915852539274
+Lamium_purpureum	KF055130.1	26-OCT-2013	1162	Poland	secondary	rbcL	51.8736789394798	17.7990704709994	0.00176474741154961
+Lamium_purpureum	HM850103.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00558108112264111
+Lamium_purpureum	JN891285.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00198909131561207
+Lamium_purpureum	AB266224.1	25-JUL-2006	1323	Japan:Osaka, Katano	secondary	rbcL	34.792144	135.678333	0.00239229212906998

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_tribuloides	KY951682.1	18-APR-2018	623	Kuwait	secondary	rbcL	28.9095783376014	48.5256470828343	0.00221261528326746
+Astragalus_tribuloides	KY951681.1	18-APR-2018	632	Kuwait	secondary	rbcL	30.0178552092577	47.8580457459615	0.00221261528326746
+Astragalus_tribuloides	KX282582.1	28-MAY-2017	575	Kuwait	secondary	rbcL	28.6331831324735	48.2595363637918	0.00663784584980237
+Astragalus_tribuloides	KX282581.1	28-MAY-2017	528	Kuwait	secondary	rbcL	29.1138735812538	48.3989564489409	0.00284090909090909
+Astragalus_tribuloides	KX282580.1	28-MAY-2017	580	Kuwait	secondary	rbcL	29.5985422307763	48.713329812187	0.00221261528326746

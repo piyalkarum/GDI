@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salicornia_europaea	OQ791311.1	02-AUG-2023	584	Egypt	primary	rbcL	29.4063	30.5197	0.348718721559593
+Salicornia_europaea	JN890860.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.1	-4.68	0.349653402357676
+Salicornia_europaea	MT931117.1	03-MAR-2023	572	China	secondary	rbcL	35.000074	104.999927	0.348776586691709
+Salicornia_europaea	KX282991.1	28-MAY-2017	551	Kuwait	secondary	rbcL	30.028301919123	48.2452559449103	0.353592334790681
+Salicornia_europaea	KX282990.1	28-MAY-2017	580	Kuwait	secondary	rbcL	29.6696267091617	47.0309036707329	0.350363149192541
+Salicornia_europaea	HM131777.1	29-JUN-2010	1343	China: Balikun, Hami, Xinjiang	secondary	rbcL	44.7063198	94.0962563	0.341820831697996
+Salicornia_europaea	JN893163.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.7580791911836	-3.85643507491122	0.349653402357676
+Salicornia_europaea	JN893162.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.9340745100481	-4.40083845953005	0.349653402357676
+Salicornia_europaea	AB537537.1	03-JUN-2010	736	South Korea: Inchon, Yongyudo	secondary	rbcL	37.4510572997824	126.46625322928	0.253504468072397
+Salicornia_europaea	AB537536.1	03-JUN-2010	736	South Korea: Inchon, Yongyudo	secondary	rbcL	37.8687024848174	127.630300904458	0.253504468072397
+Salicornia_europaea	AB537535.1	03-JUN-2010	736	Japan: Okayama, Yorishima	secondary	rbcL	33.8769528476938	134.19769619763	0.253504468072397
+Salicornia_europaea	AB537534.1	03-JUN-2010	736	Japan: Okayama, Yorishima	secondary	rbcL	34.7666478183327	134.041107173819	0.253504468072397
+Salicornia_europaea	AB537533.1	03-JUN-2010	736	Japan: Okayama, Yorishima	secondary	rbcL	35.2083476227841	133.917569777809	0.253504468072397
+Salicornia_europaea	AB537532.1	03-JUN-2010	736	Japan: Okayama, Yorishima	secondary	rbcL	34.8114457230021	133.38662442533	0.253504468072397
+Salicornia_europaea	AB537531.1	03-JUN-2010	736	Japan: Kagawa, Sakaide	secondary	rbcL	34.3082086	133.8698532	0.253504468072397
+Salicornia_europaea	AB537530.1	03-JUN-2010	736	Japan: Ehime, Niihama	secondary	rbcL	33.9603497	133.2835899	0.253504468072397
+Salicornia_europaea	AB537529.1	03-JUN-2010	724	Japan: Hokkaido, Notsuke	secondary	rbcL	43.6030965	145.2954554	0.254716043829326
+Salicornia_europaea	AB537528.1	03-JUN-2010	724	Japan: Hokkaido, Nemuro	secondary	rbcL	43.3301154	145.5829068	0.25402543609452
+Salicornia_europaea	AB537527.1	03-JUN-2010	724	Japan: Hokkaido, Abashiri	secondary	rbcL	44.0199184	144.2541269	0.25402543609452

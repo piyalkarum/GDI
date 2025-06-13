@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aristida_adscensionis	OQ390230.1	24-MAY-2023	856	Peru	secondary	matK	-6.8699697	-75.0458515	0.00808727034529292
+Aristida_adscensionis	MN450931.1	30-NOV-2021	801	China	secondary	matK	35.3057192466032	104.692302683379	0.00714781005573499
+Aristida_adscensionis	MN433970.1	30-NOV-2021	789	China	secondary	matK	34.828772667251	104.466019353053	0.00703428211769952
+Aristida_adscensionis	MH037624.1	04-DEC-2018	795	Mexico	secondary	matK	19.4326296	-99.1331785	0.0140813104732107
+Aristida_adscensionis	MF999060.1	09-DEC-2017	1811	Cape Verde	secondary	matK	16.0000552	-24.0083947	0.0313342367238797
+Aristida_adscensionis	AF164412.1	30-APR-2000	1542	Pakistan	secondary	matK	30.3308401	71.247499	0.0788649117858603
+Aristida_adscensionis	HG970228.1	15-MAY-2016	1810	Madagascar	secondary	matK	-18.9249604	46.4416422	0.0313342367238797

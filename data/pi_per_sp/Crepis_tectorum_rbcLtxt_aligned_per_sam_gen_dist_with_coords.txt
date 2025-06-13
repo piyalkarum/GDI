@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crepis_tectorum	MG223526.1	26-DEC-2017	552	Canada: British Columbia, Manning Park, Blackwall Road, rock faces east side of Blackwall Peak	primary	rbcL	49.067	-120.774	0
+Crepis_tectorum	MG223205.1	26-DEC-2017	553	Canada: Ontario, Wellington County, City of Guelph, South-East of Summerfield Road along Victoria Road South	primary	rbcL	43.5485	-80.2503	0
+Crepis_tectorum	MG221910.1	26-DEC-2017	552	Canada: British Columbia, Highway 37, south of Meziadin Junction	primary	rbcL	56.101	-129.307	0
+Crepis_tectorum	MG221605.1	26-DEC-2017	552	Canada: Manitoba, Gillam	primary	rbcL	56.348	-94.698	0
+Crepis_tectorum	KX679184.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail near Link Lake Forest Recreation Site	primary	rbcL	49.7109	-120.231	0
+Crepis_tectorum	JX848409.1	06-AUG-2013	1382	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0

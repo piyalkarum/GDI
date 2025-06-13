@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_germanicus	OL988870.1	08-MAR-2022	867	Croatia: Istarskaya Zhupanya	primary	rps16	45.322222	14.151667	0.00604379266871239
+Lotus_germanicus	OL988869.1	08-MAR-2022	865	Switzerland: Vaud, Reserve de Pupplinge (Boriere) [Boriere, Pas de la Boriere, Alpes Friburgeoises, commune probable, Grandvillard (8 km E)]	primary	rps16	46.5362239	7.14805559	0.0039830573990818
+Lotus_germanicus	OL988868.1	08-MAR-2022	864	Croatia: Kneza	primary	rps16	42.9712193	17.051827	0.00347222222222222
+Lotus_germanicus	OL988867.1	08-MAR-2022	865	Slovenia: Polhograjsko hribovje, In pratis prope Govejek supra vicum Medvode. Solo dolom. 800m	primary	rps16	46.116229	14.345723	0.00295499417207831
+Lotus_germanicus	OL988866.1	08-MAR-2022	865	Italy: Collines au Nord de Rupingrande 350-400m	primary	rps16	45.72153	13.787471	0.0132356264421133
+Lotus_germanicus	OL988865.1	08-MAR-2022	865	Slovakia: austro-orientalis, distr. Roznava, in declivi cartiensi australi infra arcem Turnansky hrad prope vicum Turna n. Bodvou, c.350 m	primary	rps16	48.601585	20.876532	0.00758120435785818
+Lotus_germanicus	OL988864.1	08-MAR-2022	865	Hungary: Budapest, Sas-hegy, steppefied meadow on the slope	primary	rps16	47.482002	19.018889	0.00552507790385119
+Lotus_germanicus	KT262891.1	27-FEB-2017	866	Montenegro	secondary	rps16	-29.6826112	-51.4687455	0.00295454815766312
+Lotus_germanicus	KT262890.1	27-FEB-2017	865	Germany	secondary	rps16	34.895926	-83.4665496	0.00295499417207831
+Lotus_germanicus	KT262889.1	27-FEB-2017	864	Slovenia	secondary	rps16	46.1199444	14.8153333	0.00295781893004115

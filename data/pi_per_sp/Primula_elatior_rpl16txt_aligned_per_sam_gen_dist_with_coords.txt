@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Primula_elatior	JX231058.1	03-SEP-2012	966	Austria: Alps	secondary	rpl16	47.8402808846242	13.8993463363581	0
+Primula_elatior	JX231057.1	03-SEP-2012	966	Austria: Alps	secondary	rpl16	47.0860478711909	13.8279570840767	0
+Primula_elatior	JX231056.1	03-SEP-2012	965	Slovenia: Alps	secondary	rpl16	46.224243	13.6800995	0
+Primula_elatior	JX231055.1	03-SEP-2012	967	Italy: Alps	secondary	rpl16	45.9081401	9.1415824	0
+Primula_elatior	JX231050.1	03-SEP-2012	966	Romania: Rodna Mountains	secondary	rpl16	47.4306425405404	25.7983237286869	0
+Primula_elatior	JX231049.1	03-SEP-2012	966	Romania: Rodna Mountains	secondary	rpl16	46.6867708672871	24.6140573807207	0
+Primula_elatior	JX231048.1	03-SEP-2012	966	Romania: Piatra Craiului Mountains	secondary	rpl16	45.4901889	25.319275	0
+Primula_elatior	JX231046.1	03-SEP-2012	966	Romania	secondary	rpl16	45.6022219	24.7340555	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Platanus_orientalis	HE661222.1	01-APR-2012	161	Italy	secondary	psbA-trnH	42.9583769269865	13.5349171631426	0
+Platanus_orientalis	HE661221.1	01-APR-2012	161	Greece	secondary	psbA-trnH	43.2097838	-77.6930602	0
+Platanus_orientalis	HE661220.1	01-APR-2012	161	Italy	secondary	psbA-trnH	43.0067500540348	11.9333485567428	0
+Platanus_orientalis	HE661219.1	01-APR-2012	161	Italy	secondary	psbA-trnH	42.258919335528	12.3814607054441	0
+Platanus_orientalis	HE661218.1	01-APR-2012	161	Turkey	secondary	psbA-trnH	38.9597594	34.9249653	0

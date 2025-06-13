@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_glomeratum	OQ172754.1	18-JUN-2023	216	South Korea	secondary	psbA-trnH	36.636180596575	127.360407306944	0.0771604938271605
+Cerastium_glomeratum	OQ172753.1	18-JUN-2023	218	South Korea	secondary	psbA-trnH	36.4875243239317	128.359206742556	0.0795107033639144
+Cerastium_glomeratum	OQ172752.1	18-JUN-2023	218	South Korea	secondary	psbA-trnH	36.2305985665361	127.380650379194	0.0795107033639144
+Cerastium_glomeratum	FJ493276.1	22-DEC-2008	358	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.236181900554989

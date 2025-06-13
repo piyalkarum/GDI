@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_scoparia	MT917288.1	03-MAR-2023	790	China	secondary	matK	35.000074	104.999927	0.00130208333333333
+Artemisia_scoparia	KX581924.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	43.6678807250542	82.4262462892101	0.00169665404040404
+Artemisia_scoparia	KX581923.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	44.1344152740488	81.211870288474	0.00126262626262626
+Artemisia_scoparia	KX581922.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	44.0976580554358	82.4458313966151	0.00169665404040404
+Artemisia_scoparia	KX581921.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	44.3589313576243	81.8267009504379	0.00169665404040404
+Artemisia_scoparia	KX581920.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	43.3216084487508	82.2017042298683	0.00126262626262626
+Artemisia_scoparia	KX581919.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	43.7385280672902	81.5622367974237	0.00126262626262626

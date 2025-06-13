@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Verbascum_thapsus	OQ434020.1	02-JUL-2023	900	USA: West Lake Nature Preserve, Portage, MI	primary	matK	41.9845326180412	-84.8693403957994	0.000546823341992844
+Verbascum_thapsus	OQ434019.1	02-JUL-2023	850	USA: West Lake Nature Preserve, Portage, MI	primary	matK	42.7801277957476	-85.1489159201833	0.000475973258147461
+Verbascum_thapsus	KX677064.1	09-AUG-2017	784	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	matK	49.182	-119.091	0.000500200149697762
+Verbascum_thapsus	KX677052.1	09-AUG-2017	784	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail, near Link Lake Forest Recreation Site	primary	matK	49.711	-120.231	0.000500200149697762
+Verbascum_thapsus	KX676684.1	09-AUG-2017	787	Canada: British Columbia, Squamish-Lillooet Regional District, near Whistler, Madeley Lake Forest Service Road	primary	matK	50.1749	-123.124	0.000568587964469898
+Verbascum_thapsus	KX676651.1	09-AUG-2017	787	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Strathcona Provincial Park, Buttle Lake	primary	matK	49.8347	-125.627	0.000568587964469898
+Verbascum_thapsus	KU556659.1	06-AUG-2016	809	Egypt	primary	matK	30.0303	31.1956	0.00305027347401184
+Verbascum_thapsus	HQ593484.1	09-NOV-2011	875	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Hilltop approx. 400 m N of North Barn	primary	matK	44.032	-79.533	0.000548292694185172
+Verbascum_thapsus	KP210447.1	28-NOV-2015	812	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	matK	45.535	-73.149	0.00121413033473527
+Verbascum_thapsus	JN896194.1	07-MAR-2012	787	United Kingdom: Glamorgan	primary	matK	51.58	-3.14	0.000574142933478499
+Verbascum_thapsus	MT946467.1	03-MAR-2023	788	China	secondary	matK	35.3044938296103	104.532427601755	0.000498926754988651
+Verbascum_thapsus	MN311883.1	30-NOV-2021	751	China	secondary	matK	34.8658428226711	105.701990025926	0.00043015464439695
+Verbascum_thapsus	MN433431.1	30-NOV-2021	783	China	secondary	matK	34.2822372988367	104.752443242071	0.000502845277089914
+Verbascum_thapsus	KT176609.1	19-AUG-2015	1530	USA	secondary	matK	39.7837304	-100.445882	0.000546442300194083
+Verbascum_thapsus	HM850965.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.000558122435477313
+Verbascum_thapsus	JN896245.1	07-MAR-2012	754	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00244878914013329
+Verbascum_thapsus	JN893995.1	07-MAR-2012	869	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00124551853310745

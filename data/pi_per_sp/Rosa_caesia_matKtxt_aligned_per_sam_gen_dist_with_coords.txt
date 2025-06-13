@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_caesia	JN894869.1	07-MAR-2012	360	United Kingdom: Carmarthenshire	primary	matK	52	-4.51	0
+Rosa_caesia	JN894256.1	07-MAR-2012	778	United Kingdom: Shetland (112)	primary	matK	60.27	-1.21	0
+Rosa_caesia	JN895602.1	07-MAR-2012	750	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0
+Rosa_caesia	JN895601.1	07-MAR-2012	786	United Kingdom: Flintshire	secondary	matK	53.2165096	-3.1402189	0

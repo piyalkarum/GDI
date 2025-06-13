@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sorbus_aucuparia	OR464986.1	26-SEP-2023	913	USA: West Lake Nature Preserve, Portage, MI	primary	matK	42.719307372858	-84.7998954025377	0
+Sorbus_aucuparia	OR464985.1	26-SEP-2023	847	USA: West Lake Nature Preserve, Portage, MI	primary	matK	42.8102056876957	-86.2257537174832	0
+Sorbus_aucuparia	HQ593455.1	09-NOV-2011	777	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 50 m NW of SR19 driveway entrance at E edge of creek	primary	matK	44.025	-79.53	0
+Sorbus_aucuparia	JN896162.1	07-MAR-2012	863	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0
+Sorbus_aucuparia	MK925731.1	14-JAN-2020	795	United Kingdom	secondary	matK	54.7023545	-3.2765753	0
+Sorbus_aucuparia	JN895859.1	07-MAR-2012	814	United Kingdom: Breconshire (42)	secondary	matK	52.8664419836394	-0.180087581091354	0
+Sorbus_aucuparia	JN895858.1	07-MAR-2012	792	United Kingdom: Breconshire (42)	secondary	matK	52.6075064525459	-2.33801323692242	0

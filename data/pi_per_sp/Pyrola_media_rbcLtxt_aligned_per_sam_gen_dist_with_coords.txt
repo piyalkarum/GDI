@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pyrola_media	MK925274.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8819389716951	-3.50016113312647	0
+Pyrola_media	MK925250.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.4487074208615	-2.73252215475171	0
+Pyrola_media	MK924622.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2972572019065	-1.94328171926608	0
+Pyrola_media	MK924509.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3196960465911	-3.21599174023418	0

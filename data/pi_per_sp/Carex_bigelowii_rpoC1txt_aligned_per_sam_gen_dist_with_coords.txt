@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_bigelowii	FJ548175.1	30-AUG-2009	597	Canada: Northwest Territories, SW Banks Is, Mosik River Valley	primary	rpoC1	71.5054235498624	-124.12303399049	0.00025974025974026
+Carex_bigelowii	FJ548174.1	30-AUG-2009	597	Canada: Northwest Territories, Banks Island, Mesik River	primary	rpoC1	72.1421301107264	-123.876017374386	0.00025974025974026
+Carex_bigelowii	FJ548173.1	30-AUG-2009	547	Canada: Nunuavut, Baffin Island, Kimmirut, Hameau	primary	rpoC1	62.85	-69.87	0.000261164794985636
+Carex_bigelowii	FJ548172.1	30-AUG-2009	554	Canada: Nunuavut, E of Baffin Island, Brevoort Island	primary	rpoC1	63.34	-64.15	0.00183467127030877
+Carex_bigelowii	FJ548171.1	30-AUG-2009	551	Canada: Nunuavut, Baffin Island, Baffinland Iron Mines, Mary River Project (Outcrop Limited). Steensby Inlet port site, small stream cascading down slope	primary	rpoC1	70.3	-78.49	0.00025974025974026
+Carex_bigelowii	FJ548170.1	30-AUG-2009	594	Canada: Nunuavut, Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbor, NE-facing shady slope above E arm of lake, 30-80 m	primary	rpoC1	61.82	-65.7	0.00025974025974026
+Carex_bigelowii	FJ548169.1	30-AUG-2009	579	Canada: Nunuavut, Baffin Island, between Apex and Iqaluit	primary	rpoC1	63.74	-68.48	0.000267022696929239
+Carex_bigelowii	FJ548168.1	30-AUG-2009	534	USA: New Hampshire, Coos County, White Mountain National Forest, 2.1 mi below summit of Mt. Washington along auto road	primary	rpoC1	44.28	-71.28	0.000267522739432852

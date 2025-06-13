@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Picea_abies	KU588995.1	03-AUG-2016	917	Czech Republic	primary	nad1	50.2177456634221	14.0169575600617	0.036448465766065
+Picea_abies	KU588994.1	03-AUG-2016	884	Czech Republic	primary	nad1	49.6596888841615	12.1721168347901	0.0221555097623064
+Picea_abies	KU588993.1	03-AUG-2016	819	Czech Republic	primary	nad1	49.6605051090354	13.5004906859651	0.0222313655249442
+Picea_abies	KU588992.1	03-AUG-2016	787	Czech Republic	primary	nad1	50.7378019565618	12.4241703541271	0.0222739199330822
+Picea_abies	KP698161.1	14-JUL-2015	690	Ukraine: Carpathians, Rakhov, Khlevinskoe forestry, Zadonsky forest management unit, Lipetskaya obl.	primary	nad1	48.04	24.2	0.0088115565735252
+Picea_abies	KM588357.1	21-DEC-2014	751	Ukraine: Carpathians, Rakovo	primary	nad1	48.117	24.05	0.0273485681046947
+Picea_abies	KM588356.1	21-DEC-2014	760	Russia: Leningradskaja, Tosno	primary	nad1	59.5	30.867	0.0309169735426906
+Picea_abies	KM588355.1	21-DEC-2014	726	Russia: Arhangelskaja, Konosha	primary	nad1	60.967	40.183	0.0291783538247326
+Picea_abies	JX508342.1	09-AUG-2013	1980	Serbia: Predov Krst, Tara National Park	secondary	nad1	44.1847903903675	19.1394804771855	0.0237770686825826
+Picea_abies	JX508341.1	09-AUG-2013	1963	Serbia: Predov Krst, Tara National Park	secondary	nad1	44.2100214990178	19.2969271167822	0.023671449172129
+Picea_abies	JX508340.1	09-AUG-2013	1940	Austria: Eisenkappel, Kaernten	secondary	nad1	47.1774965336283	13.7462730649441	0.00997876593157265
+Picea_abies	JX508339.1	09-AUG-2013	1908	Austria: Eisenkappel, Kaernten	secondary	nad1	45.8631281179635	13.8854569726715	0.0241113398569495
+Picea_abies	JX508338.1	09-AUG-2013	1992	Germany: Taennesberg, Bavaria	secondary	nad1	49.5322428	12.3272413	0.0153251325385153
+Picea_abies	JX508337.1	09-AUG-2013	1861	Russia: Kostroma, Kostroma	secondary	nad1	57.7679158	40.9269141	0.0254002339932601
+Picea_abies	JX508336.1	09-AUG-2013	1807	Norway: Modalen, Hordaland	secondary	nad1	60.87969395	5.96139110582111	0.0130541824513009

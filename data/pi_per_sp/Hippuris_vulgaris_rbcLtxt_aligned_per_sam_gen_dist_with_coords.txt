@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hippuris_vulgaris	MG224600.1	26-DEC-2017	553	Canada: Ontario, Kenora County, Hudson Bay coast, ca. 68 km NNW of Peawanuck	primary	rbcL	55.579	-85.698	0
+Hippuris_vulgaris	MG223171.1	26-DEC-2017	552	Canada: Northwest Territories, Cape Bathurst, between camp and cape	primary	rbcL	70.518	-128.024	0
+Hippuris_vulgaris	MG222263.1	26-DEC-2017	553	Canada: Yukon Territory, Tarfu campground road, third lake near campground	primary	rbcL	60.066	-133.787	0
+Hippuris_vulgaris	KX677806.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Fraser delta, Richmond, Kirkland Island, northeast end	primary	rbcL	49.1103	-123.091	0
+Hippuris_vulgaris	KC482982.1	25-OCT-2013	552	Canada: Newfoundland and Labrador, White Bay North, Main Brook, Salmon River estuary	primary	rbcL	47.7	-55.5	0
+Hippuris_vulgaris	KC482981.1	25-OCT-2013	552	Canada: Nunavut, Baker Lake, Baker Lake. About 3.5 km N of the settlement. Under the S slope of the 4th ridge at NW end of the long lake draining to NW	primary	rbcL	64.35	-96.0167	0
+Hippuris_vulgaris	KC482980.1	25-OCT-2013	552	USA: Alaska, Fairbanks Quad, Goldstream Valley	primary	rbcL	64.917	-146.917	0
+Hippuris_vulgaris	KC482979.1	25-OCT-2013	552	Canada: Yukon Territory, Blow River Delta east, Mainland south of delta	primary	rbcL	68.865	-137	0
+Hippuris_vulgaris	KC482978.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Unnamed cove on west coast, 1/2 way down island, lake 1 km SE of camp at coast	primary	rbcL	56.25	-79.608	0
+Hippuris_vulgaris	KC482977.1	25-OCT-2013	552	Canada: Northwest Territories, Mackenzie District, Chick Lake	primary	rbcL	65.883	-128.217	0
+Hippuris_vulgaris	JN965587.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 23 km E Churchill, Ramsay Creek, Tundra, creek bank	primary	rbcL	58.731	-93.78	0
+Hippuris_vulgaris	JN965586.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, South of Hoot Creek, Fen and melt pond	primary	rbcL	57.351	-93.523	0
+Hippuris_vulgaris	JN892528.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	primary	rbcL	51.72	-4.84	0
+Hippuris_vulgaris	JN893357.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Hippuris_vulgaris	JN893356.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salicornia_perennans	MW679197.1	22-DEC-2021	701	Russia	primary	rbcL	47.35	44.35	0.000475511174512601
+Salicornia_perennans	MW679196.1	22-DEC-2021	701	Russia	primary	rbcL	48.08	44.4	0.000475511174512601
+Salicornia_perennans	MW679169.1	22-DEC-2021	701	Greece	primary	rbcL	40.31	22.39	0.000475511174512601
+Salicornia_perennans	DQ340112.1	20-JAN-2007	715	Russia: Altai Republic, Kosh Agach	secondary	rbcL	49.9947055	88.6628218	0.0014265335235378

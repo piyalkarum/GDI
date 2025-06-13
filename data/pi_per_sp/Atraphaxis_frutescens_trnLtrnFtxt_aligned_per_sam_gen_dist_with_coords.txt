@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atraphaxis_frutescens	OL449913.1	24-JAN-2023	1051	Kazakhstan	secondary	trnL-trnF	48.1012954	66.7780818	0.0054487226900494
+Atraphaxis_frutescens	KX192183.1	24-JAN-2017	1044	Russia: Orenburg, Saraktash, Gavrilovka	secondary	trnL-trnF	52.1053774141297	54.8855174633054	0.0054592164418754
+Atraphaxis_frutescens	KX192182.1	24-JAN-2017	1046	Russia: Orenburg, Chkalovsk, Guberlinskaya	secondary	trnL-trnF	51.4561569610254	55.947032054631	0.0125080282594733
+Atraphaxis_frutescens	KJ690702.1	12-FEB-2016	1043	China: Xinjiang (Sinkiang), 862 m a.s.l.	secondary	trnL-trnF	42.4804953	85.4633464	0.0054487226900494

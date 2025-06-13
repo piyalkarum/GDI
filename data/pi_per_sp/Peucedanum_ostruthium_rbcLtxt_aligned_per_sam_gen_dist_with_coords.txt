@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Peucedanum_ostruthium	MG222206.1	26-DEC-2017	552	Canada: Spirity Cove Road, NFLD	primary	rbcL	47.6666	-55.9316	0.0055452865064695
+Peucedanum_ostruthium	JN890749.1	07-MAR-2012	542	United Kingdom: Flintshire	primary	rbcL	53.13	-3.05	0.0011090573012939
+Peucedanum_ostruthium	MK925024.1	14-JAN-2020	542	Andorra	secondary	rbcL	42.5407167	1.5732033	0.0011090573012939
+Peucedanum_ostruthium	MK924734.1	14-JAN-2020	542	Austria	secondary	rbcL	36.9148511	-4.7534501	0.0011090573012939
+Peucedanum_ostruthium	JN892079.1	07-MAR-2012	542	United Kingdom: Aberdeenshire,North	secondary	rbcL	57.58368255	-2.0853487181186	0.0011090573012939
+Peucedanum_ostruthium	JN892075.1	07-MAR-2012	542	United Kingdom: Lancashire,West	secondary	rbcL	53.8611703	-2.56508879194755	0.0011090573012939

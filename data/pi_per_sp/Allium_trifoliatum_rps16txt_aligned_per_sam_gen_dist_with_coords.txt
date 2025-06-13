@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_trifoliatum	HF934462.1	12-MAY-2015	839	Israel:Mt. Hermon	secondary	rps16	33.3177984	35.8036065	0
+Allium_trifoliatum	HF934460.1	12-MAY-2015	839	Israel:Mt. Carmel	secondary	rps16	32.6795597	34.9850882	0
+Allium_trifoliatum	HF934459.1	12-MAY-2015	839	Greece:Kreta	secondary	rps16	35.3084952	24.4633423	0
+Allium_trifoliatum	HF934458.1	12-MAY-2015	839	Cyprus:Paphos, Eledhion, Amargeti	secondary	rps16	34.7743988	32.4231586	0

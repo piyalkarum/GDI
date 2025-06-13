@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scabiosa_columbaria	JN891310.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.62	-4.25	0
+Scabiosa_columbaria	KJ204402.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0
+Scabiosa_columbaria	JN892431.1	07-MAR-2012	524	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Scabiosa_columbaria	JN891595.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0

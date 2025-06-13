@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helminthotheca_aculeata	LN830895.1	07-MAR-2016	1041	Italy:Sicilian Region, Chiusa Sclafani	primary	ETS	38.4736341964017	13.1658349780169	0.463871559796674
+Helminthotheca_aculeata	LN830894.1	07-MAR-2016	1047	Italy:Sicilian Region, Castellaccio W of Monreale	primary	ETS	37.4787746135959	12.7150810846179	0.463869924912385
+Helminthotheca_aculeata	LN830893.1	07-MAR-2016	1027	Italy:Sicilian Region, Castellaccio W of Monreale	primary	ETS	38.6837904170154	12.8013951910955	0.463390019375025
+Helminthotheca_aculeata	LN830892.1	07-MAR-2016	1047	Italy:Sicilian Region, Monte Cofano NW of Custonaci	primary	ETS	38.295664274488	11.9035234639316	0.463869924912385
+Helminthotheca_aculeata	LN830853.1	07-MAR-2016	774	Italy:Sicilian Region, Chiusa Sclafani	primary	ETS	38.2773895517567	12.8704904696009	0.362535420733273
+Helminthotheca_aculeata	LN830852.1	07-MAR-2016	751	Italy:Sicilian Region, Chiusa Sclafani	primary	ETS	37.097600080397	13.5747763876316	0.362195470641567
+Helminthotheca_aculeata	LN830851.1	07-MAR-2016	774	Italy:Sicilian Region, Castellaccio W of Monreale	primary	ETS	38.7111708642292	13.1763193488884	0.362535420733273
+Helminthotheca_aculeata	LN830850.1	07-MAR-2016	775	Italy:Sicilian Region, Castellaccio W of Monreale	primary	ETS	38.3902481237692	12.7145557067272	0.36305319363772
+Helminthotheca_aculeata	LN830849.1	07-MAR-2016	751	Italy:Sicilian Region, Monte Cofano NW of Custonaci	primary	ETS	38.4910444809709	12.8234874450019	0.362195470641567
+Helminthotheca_aculeata	LN830848.1	07-MAR-2016	774	Italy:Sicilian Region, Monte Cofano NW of Custonaci	primary	ETS	38.5958083072698	12.6430976916013	0.362535420733273
+Helminthotheca_aculeata	LN830811.1	07-MAR-2016	637	Italy:Sicilian Region, Chiusa Sclafani	primary	ETS	37.944533124893	13.5164009268954	0.455190824327469
+Helminthotheca_aculeata	LN830810.1	07-MAR-2016	637	Italy:Sicilian Region, Chiusa Sclafani	primary	ETS	37.6277541155389	13.6498583832859	0.456553742487132
+Helminthotheca_aculeata	LN830809.1	07-MAR-2016	637	Italy:Sicilian Region, Castellaccio W of Monreale	primary	ETS	38.111797572342	13.6470566342616	0.455527222623051
+Helminthotheca_aculeata	LN830808.1	07-MAR-2016	637	Italy:Sicilian Region, Castellaccio W of Monreale	primary	ETS	37.9690165515047	14.3918027508586	0.455527222623051
+Helminthotheca_aculeata	LN830807.1	07-MAR-2016	637	Italy:Sicilian Region, Monte Cofano NW of Custonaci	primary	ETS	38.2761645960979	12.9973774052797	0.457858650329876

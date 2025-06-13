@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Callitriche_palustris	LC177747.1	01-APR-2017	708	Canada:Alberta, Central Alberta	secondary	ITS2	52.8820447	-113.2971736	0.00424395682954285
+Callitriche_palustris	LC177734.1	01-APR-2017	706	Japan:Toyama	secondary	ITS2	36.6468015	137.2183531	0.00545340626317696
+Callitriche_palustris	LC177733.1	01-APR-2017	708	Japan:Ehime	secondary	ITS2	33.6013646	132.8185275	0.00445181876170859
+Callitriche_palustris	LC177732.1	01-APR-2017	636	Russia:Yaroslavl	secondary	ITS2	57.6263877	39.8933705	0.00471698113207547

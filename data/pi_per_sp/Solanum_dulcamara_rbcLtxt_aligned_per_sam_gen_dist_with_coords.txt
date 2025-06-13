@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Solanum_dulcamara	OR464894.1	26-SEP-2023	614	USA: West Lake Nature Preserve, Portage, MI	primary	rbcL	42.18812089	-85.58678649	0.00103218113385564
+Solanum_dulcamara	MG223472.1	26-DEC-2017	553	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.8526	-80.4991	0.00107775420841246
+Solanum_dulcamara	MG221899.1	26-DEC-2017	553	Canada: New Brunswick, Albert County, Hillsborough, 4757 Salem Road, Steeves Family Home and Surroundings	primary	rbcL	45.7639	-64.8836	0.00107775420841246
+Solanum_dulcamara	KX678627.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Delta, Reifel Bird Sanctuary	primary	rbcL	49.099	-123.194	0.0010780384071879
+Solanum_dulcamara	HQ590279.1	09-NOV-2011	573	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West	primary	rbcL	44.031	-79.53	0.0096162652800119
+Solanum_dulcamara	KT695576.1	29-SEP-2015	508	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00100782033980415
+Solanum_dulcamara	KJ841577.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Edge of visitor's gravel parking lot	primary	rbcL	45.536	-73.156	0.00276514169005469
+Solanum_dulcamara	JN893240.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.00109692868794761
+Solanum_dulcamara	MG223484.1	26-DEC-2017	553	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West.	secondary	rbcL	43.3629084968227	-78.1427935302898	0.00107775420841246
+Solanum_dulcamara	MG222443.1	26-DEC-2017	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island, shoreline, FFNMP	secondary	rbcL	43.8034151669787	-77.7094929110563	0.00107775420841246
+Solanum_dulcamara	HM850363.1	23-JUL-2011	644	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00104461898240024
+Solanum_dulcamara	JN891547.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00264463727731889
+Solanum_dulcamara	JN891546.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00109692868794761

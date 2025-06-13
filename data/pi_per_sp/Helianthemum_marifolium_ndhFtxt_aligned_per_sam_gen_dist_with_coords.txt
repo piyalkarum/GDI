@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_marifolium	KY651304.1	30-JUN-2018	474	Morocco	primary	ndhF	35.37	-3	0.00106609808102345
+Helianthemum_marifolium	KX498436.1	18-SEP-2017	475	Spain	primary	ndhF	36.3196364692551	-4.77034117245938	0.00106382978723404
+Helianthemum_marifolium	KX498435.1	18-SEP-2017	468	Spain	primary	ndhF	36.608687114203	-5.27311104191576	0.00107991360691145
+Helianthemum_marifolium	KX498434.1	18-SEP-2017	475	Spain	primary	ndhF	39.87	-0.31	0.00106382978723404
+Helianthemum_marifolium	KX498433.1	18-SEP-2017	475	Spain	primary	ndhF	37.7	-3.47	0.00106382978723404
+Helianthemum_marifolium	KX498432.1	18-SEP-2017	474	Spain	primary	ndhF	40.11	-2.7	0.00106382978723404
+Helianthemum_marifolium	KX498431.1	18-SEP-2017	470	Spain	primary	ndhF	36.76	-5.38	0.00640133083687107

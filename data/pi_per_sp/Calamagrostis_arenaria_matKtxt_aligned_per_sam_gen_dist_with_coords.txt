@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_arenaria	KX873216.1	16-OCT-2017	696	USA: California, Humboldt Co., 5.5 mi N of Petrolia on Lost Coast Highway, towards Capetown	primary	matK	40.3631	-124.3619	0.00674182139699381
+Calamagrostis_arenaria	KX873215.1	16-OCT-2017	709	Poland: Pomorskie Voivodeship, Hel Peninsula, Jastarnia municipality, Jastarnia, Jurata	primary	matK	54.6833	18.7167	0.0066182054898557
+Calamagrostis_arenaria	KX873214.1	16-OCT-2017	655	Poland: Pomorskie Voivodeship, Gdansk municipality, Gdansk-Stogi	primary	matK	54.3722	18.7333	0.00692894891368174
+Calamagrostis_arenaria	MF597161.1	17-JUL-2018	772	Canada: British Columbia	primary	matK	53.567	-131.928	0.00628357150096281
+Calamagrostis_arenaria	JX517835.1	22-AUG-2013	765	South Africa: Western Cape, Robben Island	primary	matK	-33.804	18.369	0.0830805585244373
+Calamagrostis_arenaria	JN894221.1	07-MAR-2012	791	United Kingdom: Shetland (112)	primary	matK	59.97	-1.33	0.00623428858722976
+Calamagrostis_arenaria	LR606845.1	25-JAN-2021	2074	Portugal	secondary	matK	39.6621648	-8.1353519	0.00631367256754254
+Calamagrostis_arenaria	KJ529326.1	22-FEB-2015	969	Spain	secondary	matK	39.3260685	-4.8379791	0.00656943611351843
+Calamagrostis_arenaria	KX821253.1	02-SEP-2017	798	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	57.7036632324277	7.68249208379913	0.00623428858722976
+Calamagrostis_arenaria	KX821254.1	02-SEP-2017	798	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.3471846028365	8.70396273049185	0.00623428858722976
+Calamagrostis_arenaria	KX821255.1	02-SEP-2017	798	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	57.2105891557886	9.80602195518541	0.00623428858722976
+Calamagrostis_arenaria	KX821256.1	02-SEP-2017	798	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	57.1019411369842	7.33507099121267	0.00623428858722976
+Calamagrostis_arenaria	JN895834.1	07-MAR-2012	777	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.00615788411064002
+Calamagrostis_arenaria	JN893970.1	07-MAR-2012	727	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00645434345571897

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctium_tomentosum	MG224843.1	21-JAN-2018	800	Canada: Quebec, Montreal, Island of Montreal, Parc-nature du Bois-de-Liesse, a la lisiere du boise	primary	matK	45.492	-73.769	0
+Arctium_tomentosum	MT917328.1	03-MAR-2023	783	China	secondary	matK	35.000074	104.999927	0
+Arctium_tomentosum	KT249934.1	09-AUG-2015	820	Germany	secondary	matK	35.2266780110341	-83.6501187839924	0
+Arctium_tomentosum	KT249933.1	09-AUG-2015	820	Germany	secondary	matK	34.8081049916057	-84.1722662512517	0
+Arctium_tomentosum	KT249932.1	09-AUG-2015	820	Germany	secondary	matK	34.8840563726135	-82.6755324104879	0
+Arctium_tomentosum	KT249931.1	09-AUG-2015	820	Germany	secondary	matK	35.5658849524117	-83.9163395870445	0
+Arctium_tomentosum	KT249930.1	09-AUG-2015	820	Germany	secondary	matK	34.6439074247434	-82.834275371679	0
+Arctium_tomentosum	KT249929.1	09-AUG-2015	820	Germany	secondary	matK	34.5406888092654	-83.1308041247505	0
+Arctium_tomentosum	JQ354896.1	04-SEP-2012	660	Finland	secondary	matK	63.2467777	25.9209164	0

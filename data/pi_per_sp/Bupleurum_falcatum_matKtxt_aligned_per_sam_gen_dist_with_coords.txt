@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bupleurum_falcatum	MF694831.1	16-SEP-2018	800	Pakistan: Baluchistan	primary	matK	28.491	65.096	0.0135735680345482
+Bupleurum_falcatum	JQ794938.1	01-JAN-2013	883	China: Anguo County, Hebei Province	primary	matK	38.471	115.301	0.00643510136647526
+Bupleurum_falcatum	JQ794929.1	01-JAN-2013	883	Japan	primary	matK	36.205	138.253	0.00537807245182369
+Bupleurum_falcatum	JN818036.1	30-SEP-2020	778	China	secondary	matK	35.093656614185	105.269415184147	0.00500123065142482
+Bupleurum_falcatum	JN818035.1	30-SEP-2020	778	China	secondary	matK	34.2659085127216	105.358578729835	0.00500123065142482
+Bupleurum_falcatum	JN818034.1	30-SEP-2020	778	China	secondary	matK	35.2174197360193	104.677881945001	0.00585812868055935
+Bupleurum_falcatum	KP900772.1	19-SEP-2015	810	Pakistan	secondary	matK	30.3308401	71.247499	0.0120393411951207

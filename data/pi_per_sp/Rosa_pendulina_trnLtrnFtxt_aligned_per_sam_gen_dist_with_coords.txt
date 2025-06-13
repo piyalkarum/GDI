@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_pendulina	JQ281990.1	01-APR-2012	287	Austria	primary	trnL-trnF	47.78	15.84	0.0072000391596691
+Rosa_pendulina	KM352849.1	15-JUN-2015	1180	Austria	secondary	trnL-trnF	36.9148511	-4.7534501	0.00510855683269476
+Rosa_pendulina	JQ281991.1	01-APR-2012	291	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.0072000391596691
+Rosa_pendulina	EF591624.1	11-JUN-2007	832	Italy: Monte Cervati	secondary	trnL-trnF	40.2849036	15.483646	0.00464576074332172

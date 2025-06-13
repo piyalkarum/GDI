@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Persicaria_hydropiper	MG246707.1	21-JAN-2018	552	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Meadow Area (Rifle Range)	primary	rbcL	43.2923	-79.8781	0.00489956140002827
+Persicaria_hydropiper	MG246035.1	21-JAN-2018	552	Canada: British Columbia, Thompson Okanagan, Vaseux-Bighorn National Wildlife Area, Vaseux Lake, S end of lake at narrows where Kettle Valley Railway used to cross the river	primary	rbcL	49.272	-119.529	0.00489956140002827
+Persicaria_hydropiper	KT695444.1	29-SEP-2015	515	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	42.7665076488209	-80.4904672443834	0.00497342924350551
+Persicaria_hydropiper	KT695557.1	29-SEP-2015	494	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.9627424229779	-80.772621358874	0.00487028271605995
+Persicaria_hydropiper	KJ841449.1	04-NOV-2014	565	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	rbcL	45.542	-73.154	0.00481942566830941
+Persicaria_hydropiper	KJ841448.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Depression along ski trail, near Purple Trail	primary	rbcL	45.548	-73.157	0.00489956140002827
+Persicaria_hydropiper	HQ590217.1	01-NOV-2011	586	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., E edge of pond	primary	rbcL	44.038	-79.536	0.00500525504633739
+Persicaria_hydropiper	JN893741.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.58	-2.97	0.004991225209683
+Persicaria_hydropiper	MT931213.1	03-MAR-2023	578	China	secondary	rbcL	35.7481280994412	104.405428770668	0.0511433359192208
+Persicaria_hydropiper	MK578011.1	15-MAY-2019	748	South Korea: Gangsin-ri, 175-1, Boeun-gun, CB	secondary	rbcL	36.5073866	127.7445003	0.00619572414449581
+Persicaria_hydropiper	KU743118.1	22-AUG-2016	498	China	secondary	rbcL	35.3775105534701	105.956716064774	0.00664127129671727
+Persicaria_hydropiper	JN890740.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.004991225209683
+Persicaria_hydropiper	JN890739.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.004991225209683
+Persicaria_hydropiper	JF943502.1	13-DEC-2011	615	China	secondary	rbcL	34.6606865528565	104.78756544313	0.00757008884634577
+Persicaria_hydropiper	JF943501.1	13-DEC-2011	615	China	secondary	rbcL	34.9698879714757	105.059653820375	0.00757008884634577
+Persicaria_hydropiper	FM883629.1	14-DEC-2008	1349	Italy	secondary	rbcL	42.6384261	12.674297	0.0106077871324837

@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stipa_lessingiana	OR738150.1	13-NOV-2023	542	Kazakhstan: Mangistau region	primary	rbcL	44.28015	51.25251	0.0191998156427686
+Stipa_lessingiana	OR738120.1	13-NOV-2023	542	Kazakhstan: Atyrau region	primary	rbcL	48.27419	52.23576	0.0184532159554498
+Stipa_lessingiana	OR508845.1	17-OCT-2023	549	Kazakhstan: Qaragandy region	primary	rbcL	49.48573	75.41885	0.0180686208358069
+Stipa_lessingiana	KC129653.1	05-NOV-2013	552	Turkey: Dongancal	primary	rbcL	39.883	38.033	0.019548115687184
+Stipa_lessingiana	KC129652.1	05-NOV-2013	552	Greece: Peloponnese, Achaia	primary	rbcL	38.018	22.178	0.0278967463027489
+Stipa_lessingiana	KC129651.1	05-NOV-2013	631	Ukraine: Cherson, Genicheskiy, Chongar	primary	rbcL	46.0167	34.5	0.0184801481616829
+Stipa_lessingiana	MT931844.1	03-MAR-2023	574	China	secondary	rbcL	35.8132497186214	105.213982309795	0.138553003031297
+Stipa_lessingiana	MT931843.1	03-MAR-2023	572	China	secondary	rbcL	35.2491462694126	105.475133627783	0.018966770626744
+Stipa_lessingiana	MT931842.1	03-MAR-2023	572	China	secondary	rbcL	35.6225676986065	104.539382909539	0.018966770626744
+Stipa_lessingiana	MF046013.1	07-AUG-2017	661	China: Xinjiang	secondary	rbcL	42.4804953	85.4633464	0.0190527327262235

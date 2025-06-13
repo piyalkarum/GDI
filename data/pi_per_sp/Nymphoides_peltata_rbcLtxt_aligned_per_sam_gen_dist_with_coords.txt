@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nymphoides_peltata	MG224508.1	26-DEC-2017	552	Canada: Guelph Arboretum	primary	rbcL	42.8766449715873	-80.9636825319722	0
+Nymphoides_peltata	MG224484.1	26-DEC-2017	552	Canada: OAC garden, Guelph	primary	rbcL	43.1404445020457	-80.3176280319664	0
+Nymphoides_peltata	MG222148.1	26-DEC-2017	552	Canada: Guelph Arboretum	primary	rbcL	43.2355928552504	-79.6700738404893	0
+Nymphoides_peltata	LC219124.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3855	119.9648	0
+Nymphoides_peltata	LC218949.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4311	120.0503	0
+Nymphoides_peltata	LC218882.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.8678	120.077	0
+Nymphoides_peltata	LC218877.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.8861	120.1003	0
+Nymphoides_peltata	LC218863.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9071	120.1042	0
+Nymphoides_peltata	LC218858.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9107	120.1089	0
+Nymphoides_peltata	LC218855.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9148	120.1178	0
+Nymphoides_peltata	LC218848.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.919	120.1231	0
+Nymphoides_peltata	LC218838.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9224	120.1252	0
+Nymphoides_peltata	LC218830.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9351	120.1262	0
+Nymphoides_peltata	LC218823.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9412	120.126	0
+Nymphoides_peltata	MN204779.1	30-NOV-2021	724	China	secondary	rbcL	34.8449280702702	104.557122080157	7.57288905717531e-05
+Nymphoides_peltata	MN204778.1	30-NOV-2021	657	China	secondary	rbcL	34.8878794307039	105.215971514084	0
+Nymphoides_peltata	MK925110.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1530409370865	-4.27014086347256	0
+Nymphoides_peltata	MK925053.1	14-JAN-2020	522	United Kingdom	secondary	rbcL	54.2681690262327	-4.55634301678685	0
+Nymphoides_peltata	MK924911.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2106844017111	-3.99872359462528	0
+Nymphoides_peltata	EF173110.1	13-SEP-2008	1327	USA: NY	secondary	rbcL	43.1561681	-75.8449946	7.57288905717531e-05

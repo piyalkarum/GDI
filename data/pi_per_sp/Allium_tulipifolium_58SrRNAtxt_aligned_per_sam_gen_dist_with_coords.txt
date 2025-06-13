@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_tulipifolium	LT703457.1	11-FEB-2019	639	Russia:Altai Krai, Gilevo	secondary	5.8S rRNA	52.2341834	82.9076412	0.0584905660377359
+Allium_tulipifolium	LT703456.1	11-FEB-2019	639	Russia:Altai Krai, Tretjakovo	secondary	5.8S rRNA	50.8634824	81.8937501	0.0584905660377359
+Allium_tulipifolium	FM177442.1	11-NOV-2008	638	Kazakhstan	secondary	5.8S rRNA	48.2447450213881	65.8945874474696	0.0588040456615603
+Allium_tulipifolium	FM177441.1	11-NOV-2008	638	Kazakhstan	secondary	5.8S rRNA	47.6726431854301	66.6845599007303	0.0588040456615603
+Allium_tulipifolium	FM177440.1	11-NOV-2008	638	Kazakhstan	secondary	5.8S rRNA	47.5852899468361	67.1540005666526	0.0591175252853848
+Allium_tulipifolium	LT703453.1	11-FEB-2019	639	Kazakhstan	secondary	5.8S rRNA	49.935421	73.284676	0.0584905660377359

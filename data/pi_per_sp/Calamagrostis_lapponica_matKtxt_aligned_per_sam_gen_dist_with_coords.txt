@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_lapponica	MZ400473.1	07-DEC-2021	649	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.000589060083532209
+Calamagrostis_lapponica	KX873367.1	16-OCT-2017	733	Canada: Yukon, 38 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy. 6) towards MacMillan Pass	primary	matK	62.2563	-131.7221	0.00203539290827758
+Calamagrostis_lapponica	KX873308.1	16-OCT-2017	636	Canada: Northwest Territories, Richardson Mountains, 152 mi SW of Inuvik on Dempster Hwy. (5) towards Eagle Plains	primary	matK	66.9707241594484	-136.85327752199	0.00113578729795561
+Calamagrostis_lapponica	KX873307.1	16-OCT-2017	692	Canada: Northwest Territories, 103 mi NE of Eagle Plains on Dempster Hwy. (5) and 102 mi S of Inuvik	primary	matK	67.4258	-134.4883	0.00138316682938706
+Calamagrostis_lapponica	KX873306.1	16-OCT-2017	708	Canada: Northwest Territories, Richardson Mountains, 152 mi SW of Inuvik on Dempster Hwy. (5) towards Eagle Plains	primary	matK	66.4957039681393	-135.934500628268	0.00187024354833529
+Calamagrostis_lapponica	KX873305.1	16-OCT-2017	753	Canada: Northwest Territories, Richardson Mountains, 62 mi NE of Eagle Plains on Dempster Hwy. (5) towards Inuvik	primary	matK	67.0633	-136.1794	0.00153149024765731
+Calamagrostis_lapponica	KX873304.1	16-OCT-2017	807	USA: Alaska, Taylor Hwy. (5) MP 141.5. American Mts. ca. 20 km S of Eagal, E of American Summit, peak above big bend in road	primary	matK	64.6016	-141.2601	0.0014669122610014
+Calamagrostis_lapponica	KX873303.1	16-OCT-2017	642	Sweden: Norbotten Co., Pajala kommun, NW of Pello, near the border with Finland, Jarhoi	primary	matK	66.9453	23.8078	0.000698961179734224
+Calamagrostis_lapponica	KX873302.1	16-OCT-2017	699	Sweden: Jaemtland Co., Stroemsund kommun, W of Rotnaeset	primary	matK	64.3933	15.4747	0.00126897210042458
+Calamagrostis_lapponica	KX873301.1	16-OCT-2017	676	Sweden: Norbotten Co., Oeverkalix kommun, about 10 km NW of Jock, W of Jockselet	primary	matK	66.7311	22.6086	0.000881571863066783
+Calamagrostis_lapponica	MF597270.1	17-JUL-2018	784	Canada: Yukon Territory, 39 mi NW of Stewart Crossing on Klondike Hwy (2) towards Dawson.	primary	matK	63.66	-137.653	0.00137833007137202
+Calamagrostis_lapponica	MF597269.1	17-JUL-2018	777	Canada: British Columbia, 18 mi N of Dease Lake (Brady Creek) on Hwy 37 towards Watson Lake. Near small pond with Betula, Picea, Salix, Epilobium, and Carex.	primary	matK	58.833	-130.069	0.00692667994851059
+Calamagrostis_lapponica	KC474235.1	25-OCT-2013	534	Canada: Yukon Territory, Yukon Mainland, Blow River, Abandoned shingle landing strip in tundra Site 13	primary	matK	68.767	-137.5	0.00177433073838429
+Calamagrostis_lapponica	KC474234.1	25-OCT-2013	602	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Mount Conybeare	primary	matK	69.467	-140.07	0.000620287648065532
+Calamagrostis_lapponica	KC474233.1	25-OCT-2013	649	Canada: Yukon Territory, Arctic Mainland, Shingle Point, Helicopter pad at shore	primary	matK	68.58	-137.15	0.000589060083532209

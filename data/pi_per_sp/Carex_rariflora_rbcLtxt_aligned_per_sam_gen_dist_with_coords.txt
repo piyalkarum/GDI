@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_rariflora	MG227152.1	23-JAN-2018	667	Canada: Nunavut, Victoria Island, Cambridge Bay, W of Dew Line Station	primary	rbcL	68.6675896518166	-105.306377811043	0.0018152130812167
+Carex_rariflora	MG226066.1	23-JAN-2018	667	Canada: Nunavut, Baffin Island, Iqaluit, Sylvia Grinnel Park, near the entrance from Crystal II Road	primary	rbcL	64.4420645627018	-68.5050585172084	0.000142785749982152
+Carex_rariflora	MG225860.1	23-JAN-2018	552	Canada: Yukon Territory, Ogilvie Mountains, Blackstone River, saltflat	primary	rbcL	65.3033	-138.063	0.000184928340268146
+Carex_rariflora	FJ548277.1	25-AUG-2009	667	Canada: Nunuavut, Victoria Island, Cambridge Bay, W of Dew Line Station	primary	rbcL	69.6747455942562	-106.529274173581	0.0018152130812167
+Carex_rariflora	FJ548276.1	25-AUG-2009	667	Canada: Nunuavut, Baffin Island, Iqaluit, Sylvia Grinnell Park near the entrance from Crystal II Road	primary	rbcL	64.2878893874265	-69.7012831155776	0.000142785749982152
+Carex_rariflora	KT960427.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	0.000184928340268146
+Carex_rariflora	KC482341.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Danny C. Gordon's goose camp	primary	rbcL	69.849	-136.964	0.000184928340268146
+Carex_rariflora	KC482340.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Danny C. Gordon's goose camp	primary	rbcL	68.849	-136.964	0.000184928340268146
+Carex_rariflora	KC482339.1	25-OCT-2013	552	Canada: Nunavut, Northwest Territories Mainland, Rankin Inlet, Between Sandy' and 'Calf' Lakes west of Meliadine esker at 55 K/16 415729, 10 km N of Rankin Inlet, Meliadine River Park study area, Hudson Bay.'	primary	rbcL	62.883	-92.183	0.000184928340268146
+Carex_rariflora	KC482338.1	25-OCT-2013	552	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk, Tuktoyaktuk. Near Pingo Park Lodge	primary	rbcL	69.5	-133	0.000184928340268146
+Carex_rariflora	KC482337.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. In the vicinity of the fresh water lake in lowlands 1 km W of Kihlbay	primary	rbcL	56.472	-79.042	0.000184928340268146
+Carex_rariflora	KC482336.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Small unnamed lake in lee of plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.294	-116.421	0.000184928340268146
+Carex_rariflora	KC482335.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	rbcL	69.4194	-124.094	0.000184928340268146
+Carex_rariflora	KC482334.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East side of Hornaday River	primary	rbcL	68.3	-121.858	0.000184928340268146
+Carex_rariflora	JN965394.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0.000184928340268146
+Carex_rariflora	JN965393.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	rbcL	58.178	-93.637	0.000184928340268146
+Carex_rariflora	JN965392.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Salt marsh	primary	rbcL	58.771	-93.843	0.000184928340268146
+Carex_rariflora	MW011017.1	27-JUL-2021	553	Norway	secondary	rbcL	64.5731537	11.5280364	0.000184928340268146
+Carex_rariflora	MK925339.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3567867810546	-3.6112098168139	0.00018896447467876
+Carex_rariflora	MK924711.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5289433324003	-4.23879509594288	0.00018896447467876
+Carex_rariflora	MK924555.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.185909970709	-3.71900973628882	0.00018896447467876
+Carex_rariflora	MK924445.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.4741822477243	-3.61893167387003	0.00018896447467876

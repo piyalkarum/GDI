@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cytinus_ruber	OP574724.1	01-AUG-2023	1411	Spain	secondary	Adh	38.7835716165296	-4.50880274504253	0.00014760147601476
+Cytinus_ruber	OP574719.1	01-AUG-2023	1351	Morocco	secondary	Adh	28.3347722	-10.3713379	0
+Cytinus_ruber	OP574718.1	01-AUG-2023	1351	Italy: Sicily	secondary	Adh	37.587794	14.155048	0
+Cytinus_ruber	OP574717.1	01-AUG-2023	1357	Spain	secondary	Adh	39.453103317626	-5.05098003018427	0.00014760147601476
+Cytinus_ruber	OP574716.1	01-AUG-2023	1351	Spain	secondary	Adh	39.8901782033931	-4.08492966296046	0
+Cytinus_ruber	OP574715.1	01-AUG-2023	1351	Spain	secondary	Adh	38.9687677745019	-4.56796242955397	0

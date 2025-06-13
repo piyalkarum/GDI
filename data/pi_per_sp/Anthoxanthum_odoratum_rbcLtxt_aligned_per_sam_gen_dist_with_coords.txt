@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthoxanthum_odoratum	MZ359291.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.000859106529209622
+Anthoxanthum_odoratum	MF596572.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, N shore of Skidegate Lake at campground.	primary	rbcL	53.183034833747	-132.056870209688	0.000771604938271605
+Anthoxanthum_odoratum	MF596571.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, Moresby Camp, Gillett Arm of Cumshewa Inlet, 11 km from Y junction of the loop road.	primary	rbcL	53.7008628173398	-131.504351094045	0.000771604938271605
+Anthoxanthum_odoratum	MF596570.1	28-FEB-2018	603	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	rbcL	48.1659910140564	-124.055752488174	0.000771604938271605
+Anthoxanthum_odoratum	MG228115.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, Moresby Camp, Gillett Arm of Cumshewa Inlet, 11 km from Y junction of the loop road.	primary	rbcL	53.1047960605942	-132.794773878035	0.000771604938271605
+Anthoxanthum_odoratum	MG226155.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, N shore of Skidegate Lake at campground.	primary	rbcL	53.4785187607492	-132.984280835286	0.000771604938271605
+Anthoxanthum_odoratum	MG225931.1	23-JAN-2018	603	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	rbcL	48.3147685931893	-122.576467462895	0.000771604938271605
+Anthoxanthum_odoratum	JN891740.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.00087719298245614
+Anthoxanthum_odoratum	MF998473.1	09-DEC-2017	1353	Reunion	secondary	rbcL	-21.1307379	55.5364801	0.00101629558082568
+Anthoxanthum_odoratum	HM849780.1	23-JUL-2011	1192	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00944861488249403
+Anthoxanthum_odoratum	JN890711.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00087719298245614
+Anthoxanthum_odoratum	JN890708.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00087719298245614
+Anthoxanthum_odoratum	AJ746282.1	07-JAN-2005	1408	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.000806564037201521

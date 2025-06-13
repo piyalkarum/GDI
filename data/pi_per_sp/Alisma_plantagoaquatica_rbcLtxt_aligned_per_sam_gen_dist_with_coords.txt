@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alisma_plantago-aquatica	OR738122.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.0001230012300123
+Alisma_plantago-aquatica	KX678613.1	29-APR-2017	551	Canada: British Columbia, Fraser Valley Regional District, 5 km northeast of Chilliwack, Jesperson Road & Kitchen Hall Road, wet sites in old gravel pit	primary	rbcL	49.211	-121.881	0.000120992135511192
+Alisma_plantago-aquatica	JN892482.1	07-MAR-2012	524	United Kingdom: Monmouthshire (35)	primary	rbcL	51.5	-3.1	0
+Alisma_plantago-aquatica	JN890787.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.76	-3.39	0.0001230012300123
+Alisma_plantago-aquatica	KC584878.1	04-JUN-2013	743	Italy: Umbria	secondary	rbcL	42.965916	12.490236	0.000612997055560392
+Alisma_plantago-aquatica	JN890987.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0001230012300123
+Alisma_plantago-aquatica	JN890986.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0001230012300123
+Alisma_plantago-aquatica	JF940702.1	13-DEC-2011	615	China: Heilongjiang Sheng	secondary	rbcL	47.6073782423327	127.543719847111	0
+Alisma_plantago-aquatica	JF940701.1	13-DEC-2011	615	China: Yunnan	secondary	rbcL	25	102	0
+Alisma_plantago-aquatica	JF940700.1	13-DEC-2011	615	China: Heilongjiang Sheng	secondary	rbcL	47.5413779356363	128.707148887828	0
+Alisma_plantago-aquatica	JF940699.1	13-DEC-2011	615	China: Neimenggu	secondary	rbcL	43.2443242	114.3251664	0
+Alisma_plantago-aquatica	JF940698.1	13-DEC-2011	615	China: Jilin	secondary	rbcL	43.9286709016652	126.336710390133	0
+Alisma_plantago-aquatica	JF940697.1	13-DEC-2011	615	China: Jilin	secondary	rbcL	43.4439116331208	126.396966999438	0
+Alisma_plantago-aquatica	JF940696.1	13-DEC-2011	615	China: Heilongjiang Sheng	secondary	rbcL	47.3856944173649	127.155753529976	0
+Alisma_plantago-aquatica	JF940695.1	13-DEC-2011	615	China: Hebei	secondary	rbcL	39.0000001	116	0
+Alisma_plantago-aquatica	JF940694.1	13-DEC-2011	615	China: Jilin	secondary	rbcL	42.9596729896518	126.570201524329	0

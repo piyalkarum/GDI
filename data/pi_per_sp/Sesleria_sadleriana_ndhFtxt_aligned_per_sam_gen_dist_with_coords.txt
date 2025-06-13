@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sesleria_sadleriana	KY910632.1	02-MAY-2018	1787	Austria	secondary	ndhF	36.9148511	-4.7534501	0.00112044853092563
+Sesleria_sadleriana	KY910631.1	02-MAY-2018	1788	Slovakia	secondary	ndhF	48.7411522	19.4528646	0.00112044853092563
+Sesleria_sadleriana	KY910630.1	02-MAY-2018	1789	Hungary	secondary	ndhF	41.7736506745438	-72.5910264820004	0.00112044853092563
+Sesleria_sadleriana	KY910629.1	02-MAY-2018	1788	Hungary	secondary	ndhF	41.6409660250694	-73.6181765293918	0.00112044853092563
+Sesleria_sadleriana	KY910628.1	02-MAY-2018	1784	Hungary	secondary	ndhF	42.5109623033409	-71.8253037109001	0.00224215246636771
+Sesleria_sadleriana	KY910627.1	02-MAY-2018	1786	Croatia	secondary	ndhF	45.3658443	15.6575209	0.00223964165733483

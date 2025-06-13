@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Prunus_laurocerasus	MF349527.1	21-SEP-2017	553	USA: Maryland; USDA South Farm, S of I-95 &38; W of Cherry Hill Road	primary	rbcL	39.014	-76.941	0
+Prunus_laurocerasus	OQ929533.1	04-JUL-2023	721	Switzerland	secondary	rbcL	46.7985624	8.2319736	0
+Prunus_laurocerasus	HQ619779.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0
+Prunus_laurocerasus	MG246055.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Prospect Cemetery.	secondary	rbcL	43.6917194	-79.4581844	0

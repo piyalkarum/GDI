@@ -1,0 +1,33 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ceratophyllum_demersum	MG247497.1	21-JAN-2018	552	Canada: Yukon Territory, Larsen Creek, Lee's Lake	primary	rbcL	60.175	-125.125	0.0190687012041155
+Ceratophyllum_demersum	MG246913.1	21-JAN-2018	552	Canada: Yukon Territory, Beaver River, Lee's Lake	primary	rbcL	60.175	-125.124	0.0190687012041155
+Ceratophyllum_demersum	KX678733.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, Burnaby, Deer Lake, northwest shore, in 2 m of water	primary	rbcL	49.238	-122.969	0.0190687012041155
+Ceratophyllum_demersum	LC219125.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3855	119.9648	0.019130367063809
+Ceratophyllum_demersum	LC219108.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.377	119.9517	0.019130367063809
+Ceratophyllum_demersum	LC219095.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3736	119.937	0.019130367063809
+Ceratophyllum_demersum	LC219081.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3673	119.9451	0.019130367063809
+Ceratophyllum_demersum	LC219074.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3475	119.9378	0.019130367063809
+Ceratophyllum_demersum	LC219045.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3	119.947	0.019130367063809
+Ceratophyllum_demersum	LC219027.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.2821	119.9447	0.019130367063809
+Ceratophyllum_demersum	LC219020.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.2829	119.9448	0.019130367063809
+Ceratophyllum_demersum	LC219008.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4086	119.9817	0.019130367063809
+Ceratophyllum_demersum	LC218990.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4106	119.9896	0.019130367063809
+Ceratophyllum_demersum	LC218978.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4196	120.0209	0.019130367063809
+Ceratophyllum_demersum	LC218964.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4311	120.0504	0.019130367063809
+Ceratophyllum_demersum	LC218943.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4828	120.0596	0.019130367063809
+Ceratophyllum_demersum	LC218933.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.524	120.0656	0.019130367063809
+Ceratophyllum_demersum	LC218927.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.5583	120.0641	0.019130367063809
+Ceratophyllum_demersum	LC218914.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.5609	120.0626	0.019130367063809
+Ceratophyllum_demersum	LC218902.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.6161	120.0633	0.019130367063809
+Ceratophyllum_demersum	LC218898.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.702	120.0655	0.019130367063809
+Ceratophyllum_demersum	LC218887.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.8268	120.1176	0.019130367063809
+Ceratophyllum_demersum	LC218884.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.8398	120.1072	0.019130367063809
+Ceratophyllum_demersum	LC218868.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.8995	120.1006	0.019130367063809
+Ceratophyllum_demersum	LC218826.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9412	120.126	0.019130367063809
+Ceratophyllum_demersum	JN892592.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.67	-4.12	0.0191544546622965
+Ceratophyllum_demersum	LC638895.1	25-DEC-2021	553	Japan:Aichi, Owariasahi	secondary	rbcL	35.208148	137.03722	0.0190938478717243
+Ceratophyllum_demersum	KC584879.1	04-JUN-2013	743	Italy: Umbria	secondary	rbcL	42.965916	12.490236	0.0204022814727503
+Ceratophyllum_demersum	HM849883.1	23-JUL-2011	1177	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0204743656377178
+Ceratophyllum_demersum	JN891781.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.0191544546622965
+Ceratophyllum_demersum	JN891780.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0191544546622965
+Ceratophyllum_demersum	EF529714.1	30-APR-2007	841	USA: Connecticut	secondary	rbcL	41.6500201	-72.7342163	0.588322766202803

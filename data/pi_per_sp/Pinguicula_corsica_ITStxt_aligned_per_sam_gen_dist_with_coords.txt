@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinguicula_corsica	LN887922.1	05-JAN-2017	615	France	secondary	ITS	46.8523081851229	0.7046640525015	0
+Pinguicula_corsica	LN887921.1	05-JAN-2017	615	France	secondary	ITS	45.9791045135364	2.40627082504388	0
+Pinguicula_corsica	LN887920.1	05-JAN-2017	615	France	secondary	ITS	47.0251070644881	1.49306121932842	0
+Pinguicula_corsica	LN887919.1	05-JAN-2017	615	France	secondary	ITS	46.8942481903076	2.83202719921847	0

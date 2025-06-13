@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lepidium_coronopus	JN893153.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.4	-3.56	0
+Lepidium_coronopus	JN891271.1	07-MAR-2012	524	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0
+Lepidium_coronopus	JN891261.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Lepidium_coronopus	JN891160.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0

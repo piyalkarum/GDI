@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_tetragonum	JN895882.1	07-MAR-2012	782	United Kingdom: Denbighshire	primary	matK	53.23	-3.39	0.00356508787607983
+Epilobium_tetragonum	HM851002.1	23-JUL-2011	825	Portugal	secondary	matK	39.6621648	-8.1353519	0.0036213311895446
+Epilobium_tetragonum	JN894516.1	07-MAR-2012	727	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.0036680421824851
+Epilobium_tetragonum	JN894114.1	07-MAR-2012	829	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00361179886902033

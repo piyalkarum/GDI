@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ceratophyllum_demersum	KJ093289.1	02-APR-2014	711	Australia	secondary	rpl16	-24.7761086	134.755	0.0228547451076601
+Ceratophyllum_demersum	KJ093288.1	02-APR-2014	711	South Africa	secondary	rpl16	-28.8166236	24.991639	0.00833287809063408
+Ceratophyllum_demersum	KJ093287.1	02-APR-2014	739	Thailand	secondary	rpl16	13.0387622	101.7001761	0.0142168643815357
+Ceratophyllum_demersum	KJ093286.1	02-APR-2014	714	Italy	secondary	rpl16	42.6384261	12.674297	0.0113873521804962
+Ceratophyllum_demersum	KJ093285.1	02-APR-2014	715	Denmark	secondary	rpl16	55.670249	10.3333283	0.00891986266855957
+Ceratophyllum_demersum	KJ093284.1	02-APR-2014	647	USA	secondary	rpl16	40.0927727694847	-99.3847292524951	0.00840713274293806
+Ceratophyllum_demersum	KJ093283.1	02-APR-2014	712	USA	secondary	rpl16	39.141516934778	-99.8288944097262	0.0078371833427913
+Ceratophyllum_demersum	KJ093282.1	02-APR-2014	714	USA	secondary	rpl16	39.8874067288981	-100.840550871232	0.00843517698846371

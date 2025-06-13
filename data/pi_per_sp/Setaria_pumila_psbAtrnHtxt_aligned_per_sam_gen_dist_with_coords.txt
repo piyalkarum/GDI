@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Setaria_pumila	MK260907.1	09-MAR-2019	458	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	psbA-trnH	1.14424593143978	37.2662813272208	0.00437636761487965
+Setaria_pumila	MK260881.1	09-MAR-2019	457	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	psbA-trnH	0.915599117644397	37.4186689289328	0.00437636761487965
+Setaria_pumila	MK260877.1	09-MAR-2019	457	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	psbA-trnH	0.2921	36.8957	0.0102115244347192
+Setaria_pumila	HE966810.1	18-SEP-2012	596	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00729394602479942

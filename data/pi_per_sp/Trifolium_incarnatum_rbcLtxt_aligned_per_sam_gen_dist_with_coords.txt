@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_incarnatum	OL434802.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1403	-81.1446	0.00230245481473812
+Trifolium_incarnatum	KX678641.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, Abbotsford, Old Yale Road and Marshall Road, northwest corner	primary	rbcL	49.043	-122.247	0.000919316461172399
+Trifolium_incarnatum	KT375447.1	25-NOV-2015	539		primary	rbcL	32.36	-95.87	0.000940012368583797
+Trifolium_incarnatum	MG247055.1	21-JAN-2018	552	Canada: Ontario, Essex Co., Near Leamington.	secondary	rbcL	43.72634945	-77.7101179040839	0.000919316461172399
+Trifolium_incarnatum	HM850415.1	23-JUL-2011	690	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00234186211798152

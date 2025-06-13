@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_bromoides	MF597653.1	17-JUL-2018	779	USA: California, Humboldt Co., along Hwy. 2111 S of Eureka	primary	matK	40.508	-124.289	0.000951369030570205
+Festuca_bromoides	MF597652.1	17-JUL-2018	778	Canada: British Columbia, Lower Mainland, Vancouver, West Vancouver, Marine Drive, 100 m E of Gleneagles Drive	primary	matK	49.358	-123.279	0.00095183526820612
+Festuca_bromoides	MF597651.1	17-JUL-2018	778	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, ca. 3.2 km up road to Moresby Camp from Y junction (loop road), just over bridge at small creek	primary	matK	53.098	-132.054	0.00142537966042202
+Festuca_bromoides	MF597650.1	17-JUL-2018	819	Canada: British Columbia, Mayne Island, end of Beachwood Road, along rocky cliff/ shoreline. With Vulpia, scotch broom, Sedum, Bromus hordeaceus, Danthonia, Poa.	primary	matK	49.0369370454924	-124.35624547534	0.00152101158713591
+Festuca_bromoides	MF597649.1	17-JUL-2018	819	Canada: British Columbia, Mayne Island, Bennett Bay, Gulf Islands National Park Reserve of Canada, Wilkes Road off Bennett Bay Road. Along trail through woods along coast.	primary	matK	49.4422262263832	-122.597799533079	0.00222194495667414
+Festuca_bromoides	LN906796.1	04-JAN-2016	1831	Tanzania:Arusha, Hanang	primary	matK	-4.4524	35.3875	0.0011041730262713
+Festuca_bromoides	JN894508.1	07-MAR-2012	1037	United Kingdom: Cardiganshire	primary	matK	52.4	-4.04	0.00177012956969475
+Festuca_bromoides	KJ529392.1	22-FEB-2015	969	Spain	secondary	matK	39.3260685	-4.8379791	0.00168530426739455
+Festuca_bromoides	KJ599269.1	21-SEP-2014	514	Australia: Victoria	secondary	matK	-36.5986096	144.6780052	0.00462111585543918
+Festuca_bromoides	HM850527.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00106623326994757
+Festuca_bromoides	JN895529.1	07-MAR-2012	826	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00159772448765528
+Festuca_bromoides	JN895528.1	07-MAR-2012	778	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00149067609858967

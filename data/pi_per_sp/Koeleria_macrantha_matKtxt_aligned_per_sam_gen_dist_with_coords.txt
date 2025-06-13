@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Koeleria_macrantha	KX873486.1	16-OCT-2017	673	USA: California, Siskiyou Co., 2.3 mi E of Callahan on Hwy. 3 at junction of Big Mill Creek and Mule Creek	primary	matK	41.3061	-122.7603	NA
+Koeleria_macrantha	MF597436.1	17-JUL-2018	801	Canada: British Columbia, 10 km W of Princeton on Hwy. 3. Ponderosa pine upper steppe roadside grassland. Edge of road with Artemesia tridentata.	primary	matK	49.388	-120.563	0.00536016081628239
+Koeleria_macrantha	MF597435.1	17-JUL-2018	819	Canada: British Columbia, Francis Point Provincial Park - just south of Pender Harbour, Sunshine Coast	primary	matK	49.613	-124.055	0.00173904620584885
+Koeleria_macrantha	MF597434.1	17-JUL-2018	799	Canada: Alberta, 26 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	matK	51.227	-114.682	0.00575362123361078
+Koeleria_macrantha	MF597433.1	17-JUL-2018	806	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	matK	48.843	-123.305	0.00115719913030399
+Koeleria_macrantha	MF597432.1	17-JUL-2018	807	Canada: Manitoba, 3 miles South of Spruce Woods Provincial Park southern boundary on Hwy 5 towards Glenboro.	primary	matK	49.609	-99.282	0.00485494690132139
+Koeleria_macrantha	JN895104.1	07-MAR-2012	759	United Kingdom: Somerset, North (6)	primary	matK	51.26	-2.74	0.000859671707971382
+Koeleria_macrantha	JN894672.1	07-MAR-2012	538	United Kingdom: Cardiganshire	primary	matK	52.12	-4.69	NA
+Koeleria_macrantha	MT433205.1	31-MAY-2020	1422	Norway	secondary	matK	64.5731537	11.5280364	0.0026969688893686
+Koeleria_macrantha	KM538796.1	20-JUN-2015	1091	South Korea	secondary	matK	36.638392	127.6961188	0.00197663008163746
+Koeleria_macrantha	LN554439.1	02-APR-2015	2024	Austria	secondary	matK	37.3288857461645	-4.22196794601462	0.00375924695563959
+Koeleria_macrantha	HG797454.1	26-SEP-2014	774	Austria	secondary	matK	37.729067407177	-5.13251504013084	NA

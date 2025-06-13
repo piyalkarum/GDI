@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_confertum	JN894836.1	07-MAR-2012	828	United Kingdom: Anglesey	primary	matK	53.26	-4.09	0.00105692121085194
+Lamium_confertum	KF188546.1	26-OCT-2013	786	Finland	secondary	matK	62.7091260327375	27.3651602376883	0.00102838637189782
+Lamium_confertum	KF188545.1	26-OCT-2013	786	Finland	secondary	matK	63.3889439565796	26.72539211013	0.00204959337424537
+Lamium_confertum	KF188544.1	26-OCT-2013	786	Lithuania	secondary	matK	55.3500003	23.7499997	0.00102838637189782
+Lamium_confertum	JN894409.1	07-MAR-2012	781	United Kingdom: Sutherland,West	secondary	matK	57.9508631	-4.4504483	0.0020851703252651
+Lamium_confertum	JN894205.1	07-MAR-2012	853	United Kingdom: Montgomeryshire	secondary	matK	52.615273	-3.4649973	0.00102106974486289

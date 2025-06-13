@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_robur	OM867515.1	03-MAY-2022	581	Poland: Arboretum Kostrzyca Forest Gene Bank	primary	rbcL	50.81699794	15.77673994	0.0283900766044736
+Quercus_robur	MG249832.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Vaughan Estate on Bayview Ave. S of Lawrence - on E side.	primary	rbcL	43.65	-79.383	0.0255413319106546
+Quercus_robur	KX679079.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, Yale, north side Highway 1, 250 m east of Yale Creek, Lincoln Trail, near trailhead	primary	rbcL	49.564	-121.421	0.0255413319106546
+Quercus_robur	JN890915.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.13	0.0255876326774032
+Quercus_robur	HQ619750.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.0263260706955501
+Quercus_robur	MG248275.1	21-JAN-2018	552	Canada: British Columbia, Near Vancouver.	secondary	rbcL	49.25783145	-123.246241986222	0.0255413319106546
+Quercus_robur	KX163021.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.6715862808251	-2.55698354032287	0.0262557960447736
+Quercus_robur	KX163020.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.4327008356138	-2.97309292412566	0.0262557960447736
+Quercus_robur	KX163019.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.5506841036244	-4.06739880812517	0.0262557960447736
+Quercus_robur	KX163018.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.1024507476534	-3.47461878941204	0.0262557960447736
+Quercus_robur	KX163017.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.3052424104864	-2.43744302065523	0.0262557960447736
+Quercus_robur	KX163016.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.6983425018099	-3.21878163407558	0.0262557960447736
+Quercus_robur	KX163015.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.182941196661	-2.12391245347148	0.0262557960447736
+Quercus_robur	KX163014.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.1706278451932	-2.71695043557146	0.0262557960447736
+Quercus_robur	JN893095.1	07-MAR-2012	382	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0372942870058961
+Quercus_robur	JN893094.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0255876326774032
+Quercus_robur	JN892128.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.0255876326774032
+Quercus_robur	FN675735.1	08-MAR-2010	743	Italy:Tuscany	secondary	rbcL	43.4586541	11.1389204	0.026619008380041
+Quercus_robur	FN675734.1	08-MAR-2010	743	Italy:Emilia	secondary	rbcL	44.4914458	11.3435713	0.026619008380041
+Quercus_robur	FN675733.1	08-MAR-2010	743	Italy:Latium	secondary	rbcL	41.9808038	12.7662312	0.026619008380041
+Quercus_robur	AB125025.1	01-APR-2004	1513	Malaysia:Fraser's Hill	secondary	rbcL	3.7130484	101.7365565	0.0258673222105153
+Quercus_robur	AB124970.1	01-APR-2004	768	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.554375886185888
+Quercus_robur	KP088815.1	15-MAR-2015	785	China	secondary	rbcL	40.1343236163862	116.934822444623	0.0231836285982702
+Quercus_robur	KP088814.1	15-MAR-2015	785	China	secondary	rbcL	40.0597189400215	117.378712535939	0.0231836285982702

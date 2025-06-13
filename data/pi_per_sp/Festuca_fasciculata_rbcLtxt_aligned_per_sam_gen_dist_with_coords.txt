@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_fasciculata	JN891424.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.77	-4.37	0.00431300061614295
+Festuca_fasciculata	KJ599160.1	21-SEP-2014	559	Australia: South Australia	secondary	rbcL	-30.5343665	135.6301212	0.0129390018484288
+Festuca_fasciculata	JN892996.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00431300061614295
+Festuca_fasciculata	JN891711.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00431300061614295

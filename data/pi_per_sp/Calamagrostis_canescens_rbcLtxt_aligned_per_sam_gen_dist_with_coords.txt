@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_canescens	JN890970.1	07-MAR-2012	542	United Kingdom: Denbighshire	primary	rbcL	52.93	-4.28	0.00161637931034483
+Calamagrostis_canescens	OR670323.1	06-NOV-2023	475	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00646551724137931
+Calamagrostis_canescens	JN892637.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.00161637931034483
+Calamagrostis_canescens	JN892635.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0.00161637931034483
+Calamagrostis_canescens	JN892634.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.00161637931034483

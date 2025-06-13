@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eryngium_planum	OR738278.1	13-NOV-2023	789	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.00602662307353965
+Eryngium_planum	OR575191.1	25-OCT-2023	779	Kazakhstan: Qaragandy region	primary	matK	49.756	73.11774	0.00508877912602728
+Eryngium_planum	KX676764.1	09-AUG-2017	805	Canada: British Columbia, Metro Vancouver Regional District, Burnaby, east of 7435 Kingsway, east of Hubert Street vancant lot, in rock rubble	primary	matK	49.218	-122.948	0.00929342059302318
+Eryngium_planum	KJ746166.1	29-JUL-2014	690	Poland	secondary	matK	52.215933	19.134422	0.00772946859903382

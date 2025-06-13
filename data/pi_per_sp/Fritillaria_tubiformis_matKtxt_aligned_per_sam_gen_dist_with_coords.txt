@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fritillaria_tubiformis	KC409117.1	21-MAY-2013	1853	Italy: Vallone di Serpentera, CN	primary	matK	44.13	7.41	0.0263120259620242
+Fritillaria_tubiformis	KC409116.1	21-MAY-2013	1842	Italy: Vallone del Marguareis, CN	primary	matK	44.11	7.4	0.0265956918671783
+Fritillaria_tubiformis	KC409115.1	21-MAY-2013	1871	Italy: M.te Fronte, IM	primary	matK	44.03	7.45	0.0285573560815562
+Fritillaria_tubiformis	KC409114.1	21-MAY-2013	1866	Italy: Vallone di Cravina, CN	primary	matK	44.14	7.38	0.0242855124974379
+Fritillaria_tubiformis	MN917994.1	29-MAR-2022	957	France	secondary	matK	46.7171785561434	0.794281342933711	0.00893140690624984
+Fritillaria_tubiformis	MN917993.1	29-MAR-2022	446	France	secondary	matK	46.9135373289078	2.40456151034218	0.00387280880554423
+Fritillaria_tubiformis	MN917992.1	29-MAR-2022	445	Italy	secondary	matK	42.8115646176204	11.6895763049087	0.00388151174668029
+Fritillaria_tubiformis	MN917991.1	29-MAR-2022	1539	Italy	secondary	matK	43.3081918033986	12.5852935300898	0.0132951326285938
+Fritillaria_tubiformis	MN917990.1	29-MAR-2022	1085	Italy	secondary	matK	42.1919259230207	13.1682207773041	0.0134352827706456
+Fritillaria_tubiformis	MN917987.1	29-MAR-2022	446	Italy	secondary	matK	42.863066888677	13.5124613211662	0.00387280880554423
+Fritillaria_tubiformis	MN917986.1	29-MAR-2022	989	Italy	secondary	matK	42.8398035035219	11.9969704622576	0.0144696979488648
+Fritillaria_tubiformis	KC409118.1	21-MAY-2013	1452	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.04542842967568

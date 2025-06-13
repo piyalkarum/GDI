@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_confertum	KF055102.1	26-OCT-2013	287	Lithuania	secondary	psbA-trnH	55.1012024274223	23.2808519352704	0
+Lamium_confertum	KF055101.1	26-OCT-2013	287	Finland	secondary	psbA-trnH	63.4382295152874	24.8086245989534	0
+Lamium_confertum	KC350716.1	18-OCT-2013	287	Finland	secondary	psbA-trnH	63.2838314775106	26.4096129242656	0
+Lamium_confertum	KC350715.1	18-OCT-2013	287	Lithuania	secondary	psbA-trnH	54.8233348203261	24.6284432792076	0
+Lamium_confertum	JX074034.1	18-OCT-2013	288	Finland	secondary	psbA-trnH	62.4799199682049	25.9858612971732	0
+Lamium_confertum	JX074033.1	18-OCT-2013	288	Russia	secondary	psbA-trnH	64.6863136	97.7453061	0

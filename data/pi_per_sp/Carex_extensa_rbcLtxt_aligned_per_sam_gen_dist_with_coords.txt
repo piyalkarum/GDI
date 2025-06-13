@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_extensa	JN893130.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.54	-3.75	0.000476190476190476
+Carex_extensa	GQ469846.1	11-JAN-2010	1408	Portugal: Vagos	secondary	rbcL	40.5538919	-8.680915	0.000411861614497529
+Carex_extensa	HM849853.1	23-JUL-2011	607	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00184043304306896
+Carex_extensa	JN892566.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000476190476190476
+Carex_extensa	JN891461.1	07-MAR-2012	539	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.000476190476190476

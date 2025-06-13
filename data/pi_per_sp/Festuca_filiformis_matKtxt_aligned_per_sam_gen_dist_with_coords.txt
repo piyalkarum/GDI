@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_filiformis	LR588304.1	30-JUL-2021	2800	Germany	primary	matK	49.9639	8.8489	0.000497512437810945
+Festuca_filiformis	LR588250.1	30-JUL-2021	2800	Germany	primary	matK	50.8989	6.3656	0.000497512437810945
+Festuca_filiformis	JN894232.1	07-MAR-2012	523	United Kingdom: Cardiganshire	primary	matK	52.41	-3.92	0
+Festuca_filiformis	JN894715.1	07-MAR-2012	670	United Kingdom: Montgomeryshire	secondary	matK	52.615273	-3.4649973	0.00099502487562189

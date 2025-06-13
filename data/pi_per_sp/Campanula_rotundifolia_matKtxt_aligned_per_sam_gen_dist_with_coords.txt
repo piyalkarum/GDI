@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_rotundifolia	OL537835.1	10-JAN-2022	840	USA: Texas, Davis Mountain Preserve	primary	matK	30.641	-104.18	0.0617374639711146
+Campanula_rotundifolia	KX677390.1	09-AUG-2017	781	Canada: British Columbia, East Kootenay Regional District, Dry Gulch Provincial Park	primary	matK	50.5862	-116.035	0.0603001735912546
+Campanula_rotundifolia	KX676819.1	09-AUG-2017	778	Canada: British Columbia, Kootenay Boundary Regional District, Just west of Kettle River Forest Service Road, north of Christian Valley	primary	matK	49.698	-118.778	0.0589163067506456
+Campanula_rotundifolia	KC474263.1	25-OCT-2013	772	Canada: Nunavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	matK	62.8339	-67.3567	0.0608689592052817
+Campanula_rotundifolia	KC474262.1	25-OCT-2013	772	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	matK	62.8522	-67.3408	0.0608689592052817
+Campanula_rotundifolia	JN895961.1	07-MAR-2012	793	United Kingdom: Breconshire (42)	primary	matK	51.88	-3.72	0.0606415925446241
+Campanula_rotundifolia	MK555954.1	22-SEP-2019	235	Austria	secondary	matK	37.0112488104594	-4.09779056843167	NA
+Campanula_rotundifolia	MK555862.1	22-SEP-2019	386	Austria	secondary	matK	36.5848578798273	-4.74336650183044	NA
+Campanula_rotundifolia	MK555718.1	22-SEP-2019	366	Austria	secondary	matK	36.6669853452881	-4.4189654645478	NA
+Campanula_rotundifolia	KT176623.1	19-AUG-2015	1533	USA	secondary	matK	39.7837304	-100.445882	0.0289434948326138
+Campanula_rotundifolia	FR865054.1	09-JUN-2011	443	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	NA

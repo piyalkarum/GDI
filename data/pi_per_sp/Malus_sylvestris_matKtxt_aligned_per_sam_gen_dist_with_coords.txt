@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Malus_sylvestris	JN895783.1	07-MAR-2012	783	United Kingdom: Glamorgan	primary	matK	51.77	-3.38	0.001001001001001
+Malus_sylvestris	JN894111.1	07-MAR-2012	809	United Kingdom: Breconshire	secondary	matK	52.9877138	-1.1775355	0.001001001001001
+Malus_sylvestris	JN894106.1	07-MAR-2012	666	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.003003003003003
+Malus_sylvestris	AM042563.1	05-JUL-2005	1712	Belgium	secondary	matK	50.6402809	4.6667145	0.001001001001001

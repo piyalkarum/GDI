@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_lingulata	MK556081.1	22-SEP-2019	343	Romania	secondary	rbcL	46.7317438741932	24.0997221803557	0.566483747105485
+Campanula_lingulata	MK556000.1	22-SEP-2019	319	Romania	secondary	rbcL	46.2464024408147	25.779722973777	0.598071476376996
+Campanula_lingulata	MK555550.1	22-SEP-2019	357	Romania	secondary	rbcL	46.3827784501642	24.6354440939605	0.63245710214524
+Campanula_lingulata	MK555359.1	22-SEP-2019	382	Romania	secondary	rbcL	45.246108670255	24.4151109635581	0.626906642807974

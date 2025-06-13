@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linum_bienne	JN895436.1	07-MAR-2012	848	United Kingdom: Cardiganshire	primary	matK	52.21	-4.36	0.140173256802721
+Linum_bienne	HM544102.1	19-DEC-2010	1116	Chile	secondary	matK	-31.7613365	-71.3187697	0.140105075625364
+Linum_bienne	FJ160836.1	10-JAN-2009	389	Italy	secondary	matK	42.6384261	12.674297	0.537153686736475
+Linum_bienne	HM850982.1	23-JUL-2011	784	Portugal	secondary	matK	39.6621648	-8.1353519	0.154131235827664
+Linum_bienne	JN895774.1	07-MAR-2012	833	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.140173256802721

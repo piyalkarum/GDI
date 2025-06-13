@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_cyanus	KJ652203.1	21-JUN-2014	806	France	primary	matK	46.2543477090068	1.90580581720657	0.565953166092962
+Centaurea_cyanus	KJ652202.1	21-JUN-2014	761	France	primary	matK	46.7445458556726	1.47059857610921	NA
+Centaurea_cyanus	JN895500.1	07-MAR-2012	721	United Kingdom: Monmouthshire	primary	matK	51.78	-3.21	0.0647653000594177
+Centaurea_cyanus	KT249952.1	09-AUG-2015	820	Germany	secondary	matK	34.0826230646103	-83.9133033740929	0.0631276901004304
+Centaurea_cyanus	KT249951.1	09-AUG-2015	820	Germany	secondary	matK	34.7257431931095	-83.5775199732745	0.0631276901004304
+Centaurea_cyanus	KT249950.1	09-AUG-2015	820	Germany	secondary	matK	35.0478197282505	-82.8718211864204	0.0631276901004304
+Centaurea_cyanus	KT249949.1	09-AUG-2015	820	Germany	secondary	matK	34.7147068054257	-83.1359756999377	0.0631276901004304
+Centaurea_cyanus	KC969482.1	30-NOV-2013	981	USA	secondary	matK	39.7837304	-100.445882	NA
+Centaurea_cyanus	JN894130.1	07-MAR-2012	930	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0631276901004304
+Centaurea_cyanus	JN894129.1	07-MAR-2012	750	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.0633996441856704

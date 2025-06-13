@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_hadriaticus	LS398312.1	01-SEP-2018	601	Greece	secondary	matK	43.6859014829105	-78.2201773253971	0
+Crocus_hadriaticus	LS398311.1	01-SEP-2018	601	Greece	secondary	matK	43.3673921389336	-78.3464173234464	0
+Crocus_hadriaticus	LS398310.1	01-SEP-2018	599	Greece	secondary	matK	43.3568575456267	-78.3067356305425	0
+Crocus_hadriaticus	LS398309.1	01-SEP-2018	599	Greece	secondary	matK	42.8948849538592	-78.7666511465443	0
+Crocus_hadriaticus	LS398308.1	01-SEP-2018	599	Greece	secondary	matK	42.7744927899681	-77.8396399387872	0
+Crocus_hadriaticus	LS398307.1	01-SEP-2018	599	Greece	secondary	matK	42.8555506634616	-77.7428795158683	0

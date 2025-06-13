@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chenopodiastrum_hybridum	MW736003.1	07-AUG-2022	755	China	secondary	atpB-rbcL	34.4196220696691	105.709652525039	0.0143139533867623
+Chenopodiastrum_hybridum	MW736002.1	07-AUG-2022	764	China	secondary	atpB-rbcL	34.4465209752548	104.961132138352	0.0173712333524218
+Chenopodiastrum_hybridum	MW736001.1	07-AUG-2022	758	China	secondary	atpB-rbcL	34.6994812440671	104.302019667124	0.0138444944294737
+Chenopodiastrum_hybridum	KY884354.1	30-APR-2018	589	United Kingdom: England, Dorset	secondary	atpB-rbcL	50.7968368	-2.3447323	0.00848896434634975

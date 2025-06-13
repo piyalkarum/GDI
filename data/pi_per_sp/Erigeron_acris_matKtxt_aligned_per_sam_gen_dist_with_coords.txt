@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erigeron_acris	KX677140.1	09-AUG-2017	712	Canada: British Columbia, Okanagan-Similkameen Regional District, East of Manning Park, Pasayten Forest Service Road	primary	matK	49.132	-120.585	0.0337545194667485
+Erigeron_acris	MG225142.1	21-JAN-2018	780	Canada: British Columbia, Tutshi Lake, BC	primary	matK	59.872	-134.786	0.034691347726629
+Erigeron_acris	MG225139.1	21-JAN-2018	780	Canada: Yukon Territory, Larsen Creek	primary	matK	60.169	-125.023	0.0338202667054561
+Erigeron_acris	MG224964.1	21-JAN-2018	780	Canada: Yukon Territory, Richardson Mountains, Fish Creek	primary	matK	67.899	-136.503	0.0338202667054561
+Erigeron_acris	JN896122.1	07-MAR-2012	783	United Kingdom: Glamorgan (41)	primary	matK	51.56	-4.16	0.0338202667054561
+Erigeron_acris	MT917493.1	03-MAR-2023	801	China	secondary	matK	34.8858947798509	104.530941938665	0.0338202667054561
+Erigeron_acris	MT917492.1	03-MAR-2023	767	China	secondary	matK	34.255106445319	104.745468205347	0.0338217153509726
+Erigeron_acris	MT917489.1	03-MAR-2023	780	China	secondary	matK	35.5853837841579	105.56897003403	0.0338202667054561
+Erigeron_acris	MT917488.1	03-MAR-2023	784	China	secondary	matK	34.9733098259696	105.307587891502	0.0338202667054561
+Erigeron_acris	MT917487.1	03-MAR-2023	784	China	secondary	matK	34.9957119692728	105.931011456257	0.0338202667054561
+Erigeron_acris	MT917484.1	03-MAR-2023	783	China	secondary	matK	34.9922723612867	104.444812921936	0.0338202667054561
+Erigeron_acris	KP175122.1	30-NOV-2016	290	Italy	secondary	matK	41.9574199274104	12.5700979510413	0.501730103806229
+Erigeron_acris	KP175121.1	30-NOV-2016	783	Italy	secondary	matK	42.587104290122	11.7745455504146	0.0338202667054561
+Erigeron_acris	KJ746180.1	29-JUL-2014	699	Poland	secondary	matK	52.215933	19.134422	0.0373749505770116
+Erigeron_acris	JN895243.1	07-MAR-2012	766	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.033734796619986
+Erigeron_acris	JN895242.1	07-MAR-2012	758	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.033736029908921

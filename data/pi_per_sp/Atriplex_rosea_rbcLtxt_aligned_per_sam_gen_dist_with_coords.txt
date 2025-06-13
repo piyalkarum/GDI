@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atriplex_rosea	MG249171.1	21-JAN-2018	522	Canada: York, ON	primary	rbcL	43.6957	-79.3961	0.347388831163688
+Atriplex_rosea	KX678481.1	29-APR-2017	552	Canada: British Columbia, Central Okanagan Regional District, Kelowna, Hwy 97, west of railroad tracks, south of McCurdy Road	primary	rbcL	49.9	-119.411	0.3445867578792
+Atriplex_rosea	MH469752.1	14-JUN-2020	610	Argentina: Mendoza	secondary	rbcL	-34.787093	-68.4381868	0.356860122207131
+Atriplex_rosea	KY884366.1	30-APR-2018	596	Jordan: Amman	secondary	rbcL	31.9515694	35.9239625	0.354398988542821
+Atriplex_rosea	HM587592.1	29-APR-2011	1343	USA: California, Alameda, Livermore	secondary	rbcL	38.4636152543402	-121.91485543253	0.343697981217683
+Atriplex_rosea	HM587656.1	29-APR-2011	615	USA: California, Alameda, Livermore	secondary	rbcL	37.0343048288996	-121.994485516848	0.349862488184454

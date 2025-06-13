@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stuckenia_pectinata	MF070566.1	09-MAY-2018	409	Iran	secondary	psbA-trnH	32.6475314	54.5643516	0.00140845070422535
+Stuckenia_pectinata	KC584971.1	04-JUN-2013	324	Italy: Umbria	secondary	psbA-trnH	42.965916	12.490236	0.00154798761609907
+Stuckenia_pectinata	AB488460.1	26-AUG-2009	357	Japan	secondary	psbA-trnH	36.279917796418	138.963976346264	0.00577731840308085
+Stuckenia_pectinata	AB488459.1	26-AUG-2009	354	Japan	secondary	psbA-trnH	37.3345746095832	139.646614009757	0.00141242937853107
+Stuckenia_pectinata	AB488458.1	26-AUG-2009	355	Japan	secondary	psbA-trnH	36.9911114547596	139.408777691724	0.00140845070422535

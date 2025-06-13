@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arenaria_serpyllifolia	OQ172751.1	18-JUN-2023	331	South Korea	secondary	psbA-trnH	36.765142716847	127.896634233883	0
+Arenaria_serpyllifolia	OQ172750.1	18-JUN-2023	331	South Korea	secondary	psbA-trnH	36.3353268048875	128.086135460788	0
+Arenaria_serpyllifolia	OQ172749.1	18-JUN-2023	331	South Korea	secondary	psbA-trnH	36.4217113461407	128.151861532517	0
+Arenaria_serpyllifolia	HE966483.1	18-SEP-2012	408	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.4291561291705	13.0805799974573	0
+Arenaria_serpyllifolia	HE966482.1	18-SEP-2012	408	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.2020358465827	13.0051370163647	0
+Arenaria_serpyllifolia	HE966481.1	18-SEP-2012	408	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6561981180189	14.244749687695	0

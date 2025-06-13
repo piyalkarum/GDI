@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fumaria_officinalis	OR575198.1	25-OCT-2023	769	Kazakhstan: Qaragandy region	primary	matK	49.51924	73.22125	0.0115182130651593
+Fumaria_officinalis	OL434950.1	14-NOV-2022	806	USA: Georgia	primary	matK	32.1174	-81.138	0.0118487064377285
+Fumaria_officinalis	KX676618.1	09-AUG-2017	821	Canada: British Columbia, Capital Regional District, Greater Victoria, Saanich, St. George's Anglican Church, 03909 St. George's Lane	primary	matK	48.463	-123.294	0.0078470365238599
+Fumaria_officinalis	LN610947.1	20-MAY-2015	1519	Spain	secondary	matK	39.3260685	-4.8379791	0.00823793511476884
+Fumaria_officinalis	JN895721.1	07-MAR-2012	697	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0078909612625538

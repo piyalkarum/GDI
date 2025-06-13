@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mcneillia_graminifolia	LC715033.1	08-SEP-2022	632	Italy	secondary	rps16	43.1497775856738	12.4393050755696	0.256177924217463
+Mcneillia_graminifolia	LC715032.1	08-SEP-2022	632	Italy	secondary	rps16	43.0194253865831	12.3996584504611	0.256177924217463
+Mcneillia_graminifolia	LC715031.1	08-SEP-2022	632	Italy	secondary	rps16	42.490204457769	13.8501497384024	0.256177924217463
+Mcneillia_graminifolia	LC714915.1	08-SEP-2022	792	Italy	secondary	rps16	43.4611101244202	12.4695610097275	0.384266886326194
+Mcneillia_graminifolia	LC714914.1	08-SEP-2022	792	Italy	secondary	rps16	43.3690484712751	12.4928788055665	0.384266886326194

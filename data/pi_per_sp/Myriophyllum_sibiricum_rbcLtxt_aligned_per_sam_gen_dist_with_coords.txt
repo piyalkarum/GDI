@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myriophyllum_sibiricum	MG246758.1	21-JAN-2018	552	Canada: Yukon Territory, Silver Trail, Halfway Lake	primary	rbcL	63.804	-135.795	0
+Myriophyllum_sibiricum	MG246534.1	21-JAN-2018	552	Canada: Yukon Territory, Nordenskiold River wetland pond No.16	primary	rbcL	62.019	-136.269	0
+Myriophyllum_sibiricum	KX679045.1	29-APR-2017	552	Canada: British Columbia, Comox Valley Regional District, Courtenay, Mission Hill	primary	rbcL	49.715	-124.982	0
+Myriophyllum_sibiricum	KT695590.1	29-SEP-2015	505	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.0508155570066	-81.2015477794797	0
+Myriophyllum_sibiricum	KT695455.1	29-SEP-2015	549	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.3446537725984	-79.2342867592218	0
+Myriophyllum_sibiricum	KC483208.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay, 1-2 km SW of Mt. Pelly, ~15 km northeast of Cambridge Bay, along road to Mt. Pelly	primary	rbcL	69.286	-104.883	0
+Myriophyllum_sibiricum	KC483207.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	68.719	-110.783	0
+Myriophyllum_sibiricum	KC483206.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. East shore of Kihlbay, tundra west of cabins	primary	rbcL	56.442	-78.956	0
+Myriophyllum_sibiricum	KC483205.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0
+Myriophyllum_sibiricum	JN965691.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 24 km E Churchill, Gordon Point, Tundra between Gordon Point and Polar Bear Point	primary	rbcL	58.787	-93.72	0
+Myriophyllum_sibiricum	JN965690.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 10 km SE Churchill, Farnworth Lake, Lake shore	primary	rbcL	58.705	-94.052	0
+Myriophyllum_sibiricum	JN965689.1	27-OCT-2012	529	Canada: Manitoba, Churchill, Wapusk National Park, Thompson Point, Beach ridges in sand amongst Leymus mollis and Dryas integrifolia	primary	rbcL	58.335	-93.018	0
+Myriophyllum_sibiricum	JN965688.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, Laperousse Bay, Mast River, Dryas integrifolia/Shepherdia canadensis moraine with Saxifraga tricuspidata and S. oppositifolia.	primary	rbcL	58.722	-93.428	0
+Myriophyllum_sibiricum	JN965687.1	27-OCT-2012	460	Canada: Manitoba, Churchill, 47 km NW Churchill, Seal River, Goose Camp	primary	rbcL	59.067	-94.8	0

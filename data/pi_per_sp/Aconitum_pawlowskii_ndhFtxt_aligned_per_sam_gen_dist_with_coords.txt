@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aconitum_pawlowskii	KU314895.1	01-JAN-2017	320	Poland	secondary	ndhF	52.1869898418994	18.588163059201	0
+Aconitum_pawlowskii	KU314894.1	01-JAN-2017	320	Poland	secondary	ndhF	52.3890013024732	18.1185301861786	0
+Aconitum_pawlowskii	KU314893.1	01-JAN-2017	320	Poland	secondary	ndhF	53.074574078649	19.0052921334703	0
+Aconitum_pawlowskii	KU314892.1	01-JAN-2017	320	Poland	secondary	ndhF	51.7324497966673	19.944748938978	0
+Aconitum_pawlowskii	KU314891.1	01-JAN-2017	320	Poland	secondary	ndhF	52.8087889493282	18.0995928811283	0
+Aconitum_pawlowskii	KU314890.1	01-JAN-2017	324	Poland	secondary	ndhF	51.5518073283998	18.4386380878183	0
+Aconitum_pawlowskii	KU314889.1	01-JAN-2017	324	Poland	secondary	ndhF	52.6239482196719	17.9053492774681	0
+Aconitum_pawlowskii	KU314888.1	01-JAN-2017	320	Poland	secondary	ndhF	52.9584251182794	19.56775092235	0
+Aconitum_pawlowskii	KF219867.1	01-OCT-2014	631	Poland	secondary	ndhF	51.9128910777526	17.9420975977636	0
+Aconitum_pawlowskii	MT530425.1	19-JAN-2022	948	Poland	secondary	ndhF	49.4818353	19.8724552679553	0

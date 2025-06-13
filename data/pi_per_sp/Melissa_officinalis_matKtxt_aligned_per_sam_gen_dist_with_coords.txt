@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melissa_officinalis	MF694864.1	16-SEP-2018	773	Pakistan: Baluchistan, Quetta	primary	matK	30.166	66.991	0.000920810313075506
+Melissa_officinalis	KP642889.1	08-DEC-2015	724	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.892	-78.146	0.00276243093922652
+Melissa_officinalis	KP172051.1	04-FEB-2015	826	Pakistan	secondary	matK	30.3308401	71.247499	0.000920810313075506
+Melissa_officinalis	HM850795.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.000920810313075506

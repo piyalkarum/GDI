@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lysimachia_vulgaris	MG224312.1	26-DEC-2017	552	Canada: Ontario, Toronto, City of, Toronto Islands, Wildlife Sanctuary, N of Filtration Plant	primary	rbcL	43.617	-79.383	0.00183144007002205
+Lysimachia_vulgaris	MG223703.1	26-DEC-2017	552	Canada: Ontario, Northumberland Co., Hope Tp., Conc. II, Lot 3, Ganaraska River where 2 sets of hydro lines cross, ca. 1/2 mi N of Hwy 401.	primary	rbcL	43.967	-78.25	0.000226449275362319
+Lysimachia_vulgaris	KJ841403.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	rbcL	45.542	-73.154	0.000226449275362319
+Lysimachia_vulgaris	JN893194.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.55	-3.08	0.000231053604436229
+Lysimachia_vulgaris	MG224639.1	26-DEC-2017	552	Canada: Ontario, Durham R. M., Oshawa, McLaughlin Bay Wildlife Reserve (General Motors), McLaughlin Bay Wildlife Reserve (GM), north shore of Lake Ontario, east part of Oshawa	secondary	rbcL	43.6976481772671	-77.7085446871588	0.000226449275362319
+Lysimachia_vulgaris	MG224421.1	26-DEC-2017	552	Canada: Ontario, Peterborough Co., Otonabee Tp., Rice Lake, mouth of Indian River, S of Keene	secondary	rbcL	44.194699530297	-78.7718606735558	0.000226449275362319
+Lysimachia_vulgaris	MG223326.1	26-DEC-2017	530	Canada: Ontario, Toronto, City of, Toronto Islands, Wildlife area, NW sector	secondary	rbcL	43.2449760720642	-77.3163548290176	0.000235849056603774
+Lysimachia_vulgaris	KJ204371.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.000227686703096539
+Lysimachia_vulgaris	JN892384.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000231053604436229

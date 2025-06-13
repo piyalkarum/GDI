@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pancratium_maritimum	HE565525.1	14-NOV-2012	368	Libya:Darnah	secondary	trnL-trnF	32.7593795	22.6383195	0
+Pancratium_maritimum	HE565524.1	14-NOV-2012	369	Spain:Barcelona, Llobregat	secondary	trnL-trnF	41.3598601	2.0997927	0
+Pancratium_maritimum	HE565523.1	14-NOV-2012	368	Morocco:Casablanca, Mohammedia	secondary	trnL-trnF	33.6958383	-7.3893292	0
+Pancratium_maritimum	HE565518.1	14-NOV-2012	368	Egypt:Baltim	secondary	trnL-trnF	31.554444	31.090278	0
+Pancratium_maritimum	FN597282.1	26-AUG-2010	368	Israel	secondary	trnL-trnF	30.8124247	34.8594762	0
+Pancratium_maritimum	FN597281.1	26-AUG-2010	368	Italy:Pelagie Islands, Lampione	secondary	trnL-trnF	35.1370026377514	12.1904116088864	0
+Pancratium_maritimum	FN597279.1	26-AUG-2010	369	Italy:Ischitella	secondary	trnL-trnF	41.904344	15.899453	0
+Pancratium_maritimum	FN597278.1	26-AUG-2010	369	Italy:Gallipoli	secondary	trnL-trnF	40.05672	17.996423	0
+Pancratium_maritimum	FN597277.1	26-AUG-2010	368	Italy:Sicily, Catania, Foce Simeto	secondary	trnL-trnF	37.4001607	15.0778379	0
+Pancratium_maritimum	FN597276.1	26-AUG-2010	368	Greece:Crete, Elafonissi	secondary	trnL-trnF	35.2693909	23.5314766	0
+Pancratium_maritimum	FN597280.1	26-AUG-2010	369	Italy	secondary	trnL-trnF	35.5327008841112	11.539923483564	0

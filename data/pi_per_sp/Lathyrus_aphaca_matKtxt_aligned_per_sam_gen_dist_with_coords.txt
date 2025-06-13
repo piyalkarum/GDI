@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_aphaca	MK925628.1	14-JAN-2020	704	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.000946969696969697
+Lathyrus_aphaca	HM851115.1	23-JUL-2011	813	Portugal	secondary	matK	39.4801202170352	-7.12248684864301	0.0034069942972157
+Lathyrus_aphaca	JX505789.1	09-JAN-2013	1521	Portugal	secondary	matK	40.2201241081081	-8.18011787500933	0.001230012300123
+Lathyrus_aphaca	JX505788.1	09-JAN-2013	1521	Turkey	secondary	matK	38.9597594	34.9249653	0.001230012300123

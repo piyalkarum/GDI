@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Medicago_lupulina	OR538524.1	17-OCT-2023	284	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	psbA-trnH	42.288333	-85.619553	0.00526662277814352
+Medicago_lupulina	OR538510.1	17-OCT-2023	287	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	psbA-trnH	42.28837021	-85.61979401	0.00519480519480519
+Medicago_lupulina	OR465039.1	26-SEP-2023	291	USA: WMU Parking Lot 41, Kalamazoo, MI	primary	psbA-trnH	42.284551	-85.61471022	0.00510204081632653
+Medicago_lupulina	OQ310572.1	16-MAY-2023	347	Mexico: Puebla	secondary	psbA-trnH	18.9678914115872	-99.2823560619497	0.01703506867772
+Medicago_lupulina	OQ310355.1	16-MAY-2023	350	Mexico: Puebla	secondary	psbA-trnH	18.6804904609859	-97.8920611593312	0.0169150442977678
+Medicago_lupulina	HE966705.1	18-SEP-2012	525	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.2809973330562	13.8939184499993	0.0223811284679873
+Medicago_lupulina	HE966704.1	18-SEP-2012	525	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.0943910239111	14.3717743061609	0.0156035141858812
+Medicago_lupulina	HE966703.1	18-SEP-2012	525	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.476299365306	14.2003719224282	0.016147731872956

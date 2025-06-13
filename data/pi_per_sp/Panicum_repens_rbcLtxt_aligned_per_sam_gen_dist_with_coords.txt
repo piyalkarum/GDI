@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Panicum_repens	MH050064.1	10-OCT-2018	717	China	primary	rbcL	22.9066702567573	114.293132380248	0.0260364327346476
+Panicum_repens	MH050063.1	10-OCT-2018	717	China	primary	rbcL	22.0080530055678	114.681383565175	0.0212859257093786
+Panicum_repens	MH050062.1	10-OCT-2018	717	China	primary	rbcL	22.46	114.05	0.0228613075263054
+Panicum_repens	HM850228.1	23-JUL-2011	1325	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0218340611353712

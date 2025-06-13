@@ -1,0 +1,33 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Descurainia_sophia	OR738032.1	13-NOV-2023	542	Kazakhstan: Mangistau region	primary	rbcL	44.28184	51.00417	NA
+Descurainia_sophia	OR737994.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	NA
+Descurainia_sophia	MG249723.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	47.404	-101.925	NA
+Descurainia_sophia	MG249544.1	21-JAN-2018	553	Canada: Ontario, Wellington, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	NA
+Descurainia_sophia	MG248516.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	47.672	-100.11	NA
+Descurainia_sophia	MG246847.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	46.175	-102.44	NA
+Descurainia_sophia	MG246181.1	21-JAN-2018	511	Canada: Ontario, Wellington County, City of Guelph, South-East of Summerfield Road along Victoria Road South	primary	rbcL	43.52	-80.179	NA
+Descurainia_sophia	MF786478.1	06-DEC-2017	519	China: Xizang (Tibet), between Nielamu (Nyalam) and Zhangmu on route 318.	primary	rbcL	28.1217	85.99	NA
+Descurainia_sophia	KX678758.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Fairview Rd., travelling from Cawston to Oliver	primary	rbcL	49.218	-119.682	NA
+Descurainia_sophia	JN892038.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.4	-4.06	NA
+Descurainia_sophia	MT930773.1	03-MAR-2023	568	China	secondary	rbcL	34.3142897965732	105.428000697882	NA
+Descurainia_sophia	MT930772.1	03-MAR-2023	568	China	secondary	rbcL	35.3401817505039	105.638863108694	NA
+Descurainia_sophia	MT930771.1	03-MAR-2023	556	China	secondary	rbcL	34.9569082522079	104.544806250529	NA
+Descurainia_sophia	MT930770.1	03-MAR-2023	568	China	secondary	rbcL	34.6829322629351	105.362913172327	NA
+Descurainia_sophia	MT930769.1	03-MAR-2023	568	China	secondary	rbcL	34.5644479435711	104.934645417043	NA
+Descurainia_sophia	MT930768.1	03-MAR-2023	565	China	secondary	rbcL	34.3943448559883	104.698277971329	NA
+Descurainia_sophia	MT930767.1	03-MAR-2023	565	China	secondary	rbcL	35.0036423838166	104.468877068342	NA
+Descurainia_sophia	MT930766.1	03-MAR-2023	565	China	secondary	rbcL	34.3358060251544	104.429432122875	NA
+Descurainia_sophia	MT930765.1	03-MAR-2023	551	China	secondary	rbcL	34.2599754934202	105.026814719284	NA
+Descurainia_sophia	MT930764.1	03-MAR-2023	565	China	secondary	rbcL	35.4785638461085	105.744457805749	NA
+Descurainia_sophia	MT930763.1	03-MAR-2023	565	China	secondary	rbcL	34.6070443539064	105.075953411825	NA
+Descurainia_sophia	MT930762.1	03-MAR-2023	564	China	secondary	rbcL	34.5411789969537	104.212739988259	NA
+Descurainia_sophia	MT930761.1	03-MAR-2023	569	China	secondary	rbcL	35.2482600885955	104.35797845154	NA
+Descurainia_sophia	MK468870.1	24-JUN-2019	1368	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00134927615634326
+Descurainia_sophia	MH215247.1	22-JAN-2019	553	China	secondary	rbcL	34.44029257461	104.435638865743	NA
+Descurainia_sophia	KM892717.1	11-OCT-2018	577	China	secondary	rbcL	34.3171153177464	105.55369744433	NA
+Descurainia_sophia	KM892716.1	11-OCT-2018	577	China	secondary	rbcL	34.6672358680426	104.253635274337	NA
+Descurainia_sophia	KM892706.1	11-OCT-2018	577	China	secondary	rbcL	34.3607565836034	105.208516798011	NA
+Descurainia_sophia	KM892682.1	11-OCT-2018	577	China	secondary	rbcL	35.2517537317471	105.477369100303	NA
+Descurainia_sophia	JQ933298.1	30-SEP-2012	666	Pakistan: Balochistan	secondary	rbcL	28	66	NA
+Descurainia_sophia	JX848439.1	06-AUG-2013	1380	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.0015693588822509
+Descurainia_sophia	JN892629.1	07-MAR-2012	470	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	NA

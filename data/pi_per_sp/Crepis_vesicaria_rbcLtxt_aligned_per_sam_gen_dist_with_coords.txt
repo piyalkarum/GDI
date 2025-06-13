@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crepis_vesicaria	MG224078.1	26-DEC-2017	552	Canada: British Columbia, Gulf Islands, North Pender Island, Bridges Rd and Upper Terrace Rd, SW side	primary	rbcL	48.816	-123.319	0
+Crepis_vesicaria	MG223998.1	26-DEC-2017	552	Canada: British Columbia, Gulf Islands, North Pender Island, Port Washington, S of General store Bridges Rd	primary	rbcL	48.813	-123.319	0
+Crepis_vesicaria	MG222608.1	26-DEC-2017	552	Canada: British Columbia, North Pender Island, Port Washington, Willey Point, 20m S of government wharf	primary	rbcL	48.813	-123.32	0
+Crepis_vesicaria	MG221576.1	26-DEC-2017	552	United Kingdom: Bideford, N. Devon	secondary	rbcL	51.0153607	-4.2012189	0

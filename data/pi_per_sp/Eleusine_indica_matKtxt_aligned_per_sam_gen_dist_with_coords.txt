@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eleusine_indica	OL434965.1	14-NOV-2022	788	USA: Georgia	primary	matK	32.1403	-81.1446	0.0148366067911547
+Eleusine_indica	OQ289905.1	16-MAY-2023	791	Mexico: Puebla	secondary	matK	19.1705686	-98.4123106	0.013744395312166
+Eleusine_indica	AF144580.1	29-DEC-1999	1542	China	secondary	matK	34.9374869186723	105.322158860736	0.035485262479448
+Eleusine_indica	JF729107.1	12-SEP-2011	817	Mexico	secondary	matK	19.4326296	-99.1331785	0.0162280356118031
+Eleusine_indica	GQ219625.1	31-DEC-2014	546	China	secondary	matK	34.9650105690444	105.579496992422	0.0341216671848756
+Eleusine_indica	GQ219624.1	31-DEC-2014	546	China	secondary	matK	35.0471870885036	105.475798270469	0.00405927405927406
+Eleusine_indica	KP056937.1	28-FEB-2015	1020	South Korea: Anyang-si, Gyeonggi-do	secondary	matK	37.3938528	126.9570605	0.0117843634799605
+Eleusine_indica	KP056936.1	28-FEB-2015	1020	South Korea: Jeju-si, Jeju-do	secondary	matK	33.3939924	126.5626653	0.0117843634799605
+Eleusine_indica	KP056934.1	28-FEB-2015	1020	South Korea: Jecheon-si, Choongbuk-do	secondary	matK	37.1326042	128.1913508	0.0117843634799605
+Eleusine_indica	KP056933.1	28-FEB-2015	1020	South Korea: Iksan-si, Jeollabuk-do	secondary	matK	35.9479291	126.9578025	0.0117843634799605
+Eleusine_indica	HM850574.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0396250714475999
+Eleusine_indica	HQ599960.1	02-AUG-2011	1315	South Korea	secondary	matK	36.638392	127.6961188	0.0112423541202319

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Primula_farinosa	MK925574.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6164055394894	-2.47034835763098	0
+Primula_farinosa	MK925486.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2919988654673	-4.34433107243425	0
+Primula_farinosa	MK925247.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8674022007973	-2.37469951449339	0
+Primula_farinosa	MK925245.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4674250647771	-4.03569886949003	0
+Primula_farinosa	MK924984.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0112339774252	-4.44828070859105	0

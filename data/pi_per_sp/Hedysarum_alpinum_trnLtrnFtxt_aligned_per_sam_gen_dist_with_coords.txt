@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedysarum_alpinum	MG905924.1	06-OCT-2018	669	Russia	primary	trnL-trnF	50.25	117.12	0.0136314994760606
+Hedysarum_alpinum	MG905923.1	06-OCT-2018	526	Russia	primary	trnL-trnF	51.39	101.23	0.0113067135682927
+Hedysarum_alpinum	MG905922.1	06-OCT-2018	645	Russia	primary	trnL-trnF	52.37	105.52	0.00986927135565949
+Hedysarum_alpinum	MG905921.1	06-OCT-2018	653	Russia	primary	trnL-trnF	64.27	143.2	0.0150467679430413
+Hedysarum_alpinum	MG905920.1	06-OCT-2018	344	Russia	primary	trnL-trnF	50.06	87.47	0.0357840288314122
+Hedysarum_alpinum	MG905919.1	06-OCT-2018	571	Russia	primary	trnL-trnF	58.46	127.13	0.0125170284545294
+Hedysarum_alpinum	MG905927.1	06-OCT-2018	309	Russia	secondary	trnL-trnF	64.9883209999053	99.0777415231264	0.0250867661070781
+Hedysarum_alpinum	MG905926.1	06-OCT-2018	575	Russia	secondary	trnL-trnF	65.0000356052618	96.4824605137722	0.00828382332798649
+Hedysarum_alpinum	MG905925.1	06-OCT-2018	589	Russia	secondary	trnL-trnF	65.2595035831988	98.7242217437875	0.0116347114561923

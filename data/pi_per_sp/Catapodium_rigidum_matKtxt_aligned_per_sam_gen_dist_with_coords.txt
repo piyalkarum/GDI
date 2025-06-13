@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Catapodium_rigidum	JN895497.1	07-MAR-2012	1014	United Kingdom: Glamorgan	primary	matK	51.49	-3.18	0.000441438902977364
+Catapodium_rigidum	LR606857.1	25-JAN-2021	2058	Greece	secondary	matK	43.2097838	-77.6930602	0.00127698804944661
+Catapodium_rigidum	KJ599274.1	21-SEP-2014	744	Australia: Victoria	secondary	matK	-36.5986096	144.6780052	0.000539087474571346
+Catapodium_rigidum	JX438086.1	31-MAR-2013	1246	Spain	secondary	matK	39.3260685	-4.8379791	0.00140166935217039
+Catapodium_rigidum	HM850566.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00052928857900477
+Catapodium_rigidum	JN895185.1	07-MAR-2012	820	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.000526787870424673

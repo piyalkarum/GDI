@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygonum_aviculare	MG221138.1	21-JAN-2018	774	USA: North Dakota	primary	matK	48.537	-100.525	0.00138735326484762
+Polygonum_aviculare	MG220992.1	21-JAN-2018	774	USA: North Dakota	primary	matK	47.814	-102.091	0.00766706036595966
+Polygonum_aviculare	MG220962.1	21-JAN-2018	774	USA: North Dakota	primary	matK	47.556	-101.245	0.00138735326484762
+Polygonum_aviculare	KP210414.1	28-NOV-2015	661	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	matK	45.4534556702578	-71.9605155664068	0.00128742662569575
+Polygonum_aviculare	KP210413.1	28-NOV-2015	747	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	matK	45.0061128438202	-73.0800882969687	0.00142170224376161
+Polygonum_aviculare	JN895276.1	07-MAR-2012	780	United Kingdom: Monmouthshire (35)	primary	matK	51.5	-3.13	0.00346153048789415
+Polygonum_aviculare	OR463363.1	04-OCT-2023	699	Russia	secondary	matK	64.6863136	97.7453061	0.00146404995864442
+Polygonum_aviculare	MT918081.1	03-MAR-2023	782	China	secondary	matK	34.1895268517014	104.569483919377	0.0014482766186453
+Polygonum_aviculare	MT918080.1	03-MAR-2023	775	China	secondary	matK	35.1138284968115	104.862468505211	0.00315987297800769
+Polygonum_aviculare	MT918079.1	03-MAR-2023	773	China	secondary	matK	35.6372694784747	104.855552498004	0.00229918111844264
+Polygonum_aviculare	MT918078.1	03-MAR-2023	769	China	secondary	matK	35.5189491671481	104.312312171105	0.00270081920448535
+Polygonum_aviculare	LC722798.1	11-FEB-2023	521	Japan:Aichi, Mihamacho	secondary	matK	34.6210045035058	136.199634387559	0.00153550863723608
+Polygonum_aviculare	LC722796.1	11-FEB-2023	834	Japan:Aichi, Minamichitacho	secondary	matK	35.5132878815554	137.350372862795	0.00144147004331493
+Polygonum_aviculare	MH321111.1	19-FEB-2019	1143	China: Hefei, Anhui	secondary	matK	32.4099833797112	117.323722870278	0.0014155335209672
+Polygonum_aviculare	MH321110.1	19-FEB-2019	1143	China: Hefei, Anhui	secondary	matK	32.2824014392432	118.008841594286	0.0014155335209672
+Polygonum_aviculare	KJ204524.1	29-JAN-2015	829	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00335499957252674
+Polygonum_aviculare	HM851078.1	23-JUL-2011	741	Portugal	secondary	matK	39.6621648	-8.1353519	0.00764814961149767
+Polygonum_aviculare	JN896076.1	07-MAR-2012	749	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00478402078338216
+Polygonum_aviculare	JN895161.1	07-MAR-2012	777	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.0023015827197989
+Polygonum_aviculare	MK044320.1	15-MAY-2019	822	South Korea	secondary	matK	37.7598955	126.7801502	0.00136836630785597
+Polygonum_aviculare	MK044319.1	15-MAY-2019	822	South Korea	secondary	matK	33.4930566	126.5130589	0.00136836630785597

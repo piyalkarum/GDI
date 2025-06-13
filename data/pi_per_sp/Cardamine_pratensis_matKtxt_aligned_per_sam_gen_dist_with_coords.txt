@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_pratensis	MZ400458.1	07-DEC-2021	763	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00805657153303553
+Cardamine_pratensis	KC474283.1	25-OCT-2013	716	Canada: Northwest Territories, Victoria Island, Minto Inlet, Wet sedge meadow between two small lakes NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.272	-116.467	0.00564371214473121
+Cardamine_pratensis	KC474282.1	25-OCT-2013	762	Canada: Northwest Territories, Victoria Island, Minto Inlet, River valley at N head of Minto Inlet, ~ 3 km from Inlet	primary	matK	71.68	-115.492	0.00554231666250144
+Cardamine_pratensis	KC474281.1	25-OCT-2013	504	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	matK	68.719	-110.783	0.00925925925925926
+Cardamine_pratensis	KC474280.1	25-OCT-2013	743	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq, shoreline of lake beside school	primary	matK	56.608	-79.269	0.00916630506283788
+Cardamine_pratensis	JN966166.1	27-OCT-2012	614	Canada: Manitoba, Churchill, 16 km E Churchill, small creek near Launch Road, Tundra creek, in water	primary	matK	58.745	-93.895	0.00753795908519036
+Cardamine_pratensis	HM850749.1	23-JUL-2011	798	Portugal	secondary	matK	39.6621648	-8.1353519	0.00805657153303553
+Cardamine_pratensis	JN894921.1	07-MAR-2012	768	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00774292667869183
+Cardamine_pratensis	JN894428.1	07-MAR-2012	702	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0121716608897301
+Cardamine_pratensis	JN894245.1	07-MAR-2012	746	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0101828803350833

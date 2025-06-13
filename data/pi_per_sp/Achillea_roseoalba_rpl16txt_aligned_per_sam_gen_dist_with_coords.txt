@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achillea_roseoalba	HQ450987.1	27-FEB-2012	859	Slovenia: Ljubljana, Podpec	secondary	rpl16	45.9288917452354	14.0108022614369	0.000776096235933256
+Achillea_roseoalba	HQ450986.1	27-FEB-2012	859	Slovenia: Ljubljana, Podpec	secondary	rpl16	45.665439617508	13.5053072704902	0.000776096235933256
+Achillea_roseoalba	HQ450985.1	27-FEB-2012	859	Slovenia: Ljubljana	secondary	rpl16	45.5485261945737	13.7858463160736	0.000776096235933256
+Achillea_roseoalba	HQ450984.1	27-FEB-2012	859	Slovenia: Ljubljana	secondary	rpl16	46.4422217045261	15.5098485438159	0.000776096235933256

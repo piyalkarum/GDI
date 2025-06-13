@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_absinthium	OQ832225.1	15-AUG-2023	465	USA: James Kipp Recreation Area	primary	psbA-trnH	47.626	-108.6781	0.00158760468068195
+Artemisia_absinthium	MT758524.1	27-DEC-2021	465	Turkey: Agri	primary	psbA-trnH	39.42	43.5	0.00227891919347525
+Artemisia_absinthium	MT758523.1	27-DEC-2021	465	Turkey: Mus	primary	psbA-trnH	39.21	42.15	0.00227891919347525
+Artemisia_absinthium	MT758522.1	27-DEC-2021	465	Turkey: Erzurum	primary	psbA-trnH	39.57	41.1	0.00227891919347525
+Artemisia_absinthium	OQ320367.1	14-JUN-2023	380	Latvia	secondary	psbA-trnH	56.8406494	24.7537645	0.00364372469635628
+Artemisia_absinthium	MG947067.1	29-MAY-2018	486	Pakistan	secondary	psbA-trnH	30.3308401	71.247499	0.00156099609095071
+Artemisia_absinthium	KX581943.1	24-SEP-2016	475	China: Xinjiang, Yili	secondary	psbA-trnH	43.4817577470372	81.237730635514	0.00231748655636019
+Artemisia_absinthium	KX581942.1	24-SEP-2016	475	China: Xinjiang, Yili	secondary	psbA-trnH	44.309431121907	80.4203648466813	0.00231748655636019
+Artemisia_absinthium	KX581941.1	24-SEP-2016	475	China: Xinjiang, Yili	secondary	psbA-trnH	43.1950756843268	81.8019208892552	0.00231748655636019
+Artemisia_absinthium	KX581940.1	24-SEP-2016	475	China: Xinjiang, Yili	secondary	psbA-trnH	43.5184486879642	80.5078742458826	0.00231748655636019
+Artemisia_absinthium	JX073911.1	06-FEB-2013	383	USA: Berkeley, CA	secondary	psbA-trnH	37.8708393	-122.272863	0.00120717263263491
+Artemisia_absinthium	HE966491.1	18-SEP-2012	491	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00156099609095071
+Artemisia_absinthium	JN862005.1	04-SEP-2012	382	Kyrgyzstan	secondary	psbA-trnH	42.4858224	74.714583	0.00201581279013078
+Artemisia_absinthium	JN862004.1	04-SEP-2012	382	USA: Montana	secondary	psbA-trnH	47.3752671	-109.638757	0.00120927570638235

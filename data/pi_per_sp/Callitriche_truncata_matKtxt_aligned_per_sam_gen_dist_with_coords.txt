@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Callitriche_truncata	JN894016.1	07-MAR-2012	704	United Kingdom: Anglesey	primary	matK	53.2	-4.42	0.0170454545454545
+Callitriche_truncata	LC176860.1	01-APR-2017	998	Ecuador	secondary	matK	-1.3397668	-79.3666965	0.0459373249780783
+Callitriche_truncata	JN895908.1	07-MAR-2012	829	United Kingdom: Anglesey	secondary	matK	53.2782257	-4.331344	0.0160836349014877
+Callitriche_truncata	LC176859.1	01-APR-2017	900	Malta	secondary	matK	35.8269478	14.5274189	0.0163105384152242

@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_arcticus	KT960677.1	13-DEC-2015	538	Greenland: NE, Zackenberg	primary	rbcL	74.5419898832646	-19.6249574871199	0
+Ranunculus_arcticus	KT960601.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.2142237926895	-21.0448527389641	0
+Ranunculus_arcticus	KT960494.1	13-DEC-2015	534	Greenland: NE, Zackenberg	primary	rbcL	74.9662412111283	-22.1348151454849	0
+Ranunculus_arcticus	KC483833.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Between Causeway and Inuit Head	primary	rbcL	63.7333	-68.4667	0
+Ranunculus_arcticus	KC483832.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vincinity of Arctic Char Inn, Uluhaktok	primary	rbcL	70.736	-117.77	0
+Ranunculus_arcticus	KC483831.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Small cliff south of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	rbcL	68.703	-112.653	0
+Ranunculus_arcticus	KC483830.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Masik River, Masik River Valley, hills on S side of valley, SSW of large oblong lake	primary	rbcL	71.5833	-123.171	0
+Ranunculus_arcticus	KC483829.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Parker River, NE part. Parker River Valley, near outlet	primary	rbcL	73.65	-115.74	0
+Ranunculus_arcticus	KC483828.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Causeway to Inuit Head	primary	rbcL	63.75	-68.5167	0
+Ranunculus_arcticus	KC483827.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Near cabin on slopes just above coastal area	primary	rbcL	56.331	-79.514	0
+Ranunculus_arcticus	KC483826.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island, McCormick Inlet, ca. 12 km SW of head of inlet at river delta	primary	rbcL	75.78	-112.51	0
+Ranunculus_arcticus	KC483825.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Enclosed valley S of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.318	-116.467	0
+Ranunculus_arcticus	KC483824.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve. Head of Tanquary Fiord Quad., Macdonald R	primary	rbcL	81.4167	-76.9167	0
+Ranunculus_arcticus	KC483823.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Aulavik National Park, Head Hill archaeological site	primary	rbcL	73.8356	-119.989	0
+Ranunculus_arcticus	KC483822.1	25-OCT-2013	552	Canada: Nunavut, Southampton Island, Coral Harbour, Salliq (Coral Harbour), rocky outcrop between the Northern Store and the coast	primary	rbcL	64.1369	-83.1647	0
+Ranunculus_arcticus	JN965803.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	rbcL	58.789	-94.227	0
+Ranunculus_arcticus	JN965802.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Salt marsh	primary	rbcL	58.771	-93.843	0
+Ranunculus_arcticus	JN965801.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, Thompson Point, Beach ridges in sand amongst Leymus mollis and Dryas integrifolia	primary	rbcL	58.335	-93.018	0
+Ranunculus_arcticus	JN965800.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, Laperousse Bay, Mast River, Dryas integrifolia/Shepherdia canadensis moraine with Saxifraga tricuspidata and S. oppositifolia.	primary	rbcL	58.722	-93.428	0

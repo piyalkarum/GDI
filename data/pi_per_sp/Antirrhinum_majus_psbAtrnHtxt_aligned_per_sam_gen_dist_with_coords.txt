@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_majus	OR381732.1	30-SEP-2023	347	Canada: Guelph, ON	secondary	psbA-trnH	43.5449241	-80.2513158	0.0172482952266346
+Antirrhinum_majus	HE966476.1	18-SEP-2012	308	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0186631944444444
+Antirrhinum_majus	HM152925.1	24-AUG-2010	278	Spain: Gerona, La Molina	secondary	psbA-trnH	42.3427392	1.9562059	0.00700930681447622
+Antirrhinum_majus	HM152924.1	24-AUG-2010	278	France: Pyrenees Orientales, Salses	secondary	psbA-trnH	42.8333802	2.9181798	0.00537479538030226
+Antirrhinum_majus	HM152923.1	24-AUG-2010	278	France: Herault, St. Chinian	secondary	psbA-trnH	43.4215	2.94677	0.00700930681447622
+Antirrhinum_majus	HM152922.1	24-AUG-2010	278	Spain: Lerida, Valle de Aran	secondary	psbA-trnH	42.7256057	0.8503525	0.00537479538030226
+Antirrhinum_majus	HM152921.1	24-AUG-2010	278	Spain: Huesca, Panticosa	secondary	psbA-trnH	42.7236963	-0.2843924	0.00537479538030226
+Antirrhinum_majus	HM152920.1	24-AUG-2010	278	Spain: Barcelona, Greixer	secondary	psbA-trnH	42.2852746	1.8483879	0.00700930681447622
+Antirrhinum_majus	HM152916.1	24-AUG-2010	278	Spain: Valencia, Serra	secondary	psbA-trnH	39.6851966	-0.4281287	0.00537479538030226
+Antirrhinum_majus	HM152915.1	24-AUG-2010	278	Spain: Teruel, Griegos	secondary	psbA-trnH	40.4265704	-1.7116578	0.00537479538030226

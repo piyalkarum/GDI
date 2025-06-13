@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthemis_cupaniana	FM957780.1	31-AUG-2009	553	Italy:Sicily	secondary	ITS	37.8203291008566	14.0068143880678	0.0483859145900544
+Anthemis_cupaniana	FM957778.1	31-AUG-2009	553	Italy:Sicily	secondary	ITS	36.7907100349749	14.662652074223	0.0477809539124984
+Anthemis_cupaniana	FM957777.1	31-AUG-2009	553	Italy:Sicily	secondary	ITS	37.7611479865877	13.9073072668608	0.0562329000152061
+Anthemis_cupaniana	FM957765.1	31-AUG-2009	553	Italy:Sicily	secondary	ITS	37.2210943753082	13.824165428705	0.0495783325620905

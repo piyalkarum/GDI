@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Petrorhagia_nanteuilii	MK925301.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Petrorhagia_nanteuilii	MK924807.1	14-JAN-2020	542	Spain	secondary	rbcL	39.6730754857	-4.84521740060562	0
+Petrorhagia_nanteuilii	MK924789.1	14-JAN-2020	542	Spain	secondary	rbcL	39.8633233253829	-3.90976834807613	0
+Petrorhagia_nanteuilii	MG249913.1	21-JAN-2018	552	Canada: British Columbia, Greater Vancouver Regional Dist, Surrey, 110th Ave near Scott Rd	secondary	rbcL	49.25783145	-123.246241986222	0

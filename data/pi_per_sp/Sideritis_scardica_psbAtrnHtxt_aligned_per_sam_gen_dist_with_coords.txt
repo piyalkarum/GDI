@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sideritis_scardica	KT633365.1	14-NOV-2017	507	Greece: Kilkis, cultivation	secondary	psbA-trnH	40.9935874	22.8741455	0.0185984930385256
+Sideritis_scardica	KT633329.1	14-NOV-2017	499	Greece: Riza, Halkidiki (seeds from Rodopi Mt.)	secondary	psbA-trnH	38.1943979755138	22.2458445670975	0.00678462562655144
+Sideritis_scardica	KT633326.1	14-NOV-2017	512	Greece: Riza, Halkidiki	secondary	psbA-trnH	38.0745310233613	23.2874737988746	0.00678462562655144
+Sideritis_scardica	KT633320.1	14-NOV-2017	519	Greece: Riza, Halkidiki	secondary	psbA-trnH	38.1534931991628	23.1034644132322	0.00678462562655144
+Sideritis_scardica	KT633316.1	14-NOV-2017	483	Greece: Litochoro Pierias	secondary	psbA-trnH	40.0997325	22.5008328	0.00697553073125155
+Sideritis_scardica	KT633309.1	14-NOV-2017	444	Greece: Riza, Halkidiki	secondary	psbA-trnH	38.3066923522658	21.9301586398711	0.0291311047889995
+Sideritis_scardica	KT633296.1	14-NOV-2017	469	Greece: Serres, traditional products store	secondary	psbA-trnH	41.0910711	23.5498031	0.00705855011991663
+Sideritis_scardica	KT633294.1	14-NOV-2017	427	Greece: Thessaloniki, flea market	secondary	psbA-trnH	40.6403167	22.9352716	0.00739413735531078
+Sideritis_scardica	KT633292.1	14-NOV-2017	460	Greece: Veria, herbal store	secondary	psbA-trnH	40.5215342	22.2036834	0.00689769115979867

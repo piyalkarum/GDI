@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crepis_capillaris	KX677326.1	09-AUG-2017	786	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Baden Powell trail	primary	matK	49.334	-122.954	0.00473109633716372
+Crepis_capillaris	KX676923.1	09-AUG-2017	786	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	matK	49.376	-122.862	0.00473109633716372
+Crepis_capillaris	JN894641.1	07-MAR-2012	940	United Kingdom: Cardiganshire	primary	matK	52.11	-4.68	0.00478500334722015
+Crepis_capillaris	KT249989.1	09-AUG-2015	820	Germany	secondary	matK	34.4621215789037	-83.0339967106417	0.00465475266897341
+Crepis_capillaris	KT249988.1	09-AUG-2015	820	Germany	secondary	matK	35.5100461903303	-83.9611955545197	0.00465475266897341
+Crepis_capillaris	KT249987.1	09-AUG-2015	820	Germany	secondary	matK	35.779348170311	-83.4120708654256	0.00465475266897341
+Crepis_capillaris	HM850628.1	23-JUL-2011	540	Portugal	secondary	matK	39.6621648	-8.1353519	0.0185100950885693
+Crepis_capillaris	JN895835.1	07-MAR-2012	794	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00465773788408099
+Crepis_capillaris	JN895402.1	07-MAR-2012	804	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00606433240106905
+Crepis_capillaris	AJ633142.1	10-OCT-2004	970	Austria:Tirol, Arl	secondary	matK	47.6911714	15.5423459	0.0204994644722083

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_nigra	MG227381.1	23-JAN-2018	497	Canada: Nova Scotia, Shelburne County, Western Head	primary	rbcL	43.661	-65.129	0.000182915675873422
+Carex_nigra	JN891264.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000167728950016773
+Carex_nigra	MW011015.1	27-JUL-2021	553	Finland	secondary	rbcL	63.2467777	25.9209164	0.00184629427398739
+Carex_nigra	MW011013.1	27-JUL-2021	553	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.000164392569455861
+Carex_nigra	MG228240.1	23-JAN-2018	552	Canada: Quebec, Cte Dorchester, St-Anselme, la riviere Etchemin au bord de chutes (entre St-Anselme et Ste-Claire).	secondary	rbcL	46.7178911050426	-71.0679484729098	0.000164690382081686
+Carex_nigra	MG227958.1	23-JAN-2018	552	Canada: Quebec, Cte Chicoutimi, Baie de Pins, Cap Jaseux, canton d'Harvey.	secondary	rbcL	47.4828250651049	-71.0888977109168	0.000164690382081686
+Carex_nigra	MG225840.1	23-JAN-2018	552	Canada: Quebec, Ile St-Barnabe, Rimouski.	secondary	rbcL	46.8889498542071	-70.7712613973386	0.000164690382081686
+Carex_nigra	GQ469838.1	11-JAN-2010	1408	United Kingdom: Scotland, Highlands, Edinburgh-Inverness	secondary	rbcL	52.8609703	-0.5098637	0.000231090361758935
+Carex_nigra	HM849856.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00023630430519317
+Carex_nigra	JN892605.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.000167728950016773
+Carex_nigra	JN892557.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000167728950016773
+Carex_nigra	JN891203.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000167728950016773

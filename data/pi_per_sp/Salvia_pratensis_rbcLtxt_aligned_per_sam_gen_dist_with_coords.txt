@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salvia_pratensis	MG224390.1	26-DEC-2017	552	Canada: York	primary	rbcL	43.6898	-79.4781	0.0022230224980878
+Salvia_pratensis	MG224248.1	26-DEC-2017	552	Canada: Conestoga	primary	rbcL	43.5414	-80.5042	0.0022230224980878
+Salvia_pratensis	MG223458.1	26-DEC-2017	552	Canada: Wellington County, On	primary	rbcL	43.537	-80.168	0.00218864689651477
+Salvia_pratensis	JN893719.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.59	-2.77	0.00149665420051871
+Salvia_pratensis	KJ746268.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00229322036391451
+Salvia_pratensis	JN892672.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00149665420051871

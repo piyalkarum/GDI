@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Zannichellia_palustris	MF694526.1	04-SEP-2018	505	Canada: Yukon Territory, Takhini Salt Flats	primary	rbcL	60.5863968151522	-136.435515185283	0.455463132624503
+Zannichellia_palustris	MF694602.1	04-SEP-2018	552	Canada: Yukon Territory, Takhini Salt Flats	primary	rbcL	60.5276405587182	-135.613850423999	NA
+Zannichellia_palustris	JN891167.1	07-MAR-2012	539	United Kingdom: Monmouthshire	primary	rbcL	51.58	-2.96	NA
+Zannichellia_palustris	MH170964.1	28-OCT-2018	645	Turkey	secondary	rbcL	39.608263084891	35.3584713815092	0.0681921419359183
+Zannichellia_palustris	MH170963.1	28-OCT-2018	676	Turkey	secondary	rbcL	38.9998701288953	35.1160767254036	0.0693307173055212
+Zannichellia_palustris	MH170962.1	28-OCT-2018	676	Turkey	secondary	rbcL	39.0019909283232	34.7740735111367	0.0693307173055212
+Zannichellia_palustris	KT302150.1	11-JUL-2016	1264	Austria	secondary	rbcL	36.9148511	-4.7534501	0.076130576653927
+Zannichellia_palustris	KT302149.1	11-JUL-2016	1322	Hungary: Szombathely	secondary	rbcL	47.2291184	16.6187625	0.0763323149743128
+Zannichellia_palustris	AB906859.1	09-MAY-2015	1322	Denmark:Copenhagen	secondary	rbcL	55.6867243	12.5700724	0.0811118525513256
+Zannichellia_palustris	AB906858.1	09-MAY-2015	1322	USA:Utah	secondary	rbcL	39.4225192	-111.714358	0.0763323149743128
+Zannichellia_palustris	AB906857.1	09-MAY-2015	716	Japan:Aomori	secondary	rbcL	40.886943	140.590121	NA
+Zannichellia_palustris	JN890551.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.5130055372308	-3.90074361456535	NA
+Zannichellia_palustris	JN890550.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.711352983502	-4.7234651641593	NA
+Zannichellia_palustris	EF529709.1	30-APR-2007	971	USA: Connecticut	secondary	rbcL	41.6500201	-72.7342163	0.474698056098417
+Zannichellia_palustris	AB196955.1	17-DEC-2009	1349	Japan:Okayama, Okayama	secondary	rbcL	34.6553944	133.9194595	0.0764004713069289

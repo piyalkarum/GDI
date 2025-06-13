@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_pontica	KX581913.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	43.2122686232007	80.8680653385053	0.00378787878787879
+Artemisia_pontica	KX581912.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	43.8718365274765	81.5162905110189	0.00126262626262626
+Artemisia_pontica	KX581911.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	43.9286888886448	81.8368095683845	0.00126262626262626
+Artemisia_pontica	KX581910.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	44.0501803213439	80.3742096511669	0.00126262626262626

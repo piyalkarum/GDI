@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Capsella_bursa-pastoris	HE575244.1	27-FEB-2012	638	Bulgaria:Tracian Plain, Kurtovo Konare	primary	5.8S rRNA	42.05	24.3	0.00801726120208079
+Capsella_bursa-pastoris	HE575243.1	27-FEB-2012	638	Bulgaria:Sozopol	primary	5.8S rRNA	42.9441716002428	26.9549813995003	0.00400233395631248
+Capsella_bursa-pastoris	HE575242.1	27-FEB-2012	639	Bulgaria:Sozopol	primary	5.8S rRNA	42.2696704809837	26.7594195206689	0.00802985449153661
+Capsella_bursa-pastoris	HE575241.1	27-FEB-2012	639	Bulgaria:Sozopol	primary	5.8S rRNA	42.5211854253885	26.7194619099127	0.00802985449153661
+Capsella_bursa-pastoris	HE575240.1	27-FEB-2012	639	Bulgaria:Sozopol	primary	5.8S rRNA	41.353083150972	27.4872695079881	0.00802985449153661
+Capsella_bursa-pastoris	HE575239.1	27-FEB-2012	638	Bulgaria:Sozopol	primary	5.8S rRNA	41.9728495653764	27.6318257760169	0.00801726120208079
+Capsella_bursa-pastoris	HE575238.1	27-FEB-2012	638	Bulgaria:Sozopol	primary	5.8S rRNA	42.5346971709275	26.6614733301634	0.00400233395631248
+Capsella_bursa-pastoris	HE575237.1	27-FEB-2012	638	Bulgaria:Sozopol	primary	5.8S rRNA	42.0052467806902	27.0952952694438	0.00400233395631248
+Capsella_bursa-pastoris	FR773707.1	27-FEB-2012	638	Germany:North Rhine-Westphalia, north of Muenster	primary	5.8S rRNA	52.19	7.56	0.00400233395631248
+Capsella_bursa-pastoris	FR773706.1	27-FEB-2012	638	Russia:Novosibirskaya Oblast, near Novosibirsk	primary	5.8S rRNA	52.2	82.54	0.00400233395631248
+Capsella_bursa-pastoris	FR773705.1	27-FEB-2012	638	Turkey:Prov. Antalya, Taurus Mts., Bey Daglari massif, near Imecik	primary	5.8S rRNA	36.52	30.15	0.00400233395631248
+Capsella_bursa-pastoris	LC089998.1	27-OCT-2015	778	Japan	secondary	5.8S rRNA	36.5748441	139.2394179	0.00714179437583693

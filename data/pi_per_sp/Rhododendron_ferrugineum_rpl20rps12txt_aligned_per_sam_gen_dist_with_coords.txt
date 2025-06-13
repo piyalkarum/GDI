@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhododendron_ferrugineum	MK262889.1	18-MAY-2019	769	Spain: Catalonia, Val Ter (Pyrenees)	secondary	rpl20-rps12	41.8761986	1.9767727400896	0
+Rhododendron_ferrugineum	MK262888.1	18-MAY-2019	769	Italy	secondary	rpl20-rps12	45.624087	10.3188773	0
+Rhododendron_ferrugineum	MK262887.1	18-MAY-2019	769	Austria	secondary	rpl20-rps12	47.3506247	11.4175376	0
+Rhododendron_ferrugineum	MK262886.1	18-MAY-2019	769	Austria	secondary	rpl20-rps12	46.9065611	13.5359844	0
+Rhododendron_ferrugineum	MK262885.1	18-MAY-2019	769	Austria	secondary	rpl20-rps12	46.7267476	15.6282242	0

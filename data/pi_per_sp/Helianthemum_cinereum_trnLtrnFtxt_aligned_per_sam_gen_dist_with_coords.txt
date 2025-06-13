@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_cinereum	KX498654.1	18-SEP-2017	380	Spain	primary	trnL-trnF	36.66	-5.1	0
+Helianthemum_cinereum	KX498653.1	18-SEP-2017	405	Morocco	primary	trnL-trnF	34.78	-2.4	0
+Helianthemum_cinereum	KX498652.1	18-SEP-2017	380	Spain	primary	trnL-trnF	37.85	-1.5	0
+Helianthemum_cinereum	KX498651.1	18-SEP-2017	380	Spain	primary	trnL-trnF	37.69	-2.17	0
+Helianthemum_cinereum	KX498650.1	18-SEP-2017	374	Spain	primary	trnL-trnF	38.47	-1.47	0

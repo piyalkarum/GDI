@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_vulgaris	MG248345.1	21-JAN-2018	552	Canada: Ontario, Wellington, Wellington, Guelph	primary	rbcL	43.3837453160126	-80.2689043017645	0.000120772946859903
+Silene_vulgaris	MG248187.1	21-JAN-2018	510	Canada: Yukon Territory, Henderson Corner	primary	rbcL	64.057	-139.02	0.000130718954248366
+Silene_vulgaris	MG248173.1	21-JAN-2018	552	Canada: Ontario, Wellington, Wellington, Guelph	primary	rbcL	43.6282034211662	-80.119827045719	0.000120772946859903
+Silene_vulgaris	MG245922.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Singing Sands, BPNP	primary	rbcL	45.192	-81.578	0.000120772946859903
+Silene_vulgaris	KT695450.1	29-SEP-2015	544	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.000122549019607843
+Silene_vulgaris	KJ841572.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.000120772946859903
+Silene_vulgaris	JN892985.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.59	-2.72	0.0001230012300123
+Silene_vulgaris	MT931031.1	03-MAR-2023	568	China	secondary	rbcL	35.3285158311603	105.213112515645	0.000117370892018779
+Silene_vulgaris	MT931030.1	03-MAR-2023	569	China	secondary	rbcL	34.9489868976233	105.400036364362	0.000117164616285882
+Silene_vulgaris	MT931029.1	03-MAR-2023	572	China	secondary	rbcL	34.2986691071582	105.020763639011	0.000116550116550117
+Silene_vulgaris	MT931028.1	03-MAR-2023	569	China	secondary	rbcL	34.8440115787632	105.910794094978	0.000117164616285882
+Silene_vulgaris	MT931027.1	03-MAR-2023	572	China	secondary	rbcL	34.9226733386883	105.135805185429	0.000116550116550117
+Silene_vulgaris	KT178142.1	19-AUG-2015	1428	USA	secondary	rbcL	39.7837304	-100.445882	0.00178605759696059
+Silene_vulgaris	KJ746298.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.000101317122593718
+Silene_vulgaris	JN891738.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0001230012300123
+Silene_vulgaris	HE574592.1	31-JUL-2011	567	Finland	secondary	rbcL	63.2467777	25.9209164	0.000117577895355673

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sophora_alopecuroides	OR640476.1	05-NOV-2023	510	Kazakhstan: Qaragandy region	primary	rbcL	47.36201	74.74058	0
+Sophora_alopecuroides	MT931472.1	03-MAR-2023	519	China	secondary	rbcL	34.5328958366976	104.700552066555	0
+Sophora_alopecuroides	MT931471.1	03-MAR-2023	568	China	secondary	rbcL	35.3079959953139	104.316185492213	0
+Sophora_alopecuroides	MT931470.1	03-MAR-2023	566	China	secondary	rbcL	34.5250473551771	105.03862869141	0
+Sophora_alopecuroides	MT931469.1	03-MAR-2023	565	China	secondary	rbcL	35.5072223140639	104.953421777785	0
+Sophora_alopecuroides	MT931468.1	03-MAR-2023	572	China	secondary	rbcL	34.7085716484067	104.008767012951	0
+Sophora_alopecuroides	MN204906.1	30-NOV-2021	627	China	secondary	rbcL	35.5528884718835	104.528428112885	0
+Sophora_alopecuroides	MN185164.1	27-APR-2021	721	China	secondary	rbcL	35.5823893394434	104.445467255648	0
+Sophora_alopecuroides	MT680903.1	29-JUL-2020	549	Pakistan	secondary	rbcL	30.3308401	71.247499	0

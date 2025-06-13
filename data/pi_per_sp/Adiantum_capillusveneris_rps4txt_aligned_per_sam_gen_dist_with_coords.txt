@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Adiantum_capillus-veneris	JF980611.1	20-AUG-2011	1020	Russia	secondary	rps4	40.2338211	-84.4096729	0.00172310940952389
+Adiantum_capillus-veneris	JF980599.1	20-AUG-2011	1022	Philippines	secondary	rps4	12.7503486	122.7312101	0.00434460113786892
+Adiantum_capillus-veneris	JF980597.1	20-AUG-2011	1012	China	secondary	rps4	29.600446949011	-94.8958525664122	0.00203678650564882
+Adiantum_capillus-veneris	JF980586.1	20-AUG-2011	1021	China	secondary	rps4	30.3071569176648	-94.1055927465532	0.00172326752067894
+Adiantum_capillus-veneris	JF980584.1	20-AUG-2011	1022	China	secondary	rps4	29.5399526550061	-94.0145854044004	0.00201018193829269
+Adiantum_capillus-veneris	JF980582.1	20-AUG-2011	1022	China	secondary	rps4	30.7343801739923	-93.9614189337128	0.00201018193829269
+Adiantum_capillus-veneris	KU147305.1	23-FEB-2016	606	USA	secondary	rps4	38.9186766	-84.2635472	0.00434803872123341

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mercurialis_elliptica	AJ488865.1	11-JUN-2002	228	Morocco	secondary	ITS	29.1915132737241	-10.271497115665	0.370953745953746
+Mercurialis_elliptica	AJ488863.1	11-JUN-2002	225	Spain	secondary	ITS	40.0512197423155	-4.90051331690044	0.36768018018018
+Mercurialis_elliptica	AJ488842.1	11-JUN-2002	217	Morocco	secondary	ITS	28.6240960542197	-9.82747221522451	0.377076481243148
+Mercurialis_elliptica	AJ488840.1	11-JUN-2002	216	Spain	secondary	ITS	38.8424125687234	-4.44741829894714	0.374344041010708

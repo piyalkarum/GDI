@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_odorata	MF694889.1	16-SEP-2018	769	Pakistan: Baluchistan	primary	matK	30.166	66.991	0.0048498911599161
+Viola_odorata	OQ289522.1	16-MAY-2023	800	Mexico: Puebla	secondary	matK	19.1710098	-98.4125121	0.00437935671612923
+Viola_odorata	HM850936.1	23-JUL-2011	816	Portugal	secondary	matK	39.6621648	-8.1353519	0.00819105211434157
+Viola_odorata	HE967024.1	18-SEP-2012	665	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00270676691729323
+Viola_odorata	JN895231.1	07-MAR-2012	830	United Kingdom: Flintshire	secondary	matK	53.2165096	-3.1402189	0.00384313147405826
+Viola_odorata	JN894383.1	07-MAR-2012	753	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.00333807752799454

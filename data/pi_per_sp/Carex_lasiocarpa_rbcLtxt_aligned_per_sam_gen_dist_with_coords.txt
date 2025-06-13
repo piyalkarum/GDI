@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_lasiocarpa	MG227918.1	23-JAN-2018	552	Canada: Miniota, Manitoba	primary	rbcL	50.1667	-100.917	0.000410761963442185
+Carex_lasiocarpa	MG227752.1	23-JAN-2018	552	Canada: Arkell Bog, Wellington Co., ON	primary	rbcL	43.5167	-80.15	0.000410761963442185
+Carex_lasiocarpa	MG226393.1	23-JAN-2018	522	USA: Alaska, Anchorage, University of Alaska, Achorage Campus, Mosquito Lk	primary	rbcL	61.1906	-149.815	0.000434877147205914
+Carex_lasiocarpa	MG226024.1	23-JAN-2018	552	Canada: Portneuf, Quebec	primary	rbcL	46.7	-71.8833	0.000410761963442185
+Carex_lasiocarpa	MG225833.1	23-JAN-2018	473	Canada: British Columbia, Thompson Okanagan, Vaseux-Bighorn National Wildlife Area, Vaseux Lake, E side of small lagoon	primary	rbcL	49.268	-119.532	0
+Carex_lasiocarpa	JN893134.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.25	-3.76	0.000410004100041
+Carex_lasiocarpa	MW010906.1	27-JUL-2021	553	Canada: Ontario	secondary	rbcL	50.000678	-86.000977	0.000410004100041
+Carex_lasiocarpa	JX644625.1	13-NOV-2012	1292	China: Jilin	secondary	rbcL	43.7289674	126.1997366	0.000453514739229025
+Carex_lasiocarpa	JN891455.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.0033506900768845
+Carex_lasiocarpa	JN891212.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000410004100041

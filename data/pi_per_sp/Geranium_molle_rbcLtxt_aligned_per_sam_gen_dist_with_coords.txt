@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geranium_molle	KX678551.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, Metchosin, Blinkhorn Mountain	primary	rbcL	48.389	-123.572	0.000932835820895522
+Geranium_molle	KX678523.1	29-APR-2017	552	Canada: British Columbia, Comox Regional District, Comox, Goose Spit	primary	rbcL	49.66	-124.922	0.000932835820895522
+Geranium_molle	KX678469.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox Valley Regional District, Kin Beach Provincial Park	primary	rbcL	49.73	-124.898	0.000932835820895522
+Geranium_molle	JQ412370.1	16-JAN-2013	552	South Africa: Western Cape, Cape Town, Robben Island	primary	rbcL	-33.81	18.379	0.000932835820895522
+Geranium_molle	JN893448.1	07-MAR-2012	410	United Kingdom: Carmarthenshire	primary	rbcL	51.67	-4.16	0.00101626016260163
+Geranium_molle	MG248939.1	21-JAN-2018	552	Canada: Ontario	secondary	rbcL	50.000678	-86.000977	0.000932835820895522
+Geranium_molle	MG247165.1	21-JAN-2018	552	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Image Point, between Skidegate and Skidegate Mission.	secondary	rbcL	49.25783145	-123.246241986222	0.000932835820895522
+Geranium_molle	MG246603.1	21-JAN-2018	552	Canada: Ontario, Bruce Co., Inglis Falls, near Owen Sound.	secondary	rbcL	43.72634945	-77.7101179040839	0.000932835820895522
+Geranium_molle	JX913455.1	11-OCT-2013	1050	Portugal	secondary	rbcL	39.953273643051	-8.03421937328047	0.00162403572878603
+Geranium_molle	HM850026.1	23-JUL-2011	940	Portugal	secondary	rbcL	39.1384727232743	-8.51192928686032	0.0120272894947992
+Geranium_molle	JN892293.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.000952380952380952
+Geranium_molle	JN892292.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000952380952380952
+Geranium_molle	JN892291.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000952380952380952

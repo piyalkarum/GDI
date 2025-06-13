@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_woodsii	OQ832177.1	15-AUG-2023	553	USA: ARP Sun Prairie Unit	primary	rbcL	47.7786	-107.7667	0.00217854718184129
+Rosa_woodsii	OQ832161.1	15-AUG-2023	553	USA: CMR Wildlife Refuge	primary	rbcL	47.6697	-107.6686	0.000726627156452528
+Rosa_woodsii	MG247477.1	21-JAN-2018	552	Canada: Yukon Territory, Whitehorse, Hidden Lakes	primary	rbcL	60.692	-135.046	0.000727282344229345
+Rosa_woodsii	MG247269.1	21-JAN-2018	552	Canada: Yukon Territory, Tatchun Creek drainage	primary	rbcL	62.285	-136.306	0.000727282344229345
+Rosa_woodsii	KX678893.1	29-APR-2017	548	Canada: British Columbia, East Kootenay Regional District, Dry Gulch Provincial Park	primary	rbcL	50.5862	-116.035	0.00218978102189781
+Rosa_woodsii	MG246664.1	21-JAN-2018	552	Canada: Alberta, Jasper.	secondary	rbcL	52.8752336	-118.0824291	0.000727282344229345

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_graeca	LT985679.1	14-JUN-2019	198	Greece	secondary	trnL-trnF	42.6786000620069	-76.8098920703494	0
+Gagea_graeca	LT985678.1	14-JUN-2019	198	Greece	secondary	trnL-trnF	43.2665481293918	-77.3446540200996	0
+Gagea_graeca	LT985677.1	14-JUN-2019	198	Greece	secondary	trnL-trnF	42.8328671183212	-78.3934221757469	0
+Gagea_graeca	AM779096.1	15-AUG-2007	198	Greece:Lakonia	secondary	trnL-trnF	36.7602794	22.7904643	0
+Gagea_graeca	AM939645.1	07-FEB-2008	198	Greece:Crete, Ori Thriptis	secondary	trnL-trnF	35.1842324645872	23.3775799723078	0
+Gagea_graeca	EU912316.1	21-JUL-2009	738	Iran	secondary	trnL-trnF	32.6475314	54.5643516	0
+Gagea_graeca	AM939646.1	07-FEB-2008	198	Greece:Crete, Katharo-Plateau	secondary	trnL-trnF	34.8187942659751	25.335490050408	0

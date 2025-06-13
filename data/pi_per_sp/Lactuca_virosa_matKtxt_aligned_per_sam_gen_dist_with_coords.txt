@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lactuca_virosa	JN894677.1	07-MAR-2012	955	United Kingdom: Monmouthshire	primary	matK	51.51	-3.1	0.000531914893617021
+Lactuca_virosa	KU586772.1	06-FEB-2017	542	Spain: Granada, Sierra Nevada	secondary	matK	37.0271604	-3.4211169	NA
+Lactuca_virosa	JN896266.1	07-MAR-2012	966	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000518672199170124
+Lactuca_virosa	JN896256.1	07-MAR-2012	917	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Lactuca_virosa	AJ633239.1	10-OCT-2004	970	Belgium	secondary	matK	50.6402809	4.6667145	NA

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_alba	AM950551.1	31-MAY-2008	385	Germany:North-Eastern Bavaria	primary	ITS	50.6048308661858	11.0212097173038	0
+Salix_alba	AM950550.1	31-MAY-2008	385	Germany:North-Eastern Bavaria	primary	ITS	49.1048383454919	11.7451471520921	0
+Salix_alba	AM950543.1	31-MAY-2008	385	Germany:North-Eastern Bavaria	primary	ITS	50.6502666291171	12.0897375900889	0
+Salix_alba	AM950542.1	31-MAY-2008	385	Germany:North-Eastern Bavaria	primary	ITS	49.3117516948074	11.8805587036382	0
+Salix_alba	AM950539.1	31-MAY-2008	385	Germany:North-Eastern Bavaria	primary	ITS	50.051866361795	10.9250794056888	0

@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_bulbosus	MN447806.1	21-FEB-2022	553	United Kingdom: England, Durham, Auckland Castle	primary	rbcL	54.672	-1.6607	0.006074225807992
+Ranunculus_bulbosus	MG248914.1	21-JAN-2018	552	Canada: Guelph, ON	primary	rbcL	43.5633095810386	-79.834201288011	0.00197865601954697
+Ranunculus_bulbosus	MG248906.1	21-JAN-2018	552	Canada: Guelph, ON	primary	rbcL	43.4527932041378	-80.6935973770563	0.0139485477115171
+Ranunculus_bulbosus	MG248305.1	21-JAN-2018	552	Canada: Guelph, ON	primary	rbcL	43.6461733303712	-80.1034796601132	0.00197865601954697
+Ranunculus_bulbosus	KT695545.1	29-SEP-2015	522	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.00679806959501247
+Ranunculus_bulbosus	JN891000.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.00200509246814988
+Ranunculus_bulbosus	HQ619775.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00197678916148457
+Ranunculus_bulbosus	MK925512.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00200509246814988
+Ranunculus_bulbosus	HM850293.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00203862095246756
+Ranunculus_bulbosus	JN892326.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.3514846210109	-1.61904997732885	0.00200509246814988
+Ranunculus_bulbosus	JN891347.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.6336067115056	-2.11795887963993	0.00200509246814988
+Ranunculus_bulbosus	JN891188.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00200509246814988
+Ranunculus_bulbosus	JN891011.1	07-MAR-2012	522	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0014756020778921
+Ranunculus_bulbosus	JN891010.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00328779559600788

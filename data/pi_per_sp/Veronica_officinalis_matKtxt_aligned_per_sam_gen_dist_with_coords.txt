@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_officinalis	MG225372.1	21-JAN-2018	749	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #6 trail	primary	matK	43.097	-79.281	0.0001933114247052
+Veronica_officinalis	HQ593489.1	09-NOV-2011	782	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., N-most trail, approx. 150 m W of creek	primary	matK	44.036	-79.518	0.000408457724188849
+Veronica_officinalis	KP402388.1	06-JAN-2016	721	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, STVNF1 SWNE41	primary	matK	38.907	-76.542	0.000200642054574639
+Veronica_officinalis	KP210448.1	28-NOV-2015	739	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. La Pre (the old orchard)	primary	matK	45.542	-73.161	0.00116719917810064
+Veronica_officinalis	JN895208.1	07-MAR-2012	833	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.000406531040909891
+Veronica_officinalis	HM851037.1	23-JUL-2011	733	Portugal	secondary	matK	39.6621648	-8.1353519	0.000856177786058781
+Veronica_officinalis	JN896188.1	07-MAR-2012	783	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.000410419544548882
+Veronica_officinalis	JN894417.1	07-MAR-2012	799	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000404015175231959

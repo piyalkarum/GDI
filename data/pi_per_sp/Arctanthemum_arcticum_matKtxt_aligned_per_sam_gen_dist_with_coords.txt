@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctanthemum_arcticum	MG225321.1	21-JAN-2018	783	Canada: Yukon Territory, Blow River Delta east, Danny C. Gordon's goose camp	primary	matK	68.896	-136.961	0.00291917533296844
+Arctanthemum_arcticum	MG224795.1	21-JAN-2018	786	USA: Alaska, Haines Alaska, waterfront near Chilkoot Lake	primary	matK	59.309	-135.545	0.00291360438767651
+Arctanthemum_arcticum	MG224793.1	21-JAN-2018	786	USA: Alaska, Kenai Fjords National Park, Northwestern Lagoon east side	primary	matK	59.773	-149.925	0.00291360438767651
+Arctanthemum_arcticum	KC474072.1	25-OCT-2013	783	Canada: Nunavut, Hudsons Bay, Belcher Islands, Sanikiluaq, east side of hamlet along coast	primary	matK	56.594	-79.253	0.00291917533296844
+Arctanthemum_arcticum	KC474071.1	25-OCT-2013	783	Canada: Northwest Territories, Tuktoyaktuk, PCSP Base	primary	matK	69.05	-133	0.00291917533296844
+Arctanthemum_arcticum	KC474070.1	25-OCT-2013	783	Canada: Nunavut, West Hudson Bay, Rankin Inlet	primary	matK	62.8	-92.0833	0.00291917533296844
+Arctanthemum_arcticum	JN966105.1	27-OCT-2012	787	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	matK	58.789	-94.227	0.00291360438767651
+Arctanthemum_arcticum	JN966104.1	27-OCT-2012	787	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock bluff	primary	matK	58.764	-93.897	0.00291360438767651

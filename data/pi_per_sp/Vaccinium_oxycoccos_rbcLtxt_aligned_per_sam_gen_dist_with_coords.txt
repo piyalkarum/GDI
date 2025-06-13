@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vaccinium_oxycoccos	KX677905.1	29-APR-2017	552	Canada: British Columbia, Fraser-Fort George Regional District, Nechako River, larch bog at foot of sand cliff, within an elbow in the river, on a bench	primary	rbcL	53.927	-123.221	0.000732004607677677
+Vaccinium_oxycoccos	JN891672.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.62	-3.37	0.000738689457134867
+Vaccinium_oxycoccos	MG221456.1	26-DEC-2017	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0.00147137614187361
+Vaccinium_oxycoccos	JN893514.1	07-MAR-2012	542	United Kingdom: Radnorshire	secondary	rbcL	52.4627049	-3.2561628	0.000738689457134867
+Vaccinium_oxycoccos	JN893002.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8728841078822	-3.55924288005316	0.00147669683720867
+Vaccinium_oxycoccos	JN892583.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8511128356163	-2.92274626749471	0.000738689457134867

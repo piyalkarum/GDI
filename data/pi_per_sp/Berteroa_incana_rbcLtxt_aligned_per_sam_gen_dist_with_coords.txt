@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Berteroa_incana	OR515816.1	01-NOV-2023	516	Kazakhstan: Qaragandy region	primary	rbcL	49.49998	73.26456	0.000121124031007752
+Berteroa_incana	OQ434036.1	02-JUL-2023	613	USA: South Westnudge Park, Portage, MI	primary	rbcL	42.18514448	-85.59238737	0.00011384335154827
+Berteroa_incana	MG248822.1	21-JAN-2018	520	Canada: British Columbia, Cascade River near Christina Lake	primary	rbcL	49.02	-118.217	0.000120192307692308
+Berteroa_incana	MG248190.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Norfolk Township, 100m south of intersection of East 1/4 line road and Highway #24	primary	rbcL	42.8033	-80.4086	0.000113224637681159
+Berteroa_incana	MG246764.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.454	-101.592	0.00183245116784919
+Berteroa_incana	MG246362.1	21-JAN-2018	552	Canada: British Columbia, Clearwater, Raft River	primary	rbcL	51.637	-119.972	0.000113224637681159
+Berteroa_incana	MG245871.1	21-JAN-2018	552	Canada: University of Guelph Campus, Centre for Biodiversity Genomics	primary	rbcL	43.5287	-80.2292	0.000113224637681159
+Berteroa_incana	KX678696.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Gilpin Grasslands Provincial Park	primary	rbcL	49.011	-118.312	0.000113224637681159
+Berteroa_incana	MT930722.1	03-MAR-2023	566	China	secondary	rbcL	34.4194165711057	104.421559446813	0.000113224637681159
+Berteroa_incana	MT930721.1	03-MAR-2023	568	China	secondary	rbcL	34.9007286461445	105.631015731866	0.000113224637681159
+Berteroa_incana	MT930720.1	03-MAR-2023	572	China	secondary	rbcL	34.9233121629131	105.874913426499	0.000113224637681159
+Berteroa_incana	MT930719.1	03-MAR-2023	572	China	secondary	rbcL	35.2696488177062	104.103947249692	0.000113224637681159
+Berteroa_incana	MT930718.1	03-MAR-2023	572	China	secondary	rbcL	35.055519706524	105.115075430485	0.000113224637681159
+Berteroa_incana	MN601437.1	15-DEC-2019	1440	USA	secondary	rbcL	39.7837304	-100.445882	0.000113224637681159
+Berteroa_incana	MG246895.1	21-JAN-2018	553	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	secondary	rbcL	43.8608995813713	-77.5196661099753	0.000113224637681159
+Berteroa_incana	MG246805.1	21-JAN-2018	553	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	secondary	rbcL	43.9556817877359	-78.0618660584021	0.000113224637681159
+Berteroa_incana	KJ746307.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.000118595825426945

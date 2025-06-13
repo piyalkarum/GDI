@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phyteuma_hemisphaericum	KC455728.1	16-SEP-2013	887	Switzerland	secondary	trnL-trnF	46.3110997752984	8.32422940651353	0.000704622322435175
+Phyteuma_hemisphaericum	KC455727.1	16-SEP-2013	887	Switzerland	secondary	trnL-trnF	46.2170458016918	9.0742183078437	0.00056369785794814
+Phyteuma_hemisphaericum	KC455726.1	16-SEP-2013	887	Switzerland	secondary	trnL-trnF	46.7559759011692	9.41275147218768	0.00056369785794814
+Phyteuma_hemisphaericum	KC455725.1	16-SEP-2013	887	Switzerland	secondary	trnL-trnF	47.1912490431795	7.92961870559613	0.00056369785794814
+Phyteuma_hemisphaericum	KC455724.1	16-SEP-2013	887	Switzerland	secondary	trnL-trnF	46.2419623145915	7.56075383116589	0.00056369785794814
+Phyteuma_hemisphaericum	KC455723.1	16-SEP-2013	887	Switzerland	secondary	trnL-trnF	47.1150839540814	7.64891533946074	0.00056369785794814
+Phyteuma_hemisphaericum	KC455722.1	16-SEP-2013	887	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.000704622322435175
+Phyteuma_hemisphaericum	KC455721.1	16-SEP-2013	887	France	secondary	trnL-trnF	46.8214049273771	1.00195344424222	0.000704622322435175
+Phyteuma_hemisphaericum	KC455720.1	16-SEP-2013	887	France	secondary	trnL-trnF	46.3600712939274	2.45068042684781	0.000704622322435175

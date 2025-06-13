@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hibiscus_trionum	KR735142.1	24-JUN-2015	613	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.0135620978218926	36.6214282165046	0.00391517128874388
+Hibiscus_trionum	KR734648.1	24-JUN-2015	452	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.475270335607952	37.4038907413575	0.00530973451327434
+Hibiscus_trionum	KR734574.1	24-JUN-2015	455	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.258509751172957	36.6762732852183	0.00527472527472527
+Hibiscus_trionum	KR734352.1	24-JUN-2015	457	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.271863445420046	35.9927201137757	0.00525164113785558
+Hibiscus_trionum	MT929939.1	03-MAR-2023	776	China	secondary	matK	35.000074	104.999927	0.00410958904109589
+Hibiscus_trionum	HM850991.1	23-JUL-2011	804	Portugal	secondary	matK	39.6621648	-8.1353519	0.023860861255695

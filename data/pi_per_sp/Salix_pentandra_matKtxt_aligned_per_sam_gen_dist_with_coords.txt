@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_pentandra	JN893907.1	07-MAR-2012	865	United Kingdom: Carmarthenshire	primary	matK	52.15	-4.35	0.000443262411347518
+Salix_pentandra	MN311906.1	30-NOV-2021	825	China	secondary	matK	35.000074	104.999927	0.00132919857214169
+Salix_pentandra	JN894896.1	07-MAR-2012	834	United Kingdom: Carmarthenshire	secondary	matK	52.3174769165755	-4.52769028519795	0.000443262411347518
+Salix_pentandra	JN894895.1	07-MAR-2012	834	United Kingdom: Carmarthenshire	secondary	matK	52.1928729768326	-3.49786405734611	0.000442673749446658

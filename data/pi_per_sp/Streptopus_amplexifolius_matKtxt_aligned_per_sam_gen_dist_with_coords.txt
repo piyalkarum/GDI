@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Streptopus_amplexifolius	KX677755.1	09-AUG-2017	804	Canada: British Columbia, East Kootenay Regional District, Kootenay National Park, Cobb Lake trail	primary	matK	50.6679	-115.889	0.000366897772255092
+Streptopus_amplexifolius	KX677697.1	09-AUG-2017	801	Canada: British Columbia, Vancouver Island, Alberni-Clayoquot Regional District, Giant Cedar trail just off Highway 4	primary	matK	49.1735	-125.408	0.000367563251706417
+Streptopus_amplexifolius	KX677547.1	09-AUG-2017	799	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Strathcona Provincial Park, Paradise Meadow trail	primary	matK	49.7384	-125.315	0
+Streptopus_amplexifolius	KX677460.1	09-AUG-2017	755	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Flower Lake loop	primary	matK	49.3683	-122.942	0.000757109982960634
+Streptopus_amplexifolius	KX677378.1	09-AUG-2017	798	Canada: British Columbia, Okanagan-Similkameen Regional District, Manning Provincial Park, Rein Orchid trail	primary	matK	49.0631	-120.801	0
+Streptopus_amplexifolius	KX677039.1	09-AUG-2017	804	Canada: British Columbia, Greater Vancouver Regional District, Cypress Provincial Park, Hollyburn Lake	primary	matK	49.3761	-123.185	0.000723180226670139
+Streptopus_amplexifolius	KX677033.1	09-AUG-2017	808	Canada: British Columbia, Kootenay Boundary Regional District, Burrell Creek Forest Service Road	primary	matK	49.622	-118.314	0.000378931413414172
+Streptopus_amplexifolius	KX676826.1	09-AUG-2017	804	Canada: British Columbia, Greater Vancouver Regional District, Cypress Provincial Park, on gravel trail leading from pullout with wooden fish sign	primary	matK	49.3644	-123.191	0.000366897772255092

@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Urtica_dioica	MF695019.1	16-SEP-2018	553	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	35.7164454022225	71.7244346114592	0.000182995024142619
+Urtica_dioica	MF694801.1	15-SEP-2018	552	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	35.6644048002769	73.0503838616773	0.000183165543407886
+Urtica_dioica	MF694800.1	15-SEP-2018	552	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	34.774	72.36	0.000183165543407886
+Urtica_dioica	MG249727.1	21-JAN-2018	551	Canada: Quebec, Montreal, Island of Montreal, Parc du Mont-Royal	primary	rbcL	45.511	-73.593	0.00192007034924298
+Urtica_dioica	MG247519.1	21-JAN-2018	552	Canada: Yukon Territory, Scobie Creek, 80 km east of Watson Lake	primary	rbcL	60.002	-127.618	0.000183165543407886
+Urtica_dioica	MG246577.1	21-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	rbcL	51.273	-80.641	0.000183165543407886
+Urtica_dioica	KX678149.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail near Link Lake Forest Recreation Site	primary	rbcL	49.7109	-120.231	0.000183165543407886
+Urtica_dioica	KX677862.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	rbcL	49.182	-119.091	0.000183165543407886
+Urtica_dioica	HQ590315.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 10 m N of creek along W edge of property	primary	rbcL	44.025	-79.548	0.000182995024142619
+Urtica_dioica	JN892043.1	07-MAR-2012	533	United Kingdom: Glamorgan (41)	primary	rbcL	51.53	-3.22	0.000187793592800011
+Urtica_dioica	MW011026.1	27-JUL-2021	553	Canada: Quebec	secondary	rbcL	52.4760892	-71.8258668	0.000182995024142619
+Urtica_dioica	MW011025.1	27-JUL-2021	553	Canada: Ontario	secondary	rbcL	50.000678	-86.000977	0.000182995024142619
+Urtica_dioica	MW011023.1	27-JUL-2021	553	Canada: Manitoba	secondary	rbcL	55.001251	-97.001038	0.000182995024142619
+Urtica_dioica	MN601491.1	15-DEC-2019	1414	USA	secondary	rbcL	39.7837304	-100.445882	0.000182995024142619
+Urtica_dioica	MG249236.1	21-JAN-2018	526	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	secondary	rbcL	43.4248120481088	-78.178995223079	0.000190295129458628
+Urtica_dioica	MG248775.1	21-JAN-2018	552	Canada: Ontario, Rouge National Urban Park, Sector 1	secondary	rbcL	42.9311961883379	-78.235691850861	0.000183165543407886
+Urtica_dioica	MG247549.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	secondary	rbcL	43.1617159081473	-76.7819160984314	0.000182995024142619
+Urtica_dioica	MG246388.1	21-JAN-2018	553	Canada: Ontario, Hamilton-Wentworth, Dundas, North Shore Cootes Paradise, Bull's Point	secondary	rbcL	43.3332815923233	-77.5043376721075	0.000182995024142619
+Urtica_dioica	JN893367.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000184672364283717
+Urtica_dioica	JN893361.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.000184672364283717
+Urtica_dioica	JN893360.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.0019431678656772

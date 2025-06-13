@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Micranthes_hieraciifolia	MG246090.1	21-JAN-2018	552	Canada: Yukon Territory, Kotaneelee Range	primary	rbcL	60.242	-124.122	0.00104242571451704
+Micranthes_hieraciifolia	MG245944.1	21-JAN-2018	552	Canada: Yukon Territory, Muskeg Creek area	primary	rbcL	68.822	-140.538	0.00104242571451704
+Micranthes_hieraciifolia	KT960549.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.8833754790655	-21.3738455154674	0.0010351966873706
+Micranthes_hieraciifolia	KT960495.1	13-DEC-2015	537	Greenland: NE, Zackenberg	primary	rbcL	74.0872376186422	-20.5648981737655	0.00106411279595637
+Micranthes_hieraciifolia	KC483158.1	25-OCT-2013	552	Canada: Yukon Territory, Herschel Island, Highest point on Island	primary	rbcL	69.617	-139.083	0.00104242571451704
+Micranthes_hieraciifolia	KC483157.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Hot Weather Creek	primary	rbcL	79.983	-84.45	0.0010351966873706
+Micranthes_hieraciifolia	KC483156.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	rbcL	69.583	-140.733	0.00104242571451704
+Micranthes_hieraciifolia	KC483155.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Pond Inlet	primary	rbcL	72.783	-77	0.0010351966873706

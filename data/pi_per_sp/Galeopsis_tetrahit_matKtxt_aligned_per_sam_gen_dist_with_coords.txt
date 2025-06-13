@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galeopsis_tetrahit	KX677478.1	09-AUG-2017	791	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	matK	49.3764	-122.862	0.00310862298975506
+Galeopsis_tetrahit	MG225318.1	21-JAN-2018	633	Canada: Ontario, Nipissing District, Mattawan Twp., Mattawa, NEBIE Block#3, Intensive treatment	primary	matK	46.374	-79.006	0.00362083071593423
+Galeopsis_tetrahit	MG225231.1	21-JAN-2018	635	Canada: Ontario, Cochrane District, Timmins, NEBIE Block#1, Elite treatment	primary	matK	48.351	-81.302	0.00670911425591634
+Galeopsis_tetrahit	KP210389.1	28-NOV-2015	697	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Depression along ski trail, near Purple Trail	primary	matK	45.548	-73.157	0.00710702150005426
+Galeopsis_tetrahit	KJ592964.1	17-MAR-2015	752	USA: Wisconsin, Hiles	primary	matK	45.904	-89.011	0.00364920296729584
+Galeopsis_tetrahit	KJ592963.1	17-MAR-2015	745	USA: Wisconsin, Laona	primary	matK	45.569	-88.787	0.00702054028543349
+Galeopsis_tetrahit	KJ592962.1	17-MAR-2015	730	USA: Wisconsin, Washington	primary	matK	45.936	-89.063	0.00311182249577471
+Galeopsis_tetrahit	JN966309.1	27-OCT-2012	785	Canada: Manitoba, Churchill, 3 km SE Churchill, pipeline, Forest along the pipe	primary	matK	58.747	-94.115	0.00386772116330196
+Galeopsis_tetrahit	JN894439.1	07-MAR-2012	783	United Kingdom: Perthshire, East (89)	primary	matK	56.81	-3.46	0.00733507499446761
+Galeopsis_tetrahit	JN894043.1	07-MAR-2012	574	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.006794018910677

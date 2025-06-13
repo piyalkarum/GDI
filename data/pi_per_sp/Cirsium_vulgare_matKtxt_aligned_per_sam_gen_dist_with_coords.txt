@@ -1,0 +1,26 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cirsium_vulgare	OQ847516.1	15-AUG-2023	795	USA: CMR Wildlife Refuge	primary	matK	47.6706	-107.6634	0.000392622594752141
+Cirsium_vulgare	OR464953.1	26-SEP-2023	911	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.3552809300449	-84.7644814074264	0.000484265974986125
+Cirsium_vulgare	OR464952.1	26-SEP-2023	857	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.0764262552866	-85.9353951894378	0.00049254044323518
+Cirsium_vulgare	KX676751.1	09-AUG-2017	794	Canada: British Columbia, Kootenay Boundary Regional District, north of Christian Valley, Just west of Kettle River Forest Service Road	primary	matK	49.6983	-118.778	0.000440040786470972
+Cirsium_vulgare	MG225239.1	21-JAN-2018	776	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island, shoreline, FFNMP	primary	matK	45.266	-81.7	0.000394244630706261
+Cirsium_vulgare	MG225191.1	21-JAN-2018	785	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	matK	43.274	-79.899	0.000393477464690727
+Cirsium_vulgare	MG225018.1	21-JAN-2018	783	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	matK	42.454	-81.884	0.000393613042101361
+Cirsium_vulgare	HQ593240.1	09-NOV-2011	809	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, Echo Valley Parking Lot	primary	matK	44.025	-79.53	0.000497473444398001
+Cirsium_vulgare	HQ593239.1	09-NOV-2011	875	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 10 m S of storage shed	primary	matK	44.029	-79.533	0.000484804171028339
+Cirsium_vulgare	KP210374.1	28-NOV-2015	721	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Edge of visitor's gravel parking lot	primary	matK	45.536	-73.156	0.00164949185203291
+Cirsium_vulgare	JN895884.1	07-MAR-2012	722	United Kingdom: Cardiganshire	primary	matK	52.4	-3.91	0.00024998767730188
+Cirsium_vulgare	MT917326.1	03-MAR-2023	791	China	secondary	matK	35.000074	104.999927	0.00131018383550075
+Cirsium_vulgare	ON981954.1	17-OCT-2022	795	Kenya	secondary	matK	1.4419683	38.4313975	0.000439142939104008
+Cirsium_vulgare	MT214892.1	14-JUN-2020	2506	Mexico	secondary	matK	19.4326296	-99.1331785	0.00132535424403458
+Cirsium_vulgare	MN275315.1	29-MAR-2020	819	USA	secondary	matK	39.1068741612554	-100.133380478906	0.00125027285137919
+Cirsium_vulgare	KT249986.1	09-AUG-2015	820	Germany	secondary	matK	34.3377584272999	-83.3423675692373	0.000392173971129415
+Cirsium_vulgare	KT249985.1	09-AUG-2015	820	Germany	secondary	matK	34.814325834336	-83.174405160146	0.000392173971129415
+Cirsium_vulgare	KT249984.1	09-AUG-2015	820	Germany	secondary	matK	35.4753138874297	-83.9208515724712	0.000392173971129415
+Cirsium_vulgare	KC969523.1	30-NOV-2013	981	USA	secondary	matK	39.5393793444614	-101.295423642988	0.00104973937233786
+Cirsium_vulgare	HM850623.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00386190115399899
+Cirsium_vulgare	HE970693.1	18-SEP-2012	734	Italy:Trieste, Mt. Valerio	secondary	matK	45.7325416481434	12.8384200585281	0.00157105736138662
+Cirsium_vulgare	HE970692.1	18-SEP-2012	734	Italy:Trieste, Mt. Valerio	secondary	matK	45.1270544616744	13.7719492400381	0.00157105736138662
+Cirsium_vulgare	HE970691.1	18-SEP-2012	734	Italy:Trieste, Mt. Valerio	secondary	matK	45.5490390617729	12.8498906664347	0.00157105736138662
+Cirsium_vulgare	JN895404.1	07-MAR-2012	944	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000392173971129415
+Cirsium_vulgare	JN894483.1	07-MAR-2012	819	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.000392323111958925

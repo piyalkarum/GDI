@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_flexuosum	KF055161.1	26-OCT-2013	1269	Italy	secondary	rpoB	42.6384261	12.674297	0
+Lamium_flexuosum	KC350807.1	18-OCT-2013	1269	France	secondary	rpoB	46.603354	1.8883335	0
+Lamium_flexuosum	KC350806.1	18-OCT-2013	1269	Morocco	secondary	rpoB	28.3347722	-10.3713379	0
+Lamium_flexuosum	KC350805.1	18-OCT-2013	1269	Spain	secondary	rpoB	39.3260685	-4.8379791	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthoxanthum_nitens	KX873229.1	16-OCT-2017	691	Canada: Saskatchewan, along Hwy. 16.5 km W of Elfros	primary	matK	51.7628	-103.9075	0
+Anthoxanthum_nitens	LR606825.1	25-JAN-2021	2157	Russia	secondary	matK	64.6863136	97.7453061	0.0002465483234714
+Anthoxanthum_nitens	KF713080.1	15-DEC-2013	1014	South Korea: Goseong, Gangwon-do	secondary	matK	34.4916397	126.3210639	0.0002465483234714
+Anthoxanthum_nitens	KF713079.1	15-DEC-2013	1014	South Korea: Chungcheongbuk-do, Okcheon-gun	secondary	matK	36.3061692	127.571482	0.000739644970414201
+Anthoxanthum_nitens	KF713078.1	15-DEC-2013	1014	South Korea: Suwon-si, Gyeonggi-do	secondary	matK	37.267483	126.934611	0.0002465483234714

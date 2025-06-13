@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eleocharis_mamillata	MG226792.1	23-JAN-2018	552	Canada: British Columbia, Toba Inlet, Estuary of the Toba River, central portions along the shoreline	primary	rbcL	50.4983	-124.361	0.000595238095238095
+Eleocharis_mamillata	MG226596.1	23-JAN-2018	480	Canada: Yukon Territory, Aishihik Road, east of, near Decourcy Lake	primary	rbcL	61.423	-137.025	0.00419389978213508
+Eleocharis_mamillata	MG226467.1	23-JAN-2018	552	Canada: British Columbia, Greater Vancouver, Burnaby, Big Bend, 250 m south of railroad tracks, 700 m east of Byrne Road	primary	rbcL	49.1961	-122.981	0.000595238095238095
+Eleocharis_mamillata	MG225966.1	23-JAN-2018	552	Canada: British Columbia, Greater Vancouver, Delta, Burns Bog, NW sector, 300 m S of Industrial Park S of River Rd	primary	rbcL	49.1244	-123.017	0.000595238095238095
+Eleocharis_mamillata	MK925394.1	14-JAN-2020	542	Finland	secondary	rbcL	63.8054639493252	25.6252194629309	0.000595238095238095
+Eleocharis_mamillata	MK924992.1	14-JAN-2020	542	Finland	secondary	rbcL	62.897209160093	24.9411690873194	0.000595238095238095
+Eleocharis_mamillata	MK924487.1	14-JAN-2020	519	Finland	secondary	rbcL	63.0653057368613	24.711058774969	0.000595238095238095
+Eleocharis_mamillata	JX644676.1	13-NOV-2012	1295	South Korea: Gangwon-do	secondary	rbcL	37.885	127.7297	0.000622471210706505

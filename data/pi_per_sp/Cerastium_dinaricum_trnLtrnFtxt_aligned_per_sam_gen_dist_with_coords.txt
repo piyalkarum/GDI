@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_dinaricum	MH487938.1	20-JAN-2022	2112	Montenegro	secondary	trnL-trnF	-29.8924286778539	-51.2465123908174	0
+Cerastium_dinaricum	MH487937.1	20-JAN-2022	2112	Montenegro	secondary	trnL-trnF	-29.2640959105371	-52.0189579320804	0
+Cerastium_dinaricum	MH487936.1	20-JAN-2022	2112	Montenegro	secondary	trnL-trnF	-29.0041631012752	-50.8023516309566	0
+Cerastium_dinaricum	MH487935.1	20-JAN-2022	2112	Montenegro	secondary	trnL-trnF	-29.3846554309577	-51.9166633545284	0
+Cerastium_dinaricum	MH487934.1	20-JAN-2022	2112	Bosnia and Herzegovina	secondary	trnL-trnF	43.838824481203	16.6639684726143	0
+Cerastium_dinaricum	MH487933.1	20-JAN-2022	2112	Montenegro	secondary	trnL-trnF	-29.0378697120079	-51.6354051830673	0
+Cerastium_dinaricum	MH487932.1	20-JAN-2022	2122	Bosnia and Herzegovina	secondary	trnL-trnF	44.3252135907644	17.7222594575293	0
+Cerastium_dinaricum	MH487931.1	20-JAN-2022	2116	Slovenia	secondary	trnL-trnF	46.1244261495141	14.6854260980053	0
+Cerastium_dinaricum	MH487930.1	20-JAN-2022	2124	Croatia	secondary	trnL-trnF	46.1157808760505	15.5680135358016	0
+Cerastium_dinaricum	MH487929.1	20-JAN-2022	2132	Croatia	secondary	trnL-trnF	45.7469114789689	15.7899104253584	0
+Cerastium_dinaricum	MH487928.1	20-JAN-2022	2124	Croatia	secondary	trnL-trnF	45.519575622422	15.3848155196983	0
+Cerastium_dinaricum	KJ716526.1	05-JUL-2014	2164	Montenegro	secondary	trnL-trnF	-29.9596070760807	-51.3872117701511	0
+Cerastium_dinaricum	KJ716525.1	05-JUL-2014	2164	Montenegro	secondary	trnL-trnF	-28.9717314030015	-51.8914006238681	0
+Cerastium_dinaricum	KJ716524.1	05-JUL-2014	2164	Montenegro	secondary	trnL-trnF	-29.4301113149493	-50.9178273748259	0
+Cerastium_dinaricum	KJ716523.1	05-JUL-2014	2164	Montenegro	secondary	trnL-trnF	-30.0057562157589	-51.2000555745183	0
+Cerastium_dinaricum	KJ716522.1	05-JUL-2014	2164	Montenegro	secondary	trnL-trnF	-30.2252783773962	-51.7723435801523	0
+Cerastium_dinaricum	KJ716521.1	05-JUL-2014	2174	Bosnia and Herzegovina	secondary	trnL-trnF	44.1273610802588	18.4675952325211	0
+Cerastium_dinaricum	KJ716520.1	05-JUL-2014	2176	Croatia	secondary	trnL-trnF	45.552179258106	14.6388839827579	0
+Cerastium_dinaricum	KJ716519.1	05-JUL-2014	2176	Croatia	secondary	trnL-trnF	45.9525449762301	16.1410246194515	0
+Cerastium_dinaricum	KJ716518.1	05-JUL-2014	2184	Croatia	secondary	trnL-trnF	45.8172999049082	16.2513062306798	0
+Cerastium_dinaricum	KJ716517.1	05-JUL-2014	2168	Slovenia	secondary	trnL-trnF	46.6578820065317	15.5313833891518	0

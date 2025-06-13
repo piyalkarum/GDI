@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_sylvaticum	HF912085.1	21-APR-2013	329	Spain:Pontevedra	primary	psbA-trnH	42.27	-8.8	0.00152855172801981
+Leucanthemum_sylvaticum	HF912084.1	21-APR-2013	329	Portugal:Viana do Castelo	primary	psbA-trnH	41.98	-8.36	0.00400695148035574
+Leucanthemum_sylvaticum	HF912083.1	21-APR-2013	329	Portugal:Braga	primary	psbA-trnH	41.76	-8.24	0.00152855172801981
+Leucanthemum_sylvaticum	HF912082.1	21-APR-2013	329	Portugal:Braga	primary	psbA-trnH	41.72	-8.21	0.00152855172801981
+Leucanthemum_sylvaticum	HF912081.1	21-APR-2013	329	Portugal:Braga	primary	psbA-trnH	41.7	-8.21	0.00152855172801981
+Leucanthemum_sylvaticum	HF912080.1	21-APR-2013	329	Portugal:Braga	primary	psbA-trnH	41.7	-8.16	0.00400695148035574
+Leucanthemum_sylvaticum	HF912079.1	21-APR-2013	329	Portugal:Braga	primary	psbA-trnH	41.73	-8.16	0.00152855172801981
+Leucanthemum_sylvaticum	HF912078.1	21-APR-2013	329	Portugal:Braga	primary	psbA-trnH	41.48	-8.03	0.00152855172801981
+Leucanthemum_sylvaticum	HF912077.1	21-APR-2013	329	Portugal:Braga	primary	psbA-trnH	41.49	-8.03	0.00152855172801981
+Leucanthemum_sylvaticum	HF912076.1	21-APR-2013	329	Portugal:Viseu	primary	psbA-trnH	41.03	-7.86	0.00362701227062929
+Leucanthemum_sylvaticum	HF912075.1	21-APR-2013	329	Portugal:Coimbra	primary	psbA-trnH	40.21	-7.99	0.00152855172801981
+Leucanthemum_sylvaticum	HF912074.1	21-APR-2013	329	Portugal:Guarda	primary	psbA-trnH	40.43	-7.34	0.00362701227062929
+Leucanthemum_sylvaticum	HF912073.1	21-APR-2013	329	Portugal:Guarda	primary	psbA-trnH	40.44	-7.34	0.00362701227062929
+Leucanthemum_sylvaticum	HF912072.1	21-APR-2013	329	Portugal:Guarda	primary	psbA-trnH	40.39	-7.52	0.00152855172801981
+Leucanthemum_sylvaticum	HE680956.1	22-APR-2013	343	Portugal:Viana do Castelo	secondary	psbA-trnH	41.8803257	-8.5232553	0.00169336914660044
+Leucanthemum_sylvaticum	HE680955.1	22-APR-2013	352	Spain:Galicia	secondary	psbA-trnH	43.3704573508585	-7.37825944468066	0.00438466858003423
+Leucanthemum_sylvaticum	HE680950.1	22-APR-2013	352	Spain:Galicia	secondary	psbA-trnH	43.270743930954	-8.28926263040734	0.00708528586398484

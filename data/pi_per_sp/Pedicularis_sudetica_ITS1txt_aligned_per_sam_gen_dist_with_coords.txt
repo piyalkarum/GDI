@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_sudetica	HG424216.1	09-APR-2014	657	Russia:Polar Ural	secondary	ITS1	66.9230873	64.4945151	0.00646879756468798
+Pedicularis_sudetica	HG424220.1	09-APR-2014	634	Russia:Chukotka	secondary	ITS1	66.0006475	169.4900869	0.00670347003154574
+Pedicularis_sudetica	HG424219.1	09-APR-2014	665	Russia:Sibiryakov Island	secondary	ITS1	72.8921238	79.1126992	0.00642526126637348
+Pedicularis_sudetica	HG424218.1	09-APR-2014	692	Russia:Yamal	secondary	ITS1	44.1681909	39.0056657	0.0236719432101176
+Pedicularis_sudetica	HG424217.1	09-APR-2014	663	Russia:Yakutia	secondary	ITS1	66.941626	129.642371	0.00874609847300237

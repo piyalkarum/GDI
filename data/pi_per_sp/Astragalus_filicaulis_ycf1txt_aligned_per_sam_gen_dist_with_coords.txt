@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_filicaulis	MK958364.1	30-JUN-2020	1241	Iran	secondary	ycf1	33.4510204886035	54.8226594127891	0.0806728930526136
+Astragalus_filicaulis	MK958363.1	30-JUN-2020	1289	Iran	secondary	ycf1	32.9971686212978	54.169774742657	0.0584794714618594
+Astragalus_filicaulis	MK958362.1	30-JUN-2020	1289	Iran	secondary	ycf1	32.8059106116257	53.6132714340907	0.0662652656857376
+Astragalus_filicaulis	MK958361.1	30-JUN-2020	1282	Iran	secondary	ycf1	32.0812128727512	54.0665863710485	0.0674565262824345

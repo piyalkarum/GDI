@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygala_vulgaris	JN891130.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.52	-4.06	0.00531886494325438
+Polygala_vulgaris	OL542835.1	09-NOV-2022	527	Turkey	secondary	rbcL	39.0886282277134	34.5023271722921	0.011774826059456
+Polygala_vulgaris	OL542834.1	09-NOV-2022	526	Turkey	secondary	rbcL	38.1868211582385	35.1674758596279	0.0148339670468948
+Polygala_vulgaris	JN892062.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00531886494325438
+Polygala_vulgaris	JN892061.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00531886494325438
+Polygala_vulgaris	JN892016.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00531886494325438

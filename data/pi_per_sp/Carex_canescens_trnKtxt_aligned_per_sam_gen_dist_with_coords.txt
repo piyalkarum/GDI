@@ -1,0 +1,39 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_canescens	KY189231.1	18-DEC-2017	579	Australia: New South Wales, Kosciusko, Lower Twyneham Cirque	secondary	trnK	-29.117474805405	152.734294518533	0.000469149774454916
+Carex_canescens	KY189229.1	18-DEC-2017	627	Canada: Yukon, Vicinity of Halfway Lake, North of Mayo	secondary	trnK	62.3441509	-136.4936376	0.000433065473865433
+Carex_canescens	KY189228.1	18-DEC-2017	627	Australia: Victoria, Snowfields, Bogong High Plains	secondary	trnK	-21.2309116	148.9741517	0.000433065473865433
+Carex_canescens	KY189226.1	18-DEC-2017	627	Australia: New South Wales, Kosciusko, Karlway Morraine Creek, Mount Northcott	secondary	trnK	-28.0752864938567	152.730230412813	0.000433065473865433
+Carex_canescens	KY189225.1	18-DEC-2017	627	United Kingdom: Scotland, Perth. Glen Girnaig. Altt na Core Lagain	secondary	trnK	53.0718160932305	-1.73663174154031	0.000433065473865433
+Carex_canescens	KY189224.1	18-DEC-2017	627	Bulgaria: Rhodope mountains, between Belovo and Jakoruda	secondary	trnK	41.56093875	24.7280574578639	0.000433065473865433
+Carex_canescens	KY189222.1	18-DEC-2017	627	Russia: Siberia, Region of Lake Baikal, Valley of Korolok	secondary	trnK	60	100	0.000433065473865433
+Carex_canescens	KY189221.1	18-DEC-2017	627	Finland: Pallas-Ounastunturi National Park	secondary	trnK	67.6401897	24.3369428	0.000433065473865433
+Carex_canescens	KY189219.1	18-DEC-2017	627	Russia: Kamchatka Peninsula, Pacific Ocean coast, SE of Nalychevo.	secondary	trnK	55.6863135738759	157.966683815787	0.000433065473865433
+Carex_canescens	KY189218.1	18-DEC-2017	627	Austria: Tirol, Oetztaler Alpen, Soelden	secondary	trnK	47.6911714	15.5423459	0.000433065473865433
+Carex_canescens	KY189217.1	18-DEC-2017	627	Canada: Newfoundland and Labrador, Strait of Belle District, on road to Goose Cove	secondary	trnK	47.4072383757747	-57.2843875834428	0.000433065473865433
+Carex_canescens	KY189216.1	18-DEC-2017	628	Canada: Newfoundland and Labrador, Carol Lake, North end	secondary	trnK	47.693431384833	-56.9264602559811	0.000433065473865433
+Carex_canescens	KY189215.1	18-DEC-2017	628	Canada: Newfoundland and Labrador. Route 13 before Trans-Labrador (Hwy 510)	secondary	trnK	46.86282375388	-56.9705740847756	0.000433065473865433
+Carex_canescens	KY189214.1	18-DEC-2017	627	United Kingdom: Scotland, Highlands between Tynohumy and Glencoe	secondary	trnK	53.6671836707696	-0.0620758025123038	0.00175220991587911
+Carex_canescens	KY189213.1	18-DEC-2017	627	Spain: Lerida, Banos de Tredos	secondary	trnK	41.2772742658101	0.886931050119354	0.00175220991587911
+Carex_canescens	KY189212.1	18-DEC-2017	627	Spain: Zamora, Pena Trevinca, Laguna de Cubillas	secondary	trnK	41.5056574	-5.7448039	0.00175220991587911
+Carex_canescens	KY189211.1	18-DEC-2017	627	Spain: Burgos. Neila, Laguna de los Patos	secondary	trnK	42.043537	-3.0456918	0.00201084175345831
+Carex_canescens	KY189209.1	18-DEC-2017	626	Armenia: Mt. Aragats, Aragatsotn, Aragats	secondary	trnK	40.4765905	44.1857351	0.000433760521855194
+Carex_canescens	KY189208.1	18-DEC-2017	601	USA: Utah, Daggett County, Green Lake	secondary	trnK	35.5903318	-88.0583569	0.000450603358799843
+Carex_canescens	KY189207.1	18-DEC-2017	622	USA: California, El Dorado Co, El Dorado National Forest, Grass Lake	secondary	trnK	38.628683	-92.5659635	0.00202459462420243
+Carex_canescens	KY189206.1	18-DEC-2017	622	USA: Massachusetts, Sandwich, Boggy swale	secondary	trnK	41.705566	-70.5401031850863	0.000435360480864847
+Carex_canescens	KY189205.1	18-DEC-2017	632	Russia: Kamchatka Peninsula, Bristraya River, Esso	secondary	trnK	56.6274002673194	158.12604172209	0.000433760521855194
+Carex_canescens	KY189204.1	18-DEC-2017	633	Canada: Northwest Territories, Canol Road (Hwy 5), MacMillan Pass	secondary	trnK	62.4538109	-114.361050472611	0.000433065473865433
+Carex_canescens	KY189203.1	18-DEC-2017	633	Sweden: Buskhyttan, Naerke	secondary	trnK	58.6650719	16.9420798	0.000433065473865433
+Carex_canescens	KY189202.1	18-DEC-2017	633	Australia: New South Wales, Kangaroo Range, Charlotte. Pass to Kosciusko	secondary	trnK	-28.9160337344465	152.938140316333	0.000433065473865433
+Carex_canescens	KY189200.1	18-DEC-2017	627	USA: Alaska, Alaska Range District, Peters Hills Mountains.	secondary	trnK	39.4703246	-86.6413912	0.00175220991587911
+Carex_canescens	KY189199.1	18-DEC-2017	627	Argentina: Tierra del Fuego, between Ushuaia and Tolhuin, Rancho Hambre	secondary	trnK	-53.8263048339043	-69.5519227928463	0.000433065473865433
+Carex_canescens	KY189198.1	18-DEC-2017	627	Argentina: Tierra del Fuego, Ushuaia, Tierra del Fuego National Park	secondary	trnK	-54.8351128	-68.5621773	0.000433065473865433
+Carex_canescens	KY189197.1	18-DEC-2017	627	Argentina: Tierra del Fuego, Rio Grande, Ona River	secondary	trnK	-54.2534700683477	-67.2617559995046	0.000433065473865433
+Carex_canescens	KY189196.1	18-DEC-2017	627	Argentina: Chubut, Los Alerces National Park	secondary	trnK	-42.8421431	-71.8761216	0.000433065473865433
+Carex_canescens	KY189195.1	18-DEC-2017	643	Argentina: Santa Cruz, Los Glaciares National Park	secondary	trnK	-50.1466085038898	-73.2873407240201	0.000433065473865433
+Carex_canescens	KY189194.1	18-DEC-2017	643	Argentina: Santa Cruz, Los Glaciares National Park	secondary	trnK	-49.8598647384188	-73.8189500861841	0.000433065473865433
+Carex_canescens	KY189191.1	18-DEC-2017	621	USA: Massachusetts, Berkshire County, Thomas Pond	secondary	trnK	42.2461755	-73.108015	0.00338213235375404
+Carex_canescens	KY055327.1	15-OCT-2017	656	Canada: Prince Edward Island	secondary	trnK	46.5036807	-63.595411	0.00337761406181458
+Carex_canescens	KY055326.1	15-OCT-2017	661	Spain: Lerida	secondary	trnK	41.1399698774097	0.0464642597496567	0.000428547181925966
+Carex_canescens	KY189201.1	18-DEC-2017	633	Chile	secondary	trnK	-53.4017264	-71.3708493905513	0.000433065473865433
+Carex_canescens	KY189192.1	18-DEC-2017	436	Norway	secondary	trnK	58.11557925	8.25014120870404	0.000498357792264966
+Carex_canescens	KR827190.1	22-SEP-2015	627	Romania	secondary	trnK	45.32744225	23.914100892473	0.000433065473865433

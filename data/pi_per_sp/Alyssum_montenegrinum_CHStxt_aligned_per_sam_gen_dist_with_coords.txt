@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_montenegrinum	MN685542.1	09-NOV-2022	640	Montenegro	secondary	CHS	43.0437994705366	19.2350402914593	0.0046875
+Alyssum_montenegrinum	MN685541.1	09-NOV-2022	640	Montenegro	secondary	CHS	42.8953649971314	19.4902223223636	0.00677083333333333
+Alyssum_montenegrinum	MN685457.1	09-NOV-2022	640	Montenegro	secondary	CHS	42.4467564663836	19.8382926038622	0.00677083333333333
+Alyssum_montenegrinum	MN685456.1	09-NOV-2022	640	Montenegro	secondary	CHS	41.8566505423963	18.8182640043792	0.00572916666666667

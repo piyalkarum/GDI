@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Athyrium_distentifolium	MG215319.1	24-JAN-2018	552	Canada: British Columbia, Selkirk Mtns, Blue Joe Mtn. NE side, above little lake	primary	rbcL	49.032	-116.87	0
+Athyrium_distentifolium	KX371934.1	31-JUL-2016	550	USA	primary	rbcL	46	-121	0
+Athyrium_distentifolium	MG215519.1	24-JAN-2018	553	Canada: Yukon Territory	secondary	rbcL	63.000147	-136.002502	0
+Athyrium_distentifolium	AY300100.1	31-MAY-2004	1274	United Kingdom: Scotland	secondary	rbcL	56.7861112	-4.1140518	0.00020746887966805
+Athyrium_distentifolium	AB574900.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.00020746887966805

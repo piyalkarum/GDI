@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_pulegioides	ON684602.1	21-AUG-2022	1524	Portugal: Meiral, Canidelo, Vila Nova de Gaia	primary	matK	41.12447	-8.64486	0.00403437394575001
+Thymus_pulegioides	HE819424.1	22-MAY-2013	789	Switzerland	primary	matK	46.59	6.24	0.00513917976454322
+Thymus_pulegioides	HE819423.1	22-MAY-2013	789	Italy:Liguria	primary	matK	44.26	9.81	0.00550130179966905
+Thymus_pulegioides	HE819422.1	22-MAY-2013	789	Slovenia	primary	matK	45.79	14.22	0.0072821385726776
+Thymus_pulegioides	HE819421.1	22-MAY-2013	795	Italy:Toscana	primary	matK	43.48	10.44	0.00439508675921112
+Thymus_pulegioides	HE819420.1	22-MAY-2013	789	Spain	primary	matK	42.61	0.53	0.0033087206538336
+Thymus_pulegioides	KJ204544.1	29-JAN-2015	748	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.00763941940412529
+Thymus_pulegioides	JN894907.1	07-MAR-2012	808	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00403437394575001

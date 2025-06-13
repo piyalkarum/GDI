@@ -1,0 +1,24 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linnaea_borealis	KX677623.1	09-AUG-2017	800	Canada: British Columbia, Squamish-Lillooet Regional District, Ashlu Main Rd., near Squamish	primary	matK	49.933	-123.364	0.00126012596059495
+Linnaea_borealis	KX677523.1	09-AUG-2017	778	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail, near Link Lake Forest Recreation Site	primary	matK	49.711	-120.231	0.00122978293531817
+Linnaea_borealis	KX676991.1	09-AUG-2017	780	Canada: British Columbia, East Kootenay Regional District, near Invermere, Panorama Rd, campsite pulloff near river	primary	matK	50.4437	-116.259	0.00127648134531947
+Linnaea_borealis	KX676967.1	09-AUG-2017	778	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	matK	50.045	-125.501	0.00164812143115852
+Linnaea_borealis	MG225278.1	21-JAN-2018	777	Canada: Ontario, Nipissing District, Sproule Township, Around Cabins at Wildlife Research Station, Algonquin Park	primary	matK	45.592	-78.523	0.0012303611131326
+Linnaea_borealis	MG225242.1	21-JAN-2018	777	Canada: Ontario, Thunder Bay District, Neebing Twp., Thunder Bay	primary	matK	48.297	-89.239	0.0012303611131326
+Linnaea_borealis	MG225111.1	21-JAN-2018	777	Canada: Ontario, Algoma District, Sault Ste. Marie, Sault Ste. Marie	primary	matK	46.501	-84.441	0.0012303611131326
+Linnaea_borealis	MG225001.1	21-JAN-2018	777	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, BPNP	primary	matK	45.184	-81.602	0.0012303611131326
+Linnaea_borealis	KC474956.1	25-OCT-2013	717	Canada: Yukon Territory, Richardson Mountains, Fish Creek	primary	matK	67.884	-136.344	0.0031561478799619
+Linnaea_borealis	JN966359.1	27-OCT-2012	774	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	matK	58.178	-93.637	0.00123149483519656
+Linnaea_borealis	JN966358.1	27-OCT-2012	732	Canada: Manitoba, Churchill, Wapusk National Park, York Factory	primary	matK	57.1869029114228	-91.0215429311663	0.0012729872865861
+Linnaea_borealis	JN966357.1	27-OCT-2012	766	Canada: Manitoba, Churchill, Wapusk National Park, York Factory	primary	matK	57.5340813684177	-93.005104399978	0.00123565471261713
+Linnaea_borealis	MT946432.1	03-MAR-2023	783	China	secondary	matK	35.000074	104.999927	0.00164741622608727
+Linnaea_borealis	MK926384.1	14-JAN-2020	783	Sweden	secondary	matK	59.6749712	14.5208584	0.00164741622608727
+Linnaea_borealis	MK926258.1	14-JAN-2020	783	Norway	secondary	matK	64.5731537	11.5280364	0.00164741622608727
+Linnaea_borealis	MK925588.1	14-JAN-2020	783	Estonia	secondary	matK	58.7523778	25.3319078	0.00164741622608727
+Linnaea_borealis	MG224905.1	21-JAN-2018	746	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	matK	43.72634945	-77.7101179040839	0.001248593506933
+Linnaea_borealis	KP297540.1	22-MAR-2015	735	USA	secondary	matK	39.7518098553511	-99.4519977152949	0.00182411343893582
+Linnaea_borealis	KP297539.1	22-MAR-2015	735	Finland	secondary	matK	63.2467777	25.9209164	0.00135791073608391
+Linnaea_borealis	KP297512.1	22-MAR-2015	735	USA	secondary	matK	39.8434825774804	-101.227600881013	0.00182411343893582
+Linnaea_borealis	KJ593012.1	17-MAR-2015	748	USA: Wisconsin, Hiles	secondary	matK	46.137422065018	-88.9788344108511	0.00599263254475994
+Linnaea_borealis	KJ593011.1	17-MAR-2015	736	USA: Wisconsin, Alvin	secondary	matK	45.984958	-88.829295	0.0100374873759183
+Linnaea_borealis	KJ593010.1	17-MAR-2015	765	USA: Wisconsin, Hiles	secondary	matK	45.8852844841089	-89.9122878550273	0.00123741297392619

@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pteridium_aquilinum	MG215334.1	24-JAN-2018	552	Canada: Ontario, Kenora, English River Forest	primary	rbcL	49.7667	-94.4667	0.00105300827153905
+Pteridium_aquilinum	MF786760.1	06-DEC-2017	553	China: Xizang, Yigong, on the east side of Yigong Lake	primary	rbcL	30.19458	94.89308	0.00105231992989269
+Pteridium_aquilinum	MF349296.1	21-SEP-2017	553	USA: Virginia; 0.5 km on Rt 614 S, on unpaved road across from St. Paul's Church. Sand barrens along powerline right-of-way to the Blackwater River. E side of road	primary	rbcL	36.4562960655587	-77.8298770612559	0.00105231992989269
+Pteridium_aquilinum	MF349253.1	21-SEP-2017	553	USA: Virginia; 0.5 km on Rt 614 S, on unpaved road across from St. Paul's Church. Sand barrens along powerline right-of-way to the Blackwater River. E side of road	primary	rbcL	37.6306308984505	-76.8312261787239	0.00105231992989269
+Pteridium_aquilinum	KJ593646.1	17-MAR-2015	536	USA: Wisconsin, Abrams	primary	rbcL	44.814	-88.035	0.000877813214180677
+Pteridium_aquilinum	KJ593645.1	17-MAR-2015	533	USA: Wisconsin, Phelps	primary	rbcL	46.045	-88.94	0.000882783123300315
+Pteridium_aquilinum	KJ593644.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.556	-88.793	0.00105231992989269
+Pteridium_aquilinum	KJ841502.1	04-NOV-2014	542	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Next to observation lookout at Lac Hertel	primary	rbcL	45.544	-73.156	0.0028304694851278
+Pteridium_aquilinum	MW620365.1	04-JAN-2022	1308	Mexico: Puebla	secondary	rbcL	19.1710098	-98.4125121	0.00147904512575378
+Pteridium_aquilinum	MZ771317.1	11-DEC-2021	519	Mexico:Oaxaca	secondary	rbcL	17	-96.5	0.000819032477182666
+Pteridium_aquilinum	MT657710.1	27-JUL-2021	1294	USA: Kauai	secondary	rbcL	22.0504666	-159.5587678	0.00148347624655429
+Pteridium_aquilinum	MT345154.1	12-MAY-2021	458	India	secondary	rbcL	22.3511148	78.6677428	0.000560323787829483
+Pteridium_aquilinum	MG944787.1	09-SEP-2018	1200	China	secondary	rbcL	30.047992	-94.3357433	0.00304605790386963
+Pteridium_aquilinum	MG215464.1	24-JAN-2018	552	Canada: Ontario, Renfrew District, Petawawa, NEBIE field study site	secondary	rbcL	43.72634945	-77.7101179040839	0.00105300827153905
+Pteridium_aquilinum	AY300097.1	31-MAY-2004	1265	Spain	secondary	rbcL	39.3260685	-4.8379791	0.00178263975984443
+Pteridium_aquilinum	KR816697.1	03-NOV-2015	1328	USA	secondary	rbcL	50.362174	8.6428355	0.0056079414696549
+Pteridium_aquilinum	AB574793.1	03-DEC-2010	1205	Japan	secondary	rbcL	40.9921996	-75.9078749	0.00145853134702003
+Pteridium_aquilinum	KF992510.1	22-JUL-2014	1259	Mauritius	secondary	rbcL	-20.2759451	57.5703566	0.004662145437309
+Pteridium_aquilinum	FR865150.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.0115144608196127
+Pteridium_aquilinum	KJ663801.1	24-JUN-2014	537	USA: Pine Barrens, Long Island, NY	secondary	rbcL	30.30092685	-81.5150233331825	0.00274097227410534
+Pteridium_aquilinum	KF186533.1	23-SEP-2013	1309	Canada: Royal Botanical Gardens, Burlington, ON	secondary	rbcL	43.26996765	-79.9272563322477	0.00147838540881707

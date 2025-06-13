@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_humilis	MK925320.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00526645687824596
+Carex_humilis	MK925010.1	14-JAN-2020	542	France	secondary	rbcL	46.603354	1.8883335	0.00526645687824596
+Carex_humilis	FR865118.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.0136125087918628
+Carex_humilis	KJ746313.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00566357436353624

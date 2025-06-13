@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_aquatica	KT250110.1	09-AUG-2015	820	Romania	secondary	matK	45.9852129	24.6859225	0.000850341519497387
+Jacobaea_aquatica	JX894896.1	19-DEC-2012	477	Spain: Cosgaya, collado Llesba hacia Valdeloso	secondary	matK	43.1093451	-4.7270963	0
+Jacobaea_aquatica	JN894726.1	07-MAR-2012	783	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00127931955680053
+Jacobaea_aquatica	JN894078.1	07-MAR-2012	785	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00127823493751546

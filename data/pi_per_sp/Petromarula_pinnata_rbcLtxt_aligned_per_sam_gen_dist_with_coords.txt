@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Petromarula_pinnata	MH749087.1	30-OCT-2018	553	USA: United States Botanic Garden Mediterranean collection	primary	rbcL	38.88797149	-77.01333102	0.35
+Petromarula_pinnata	MK556114.1	22-SEP-2019	346	Iraq	secondary	rbcL	33.9558485224247	44.195640521306	0.554890828846097
+Petromarula_pinnata	MK555615.1	22-SEP-2019	357	Iraq	secondary	rbcL	32.9856693230324	44.9755748129371	0.518757989863518
+Petromarula_pinnata	MK555474.1	22-SEP-2019	381	Iraq	secondary	rbcL	33.7652108856894	43.6148674356623	0.371890024739766

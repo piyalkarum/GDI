@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_hartzii	MG227930.1	23-JAN-2018	552	Canada: Northwest Territories, N.W.T. Mainland, Nicolson Island, Liverpool Bay	primary	rbcL	69.88	-129.03	0.00203084732143732
+Poa_hartzii	MG226650.1	23-JAN-2018	552	Canada: Nunavut, Ellesmere Island, Eureka	primary	rbcL	79.59274759627	-88.5098077685947	0.000319693094629156
+Poa_hartzii	KT960539.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.467	-20.567	0.00374200154824549
+Poa_hartzii	KC483561.1	25-OCT-2013	522	Canada: Yukon Territory, Ivvavik National Park, Komakuk River	primary	rbcL	69.602	-140.132	0.000338066260987153
+Poa_hartzii	KC483560.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	70.735	-117.761	0.000319693094629156
+Poa_hartzii	KC483559.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Expedition Fiord, N side of valley near foot of glacier at head of fiord	primary	rbcL	79.4	-90.8	0.000319693094629156
+Poa_hartzii	KC483558.1	25-OCT-2013	552	Canada: Northwest Territories, NWT mainland, Cape Dalhousie, Tuk area	primary	rbcL	70.19	-129.68	0.000319693094629156
+Poa_hartzii	KC483557.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Eureka, near shore on north side of Station Creek	primary	rbcL	80.0022242475527	-88.9002276227664	0.000319693094629156
+Poa_hartzii	KC483556.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Hazen Camp, on N shore of Lake Hazen, Ellesmere Island National Park Reserve, vicinity of camp	primary	rbcL	81.82	-76.87	0.000319693094629156
+Poa_hartzii	KC483555.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, De Salis Bay, ~2km N of Sandhill River, ~3km E of Windrum Lagoon, SE shore of small lake	primary	rbcL	71.47	-121.9	0.000319693094629156
+Poa_hartzii	KC483554.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Tanquary Camp, Ellesmere Island National Park Reserve	primary	rbcL	81.7458446679684	-74.1590497820438	0.000319693094629156
+Poa_hartzii	KC483553.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, Flat to gently sloping plateau E of junction of 3 rivers 6 km NE of head of Minto Inlet	primary	rbcL	71.66	-115.57	0.000319693094629156
+Poa_hartzii	KC483552.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Hazen Camp, N shore of Lake Hazen, Ellesmere Island National Park Reserve	primary	rbcL	81.82	-71.33	0.000319693094629156
+Poa_hartzii	KC483551.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Tanquary Camp, Ellesmere Island National Park Reserve, gravel floodplain of the MacDonald River	primary	rbcL	81.8707679119324	-77.9156094768204	0.000319693094629156
+Poa_hartzii	KC483550.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Fosheim Peninsula, Hot Weather Creek	primary	rbcL	79.97	-84.43	0.000319693094629156
+Poa_hartzii	KC483549.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay, Flagstaff Point	primary	rbcL	69.13	-105.17	0.000319693094629156
+Poa_hartzii	KC483548.1	25-OCT-2013	552	Canada: Nunavut, Two Basin Lake, 23 km ESE of Eureka airstrip. Slumping bank 1.5-2 m high at edge of Ridge Lake	primary	rbcL	79.93	-84.67	0.000319693094629156
+Poa_hartzii	KC483547.1	25-OCT-2013	552	Canada: Nunavut	primary	rbcL	69.12	-105.05	0.000319693094629156

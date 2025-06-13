@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_pinea	OL312247.1	04-JAN-2022	631	USA: Missouri Botanical Garden, Shoenberg Temperate House.	primary	psbA-trnH	38.61447222	-90.25908333	0
+Pinus_pinea	MT311813.1	28-SEP-2020	616	Turkey	secondary	psbA-trnH	38.6382226998451	35.0097284327834	0
+Pinus_pinea	MT311812.1	28-SEP-2020	616	Turkey	secondary	psbA-trnH	38.1913574974781	34.7661213498163	0
+Pinus_pinea	MT311811.1	28-SEP-2020	613	Greece	secondary	psbA-trnH	43.8484615237213	-77.9641894698598	0
+Pinus_pinea	MT311810.1	28-SEP-2020	613	Italy	secondary	psbA-trnH	42.6384261	12.674297	0
+Pinus_pinea	MT311809.1	28-SEP-2020	613	Greece	secondary	psbA-trnH	42.7662341739648	-78.3228486038262	0
+Pinus_pinea	MT311808.1	28-SEP-2020	616	Turkey	secondary	psbA-trnH	38.9343000080244	34.2425455888665	0
+Pinus_pinea	MT311807.1	28-SEP-2020	613	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0
+Pinus_pinea	MT311806.1	28-SEP-2020	616	Turkey	secondary	psbA-trnH	38.384630196152	35.61585344269	0
+Pinus_pinea	MT311805.1	28-SEP-2020	616	Turkey	secondary	psbA-trnH	38.6132327126958	35.3491721645627	0
+Pinus_pinea	FN689389.1	19-MAR-2010	674	Italy:Tuscany	secondary	psbA-trnH	43.4586541	11.1389204	0

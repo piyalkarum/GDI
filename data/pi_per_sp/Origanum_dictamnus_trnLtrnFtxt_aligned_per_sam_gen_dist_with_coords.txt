@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Origanum_dictamnus	OL598277.1	27-MAY-2022	329	Greece: Crete, Zaros	secondary	trnL-trnF	35.0477190287647	25.3148620778954	0.00812086172226715
+Origanum_dictamnus	OL598276.1	27-MAY-2022	328	Greece: Crete, Zaros	secondary	trnL-trnF	35.5367693083809	25.8484771856374	0.0147435419308322
+Origanum_dictamnus	OL598275.1	27-MAY-2022	330	Greece: Crete, Therissos	secondary	trnL-trnF	34.9301129296433	24.6827378694448	0.00708301601529417
+Origanum_dictamnus	OL598274.1	27-MAY-2022	330	Greece: Crete, Sugia	secondary	trnL-trnF	35.0588853659198	24.142552815874	0.0182156747997433
+Origanum_dictamnus	OL598273.1	27-MAY-2022	330	Greece: Crete, Therissos	secondary	trnL-trnF	35.0013505985448	25.7648178833395	0.0106260731714805
+Origanum_dictamnus	OL598272.1	27-MAY-2022	330	Greece: Crete, Sugia	secondary	trnL-trnF	35.3595898008243	23.3758831131963	0.00708301601529417
+Origanum_dictamnus	OL598271.1	27-MAY-2022	330	Greece: Crete, Sugia	secondary	trnL-trnF	35.401844440369	23.9253044797341	0.00708301601529417

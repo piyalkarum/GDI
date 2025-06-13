@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_bithynica	JN891891.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.42	-3.3	0
+Vicia_bithynica	HM850458.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Vicia_bithynica	JN661195.1	09-JAN-2013	1352	Portugal: Azores, Pico	secondary	rbcL	38.4717536	-28.3642562	0
+Vicia_bithynica	JN893456.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0

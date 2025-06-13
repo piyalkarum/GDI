@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_carnica	MK556078.1	22-SEP-2019	323	Romania	secondary	rbcL	45.4351704683117	24.5941257289587	0.560253438221065
+Campanula_carnica	MK555998.1	22-SEP-2019	337	Romania	secondary	rbcL	46.1587268195026	24.853458155264	0.617721114043107
+Campanula_carnica	MK555547.1	22-SEP-2019	357	Romania	secondary	rbcL	45.4319675907759	24.1746848858644	0.621630816687398
+Campanula_carnica	MK555357.1	22-SEP-2019	382	Romania	secondary	rbcL	46.3504245241939	24.8407947519346	0.631052772972379

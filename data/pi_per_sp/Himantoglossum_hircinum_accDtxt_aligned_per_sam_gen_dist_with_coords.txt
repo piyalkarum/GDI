@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Himantoglossum_hircinum	KJ596179.1	20-OCT-2014	938	Spain: Pacios	secondary	accD	42.6850872	-7.1107409	0.000533049040511727
+Himantoglossum_hircinum	KJ596178.1	20-OCT-2014	938	Morocco: Ifrane	secondary	accD	33.527605	-5.107408	0.000533049040511727
+Himantoglossum_hircinum	KJ596177.1	20-OCT-2014	940	United Kingdom: Newmarket	secondary	accD	52.2443103	0.4065503	0.000799573560767591
+Himantoglossum_hircinum	KJ596176.1	20-OCT-2014	940	Germany: Habkirchen	secondary	accD	49.1356239	7.1349429	0.000799573560767591
+Himantoglossum_hircinum	KJ596174.1	20-OCT-2014	938	Italy: Calvello	secondary	accD	40.476014	15.84857	0.000533049040511727

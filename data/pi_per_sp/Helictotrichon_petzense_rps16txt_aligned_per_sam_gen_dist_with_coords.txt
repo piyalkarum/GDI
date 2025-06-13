@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helictotrichon_petzense	MH090979.1	04-DEC-2018	713	Austria: Karawanken, Uschowatore	primary	rps16	46.45083	14.67111	0.00168302945301543
+Helictotrichon_petzense	MH090978.1	04-DEC-2018	713	Austria: Karawanken, Petzen	primary	rps16	46.51	14.77222	0.00168302945301543
+Helictotrichon_petzense	MH090977.1	04-DEC-2018	713	Austria: Karawanken, Petzen	primary	rps16	46.51056	14.77028	0.00504908835904628
+Helictotrichon_petzense	MH090976.1	04-DEC-2018	713	Austria: Karnten, Karntner Storschitz	primary	rps16	45.754288982673	14.0513317043158	0.00168302945301543
+Helictotrichon_petzense	MH090975.1	04-DEC-2018	713	Austria: Karnten, Karntner Storschitz	primary	rps16	46.6592663319741	15.2255168146129	0.00168302945301543
+Helictotrichon_petzense	MH090974.1	04-DEC-2018	713	Austria: Karawanken, obere Krischa	primary	rps16	46.50972	14.76111	0.00168302945301543

@@ -1,0 +1,41 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Edraianthus_serpyllifolius	HQ679807.1	25-MAY-2011	1757	Montenegro	primary	trnL-trnF	42.6420545550712	18.8165380197473	0.000569260107393286
+Edraianthus_serpyllifolius	HQ679806.1	25-MAY-2011	1757	Montenegro	primary	trnL-trnF	41.9877252566364	18.3193096526429	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679805.1	25-MAY-2011	1758	Bosnia and Herzegovina	primary	trnL-trnF	43.3921485549443	18.3157690317566	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679804.1	25-MAY-2011	1758	Bosnia and Herzegovina	primary	trnL-trnF	43.2647470722865	18.9755167101542	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679803.1	25-MAY-2011	1758	Bosnia and Herzegovina	primary	trnL-trnF	43.0229675648973	18.4676877455973	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679802.1	25-MAY-2011	1758	Bosnia and Herzegovina	primary	trnL-trnF	43.272252719086	18.8785064501394	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679801.1	25-MAY-2011	1758	Bosnia and Herzegovina	primary	trnL-trnF	43.8648674706177	18.7047682274104	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679800.1	25-MAY-2011	1758	Bosnia and Herzegovina	primary	trnL-trnF	43.509027835062	17.6447137632495	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679799.1	25-MAY-2011	1758	Bosnia and Herzegovina	primary	trnL-trnF	42.4917147269872	18.6356336790492	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679798.1	25-MAY-2011	1758	Bosnia and Herzegovina	primary	trnL-trnF	43.3984672521839	17.6750887196725	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679797.1	25-MAY-2011	1758	Bosnia and Herzegovina	primary	trnL-trnF	43.7726348848622	17.9044285225436	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679796.1	25-MAY-2011	1758	Bosnia and Herzegovina	primary	trnL-trnF	42.7351434252925	18.7030789411354	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679795.1	25-MAY-2011	1759	Bosnia and Herzegovina	primary	trnL-trnF	43.0289899176738	17.9729809197893	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679794.1	25-MAY-2011	1759	Bosnia and Herzegovina	primary	trnL-trnF	43.6234536072315	17.7468201309328	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679793.1	25-MAY-2011	1759	Bosnia and Herzegovina	primary	trnL-trnF	43.6205954289201	19.3309116538519	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679792.1	25-MAY-2011	1759	Bosnia and Herzegovina	primary	trnL-trnF	42.868557024128	18.9875523570679	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679791.1	25-MAY-2011	1759	Bosnia and Herzegovina	primary	trnL-trnF	42.938507014878	18.3705783987025	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679790.1	25-MAY-2011	1756	Bosnia and Herzegovina	primary	trnL-trnF	43.0783921693908	18.0436698750531	1.46019508206296e-05
+Edraianthus_serpyllifolius	HQ679789.1	25-MAY-2011	1757	Bosnia and Herzegovina	primary	trnL-trnF	44.2223287462948	18.2260134361776	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679788.1	25-MAY-2011	1752	Bosnia and Herzegovina	primary	trnL-trnF	43.2121714692562	17.322164596267	1.46352886078913e-05
+Edraianthus_serpyllifolius	HQ679787.1	25-MAY-2011	1757	Bosnia and Herzegovina	primary	trnL-trnF	43.4198542345691	18.3491146189585	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679786.1	25-MAY-2011	1757	Bosnia and Herzegovina	primary	trnL-trnF	43.8471406333073	17.6806093358489	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679785.1	25-MAY-2011	1757	Bosnia and Herzegovina	primary	trnL-trnF	42.6429676821974	18.4739362281823	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679784.1	25-MAY-2011	1757	Bosnia and Herzegovina	primary	trnL-trnF	44.0422914658845	17.5762714647333	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679783.1	25-MAY-2011	1756	Bosnia and Herzegovina	primary	trnL-trnF	44.2800023303912	17.4255955284567	1.46019508206296e-05
+Edraianthus_serpyllifolius	HQ679782.1	25-MAY-2011	1756	Bosnia and Herzegovina	primary	trnL-trnF	43.6122534643886	17.5358777191122	1.46019508206296e-05
+Edraianthus_serpyllifolius	HQ679781.1	25-MAY-2011	1755	Bosnia and Herzegovina	primary	trnL-trnF	44.0457296023833	16.4743690382759	1.46102710205274e-05
+Edraianthus_serpyllifolius	HQ679780.1	25-MAY-2011	1756	Bosnia and Herzegovina	primary	trnL-trnF	43.1236317055455	17.415764258373	1.46019508206296e-05
+Edraianthus_serpyllifolius	HQ679779.1	25-MAY-2011	1756	Bosnia and Herzegovina	primary	trnL-trnF	42.7786227882537	17.0592116450907	1.46019508206296e-05
+Edraianthus_serpyllifolius	HQ679778.1	25-MAY-2011	1756	Bosnia and Herzegovina	primary	trnL-trnF	42.825436641958	17.3178066082325	1.46019508206296e-05
+Edraianthus_serpyllifolius	HQ679777.1	25-MAY-2011	1757	Croatia	primary	trnL-trnF	43.7197951964424	17.4670466518436	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679776.1	25-MAY-2011	1757	Croatia	primary	trnL-trnF	42.9879338801468	16.0938220128176	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679775.1	25-MAY-2011	1757	Croatia	primary	trnL-trnF	42.9799203901675	17.3299803986344	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679774.1	25-MAY-2011	1757	Croatia	primary	trnL-trnF	43.3585734112245	17.6154467803926	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679773.1	25-MAY-2011	1757	Croatia	primary	trnL-trnF	44.0305152010446	17.3756807567281	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679772.1	25-MAY-2011	1757	Croatia	primary	trnL-trnF	43.6801071665065	16.7432046599964	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679771.1	25-MAY-2011	1757	Croatia	primary	trnL-trnF	42.5567053718809	16.6162584651853	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679770.1	25-MAY-2011	1757	Croatia	primary	trnL-trnF	42.7535502354724	16.7979993440675	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679769.1	25-MAY-2011	1757	Croatia	primary	trnL-trnF	43.2985118578001	16.3719088542355	1.45936400916481e-05
+Edraianthus_serpyllifolius	HQ679768.1	25-MAY-2011	1757	Croatia	primary	trnL-trnF	43.2777418847392	17.7026956383083	1.45936400916481e-05

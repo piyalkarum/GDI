@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_nivalis	KC474633.1	25-OCT-2013	762	Canada: Nunavut, Devon Island, Dundas Harbour	primary	matK	74.517	-82.55	0.00294883969578732
+Draba_nivalis	KC474632.1	25-OCT-2013	762	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	matK	62.883	-92.183	0.00294883969578732
+Draba_nivalis	KC474631.1	25-OCT-2013	633	Canada: Nunavut, Victoria Island, Murray Point, Murray Point, W side of Wilbank Bay	primary	matK	68.678	-110.367	0.00586774994357933
+Draba_nivalis	KC474630.1	25-OCT-2013	636	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	matK	62.8522	-67.3408	0.00450087931085874
+Draba_nivalis	KC474629.1	25-OCT-2013	762	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	matK	68.719	-110.783	0.00294883969578732
+Draba_nivalis	KC474627.1	25-OCT-2013	691	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Near cabin on terraces above coastal area	primary	matK	56.331	-79.514	0.00431996588440374
+Draba_nivalis	JN966270.1	27-OCT-2012	633	Canada: Manitoba, Churchill, Wapusk National Park, Cape Churchill, Cape Churchill, north and in the vicinity of Canadian Wildlife service viewing tower	primary	matK	58.767	-93.251	0.00541638456330399
+Draba_nivalis	KC474628.1	25-OCT-2013	762	Canada: Nunavut, Baffin Island, Iqaluit	secondary	matK	74.08295045	-94.3110795713201	0.0049336453864093

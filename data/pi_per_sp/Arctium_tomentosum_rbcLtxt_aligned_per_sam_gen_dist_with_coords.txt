@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctium_tomentosum	MG222766.1	26-DEC-2017	552	Canada: Viceroy, SASK	primary	rbcL	49.5553841907279	-105.485924304395	0
+Arctium_tomentosum	MG222497.1	26-DEC-2017	552	Canada: Viceroy, SASK	primary	rbcL	48.9230312235377	-106.358968435755	0
+Arctium_tomentosum	MG221512.1	26-DEC-2017	553	Canada: Quebec, Montreal, Island of Montreal, Parc-nature du Bois-de-Liesse, a la lisiere du boise	primary	rbcL	45.492	-73.769	0
+Arctium_tomentosum	MT930362.1	03-MAR-2023	571	China	secondary	rbcL	35.000074	104.999927	0

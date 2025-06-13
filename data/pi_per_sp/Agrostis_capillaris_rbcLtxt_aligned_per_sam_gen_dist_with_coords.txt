@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostis_capillaris	MF596518.1	28-FEB-2018	603	Canada: British Columbia, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Rd. Dry mud flats with Juncus.	primary	rbcL	48.6625031862043	-121.978784505861	0
+Agrostis_capillaris	MF596517.1	28-FEB-2018	549	Canada: British Columbia, Lower Mainland, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Road, Beta Avenue ditch.	primary	rbcL	48.8564101125564	-124.173556924083	0
+Agrostis_capillaris	MF596516.1	28-FEB-2018	549	Canada: British Columbia, Lower Mainland, Vancouver, just below Cypress Ski Resort in Cypress Provincial Park, N of Vancouver	primary	rbcL	48.7757082355013	-122.465071544678	0
+Agrostis_capillaris	MF596515.1	28-FEB-2018	549	Canada: British Columbia, W of Smithers along Hwy. 16 across from Kitsequecla Loop road	primary	rbcL	54.3299516561724	-128.426361408181	0
+Agrostis_capillaris	MF596514.1	28-FEB-2018	603	Canada: British Columbia, 0.5 km up Grizzly Road, S of Hwy. 3, ~5 km E of Osoyos.	primary	rbcL	48.7875839938848	-118.112129260336	0
+Agrostis_capillaris	MF596513.1	28-FEB-2018	603	Canada: British Columbia, Hazelton Mtns., along Skeena River 15 km E of Cedarvale along Hwy. 16, just W of Jct. 37.	primary	rbcL	54.5829329483486	-123.539991077586	0
+Agrostis_capillaris	MF596512.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, 0.2 km N of Hwy. 19 along Northwest Bay Road (Nanoose area).	primary	rbcL	49.5341693876967	-125.298961023075	0
+Agrostis_capillaris	MG228143.1	23-JAN-2018	549	Canada: British Columbia, W of Smithers along Hwy. 16 across from Kitsequecla Loop road	primary	rbcL	54.8051256185399	-126.814101550379	0
+Agrostis_capillaris	MG227411.1	23-JAN-2018	603	Canada: British Columbia, 0.5 km up Grizzly Road, S of Hwy. 3, ~5 km E of Osoyos.	primary	rbcL	48.2735976802019	-118.700264172889	0
+Agrostis_capillaris	MG227081.1	23-JAN-2018	549	Canada: British Columbia, Lower Mainland, Vancouver, just below Cypress Ski Resort in Cypress Provincial Park, N of Vancouver	primary	rbcL	49.2904528993912	-121.91356541569	0
+Agrostis_capillaris	MG226834.1	23-JAN-2018	603	Canada: British Columbia, Hazelton Mtns., along Skeena River 15 km E of Cedarvale along Hwy. 16, just W of Jct. 37.	primary	rbcL	54.8713295728148	-121.648708085422	0
+Agrostis_capillaris	MG226783.1	23-JAN-2018	603	Canada: British Columbia, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Rd. Dry mud flats with Juncus.	primary	rbcL	49.1594551605997	-121.866515507117	0
+Agrostis_capillaris	MG226166.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, 0.2 km N of Hwy. 19 along Northwest Bay Road (Nanoose area).	primary	rbcL	48.941004989735	-124.682528501661	0
+Agrostis_capillaris	JN891522.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0
+Agrostis_capillaris	KJ204293.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0
+Agrostis_capillaris	JN893043.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.087650019053	-4.67539090956241	0
+Agrostis_capillaris	JN893042.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.9326143050292	-3.4637521045724	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Solidago_virgaurea	JN895829.1	07-MAR-2012	944	United Kingdom: Glamorgan	primary	matK	51.71	-3.56	0.000985466211815393
+Solidago_virgaurea	JN895014.1	07-MAR-2012	773	United Kingdom: Breconshire (42)	primary	matK	51.85	-3.15	0.00103762135072775
+Solidago_virgaurea	MT917495.1	03-MAR-2023	786	China	secondary	matK	35.000074	104.999927	0.00103064956268989
+Solidago_virgaurea	KP175127.1	30-NOV-2016	2526	Italy	secondary	matK	42.6384261	12.674297	0.000988061043260903
+Solidago_virgaurea	JN894380.1	07-MAR-2012	773	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00207423465387566
+Solidago_virgaurea	JN894379.1	07-MAR-2012	768	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00104166666666667

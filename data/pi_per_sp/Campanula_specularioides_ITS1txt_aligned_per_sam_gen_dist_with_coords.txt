@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_specularioides	FM212710.1	27-APR-2009	698	Spain:Malaga	primary	ITS1	36.43	-5.15	0.0037479876504725
+Campanula_specularioides	FM212709.1	27-APR-2009	672	Spain:Malaga	primary	ITS1	37.0857416223386	-5.06110463163581	0.00536246540344901
+Campanula_specularioides	FM212708.1	27-APR-2009	700	Spain:Malaga	primary	ITS1	36.6369843156189	-5.29937521799065	0.0092318817537714
+Campanula_specularioides	FM212707.1	27-APR-2009	698	Spain:Malaga	primary	ITS1	36.1447331432288	-4.19084769371001	0.00606331054449801
+Campanula_specularioides	FM212706.1	27-APR-2009	699	Spain:Malaga	primary	ITS1	36.115136433968	-5.07632232229067	0.00777881898676716
+Campanula_specularioides	FM212705.1	27-APR-2009	698	Spain:Cadiz	primary	ITS1	36.45	-5.21	0.0037479876504725

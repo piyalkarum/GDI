@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurium_erythraea	MG224251.1	26-DEC-2017	552	Canada: OAC,On	primary	rbcL	43.5485	-80.2503	0.00865354604629645
+Centaurium_erythraea	KX678625.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, University Endowment Lands, along SW Marine Dr.	primary	rbcL	49.245	-123.218	0.00245402696750221
+Centaurium_erythraea	JN892803.1	07-MAR-2012	540	United Kingdom: Glamorgan	primary	rbcL	51.56	-3.25	0.00216623284320512
+Centaurium_erythraea	KJ204315.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00246407513145263
+Centaurium_erythraea	HM849874.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00217661691542289
+Centaurium_erythraea	JN890767.1	07-MAR-2012	524	United Kingdom: Glamorgan	secondary	rbcL	51.6082065818156	-4.01774335807635	0.0022264631043257
+Centaurium_erythraea	JN890766.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4193951927802	-4.82224290015663	0.00215821817873643

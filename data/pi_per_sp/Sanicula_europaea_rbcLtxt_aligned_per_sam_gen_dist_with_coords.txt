@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sanicula_europaea	KX678054.1	29-APR-2017	551	Canada: British Columbia, Capital Regional District, Goldstream Provincial Park, 2 paces from Finlayson Arm Road along path just east of footbridge, pathside, old growth alluvial woods	primary	rbcL	48.477	-123.547	0
+Sanicula_europaea	JN893724.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.53	0
+Sanicula_europaea	JN892074.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Sanicula_europaea	JN892073.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0
+Sanicula_europaea	JN891682.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0

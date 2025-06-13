@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erodium_lebelii	JN892228.1	07-MAR-2012	542	United Kingdom: Caernarfonshire	primary	rbcL	52.76	-4.22	0
+Erodium_lebelii	JN892993.1	07-MAR-2012	533	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0
+Erodium_lebelii	JN892088.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0
+Erodium_lebelii	JN892082.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atriplex_prostrata	JX517874.1	22-AUG-2013	765	South Africa: Western Cape, Robben Island	primary	matK	-33.809	18.361	0.110229579223327
+Atriplex_prostrata	JN894913.1	07-MAR-2012	752	United Kingdom: Monmouthshire	primary	matK	51.57	-2.85	0.107872820471991
+Atriplex_prostrata	KY941474.1	30-APR-2018	458	United Kingdom: England, Greater London	secondary	matK	51.4893335	-0.1440551	0.533281851394666
+Atriplex_prostrata	HM850760.1	23-JUL-2011	616	Portugal	secondary	matK	39.6621648	-8.1353519	0.112042008271059
+Atriplex_prostrata	JN894517.1	07-MAR-2012	818	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.10910198926588
+Atriplex_prostrata	JN894199.1	07-MAR-2012	699	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.109566444852075

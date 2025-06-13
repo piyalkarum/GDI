@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostis_gigantea	KX873197.1	16-OCT-2017	863	Kyrgyzstan: Chu, Zailiisky Ala-Too S slope, Ger-Taby|gy (Rv.), Boroldoy settlement, 18 k ENE of Bystrovka, 5 km E of Boroldoy	primary	matK	42.8003	75.9251	0.00886005700823111
+Agrostis_gigantea	KX873196.1	16-OCT-2017	865	USA: California, Siskiyou Co., Port Orford Cedar Botanical Area, Klamath National Forest	primary	matK	41.9522	-123.5117	0.00997183690731016
+Agrostis_gigantea	MF597128.1	17-JUL-2018	773	Canada: British Columbia, W of Smithers along Hwy. 16 across from Kitsequecla Loop road	primary	matK	55.2495519753304	-126.444886681207	0.00668549385380817
+Agrostis_gigantea	MF597127.1	17-JUL-2018	819	Canada: British Columbia, W of Smithers along Hwy. 16, across from Kitsequecla Loop road.	primary	matK	55.5094769287722	-127.853129272637	0.00735479082498241
+Agrostis_gigantea	MF597126.1	17-JUL-2018	773	Canada: British Columbia, 9 mi NE of New Aiyansh on road towards Cranberry Junction	primary	matK	55.292	-128.973	0.00668549385380817
+Agrostis_gigantea	MF597125.1	17-JUL-2018	819	Canada: British Columbia, Along Finmore Road, W of Prince George, S of Stuart River Provincial Park	primary	matK	53.948	-123.574	0.0100372148778628
+Agrostis_gigantea	MG217120.1	24-JAN-2018	757	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	matK	51.273	-80.641	0.00783730633002741
+Agrostis_gigantea	HQ593158.1	09-NOV-2011	869	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, open area near stream channel north of Echo Valley Cottage	primary	matK	44.026	-79.532	0.00596749915032396
+Agrostis_gigantea	JN895348.1	07-MAR-2012	746	United Kingdom: Cardiganshire	secondary	matK	52.5843009645649	-5.28606507312134	0.00646470701689885
+Agrostis_gigantea	JN895346.1	07-MAR-2012	854	United Kingdom: Cardiganshire	secondary	matK	51.4640161853893	-3.88918574382206	0.00596627088950269

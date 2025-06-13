@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kalmia_procumbens	AB219647.1	20-DEC-2005	853	Japan: Nagano, Mt. Kisokomagadake	secondary	trnL-trnF	36.7699089565965	139.214760704895	0.00145052514605295
+Kalmia_procumbens	AB219646.1	20-DEC-2005	852	Japan: Toyama, Mts. Tateyama	secondary	trnL-trnF	36.1743782403343	138.011274573344	0.00103603116823102
+Kalmia_procumbens	AB219645.1	20-DEC-2005	851	Japan: Nagano, Mt. Shiroumadake	secondary	trnL-trnF	37.2384139247321	138.110454897581	0.00186631644432156
+Kalmia_procumbens	AB219643.1	20-DEC-2005	852	Japan: Hokkaido, Mts. Taisetsuzan	secondary	trnL-trnF	43.7420378021484	143.286322773642	0.00145157945669455
+Kalmia_procumbens	AB219642.1	20-DEC-2005	853	Russia: Sakhalin, 30km South of Okha	secondary	trnL-trnF	49.8521333233723	142.061199730542	0.00145020024527247
+Kalmia_procumbens	AB247963.1	20-APR-2006	1643	Japan:Nagano, Mts. Yatsugatake	secondary	trnL-trnF	36.0018779931762	137.881908021249	0.00238309132660846
+Kalmia_procumbens	AB247962.1	20-APR-2006	1642	Japan:Nagano, Mt. Akaishidake	secondary	trnL-trnF	36.9717745295916	139.026128513553	0.00356691066854225
+Kalmia_procumbens	AB247961.1	20-APR-2006	1643	Japan:Nagano, Mt. Senjogatake	secondary	trnL-trnF	35.7200776	138.1836017	0.00163021311072957
+Kalmia_procumbens	AB247960.1	20-APR-2006	1644	Japan:Nagano, Mt. Utsugidake	secondary	trnL-trnF	35.7189925	137.8171028	0.00163021311072957
+Kalmia_procumbens	AB247959.1	20-APR-2006	1643	Japan:Nagano, Mt. Kisokomagadake	secondary	trnL-trnF	36.6227162754162	137.962897412011	0.00198858743044774
+Kalmia_procumbens	AB247958.1	20-APR-2006	1642	Japan:Nagano, Mts. Ontakesan	secondary	trnL-trnF	36.8966579199128	137.965713198393	0.00131621713839045
+Kalmia_procumbens	AB247957.1	20-APR-2006	1642	Japan:Ishikawa, Mt. Bessan	secondary	trnL-trnF	37.1570412	140.4468974	0.00184523676160201
+Kalmia_procumbens	AB247956.1	20-APR-2006	1641	Japan:Toyama, Mts. Tateyama	secondary	trnL-trnF	37.4106208276729	137.540995285547	0.00131621713839045
+Kalmia_procumbens	AB247955.1	20-APR-2006	1641	Japan:Nagano, Mt. Shiroumadake	secondary	trnL-trnF	36.4890418956146	138.266374804259	0.00184629760178768
+Kalmia_procumbens	AB247954.1	20-APR-2006	1659	Japan:Yamagata, Mts. Iidesan	secondary	trnL-trnF	38.2553393	140.3400205	0.00184989018116278
+Kalmia_procumbens	AB247953.1	20-APR-2006	1683	Japan:Aomori, Mts. Hakkodasan	secondary	trnL-trnF	40.8222833	140.7472027	0.00177521323259583
+Kalmia_procumbens	AB247952.1	20-APR-2006	1700	Japan:Hokkaido, Mts. Taisetsuzan	secondary	trnL-trnF	43.4073822792904	143.95499131257	0.00227756094356392
+Kalmia_procumbens	AB247951.1	20-APR-2006	1701	Russia:Sakhalin,30km South of Okha	secondary	trnL-trnF	49.8276627404035	142.598773599887	0.00188340099422805

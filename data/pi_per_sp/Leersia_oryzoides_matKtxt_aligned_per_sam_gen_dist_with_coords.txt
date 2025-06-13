@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leersia_oryzoides	MG216976.1	24-JAN-2018	794	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay	primary	matK	45.515	-73.742	0.000333778371161549
+Leersia_oryzoides	KP056975.1	28-FEB-2015	1014	South Korea: Jeju, Jeju-si, Hangyeong-myeon, Yongsu-ri, Yongdammos	secondary	matK	33.4930566	126.5130589	0.0002465483234714
+Leersia_oryzoides	KP056973.1	28-FEB-2015	1014	South Korea: Iksan-si, Jeollabuk-do	secondary	matK	35.9479291	126.9578025	0.00107342334157575
+Leersia_oryzoides	KP056972.1	28-FEB-2015	1014	South Korea: Paju-si, Gyeonggi-do	secondary	matK	37.7598955	126.7801502	0.0002465483234714
+Leersia_oryzoides	FN908060.1	17-MAY-2012	2125	Portugal:Azores	secondary	matK	37.8085564	-25.4731374	0.0002465483234714

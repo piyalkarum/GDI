@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lythrum_portula	MG249688.1	21-JAN-2018	552	Canada: British Columbia, Fraser Valley, Hatzic Lake, 350 m west mouth of Chilqua Slough	primary	rbcL	49.176	-122.237	0.00129326354475168
+Lythrum_portula	MG247816.1	21-JAN-2018	552	Canada: British Columbia, Greater Vancouver, Port Coquitlam, ca. 1.7 km N of Pitt and Fraser Rivers, landfill W of Broadway St	primary	rbcL	49.244	-122.764	0.00129326354475168
+Lythrum_portula	MG247491.1	21-JAN-2018	509	Canada: British Columbia, Fraser Valley, Agassiz, 270 m west of Evergreen Drive, 30 m north of Pioneer Avenue	primary	rbcL	49.24	-121.77	0.00594547587545686
+Lythrum_portula	JN893431.1	07-MAR-2012	531	United Kingdom: Cornwall, West with Scilly (1)	primary	rbcL	50.32	-5.23	0.00131946432547635
+Lythrum_portula	HM850155.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0025884702826061
+Lythrum_portula	JN892930.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00129977858858016
+Lythrum_portula	JN892267.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00129977858858016

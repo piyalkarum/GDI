@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_palustris	MF597554.1	17-JUL-2018	775	Canada: Alberta, E shore of Lesser Slave Lake	primary	matK	55.328	-114.754	0.00201628640845178
+Poa_palustris	MF597553.1	17-JUL-2018	819	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	matK	48.9441968964698	-98.2945881376558	0.00200655211817496
+Poa_palustris	MF597552.1	17-JUL-2018	809	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	matK	48.7997504696232	-99.3020738550013	0.00200833645643014
+Poa_palustris	MF597551.1	17-JUL-2018	819	Canada: Manitoba	primary	matK	49.281	-98.635	0.00200655211817496
+Poa_palustris	MF597550.1	17-JUL-2018	774	Canada: British Columbia, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Rd. Dry mud flats with Juncus.	primary	matK	49.261	-122.989	0.00193492076931084
+Poa_palustris	MF597549.1	17-JUL-2018	819	Canada: Yukon Territory, 12 mi S of Beaver Creek and 19 mi NE up Snag Creek Road.	primary	matK	62.403	-140.364	0.00258917053013874
+Poa_palustris	MF597548.1	17-JUL-2018	808	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	matK	48.3685044780012	-99.0904253085685	0.00200857976332087
+Poa_palustris	MG217046.1	24-JAN-2018	773	Canada: Ontario, Lambton County, St. Clair Twp., Wet ditch along Hwy 40, south of Sarnia	primary	matK	42.78	-82.418	0.0125237843501483
+Poa_palustris	MG217040.1	24-JAN-2018	772	Canada: Ontario, Renfrew County, Brudnell & Lyndoch Township Municipality, Madawaska River, Ottawa area	primary	matK	45.23	-77.37	0.00201899536311899
+Poa_palustris	KC475402.1	25-OCT-2013	753	Canada: Yukon Territory, Blow River Delta, Danny C. Gordon's goose camp	primary	matK	68.898	-136.97	0.0125908251147742
+Poa_palustris	JN966443.1	27-OCT-2012	737	Canada: Manitoba, Churchill, unspecified locality	primary	matK	58.732	-93.822	0.00199205698511974
+Poa_palustris	MW251103.1	06-APR-2022	788	Turkey	secondary	matK	38.9597594	34.9249653	0.00314039442235833
+Poa_palustris	MT273310.1	31-MAR-2021	788	Russia	secondary	matK	64.6863136	97.7453061	0.00193641676947034
+Poa_palustris	KY378878.1	25-FEB-2018	754	Canada	secondary	matK	61.0666922	-107.991707	0.00194081864746686

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Selaginella_selaginoides	MF953590.1	01-AUG-2018	549	Iceland: Adalvik	secondary	rbcL	66.3855742	-23.0958896	0.000496031746031746
+Selaginella_selaginoides	MF953589.1	01-AUG-2018	549	Iceland: Reykjanes	secondary	rbcL	63.9415014	-22.255951	0.000496031746031746
+Selaginella_selaginoides	KY023148.1	12-FEB-2017	1362	Sweden	secondary	rbcL	59.6749712	14.5208584	0.000622406639004149
+Selaginella_selaginoides	KY023147.1	12-FEB-2017	1333	Italy	secondary	rbcL	42.6384261	12.674297	0.000622406639004149
+Selaginella_selaginoides	AB574651.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.00223687677007179

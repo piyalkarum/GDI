@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phedimus_aizoon	MH087484.1	08-APR-2018	570	China: Outside US, Beijing, Beijing No. 166 High School Campus	primary	rbcL	39.4449306445615	116.397921268856	0.000574786935985449
+Phedimus_aizoon	MH084662.1	08-APR-2018	563	China: Outside US, Beijing, Beijing No. 166 High School Campus	primary	rbcL	39.3992826349344	115.923929308019	0.000275984087475322
+Phedimus_aizoon	MG249242.1	21-JAN-2018	552	Canada: Ontario, Thunder Bay Dist. Provincial Paper Mill in railway service yard in current R. area, Thunder Bay City	primary	rbcL	48.45	-89.183	0.000139353400222965
+Phedimus_aizoon	MG248844.1	21-JAN-2018	503	Canada: Ontario, Cochrane District, Harmon Twp. Smoky Falls. (501)	primary	rbcL	50.05	-82.167	0.000152928582352042
+Phedimus_aizoon	MF349798.1	21-SEP-2017	553	USA: District of Columbia; Stop 1- U.S. National Arboretum, 3501 New York Ave. NE, Asian Collection along Hickey Hill Road towards the Anacostia River	primary	rbcL	39.5620863938633	-76.7579822323224	0.000139353400222965
+Phedimus_aizoon	MF349251.1	21-SEP-2017	553	USA: District of Columbia; Stop 1- U.S. National Arboretum, 3501 New York Ave. NE, Asian Collection along Hickey Hill Road towards the Anacostia River	primary	rbcL	38.9068304151842	-77.9313195137792	0.000139353400222965
+Phedimus_aizoon	MH714029.1	01-SEP-2020	568	China: Hebei	secondary	rbcL	38.3978191455074	115.395021932452	0.000139353400222965
+Phedimus_aizoon	MH714025.1	01-SEP-2020	568	China: Hebei	secondary	rbcL	38.3901629569665	115.485970222827	0.000139353400222965
+Phedimus_aizoon	MH713943.1	01-SEP-2020	572	China: Hebei	secondary	rbcL	38.5285688141971	116.622340988656	0.000139353400222965
+Phedimus_aizoon	MH713917.1	01-SEP-2020	579	China: Hebei	secondary	rbcL	39.1115191840511	115.74733609478	0.00100723977589135
+Phedimus_aizoon	MH713914.1	01-SEP-2020	569	China: Hebei	secondary	rbcL	39.6252784049348	115.65187416284	0.000139353400222965
+Phedimus_aizoon	MG248302.1	21-JAN-2018	552	Canada: Quebec, Tadoussac, Saguenay Coast	secondary	rbcL	46.8137431	-71.2084061	0.0015464625845817
+Phedimus_aizoon	KJ570521.1	09-AUG-2014	1221	China: Hebei, Xiaowutai Mt	secondary	rbcL	42.1614713	117.0527789	0.000448391845557543
+Phedimus_aizoon	KJ570520.1	09-AUG-2014	1221	China: Sichuan, Maerkang Xian	secondary	rbcL	35.1224227	105.4809295	0.000448391845557543

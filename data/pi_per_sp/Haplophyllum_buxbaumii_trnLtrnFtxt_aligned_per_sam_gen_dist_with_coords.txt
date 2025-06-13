@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Haplophyllum_buxbaumii	HM163784.1	18-APR-2011	486	Turkey	secondary	trnL-trnF	38.61808361272	35.8905881576519	0.00338600451467269
+Haplophyllum_buxbaumii	HM163783.1	18-APR-2011	217	Turkey	secondary	trnL-trnF	39.6217769793721	35.2879532612915	0.00230414746543779
+Haplophyllum_buxbaumii	HM163782.1	18-APR-2011	486	Iraq	secondary	trnL-trnF	32.5690389576731	44.8757440926546	0.00338600451467269
+Haplophyllum_buxbaumii	HM163781.1	18-APR-2011	446	Iraq	secondary	trnL-trnF	33.750750069203	43.5000364368184	0.0125086507739594
+Haplophyllum_buxbaumii	EF489243.1	31-DEC-2008	526	Tunisia	secondary	trnL-trnF	36.8002068	10.1857757	0.0034324942791762

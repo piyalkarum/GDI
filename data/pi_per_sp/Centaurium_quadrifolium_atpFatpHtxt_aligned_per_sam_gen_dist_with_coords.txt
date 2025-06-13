@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurium_quadrifolium	MN121994.1	23-FEB-2020	503	Spain: Granada, Galera	primary	atpF-atpH	37.43	-2.33	0
+Centaurium_quadrifolium	MN121993.1	23-FEB-2020	501	Spain: Segovia, Hinojosas del Cerro	primary	atpF-atpH	41.21	-3.5	0
+Centaurium_quadrifolium	MN121980.1	23-FEB-2020	503	Spain: Madrid, Titulcia-Chinchon	primary	atpF-atpH	40.08	-3.29	0
+Centaurium_quadrifolium	MN121970.1	23-FEB-2020	501	Spain: Toledo, Quintanar	primary	atpF-atpH	39.38	-3.04	0
+Centaurium_quadrifolium	MN121969.1	23-FEB-2020	501	Spain: Cuenca, Zafra de Zancara	primary	atpF-atpH	39.52	-2.34	0
+Centaurium_quadrifolium	MN121968.1	23-FEB-2020	501	Spain: Segovia, Fuentiduenas	primary	atpF-atpH	41.18	-4.02	0
+Centaurium_quadrifolium	MN121967.1	23-FEB-2020	501	Spain: Granada, Frigiliana, Puerto de Los Umbrales	primary	atpF-atpH	36.5	-3.49	0
+Centaurium_quadrifolium	MN121965.1	23-FEB-2020	501	Spain: Tarragona, Montsia	primary	atpF-atpH	40.37	0.31	0
+Centaurium_quadrifolium	MN121951.1	23-FEB-2020	501	Spain: Castellon, Mosqueruela	primary	atpF-atpH	40.25	-0.19	0
+Centaurium_quadrifolium	MN121950.1	23-FEB-2020	501	Spain: Valencia, Els Corrals	primary	atpF-atpH	39	-0.19	0

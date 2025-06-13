@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_inflexus	MG225695.1	23-JAN-2018	552	Canada: Ontario, Ontario, Hamilton-Wentworth, Beverly, Valens Reservoir, Valens Conservation Area, ca. 15 km ENE of Galt Post Office	primary	rbcL	43.387	-80.133	0
+Juncus_inflexus	JN892295.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.2	0
+Juncus_inflexus	KJ204359.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0
+Juncus_inflexus	JN893771.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.2253043222669	-1.88238335361807	0
+Juncus_inflexus	JN893097.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Juncus_inflexus	JN891378.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	50.54159770447	-2.99302697186701	0

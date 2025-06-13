@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melilotus_indicus	MN533296.1	28-OCT-2019	319	USA	secondary	psbA-trnH	39.0999605917125	-100.569234016927	0
+Melilotus_indicus	MN533295.1	28-OCT-2019	319	USA	secondary	psbA-trnH	40.5899538822726	-100.059419284467	0
+Melilotus_indicus	MN533101.1	28-OCT-2019	319	USA	secondary	psbA-trnH	40.3576836398987	-100.504737605289	0
+Melilotus_indicus	MN533100.1	28-OCT-2019	319	USA	secondary	psbA-trnH	40.499284962717	-101.039086863592	0

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_cebennensis	KU234875.1	18-JAN-2016	413	Spain	secondary	trnL-trnF	39.883198076681	-4.14473775280324	0
+Odontites_cebennensis	KU234874.1	18-JAN-2016	424	Spain	secondary	trnL-trnF	38.8953880885568	-3.93137321760372	0
+Odontites_cebennensis	KU234873.1	18-JAN-2016	382	France	secondary	trnL-trnF	46.781497276141	1.31304514239155	0
+Odontites_cebennensis	KU234872.1	18-JAN-2016	424	France	secondary	trnL-trnF	47.2256165419735	2.48669907660971	0
+Odontites_cebennensis	KU234839.1	18-JAN-2016	424	Spain	secondary	trnL-trnF	39.4220764468789	-3.76203818508837	0
+Odontites_cebennensis	KU234838.1	18-JAN-2016	424	Spain	secondary	trnL-trnF	39.2930944464111	-5.08529100525379	0
+Odontites_cebennensis	KU234837.1	18-JAN-2016	424	Spain	secondary	trnL-trnF	39.3991093952295	-5.14348506905437	0
+Odontites_cebennensis	KU234836.1	18-JAN-2016	424	Spain	secondary	trnL-trnF	39.1949255651715	-5.78112220639479	0

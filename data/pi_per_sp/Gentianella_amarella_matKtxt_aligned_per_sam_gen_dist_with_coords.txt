@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gentianella_amarella	KX677559.1	09-AUG-2017	790	Canada: British Columbia, Okanagan-Similkameen Regional District, Manning Provincial Park, Cascade Lookout Road & Sub-Alpine Meadow trails	primary	matK	49.104	-120.759	0.00185996474046865
+Gentianella_amarella	KX676803.1	09-AUG-2017	830	Canada: British Columbia, East Kootenay Regional District, East Kootenays, Moscow Road, around km 36-41	primary	matK	50.295	-115.287	0.000557299006796187
+Gentianella_amarella	MG224841.1	21-JAN-2018	651	Canada: Ontario, Cochrane District, Moosonee, Moosonee	primary	matK	51.273	-80.641	0.000681764674003335
+Gentianella_amarella	JN966312.1	27-OCT-2012	667	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, Open stony ground on gravel ridge	primary	matK	58.6146781301793	-94.0213061247721	0.000642535874919683
+Gentianella_amarella	JN966311.1	27-OCT-2012	749	Canada: Manitoba, Churchill, unspecified locality, unspecified locality	primary	matK	58.74	-93.82	0.000583522018041972
+Gentianella_amarella	JN966310.1	27-OCT-2012	626	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, On gravel by trail through White spruce wood	primary	matK	58.8216945727103	-94.5750214692748	0.000691762090986265
+Gentianella_amarella	JN896137.1	07-MAR-2012	828	United Kingdom: Carmarthenshire	primary	matK	51.81	-4.13	0.00142778253190033
+Gentianella_amarella	JN894551.1	07-MAR-2012	782	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00143914026077742

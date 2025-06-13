@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_pulverulentum	HM152942.1	24-AUG-2010	258	Spain: Guadalajara, Alcorlo	secondary	psbA-trnH	41.036875	-3.0232187	0.00856031128404669
+Antirrhinum_pulverulentum	HM152941.1	24-AUG-2010	278	Spain: Teruel, Tramacastilla	secondary	psbA-trnH	40.4305279	-1.5741925	0.00898580746297903
+Antirrhinum_pulverulentum	HM152940.1	24-AUG-2010	278	Spain: Guadalajara, Peralejos de las Truchas	secondary	psbA-trnH	40.5935628	-1.9079385	0.0119810766173054
+Antirrhinum_pulverulentum	HM152939.1	24-AUG-2010	258	Spain: Guadalajara, La Pelegrina	secondary	psbA-trnH	41.0147486	-2.6371913	0.00856031128404669
+Antirrhinum_pulverulentum	HM152938.1	24-AUG-2010	278	Spain: Guadalajara, Duron	secondary	psbA-trnH	40.6256801	-2.726315	0.0130672116003695
+Antirrhinum_pulverulentum	HM152937.1	24-AUG-2010	278	Spain: Cuenca, Hoz de Beteta	secondary	psbA-trnH	40.5574179	-2.1281559	0.00898580746297903

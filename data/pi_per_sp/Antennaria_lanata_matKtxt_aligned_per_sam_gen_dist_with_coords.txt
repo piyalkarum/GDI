@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antennaria_lanata	MK800548.1	04-FEB-2020	702	USA: Idaho, Sawtooth Mountains, Mount Cramer	primary	matK	44.01108	-114.98117	0.19728629412991
+Antennaria_lanata	MK800547.1	04-FEB-2020	702	USA: Idaho, Sawtooth Mountains, Thompson Peak	primary	matK	44.14219	-115.01358	0.19728629412991
+Antennaria_lanata	KX677711.1	09-AUG-2017	780	Canada: British Columbia, Okanagan-Similkameen Regional District, Manning Park, Cascade Lookout Road & Sub-Alpine Meadow trails	primary	matK	49.1036	-120.759	0.196581196581197
+Antennaria_lanata	KX677641.1	09-AUG-2017	772	Canada: British Columbia, Okanagan-Similkameen Regional District, Manning Provincial Park, Sub-Alpine Meadows Loop	primary	matK	49.1027	-120.76	0.197991391678623

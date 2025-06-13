@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_ramosissima	OR685112.1	11-NOV-2023	324	Kazakhstan: Qaragandy region	primary	psbA-trnH	46.77978	74.70621	0.0031760203929178
+Tamarix_ramosissima	OK469404.1	04-JAN-2022	375	USA: Texas, Presidio County	primary	psbA-trnH	29.34562023	-104.08021001	0.0019960614227664
+Tamarix_ramosissima	KT448725.1	06-FEB-2016	371	China: Minqin, Bot Gard, Gansu province	primary	psbA-trnH	38.9154999100753	102.191585202974	0.00195990528082396
+Tamarix_ramosissima	KT377302.1	10-JAN-2016	338	China	primary	psbA-trnH	38.4258359314931	103.573580661434	0.00108225108225108

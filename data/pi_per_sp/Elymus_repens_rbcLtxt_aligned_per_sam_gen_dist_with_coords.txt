@@ -1,0 +1,36 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elymus_repens	MF596758.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, just W of intersection with Hwy. 19 and road from Cumberland that meets Hwy. 19.	primary	rbcL	49.814271177376	-124.769624609123	0.000323521272745719
+Elymus_repens	MF596757.1	28-FEB-2018	603	Canada: British Columbia, Princeton, across from Princeton High School.	primary	rbcL	49.0746181188657	-120.826561373332	0.000323521272745719
+Elymus_repens	MF596756.1	28-FEB-2018	603	Canada: Manitoba	primary	rbcL	49.5115003698972	-97.7319322628347	0.000323521272745719
+Elymus_repens	MG228210.1	23-JAN-2018	551	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0.000286265146388488
+Elymus_repens	MG228109.1	23-JAN-2018	603	Canada: Manitoba	primary	rbcL	49.6323658857424	-98.944422880615	0.000323521272745719
+Elymus_repens	MG228085.1	23-JAN-2018	508	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Halfway Log Dump Parking Lot, BPNP	primary	rbcL	45.227	-81.481	0.000312759797389667
+Elymus_repens	MG228066.1	23-JAN-2018	553	Canada: Ontario, Wellington, Wellington, Guelph	primary	rbcL	43.4050760389313	-79.6957089065478	0.000285702951322931
+Elymus_repens	MG227663.1	23-JAN-2018	552	Canada: Ontario, Kenora District, Dryden	primary	rbcL	49.1802211056354	-92.3214536478783	0.000285702951322931
+Elymus_repens	MG227587.1	23-JAN-2018	552	Canada: Ontario, Thunder Bay District, Falling Snow	primary	rbcL	48.6800998250876	-88.1893057893715	0.000285702951322931
+Elymus_repens	MG227554.1	23-JAN-2018	553	Canada: Ontario, Wellington, Wellington, Arkell Station	primary	rbcL	43.5373	-80.1678	0.000285702951322931
+Elymus_repens	MG227329.1	23-JAN-2018	553	Canada: Ontario, Kenora District, Dryden Township, Dryden, NEBIE Block#3, Basic treatment	primary	rbcL	49.3077303695389	-93.9750599873666	0.000285702951322931
+Elymus_repens	MG227285.1	23-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	primary	rbcL	47.8022471177035	-89.9686052242778	0.000285702951322931
+Elymus_repens	MG227277.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, just W of intersection with Hwy. 19 and road from Cumberland that meets Hwy. 19.	primary	rbcL	50.0976875901833	-125.650954200833	0.000323521272745719
+Elymus_repens	MG226865.1	23-JAN-2018	603	Canada: British Columbia, Princeton, across from Princeton High School.	primary	rbcL	49.3433777837839	-119.466999124888	0.000323521272745719
+Elymus_repens	MG226364.1	23-JAN-2018	553	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	rbcL	51.2732	-80.6421	0.000285702951322931
+Elymus_repens	MG225857.1	23-JAN-2018	553	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	rbcL	43.2565	-79.8675	0.000285702951322931
+Elymus_repens	MG225743.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	rbcL	51.273	-80.641	0.000285702951322931
+Elymus_repens	MG225646.1	23-JAN-2018	553	Canada: Ontario, Wellington County, City of Guelph, University of Guelph Arboretum	primary	rbcL	43.8849360684416	-80.1809340838781	0.000285702951322931
+Elymus_repens	HQ590076.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, Compost area north of Dufferin St. driveway	primary	rbcL	44.031	-79.53	0.000323137947692207
+Elymus_repens	KJ841296.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.00133492231869491
+Elymus_repens	JN890612.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000292012810197002
+Elymus_repens	KJ746316.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.000152996512593565
+Elymus_repens	KJ204333.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000285702951322931
+Elymus_repens	KF713003.1	15-DEC-2013	1096	South Korea: Jecheon-si, Choongcheongbuk-do	secondary	rbcL	37.1326042	128.1913508	0.000628445012465198
+Elymus_repens	KF713001.1	15-DEC-2013	1096	South Korea: Taebaek-si, Gangwon-do	secondary	rbcL	37.1637943	128.9857176	0.000628445012465198
+Elymus_repens	KF713000.1	15-DEC-2013	1096	South Korea: Daecheongdo, Incheon	secondary	rbcL	37.8246278	124.69863991812	0.000682116115943086
+Elymus_repens	KF712999.1	15-DEC-2013	1096	South Korea: Suwon-si, Gyeonggi-do	secondary	rbcL	37.267483	126.934611	0.000682116115943086
+Elymus_repens	HM849973.1	23-JUL-2011	690	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00110538060177803
+Elymus_repens	HQ600453.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.00188441532024885
+Elymus_repens	JN891930.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.7760725399066	-3.0891397954523	0.000292012810197002
+Elymus_repens	JN891929.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	51.6815712253751	-3.24588851395925	0.000292012810197002
+Elymus_repens	JN891139.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.000292012810197002
+Elymus_repens	HE574609.1	31-JUL-2011	563	Finland	secondary	rbcL	63.2467777	25.9209164	0.00572766555606744
+Elymus_repens	KF713005.1	15-DEC-2013	1096	South Korea	secondary	rbcL	33.4930566	126.5130589	0.00296324628828143
+Elymus_repens	KF713004.1	15-DEC-2013	1096	South Korea	secondary	rbcL	37.746	126.488	0.000628445012465198

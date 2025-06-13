@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myricaria_bracteata	OQ617217.1	19-JUL-2023	308	Afghanistan: Parwan	secondary	psbA-trnH	34.9797014	68.9146703	0.00378787878787879
+Myricaria_bracteata	OQ617215.1	19-JUL-2023	311	Georgia: Mtskheta-Mtianeti	secondary	psbA-trnH	42.2290312	44.8569963	0.00487012987012987
+Myricaria_bracteata	OQ617199.1	19-JUL-2023	308	Russia: Altai	secondary	psbA-trnH	51.324742947731	86.684549559166	0.00649350649350649
+Myricaria_bracteata	OQ617198.1	19-JUL-2023	308	Russia: Altai	secondary	psbA-trnH	51.3191545293917	86.2729737438359	0.00378787878787879
+Myricaria_bracteata	OQ617197.1	19-JUL-2023	308	Kazakhstan: Almaty	secondary	psbA-trnH	43.2363924	76.9457275	0.00378787878787879
+Myricaria_bracteata	OQ617196.1	19-JUL-2023	311	Armenia: Stepanavan	secondary	psbA-trnH	40.6275990586093	44.2917617934253	0.00487012987012987
+Myricaria_bracteata	OQ617186.1	19-JUL-2023	311	Armenia: Stepanavan	secondary	psbA-trnH	40.7478919085936	44.4336252114975	0.00487012987012987

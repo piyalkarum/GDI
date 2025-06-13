@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anagallis_arvensis	OQ310238.1	16-MAY-2023	435	Mexico: Puebla	secondary	psbA-trnH	20.0581184005602	-98.4442397680074	0
+Anagallis_arvensis	OQ310237.1	16-MAY-2023	435	Mexico: Puebla	secondary	psbA-trnH	19.6112016977278	-98.3895273115694	0
+Anagallis_arvensis	OQ310208.1	16-MAY-2023	436	Mexico: Puebla	secondary	psbA-trnH	19.3644245246437	-99.1988544023473	0
+Anagallis_arvensis	HE966473.1	18-SEP-2012	367	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0

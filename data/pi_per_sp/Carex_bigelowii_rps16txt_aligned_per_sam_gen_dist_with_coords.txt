@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_bigelowii	LK021828.1	24-SEP-2015	828	Canada:Nunavut, Victoria Island	secondary	rps16	69.1134592	-102.4961246	0.00630517023959647
+Carex_bigelowii	AM085624.1	07-JAN-2006	793	Greenland:Antarctic Havn	secondary	rps16	72.0270178	-23.120491	0.00462379150903741
+Carex_bigelowii	AM085623.1	07-JAN-2006	793	Canada:Mt. Jacques-Cartier	secondary	rps16	48.9887232	-65.9482425	0.00462379150903741
+Carex_bigelowii	AM085622.1	07-JAN-2006	794	Russia:Altai, Zhumaly	secondary	rps16	49.7995174	86.5788193	0.0121899957965532

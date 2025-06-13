@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_fragifera	LT985413.1	14-JUN-2019	297	Kazakhstan	secondary	psbA-trnH	47.8295862284681	65.6899010252335	0
+Gagea_fragifera	LT985412.1	14-JUN-2019	298	Kazakhstan	secondary	psbA-trnH	47.4481597713967	65.9360377534298	0
+Gagea_fragifera	LT985411.1	14-JUN-2019	298	Kazakhstan	secondary	psbA-trnH	47.7134551464835	66.4479759979495	0
+Gagea_fragifera	LT985410.1	14-JUN-2019	288	Kazakhstan	secondary	psbA-trnH	47.8754688561852	66.0502133485941	0
+Gagea_fragifera	LT985409.1	14-JUN-2019	297	Kazakhstan	secondary	psbA-trnH	48.8515483732919	66.6174446785011	0
+Gagea_fragifera	LT985408.1	14-JUN-2019	298	Morocco	secondary	psbA-trnH	28.3347722	-10.3713379	0
+Gagea_fragifera	LT985407.1	14-JUN-2019	298	Italy	secondary	psbA-trnH	42.8468925737276	12.8615765561806	0
+Gagea_fragifera	FN868202.1	10-JAN-2012	298	Italy:Piemonte, Valle di Bellino, Cuneo, sopra Rif. Meleze	secondary	psbA-trnH	42.7740801	12.5487676	0
+Gagea_fragifera	FN868197.1	10-JAN-2012	298	France:Alpes-Maritimes	secondary	psbA-trnH	43.9210587	7.1790785	0
+Gagea_fragifera	FN868198.1	30-NOV-2011	298	China:Xinjiang, Tianchi Lake	secondary	psbA-trnH	44.091712178234	87.7384455901072	0
+Gagea_fragifera	AM282995.1	23-JUN-2006	401	Italy:Sicily	secondary	psbA-trnH	37.587794	14.155048	0
+Gagea_fragifera	AM282994.1	23-JUN-2006	379	Italy	secondary	psbA-trnH	41.8489427774842	13.2338641990994	0
+Gagea_fragifera	AM238531.1	04-APR-2006	395	Switzerland:Canton Graubuenden	secondary	psbA-trnH	47.1209214	9.3105159	0
+Gagea_fragifera	AM238522.1	04-APR-2006	395	Ukraine:Crimea	secondary	psbA-trnH	45.2835044	34.2008188	0
+Gagea_fragifera	AM238521.1	04-APR-2006	395	Kazakhstan	secondary	psbA-trnH	47.7587607873517	67.4263492524332	0
+Gagea_fragifera	FN868196.1	10-JAN-2012	298	Italy:Dolomiti di Brenta, Malga Massodi	secondary	psbA-trnH	45.7680202866847	10.7104063371226	0
+Gagea_fragifera	FN868195.1	10-JAN-2012	298	Italy:Dolomiti di Brenta, Malga Massodi	secondary	psbA-trnH	45.8283493550414	10.239715610237	0
+Gagea_fragifera	FN868200.1	30-NOV-2011	298	China:Xinjiang, Tianchi Lake	secondary	psbA-trnH	43.2931636591649	89.2273407521114	0
+Gagea_fragifera	FN868199.1	30-NOV-2011	298	China:Xinjiang, Tianchi Lake	secondary	psbA-trnH	42.9647699344264	88.4227835980521	0

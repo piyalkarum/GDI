@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_selkirkii	MT937081.1	28-NOV-2020	516	China: Qingcheng, Qingcheng Mountain, Sichuan, China	primary	rbcL	30.55	103.29	0.00115633074935401
+Viola_selkirkii	MG249805.1	21-JAN-2018	553	Canada: Yukon Territory, Beaver River, Devils Club site	primary	rbcL	60.024	-124.657	0.00154881516016721
+Viola_selkirkii	MG248679.1	21-JAN-2018	552	Canada: Yukon Territory, LaBiche, Lower Valley	primary	rbcL	60.121	-124.046	0.00154881516016721
+Viola_selkirkii	MG246958.1	21-JAN-2018	552	Canada: Northwest Territories, Nahanni National Park, Bluebell Hot Springs	primary	rbcL	61.082	-127.016	0.00277760967763716
+Viola_selkirkii	MG246058.1	21-JAN-2018	552	Canada: Yukon Territory, La Biche River	primary	rbcL	60.15	-124.06	0.00154881516016721
+Viola_selkirkii	KJ841665.1	04-NOV-2014	401	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, Within 1 metre north of Purple Trail, between Yellow and Green Trails	primary	rbcL	45.55	-73.163	0.00706774729842061
+Viola_selkirkii	LC626424.1	15-OCT-2021	553	Japan:Hokkaido, Shimamakimura	secondary	rbcL	42.7009654	140.0616404	0.00154881516016721

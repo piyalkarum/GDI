@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asparagus_officinalis	XR_002247971.1	01-MAR-2017	2208	Netherlands	secondary	nad1	52.2162378244249	5.17470130618441	0.0499588402474098
+Asparagus_officinalis	XR_002247970.1	01-MAR-2017	2218	Netherlands	secondary	nad1	51.6469669392519	6.04265694812838	0.0493642436595433
+Asparagus_officinalis	XR_002247969.1	01-MAR-2017	2417	Netherlands	secondary	nad1	52.6358659362605	6.09393594053236	0.0512830189022071
+Asparagus_officinalis	XM_020413255.1	01-MAR-2017	2198	Netherlands	secondary	nad1	52.6554511759296	5.09423415550549	0.048040065004746

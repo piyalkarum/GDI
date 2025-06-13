@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chrysosplenium_alternifolium	MK924693.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Chrysosplenium_alternifolium	JN892258.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0
+Chrysosplenium_alternifolium	JN892257.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0
+Chrysosplenium_alternifolium	JN890842.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9875065	-1.1773256	0

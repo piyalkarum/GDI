@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sparganium_erectum	LC576682.1	03-MAR-2021	837	Japan:Aichi, Nagoya	secondary	matK	35.1851045	136.8998438	0.000900971553738211
+Sparganium_erectum	LC004523.1	04-DEC-2015	713	Russia	secondary	matK	64.6863136	97.7453061	0.000935016362786349
+Sparganium_erectum	JN895791.1	07-MAR-2012	821	United Kingdom: Glamorgan	secondary	matK	51.9181108095281	-2.6895001534921	0.000884523363323837
+Sparganium_erectum	JN893915.1	07-MAR-2012	759	United Kingdom: Glamorgan	secondary	matK	50.755706497759	-3.33941844470364	0.000918568172371975

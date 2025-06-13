@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Onobrychis_viciifolia	KX677671.1	09-AUG-2017	797	Canada: British Columbia, East Kootenay Regional District, Wasa	primary	matK	49.783	-115.733	0.00216026707216495
+Onobrychis_viciifolia	MT918200.1	03-MAR-2023	776	China	secondary	matK	34.4928016805356	104.759407126124	0.00217453558444146
+Onobrychis_viciifolia	MT918198.1	03-MAR-2023	756	China	secondary	matK	35.8931832347574	104.903173777869	0.00222567287784679
+Onobrychis_viciifolia	MK926056.1	14-JAN-2020	904	United Kingdom	secondary	matK	54.4213973345083	-2.45135702537037	0.0052545777915153
+Onobrychis_viciifolia	MK925959.1	14-JAN-2020	856	United Kingdom	secondary	matK	54.6631243267868	-4.54008173060206	0.00641319697976395
+Onobrychis_viciifolia	KJ746134.1	29-JUL-2014	690	Poland	secondary	matK	52.215933	19.134422	0.00314009661835749
+Onobrychis_viciifolia	JQ669629.1	01-JUN-2012	1512	Germany: Bayern	secondary	matK	48.9467562	11.4038717	0.00195252926978465

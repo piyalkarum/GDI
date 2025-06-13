@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_macrophylla	GQ901421.1	03-NOV-2009	1499	Spain: Cadiz, Tarifa, Punta Camarinal	secondary	trnK	36.085665	-5.7974795	0.00333555703802535
+Armeria_macrophylla	GQ901420.1	03-NOV-2009	1499	Spain: Cadiz, Canos de Meca	secondary	trnK	36.2018048	-6.0368193	0.00333555703802535
+Armeria_macrophylla	GQ901419.1	03-NOV-2009	1499	Spain: Cadiz, Conil de la Frontera	secondary	trnK	36.7156600926534	-6.56008546256777	0.00333555703802535
+Armeria_macrophylla	GQ901418.1	03-NOV-2009	1499	Spain: Cadiz, Conil de la Frontera	secondary	trnK	35.5635504371763	-6.52785846434624	0.00378029797642873

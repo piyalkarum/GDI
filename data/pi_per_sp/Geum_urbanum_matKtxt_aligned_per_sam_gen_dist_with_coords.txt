@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geum_urbanum	MG220702.1	21-JAN-2018	787	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Trail beside Auxiliary Plot Garden	primary	matK	43.293	-79.873	0
+Geum_urbanum	KJ204486.1	29-JAN-2015	621	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0
+Geum_urbanum	JN894345.1	07-MAR-2012	761	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0
+Geum_urbanum	JN894110.1	07-MAR-2012	780	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0

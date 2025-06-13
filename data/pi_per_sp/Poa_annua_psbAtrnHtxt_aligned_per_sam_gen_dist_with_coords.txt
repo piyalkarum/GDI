@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_annua	OQ310167.1	16-MAY-2023	627	Mexico: Puebla	secondary	psbA-trnH	19.1710098	-98.4125121	0.0104651162790698
+Poa_annua	KJ529164.1	22-FEB-2015	532	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0.0102161100196464
+Poa_annua	FJ493300.1	22-DEC-2008	664	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.01015625
+Poa_annua	KP711209.1	31-MAR-2016	486	China	secondary	psbA-trnH	35.000074	104.999927	0.00926315789473684
+Poa_annua	KF954534.1	31-DEC-2015	523	South Korea: Dokdo	secondary	psbA-trnH	37.2421201	131.8647159	0.0505657504725227
+Poa_annua	HE966744.1	18-SEP-2012	625	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0104651162790698

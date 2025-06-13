@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_magellanica	MG217050.1	24-JAN-2018	731	USA: North Dakota	primary	matK	48.999	-100.426	0.00344863162882406
+Carex_magellanica	JN966200.1	27-OCT-2012	759	Canada: Manitoba, Churchill, 24 km E Churchill, Gordon Point, Tundra between Gordon Point and Polar Bear Point	primary	matK	58.787	-93.72	0.00337293262967297
+Carex_magellanica	JN896255.1	07-MAR-2012	806	United Kingdom: Cardiganshire	primary	matK	52.31	-3.75	0.00247968343278669
+Carex_magellanica	MN763818.1	28-JUL-2020	537	France: Haute-Savoie	secondary	matK	46.0688208	6.344537	0.0037243947858473
+Carex_magellanica	KU496579.1	31-JAN-2017	813	Finland: Lappland	secondary	matK	67.6923521	26.7299683	0.00247968343278669

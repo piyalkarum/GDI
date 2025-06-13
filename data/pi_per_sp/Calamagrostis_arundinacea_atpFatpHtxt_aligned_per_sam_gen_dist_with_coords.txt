@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_arundinacea	KX871969.1	16-OCT-2017	654	China: Bejing, Xiangshan (Fragrant Hills), W of Beijing ca. 20 km. Chinese Academy of Sciences Institute of Botany, parks at the base of the hills, and slopes above them	primary	atpF-atpH	39.9167	115.0833	0.000554064020702138
+Calamagrostis_arundinacea	KX871968.1	16-OCT-2017	654	Sweden: Stockholm Co., NE of Stockholm, Norrtaelje kommun, 25 km NW of Rimbo, N of lake Skedviken, W of Raanaes, W of Mjoelsta	primary	atpF-atpH	59.8139	18.2514	0.000766094252332784
+Calamagrostis_arundinacea	KX871967.1	16-OCT-2017	443	Czech Republic: Zd'arske vrchy, about 6 km N of Zdar nad Sazavou, W of Svetnov	primary	atpF-atpH	49.6156	15.9356	0
+Calamagrostis_arundinacea	KX871966.1	16-OCT-2017	439	Poland: Slaskie Voivodeship, Beskid Slaski, Bielsko Biala commun, S of Bielsko-Biala, Klimczok Mt. Range	primary	atpF-atpH	49.7469	18.9936	0
+Calamagrostis_arundinacea	KX871965.1	16-OCT-2017	557	Poland: Malopolskie Voivodeship, Zawoja kommun, Zawoja village, Zawoja-Markowa, Babia Gora Mt.	primary	atpF-atpH	49.5892	19.5247	0.000897666068222621
+Calamagrostis_arundinacea	KX871964.1	16-OCT-2017	654	Canada: British Columbia (cultivated), Vancouver, University of British Columbia Botanical Garden, west side of campus	primary	atpF-atpH	49.255	-123.2514	0.000554064020702138
+Calamagrostis_arundinacea	HQ599940.1	01-AUG-2012	660	South Korea	secondary	atpF-atpH	36.638392	127.6961188	0.00055563227915113

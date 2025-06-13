@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_alpina	MK926247.1	14-JAN-2020	802	Iceland	secondary	matK	64.9841821	-18.1059013	0
+Veronica_alpina	MK926224.1	14-JAN-2020	816	United Kingdom	secondary	matK	55.2754961071793	-3.03165605342497	0
+Veronica_alpina	MK926092.1	14-JAN-2020	787	United Kingdom	secondary	matK	54.7540569212297	-2.72327238482865	0
+Veronica_alpina	MK925862.1	14-JAN-2020	780	United Kingdom	secondary	matK	55.2919545159223	-3.35028305698377	0

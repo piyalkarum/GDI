@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurium_pulchellum	MG221328.1	26-DEC-2017	552	Canada: Ontario, Middlesex County, Southwest Middlesex Township (was Mosa Twp.), Sassafrass Road, Between Concession Drive and Centreville Drive	primary	rbcL	42.665	-81.824	0.0195995331982065
+Centaurium_pulchellum	JN892805.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.68	-4.23	0.0196308054085832
+Centaurium_pulchellum	KX709601.1	20-AUG-2017	486	Egypt	secondary	rbcL	26.2540493	29.2675469	0.091358024691358
+Centaurium_pulchellum	HM849876.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0249940070371248
+Centaurium_pulchellum	JN891524.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0.0196308054085832
+Centaurium_pulchellum	JN890923.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.0196308054085832

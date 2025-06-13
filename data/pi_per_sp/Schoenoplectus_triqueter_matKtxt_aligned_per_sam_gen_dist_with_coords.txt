@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Schoenoplectus_triqueter	LC219228.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.4311	120.0503	0
+Schoenoplectus_triqueter	LC219196.1	16-MAR-2017	786	China:Zhejiang, East Tiaoxi River	primary	matK	30.596	120.0595	0
+Schoenoplectus_triqueter	LC655263.1	20-APR-2022	837	Japan:Aichi, Nissin	secondary	matK	35.1447924	137.0254267	0
+Schoenoplectus_triqueter	MN492686.1	30-NOV-2021	798	China	secondary	matK	35.000074	104.999927	0
+Schoenoplectus_triqueter	MK926068.1	14-JAN-2020	766	United Kingdom	secondary	matK	54.8622040813322	-2.4722166514734	0
+Schoenoplectus_triqueter	MK926043.1	14-JAN-2020	770	United Kingdom	secondary	matK	54.1580479520727	-3.98473858435434	0

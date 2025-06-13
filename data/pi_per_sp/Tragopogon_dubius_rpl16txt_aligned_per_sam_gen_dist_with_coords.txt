@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_dubius	FN687177.1	05-DEC-2010	1011	Spain:Granada, La Cortichuela	secondary	rpl16	37.1734995	-3.5995337	0.00310180569402902
+Tragopogon_dubius	FN687176.1	05-DEC-2010	1033	Spain:Soria, El Burgo de Osma	secondary	rpl16	41.5868712	-3.0674254	0.000440316024176687
+Tragopogon_dubius	FN687175.1	05-DEC-2010	1029	Spain:Burgos, Aranda de Duero	secondary	rpl16	41.6715067	-3.6851172	0.000440316024176687
+Tragopogon_dubius	FN687174.1	05-DEC-2010	1029	Spain:Toledo, Villatobas	secondary	rpl16	39.9028764	-3.3218301	0.000440316024176687
+Tragopogon_dubius	FN687173.1	05-DEC-2010	1029	Spain:Madrid, Somosierra	secondary	rpl16	40.3784962	-3.6219066	0.000440316024176687
+Tragopogon_dubius	FN687172.1	05-DEC-2010	1029	Spain:Jaen, El Oasis	secondary	rpl16	37.677975	-3.6262157	0.00130695269767848
+Tragopogon_dubius	FN687171.1	05-DEC-2010	1029	Spain:Burgos, Aldealengua	secondary	rpl16	42.343926	-3.696977	0.000440316024176687
+Tragopogon_dubius	FN687170.1	05-DEC-2010	1029	Spain:Guadalajara, Atienza	secondary	rpl16	41.1991811	-2.8702238	0.000440316024176687
+Tragopogon_dubius	FN687169.1	05-DEC-2010	1029	Spain:Granada, Iznalloz	secondary	rpl16	37.3928352	-3.5276704	0.000440316024176687
+Tragopogon_dubius	FN687168.1	05-DEC-2010	1029	Spain:Jaen, Cazorla	secondary	rpl16	37.9128927	-3.0038873	0.000440316024176687

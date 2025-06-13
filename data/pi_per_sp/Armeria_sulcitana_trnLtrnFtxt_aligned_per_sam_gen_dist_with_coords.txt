@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_sulcitana	LC757375.1	24-AUG-2023	311	Italy:Monte Santo	primary	trnL-trnF	39.3623357113285	8.26454704918326	0.00707395498392283
+Armeria_sulcitana	LC757374.1	24-AUG-2023	311	Italy:Monte Santo	primary	trnL-trnF	38.4107974070944	9.09730576340735	0.00707395498392283
+Armeria_sulcitana	LC757373.1	24-AUG-2023	311	Italy:Monte Santo	primary	trnL-trnF	39.5405515875788	9.69314522267415	0.00707395498392283
+Armeria_sulcitana	LC757372.1	24-AUG-2023	311	Italy:Genn'e Spina	primary	trnL-trnF	39.1971617360477	9.32877350811884	0.00707395498392283
+Armeria_sulcitana	LC757371.1	24-AUG-2023	311	Italy:Genn'e Spina	primary	trnL-trnF	39.0600061025552	9.52056471280848	0.0122186495176849
+Armeria_sulcitana	LC757370.1	24-AUG-2023	311	Italy:Genn'e Spina	primary	trnL-trnF	39.6447816152896	8.3551406726597	0.00707395498392283

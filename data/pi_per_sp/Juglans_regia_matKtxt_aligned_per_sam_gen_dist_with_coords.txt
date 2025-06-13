@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juglans_regia	MF694860.1	16-SEP-2018	812	Pakistan: Baluchistan	primary	matK	30.166	66.991	0.0208333333333333
+Juglans_regia	XM_035687220.1	29-JUL-2020	2133	USA: California, Davis	secondary	matK	38.5435526	-121.739005	0.0790515167517456
+Juglans_regia	MK244352.1	24-JUN-2019	875	Pakistan	secondary	matK	30.3308401	71.247499	0.0179347826086957
+Juglans_regia	HE966942.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0192307692307692
+Juglans_regia	KP089109.1	15-MAR-2015	745	China	secondary	matK	39.9057136	116.3912972	0.0210526315789474

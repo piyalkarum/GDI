@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_acanthoclada	AJ971538.1	24-MAR-2006	219	Greece:Crete, Hania, Akrotiri	secondary	ITS	34.890380369656	24.278795868637	0.408710217755444
+Genista_acanthoclada	AJ971537.1	24-MAR-2006	239	Greece:Crete, Hania, Akrotiri	secondary	ITS	34.8762583892984	24.0214365689379	0.408710217755444
+Genista_acanthoclada	AJ698975.1	30-APR-2005	219	Greece:Argolide, Tolon	secondary	ITS	37.3609744074458	22.3796368240812	0.408710217755444
+Genista_acanthoclada	AJ698974.1	30-APR-2005	239	Greece:Argolide, Tolon	secondary	ITS	37.2548031755176	22.3271745947428	0.408710217755444

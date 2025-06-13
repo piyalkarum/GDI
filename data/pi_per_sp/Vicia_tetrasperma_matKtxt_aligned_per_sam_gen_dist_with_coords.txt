@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_tetrasperma	MW372993.1	01-MAY-2022	705	South Korea	primary	matK	35.83	127.08	0.014290529573687
+Vicia_tetrasperma	MW372992.1	01-MAY-2022	705	South Korea	primary	matK	37.58	128.94	0.0119941114837881
+Vicia_tetrasperma	KP642960.1	08-DEC-2015	730	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.3701842785395	-78.2927004594678	0.0348703375079819
+Vicia_tetrasperma	KP642932.1	08-DEC-2015	751	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.9422549968201	-79.1006271829411	0.0329027336281761
+Vicia_tetrasperma	HQ593496.1	09-NOV-2011	780	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., N-most trail, 100 m W of creek and 20 m S of fence line, N of hill	primary	matK	44.038	-79.524	0.0128100273956777
+Vicia_tetrasperma	JN894335.1	07-MAR-2012	643	United Kingdom: Monmouthshire	primary	matK	51.56	-3.04	0.0134643018479292
+Vicia_tetrasperma	MH551933.1	11-MAR-2019	738	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.6814498	-81.9683386867758	0.0309007724982948
+Vicia_tetrasperma	MN317491.1	30-SEP-2021	791	China	secondary	matK	35.6215087170704	104.829694644119	0.013393591933977
+Vicia_tetrasperma	MN317490.1	30-SEP-2021	789	China	secondary	matK	35.0146581777893	105.531141975316	0.0128880949218704
+Vicia_tetrasperma	KP897072.1	13-OCT-2015	686	South Korea	secondary	matK	36.4526125458725	127.003201755384	0.0366635373382974
+Vicia_tetrasperma	KP897071.1	13-OCT-2015	686	South Korea	secondary	matK	36.2823025306019	128.676967076907	0.0257342591874676
+Vicia_tetrasperma	KP897070.1	13-OCT-2015	686	South Korea	secondary	matK	36.0586098130662	128.50462243941	0.027229714791161
+Vicia_tetrasperma	KP897068.1	13-OCT-2015	686	South Korea	secondary	matK	37.2870613706163	128.337862005263	0.0114743439545524
+Vicia_tetrasperma	KJ204558.1	29-JAN-2015	793	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0141968972511494
+Vicia_tetrasperma	HM851171.1	23-JUL-2011	527	Portugal	secondary	matK	39.6621648	-8.1353519	0.0213484433943298
+Vicia_tetrasperma	JX505910.1	09-JAN-2013	1123	Hungary	secondary	matK	41.9767629	-72.7789842	0.0136288146781774
+Vicia_tetrasperma	JX505909.1	09-JAN-2013	1521	USA	secondary	matK	39.7837304	-100.445882	0.0129340609291841

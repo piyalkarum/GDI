@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubus_scissoides	KM036781.1	28-SEP-2014	993	Belgium: Walloon Region, near Spa	secondary	matK	50.1545331	5.39935452432352	0
+Rubus_scissoides	KM036779.1	28-SEP-2014	993	Czech Republic: S Bohemia, near esk Bud jovice	secondary	matK	51.5470470097898	15.1478622643518	0
+Rubus_scissoides	KM036778.1	28-SEP-2014	993	Czech Republic: S Bohemia, Novohradsk hory	secondary	matK	51.1791990649004	15.8455265453245	0
+Rubus_scissoides	KM036696.1	28-SEP-2014	993	Czech Republic: S Bohemia, Novohradsk hory	secondary	matK	51.2352351268211	15.7099357221051	0

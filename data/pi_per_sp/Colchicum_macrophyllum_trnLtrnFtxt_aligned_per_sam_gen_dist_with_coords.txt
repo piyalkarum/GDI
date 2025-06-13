@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colchicum_macrophyllum	KT897864.1	01-NOV-2017	1061	Turkey	secondary	trnL-trnF	39.1088941874943	35.7590208937846	0.0155757041281047
+Colchicum_macrophyllum	KT897863.1	01-NOV-2017	1061	Turkey	secondary	trnL-trnF	38.5070279986109	34.6426873608566	0.0151572035444854
+Colchicum_macrophyllum	KT897861.1	01-NOV-2017	1082	Turkey	secondary	trnL-trnF	38.3341398883727	35.6388874542739	0.0168701014129502
+Colchicum_macrophyllum	JX012305.1	14-JUL-2012	1028	Turkey	secondary	trnL-trnF	39.6289610663327	34.3849561099482	0.0168782030683588
+Colchicum_macrophyllum	JF934505.1	17-OCT-2011	405	Turkey	secondary	trnL-trnF	38.7604630860131	34.0589039740621	0.0592477204766745
+Colchicum_macrophyllum	JF934504.1	17-OCT-2011	380	Greece	secondary	trnL-trnF	43.2097838	-77.6930602	0.018981324278438

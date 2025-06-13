@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_arvensis	MG223982.1	26-DEC-2017	552	Canada: Yukon Territory, La Biche River, east of river, pipeline right-of-way	primary	rbcL	60.145	-124.042	0.00061778520271107
+Mentha_arvensis	MG222963.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	47.578	-101.195	0.00061778520271107
+Mentha_arvensis	MG222778.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	48.326	-100.765	0.00061778520271107
+Mentha_arvensis	MG222509.1	26-DEC-2017	552	Canada: Ontario, Algoma District, Michipicoten Twp., Michipicoten Bay	primary	rbcL	47.93	-84.843	0.00061778520271107
+Mentha_arvensis	MG222273.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island bog, FFNMP	primary	rbcL	45.266	-81.7	0.00061778520271107
+Mentha_arvensis	KX356048.1	15-NOV-2016	217	India	primary	rbcL	27.4786070121928	81.0278682286305	NA
+Mentha_arvensis	KX356047.1	15-NOV-2016	217	India	primary	rbcL	26.693682076777	80.3806803381201	NA
+Mentha_arvensis	KX356046.1	15-NOV-2016	217	India	primary	rbcL	27.5276142671346	80.7768770322757	NA
+Mentha_arvensis	KX356045.1	15-NOV-2016	217	India	primary	rbcL	26.2696147975316	80.6201579902357	NA
+Mentha_arvensis	KX356044.1	15-NOV-2016	217	India	primary	rbcL	27.4077336527898	81.3867754416337	NA
+Mentha_arvensis	HQ590183.1	09-NOV-2011	587	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., S end of pond, 10 m N of forest edge in water-saturated soil	primary	rbcL	44.035	-79.518	0.000589713495093889
+Mentha_arvensis	KJ841415.1	04-NOV-2014	462	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. On side of Lac Hertel, between North and West Creeks	primary	rbcL	45.546	-73.155	0.000695642509375381
+Mentha_arvensis	JN893654.1	07-MAR-2012	458	United Kingdom: Glamorgan	primary	rbcL	51.58	-3.14	0.00103726719223173
+Mentha_arvensis	ON947747.1	20-MAR-2023	481	Pakistan	secondary	rbcL	31.0574964370589	70.7799875446935	0.00100377153854652
+Mentha_arvensis	MN401228.1	05-MAY-2020	870	Indonesia	secondary	rbcL	-2.4833826	117.8902853	NA
+Mentha_arvensis	KP172047.1	04-FEB-2015	576	Pakistan	secondary	rbcL	30.0595519666824	71.5695629740007	0.000917780205116622

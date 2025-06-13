@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_purpureum	OR465017.1	26-SEP-2023	290	USA: Wood Hall Greenhouse Courtyard, Kalamazoo, MI	primary	psbA-trnH	42.28211949	-85.61620731	0
+Lamium_purpureum	JX074037.1	18-OCT-2013	287	Poland	secondary	psbA-trnH	52.3480154818316	19.026607440633	0
+Lamium_purpureum	JX074036.1	18-OCT-2013	287	Poland	secondary	psbA-trnH	52.79098544333	19.2213221998623	0
+Lamium_purpureum	JX074035.1	18-OCT-2013	287	Poland	secondary	psbA-trnH	52.9400833889465	19.9385574362866	0
+Lamium_purpureum	FJ493284.1	22-DEC-2008	353	Italy	secondary	psbA-trnH	42.6384261	12.674297	0

@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eutrema_edwardsii	MG249785.1	21-JAN-2018	552	Canada: Yukon Territory, Dempster Highway, km 92 microwave tower	primary	rbcL	64.695	-138.449	0.00301932367149758
+Eutrema_edwardsii	MG249178.1	21-JAN-2018	552	Canada: Yukon Territory, Kotaneelee Range	primary	rbcL	60.242	-124.122	0.00301932367149758
+Eutrema_edwardsii	MG248124.1	21-JAN-2018	552	Canada: Northwest Territories, Cape Bathurst, camp	primary	rbcL	70.513	-128.024	0.00181159420289855
+Eutrema_edwardsii	KC482860.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Area S of camp, 9-10 km north of Coronation Gulf coast, 12-13 km north of point	primary	rbcL	68.647	-112.661	0.00181159420289855
+Eutrema_edwardsii	KC482859.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Sanikiluaq, at picnic hill, beside large antenna (Big Pole)	primary	rbcL	56.65	-79.256	0.00181159420289855
+Eutrema_edwardsii	KC482858.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit	primary	rbcL	63.733	-68.55	0.00181159420289855
+Eutrema_edwardsii	KC482857.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of small round lake NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.267	-116.492	0.00181159420289855
+Eutrema_edwardsii	KC482856.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Hornaday River, ~1 km downstream of valley leading to Castle Butte	primary	rbcL	68.206	-121.844	0.00181159420289855
+Eutrema_edwardsii	KC482855.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Masik River, Masik River Valley, flat valley bottom, ~100 m from river	primary	rbcL	71.6186	-123.102	0.00181159420289855
+Eutrema_edwardsii	MT930818.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.0130837359098229

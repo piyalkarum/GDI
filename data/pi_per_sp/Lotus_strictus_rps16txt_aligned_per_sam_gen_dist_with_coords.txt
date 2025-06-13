@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_strictus	MW498383.1	16-FEB-2021	867	Bulgaria: Dolno Ezerovo, lake Burgas	secondary	rps16	42.5170228	27.3721845	0.00347356336637913
+Lotus_strictus	MW498378.1	16-FEB-2021	873	Russia: Altai Krai, Klyuchi	secondary	rps16	52.2530605	79.1678164	0.00899687806333376
+Lotus_strictus	MW498376.1	16-FEB-2021	869	Russia: Altai Krai, Malinovoye ozero	secondary	rps16	51.6750747	79.7750118	0.00990129228391399
+Lotus_strictus	MW498373.1	16-FEB-2021	864	Turkey: Konya, Aslim Batakligi	secondary	rps16	37.872734	32.4924376	0.00347356336637913
+Lotus_strictus	MW498372.1	16-FEB-2021	864	Turkey: Aksaray, Sultanhani, Esmekaya	secondary	rps16	38.2772169	33.4525001	0.00347356336637913
+Lotus_strictus	KT262924.1	27-FEB-2017	873	Kazakhstan	secondary	rps16	48.1012954	66.7780818	0.00899687806333376
+Lotus_strictus	MW498381.1	16-FEB-2021	867	Bulgaria	secondary	rps16	41.4101070874778	26.0840195738154	0.00347356336637913
+Lotus_strictus	MW498380.1	16-FEB-2021	867	Bulgaria	secondary	rps16	42.907282293329	26.2686048441647	0.00347356336637913
+Lotus_strictus	MW498374.1	16-FEB-2021	864	Turkey	secondary	rps16	38.9444238	31.9175002940413	0.00347356336637913
+Lotus_strictus	MW498371.1	16-FEB-2021	864	Turkey	secondary	rps16	38.8594356	33.2915362326044	0.00347356336637913

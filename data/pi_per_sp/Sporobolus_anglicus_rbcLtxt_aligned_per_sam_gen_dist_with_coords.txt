@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sporobolus_anglicus	MG227990.1	23-JAN-2018	552	Canada: British Columbia, Lower Fraser Valley, Greater Vancouver Regional District, Delta, Boundary Bay, 50m E of Beach Grove dike, 10u 496399 5431973	primary	rbcL	49.033	-123.05	0.000184842883548983
+Sporobolus_anglicus	MG225955.1	23-JAN-2018	552	Canada: British Columbia, Greater Vancouver Regional District, Delta, Boundary Bay Regional Park, off 12th Avenue	primary	rbcL	49	-123.033	0.000184842883548983
+Sporobolus_anglicus	MG225569.1	23-JAN-2018	552	Canada: British Columbia, Greater Vancouver Regional District, Roberts Bank Causeway, south shore.	primary	rbcL	49.083	-123.183	0.000184842883548983
+Sporobolus_anglicus	JN891614.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.62	-4.21	0.00018450184501845
+Sporobolus_anglicus	MW868177.1	03-JAN-2022	663	South Korea	secondary	rbcL	35.9755879046188	127.967976925736	0.000223214285714286
+Sporobolus_anglicus	MW868176.1	03-JAN-2022	663	South Korea	secondary	rbcL	36.6352099774296	128.715637437675	0.000223214285714286
+Sporobolus_anglicus	MW868175.1	03-JAN-2022	663	South Korea	secondary	rbcL	36.3406254406	127.438702706037	0.000223214285714286
+Sporobolus_anglicus	MW868174.1	03-JAN-2022	663	South Korea	secondary	rbcL	36.4883272477713	126.821374634294	0.000223214285714286
+Sporobolus_anglicus	JN892835.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00018450184501845
+Sporobolus_anglicus	JN892833.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.00200089132855944
+Sporobolus_anglicus	JN892757.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00018450184501845

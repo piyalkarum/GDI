@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_saxatilis	FJ548136.1	25-AUG-2009	733	Canada: Nunavut, SW Baffin Island, Dorset Island, S shore of Dorset Island	primary	matK	64.2	-76.53	0
+Carex_saxatilis	FJ548135.1	25-AUG-2009	733	Canada: Northwest Territories, Banks Island, NE part, Parker River Valley, N side c. 7 km from sea	primary	matK	73.62	-115.85	0
+Carex_saxatilis	FJ548134.1	25-AUG-2009	731	Canada: Nunavut, Victoria Island, Cambridge Bay, 0.5 mi W	primary	matK	69.12	-105.05	0
+Carex_saxatilis	KC474388.1	25-OCT-2013	777	Canada: Nunavut, Hudsons Bay, Belcher Islands, Tukarak Island, slightly east facing slope below large rock hills, 50 m from shore	primary	matK	56.386	-78.872	0
+Carex_saxatilis	KC474387.1	25-OCT-2013	742	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq. Plot 4. Along northern shore of lake, to east of school and to west of N-S road	primary	matK	56.594	-79.225	0
+Carex_saxatilis	KC474386.1	25-OCT-2013	776	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.644	-115.493	0
+Carex_saxatilis	JN966206.1	27-OCT-2012	731	Canada: Manitoba	primary	matK	58.383	-93.225	0
+Carex_saxatilis	MK926160.1	14-JAN-2020	770	United Kingdom	secondary	matK	54.9569244371719	-2.38730808955999	0
+Carex_saxatilis	MK925792.1	14-JAN-2020	826	United Kingdom	secondary	matK	55.0294091534571	-4.60500533629536	0
+Carex_saxatilis	MK925787.1	14-JAN-2020	798	United Kingdom	secondary	matK	54.467799938937	-3.09019272178615	0
+Carex_saxatilis	MK925775.1	14-JAN-2020	840	United Kingdom	secondary	matK	54.4746462501577	-4.35516099160311	0
+Carex_saxatilis	KU496586.1	31-JAN-2017	813	Canada: Quebec, Schefferville region	secondary	matK	46.8137431	-71.2084061	0
+Carex_saxatilis	HG915879.1	07-MAR-2016	2505	Russia:Murmansk distr.	secondary	matK	69.4406247	30.8539106	3.07078151389529e-05
+Carex_saxatilis	HG915878.1	07-MAR-2016	2505	Russia:Magadan distr.	secondary	matK	59.7190037	150.8696485	3.07078151389529e-05

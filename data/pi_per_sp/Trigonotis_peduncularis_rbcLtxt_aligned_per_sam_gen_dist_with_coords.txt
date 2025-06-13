@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trigonotis_peduncularis	MF521307.1	02-AUG-2017	511	China: Beijing, school yard	primary	rbcL	39.9284	116.416	0.00352250489236791
+Trigonotis_peduncularis	AB744074.1	28-AUG-2012	763	Japan:Shiga, Nagahama	primary	rbcL	35.36	136.28	0.0049185350229773
+Trigonotis_peduncularis	MT930686.1	03-MAR-2023	580	China	secondary	rbcL	34.7630977606024	105.96729109632	0.0072665905561517
+Trigonotis_peduncularis	MN204789.1	30-NOV-2021	721	China	secondary	rbcL	35.3964324736622	104.725055203747	0.00647673958618545
+Trigonotis_peduncularis	MN185097.1	27-APR-2021	722	China	secondary	rbcL	35.1627193559428	104.715742582999	0.00612712068877431
+Trigonotis_peduncularis	MH215243.1	22-JAN-2019	553	China	secondary	rbcL	35.0053711811257	104.976814737509	0.00325497287522604

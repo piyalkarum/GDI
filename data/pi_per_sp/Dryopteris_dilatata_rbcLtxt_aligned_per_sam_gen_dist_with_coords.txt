@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dryopteris_dilatata	JQ947927.1	24-JUN-2012	801	Italy	secondary	rbcL	42.3694157079777	13.4744191648846	0.0154147732335383
+Dryopteris_dilatata	JQ947918.1	24-JUN-2012	783	Germany	secondary	rbcL	35.5422606648566	-83.1210537991218	0.0178978978978979
+Dryopteris_dilatata	JQ935276.1	28-MAY-2012	1323	Germany	secondary	rbcL	35.1980745757278	-82.651870846643	0.016551724137931
+Dryopteris_dilatata	JQ935269.1	28-MAY-2012	1334	Italy	secondary	rbcL	42.4459918590015	12.0057112551833	0.0167609469935051

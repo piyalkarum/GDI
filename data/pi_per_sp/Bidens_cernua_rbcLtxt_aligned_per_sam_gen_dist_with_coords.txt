@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bidens_cernua	MG224694.1	26-DEC-2017	552	Canada: Yukon Territory, Nogold Creek, Horseshoe Slough	primary	rbcL	63.433	-135.1	0
+Bidens_cernua	MG223176.1	26-DEC-2017	552	Canada: Yukon Territory, Beaver River Hotsprings	primary	rbcL	60.381	-125.576	0
+Bidens_cernua	MG223033.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island bog, FFNMP	primary	rbcL	45.266	-81.7	0
+Bidens_cernua	MG222483.1	26-DEC-2017	552	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #6 trail	primary	rbcL	43.097	-79.281	0
+Bidens_cernua	MG222271.1	26-DEC-2017	552	Canada: British Columbia, Ladysmith Bog Ecological Reserve, Yellow Point, 3.2 km NW of	primary	rbcL	49.033	-123.75	0
+Bidens_cernua	HQ589973.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., N edge of pond	primary	rbcL	44.035	-79.518	0
+Bidens_cernua	KJ593249.1	17-MAR-2015	534	USA: Wisconsin, Hiles	primary	rbcL	45.71	-88.975	0
+Bidens_cernua	KJ593248.1	17-MAR-2015	512	USA: Wisconsin, Oconto	primary	rbcL	44.858	-87.855	0
+Bidens_cernua	KJ593247.1	17-MAR-2015	534	USA: Wisconsin, Silvercliff	primary	rbcL	45.512	-88.409	0
+Bidens_cernua	KJ841133.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. On side of Lac Hertel, between North and West Creeks	primary	rbcL	45.546	-73.155	0
+Bidens_cernua	KJ841132.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, north side of Botany Bay	primary	rbcL	45.545	-73.1462	0
+Bidens_cernua	JN892712.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.48	-3.28	0
+Bidens_cernua	JN892208.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Bidens_cernua	JN890577.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

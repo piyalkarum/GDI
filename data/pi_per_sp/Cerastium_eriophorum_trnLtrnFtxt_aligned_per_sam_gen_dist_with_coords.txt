@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_eriophorum	MH488013.1	20-JAN-2022	2115	Slovakia	secondary	trnL-trnF	48.7411522	19.4528646	0.0026079520107043
+Cerastium_eriophorum	MH488012.1	20-JAN-2022	2108	Kosovo	secondary	trnL-trnF	42.5869578	20.9021231	0.00134551319627746
+Cerastium_eriophorum	MH488011.1	20-JAN-2022	2120	Austria	secondary	trnL-trnF	36.9148511	-4.7534501	0.00212937852568897
+Cerastium_eriophorum	MH488010.1	20-JAN-2022	2131	Bosnia and Herzegovina	secondary	trnL-trnF	44.4804898545679	18.680046801691	0.00141982368177752
+Cerastium_eriophorum	MH488009.1	20-JAN-2022	2131	Bosnia and Herzegovina	secondary	trnL-trnF	44.1046674393973	17.7543458958134	0.00141982368177752
+Cerastium_eriophorum	MH488008.1	20-JAN-2022	2115	Bulgaria	secondary	trnL-trnF	47.428912575435	23.1812636558193	0.00134315203029854
+Cerastium_eriophorum	MH488007.1	20-JAN-2022	2116	Bulgaria	secondary	trnL-trnF	47.0999692915538	23.0957414521359	0.00173779937854596

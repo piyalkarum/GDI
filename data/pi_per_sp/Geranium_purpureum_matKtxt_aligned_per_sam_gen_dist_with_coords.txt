@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geranium_purpureum	ON684565.1	21-AUG-2022	1518	Portugal: Casais da Cabrela, Terrugem, Sintra	primary	matK	38.85777	-9.35055	0.00212127841162239
+Geranium_purpureum	JN895982.1	07-MAR-2012	806	United Kingdom: Cornwall	primary	matK	50.4	-5.13	0.00316580821590269
+Geranium_purpureum	HM850909.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00213753125673549
+Geranium_purpureum	HE966935.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00232242551140166

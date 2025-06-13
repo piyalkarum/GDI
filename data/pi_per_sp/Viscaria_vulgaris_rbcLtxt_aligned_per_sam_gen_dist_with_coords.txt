@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viscaria_vulgaris	JN892501.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	primary	rbcL	52.7	-3.03	0
+Viscaria_vulgaris	JN892694.1	07-MAR-2012	542	United Kingdom: Radnorshire	secondary	rbcL	52.8322239412821	-3.22511004032362	0
+Viscaria_vulgaris	JN892475.1	07-MAR-2012	542	United Kingdom: Radnorshire	secondary	rbcL	52.3239153447203	-1.80977407028786	0
+Viscaria_vulgaris	HE574614.1	31-JUL-2011	554	Finland	secondary	rbcL	63.2467777	25.9209164	0

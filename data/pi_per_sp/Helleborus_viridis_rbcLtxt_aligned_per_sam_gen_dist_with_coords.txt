@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helleborus_viridis	JN893217.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.52	-2.87	0
+Helleborus_viridis	HQ619774.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0
+Helleborus_viridis	JN892125.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Helleborus_viridis	JN892117.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hepatica_transsilvanica	MT276427.1	12-OCT-2020	368	Romania: Hunedoara, Hateg	primary	trnL-trnF	45.5526672617813	21.8236846100391	0.183084577114428
+Hepatica_transsilvanica	MT276426.1	12-OCT-2020	333	Romania: Ciuc, Frumoasa	primary	trnL-trnF	44.9839182816733	22.205124705327	0.181111111111111
+Hepatica_transsilvanica	MT276425.1	12-OCT-2020	368	Romania: Brasov, Piatra Craiului	primary	trnL-trnF	46.47311	25.90105	0.183084577114428
+Hepatica_transsilvanica	MK564171.1	17-MAR-2019	513	Romania: Frumoasa	primary	trnL-trnF	46.47	25.9	0.547280265339967

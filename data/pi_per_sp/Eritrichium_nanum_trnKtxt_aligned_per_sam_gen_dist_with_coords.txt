@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eritrichium_nanum	JX161591.1	30-JUN-2014	895	Switzerland: Alps	secondary	trnK	45.7507397453058	6.49238823977027	0.131446540880503
+Eritrichium_nanum	JX161590.1	30-JUN-2014	895	Switzerland: Alps	secondary	trnK	46.6770477564607	5.09968306239456	0.131446540880503
+Eritrichium_nanum	JX161589.1	30-JUN-2014	895	Switzerland: Alps	secondary	trnK	46.0049723757343	6.8562748531608	0.131446540880503
+Eritrichium_nanum	JX161588.1	30-JUN-2014	895	Switzerland: Alps	secondary	trnK	46.4455543010047	6.08807642983996	0.131446540880503
+Eritrichium_nanum	AY092894.1	29-JUN-2002	875	Switzerland	secondary	trnK	46.7985624	8.2319736	0.525786163522013

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_verticillata	KC475247.1	25-OCT-2013	783	Canada: Northwest Territories, Mackenzie, Langley	primary	matK	68.5	-134	NA
+Pedicularis_verticillata	KC475246.1	25-OCT-2013	783	Canada: Yukon Territory, Blow River Delta east, Whitefish Station	primary	matK	68.887	-136.893	NA
+Pedicularis_verticillata	MN339993.1	30-SEP-2021	819	China	secondary	matK	34.1435714427303	104.889146143263	NA
+Pedicularis_verticillata	MN317528.1	30-SEP-2021	855	China	secondary	matK	34.6051463417634	105.586777191993	NA
+Pedicularis_verticillata	HG424055.2	09-APR-2014	2379	Russia:Altai Mts.	secondary	matK	50.7490829	86.1332343	0.0111525613910383
+Pedicularis_verticillata	AB754827.1	08-APR-2014	1112	China:Qinghai, Jiuzhi Xian	secondary	matK	33.4313087	101.4864493	NA
+Pedicularis_verticillata	AB754826.1	08-APR-2014	1033	Japan:Nagano, Mt. Yatsugadake	secondary	matK	36.6485851	138.1947664	NA
+Pedicularis_verticillata	KC475245.1	25-OCT-2013	783	Canada: Northwest Territories, Mainland Northwest Territoires, Mackenzie River	secondary	matK	62.4538109	-114.361050472611	NA

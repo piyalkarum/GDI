@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_reticulata	MZ400428.1	07-DEC-2021	789	Sweden: Latnjavagge	primary	matK	68.35	18.49	5.51055270843666e-05
+Salix_reticulata	MG220619.1	21-JAN-2018	824	Canada: Yukon Territory, Mount Klotz camp	primary	matK	65.363	-140.182	5.55987990659402e-05
+Salix_reticulata	KC475792.1	25-OCT-2013	636	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	matK	69.45	-124.197	0
+Salix_reticulata	KC475791.1	25-OCT-2013	789	USA: Alaska, Aleutian Islands, Attu Island, West Mountains just west of Casco Cove and near the old east-west runway at Coast Guard Station. Lower shoulder of mountain	primary	matK	52.487464270927	-174.474380151624	5.51055270843666e-05
+Salix_reticulata	KC475790.1	25-OCT-2013	789	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Hornaday River, ~1 km downstream of valley leading to Castle Butte	primary	matK	68.1833	-121.825	5.51055270843666e-05
+Salix_reticulata	KC475789.1	25-OCT-2013	789	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, community of Bathurst Inlet	primary	matK	66.84	-108.03	5.51055270843666e-05
+Salix_reticulata	KC475788.1	25-OCT-2013	718	Canada: Nunavut, Hudsons Bay, Belcher Islands, Tukarak Island, slightly east facing slope below large rock hills, 50 m from shore	primary	matK	56.386	-78.872	0
+Salix_reticulata	KC475787.1	25-OCT-2013	763	Canada: Nunavut, Victoria Island, Oterkvik Point, Camp 13 km north of Oterkvik Point, 10 km north of coast at Coronation gulf, lower camp area and vicinity to the south	primary	matK	68.739	-112.625	5.69833038919597e-05
+Salix_reticulata	KC475786.1	25-OCT-2013	789	USA: Alaska, Aleutian Islands, Attu Island, West Mountains just west of Casco Cove and near the old east-west runway at Coast Guard Station. Mid-shoulder of mountain	primary	matK	52.9589018037441	-174.454930516407	0.00101245706531631
+Salix_reticulata	KC475785.1	25-OCT-2013	785	Canada: Nunavut, Baffin Island, Lower Savage Island, Savage Harbour	primary	matK	61.817	-65.7	5.5386319579064e-05
+Salix_reticulata	JN966651.1	27-OCT-2012	789	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas heath	primary	matK	58.769	-93.862	5.51055270843666e-05
+Salix_reticulata	JN966650.1	27-OCT-2012	756	Canada: Manitoba	primary	matK	57.83	-92.808	5.75109270761445e-05
+Salix_reticulata	JN966649.1	27-OCT-2012	756	Canada: Manitoba	primary	matK	58.767	-93.251	5.75109270761445e-05
+Salix_reticulata	JN966648.1	27-OCT-2012	756	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Bog	primary	matK	58.75	-94.11	5.75109270761445e-05
+Salix_reticulata	JN966647.1	27-OCT-2012	731	Canada: Manitoba, Churchill, 46 km E Churchill, Fort Churchill, Spaceport project. Churchill area. Site T-16 C-1. Flat, open beach ridge. Dry. Sand and gravelly sand.	primary	matK	58.733	-93.808	0
+Salix_reticulata	JN966646.1	27-OCT-2012	756	Canada: Manitoba	primary	matK	58.467	-93.21	5.75109270761445e-05
+Salix_reticulata	JN966645.1	27-OCT-2012	756	Canada: Manitoba	primary	matK	58.383	-93.225	5.75109270761445e-05
+Salix_reticulata	JN966644.1	27-OCT-2012	756	Canada: Manitoba	primary	matK	58.666	-93.188	5.75109270761445e-05
+Salix_reticulata	JN966643.1	27-OCT-2012	756	Canada: Manitoba	primary	matK	57.856	-92.753	5.75109270761445e-05
+Salix_reticulata	JN966642.1	27-OCT-2012	749	Canada: Manitoba, Churchill, Wapusk National Park, Skidmore Lake, unnamed lake ca. 1 km W of the S end of Skidmore lake. Sandy shoreline of small lake, amongst Myrica gale, Potentilla fruticosa, Betula glandulosa	primary	matK	57.793	-93.384	0
+Salix_reticulata	MK926195.1	14-JAN-2020	818	United Kingdom	secondary	matK	55.2035782011857	-3.72767527708103	5.51055270843666e-05
+Salix_reticulata	MK925826.1	14-JAN-2020	774	Russia	secondary	matK	64.6863136	97.7453061	5.6173463655769e-05
+Salix_reticulata	MK925606.1	14-JAN-2020	821	United Kingdom	secondary	matK	55.1005640607239	-4.53443548439516	5.51055270843666e-05
+Salix_reticulata	FR695009.1	07-OCT-2010	835	Russia:Kamchatka	secondary	matK	57.1914882	160.0383819	0

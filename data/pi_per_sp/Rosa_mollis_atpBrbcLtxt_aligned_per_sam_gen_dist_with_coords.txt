@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_mollis	HE999625.1	06-JAN-2014	521	Sweden	secondary	atpB-rbcL	60.253500855546	14.3916425967233	0.00256287218859196
+Rosa_mollis	HE999624.1	06-JAN-2014	521	Sweden	secondary	atpB-rbcL	59.3395070789405	14.4563264871047	0.00256287218859196
+Rosa_mollis	HE999623.1	06-JAN-2014	520	Sweden	secondary	atpB-rbcL	60.1244608577994	13.7584857414006	0.00513191047873129
+Rosa_mollis	AJ628812.1	11-APR-2005	567	Germany:Schleswig-Holstein, Flensburg, Geltinger, Birk	secondary	atpB-rbcL	54.7830189	9.8974315	0.00256780791462872

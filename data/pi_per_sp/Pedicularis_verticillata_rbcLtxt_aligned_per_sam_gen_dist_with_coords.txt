@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_verticillata	MG224626.1	26-DEC-2017	552	Canada: Yukon Territory, Wind River	primary	rbcL	64.673	-134.599	0.00319152906604437
+Pedicularis_verticillata	MG222569.1	26-DEC-2017	552	USA: Alaska, Gates of the Arctic, Killik River dunes	primary	rbcL	68.284	-154.048	0.00319152906604437
+Pedicularis_verticillata	MG221668.1	26-DEC-2017	552	USA: Alaska, Yukon-Charley National Preserve, 'Mt. Frosty' camp pass at upper Good Pasture Creek and Upper Charley River	primary	rbcL	64.544	-143.7	0.00319152906604437
+Pedicularis_verticillata	KC483407.1	25-OCT-2013	552	Canada: Northwest Territories, Mackenzie, Langley	primary	rbcL	68.5	-134	0.00319152906604437
+Pedicularis_verticillata	KC483406.1	25-OCT-2013	552	Canada: Yukon Territory, Blow River Delta east, Whitefish Station	primary	rbcL	68.887	-136.893	0.00319152906604437
+Pedicularis_verticillata	MN192686.1	30-NOV-2021	645	China	secondary	rbcL	34.8502677609775	104.235097751494	0.0120496510682292
+Pedicularis_verticillata	MN185209.1	27-APR-2021	680	China	secondary	rbcL	34.9138673572526	105.460675837842	0.00842842698252203
+Pedicularis_verticillata	KC483405.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territoires, Mackenzie River	secondary	rbcL	62.4538109	-114.361050472611	0.00319152906604437

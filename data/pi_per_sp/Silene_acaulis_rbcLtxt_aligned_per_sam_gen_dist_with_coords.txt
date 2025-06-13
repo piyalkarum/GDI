@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_acaulis	MZ359309.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.000461254612546125
+Silene_acaulis	KT960739.1	13-DEC-2015	532	Greenland: NE, Zackenberg	primary	rbcL	74.9427020240142	-19.5153228890821	0.000469924812030075
+Silene_acaulis	KT960651.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.6012442523672	-18.593945968552	0.000462107208872458
+Silene_acaulis	KT960415.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.0871992579342	-22.4649979915627	0.000462107208872458
+Silene_acaulis	KC484105.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	rbcL	68.064	-121.603	0.000462107208872458
+Silene_acaulis	KC484104.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbour	primary	rbcL	61.82	-65.71	0.000462107208872458
+Silene_acaulis	KC484103.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Small point into ocean, ~10 km SW of Sanikiluaq	primary	rbcL	56.478	-79.386	0.000462107208872458
+Silene_acaulis	KC484102.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	rbcL	70.735	-117.761	0.000462107208872458
+Silene_acaulis	KC484101.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Camp 13 km north of Oterkvik Point, 10 km north of coast at Coronation gulf, upper camp area	primary	rbcL	68.739	-112.625	0.000462107208872458
+Silene_acaulis	KC484100.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk. Behind Northern Store/Hotel/Parks Canada building (Paulatuk Centre)	primary	rbcL	69.467	-124.211	0.000462107208872458
+Silene_acaulis	KC484099.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Aulavik National Park, Thomsen River Valley, near Green cabin	primary	rbcL	73.25	-119.583	0.000462107208872458
+Silene_acaulis	KC484098.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Aulavik National Park, Green cabin beside the Thomsen River	primary	rbcL	73.225	-119.535	0.000462107208872458
+Silene_acaulis	KC484097.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.619	-115.493	0.000462107208872458
+Silene_acaulis	JN892031.1	07-MAR-2012	542	United Kingdom: Sutherland, East (107)	primary	rbcL	58.29	-4.74	0.000461254612546125
+Silene_acaulis	JN891509.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	52.8715374150136	-5.51474462067367	0.000461254612546125
+Silene_acaulis	JN891508.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.000461254612546125
+Silene_acaulis	JN891507.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	52.2303029413956	-3.57317059687609	0.00739812255981162

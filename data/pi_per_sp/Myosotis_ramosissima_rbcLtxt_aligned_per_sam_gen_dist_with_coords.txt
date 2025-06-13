@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosotis_ramosissima	JN891320.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.52	-2.72	0.00499375780274657
+Myosotis_ramosissima	JN892779.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.9141241599519	-3.55553441779797	0.00499375780274657
+Myosotis_ramosissima	JN892774.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.131122379791	-4.33290644422584	0.00499375780274657
+Myosotis_ramosissima	HE574633.1	31-JUL-2011	565	Finland	secondary	rbcL	63.2467777	25.9209164	0.0149812734082397

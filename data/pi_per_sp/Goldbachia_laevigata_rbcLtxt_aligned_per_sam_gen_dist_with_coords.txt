@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Goldbachia_laevigata	MT930822.1	03-MAR-2023	572	China	secondary	rbcL	34.8388990057757	104.602662541684	0
+Goldbachia_laevigata	MT930821.1	03-MAR-2023	568	China	secondary	rbcL	35.5958729504053	104.902110401597	0
+Goldbachia_laevigata	MT930820.1	03-MAR-2023	568	China	secondary	rbcL	34.3241632217342	105.494060900714	0
+Goldbachia_laevigata	MT930819.1	03-MAR-2023	568	China	secondary	rbcL	34.7967427282981	104.750149547948	0

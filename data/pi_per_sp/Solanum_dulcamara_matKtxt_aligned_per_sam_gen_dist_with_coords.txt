@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Solanum_dulcamara	OR464993.1	26-SEP-2023	900	USA: West Lake Nature Preserve, Portage, MI	primary	matK	42.9918712289192	-85.6169459372228	0.000443262411347518
+Solanum_dulcamara	OR464992.1	26-SEP-2023	851	USA: West Lake Nature Preserve, Portage, MI	primary	matK	41.4937894930041	-85.8920610113131	0.000301568154402895
+Solanum_dulcamara	KX677229.1	09-AUG-2017	799	Canada: British Columbia, Greater Vancouver Regional District, Delta, Reifel Bird Sanctuary	primary	matK	49.099	-123.194	0.000477099236641221
+Solanum_dulcamara	HQ593448.1	09-NOV-2011	803	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West	primary	matK	44.031	-79.53	0.000311332503113325
+Solanum_dulcamara	JN895821.1	07-MAR-2012	817	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0
+Solanum_dulcamara	HM851100.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.000469336670838548
+Solanum_dulcamara	JN894602.1	07-MAR-2012	811	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Solanum_dulcamara	JN894601.1	07-MAR-2012	859	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000446428571428571
+Solanum_dulcamara	FN668838.1	27-APR-2010	846	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00244902754777208

@@ -1,0 +1,24 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alopecurus_magellanicus	KT960720.1	13-DEC-2015	486	Greenland: NE, Zackenberg	primary	rbcL	74.9501337425372	-22.598887987987	0
+Alopecurus_magellanicus	KT960597.1	13-DEC-2015	536	Greenland: NE, Zackenberg	primary	rbcL	74.494004130767	-22.4512996834387	0
+Alopecurus_magellanicus	KT960401.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.6829456455923	-20.1565696399637	0
+Alopecurus_magellanicus	KC481909.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktoyaktuk, Polar Continental Shelf Project Base. Behind houses north of baseball diamond	primary	rbcL	69.5	-133	0
+Alopecurus_magellanicus	KC481908.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Nikko Island, Koukdjuak River	primary	rbcL	66.35	-71.3	0
+Alopecurus_magellanicus	KC481907.1	25-OCT-2013	552	Canada: Nunavut, Cornwallis Island, Cornwallis Island Resolute Bay	primary	rbcL	74.683	-94.9	0
+Alopecurus_magellanicus	KC481906.1	25-OCT-2013	552	Canada: Nunavut, Qikiqtaaluk Region, Cornwallis Island, Cornwallis Island, west of P.C.S.P. base	primary	rbcL	74.667	-95.067	0
+Alopecurus_magellanicus	KC481905.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	rbcL	66.839	-108.035	0
+Alopecurus_magellanicus	KC481904.1	25-OCT-2013	552	Canada: Nunavut, Kivalliq Region, East shore Meliadine River at 55 K/16 433725, 7.5 km NW of Rankin Inlet at Ijiralik Thule site in Meliadine River Park study area, Hudson Bay	primary	rbcL	62.875	-92.142	0
+Alopecurus_magellanicus	KC481903.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island (Northwest Territories), Aulavik National Park, Shoran Lake Banks Island. Area #3	primary	rbcL	73.517	-120.3	0
+Alopecurus_magellanicus	KC481902.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	rbcL	71.313	-116.916	0
+Alopecurus_magellanicus	KC481901.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Region SW of camp, ca. 9 km north of Coronation Gulf coast, 12 km north of point	primary	rbcL	68.728	-112.678	0
+Alopecurus_magellanicus	KC481900.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Eureka	primary	rbcL	80	-85.95	0
+Alopecurus_magellanicus	KC481899.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, High altitude meadow above Bukken River headwaters	primary	rbcL	80.52	-92.07	0
+Alopecurus_magellanicus	KC481898.1	25-OCT-2013	546	Canada: Nunavut, Victoria Island, Cambridge Bay, Cambridge Bay. Vacant lot on west side of town	primary	rbcL	69.264	-105.1	0
+Alopecurus_magellanicus	KC481897.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, community of Bathurst Inlet	primary	rbcL	66.84	-108.03	0
+Alopecurus_magellanicus	KC481896.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.913	-109.576	0
+Alopecurus_magellanicus	JN965222.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	59.2228258834279	-94.7643455234436	0
+Alopecurus_magellanicus	JN965221.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.343348119444	-93.396753634744	0
+Alopecurus_magellanicus	JN965220.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, Cape Churchill, Fen bog, saturated peat	primary	rbcL	59.085520999001	-95.112413725142	0
+Alopecurus_magellanicus	MK925365.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9631727277612	-2.42718017097759	0
+Alopecurus_magellanicus	MK924862.1	14-JAN-2020	506	United Kingdom	secondary	rbcL	53.9317462535929	-3.04512753241951	0
+Alopecurus_magellanicus	MK924644.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0939239773455	-2.76659364239422	0

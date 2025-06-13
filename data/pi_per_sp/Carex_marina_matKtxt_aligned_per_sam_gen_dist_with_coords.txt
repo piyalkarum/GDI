@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_marina	FJ548109.1	25-AUG-2009	726	Canada: Northwest Territories, Banks Island, NE part, Parker River Valley, N side c. 7 km from sea	primary	matK	73.62	-115.85	0.000963423257468093
+Carex_marina	FJ548108.1	25-AUG-2009	729	Canada: Northwest Territories, Banks Island, Bernard River	primary	matK	73.37	-121.78	0.00478990431416901
+Carex_marina	FJ548107.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island	primary	matK	71.81	-80.69	0.000961533805522525
+Carex_marina	FJ548106.1	25-AUG-2009	661	Canada: Nunavut, Baffin Island	primary	matK	71.79	-80.61	0.00655572365103379
+Carex_marina	KC474345.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.644	-115.493	0.000954472070065727
+Carex_marina	KC474344.1	25-OCT-2013	727	Canada: Yukon Territory, Yukon Mainland, Ivvavik National Park, Sheep Crrek	primary	matK	69.154	-140.161	0.000981231593477276
+Carex_marina	KP980170.1	21-SEP-2015	785	Greenland	secondary	matK	36.4516974726581	-94.2343843170532	0.000953379075342159
+Carex_marina	KP980169.1	21-SEP-2015	785	Greenland	secondary	matK	35.6472864236831	-94.7307531005512	0.000953379075342159
+Carex_marina	KP980155.1	21-SEP-2015	785	Greenland	secondary	matK	35.3970898987722	-94.789113847317	0.000953379075342159
+Carex_marina	KP980147.1	21-SEP-2015	785	Canada: Northwest Territories	secondary	matK	65.0000004	-118	0.000953379075342159
+Carex_marina	KP980146.1	21-SEP-2015	785	Canada: Nunavut	secondary	matK	64.5819212139694	-92.1825220282856	0.00217552056320845
+Carex_marina	KP980143.1	21-SEP-2015	785	Canada: Nunavut	secondary	matK	64.5956799361173	-93.5672849936221	0.000953379075342159
+Carex_marina	KP979995.1	21-SEP-2015	785	USA: Alaska	secondary	matK	64.4459613	-149.680909	0.000953379075342159

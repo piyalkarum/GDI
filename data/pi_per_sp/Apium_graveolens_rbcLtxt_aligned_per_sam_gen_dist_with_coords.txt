@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Apium_graveolens	JN892407.1	07-MAR-2012	540	United Kingdom: Carmarthenshire	primary	rbcL	51.67	-4.13	0
+Apium_graveolens	MH360738.1	27-JUN-2018	1472	Pakistan	secondary	rbcL	29.8969988836144	70.5166065848695	0.000550256786500367
+Apium_graveolens	KP974249.1	08-SEP-2015	650	Pakistan	secondary	rbcL	29.6320110311368	71.0052906204375	0.000769230769230769
+Apium_graveolens	HM849783.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00131948755573114
+Apium_graveolens	JN893705.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0

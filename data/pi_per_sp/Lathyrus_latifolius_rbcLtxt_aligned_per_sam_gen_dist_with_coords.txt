@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_latifolius	MG249888.1	21-JAN-2018	552	Canada: Ontario, Prince Edward Co., County Rd. 15 W of Northport, near Sunset Lookout, overlooking W end of Big Island	primary	rbcL	44.133	-77.5	0.000301932367149758
+Lathyrus_latifolius	MG246559.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Toronto Islands, Ward's Island, along the boardwalk.	primary	rbcL	43.626	-79.358	0.000301932367149758
+Lathyrus_latifolius	MG246538.1	21-JAN-2018	528	Canada: Ontario, Grey, Grey, Markdale	primary	rbcL	44.3167	-80.65	0.000315656565656566
+Lathyrus_latifolius	MG245906.1	21-JAN-2018	551	Canada: Ontario, Everylasting Pea, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	0.000302480338777979
+Lathyrus_latifolius	KX678569.1	29-APR-2017	552	Canada: British Columbia, Comox Regional District, Courtenay River, river estuary, behind the sawmill	primary	rbcL	49.699	-124.985	0.000301932367149758
+Lathyrus_latifolius	KJ841374.1	04-NOV-2014	558	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	rbcL	45.535	-73.149	0.00182586637303358
+Lathyrus_latifolius	MG247042.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, North York, Oriole, In vacant lot to S of Macdonald's on Provost Dr.	secondary	rbcL	43.72634945	-77.7101179040839	0.000301932367149758

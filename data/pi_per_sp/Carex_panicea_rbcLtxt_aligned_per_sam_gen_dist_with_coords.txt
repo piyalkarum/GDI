@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_panicea	JN893830.1	07-MAR-2012	538	United Kingdom: Carmarthenshire	primary	rbcL	51.74	-4.23	0.0795888419934595
+Carex_panicea	MK949978.1	21-MAY-2021	697	Austria	secondary	rbcL	36.9148511	-4.7534501	0.554530842113207
+Carex_panicea	MG226247.1	23-JAN-2018	552	Canada: Nova Scotia, Antigonish Co, Seascape Cattages, on St Georges Bay, Near Bayfield, E of Antigonish	secondary	rbcL	45	-63.75	0.0795479487302435
+Carex_panicea	MG225784.1	23-JAN-2018	552	USA: Maine, Owls Head KNO, Rdside and fallow fields	secondary	rbcL	42.1925746	-76.0610361	0.0795479487302435
+Carex_panicea	HM849860.1	23-JUL-2011	637	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0785660030883519
+Carex_panicea	JN892826.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.0795868823349888
+Carex_panicea	JN891911.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.0812921613396708
+Carex_panicea	JN891904.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0.0795868823349888

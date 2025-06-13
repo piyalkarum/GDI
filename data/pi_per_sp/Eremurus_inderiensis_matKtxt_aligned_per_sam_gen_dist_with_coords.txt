@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eremurus_inderiensis	OR738272.1	13-NOV-2023	799	Kazakhstan: Atyrau region	primary	matK	47.10444	54.10144	0
+Eremurus_inderiensis	MT917264.1	03-MAR-2023	776	China	secondary	matK	34.8722872993289	103.951429680029	0
+Eremurus_inderiensis	MT917263.1	03-MAR-2023	796	China	secondary	matK	35.231553251363	105.373596207079	0
+Eremurus_inderiensis	MT917262.1	03-MAR-2023	797	China	secondary	matK	35.7609425019893	105.019686295919	0
+Eremurus_inderiensis	MT917261.1	03-MAR-2023	798	China	secondary	matK	35.3882633241563	104.177854679254	0
+Eremurus_inderiensis	MT917260.1	03-MAR-2023	798	China	secondary	matK	35.0152614052606	104.402139950833	0
+Eremurus_inderiensis	MT917259.1	03-MAR-2023	802	China	secondary	matK	34.6621270576419	103.999376958983	0
+Eremurus_inderiensis	MT917258.1	03-MAR-2023	787	China	secondary	matK	34.9442145489757	105.914265315447	0

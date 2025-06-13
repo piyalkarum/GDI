@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Platanthera_chlorantha	MF786701.1	06-DEC-2017	553	China: Xizang, Bashong Tso, on the east side of Tsogao Lake	primary	rbcL	30.00458	93.94219	0.00663050030138638
+Platanthera_chlorantha	JX110818.1	25-MAY-2013	569	India: Maharashtra, Marathwada, Nagzari	primary	rbcL	19.47	78.18	0.0398138110448629
+Platanthera_chlorantha	JN893307.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.13	0.00676506765067651
+Platanthera_chlorantha	JN891570.1	07-MAR-2012	542	United Kingdom: Perthshire, East (89)	primary	rbcL	56.81	-3.46	0.00676506765067651
+Platanthera_chlorantha	MN192489.1	30-NOV-2021	723	China	secondary	rbcL	35.2415663854551	104.734477213635	0.00644405389572349
+Platanthera_chlorantha	MN185063.1	27-APR-2021	722	China	secondary	rbcL	35.0320065269247	105.151560133265	0.00644405389572349
+Platanthera_chlorantha	JN891411.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00676506765067651

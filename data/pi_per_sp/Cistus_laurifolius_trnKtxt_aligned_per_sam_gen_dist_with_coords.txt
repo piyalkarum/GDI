@@ -1,0 +1,31 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cistus_laurifolius	GU289024.1	08-DEC-2010	84	Turkey: Zonguldak	secondary	trnK	41.250324	31.8389738	0.000431034482758621
+Cistus_laurifolius	GU289023.1	08-DEC-2010	84	Turkey: Bolu	secondary	trnK	40.6212099	31.6460259	0.000431034482758621
+Cistus_laurifolius	GU289022.1	08-DEC-2010	84	Turkey: Usak	secondary	trnK	38.609666	29.3306506	0.000431034482758621
+Cistus_laurifolius	GU289021.1	08-DEC-2010	84	Turkey: Bursa	secondary	trnK	39.9895878	28.8944669	0.000431034482758621
+Cistus_laurifolius	GU289020.1	08-DEC-2010	84	Italy: Santa Brigida	secondary	trnK	45.984547	9.6217915	0.000431034482758621
+Cistus_laurifolius	GU289019.1	08-DEC-2010	84	France: Le Vigan - Pommiers	secondary	trnK	43.9519	3.60944	0.000431034482758621
+Cistus_laurifolius	GU289018.1	08-DEC-2010	84	France: Saint-Chinian	secondary	trnK	43.4215	2.94677	0.000431034482758621
+Cistus_laurifolius	GU289017.1	08-DEC-2010	84	Spain: Barcelona, Montseny	secondary	trnK	41.7593697	2.3952061	0.000431034482758621
+Cistus_laurifolius	GU289016.1	08-DEC-2010	84	Spain: Huesca, Sagarras Bajas	secondary	trnK	42.1289901	0.5360311	0.000431034482758621
+Cistus_laurifolius	GU289015.1	08-DEC-2010	85	Spain: Tarragona, Tossal de la Baltasana	secondary	trnK	41.3259906	1.0041897	0.00042571306939123
+Cistus_laurifolius	GU289014.1	08-DEC-2010	84	Spain: Castellon, Penyagolosa	secondary	trnK	40.2227596	-0.3497418	0.000431034482758621
+Cistus_laurifolius	GU289013.1	08-DEC-2010	84	Spain: Cuenca, Beteta	secondary	trnK	40.572657	-2.0759798	0.000431034482758621
+Cistus_laurifolius	GU289012.1	08-DEC-2010	84	Spain: Zaragoza, Moncayo	secondary	trnK	41.5704741	-1.8612655	0.000431034482758621
+Cistus_laurifolius	GU289011.1	08-DEC-2010	85	Spain: Soria, El Espino	secondary	trnK	41.8471587	-2.1849121	0.00042571306939123
+Cistus_laurifolius	GU289010.1	08-DEC-2010	85	Spain: Soria, Pedrajas	secondary	trnK	41.826206	-2.5764545	0.00042571306939123
+Cistus_laurifolius	GU289009.1	08-DEC-2010	85	Spain: Soria, Tiermes	secondary	trnK	41.3687938	-3.1993534	0.00042571306939123
+Cistus_laurifolius	GU289008.1	08-DEC-2010	84	Spain: Guadalajara, Siguenza	secondary	trnK	41.0680324	-2.6405659	0.000431034482758621
+Cistus_laurifolius	GU289007.1	08-DEC-2010	84	Spain: Guadalajara, Hiendelaencina	secondary	trnK	41.0835841	-3.0036605	0.000431034482758621
+Cistus_laurifolius	GU289006.1	08-DEC-2010	84	Spain: Madrid, Puerto de Canencia	secondary	trnK	40.8688755	-3.7637894	0.000431034482758621
+Cistus_laurifolius	GU289005.1	08-DEC-2010	84	Spain: Madrid, Rozas de Puerto Real	secondary	trnK	40.3098351	-4.4912111	0.000431034482758621
+Cistus_laurifolius	GU289004.1	08-DEC-2010	84	Spain: Avila, Hoyocasero	secondary	trnK	40.399228	-4.9744064	0.000431034482758621
+Cistus_laurifolius	GU289003.1	08-DEC-2010	85	Spain: Avila, Aliseda de Tormes	secondary	trnK	40.3309195	-5.3996706	0.00042571306939123
+Cistus_laurifolius	GU289002.1	08-DEC-2010	85	Spain: Salamanca, Valdunciel	secondary	trnK	41.0857338	-5.6715006	0.00042571306939123
+Cistus_laurifolius	GU289001.1	08-DEC-2010	85	Spain: Jaen, Sierra de Segura	secondary	trnK	38.1063877	-2.6570251	0.00042571306939123
+Cistus_laurifolius	GU289000.1	08-DEC-2010	85	Spain: Almeria, Sierra de Filabres	secondary	trnK	37.2101341	-2.4930027	0.00042571306939123
+Cistus_laurifolius	GU288999.1	08-DEC-2010	85	Spain: Granada, Puerto de la Ragua	secondary	trnK	37.1133625	-3.0298565	0.00042571306939123
+Cistus_laurifolius	GU288998.1	08-DEC-2010	85	Spain: Granada, Sierra de Huetor	secondary	trnK	37.3201048	-3.4242408	0.00042571306939123
+Cistus_laurifolius	GU288997.1	08-DEC-2010	81	Morocco: Taza	secondary	trnK	34.230155	-4.010104	0.0124469205856519
+Cistus_laurifolius	GU288994.1	08-DEC-2010	83	Morocco: Bab-Berred	secondary	trnK	34.998897	-4.890298	0.00042571306939123
+Cistus_laurifolius	GU288993.1	08-DEC-2010	79	Morocco: Azrou	secondary	trnK	33.436117	-5.221913	0.000436490615451768

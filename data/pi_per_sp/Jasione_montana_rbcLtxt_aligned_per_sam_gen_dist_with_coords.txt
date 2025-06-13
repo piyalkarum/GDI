@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jasione_montana	JN892535.1	07-MAR-2012	535	United Kingdom: Breconshire	primary	rbcL	51.84	-3.71	0.185566253942528
+Jasione_montana	MK556034.1	22-SEP-2019	346	Poland	secondary	rbcL	52.6588037395785	20.365485227206	0.5863325297748
+Jasione_montana	MK555618.1	22-SEP-2019	357	Poland	secondary	rbcL	52.8324446897006	18.1417708236816	0.477599715264804
+Jasione_montana	MK555403.1	22-SEP-2019	382	Poland	secondary	rbcL	51.5356365763253	18.4493890754033	0.186396472567654
+Jasione_montana	DQ356120.1	30-JUN-2007	1215	Sweden	secondary	rbcL	59.6749712	14.5208584	0.156641224965371
+Jasione_montana	JN893800.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.185562230537808
+Jasione_montana	JN893798.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.185562230537808

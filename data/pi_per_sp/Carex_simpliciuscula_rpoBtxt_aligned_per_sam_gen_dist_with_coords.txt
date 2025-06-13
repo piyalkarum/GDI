@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_simpliciuscula	FJ548374.1	30-AUG-2009	482	Canada: Northwest Territories, Banks Island, NE part, Parker River Valley, N side c. 7 km from sea	primary	rpoB	73.62	-115.85	0
+Carex_simpliciuscula	FJ548373.1	30-AUG-2009	518	Canada: Nunuavut, Victoria Island, Cambridge Bay, on hillside near Sixteen Mile Brook	primary	rpoB	63.98	-83.65	0
+Carex_simpliciuscula	FJ548372.1	30-AUG-2009	515	Canada: Nunuavut, Southampton Island, Coral Harbour, Hudson Bay region	primary	rpoB	64.13	-83.17	0
+Carex_simpliciuscula	FJ548371.1	30-AUG-2009	514	Canada: Nunuavut, Franklin District, Victoria Island, Holman	primary	rpoB	70.72	-117.72	0
+Carex_simpliciuscula	FJ548370.1	30-AUG-2009	479	Canada: Nunuavut, Baffin Island	primary	rpoB	71.84	-80.8	0

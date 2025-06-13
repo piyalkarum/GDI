@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_glareosa	FJ548099.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island, Iqaluit, Sylvia Grinell Park	primary	matK	64.2939066400028	-67.8120765629754	0.00116070486440857
+Carex_glareosa	FJ548098.1	25-AUG-2009	730	Canada: Nunavut, Baffin Island, Iqaluit, Sylvia Grinnel Park	primary	matK	63.5198125607847	-68.9716268701988	0.00115911485774499
+Carex_glareosa	JN966186.1	27-OCT-2012	743	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	matK	58.769	-93.856	0.00113883424785174
+Carex_glareosa	JN966185.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	matK	58.789	-94.227	0.00108900108900109
+Carex_glareosa	JN966184.1	27-OCT-2012	743	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Bank of small stream near Goose Creek Rd	primary	matK	58.739	-94.112	0.00113883424785174
+Carex_glareosa	KP980153.1	21-SEP-2015	785	Finland	secondary	matK	62.7079240834866	24.6605705246964	0.00108065625307005
+Carex_glareosa	KP980145.1	21-SEP-2015	785	Finland	secondary	matK	62.6282663161438	25.7293020450737	0.00108065625307005
+Carex_glareosa	KP980140.1	21-SEP-2015	785	Sweden	secondary	matK	59.6749712	14.5208584	0.00108065625307005
+Carex_glareosa	KP980136.1	21-SEP-2015	785	Finland	secondary	matK	63.5814446947425	27.403387135421	0.00108065625307005
+Carex_glareosa	KP980113.1	21-SEP-2015	785	Russia: Magadan	secondary	matK	63.5515028	154.014726	0.00108065625307005
+Carex_glareosa	KP980102.1	21-SEP-2015	785	Russia: Sakhalin	secondary	matK	50.159476	143.0264412	0.00108065625307005
+Carex_glareosa	KP980072.1	21-SEP-2015	783	USA: Alaska	secondary	matK	64.4459613	-149.680909	0.0143317393314185
+Carex_glareosa	KP979991.1	21-SEP-2015	785	Finland	secondary	matK	63.7359909711958	26.0584801606264	0.00108065625307005
+Carex_glareosa	MN763213.1	28-JUL-2020	785	Finland	secondary	matK	63.8618024	23.4558353	0.00108065625307005

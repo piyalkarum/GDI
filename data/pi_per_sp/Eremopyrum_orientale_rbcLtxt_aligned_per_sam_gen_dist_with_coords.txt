@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eremopyrum_orientale	OR738031.1	13-NOV-2023	542	Kazakhstan: Mangistau region	primary	rbcL	43.34537	51.43346	0.000284373666998436
+Eremopyrum_orientale	OR508847.1	17-OCT-2023	572	Kazakhstan: Qaragandy region	primary	rbcL	46.77978	74.70621	0.000692806488856214
+Eremopyrum_orientale	MG228181.1	23-JAN-2018	552	Canada: British Columbia, bummers flats west of highway 93, south of Wasa	primary	rbcL	49.7	-115.7	0.00168224098224902
+Eremopyrum_orientale	MG227848.1	23-JAN-2018	552	Canada: British Columbia, Bummers Flats, northeast of Cranbrook, east side Highway 93	primary	rbcL	49.694	-115.688	0.00168224098224902
+Eremopyrum_orientale	MT931803.1	03-MAR-2023	568	China	secondary	rbcL	35.294953581674	105.959489449819	0.000414134752775292
+Eremopyrum_orientale	MT931802.1	03-MAR-2023	565	China	secondary	rbcL	34.926003986644	105.749443558762	0.000414853839247837
+Eremopyrum_orientale	MT931801.1	03-MAR-2023	565	China	secondary	rbcL	35.8012460721782	104.841292142	0.000414853839247837
+Eremopyrum_orientale	MT931800.1	03-MAR-2023	565	China	secondary	rbcL	35.0532570002342	105.13252596652	0.000414853839247837
+Eremopyrum_orientale	MT931799.1	03-MAR-2023	565	China	secondary	rbcL	34.2907027938815	104.336155602486	0.000414853839247837
+Eremopyrum_orientale	MT931798.1	03-MAR-2023	568	China	secondary	rbcL	35.6560701013747	105.072459982982	0.000414134752775292
+Eremopyrum_orientale	MT931797.1	03-MAR-2023	565	China	secondary	rbcL	34.4911741216184	104.211017902248	0.000414853839247837
+Eremopyrum_orientale	MT931796.1	03-MAR-2023	565	China	secondary	rbcL	34.9087869234218	105.007825899034	0.000414853839247837
+Eremopyrum_orientale	KP210996.1	31-AUG-2017	1274	Afghanistan	secondary	rbcL	33.7680065	66.2385139	0.000498557355285533
+Eremopyrum_orientale	FJ346562.1	28-OCT-2008	1431	China: Xinjiang	secondary	rbcL	42.4804953	85.4633464	0.00169578592659774

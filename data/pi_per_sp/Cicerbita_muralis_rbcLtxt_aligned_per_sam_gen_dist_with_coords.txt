@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cicerbita_muralis	MG224049.1	26-DEC-2017	552	Canada: Ontario, City of Toronto, City of Toronto, The Beaches, in a small wooded ravine	primary	rbcL	43.679	-79.317	0
+Cicerbita_muralis	MG221945.1	26-DEC-2017	552	Canada: British Columbia, Vancouver Island, Victoria, Fernwood	primary	rbcL	48.437	-123.343	0
+Cicerbita_muralis	KX679115.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, near Whistler, Madeley Lake Forest Service Road	primary	rbcL	50.175	-123.124	0
+Cicerbita_muralis	KX678722.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road	primary	rbcL	49.489	-120.95	0
+Cicerbita_muralis	KX678540.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	rbcL	49.376	-122.862	0
+Cicerbita_muralis	KX678428.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.045	-125.501	0
+Cicerbita_muralis	KX677852.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Baden Powell trail	primary	rbcL	49.334	-122.954	0
+Cicerbita_muralis	KJ841426.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Near maintenance parking lot	primary	rbcL	45.538	-73.155	0
+Cicerbita_muralis	JN893440.1	07-MAR-2012	533	United Kingdom: Monmouthshire	primary	rbcL	51.65	-2.89	0
+Cicerbita_muralis	MW011035.1	27-JUL-2021	553	Sweden	secondary	rbcL	59.6749712	14.5208584	0
+Cicerbita_muralis	JN891043.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Cicerbita_muralis	JN891038.1	07-MAR-2012	529	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0

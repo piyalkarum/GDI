@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Goniolimon_dalmaticum	MH607325.1	01-MAY-2019	722	Croatia	primary	trnK	44.51571	14.95523	0.00138504155124654
+Goniolimon_dalmaticum	MH607324.1	01-MAY-2019	722	Croatia	primary	trnK	43.4891613125683	14.8750735729135	0.000461680517082179
+Goniolimon_dalmaticum	MH607323.1	01-MAY-2019	722	Croatia	primary	trnK	44.6321429634565	14.8934639299063	0.000461680517082179
+Goniolimon_dalmaticum	MH607322.1	01-MAY-2019	722	Croatia	primary	trnK	44.1700457532539	14.9260015735726	0.000461680517082179

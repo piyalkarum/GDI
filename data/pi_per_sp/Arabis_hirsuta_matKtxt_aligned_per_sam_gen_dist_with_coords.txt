@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_hirsuta	JN895221.1	07-MAR-2012	954	United Kingdom: Carmarthenshire	primary	matK	51.83	-4.04	0.0105321561797315
+Arabis_hirsuta	MT917778.1	03-MAR-2023	758	China	secondary	matK	35.000074	104.999927	0.0412000363744973
+Arabis_hirsuta	FR865053.1	09-JUN-2011	812	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.0114445793557126
+Arabis_hirsuta	JN894004.1	07-MAR-2012	775	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.0106154418125791
+Arabis_hirsuta	JN894003.1	07-MAR-2012	815	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.0105510717919534

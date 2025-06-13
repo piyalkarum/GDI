@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cuscuta_australis	MT998852.1	28-MAR-2021	656	South Korea	primary	rbcL	35.124374922285	127.311899081783	0.0161682523107862
+Cuscuta_australis	MT998851.1	28-MAR-2021	656	South Korea	primary	rbcL	35.2591796054109	128.069541609618	0.0161682523107862
+Cuscuta_australis	MN205291.1	30-NOV-2021	663	China	secondary	rbcL	35.0525419269497	104.800619390685	0.0390609892872336
+Cuscuta_australis	MN192891.1	30-NOV-2021	720	China	secondary	rbcL	34.6097505387889	105.592696387967	0.0214303670186023

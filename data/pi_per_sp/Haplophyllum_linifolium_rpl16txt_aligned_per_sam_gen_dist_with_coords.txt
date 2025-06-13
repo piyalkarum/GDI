@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Haplophyllum_linifolium	EF489153.1	31-DEC-2008	1005	Spain: Almeria	secondary	rpl16	36.8414197	-2.4628135	0.000512820512820513
+Haplophyllum_linifolium	HM163907.1	18-APR-2011	1017	Spain	secondary	rpl16	38.5507382433552	-4.7192692223553	0.000501002004008016
+Haplophyllum_linifolium	HM163906.1	18-APR-2011	1017	Spain	secondary	rpl16	39.8182838570608	-4.92871750128587	0.000501002004008016
+Haplophyllum_linifolium	HM163905.1	18-APR-2011	1013	Spain	secondary	rpl16	39.6241699234994	-5.39464761297809	0.000503018108651912
+Haplophyllum_linifolium	HM163904.1	18-APR-2011	998	Morocco	secondary	rpl16	28.3347722	-10.3713379	0.00201784262948846

@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arnica_angustifolia	MG221363.1	26-DEC-2017	552	Canada: Yukon Territory, Boswell River	primary	rbcL	61.05	-134.217	0.000364973191060148
+Arnica_angustifolia	MG221359.1	26-DEC-2017	552	Canada: Yukon Territory, Alaska Highway, Burwash Landing, west of	primary	rbcL	61.333	-139.083	0.000364973191060148
+Arnica_angustifolia	KT960604.1	13-DEC-2015	527	Greenland: NE, Zackenberg	primary	rbcL	74.4783952977643	-18.7149388390437	0.000382420319994755
+Arnica_angustifolia	KT960488.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5742377267388	-18.961847696881	0.000364973191060148
+Arnica_angustifolia	KT960450.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.9536488008936	-21.8335932821293	0.000364973191060148
+Arnica_angustifolia	KC482029.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Nelson Head, southernmost tip of Banks Island	primary	rbcL	71.09	-122.77	0.000364973191060148
+Arnica_angustifolia	KC482034.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Aulavik National Park, Near Polar Bear cabin, across the creek from the cabin	primary	rbcL	74.117	-120.15	0.000364973191060148
+Arnica_angustifolia	KC482033.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Hot Weather Creek	primary	rbcL	79.95	-84.4333	0.000364973191060148
+Arnica_angustifolia	KC482032.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit	primary	rbcL	63.733	-68.55	0.000364973191060148
+Arnica_angustifolia	KC482031.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, South Quadjuk Island, sandstone heads area	primary	rbcL	66.861	-107.91	0.00206285088926785
+Arnica_angustifolia	KC482030.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of northfacing cliffs 68 km ENE of Uluhkatok, south of Minto Inlet	primary	rbcL	71.06	-116.224	0.000364973191060148
+Arnica_angustifolia	KC482028.1	25-OCT-2013	546	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0.00379682164710956
+Arnica_angustifolia	KC482027.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island, ca. 12 km SW of head of inlet at river delta	primary	rbcL	75.78	-112.51	0.000364973191060148
+Arnica_angustifolia	JN965274.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	rbcL	58.78	-94.195	0.000364973191060148
+Arnica_angustifolia	JN965273.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0.000364973191060148
+Arnica_angustifolia	JN965272.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	rbcL	58.626	-94.23	0.000364973191060148

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cherleria_sedoides	MK925173.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3583011764487	-3.77463440361188	0
+Cherleria_sedoides	MK925127.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4164195566738	-3.37198939447387	0
+Cherleria_sedoides	MK925042.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0437977141307	-2.12426392696117	0
+Cherleria_sedoides	MK924439.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2451287887475	-2.67039376593943	0

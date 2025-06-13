@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_cabezudoi	FM212732.1	27-APR-2009	697	Spain:Granada	primary	5.8S rRNA	37	-4.17	0.00710690532662224
+Campanula_cabezudoi	FM212731.1	27-APR-2009	682	Spain:Sevilla	primary	5.8S rRNA	37	-5.09	0.0110725341866589
+Campanula_cabezudoi	FM212730.1	27-APR-2009	698	Spain:Malaga	primary	5.8S rRNA	36.59	-4.21	0.00827278125434013
+Campanula_cabezudoi	FM212729.1	27-APR-2009	698	Spain:Malaga	primary	5.8S rRNA	36.49	-4.42	0.00738589619426707
+Campanula_cabezudoi	FM212728.1	27-APR-2009	663	Spain:Malaga	primary	5.8S rRNA	35.8048574619847	-5.10937142253516	0.0182813965629915
+Campanula_cabezudoi	FM212727.1	27-APR-2009	685	Spain:Malaga	primary	5.8S rRNA	36.6428355558753	-3.81394852423531	0.00954242148561358

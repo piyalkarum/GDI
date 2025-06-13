@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_medium	JN890836.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.14	0
+Trifolium_medium	MG248257.1	21-JAN-2018	552	Canada: Quebec, Cte Bonaventure, Matapedia, bords de la riviere Restigouche, a 1 mi du pont.	secondary	rbcL	47.6161839392848	-71.5700408396269	0
+Trifolium_medium	MG247987.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Toronto.	secondary	rbcL	43.6534817	-79.3839347	0
+Trifolium_medium	MG247904.1	21-JAN-2018	552	Canada: Quebec, Co. de Bonaventure, Matapedia.	secondary	rbcL	46.492974728323	-71.5575717289516	0
+Trifolium_medium	JN891325.1	07-MAR-2012	513	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Trifolium_medium	JN891063.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Isolepis_cernua	MG228151.1	23-JAN-2018	552	Canada: British Columbia, Vancouver Island, Tofino	primary	rbcL	49.14	-125.9	0.00377203116574051
+Isolepis_cernua	MG227786.1	23-JAN-2018	552	Canada: British Columbia, swishwash Island, south of sea Island, middle arm of Fraser	primary	rbcL	49	-123	0.00487003807725703
+Isolepis_cernua	JN892521.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.62	-3.64	0.00365256001764084
+Isolepis_cernua	OQ392185.1	10-MAY-2023	528	Peru	secondary	rbcL	-6.41544808361952	-74.6632173123309	0.027560090495518
+Isolepis_cernua	OQ391440.1	10-MAY-2023	523	Peru	secondary	rbcL	-7.35453908336128	-75.5112182265472	0.00344617272771494
+Isolepis_cernua	MG227082.1	23-JAN-2018	552	Canada: British Columbia, point no point, Vancouver Island	secondary	rbcL	49.25783145	-123.246241986222	0.00377203116574051
+Isolepis_cernua	HM850076.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00437031418618204
+Isolepis_cernua	JN892387.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00420225650988983
+Isolepis_cernua	JN892382.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.00365256001764084
+Isolepis_cernua	AJ404716.1	01-AUG-2000	1408	Australia	secondary	rbcL	-24.7761086	134.755	0.0052409186722517
+Isolepis_cernua	AJ404715.1	01-AUG-2000	1408	Tanzania	secondary	rbcL	-6.5247123	35.7878438	0.00458025534559746

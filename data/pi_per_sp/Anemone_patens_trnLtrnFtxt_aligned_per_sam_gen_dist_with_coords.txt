@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anemone_patens	MK551067.1	17-MAR-2019	527	Canada: Yukon	primary	trnL-trnF	68.39	-139.14	0.0176056338028169
+Anemone_patens	MK551066.1	17-MAR-2019	526	Kazakhstan: Zhaksy	primary	trnL-trnF	51.93	67.35	0.0178571428571429
+Anemone_patens	MK551065.1	17-MAR-2019	526	Romania: Rimetea	primary	trnL-trnF	46.45	23.59	0.0178571428571429
+Anemone_patens	MK551064.1	17-MAR-2019	526	Kazakhstan: Pavlodar	primary	trnL-trnF	51.41	78.34	0.0178571428571429
+Anemone_patens	EU285567.1	24-DEC-2007	506	Poland: Suwalki	secondary	trnL-trnF	54.0990636	22.9279363	0.0711770623742455

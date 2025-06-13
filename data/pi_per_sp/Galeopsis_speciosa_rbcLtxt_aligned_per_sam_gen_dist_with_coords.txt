@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galeopsis_speciosa	MG223072.1	26-DEC-2017	552	Canada: Ontario, Thunder Bay Dist., Thunder Bay City, Port Arthur, E side of Boulevard Lake, at park site off Cuyler St., Current River area.	primary	rbcL	48.45	-89.2	0
+Galeopsis_speciosa	JN890815.1	07-MAR-2012	542	United Kingdom: Radnorshire	primary	rbcL	52.31	-3.05	0
+Galeopsis_speciosa	JN890794.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0
+Galeopsis_speciosa	JN890793.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

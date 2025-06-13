@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cytisus_scoparius	MG246455.1	21-JAN-2018	552	Canada: Ontario, UofG Arboretum	primary	rbcL	43.5485	-80.2503	0.00379162566381733
+Cytisus_scoparius	KX678546.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, East side of Harrison Lake, along primitive road just outside Cascade Peninsula Forest Recreation Site	primary	rbcL	49.4398	-121.777	0.000365924003172543
+Cytisus_scoparius	KX678308.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, View Royal, Nursery Hill Park	primary	rbcL	48.4608	-123.462	0.000365924003172543
+Cytisus_scoparius	KX678064.1	29-APR-2017	552	Canada: British Columbia, Cowichan Valley Regional District, Duncan, North Road, 200 m south of intersection with Drinkwater Road	primary	rbcL	48.779	-123.708	0.000365924003172543
+Cytisus_scoparius	KX678034.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Mount Seymour trail	primary	rbcL	49.378	-122.944	0.000365924003172543
+Cytisus_scoparius	JN891814.1	07-MAR-2012	542	United Kingdom: Caernarfonshire	primary	rbcL	53.08	-4.39	0.000373441305049438
+Cytisus_scoparius	MG249963.1	21-JAN-2018	552	Canada: Nova Scotia, Shelburne Co., Shelburne, near Shelburne.	secondary	rbcL	45	-63.75	0.000365924003172543
+Cytisus_scoparius	MG246576.1	21-JAN-2018	552	Canada: British Columbia, Queen Charlotte Islands, Graham Island.	secondary	rbcL	49.25783145	-123.246241986222	0.000365924003172543
+Cytisus_scoparius	MG246490.1	21-JAN-2018	552	Canada: British Columbia, University of British Columbia.	secondary	rbcL	49.2578314	-123.246242	0.000365924003172543
+Cytisus_scoparius	KX821225.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.3268991374769	9.35145132591472	0.000343717368604246
+Cytisus_scoparius	KX821224.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.0625039659009	8.13785095446476	0.000343717368604246
+Cytisus_scoparius	KX821223.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.7156395250827	8.20865840592607	0.000343717368604246
+Cytisus_scoparius	KJ746224.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.000253004427577483
+Cytisus_scoparius	HM849943.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00192059146364542
+Cytisus_scoparius	JN891626.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.000373441305049438
+Cytisus_scoparius	JN891623.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000373441305049438

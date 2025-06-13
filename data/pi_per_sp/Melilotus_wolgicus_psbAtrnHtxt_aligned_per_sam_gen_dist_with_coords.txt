@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melilotus_wolgicus	MN533353.1	28-OCT-2019	334	China	secondary	psbA-trnH	35.3715883004593	104.882902243775	0
+Melilotus_wolgicus	MN533352.1	28-OCT-2019	334	China	secondary	psbA-trnH	35.3203984174912	104.907551702043	0
+Melilotus_wolgicus	MN533351.1	28-OCT-2019	334	China	secondary	psbA-trnH	34.7013862610775	105.482255794946	0
+Melilotus_wolgicus	MN533350.1	28-OCT-2019	334	China	secondary	psbA-trnH	35.0530040905112	104.839076449194	0
+Melilotus_wolgicus	MN533349.1	28-OCT-2019	322	USA	secondary	psbA-trnH	39.1066618380845	-100.246762109544	0
+Melilotus_wolgicus	MN533348.1	28-OCT-2019	334	China	secondary	psbA-trnH	35.3140569896341	105.094593280898	0
+Melilotus_wolgicus	MN533347.1	28-OCT-2019	334	China	secondary	psbA-trnH	35.1530775909853	106.056771708718	0
+Melilotus_wolgicus	MN533123.1	28-OCT-2019	322	USA	secondary	psbA-trnH	39.4215437246751	-101.381520703379	0
+Melilotus_wolgicus	MN533122.1	28-OCT-2019	322	USA	secondary	psbA-trnH	39.4910643955394	-100.758704345819	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_inclinata	OR557596.1	01-NOV-2023	513	Kazakhstan: Qaragandy region	primary	rbcL	49.49993	73.26461	0
+Potentilla_inclinata	MG248935.1	21-JAN-2018	553	Canada: Ontario, Niagara Co. Niagara Falls Railway Yard, off Whirlpool Road. UTM 17 E655972 N4776569	primary	rbcL	43.126	-79.082	0
+Potentilla_inclinata	MG246590.1	21-JAN-2018	553	Canada: Ontario, Prince Edward Co. Miller Tract, Hastings-Prince Edward Land Trust, Hill Top Road	primary	rbcL	43.902	-77.05	0
+Potentilla_inclinata	MG248233.1	21-JAN-2018	553	Canada: Ontario, Downtown Hamilton. Railway tracks by corner of August and Walnut Streets	secondary	rbcL	44.0787328205172	-77.9595206988826	0
+Potentilla_inclinata	MG245915.1	21-JAN-2018	536	Canada: Ontario, Bass Lake outlet, Sheguiandah, Manitoulin Island	secondary	rbcL	43.9241672401028	-77.4555411396592	0

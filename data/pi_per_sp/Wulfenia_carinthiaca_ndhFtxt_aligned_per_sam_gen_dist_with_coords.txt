@@ -1,0 +1,49 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Wulfenia_carinthiaca	KC237868.1	30-NOV-2013	852	Montenegro: Prokletije, Karanfili	secondary	ndhF	41.910046565494	19.1305105266129	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237867.1	30-NOV-2013	837	Montenegro: Prokletije, Karanfili	secondary	ndhF	42.7180215410726	19.9259585022198	5.09619059752835e-05
+Wulfenia_carinthiaca	KC237866.1	30-NOV-2013	851	Montenegro: Prokletije, Karanfili	secondary	ndhF	42.6906207987017	20.315400466529	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237865.1	30-NOV-2013	852	Montenegro: Prokletije, Karanfili	secondary	ndhF	41.8830333835276	19.797690651491	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237864.1	30-NOV-2013	852	Montenegro: Prokletije, Karanfili	secondary	ndhF	41.8727928090891	20.626774815741	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237834.1	30-NOV-2013	853	Montenegro: Prokletije, Maja e Jezerces	secondary	ndhF	43.0307628117951	19.9078348739177	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237833.1	30-NOV-2013	853	Montenegro: Prokletije, Maja e Jezerces	secondary	ndhF	42.7131958248328	18.8312618291785	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237832.1	30-NOV-2013	852	Montenegro: Prokletije, Maja e Jezerces	secondary	ndhF	42.5456119299086	20.5324639970831	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237831.1	30-NOV-2013	852	Montenegro: Prokletije, Maja e Jezerces	secondary	ndhF	42.8319991066115	18.9900234168715	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237830.1	30-NOV-2013	849	Montenegro: Prokletije, Maja e Jezerces	secondary	ndhF	42.1848074999252	19.1490068874916	5.01215447460091e-05
+Wulfenia_carinthiaca	KC237829.1	30-NOV-2013	850	Montenegro: Prokletije, Bogicevica	secondary	ndhF	41.6891685784244	19.9063412945176	0.00223351997301868
+Wulfenia_carinthiaca	KC237828.1	30-NOV-2013	850	Montenegro: Prokletije, Bogicevica	secondary	ndhF	42.445783196676	18.8445275237646	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237827.1	30-NOV-2013	847	Montenegro: Prokletije, Bogicevica	secondary	ndhF	42.6970888957035	20.7963481576844	5.02398955010174e-05
+Wulfenia_carinthiaca	KC237826.1	30-NOV-2013	842	Montenegro: Prokletije, Bogicevica	secondary	ndhF	42.5791648017506	18.8033219820534	2.52691160863193e-05
+Wulfenia_carinthiaca	KC237825.1	30-NOV-2013	851	Montenegro: Prokletije, Bogicevica	secondary	ndhF	41.8403135505041	20.6576375774339	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237824.1	30-NOV-2013	851	Montenegro: Prokletije, Zeletin	secondary	ndhF	42.3738181032233	19.0217261366756	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237823.1	30-NOV-2013	851	Montenegro: Prokletije, Zeletin	secondary	ndhF	42.0893934102472	19.3204991291781	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237822.1	30-NOV-2013	850	Montenegro: Prokletije, Zeletin	secondary	ndhF	42.3511785089024	19.9936795183292	5.01215447460091e-05
+Wulfenia_carinthiaca	KC237821.1	30-NOV-2013	851	Montenegro: Prokletije, Zeletin	secondary	ndhF	42.152846303245	20.0068827715793	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237820.1	30-NOV-2013	851	Montenegro: Prokletije, Zeletin	secondary	ndhF	42.5296895179743	19.7042188931004	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237819.1	30-NOV-2013	851	Montenegro: Prokletije, Maja Kolata	secondary	ndhF	41.6750050931752	19.9864943029783	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237818.1	30-NOV-2013	851	Montenegro: Prokletije, Maja Kolata	secondary	ndhF	42.2032673216617	19.3219013430344	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237817.1	30-NOV-2013	836	Montenegro: Prokletije, Maja Kolata	secondary	ndhF	42.5463456841467	18.9268054858923	5.09619059752835e-05
+Wulfenia_carinthiaca	KC237816.1	30-NOV-2013	850	Montenegro: Prokletije, Maja Kolata	secondary	ndhF	42.985212287066	20.8110878097166	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237815.1	30-NOV-2013	851	Montenegro: Prokletije, Maja Kolata	secondary	ndhF	42.4671381909577	20.0278801222222	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237814.1	30-NOV-2013	819	Montenegro: Prokletije, Visitor	secondary	ndhF	42.0462042525334	19.3839195026092	0
+Wulfenia_carinthiaca	KC237813.1	30-NOV-2013	849	Montenegro: Prokletije, Visitor	secondary	ndhF	42.8366948680521	20.8041990631598	5.01215447460091e-05
+Wulfenia_carinthiaca	KC237812.1	30-NOV-2013	851	Montenegro: Prokletije, Visitor	secondary	ndhF	42.7599719196242	19.5792438535385	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237811.1	30-NOV-2013	851	Montenegro: Prokletije, Visitor	secondary	ndhF	42.1406324050221	19.4708955566825	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237810.1	30-NOV-2013	852	Montenegro: Prokletije, Visitor	secondary	ndhF	41.9553639268736	19.0863017046092	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237809.1	30-NOV-2013	851	Montenegro: Prokletije, Hajla	secondary	ndhF	42.4119235818378	20.2961209274245	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237808.1	30-NOV-2013	852	Montenegro: Prokletije, Hajla	secondary	ndhF	42.8909812596048	20.0258881786131	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237807.1	30-NOV-2013	850	Montenegro: Prokletije, Hajla	secondary	ndhF	42.9051056763954	19.578823949931	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237806.1	30-NOV-2013	850	Montenegro: Prokletije, Hajla	secondary	ndhF	42.3116637297621	19.0544366292541	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237805.1	30-NOV-2013	830	Montenegro: Prokletije, Starac	secondary	ndhF	42.7984359407024	19.9560270475335	5.13307496855992e-05
+Wulfenia_carinthiaca	KC237804.1	30-NOV-2013	851	Montenegro: Prokletije, Starac	secondary	ndhF	42.7663097739792	20.3496144823846	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237803.1	30-NOV-2013	851	Montenegro: Prokletije, Starac	secondary	ndhF	42.5614293901623	19.8287056049003	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237802.1	30-NOV-2013	850	Montenegro: Prokletije, Starac	secondary	ndhF	42.1037126639407	19.8705640875443	5.01215447460091e-05
+Wulfenia_carinthiaca	KC237801.1	30-NOV-2013	851	Montenegro: Prokletije, Sjekirica	secondary	ndhF	42.1463763280813	18.7445140611853	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237800.1	30-NOV-2013	851	Montenegro: Prokletije, Sjekirica	secondary	ndhF	42.7798320970198	20.3118999714199	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237799.1	30-NOV-2013	851	Montenegro: Prokletije, Sjekirica	secondary	ndhF	42.4686889799667	20.2614137900147	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237798.1	30-NOV-2013	819	Montenegro: Prokletije, Sjekirica	secondary	ndhF	42.9273597866823	20.1787909083576	0
+Wulfenia_carinthiaca	KC237797.1	30-NOV-2013	853	Montenegro: Prokletije, Sjekirica	secondary	ndhF	42.7089937808874	20.3280239028464	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237796.1	30-NOV-2013	850	Kosovo: Prokletije, Nedzinat	secondary	ndhF	42.7453044238745	20.436987443864	5.01215447460091e-05
+Wulfenia_carinthiaca	KC237795.1	30-NOV-2013	818	Kosovo: Prokletije, Nedzinat	secondary	ndhF	42.9162150652114	19.4304884648774	5.20210164906622e-05
+Wulfenia_carinthiaca	KC237794.1	30-NOV-2013	851	Kosovo: Prokletije, Nedzinat	secondary	ndhF	42.8708480282842	21.2099869498141	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237793.1	30-NOV-2013	852	Kosovo: Prokletije, Nedzinat	secondary	ndhF	42.3548179620398	20.6059151319699	5.00625782227785e-05
+Wulfenia_carinthiaca	KC237792.1	30-NOV-2013	852	Kosovo: Prokletije, Nedzinat	secondary	ndhF	42.4294846586646	19.4942509033943	5.00625782227785e-05

@@ -1,0 +1,52 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melica_uniflora	KX909993.1	29-MAR-2017	586	Montenegro: vicinity of Povija, near Ostrog Monastery	primary	psbA-trnH	42.67	19.0297	0.00361774744027304
+Melica_uniflora	KX909992.1	29-MAR-2017	586	Croatia: Dinaric Alps, near Lokvarka Cave	primary	psbA-trnH	45.0625091919335	13.5625862530787	0.00348122866894198
+Melica_uniflora	KX909991.1	29-MAR-2017	586	Croatia: Dinaric Alps, near Lokvarka Cave	primary	psbA-trnH	45.341369587566	15.452840374579	0.00522184300341297
+Melica_uniflora	KX909990.1	29-MAR-2017	586	Austria: S Hainburg an dem Donau, Hundsheimer Berge	primary	psbA-trnH	48.133	16.933	0.00348122866894198
+Melica_uniflora	KX909989.1	29-MAR-2017	586	Hungary: Hereg near Tatabanya	primary	psbA-trnH	48.2604284852956	18.3705450055526	0.00348122866894198
+Melica_uniflora	KX909988.1	29-MAR-2017	586	Hungary: Hereg near Tatabanya	primary	psbA-trnH	46.8813274458594	18.0936897667451	0.00361774744027304
+Melica_uniflora	KX909987.1	29-MAR-2017	586	Hungary: N Pecs, Misina Mt.	primary	psbA-trnH	46.1	18.22	0.00348122866894198
+Melica_uniflora	KX909986.1	29-MAR-2017	586	Bulgaria: Western Stara Planina Mts., Vratsa, near Ledenika Cave	primary	psbA-trnH	43.204	23.491	0.00361774744027304
+Melica_uniflora	KX909985.1	29-MAR-2017	586	Bulgaria: Rila Mts., Kirilova Polyana	primary	psbA-trnH	42.15	23.422	0.00361774744027304
+Melica_uniflora	KX909984.1	29-MAR-2017	586	Bulgaria: Lyulin Mts., Klisura	primary	psbA-trnH	42.65	23.15	0.00361774744027304
+Melica_uniflora	KX909983.1	29-MAR-2017	586	Bulgaria: Vitosha Mts., Belata Voda	primary	psbA-trnH	42.644	23.227	0.00361774744027304
+Melica_uniflora	KX909982.1	29-MAR-2017	586	Bulgaria: Western Rhodope Mts., Perperikon	primary	psbA-trnH	41.687	25.546	0.00361774744027304
+Melica_uniflora	KX909981.1	29-MAR-2017	586	Bulgaria: Black Sea coast, Golden Sands	primary	psbA-trnH	43.26	28.027	0.00361774744027304
+Melica_uniflora	KX909980.1	29-MAR-2017	586	Bulgaria: Vitosha Mts., Knyajevo	primary	psbA-trnH	42.653	23.242	0.00361774744027304
+Melica_uniflora	KX909979.1	29-MAR-2017	586	Slovenia: Ljubljana-Podutik	primary	psbA-trnH	46.078	14.443	0.00348122866894198
+Melica_uniflora	KX909978.1	29-MAR-2017	586	Germany: E Kleinsaubernitz	primary	psbA-trnH	51.267	14.618	0.00348122866894198
+Melica_uniflora	KX909977.1	29-MAR-2017	586	France: Central Pyrenees, vicinity of village Cassagnas	primary	psbA-trnH	44.249	3.975	0.00348122866894198
+Melica_uniflora	KX909976.1	29-MAR-2017	586	Austria: Thayatal, Hardegg	primary	psbA-trnH	48.6578869470142	16.6568457279437	0.00522184300341297
+Melica_uniflora	KX909975.1	29-MAR-2017	586	Austria: Thayatal, Hardegg	primary	psbA-trnH	48.7820464924291	15.2437872556769	0.00348122866894198
+Melica_uniflora	KX909974.1	29-MAR-2017	586	Austria: Thayatal, Hardegg	primary	psbA-trnH	48.8627961855017	15.8857687363667	0.00361774744027304
+Melica_uniflora	KX909973.1	29-MAR-2017	586	Slovenia: Kamnisko-Savinjske Alpe, Krvavec Mt.	primary	psbA-trnH	46.288	14.515	0.00348122866894198
+Melica_uniflora	KX909972.1	29-MAR-2017	586	Italy: Western Alps, vicinity of village Canebola	primary	psbA-trnH	46.178	13.388	0.00348122866894198
+Melica_uniflora	KX909971.1	29-MAR-2017	586	Sweden: Oland, vicinity of Morbylang	primary	psbA-trnH	56.533	16.467	0.00348122866894198
+Melica_uniflora	KX909970.1	29-MAR-2017	586	Austria: Vien	primary	psbA-trnH	48.179	16.313	0.00361774744027304
+Melica_uniflora	KX909969.1	29-MAR-2017	586	Romania: Transilvania, Cisnadie near Sibiu	primary	psbA-trnH	45.7128	24.1491	0.00348122866894198
+Melica_uniflora	KX909968.1	29-MAR-2017	586	Poland: Sudetes, Gory Kaczawskie Mts., vicinity of village Jawor, 'Wawoz Mysliborski' reserve	primary	psbA-trnH	51.02	16.1	0.00348122866894198
+Melica_uniflora	KX909967.1	29-MAR-2017	586	Poland: Sudetes, Gory Kaczawskie Mts., Swiny near Bolkow	primary	psbA-trnH	50.95	16.12	0.00348122866894198
+Melica_uniflora	KX909966.1	29-MAR-2017	586	Poland: Pieniny Mts., Szafranowka Mt.	primary	psbA-trnH	49.41	20.48	0.00361774744027304
+Melica_uniflora	KX909965.1	29-MAR-2017	586	Poland: vicinity of Dylewo, 'Uroczysko Dylewo' reserve	primary	psbA-trnH	53.54	19.96	0.00361774744027304
+Melica_uniflora	KX909964.1	29-MAR-2017	586	Poland: vicinity of Krotoszyn	primary	psbA-trnH	51.695	17.4411	0.00348122866894198
+Melica_uniflora	KX909963.1	29-MAR-2017	586	Poland: Pojezierze Chodzieskie lakeland, near Wagrowiec, 'Debina' reserve	primary	psbA-trnH	52.8	17.14	0.00361774744027304
+Melica_uniflora	KX909962.1	29-MAR-2017	586	Poland: Kartoszyno	primary	psbA-trnH	54.76	18.1	0.00361774744027304
+Melica_uniflora	KX909961.1	29-MAR-2017	586	Poland: Pojezierze Drawskie lakeland, Moczele	primary	psbA-trnH	53.08	15.9	0.00361774744027304
+Melica_uniflora	KX909960.1	29-MAR-2017	586	Poland: Western Carpathians, Beskid Wyspowy Mts., 'Bialowodzka Gora' reserve	primary	psbA-trnH	49.68	20.62	0.00348122866894198
+Melica_uniflora	KX909959.1	29-MAR-2017	586	Poland: Western Carpathians, Pogorze Roznowskie foothills, Wroblowice	primary	psbA-trnH	49.877	20.867	0.00348122866894198
+Melica_uniflora	KX909958.1	29-MAR-2017	586	Poland: Wyzyna Slasko-Krakowska Upland, 'Zielona Gora' reserve	primary	psbA-trnH	50.78	19.23	0.00361774744027304
+Melica_uniflora	KX909957.1	29-MAR-2017	586	Poland: Wyzyna Malopolska Upland, Dubie, Widoma Mt.	primary	psbA-trnH	50.17	19.72	0.00348122866894198
+Melica_uniflora	KX909956.1	29-MAR-2017	586	Germany: Hessen, vicinity of Breithardt	primary	psbA-trnH	50.175	8.0833	0.00348122866894198
+Melica_uniflora	KX909955.1	29-MAR-2017	586	Czech Republic: Znojmo	secondary	psbA-trnH	48.8554341	16.0489457	0.00348122866894198
+Melica_uniflora	KX909954.1	29-MAR-2017	586	Ukraine: Rastivci	secondary	psbA-trnH	49.22424	26.09528	0.00361774744027304
+Melica_uniflora	KX909951.1	29-MAR-2017	586	France: Alpes Maritimes, Col du Castillon	secondary	psbA-trnH	43.9420151	7.0202319150654	0.00348122866894198
+Melica_uniflora	KX909949.1	29-MAR-2017	586	Czech Republic: Moravia, Lysa hora	secondary	psbA-trnH	49.5459784	18.4472696	0.00361774744027304
+Melica_uniflora	KX909947.1	29-MAR-2017	586	Romania: Craiova	secondary	psbA-trnH	44.3190159	23.7965614	0.00361774744027304
+Melica_uniflora	KX909946.1	29-MAR-2017	586	Italy: Mt. Faito, Castellamare di Stabia	secondary	psbA-trnH	46.2394633	12.9473081	0.00348122866894198
+Melica_uniflora	KX909945.1	29-MAR-2017	586	Romania: Margineni	secondary	psbA-trnH	45.8297942	23.4604655	0.00361774744027304
+Melica_uniflora	KX909944.1	29-MAR-2017	586	Slovakia: Dubnik	secondary	psbA-trnH	47.9585854	18.4132259	0.00348122866894198
+Melica_uniflora	KX909943.1	29-MAR-2017	586	Denmark: Langeland, Morkholm	secondary	psbA-trnH	55.117718	10.9321883	0.00348122866894198
+Melica_uniflora	KX909941.1	29-MAR-2017	586	Hungary: Cserepfalu, Hor-volgy	secondary	psbA-trnH	47.9429765	20.5360221	0.00361774744027304
+Melica_uniflora	KX909953.1	29-MAR-2017	586	Ukraine	secondary	psbA-trnH	48.68832	26.17115	0.00361774744027304
+Melica_uniflora	KX909952.1	29-MAR-2017	586	France	secondary	psbA-trnH	42.4794084	3.1275893	0.00348122866894198
+Melica_uniflora	KX909942.1	29-MAR-2017	586	Poland	secondary	psbA-trnH	49.1783356	22.5265964	0.00348122866894198

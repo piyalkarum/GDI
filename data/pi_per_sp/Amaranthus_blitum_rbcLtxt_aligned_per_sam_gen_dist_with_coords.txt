@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Amaranthus_blitum	MG249804.1	21-JAN-2018	552	Canada: Quebec, Ste-Foy, rue St-Cyrille	primary	rbcL	46.783	-71.275	0.124308027519247
+Amaranthus_blitum	MN204799.1	30-NOV-2021	721	China	secondary	rbcL	34.3223920668488	105.20846901583	0.125515905021289
+Amaranthus_blitum	MN192574.1	30-NOV-2021	723	China	secondary	rbcL	35.2034858799695	105.321059522599	0.121747165667112
+Amaranthus_blitum	KY884431.1	30-APR-2018	584	United Kingdom: England, Hertfordshire	secondary	rbcL	51.8400523	-0.0978552	0.486163711798203
+Amaranthus_blitum	MG249256.1	21-JAN-2018	553	Canada: Ontario, Niagara Region. St. Catherines. R. Hogan property, 1871 Sunset Lane, RR#3. North side of lane above Lake ontario. NAD83 17 636651 4782400	secondary	rbcL	45.3658443	15.6575209	0.124066841674844
+Amaranthus_blitum	MG248684.1	21-JAN-2018	553	Canada: Quebec, Montebello. Bad grass in the garden of l'Institut Familial.	secondary	rbcL	46.6728383194613	-72.4137598981084	0.124066841674844
+Amaranthus_blitum	MG248525.1	21-JAN-2018	552	Canada: Quebec, Papineau Co., Montebello, l'Institut Familial	secondary	rbcL	46.1086015038841	-71.3204767704916	0.124308027519247
+Amaranthus_blitum	KX282528.1	28-MAY-2017	526	Kuwait	secondary	rbcL	29.3796532	47.9734174	0.12829132039567
+Amaranthus_blitum	KP318832.1	05-JUN-2015	645	South Korea: Chuncheon	secondary	rbcL	37.8810569	127.7297641	0.483305524533111
+Amaranthus_blitum	HM849763.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.12190968895109

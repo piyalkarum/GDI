@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kundmannia_sicula	HE687501.1	04-MAY-2012	160	Morocco:Marrakech	secondary	psbA-trnH	31.4726152594226	-8.99719402092874	0.00416666666666667
+Kundmannia_sicula	HE687455.1	04-MAY-2012	141	Morocco:Marrakech	secondary	psbA-trnH	31.9492621485637	-7.28467547920678	0.00236406619385343
+Kundmannia_sicula	HE687448.1	04-MAY-2012	185	Morocco:Marrakech	secondary	psbA-trnH	30.9356113740585	-7.65950831191327	0.0036036036036036
+Kundmannia_sicula	HE602490.1	14-OCT-2011	250	Morocco	secondary	psbA-trnH	28.3347722	-10.3713379	0.0101343364641237

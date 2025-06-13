@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_boveana	MH626182.1	14-AUG-2019	649	Spain	secondary	rps16	38.8113096683953	-5.57797295349158	0
+Tamarix_boveana	KP244415.1	23-JUN-2015	658	Spain	secondary	rps16	40.1245886835623	-4.46410007544231	0
+Tamarix_boveana	KP244414.1	23-JUN-2015	658	Morocco	secondary	rps16	28.3347722	-10.3713379	0
+Tamarix_boveana	KP244413.1	23-JUN-2015	658	Algeria	secondary	rps16	28.0000272	2.9999825	0

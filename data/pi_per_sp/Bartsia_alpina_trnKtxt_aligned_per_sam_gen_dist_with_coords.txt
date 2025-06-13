@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bartsia_alpina	JF900570.1	05-MAR-2013	1030	Canada	secondary	trnK	61.0666922	-107.991707	0.00268321899597021
+Bartsia_alpina	JF900569.1	05-MAR-2013	1055	Finland	secondary	trnK	63.2467777	25.9209164	0.00266670391401102
+Bartsia_alpina	JF900568.1	05-MAR-2013	1067	Italy	secondary	trnK	42.6384261	12.674297	0.00168894252692878
+Bartsia_alpina	JF900567.1	05-MAR-2013	1029	Germany	secondary	trnK	40.4203479	-79.1166983	0.00390342810419076
+Bartsia_alpina	FJ790106.1	01-JAN-2010	2408	Austria: Hohe Tauern	secondary	trnK	47.0522965	13.2016429	0.00171785386466211

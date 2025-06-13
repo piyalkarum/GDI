@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Micranthes_tenuis	KC474999.1	25-OCT-2013	783	Canada: Nunavut, Melville Island, Beverley Inlet, E of river, 0.5 - 2.5 km from sea	primary	matK	75.1	-107.633	0
+Micranthes_tenuis	KC474998.1	25-OCT-2013	783	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	matK	74.5333	-82.7833	0
+Micranthes_tenuis	KC474997.1	25-OCT-2013	783	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of northfacing cliffs 68 km ENE of Uluhkatok, south of Minto Inlet	primary	matK	71.199	-116.284	0
+Micranthes_tenuis	KC474996.1	25-OCT-2013	769	Canada: Nunavut, Ellesmere Island, Fosheim Peninsula	primary	matK	79.483	-83.0833	0
+Micranthes_tenuis	KC474995.1	25-OCT-2013	783	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve. Tanquary Fiord Quad, Yelverton Pass area	primary	matK	81.6167	-77.8333	0
+Micranthes_tenuis	KC474994.1	25-OCT-2013	783	Canada: Northwest Territories, Victoria Island, Minto Inlet, Rocky cliffs above south shore of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.235	-116.455	0

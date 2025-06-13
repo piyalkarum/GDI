@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_provincialis	JX894940.1	19-DEC-2012	478	France: Alpes-Maritimes, Caussols, summet de Calern	secondary	matK	43.4437846606273	7.96318624279285	0.00679916317991632
+Senecio_provincialis	JX894939.1	19-DEC-2012	478	France: Alpes-Maritimes, Caussols, summet de Calern	secondary	matK	44.107784856049	7.61961932207384	0.00679916317991632
+Senecio_provincialis	JX894938.1	19-DEC-2012	478	France: Alpes-Maritimes, Caussols, summet de Calern	secondary	matK	43.1777242875076	7.19865643362901	0.00679916317991632
+Senecio_provincialis	JX894935.1	19-DEC-2012	478	France: Alpes-Maritimes, Caussols, summet de Calern	secondary	matK	44.1124091290337	7.51452540490422	0.00679916317991632
+Senecio_provincialis	JX894934.1	19-DEC-2012	478	Spain: El Priorat, La Morera de Montsant, pr. Pla de la Mola	secondary	matK	42.3514897	2.9806921	0.0271966527196653

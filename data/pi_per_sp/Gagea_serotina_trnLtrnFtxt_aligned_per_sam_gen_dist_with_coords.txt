@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_serotina	LT985830.1	14-JUN-2019	210	Russia	secondary	trnL-trnF	64.4952824691099	98.4202124001507	0
+Gagea_serotina	LT985829.1	14-JUN-2019	209	Russia	secondary	trnL-trnF	65.4649358126236	98.7220400494666	0
+Gagea_serotina	LT985828.1	14-JUN-2019	204	USA	secondary	trnL-trnF	40.2772712275034	-99.8349440040791	0
+Gagea_serotina	LT985827.1	14-JUN-2019	204	USA	secondary	trnL-trnF	40.2787080450879	-100.564253040792	0
+Gagea_serotina	LT985826.1	14-JUN-2019	204	USA	secondary	trnL-trnF	40.6151877905695	-100.283676439455	0
+Gagea_serotina	LT985825.1	14-JUN-2019	204	USA	secondary	trnL-trnF	40.4666173581814	-100.903232617903	0
+Gagea_serotina	LT985824.1	14-JUN-2019	207	Poland	secondary	trnL-trnF	52.215933	19.134422	0
+Gagea_serotina	LT985823.1	14-JUN-2019	207	Italy	secondary	trnL-trnF	42.6384261	12.674297	0
+Gagea_serotina	LT985822.1	14-JUN-2019	207	Bulgaria	secondary	trnL-trnF	46.7889169	23.6184909	0
+Gagea_serotina	AM493963.1	22-FEB-2007	267	Russia:Tuva	secondary	trnL-trnF	51.4017149	93.8582593	0

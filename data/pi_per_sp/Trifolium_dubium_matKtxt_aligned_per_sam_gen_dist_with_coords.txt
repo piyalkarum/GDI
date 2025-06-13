@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_dubium	KX677733.1	09-AUG-2017	812	Canada: British Columbia, Powell River Regional District, Southern Hernando Island	primary	matK	49.983	-124.917	0.000202167318329907
+Trifolium_dubium	KX677728.1	09-AUG-2017	709	Canada: British Columbia, Fraser Valley Regional District, East side of Harrison Lake, along primitive road just outside Cascade Peninsula Forest Recreation Site	primary	matK	49.44	-121.777	0.000113288773082588
+Trifolium_dubium	KX677586.1	09-AUG-2017	706	Canada: British Columbia, Kootenay Boundary Regional District, Gladstone Provincial Park, Badger Trail	primary	matK	49.123	-118.242	0.000113791533909877
+Trifolium_dubium	KX677035.1	09-AUG-2017	716	Canada: British Columbia, Vancouver Island, Capital Regional District, Sooke Potholes Provincial Park, along trail to Lookout Point	primary	matK	48.431	-123.713	0.00011213276519399
+Trifolium_dubium	KX676712.1	09-AUG-2017	821	Canada: British Columbia, Greater Vancouver Regional District, Pitt Meadows	primary	matK	49.233	-122.683	0.000199795164724393
+Trifolium_dubium	KX676636.1	09-AUG-2017	709	Canada: British Columbia, Vancouver Island, Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	matK	50.045	-125.501	0.000113288773082588
+Trifolium_dubium	JN894681.1	07-MAR-2012	749	United Kingdom: Carmarthenshire	primary	matK	52.1435462797788	-4.87314232163547	0.000102701037280477
+Trifolium_dubium	JN894454.1	07-MAR-2012	932	United Kingdom: Carmarthenshire	primary	matK	52.4043505579732	-5.21542138674971	0.00019061935775742
+Trifolium_dubium	KJ204549.1	29-JAN-2015	770	Switzerland: Geneva	secondary	matK	45.971344425062	6.32512626749068	0.000105808909110147
+Trifolium_dubium	KJ204548.1	29-JAN-2015	731	Switzerland: Geneva	secondary	matK	46.2406607974095	6.20726458558937	0.000113288773082588
+Trifolium_dubium	HM851151.1	23-JUL-2011	727	Portugal	secondary	matK	39.328859047686	-9.15995759054756	0.00131964382438768
+Trifolium_dubium	JX505830.1	09-JAN-2013	1358	Portugal	secondary	matK	39.0203350446676	-8.09741955871079	0.00019061935775742
+Trifolium_dubium	JN895467.1	07-MAR-2012	785	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.000215073489656859
+Trifolium_dubium	JN894250.1	07-MAR-2012	907	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000664549246800867

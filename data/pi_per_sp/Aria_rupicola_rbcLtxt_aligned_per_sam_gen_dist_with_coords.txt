@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aria_rupicola	JN891351.1	07-MAR-2012	542	United Kingdom: Breconshire	primary	rbcL	51.84	-3.18	0
+Aria_rupicola	MK925548.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Aria_rupicola	GQ248698.1	24-JUN-2009	553	United Kingdom: Gloucestershire	secondary	rbcL	51.7643786	-2.1880662	0
+Aria_rupicola	JN891603.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0
+Aria_rupicola	JN891596.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

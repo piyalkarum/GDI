@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arenaria_tetraquetra	AY692402.1	01-DEC-2005	317	Spain: Huesca, Benasque	secondary	trnL-trnF	42.6052663	0.5237318	0.00791139240506329
+Arenaria_tetraquetra	AY692386.1	01-DEC-2005	333	Spain: Jaen, Sierra de la Cabrilla	secondary	trnL-trnF	37.8924736	-2.8172809	0.0460328829179581
+Arenaria_tetraquetra	AY692385.1	01-DEC-2005	331	Spain: Huesca, Tella	secondary	trnL-trnF	42.5742879	0.183005	0.013595166163142
+Arenaria_tetraquetra	AY692384.1	01-DEC-2005	333	Spain: Granada, Sierra Nevada, Aguas verdes	secondary	trnL-trnF	37.1734995	-3.5995337	0.0105437035331841
+Arenaria_tetraquetra	AY692383.1	01-DEC-2005	333	Spain: Albacete, Calar del rio Mundo	secondary	trnL-trnF	38.4686756	-2.4566705	0.0105437035331841
+Arenaria_tetraquetra	AY692382.1	01-DEC-2005	333	Spain: Jaen, Santiago de la Espada	secondary	trnL-trnF	38.1112962	-2.5513193	0.0151096152334077
+Arenaria_tetraquetra	AY692376.1	01-DEC-2005	334	Spain: Granada, Sierra Nevada, Mulhacen	secondary	trnL-trnF	37.0941383	-3.4001171	0.0105437035331841

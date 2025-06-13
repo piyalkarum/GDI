@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Taxus_baccata	OQ320376.1	14-JUN-2023	469	Latvia	secondary	psbA-trnH	56.8406494	24.7537645	0.00106609808102345
+Taxus_baccata	MT311838.1	28-SEP-2020	580	Russia	secondary	psbA-trnH	64.6863136	97.7453061	0.000862068965517241
+Taxus_baccata	MT311837.1	28-SEP-2020	591	United Kingdom	secondary	psbA-trnH	54.7023545	-3.2765753	0.00142172892758096
+Taxus_baccata	MT311836.1	28-SEP-2020	591	Georgia	secondary	psbA-trnH	32.3293809	-83.1137366	0.00142172892758096
+Taxus_baccata	MT311835.1	28-SEP-2020	591	Bulgaria	secondary	psbA-trnH	46.7889169	23.6184909	0.00142172892758096
+Taxus_baccata	HE966843.1	18-SEP-2012	616	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00307992956956687
+Taxus_baccata	FJ493316.1	22-DEC-2008	661	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.0058190519653444

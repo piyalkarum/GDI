@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Androsace_halleri	AY275013.1	12-MAY-2003	932	France	secondary	trnL-trnF	46.603354	1.8883335	0
+Androsace_halleri	EU655589.1	30-JUN-2009	932	Spain: Pyrenees	secondary	trnL-trnF	42.5824012	0.5388272	0
+Androsace_halleri	EU655588.1	30-JUN-2009	932	Spain: Cordillera Cantabrica	secondary	trnL-trnF	43.2000527	-4.8479957	0
+Androsace_halleri	EU655587.1	30-JUN-2009	932	France: Vosges	secondary	trnL-trnF	48.163786	6.3820712	0
+Androsace_halleri	EU655586.1	30-JUN-2009	932	France: Massif Central	secondary	trnL-trnF	45.4248753	2.7873028	0

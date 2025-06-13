@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dryas_octopetala	MG246547.1	21-JAN-2018	552	Canada: Yukon Territory, Mount Klotz area	primary	rbcL	65.365	-140.185	0.319439453826806
+Dryas_octopetala	JN965496.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0.319439453826806
+Dryas_octopetala	JN965495.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas heath	primary	rbcL	58.769	-93.862	0.319439453826806
+Dryas_octopetala	JN892241.1	07-MAR-2012	542	United Kingdom: Caernarfonshire	primary	rbcL	53.12	-3.94	0.321480938416422
+Dryas_octopetala	LC759973.1	12-SEP-2023	553	Japan:Yamanashi, Minami-alps	secondary	rbcL	35.6083617	138.4649893	0.319885242962166
+Dryas_octopetala	AB685704.1	04-DEC-2013	658	China:Mt. Changbai	secondary	rbcL	41.5687467	127.8415521	0.321608287770088
+Dryas_octopetala	AB685702.1	04-DEC-2013	658	Japan:Hokkaido, Taisetsu mountains	secondary	rbcL	43.4603175	143.330715792837	0.321608287770088
+Dryas_octopetala	AB933339.1	16-MAY-2015	658	Sweden: Hemavan	secondary	rbcL	66.0443765706217	14.3252144946412	0.320247104853266
+Dryas_octopetala	AB933337.1	16-MAY-2015	658	Sweden: Hemavan	secondary	rbcL	65.4502736149059	14.9152184738196	0.320247104853266
+Dryas_octopetala	AB933335.1	16-MAY-2015	658	Sweden: Hemavan	secondary	rbcL	65.4478704486942	13.2431418566634	0.320799743703777
+Dryas_octopetala	AB933333.1	16-MAY-2015	658	Sweden: Hemavan	secondary	rbcL	66.2092202851972	16.8536681961577	0.320247104853266
+Dryas_octopetala	JN890656.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.321480938416422

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_paniculata	JN894850.1	07-MAR-2012	834	United Kingdom: Glamorgan	primary	matK	51.57	-3.47	0.000254777070063694
+Carex_paniculata	MN507665.1	16-AUG-2020	747	Italy: Sicily, Monti Nebrodi	secondary	matK	36.7428154	14.6938478	0
+Carex_paniculata	KP980057.1	21-SEP-2015	785	Greece	secondary	matK	43.2097838	-77.6930602	0.000764331210191083
+Carex_paniculata	KP980036.1	21-SEP-2015	785	Spain	secondary	matK	39.3260685	-4.8379791	0.000254777070063694
+Carex_paniculata	JN895367.1	07-MAR-2012	815	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.000254777070063694
+Carex_paniculata	JN894861.1	07-MAR-2012	772	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

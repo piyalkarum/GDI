@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_pauciflora	MG226601.1	23-JAN-2018	552	Canada: Nova Scotia, Cumberland Co, 5 km SE of River Herbert	primary	rbcL	45.65	-64.336	0.184995737425405
+Carex_pauciflora	MG225694.1	23-JAN-2018	552	USA: Alaska, Kenai Peninsula, W side of Seward hwy, 13 mi N of jct Sterling Hwy to Soldotna	primary	rbcL	60.7006	-149.471	0.184995737425405
+Carex_pauciflora	JN893827.1	07-MAR-2012	542	United Kingdom: Denbighshire	primary	rbcL	52.97	-3.81	0.185087719298246
+Carex_pauciflora	LC486155.1	17-JUL-2019	698	Japan:Hokkaido	secondary	rbcL	43.4603175	143.3307158	0.555079194149055

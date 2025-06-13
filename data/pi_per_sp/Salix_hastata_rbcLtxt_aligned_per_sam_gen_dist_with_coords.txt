@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_hastata	MZ359337.1	07-DEC-2021	548	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.0905707196029777
+Salix_hastata	KC483955.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, between road and Darnley Bay	primary	rbcL	69.3917	-124.056	0.0903465346534654
+Salix_hastata	KC483954.1	25-OCT-2013	552	Canada: Yukon Territory, Shingle Point, Drinking hole on mailand	primary	rbcL	68.97	-137.37	0.0903465346534654
+Salix_hastata	KC483953.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Firth River Floodplain	primary	rbcL	68.66	-140.91	0.0903465346534654
+Salix_hastata	LC757954.1	08-MAR-2023	700	Japan:Miyagi, Botanical Gardens of Tohoku University	secondary	rbcL	34.9803071	139.838919	0.544760506713557
+Salix_hastata	HE612036.1	16-NOV-2011	597	Russia:Magadan region	secondary	rbcL	63.5515028	154.014726	0.0915750915750916
+Salix_hastata	HE612050.1	16-NOV-2011	597	Russia:Kamchatka	secondary	rbcL	57.1914882	160.0383819	0.0915750915750916

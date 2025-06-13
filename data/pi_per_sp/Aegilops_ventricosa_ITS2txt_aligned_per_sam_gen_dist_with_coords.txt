@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aegilops_ventricosa	FR716133.1	23-DEC-2010	611	France	secondary	ITS2	46.603354	1.8883335	0
+Aegilops_ventricosa	FR716132.1	23-DEC-2010	611	Syria	secondary	ITS2	34.0564180147143	39.543228120157	0
+Aegilops_ventricosa	FR716131.1	23-DEC-2010	611	Syria	secondary	ITS2	34.9090555369258	39.5787281875284	0
+Aegilops_ventricosa	FR716130.1	23-DEC-2010	611	Syria	secondary	ITS2	34.0711423454627	39.4465037147534	0
+Aegilops_ventricosa	FR716129.1	23-DEC-2010	611	Syria	secondary	ITS2	34.3150870305864	38.2794051980848	0
+Aegilops_ventricosa	FR716128.1	23-DEC-2010	611	Romania	secondary	ITS2	45.9852129	24.6859225	0

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_regelii	KC482430.1	25-OCT-2013	552	Canada: Nunavut, Ellef Ringnes Island, Isachsen, Reindeer Peninsula, central part	primary	rbcL	78.9167	-104.633	0
+Cerastium_regelii	KC482429.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Scoresby Bay	primary	rbcL	79.8819	-71.5472	0
+Cerastium_regelii	KC482428.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.913	-109.591	0
+Cerastium_regelii	KC482427.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Boot Inlet, Small conical hill E of small round lake (~1 km diameter, ca. 4 km N of Boot Inlet on N side of Minto Inlet)	primary	rbcL	71.605	-117.38	0
+Cerastium_regelii	KC482426.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Intrepid Inlet, west shore, 8 km N of Disappointment Point	primary	rbcL	76.37	-118.59	0
+Cerastium_regelii	KC482425.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, NE part, Parker River Valley, N side ca. 7 km from se	primary	rbcL	73.62	-115.85	0
+Cerastium_regelii	KC482424.1	25-OCT-2013	552	Canada: Nunavut, Cornwallis Island, Resolute Bay, Resolute Bay beside hamlet	primary	rbcL	75.1333	-94.8	0
+Cerastium_regelii	KC482423.1	25-OCT-2013	525	Canada: Nunavut	primary	rbcL	70.6667	-107.55	0

@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Valeriana_officinalis	OR575212.1	25-OCT-2023	514	Kazakhstan: Qaragandy region	primary	rbcL	49.756	73.11774	0.0010943579766537
+Valeriana_officinalis	ON684518.1	21-AUG-2022	1428	Portugal: Meiral, Canidelo, Vila Nova de Gaia	primary	rbcL	41.12447	-8.64486	0.0019809187458417
+Valeriana_officinalis	MG221738.1	26-DEC-2017	553	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay, lisiere entre le boise et la rue	primary	rbcL	45.518	-73.742	0.00137570270674202
+Valeriana_officinalis	MG221177.1	26-DEC-2017	552	Canada: Yukon Territory, Whitehorse, Cowley Creek Subdivision	primary	rbcL	60.591	-134.895	0.00101902173913043
+Valeriana_officinalis	MF349672.1	21-SEP-2017	553	USA: District of Columbia; United States Botanic Garden, 100 Maryland Ave SW.	primary	rbcL	38.888	-77.012	0.00101717902350814
+Valeriana_officinalis	KX283350.1	07-JUN-2016	553	Canada: Ontario, Carleton County, 100 m SE of Highway 17 / Trim Road intersection, Cumberland, regional Municipality of Ottawa	primary	rbcL	45.4917	-75.4833	0.00137570270674202
+Valeriana_officinalis	KJ841647.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Under powerline by Research Station	primary	rbcL	45.535	-73.15	0.0015773796639106
+Valeriana_officinalis	JN893515.1	07-MAR-2012	535	United Kingdom: Monmouthshire	primary	rbcL	51.64	-2.83	0.00105140186915888
+Valeriana_officinalis	OR670263.1	06-NOV-2023	594	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00503429920808536
+Valeriana_officinalis	MT931272.1	03-MAR-2023	569	China	secondary	rbcL	34.8173750806014	104.900339460527	0.00100446676857658
+Valeriana_officinalis	MT931271.1	03-MAR-2023	572	China	secondary	rbcL	34.5886981228213	105.555157715404	0.00100254578310874
+Valeriana_officinalis	KX283356.1	07-JUN-2016	553	Canada: Ontario, Valleys of the Rouge, Clay soil amongst grasses and other cultivated plants of old garden	secondary	rbcL	43.7560009128238	-78.2442731985818	0.00137570270674202
+Valeriana_officinalis	KX283355.1	07-JUN-2016	553	Canada: Ontario, R.M.Halton, Town of Milton, Halton forest South ANSI,. Extensive escarpment bedrock plain and escarpment slope 4 km SE of Campbellville	secondary	rbcL	43.7157964173231	-77.4276930442807	0.00137570270674202
+Valeriana_officinalis	KX283348.1	07-JUN-2016	553	Canada: Ontario, Carleton County, Nepean Twp, 11 miles SE of center of Ottawa (Slaughter house Road), app. Escaped from cultivation	secondary	rbcL	43.7894997999651	-76.9009087022838	0.00137570270674202
+Valeriana_officinalis	JN893079.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00103782287822878
+Valeriana_officinalis	JN892722.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9875065	-1.1773256	0.00103782287822878
+Valeriana_officinalis	JN890693.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00103782287822878

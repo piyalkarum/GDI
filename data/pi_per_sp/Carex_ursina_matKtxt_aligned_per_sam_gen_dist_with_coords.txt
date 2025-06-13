@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_ursina	KC474408.1	25-OCT-2013	773	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Outer delta, west of Whitefish Station	primary	matK	68.893	-136.902	0.000130548302872063
+Carex_ursina	KC474407.1	25-OCT-2013	720	Canada: Nunavut, Canadian Arctic Archipelago, Ellesmere Island, RCMP Post, Alexandra Fiord	primary	matK	78.53	-75.45	0.000138888888888889
+Carex_ursina	KC474406.1	25-OCT-2013	769	Canada: Northwest Territories, Melville Island (Northwest Territories), Murray Inlet. Site 59, west arm of inlet NW of Mount Joy. Deep valley cut in sandstone and siltstone of the Beverley Inlet formation	primary	matK	75.3	-114.667	0.00105737329711046
+Carex_ursina	KC474405.1	25-OCT-2013	532	Canada: Northwest Territories, Banks Island (Northwest Territories), Sachs Harbour, Sachs River delta	primary	matK	72	-125	0
+Carex_ursina	KC474403.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	matK	70.735	-117.761	0.000130039011703511
+Carex_ursina	KC474402.1	25-OCT-2013	758	Canada: Northwest Territories, Victoria Island, Minto Inlet, Coast on S side of river delta at head of N arm of Minto Inlet	primary	matK	71.631	-115.476	0
+Carex_ursina	KP980151.1	21-SEP-2015	728	Russia: Yamalia-Nenetsia	secondary	matK	67.1471631	74.3415488	0.000137741046831956
+Carex_ursina	KP980063.1	21-SEP-2015	785	Canada: Yukon Territory	secondary	matK	62.93917182348	-136.879992065175	0.000130039011703511
+Carex_ursina	KP980058.1	21-SEP-2015	785	Canada: Yukon Territory	secondary	matK	62.8030175919952	-135.86197229531	0.000130039011703511
+Carex_ursina	KP980025.1	21-SEP-2015	785	Greenland	secondary	matK	35.9948477	-94.1796014	0.000130039011703511
+Carex_ursina	KP980010.1	21-SEP-2015	785	USA: Alaska	secondary	matK	64.4459613	-149.680909	0.000130039011703511

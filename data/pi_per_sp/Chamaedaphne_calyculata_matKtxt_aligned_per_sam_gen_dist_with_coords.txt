@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chamaedaphne_calyculata	MG225049.1	21-JAN-2018	777	Canada: Ontario, Nipissing District, Sproule Township, Around Cabins at Wildlife Research Station, Algonquin Park	primary	matK	45.592	-78.523	0.00202575031692567
+Chamaedaphne_calyculata	MG224979.1	21-JAN-2018	777	Canada: Ontario, Cochrane District, Timmins, Tamarack Trail, Kettle Lakes Provincial Park	primary	matK	48.576	-80.88	0.00202575031692567
+Chamaedaphne_calyculata	MG224879.1	21-JAN-2018	778	Canada: Ontario, Wellington County, Guelph, Downey road, just north of 401 highway, in a ditch	primary	matK	43.445	-80.213	0.00203316287345408
+Chamaedaphne_calyculata	KJ592893.1	17-MAR-2015	736	USA: Wisconsin, Blackwell	primary	matK	45.555	-88.574	0.0122542652844316
+Chamaedaphne_calyculata	KJ592892.1	17-MAR-2015	756	USA: Wisconsin, Crandon	primary	matK	45.603	-89.002	0.00269335429847096
+Chamaedaphne_calyculata	KJ592891.1	17-MAR-2015	743	USA: Wisconsin, Phelps	primary	matK	46.011	-89.012	0.00186776811823015
+Chamaedaphne_calyculata	LC680453.1	03-MAY-2022	768	Japan: Hokkaido	secondary	matK	43.4519831	142.8197834	0.00239586318937457
+Chamaedaphne_calyculata	LC610863.1	25-AUG-2021	834	Japan:Hokkaido, Nemuro	secondary	matK	43.3301154	145.5829068	0.00283655111867821
+Chamaedaphne_calyculata	MF349933.1	21-SEP-2017	797	USA	secondary	matK	38.8950368	-77.0365427	0.00203444688002103

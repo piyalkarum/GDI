@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_trichomanes	MG215537.1	24-JAN-2018	551	Canada: 800 m south of head of North Arm, NFLD	primary	rbcL	47.3928	-53.157	0.00246918115555404
+Asplenium_trichomanes	MG215049.1	24-JAN-2018	551	Canada: Cheekye n. of Squamish, BC	primary	rbcL	49.7017	-123.159	0.00246918115555404
+Asplenium_trichomanes	OP330067.1	01-MAR-2023	1428	South Korea: Yeoncheon-gun	secondary	rbcL	38.0964	127.0746	0.00255757779834224
+Asplenium_trichomanes	MT657737.1	27-JUL-2021	1309	USA: Hawaii	secondary	rbcL	19.5938015	-155.4283701	0.00317587379222676
+Asplenium_trichomanes	MK827042.1	30-APR-2020	1232	USA: Virginia	secondary	rbcL	37.1232245	-78.4927721	0.0041330776866569
+Asplenium_trichomanes	MK827035.1	30-APR-2020	1210	USA: Washington	secondary	rbcL	38.8950368	-77.0365427	0.002629133659615
+Asplenium_trichomanes	MK827026.1	30-APR-2020	1232	USA: Oregon	secondary	rbcL	43.9792797	-120.737257	0.00257701758788785
+Asplenium_trichomanes	MK827025.1	30-APR-2020	954	USA: Big Island	secondary	rbcL	19.8279350002425	-156.339917712506	0.00294007115192564
+Asplenium_trichomanes	MK827008.1	30-APR-2020	954	USA: Big Island	secondary	rbcL	18.836664374698	-155.774220628397	0.00294007115192564
+Asplenium_trichomanes	MK826985.1	30-APR-2020	1239	Canada: British Columbia	secondary	rbcL	55.674819986448	-125.361488754048	0.00259425634511331
+Asplenium_trichomanes	MK826984.1	30-APR-2020	1239	Canada: British Columbia	secondary	rbcL	54.9704072473269	-123.916175133758	0.00259425634511331
+Asplenium_trichomanes	MK826744.1	30-APR-2020	1239	China: Taiwan Island	secondary	rbcL	0.0744908430015155	166.594875340763	0.00318440390830673
+Asplenium_trichomanes	MK826743.1	30-APR-2020	1239	China: Taiwan Island	secondary	rbcL	-0.277415987369414	167.770621806522	0.00318440390830673
+Asplenium_trichomanes	MK826742.1	30-APR-2020	1239	China: Taiwan Island	secondary	rbcL	-0.928253516363808	167.320575496717	0.00318440390830673
+Asplenium_trichomanes	MK826626.1	30-APR-2020	1239	China: Yunnan	secondary	rbcL	25.3915610378992	102.17686093727	0.00259425634511331
+Asplenium_trichomanes	MK826602.1	30-APR-2020	1204	China: Yunnan	secondary	rbcL	24.8412182039475	101.613186725849	0.00264399901139543
+Asplenium_trichomanes	LR585210.1	28-JAN-2020	1239	Spain:A Coruna, Santiago	secondary	rbcL	42.8411382	-8.4967896	0.00415109349696677
+Asplenium_trichomanes	LR585209.1	28-JAN-2020	1239	Spain:Avila, Solosancho	secondary	rbcL	40.552537	-4.9050209	0.00415109349696677
+Asplenium_trichomanes	LR585208.1	28-JAN-2020	1239	Spain:Madrid, Bustarviejo	secondary	rbcL	40.4619042	-3.6956234	0.00415109349696677
+Asplenium_trichomanes	MG215355.1	24-JAN-2018	552	Canada: Ontario, Bruce Co., Bruce Peninsula, Cape Croker.	secondary	rbcL	45.1836064	-81.4730735	0.00455199315243961
+Asplenium_trichomanes	KP774920.1	08-SEP-2015	1260	Australia: Bogong, Victoria	secondary	rbcL	-36.796961	147.221541601379	0.00400893084487083
+Asplenium_trichomanes	KP774868.1	08-SEP-2015	1242	Australia: Glenelg River, Victoria	secondary	rbcL	-37.5403033	141.3972946	0.00376124996440048
+Asplenium_trichomanes	KP899655.1	01-SEP-2015	1234	Spain: Sa,Montemayor	secondary	rbcL	41.5097936	-1.837069	0.00417394566088303
+Asplenium_trichomanes	KP899654.1	01-SEP-2015	1234	Spain: Bu,Crespos	secondary	rbcL	42.8969226	-3.7835331	0.00417394566088303
+Asplenium_trichomanes	KP899653.1	01-SEP-2015	1234	Spain: O,Luarca	secondary	rbcL	43.5439003	-6.5357408	0.00417394566088303
+Asplenium_trichomanes	AB574879.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.00742405704783545
+Asplenium_trichomanes	GU586822.1	27-MAR-2010	1260	India	secondary	rbcL	22.3511148	78.6677428	0.00417315729214764
+Asplenium_trichomanes	KF186504.1	23-SEP-2013	1309	Canada	secondary	rbcL	43.3600536	-80.3123023	0.00408494970450027

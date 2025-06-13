@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brassica_napus	LC089996.1	27-OCT-2015	763	Japan	secondary	5.8S rRNA	36.5748441	139.2394179	0.444139757739878
+Brassica_napus	AB456109.1	03-MAR-2009	651	Japan: Shizuoka, National Institute of Fruit Tree Science, Citrus Research Station	secondary	5.8S rRNA	34.979149	138.38299	0.46819342374187
+Brassica_napus	AB513368.1	23-JUL-2009	796	Japan:Tochigi	secondary	5.8S rRNA	36.7407141024039	139.260581020195	0.350630258560943
+Brassica_napus	AB513367.1	23-JUL-2009	796	Japan:Tochigi	secondary	5.8S rRNA	37.1484360707473	138.883076171819	0.350630258560943

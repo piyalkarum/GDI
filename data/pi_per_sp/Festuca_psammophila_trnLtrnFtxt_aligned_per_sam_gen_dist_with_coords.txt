@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_psammophila	LR218052.1	30-JUL-2021	958	Germany	primary	trnL-trnF	52.5644	14.1253	0.000771912881146451
+Festuca_psammophila	LR218048.1	30-JUL-2021	972	Germany	primary	trnL-trnF	52.465	14.4967	0.000449723928417211
+Festuca_psammophila	LR218047.1	30-JUL-2021	970	Germany	primary	trnL-trnF	52.4647	14.4828	0.000772068643431066
+Festuca_psammophila	LR218046.1	30-JUL-2021	971	Germany	primary	trnL-trnF	51.8964	12.0392	0.000450055729729038
+Festuca_psammophila	LR218045.1	30-JUL-2021	936	Germany	primary	trnL-trnF	52.1886	11.7281	0.00046152315150043
+Festuca_psammophila	LR218044.1	30-JUL-2021	980	Germany	primary	trnL-trnF	52.3739	13.7086	0.00044845687717716
+Festuca_psammophila	LR218043.1	30-JUL-2021	841	Germany	primary	trnL-trnF	52.3667	13.7019	0.000510002342487933
+Festuca_psammophila	LR218042.1	30-JUL-2021	957	Germany	primary	trnL-trnF	52.4625	12.8011	0.000775780504734255

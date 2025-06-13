@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_atrofusca	MK582164.1	13-MAY-2020	857	USA: Alaska, Kotzebue Quad.	secondary	rps16	39.4703246	-86.6413912	0.000944849083553299
+Carex_atrofusca	AM085621.1	07-JAN-2006	786	Greenland:Myggbukta	secondary	rps16	73.4906673	-21.5557429	0.000954198473282443
+Carex_atrofusca	AM085620.1	07-JAN-2006	786	Russia:Chekurovka	secondary	rps16	71.047	127.5235	0.000954198473282443
+Carex_atrofusca	AM085618.1	07-JAN-2006	794	Russia:Taymyr, Khatanga	secondary	rps16	74.4787053	101.65750856266	0.000944849083553299
+Carex_atrofusca	AM085617.1	07-JAN-2006	795	Russia:Altai, Sarzhematy	secondary	rps16	49.7995174	86.5788193	0.000422216446493758
+Carex_atrofusca	AM085616.1	07-JAN-2006	795	Russia:Altai, Aktash	secondary	rps16	50.3127248	87.6028375	0.000422216446493758
+Carex_atrofusca	AM085614.1	07-JAN-2006	796	Norway:Kongsvoll	secondary	rps16	62.3029778	9.605775	0.000421951745811995
+Carex_atrofusca	AM085613.1	07-JAN-2006	796	United Kingdom:Scotland, Meall Garbh	secondary	rps16	56.4400171	-4.5516386	0.000421951745811995
+Carex_atrofusca	AM085610.1	07-JAN-2006	797	Austria:Wiesbachhorn	secondary	rps16	47.1567037	12.7549465	0.000421951745811995
+Carex_atrofusca	AM085608.1	07-JAN-2006	796	Switzerland:Samnaun, Zeblasjoch	secondary	rps16	46.9375886	10.3089838	0.000421951745811995
+Carex_atrofusca	AM085612.1	07-JAN-2006	796	Slovakia	secondary	rps16	49.256728	20.216217	0.000421951745811995
+Carex_atrofusca	AM085611.1	07-JAN-2006	796	Slovakia	secondary	rps16	49.2448029	20.2070795	0.000421951745811995
+Carex_atrofusca	AM085609.1	07-JAN-2006	796	Austria	secondary	rps16	47.0024995	12.2412281	0.000421951745811995

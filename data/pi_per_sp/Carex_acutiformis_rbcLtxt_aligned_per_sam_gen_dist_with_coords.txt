@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_acutiformis	MG227832.1	23-JAN-2018	552	Canada: Ontario, Ottawa, City of, Nepean Tp., Stony Swamp Conservation Area, 1.25 km SW of Moodie Dr. along Robertson Dr. (old Hwy 7) 300 m SW of railway underpass	primary	rbcL	45.8853537495124	-75.0952726525187	0
+Carex_acutiformis	MG225812.1	23-JAN-2018	552	Canada: Ontario, Ottawa, City of, Nepean, 0.5 km SW of railway overpass along N side of Robertson Rd., ca. 1 km E of Canmet Rd	primary	rbcL	45.953162940425	-75.938332899925	0
+Carex_acutiformis	JN891230.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.81	-4.17	0
+Carex_acutiformis	JN892448.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Carex_acutiformis	JN892445.1	07-MAR-2012	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0

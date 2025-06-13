@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helleborus_viridis	JN895804.1	07-MAR-2012	797	United Kingdom: Monmouthshire	primary	matK	51.52	-2.87	0.00325723734372155
+Helleborus_viridis	HQ619830.1	26-DEC-2010	895	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.00666164240700336
+Helleborus_viridis	JN894001.1	07-MAR-2012	826	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0034111688365573
+Helleborus_viridis	JN894000.1	07-MAR-2012	875	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00368668542130877
+Helleborus_viridis	AJ414339.1	15-SEP-2002	871	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00541504581799296
+Helleborus_viridis	AJ414338.1	15-SEP-2002	874	Italy	secondary	matK	42.6384261	12.674297	0.00746697489665629

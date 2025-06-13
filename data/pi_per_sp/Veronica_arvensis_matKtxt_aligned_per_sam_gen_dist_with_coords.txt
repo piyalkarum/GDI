@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_arvensis	KJ841039.1	23-SEP-2014	768	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	matK	45.535	-73.149	0
+Veronica_arvensis	JN894701.1	07-MAR-2012	785	United Kingdom: Glamorgan	primary	matK	51.78	-3.37	0
+Veronica_arvensis	MH551813.1	11-MAR-2019	753	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.6814498	-81.9683386867758	0
+Veronica_arvensis	HQ619837.1	26-DEC-2010	898	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0
+Veronica_arvensis	HM851034.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0
+Veronica_arvensis	HE967019.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0
+Veronica_arvensis	JN895713.1	07-MAR-2012	775	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0
+Veronica_arvensis	JN893997.1	07-MAR-2012	769	United Kingdom: Flintshire	secondary	matK	53.2165096	-3.1402189	0

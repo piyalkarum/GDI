@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Secale_sylvestre	MH893931.1	24-APR-2019	548	Poland	secondary	trnL-trnF	52.215933	19.134422	0.0158678969812977
+Secale_sylvestre	MH893930.1	24-APR-2019	544	Bulgaria	secondary	trnL-trnF	46.7889169	23.6184909	0.0118136659753567
+Secale_sylvestre	MH893929.1	24-APR-2019	591	Hungary	secondary	trnL-trnF	41.9767629	-72.7789842	0.0133222878020916
+Secale_sylvestre	MH893928.1	24-APR-2019	631	Russia	secondary	trnL-trnF	64.6863136	97.7453061	0.0124291195386047

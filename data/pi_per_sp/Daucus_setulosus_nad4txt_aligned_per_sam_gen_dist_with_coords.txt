@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daucus_setulosus	MN260989.1	25-AUG-2020	273	Turkey:Mugla	primary	nad4	38.217981013175	27.8289048542172	0.197802197802198
+Daucus_setulosus	MN260988.1	25-AUG-2020	273	Greece:Peloponnese	primary	nad4	36.6237743472057	23.2648271069598	0.197802197802198
+Daucus_setulosus	MN260952.1	25-AUG-2020	8034	Turkey:Mugla	primary	nad4	37.7368486175435	26.8067148604114	0.197802197802198
+Daucus_setulosus	MN260951.1	25-AUG-2020	8034	Greece:Peloponnese	primary	nad4	37.461904161181	22.0805982123386	0.197802197802198

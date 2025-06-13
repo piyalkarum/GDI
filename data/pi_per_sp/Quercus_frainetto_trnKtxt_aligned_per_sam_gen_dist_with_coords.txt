@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_frainetto	OQ990809.1	13-AUG-2023	624	Italy: Latium	secondary	trnK	41.2403215526486	13.3387330993343	0.000961538461538462
+Quercus_frainetto	OQ990804.1	13-AUG-2023	624	Italy: Basilicata	secondary	trnK	40.500571	16.081953	0.000961538461538462
+Quercus_frainetto	HE583670.1	04-SEP-2011	693	Greece	secondary	trnK	43.2097838	-77.6930602	0.000897713397713398
+Quercus_frainetto	HE583636.1	04-SEP-2011	693	Bulgaria:Rila	secondary	trnK	42.110495	23.5155922	0.000897713397713398
+Quercus_frainetto	HE583629.1	04-SEP-2011	693	Italy:Latium	secondary	trnK	41.9061372725349	13.695675091908	0.000897713397713398
+Quercus_frainetto	HE583628.1	04-SEP-2011	693	Italy:Apulia	secondary	trnK	40.9842539	16.6210027	0.000897713397713398

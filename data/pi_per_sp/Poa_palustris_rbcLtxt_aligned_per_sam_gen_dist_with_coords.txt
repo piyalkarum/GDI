@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_palustris	MF596982.1	28-FEB-2018	549	Canada: Alberta, E shore of Lesser Slave Lake	primary	rbcL	55.5335123070992	-114.875479730336	0.000641593145485443
+Poa_palustris	MF596981.1	28-FEB-2018	603	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	rbcL	48.3483616243592	-98.4780480219825	0.000956253102466365
+Poa_palustris	MF596980.1	28-FEB-2018	603	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	rbcL	48.5912399382641	-98.1265938815095	0.00212384997428325
+Poa_palustris	MF596979.1	28-FEB-2018	603	Canada: Manitoba	primary	rbcL	48.4325777209561	-98.344506170021	0.000956253102466365
+Poa_palustris	MF596978.1	28-FEB-2018	549	Canada: British Columbia, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Rd. Dry mud flats with Juncus.	primary	rbcL	48.7674337051773	-123.481162816569	0.000641593145485443
+Poa_palustris	MF596977.1	28-FEB-2018	603	Canada: Yukon Territory, 12 mi S of Beaver Creek and 19 mi NE up Snag Creek Road.	primary	rbcL	62.1607915982002	-141.607040541255	0.000956253102466365
+Poa_palustris	MF596976.1	28-FEB-2018	591	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	rbcL	49.105953305071	-99.7924147878272	0.002496478839955
+Poa_palustris	MG228033.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Timmins, NEBIE Block#3, Intensive treatment	primary	rbcL	48.344	-81.304	0.000639118290017003
+Poa_palustris	MG227094.1	23-JAN-2018	603	Canada: Manitoba	primary	rbcL	49.6138328110268	-99.041512457315	0.000956253102466365
+Poa_palustris	MG227020.1	23-JAN-2018	549	Canada: British Columbia, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Rd. Dry mud flats with Juncus.	primary	rbcL	48.5567838859229	-122.291085821158	0.000641593145485443
+Poa_palustris	MG226919.1	23-JAN-2018	552	Canada: Ontario, Lambton County, St. Clair Twp., Wet ditch along Hwy 40, south of Sarnia	primary	rbcL	42.78	-82.418	0.000639118290017003
+Poa_palustris	MG226871.1	23-JAN-2018	552	Canada: Ontario, Renfrew County, Brudnell & Lyndoch Township Municipality, Madawaska River, Ottawa area	primary	rbcL	45.23	-77.37	0.000639118290017003
+Poa_palustris	MG226843.1	23-JAN-2018	591	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	rbcL	48.8983274183129	-99.8646931864811	0.002496478839955
+Poa_palustris	MG226491.1	23-JAN-2018	603	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	rbcL	48.6762436068881	-98.8914214789597	0.000956253102466365
+Poa_palustris	MG226476.1	23-JAN-2018	603	Canada: Yukon Territory, 12 mi S of Beaver Creek and 19 mi NE up Snag Creek Road.	primary	rbcL	61.9871472292255	-139.605078686161	0.000956253102466365
+Poa_palustris	MG225838.1	23-JAN-2018	549	Canada: Alberta, E shore of Lesser Slave Lake	primary	rbcL	54.679324372855	-115.502759262305	0.000641593145485443
+Poa_palustris	MG225597.1	23-JAN-2018	603	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	rbcL	48.65851650848	-98.854119072803	0.00212384997428325
+Poa_palustris	KC483562.1	25-OCT-2013	552	Canada: Yukon Territory, Blow River Delta, Danny C. Gordon's goose camp	primary	rbcL	68.898	-136.97	0.00374082837919807
+Poa_palustris	JN965750.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality	primary	rbcL	58.3250666421633	-92.4642543793593	0.000639118290017003
+Poa_palustris	JN965749.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality	primary	rbcL	59.1661118052242	-94.4658155873407	0.00547284284407846
+Poa_palustris	KY888679.1	25-MAR-2018	651	Russia: Kemerovo	secondary	rbcL	55.3550907	86.0871213	0.000953778246997924

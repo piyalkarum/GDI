@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_sibirica	MK556117.1	22-SEP-2019	346	Romania	secondary	atpB-rbcL	46.5924373773995	24.9404876419867	0.325613813356133
+Campanula_sibirica	MK556096.1	22-SEP-2019	346	Hungary	secondary	atpB-rbcL	42.2829141676975	-72.8358121837001	0.327757436078533
+Campanula_sibirica	MK556038.1	22-SEP-2019	361	Romania	secondary	atpB-rbcL	45.3296337462369	24.4769354548247	0.32475884244373
+Campanula_sibirica	MK556016.1	22-SEP-2019	361	Hungary	secondary	atpB-rbcL	41.6937535226038	-71.9207228491027	0.32475884244373

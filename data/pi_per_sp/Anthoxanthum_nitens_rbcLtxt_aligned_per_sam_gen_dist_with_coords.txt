@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthoxanthum_nitens	KF713022.1	15-DEC-2013	1096	South Korea: Daegu, Dalseong-gun, Yuga-myeon	secondary	rbcL	35.8713	128.6018	0
+Anthoxanthum_nitens	KF713021.1	15-DEC-2013	1096	South Korea: Chungcheongbuk-do, Okcheon-gun	secondary	rbcL	36.3061692	127.571482	0
+Anthoxanthum_nitens	KF713020.1	15-DEC-2013	1096	South Korea: Goseong, Gangwon-do	secondary	rbcL	34.4916397	126.3210639	0
+Anthoxanthum_nitens	KF713019.1	15-DEC-2013	1096	South Korea: Suwon-si, Gyeonggi-do	secondary	rbcL	37.267483	126.934611	0
+Anthoxanthum_nitens	JX848487.1	06-AUG-2013	1380	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0

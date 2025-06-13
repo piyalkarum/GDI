@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_obtusata	OL540267.1	16-AUG-2022	825	Russia	secondary	rps16	65.1554783611541	98.2245110202182	0.356810520521861
+Calamagrostis_obtusata	OL540266.1	16-AUG-2022	825	Russia	secondary	rps16	64.7599842831634	97.5151282278543	0.356810520521861
+Calamagrostis_obtusata	OL540176.1	16-AUG-2022	728	Russia	secondary	rps16	65.0487247827165	97.7788544184319	0.35640648011782
+Calamagrostis_obtusata	OL540175.1	16-AUG-2022	728	Russia	secondary	rps16	65.0800050823435	97.0682768941088	0.35640648011782

@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_corymbosa	MG248019.1	21-JAN-2018	552	Canada: Manitoba, Wapusk National Park	primary	rbcL	58.411	-93.227	0
+Draba_corymbosa	KT960591.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.7655443000779	-22.7710265264348	0
+Draba_corymbosa	KT960523.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.8620441972128	-20.635843256685	0
+Draba_corymbosa	KC482587.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Boot Inlet, Large hill on W side of small round lake (~1 km diameter, ca. 4 km N of Boot Inlet)	primary	rbcL	71.0195410600083	-118.844422272658	0
+Draba_corymbosa	KC482586.1	25-OCT-2013	552	Canada: Northwest Territories, Cape Bathurst Peninsula, 9 km SSW of Cape Bathurst along shores of the Arctic Ocean	primary	rbcL	70.4967	-128.149	0
+Draba_corymbosa	KC482585.1	25-OCT-2013	552	Canada: Nunavut, Bathurst Island, Polar Bear Pass	primary	rbcL	75.7167	-98.3833	0
+Draba_corymbosa	KC482584.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	rbcL	74.5333	-82.7833	0
+Draba_corymbosa	KC482583.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, John Richardson Bay, Near John Richardson Bay, near the face of a glacier	primary	rbcL	80.3458	-71.3431	0
+Draba_corymbosa	KC482582.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Boot Inlet, Large hill on W side of small round lake (~1 km diameter, ca. 4 km N of Boot Inlet)	primary	rbcL	72.06612668227	-116.254941694611	0
+Draba_corymbosa	KC482581.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, Valley at the junction of 3 rivers 6 km NE of head of Minto Inlet	primary	rbcL	71.687	-115.512	0
+Draba_corymbosa	KC482580.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of slope in river valley 7 km NE of Minto Inlet in valley at small river that feeds into head of Inlet	primary	rbcL	71.735	-115.549	0
+Draba_corymbosa	KC482579.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Gentle slope below steep scree below a large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.1104133111153	-117.912906095824	0
+Draba_corymbosa	KC482578.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Rocky talus towards summit of arge conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.1312527768579	-115.64417249647	0
+Draba_corymbosa	KC482577.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.663	-115.58	0
+Draba_corymbosa	KC482576.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Boot Inlet, Large hill on W side of small round lake (~1 km diameter, ca. 4 km N of Boot Inlet)	primary	rbcL	71.57	-117.494	0
+Draba_corymbosa	KC482575.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Boot Inlet, Large hill on W side of small round lake (~1 km diameter, ca. 4 km N of Boot Inlet)	primary	rbcL	71.060740169855	-118.135829883631	0
+Draba_corymbosa	KC482574.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Escarpment SE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 6 km E of Uluhaktok Fishing Camp	primary	rbcL	71.231	-116.462	0
+Draba_corymbosa	KC482573.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, D'Iberville	primary	rbcL	80.6	-79.58	0
+Draba_corymbosa	KC482572.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Boot Inlet, NW side of small round lake (~1 km diameter, ca. 4 km N of Boot Inlet on N side of Minto Inlet)	primary	rbcL	71.608	-117.48	0
+Draba_corymbosa	KC482571.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of northfacing cliffs 68 km ENE of Uluhkatok, south of Minto Inlet	primary	rbcL	71.199	-116.284	0
+Draba_corymbosa	KC482570.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Boot Inlet, Large hill on W side of small round lake (~1 km diameter, ca. 4 km N of Boot Inlet)	primary	rbcL	71.9400002426353	-116.856878661637	0
+Draba_corymbosa	KC482569.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Boot Inlet, Large hill on W side of small round lake (~1 km diameter, ca. 4 km N of Boot Inlet)	primary	rbcL	71.6555283750822	-116.864692554874	0
+Draba_corymbosa	KC482568.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Camp 13 km north of Oterkvik Point, 10 km north of coast at Coronation Gulf, upper camp area	primary	rbcL	68.739	-112.625	0
+Draba_corymbosa	KC482567.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of cliffs on S shore of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.27	-116.46	0
+Draba_corymbosa	KC482566.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Boot Inlet, Summit of large hill on W side of small round lake (~1 km diameter, ca. 4 km N of Boot Inlet)	primary	rbcL	71.561	-117.463	0
+Draba_corymbosa	KC482565.1	25-OCT-2013	552	Canada: Nunavut, Cornwallis Island, Resolute	primary	rbcL	74.683	-94.083	0
+Draba_corymbosa	KC482564.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, De Salis Bay, ~4km W of Windrum Lagoon, ~2km N of Sandhill River, S-facing slope above lake	primary	rbcL	71.4808	-121.923	0

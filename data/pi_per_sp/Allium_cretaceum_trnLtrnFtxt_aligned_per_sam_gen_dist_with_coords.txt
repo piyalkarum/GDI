@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_cretaceum	HG794039.1	14-MAY-2015	316	Russia	secondary	trnL-trnF	64.7113901802842	99.7091744146834	0
+Allium_cretaceum	HG794034.1	14-MAY-2015	316	Russia	secondary	trnL-trnF	65.3454050378007	98.1199233567482	0
+Allium_cretaceum	HG794033.1	14-MAY-2015	316	Kazakhstan	secondary	trnL-trnF	48.1012954	66.7780818	0
+Allium_cretaceum	HG794012.1	14-MAY-2015	316	Russia	secondary	trnL-trnF	64.9418881900964	99.0919777497462	0
+Allium_cretaceum	HG794011.1	14-MAY-2015	316	Russia	secondary	trnL-trnF	64.3021777714506	99.4288727860753	0
+Allium_cretaceum	HG794010.1	14-MAY-2015	316	Russia	secondary	trnL-trnF	65.0240197324808	98.9765032088528	0

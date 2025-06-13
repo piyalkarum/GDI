@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helictochloa_bromoides	LR606903.1	25-JAN-2021	2124	France	secondary	trnK	47.174948049875	1.74898059379905	0.0147730325006715
+Helictochloa_bromoides	HG797430.1	26-SEP-2014	762	France	secondary	trnK	46.8222179204377	1.2482494430638	0.0156347717323327
+Helictochloa_bromoides	JX438087.1	31-MAR-2013	1245	Spain	secondary	trnK	39.3260685	-4.8379791	NA
+Helictochloa_bromoides	FM956474.1	08-FEB-2009	236	France	secondary	trnK	47.2683213108308	1.79289724493832	NA

@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juniperus_communis	MK801057.1	04-FEB-2020	523	USA: Idaho, Sawtooth Mountains, Mount Cramer	primary	trnL-trnF	44.01108	-114.98117	0.0173404920266496
+Juniperus_communis	MK801056.1	04-FEB-2020	523	USA: Idaho, White Cloud Mountains, Castle Peak	primary	trnL-trnF	44.04019	-114.58878	0.0201049769719451
+Juniperus_communis	MK801055.1	04-FEB-2020	523	USA: Idaho, Sawtooth Mountains, Horstmann Peak	primary	trnL-trnF	44.1117	-115.00318	0.0173404920266496
+Juniperus_communis	MK801054.1	04-FEB-2020	523	USA: Idaho, Sawtooth Mountains, Thompson Peak	primary	trnL-trnF	44.14219	-115.01358	0.0173404920266496
+Juniperus_communis	KY468493.1	29-JAN-2017	310	Bosnia and Herzegovina	secondary	trnL-trnF	44.9983003552633	17.6585289191515	0.00614291487581066
+Juniperus_communis	KY468492.1	29-JAN-2017	320	Bosnia and Herzegovina	secondary	trnL-trnF	44.2566400591044	18.3239148676642	0.00839707328684548
+Juniperus_communis	KY468491.1	29-JAN-2017	312	Bosnia and Herzegovina	secondary	trnL-trnF	43.9296019775334	18.2007968339152	0.00614291487581066
+Juniperus_communis	KY468490.1	29-JAN-2017	307	Bosnia and Herzegovina	secondary	trnL-trnF	44.6032934373365	18.3153235762446	0.00507661635291906
+Juniperus_communis	KY468489.1	29-JAN-2017	312	Bosnia and Herzegovina	secondary	trnL-trnF	44.5532190684281	16.6658338151911	0.0061807310199248
+Juniperus_communis	KY468488.1	29-JAN-2017	307	Bosnia and Herzegovina	secondary	trnL-trnF	43.9236099847402	17.848644937119	0.00615196532689544
+Juniperus_communis	LT627815.1	18-OCT-2016	640	Russia:Amur Oblast, Selemdzhinsky District, Ekimchan	secondary	trnL-trnF	53.068481	132.940369	0.00848557181098326
+Juniperus_communis	LT627814.1	18-OCT-2016	640	Russia:Kamchatka Peninsula, Esso	secondary	trnL-trnF	55.8680319	158.802531158524	0.00848557181098326
+Juniperus_communis	AY354294.1	09-SEP-2003	314	Switzerland: Alps	secondary	trnL-trnF	46.3400988	6.1722939	0.0113294653777028
+Juniperus_communis	AY354293.1	09-SEP-2003	314	Spain: Madrid	secondary	trnL-trnF	40.4167047	-3.7035825	0.0113294653777028
+Juniperus_communis	AY354292.1	09-SEP-2003	314	Spain: Jaen	secondary	trnL-trnF	37.9557275	-3.4920556	0.0113294653777028
+Juniperus_communis	AY354291.1	09-SEP-2003	314	Spain: Avila	secondary	trnL-trnF	40.656478	-4.7002172	0.0113294653777028
+Juniperus_communis	AY354290.1	09-SEP-2003	314	Italy: Scanno	secondary	trnL-trnF	41.9038608	13.880213	0.0113294653777028
+Juniperus_communis	AY354288.1	09-SEP-2003	314	France: Hautes-Pyrenees	secondary	trnL-trnF	43.1437925	0.1586661	0.0113294653777028
+Juniperus_communis	AY354287.1	09-SEP-2003	314	Spain: Granada	secondary	trnL-trnF	37.1734995	-3.5995337	0.0113294653777028
+Juniperus_communis	AY354286.1	09-SEP-2003	314	Spain: Burgos	secondary	trnL-trnF	42.343926	-3.696977	0.0113294653777028
+Juniperus_communis	JF950963.1	12-DEC-2011	595	Georgia: Caucasus	secondary	trnL-trnF	42.4913744	44.9961252	0.00656031679811404
+Juniperus_communis	JF950962.1	12-DEC-2011	595	Spain: Madrid, La Pedriza	secondary	trnL-trnF	40.74565	-3.5696486	0.00656031679811404
+Juniperus_communis	JF950961.1	12-DEC-2011	595	Spain: Granada, Pico Trevenque	secondary	trnL-trnF	37.0778778	-3.4820433	0.00656031679811404
+Juniperus_communis	JF950960.1	12-DEC-2011	595	Spain: Burgos, Covarrubias	secondary	trnL-trnF	42.0592944	-3.5201803	0.00656031679811404
+Juniperus_communis	HM024559.1	28-SEP-2010	613	Pakistan	secondary	trnL-trnF	30.3308401	71.247499	0.00884257513847263
+Juniperus_communis	HM024558.1	28-SEP-2010	613	USA: New Mexico	secondary	trnL-trnF	34.5802074	-105.996047	0.00884257513847263
+Juniperus_communis	HM024557.1	28-SEP-2010	613	France	secondary	trnL-trnF	46.603354	1.8883335	0.00648369082160396

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Avenula_pubescens	JN895846.1	07-MAR-2012	768	United Kingdom: Shetland (112)	primary	matK	60.38	-1.38	0.0844958341007677
+Avenula_pubescens	JN895805.1	07-MAR-2012	539	United Kingdom: Monmouthshire	primary	matK	51.79	-2.73	0.0888461852809818
+Avenula_pubescens	HG797417.1	26-SEP-2014	774	Hungary	secondary	matK	42.1229974199621	-72.8530210861566	0.500162284355784
+Avenula_pubescens	JN894524.1	07-MAR-2012	673	United Kingdom: Carmarthenshire	secondary	matK	51.3403846931394	-5.17234738372753	0.0858901671934367
+Avenula_pubescens	JN894522.1	07-MAR-2012	810	United Kingdom: Carmarthenshire	secondary	matK	51.8660607875584	-4.13736475058695	0.0860941920767112
+Avenula_pubescens	JN894521.1	07-MAR-2012	724	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.085685861789285
+Avenula_pubescens	FM957003.1	08-FEB-2009	2059	Hungary	secondary	matK	42.3901781875238	-71.9900596651605	0.0769248068503376

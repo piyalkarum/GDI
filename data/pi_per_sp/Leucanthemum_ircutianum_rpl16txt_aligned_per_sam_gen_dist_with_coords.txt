@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_ircutianum	MH681859.1	18-SEP-2019	1011	Italy	primary	rpl16	42.77	11.65	0.0353205111204752
+Leucanthemum_ircutianum	MH681856.1	18-SEP-2019	1010	Italy	primary	rpl16	42.24	13.97	0.0168755878165014
+Leucanthemum_ircutianum	MH681836.1	18-SEP-2019	1013	France	primary	rpl16	43.92	7.48	0.0161536783504917
+Leucanthemum_ircutianum	MH681834.1	18-SEP-2019	1012	Montenegro	primary	rpl16	42.47	18.47	0.0247388054445208

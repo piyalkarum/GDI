@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Digitalis_purpurea	KX677154.1	09-AUG-2017	784	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Loveland Bay Forest Service Road	primary	matK	50.054	-125.382	0.000388754229863609
+Digitalis_purpurea	KX677097.1	09-AUG-2017	784	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	matK	49.376	-122.862	0.000388754229863609
+Digitalis_purpurea	KX676795.1	09-AUG-2017	809	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, South Shore Rd., along Cowichan Lake	primary	matK	48.8718	-124.319	0.000387477531874434
+Digitalis_purpurea	JN894842.1	07-MAR-2012	803	United Kingdom: Carmarthenshire	primary	matK	51.9101066360253	-3.33101964655485	0.000388111613830288
+Digitalis_purpurea	JN894393.1	07-MAR-2012	825	United Kingdom: Carmarthenshire	primary	matK	52.5271913385441	-4.40244980810964	0.000387477531874434
+Digitalis_purpurea	OQ303551.1	13-JUN-2023	528	Latvia	secondary	matK	56.8406494	24.7537645	0.000270562770562771
+Digitalis_purpurea	OQ290576.1	16-MAY-2023	739	Mexico: Puebla	secondary	matK	18.5754327130645	-98.4850871743588	0.00110474673410097
+Digitalis_purpurea	OQ290102.1	16-MAY-2023	729	Mexico: Puebla	secondary	matK	18.7767227143588	-97.8362440587769	0.00246234616209473
+Digitalis_purpurea	MK898788.1	30-JUN-2019	449	Germany	secondary	matK	34.895926	-83.4665496	0.000159083678014636
+Digitalis_purpurea	LT992617.1	04-JUN-2018	530	Italy:Liguria, Genova	secondary	matK	44.7283126473782	8.37772646146593	0.000269541778975741
+Digitalis_purpurea	LT992616.1	04-JUN-2018	530	Italy:Liguria, Genova	secondary	matK	43.9013776999645	8.30730308502357	0.000269541778975741
+Digitalis_purpurea	LT992615.1	04-JUN-2018	530	Italy:Sicilia, Agrigento	secondary	matK	37.3122991	13.57465	0.000269541778975741
+Digitalis_purpurea	HM850957.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00155494936330385
+Digitalis_purpurea	JN896050.1	07-MAR-2012	794	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.000387984120182022
+Digitalis_purpurea	JN895387.1	07-MAR-2012	812	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000381571015025386

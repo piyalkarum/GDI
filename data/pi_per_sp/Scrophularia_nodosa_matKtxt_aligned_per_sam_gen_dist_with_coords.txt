@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scrophularia_nodosa	JN894963.1	07-MAR-2012	782	United Kingdom: Glamorgan (41)	primary	matK	51.54	-3.25	0.0100065697198977
+Scrophularia_nodosa	JN894575.1	07-MAR-2012	850	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.00988585516281478
+Scrophularia_nodosa	JN896243.1	07-MAR-2012	875	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00695334662108607
+Scrophularia_nodosa	JN896242.1	07-MAR-2012	778	United Kingdom: Radnorshire	secondary	matK	52.4627049	-3.2561628	0.00835930495313529
+Scrophularia_nodosa	JN896237.1	07-MAR-2012	767	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0084792569469739

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_boveana	MZ563247.1	24-APR-2022	818	Spain: Comunidad Valenciana, Alicante, Santa Pola, Salinas de Santa Pola	primary	ycf1	38.6447773849072	-0.345206797245103	0.000733496332518337
+Tamarix_boveana	MZ563246.1	24-APR-2022	818	Spain: Andalusia, Almeria, Cabo de Gata, saladar en carretera hacia Cabo de Gata	primary	ycf1	36.0691858740537	-2.77220686431998	0.000733496332518337
+Tamarix_boveana	MZ563245.1	24-APR-2022	818	Spain: Andalusia, Almeria, Cabo de Gata, saladar en carretera hacia Cabo de Gata	primary	ycf1	36.409121361403	-1.81624117397386	0.000733496332518337
+Tamarix_boveana	MZ563244.1	24-APR-2022	818	Spain: Andalusia, Almeria, Cabo de Gata, saladar en carretera hacia Cabo de Gata	primary	ycf1	36.5344474146714	-2.36075230661883	0.000733496332518337
+Tamarix_boveana	MZ563243.1	24-APR-2022	818	Spain: Comunidad Valenciana, Alicante, Santa Pola, Salinas de Santa Pola	primary	ycf1	38.724054081506	-1.46799302481835	0.000733496332518337
+Tamarix_boveana	MZ563242.1	24-APR-2022	818	Spain: Comunidad Valenciana, Alicante, Santa Pola, Salinas de Santa Pola	primary	ycf1	37.9958419038607	0.120149242257596	0.000733496332518337

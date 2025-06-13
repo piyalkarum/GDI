@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chorispora_sibirica	MT930748.1	03-MAR-2023	565	China	secondary	rbcL	35.4200440371349	104.563922368533	0
+Chorispora_sibirica	MT930747.1	03-MAR-2023	571	China	secondary	rbcL	34.8397827446386	105.839957675451	0
+Chorispora_sibirica	MT930746.1	03-MAR-2023	569	China	secondary	rbcL	34.3275606348388	104.520623108236	0
+Chorispora_sibirica	MT930745.1	03-MAR-2023	569	China	secondary	rbcL	34.7152754807013	104.278789571278	0

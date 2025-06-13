@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Humulus_lupulus	OR670337.1	06-NOV-2023	767	Kazakhstan: Qaragandy region	primary	matK	49.43775	75.48958	0.00128859634378519
+Humulus_lupulus	OR464989.1	26-SEP-2023	897	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.2017807024569	-85.0860458068771	0.0012579537144078
+Humulus_lupulus	OR464988.1	26-SEP-2023	841	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.1788716381583	-86.1184695697321	0.00123614996880783
+Humulus_lupulus	KX677188.1	09-AUG-2017	806	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, Camosun St., near Pacific Spirit Park	primary	matK	49.24	-123.197	0.00137624083865445
+Humulus_lupulus	KX677090.1	09-AUG-2017	807	Canada: British Columbia, Metro Vancouver Regional Distrct, University Endowment Lands, south of 16th Avenue, at entrance to Nature Trail	primary	matK	49.258	-123.214	0.00138798364424556
+Humulus_lupulus	MG220654.1	21-JAN-2018	780	USA: North Dakota	primary	matK	48.045	-100.911	0.00232580133489858
+Humulus_lupulus	HQ593325.1	01-NOV-2011	780	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, in mowed lawn west of Echo Valley cottage	primary	matK	44.025	-79.53	0.00127429470558252
+Humulus_lupulus	JN895451.1	07-MAR-2012	360	United Kingdom: Glamorgan	primary	matK	51.55	-3.21	0.00443457362916755
+Humulus_lupulus	OQ303546.1	13-JUN-2023	660	Latvia	secondary	matK	56.8406494	24.7537645	0.00154820304074035
+Humulus_lupulus	MT930092.1	03-MAR-2023	786	China	secondary	matK	34.8703625187735	105.068953533327	0.00231332403801884
+Humulus_lupulus	MN434020.1	30-NOV-2021	799	China	secondary	matK	35.4908264580398	104.943166791564	0.00348137846547178
+Humulus_lupulus	MH659277.1	01-AUG-2020	786	China: Hebei	secondary	matK	39.0000001	116	0.00351532250870647
+Humulus_lupulus	JN895718.1	07-MAR-2012	777	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0012916119150849
+Humulus_lupulus	JN895688.1	07-MAR-2012	814	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.0012349781017666

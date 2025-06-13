@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_cuneifolium	KR233933.1	04-OCT-2015	1285	Czech Republic	secondary	rbcL	49.7439047	15.3381061	0.00312922760473811
+Asplenium_cuneifolium	KR233932.1	04-OCT-2015	619	Serbia	secondary	rbcL	44.0243229	21.0765743	0.00132370438921206
+Asplenium_cuneifolium	JX068695.1	31-MAY-2013	874	Kazakhstan	secondary	rbcL	48.1012954	66.7780818	0.003696076327995
+Asplenium_cuneifolium	JX068694.1	31-MAY-2013	1184	Austria	secondary	rbcL	36.9148511	-4.7534501	0.00129027568733943
+Asplenium_cuneifolium	JX068693.1	31-MAY-2013	1313	Germany	secondary	rbcL	34.895926	-83.4665496	0.00125972999549686

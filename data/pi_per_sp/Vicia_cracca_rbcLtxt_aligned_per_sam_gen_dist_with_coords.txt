@@ -1,0 +1,38 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_cracca	MZ676684.1	10-AUG-2022	576	United Kingdom: Durham	primary	rbcL	54.754	-1.579	0.00181067052548195
+Vicia_cracca	MW373003.1	01-MAY-2022	542	South Korea	primary	rbcL	33.17	126.27	0.0011868103876399
+Vicia_cracca	MW373002.1	01-MAY-2022	542	South Korea	primary	rbcL	33.17	126.28	0.0011868103876399
+Vicia_cracca	MG249272.1	21-JAN-2018	528	Canada: Ontario, Algoma District, Michipicoten Twp., Michipicoten Bay	primary	rbcL	48	-84.7833	0.00121285356979136
+Vicia_cracca	MG249185.1	21-JAN-2018	553	Canada: Ontario, Thunder Bay District, Neebing Twp., Thunder Bay	primary	rbcL	49.3466	-87.8704	0.00115988866861118
+Vicia_cracca	MG248689.1	21-JAN-2018	553	Canada: Ontario, Wellington County, City of Guelph, South-East of Summerfield Road along Victoria Road South	primary	rbcL	43.5485	-80.2503	0.00115988866861118
+Vicia_cracca	MG248115.1	21-JAN-2018	549	Canada: Ontario, Sudbury District, Sudbury	primary	rbcL	46.5	-80.9667	0.0011676917930144
+Vicia_cracca	MG247981.1	21-JAN-2018	553	Canada: New Brunswick, Albert County, Hillsborough, 4757 Salem Road, Steeves Family Home and Surroundings	primary	rbcL	45.7639	-64.8836	0.00115988866861118
+Vicia_cracca	MG247778.1	21-JAN-2018	549	Canada: Ontario, Algoma, Lake Superior P.P.	primary	rbcL	49.0147	-82.9528	0.0011676917930144
+Vicia_cracca	MG247386.1	21-JAN-2018	552	Canada: Yukon Territory, Whitehorse, Hillcrest, Kluane Cres.	primary	rbcL	60.712	-135.085	0.00116161763635556
+Vicia_cracca	MG247292.1	21-JAN-2018	528	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Singing Sands, BPNP	primary	rbcL	44.9454	-81.2769	0.00121285356979136
+Vicia_cracca	MG246106.1	21-JAN-2018	552	Canada: 143 Waterloo Avenue	primary	rbcL	43.5375	-80.2542	0.00116161763635556
+Vicia_cracca	KX678928.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Burnaby, base of Burnaby Mountain, across from Barnet Marine Park	primary	rbcL	49.289	-122.926	0.00116161763635556
+Vicia_cracca	HQ590327.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., approx. 300 m S of entrance to overgrown orchard	primary	rbcL	44.026	-79.543	0.00161598281085053
+Vicia_cracca	KT695502.1	29-SEP-2015	504	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00110529902196569
+Vicia_cracca	KJ841658.1	04-NOV-2014	531	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.00304529220124187
+Vicia_cracca	JN891166.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.2	0.00118241965412556
+Vicia_cracca	MT931494.1	03-MAR-2023	572	China	secondary	rbcL	34.5364771151438	104.980030336308	0.00123106936355131
+Vicia_cracca	MT931493.1	03-MAR-2023	568	China	secondary	rbcL	35.6137261942356	104.430025256356	0.0012348657522422
+Vicia_cracca	MN192644.1	30-NOV-2021	719	China	secondary	rbcL	34.4200348423489	104.55513492829	0.00485342383137644
+Vicia_cracca	MN185166.1	27-APR-2021	718	China	secondary	rbcL	34.1840456848192	104.861426270449	0.0276094169168406
+Vicia_cracca	MH215252.1	22-JAN-2019	553	China	secondary	rbcL	35.8504264561034	104.991809138495	0.00442119975388022
+Vicia_cracca	MG249350.1	21-JAN-2018	553	Canada: Ontario, Algoma District, Sault Ste. Marie, Sault Ste. Marie	secondary	rbcL	46.4832241	-84.5059383	0.00115988866861118
+Vicia_cracca	MG248272.1	21-JAN-2018	553	Canada: Ontario, Niagara County, Niagara-on-the-Lake Township, Fields around Traveller's Stop at intersection of York Road and Glendale Avenue (at exit of 403)	secondary	rbcL	43.4048870162992	-78.2413660216122	0.00115988866861118
+Vicia_cracca	MG247669.1	21-JAN-2018	553	Canada: Ontario, Nipissing District, Pentland Twp., Algonquin Park, ~10km in from Kiosk stop-gate, portage trail @ 2nd bridge	secondary	rbcL	44.0767393892784	-77.8791133348876	0.00115988866861118
+Vicia_cracca	KP896725.1	13-OCT-2015	545	Mongolia	secondary	rbcL	43.8243887842797	-80.3483101449578	0.00158266035823777
+Vicia_cracca	KP896724.1	13-OCT-2015	545	Mongolia	secondary	rbcL	44.5309872959225	-79.2813060522418	0.00158266035823777
+Vicia_cracca	KP896723.1	13-OCT-2015	545	Turkey	secondary	rbcL	38.6755577894047	34.9770175347032	0.00158266035823777
+Vicia_cracca	KP896722.1	13-OCT-2015	545	Turkey	secondary	rbcL	39.7291525991826	34.9348147926227	0.00158266035823777
+Vicia_cracca	HG417059.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.00174861595133183
+Vicia_cracca	JN661198.1	09-JAN-2013	1352	Netherlands	secondary	rbcL	52.2434979	5.6343227	0.00141166684865872
+Vicia_cracca	JN893458.1	07-MAR-2012	502	United Kingdom: Glamorgan	secondary	rbcL	51.1469969274673	-2.45243072770422	0.00105247483417729
+Vicia_cracca	JN893457.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.8631981826625	-3.55359270272613	0.00118241965412556
+Vicia_cracca	JN891387.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00118241965412556
+Vicia_cracca	HE574599.1	31-JUL-2011	565	Finland	secondary	rbcL	62.5393885728826	26.8666642079674	0.00381639515993085
+Vicia_cracca	HE574598.1	31-JUL-2011	565	Finland	secondary	rbcL	63.0658119540928	27.6049286703697	0.00381639515993085
+Vicia_cracca	HE574597.1	31-JUL-2011	565	Finland	secondary	rbcL	62.8453439522791	25.89477124099	0.00381639515993085

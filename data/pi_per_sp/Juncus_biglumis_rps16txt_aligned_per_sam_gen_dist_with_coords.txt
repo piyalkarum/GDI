@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_biglumis	AM085761.1	07-JAN-2006	802	Russia:Taymyr, Ary-Mas	secondary	rps16	74.4787053	101.65750856266	0.00744857709187608
+Juncus_biglumis	AM085760.1	07-JAN-2006	803	Greenland:Myggbukta	secondary	rps16	73.4906673	-21.5557429	0.0015139032855566
+Juncus_biglumis	AM085759.1	07-JAN-2006	805	Greenland:Antarctic Havn	secondary	rps16	72.0270178	-23.120491	0.0034848751771976
+Juncus_biglumis	AM085758.1	07-JAN-2006	803	Greenland:Qeqertat	secondary	rps16	77.494079	-66.6859075	0.0015139032855566
+Juncus_biglumis	AM085757.1	07-JAN-2006	811	Canada:Bellot Strait	secondary	rps16	71.991375	-94.8315417	0.00702668160371453
+Juncus_biglumis	AM085756.1	07-JAN-2006	805	Canada:Wright Pass	secondary	rps16	67.0517488	-136.2021417	0.00151012609835666
+Juncus_biglumis	AM085755.1	07-JAN-2006	803	Russia:Chekurovka	secondary	rps16	71.047	127.5235	0.0015139032855566
+Juncus_biglumis	AM085754.1	07-JAN-2006	804	Russia:Tiksi	secondary	rps16	71.636604	128.868546	0.0015120123329866
+Juncus_biglumis	AM085753.1	07-JAN-2006	803	Russia:Khatanga	secondary	rps16	72.1442398	102.7418081	0.0015139032855566
+Juncus_biglumis	AM085752.1	07-JAN-2006	804	Russia:Altai, Teply Kluch	secondary	rps16	49.7995174	86.5788193	0.0015139032855566
+Juncus_biglumis	AM085751.1	07-JAN-2006	803	Russia:Polar Ural, Chernaya	secondary	rps16	66.9230873	64.4945151	0.0015139032855566
+Juncus_biglumis	AM085748.1	07-JAN-2006	803	Norway:Svalbard, Wedel Jarlsberg Land, Nottinghambukta	secondary	rps16	79.2319115376266	24.124747717606	0.0015139032855566
+Juncus_biglumis	AM085747.1	07-JAN-2006	805	Norway:Svalbard, Wedel Jarlsberg Land, Nottinghambukta	secondary	rps16	79.0462258941076	19.5218644589943	0.0034848751771976
+Juncus_biglumis	AM085746.1	07-JAN-2006	803	Norway:Svalbard, Wedel Jarlsberg Land, Fuglebergsletta	secondary	rps16	78.3100296780073	17.8616412173169	0.0015139032855566
+Juncus_biglumis	AM085745.1	07-JAN-2006	803	Norway:Svalbard, Sorkapp Land, Gashamna	secondary	rps16	78.4978523724237	23.1233005257581	0.0015139032855566
+Juncus_biglumis	AM085741.1	07-JAN-2006	805	Norway:Krossbu	secondary	rps16	61.5738073	8.0330629	0.0034842181038025
+Juncus_biglumis	AM085739.1	07-JAN-2006	804	Austria:Elendkar	secondary	rps16	47.2804731	13.7440594	0.0015120123329866
+Juncus_biglumis	AM085738.1	07-JAN-2006	803	Austria:Rothenkarscharte	secondary	rps16	47.1909385	13.4761367	0.0015139032855566
+Juncus_biglumis	AM085737.1	07-JAN-2006	803	United Kingdom:Scotland, Ben Lawers	secondary	rps16	56.5449045	-4.2208744	0.0015139032855566
+Juncus_biglumis	AM085742.1	07-JAN-2006	805	Norway	secondary	rps16	61.373825	8.6067751	0.0034842181038025

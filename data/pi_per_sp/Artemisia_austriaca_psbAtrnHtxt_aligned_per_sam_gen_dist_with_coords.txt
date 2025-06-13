@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_austriaca	MT758506.1	27-DEC-2021	466	Turkey: Agri	primary	psbA-trnH	39.43	44.03	0.00723981900452489
+Artemisia_austriaca	MT758505.1	27-DEC-2021	466	Turkey: Van	primary	psbA-trnH	38.21	43.33	0.00723981900452489
+Artemisia_austriaca	MT758504.1	27-DEC-2021	466	Turkey: Kars	primary	psbA-trnH	40.46	43.07	0.00723981900452489
+Artemisia_austriaca	MH330170.1	24-DEC-2018	465	Pakistan	secondary	psbA-trnH	30.3308401	71.247499	0.00807765289738724
+Artemisia_austriaca	KX581951.1	24-SEP-2016	465	China: Xinjiang, Yili	secondary	psbA-trnH	43.9105599699421	80.7573620017956	0.00807765289738724
+Artemisia_austriaca	KX581950.1	24-SEP-2016	465	China: Xinjiang, Yili	secondary	psbA-trnH	44.4051489254431	81.7410985599074	0.0107254415413808

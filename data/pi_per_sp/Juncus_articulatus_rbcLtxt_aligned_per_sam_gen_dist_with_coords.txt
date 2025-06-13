@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_articulatus	MG226763.1	23-JAN-2018	542	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, BPNP	primary	rbcL	45.185	-81.601	0.00131287271699009
+Juncus_articulatus	KX679231.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Grant Narrows Regional Park, mouth of Pitt River	primary	rbcL	49.3486	-122.618	0.00130696120988682
+Juncus_articulatus	JN891319.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.75	-3.43	0.0013134762537153
+Juncus_articulatus	ON341450.1	30-APR-2023	502	USA: Georgia	secondary	rbcL	32.3293809	-83.1137366	0.00597609561752988
+Juncus_articulatus	HM850084.1	23-JUL-2011	1325	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00257619894300288
+Juncus_articulatus	JN893259.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.0013134762537153
+Juncus_articulatus	JN891937.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.0013134762537153

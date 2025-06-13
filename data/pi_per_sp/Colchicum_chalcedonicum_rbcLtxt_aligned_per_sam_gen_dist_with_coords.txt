@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colchicum_chalcedonicum	KX139596.1	26-APR-2017	558	Turkey: Istanbul	secondary	rbcL	41.0766019	29.052495	0.00189502324227182
+Colchicum_chalcedonicum	KX139595.1	26-APR-2017	531	Turkey: Mugla	secondary	rbcL	36.6983606382744	27.4782276104984	0
+Colchicum_chalcedonicum	KX139594.1	26-APR-2017	562	Turkey: Mugla	secondary	rbcL	36.7436077459221	29.1074207011568	0.001194743130227
+Colchicum_chalcedonicum	KX139593.1	26-APR-2017	494	Turkey: Aydin	secondary	rbcL	37.8483767	27.8435878	0.000700280112044818

@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_pratensis	MG225079.1	21-JAN-2018	772	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	matK	45.188	-81.416	0.00276734859963516
+Tragopogon_pratensis	KP210438.1	28-NOV-2015	663	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. La Pre (the old orchard)	primary	matK	45.542	-73.161	0.010055167169617
+Tragopogon_pratensis	JN893953.1	07-MAR-2012	740	United Kingdom: Glamorgan	primary	matK	51.52	-3.2	0.00202544788073672
+Tragopogon_pratensis	AJ633259.1	10-OCT-2004	970	Germany:Sachsen-Anhalt	secondary	matK	52.0089065	11.7003344	0.000493659137405994
+Tragopogon_pratensis	MT917415.1	03-MAR-2023	795	China	secondary	matK	34.8524299880749	104.334598201061	0.00281407267557145
+Tragopogon_pratensis	MT917412.1	03-MAR-2023	790	China	secondary	matK	34.1464944978211	104.965116036892	0.00234539777215763
+Tragopogon_pratensis	MT917411.1	03-MAR-2023	789	China	secondary	matK	35.630613882546	105.099173138402	0.00234596773627154
+Tragopogon_pratensis	MT917409.1	03-MAR-2023	790	China	secondary	matK	34.6420705369969	105.669082496945	0.00234539777215763
+Tragopogon_pratensis	JN895071.1	07-MAR-2012	980	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00187998955385163
+Tragopogon_pratensis	JN895068.1	07-MAR-2012	793	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00187998955385163

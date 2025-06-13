@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gladiolus_imbricatus	KM887334.1	07-FEB-2015	662	Poland: Krakow - Kostrze, Kolo Tynieckie	secondary	rps16	50.0316667	19.8327778	0
+Gladiolus_imbricatus	KM887333.1	07-FEB-2015	662	Czech Republic: Moravia, on the Dyja river	secondary	rps16	49.71606885	17.1022580832927	0
+Gladiolus_imbricatus	KM887332.1	07-FEB-2015	662	Romania: Dofteana	secondary	rps16	46.3210628	26.5220256	0
+Gladiolus_imbricatus	KM887330.1	07-FEB-2015	662	Poland: Bialowieza	secondary	rps16	52.7027392	23.8512556	0
+Gladiolus_imbricatus	KM887326.1	07-FEB-2015	662	Poland: Bednarze	secondary	rps16	51.308027	19.0716108	0
+Gladiolus_imbricatus	KM887325.1	07-FEB-2015	662	Poland	secondary	rps16	49.7887467	19.4431583	0

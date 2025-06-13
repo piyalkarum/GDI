@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Utricularia_vulgaris	MT191230.1	10-NOV-2021	630	Russia: Novosibirsk region	secondary	trnL-trnF	54.9474534	82.9274431	0.00392181695373185
+Utricularia_vulgaris	MT191229.1	10-NOV-2021	630	Russia: Tver region	secondary	trnL-trnF	56.8398114	35.8930262	0.000198412698412698
+Utricularia_vulgaris	MH051674.1	19-DEC-2018	387	Russia	secondary	trnL-trnF	64.9156919590759	97.4768496839469	0.000531914893617021
+Utricularia_vulgaris	MH051673.1	19-DEC-2018	387	Russia	secondary	trnL-trnF	64.7273962426587	97.7514806143707	0.000531914893617021
+Utricularia_vulgaris	MH051672.1	19-DEC-2018	387	Russia	secondary	trnL-trnF	64.1770534327681	99.0176118427248	0.000531914893617021
+Utricularia_vulgaris	MH051671.1	19-DEC-2018	387	Russia	secondary	trnL-trnF	65.0588878402964	99.4266507820173	0.000531914893617021
+Utricularia_vulgaris	MH051670.1	19-DEC-2018	387	Russia	secondary	trnL-trnF	65.580330487807	97.5411718893295	0.000531914893617021
+Utricularia_vulgaris	MH051669.1	19-DEC-2018	387	Russia	secondary	trnL-trnF	64.8868849105862	99.4198662384425	0.000531914893617021
+Utricularia_vulgaris	MH051668.1	19-DEC-2018	387	Czech Republic	secondary	trnL-trnF	49.7439047	15.3381061	0.000531914893617021

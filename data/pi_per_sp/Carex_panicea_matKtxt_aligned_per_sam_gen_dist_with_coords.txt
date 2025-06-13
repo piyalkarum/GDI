@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_panicea	JN896251.1	07-MAR-2012	815	United Kingdom: Carmarthenshire	primary	matK	51.74	-4.23	0
+Carex_panicea	LK021925.1	24-SEP-2015	2561	Germany:Saxony	secondary	matK	50.9295798	13.4585052	0
+Carex_panicea	JN895523.1	07-MAR-2012	812	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0
+Carex_panicea	JN894857.1	07-MAR-2012	785	United Kingdom: Montgomeryshire	secondary	matK	52.615273	-3.4649973	0

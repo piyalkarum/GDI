@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_peduncularis	LT985805.1	14-JUN-2019	198	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0
+Gagea_peduncularis	LT985804.1	14-JUN-2019	198	Greece	secondary	trnL-trnF	43.4737253287478	-78.3689452474342	0
+Gagea_peduncularis	LT985803.1	14-JUN-2019	198	Greece	secondary	trnL-trnF	43.6397289442163	-76.99738244594	0
+Gagea_peduncularis	LT985802.1	14-JUN-2019	198	Greece	secondary	trnL-trnF	43.428958658744	-76.9554054451463	0
+Gagea_peduncularis	LT985801.1	14-JUN-2019	198	Greece	secondary	trnL-trnF	43.629551306106	-77.6744856248055	0
+Gagea_peduncularis	LT985800.1	14-JUN-2019	198	Greece	secondary	trnL-trnF	43.5518560621248	-77.5785382370035	0
+Gagea_peduncularis	LT985799.1	14-JUN-2019	198	Greece	secondary	trnL-trnF	42.4123944153539	-78.1261394741789	0
+Gagea_peduncularis	LT985798.1	14-JUN-2019	198	Greece	secondary	trnL-trnF	43.5694556429677	-77.6246256095206	0
+Gagea_peduncularis	HE649662.1	04-FEB-2013	198	Greece	secondary	trnL-trnF	42.72934329936	-77.6728852655913	0
+Gagea_peduncularis	HE649661.1	04-FEB-2013	197	Greece	secondary	trnL-trnF	43.7661489833501	-77.44634769148	0
+Gagea_peduncularis	AM409357.1	02-NOV-2006	262	Italy	secondary	trnL-trnF	42.6384261	12.674297	0

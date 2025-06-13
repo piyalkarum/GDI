@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Barbarea_vulgaris	OR465021.1	26-SEP-2023	360	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	psbA-trnH	42.28833279	-85.61955311	0.000960614793467819
+Barbarea_vulgaris	KP643439.1	08-DEC-2015	366	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	38.4675768588259	-77.460741248809	0.000910746812386157
+Barbarea_vulgaris	KP643344.1	08-DEC-2015	366	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.1457336049096	-78.1993299073002	0.000910746812386157
+Barbarea_vulgaris	KP643200.1	08-DEC-2015	367	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	38.6794273254697	-78.8608098492335	0.00278210841824013

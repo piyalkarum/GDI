@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypochaeris_radicata	OQ434024.1	02-JUL-2023	900	USA: West Lake Nature Preserve, Portage, MI	primary	matK	42.3081645300462	-85.4414820742291	0.0013138354512411
+Hypochaeris_radicata	OQ434023.1	02-JUL-2023	847	USA: West Lake Nature Preserve, Portage, MI	primary	matK	42.9883015728021	-85.8542162358658	0.00133021344042294
+Hypochaeris_radicata	KX677725.1	09-AUG-2017	786	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	matK	50.045	-125.501	0.000991925315915467
+Hypochaeris_radicata	KX676963.1	09-AUG-2017	755	Canada: British Columbia, Vancouver Island, Capital Regional District, Port Renfrew-Lake Cowichan Road	primary	matK	48.439	-124.109	0.000438459265439502
+Hypochaeris_radicata	JN894223.1	07-MAR-2012	801	United Kingdom: Shetland (112)	primary	matK	60.4	-1.38	0.000670506284843022
+Hypochaeris_radicata	JN894186.1	07-MAR-2012	828	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.13	0.000667583700654989
+Hypochaeris_radicata	KX821280.1	02-SEP-2017	804	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.7847103143445	8.8982803734074	0.000659307420838625
+Hypochaeris_radicata	KX821281.1	02-SEP-2017	804	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	57.3814502558517	9.04460277410677	0.000659307420838625
+Hypochaeris_radicata	KU586764.1	06-FEB-2017	542	Spain: Granada, Sierra de Guillimona	secondary	matK	37.1734995	-3.5995337	NA
+Hypochaeris_radicata	HM850666.1	23-JUL-2011	537	Portugal	secondary	matK	39.6621648	-8.1353519	NA
+Hypochaeris_radicata	JN895227.1	07-MAR-2012	776	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000693806860006088
+Hypochaeris_radicata	JN895225.1	07-MAR-2012	758	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000708670235815777
+Hypochaeris_radicata	AJ633231.1	10-OCT-2004	970	Belgium	secondary	matK	50.6402809	4.6667145	NA

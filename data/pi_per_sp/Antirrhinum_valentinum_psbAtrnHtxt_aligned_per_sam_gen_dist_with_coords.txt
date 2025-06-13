@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_valentinum	HM152965.1	24-AUG-2010	258	Spain: Valencia, Pico Colom	secondary	psbA-trnH	39.0009019	-0.2299495	0.000992063492063492
+Antirrhinum_valentinum	HM152964.1	24-AUG-2010	278	Spain: Valencia, La Drova	secondary	psbA-trnH	39.0056878	-0.2866096	0.000915750915750916
+Antirrhinum_valentinum	HM152963.1	24-AUG-2010	278	Spain: Valencia, Font del Cirer	secondary	psbA-trnH	38.6478111	-0.3613231	0.000915750915750916
+Antirrhinum_valentinum	HM152962.1	24-AUG-2010	273	Spain: Valencia, Buixcarro	secondary	psbA-trnH	39.0046861	-0.3409723	0.00382758138782235
+Antirrhinum_valentinum	HM152961.1	24-AUG-2010	249	Spain: Valencia, Bolomor	secondary	psbA-trnH	39.0596913	-0.2502812	0.00100401606425703

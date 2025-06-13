@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_longifolia	OR557597.1	01-NOV-2023	504	Kazakhstan: Qaragandy region	primary	rbcL	49.48573	75.41885	0.0158371040723982
+Veronica_longifolia	MG224490.1	26-DEC-2017	552	Canada: Yukon Territory, Haines Junction, near Old Experimental Farm NW	primary	rbcL	60.767	-137.583	0.0144628099173554
+Veronica_longifolia	MG223615.1	26-DEC-2017	552	Canada: Saskatchewan, Saskatoon, Kiwanis Park, South Saskatchewan River	primary	rbcL	52.126	-106.657	0.0144628099173554
+Veronica_longifolia	MT931694.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.014344262295082
+Veronica_longifolia	KX037385.1	27-NOV-2016	814	Canada: Langdon, AB	secondary	rbcL	50.9744301	-113.6793646	0.0591069862021909

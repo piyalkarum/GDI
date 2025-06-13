@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dupontia_fisheri	KM523972.1	04-JUL-2015	1153	Canada: Northwest Territories	secondary	rpoB	64.6738660485615	-117.060467315945	0.000294724432655467
+Dupontia_fisheri	KM523971.1	04-JUL-2015	1154	Canada: Northwest Territories	secondary	rpoB	64.2926297924522	-119.049299005887	0.000294724432655467
+Dupontia_fisheri	KM523970.1	04-JUL-2015	1131	Canada: Nunavut	secondary	rpoB	64.6024453833303	-92.0074769717939	0.000884173297966401
+Dupontia_fisheri	KM523969.1	04-JUL-2015	1153	Canada: Nunavut	secondary	rpoB	65.6426675989048	-92.7832296504878	0.000294724432655467

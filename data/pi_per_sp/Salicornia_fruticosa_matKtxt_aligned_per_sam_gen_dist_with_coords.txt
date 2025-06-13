@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salicornia_fruticosa	ON684587.1	21-AUG-2022	1518	Portugal: Ilhavo, Aveiro	primary	matK	40.60536	-8.66613	0.0152001741299701
+Salicornia_fruticosa	OM809123.1	08-AUG-2022	652	Egypt	primary	matK	29.2019	25.6017	0.010480572597137
+Salicornia_fruticosa	OM809121.1	08-AUG-2022	652	Egypt	primary	matK	30.8481	29.3547	0.016359918200409
+Salicornia_fruticosa	OM164033.1	23-FEB-2022	774	Egypt	primary	matK	24.3236	35.3414	0.0247495426666214
+Salicornia_fruticosa	AY996320.1	31-MAR-2006	885	France: Sene, Morbihan	secondary	matK	46.7320892979504	-2.73236874154727	0.0125748082289831
+Salicornia_fruticosa	AY996319.1	31-MAR-2006	885	France: Sene, Morbihan	secondary	matK	47.6113190028497	-2.36940298874068	0.0125748082289831
+Salicornia_fruticosa	DQ468645.1	31-DEC-2007	889	Italy: Emilia Romagna, Ravenna, Sacca di Bellocchio	secondary	matK	44.49105225	11.3525330163205	0.0157138638201884

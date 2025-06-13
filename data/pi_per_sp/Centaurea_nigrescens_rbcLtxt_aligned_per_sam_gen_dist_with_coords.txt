@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_nigrescens	MG224432.1	26-DEC-2017	552	Canada: Ontario, Nipissing Dist., Conrad's Beach, West Lawrencetown.	primary	rbcL	45.417	-78.267	0.0129222773446728
+Centaurea_nigrescens	KT695537.1	29-SEP-2015	511	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.0139010671292646
+Centaurea_nigrescens	MG223625.1	26-DEC-2017	552	Canada: Ontario, Waterloo R. M., Ca. 25 mi W of Dillon in pass to Big Hole Valley.	secondary	rbcL	44.1314706140537	-78.2459274637311	0.0129222773446728
+Centaurea_nigrescens	MG222854.1	26-DEC-2017	552	Canada: Ontario, Essex Co., Beach near Yarmouth	secondary	rbcL	43.7040591475913	-77.5186976178727	0.0129222773446728
+Centaurea_nigrescens	MG221266.1	26-DEC-2017	552	Canada: Ontario, Grey Co., Railway	secondary	rbcL	44.5368386	-80.362538	0.0129222773446728
+Centaurea_nigrescens	HG416982.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.062452921605995

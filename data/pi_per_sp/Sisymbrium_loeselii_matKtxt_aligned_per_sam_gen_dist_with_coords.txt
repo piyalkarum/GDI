@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sisymbrium_loeselii	KX677705.1	09-AUG-2017	796	Canada: British Columbia, Central Okanagan Regional District, Kelowna, Quail Ridge Blvd. at sharp bend in the road	primary	matK	49.962	-119.388	0
+Sisymbrium_loeselii	KX677444.1	09-AUG-2017	796	Canada: British Columbia, Okanagan-Similkameen Regional District, Red Creek Forest Service Road	primary	matK	49.564	-120.41	0
+Sisymbrium_loeselii	MT917776.1	03-MAR-2023	765	China	secondary	matK	35.1239974866823	105.087487779102	0
+Sisymbrium_loeselii	MT917775.1	03-MAR-2023	768	China	secondary	matK	35.7314104650895	104.524721407958	0
+Sisymbrium_loeselii	MT917774.1	03-MAR-2023	768	China	secondary	matK	35.4799208263319	104.679492776494	0
+Sisymbrium_loeselii	MT917771.1	03-MAR-2023	770	China	secondary	matK	34.4760335749179	105.250216620234	0
+Sisymbrium_loeselii	MT917770.1	03-MAR-2023	770	China	secondary	matK	35.1652658097758	104.990888868936	0
+Sisymbrium_loeselii	MT917768.1	03-MAR-2023	769	China	secondary	matK	34.6310363166538	104.555673498154	0

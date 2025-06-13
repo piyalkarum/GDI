@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cherleria_arctica	MG247439.1	21-JAN-2018	552	Canada: Yukon Territory, Richardson Mountains, camp on tributary of Fish Creek, S of Vunta Creek	primary	rbcL	67.885	-136.544	0.00326086956521739
+Cherleria_arctica	KC483174.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, British Mountains	primary	rbcL	69.217	-139.15	0.00326086956521739
+Cherleria_arctica	KC483173.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Buckland Hills	primary	rbcL	69.417	-139.633	0.00326086956521739
+Cherleria_arctica	KC483172.1	25-OCT-2013	552	Canada: Yukon Territory, Richardson Mountains, Blow River Delta	primary	rbcL	68.217	-136.583	0.00326086956521739
+Cherleria_arctica	KC483171.1	25-OCT-2013	552	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park NW part	primary	rbcL	69.4167	-139.633	0.00326086956521739
+Cherleria_arctica	OQ172594.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.638392	127.6961188	0.016304347826087

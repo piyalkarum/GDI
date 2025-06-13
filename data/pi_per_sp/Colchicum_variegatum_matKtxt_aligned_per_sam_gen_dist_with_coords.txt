@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colchicum_variegatum	KX139898.1	26-APR-2017	852	Turkey: Mugla	secondary	matK	37.1642053	28.2624288	0.00083875757482616
+Colchicum_variegatum	KX139897.1	26-APR-2017	852	Turkey: Antalya	secondary	matK	36.7300928372205	31.3639427278698	0.00083875757482616
+Colchicum_variegatum	KX139896.1	26-APR-2017	852	Turkey: Antalya	secondary	matK	36.4227326398979	30.1840214775112	0.00083875757482616
+Colchicum_variegatum	KX139895.1	26-APR-2017	852	Turkey: Konya	secondary	matK	37.872734	32.4924376	0.00083875757482616
+Colchicum_variegatum	KX139894.1	26-APR-2017	852	Turkey: Isparta	secondary	matK	37.9465412	30.9602093	0.00083875757482616
+Colchicum_variegatum	KX139893.1	26-APR-2017	852	Turkey: Burdur	secondary	matK	37.5183407	30.1691254	0.00083875757482616
+Colchicum_variegatum	KX139892.1	26-APR-2017	852	Turkey: Aydin	secondary	matK	37.8483767	27.8435878	0.00318597838499859
+Colchicum_variegatum	KX139891.1	26-APR-2017	851	Turkey: Izmir	secondary	matK	38.23166	27.02997	0.00218230653013262

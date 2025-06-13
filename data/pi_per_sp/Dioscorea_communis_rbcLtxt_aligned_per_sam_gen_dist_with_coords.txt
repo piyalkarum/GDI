@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dioscorea_communis	JN892560.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.56	-3.1	NA
+Dioscorea_communis	KU308750.1	11-JAN-2018	567	Indonesia	secondary	rbcL	-2.4833826	117.8902853	NA
+Dioscorea_communis	FR865161.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.00798139889415598
+Dioscorea_communis	HM849954.1	23-JUL-2011	1292	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0504881310382796
+Dioscorea_communis	JN893751.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	NA
+Dioscorea_communis	JN893118.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.2618012997218	-3.93714819581164	NA
+Dioscorea_communis	JN893117.1	07-MAR-2012	532	United Kingdom: Glamorgan	secondary	rbcL	51.5255932370192	-4.72478503436191	NA
+Dioscorea_communis	MW818147.1	05-APR-2021	52	Spain	secondary	rbcL	28.6551163	-17.8572685655797	NA

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_strigosum	MW070290.1	19-APR-2021	889	Macedonia: Rasce	secondary	rpoB	42.0825515985796	20.4486264989659	0.00112485939257593
+Alyssum_strigosum	MW070289.1	19-APR-2021	889	Macedonia: Rasce	secondary	rpoB	41.7198995118787	21.0956899134362	0.00202474690663667
+Alyssum_strigosum	MW070288.1	19-APR-2021	889	Bulgaria: Chetirtsi	secondary	rpoB	42.8665759038165	22.942901292206	0.000674915635545557
+Alyssum_strigosum	MW070287.1	19-APR-2021	889	Bulgaria: Chetirtsi	secondary	rpoB	42.4406218983395	22.1308011157719	0.000674915635545557
+Alyssum_strigosum	MW070282.1	19-APR-2021	889	Greece: Stavrupolis	secondary	rpoB	40.6298194317148	25.0233828644198	0.000674915635545557
+Alyssum_strigosum	MW070281.1	19-APR-2021	889	Greece: Stavrupolis	secondary	rpoB	40.9117807127927	24.1346094859682	0.000674915635545557

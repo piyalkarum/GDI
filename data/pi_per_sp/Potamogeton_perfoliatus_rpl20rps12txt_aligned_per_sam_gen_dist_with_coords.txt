@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_perfoliatus	EU596944.1	21-APR-2008	772	USA: Vermont	secondary	rpl20-rps12	44.5990718	-72.5002608	0.00148022387436079
+Potamogeton_perfoliatus	DQ468863.1	02-MAY-2006	746	Sweden	secondary	rpl20-rps12	59.6749712	14.5208584	0.00151193163670984
+Potamogeton_perfoliatus	DQ468862.1	02-MAY-2006	749	Switzerland	secondary	rpl20-rps12	46.7985624	8.2319736	0.000334899938268946
+Potamogeton_perfoliatus	HQ263465.1	21-MAR-2011	773	Czech Republic	secondary	rpl20-rps12	49.7439047	15.3381061	0.000329477420161414
+Potamogeton_perfoliatus	HQ263464.1	21-MAR-2011	773	USA: New York State	secondary	rpl20-rps12	43.1561681	-75.8449946	0.000329477420161414
+Potamogeton_perfoliatus	HQ263463.1	21-MAR-2011	773	Bosnia and Herzegovina	secondary	rpl20-rps12	44.3053476	17.5961467	0.000329477420161414
+Potamogeton_perfoliatus	HQ263462.1	21-MAR-2011	768	Austria	secondary	rpl20-rps12	36.9148511	-4.7534501	0.000330320738382484
+Potamogeton_perfoliatus	EF174597.1	15-JAN-2007	773	Germany	secondary	rpl20-rps12	34.895926	-83.4665496	0.000329477420161414
+Potamogeton_perfoliatus	FJ883602.1	26-APR-2009	745	Poland	secondary	rpl20-rps12	50.4972212	22.3268274	0.000338783866910273

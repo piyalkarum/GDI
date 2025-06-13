@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_sceleratus	MG220797.1	21-JAN-2018	777	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	matK	42.765	-80.303	0.00130776624002561
+Ranunculus_sceleratus	JN895128.1	07-MAR-2012	800	United Kingdom: Glamorgan	primary	matK	51.59	-3.02	0.000224618149146451
+Ranunculus_sceleratus	MN492776.1	30-NOV-2021	781	China	secondary	matK	34.6672141478459	104.053833717935	0.000214500214500215
+Ranunculus_sceleratus	MN450999.1	30-NOV-2021	789	China	secondary	matK	34.3223711905063	105.593183256653	0.000426569464503853
+Ranunculus_sceleratus	GU257993.1	24-JUL-2010	1774	Iran	secondary	matK	32.6475314	54.5643516	0.00042573806832362
+Ranunculus_sceleratus	JN894998.1	07-MAR-2012	743	United Kingdom: Glamorgan	secondary	matK	51.1842152620078	-4.39136366823917	0.000224315836698071
+Ranunculus_sceleratus	JN894997.1	07-MAR-2012	785	United Kingdom: Glamorgan	secondary	matK	51.8970068399369	-3.91133041306225	0.000214500214500215

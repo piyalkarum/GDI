@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Neottia_ovata	MG228218.1	23-JAN-2018	552	Canada: Blenheim Twp., Oxford Co., ON	primary	rbcL	42.3333	-81.9986	0
+Neottia_ovata	MG226776.1	23-JAN-2018	552	Canada: Red Bay, ON	primary	rbcL	44.7053	-81.2796	0
+Neottia_ovata	JN893842.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0
+Neottia_ovata	JN893841.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Neottia_ovata	JN893312.1	07-MAR-2012	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_recta	MK926098.1	14-JAN-2020	749	United Kingdom	secondary	matK	55.1623208689515	-2.03722861970226	0
+Carex_recta	MK925934.1	14-JAN-2020	779	United Kingdom	secondary	matK	54.8353122211477	-3.05681427352085	0
+Carex_recta	MK925842.1	14-JAN-2020	737	United Kingdom	secondary	matK	54.1115613824976	-2.11240237926574	0
+Carex_recta	MK925735.1	14-JAN-2020	796	United Kingdom	secondary	matK	54.4363514285427	-2.83059956588321	0

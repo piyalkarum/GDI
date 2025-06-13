@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vaccinium_myrtillus	LC694048.1	03-MAY-2022	599	Japan: Nagano	primary	rbcL	36.0572	138.333	0
+Vaccinium_myrtillus	LC690772.1	03-MAY-2022	644	Japan: Nagano	primary	rbcL	35.8705	137.5088	0
+Vaccinium_myrtillus	JN891673.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.25	-3.93	0
+Vaccinium_myrtillus	MG222008.1	26-DEC-2017	552	Canada: Alberta, ca. 20 miles north of Lake Louise, opposite crowfoot glacier, Banff National Park	secondary	rbcL	52.7830262856587	-118.600133985736	0
+Vaccinium_myrtillus	MG221208.1	26-DEC-2017	552	Canada: Alberta, red earth creek, ca. 7 miles from highway, Banff National Park	secondary	rbcL	52.352618451988	-117.408479095865	0
+Vaccinium_myrtillus	JN892169.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.7510973270833	-1.4017276042806	0
+Vaccinium_myrtillus	JN891394.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.3717750897308	-2.48230351342084	0

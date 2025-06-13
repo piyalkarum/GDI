@@ -1,0 +1,4 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Christella_dentata	OL312384.1	04-JAN-2022	503	USA: Missouri Botanical Garden, Climatron.	primary	psbA-trnH	38.614111	-90.258889	0.0193992197171475
+Christella_dentata	MW055246.1	21-JUN-2021	443	India	secondary	psbA-trnH	22.3511148	78.6677428	0.0091533180778032
+Christella_dentata	KY099915.1	21-NOV-2017	494	French Polynesia: Moorea	secondary	psbA-trnH	-17.533306	-149.8386006	0.0102459016393443

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eragrostis_cilianensis	OQ832183.1	15-AUG-2023	553	USA: American Prairie Dry Fork Unit	primary	rbcL	47.8993	-108.1995	0.0029143897996357
+Eragrostis_cilianensis	MF596765.1	28-FEB-2018	603	USA: California, Siskiyou Co., @ 3 mi SW of Scott Bar on Hwy 7F-01 towards Kelsey Creek, along Scott River.	primary	rbcL	41.728	-123.01	0.0143132357338988
+Eragrostis_cilianensis	MG228233.1	23-JAN-2018	552	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0.0029143897996357
+Eragrostis_cilianensis	MG228051.1	23-JAN-2018	553	Canada: Ontario, Wellington, Wellington, Arkell Station	primary	rbcL	43.5373	-80.1678	0.0029143897996357
+Eragrostis_cilianensis	KP711257.1	31-MAR-2016	1096	China	secondary	rbcL	35.000074	104.999927	0.00291666666666667
+Eragrostis_cilianensis	FN870390.1	17-MAY-2012	1349	Portugal:Azores	secondary	rbcL	37.8085564	-25.4731374	0.00265339966832504

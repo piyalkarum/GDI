@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Onopordum_acanthium	JN894100.1	07-MAR-2012	957	United Kingdom: Glamorgan	primary	matK	51.53	-3.16	0.000221483942414175
+Onopordum_acanthium	MT917337.1	03-MAR-2023	788	China	secondary	matK	34.4325741890265	105.746763531149	0
+Onopordum_acanthium	MN273596.1	30-NOV-2021	813	China	secondary	matK	35.0179509785193	105.495487469212	0
+Onopordum_acanthium	MN273595.1	30-NOV-2021	803	China	secondary	matK	35.5886902360829	105.461144925133	0
+Onopordum_acanthium	KT250021.1	09-AUG-2015	820	Germany	secondary	matK	34.9867825607008	-82.5914867181298	0
+Onopordum_acanthium	KT250020.1	09-AUG-2015	820	Germany	secondary	matK	35.5934170146175	-82.8068007512797	0
+Onopordum_acanthium	KT250019.1	09-AUG-2015	820	Germany	secondary	matK	34.6247791235586	-84.1394633389632	0
+Onopordum_acanthium	KT250018.1	09-AUG-2015	820	Germany	secondary	matK	34.6874248424052	-83.7967275654686	0
+Onopordum_acanthium	KC969528.1	30-NOV-2013	981	USA	secondary	matK	39.7837304	-100.445882	0
+Onopordum_acanthium	JN895948.1	07-MAR-2012	903	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00044296788482835
+Onopordum_acanthium	JN894847.1	07-MAR-2012	941	United Kingdom: Montgomeryshire	secondary	matK	52.615273	-3.4649973	0.000221483942414175

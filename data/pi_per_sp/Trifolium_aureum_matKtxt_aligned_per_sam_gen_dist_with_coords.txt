@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_aureum	KX677553.1	09-AUG-2017	742	Canada: British Columbia, Squamish-Lillooet Regional District, Callagan Creek Forest Service Road, near Whistler	primary	matK	50.072	-123.1	0
+Trifolium_aureum	KX677424.1	09-AUG-2017	729	Canada: British Columbia, Kootenay Boundary Regional District, Just west of Kettle River Forest Service Road, north of Christian Valley	primary	matK	49.698	-118.778	0
+Trifolium_aureum	KX676995.1	09-AUG-2017	742	Canada: British Columbia, Kootenay Boundary Regional District, Mt. Baldy Ski Area	primary	matK	49.153	-119.236	0
+Trifolium_aureum	KX676966.1	09-AUG-2017	821	Canada: British Columbia, Greater Vancouver Regional District, Burnaby, Southridge Drive, 100 m west of Byrnepark Drive	primary	matK	49.206	-122.97	0
+Trifolium_aureum	KX676678.1	09-AUG-2017	743	Canada: British Columbia, Okanagan-Similkameen Regional District, Pasayten Forest Service Road, East of Manning Park	primary	matK	49.132	-120.585	0
+Trifolium_aureum	MG220733.1	21-JAN-2018	661	Canada: Ontario, Bruce County, North Bruce Peninsula Township, South Cameron Lake Road, BPNP	primary	matK	45.206	-81.567	0
+Trifolium_aureum	HQ593473.1	09-NOV-2011	787	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 150 m S of Western pond at fence line	primary	matK	44.029	-79.537	0.000435729847494553
+Trifolium_aureum	KP210440.1	28-NOV-2015	767	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	matK	45.535	-73.149	0.000446229361892012
+Trifolium_aureum	KJ593134.1	17-MAR-2015	681	USA: Wisconsin, Goodman	primary	matK	45.635	-88.342	0
+Trifolium_aureum	KJ593133.1	17-MAR-2015	765	USA: Wisconsin, Laona	primary	matK	45.566	-88.799	0.000881959209386566

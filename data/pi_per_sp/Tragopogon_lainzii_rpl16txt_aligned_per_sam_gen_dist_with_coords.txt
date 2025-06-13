@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_lainzii	FN687167.1	05-DEC-2010	1029	Spain:Jaen, Cazorla	secondary	rpl16	37.9128927	-3.0038873	0.000607976653696498
+Tragopogon_lainzii	FN687166.1	05-DEC-2010	1029	Spain:Albacete, entre Siles y Riopar	secondary	rpl16	38.9950921	-1.8559154	0.000607976653696498
+Tragopogon_lainzii	FN687165.1	05-DEC-2010	1029	Spain:Albacete, Riopar	secondary	rpl16	38.497991	-2.5008715	0.00486381322957198
+Tragopogon_lainzii	FN687164.1	05-DEC-2010	1029	Spain:Granada, Sierra de Castril, embalse La Bolera	secondary	rpl16	36.3816103004282	-3.51261936920465	0.000607976653696498
+Tragopogon_lainzii	FN687163.1	05-DEC-2010	1029	Spain:Jaen, Jodar	secondary	rpl16	37.8406832	-3.3548686	0.000607976653696498
+Tragopogon_lainzii	FN687162.1	05-DEC-2010	1029	Spain:Jaen, Sierra del Pozo	secondary	rpl16	37.8421809	-2.9314265	0.000607976653696498
+Tragopogon_lainzii	FN687161.1	05-DEC-2010	1029	Spain:Granada, Orce	secondary	rpl16	37.7212772	-2.4794159	0.000607976653696498
+Tragopogon_lainzii	FN687160.1	05-DEC-2010	1029	Spain:Granada, La Puebla de Don Fadrique	secondary	rpl16	37.8418178	-2.4368397	0.000607976653696498
+Tragopogon_lainzii	FN687159.1	05-DEC-2010	1029	Spain:Granada, Sierra de Castril, rio Castril	secondary	rpl16	36.8350321256588	-3.04627896464522	0.000607976653696498

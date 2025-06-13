@@ -1,0 +1,50 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achillea_millefolium	OR227297.1	16-SEP-2023	741	Kazakhstan: Buiratau National Park	primary	matK	51.1626	73.196	0.0309168027892365
+Achillea_millefolium	OQ404752.1	03-JUL-2023	900	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	41.4875380214492	-85.9602969566535	0.0311459792897502
+Achillea_millefolium	OQ404751.1	03-JUL-2023	852	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	42.8848931859856	-86.1015429808504	0.0310562674987616
+Achillea_millefolium	OL537801.1	10-JAN-2022	846	USA: Texas, Fort Worth Botanic Gardens	primary	matK	32.735	-97.365	0.0309989623193259
+Achillea_millefolium	OL537800.1	10-JAN-2022	844	USA: Texas, Texas, Jeff Davis County	primary	matK	30.641	-104.165	0.0309998683206223
+Achillea_millefolium	MK800540.1	04-FEB-2020	702	USA: Idaho, White Cloud Mountains, D.O. Lee Peak	primary	matK	44.10969	-114.63886	0.27390204748909
+Achillea_millefolium	MK800538.1	04-FEB-2020	702	USA: Idaho, Pioneer Mountians, Hyndman Peak	primary	matK	43.74938	-114.1312	0.27390204748909
+Achillea_millefolium	MK800533.1	04-FEB-2020	702	USA: Idaho, Pioneer Mountians, Salzburger Spitzl	primary	matK	43.77446	-114.15942	0.27390204748909
+Achillea_millefolium	MK800522.1	04-FEB-2020	702	USA: Idaho, White Cloud Mountains, Castle Peak	primary	matK	44.04019	-114.58878	0.27390204748909
+Achillea_millefolium	MK800485.1	04-FEB-2020	702	USA: Idaho, Sawtooth Mountains, Horstmann Peak	primary	matK	44.1117	-115.00318	0.27390204748909
+Achillea_millefolium	KX677563.1	09-AUG-2017	749	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Campbell Lake Forest Service Road	primary	matK	50.046	-125.461	0.0321322367488027
+Achillea_millefolium	KX677134.1	09-AUG-2017	787	Canada: British Columbia, East Kootenay Regional District, Dry Gulch Provincial Park	primary	matK	50.5862	-116.035	0.031100131925868
+Achillea_millefolium	KX677060.1	09-AUG-2017	786	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	matK	49.182	-119.091	0.0309351430478004
+Achillea_millefolium	KX676880.1	09-AUG-2017	756	Canada: British Columbia, Okanagan-Similkameen Regional District, near Link Lake Forest Recreation Site, Kettle Valley Rail Trail	primary	matK	49.711	-120.231	0.0318023624007471
+Achillea_millefolium	KP643163.1	08-DEC-2015	751	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.892	-78.146	0.0319273151909287
+Achillea_millefolium	MG225232.1	21-JAN-2018	787	Canada: Yukon Territory, Peel River	primary	matK	65.933	-135.05	0.0310463254541567
+Achillea_millefolium	MG225213.1	21-JAN-2018	689	USA: North Dakota	primary	matK	48.454	-101.592	0.0331801799503825
+Achillea_millefolium	MG225179.1	21-JAN-2018	785	Canada: Ontario, Algoma, Lake Superior P.P.	primary	matK	47.75	-84.8333	0.0310463254541567
+Achillea_millefolium	MG225162.1	21-JAN-2018	787	Canada: Yukon Territory, Shingle Point area, DEW Line Station DEWSEEP	primary	matK	68.937	-137.239	0.0310463254541567
+Achillea_millefolium	MG225101.1	21-JAN-2018	647	USA: North Dakota	primary	matK	48.113	-101.795	0.033456561827891
+Achillea_millefolium	MG224967.1	21-JAN-2018	744	USA: North Dakota	primary	matK	47.906	-101.306	0.0310029269128959
+Achillea_millefolium	MG224890.1	21-JAN-2018	782	Canada: Yukon Territory, La Biche River	primary	matK	60.156	-124.069	0.0310463254541567
+Achillea_millefolium	MG224813.1	21-JAN-2018	786	Canada: Ontario, Parry Sound District, French River	primary	matK	46.0251	-80.5779	0.0310463254541567
+Achillea_millefolium	HQ593154.1	09-NOV-2011	781	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., S of path, NE of pond towards red pine plantation	primary	matK	44.038	-79.513	0.0310459298310426
+Achillea_millefolium	KP210356.1	28-NOV-2015	791	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	matK	45.538	-73.158	0.0310430218648771
+Achillea_millefolium	KJ592833.1	17-MAR-2015	749	USA: Wisconsin, Abrams	primary	matK	44.844	-88.072	0.0309711613704426
+Achillea_millefolium	KC473959.1	25-OCT-2013	771	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, South Quadjuk Island, sandstone heads area	primary	matK	66.861	-107.91	0.0310491572014307
+Achillea_millefolium	KC473958.1	25-OCT-2013	779	Canada: Northwest Territories, Cape Bathurst Peninsula, 9 km SSW of Cape Bathurst along shores of the Arctic Ocean	primary	matK	70.497	-128.149	0.0310479184429745
+Achillea_millefolium	KC473957.1	25-OCT-2013	783	Canada: Northwest Territories, Mainland Northwest Territoires, Tuktoyaktuk	primary	matK	69.45	-133.033	0.0310463254541567
+Achillea_millefolium	KC473956.1	25-OCT-2013	783	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	matK	62.533	-114.356	0.0310463254541567
+Achillea_millefolium	KC473955.1	25-OCT-2013	783	Canada: Yukon Territory, Ivvavik National Park, Middle Malcolm River, ridge crest	primary	matK	69.306	-140.492	0.0310463254541567
+Achillea_millefolium	KC473954.1	25-OCT-2013	772	Canada: Nunavut, Baffin Island, Iqaluit, Growing between Bethen High School and the Brown Building	primary	matK	63.733	-68.467	0.0310507472355555
+Achillea_millefolium	JN966065.1	27-OCT-2012	784	Canada: Manitoba, Churchill, 5 km SE Churchill, Intersection of Goose Creek Rd and Canadian National Railway, Side of the railway	primary	matK	58.718	-94.124	0.0310463254541567
+Achillea_millefolium	JN966064.1	27-OCT-2012	786	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	matK	58.626	-94.23	0.0310463254541567
+Achillea_millefolium	JN966063.1	27-OCT-2012	786	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes burn site, burn site 5 years after fire	primary	matK	58.617	-93.812	0.0310463254541567
+Achillea_millefolium	JN894883.1	07-MAR-2012	955	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.0310687134412245
+Achillea_millefolium	OQ303565.1	13-JUN-2023	629	Latvia	secondary	matK	56.8406494	24.7537645	0.0351046942374686
+Achillea_millefolium	OQ290255.1	16-MAY-2023	804	Mexico: Puebla	secondary	matK	19.1705686	-98.4123106	0.0309314604936137
+Achillea_millefolium	MT917283.1	03-MAR-2023	789	China	secondary	matK	34.6172451855064	104.215469843091	0.0310451417046723
+Achillea_millefolium	MT917281.1	03-MAR-2023	790	China	secondary	matK	35.4743619669113	104.986584040104	0.0310451417046723
+Achillea_millefolium	MT917280.1	03-MAR-2023	790	China	secondary	matK	34.9736633253143	103.9418212036	0.0310451417046723
+Achillea_millefolium	MW408177.1	03-JAN-2021	865	Pakistan	secondary	matK	30.1677435147122	71.9530870347122	0.0389751545880187
+Achillea_millefolium	MG946948.1	29-MAY-2018	1166	Pakistan	secondary	matK	30.5211808806041	72.02632445975	0.033286285430404
+Achillea_millefolium	KJ746172.1	29-JUL-2014	705	Poland	secondary	matK	52.215933	19.134422	0.0325455388506018
+Achillea_millefolium	KJ204429.1	29-JAN-2015	745	Switzerland: Geneva	secondary	matK	46.9347201742513	5.75438658808307	0.0352574154527812
+Achillea_millefolium	KJ204428.1	29-JAN-2015	834	Switzerland: Geneva	secondary	matK	45.9753049259291	6.86605226737416	0.0319868657031055
+Achillea_millefolium	HM850607.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.030928516418354
+Achillea_millefolium	JN895743.1	07-MAR-2012	938	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.0310714132473372
+Achillea_millefolium	JN893979.1	07-MAR-2012	774	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.0310511556838179

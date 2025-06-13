@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cistus_monspeliensis	MZ869765.1	17-SEP-2021	458	France	secondary	trnL-trnF	46.603354	1.8883335	0.000363901018922853
+Cistus_monspeliensis	MZ869764.1	17-SEP-2021	458	Portugal	secondary	trnL-trnF	40.4665343975336	-8.21008771476171	0.000363901018922853
+Cistus_monspeliensis	MZ869763.1	17-SEP-2021	458	Portugal	secondary	trnL-trnF	39.6476839617704	-7.41781148047576	0.000363901018922853
+Cistus_monspeliensis	MZ869762.1	17-SEP-2021	458	Croatia	secondary	trnL-trnF	44.8325880299469	15.8891669516371	0.000363901018922853
+Cistus_monspeliensis	MZ869761.1	17-SEP-2021	458	Croatia	secondary	trnL-trnF	44.5049082688	15.3616455620509	0.000363901018922853
+Cistus_monspeliensis	MZ869760.1	17-SEP-2021	458	Greece	secondary	trnL-trnF	43.2097838	-77.6930602	0.00220530756375007
+Cistus_monspeliensis	DQ093059.1	11-JUL-2005	461	Portugal: Sagres	secondary	trnL-trnF	37.0078288	-8.941924	0.000385802469135802

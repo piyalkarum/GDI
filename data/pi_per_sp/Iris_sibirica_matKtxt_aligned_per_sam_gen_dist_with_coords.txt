@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_sibirica	KX676790.1	09-AUG-2017	827	Canada: British Columbia, Nanaimo Regional District, De Courcy Island, south end, spur road 500 m due west of Pirate's Cove Campsite	primary	matK	49.0944	-123.73	0.0067420481706196
+Iris_sibirica	OR703742.1	11-NOV-2023	444	Kazakhstan: Akmola region	secondary	matK	51.8742347	69.8582132	0.00225225225225225
+Iris_sibirica	MF543528.1	31-JUL-2018	792	Italy: Aosta Valley, Brissogne, Petit-Banc	secondary	matK	45.7328363	7.403584	0.00222222222222222
+Iris_sibirica	MF543527.1	31-JUL-2018	784	Italy: Aosta Valley, Quart, Olleyes	secondary	matK	45.7456482	7.3707512	0.00226757369614512

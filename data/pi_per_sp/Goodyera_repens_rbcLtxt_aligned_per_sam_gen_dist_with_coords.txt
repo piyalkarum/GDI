@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Goodyera_repens	LC686032.1	26-AUG-2022	553	Japan:Yamanashi, Narusawamura	secondary	rbcL	35.9254496460748	138.884863386803	0
+Goodyera_repens	LC686031.1	26-AUG-2022	553	Japan:Yamanashi, Narusawamura	secondary	rbcL	36.0776465013918	138.486473162517	0
+Goodyera_repens	LC686030.1	26-AUG-2022	553	Japan:Yamanashi, Narusawamura	secondary	rbcL	36.0281112535834	137.939288492778	0
+Goodyera_repens	LC686029.1	26-AUG-2022	553	Japan:Nagano, Kaidamura	secondary	rbcL	36.6485851	138.1947664	0
+Goodyera_repens	MK925568.1	14-JAN-2020	539	United Kingdom	secondary	rbcL	55.4148573301744	-3.05832280834899	0
+Goodyera_repens	MK925246.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5117741120131	-2.94771211429423	0
+Goodyera_repens	MK924811.1	14-JAN-2020	542	Switzerland	secondary	rbcL	46.7985624	8.2319736	0
+Goodyera_repens	MK924678.1	14-JAN-2020	533	France	secondary	rbcL	46.603354	1.8883335	0
+Goodyera_repens	MK924675.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0528909607772	-4.044424169753	0

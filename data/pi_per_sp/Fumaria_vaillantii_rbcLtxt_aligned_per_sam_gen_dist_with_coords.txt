@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fumaria_vaillantii	OR738115.1	13-NOV-2023	542	Kazakhstan: Atyrau region	primary	rbcL	48.27201	52.27206	0.0950426630250554
+Fumaria_vaillantii	OR575219.1	25-OCT-2023	508	Kazakhstan: Qaragandy region	primary	rbcL	46.77978	74.70621	0.0183727034120735
+Fumaria_vaillantii	MT931863.1	03-MAR-2023	571	China	secondary	rbcL	35.0336806651365	104.571458687372	0.0199751820527055
+Fumaria_vaillantii	MT931862.1	03-MAR-2023	565	China	secondary	rbcL	34.661054811746	104.560120929864	0.0202701673034429
+Fumaria_vaillantii	MT931861.1	03-MAR-2023	569	China	secondary	rbcL	35.3594790359187	104.523879484478	0.0199751820527055
+Fumaria_vaillantii	MK924719.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9329963868677	-3.74340800963074	0.0250106536498436
+Fumaria_vaillantii	MK924520.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6761303814721	-3.49469915892286	0.0250106536498436

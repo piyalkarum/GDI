@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hordeum_murinum	MF596849.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, just off Hwy. 19A along Crane Road, N of Qualicum Beach, at confluence of Nile Creek and the Straight of Georgia.	primary	rbcL	48.654377267327	-125.309382873984	0.00087276582723997
+Hordeum_murinum	MF596848.1	28-FEB-2018	549	Canada: British Columbia, Vancouver Island, Island View Park, S of Hwy. 17 between Sidney and Victoria, along coast.	primary	rbcL	48.9453038982865	-123.780495439234	0.000580261261996031
+Hordeum_murinum	MF596847.1	28-FEB-2018	603	Canada: British Columbia, Horseshoe Bay, Whytecliff Park. Among rocky cliffs with Anthoxanthum odoratum and Dactylis glomerata.	primary	rbcL	50.0292029884825	-123.588372224136	0.00087276582723997
+Hordeum_murinum	MG228139.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, just off Hwy. 19A along Crane Road, N of Qualicum Beach, at confluence of Nile Creek and the Straight of Georgia.	primary	rbcL	49.9892078208732	-124.947295315945	0.00087276582723997
+Hordeum_murinum	MG227508.1	23-JAN-2018	603	Canada: British Columbia, Horseshoe Bay, Whytecliff Park. Among rocky cliffs with Anthoxanthum odoratum and Dactylis glomerata.	primary	rbcL	49.363537678479	-122.043325170467	0.00087276582723997
+Hordeum_murinum	MG225639.1	23-JAN-2018	549	Canada: British Columbia, Vancouver Island, Island View Park, S of Hwy. 17 between Sidney and Victoria, along coast.	primary	rbcL	48.4158096313742	-123.225569101317	0.000580261261996031
+Hordeum_murinum	JN892726.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	primary	rbcL	51.67	-4.7	0.000591504129327008
+Hordeum_murinum	KX282809.1	28-MAY-2017	577	Kuwait	secondary	rbcL	29.3621660249701	48.9832159677915	0.00294513973457088
+Hordeum_murinum	KX282808.1	28-MAY-2017	577	Kuwait	secondary	rbcL	30.1290624943611	48.2615452727861	0.00135010340588565
+Hordeum_murinum	KX282807.1	28-MAY-2017	580	Kuwait	secondary	rbcL	29.1020958790117	48.4184225427448	0.00123620929538668
+Hordeum_murinum	KF728595.1	28-DEC-2013	553	Poland	secondary	rbcL	52.215933	19.134422	0.000579437801948665
+Hordeum_murinum	KF728594.1	28-DEC-2013	553	Germany	secondary	rbcL	34.895926	-83.4665496	0.000579437801948665
+Hordeum_murinum	HM850056.1	23-JUL-2011	643	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00777999777980386
+Hordeum_murinum	JN891200.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.000591504129327008
+Hordeum_murinum	JN891199.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000591504129327008
+Hordeum_murinum	JN890949.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.7679205080283	-3.40857991902442	0.000591504129327008
+Hordeum_murinum	JN890940.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.7303601618357	-3.8695519590836	0.000591504129327008

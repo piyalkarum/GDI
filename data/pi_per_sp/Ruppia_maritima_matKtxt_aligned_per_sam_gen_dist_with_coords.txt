@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ruppia_maritima	JN895029.1	07-MAR-2012	684	United Kingdom: Glamorgan	primary	matK	51.65	-4.26	0.0113877402080727
+Ruppia_maritima	ON756577.1	26-AUG-2023	1178	Australia	secondary	matK	-24.7761086	134.755	0.0161411888242696
+Ruppia_maritima	LC054280.1	10-NOV-2015	550	South Africa: Western Cape	secondary	matK	-33.5550321584168	20.7565793502729	0.00640970721267768
+Ruppia_maritima	LC054279.1	10-NOV-2015	550	South Africa: Western Cape	secondary	matK	-34.1770835432538	20.3440527290709	0.0126984845242522
+Ruppia_maritima	AB728687.1	24-APR-2013	550	Spain	secondary	matK	39.3448844528791	-5.15622349964887	0.00640970721267768
+Ruppia_maritima	AB728686.1	24-APR-2013	550	Italy	secondary	matK	43.1426156141967	13.6277956778324	0.00640970721267768
+Ruppia_maritima	AB728685.1	24-APR-2013	550	Italy	secondary	matK	42.2505474922973	11.5797641842493	0.00640970721267768
+Ruppia_maritima	AB728684.1	24-APR-2013	550	Malta	secondary	matK	35.8885993	14.4476911	0.00640970721267768
+Ruppia_maritima	AB728683.1	24-APR-2013	550	Spain	secondary	matK	38.645581762627	-5.14802071588042	0.00703738553609227
+Ruppia_maritima	JQ990940.1	01-APR-2013	688	United Kingdom: Shetland, Loch of Strom	secondary	matK	60.2204962	-1.2764843	0.00917440436697747
+Ruppia_maritima	JQ990939.1	01-APR-2013	688	United Kingdom: Shetland, Kalliness	secondary	matK	60.2312872	-1.3028464	0.0152882896325055
+Ruppia_maritima	JN893851.1	07-MAR-2012	841	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0109948531609476

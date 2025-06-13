@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_nivalis	KC475706.1	25-OCT-2013	777	Canada: Nunavut, Hudson Bay, Rankin Inlet, Disturbed ground at the edge of a road below the graveyard	primary	matK	62.8	-92.1	0
+Sagina_nivalis	KC475705.1	25-OCT-2013	772	Canada: Yukon Territory, Ivvavik National Park, Stokes Point	primary	matK	69.33	-138.733	0
+Sagina_nivalis	KC475704.1	25-OCT-2013	777	Canada: Nunavut, Baffin Island, Tanner Bay, Cape Hooper, Tanner Bay	primary	matK	68.4333	-66.8167	0
+Sagina_nivalis	KC475703.1	25-OCT-2013	777	Canada: Nunavut, Baffin Island, Iqaluit, Towards base of hillside below Northern Canadian Power Company plant	primary	matK	63.7333	-68.45	0
+Sagina_nivalis	KC475702.1	25-OCT-2013	777	Canada: Nunavut, Baffin Island, Ogac Lake	primary	matK	62.85	-67.35	0

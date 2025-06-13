@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_psammitis	MN334859.1	16-OCT-2019	1197	Spain	secondary	cob	40.1557248	-5.2409617	0.000835421888053467
+Silene_psammitis	MN334858.1	16-OCT-2019	1197	Spain	secondary	cob	36.5645156	-4.8565007	0.00195212352179076
+Silene_psammitis	MN334857.1	16-OCT-2019	1197	Spain	secondary	cob	36.5222736	-5.0441068	0.00139377270492211
+Silene_psammitis	MN334856.1	16-OCT-2019	1191	Spain	secondary	cob	36.9342472	-3.9092739	0.000839630562552477

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_ursinum	MZ676688.1	10-AUG-2022	577	United Kingdom: England, Durham	primary	rbcL	54.754	-1.578	0.26072988588445
+Allium_ursinum	JN890786.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.49	-3.19	0.260034548874901
+Allium_ursinum	HF934242.1	12-MAY-2015	463	Poland	secondary	rbcL	52.2077820998679	19.9031318114215	0.324754901960784
+Allium_ursinum	HF934241.1	12-MAY-2015	463	Poland	secondary	rbcL	52.0197014316322	19.1729674933021	0.324754901960784
+Allium_ursinum	HF934240.1	12-MAY-2015	463	Ireland	secondary	rbcL	52.865196	-7.9794599	0.324754901960784
+Allium_ursinum	HF934239.1	12-MAY-2015	463	Germany	secondary	rbcL	34.895926	-83.4665496	0.324754901960784
+Allium_ursinum	JN893772.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.5781019225343	-2.09089550102115	0.260034548874901
+Allium_ursinum	JN893389.1	07-MAR-2012	534	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.260038003965631
+Allium_ursinum	JN890947.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.8446324371066	-3.5459147605949	0.260034548874901

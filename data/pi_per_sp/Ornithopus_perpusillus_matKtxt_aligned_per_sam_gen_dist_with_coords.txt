@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ornithopus_perpusillus	JN894104.1	07-MAR-2012	831	United Kingdom: Cardiganshire	primary	matK	52.4	-4.08	0.00131752305665349
+Ornithopus_perpusillus	HM851143.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0045975558569815
+Ornithopus_perpusillus	JN894070.1	07-MAR-2012	931	United Kingdom: Montgomeryshire	secondary	matK	52.615273	-3.4649973	0.001640016400164
+Ornithopus_perpusillus	JN894069.1	07-MAR-2012	898	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.001640016400164

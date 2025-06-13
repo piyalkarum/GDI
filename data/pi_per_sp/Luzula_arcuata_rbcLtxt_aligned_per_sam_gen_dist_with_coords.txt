@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Luzula_arcuata	KX678393.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, Mount Cheam, above Popkum	primary	rbcL	49.25	-121.67	0.00105624504885133
+Luzula_arcuata	KC483106.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Richardson Mountains, Tributary of Fish Creek, south of Vunta Creek	primary	rbcL	67.884	-136.544	0.00105624504885133
+Luzula_arcuata	KC483105.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Richardson Mountains, Tributary of Fish Creek, south of Vunta Creek	primary	rbcL	67.88	-136.52	0.00105624504885133
+Luzula_arcuata	KC483104.1	25-OCT-2013	552	Canada: Northwest Territories, Inuvialuit Region, Richardson Mountains, along Dempster Highway	primary	rbcL	67.18	-135.83	0.00105624504885133
+Luzula_arcuata	MK925220.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1634894619777	-3.54144517859573	0.00105624504885133
+Luzula_arcuata	MK924930.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9823560855037	-2.84961457108238	0.00105624504885133
+Luzula_arcuata	MK924910.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3154558852187	-2.29316223320144	0.00105624504885133
+Luzula_arcuata	MK924772.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2135797911713	-2.2885413293019	0.00105624504885133

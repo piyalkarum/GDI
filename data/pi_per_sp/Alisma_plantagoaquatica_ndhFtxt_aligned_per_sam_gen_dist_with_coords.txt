@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alisma_plantago-aquatica	HQ607685.1	14-DEC-2010	769	France	secondary	ndhF	46.5704621625882	2.77389539796778	0.00715350223546945
+Alisma_plantago-aquatica	HQ607684.1	14-DEC-2010	697	France	secondary	ndhF	46.7515469427473	1.70785859055256	0.00744186046511628
+Alisma_plantago-aquatica	HQ607683.1	14-DEC-2010	769	France	secondary	ndhF	47.2099675156259	1.66077184110815	0.00715350223546945
+Alisma_plantago-aquatica	HQ607682.1	14-DEC-2010	769	France	secondary	ndhF	47.1377126971523	1.77124178606897	0.00715350223546945
+Alisma_plantago-aquatica	HQ607681.1	14-DEC-2010	769	Switzerland	secondary	ndhF	46.3580896066073	9.16330667327253	0.00715350223546945
+Alisma_plantago-aquatica	HQ607679.1	14-DEC-2010	674	Switzerland	secondary	ndhF	47.2624136669189	9.32986936926826	0.0360558694069941

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sisymbrium_officinale	MG246018.1	21-JAN-2018	519	Canada: British Columbia, Vancouver Island, Victoria, Fernwood	primary	rbcL	48.437	-123.343	0.000350324049746015
+Sisymbrium_officinale	HQ590273.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, Compost area north of Dufferin St. driveway	primary	rbcL	44.031	-79.53	0.000308166409861325
+Sisymbrium_officinale	JN892990.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.57	-4.1	0.000346320346320346
+Sisymbrium_officinale	OP711275.1	26-DEC-2022	571	Mexico: Puebla	secondary	rbcL	19.1705686	-98.4123106	0.000334840113845639
+Sisymbrium_officinale	MW174829.1	11-AUG-2021	516	South Korea	secondary	rbcL	36.4733457551948	127.032478173914	0.000352360817477097
+Sisymbrium_officinale	MW174828.1	11-AUG-2021	516	South Korea	secondary	rbcL	36.4112397226414	127.949122435784	0.000352360817477097
+Sisymbrium_officinale	MW174827.1	11-AUG-2021	516	South Korea	secondary	rbcL	36.7981319397848	127.350899100111	0.000352360817477097
+Sisymbrium_officinale	MG246422.1	21-JAN-2018	553	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	secondary	rbcL	43.72634945	-77.7101179040839	0.00033921302578019
+Sisymbrium_officinale	HM850358.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00377490743694584
+Sisymbrium_officinale	JN893810.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.2944424828145	-2.91812757584344	0.000346320346320346
+Sisymbrium_officinale	JN893809.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.5045712727491	-2.18913799214107	0.000346320346320346
+Sisymbrium_officinale	JN891134.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000346320346320346

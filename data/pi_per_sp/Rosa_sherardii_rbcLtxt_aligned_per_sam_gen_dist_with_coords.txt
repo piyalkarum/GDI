@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_sherardii	JN891154.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.76	-4.56	0.295685693690447
+Rosa_sherardii	HE999630.1	06-JAN-2014	521	Germany	secondary	rbcL	34.8357706901841	-82.6699521475983	0.397080539903109
+Rosa_sherardii	HE999629.1	06-JAN-2014	521	Germany	secondary	rbcL	34.5285960774112	-83.5841245012273	0.399019175700968
+Rosa_sherardii	JN893279.1	07-MAR-2012	517	United Kingdom: Glamorgan	secondary	rbcL	50.9433930788025	-4.38004425867001	0.295685693690447
+Rosa_sherardii	JN893202.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.295685693690447
+Rosa_sherardii	JN890849.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.3640562784319	-4.7397176177865	0.295685693690447
+Rosa_sherardii	AJ628813.1	11-APR-2005	567	Germany:Mecklenburg-Vorpommern, Neukloster	secondary	rbcL	53.8645385	11.6824343	0.389205931346303

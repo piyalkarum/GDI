@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_dracunculus	KX581958.1	24-SEP-2016	475	China: Xinjiang, Yili	secondary	psbA-trnH	43.6268165691882	81.2022185802358	0.000326370757180157
+Artemisia_dracunculus	KX581957.1	24-SEP-2016	475	China: Xinjiang, Yili	secondary	psbA-trnH	43.7008756423344	80.8486192694748	0.000326370757180157
+Artemisia_dracunculus	KX581956.1	24-SEP-2016	475	China: Xinjiang, Yili	secondary	psbA-trnH	43.8940665814674	81.5193617638584	0.000326370757180157
+Artemisia_dracunculus	KX581955.1	24-SEP-2016	465	China: Xinjiang, Yili	secondary	psbA-trnH	44.0318252248859	80.4239254802142	0.000326370757180157
+Artemisia_dracunculus	KX581954.1	24-SEP-2016	475	China: Xinjiang, Yili	secondary	psbA-trnH	43.1456507336653	81.6072687937303	0.000326370757180157
+Artemisia_dracunculus	KX581953.1	24-SEP-2016	465	China: Xinjiang, Yili	secondary	psbA-trnH	43.9828838574503	82.3708300712909	0.000326370757180157
+Artemisia_dracunculus	KX581952.1	24-SEP-2016	465	China: Xinjiang, Yili	secondary	psbA-trnH	43.7264877448985	82.0716565222578	0.000326370757180157
+Artemisia_dracunculus	JX073881.1	06-FEB-2013	383	USA: San Luis Obispo Co., CA	secondary	psbA-trnH	34.9382269	-119.4904685	0.00261182043115115
+Artemisia_dracunculus	JN862023.1	04-SEP-2012	382	Kyrgyzstan	secondary	psbA-trnH	42.4858224	74.714583	0.000327225130890052

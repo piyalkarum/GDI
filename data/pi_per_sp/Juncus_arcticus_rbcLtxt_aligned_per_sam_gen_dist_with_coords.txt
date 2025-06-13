@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_arcticus	KC483018.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	rbcL	66.839	-108.035	0.000819837429809266
+Juncus_arcticus	KC483017.1	25-OCT-2013	552	Canada: Nunavut, Nunavut Mainland, Rankin Inlet, 1 km N of Rankin Inlet on S side Prairie Bay, Hudson Bay	primary	rbcL	62.8	-92.083	0.000819837429809266
+Juncus_arcticus	KC483016.1	25-OCT-2013	552	Canada: Nunavut, Southampton Island (Nunavut), Coral Harbour, Coastline near the sea behind the Northern Store	primary	rbcL	64.137	-83.165	0.000819837429809266
+Juncus_arcticus	KC483015.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Eastern end fo runway	primary	rbcL	63.44	-68.29	0.000819837429809266
+Juncus_arcticus	KC483014.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay, Cambridge Bay, ~0.25 km SW of town, adjacent to the airport road, near where road enters town	primary	rbcL	69.25	-105.203	0.000819837429809266
+Juncus_arcticus	KC483013.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Inuvik, Inuvik, along roadside near centre of town	primary	rbcL	68.4889	-133.811	0.000819837429809266
+Juncus_arcticus	KC483012.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Small tributary running into Hornaday River	primary	rbcL	68.7167	-122.311	0.000819837429809266
+Juncus_arcticus	KC483011.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Between gas pumps and the ocean, in the vicinity of the Coop Store	primary	rbcL	56.631	-79.228	0.000819837429809266
+Juncus_arcticus	KC483010.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk	primary	rbcL	69.4944	-124.117	0.000819837429809266
+Juncus_arcticus	KC483009.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Low rocky hills at coast	primary	rbcL	68.606	-113.144	0.000819837429809266
+Juncus_arcticus	JN965598.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 33 km E Churchill, Fort Churchill, Spaceport project, Churchill area. Site T-16 C-1. Flat, open beach ridge. Sand and gravelly sand.	primary	rbcL	58.705852161889	-95.4291254108576	0.00113224637681159
+Juncus_arcticus	JN965597.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	rbcL	58.626	-94.23	0.00113224637681159
+Juncus_arcticus	JN965596.1	27-OCT-2012	513	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	rbcL	58.734	-94.112	0.00121832358674464
+Juncus_arcticus	JN965595.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock bluff	primary	rbcL	58.764	-93.897	0.00113224637681159
+Juncus_arcticus	JN965594.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.701796406831	-93.9258488923651	0.00113224637681159
+Juncus_arcticus	MW010968.1	27-JUL-2021	513	Chile	secondary	rbcL	-31.7613365	-71.3187697	0.00121832358674464
+Juncus_arcticus	MW010884.1	27-JUL-2021	507	Argentina	secondary	rbcL	-34.9964963	-64.9672817	0.001232741617357

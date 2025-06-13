@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Setaria_adhaerens	OL764412.1	13-DEC-2021	654	USA: California, San Diego County, Fallbrook	secondary	Adh	33.3764196	-117.2511466	0.580936150821947
+Setaria_adhaerens	FN908071.1	17-MAY-2012	2290	Portugal:Azores	secondary	Adh	37.053217075261	-25.1001723812161	0.601392904884189
+Setaria_adhaerens	FN870407.1	17-MAY-2012	1343	Portugal:Azores	secondary	Adh	37.4214317012242	-25.1972207456153	0.579704697705283
+Setaria_adhaerens	AF227004.1	01-DEC-2001	343	Spain	secondary	Adh	39.3260685	-4.8379791	0.586903866479687

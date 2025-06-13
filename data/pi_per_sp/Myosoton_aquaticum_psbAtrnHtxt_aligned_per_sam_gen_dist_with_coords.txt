@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosoton_aquaticum	OQ172940.1	18-JUN-2023	263	South Korea	secondary	psbA-trnH	37.0040349190553	127.308786035771	0.026615969581749
+Myosoton_aquaticum	OQ172939.1	18-JUN-2023	263	South Korea	secondary	psbA-trnH	36.3420232466083	127.702318863191	0.00887198986058302
+Myosoton_aquaticum	OQ172938.1	18-JUN-2023	263	South Korea	secondary	psbA-trnH	37.3171512493531	127.41009669555	0.00887198986058302
+Myosoton_aquaticum	LC728189.1	09-MAR-2023	316	Japan:Aichi, Owariasahi	secondary	psbA-trnH	35.208148	137.03722	0.00887198986058302

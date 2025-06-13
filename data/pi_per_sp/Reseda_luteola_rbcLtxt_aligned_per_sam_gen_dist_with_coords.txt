@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Reseda_luteola	MG247585.1	21-JAN-2018	552	Canada: British Columbia, New Westminster, Terry Hughes Park, paved pathway skirting playing field at corner of 8th and McBride	primary	rbcL	49.222	-122.912	0.000746268656716418
+Reseda_luteola	JN891667.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.25	0.000761904761904762
+Reseda_luteola	MG247988.1	21-JAN-2018	552	Canada: British Columbia, Eaglerige lookout, West Vancouver	secondary	rbcL	49.25783145	-123.246241986222	0.000746268656716418
+Reseda_luteola	HM850302.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00379759683724236
+Reseda_luteola	JN893304.1	07-MAR-2012	529	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00078125
+Reseda_luteola	JN893303.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000761904761904762

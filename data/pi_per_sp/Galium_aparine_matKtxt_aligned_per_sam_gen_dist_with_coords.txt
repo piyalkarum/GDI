@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_aparine	OR550616.1	01-NOV-2023	841	Kazakhstan: Qaragandy region	primary	matK	49.42895	75.48023	0.00966229857497135
+Galium_aparine	OL434912.1	14-NOV-2022	772	USA: Georgia	primary	matK	32.1174	-81.138	0.00904840922782622
+Galium_aparine	KP643055.1	08-DEC-2015	755	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	39.5150345809742	-78.592356207305	0.0147354593046625
+Galium_aparine	KP642857.1	08-DEC-2015	698	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.9640058263169	-77.5596257062609	0.0111855935702596
+Galium_aparine	HQ593305.1	09-NOV-2011	864	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., 20 m S of main trail to pond, 3 m W of fence (400 m E of Dufferin)	primary	matK	44.036	-79.518	0.0252092856230234
+Galium_aparine	KP402346.1	06-JAN-2016	738	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H13x10y2	primary	matK	38.889	-76.559	0.0110078121705676
+Galium_aparine	JN895175.1	07-MAR-2012	811	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.00988250457536833
+Galium_aparine	MT918326.1	03-MAR-2023	782	China	secondary	matK	35.6274997703495	105.301096119065	0.0218068872377955
+Galium_aparine	MT918324.1	03-MAR-2023	787	China	secondary	matK	35.3803126460883	105.117691421968	0.0196311020092649
+Galium_aparine	MG947048.1	29-MAY-2018	872	Pakistan	secondary	matK	30.3308401	71.247499	0.0351570842332018
+Galium_aparine	KT176620.1	19-AUG-2015	1518	USA	secondary	matK	39.7837304	-100.445882	0.0106135423761409
+Galium_aparine	HM850825.1	23-JUL-2011	816	Portugal	secondary	matK	39.6621648	-8.1353519	0.00966050155788562
+Galium_aparine	HE966933.1	18-SEP-2012	754	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00951449899435252
+Galium_aparine	JN894154.1	07-MAR-2012	802	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00987323828344422

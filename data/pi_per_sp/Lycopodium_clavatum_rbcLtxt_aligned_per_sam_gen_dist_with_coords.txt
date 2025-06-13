@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lycopodium_clavatum	LC767989.1	27-MAY-2023	262	Japan:Niigata, Mt.Hiuchi	primary	rbcL	-36.9227	138.0681	0.0271351466051482
+Lycopodium_clavatum	MG215304.1	24-JAN-2018	552	Canada: Yukon Territory, Beavercrow Ridge	primary	rbcL	60.232	-124.54	0.00196209903665987
+Lycopodium_clavatum	KJ593518.1	17-MAR-2015	553	USA: Wisconsin, Goodman	primary	rbcL	45.638	-88.282	0.00196209903665987
+Lycopodium_clavatum	KJ593517.1	17-MAR-2015	553	USA: Wisconsin, Dunbar	primary	rbcL	45.715	-88.226	0.00196209903665987
+Lycopodium_clavatum	KJ841392.1	04-NOV-2014	522	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Next to observation lookout at Lac Hertel	primary	rbcL	45.544	-73.156	0.00191157784916619
+Lycopodium_clavatum	KF977478.1	05-APR-2014	577	USA: Dairymen's Club near Boulder Junction, Wisconsin	primary	rbcL	46.15	-89.68	0.00322001986719635
+Lycopodium_clavatum	OP710747.1	26-DEC-2022	432	Mexico: Puebla	secondary	rbcL	19.5393024520807	-97.6091715695318	0.00206743002544529
+Lycopodium_clavatum	MW620295.1	04-JAN-2022	1308	Mexico: Puebla	secondary	rbcL	20.0011202013173	-98.177089508406	0.00385370910854018
+Lycopodium_clavatum	MW801568.1	19-DEC-2021	1248	Ecuador: Pichincha	secondary	rbcL	-0.0584893	-78.3284371	0.00326964769960411
+Lycopodium_clavatum	MW801567.1	19-DEC-2021	1248	Peru: Ancash	secondary	rbcL	-9.5	-77.75	0.00326964769960411
+Lycopodium_clavatum	MW801566.1	19-DEC-2021	1248	Ecuador: Zamora-Chinchipe	secondary	rbcL	-4.0620183	-78.7751588	0.00531907967989506
+Lycopodium_clavatum	MW801565.1	19-DEC-2021	1248	Costa Rica: Heredia	secondary	rbcL	10.3767813	-84.0139721	0.00326964769960411
+Lycopodium_clavatum	MW801562.1	19-DEC-2021	1248	Mexico: Oaxaca	secondary	rbcL	16.2964241972111	-96.5563296552685	0.00488857927645581
+Lycopodium_clavatum	MW801561.1	19-DEC-2021	1248	Canada: British Columbia	secondary	rbcL	55.2883885680939	-123.820314684172	0.00326964769960411
+Lycopodium_clavatum	MW801560.1	19-DEC-2021	1248	Canada: British Columbia	secondary	rbcL	55.1771007167281	-126.038771107089	0.00326964769960411
+Lycopodium_clavatum	MW801559.1	19-DEC-2021	1248	South Africa	secondary	rbcL	-28.8166236	24.991639	0.00326964769960411
+Lycopodium_clavatum	MZ771330.1	11-DEC-2021	519	Mexico:Oaxaca	secondary	rbcL	16.9774695797916	-97.2551302268558	0.00201557887022308
+Lycopodium_clavatum	LC484364.1	20-SEP-2019	1205	Japan	secondary	rbcL	36.1862123956677	138.950276445098	0.00410161840900899
+Lycopodium_clavatum	KT821260.1	17-SEP-2016	1322	South Korea	secondary	rbcL	36.638392	127.6961188	0.0195825057651632
+Lycopodium_clavatum	DQ026595.1	05-FEB-2006	1036	Finland	secondary	rbcL	63.2467777	25.9209164	0.00462005238706827
+Lycopodium_clavatum	KU295046.1	11-APR-2016	1092	New Caledonia	secondary	rbcL	-20.6378428	161.2117626	0.00421713597949907
+Lycopodium_clavatum	KU295044.1	11-APR-2016	1092	Fiji	secondary	rbcL	-18.1239696	179.0122737	0.00421713597949907
+Lycopodium_clavatum	KJ593516.1	17-MAR-2015	553	USA: Wisconsin, Abrams	secondary	rbcL	44.7794197	-88.0597767	0.00196209903665987
+Lycopodium_clavatum	AB574626.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5726311455566	139.266295747163	0.00520058112622897

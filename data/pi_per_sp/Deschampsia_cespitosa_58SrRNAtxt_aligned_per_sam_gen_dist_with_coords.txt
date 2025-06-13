@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Deschampsia_cespitosa	AM041225.1	28-JUN-2007	595	Argentina:Rio Negro, Estancia El Condor	secondary	5.8S rRNA	-39.7281192	-65.3426773	0.0214285714285714
+Deschampsia_cespitosa	AM041224.1	28-JUN-2007	595	Argentina:Mendoza, Malargue	secondary	5.8S rRNA	-35.4752134	-69.585934	0.0252100840336134
+Deschampsia_cespitosa	AM041223.1	28-JUN-2007	597	Norway:Hedmark, Opphus	secondary	5.8S rRNA	60.81343105	12.0147437009902	0.0151246428219529
+Deschampsia_cespitosa	AM041219.1	28-JUN-2007	597	Norway	secondary	5.8S rRNA	65.9003096	12.8069858	0.0151246428219529
+Deschampsia_cespitosa	AM041218.1	28-JUN-2007	597	Sweden	secondary	5.8S rRNA	68.3501695	18.8300059	0.0155434032909646

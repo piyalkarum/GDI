@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_repens	MG247524.1	21-JAN-2018	552	Canada: Yukon Territory, Sheep Creek drainage	primary	rbcL	69.158	-140.213	0.00113007315919775
+Silene_repens	MG246204.1	21-JAN-2018	552	Canada: Yukon Territory, Keele Range	primary	rbcL	66.999	-140.85	0.00113007315919775
+Silene_repens	OQ172699.1	18-JUN-2023	689	China	secondary	rbcL	35.8269159515263	105.037247964342	0.00154223194350752
+Silene_repens	OQ172698.1	18-JUN-2023	689	China	secondary	rbcL	35.6938398747731	105.582536350506	0.00287013443202423
+Silene_repens	OQ172697.1	18-JUN-2023	689	China	secondary	rbcL	35.8467611320904	104.836212493254	0.00154223194350752
+Silene_repens	MN192584.1	30-NOV-2021	639	China	secondary	rbcL	35.3122220891342	105.911353892094	0.00560436622722043

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chrysosplenium_tetrandrum	KC474473.1	25-OCT-2013	757	Canada: Nunavut, Southhampton Island, Salliq	primary	matK	64.133	-83.0167	0
+Chrysosplenium_tetrandrum	KC474472.1	25-OCT-2013	789	Canada: Nunavut, Victoria Island, Cambridge Bay	primary	matK	69.133	-105.017	0
+Chrysosplenium_tetrandrum	KC474471.1	25-OCT-2013	789	Canada: Nunavut, Baffin Island, Nikko Island	primary	matK	66.583	-71.05	0
+Chrysosplenium_tetrandrum	JN966245.1	27-OCT-2012	791	Canada: Manitoba, Churchill, Wapusk National Park, Thompson Point, Beach ridges in sand amongst Leymus mollis and Dryas integrifolia	primary	matK	58.335	-93.018	0

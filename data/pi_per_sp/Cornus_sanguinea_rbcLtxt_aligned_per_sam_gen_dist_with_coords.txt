@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cornus_sanguinea	MF349745.1	21-SEP-2017	553	USA: District of Columbia; Bartholdi Park located behind the U.S. Botanic Garden, 100 Maryland Ave.	primary	rbcL	38.887	-77.012	0.000827357970215113
+Cornus_sanguinea	JN893154.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.06	-4.6	0.00084530853761623
+Cornus_sanguinea	MN662632.1	13-OCT-2020	1014	Lebanon	secondary	rbcL	40.375713	-76.4626118	0.00631491133554126
+Cornus_sanguinea	KX162908.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.8881682018465	-2.74708803273482	0.00106213489113117
+Cornus_sanguinea	KX162907.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.1194866873881	-2.39161242240935	0.00106213489113117
+Cornus_sanguinea	KJ204322.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000827357970215113
+Cornus_sanguinea	JN891357.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00084530853761623
+Cornus_sanguinea	JN891181.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00084530853761623

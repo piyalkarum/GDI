@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Frankenia_pulverulenta	MH168718.1	07-OCT-2018	553	Bahrain	primary	rbcL	26.206941	50.593399	0.000904159132007233
+Frankenia_pulverulenta	KX282753.1	28-MAY-2017	575	Kuwait	secondary	rbcL	29.6650558428404	48.3160206661261	0.00221430284996603
+Frankenia_pulverulenta	KX282752.1	28-MAY-2017	576	Kuwait	secondary	rbcL	30.2275259792819	48.1831733925836	0.00221354801904816
+Frankenia_pulverulenta	KX282751.1	28-MAY-2017	580	Kuwait	secondary	rbcL	29.4259036227206	48.3269774244144	0.00086881038647343
+Frankenia_pulverulenta	HM850011.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000915750915750916

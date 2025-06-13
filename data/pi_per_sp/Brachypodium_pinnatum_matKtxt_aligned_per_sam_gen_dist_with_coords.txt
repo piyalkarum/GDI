@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brachypodium_pinnatum	JN895902.1	07-MAR-2012	1018	United Kingdom: Anglesey	primary	matK	53.15	-4.4	0
+Brachypodium_pinnatum	KJ746200.1	29-JUL-2014	697	Poland	secondary	matK	52.215933	19.134422	0
+Brachypodium_pinnatum	JN894149.1	07-MAR-2012	732	United Kingdom: Cardiganshire	secondary	matK	52.8895825221226	-3.18623912564942	0
+Brachypodium_pinnatum	JN894147.1	07-MAR-2012	837	United Kingdom: Cardiganshire	secondary	matK	52.0414678911425	-3.99730252619566	0

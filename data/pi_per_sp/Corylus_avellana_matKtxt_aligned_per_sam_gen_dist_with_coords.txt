@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Corylus_avellana	KX677575.1	09-AUG-2017	793	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Kin Beach Provincial Park	primary	matK	49.73	-124.898	0.00236692242839688
+Corylus_avellana	KX677487.1	09-AUG-2017	793	Canada: British Columbia, Greater Vancouver Regional District, Burnaby Lake Regional Park	primary	matK	49.2477	-122.919	0.00236692242839688
+Corylus_avellana	MG221156.1	21-JAN-2018	763	Canada: British Columbia, Fraser Valley Regional District, Yale, Old cemetery along Hwy 3	primary	matK	49.5566	-121.444	0.00391340002800332
+Corylus_avellana	JN895886.1	07-MAR-2012	829	United Kingdom: Glamorgan	primary	matK	51.77	-3.38	0.00145050428410684
+Corylus_avellana	KJ204462.1	29-JAN-2015	813	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00147752094877242
+Corylus_avellana	FR865055.1	09-JUN-2011	806	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00379716034119711
+Corylus_avellana	HM850898.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00146395803695584
+Corylus_avellana	JN895020.1	07-MAR-2012	773	United Kingdom: Glamorgan (41)	secondary	matK	52.0259453859825	-3.91353473480459	0.00150356535601186
+Corylus_avellana	JN894157.1	07-MAR-2012	781	United Kingdom: Glamorgan (41)	secondary	matK	51.0548812936617	-2.97357545885403	0.00149595586180135
+Corylus_avellana	MF349920.1	21-SEP-2017	793	USA	secondary	matK	38.8950368	-77.0365427	0.00640044505000708

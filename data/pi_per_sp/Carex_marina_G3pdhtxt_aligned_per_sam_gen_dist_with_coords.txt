@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_marina	KP979978.1	21-SEP-2015	209	Canada	secondary	G3pdh	62.4538109	-114.361050472611	0
+Carex_marina	KP979977.1	21-SEP-2015	209	Canada	secondary	G3pdh	74.6849926053713	-94.4656067462057	0
+Carex_marina	KP979974.1	21-SEP-2015	209	Canada	secondary	G3pdh	73.2662998854065	-95.4927368408042	0
+Carex_marina	KP979819.1	21-SEP-2015	209	USA	secondary	G3pdh	39.4703246	-86.6413912	0

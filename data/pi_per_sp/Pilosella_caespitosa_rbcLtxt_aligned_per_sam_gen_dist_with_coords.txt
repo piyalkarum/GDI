@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pilosella_caespitosa	MG224491.1	26-DEC-2017	552	Canada: Ontario, Kenora District, Dryden	primary	rbcL	49.484299339609	-91.716113536217	0
+Pilosella_caespitosa	MG224157.1	26-DEC-2017	545	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	rbcL	45.188	-81.417	0
+Pilosella_caespitosa	MG223624.1	26-DEC-2017	553	Canada: Ontario, Kenora District, Dryden Township, Dryden, NEBIE Block#1, Extensive treatment	primary	rbcL	49.8435764782557	-91.8891584379143	0
+Pilosella_caespitosa	MG223617.1	26-DEC-2017	553	Canada: Ontario, Algoma District, Sault Ste. Marie, Sault Ste. Marie	primary	rbcL	46.5164	-84.3376	0
+Pilosella_caespitosa	MG223141.1	26-DEC-2017	552	Canada: Ontario, Thunder Bay District, Neebing Twp., Thunder Bay	primary	rbcL	48.297	-89.239	0
+Pilosella_caespitosa	MG222919.1	26-DEC-2017	552	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Bridle Trail	primary	rbcL	43.2949	-79.8745	0
+Pilosella_caespitosa	MG222700.1	26-DEC-2017	552	Canada: Ontario, Kenora, English River Forest	primary	rbcL	49.7667	-94.4667	0
+Pilosella_caespitosa	MG221415.1	26-DEC-2017	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	primary	rbcL	50.1637	-86.7131	0
+Pilosella_caespitosa	KX678880.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, East side of Harrison Lake, East Harrison Forest Service Road	primary	rbcL	49.418	-121.759	0
+Pilosella_caespitosa	HQ590132.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 10 m W of Sumach junction	primary	rbcL	44.032	-79.534	0
+Pilosella_caespitosa	HQ590131.1	09-NOV-2011	593	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., S facing slope between classroom and Willow Ridge, 250 m N of creek	primary	rbcL	44.027	-79.536	0
+Pilosella_caespitosa	KJ841471.1	04-NOV-2014	527	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Along Yellow Trail	primary	rbcL	45.546	-73.168	0
+Pilosella_caespitosa	MG223762.1	26-DEC-2017	553	Canada: Ontario, Algoma District, Michipicoten Twp., Michipicoten Bay	secondary	rbcL	43.7308893555463	-76.82530225695	0
+Pilosella_caespitosa	MG223261.1	26-DEC-2017	553	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., S facing slope between classroom and Willow Ridge, 250 m N of creek.	secondary	rbcL	43.0281441189494	-77.9486682440101	0

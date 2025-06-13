@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_marina	FJ548422.1	30-AUG-2009	468	Canada: Northwest Territories, Banks Island, NE part, Parker River Valley, N side c. 7 km from sea	primary	atpF-atpH	73.62	-115.85	0.00116550116550117
+Carex_marina	FJ548421.1	30-AUG-2009	397	Canada: Nunuavut, Victoria Island, Cambridge Bay, wet area among willows 1 mi W	primary	atpF-atpH	69.12	-105.05	0.00252525252525253
+Carex_marina	FJ548420.1	30-AUG-2009	415	Canada: Northwest Territories, Banks Island, Bernard River	primary	atpF-atpH	73.37	-121.78	0.000631313131313131
+Carex_marina	FJ548419.1	30-AUG-2009	482	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.81	-80.69	0.0016996891996892
+Carex_marina	FJ548418.1	30-AUG-2009	468	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.79	-80.61	0.00116550116550117

@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_apetala	OK505870.1	22-FEB-2022	775	Greece: Island of Samothraki, Akr. Kipos	primary	rbcL	40.416667	25.683333	0.301568135963198
+Sagina_apetala	OK505869.1	22-FEB-2022	775	Greece: Island of Samothraki, Loutra (Therma)	primary	rbcL	40.466667	25.666667	0.301568135963198
+Sagina_apetala	OK505868.1	22-FEB-2022	775	Greece: Island of Lesvos, Megalochorion	primary	rbcL	39.016667	26.366667	0.301568135963198
+Sagina_apetala	OK505867.1	22-FEB-2022	775	Greece: Mitikas	primary	rbcL	37.066667	22.366667	0.301568135963198
+Sagina_apetala	OK505866.1	22-FEB-2022	775	Greece: Mitikas	primary	rbcL	38.683333	20.933333	0.301568135963198
+Sagina_apetala	OK505865.1	22-FEB-2022	775	New Zealand: Canterbury Land District, Leeston	primary	rbcL	-43.816667	172.25	0.302120317277757
+Sagina_apetala	OK505863.1	22-FEB-2022	775	Germany: Hessen, Leun-Biskirchen	primary	rbcL	50.5847446362152	9.5744668912593	0.301568135963198
+Sagina_apetala	OK505862.1	22-FEB-2022	775	Germany: Hessen, Frankfurt-Schwanheim	primary	rbcL	49.8786215827978	9.09762110808165	0.301568135963198
+Sagina_apetala	OK505861.1	22-FEB-2022	775	Germany: Hessen, Hochheim-Massenheim	primary	rbcL	50.038028	8.390194	0.301568135963198
+Sagina_apetala	OK505859.1	22-FEB-2022	775	Germany: Hessen, Frankfurt-Schwanheim	primary	rbcL	50.4934720849229	7.70649097926131	0.301568135963198
+Sagina_apetala	OK505858.1	22-FEB-2022	775	Germany: Hessen, Leun-Biskirchen	primary	rbcL	51.0723908837496	7.23870723646387	0.301568135963198
+Sagina_apetala	MT534495.1	06-DEC-2021	689	Germany	primary	rbcL	49.99	8.24	0.305309285112742
+Sagina_apetala	MG248075.1	21-JAN-2018	552	Canada: British Columbia, Greater Vancouver, Delta, east of 41B Street, north of Tsawwassen Drive	primary	rbcL	49.0478	-123.134	0.282323136158974
+Sagina_apetala	MG247993.1	21-JAN-2018	552	Canada: British Columbia, Greater Vancouver, Delta, Parkcanada RV Park, W side Hwy 17, 1.1 km S of 52 Street	primary	rbcL	49.0322	-123.092	0.282323136158974
+Sagina_apetala	MG247029.1	21-JAN-2018	552	Canada: British Columbia, Greater Vancouver, Delta, 150 m east of 41B Street, 140 m north of 27B Avenue	primary	rbcL	49.0542	-123.108	0.282323136158974
+Sagina_apetala	JN892147.1	07-MAR-2012	538	United Kingdom: Monmouthshire	primary	rbcL	51.64	-2.69	0.281516208597451
+Sagina_apetala	OQ172628.1	18-JUN-2023	689	South Korea	secondary	rbcL	35.8257185756402	127.50225613992	0.276197288134194
+Sagina_apetala	OQ172627.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.0939678503784	127.017122312617	0.276197288134194
+Sagina_apetala	OQ172626.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.1085170881579	128.041830779957	0.276197288134194
+Sagina_apetala	OK505860.1	22-FEB-2022	775	Germany: Hamburg, Hoheluftchausee	secondary	rbcL	53.550341	10.000654	0.301568135963198
+Sagina_apetala	MG249231.1	21-JAN-2018	552	Canada	secondary	rbcL	61.0666922	-107.991707	0.282323136158974
+Sagina_apetala	MG249147.1	21-JAN-2018	552	Greece: Platanias, Crete	secondary	rbcL	36.0533118757217	24.6885742528861	0.282323136158974
+Sagina_apetala	MG247865.1	21-JAN-2018	552	Greece: Platanias, Crete	secondary	rbcL	34.9136843543352	23.9332589343483	0.282323136158974
+Sagina_apetala	HM850327.1	23-JUL-2011	653	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.278481080669393
+Sagina_apetala	JN893176.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.281516208597451
+Sagina_apetala	JN893171.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.281516208597451
+Sagina_apetala	JN890673.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.281516208597451

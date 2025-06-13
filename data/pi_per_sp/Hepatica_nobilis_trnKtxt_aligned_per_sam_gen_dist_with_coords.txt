@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hepatica_nobilis	DQ994673.1	23-OCT-2006	1380	South Korea	secondary	trnK	36.638392	127.6961188	0.00386473429951691
+Hepatica_nobilis	DQ994669.1	23-OCT-2006	1380	Romania	secondary	trnK	45.9852129	24.6859225	0.00289855072463768
+Hepatica_nobilis	DQ994668.1	23-OCT-2006	1380	Austria	secondary	trnK	36.9148511	-4.7534501	0.00289855072463768
+Hepatica_nobilis	DQ994667.1	23-OCT-2006	1380	Japan	secondary	trnK	36.5748441	139.2394179	0.00483091787439614

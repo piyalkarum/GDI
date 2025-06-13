@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_halleri	LN868984.1	17-SEP-2015	459	Switzerland	primary	psbA-trnH	46.33	7.29	0.0122765920527503
+Leucanthemum_halleri	LN868983.1	17-SEP-2015	459	Austria	primary	psbA-trnH	47.51	10.6	0.00637688703800104
+Leucanthemum_halleri	HE680916.1	22-APR-2013	339	Austria:Vorarlberg	secondary	psbA-trnH	47.25	9.9166667	0.00368731563421829
+Leucanthemum_halleri	HE680899.1	22-APR-2013	339	Austria:Tirol	secondary	psbA-trnH	47.223193	11.5261028	0.00368731563421829
+Leucanthemum_halleri	HE680898.1	22-APR-2013	339	Germany:Bayern	secondary	psbA-trnH	48.9467562	11.4038717	0.00442477876106195

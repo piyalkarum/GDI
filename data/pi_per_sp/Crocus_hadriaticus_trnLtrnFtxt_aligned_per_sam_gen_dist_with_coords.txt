@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_hadriaticus	LT991660.1	01-SEP-2018	1159	Greece	secondary	trnL-trnF	42.4892747074692	-77.1602765129542	0
+Crocus_hadriaticus	LT991659.1	01-SEP-2018	1159	Greece	secondary	trnL-trnF	42.7903492337329	-78.1101362284503	0
+Crocus_hadriaticus	LT991658.1	01-SEP-2018	1157	Greece	secondary	trnL-trnF	43.2651442433838	-78.8356187069199	0
+Crocus_hadriaticus	LT991657.1	01-SEP-2018	1157	Greece	secondary	trnL-trnF	43.837619738402	-77.5830587963673	0
+Crocus_hadriaticus	LT991656.1	01-SEP-2018	1157	Greece	secondary	trnL-trnF	43.8095631563015	-77.1108224438611	0
+Crocus_hadriaticus	LT991655.1	01-SEP-2018	1157	Greece	secondary	trnL-trnF	43.0316213370684	-77.1660570765382	0

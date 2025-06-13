@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxytropis_campestris	MG248123.1	21-JAN-2018	552	Canada: Yukon Territory, Pelly River drainage, east of Pelly River, on Traffic Mountain	primary	rbcL	62.138	-130.489	0.000603864734299517
+Oxytropis_campestris	MG246656.1	21-JAN-2018	552	Canada: Yukon Territory, Whitehorse, Crestview Wetland	primary	rbcL	60.697	-135.121	0.000603864734299517
+Oxytropis_campestris	KX678304.1	29-APR-2017	552	Canada: British Columbia, Columbia-Shuswap Regional District, Golden, 17 km north of, Blaeberry River, confluence with Columbia River, north side of river, west of railroad tracks	primary	rbcL	51.427	-117.067	0.00152807915204443
+Oxytropis_campestris	MK925570.1	14-JAN-2020	542	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.000615574547612389
+Oxytropis_campestris	MK924685.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7222031749967	-2.30729045617669	0.000615574547612389
+Oxytropis_campestris	MK924506.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9477181360495	-3.32583170245862	0.000615574547612389
+Oxytropis_campestris	JX848464.1	06-AUG-2013	1387	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.00152637395939177

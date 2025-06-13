@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pastinaca_sativa	KX677040.1	09-AUG-2017	811	Canada: British Columbia, Columbia-Shuswap Regional District, Shuswap Lake, west end of lake, south side of Highway 1, 5 km east of Squaliax	primary	matK	50.892	-119.525	0.000455686582319485
+Pastinaca_sativa	MG225068.1	21-JAN-2018	774	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	matK	45.19	-81.42	0.00135040145365448
+Pastinaca_sativa	KJ746169.1	29-JUL-2014	696	Poland	secondary	matK	52.215933	19.134422	0.000478927203065134
+Pastinaca_sativa	KJ204515.1	29-JAN-2015	824	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00135013378369113
+Pastinaca_sativa	JN895126.1	07-MAR-2012	802	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00133841330450578
+Pastinaca_sativa	JN895118.1	07-MAR-2012	834	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000641010333263967
+Pastinaca_sativa	JN894486.1	07-MAR-2012	810	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.000648023001608006

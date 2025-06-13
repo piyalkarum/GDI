@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_sudetica	KC483352.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Parker River, Parker River Valley, N side c. 7 km from sea	primary	rbcL	73.6167	-115.85	0
+Pedicularis_sudetica	KC483351.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	68.719	-110.783	0
+Pedicularis_sudetica	KC483350.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, De Salis Bay, Flat plain along Sandhill River, 1.5-2km from mouth	primary	rbcL	71.4544	-121.868	0
+Pedicularis_sudetica	KC483349.1	25-OCT-2013	552	Canada: Northwest Territories, Anderson River, Cape Bathurst E side, brook system N of river from Lake Mc kinlay, 0.7 - 1.5 km from sea	primary	rbcL	70.4833	-127.8	0
+Pedicularis_sudetica	KC483348.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	rbcL	71.313	-116.916	0
+Pedicularis_sudetica	MG224400.1	26-DEC-2017	552	USA: Alaska, North Slope Borough, Gates of the Arctic, Shainin Lake	primary	rbcL	68.332	-151.042	0
+Pedicularis_sudetica	MG223630.1	26-DEC-2017	552	Canada: Yukon Territory, Blow River Delta east, Whitefish Station, outer delta	primary	rbcL	68.891	-136.911	0
+Pedicularis_sudetica	MG223587.1	26-DEC-2017	552	Canada: Yukon Territory, Blow River Delta, BLOVIOL	primary	rbcL	68.922	-137.18	0
+Pedicularis_sudetica	MG223427.1	26-DEC-2017	552	Canada: Yukon Territory, Whitehorse, Cowley Creek Subdivision	primary	rbcL	60.591	-134.895	0
+Pedicularis_sudetica	MG223283.1	26-DEC-2017	552	Canada: Manitoba, Churchill, downtown near ocean waterfront	primary	rbcL	58.77	-94.162	0
+Pedicularis_sudetica	MG223210.1	26-DEC-2017	552	USA: Alaska, North Slope Borough, Gates of the Arctic National Park, Chandler Lake	primary	rbcL	68.195	-152.748	0
+Pedicularis_sudetica	MG221820.1	26-DEC-2017	552	Canada: Northwest Territories, Cape Bathurst, camp	primary	rbcL	70.513	-128.024	0
+Pedicularis_sudetica	MG221637.1	26-DEC-2017	552	Canada: Yukon Territory, Blow River Delta east, Outer Delta west of Whitefish Station	primary	rbcL	68.906	-136.932	0
+Pedicularis_sudetica	MG221550.1	26-DEC-2017	552	Canada: Yukon Territory, Bonnet Plume Drainage, Gillespie Lake	primary	rbcL	64.725	-133.972	0
+Pedicularis_sudetica	MG221199.1	26-DEC-2017	552	Canada: Yukon Territory, Richardson Mountains, tributary of Fish Creek, S of Vunta Creek	primary	rbcL	67.873	-136.563	0
+Pedicularis_sudetica	MG221160.1	26-DEC-2017	552	Canada: Yukon Territory, Tombstone Park, Rake Mountain N of Foxy Creek	primary	rbcL	64.632	-138.394	0

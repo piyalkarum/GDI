@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erigeron_uniflorus	KT960481.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.0537197909046	-20.7520913101955	0
+Erigeron_uniflorus	KT960432.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.0858513067778	-22.0076896474319	0
+Erigeron_uniflorus	KC482774.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Expedition Fiord	primary	rbcL	79.4	-90.8	0
+Erigeron_uniflorus	KC482773.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Upper Masik River Valley	primary	rbcL	71.567	-122.55	0
+Erigeron_uniflorus	KC482772.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Apex	primary	rbcL	63.717	-68.45	0
+Erigeron_uniflorus	KC482771.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, John Richardson Bay	primary	rbcL	80.217	-72.633	0
+Erigeron_uniflorus	KC482770.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Rankin Inlet	primary	rbcL	62.8	-92.0833	0
+Erigeron_uniflorus	MG223343.1	26-DEC-2017	552	USA: Alaska, North Slope Borough, Gates of the Arctic National Park, Chandler Lake mtn. east of	primary	rbcL	68.182	-152.734	0
+Erigeron_uniflorus	MG221378.1	26-DEC-2017	552	USA: Alaska, North Slope Borough, Gates of the Arctic National Park, Castle Mountain	primary	rbcL	68.567	-152.617	0

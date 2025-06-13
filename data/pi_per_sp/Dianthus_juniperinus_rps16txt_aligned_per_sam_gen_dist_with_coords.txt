@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_juniperinus	OU863016.1	17-JUN-2022	735	Greece:Crete, Nomos Irakliou, Esparchia Pirgiotissis, Kamares, Majiros-Schlucht	secondary	rps16	35.8934515818639	24.8243860285328	0.00394429100311453
+Dianthus_juniperinus	OU863015.1	17-JUN-2022	693	Greece:Crete, Nomos Chanion, Eparchia Kidonias, Kakiskala	secondary	rps16	35.542765013482	23.9012634383633	0.00663780663780664
+Dianthus_juniperinus	OU863012.1	17-JUN-2022	716	Greece:Kreta, Ostkreta, nahe Adrianos (westl. Ag. Nikolaos)	secondary	rps16	34.9570708800428	24.7058411064676	0.00704863763687293
+Dianthus_juniperinus	OU862997.1	17-JUN-2022	714	Greece:Crete, Temenos (Eparchia), summit of Mount Giouhtas W. of Arhanes	secondary	rps16	35.8945413339197	24.7620973335453	0.00705373058314235
+Dianthus_juniperinus	OU862995.1	17-JUN-2022	715	Greece:Ep. Pedhias, Dhikti Oros, Schlucht von Xeniakos W des Berges Majerefta	secondary	rps16	36.4882464786668	22.7816281468049	0.00479233185115538
+Dianthus_juniperinus	OU862992.1	17-JUN-2022	715	Greece:Ep. Apokoronos/ Rethimni, gorge between Asi Gonia und Arjiroupoli	secondary	rps16	38.1168412575641	22.0741570782956	0.00507244389597331

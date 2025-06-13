@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypertelis_cerviana	MK261038.1	09-MAR-2019	184	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	psbA-trnH	0.2838	36.8919	0
+Hypertelis_cerviana	MG948405.1	21-MAR-2020	406	India: Tamil Nadu, Thathankottai	secondary	psbA-trnH	11.6529809751288	80.1606452727149	0
+Hypertelis_cerviana	MG948404.1	21-MAR-2020	406	India: Tamil Nadu, Thathankottai	secondary	psbA-trnH	11.9553244691217	79.0432680439873	0
+Hypertelis_cerviana	MG948403.1	21-MAR-2020	406	India: Tamil Nadu, Thathankottai	secondary	psbA-trnH	11.5517424746969	80.6279246433855	0

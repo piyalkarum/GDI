@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Acer_campestre	OP222111.1	11-APR-2023	407	China	secondary	psbA-trnH	34.8250207288316	105.729763703255	0.00377833753148615
+Acer_campestre	OP222110.1	11-APR-2023	407	China	secondary	psbA-trnH	34.3485042724565	105.332326907269	0.00377833753148615
+Acer_campestre	MT311728.1	28-SEP-2020	292	France	secondary	psbA-trnH	46.603354	1.8883335	0.00171232876712329
+Acer_campestre	HE966458.1	18-SEP-2012	524	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00463450191504779
+Acer_campestre	FN687508.1	16-MAR-2010	524	Italy:Latium	secondary	psbA-trnH	41.9808038	12.7662312	0.00463450191504779

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubus_caesius	JN894314.1	07-MAR-2012	494	United Kingdom: Glamorgan	primary	matK	51.53	-3.7	0.0340755735492578
+Rubus_caesius	KM036838.1	28-SEP-2014	993	Czech Republic: S Moravia, Nov Mlyny	secondary	matK	49.591576	17.9975578540951	0.00596411626301165
+Rubus_caesius	KM036650.1	28-SEP-2014	993	Armenia: Syunik, near Meghri	secondary	matK	39.2049077	46.4665076	0.00596411626301165
+Rubus_caesius	KM036547.1	28-SEP-2014	993	France: Picardie, near Amiens	secondary	matK	49.601756	2.87163388997532	0.00596411626301165
+Rubus_caesius	JN895641.1	07-MAR-2012	756	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00596411626301165
+Rubus_caesius	JN894083.1	07-MAR-2012	749	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00596411626301165
+Rubus_caesius	JN894082.1	07-MAR-2012	729	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0065412290883376

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Papaver_somniferum	MT332823.1	05-APR-2022	553	India: Madhya Pradesh	primary	rbcL	24.03	74.7	0.00131382026001603
+Papaver_somniferum	MG248990.1	21-JAN-2018	552	Canada: Ontario, City of Toronto, City of Toronto, Base of Leslie Street Spit	primary	rbcL	43.647	-79.32	0.00025879917184265
+Papaver_somniferum	JN893507.1	07-MAR-2012	530	United Kingdom: Breconshire	primary	rbcL	51.79	-3.73	0.000269541778975741
+Papaver_somniferum	MH287278.1	18-JUN-2018	1469	Pakistan	secondary	rbcL	30.3308401	71.247499	0.000258331180573495
+Papaver_somniferum	HM850232.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.2115580855024	-7.89041743421742	0
+Papaver_somniferum	HM850231.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.5623031714624	-7.00972140126946	0
+Papaver_somniferum	JN892663.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000263574064312072
+Papaver_somniferum	JN892662.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000263574064312072

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helleborus_multifidus	KY908385.1	05-JUL-2017	883	Bosnia and Herzegovina	secondary	matK	43.8084490796809	18.2602205922891	0.00438803516023541
+Helleborus_multifidus	KY908384.1	05-JUL-2017	873	Bosnia and Herzegovina	secondary	matK	43.5524790573685	18.1178888442642	0.00294648913589452
+Helleborus_multifidus	AJ414327.1	15-SEP-2002	865	Croatia	secondary	matK	45.6378206591411	15.1471686745447	0.0052457168288119
+Helleborus_multifidus	AJ414326.1	15-SEP-2002	830	Croatia	secondary	matK	46.0660173683884	14.8822371490672	0.00240963855421687
+Helleborus_multifidus	AJ414324.1	15-SEP-2002	868	Italy	secondary	matK	42.6384261	12.674297	0.00793123849410717

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alopecurus_geniculatus	MF597155.1	17-JUL-2018	819	Canada: British Columbia, Vancouver Island, Juan de Fuca Provincial Park, end of Hwy. 17, 2 km W of Port Renfrew. Botanical Beach and Botany Bay.	primary	matK	48.533	-124.444	0.00252086472789485
+Alopecurus_geniculatus	MF597154.1	17-JUL-2018	765	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, ~3.2 km up road to Moresby Camp from Y junction (loop road), just over brdige at small creek.	primary	matK	53.098	-132.054	0.00264490690361101
+Alopecurus_geniculatus	MF597153.1	17-JUL-2018	767	Canada: British Columbia, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Rd. Dry mud flats with Juncus.	primary	matK	49.261	-122.989	0.00197900981817019
+Alopecurus_geniculatus	JN894200.1	07-MAR-2012	922	United Kingdom: Glamorgan	primary	matK	51.5	-3.13	0.00258671777201171
+Alopecurus_geniculatus	MT433180.1	31-MAY-2020	1535	Norway	secondary	matK	64.5731537	11.5280364	0.0061761859877026
+Alopecurus_geniculatus	HM850563.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00537334126901679
+Alopecurus_geniculatus	JN895891.1	07-MAR-2012	774	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00198554833046119

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhodanthemum_arundanum	MK481860.1	24-MAR-2019	427	Morocco	primary	rps16	33.2	-4.68	0.00477326968973747
+Rhodanthemum_arundanum	MK481832.1	24-MAR-2019	419	Morocco	primary	rps16	34.79	-3.85	0.00477326968973747
+Rhodanthemum_arundanum	MK481812.1	24-MAR-2019	427	Morocco	primary	rps16	32.37	-5.38	0.00477326968973747
+Rhodanthemum_arundanum	MK481803.1	24-MAR-2019	419	Spain	primary	rps16	37.72	-3.46	0.00477326968973747

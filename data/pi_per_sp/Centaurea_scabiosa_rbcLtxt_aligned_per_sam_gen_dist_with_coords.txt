@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_scabiosa	JN892743.1	07-MAR-2012	500	United Kingdom: Glamorgan	primary	rbcL	51.4	-3.27	0
+Centaurea_scabiosa	OR670298.1	06-NOV-2023	569	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0
+Centaurea_scabiosa	MT930405.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0
+Centaurea_scabiosa	MG223488.1	26-DEC-2017	552	Canada: Ontario, Eureka.	secondary	rbcL	44.5887742	-75.6853876	0
+Centaurea_scabiosa	MG221957.1	26-DEC-2017	552	Canada: Ontario, Wellington Co., Glacier National Park, slopes and valley of the Mount Fidelity Avalanche Research Station.	secondary	rbcL	43.2048274738629	-77.7684433762421	0
+Centaurea_scabiosa	MG221206.1	26-DEC-2017	552	Canada: Ontario, Simcoe Co., Longeuil, Chemin de Gentilly.	secondary	rbcL	43.0348793315714	-77.9869984857364	0
+Centaurea_scabiosa	KJ746251.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0
+Centaurea_scabiosa	JN892734.1	07-MAR-2012	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Centaurea_scabiosa	JN892114.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0

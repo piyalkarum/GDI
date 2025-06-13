@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_nevadensis	HE649658.1	04-FEB-2013	208	Spain	secondary	trnL-trnF	39.5868399077158	-3.99050103076001	0.0024390243902439
+Gagea_nevadensis	HE649657.1	04-FEB-2013	208	Spain	secondary	trnL-trnF	39.3481105836966	-5.7380239750825	0.0024390243902439
+Gagea_nevadensis	HE649656.1	04-FEB-2013	208	Spain	secondary	trnL-trnF	39.0336797223738	-4.92907400969006	0.0024390243902439
+Gagea_nevadensis	AM265525.1	23-MAY-2006	279	France:Pyrenees	secondary	trnL-trnF	48.8738565	2.3852638	0.00180505415162455
+Gagea_nevadensis	AM265524.1	23-MAY-2006	277	Spain:Province Madrid	secondary	trnL-trnF	39.164236	-0.2448832	0.00912212732235626

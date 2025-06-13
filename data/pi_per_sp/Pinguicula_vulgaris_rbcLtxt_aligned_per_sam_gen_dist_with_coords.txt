@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinguicula_vulgaris	MZ359323.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Pinguicula_vulgaris	LC376987.1	18-APR-2018	262	Japan: Toyama, Mt.Taro	primary	rbcL	36.44	137.51	0
+Pinguicula_vulgaris	MG224537.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Dorcas Bay, BPNP	primary	rbcL	45.199	-81.567	0
+Pinguicula_vulgaris	MG223731.1	26-DEC-2017	552	Canada: Ontario, Algoma District, Sault Ste. Marie, Sault Ste. Marie	primary	rbcL	46.501	-84.441	0
+Pinguicula_vulgaris	MG221459.1	26-DEC-2017	552	Canada: Ontario, Thunder Bay District, Neebing Twp., Thunder Bay	primary	rbcL	48.297	-89.239	0
+Pinguicula_vulgaris	KX678147.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, near small runoff/creek area	primary	rbcL	49.454	-120.996	0
+Pinguicula_vulgaris	KC483449.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Brock lagoon, N of Brock River Delta	primary	rbcL	68.433	-121.964	0
+Pinguicula_vulgaris	KC483448.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Soper River, Lapis site	primary	rbcL	62.95	-69.7969	0
+Pinguicula_vulgaris	KC483447.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, West end of Johansen Bay at mouth of Mackenzie Creek	primary	rbcL	68.611	-111.369	0
+Pinguicula_vulgaris	KC483446.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Vicinity of river flowing into Clauston Bay, 3-4 km from river mouth	primary	rbcL	69.142	-113.458	0
+Pinguicula_vulgaris	KC483445.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	rbcL	69.406	-124.081	0
+Pinguicula_vulgaris	KC483444.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq, in town, gravelly soil	primary	rbcL	56.65	-79.256	0
+Pinguicula_vulgaris	KC483443.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Plateau above head of enclosed valley S of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.29	-116.483	0
+Pinguicula_vulgaris	JN965731.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 3 km SE Churchill, pipeline, Forest along the pipe	primary	rbcL	58.747	-94.115	0
+Pinguicula_vulgaris	JN965730.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0
+Pinguicula_vulgaris	JN965729.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	rbcL	58.734	-94.112	0
+Pinguicula_vulgaris	JN965728.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Wet lichen heath	primary	rbcL	58.747	-93.863	0
+Pinguicula_vulgaris	JN893629.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	primary	rbcL	51.88	-3.7	0
+Pinguicula_vulgaris	JN893550.1	07-MAR-2012	542	United Kingdom	primary	rbcL	53.19	-4.46	0
+Pinguicula_vulgaris	JN890668.1	07-MAR-2012	542	United Kingdom	primary	rbcL	51.84	-3.93	0
+Pinguicula_vulgaris	MK925499.1	14-JAN-2020	505	United Kingdom	secondary	rbcL	54.4951153827011	-4.54762521700682	0
+Pinguicula_vulgaris	MK925481.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3287708935505	-4.17456850581459	0
+Pinguicula_vulgaris	MK925407.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5004120413886	-2.32944002568151	0
+Pinguicula_vulgaris	MK925345.1	14-JAN-2020	506	United Kingdom	secondary	rbcL	54.2342736726218	-4.35082731095452	0
+Pinguicula_vulgaris	MK924970.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3239968209918	-3.83911058955529	0
+Pinguicula_vulgaris	MK924620.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2568858177911	-3.9475297640917	0
+Pinguicula_vulgaris	MK924494.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6384722973372	-3.16728553068454	0
+Pinguicula_vulgaris	JN890781.1	07-MAR-2012	529	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0

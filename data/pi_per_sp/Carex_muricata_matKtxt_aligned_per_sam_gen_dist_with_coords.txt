@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_muricata	JN896252.1	07-MAR-2012	821	United Kingdom: Carmarthenshire	primary	matK	51.69	-4.14	0.00171741451576643
+Carex_muricata	MN763588.1	28-JUL-2020	568	Spain: Leon	secondary	matK	42.6341451	-5.9714151	0.00178100934546387
+Carex_muricata	MN763427.1	28-JUL-2020	556	Poland	secondary	matK	52.215933	19.134422	0.0012131537707687
+Carex_muricata	MN763420.1	28-JUL-2020	593	Italy: Piamonte	secondary	matK	45.060735	7.923549	0.00197976787085639
+Carex_muricata	MN763419.1	28-JUL-2020	593	France: Isere	secondary	matK	45.2897932	5.6343825	0.00197976787085639
+Carex_muricata	JN894492.1	07-MAR-2012	775	United Kingdom: Carmarthenshire	secondary	matK	52.5658520794839	-5.16202206898702	0.00171741451576643
+Carex_muricata	JN894358.1	07-MAR-2012	751	United Kingdom: Carmarthenshire	secondary	matK	51.3702105425941	-4.10453103055999	0.00171741451576643

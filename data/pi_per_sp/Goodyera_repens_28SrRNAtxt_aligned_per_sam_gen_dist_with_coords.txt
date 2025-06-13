@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Goodyera_repens	LC686128.1	26-AUG-2022	840	Japan:Yamanashi, Narusawamura	secondary	28S rRNA	34.8715183879308	139.412311189154	0
+Goodyera_repens	LC686127.1	26-AUG-2022	840	Japan:Yamanashi, Narusawamura	secondary	28S rRNA	35.2174262851026	138.776463166773	0
+Goodyera_repens	LC686126.1	26-AUG-2022	840	Japan:Yamanashi, Narusawamura	secondary	28S rRNA	34.8157555702473	139.016823575257	0
+Goodyera_repens	LC686125.1	26-AUG-2022	840	Japan:Nagano, Kaidamura	secondary	28S rRNA	36.6485851	138.1947664	0

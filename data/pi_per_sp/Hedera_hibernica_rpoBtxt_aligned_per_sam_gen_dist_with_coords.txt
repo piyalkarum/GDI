@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedera_hibernica	HQ220454.1	04-DEC-2011	1129	USA: Washington	secondary	rpoB	38.8639317893992	-77.1220563120455	0.169477911646586
+Hedera_hibernica	HQ220453.1	04-DEC-2011	1129	USA	secondary	rpoB	39.7837304	-100.445882	0.169477911646586
+Hedera_hibernica	HQ220452.1	04-DEC-2011	1129	USA: Washington	secondary	rpoB	38.240420164185	-76.9791736266596	0.169477911646586
+Hedera_hibernica	FN668855.1	27-APR-2010	416	Italy:Lombardy	secondary	rpoB	45.5703694	9.7732524	0.508433734939759

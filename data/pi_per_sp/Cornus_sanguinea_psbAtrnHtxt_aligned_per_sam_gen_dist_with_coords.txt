@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cornus_sanguinea	MF348421.1	21-SEP-2017	440	USA: District of Columbia; Bartholdi Park located behind the U.S. Botanic Garden, 100 Maryland Ave.	primary	psbA-trnH	38.887	-77.012	0.0181818181818182
+Cornus_sanguinea	HE966582.1	18-SEP-2012	470	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.5340326965657	13.1213868002754	0.0146679561573179
+Cornus_sanguinea	HE966581.1	18-SEP-2012	470	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.1102682413528	13.8077940176416	0.0132011605415861
+Cornus_sanguinea	HE966580.1	18-SEP-2012	470	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.3817183436309	14.4004253522798	0.010170857511283

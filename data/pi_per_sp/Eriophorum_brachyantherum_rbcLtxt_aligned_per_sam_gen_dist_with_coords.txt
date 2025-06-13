@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eriophorum_brachyantherum	KC482797.1	25-OCT-2013	552	Canada: Northwest Territories, Northwest Territories Mainland, Kelly Lake, East shore	primary	rbcL	65.483	-126.35	0
+Eriophorum_brachyantherum	KC482800.1	25-OCT-2013	552	Canada: Nunavut, Nunavut Mainland, Rankin Inlet, 0.5 km S of gravel pits by Meliadine esker at 55 K/16 437703, 7.5 km northwest of Rankin Inlet, Hudson Bay	primary	rbcL	62.858	-92.133	0
+Eriophorum_brachyantherum	KC482799.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0
+Eriophorum_brachyantherum	KC482798.1	25-OCT-2013	520	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.221	-116.408	0
+Eriophorum_brachyantherum	KC482796.1	25-OCT-2013	552	Canada: Nunavut, Nunavut Mainland, Rankin Inlet, 13 km NW of Rankin Inlet along Meliadine esker at 55 K/16 396758 at NE end Sik-sik' Lake, Meliadine River Park study area, Hudson Bay.'	primary	rbcL	62.917	-92.225	0

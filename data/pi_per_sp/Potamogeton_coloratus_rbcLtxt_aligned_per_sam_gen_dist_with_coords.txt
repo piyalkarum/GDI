@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_coloratus	JN891374.1	07-MAR-2012	458	United Kingdom: Cambridgeshire	primary	rbcL	52.3	0.42	0
+Potamogeton_coloratus	MH170909.1	28-OCT-2018	703	Turkey	secondary	rbcL	38.8060003903774	35.9924516583395	0
+Potamogeton_coloratus	MH170908.1	28-OCT-2018	703	Turkey	secondary	rbcL	38.6073655584998	35.1303756377604	0
+Potamogeton_coloratus	JN891564.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_multiceps	LC757054.1	24-AUG-2023	805	France:Monte d'Oro	primary	ITS2	41.6299078859141	8.46496338474702	0
+Armeria_multiceps	LC757053.1	24-AUG-2023	805	France:Monte d'Oro	primary	ITS2	41.8548065993582	9.17419237235619	0
+Armeria_multiceps	LC757052.1	24-AUG-2023	805	France:Monte d'Oro	primary	ITS2	42.4345821588939	8.7460306634829	0
+Armeria_multiceps	LC757051.1	24-AUG-2023	805	France:Col di Bavella	primary	ITS2	41.3193863057627	9.27996770415886	0
+Armeria_multiceps	LC757050.1	24-AUG-2023	805	France:Col di Bavella	primary	ITS2	40.9792570591532	9.23750836413293	0
+Armeria_multiceps	LC757049.1	24-AUG-2023	805	France:Col di Bavella	primary	ITS2	42.1363052529467	9.93811488928644	0

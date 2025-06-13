@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurium_tenuiflorum	MK325296.1	30-APR-2019	845	Spain: Valencia, Puigmola	primary	matK	39	-0.18	0.00122496861101062
+Centaurium_tenuiflorum	MK926342.1	14-JAN-2020	875	United Kingdom	secondary	matK	54.4156225329058	-2.75366745443826	0.00154897799913244
+Centaurium_tenuiflorum	MK926148.1	14-JAN-2020	893	United Kingdom	secondary	matK	53.9103355949533	-3.00094990563951	0.00169839212273113
+Centaurium_tenuiflorum	MK926089.1	14-JAN-2020	894	United Kingdom	secondary	matK	55.1633681512537	-2.74830251445035	0.00237700562088426
+Centaurium_tenuiflorum	MK925907.1	14-JAN-2020	825	Cyprus	secondary	matK	34.9174159	32.8899027	0.00235332541687305
+Centaurium_tenuiflorum	MK925604.1	14-JAN-2020	824	Greece	secondary	matK	43.2097838	-77.6930602	0.00127951080332033
+Centaurium_tenuiflorum	HM850823.1	23-JUL-2011	822	Portugal	secondary	matK	39.6621648	-8.1353519	0.00759895958019003
+Centaurium_tenuiflorum	MK325297.1	30-APR-2019	845	Croatia	secondary	matK	42.8604287	17.588059	0.00122496861101062

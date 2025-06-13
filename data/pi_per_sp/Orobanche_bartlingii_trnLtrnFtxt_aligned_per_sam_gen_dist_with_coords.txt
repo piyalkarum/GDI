@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Orobanche_bartlingii	KY484480.1	01-MAY-2018	893	Slovakia	secondary	trnL-trnF	48.7674305628676	19.3438191400341	0.000852272727272727
+Orobanche_bartlingii	KY484479.1	01-MAY-2018	935	Poland	secondary	trnL-trnF	51.4347310276827	18.7108311143683	0.00223232263444914
+Orobanche_bartlingii	KY484478.1	01-MAY-2018	883	Poland	secondary	trnL-trnF	51.5541538758107	19.1998637609609	0.00311631318851024
+Orobanche_bartlingii	KY484476.1	01-MAY-2018	904	Slovakia	secondary	trnL-trnF	48.3175066165372	20.0977828312118	0.00168191874497184
+Orobanche_bartlingii	KY484475.1	01-MAY-2018	911	Slovakia	secondary	trnL-trnF	49.0586807457735	20.1250422713456	0.0033601788330116

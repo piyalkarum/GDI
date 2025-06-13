@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_tricolor	KX783803.1	31-MAY-2017	793	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	31.0602456392161	30.9996424891339	0.00028022978842651
+Viola_tricolor	KX783802.1	31-MAY-2017	793	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	30.9872140745048	30.3290738919169	0.00028022978842651
+Viola_tricolor	KX783801.1	31-MAY-2017	792	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	matK	31.189	31.189	0.000281654543741058
+Viola_tricolor	KX783800.1	31-MAY-2017	793	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	31.2005707917848	30.9475946820499	0.00028022978842651
+Viola_tricolor	KX783799.1	31-MAY-2017	793	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	30.7301055774337	29.4578358794543	0.00028022978842651
+Viola_tricolor	KX783798.1	31-MAY-2017	793	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	31.0206799705961	30.6490526342868	0.00028022978842651
+Viola_tricolor	KX783797.1	31-MAY-2017	741	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	31.4048872846684	29.6019229871183	0.000299895036737142
+Viola_tricolor	KX783796.1	31-MAY-2017	793	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	31.4403024174482	29.5325573923156	0.00028022978842651
+Viola_tricolor	JN894507.1	07-MAR-2012	885	United Kingdom: Carmarthenshire	primary	matK	51.7	-4.29	0.00113199962043068
+Viola_tricolor	JN895388.1	07-MAR-2012	868	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00113092869060657

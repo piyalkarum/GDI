@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_ericetorum	MK925579.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2763104094656	-3.4689505876854	0
+Carex_ericetorum	MK925437.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6116174970516	-3.98943594884769	0
+Carex_ericetorum	MK925187.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2149455774514	-2.50673847909796	0
+Carex_ericetorum	MK925176.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4524115013631	-2.56914709894983	0
+Carex_ericetorum	MK925121.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1300938262891	-3.74561325965289	0
+Carex_ericetorum	MK924659.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2065551674328	-2.03901202386196	0
+Carex_ericetorum	MK924612.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8957820310057	-4.03329249416481	0
+Carex_ericetorum	MK924495.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7874151807675	-1.93556736109459	0

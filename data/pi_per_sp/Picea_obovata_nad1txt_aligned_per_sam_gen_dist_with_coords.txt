@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Picea_obovata	KU588991.1	03-AUG-2016	692	Russia	primary	nad1	52.17	94.07	0.000483091787439614
+Picea_obovata	KP698160.1	14-JUL-2015	724	Russia: Western Sayan, Aradan	primary	nad1	52.57	93.44	0.000991221868740427
+Picea_obovata	KM588358.1	21-DEC-2014	649	Russia: Sverdlovskaja, Tavda	primary	nad1	58.067	65.3	0
+Picea_obovata	JX508367.1	09-AUG-2013	1913	Kazakhstan	secondary	nad1	48.1012954	66.7780818	0.000508130081300813

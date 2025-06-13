@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Caltha_palustris	KP643056.1	08-DEC-2015	743	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.3692531371319	-78.6514334260936	0.00616148209576793
+Caltha_palustris	KP643006.1	08-DEC-2015	763	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.3436709466768	-78.1430665726529	0.00381008071304409
+Caltha_palustris	MG220976.1	21-JAN-2018	750	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, BPNP	primary	matK	45.185	-81.601	0.000454686785550983
+Caltha_palustris	MG220957.1	21-JAN-2018	785	Canada: Ontario, Cochrane District, Timmins, Scout Rock Trail - off Brousseau St.	primary	matK	48.49	-81.318	0.00245844497079763
+Caltha_palustris	HQ593196.1	09-NOV-2011	821	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., S side of creek 15 m S of trail between Willow Ridge and classroom	primary	matK	44.032	-79.534	0.00116653950108134
+Caltha_palustris	KC474261.1	25-OCT-2013	497	Canada: Northwest Territories, Tuktoyaktuk, Near the road from town to Reindeer Point	primary	matK	69.4144	-133.029	0.000402414486921529
+Caltha_palustris	KC474260.1	25-OCT-2013	706	Canada: Northwest Territories, Banks Island, Thomsen River, Aulavik National Park, Below the archaeological site on the banks of the Thomsen River	primary	matK	73.5333	-120.083	0.00105177359652414
+Caltha_palustris	KC474259.1	25-OCT-2013	664	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Vicinity of Paulatuk, adjacent to Rat Lake	primary	matK	69.4278	-123.942	0.000502008032128514
+Caltha_palustris	KC474258.1	25-OCT-2013	697	Canada: Northwest Territories, Banks Island, Masik River, Masik River Valley, flat valley bottom, on S side of large oblong lake, ~100m S of lake	primary	matK	71.5939	-123.149	0.000490125332857923
+Caltha_palustris	JN966162.1	27-OCT-2012	673	Canada: Manitoba, Churchill, 16 km E Churchill, small creek near Launch Road, Tundra creek, in water	primary	matK	58.745	-93.895	0.000495294700346706
+Caltha_palustris	JN895521.1	07-MAR-2012	776	United Kingdom	primary	matK	51.84	-3.93	0.000623312854501747
+Caltha_palustris	JN895369.1	07-MAR-2012	832	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.14	0.00113303454579206
+Caltha_palustris	FJ626494.1	10-MAY-2009	1215	China	secondary	matK	35.000074	104.999927	0.00113115360200971
+Caltha_palustris	FJ597997.1	11-MAR-2009	960	South Korea	secondary	matK	36.638392	127.6961188	0.00228247897442428
+Caltha_palustris	JN895556.1	07-MAR-2012	836	United Kingdom: Glamorgan	secondary	matK	51.1740138222514	-2.5630229779336	0.00113911009252083
+Caltha_palustris	JN895457.1	07-MAR-2012	814	United Kingdom: Glamorgan	secondary	matK	51.4369307832115	-3.25880141481713	0.00116969073432076

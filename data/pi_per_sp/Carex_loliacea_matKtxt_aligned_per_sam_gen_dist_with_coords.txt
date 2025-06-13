@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_loliacea	MN763212.1	28-JUL-2020	785	USA: Alaska	secondary	matK	64.4942340436498	-149.165009943285	0.000636942675159236
+Carex_loliacea	KP980118.1	21-SEP-2015	785	USA: Alaska	secondary	matK	64.1143106266729	-151.191721032621	0.000636942675159236
+Carex_loliacea	KP980065.1	21-SEP-2015	785	Finland	secondary	matK	63.2467777	25.9209164	0.000955414012738854
+Carex_loliacea	KP980027.1	21-SEP-2015	785	Canada: British Columbia	secondary	matK	55.001251	-125.002441	0.000636942675159236
+Carex_loliacea	KP980001.1	21-SEP-2015	785	Sweden	secondary	matK	59.6749712	14.5208584	0.000955414012738854

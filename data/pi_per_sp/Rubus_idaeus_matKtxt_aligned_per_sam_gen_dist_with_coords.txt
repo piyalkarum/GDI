@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubus_idaeus	MZ128655.1	26-JUN-2022	729	Japan: Nagano, Ina-shi	primary	matK	35.825	137.856	0.0028791405771513
+Rubus_idaeus	MZ128640.1	26-JUN-2022	706	Japan: Nagano, Chino-shi	primary	matK	36.0692	138.337	0.00292332440381921
+Rubus_idaeus	MZ128524.1	26-JUN-2022	689	Japan: Nagano, Fujimi-machi	primary	matK	35.9411	138.319	0.00296430262002997
+Rubus_idaeus	KX677567.1	09-AUG-2017	799	Canada: British Columbia, Okanagan-Similkameen Regional District, Pasayten Forest Service Road, East of Manning Park	primary	matK	49.132	-120.585	0.0056978530152658
+Rubus_idaeus	MG221115.1	21-JAN-2018	789	Canada: Ontario, Parry Sound District, French River	primary	matK	46.0251	-80.5779	0.00333330493589321
+Rubus_idaeus	MG220959.1	21-JAN-2018	772	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On the SW slope, 20 m down E710E5.	primary	matK	54.925	-67.2572	0.00446827448291519
+Rubus_idaeus	MG220912.1	21-JAN-2018	707	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	primary	matK	48.4066	-89.2467	0.00306884464288096
+Rubus_idaeus	MG220594.1	21-JAN-2018	803	Canada: Ontario, Thunder Bay District, Geraldton	primary	matK	49.7287	-87.1648	0.00338991331264592
+Rubus_idaeus	KP210418.1	28-NOV-2015	488	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	matK	45.535	-73.149	0.00752834285590038
+Rubus_idaeus	KJ593096.1	17-MAR-2015	778	USA: Wisconsin, Laona	primary	matK	45.569	-88.787	0.00657998851174169
+Rubus_idaeus	JN966515.1	27-OCT-2012	752	Canada: Manitoba, Churchill, 5 km SE Churchill, Intersection of Goose Creek Rd and Canadian National Railway, Side of the railway	primary	matK	58.718	-94.124	0.00331180535805997
+Rubus_idaeus	JN894962.1	07-MAR-2012	779	United Kingdom: Glamorgan (41)	primary	matK	51.55	-3.24	0.00742156651921159
+Rubus_idaeus	LC624476.1	13-APR-2021	744	Japan	secondary	matK	37.2124977047787	139.579177880729	0.00311356851416637
+Rubus_idaeus	LC624471.1	13-APR-2021	744	Japan	secondary	matK	36.2126393953357	140.138609397874	0.00311356851416637
+Rubus_idaeus	LC624415.1	13-APR-2021	744	Japan	secondary	matK	36.0694012055014	139.809972016487	0.00311356851416637
+Rubus_idaeus	LC515908.1	15-JAN-2020	650	Japan	secondary	matK	36.7392151659825	138.493619002733	0.0107852013393251
+Rubus_idaeus	LC515907.1	15-JAN-2020	650	Japan	secondary	matK	36.7524267754064	138.293978231048	0.00308002081681205
+Rubus_idaeus	KM036673.1	28-SEP-2014	993	Georgia: Svaneti, near Mestia	secondary	matK	42.4331838	41.64612	0.00736213376742864
+Rubus_idaeus	JN895011.1	07-MAR-2012	757	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.00743589977700746

@@ -1,0 +1,27 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_pratense	OR464926.1	26-SEP-2023	903	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.4379597835437	-86.441827604381	0.0031439271658869
+Trifolium_pratense	OR464925.1	26-SEP-2023	833	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.6358827965724	-85.626077963851	0.00331513029344789
+Trifolium_pratense	OQ418641.1	03-JUL-2023	888	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	42.8794560342992	-85.7215610540458	0.00316374058154853
+Trifolium_pratense	OQ418640.1	03-JUL-2023	854	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	42.06399278713	-85.1067973016388	0.00387781520664581
+Trifolium_pratense	KX677425.1	09-AUG-2017	747	Canada: British Columbia, Kootenay Boundary Regional District, Gladstone Provincial Park, Badger Trail	primary	matK	49.123	-118.242	0.00327833404947688
+Trifolium_pratense	KX677201.1	09-AUG-2017	777	Canada: British Columbia, Vancouver Island, Strathcona Regional District, Strathcona Provincial Park, Buttle Lake	primary	matK	49.835	-125.627	0.00332898864455605
+Trifolium_pratense	KX676980.1	09-AUG-2017	821	Canada: British Columbia, Greater Vancouver Regional District, Pitt Meadows	primary	matK	49.233	-122.683	0.00321513650292293
+Trifolium_pratense	KX676628.1	09-AUG-2017	778	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail, near Link Lake Forest Recreation Site	primary	matK	49.711	-120.231	0.00332490160992738
+Trifolium_pratense	MG220908.1	21-JAN-2018	364	Canada: Ontario, Thunder Bay District, Geraldton	primary	matK	48.4066	-89.2467	0.0309279609279609
+Trifolium_pratense	MG220852.1	21-JAN-2018	766	Canada: Ontario, Kenora District, Dryden	primary	matK	49.7833	-92.8333	0.00305322177888579
+Trifolium_pratense	MG220847.1	21-JAN-2018	794	Canada: Quebec, Montreal, Island of Montreal, Parc Angrignon, en bordure d'un sentier pedestre	primary	matK	45.442	-73.611	0.00331562339098699
+Trifolium_pratense	KP402304.1	06-JAN-2016	671	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, hill towards tower	primary	matK	38.889	-76.556	0.00626275373856118
+Trifolium_pratense	KP210443.1	28-NOV-2015	839	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	matK	45.535	-73.149	0.00521785072050039
+Trifolium_pratense	KJ593138.1	17-MAR-2015	759	USA: Wisconsin, Doty	primary	matK	45.156	-88.558	0.00312000546897832
+Trifolium_pratense	KJ593137.1	17-MAR-2015	762	USA: Wisconsin, Laona	primary	matK	45.56	-88.798	0.00425925989911453
+Trifolium_pratense	JN895372.1	07-MAR-2012	780	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.00323410195100993
+Trifolium_pratense	OR703762.1	11-NOV-2023	664	Kazakhstan: Akmola region	secondary	matK	51.8742347	69.8582132	0.00462096937995221
+Trifolium_pratense	XM_045943544.1	15-JAN-2022	843	USA: Madison, WI	secondary	matK	43.074761	-89.3837613	0.04529016840213
+Trifolium_pratense	MN433372.1	30-NOV-2021	790	China	secondary	matK	35.148630990419	104.652256663835	0.00323993934099977
+Trifolium_pratense	MN317488.1	30-SEP-2021	791	China	secondary	matK	34.8164527129494	105.940009171038	0.00311015517551615
+Trifolium_pratense	HQ619811.1	26-DEC-2010	837	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.00333131896423491
+Trifolium_pratense	KP230743.1	01-DEC-2015	1521	USA: Michigan	secondary	matK	43.6211955	-84.6824346	0.00284181929315335
+Trifolium_pratense	KJ204550.1	29-JAN-2015	745	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.0032518556566389
+Trifolium_pratense	HM851157.1	23-JUL-2011	738	Portugal	secondary	matK	39.6621648	-8.1353519	0.00313232521661124
+Trifolium_pratense	JN894446.1	07-MAR-2012	905	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00433082705731555
+Trifolium_pratense	JN894441.1	07-MAR-2012	921	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00415591209232857

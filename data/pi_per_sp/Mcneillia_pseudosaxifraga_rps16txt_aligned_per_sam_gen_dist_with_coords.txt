@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mcneillia_pseudosaxifraga	LC715038.1	08-SEP-2022	624	Greece	secondary	rps16	43.1829354840031	-78.2735153263662	0.305940594059406
+Mcneillia_pseudosaxifraga	LC715037.1	08-SEP-2022	624	Albania	secondary	rps16	10.675669967049	-71.8313814755591	0.305940594059406
+Mcneillia_pseudosaxifraga	LC715036.1	08-SEP-2022	624	Greece	secondary	rps16	42.8296089450463	-77.3381347606908	0.305940594059406
+Mcneillia_pseudosaxifraga	LC714920.1	08-SEP-2022	793	Greece	secondary	rps16	42.9255892318245	-77.8811927879582	0.305940594059406
+Mcneillia_pseudosaxifraga	LC714919.1	08-SEP-2022	793	Albania	secondary	rps16	11.7486690989186	-72.6004098560396	0.305940594059406
+Mcneillia_pseudosaxifraga	LC714918.1	08-SEP-2022	793	Greece	secondary	rps16	43.9228640467466	-77.4168051939532	0.305940594059406

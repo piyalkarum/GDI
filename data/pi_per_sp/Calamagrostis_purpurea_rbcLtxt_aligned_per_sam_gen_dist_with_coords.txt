@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_purpurea	OR670321.1	06-NOV-2023	568	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.003690036900369
+Calamagrostis_purpurea	MK925530.1	14-JAN-2020	542	Finland	secondary	rbcL	63.2467777	25.9209164	0.001230012300123
+Calamagrostis_purpurea	MK924803.1	14-JAN-2020	542	Norway	secondary	rbcL	64.5731537	11.5280364	0.001230012300123
+Calamagrostis_purpurea	MK924619.1	14-JAN-2020	542	Sweden	secondary	rbcL	59.6749712	14.5208584	0.001230012300123

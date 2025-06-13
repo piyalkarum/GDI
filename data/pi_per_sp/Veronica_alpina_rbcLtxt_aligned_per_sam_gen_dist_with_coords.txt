@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_alpina	MG224124.1	26-DEC-2017	552	Canada: Manning Provincial park	primary	rbcL	49.0667	-120.783	0
+Veronica_alpina	MG222266.1	26-DEC-2017	552	Canada: Rocky Mountains	primary	rbcL	53.1106	-119.156	0
+Veronica_alpina	MK925326.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.224985374584	-4.21256734211686	0
+Veronica_alpina	MK925324.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6735864753996	-2.95633727492028	0
+Veronica_alpina	MK925084.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2082426250487	-2.3590850342741	0
+Veronica_alpina	MK924691.1	14-JAN-2020	542	Iceland	secondary	rbcL	65.1998336539798	-18.1819982840027	0
+Veronica_alpina	MK924442.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.245560615344	-16.9459712196191	0

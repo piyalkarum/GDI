@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Acer_tataricum	OR465027.1	26-SEP-2023	489	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	psbA-trnH	42.28864627	-85.61995888	0.00424038820455394
+Acer_tataricum	LC652820.1	05-APR-2022	510	Japan:Nagano, Kisomachi	secondary	psbA-trnH	35.899967	137.651902	0.0042046292201091
+Acer_tataricum	JN043730.1	13-DEC-2011	477	China	secondary	psbA-trnH	35.5180760434689	104.764087554054	0.00280712400933432
+Acer_tataricum	JN043729.1	13-DEC-2011	479	China	secondary	psbA-trnH	35.8209601083168	105.156490258826	0.00562612394973601

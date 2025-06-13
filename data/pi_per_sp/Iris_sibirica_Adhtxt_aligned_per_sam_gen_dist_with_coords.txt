@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_sibirica	MT732249.1	18-JUL-2020	342	Slovenia	primary	Adh	45.7562511112825	13.8087697364	0
+Iris_sibirica	MT732248.1	18-JUL-2020	342	Slovenia	primary	Adh	46.0070984050294	14.2196156609441	0
+Iris_sibirica	MT732247.1	18-JUL-2020	342	Croatia	primary	Adh	46	15.53	0
+Iris_sibirica	MT732246.1	18-JUL-2020	342	Croatia	primary	Adh	45.37	18.31	0
+Iris_sibirica	MT732245.1	18-JUL-2020	342	Slovenia	primary	Adh	45.924065988909	15.0046151985673	0

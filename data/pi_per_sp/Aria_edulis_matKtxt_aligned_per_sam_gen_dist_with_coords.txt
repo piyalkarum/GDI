@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aria_edulis	JN895195.1	07-MAR-2012	863	United Kingdom: Monmouthshire	primary	matK	51.66	-2.7	0
+Aria_edulis	GQ248202.1	24-JUN-2009	750	United Kingdom: Gloucestershire	secondary	matK	51.8333313	-2.1666674	0
+Aria_edulis	JN894460.1	07-MAR-2012	818	United Kingdom: Monmouthshire	secondary	matK	51.2933219737741	-2.70008822294126	0
+Aria_edulis	JN894456.1	07-MAR-2012	819	United Kingdom: Monmouthshire	secondary	matK	51.0434443048333	-3.07908913501227	0

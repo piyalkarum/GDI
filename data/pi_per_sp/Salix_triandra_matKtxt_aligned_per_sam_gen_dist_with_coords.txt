@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_triandra	LC680473.1	03-MAY-2022	749	Japan: Gifu	primary	matK	35.4736	136.751	0.00333778371161549
+Salix_triandra	MG220622.1	21-JAN-2018	809	Canada: Quebec, Jardin botanique de Montreal	primary	matK	45.5595	-73.566	0.00311498974322583
+Salix_triandra	JN893912.1	07-MAR-2012	843	United Kingdom: Cardiganshire	primary	matK	52.41	-4.02	0.00309113131233802
+Salix_triandra	KC584942.1	04-JUN-2013	830	Italy: Umbria	secondary	matK	42.965916	12.490236	0.0106840016754165
+Salix_triandra	JN894738.1	07-MAR-2012	801	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00314276713520649

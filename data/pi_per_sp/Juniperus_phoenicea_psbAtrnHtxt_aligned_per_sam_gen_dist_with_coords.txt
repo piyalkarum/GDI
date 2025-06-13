@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juniperus_phoenicea	MT311768.1	28-SEP-2020	500	France	secondary	psbA-trnH	46.915837950909	1.90270559661522	0.00533333333333333
+Juniperus_phoenicea	MT311767.1	28-SEP-2020	500	France	secondary	psbA-trnH	46.1993397821342	2.26904963958546	0.0053440213760855
+Juniperus_phoenicea	MT311766.1	28-SEP-2020	500	France	secondary	psbA-trnH	46.3217794400222	2.81795638249498	0.00533333333333333
+Juniperus_phoenicea	FN689390.1	19-MAR-2010	567	Italy:Latium	secondary	psbA-trnH	41.9808038	12.7662312	0.0160106880427522

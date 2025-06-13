@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_germanica	MW110405.1	26-MAY-2021	833	Lebanon: Mrouje	secondary	trnL-trnF	33.8806158	35.5159501	0
+Iris_germanica	MT294604.1	24-MAR-2021	821	Italy: Picarelli, Introdacqua, L'Aquila	secondary	trnL-trnF	40.9423862	14.7947436	0
+Iris_germanica	MT294603.1	24-MAR-2021	821	Italy: Gioia dei Marsi, L'Aquila	secondary	trnL-trnF	41.954369	13.6934148	0
+Iris_germanica	MT294599.1	24-MAR-2021	821	Italy: Barisciano, L'Aquila	secondary	trnL-trnF	42.3254511	13.5908168	0

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alchemilla_glabra	JN891525.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.26	-4.02	0.0030750307503075
+Alchemilla_glabra	MK924763.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00307960328673919
+Alchemilla_glabra	MG247384.1	21-JAN-2018	553	Canada: Newfoundland and Labrador, Churchill Park, St. John's	secondary	rbcL	47.5626513	-52.734081	0.00736475208282135
+Alchemilla_glabra	MG246423.1	21-JAN-2018	553	Canada: Newfoundland and Labrador, Twillingate Museum	secondary	rbcL	49.6555681	-54.7767437	0.00305513649595916
+Alchemilla_glabra	JN892118.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.843479867314	0.212864806328222	0.00307960328673919
+Alchemilla_glabra	JN892113.1	07-MAR-2012	538	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00309789343246592
+Alchemilla_glabra	JN891354.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.6302196692879	-1.13307353382556	0.0030750307503075

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Homogyne_discolor	MH223343.1	01-MAY-2019	1074	Austria	secondary	ndhF	37.5770385109836	-4.69729569550505	0
+Homogyne_discolor	MH223342.1	01-MAY-2019	1074	Austria	secondary	ndhF	37.7600382325472	-5.03357479606383	0
+Homogyne_discolor	MH223341.1	01-MAY-2019	751	Austria	secondary	ndhF	36.7849586949615	-4.51420779273735	0
+Homogyne_discolor	MH223340.1	01-MAY-2019	1074	Austria	secondary	ndhF	36.875199331028	-4.9267275002395	0
+Homogyne_discolor	MH223339.1	01-MAY-2019	446	Austria	secondary	ndhF	36.6379535126326	-4.83845911924787	0
+Homogyne_discolor	MH223338.1	01-MAY-2019	1075	Italy	secondary	ndhF	42.6384261	12.674297	0

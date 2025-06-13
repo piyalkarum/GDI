@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_parviflorum	MG249935.1	21-JAN-2018	552	Canada: Ontario, Manitoulin County, Indian Reserve 26, Clover Valley, head of South Bay, on Cedar Grove Trail	primary	rbcL	45.692	-81.787	0.000627818421776529
+Epilobium_parviflorum	MG249199.1	21-JAN-2018	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	rbcL	43.274	-79.899	0.000627818421776529
+Epilobium_parviflorum	MG247808.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.8526	-80.4991	0.000626637320948393
+Epilobium_parviflorum	MG247504.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island, shoreline, FFNMP	primary	rbcL	45.266	-81.7	0.000627818421776529
+Epilobium_parviflorum	HQ590080.1	09-NOV-2011	587	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 5 m E of Racing Barn	primary	rbcL	44.029	-79.533	0.00204003521080282
+Epilobium_parviflorum	HQ590079.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., SW edge of pond	primary	rbcL	44.035	-79.518	0.000614999459699767
+Epilobium_parviflorum	KT695507.1	29-SEP-2015	522	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.00406434377669148
+Epilobium_parviflorum	JN893151.1	07-MAR-2012	542	United Kingdom: Sussex, West (13)	primary	rbcL	51	-0.7	0.000630715119411731
+Epilobium_parviflorum	KJ204335.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000631388609530686
+Epilobium_parviflorum	HM849976.1	23-JUL-2011	673	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00044004400440044

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_porrifolius	FN675710.1	10-JAN-2011	722	Spain:Jaen, El Oasis	secondary	18S rRNA	37.677975	-3.6262157	0.0038381257071515
+Tragopogon_porrifolius	FN675709.1	10-JAN-2011	722	Spain:Jaen, La Carolina	secondary	18S rRNA	38.2742478	-3.6152701	0.0038381257071515
+Tragopogon_porrifolius	FN675708.1	10-JAN-2011	723	Spain:Granada, Orce	secondary	18S rRNA	37.7212772	-2.4794159	0.00278079720731988
+Tragopogon_porrifolius	FN675707.1	10-JAN-2011	723	Spain:Granada, Iznalloz	secondary	18S rRNA	37.3928352	-3.5276704	0.00278079720731988
+Tragopogon_porrifolius	FN675706.1	10-JAN-2011	711	Spain:Granada, La Cortichuela	secondary	18S rRNA	37.1734995	-3.5995337	0.00492759652146352

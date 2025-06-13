@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phedimus_aizoon	MF348645.1	21-SEP-2017	371	USA: District of Columbia; Stop 1- U.S. National Arboretum, 3501 New York Ave. NE, Asian Collection along Hickey Hill Road towards the Anacostia River	primary	psbA-trnH	39.714178525913	-76.7736972423056	0.00632917730709529
+Phedimus_aizoon	MF348358.1	21-SEP-2017	371	USA: District of Columbia; Stop 1- U.S. National Arboretum, 3501 New York Ave. NE, Asian Collection along Hickey Hill Road towards the Anacostia River	primary	psbA-trnH	38.3171439617541	-76.7792552585848	0.00632917730709529
+Phedimus_aizoon	KJ570046.1	09-AUG-2014	322	China: Sichuan, Maerkang Xian	secondary	psbA-trnH	35.1224227	105.4809295	0.00630914826498423
+Phedimus_aizoon	KF113735.1	27-MAY-2014	329	China: Hebei	secondary	psbA-trnH	39.0000001	116	0.00634920634920635

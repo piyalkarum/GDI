@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scrophularia_auriculata	MT075493.1	17-APR-2021	937	Germany	primary	rps16	50.79728	6.07579	0.0158727316324211
+Scrophularia_auriculata	MT075492.1	17-APR-2021	914	Germany	primary	rps16	50.898419	6.363552	0.0155218885725504
+Scrophularia_auriculata	MT075491.1	17-APR-2021	938	Germany	primary	rps16	50.68684	6.56842	0.0157181748373463
+Scrophularia_auriculata	MT075490.1	17-APR-2021	953	Germany	primary	rps16	50.85899	6.42664	0.0401618219325933
+Scrophularia_auriculata	KY067779.1	29-MAR-2017	885	United Kingdom: England, East of England	secondary	rps16	52.2199774	0.4875777	0.0216598144094567
+Scrophularia_auriculata	KY067778.1	29-MAR-2017	1080	Portugal: Azores, Sao Miguel	secondary	rps16	37.8085564	-25.4731374	0.0293504139764626
+Scrophularia_auriculata	KR361588.1	13-JUL-2015	679	Spain: S	secondary	rps16	42.6457342	-8.8749239	0.0260587642840511
+Scrophularia_auriculata	KR361587.1	13-JUL-2015	860	Portugal: Azores, Ilha de Faial	secondary	rps16	38.5795831	-28.7096295	0.0171349060909228
+Scrophularia_auriculata	KF447247.1	27-OCT-2013	1065	Morocco: Tetouan	secondary	rps16	35.570175	-5.3742776	0.0376928860031841

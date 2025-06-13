@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_acicularis	OR738266.1	13-NOV-2023	662	Kazakhstan: East Kazakhstan region	primary	matK	50.27167	83.16528	0.00215708380997077
+Rosa_acicularis	LC679541.1	03-MAY-2022	751	Japan: Hokkaido	primary	matK	44.7723	142.1695	0.0030720673941447
+Rosa_acicularis	LC680389.1	03-MAY-2022	783	Japan: Hokkaido	primary	matK	42.9925	141.391	0.00530005672077208
+Rosa_acicularis	KX676662.1	09-AUG-2017	804	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, near small runoff/creek area	primary	matK	49.454	-120.996	0.00305071828092697
+Rosa_acicularis	JN966509.1	27-OCT-2012	739	Canada: Manitoba, Churchill, 5 km SE Churchill, Intersection of Goose Creek Rd and Canadian National Railway, Side of the railway	primary	matK	58.718	-94.124	0.0019050050993177
+Rosa_acicularis	MG221020.1	21-JAN-2018	740	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	matK	43.72634945	-77.7101179040839	0.00190693908555097

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linum_catharticum	MG247581.1	21-JAN-2018	552	Canada: Nova Scotia, Cape Breton Island, Irish Cove Brook, 2 km S of Irish Cove, Richmond Municipality.	primary	rbcL	45.8	-60.667	0
+Linum_catharticum	JN892711.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.67	-4.14	0
+Linum_catharticum	MG248295.1	21-JAN-2018	552	Canada: Quebec, Co. de Wolfe, Canton (Tp.) de Dudswell, Lac Sylver.	secondary	rbcL	46.8137431	-71.2084061	0
+Linum_catharticum	MG246795.1	21-JAN-2018	552	Canada: Nova Scotia, Antigonish Co., At Cape George.	secondary	rbcL	45	-63.75	0
+Linum_catharticum	HM544064.1	19-DEC-2010	1293	Estonia	secondary	rbcL	58.7523778	25.3319078	0
+Linum_catharticum	JN893182.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Linum_catharticum	JN893181.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0

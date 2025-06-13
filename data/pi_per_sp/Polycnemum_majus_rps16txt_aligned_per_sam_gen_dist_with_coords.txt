@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polycnemum_majus	JQ407865.1	09-JAN-2013	538	Greece: Trikala	primary	rps16	39.61	21.43	0.00108042712903404
+Polycnemum_majus	JQ407864.1	09-JAN-2013	527	Hungary: Suemeg	primary	rps16	46.99	17.28	0.00306012680729391
+Polycnemum_majus	JQ407860.1	09-JAN-2013	600	Ukraine: Chechelnytsky region	primary	rps16	48.25	29.31	0.00103825972443779
+Polycnemum_majus	JQ407859.1	09-JAN-2013	523	Austria: 'Zeilerberg' near Winden	primary	rps16	47.98	16.76	0.00118557035478816
+Polycnemum_majus	JQ407867.1	09-JAN-2013	482	Italy: Prov. Siena	secondary	rps16	43.1672254	11.4671812	0.002640085680958
+Polycnemum_majus	JQ407866.1	09-JAN-2013	443	Germany: Thueringen, 35km NNE Erfurt	secondary	rps16	51.2094255	10.4589044	0.00286116520250406
+Polycnemum_majus	JQ407863.1	09-JAN-2013	548	France: Dep. Basses-Alpes, Vaucluse, Gubian	secondary	rps16	49.9246182	1.0791444	0.00107288138294839

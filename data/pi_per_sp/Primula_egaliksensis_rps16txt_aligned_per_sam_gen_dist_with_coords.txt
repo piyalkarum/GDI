@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Primula_egaliksensis	EF218417.1	31-JAN-2008	825	Canada: Yukon Territory	secondary	rps16	63.5923723848584	-136.090967301384	0
+Primula_egaliksensis	EF218416.1	31-JAN-2008	825	Russia: Chukotka	secondary	rps16	66.0006475	169.4900869	0
+Primula_egaliksensis	EF218415.1	31-JAN-2008	824	Canada: Ontario	secondary	rps16	49.2009561523957	-86.210455445681	0
+Primula_egaliksensis	EF218414.1	31-JAN-2008	824	Canada: Ontario	secondary	rps16	50.0828254100644	-86.0816170905843	0
+Primula_egaliksensis	EF218413.1	31-JAN-2008	819	Denmark: W Greenland	secondary	rps16	76.769517	-18.6736769	0
+Primula_egaliksensis	EF218412.1	31-JAN-2008	825	Canada: Quebec	secondary	rps16	53.0868456522722	-72.8671710714357	0
+Primula_egaliksensis	EF218411.1	31-JAN-2008	824	Canada: Quebec	secondary	rps16	52.7926368280624	-72.5036770983872	0
+Primula_egaliksensis	EF218410.1	31-JAN-2008	824	Canada: Quebec	secondary	rps16	53.2551838310285	-71.1778619673867	0
+Primula_egaliksensis	EF218409.1	31-JAN-2008	823	Canada: Quebec	secondary	rps16	52.4881131146349	-72.9413711592035	0
+Primula_egaliksensis	EF218408.1	31-JAN-2008	825	Canada: British Columbia	secondary	rps16	55.001251	-125.002441	0
+Primula_egaliksensis	EF218407.1	31-JAN-2008	825	USA: Alaska	secondary	rps16	64.4506400882244	-150.932202903867	0
+Primula_egaliksensis	DQ379943.1	14-SEP-2006	825	USA: Alaska	secondary	rps16	63.7846066301771	-149.643409416078	0
+Primula_egaliksensis	DQ379942.1	14-SEP-2006	825	Canada: Newfoundland	secondary	rps16	49.6533034722918	-55.8032365790295	0
+Primula_egaliksensis	DQ379941.1	14-SEP-2006	825	USA: Alaska	secondary	rps16	65.007119506008	-149.869486937466	0
+Primula_egaliksensis	DQ379940.1	14-SEP-2006	825	USA: Alaska	secondary	rps16	64.6711852568934	-148.127336903626	0
+Primula_egaliksensis	DQ379939.1	14-SEP-2006	822	USA: Alaska	secondary	rps16	64.4831642763561	-148.617735501301	0
+Primula_egaliksensis	DQ379938.1	14-SEP-2006	825	USA: Colorado	secondary	rps16	38.7251776	-105.607716	0
+Primula_egaliksensis	DQ379937.1	14-SEP-2006	826	Canada: Newfoundland	secondary	rps16	49.3656173287907	-57.7963049966271	0
+Primula_egaliksensis	DQ379936.1	14-SEP-2006	825	Canada: Yukon Territory	secondary	rps16	63.1934147386787	-137.498196288279	0

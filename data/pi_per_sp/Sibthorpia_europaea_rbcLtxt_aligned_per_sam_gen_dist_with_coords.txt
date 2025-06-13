@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sibthorpia_europaea	JN891398.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.6	-3.64	0.000634920634920635
+Sibthorpia_europaea	HM850352.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0019047619047619
+Sibthorpia_europaea	JN893826.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000634920634920635
+Sibthorpia_europaea	JN893789.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000634920634920635

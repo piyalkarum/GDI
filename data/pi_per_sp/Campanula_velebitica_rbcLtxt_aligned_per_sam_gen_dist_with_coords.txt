@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_velebitica	MK556073.1	22-SEP-2019	305	Hungary	secondary	rbcL	41.7850610145263	-73.8280864056508	0.548143563627354
+Campanula_velebitica	MK555993.1	22-SEP-2019	337	Hungary	secondary	rbcL	41.3571475749763	-73.4517271991212	0.59226099171201
+Campanula_velebitica	MK555540.1	22-SEP-2019	357	Hungary	secondary	rbcL	42.0358821041138	-72.2706871379481	0.63337640656638
+Campanula_velebitica	MK555452.1	22-SEP-2019	381	Hungary	secondary	rbcL	42.7353779929104	-73.1597666401962	0.604063816470302
+Campanula_velebitica	MK555350.1	22-SEP-2019	382	Hungary	secondary	rbcL	41.8904065870458	-71.6445644072269	0.629798041552153

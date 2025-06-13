@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_oedipostyla	MZ892100.1	12-DEC-2021	751	Spain: Barcelona	secondary	rps16	41.3828939	2.1774322	0.00181413640782968
+Carex_oedipostyla	MZ892099.1	12-DEC-2021	779	Spain: Cadiz, Alcala de los Gazules	secondary	rps16	36.4618805	-5.7238891	0.00219185088798348
+Carex_oedipostyla	MZ892097.1	12-DEC-2021	779	Morocco: Tanger	secondary	rps16	35.7696302	-5.8033522	0.00356211849467862
+Carex_oedipostyla	MZ892096.1	12-DEC-2021	724	Spain: Tenerife, Canary Isl.	secondary	rps16	28.2935785	-16.6214471211441	0.00232506301473873

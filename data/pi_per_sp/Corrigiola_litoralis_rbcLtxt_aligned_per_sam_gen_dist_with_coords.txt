@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Corrigiola_litoralis	MG248367.1	21-JAN-2018	552	Canada: British Columbia, New Westminster, Queensborough, Ewen Ave and Pembina St, SE corner	primary	rbcL	49.1898	-122.937	0.00290467388434117
+Corrigiola_litoralis	MG248046.1	21-JAN-2018	552	Canada: British Columbia, Greater Vancouver, Langley, old gravel pit, N of 32nd Ave, E of 202nd Street, NW corner	primary	rbcL	49.0639	-122.661	0.00290467388434117
+Corrigiola_litoralis	MG246135.1	21-JAN-2018	552	Canada: British Columbia, Greater Vancouver, Langley, Rees Lake, S of 32nd Ave, E of 204th St, E shore of W lake	primary	rbcL	49.0564	-122.653	0.00290467388434117
+Corrigiola_litoralis	MK925039.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1230028719613	-3.22202750226293	0.00289931470743279
+Corrigiola_litoralis	MK924830.1	14-JAN-2020	542	Spain	secondary	rbcL	39.3260685	-4.8379791	0.020316639659663
+Corrigiola_litoralis	MK924819.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3759798452678	-4.23502833511755	0.00289931470743279
+Corrigiola_litoralis	MG248491.1	21-JAN-2018	552	United Kingdom: Slapton Ley, Devon	secondary	rbcL	50.2822076	-3.65030628383433	0.00290467388434117
+Corrigiola_litoralis	FN868311.1	15-FEB-2011	1326	France	secondary	rbcL	46.603354	1.8883335	0.00289931470743279

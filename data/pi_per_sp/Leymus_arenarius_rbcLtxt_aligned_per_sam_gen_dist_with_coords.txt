@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leymus_arenarius	JN891800.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.51	-4.05	0.000461254612546125
+Leymus_arenarius	KP211037.1	31-AUG-2017	1274	Russia	secondary	rbcL	64.6863136	97.7453061	0.000486381322957198
+Leymus_arenarius	KF728590.1	28-DEC-2013	553	Poland	secondary	rbcL	52.215933	19.134422	0.000461254612546125
+Leymus_arenarius	JN893062.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00191089858017796
+Leymus_arenarius	JN893061.1	07-MAR-2012	498	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.000502008032128514

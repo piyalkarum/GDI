@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arrhenatherum_elatius	KX873233.1	16-OCT-2017	949	Canada: British Columbia, Vancouver Island, along Hwy. 18, E of town of Lake Cowichan, just E of Cowichan River Provincial Park	primary	matK	48.8069	-123.9569	0.00598833279193605
+Arrhenatherum_elatius	MF597181.1	17-JUL-2018	781	Canada: British Columbia, Queen Charlotte Island, Graham Island. Roadside along Hwy. 16, across from ferry terminal at Skidegate.	primary	matK	53.247	-132.01	0.00619141099429711
+Arrhenatherum_elatius	MF597180.1	17-JUL-2018	816	Canada: British Columbia, Vancouver Island, along Hwy. 18, E of town of Lake Cowichan, just E of Cowichan River Provincial Park.	primary	matK	48.807	-123.957	0.00659212752458874
+Arrhenatherum_elatius	MF597179.1	17-JUL-2018	825	Canada: British Columbia, Vancouver Island, just W of intersection with Hwy. 19 and road from Cumberland that meets Hwy. 19.	primary	matK	49.632	-125.014	0.00856530143115834
+Arrhenatherum_elatius	JN895819.1	07-MAR-2012	793	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.00624939672057697
+Arrhenatherum_elatius	LR606835.1	25-JAN-2021	2128	Germany	secondary	matK	34.6772958305269	-83.7536812535065	0.00607027195132887
+Arrhenatherum_elatius	MT433184.1	31-MAY-2020	1535	Norway	secondary	matK	64.5731537	11.5280364	0.010570409099467
+Arrhenatherum_elatius	KJ529335.1	22-FEB-2015	969	Spain	secondary	matK	39.8273226677982	-5.48043975544622	0.0117589363106184
+Arrhenatherum_elatius	KJ204442.1	29-JAN-2015	852	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0254910181293909
+Arrhenatherum_elatius	HG797415.1	26-SEP-2014	773	Germany	secondary	matK	34.3016305508134	-83.2232457742531	NA
+Arrhenatherum_elatius	JX438074.1	31-MAR-2013	1231	Spain	secondary	matK	39.6327015946599	-5.49213871814479	0.0545147445025258
+Arrhenatherum_elatius	HM850561.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	NA
+Arrhenatherum_elatius	HE970674.1	18-SEP-2012	734	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	NA
+Arrhenatherum_elatius	JN894513.1	07-MAR-2012	782	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.0063185284883637
+Arrhenatherum_elatius	JN893973.1	07-MAR-2012	817	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	NA

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alopecurus_pratensis	MF597160.1	17-JUL-2018	769	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, ca. 1.5 km along road to Moresby Camp from Y junction (loop road)	primary	matK	53.107	-132.037	0.000591240345588525
+Alopecurus_pratensis	MF597159.1	17-JUL-2018	777	Canada: British Columbia, Lower Mainland, Ladner Harbour Park	primary	matK	49.092	-123.094	0.000585151358347235
+Alopecurus_pratensis	MF597158.1	17-JUL-2018	818	Canada: British Columbia, Vancouver Island, along Deering Road, ~24 km N of Port Renfrew at crossing of small river with one-lane bridge.	primary	matK	48.676	-124.222	0.00127319745460441
+Alopecurus_pratensis	MF597157.1	17-JUL-2018	778	Canada: British Columbia, Vancouver Island, Saanich Peninsula, at corner of Derrick Road and Norris Road, S of Deep Cove	primary	matK	48.671	-123.472	0.000233699462491236
+Alopecurus_pratensis	MF597156.1	17-JUL-2018	780	Canada: British Columbia, Vancouver Island, Mt. Washington alpine resort, gravel edge of parking lot	primary	matK	49.741	-125.299	0.000582900197791083
+Alopecurus_pratensis	JN894579.1	07-MAR-2012	817	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.000577968672484234
+Alopecurus_pratensis	KM523834.1	12-JUL-2015	715	Canada	secondary	matK	61.0666922	-107.991707	0
+Alopecurus_pratensis	MT433181.1	31-MAY-2020	1432	Norway	secondary	matK	64.5731537	11.5280364	0.00149779286513555
+Alopecurus_pratensis	HM850564.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.000117757889778615
+Alopecurus_pratensis	JN893968.1	07-MAR-2012	795	United Kingdom: Cardiganshire	secondary	matK	51.5758925826331	-3.06933517429837	0.000120729204394543
+Alopecurus_pratensis	JN893967.1	07-MAR-2012	813	United Kingdom: Cardiganshire	secondary	matK	52.1556691459538	-2.85507179286681	0.000117302052785924
+Alopecurus_pratensis	HQ600050.1	02-AUG-2011	1339	South Korea	secondary	matK	36.638392	127.6961188	0.00102903958783216

@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tephroseris_integrifolia	MW796336.1	14-SEP-2021	860	Norway: Troms og Finnmark	secondary	trnL-trnF	69.8699347	21.8272785	0.000206482855179412
+Tephroseris_integrifolia	MW796335.1	14-SEP-2021	860	Austria: Burgenland	secondary	trnL-trnF	47.5000001	16.4166666	0.000206482855179412
+Tephroseris_integrifolia	MW796334.1	14-SEP-2021	852	United Kingdom: Anglesey	secondary	trnL-trnF	53.2653684612378	-2.94981867432856	0.000207125103562552
+Tephroseris_integrifolia	MW796333.1	14-SEP-2021	852	United Kingdom: Anglesey	secondary	trnL-trnF	53.9822757625149	-4.50609542588717	0.000207125103562552
+Tephroseris_integrifolia	MW796332.1	14-SEP-2021	852	United Kingdom: Anglesey	secondary	trnL-trnF	53.7921013164455	-3.39134894935436	0.000207125103562552
+Tephroseris_integrifolia	MW796331.1	14-SEP-2021	860	Germany: Thuringia	secondary	trnL-trnF	51.257954819175	11.9665712450087	0.000206482855179412
+Tephroseris_integrifolia	MW796330.1	14-SEP-2021	860	Germany: Thuringia	secondary	trnL-trnF	51.5810549845101	10.6175664290853	0.000206482855179412
+Tephroseris_integrifolia	MW796329.1	14-SEP-2021	860	United Kingdom: Yorkshire	secondary	trnL-trnF	54.4920962851865	-2.34476408606297	0.000206482855179412
+Tephroseris_integrifolia	MW796328.1	14-SEP-2021	860	United Kingdom: Yorkshire	secondary	trnL-trnF	54.1266539503418	-2.18125059411858	0.000206482855179412
+Tephroseris_integrifolia	MW796327.1	14-SEP-2021	860	Germany: Thuringia	secondary	trnL-trnF	50.7847594846478	12.2455446317407	0.000206482855179412
+Tephroseris_integrifolia	MW796326.1	14-SEP-2021	860	Germany: Thuringia	secondary	trnL-trnF	51.5374324158012	10.0857099405437	0.000206482855179412
+Tephroseris_integrifolia	MW796325.1	14-SEP-2021	852	United Kingdom: Wiltshire	secondary	trnL-trnF	51.324162	-1.9032487	0.0024164595415631
+Tephroseris_integrifolia	MW796324.1	14-SEP-2021	860	United Kingdom: Bedfordshire	secondary	trnL-trnF	52.0640034	-0.4111138	0.000206482855179412
+Tephroseris_integrifolia	MW796323.1	14-SEP-2021	860	Austria: Styria	secondary	trnL-trnF	46.8756228985153	15.3972082336916	0.000206482855179412
+Tephroseris_integrifolia	MW796322.1	14-SEP-2021	860	Austria: Styria	secondary	trnL-trnF	46.8754467227403	15.7246806262202	0.000206482855179412
+Tephroseris_integrifolia	MW796321.1	14-SEP-2021	862	Italy: Piemont	secondary	trnL-trnF	45.060735	7.923549	0.00130344309358201
+Tephroseris_integrifolia	MW796320.1	14-SEP-2021	861	France: Alpes-Maritimes	secondary	trnL-trnF	43.9210587	7.1790785	0.000206482855179412
+Tephroseris_integrifolia	GU818100.1	13-OCT-2010	930	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.000206482855179412

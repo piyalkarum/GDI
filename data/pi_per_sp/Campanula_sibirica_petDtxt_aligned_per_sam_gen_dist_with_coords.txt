@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_sibirica	LR701304.1	21-OCT-2021	973	Russia	primary	petD	44.0539	43.1114	0.00298420976387078
+Campanula_sibirica	LR701302.1	21-OCT-2021	973	Russia	primary	petD	46.1167	40.325	0.00298420976387078
+Campanula_sibirica	MK556252.1	22-SEP-2019	351	Romania	secondary	petD	45.9852129	24.6859225	0.00356125356125356
+Campanula_sibirica	MK556204.1	22-SEP-2019	351	Hungary	secondary	petD	41.9767629	-72.7789842	0.0056980056980057
+Campanula_sibirica	KC792317.1	17-SEP-2013	885	Armenia: Syunik	secondary	petD	39.3281408	46.1530296	0.00525616881549085

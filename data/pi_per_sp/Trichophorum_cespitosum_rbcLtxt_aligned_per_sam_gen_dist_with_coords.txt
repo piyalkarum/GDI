@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trichophorum_cespitosum	MG226441.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Between plots E800E5 and E800F6	primary	rbcL	54.902	-67.164	NA
+Trichophorum_cespitosum	MG226049.1	23-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, BPNP	primary	rbcL	45.185	-81.601	NA
+Trichophorum_cespitosum	MG225701.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, 20 meters right of E775C3 facing the slope	primary	rbcL	55.4011	-67.3081	NA
+Trichophorum_cespitosum	KC484276.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Cabins on Harp Seal Lake, wetlands between cabins and river	primary	rbcL	56.314	-79.411	NA
+Trichophorum_cespitosum	KC484275.1	25-OCT-2013	552	Canada: Nunavut, Mainland Nunavut, Coppermine, Coppermine airport	primary	rbcL	67.817	-115.239	NA
+Trichophorum_cespitosum	KC484274.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Flood plain beside creek flowing into Hornaday River	primary	rbcL	68.0583	-121.639	NA
+Trichophorum_cespitosum	KC484273.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	rbcL	69.4222	-124.114	NA
+Trichophorum_cespitosum	KC484272.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Vicinity of Hyde Lake, 6.5 km NE of Hyde Lake, ca. 28 km from HB coast	primary	rbcL	60.65	-95.1	NA
+Trichophorum_cespitosum	KC484271.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	rbcL	66.839	-108.035	NA
+Trichophorum_cespitosum	JN966044.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	NA
+Trichophorum_cespitosum	JN966043.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	rbcL	58.629	-93.798	NA
+Trichophorum_cespitosum	JN890682.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.51	-4.03	NA
+Trichophorum_cespitosum	MW010893.1	27-JUL-2021	434	Canada: Quebec	secondary	rbcL	52.4760892	-71.8258668	NA
+Trichophorum_cespitosum	AB369974.1	03-APR-2014	1408	Japan:Iwate, Ashiro	secondary	rbcL	40.1063338	141.0645729	0.000344018251862586
+Trichophorum_cespitosum	JN893787.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9875065	-1.1773256	NA
+Trichophorum_cespitosum	AJ811005.1	20-AUG-2004	766	Denmark	secondary	rbcL	55.4381998001215	10.2701893318235	NA
+Trichophorum_cespitosum	AJ811004.1	20-AUG-2004	601	Denmark	secondary	rbcL	55.8482489548957	8.87327301903283	NA
+Trichophorum_cespitosum	AJ811003.1	20-AUG-2004	1390	Denmark	secondary	rbcL	56.0601661498335	10.1130720335156	0.00171385402272854

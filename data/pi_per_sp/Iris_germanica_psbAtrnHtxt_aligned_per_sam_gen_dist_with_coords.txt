@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_germanica	MT294656.1	24-MAR-2021	519	Italy: Picarelli, Introdacqua, L'Aquila	secondary	psbA-trnH	40.9423862	14.7947436	0.00192678227360308
+Iris_germanica	MT294655.1	24-MAR-2021	519	Italy: Gioia dei Marsi, L'Aquila	secondary	psbA-trnH	41.954369	13.6934148	0.00192678227360308
+Iris_germanica	MT294651.1	24-MAR-2021	519	Italy: Barisciano, L'Aquila	secondary	psbA-trnH	42.3254511	13.5908168	0.00192678227360308
+Iris_germanica	JN044980.1	13-DEC-2011	577	China	secondary	psbA-trnH	34.9295203461753	105.302283944898	0.00289017341040462
+Iris_germanica	JN044979.1	13-DEC-2011	577	China	secondary	psbA-trnH	34.1852806764399	105.255620493225	0.00289017341040462

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sabulina_tenuifolia	KY700815.1	15-JUN-2017	630	Spain	secondary	rps16	39.3260685	-4.8379791	0.064734449981543
+Sabulina_tenuifolia	KY700814.1	15-JUN-2017	563	Austria	secondary	rps16	36.9148511	-4.7534501	0.0687538591530987
+Sabulina_tenuifolia	KY700813.1	15-JUN-2017	324	Greece	secondary	rps16	43.2097838	-77.6930602	0.0389924814282291
+Sabulina_tenuifolia	KY700812.1	15-JUN-2017	622	Saudi Arabia	secondary	rps16	25.6242618	42.3528328	0.0410171153491956

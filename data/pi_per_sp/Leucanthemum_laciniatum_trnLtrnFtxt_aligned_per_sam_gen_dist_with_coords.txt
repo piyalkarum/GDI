@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_laciniatum	HE681072.1	22-APR-2013	342	Italy:Basilicata	secondary	trnL-trnF	40.4592975744141	16.3419769734891	0
+Leucanthemum_laciniatum	HE681071.1	22-APR-2013	342	Italy:Basilicata	secondary	trnL-trnF	39.7533792401985	16.5152484257316	0
+Leucanthemum_laciniatum	HE681070.1	22-APR-2013	342	Italy:Calabria	secondary	trnL-trnF	39.2548409225244	16.5487243196513	0
+Leucanthemum_laciniatum	HE681042.1	22-APR-2013	342	Italy:Calabria	secondary	trnL-trnF	38.4614202933681	16.9191277936547	0

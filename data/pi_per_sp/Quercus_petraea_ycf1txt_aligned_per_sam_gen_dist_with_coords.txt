@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_petraea	MN751888.1	24-NOV-2021	536	Lebanon: North, Tannourine-street2 Al Wadi street	primary	ycf1	35.0400037354336	35.8568261762722	0
+Quercus_petraea	MN751887.1	24-NOV-2021	536	Lebanon: North, Tannourine-street2 Al Wadi street	primary	ycf1	34.3685782614102	35.0222740116201	0
+Quercus_petraea	MN751886.1	24-NOV-2021	536	Lebanon: North, Ehden reserve-Malzak Al Aazer	primary	ycf1	34.8797406989323	35.6764512131688	0
+Quercus_petraea	MN751885.1	24-NOV-2021	536	Lebanon: North, Ehden reserve-Malzak Al Aazer	primary	ycf1	34.1644780618205	36.0282439518911	0

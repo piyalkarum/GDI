@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_viminalis	MG220818.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	45.5595	-73.566	0
+Salix_viminalis	JN893913.1	07-MAR-2012	877	United Kingdom: Glamorgan	primary	matK	51.52	-3.25	0
+Salix_viminalis	JN894737.1	07-MAR-2012	802	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Salix_viminalis	JN894736.1	07-MAR-2012	758	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0

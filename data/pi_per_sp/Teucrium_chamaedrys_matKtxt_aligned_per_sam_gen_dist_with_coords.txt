@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Teucrium_chamaedrys	KJ746159.1	29-JUL-2014	665	Poland	secondary	matK	52.215933	19.134422	0.00050125313283208
+Teucrium_chamaedrys	KJ204543.1	29-JAN-2015	837	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.00138603223161382
+Teucrium_chamaedrys	FR865047.1	09-JUN-2011	750	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.000444444444444444
+Teucrium_chamaedrys	HE967012.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.000440334654337296

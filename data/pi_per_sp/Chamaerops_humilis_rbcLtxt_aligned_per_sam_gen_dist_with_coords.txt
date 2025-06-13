@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chamaerops_humilis	OL536812.1	10-JAN-2022	553	USA: Missouri	primary	rbcL	38.6145	-90.2591	0
+Chamaerops_humilis	JX571804.1	04-SEP-2013	552	Egypt: Alexandria, Smouha, Antoniades gardens	primary	rbcL	31.202	29.95	0
+Chamaerops_humilis	MK753560.1	31-MAR-2020	539	China	secondary	rbcL	34.615077223918	105.127063243266	0
+Chamaerops_humilis	MK753559.1	31-MAR-2020	539	China	secondary	rbcL	34.8569199593687	104.307416777358	0
+Chamaerops_humilis	MK753558.1	31-MAR-2020	539	China	secondary	rbcL	34.6165539999422	104.039460480134	0
+Chamaerops_humilis	MK753557.1	31-MAR-2020	539	China	secondary	rbcL	35.5976202168773	105.731155814899	0
+Chamaerops_humilis	HM849886.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0

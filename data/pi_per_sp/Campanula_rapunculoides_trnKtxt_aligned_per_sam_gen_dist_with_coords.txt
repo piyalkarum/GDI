@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_rapunculoides	LR702021.1	21-OCT-2021	2801	Russia	primary	trnK	47.0368	41.6744	0.00277089087041043
+Campanula_rapunculoides	LR702020.1	21-OCT-2021	2801	Russia	primary	trnK	47.055	41.6645	0.002592319441839
+Campanula_rapunculoides	LR701383.1	21-OCT-2021	2800	Russia	primary	trnK	44.0539	43.1114	0.00277092274678112
+Campanula_rapunculoides	LR701379.1	21-OCT-2021	2800	Russia	primary	trnK	44.1397	40.7778	0.00384388412017167
+Campanula_rapunculoides	JN416888.1	25-DEC-2011	233	New Zealand	secondary	trnK	-41.5000831	172.8344077	0.00965665236051502

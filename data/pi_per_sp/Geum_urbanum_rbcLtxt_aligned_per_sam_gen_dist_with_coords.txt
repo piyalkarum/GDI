@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geum_urbanum	MZ676680.1	10-AUG-2022	575	United Kingdom: England, County Durham	primary	rbcL	54.7554	-1.5752	0.000200924251557163
+Geum_urbanum	MN447809.1	21-FEB-2022	553	United Kingdom: England, County Durham, Aukland Castle Park	primary	rbcL	54.6723	-1.6607	0.00183472870884456
+Geum_urbanum	KT695484.1	29-SEP-2015	550	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.000202020202020202
+Geum_urbanum	JN893236.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.0002050020500205
+Geum_urbanum	MG246312.1	21-JAN-2018	553	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Trail beside Auxiliary Plot Garden	secondary	rbcL	43.72634945	-77.7101179040839	0.000200924251557163
+Geum_urbanum	KJ204351.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000202388180530257
+Geum_urbanum	JN893076.1	07-MAR-2012	533	United Kingdom: Glamorgan (41)	secondary	rbcL	51.6054789334286	-2.37421913865315	0.000208463623097769
+Geum_urbanum	JN891184.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	52.1637728571583	-2.64042988438455	0.0002050020500205
+Geum_urbanum	JN890884.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0002050020500205
+Geum_urbanum	JN890883.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0002050020500205

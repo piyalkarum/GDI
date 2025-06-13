@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosotis_arvensis	LC439227.1	02-NOV-2019	552	Japan:Ibaraki, Tsukuba, Tsukuba Botanical Garden	primary	rbcL	36.101	140.1109	0.014512538063617
+Myosotis_arvensis	KX679266.1	29-APR-2017	527	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Baden Powell trail	primary	rbcL	49.3341	-122.954	0.00352399024125779
+Myosotis_arvensis	KX677913.1	29-APR-2017	553	Canada: British Columbia, Okanagan-Similkameen Regional District, Red Bridge Forest Recreation Site	primary	rbcL	49.1822	-120.003	0.00340301597602052
+Myosotis_arvensis	JN893442.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.61	-2.72	0.00347303431538974
+Myosotis_arvensis	MG223914.1	26-DEC-2017	553	Canada: Newfoundland and Labrador, About 10 mi E of Deer Lake, by Junction Brook.	secondary	rbcL	49.7738268	-56.8821439113846	0.00340301597602052
+Myosotis_arvensis	HM850186.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00996793035943313
+Myosotis_arvensis	JN893636.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00347303431538974
+Myosotis_arvensis	JN890716.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00347303431538974

@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_inermis	OQ847509.1	15-AUG-2023	789	USA: American Prairie Sun Prairie Unit	primary	matK	47.7986	-107.7881	0.00356394707388679
+Bromus_inermis	MF597221.1	17-JUL-2018	777	Canada: British Columbia, ~2 km E of Erickson along Hwy. 3. Ditch and gravel along roadside.	primary	matK	49.075	-116.14	0.0042433976554028
+Bromus_inermis	MF597220.1	17-JUL-2018	777	Canada: Yukon Territory, W side of Yukon River at Ferry Crossing to Dawson on Hwy 9. Sandy shore beneath Populus trichocarpa	primary	matK	64.07	-139.436	0.0042433976554028
+Bromus_inermis	MF597219.1	17-JUL-2018	773	Canada: British Columbia, 1 mi S of Iskut on Hwy 37 towards Meziadin Junction, along Coyote Creek.	primary	matK	57.718	-129.988	0.01509537060299
+Bromus_inermis	MF597218.1	17-JUL-2018	773	USA: Alaska, Southeast Fairbanks, 1 mi E of Chicken on Hwy towards Boundary. Gentle slopes with Populus tremuloides, Picea glauca, and Salix	primary	matK	64.063	-141.924	0.0162818282796427
+Bromus_inermis	MF597217.1	17-JUL-2018	772	Canada: Yukon Territory, 42 mi NW of Haines Junction and 24 mi SE of Destruction Bay on Hwy 1.	primary	matK	60.993	-138.498	0.00336069976911203
+Bromus_inermis	MF597216.1	17-JUL-2018	805	Canada: Saskatchewan, Grasslands National Park, West block, just over bridge that crosses Frenchman River along edge of road.	primary	matK	49.152	-107.528	0.00358041230320269
+Bromus_inermis	MF597215.1	17-JUL-2018	774	Canada: Alberta, Jasper National Park, 9 mi NW of Bubbling Springs on Hwy 93 along Sunwapta River.	primary	matK	53.1929269063815	-118.648574757376	0.00335827185729414
+Bromus_inermis	MF597214.1	17-JUL-2018	791	Canada: Alberta, Jasper National Park, 9 mi NW of Bubbling Springs on Hwy 93 along Sunwapta River.	primary	matK	52.2620470381732	-118.150592264182	0.00413727968765385
+Bromus_inermis	MF597213.1	17-JUL-2018	796	Canada: Yukon Territory, '7 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy 6) towards Dragon Lake.	primary	matK	62.044	-132.342	0.00512746864631923
+Bromus_inermis	MG217147.1	24-JAN-2018	767	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	matK	51.273	-80.641	0.00614591907720635
+Bromus_inermis	HQ593195.1	09-NOV-2011	803	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, centre of the south half of the racetrack	primary	matK	44.032	-79.54	0.00369123366430444
+Bromus_inermis	HQ593194.1	09-NOV-2011	867	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., S facing slope between classroom and Willow Ridge, 300 m N of creek	primary	matK	44.027	-79.536	0.00359877759366247
+Bromus_inermis	KJ592876.1	17-MAR-2015	764	USA: Wisconsin, Laona	primary	matK	45.548	-88.675	0.00725005934451815
+Bromus_inermis	JN966145.1	27-OCT-2012	779	Canada: Manitoba, Churchill, unspecified locality	primary	matK	58.63	-93.819	0.00358215201785004
+Bromus_inermis	MT929973.1	03-MAR-2023	774	China	secondary	matK	34.6657540790445	104.288045945756	0.0106267916370774
+Bromus_inermis	MT929971.1	03-MAR-2023	779	China	secondary	matK	35.5635661472884	105.780385086797	0.00359254666041996
+Bromus_inermis	MN492700.1	30-NOV-2021	798	China	secondary	matK	34.718460385498	106.024063767122	0.00360182073259453
+Bromus_inermis	MN433976.1	30-NOV-2021	791	China	secondary	matK	34.675222573309	105.464799350447	0.0051365997598287
+Bromus_inermis	MT433187.1	31-MAY-2020	1097	Norway	secondary	matK	64.5731537	11.5280364	0.00514987609019098
+Bromus_inermis	KF713097.1	15-DEC-2013	1014	South Korea: Yeongju-si, Gyeongsangbuk-do	secondary	matK	36.805685	128.624054	0.00579093839085519
+Bromus_inermis	HQ600024.1	02-AUG-2011	1263	South Korea	secondary	matK	36.638392	127.6961188	0.010660188737909

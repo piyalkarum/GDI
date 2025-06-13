@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_diandra	MG227593.1	23-JAN-2018	552	USA: Michigan, Montmorency Co, 6 mi ESE of Lewiston, W side of Middle Fish lk	primary	rbcL	44.8581	-84.184	0.00036231884057971
+Carex_diandra	KX678841.1	29-APR-2017	552	Canada: British Columbia, Thompson-Nicola Regional District, Shea Lake Forest Recreation Site	primary	rbcL	49.902	-120.736	0.00036231884057971
+Carex_diandra	KC482264.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0.00183369498245332
+Carex_diandra	JN893397.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	primary	rbcL	51.9	-5.24	0.000369685767097967
+Carex_diandra	JN892140.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.7937037642865	-5.03216049450644	0.000369685767097967
+Carex_diandra	JN892139.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.881578637839	-6.36420980948815	0.000369685767097967

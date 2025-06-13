@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Milium_effusum	JN896129.1	07-MAR-2012	539	United Kingdom: Cardiganshire	primary	matK	52.37	-4.08	0.058289625072578
+Milium_effusum	OK247812.1	27-OCT-2022	788	Russia: Primorsky	secondary	matK	45.0819456	134.726645	0.0643256931418697
+Milium_effusum	KM523870.1	12-JUL-2015	788	Sweden	secondary	matK	59.6749712	14.5208584	0.0579569196530021
+Milium_effusum	KM523869.1	12-JUL-2015	770	Canada: Quebec	secondary	matK	52.4760892	-71.8258668	0.0630686905028624
+Milium_effusum	MN492720.1	30-NOV-2021	797	China	secondary	matK	35.000074	104.999927	0.114018177110433
+Milium_effusum	LR606931.1	25-JAN-2021	2047	France	secondary	matK	47.0630469957738	1.32038291023907	0.0571964697580889
+Milium_effusum	KJ593024.1	17-MAR-2015	764	USA: Wisconsin, Tipler	secondary	matK	45.924958	-88.634849	0.0590754162403861
+Milium_effusum	KJ593023.1	17-MAR-2015	776	USA: Wisconsin, Blackwell	secondary	matK	45.514131	-88.612611	0.0578957717794182
+Milium_effusum	HG797456.1	26-SEP-2014	774	France	secondary	matK	46.0251402406946	2.19010572363686	0.530812186241479
+Milium_effusum	JN895905.1	07-MAR-2012	790	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0574571320603849
+Milium_effusum	JN895904.1	07-MAR-2012	816	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.0580443885636106
+Milium_effusum	HQ600047.1	02-AUG-2011	1328	South Korea	secondary	matK	36.638392	127.6961188	0.0645502466072266

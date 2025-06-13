@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_hirsuta	FJ493270.1	22-DEC-2008	393	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.00398009950248756
+Cardamine_hirsuta	HE966536.1	18-SEP-2012	335	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.2242462890746	14.0962486142083	0.00398009950248756
+Cardamine_hirsuta	HE966535.1	18-SEP-2012	338	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.045724783497	13.2747729876291	0.00398009950248756
+Cardamine_hirsuta	HE966534.1	18-SEP-2012	338	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6477449705711	13.7405235380222	0.00398009950248756

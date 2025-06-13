@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ruppia_cirrhosa	KR263119.1	16-APR-2016	653	Portugal: Algarve	secondary	ITS	37.2447167	-8.1505388	0.0153580381291642
+Ruppia_cirrhosa	KR263118.1	16-APR-2016	653	Spain: Cadiz	secondary	ITS	36.5262463	-5.9008367	0.0153580381291642
+Ruppia_cirrhosa	AB728749.1	24-APR-2013	711	United Kingdom	secondary	ITS	55.1576144590625	-4.16639850771224	0.0148071078090546
+Ruppia_cirrhosa	AB728748.1	24-APR-2013	710	United Kingdom	secondary	ITS	55.0250427900945	-2.07813155424903	0.0522870219210273
+Ruppia_cirrhosa	AB728740.1	24-APR-2013	710	Spain	secondary	ITS	39.3260685	-4.8379791	0.0179536762706494

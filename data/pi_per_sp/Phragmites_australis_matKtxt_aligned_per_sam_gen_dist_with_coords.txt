@@ -1,0 +1,46 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phragmites_australis	OR194067.1	19-SEP-2023	646	China	primary	matK	42.3508440005469	120.040021271753	0.496980028597791
+Phragmites_australis	OR194066.1	19-SEP-2023	647	China	primary	matK	43.1628767065194	121.421488996861	0.493761664532014
+Phragmites_australis	OR194065.1	19-SEP-2023	649	China	primary	matK	42.3725062364792	121.264975597829	0.50008508780259
+Phragmites_australis	OR194064.1	19-SEP-2023	652	China	primary	matK	43.1035821801132	120.287214988856	0.492282114851798
+Phragmites_australis	OQ851350.1	14-AUG-2023	450	Egypt	primary	matK	29.2062	25.5352	0.0573323498678468
+Phragmites_australis	OL434915.1	14-NOV-2022	783	USA: Georgia	primary	matK	32.126	-81.14	0.0565777489222058
+Phragmites_australis	MF597485.1	17-JUL-2018	808	Canada: British Columbia, East of Keremeos on Upper Birch Road. Edge of wetland with Typha.	primary	matK	49.216	-119.763	0.0557969667826967
+Phragmites_australis	MF597484.1	17-JUL-2018	794	Canada: British Columbia, Ladner, S side of Canoe Passage, W terminus of River Road. Saltwater marsh.	primary	matK	49.08	-123.156	0.0575469473544373
+Phragmites_australis	LC219306.1	16-MAR-2017	702	China:Zhejiang, East Tiaoxi River	primary	matK	30.3673	119.9451	0.0551901652109788
+Phragmites_australis	LC219254.1	16-MAR-2017	780	China:Zhejiang, East Tiaoxi River	primary	matK	30.4106	119.9896	0.0555119338285779
+Phragmites_australis	LC219249.1	16-MAR-2017	768	China:Zhejiang, East Tiaoxi River	primary	matK	30.4196	120.0209	0.0553585099858566
+Phragmites_australis	LC219225.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.4311	120.0503	0.0553864170256796
+Phragmites_australis	LC219222.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.4828	120.0596	0.0553864170256796
+Phragmites_australis	LC219219.1	16-MAR-2017	771	China:Zhejiang, East Tiaoxi River	primary	matK	30.5002	120.0634	0.0553576257892382
+Phragmites_australis	LC219216.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.524	120.0656	0.0553864170256796
+Phragmites_australis	LC219212.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	29.6831801268185	120.131664666657	0.0553864170256796
+Phragmites_australis	LC219210.1	16-MAR-2017	777	China:Zhejiang, East Tiaoxi River	primary	matK	30.6412340127826	120.185428807718	0.0554493281326752
+Phragmites_australis	LC219185.1	16-MAR-2017	780	China:Zhejiang, East Tiaoxi River	primary	matK	30.7229	120.0703	0.0555119338285779
+Phragmites_australis	LC219183.1	16-MAR-2017	780	China:Zhejiang, East Tiaoxi River	primary	matK	30.7365	120.0802	0.0555119338285779
+Phragmites_australis	LC219182.1	16-MAR-2017	771	China:Zhejiang, East Tiaoxi River	primary	matK	30.7689	120.0985	0.0553576257892382
+Phragmites_australis	LC219181.1	16-MAR-2017	780	China:Zhejiang, East Tiaoxi River	primary	matK	30.7938	120.1167	0.0555119338285779
+Phragmites_australis	LC219179.1	16-MAR-2017	780	China:Zhejiang, East Tiaoxi River	primary	matK	30.815	120.1198	0.0555119338285779
+Phragmites_australis	LC219176.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.8268	120.1176	0.0553864170256796
+Phragmites_australis	LC219167.1	16-MAR-2017	780	China:Zhejiang, East Tiaoxi River	primary	matK	30.8995	120.1006	0.0555119338285779
+Phragmites_australis	LC219159.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.9071	120.1042	0.0553864170256796
+Phragmites_australis	LC219155.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.9107	120.1089	0.0553864170256796
+Phragmites_australis	LC219152.1	16-MAR-2017	789	China:Zhejiang, East Tiaoxi River	primary	matK	30.9148	120.1178	0.0563576659276412
+Phragmites_australis	LC219136.1	16-MAR-2017	786	China:Zhejiang, East Tiaoxi River	primary	matK	30.9351	120.1262	0.055573231340285
+Phragmites_australis	HQ593383.1	09-NOV-2011	781	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., W edge of pond closest to Racing Barn	primary	matK	44.031	-79.538	0.0561930768436242
+Phragmites_australis	JQ588791.1	24-APR-2012	772	Costa Rica: Area de Conservacion Guanacaste, Sector Santa Rosa, Rio Poza Salada	primary	matK	11.118384958463	-86.4070761097648	0.0566902435376349
+Phragmites_australis	JQ588790.1	24-APR-2012	772	Costa Rica: Area de Conservacion Guanacaste, Sector Santa Rosa, Rio Poza Salada	primary	matK	10.1453697120307	-85.098012366297	0.0566902435376349
+Phragmites_australis	JQ588789.1	24-APR-2012	772	Costa Rica: Area de Conservacion Guanacaste, Sector Santa Rosa, Rio Poza Salada	primary	matK	10.8861697966225	-86.2149051331497	0.0566902435376349
+Phragmites_australis	JN894196.1	07-MAR-2012	839	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.056100742091812
+Phragmites_australis	OK001656.1	02-NOV-2021	885	India: J&K,Srinagar	secondary	matK	28.5424922	77.2029544	0.0570713323455234
+Phragmites_australis	MF102280.1	23-JAN-2018	300	Egypt	secondary	matK	26.2540493	29.2675469	0.326841299151171
+Phragmites_australis	AF144575.1	29-DEC-1999	1542	USA:Virginia	secondary	matK	37.1232245	-78.4927721	0.0563128982917148
+Phragmites_australis	KJ593051.1	17-MAR-2015	594	USA: Wisconsin, Pensaukee	secondary	matK	44.823047	-87.9131587	0.05508223212236
+Phragmites_australis	KJ593050.1	17-MAR-2015	782	USA: Wisconsin, Marinette	secondary	matK	45.3834983	-88.0409574	0.0560299596845746
+Phragmites_australis	KP056987.1	28-FEB-2015	1020	South Korea: Icheon-si, Gyeonggi-do	secondary	matK	37.2808823	127.4429132	0.0555032185230072
+Phragmites_australis	KP056985.1	28-FEB-2015	1020	South Korea: Andong-si, Gyeongsangbuk-do	secondary	matK	36.5759169	128.5060124	0.0555032185230072
+Phragmites_australis	KP056984.1	28-FEB-2015	1020	South Korea: Iksan-si, Jeollabuk-do	secondary	matK	35.9479291	126.9578025	0.0555032185230072
+Phragmites_australis	KP056981.1	28-FEB-2015	1020	South Korea: Hwaseong-si, Gyeonggi-do	secondary	matK	37.2218267	127.0421155	0.0555032185230072
+Phragmites_australis	KC584936.1	04-JUN-2013	818	Italy: Umbria	secondary	matK	42.965916	12.490236	0.0562782671370674
+Phragmites_australis	JN896244.1	07-MAR-2012	775	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0561295112145019
+Phragmites_australis	HQ599974.1	02-AUG-2011	1315	South Korea	secondary	matK	36.638392	127.6961188	0.0555835694107222

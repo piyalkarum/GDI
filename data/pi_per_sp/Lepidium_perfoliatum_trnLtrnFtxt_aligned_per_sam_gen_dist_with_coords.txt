@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lepidium_perfoliatum	KJ623396.1	10-JUN-2014	671	China	secondary	trnL-trnF	35.0472119292178	105.855542472435	0.00240893463342865
+Lepidium_perfoliatum	KJ623395.1	10-JUN-2014	551	China	secondary	trnL-trnF	34.5876045930162	104.187082439294	0.000604960677555959
+Lepidium_perfoliatum	KJ623394.1	10-JUN-2014	574	China	secondary	trnL-trnF	34.9363935986357	105.821423289771	0.0017880556612951
+Lepidium_perfoliatum	KJ623393.1	10-JUN-2014	568	China	secondary	trnL-trnF	34.6782470514664	105.867255350389	0.00118962721476539

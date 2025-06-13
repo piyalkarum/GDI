@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stipa_capillata	HG994052.1	30-SEP-2021	1062	Russia	secondary	rpl16	64.6863136	97.7453061	0.00170619124472529
+Stipa_capillata	HG994051.1	30-SEP-2021	1061	Bulgaria	secondary	rpl16	46.7889169	23.6184909	0.00207458254050113
+Stipa_capillata	HG994050.1	30-SEP-2021	1061	Czech Republic	secondary	rpl16	49.7439047	15.3381061	0.000943574729633534
+Stipa_capillata	HG994049.1	30-SEP-2021	1060	Slovakia	secondary	rpl16	48.7411522	19.4528646	0.00207582803285406
+Stipa_capillata	HG994048.1	30-SEP-2021	1062	Austria	secondary	rpl16	36.9148511	-4.7534501	0.000942685235224721
+Stipa_capillata	MF084038.1	07-AUG-2017	1011	China: Xinjiang	secondary	rpl16	42.4804953	85.4633464	0.00019782393669634

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_splendens	AJ417285.1	02-OCT-2002	400	Spain:Andalusia	secondary	trnL-trnF	36.6649581216496	-4.2403393618421	0
+Armeria_splendens	AJ417284.1	02-OCT-2002	400	Spain:Andalusia	secondary	trnL-trnF	36.7497026069815	-3.99341388926408	0
+Armeria_splendens	AJ417283.1	02-OCT-2002	400	Spain:Andalusia	secondary	trnL-trnF	37.0368935654378	-4.09356792791717	0
+Armeria_splendens	AJ417282.1	02-OCT-2002	400	Spain:Andalusia	secondary	trnL-trnF	36.6892023486515	-5.24114090020499	0
+Armeria_splendens	AJ417281.1	02-OCT-2002	400	Spain:Andalusia	secondary	trnL-trnF	37.2733858449729	-5.10309701502672	0
+Armeria_splendens	AJ417280.1	02-OCT-2002	400	Spain:Andalusia	secondary	trnL-trnF	37.8198447830674	-5.20444909551988	0

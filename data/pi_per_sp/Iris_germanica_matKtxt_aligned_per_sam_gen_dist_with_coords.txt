@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_germanica	MW110459.1	26-MAY-2021	1785	Lebanon: Mrouje	secondary	matK	34.67701569455	35.1776285423678	0.00102521740434246
+Iris_germanica	MW110458.1	26-MAY-2021	1785	Lebanon: Mrouje	secondary	matK	33.3986284534663	36.0216343839668	0.00102521740434246
+Iris_germanica	MT294578.1	24-MAR-2021	2572	Italy: Picarelli, Introdacqua, L'Aquila	secondary	matK	40.9423862	14.7947436	0.00141017870624394
+Iris_germanica	MT294577.1	24-MAR-2021	2572	Italy: Gioia dei Marsi, L'Aquila	secondary	matK	41.954369	13.6934148	0.00141017870624394
+Iris_germanica	MT294573.1	24-MAR-2021	2572	Italy: Barisciano, L'Aquila	secondary	matK	42.3254511	13.5908168	0.00141017870624394
+Iris_germanica	KP089614.1	15-MAR-2015	787	India: New Delhi	secondary	matK	28.6138954	77.2090057	0.0014521691777092
+Iris_germanica	JF954142.1	13-DEC-2011	786	China	secondary	matK	35.3098816013955	105.543898892319	0.00145401672119229
+Iris_germanica	JF954141.1	13-DEC-2011	786	China	secondary	matK	34.1670832356426	105.280236509815	0.00145401672119229

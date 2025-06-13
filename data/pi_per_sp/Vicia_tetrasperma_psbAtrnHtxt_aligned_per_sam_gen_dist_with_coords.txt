@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_tetrasperma	KP643386.1	08-DEC-2015	404	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.4322272379864	-77.2683708841633	0.0594213106561897
+Vicia_tetrasperma	KP643357.1	08-DEC-2015	396	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	38.5484134792634	-78.6846610180885	0.0609717731190486
+Vicia_tetrasperma	KP896968.1	13-OCT-2015	376	South Korea	secondary	psbA-trnH	37.1331934617039	127.540785201933	0.0925544150150579
+Vicia_tetrasperma	KP896967.1	13-OCT-2015	404	South Korea	secondary	psbA-trnH	36.6891864440631	127.219644405606	0.0778831161692251
+Vicia_tetrasperma	KP896966.1	13-OCT-2015	402	South Korea	secondary	psbA-trnH	36.1378519699424	128.255053589613	0.0809198446960026
+Vicia_tetrasperma	KP896964.1	13-OCT-2015	372	South Korea	secondary	psbA-trnH	37.2012063567796	127.435142535948	0.066325749098412
+Vicia_tetrasperma	JX506042.1	09-JAN-2013	437	USA	secondary	psbA-trnH	39.7837304	-100.445882	0.0629170010717706

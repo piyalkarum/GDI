@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthyllis_montana	FN675866.1	01-MAR-2011	611	Croatia:Vratnik	primary	5.8S rRNA	44.99	14.98	0.0016366612111293
+Anthyllis_montana	FN675865.1	01-MAR-2011	611	Slovenia:Ilirska Bistrica	primary	5.8S rRNA	45.57	14.3	0.0016366612111293
+Anthyllis_montana	FN675864.1	01-MAR-2011	611	Austria:Mt. Goesing	primary	5.8S rRNA	47.73	16	0.0016366612111293
+Anthyllis_montana	FN675863.1	01-MAR-2011	611	Austria:Hohe Wand	primary	5.8S rRNA	47.82	16.03	0.0016366612111293
+Anthyllis_montana	AJ315508.1	15-MAR-2002	611	Spain:Sierra de Baza	secondary	5.8S rRNA	37.2538222	-2.795395	0.00624907007885731
+Anthyllis_montana	AJ315507.1	15-MAR-2002	611	France:Haute-Savoie, Saleve Mt.	secondary	5.8S rRNA	46.1195922	6.1724261	0.00327332242225859
+Anthyllis_montana	AJ315506.1	15-MAR-2002	611	France:Hautes-Alpes, Briancon	secondary	5.8S rRNA	44.8984037	6.6436313	0.00654664484451718
+Anthyllis_montana	AJ315505.1	15-MAR-2002	611	Italy:Abruzzi, Gran Sasso Mts.	secondary	5.8S rRNA	42.4687934	13.5631284	0.00238059812527898
+Anthyllis_montana	AJ315504.1	15-MAR-2002	611	Italy:Friuli, Chiampon Mt.	secondary	5.8S rRNA	46.3693475	12.8699885	0.0016366612111293
+Anthyllis_montana	AJ315503.1	15-MAR-2002	611	Austria:Geissberg Mt.	secondary	5.8S rRNA	48.8050147	15.2072876	0.0016366612111293
+Anthyllis_montana	AJ315502.1	15-MAR-2002	611	Slovenia:Nanos Mt.	secondary	5.8S rRNA	45.8194609	14.0192976	0.0016366612111293
+Anthyllis_montana	AJ315501.1	15-MAR-2002	611	Croatia	secondary	5.8S rRNA	44.8737694	14.9837701	0.0016366612111293

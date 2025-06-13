@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_vulgaris	HE966818.1	18-SEP-2012	340	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	44.8466898389273	13.6729772524802	0.0298988456592601
+Silene_vulgaris	HE966817.1	18-SEP-2012	343	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.7865332944379	13.0273610422341	0.019739475266968
+Silene_vulgaris	HE966816.1	18-SEP-2012	343	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6270815392966	14.1774416096441	0.0147226093656779
+Silene_vulgaris	HE687487.1	04-MAY-2012	313	Morocco:Marrakech	secondary	psbA-trnH	31.6258257	-7.9891608	0.0246234768689783
+Silene_vulgaris	HE602491.1	14-OCT-2011	372	Morocco	secondary	psbA-trnH	28.3347722	-10.3713379	0.0194805194805195

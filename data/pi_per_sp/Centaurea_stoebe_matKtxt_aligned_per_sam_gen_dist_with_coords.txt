@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_stoebe	OQ413807.1	03-JUL-2023	911	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	42.3964940099456	-86.0968191683973	0.00652482269503546
+Centaurea_stoebe	OQ413806.1	03-JUL-2023	850	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	42.717932208075	-85.3714568160283	0.00652482269503546
+Centaurea_stoebe	KJ592890.1	17-MAR-2015	745	USA: Wisconsin, Wabeno	primary	matK	45.604	-88.675	0.00652482269503546
+Centaurea_stoebe	KJ592889.1	17-MAR-2015	771	USA: Wisconsin, Blackwell	primary	matK	45.464	-88.676	0.00652482269503546
+Centaurea_stoebe	KJ746178.1	29-JUL-2014	708	Poland	secondary	matK	52.215933	19.134422	0.0313624486748787
+Centaurea_stoebe	KC969492.1	30-NOV-2013	981	USA	secondary	matK	39.7837304	-100.445882	0.00526315789473684

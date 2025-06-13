@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Avena_brevis	KT452990.1	17-FEB-2017	886	Germany: Lower Saxony	secondary	Adh	53.0248464287949	8.50863164583905	0.000376222723852521
+Avena_brevis	KT452989.1	17-FEB-2017	886	Germany: Lower Saxony	secondary	Adh	52.2147757632484	9.45489881252698	0.000376222723852521
+Avena_brevis	KT452988.1	17-FEB-2017	886	Russia: Leningrad	secondary	Adh	59.938732	30.316229	0.000376222723852521
+Avena_brevis	KT452987.1	17-FEB-2017	887	Canada: Ontario	secondary	Adh	50.000678	-86.000977	0.00112866817155756

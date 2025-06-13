@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Micranthes_nivalis	MG248520.1	21-JAN-2018	552	Canada: Yukon Territory, Kotaneelee Ridge, south end	primary	rbcL	60.208	-124.114	0.000159131436451669
+Micranthes_nivalis	MG248132.1	21-JAN-2018	552	Canada: Yukon Territory, Upper Malcolm River, SAXHEAVEN	primary	rbcL	69.21	-140.46	0.000159131436451669
+Micranthes_nivalis	MG248010.1	21-JAN-2018	552	Canada: British Columbia, Fairy Lake, Upper alpine lake west of camp. At western tip of Fairy Lake	primary	rbcL	57.333	-123.933	0.000159131436451669
+Micranthes_nivalis	MG247359.1	21-JAN-2018	552	Canada: British Columbia, Katharine Lake, Mountain northwest and facing Mt. Hartley and Mt. Katherine. Toodoggone River map 94E 631/6369 L-9	primary	rbcL	57.433	-126.8	0.000159131436451669
+Micranthes_nivalis	MG246177.1	21-JAN-2018	552	Canada: British Columbia, Peace River Basin, Robb Lake, Slopes on North side of lake	primary	rbcL	56.9	-123.8	0.00191699609132238
+Micranthes_nivalis	MG245959.1	21-JAN-2018	552	Canada: Nunavut, Victoria Island, Cambridge Bay, ridge between East Bay and Flagstaff Beach	primary	rbcL	69.097	-105.238	0.000159131436451669
+Micranthes_nivalis	KT960714.1	13-DEC-2015	542	Greenland: NE, Zackenberg	primary	rbcL	74.3252994219039	-20.6921035520353	0.000160584664594536
+Micranthes_nivalis	KT960626.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.4152859250628	-22.83138330821	0.000159131436451669
+Micranthes_nivalis	KT960617.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.3248954193453	-20.7332964923454	0.000159131436451669
+Micranthes_nivalis	KT960511.1	13-DEC-2015	543	Greenland: NE, Zackenberg	primary	rbcL	74.002861100868	-20.6431098838249	0.000160436933114819
+Micranthes_nivalis	KC483164.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Burns Lake	primary	rbcL	69.983	-110	0.000159131436451669
+Micranthes_nivalis	KC483163.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	70.717	-117.717	0.000159131436451669
+Micranthes_nivalis	KC483162.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Nelson Head, southernmost tip of Banks Island	primary	rbcL	71.09	-122.78	0.000159131436451669
+Micranthes_nivalis	KC483161.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	68.719	-110.783	0.000159131436451669
+Micranthes_nivalis	KC483160.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.913	-109.591	0.000159131436451669
+Micranthes_nivalis	KC483159.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Hazen Camp, N shore of Lake Hazen, Ellesmere Island National Park Reserve	primary	rbcL	81.82	-71.33	0.000159131436451669
+Micranthes_nivalis	JN891617.1	07-MAR-2012	484	United Kingdom: Caernarfonshire	primary	rbcL	53.03	-4.09	0.000179662234998203
+Micranthes_nivalis	MK925027.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4561761168815	-4.58846884744122	0.000160584664594536
+Micranthes_nivalis	MK924955.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.5476423557779	-2.88307298703175	0.000160584664594536
+Micranthes_nivalis	MK924922.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0380908928751	-3.48593204538043	0.000160584664594536
+Micranthes_nivalis	MK924699.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0266534260117	-3.78666973481581	0.000160584664594536
+Micranthes_nivalis	MK924606.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3318274024117	-4.07711374851469	0.000160584664594536
+Micranthes_nivalis	JN892316.1	07-MAR-2012	542	United Kingdom: Perthshire,Mid	secondary	rbcL	55.5696955766798	-2.73736419885027	0.000160584664594536
+Micranthes_nivalis	JN892315.1	07-MAR-2012	542	United Kingdom: Perthshire,Mid	secondary	rbcL	56.5834535035846	-4.40700154227635	0.00193737028725711

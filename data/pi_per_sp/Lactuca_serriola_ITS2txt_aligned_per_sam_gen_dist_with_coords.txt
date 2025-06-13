@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lactuca_serriola	LS975401.1	03-OCT-2018	637	USA	secondary	ITS2	39.9579101741058	-101.323887614674	0.000392464678178964
+Lactuca_serriola	LS975400.1	03-OCT-2018	637	USA	secondary	ITS2	39.8372366206117	-100.734439013496	0.00156985871271586
+Lactuca_serriola	AB742457.1	28-DEC-2012	2577	Japan:Hiroshima, Hiroshima-shi, Minami-ku	secondary	ITS2	34.379352	132.485453	0.000392464678178964
+Lactuca_serriola	AB742456.1	28-DEC-2012	929	Japan:Hiroshima, Hatsukaichi-shi, Miyauchi	secondary	ITS2	34.3472906	132.3250867	0.000392464678178964
+Lactuca_serriola	AB742455.1	28-DEC-2012	929	Japan:Hiroshima, Hatsukaichi-shi, Miyajima-guchi	secondary	ITS2	34.3114086	132.3046296	0.000392464678178964

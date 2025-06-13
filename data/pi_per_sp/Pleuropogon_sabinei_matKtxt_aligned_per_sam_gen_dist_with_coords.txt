@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pleuropogon_sabinei	KC475304.1	25-OCT-2013	737	Canada: Nunavut, Bathurst Island, Polar Bear Pass, Research Station	primary	matK	75.73	-98.42	0
+Pleuropogon_sabinei	KC475303.1	25-OCT-2013	641	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, Mould Bay Peninsula, east side, ca 10 km E of Mould Bay	primary	matK	76.23	-118.95	0
+Pleuropogon_sabinei	KC475302.1	25-OCT-2013	741	Canada: Northwest Territories, Victoria Island, Minto Inlet, Floodplain of river valley at head of Minto Inlet	primary	matK	71.699	-115.454	0
+Pleuropogon_sabinei	KC475301.1	25-OCT-2013	651	Canada: Nunavut, Melville Island (Nunavut), Beverley Inlet, NE of head of Beverley Inlet, E of river, 0.5 - 2.5 km from sea	primary	matK	75.1	-107.633	0

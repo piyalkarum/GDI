@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_obtusifolius	OR526577.1	25-OCT-2023	898	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.1876608940394	-84.4048674650797	0.00125793607430614
+Rumex_obtusifolius	OR526576.1	25-OCT-2023	836	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	41.9158059245526	-85.9716671127789	0.00125793607430614
+Rumex_obtusifolius	OR464935.1	26-SEP-2023	892	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.2965344159224	-84.5569205746498	0.00125793607430614
+Rumex_obtusifolius	OR464934.1	26-SEP-2023	835	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.5971644941046	-85.6354851901831	0.00125793607430614
+Rumex_obtusifolius	KP643100.1	08-DEC-2015	749	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.4091786428757	-78.2948588831393	0.00696034188949468
+Rumex_obtusifolius	KP643035.1	08-DEC-2015	683	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.5938028175393	-77.9229801476393	0.00660677223663807
+Rumex_obtusifolius	MG221009.1	21-JAN-2018	738	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Halfway Log Dump Parking Lot, BPNP	primary	matK	45.227	-81.481	0.00120798687258965
+Rumex_obtusifolius	KJ840993.1	23-SEP-2014	695	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Beside creek near end of hydroline	primary	matK	45.537	-73.155	0.00107099665293481
+Rumex_obtusifolius	KJ840992.1	23-SEP-2014	711	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	matK	45.548	-73.152	0.00114242644051044
+Rumex_obtusifolius	JN895171.1	07-MAR-2012	639	United Kingdom: Carmarthenshire	primary	matK	52.09	-3.92	0.00727438679058587
+Rumex_obtusifolius	OQ290440.1	16-MAY-2023	799	Mexico: Puebla	secondary	matK	19.1710098	-98.4125121	0.00109740457198559
+Rumex_obtusifolius	HM851086.1	23-JUL-2011	810	Portugal	secondary	matK	39.6621648	-8.1353519	0.00109740457198559
+Rumex_obtusifolius	HE966986.1	18-SEP-2012	748	Italy:Trieste, Mt. Valerio	secondary	matK	45.4296301652684	14.0997365631123	0.00116528382152231
+Rumex_obtusifolius	HE966985.1	18-SEP-2012	748	Italy:Trieste, Mt. Valerio	secondary	matK	45.4133113433472	14.9187946077673	0.00116528382152231
+Rumex_obtusifolius	HE966984.1	18-SEP-2012	748	Italy:Trieste, Mt. Valerio	secondary	matK	45.1765696010134	13.4595478637902	0.00116528382152231
+Rumex_obtusifolius	JN895557.1	07-MAR-2012	821	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00109556351079792
+Rumex_obtusifolius	JN895017.1	07-MAR-2012	792	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.0012673407932179

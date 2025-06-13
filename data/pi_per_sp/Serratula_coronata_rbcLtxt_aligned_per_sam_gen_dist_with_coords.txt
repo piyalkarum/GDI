@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Serratula_coronata	LC664109.1	15-JUN-2022	553	Japan:Shizuoka, Atami	secondary	rbcL	35.08992	139.059891	0
+Serratula_coronata	MN204765.1	30-NOV-2021	724	China	secondary	rbcL	35.3090902162402	105.691939722509	0.00140645282160397
+Serratula_coronata	MN204764.1	30-NOV-2021	690	China	secondary	rbcL	35.3235904865832	104.871641011006	0.00145208403550163
+Serratula_coronata	KC589893.1	21-MAY-2013	1416	Austria	secondary	rbcL	36.9148511	-4.7534501	0.00189235328222637

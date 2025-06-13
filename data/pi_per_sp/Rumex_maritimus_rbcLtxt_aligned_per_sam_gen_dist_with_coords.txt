@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_maritimus	MG248582.1	21-JAN-2018	552	Canada: Yukon Territory, Old Crow Flats, Enoch Lake	primary	rbcL	68.083	-140.164	0.000369685767097967
+Rumex_maritimus	MG247935.1	21-JAN-2018	552	Canada: British Columbia, Osoyoos, Mica Spit	primary	rbcL	49.054	-119.464	0.000369685767097967
+Rumex_maritimus	MG247651.1	21-JAN-2018	552	Canada: Yukon Territory, Christmas Creek, wetland east of	primary	rbcL	61.01	-138.212	0.000369685767097967
+Rumex_maritimus	JN891404.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.56	-3.02	0.0003690036900369
+Rumex_maritimus	JN893116.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0018470646813677
+Rumex_maritimus	JN892880.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9875065	-1.1773256	0.0003690036900369

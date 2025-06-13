@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_pulegium	KP218935.1	26-APR-2015	306	Pakistan	secondary	psbA-trnH	30.3308401	71.247499	0.0175008599931201
+Mentha_pulegium	KM009031.1	22-SEP-2014	395	Cyprus	secondary	psbA-trnH	34.9174159	32.8899027	0.0156683678037425
+Mentha_pulegium	HE966713.1	18-SEP-2012	372	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.010048666186013
+Mentha_pulegium	EU627577.1	01-APR-2009	372	Greece	secondary	psbA-trnH	43.2097838	-77.6930602	0.010048666186013

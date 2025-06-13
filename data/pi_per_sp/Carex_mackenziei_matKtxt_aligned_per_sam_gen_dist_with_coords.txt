@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_mackenziei	KP980107.1	21-SEP-2015	785	Finland	secondary	matK	63.2467777	25.9209164	0.000850340136054422
+Carex_mackenziei	KP980071.1	21-SEP-2015	783	USA: Alaska	secondary	matK	64.4459613	-149.680909	0.000852514919011083
+Carex_mackenziei	KP980008.1	21-SEP-2015	727	Sweden	secondary	matK	59.6749712	14.5208584	0.000918273645546373
+Carex_mackenziei	KP994952.1	08-SEP-2015	784	Russia: Leningrad district	secondary	matK	59.9351609	30.3452787	0.00262112870061188

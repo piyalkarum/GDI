@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_cambessedesii	MN334818.1	16-OCT-2019	894	Spain: Ibiza, Punta des Trencs	secondary	atp6	38.9743901	1.41974631785153	0.000223713646532438
+Silene_cambessedesii	MN334817.1	16-OCT-2019	894	Spain: Ibiza, Sa Pedrera	secondary	atp6	38.9085449	1.4386949	0.000223713646532438
+Silene_cambessedesii	MN334816.1	16-OCT-2019	894	Spain: Ibiza, Cavallet	secondary	atp6	38.8463519	1.3948414	0.000223713646532438
+Silene_cambessedesii	MN334815.1	16-OCT-2019	894	Spain: Formentera, Ses Salines	secondary	atp6	38.7352187	1.4361725	0.00111856823266219
+Silene_cambessedesii	MN334814.1	16-OCT-2019	894	Spain: Formentera, Mitjorn	secondary	atp6	38.7063909	1.43352655883119	0.000223713646532438
+Silene_cambessedesii	MN334813.1	16-OCT-2019	894	Spain: Formentera, Canyes	secondary	atp6	38.7301933	1.449868	0.000223713646532438

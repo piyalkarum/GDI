@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_pilosa	LC630618.1	10-NOV-2021	560	Japan	secondary	rbcL	37.1701890034817	139.061001388035	0
+Carex_pilosa	MK949984.1	21-MAY-2021	720	Japan	secondary	rbcL	37.3635290384326	139.557031968569	0
+Carex_pilosa	MK949983.1	21-MAY-2021	564	Japan	secondary	rbcL	37.1980786156148	138.455998081185	0
+Carex_pilosa	MK949982.1	21-MAY-2021	688	Austria	secondary	rbcL	36.9148511	-4.7534501	0

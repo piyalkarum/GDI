@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stipa_pennata	GU254891.1	16-FEB-2011	566	Ukraine	secondary	trnK	49.4871968	31.2718321	0.400022583044878
+Stipa_pennata	GU254888.1	16-FEB-2011	566	France	secondary	trnK	46.269927613918	1.2669020056447	0.400022583044878
+Stipa_pennata	LN554456.1	02-APR-2015	2005	Austria	secondary	trnK	36.9148511	-4.7534501	0.554297939714606
+Stipa_pennata	JF698508.1	05-FEB-2012	702	Ukraine: Lugansk	secondary	trnK	48.5717084	39.2973153	0.426224583205211
+Stipa_pennata	JF754697.1	28-DEC-2011	701	France	secondary	trnK	46.2684035715452	1.33135527264585	0.426224583205211

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_pinaster	MT311821.1	28-SEP-2020	622	Morocco	secondary	psbA-trnH	28.4676554387942	-10.9083343037013	0
+Pinus_pinaster	MT311820.1	28-SEP-2020	603	France	secondary	psbA-trnH	45.8419017547484	1.4514065610651	0
+Pinus_pinaster	MT311819.1	28-SEP-2020	622	Morocco	secondary	psbA-trnH	28.4608319514777	-9.60307685103414	0
+Pinus_pinaster	MT311818.1	28-SEP-2020	603	France	secondary	psbA-trnH	46.9190216814997	2.84166995483174	0
+Pinus_pinaster	MT311817.1	28-SEP-2020	602	Spain	secondary	psbA-trnH	38.9906928857861	-5.66794118257565	0
+Pinus_pinaster	MT311816.1	28-SEP-2020	603	Spain	secondary	psbA-trnH	39.9062316855814	-3.99234697643732	0
+Pinus_pinaster	MT311815.1	28-SEP-2020	603	Spain	secondary	psbA-trnH	38.5719804565376	-4.76533887873448	0
+Pinus_pinaster	MT311814.1	28-SEP-2020	602	Spain	secondary	psbA-trnH	39.077477825484	-5.89514132340092	0

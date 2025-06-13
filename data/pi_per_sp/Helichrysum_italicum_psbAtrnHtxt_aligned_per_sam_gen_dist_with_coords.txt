@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helichrysum_italicum	FR667162.1	15-JUL-2012	450	Italy:Sicily, Palermo	secondary	psbA-trnH	38.1112268	13.3524434	0.0310079168143684
+Helichrysum_italicum	FR667161.1	15-JUL-2012	460	Croatia:Dalmatia	secondary	psbA-trnH	43.5387965	16.1752356	0.0291593247203825
+Helichrysum_italicum	FR667160.1	15-JUL-2012	465	Italy:Sicily, Messina	secondary	psbA-trnH	38.1937571	15.5542082	0.0276705708894126
+Helichrysum_italicum	FR667158.1	15-JUL-2012	465	France:Corsica, Tonnara	secondary	psbA-trnH	42.0434068704903	9.91718201635508	0.0321542359945495
+Helichrysum_italicum	FR667157.1	15-JUL-2012	460	Italy:Toscana	secondary	psbA-trnH	43.4586541	11.1389204	0.0269835939732939
+Helichrysum_italicum	FR667156.1	15-JUL-2012	509	France:Corsica, Tonnara	secondary	psbA-trnH	41.8368134098949	8.25314065370916	0.0539509807824893
+Helichrysum_italicum	FR667155.1	15-JUL-2012	440	Spain:Dragonera	secondary	psbA-trnH	39.5208612	2.467513	0.0602768529875591

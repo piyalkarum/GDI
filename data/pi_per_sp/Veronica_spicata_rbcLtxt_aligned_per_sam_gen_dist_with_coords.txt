@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_spicata	OR738124.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0
+Veronica_spicata	MG224594.1	26-DEC-2017	552	Canada: Guelph, ON	primary	rbcL	43.4941779889975	-81.4677139565653	0
+Veronica_spicata	MG222986.1	26-DEC-2017	552	Canada: Guelph, ON	primary	rbcL	44.0491820106671	-79.7684262959187	0
+Veronica_spicata	MG221865.1	26-DEC-2017	552	Canada: Guelph Arbo.	primary	rbcL	43.9816326263875	-79.9857677326814	0
+Veronica_spicata	MG221524.1	26-DEC-2017	552	Canada: Guelph Arbo.	primary	rbcL	44.3914550930474	-80.6531099865789	0
+Veronica_spicata	JN891062.1	07-MAR-2012	542	United Kingdom: Caernarfonshire	primary	rbcL	53.21	-3.8	0
+Veronica_spicata	MT931689.1	03-MAR-2023	572	China	secondary	rbcL	35.0289927869152	105.126600348108	0
+Veronica_spicata	MT931688.1	03-MAR-2023	569	China	secondary	rbcL	35.4049210848005	104.977028680835	0
+Veronica_spicata	KJ746276.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0
+Veronica_spicata	JN892244.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0
+Veronica_spicata	JN891022.1	07-MAR-2012	529	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_saxatile	JN893878.1	07-MAR-2012	770	United Kingdom: Glamorgan	primary	matK	51.56	-3.25	0.00101457504861978
+Galium_saxatile	MN783928.1	20-SEP-2020	808	Germany	secondary	matK	34.895926	-83.4665496	0.00195166160348338
+Galium_saxatile	HM850829.1	23-JUL-2011	774	Portugal	secondary	matK	39.6621648	-8.1353519	0.00298451308339761
+Galium_saxatile	JN895852.1	07-MAR-2012	794	United Kingdom: Breconshire (42)	secondary	matK	52.9875065	-1.1773256	0.000998366070487368
+Galium_saxatile	JN895751.1	07-MAR-2012	817	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.000985249071649811

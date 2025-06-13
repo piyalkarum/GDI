@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Clausia_aprica	LK021257.1	13-JUN-2016	623	Russia:Perm Krai, Kungurski raion	primary	ITS	57.22	57.05	0.013508064516129
+Clausia_aprica	LK021256.1	13-JUN-2016	623	Russia:Voronezhskaya Oblast, Liski Raion	primary	ITS	50.59	39.19	0.013508064516129
+Clausia_aprica	LK021255.1	13-JUN-2016	623	Kazakhstan:Akmolinskaya Oblast, Burabaisky Raion	primary	ITS	53.07	70.19	0.013508064516129
+Clausia_aprica	LK021254.1	13-JUN-2016	623	Russia:Voronezhskaya Oblast, Bobrov Raion	primary	ITS	50.47	40.01	0.013508064516129
+Clausia_aprica	LK021253.1	13-JUN-2016	623	Russia:Tatarstan, Bulgulma Raion	primary	ITS	54.42	52.38	0.013508064516129
+Clausia_aprica	LK021252.1	13-JUN-2016	620	Russia:Magadanskaya Oblast, Srednakans Raion	primary	ITS	62.34	152.23	0.0183467741935484
+Clausia_aprica	LK021251.1	13-JUN-2016	620	Mongolia:Selenge Aimag, Jahvlant Sum	primary	ITS	49.33	106.13	0.0195564516129032
+Clausia_aprica	LK021250.1	13-JUN-2016	620	Mongolia:Bayan-Olgiy Aimag, Ulaankhus Sum	primary	ITS	49.03	89.44	0.0185483870967742
+Clausia_aprica	LK021249.1	13-JUN-2016	620	Mongolia:Bayan-Olgiy Aimag, Tobol Sum	primary	ITS	48.38	90	0.0179435483870968

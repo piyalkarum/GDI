@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_cebennensis	KX959094.1	02-NOV-2017	1039	Spain: Barcelona, Cercs	primary	matK	42.6741004171584	1.22941950132394	0.000320821302534488
+Odontites_cebennensis	KX959093.1	02-NOV-2017	1032	Spain: Barcelona, Cercs	primary	matK	42.7017183133396	1.26374024859214	0.000322997416020672
+Odontites_cebennensis	KX959013.1	02-NOV-2017	1032	Spain: Barcelona, La Pobla de Lillet	primary	matK	42.371509247002	1.48382807029733	0.000322997416020672
+Odontites_cebennensis	KX959012.1	02-NOV-2017	1032	Spain: Barcelona, La Pobla de Lillet	primary	matK	42.2335257279752	1.8012830976539	0.000322997416020672
+Odontites_cebennensis	KX959238.1	02-NOV-2017	1039	Spain: Gerona, Ripoll	secondary	matK	42.1982391	2.1932496	0.000805317426565496
+Odontites_cebennensis	KX959221.1	02-NOV-2017	1039	Spain: Gerona, between Campdevanol and La Pobla de Lillet	secondary	matK	41.9793006	2.8199439	0.000320821302534488
+Odontites_cebennensis	KX959219.1	02-NOV-2017	1039	Spain: Barcelona, between Sant Quirze de Besora and Ripoll	secondary	matK	41.3828939	2.1774322	0.000805317426565496

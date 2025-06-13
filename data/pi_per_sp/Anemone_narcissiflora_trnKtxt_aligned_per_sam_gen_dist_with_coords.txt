@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anemone_narcissiflora	LC729781.1	17-MAR-2023	614	Japan:Yamanashi, Minami-alps	secondary	trnK	35.6083617	138.4649893	0.539821350847346
+Anemone_narcissiflora	AB248052.1	20-APR-2006	657	Japan:Gunma, Mt. Tanigawadake	secondary	trnK	43.5363116973014	141.744094287894	0.429526101332515
+Anemone_narcissiflora	AB248051.1	20-APR-2006	652	Japan:Yamagata, Mts. Iidesan	secondary	trnK	38.3440041199847	139.582217529675	0.431089752135731
+Anemone_narcissiflora	AB248050.1	20-APR-2006	659	Japan:Iwate, Mt. Yakeishidake	secondary	trnK	38.8492883798642	141.166287703982	0.430898435256083
+Anemone_narcissiflora	AB248049.1	20-APR-2006	652	Japan:Hokkaido, Mts. Taisetsuzan	secondary	trnK	42.7631566118898	143.317794826867	0.432292361841324
+Anemone_narcissiflora	AB248046.1	20-APR-2006	873	Japan:Shizuoka, Mt. Akaishidake	secondary	trnK	35.4612203	138.1573535	0.196110442033978
+Anemone_narcissiflora	AB248045.1	20-APR-2006	870	Japan:Nagano, Mt. Utsugidake	secondary	trnK	35.7189925	137.8171028	0.195998914614076
+Anemone_narcissiflora	AB248044.1	20-APR-2006	870	Japan:Nagano, Mt. Kisokomagadake	secondary	trnK	36.6485851	138.1947664	0.196122703496978
+Anemone_narcissiflora	AB248043.1	20-APR-2006	868	Japan:Ishikawa, Mts. Hakusan	secondary	trnK	37.1570412	140.4468974	0.195405270059879
+Anemone_narcissiflora	AB248042.1	20-APR-2006	869	Japan:Nagano, Mt. Shiroumadake	secondary	trnK	36.7584922	137.758539	0.19570263851991
+Anemone_narcissiflora	AB248041.1	20-APR-2006	871	Japan:Gunma, Mt. Tanigawadake	secondary	trnK	43.4625573307105	141.281780125467	0.195640817654235
+Anemone_narcissiflora	AB248040.1	20-APR-2006	872	Japan:Yamagata, Mts. Iidesan	secondary	trnK	37.7825220927393	139.945080349242	0.195640817654235
+Anemone_narcissiflora	AB248039.1	20-APR-2006	871	Japan:Yamagata, Mts. Gassan	secondary	trnK	37.611601655629	139.969168112949	0.196298199410467
+Anemone_narcissiflora	AB248038.1	20-APR-2006	875	Japan:Iwate, Mt. Yakeishidake	secondary	trnK	39.3162284456054	141.263849806166	0.197363151094587
+Anemone_narcissiflora	AB248037.1	20-APR-2006	872	Japan:Hokkaido, Mts. Taisetsuzan	secondary	trnK	42.9559244295008	144.135482231978	0.196473113254534

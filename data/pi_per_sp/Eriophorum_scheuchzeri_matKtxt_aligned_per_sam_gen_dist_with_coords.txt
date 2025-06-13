@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eriophorum_scheuchzeri	KC474766.1	25-OCT-2013	769	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. East shore of Kihlbay, tundra west of cabins	primary	matK	56.442	-78.956	0.00122184102631953
+Eriophorum_scheuchzeri	KC474765.1	25-OCT-2013	777	Canada: Nunavut, Baffin Island, Iqaluit, Causeway to Inuit Head	primary	matK	63.75	-68.517	0.00121108440965385
+Eriophorum_scheuchzeri	KC474764.1	25-OCT-2013	746	Canada: Nunavut, Baffin Island, Iqaluit, East side of Syliva Grinnell River 1.6 km south of main rapids, 200 m east of Crystal II Thule structure site	primary	matK	63.742	-68.558	0.00125256363858183
+Eriophorum_scheuchzeri	KC474763.1	25-OCT-2013	777	Canada: Yukon Territory, Yukon Mainland, Blow River Delta east, Danny C. Gordon's goose camp	primary	matK	68.895	-136.961	0.00451617841887958
+Eriophorum_scheuchzeri	KC474762.1	25-OCT-2013	777	Canada: Northwest Territories, Nunavut Mainland, Paulatuk, Open field, road side just south of town	primary	matK	69.349	-118.078	0.00103461473742253
+Eriophorum_scheuchzeri	KC474761.1	25-OCT-2013	742	Canada: Nunavut, Victoria Island (Nunavut), Namaycush Lake, East of lake, Site 36	primary	matK	70.667	-107.55	0.00107816711590297
+Eriophorum_scheuchzeri	KC474760.1	25-OCT-2013	777	Canada: Nunavut, Axel Heiberg Island, Bukken Riv., Large valley along upper Bukken River	primary	matK	80.526	-92.364	0.00103461473742253
+Eriophorum_scheuchzeri	KC474759.1	25-OCT-2013	777	Canada: Northwest Territories, Banks Island (Northwest Territories), Aulavik National Park, Banks of the Thomsen River	primary	matK	73.717	-119.925	0.00103461473742253
+Eriophorum_scheuchzeri	KC474758.1	25-OCT-2013	745	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	matK	74.911	-109.596	0.00107394577950975
+Eriophorum_scheuchzeri	KC474757.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Sinclair Creek, Tundra between Sinclair Creek North Warning System site (abandoned DEW-line site) and coast	primary	matK	68.756	-109.111	0.00103461473742253
+Eriophorum_scheuchzeri	KC474756.1	25-OCT-2013	758	Canada: Northwest Territories, Victoria Island, Minto Inlet, Moist clay banks in river valley at base of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.299	-116.419	0.0010590704571005
+Eriophorum_scheuchzeri	JN966293.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0.00330008030140423
+Eriophorum_scheuchzeri	KU496597.1	31-JAN-2017	813	Canada: Quebec, Schefferville region	secondary	matK	46.8137431	-71.2084061	0.00120348587807008
+Eriophorum_scheuchzeri	KJ513611.1	06-SEP-2014	1289	USA	secondary	matK	39.7837304	-100.445882	0.00105036384253115
+Eriophorum_scheuchzeri	KJ513610.1	06-SEP-2014	1259	Greenland	secondary	matK	35.9948477	-94.1796014	0.00125687785417605
+Eriophorum_scheuchzeri	KJ513609.1	06-SEP-2014	1289	Canada	secondary	matK	61.0666922	-107.991707	0.00105036384253115

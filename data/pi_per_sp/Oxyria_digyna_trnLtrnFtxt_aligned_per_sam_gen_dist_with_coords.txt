@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxyria_digyna	MK801064.1	04-FEB-2020	524	USA: Idaho, Sawtooth Mountains, Horstmann Peak	primary	trnL-trnF	44.1117	-115.00318	0.252268443886018
+Oxyria_digyna	MK801063.1	04-FEB-2020	524	USA: Idaho, Sawtooth Mountains, Braxon Peak	primary	trnL-trnF	44.09333	-115.99681	0.250456849683119
+Oxyria_digyna	KJ873089.1	28-MAY-2017	652		primary	trnL-trnF	45.35	-116.5166	0.0736621035450723
+Oxyria_digyna	KJ873088.1	28-MAY-2017	652		primary	trnL-trnF	20.8029	-69.0437	0.0745631374715797
+Oxyria_digyna	KJ873087.1	28-MAY-2017	652		primary	trnL-trnF	61.3291974513611	-148.913307769018	0.0751382908458128
+Oxyria_digyna	KJ873086.1	28-MAY-2017	652		primary	trnL-trnF	48.95	-121.65	0.0730869501708392
+Oxyria_digyna	KJ873085.1	28-MAY-2017	653		primary	trnL-trnF	60.7571043989999	-150.821229499397	0.0745631374715797
+Oxyria_digyna	KJ873084.1	28-MAY-2017	652		primary	trnL-trnF	29.5053	-96.6054	0.0762310425637313
+Oxyria_digyna	KJ873083.1	28-MAY-2017	652		primary	trnL-trnF	29.5607	-94.5601	0.0747548552629907

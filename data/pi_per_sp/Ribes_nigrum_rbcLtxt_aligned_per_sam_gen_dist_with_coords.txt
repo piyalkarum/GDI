@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ribes_nigrum	MG248211.1	21-JAN-2018	522	Canada: Quebec, Pointe-Cascade, Vaudreuil-Soulanges County	primary	rbcL	45.333	-73.967	0.229481827511703
+Ribes_nigrum	OP599933.1	13-NOV-2022	745	Russia: Altai	secondary	rbcL	50.7114101	86.8572186	0.451987037352891
+Ribes_nigrum	OP599932.1	13-NOV-2022	746	Russia	secondary	rbcL	64.6863136	97.7453061	0.451033672382771
+Ribes_nigrum	MW010863.1	27-JUL-2021	553	Canada: Saskatchewan	secondary	rbcL	55.5321257	-106.141224	0.228492429206752
+Ribes_nigrum	MG249851.1	21-JAN-2018	553	Canada: Quebec, Cascade Point, Chateauguay County. P. Quebec.	secondary	rbcL	47.0360545988256	-71.7451696305445	0.228492429206752
+Ribes_nigrum	MG247103.1	21-JAN-2018	553	Canada: Quebec, St.-Jean, St.-Jean County.	secondary	rbcL	46.0555166717919	-71.2249875563064	0.232044590763264

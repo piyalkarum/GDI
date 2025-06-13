@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Papaver_radicatum	KC483292.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.913	-109.576	0.00150725548141477
+Papaver_radicatum	KC483291.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Mokka Fiord, base of hills bordering E side of valley at head of fiord	primary	rbcL	79.48	-87.37	0.000426257459505541
+Papaver_radicatum	KC483290.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Boot Inlet, Large hill on W side of small round lake (~1 km diameter, ca. 4 km N of Boot Inlet)	primary	rbcL	71.579	-117.494	0.000426257459505541
+Papaver_radicatum	KC483289.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Large river delta on Nansen Sound, 14 km W of Stang Bay	primary	rbcL	80.55	-90.68	0.00150725548141477
+Papaver_radicatum	KC483288.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island, McCormick Inlet, ~10 km SW of head of inlet at river delta	primary	rbcL	75.79	-112.44	0.00150725548141477
+Papaver_radicatum	KC483287.1	25-OCT-2013	522	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of northfacing cliffs 68 km ENE of Uluhkatok, south of Minto Inlet	primary	rbcL	71.06	-116.224	0.000450755014649538
+Papaver_radicatum	KC483286.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Nias Point, south shore of Sabine Bay	primary	rbcL	75.55	-110.41	0.000426257459505541
+Papaver_radicatum	KC483285.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Expedition Fiord, McGill Univ. Field Camp on N side of Expedition River	primary	rbcL	79.4	-90.8	0.000426257459505541
+Papaver_radicatum	KC483284.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vincinity of Arctic Char Inn, Uluhaktok	primary	rbcL	70.736	-117.77	0.000426257459505541
+Papaver_radicatum	KC483283.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, High altitude meadow above Bukken River headwaters	primary	rbcL	80.52	-92.07	0.00150725548141477
+Papaver_radicatum	KC483282.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve. Head of Tanquary Fiord Quad., No Name Cr	primary	rbcL	81.417	-76.917	0.000426257459505541
+Papaver_radicatum	KC483281.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Summit of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.514	-116.439	0.000426257459505541
+Papaver_radicatum	KC483280.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbour	primary	rbcL	61.82	-65.71	0.000426257459505541
+Papaver_radicatum	KC483279.1	25-OCT-2013	552	Canada: Nunavut, Bathurst Island, Polar Bear Pass, Research Station	primary	rbcL	75.73	-98.42	0.000426257459505541
+Papaver_radicatum	KC483278.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Mould Bay Peninsula, East side, ~10 km E of Mould Bay	primary	rbcL	76.23	-118.95	0.000426257459505541
+Papaver_radicatum	KT960565.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.2435372157379	-18.1967064395956	0.000426257459505541
+Papaver_radicatum	KT960564.1	13-DEC-2015	508	Greenland: NE, Zackenberg	primary	rbcL	74.4864972378166	-17.9601932182278	0.000463177396943029
+Papaver_radicatum	KT960380.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.7419699160945	-22.9115551666733	0.000426257459505541

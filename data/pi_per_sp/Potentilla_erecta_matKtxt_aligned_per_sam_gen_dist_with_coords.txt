@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_erecta	LC528137.1	26-MAR-2020	726	Pakistan	primary	matK	34.55	73.5	0.0461045667009831
+Potentilla_erecta	JN895824.1	07-MAR-2012	760	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.0182434519661476
+Potentilla_erecta	HM850688.1	23-JUL-2011	801	Portugal	secondary	matK	39.6621648	-8.1353519	0.0200181862082969
+Potentilla_erecta	JN896180.1	07-MAR-2012	667	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0269865067466267
+Potentilla_erecta	JN896010.1	07-MAR-2012	708	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0184663214824495

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hordeum_vulgare	AJ608148.1	09-SEP-2004	598	Germany	secondary	ITS	40.0117127810115	-79.4401598638194	0.00167224080267559
+Hordeum_vulgare	AJ608147.1	09-SEP-2004	598	Germany	secondary	ITS	39.8968182116303	-79.9623654941741	0.00501672240802676
+Hordeum_vulgare	AJ608146.1	09-SEP-2004	598	India	secondary	ITS	22.3511148	78.6677428	0.00167224080267559
+Hordeum_vulgare	AJ608145.1	09-SEP-2004	598	Iran:Shushtar	secondary	ITS	32.0492034	48.851281	0.00167224080267559

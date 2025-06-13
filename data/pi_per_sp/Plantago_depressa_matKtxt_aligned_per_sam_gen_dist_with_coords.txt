@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_depressa	MT929901.1	03-MAR-2023	780	China	secondary	matK	34.8167777939102	105.542760742564	0.0038560411311054
+Plantago_depressa	MN311875.1	30-NOV-2021	770	China	secondary	matK	34.4868703959803	104.587855369592	0.0038961038961039
+Plantago_depressa	MN317530.1	30-SEP-2021	818	China	secondary	matK	35.2218265559514	105.153523424973	0.011884376432168
+Plantago_depressa	KT280243.1	01-AUG-2016	726	China: Maqu Gansu	secondary	matK	34.6137382	102.4654149	0.00413223140495868

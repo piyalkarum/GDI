@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_saxatilis	FJ548451.1	30-AUG-2009	376	Canada: Nunuavut, SW Baffin Island, Dorset Island, S shore of Dorset Island	primary	atpF-atpH	64.2	-76.53	0.00273773033017081
+Carex_saxatilis	FJ548450.1	30-AUG-2009	387	Canada: Northwest Territories, Banks Island, NE part, Parker River Valley, N side c. 7 km from sea	primary	atpF-atpH	73.62	-115.85	0.00537894802457982
+Carex_saxatilis	FJ548449.1	30-AUG-2009	352	Canada: Nunuavut, Victoria Island, Cambridge Bay, 0.5 mi W	primary	atpF-atpH	69.12	-105.05	0.00363973604493389
+Carex_saxatilis	FJ548448.1	30-AUG-2009	413	Canada: Nunuavut, Baffin Island, head of Clyde Inlet	primary	atpF-atpH	69.83	-70.67	0.00488222657078109
+Carex_saxatilis	FJ548447.1	30-AUG-2009	395	Canada: Nunuavut, Ellesmere Island, vicinity of Lake Hazen	primary	atpF-atpH	81.53	-70.62	0.00267045767731332

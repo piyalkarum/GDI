@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gladiolus_palustris	MF543526.1	31-JUL-2018	820	Italy	secondary	matK	46.1017680958554	7.07379010699564	0
+Gladiolus_palustris	MF543525.1	31-JUL-2018	833	Italy	secondary	matK	46.0010320064949	6.67422787818864	0
+Gladiolus_palustris	MF543524.1	31-JUL-2018	826	Italy	secondary	matK	46.5223875676083	7.46508849719496	0
+Gladiolus_palustris	MF543523.1	31-JUL-2018	798	Italy	secondary	matK	45.7445264	7.549854	0

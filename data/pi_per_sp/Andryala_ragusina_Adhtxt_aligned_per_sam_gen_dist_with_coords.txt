@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Andryala_ragusina	KM371828.1	18-NOV-2014	1241	Spain: Comunitat Valenciana	secondary	Adh	39.6819591	-0.7654406	0.00134408602150538
+Andryala_ragusina	KM371827.1	18-NOV-2014	1240	Spain: Madrid	secondary	Adh	40.4167047	-3.7035825	0.00134408602150538
+Andryala_ragusina	KM371826.1	18-NOV-2014	1267	Spain: Andalusia	secondary	Adh	36.7548426998392	-4.24963357649582	0.00134408602150538
+Andryala_ragusina	KM371825.1	18-NOV-2014	1241	Spain: Andalusia	secondary	Adh	37.0017939849719	-5.32359884650677	0.00403225806451613

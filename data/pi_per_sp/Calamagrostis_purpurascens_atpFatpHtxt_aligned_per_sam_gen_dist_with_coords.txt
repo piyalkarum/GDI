@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_purpurascens	KX872054.1	16-OCT-2017	653	Canada: Yukon, 69 mi Se of Ross River (Pelly River Crossing) on Robert Campbell, Hwy. (4) towards Watson Lake	primary	atpF-atpH	61.7119	-130.8633	0
+Calamagrostis_purpurascens	KX872053.1	16-OCT-2017	649	Canada: Yukon, 95 mi N of Hwy. 2 on Dempster Hwy. (5) and 134 mi S of Eagle Plains	primary	atpF-atpH	65.0633	-138.2631	0
+Calamagrostis_purpurascens	KX872052.1	16-OCT-2017	596	Canada: Yukon, 42 mi NW of Haines Junction and 24 mi SE of Destruction Bay on Hwy. 1	primary	atpF-atpH	60.9933	-138.4981	0
+Calamagrostis_purpurascens	KX872051.1	16-OCT-2017	553	Canada: Yukon, 12 mi S of Beaver Creek and 19 mi NE up Snag Creek Road	primary	atpF-atpH	62.4026	-140.3638	0
+Calamagrostis_purpurascens	KX872049.1	16-OCT-2017	654	Canada: Alberta, Banff National Park, 7 mi SE of border to Jasper National Park along Hwy. 93	primary	atpF-atpH	52.1719	-117.0667	0
+Calamagrostis_purpurascens	KX872048.1	16-OCT-2017	597	USA: Alaska, Southeast Fairbanks, 1 mi E of Chicken on Hwy. towards Boundary	primary	atpF-atpH	64.0628	-141.9244	0
+Calamagrostis_purpurascens	KX872047.1	16-OCT-2017	653	Canada: Northwest Territories, 11 mi S of Inuvik on Dempster Hwy. (5) towards Eagle Plains	primary	atpF-atpH	68.3764	-133.3303	0
+Calamagrostis_purpurascens	KX872050.1	16-OCT-2017	651	Canada: Yukon, 7 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy. 6) towards Dragon Lake	secondary	atpF-atpH	62.3441509	-136.4936376	0

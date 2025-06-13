@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_boreale	OR550615.1	01-NOV-2023	801	Kazakhstan: Qaragandy region	primary	matK	49.43775	75.48958	0.00200256099438089
+Galium_boreale	KX676533.1	09-AUG-2017	776	Canada: British Columbia, East Kootenay Regional District, Dry Gulch Provincial Park	primary	matK	50.5862	-116.035	0.000784099562333984
+Galium_boreale	MG225358.1	21-JAN-2018	524	USA: North Dakota	primary	matK	47.906	-101.306	0.000642115738291386
+Galium_boreale	MG225348.1	21-JAN-2018	770	USA: North Dakota	primary	matK	48.454	-101.592	0.000436083524318818
+Galium_boreale	MG224986.1	21-JAN-2018	772	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Sassafras Point	primary	matK	43.271	-79.9058	0.000435242396534685
+Galium_boreale	HQ593306.1	09-NOV-2011	866	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Fence line 100 N of Willow Ridge	primary	matK	44.024	-79.537	0.000837779283689919
+Galium_boreale	KP210390.1	28-NOV-2015	820	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 100 m west of Yellow Trail	primary	matK	45.543	-73.16	0.00076255688678283
+Galium_boreale	JN893880.1	07-MAR-2012	816	United Kingdom: Carmarthenshire	primary	matK	51.88	-3.75	0.000427969112524086
+Galium_boreale	OR703759.1	11-NOV-2023	565	Kazakhstan: Akmola region	secondary	matK	51.8742347	69.8582132	0.000442477876106195
+Galium_boreale	MT918331.1	03-MAR-2023	792	China	secondary	matK	35.7126012370091	105.602591255688	0.00171191741571056
+Galium_boreale	MT918330.1	03-MAR-2023	780	China	secondary	matK	34.5495830370775	105.870802045069	0.00301060526463328
+Galium_boreale	MN311821.1	30-NOV-2021	837	China	secondary	matK	34.7345849643277	104.677252959682	0.00105745192555094
+Galium_boreale	MN433390.1	30-NOV-2021	790	China	secondary	matK	34.6472896318565	105.548100475345	0.000428503218388141

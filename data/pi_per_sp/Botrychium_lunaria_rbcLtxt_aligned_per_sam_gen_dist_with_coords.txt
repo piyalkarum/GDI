@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Botrychium_lunaria	KC482121.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Middle Malcolm River, ridge crest	primary	rbcL	69.306	-140.492	0
+Botrychium_lunaria	KC482120.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Unnamed cove on west coast, 1/2 way down island	primary	rbcL	56.322	-79.7	0
+Botrychium_lunaria	JN965304.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	rbcL	58.789	-94.227	0
+Botrychium_lunaria	JN965303.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	rbcL	58.734	-94.112	0
+Botrychium_lunaria	JN965302.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	rbcL	58.629	-93.798	0
+Botrychium_lunaria	JN965301.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, Thompson Point, Beach ridges in sand amongst Leymus mollis and Dryas integrifolia	primary	rbcL	58.335	-93.018	0
+Botrychium_lunaria	AB574664.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.000119345984007638
+Botrychium_lunaria	AB626656.1	18-OCT-2011	1197	Japan:Fujinomiya	secondary	rbcL	35.2221369	138.6214683	0.000119345984007638

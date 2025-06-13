@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arnica_angustifolia	MG225164.1	21-JAN-2018	659	Canada: Yukon Territory, Richardson Mountains, tributary of Fish Creek, S of Vunta Creek	primary	matK	67.885	-136.344	0.000664897575963649
+Arnica_angustifolia	MG224817.1	21-JAN-2018	684	Canada: Yukon Territory, Boswell River	primary	matK	61.05	-134.217	0.000643623777413423
+Arnica_angustifolia	MG224816.1	21-JAN-2018	748	Canada: Yukon Territory, Alaska Highway, Burwash Landing, west of	primary	matK	61.333	-139.083	0.00331203547684118
+Arnica_angustifolia	KC474106.1	25-OCT-2013	783	Canada: Northwest Territories, Banks Island, Aulavik National Park, Near Polar Bear cabin, across the creek from the cabin	primary	matK	74.117	-120.15	0.000662091585487093
+Arnica_angustifolia	KC474105.1	25-OCT-2013	683	Canada: Nunavut, Ellesmere Island, Hot Weather Creek	primary	matK	79.95	-84.4333	0.000644428059351095
+Arnica_angustifolia	KC474104.1	25-OCT-2013	680	Canada: Nunavut, Baffin Island, Iqaluit	primary	matK	63.733	-68.55	0.000646855112509487
+Arnica_angustifolia	KC474103.1	25-OCT-2013	773	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, South Quadjuk Island, sandstone heads area	primary	matK	66.861	-107.91	0.00161244850118655
+Arnica_angustifolia	KC474102.1	25-OCT-2013	772	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of northfacing cliffs 68 km ENE of Uluhkatok, south of Minto Inlet	primary	matK	71.06	-116.224	0.000671039543469567
+Arnica_angustifolia	KC474101.1	25-OCT-2013	659	Canada: Northwest Territories, Banks Island, Nelson Head, southernmost tip of Banks Island	primary	matK	71.09	-122.77	0.00172024384864329
+Arnica_angustifolia	KC474100.1	25-OCT-2013	709	Canada: Nunavut, Ellesmere Island, Borup Fiord	primary	matK	80.867	-81.9167	0.000712407113276436
+Arnica_angustifolia	KC474099.1	25-OCT-2013	717	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	matK	62.533	-114.356	0.000721909391548183
+Arnica_angustifolia	KC474098.1	25-OCT-2013	742	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, West side of Hornaday River, 0.5-1 km N of confluence of small tributary river with Hornaday	primary	matK	68.308	-121.903	0.000689827415793934
+Arnica_angustifolia	KC474097.1	25-OCT-2013	783	Canada: Northwest Territories, Melville Island, ca. 12 km SW of head of inlet at river delta	primary	matK	75.78	-112.51	0.000662091585487093
+Arnica_angustifolia	KC474096.1	25-OCT-2013	783	Canada: Nunavut, Baffin Island, Iqaluit, Tundra Valley. Rock cliff	primary	matK	63.733	-68.467	0.000662091585487093
+Arnica_angustifolia	JN966119.1	27-OCT-2012	786	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	matK	58.78	-94.195	0.00406152842904808
+Arnica_angustifolia	JN966118.1	27-OCT-2012	786	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0.00159786094312115
+Arnica_angustifolia	JN966117.1	27-OCT-2012	786	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	matK	58.626	-94.23	0.000660872941204485

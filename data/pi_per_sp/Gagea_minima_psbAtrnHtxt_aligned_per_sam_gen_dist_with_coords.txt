@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_minima	LT985613.1	14-JUN-2019	287	Sweden	secondary	psbA-trnH	59.6749712	14.5208584	0
+Gagea_minima	LT985612.1	14-JUN-2019	287	Italy	secondary	psbA-trnH	43.1480097306019	12.3628483206892	0
+Gagea_minima	LT985611.1	14-JUN-2019	287	Italy	secondary	psbA-trnH	42.8748257019586	11.5788225218892	0
+Gagea_minima	LT985610.1	14-JUN-2019	287	Italy	secondary	psbA-trnH	42.5879910000746	11.9615379030863	0
+Gagea_minima	LT985609.1	14-JUN-2019	287	France	secondary	psbA-trnH	46.603354	1.8883335	0
+Gagea_minima	LT985608.1	14-JUN-2019	287	Czech Republic	secondary	psbA-trnH	49.7439047	15.3381061	0
+Gagea_minima	AM282996.1	23-JUN-2006	384	Italy	secondary	psbA-trnH	42.7541670384931	13.6261014150287	0
+Gagea_minima	AM238524.1	04-APR-2006	370	Ukraine:Carpathians	secondary	psbA-trnH	48.6329122	23.6260931	0
+Gagea_minima	AM238519.1	04-APR-2006	384	Russia	secondary	psbA-trnH	55.8208088	52.4055227391288	0

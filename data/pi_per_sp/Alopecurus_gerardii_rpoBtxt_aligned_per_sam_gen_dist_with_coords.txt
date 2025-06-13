@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alopecurus_gerardii	KM523932.1	04-JUL-2015	1128	Turkey	secondary	rpoB	38.9597594	34.9249653	0.000295508274231678
+Alopecurus_gerardii	KY363376.1	25-FEB-2018	1128	Greece	secondary	rpoB	42.8195183605109	-76.6865907863743	0.000886524822695035
+Alopecurus_gerardii	KY363375.1	25-FEB-2018	1128	Greece	secondary	rpoB	42.75593890868	-77.7122841612993	0.000295508274231678
+Alopecurus_gerardii	KY363374.1	25-FEB-2018	1128	Greece	secondary	rpoB	43.077465558298	-78.1018128574207	0.000295508274231678

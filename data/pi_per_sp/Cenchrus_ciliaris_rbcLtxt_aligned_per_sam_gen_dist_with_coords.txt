@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cenchrus_ciliaris	MF694962.1	16-SEP-2018	553	Pakistan: Punjab, Cholistan Desert, Kanchi mor	primary	rbcL	29.0813797108431	71.766129970851	0
+Cenchrus_ciliaris	MF694686.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan Desert, Chananpir	primary	rbcL	29.189	71.66	0
+Cenchrus_ciliaris	MF694685.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan Desert, Dingarh	primary	rbcL	28.949	71.674	0
+Cenchrus_ciliaris	MF694684.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan Desert, Kanchi mor	primary	rbcL	29.2001213300214	70.7804149456392	0
+Cenchrus_ciliaris	LN907904.1	14-JAN-2016	1353	Madagascar:Toliara, Antsapanimahavelona	primary	rbcL	-23.3709	43.8398	0.000772090774234029
+Cenchrus_ciliaris	MH598934.1	22-JAN-2019	569	Saudi Arabia: Taif	secondary	rbcL	21.8536295819318	40.6147879506907	0.00334197628654175
+Cenchrus_ciliaris	MH598932.1	22-JAN-2019	590	Saudi Arabia: Taif	secondary	rbcL	21.6460642775592	40.1754843714762	0.000528169014084507
+Cenchrus_ciliaris	MH598925.1	22-JAN-2019	590	Saudi Arabia: Taif	secondary	rbcL	21.1226009351289	39.4769564287175	0.000528169014084507
+Cenchrus_ciliaris	MH598914.1	22-JAN-2019	590	Saudi Arabia: Taif	secondary	rbcL	21.0466499367522	41.313283123313	0.000528169014084507
+Cenchrus_ciliaris	MH598879.1	22-JAN-2019	591	Saudi Arabia: Makkah (Coast Road)	secondary	rbcL	22.6363744	39.0386503	0.00104313260638812
+Cenchrus_ciliaris	KY860693.1	26-APR-2017	1449	India	secondary	rbcL	22.3511148	78.6677428	0.000770355341026515

@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_remota	JN894576.1	07-MAR-2012	817	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.000301876310368879
+Carex_remota	OQ354730.1	27-JUN-2023	797	Slovenia	secondary	matK	46.1199444	14.8153333	0.000300727789640607
+Carex_remota	OQ354729.1	27-JUN-2023	797	Poland	secondary	matK	52.215933	19.134422	0.000300727789640607
+Carex_remota	OQ354728.1	27-JUN-2023	797	Netherlands	secondary	matK	52.2434979	5.6343227	0.000300727789640607
+Carex_remota	MN507669.1	16-AUG-2020	747	Italy: Sicily, Monti Nebrodi	secondary	matK	36.7428154	14.6938478	0.000160797555877151
+Carex_remota	KP980122.1	21-SEP-2015	785	Montenegro	secondary	matK	-29.6826112	-51.4687455	0.000869683633234914
+Carex_remota	KP980019.1	21-SEP-2015	742	Italy	secondary	matK	42.6384261	12.674297	0.000161969549724652
+Carex_remota	KJ204453.1	29-JAN-2015	765	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00145041567217559
+Carex_remota	JN896199.1	07-MAR-2012	724	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00016860563142809
+Carex_remota	JN896198.1	07-MAR-2012	797	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000300727789640607

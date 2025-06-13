@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Equisetum_fluviatile	OR738004.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.1109	63.55593	0
+Equisetum_fluviatile	MG215470.1	24-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Emmett Lake Road, BPNP	primary	rbcL	45.209	-81.495	0
+Equisetum_fluviatile	MG215237.1	24-JAN-2018	552	USA: North Dakota	primary	rbcL	48.999	-100.426	0
+Equisetum_fluviatile	MG215188.1	24-JAN-2018	553	Canada: Quebec, Montreal, Island of Montreal, Parc de la Pointe-aux-Prairies sect. du Bois-de-l'Heritage, pres d'un marais	primary	rbcL	45.68	-73.508	0
+Equisetum_fluviatile	MG215112.1	24-JAN-2018	552	USA: North Dakota	primary	rbcL	48.225	-100.506	0
+Equisetum_fluviatile	HQ590082.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, marshy area south of creek north of Echo Valley	primary	rbcL	44.026	-79.533	0
+Equisetum_fluviatile	KC482729.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Sanikiluaq. Along River in middle of town, leading from school to ocean	primary	rbcL	56.625	-79.306	0
+Equisetum_fluviatile	KC482728.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0
+Equisetum_fluviatile	KC482727.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territoires, Inuvik	primary	rbcL	68.067	-134.267	0
+Equisetum_fluviatile	JN965528.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	rbcL	58.692	-94.132	0
+Equisetum_fluviatile	DQ463101.1	29-MAR-2007	1282	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Equisetum_fluviatile	AB574684.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0

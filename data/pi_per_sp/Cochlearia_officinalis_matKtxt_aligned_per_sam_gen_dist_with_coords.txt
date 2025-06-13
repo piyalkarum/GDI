@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cochlearia_officinalis	JN895761.1	07-MAR-2012	710	United Kingdom: Pembrokeshire	primary	matK	51.91	-5.09	0.0110190362087327
+Cochlearia_officinalis	MK926399.1	14-JAN-2020	767	United Kingdom	secondary	matK	54.5526369332095	-4.01168372501232	0.00364583333333333
+Cochlearia_officinalis	MK925986.1	14-JAN-2020	765	United Kingdom	secondary	matK	54.4289117533432	-4.02731048000823	0.00364583333333333
+Cochlearia_officinalis	MK925652.1	14-JAN-2020	753	United Kingdom	secondary	matK	55.4868387625414	-2.77994204865861	0.00372736954206603

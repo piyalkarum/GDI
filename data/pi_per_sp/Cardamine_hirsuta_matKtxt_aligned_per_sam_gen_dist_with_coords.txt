@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_hirsuta	KX677587.1	09-AUG-2017	796	Canada: British Columbia, Vancouver Island, Capital Regional District, Saanich, Swan Lake Christmas Hill Nature Sanctuary	primary	matK	48.473	-123.375	0.0187694385214208
+Cardamine_hirsuta	KX677235.1	09-AUG-2017	781	Canada: British Columbia, Vancouver Island, Capital Regional District, Saanich Peninsula, Island View Beach	primary	matK	48.585	-123.372	0.0177502092640716
+Cardamine_hirsuta	KX676680.1	09-AUG-2017	796	Canada: British Columbia, Fraser Valley Regional District, North of Yale, west side of Hwy 1	primary	matK	49.576	-121.403	0.0250733414745548
+Cardamine_hirsuta	JN895110.1	07-MAR-2012	774	United Kingdom: Glamorgan (41)	primary	matK	51.53	-3.22	0.0158896402443397
+Cardamine_hirsuta	MH552367.1	11-MAR-2019	732	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.6814498	-81.9683386867758	0.0275110857443772
+Cardamine_hirsuta	MN273627.1	30-NOV-2021	772	China	secondary	matK	35.3588338292152	104.664904933512	0.0220319731351146
+Cardamine_hirsuta	HQ619803.1	26-DEC-2010	822	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.0190239957303596
+Cardamine_hirsuta	MG458332.1	17-OCT-2018	819	Pakistan	secondary	matK	30.3308401	71.247499	0.0265554351425722
+Cardamine_hirsuta	MH116570.1	17-AUG-2018	689	China	secondary	matK	34.8296980112724	104.099321750967	0.026764777028373
+Cardamine_hirsuta	MH116569.1	17-AUG-2018	655	China	secondary	matK	34.3402200125417	104.641367640448	0.0272636857073082
+Cardamine_hirsuta	HM850748.1	23-JUL-2011	798	Portugal	secondary	matK	39.6621648	-8.1353519	0.0160913705228152
+Cardamine_hirsuta	JN894925.1	07-MAR-2012	759	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0160383671552307
+Cardamine_hirsuta	JN894924.1	07-MAR-2012	700	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.0165955329500221

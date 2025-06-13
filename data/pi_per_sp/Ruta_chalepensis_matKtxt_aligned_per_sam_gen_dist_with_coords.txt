@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ruta_chalepensis	EF489049.1	31-DEC-2008	1518	Italy: Caltabellotta, Sicily	secondary	matK	37.5773409	13.216548	0.00297982228834146
+Ruta_chalepensis	EF489048.1	31-DEC-2008	1518	Italy: Gutturu Cardaxius, Buggerru, Cagliari, Sardinia	secondary	matK	39.3750991	8.436608	0.00297982228834146
+Ruta_chalepensis	EF489047.1	31-DEC-2008	1518	France: La Bastide, Aude	secondary	matK	43.2153371	2.3486506	0.00341899664055929
+Ruta_chalepensis	HM850606.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.017220172201722
+Ruta_chalepensis	EF489046.1	31-DEC-2008	1518	Greece	secondary	matK	36.8262502	25.8637263	0.00297982228834146
+Ruta_chalepensis	EF489045.1	31-DEC-2008	1518	France	secondary	matK	42.18808965	9.06841377142769	0.00297982228834146
+Ruta_chalepensis	EF489044.1	31-DEC-2008	1518	Italy	secondary	matK	39.0340479	8.995484	0.00297982228834146

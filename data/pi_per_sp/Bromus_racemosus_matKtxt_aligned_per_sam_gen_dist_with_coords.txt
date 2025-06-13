@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_racemosus	MF597244.1	17-JUL-2018	819	Canada: British Columbia, 10 km W of Princeton on Hwy. 3. Ponderosa pine upper steppe roadside grassland. Edge of road with Artemesia tridentata.	primary	matK	49.388	-120.563	0.00153849184021598
+Bromus_racemosus	MF597243.1	17-JUL-2018	819	Canada: British Columbia, ~2 km N of Garnet Lake, 14.6 km N on Garnet Valley Road from Hwy. 97 at Summerland. Open woods with Pinus ponderosa, Rosa, and Populus.	primary	matK	49.702	-119.782	0.00153849184021598
+Bromus_racemosus	MF597242.1	17-JUL-2018	792	Canada: British Columbia, Rocky Mountain Forest District, along Hwy. 3 1.5 km E of Elko. Rocky mountain slope with Populus, Amelanchier.	primary	matK	49.099	-115.099	0.000743737467414006
+Bromus_racemosus	JN895847.1	07-MAR-2012	1022	United Kingdom: Carmarthenshire	primary	matK	51.75	-4.25	0.00161290664278652
+Bromus_racemosus	OM048586.1	08-AUG-2022	1188	Denmark: Jutland	secondary	matK	55.9396905	9.3180562	0.00299509560791316
+Bromus_racemosus	OM048585.1	08-AUG-2022	1252	Canada: British Columbia, Osoyoos, Haynes Provincial Park	secondary	matK	49.0165199	-119.4510342	0.00190902951105902
+Bromus_racemosus	OM048584.1	08-AUG-2022	1224	Canada: British Columbia, Rocky Mountain Forest District, along Hwy. 3 1.5 E of Elko	secondary	matK	49.196198939013	-122.520428368046	0.000920844501162799
+Bromus_racemosus	OM048583.1	08-AUG-2022	995	Canada: British Columbia, 10 km W of Princeton on Hwy. 3	secondary	matK	48.9666410105996	-123.794691105559	0.000863197567676516
+Bromus_racemosus	OM048582.1	08-AUG-2022	1168	Canada: Ontario, Niagara, ca 2.5 km west of Welland Canal at Port Colborne, just north of CN Railway line, at Humberstone-Wainfleet Twp. Boundary	secondary	matK	44.5973093279731	-77.8580065544503	0.000934000362981821
+Bromus_racemosus	OM048581.1	08-AUG-2022	1290	Canada: Ontario, Prince Edward County, Miller Tract, Hasting-Prince Edward Land Trust, Hill Top Road	secondary	matK	44.1714261724972	-78.1652720198807	0.000914692918357077
+Bromus_racemosus	OM048580.1	08-AUG-2022	1212	Iran: Mazandaran, 33 km from Sari to Kiasar, Alamdar Deh, Doseleh, along rice field	secondary	matK	36.734586	50.9736236	0.00200076267874801
+Bromus_racemosus	JN895863.1	07-MAR-2012	754	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00154745004655707
+Bromus_racemosus	JN895862.1	07-MAR-2012	817	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0014479048002664

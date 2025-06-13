@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_assoanus	KC607993.1	01-MAR-2014	893	Spain: Barcelona	secondary	trnL-trnF	41.265629533326	2.35813389931179	0.0217316174391759
+Narcissus_assoanus	KC607969.1	01-MAR-2014	893	Spain: Navarra	secondary	trnL-trnF	42.6125488	-1.8307877	0.0210276243652406
+Narcissus_assoanus	JF973291.1	30-AUG-2011	399	Spain: Tarragona	secondary	trnL-trnF	41.8020185407343	0.933922239446669	0.0253917119367387
+Narcissus_assoanus	JF973290.1	30-AUG-2011	397	Spain: Tarragona	secondary	trnL-trnF	40.7996985907676	1.31347314431066	0.0213228667935727
+Narcissus_assoanus	JF973289.1	30-AUG-2011	395	Spain: Barcelona	secondary	trnL-trnF	41.6843494536826	3.18538792061067	0.0157446994448863

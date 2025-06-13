@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_atrofusca	FJ548075.1	25-AUG-2009	721	Canada: Nunavut, Baffin Island	primary	matK	71.86	-80.88	0.000110229276895944
+Carex_atrofusca	FJ548074.1	25-AUG-2009	733	Canada: Nunavut, Victoria Island, Cambridge Bay	primary	matK	69.12	-105.05	0.000109553023663453
+Carex_atrofusca	FJ548073.1	25-AUG-2009	721	Canada: Nunavut, Baffin Island, Franklin District, E side of Sylvia Grinnel River 2.0 km S of main rapids in Sylvia Grinnel Park at 25 N/10 222668, Iqaluit, Frobisher Bay	primary	matK	63.74	-68.56	0.000111607142857143
+Carex_atrofusca	FJ548072.1	25-AUG-2009	732	Canada: Nunavut, Baffin Island	primary	matK	71.89	-80.9	0.00010972130787799
+Carex_atrofusca	FJ548071.1	25-AUG-2009	699	Canada: Nunavut, Baffin Island	primary	matK	70.71	-79	0.000115580212667591
+Carex_atrofusca	KC474299.1	25-OCT-2013	749	Canada: Nunavut, Canadian Arctic Archipelago, Baffin Island, Baffinland Iron Mines, Mary River project	primary	matK	71.13	-78.54	0.000108885017421603
+Carex_atrofusca	KC474298.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.644	-115.493	0.000108389334489486
+Carex_atrofusca	KC474297.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, along Darnley Bay	primary	matK	69.3944	-124.117	0.000108389334489486
+Carex_atrofusca	KC474296.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Hornaday River, ~1 km downstream of valley leading to Castle Butte	primary	matK	68.2056	-121.844	0.000108389334489486
+Carex_atrofusca	JN966172.1	27-OCT-2012	659	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Wet lichen heath	primary	matK	58.747	-93.863	0.00153675401425098
+Carex_atrofusca	JN966171.1	27-OCT-2012	735	Canada: Manitoba	primary	matK	58.74	-93.82	0.000111957008508733
+Carex_atrofusca	MK925786.1	14-JAN-2020	822	United Kingdom	secondary	matK	55.1783570855887	-4.30108792815968	0.000108389334489486
+Carex_atrofusca	MK925613.1	14-JAN-2020	823	United Kingdom	secondary	matK	54.3973619548301	-4.65644349163214	0.000108389334489486
+Carex_atrofusca	MF543491.1	31-JUL-2018	782	Italy: Aosta Valley, Valgrisenche, Vaudet	secondary	matK	44.8932062300923	6.57359411496798	0.000108389334489486
+Carex_atrofusca	MF543490.1	31-JUL-2018	776	Italy: Aosta Valley, Valgrisenche, Vaudet	secondary	matK	45.602138395409	6.68727604706794	0.000108885017421603

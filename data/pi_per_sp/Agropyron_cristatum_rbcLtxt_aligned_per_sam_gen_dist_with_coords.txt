@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agropyron_cristatum	OR738028.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	48.4517	83.2138	0.0338540522814219
+Agropyron_cristatum	OR508844.1	17-OCT-2023	526	Kazakhstan: Qaragandy region	primary	rbcL	49.48573	75.41885	0.0339980029062659
+Agropyron_cristatum	OQ832214.1	15-AUG-2023	553	USA: American Prairie, near Enrico	primary	rbcL	47.7449	-107.7757	0.0340362727369429
+Agropyron_cristatum	MF596509.1	28-FEB-2018	603	Canada: Saskatchewan, Cypress Hills Provincial Park, near overlook (East Park).	primary	rbcL	49.6700789206273	-109.365694172059	0.0341568376047948
+Agropyron_cristatum	MF596508.1	28-FEB-2018	603	Canada: British Columbia, Fort Steele Road, coner of Hwy. 3 and Wardner, 12 km W of Jaffray. Sandy slope on roadside.	primary	rbcL	49.9225572145514	-115.717942394859	0.0341568376047948
+Agropyron_cristatum	MG228157.1	23-JAN-2018	603	Canada: British Columbia, Fort Steele Road, coner of Hwy. 3 and Wardner, 12 km W of Jaffray. Sandy slope on roadside.	primary	rbcL	50.2504580189539	-114.458603654355	0.0341568376047948
+Agropyron_cristatum	MG226707.1	23-JAN-2018	603	Canada: Saskatchewan, Cypress Hills Provincial Park, near overlook (East Park).	primary	rbcL	48.9808508054895	-110.235174123755	0.0341568376047948
+Agropyron_cristatum	KC481887.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territoires, Yellowknife	primary	rbcL	62.449	-114.374	0.0341018287184188
+Agropyron_cristatum	MT931763.1	03-MAR-2023	568	China	secondary	rbcL	34.8085991213661	105.915104848996	0.034589698720083
+Agropyron_cristatum	MT931762.1	03-MAR-2023	572	China	secondary	rbcL	35.2700534880634	103.962501587491	0.0347572595471755
+Agropyron_cristatum	MT931761.1	03-MAR-2023	572	China	secondary	rbcL	34.2220466137903	105.172306724581	0.0362353431856296
+Agropyron_cristatum	KP210998.1	31-AUG-2017	1274	Sweden	secondary	rbcL	59.6749712	14.5208584	0.0333023752546615
+Agropyron_cristatum	GQ373392.1	27-OCT-2009	793	Kazakhstan	secondary	rbcL	48.1012954	66.7780818	0.567476274031587
+Agropyron_cristatum	JX848484.1	06-AUG-2013	1369	Canada: Alberta	secondary	rbcL	55.8317208774253	-115.119328273518	0.033967811552657
+Agropyron_cristatum	JX848483.1	06-AUG-2013	1379	Canada: Alberta	secondary	rbcL	55.3612007359746	-113.774026741165	0.0340026871629802
+Agropyron_cristatum	HQ652720.1	14-AUG-2011	743	China	secondary	rbcL	35.4613076219365	105.32389800198	0.0339405849111996
+Agropyron_cristatum	HQ652713.1	14-AUG-2011	743	China	secondary	rbcL	35.5147252181178	104.272888664541	0.0351762794803292
+Agropyron_cristatum	HQ652712.1	14-AUG-2011	743	China	secondary	rbcL	35.3212179493061	104.303764655469	0.0339405849111996

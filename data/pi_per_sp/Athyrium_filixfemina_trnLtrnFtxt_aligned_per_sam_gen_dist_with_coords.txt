@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Athyrium_filix-femina	MG183532.1	13-DEC-2017	770	USA	secondary	trnL-trnF	39.7837304	-100.445882	0.0148604794174414
+Athyrium_filix-femina	MG183531.1	13-DEC-2017	770	United Kingdom	secondary	trnL-trnF	54.7023545	-3.2765753	0.00905315968607108
+Athyrium_filix-femina	MG183530.1	13-DEC-2017	770	Czech Republic	secondary	trnL-trnF	49.7439047	15.3381061	0.00995488337260489
+Athyrium_filix-femina	FJ821333.1	31-MAR-2012	762	Canada	secondary	trnL-trnF	61.0666922	-107.991707	0.0182841068917018

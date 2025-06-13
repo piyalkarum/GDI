@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_victorialis	OR670251.1	06-NOV-2023	419	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.52744630071599
+Allium_victorialis	LN812887.1	13-APR-2017	672	Slovenia:Kobla, Ljubljana	secondary	rbcL	46.2338617	13.9650643	0.131861575178998
+Allium_victorialis	LN812886.1	13-APR-2017	672	France	secondary	rbcL	46.603354	1.8883335	0.131861575178998
+Allium_victorialis	LN812885.1	13-APR-2017	672	Germany	secondary	rbcL	34.895926	-83.4665496	0.131861575178998
+Allium_victorialis	LN812884.1	13-APR-2017	672	Poland	secondary	rbcL	52.215933	19.134422	0.131861575178998

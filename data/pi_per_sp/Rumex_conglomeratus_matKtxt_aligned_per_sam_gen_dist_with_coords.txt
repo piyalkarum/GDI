@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_conglomeratus	KJ204531.1	29-JAN-2015	827	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.00123609394313968
+Rumex_conglomeratus	HM851083.1	23-JUL-2011	810	Portugal	secondary	matK	39.6621648	-8.1353519	0.00382935749654816
+Rumex_conglomeratus	JN895741.1	07-MAR-2012	817	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00123456790123457
+Rumex_conglomeratus	JN894305.1	07-MAR-2012	769	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.00135869565217391

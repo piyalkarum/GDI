@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_montanum	JN895960.1	07-MAR-2012	793	United Kingdom: Glamorgan (41)	primary	matK	51.52	-3.22	0
+Epilobium_montanum	MK925723.1	14-JAN-2020	856	United Kingdom	secondary	matK	54.7023545	-3.2765753	0
+Epilobium_montanum	JN895012.1	07-MAR-2012	796	United Kingdom: Breconshire (42)	secondary	matK	52.814806192228	-0.952312647069133	0
+Epilobium_montanum	JN895009.1	07-MAR-2012	799	United Kingdom: Breconshire (42)	secondary	matK	52.5292574880061	-1.25389334542844	0

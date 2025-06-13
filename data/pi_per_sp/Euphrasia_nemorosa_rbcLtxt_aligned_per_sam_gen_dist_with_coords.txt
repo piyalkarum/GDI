@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphrasia_nemorosa	MG222431.1	26-DEC-2017	552	Canada: Nova Scotia, Lunenburg County, Blue Rocks	primary	rbcL	44.364	-64.218	0
+Euphrasia_nemorosa	MG221667.1	26-DEC-2017	552	Canada: British Columbia, Skagit Valley, Chittenden Meadows	primary	rbcL	49.133	-121.35	0
+Euphrasia_nemorosa	JN891561.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.62	-2.74	0
+Euphrasia_nemorosa	JN892210.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Euphrasia_nemorosa	JN891993.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0

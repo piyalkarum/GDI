@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_arundinacea	KX873249.1	16-OCT-2017	673	Canada: British Columbia, Cultivated, Vancouver, University of British Columbia Botanical Garden, west side of campus	primary	matK	49.255	-123.2514	0.0011166474879621
+Calamagrostis_arundinacea	KX873248.1	16-OCT-2017	870	China: Bejing, Xiangshan (Fragrant Hills), W of Beijing ca. 20 km. Chinese Academy of Sciences Institute of Botany, parks at the base of the hills, and slopes above them	primary	matK	39.9167	115.0833	0.00396588922410526
+Calamagrostis_arundinacea	KX873247.1	16-OCT-2017	667	Sweden: Stockholm Co., NE of Stockholm, Norrtaelje kommun, 25 km NW of Rimbo, N of lake Skedviken, W of Raanaes, W of Mjoelsta	primary	matK	59.8139	18.2514	0.00150412549733252
+Calamagrostis_arundinacea	KX873246.1	16-OCT-2017	679	Czech Republic: Zd'arske vrchy, about 6 km N of Zdar nad Sazavou, W of Svetnov	primary	matK	49.6156	15.9356	0.00148201884159629
+Calamagrostis_arundinacea	KX873245.1	16-OCT-2017	677	Poland: Slaskie Voivodeship, Beskid Slaski, Bielsko Biala commun, S of Bielsko-Biala, Klimczok Mt. Range	primary	matK	49.7469	18.9936	0.00148528195987562
+Calamagrostis_arundinacea	KX873244.1	16-OCT-2017	652	Poland: Malopolskie Voivodeship, Zawoja kommun, Zawoja village, Zawoja-Markowa, Babia Gora Mt.	primary	matK	49.5892	19.5247	0.00115030674846626
+Calamagrostis_arundinacea	LR606846.1	25-JAN-2021	2024	Germany	secondary	matK	34.895926	-83.4665496	0.00228926382971887
+Calamagrostis_arundinacea	FR865068.1	09-JUN-2011	460	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00137362637362637
+Calamagrostis_arundinacea	HQ600054.1	02-AUG-2011	1333	South Korea	secondary	matK	36.638392	127.6961188	0.00121199370234174

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_burnatii	HG516075.2	04-APR-2014	449	France:Alpes-Maritimes	primary	ETS	43.5593007039544	7.25454761163699	0.0022271714922049
+Leucanthemum_burnatii	HG516074.2	04-APR-2014	449	France:Alpes-Maritimes	primary	ETS	44.1130682072903	7.600733306182	0.0022271714922049
+Leucanthemum_burnatii	HG516073.2	04-APR-2014	449	France:Alpes-Maritimes	primary	ETS	44.400465810607	7.74267973955134	0.00371195248700817
+Leucanthemum_burnatii	HG516072.2	04-APR-2014	449	France:Alpes-Maritimes	primary	ETS	43.199991701276	6.43706555812552	0.00519673348181143

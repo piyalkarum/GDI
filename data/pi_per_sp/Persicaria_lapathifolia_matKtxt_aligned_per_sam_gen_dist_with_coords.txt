@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Persicaria_lapathifolia	MG221005.1	21-JAN-2018	761	Canada: Ontario, Wellington County, City of Guelph, South-East of Summerfield Road along Victoria Road South	primary	matK	43.52	-80.179	0.000849368117832059
+Persicaria_lapathifolia	MG221002.1	21-JAN-2018	762	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Bridle Trail	primary	matK	43.295	-79.875	0.000850993777522878
+Persicaria_lapathifolia	MG220628.1	21-JAN-2018	765	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	matK	42.454	-81.884	0.00084822296711591
+Persicaria_lapathifolia	KP210404.1	28-NOV-2015	707	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	matK	45.9148084927104	-73.433049583154	0.000877751213377996
+Persicaria_lapathifolia	KJ593041.1	17-MAR-2015	731	USA: Wisconsin, Dunbar	primary	matK	45.679	-88.224	0.000859295772306362
+Persicaria_lapathifolia	KJ840960.1	23-SEP-2014	661	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, west of Interpretive Centre	primary	matK	45.538	-73.1576	0.0108363443047876
+Persicaria_lapathifolia	KJ840959.1	23-SEP-2014	773	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	matK	45.6889820530212	-73.1929402216213	0.00365968097237937
+Persicaria_lapathifolia	JN895789.1	07-MAR-2012	763	United Kingdom: Monmouthshire	primary	matK	51.56	-3.02	0.00107586034498173
+Persicaria_lapathifolia	MH757119.1	28-OCT-2018	815	India: West Bengal, Jalpaiguri	secondary	matK	26.5241586	88.7197513	0.00149604459184712
+Persicaria_lapathifolia	KJ593042.1	17-MAR-2015	770	USA: Wisconsin, Oconto	secondary	matK	44.9988053	-88.2480072	0.000961996913881498
+Persicaria_lapathifolia	HM851076.1	23-JUL-2011	172	Portugal	secondary	matK	39.6621648	-8.1353519	0.0036231884057971
+Persicaria_lapathifolia	JN894818.1	07-MAR-2012	757	United Kingdom: Cardiganshire	secondary	matK	51.4725344287914	-4.52232264691397	0.00107939395904077
+Persicaria_lapathifolia	JN894669.1	07-MAR-2012	734	United Kingdom: Cardiganshire	secondary	matK	52.6273250045606	-4.91846279640094	0.000862228904986598

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lepidium_chalepense	OR738203.1	13-NOV-2023	700	Kazakhstan: Mangistau region	primary	matK	43.47008	52.03014	0.253317258370519
+Lepidium_chalepense	OR738179.1	13-NOV-2023	759	Kazakhstan: Atyrau region	primary	matK	46.31201	55.29419	0.085444610034774
+Lepidium_chalepense	KX677503.1	09-AUG-2017	805	Canada: British Columbia, Okanagan-Similkameen Regional District, north of Osoyoos, Haynes Ranch Protected Area	primary	matK	49.089	-119.536	0.0839363241678727
+Lepidium_chalepense	MT917615.1	03-MAR-2023	777	China	secondary	matK	35.000074	104.999927	0.0839363241678727

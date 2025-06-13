@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_arvensis	OR738165.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.25278	83.335	0.00184776197204351
+Viola_arvensis	HQ590331.1	09-NOV-2011	598	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, N side of drive way to Koffler' residence, 20 m S of cultivated garden beds	primary	rbcL	44.029	-79.531	0.0003690036900369
+Viola_arvensis	JN891894.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.58	-3.12	0.0003690036900369
+Viola_arvensis	KJ204426.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000371747211895911
+Viola_arvensis	JN893568.1	07-MAR-2012	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.0003690036900369
+Viola_arvensis	JN893567.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0003690036900369

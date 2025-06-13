@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_crispus	LC219332.1	16-MAR-2017	831	China:Zhejiang, East Tiaoxi River	primary	matK	30.3855	119.9648	0.000945013157080171
+Potamogeton_crispus	LC219326.1	16-MAR-2017	747	China:Zhejiang, East Tiaoxi River	primary	matK	30.377	119.9517	9.87964056145874e-05
+Potamogeton_crispus	LC219317.1	16-MAR-2017	801	China:Zhejiang, East Tiaoxi River	primary	matK	30.3736	119.937	0.000141155897694404
+Potamogeton_crispus	LC219288.1	16-MAR-2017	840	China:Zhejiang, East Tiaoxi River	primary	matK	30.3231	119.9455	0.000139187392337028
+Potamogeton_crispus	LC219272.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.2821	119.9447	0.00014331589268598
+Potamogeton_crispus	LC219265.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.2829	119.9448	9.7581654648926e-05
+Potamogeton_crispus	LC219263.1	16-MAR-2017	783	China:Zhejiang, East Tiaoxi River	primary	matK	30.4086	119.9817	0.000142145347077714
+Potamogeton_crispus	LC219262.1	16-MAR-2017	729	China:Zhejiang, East Tiaoxi River	primary	matK	30.4106	119.9896	0.000148832048409557
+Potamogeton_crispus	LC219242.1	16-MAR-2017	780	China:Zhejiang, East Tiaoxi River	primary	matK	30.353543312143	119.269847505817	0.00014331589268598
+Potamogeton_crispus	LC219241.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	29.7751796180108	120.415516081994	0.00014331589268598
+Potamogeton_crispus	LC219236.1	16-MAR-2017	771	China:Zhejiang, East Tiaoxi River	primary	matK	30.4311	120.0504	0.00014331589268598
+Potamogeton_crispus	LC219231.1	16-MAR-2017	765	China:Zhejiang, East Tiaoxi River	primary	matK	30.4311	120.0503	0.00014407598843287
+Potamogeton_crispus	LC219220.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.4828	120.0596	0.000142922327338374
+Potamogeton_crispus	LC219217.1	16-MAR-2017	747	China:Zhejiang, East Tiaoxi River	primary	matK	30.5002	120.0634	0.000147651547452171
+Potamogeton_crispus	LC219215.1	16-MAR-2017	771	China:Zhejiang, East Tiaoxi River	primary	matK	30.524	120.0656	0.00014331589268598
+Potamogeton_crispus	LC219200.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.5609	120.0626	0.00014331589268598
+Potamogeton_crispus	LC219193.1	16-MAR-2017	807	China:Zhejiang, East Tiaoxi River	primary	matK	30.596	120.0595	0.000142531943294272
+Potamogeton_crispus	LC219186.1	16-MAR-2017	771	China:Zhejiang, East Tiaoxi River	primary	matK	30.702	120.0655	0.00143170960512348
+Potamogeton_crispus	LC219177.1	16-MAR-2017	777	China:Zhejiang, East Tiaoxi River	primary	matK	30.8268	120.1176	0.000142922327338374
+Potamogeton_crispus	LC219139.1	16-MAR-2017	837	China:Zhejiang, East Tiaoxi River	primary	matK	30.9351	120.1262	0.000139500018914033
+Potamogeton_crispus	JN894781.1	07-MAR-2012	844	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000138872034405776
+Potamogeton_crispus	JF955609.1	13-DEC-2011	735	China: Guizhou	secondary	matK	27.8211355480589	106.971825526248	9.7581654648926e-05
+Potamogeton_crispus	JF955608.1	13-DEC-2011	735	China: Shanxi	secondary	matK	37	112	9.7581654648926e-05
+Potamogeton_crispus	JF955607.1	13-DEC-2011	734	China: Guizhou	secondary	matK	27.3651996087102	106.695075434945	9.77151497782093e-05
+Potamogeton_crispus	JF955606.1	13-DEC-2011	735	China: Zhejiang	secondary	matK	29.0000001	119.9999999	9.7581654648926e-05
+Potamogeton_crispus	JF955605.1	13-DEC-2011	735	China: Anhui	secondary	matK	32	117	9.7581654648926e-05
+Potamogeton_crispus	JF955604.1	13-DEC-2011	735	China: Guizhou	secondary	matK	27.4942905266345	106.43343683971	0.00141770978208947
+Potamogeton_crispus	JF955603.1	13-DEC-2011	735	China: Hebei	secondary	matK	39.0000001	116	9.7581654648926e-05
+Potamogeton_crispus	JF955602.1	13-DEC-2011	735	China: Jiangsu	secondary	matK	33.0000001	119.9999999	9.7581654648926e-05

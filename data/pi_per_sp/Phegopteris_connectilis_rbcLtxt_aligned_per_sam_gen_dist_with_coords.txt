@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phegopteris_connectilis	MG215360.1	24-JAN-2018	552	Canada: Ontario, Algoma District, Michipicoten Twp., Michipicoten Bay	primary	rbcL	47.93	-84.843	0.00231248778308341
+Phegopteris_connectilis	MG215033.1	24-JAN-2018	552	Canada: Ontario, Thunder Bay District, Neebing Twp., Thunder Bay	primary	rbcL	48.297	-89.239	0.00231248778308341
+Phegopteris_connectilis	MF786601.1	06-DEC-2017	553	China: Xizang (Tibet), Pailong Xiang, Pailong. Near old bridge	primary	rbcL	30.0092	94.9669	0.0171328279342777
+Phegopteris_connectilis	KJ593594.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.549	-88.675	0.00230975783401334
+Phegopteris_connectilis	KJ593593.1	17-MAR-2015	528	USA: Wisconsin, Laona	primary	rbcL	45.558	-88.794	0.00242173761910604
+Phegopteris_connectilis	KJ593592.1	17-MAR-2015	553	USA: Wisconsin, Townsend	primary	rbcL	45.375	-88.628	0.00230975783401334
+Phegopteris_connectilis	KJ593591.1	17-MAR-2015	542	USA: Wisconsin, Laona	primary	rbcL	45.556	-88.795	0.00235772534890703
+Phegopteris_connectilis	KF977480.1	05-APR-2014	580	USA: Dairymen's Club near Boulder Junction, Wisconsin	primary	rbcL	46.15	-89.68	0.00290671154820066
+Phegopteris_connectilis	MG215258.1	24-JAN-2018	552	Canada: Ontario, Kenora District, Dryden	secondary	rbcL	49.785698	-92.835846	0.00231248778308341
+Phegopteris_connectilis	AB575038.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.0021413095224139
+Phegopteris_connectilis	JF832080.1	24-JAN-2012	1309	Sweden: Uppsala	secondary	rbcL	59.8586126	17.6387436	0.00244332955691759
+Phegopteris_connectilis	JN572359.1	19-SEP-2012	1268	China	secondary	rbcL	35.000074	104.999927	0.00983117925991755
+Phegopteris_connectilis	KF186501.1	23-SEP-2013	1309	Canada	secondary	rbcL	43.5460516	-80.2493276	0.00244332955691759

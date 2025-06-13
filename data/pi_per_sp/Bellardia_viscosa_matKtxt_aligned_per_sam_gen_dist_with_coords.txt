@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bellardia_viscosa	KX959120.1	02-NOV-2017	1037	Spain: Caceres, between Guijo de Granadilla and Mohedas de Granadilla	primary	matK	39.9476457223843	-6.34910628233027	0.000815394651011089
+Bellardia_viscosa	KX959119.1	02-NOV-2017	1037	Spain: Caceres, between Guijo de Granadilla and Mohedas de Granadilla	primary	matK	40.0881469906008	-5.13866952554762	0.000815394651011089
+Bellardia_viscosa	JN896015.1	07-MAR-2012	819	United Kingdom: Cardiganshire	primary	matK	52.42	-3.93	0.00109152687271554
+Bellardia_viscosa	JF900578.1	05-MAR-2013	1036	Greece	secondary	matK	43.2097838	-77.6930602	0.00500301059950613
+Bellardia_viscosa	HM850810.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00109152687271554
+Bellardia_viscosa	JN895839.1	07-MAR-2012	792	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.000813008130081301
+Bellardia_viscosa	JN894371.1	07-MAR-2012	814	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000786163522012579

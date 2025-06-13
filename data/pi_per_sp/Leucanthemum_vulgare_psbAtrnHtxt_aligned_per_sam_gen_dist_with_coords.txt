@@ -1,0 +1,33 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_vulgare	OP451261.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (Gorce Mts)	primary	psbA-trnH	49.5818	20.08443	0.00276059436904713
+Leucanthemum_vulgare	OP451260.1	16-OCT-2022	415	Poland: Sudety, Karkonosze	primary	psbA-trnH	50.83595	15.55608	0.00276059436904713
+Leucanthemum_vulgare	KY778095.1	31-MAY-2017	364		primary	psbA-trnH	43.79	7	0.00146477825486159
+Leucanthemum_vulgare	KY778094.1	31-MAY-2017	364		primary	psbA-trnH	43.67	6.5	0.00146477825486159
+Leucanthemum_vulgare	KY778093.1	31-MAY-2017	364		primary	psbA-trnH	48.06	-4.66	0.00146477825486159
+Leucanthemum_vulgare	KY778092.1	31-MAY-2017	364		primary	psbA-trnH	43.89	3.25	0.00146477825486159
+Leucanthemum_vulgare	LN869005.1	17-SEP-2015	455	Spain	primary	psbA-trnH	40.1	-1.52	0.00236296639933645
+Leucanthemum_vulgare	LN869004.1	17-SEP-2015	459	France	primary	psbA-trnH	42.5	2.96	0.00187117254964542
+Leucanthemum_vulgare	LN869002.1	17-SEP-2015	460	Bosnia and Herzegovina	primary	psbA-trnH	43.24	18.34	0.00548019096608131
+Leucanthemum_vulgare	LN869001.1	17-SEP-2015	454	Germany	primary	psbA-trnH	49.03	11.88	0.00549209789106096
+Leucanthemum_vulgare	LN869000.1	17-SEP-2015	456	France	primary	psbA-trnH	43.13	2.61	0.0031293750797152
+Leucanthemum_vulgare	LN868997.1	17-SEP-2015	413	Spain	primary	psbA-trnH	42.5	-3.7	0.00278187604633494
+Leucanthemum_vulgare	LN868996.1	17-SEP-2015	462	Spain	primary	psbA-trnH	42.56	-3.8	0.00235212174212882
+Leucanthemum_vulgare	OQ310444.1	16-MAY-2023	449	Mexico: Puebla	secondary	psbA-trnH	19.1705686	-98.4123106	0.00546951403407935
+Leucanthemum_vulgare	HE680962.1	22-APR-2013	339	Spain:Cataluna	secondary	psbA-trnH	41.8523094	1.5745043	0.000591503123472327
+Leucanthemum_vulgare	HE680961.1	22-APR-2013	339	Spain:Aragon	secondary	psbA-trnH	41.3787291	-0.7639373	0.000591503123472327
+Leucanthemum_vulgare	HE680960.1	22-APR-2013	338	Spain:Castilia y Leon	secondary	psbA-trnH	41.8689771297855	-5.30908445881139	0.00348459572075764
+Leucanthemum_vulgare	HE680959.1	22-APR-2013	329	Spain:Cantabria	secondary	psbA-trnH	43.1595664	-4.0878382	0.00357620098310736
+Leucanthemum_vulgare	HE680919.1	22-APR-2013	339	Germany:Bayern	secondary	psbA-trnH	49.0512639244533	10.5072917060277	0.000591503123472327
+Leucanthemum_vulgare	HE680907.1	22-APR-2013	339	Germany:Bayern	secondary	psbA-trnH	49.2170005911523	10.4659309350077	0.000591503123472327
+Leucanthemum_vulgare	HE680906.1	22-APR-2013	339	Germany:Bayern	secondary	psbA-trnH	48.9067536467694	11.3904144251854	0.000591503123472327
+Leucanthemum_vulgare	HE680904.1	22-APR-2013	337	Germany:Bayern	secondary	psbA-trnH	49.0070590998525	10.6503528814875	0.0031073524979028
+Leucanthemum_vulgare	HE680903.1	22-APR-2013	339	Germany:Bayern	secondary	psbA-trnH	49.0382702487553	12.4135614233209	0.000591503123472327
+Leucanthemum_vulgare	HE680893.1	22-APR-2013	339	France:Midi-Pyrenees	secondary	psbA-trnH	43.8099068	1.4344926	0.000591503123472327
+Leucanthemum_vulgare	HE680892.1	22-APR-2013	338	Spain:Castilia y Leon	secondary	psbA-trnH	40.9056016425346	-4.80413338313701	0.000593438039210248
+Leucanthemum_vulgare	HE680891.1	22-APR-2013	339	Italy:Toscana	secondary	psbA-trnH	43.4586541	11.1389204	0.000591503123472327
+Leucanthemum_vulgare	HE680890.1	22-APR-2013	343	Germany:Bayern	secondary	psbA-trnH	48.3169885929062	10.9977238956741	0.000591503123472327
+Leucanthemum_vulgare	HE680889.1	22-APR-2013	339	Germany:Bayern	secondary	psbA-trnH	49.6249618428124	11.6364146510871	0.000591503123472327
+Leucanthemum_vulgare	HE680888.1	22-APR-2013	339	Austria:Salzburg	secondary	psbA-trnH	47.7981346	13.0464806	0.000591503123472327
+Leucanthemum_vulgare	HE680887.1	22-APR-2013	339	Germany:Bayern	secondary	psbA-trnH	48.5796407294812	10.2206969024973	0.000591503123472327
+Leucanthemum_vulgare	HE680886.1	22-APR-2013	339	Austria:Tirol	secondary	psbA-trnH	47.223193	11.5261028	0.000591503123472327
+Leucanthemum_vulgare	FR689914.1	31-JAN-2011	313	France	secondary	psbA-trnH	46.603354	1.8883335	0.00483756796276949

@@ -1,0 +1,33 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ruppia_maritima	MG225612.1	23-JAN-2018	552	Canada: Sault-au-Mouton, cte Saguenay, Quebec	primary	rbcL	48.4333	-71.0833	NA
+Ruppia_maritima	JN892148.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.65	-4.26	NA
+Ruppia_maritima	ON756591.1	26-AUG-2023	1558	Australia	secondary	rbcL	-24.7761086	134.755	0.00389205009664332
+Ruppia_maritima	MZ466377.1	16-MAY-2022	654	Thailand	secondary	rbcL	13.0387622	101.7001761	NA
+Ruppia_maritima	MZ040149.1	29-AUG-2021	405	USA: Kaloko-Honokohau, Kailua-Kona, Hawai'i, -0.5-1.0 meters	secondary	rbcL	19.7905799370482	-155.520129027918	NA
+Ruppia_maritima	MZ040148.1	29-AUG-2021	405	USA: Kaloko-Honokohau, Kailua-Kona, Hawai'i, -0.5-1.0 meters	secondary	rbcL	19.1613412022877	-156.122993865193	NA
+Ruppia_maritima	MZ040147.1	29-AUG-2021	405	USA: Kaloko-Honokohau, Kailua-Kona, Hawai'i, -0.5-1.0 meters	secondary	rbcL	19.3887361431835	-156.154531246904	NA
+Ruppia_maritima	MZ040146.1	29-AUG-2021	405	USA: Kaloko-Honokohau, Kailua-Kona, Hawai'i, -0.5-1.0 meters	secondary	rbcL	18.9523351485095	-155.718770908185	NA
+Ruppia_maritima	MZ040145.1	29-AUG-2021	405	USA: Kaloko-Honokohau, Kailua-Kona, Hawai'i, -0.5-1.0 meters	secondary	rbcL	19.6692425792893	-156.00373531956	NA
+Ruppia_maritima	LC054271.1	10-NOV-2015	542	South Africa: Western Cape	secondary	rbcL	-33.749080181025	19.9225971577612	NA
+Ruppia_maritima	LC054270.1	10-NOV-2015	542	South Africa: Western Cape	secondary	rbcL	-33.9638818292891	21.3718664619538	NA
+Ruppia_maritima	JQ995766.1	09-JAN-2014	619	United Kingdom: Shetland, Kalliness	secondary	rbcL	60.2312872	-1.3028464	NA
+Ruppia_maritima	JQ995765.1	09-JAN-2014	619	United Kingdom: Shetland, Loch of Strom	secondary	rbcL	60.2204962	-1.2764843	NA
+Ruppia_maritima	AB728693.1	24-APR-2013	660	Spain	secondary	rbcL	38.4764156040392	-4.48247975689743	NA
+Ruppia_maritima	AB728692.1	24-APR-2013	660	Italy	secondary	rbcL	42.1381286207764	11.9695856341075	NA
+Ruppia_maritima	AB728691.1	24-APR-2013	660	Italy	secondary	rbcL	42.3566208884812	12.6581085265948	NA
+Ruppia_maritima	AB728690.1	24-APR-2013	660	Malta	secondary	rbcL	35.8885993	14.4476911	NA
+Ruppia_maritima	AB728689.1	24-APR-2013	660	Spain	secondary	rbcL	39.6672484722822	-4.75340976021089	NA
+Ruppia_maritima	HM850324.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00415335843072604
+Ruppia_maritima	JN113279.1	04-DEC-2011	1373	South Africa	secondary	rbcL	-28.8166236	24.991639	0.00134677707654406
+Ruppia_maritima	JN113278.1	04-DEC-2011	1373	France	secondary	rbcL	46.603354	1.8883335	0.00111516258279258
+Ruppia_maritima	JN890549.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	NA
+Ruppia_maritima	MZ040144.1	29-AUG-2021	405	USA	secondary	rbcL	19.5495294940086	-155.452603560484	NA
+Ruppia_maritima	MZ040143.1	29-AUG-2021	405	USA	secondary	rbcL	19.4760232362261	-156.630754592212	NA
+Ruppia_maritima	MZ040142.1	29-AUG-2021	405	USA	secondary	rbcL	19.9505828782275	-156.054918537458	NA
+Ruppia_maritima	MZ040141.1	29-AUG-2021	405	USA	secondary	rbcL	19.8279158464078	-155.840982665748	NA
+Ruppia_maritima	MZ040140.1	29-AUG-2021	405	USA	secondary	rbcL	20.0201923528858	-155.248961124336	NA
+Ruppia_maritima	MZ040139.1	29-AUG-2021	405	USA	secondary	rbcL	19.5524168270913	-155.081308454099	NA
+Ruppia_maritima	MZ040138.1	29-AUG-2021	405	USA	secondary	rbcL	20.0436797273913	-155.920849991645	NA
+Ruppia_maritima	MZ040137.1	29-AUG-2021	405	USA	secondary	rbcL	19.8379464743464	-155.938054333377	NA
+Ruppia_maritima	MZ040136.1	29-AUG-2021	405	USA	secondary	rbcL	19.3661190704483	-154.505376087591	NA
+Ruppia_maritima	MZ040135.1	29-AUG-2021	405	USA	secondary	rbcL	19.4801270126998	-155.373990048596	NA

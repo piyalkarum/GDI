@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Meconopsis_cambrica	JN892936.1	07-MAR-2012	542	United Kingdom: Radnorshire	primary	rbcL	52.32	-3.03	0
+Meconopsis_cambrica	JX087689.1	04-JUL-2013	1395	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Meconopsis_cambrica	JN890901.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Meconopsis_cambrica	JN890890.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Umbilicus_rupestris	JN895756.1	07-MAR-2012	792	United Kingdom: Sussex, West (13)	primary	matK	51.01	-0.86	0.00709743126804738
+Umbilicus_rupestris	MK725856.1	25-FEB-2020	727	Portugal: Azores, Sao Miguel	secondary	matK	37.1260184347099	-24.9722477822538	0.00663697486637427
+Umbilicus_rupestris	MK725855.1	25-FEB-2020	727	Portugal: Azores, Sao Miguel	secondary	matK	37.6011465047602	-26.4591228779787	0.00663697486637427
+Umbilicus_rupestris	MK725854.1	25-FEB-2020	727	Portugal: Sintra	secondary	matK	38.79846	-9.3881	0.005486526835814
+Umbilicus_rupestris	MK725853.1	25-FEB-2020	727	Portugal: Minho	secondary	matK	41.8803257	-8.5232553	0.005486526835814
+Umbilicus_rupestris	HM850701.1	23-JUL-2011	716	Portugal	secondary	matK	39.6621648	-8.1353519	0.00643812798640451
+Umbilicus_rupestris	JN895466.1	07-MAR-2012	788	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.00696559604718848

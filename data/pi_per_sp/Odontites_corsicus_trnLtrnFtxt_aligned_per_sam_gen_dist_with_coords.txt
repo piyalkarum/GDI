@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_corsicus	KU234871.1	18-JAN-2016	420	France	secondary	trnL-trnF	46.9863241919549	1.92069747835746	0.00480045150010134
+Odontites_corsicus	KU234861.1	18-JAN-2016	427	France	secondary	trnL-trnF	46.4992763639066	0.916621286568413	0.00159108989657916
+Odontites_corsicus	KU234860.1	18-JAN-2016	428	France	secondary	trnL-trnF	47.0700735427802	2.77870698218065	0.00158730158730159
+Odontites_corsicus	KU234859.1	18-JAN-2016	411	France	secondary	trnL-trnF	46.1105123349495	2.76867332176931	0.0016220600162206

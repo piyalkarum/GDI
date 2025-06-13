@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_lithopolitanicum	HG516088.2	04-APR-2014	449	Slovenia:Kaminske Alpe	primary	ETS	46.2702568221332	15.3221627542914	0.00148478099480327
+Leucanthemum_lithopolitanicum	HG516087.2	04-APR-2014	449	Slovenia:Kaminske Alpe	primary	ETS	46.5262344386684	14.9079811263311	0.00148478099480327
+Leucanthemum_lithopolitanicum	HG516086.2	04-APR-2014	449	Slovenia:Kaminske Alpe	primary	ETS	46.4416643038326	13.7976138043805	0.00296956198960653
+Leucanthemum_lithopolitanicum	HG516085.2	04-APR-2014	449	Slovenia:Kaminske Alpe	primary	ETS	46.6046971405613	14.5954939966381	0.00296956198960653

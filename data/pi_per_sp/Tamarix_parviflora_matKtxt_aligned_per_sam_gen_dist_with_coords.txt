@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_parviflora	MZ563172.1	24-APR-2022	695	Greece: Crete, Heraklion, near Aposelemis	primary	matK	35.321	25.327	0
+Tamarix_parviflora	MZ563171.1	24-APR-2022	695	Greece: Crete, Heraklion, near Dermatos	primary	matK	34.979	25.324	0
+Tamarix_parviflora	MZ563170.1	24-APR-2022	695	Spain: Comunidad Valenciana, Alicante, Biar, Santuario Mare de Deu de Gracia	primary	matK	38.629	-0.76	0
+Tamarix_parviflora	MT114372.1	30-MAR-2020	642	Italy	secondary	matK	42.6384261	12.674297	0

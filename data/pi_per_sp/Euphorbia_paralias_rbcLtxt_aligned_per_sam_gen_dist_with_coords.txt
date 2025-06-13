@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_paralias	JN891106.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.74	0
+Euphorbia_paralias	MT645205.1	25-JUL-2020	606	Egypt	secondary	rbcL	25.9934371738064	28.9300769108772	0
+Euphorbia_paralias	KX808560.1	26-AUG-2017	511	Egypt	secondary	rbcL	26.9355176970466	28.8498609597842	0
+Euphorbia_paralias	JN891117.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.1699926966598	-2.74603779965314	0
+Euphorbia_paralias	JN891116.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.8080676214005	-3.45412558981359	0

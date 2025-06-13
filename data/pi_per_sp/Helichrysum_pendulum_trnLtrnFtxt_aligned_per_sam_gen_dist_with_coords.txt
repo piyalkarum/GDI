@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helichrysum_pendulum	KU670409.1	17-AUG-2016	854	Italy: Sicily, Valle dell'Irminio	secondary	trnL-trnF	36.4653776757938	13.765693341352	0.00101080688362259
+Helichrysum_pendulum	KU670408.1	17-AUG-2016	854	Italy: Sicily, Valle dell'Irminio	secondary	trnL-trnF	37.2817277872158	15.0066557627383	0.00101080688362259
+Helichrysum_pendulum	KU670407.1	17-AUG-2016	854	Italy: Sicily, Valle dell'Irminio	secondary	trnL-trnF	36.4903388604727	13.8360598705132	0.00101080688362259
+Helichrysum_pendulum	KU670406.1	17-AUG-2016	854	Italy: Sicily, Valle dell'Irminio	secondary	trnL-trnF	37.2103923724096	14.2806013223443	0.00101080688362259
+Helichrysum_pendulum	KU670405.1	17-AUG-2016	854	Italy: Sicily, Valle dell'Irminio	secondary	trnL-trnF	36.6684905500385	13.4882686902862	0.00101080688362259
+Helichrysum_pendulum	KU670404.1	17-AUG-2016	854	Italy: Sicily, Quacella	secondary	trnL-trnF	38.0970420374371	15.0763377830406	0.00101080688362259
+Helichrysum_pendulum	KU670403.1	17-AUG-2016	851	Italy: Sicily, Quacella	secondary	trnL-trnF	37.1085125530059	13.9460644429503	0.0021978021978022
+Helichrysum_pendulum	KU670402.1	17-AUG-2016	851	Italy: Sicily, Quacella	secondary	trnL-trnF	37.0075796780545	14.0779421322853	0.0021978021978022
+Helichrysum_pendulum	KU670401.1	17-AUG-2016	851	Italy: Sicily, Quacella	secondary	trnL-trnF	37.8527642036587	14.8925900777991	0.0021978021978022
+Helichrysum_pendulum	KU670400.1	17-AUG-2016	851	Italy: Sicily, Quacella	secondary	trnL-trnF	38.1883819487446	13.4277486890106	0.0021978021978022
+Helichrysum_pendulum	KU670399.1	17-AUG-2016	854	Italy: Sicily, Isnello	secondary	trnL-trnF	38.6005391595113	13.6457151632424	0.00101080688362259
+Helichrysum_pendulum	KU670398.1	17-AUG-2016	855	Italy: Sicily, Isnello	secondary	trnL-trnF	38.0085536526316	13.5962896939629	0.00159985033881629
+Helichrysum_pendulum	KU670397.1	17-AUG-2016	855	Italy: Sicily, Isnello	secondary	trnL-trnF	38.1383211311707	13.8169497082707	0.00159985033881629
+Helichrysum_pendulum	KU670396.1	17-AUG-2016	855	Italy: Sicily, Isnello	secondary	trnL-trnF	37.3865556543057	14.3176359437688	0.00159985033881629
+Helichrysum_pendulum	KU670395.1	17-AUG-2016	855	Italy: Sicily, Isnello	secondary	trnL-trnF	37.7761266916332	15.0174910661059	0.00159985033881629

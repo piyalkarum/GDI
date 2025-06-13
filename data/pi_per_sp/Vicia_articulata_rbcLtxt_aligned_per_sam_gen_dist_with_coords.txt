@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_articulata	KP896712.1	13-OCT-2015	545	Turkey	secondary	rbcL	38.9597594	34.9249653	0
+Vicia_articulata	KP896711.1	13-OCT-2015	545	Russia	secondary	rbcL	64.6863136	97.7453061	0
+Vicia_articulata	KP896710.1	13-OCT-2015	545	Spain	secondary	rbcL	39.3260685	-4.8379791	0
+Vicia_articulata	KP896709.1	13-OCT-2015	545	Belgium	secondary	rbcL	50.6402809	4.6667145	0

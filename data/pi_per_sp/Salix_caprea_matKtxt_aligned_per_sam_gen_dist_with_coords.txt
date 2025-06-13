@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_caprea	LC678817.1	03-MAY-2022	782	Japan: Nagano	primary	matK	35.7567	137.6554	0.000116252034410602
+Salix_caprea	LC680155.1	03-MAY-2022	799	Japan: Hiroshima	primary	matK	35.0644	133.217	0.000114351057747284
+Salix_caprea	LC677703.1	03-MAY-2022	719	Japan: Yamanashi	primary	matK	35.781	138.8249	0.000127681307456588
+Salix_caprea	LC678346.1	03-MAY-2022	795	Japan: Iwate	primary	matK	39.445	140.7106	0.00105980226888688
+Salix_caprea	LC678674.1	03-MAY-2022	794	Japan: Ibaraki	primary	matK	36.9006	140.6003	0.000114495076711701
+Salix_caprea	LC678185.1	03-MAY-2022	799	Japan: Iwate	primary	matK	39.5206	140.9184	0.000114495076711701
+Salix_caprea	JN893911.1	07-MAR-2012	806	United Kingdom: Glamorgan	primary	matK	51.52	-3.25	0.000114495076711701
+Salix_caprea	KJ204533.1	29-JAN-2015	827	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00012169891687964
+Salix_caprea	HE820974.1	25-JUL-2012	835	Russia:Primorye	secondary	matK	43.1102126	131.878969	0
+Salix_caprea	JN895049.1	07-MAR-2012	781	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000116400884646723
+Salix_caprea	JN894890.1	07-MAR-2012	758	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.000119932837610938
+Salix_caprea	FR695023.1	07-OCT-2010	835	Russia:Kamchatka	secondary	matK	57.1914882	160.0383819	0

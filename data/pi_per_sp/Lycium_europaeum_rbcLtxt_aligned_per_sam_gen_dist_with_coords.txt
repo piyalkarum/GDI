@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lycium_europaeum	KU365411.1	10-JAN-2017	579	United Arab Emirates	primary	rbcL	25.2151	55.4477	0.000476190476190476
+Lycium_europaeum	KR737534.1	13-MAY-2016	525	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	-0.0197322335686069	36.8825624494487	0.00142857142857143
+Lycium_europaeum	KR737302.1	13-MAY-2016	522	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.864565910882117	36.2451940578074	0
+Lycium_europaeum	KR737278.1	13-MAY-2016	553	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.936110788091988	36.4419834082718	0.000476190476190476
+Lycium_europaeum	KR736694.1	13-MAY-2016	527	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.418370163520423	37.1828983566339	0.000476190476190476

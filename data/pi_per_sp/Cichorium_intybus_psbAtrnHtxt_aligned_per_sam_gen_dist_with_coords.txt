@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cichorium_intybus	OP641809.1	09-AUG-2023	386	India	secondary	psbA-trnH	22.3511148	78.6677428	0.0287206266318538
+Cichorium_intybus	GU818354.1	17-OCT-2010	452	USA	secondary	psbA-trnH	39.7837304	-100.445882	0.0110484684643052
+Cichorium_intybus	HE966571.1	18-SEP-2012	482	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0130313568717521
+Cichorium_intybus	FJ493262.1	22-DEC-2008	514	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.0145062831254394

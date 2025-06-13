@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_spurium	LC439224.1	02-NOV-2019	552	Japan:Ibaraki, Tsukuba, Tsukuba Botanical Garden	primary	rbcL	36.101	140.1109	0.0373572526847121
+Galium_spurium	MK936601.1	19-JUN-2019	513	China: Outside US, Jiangyong Hunan, Agriculture land	primary	rbcL	24.5329606598755	111.349043892452	0.0277494608649888
+Galium_spurium	MK932711.1	19-JUN-2019	502	China: Outside US, Jiangyong Hunan, Agriculture land	primary	rbcL	24.8219403741366	111.09857113425	0.0266390812726949
+Galium_spurium	MK932707.1	19-JUN-2019	514	China: Outside US, Jiangyong Hunan, Agriculture land	primary	rbcL	25.4209073879328	110.63384124577	0.0269676228588
+Galium_spurium	MG223440.1	26-DEC-2017	552	Canada: Ontario, Thunder bay County, Thunder Bay, railway tracks near waterfront grain elevators, S. of Gore Street East, between Edward Street South and Ford Street	primary	rbcL	48.364	-89.279	0.0373572526847121
+Galium_spurium	MG222097.1	26-DEC-2017	552	Canada: Yukon Territory, Whitehorse, Cowley Creek Subdivision	primary	rbcL	60.591	-134.895	0.0373572526847121
+Galium_spurium	ON951173.1	17-OCT-2022	755	Kenya	secondary	rbcL	1.4419683	38.4313975	0.0415838802150541
+Galium_spurium	MN204938.1	30-NOV-2021	724	China	secondary	rbcL	34.8021338745979	104.856879759643	0.0398718230821651
+Galium_spurium	MN192658.1	30-NOV-2021	723	China	secondary	rbcL	34.7941696594073	105.549926929002	0.0463008513539885
+Galium_spurium	MN726020.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.5672280482599	128.403103274451	0.0362232291124059
+Galium_spurium	MN726019.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.4676743254912	128.354770070512	0.0362232291124059
+Galium_spurium	MN726018.1	24-JUL-2020	737	South Korea	secondary	rbcL	37.1500777977672	127.169610489419	0.0362232291124059
+Galium_spurium	MN726017.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.4336511812623	128.590302439259	0.0362232291124059
+Galium_spurium	MN726016.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.8039987252312	128.632805776207	0.0362232291124059
+Galium_spurium	MN726015.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.2019173657885	128.286649637833	0.0362232291124059
+Galium_spurium	MK027911.1	17-DEC-2018	688	Australia	secondary	rbcL	-24.7761086	134.755	NA
+Galium_spurium	LC413443.1	31-JUL-2018	262	Japan:Aichi, Chita	secondary	rbcL	34.970089	136.860738	NA

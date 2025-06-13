@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_media	OR575189.1	25-OCT-2023	741	Kazakhstan: Qaragandy region	primary	matK	47.36201	74.74058	0.0014079390479189
+Plantago_media	JN894813.1	07-MAR-2012	720	United Kingdom: Somerset, North (6)	primary	matK	51.26	-2.74	0.000246913580246914
+Plantago_media	MT929902.1	03-MAR-2023	775	China	secondary	matK	35.000074	104.999927	0.000229568411386593
+Plantago_media	KJ746165.1	29-JUL-2014	687	Poland	secondary	matK	52.215933	19.134422	0.000242600679281902
+Plantago_media	KJ204521.1	29-JAN-2015	745	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.000224921277552856
+Plantago_media	JN896102.1	07-MAR-2012	789	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000232774674115456
+Plantago_media	JN896094.1	07-MAR-2012	797	United Kingdom: Flintshire	secondary	matK	53.2165096	-3.1402189	0.000231160425335183

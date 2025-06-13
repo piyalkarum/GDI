@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_vulgaris	OL434928.1	14-NOV-2022	772	USA: Georgia	primary	matK	32.1174	-81.138	0.0508732498165493
+Senecio_vulgaris	KP402404.1	06-JAN-2016	734	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, side of security under electric meter	primary	matK	38.889	-76.554	0.0519572048150401
+Senecio_vulgaris	KJ841011.1	23-SEP-2014	678	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	matK	45.542	-73.154	0.0501113480888809
+Senecio_vulgaris	JN895685.1	07-MAR-2012	801	United Kingdom: Carmarthenshire	primary	matK	51.89	-3.99	0.049789477626518
+Senecio_vulgaris	HQ619796.1	26-DEC-2010	843	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.0498888333661733
+Senecio_vulgaris	KT250045.1	09-AUG-2015	820	Germany	secondary	matK	40.4203479	-79.1166983	0.0502370486637065
+Senecio_vulgaris	KJ204540.1	29-JAN-2015	852	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0497913066574682
+Senecio_vulgaris	HM850674.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.0550894892792852
+Senecio_vulgaris	HE970739.1	18-SEP-2012	734	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0511609882294652
+Senecio_vulgaris	JN894177.1	07-MAR-2012	943	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0502370486637065
+Senecio_vulgaris	JN894155.1	07-MAR-2012	801	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.049789477626518
+Senecio_vulgaris	AY554089.1	31-AUG-2004	928	New Zealand	secondary	matK	-44.1016557	171.839119571036	0.5384435312524

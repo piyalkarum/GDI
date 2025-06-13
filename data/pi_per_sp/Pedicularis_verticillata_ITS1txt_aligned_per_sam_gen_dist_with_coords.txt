@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_verticillata	AB754822.1	08-APR-2014	575	China:Qinghai, Jiuzhi Xian	secondary	ITS1	33.4313087	101.4864493	0.0139404553415061
+Pedicularis_verticillata	AB754821.1	08-APR-2014	571	Russia:Kamchatka Peninsula, Mt. Tolbachik	secondary	ITS1	55.8680319	158.802531158524	0.0126970227670753
+Pedicularis_verticillata	AB754819.1	08-APR-2014	575	Japan:Nagano, Mt. Kita	secondary	ITS1	36.3024676	137.6520477	0.00784740729460139
+Pedicularis_verticillata	HG424237.1	09-APR-2014	645	Russia:Altai Mts.	secondary	ITS1	50.7490829	86.1332343	0.00784740729460139
+Pedicularis_verticillata	AB754820.1	08-APR-2014	575	Japan	secondary	ITS1	36.9034506	139.1732087	0.00654001370593162

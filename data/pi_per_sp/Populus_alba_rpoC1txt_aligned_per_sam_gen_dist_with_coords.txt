@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Populus_alba	HQ594085.1	10-NOV-2011	487	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill West, north of racetrack, near northern edge of property	primary	rpoC1	44.037	-79.54	0.0754170861973737
+Populus_alba	MH574309.1	09-DEC-2020	519	China	secondary	rpoC1	35.6935549255293	105.083183342989	0.0804825070171254
+Populus_alba	MH574306.1	09-DEC-2020	519	China	secondary	rpoC1	35.673391688691	104.817061251682	0.0804825070171254
+Populus_alba	MH574305.1	09-DEC-2020	519	China	secondary	rpoC1	34.8133996922915	105.754486787692	0.0804825070171254
+Populus_alba	KX454842.1	14-FEB-2017	848	China	secondary	rpoC1	34.5848685692055	105.821690523965	0.080684500594699
+Populus_alba	KX454632.1	14-FEB-2017	825	China	secondary	rpoC1	34.2018671497632	105.106492695504	0.527898989703625
+Populus_alba	GQ249010.1	19-JUN-2009	487	Austria: Danube	secondary	rpoC1	48.1752932	16.4794182	0.0754170861973737
+Populus_alba	FN689650.1	25-MAR-2010	554	Italy:Umbria	secondary	rpoC1	42.965916	12.490236	0.085871852828205

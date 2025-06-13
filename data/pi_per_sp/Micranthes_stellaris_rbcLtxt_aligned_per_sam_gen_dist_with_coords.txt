@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Micranthes_stellaris	MG245888.1	21-JAN-2018	553	Greenland: Chr. 5 O, Tasiussaq	primary	rbcL	60.1	-43.783	0
+Micranthes_stellaris	JN891317.1	07-MAR-2012	542	United Kingdom: Aberdeenshire, South (92)	primary	rbcL	56.97	-3.5	0
+Micranthes_stellaris	MK925543.1	14-JAN-2020	542	Ireland	secondary	rbcL	52.4493634451643	-8.1308088275088	0
+Micranthes_stellaris	MK925472.1	14-JAN-2020	542	Ireland	secondary	rbcL	52.7787017764113	-8.22493679158835	0
+Micranthes_stellaris	MK924885.1	14-JAN-2020	542	Ireland	secondary	rbcL	52.4956143501398	-7.80337254143936	0
+Micranthes_stellaris	MK924802.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.4627977097364	-2.46972744457886	0
+Micranthes_stellaris	MK924590.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.885712060468	-4.2218457455407	0
+Micranthes_stellaris	MG246591.1	21-JAN-2018	553	Canada: Quebec	secondary	rbcL	52.4760892	-71.8258668	0
+Micranthes_stellaris	JN892318.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	52.9948423094898	-4.97004189970983	0
+Micranthes_stellaris	JN892111.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.1778047448755	-4.64904939905365	0

@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rorippa_palustris	OR557589.1	01-NOV-2023	502	Kazakhstan: Qaragandy region	primary	rbcL	49.71789	75.268	0.00821735801318544
+Rorippa_palustris	MG248544.1	21-JAN-2018	552	Canada: Yukon Territory, Aishihik Lake, north end	primary	rbcL	61.671	-137.477	0.00118607349654467
+Rorippa_palustris	MG247353.1	21-JAN-2018	530	Canada: Northwest Territories, Peel River, Blueberry Hill	primary	rbcL	68.478	-135.621	0.00118607349654467
+Rorippa_palustris	KX678531.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.045	-125.501	0.00118607349654467
+Rorippa_palustris	KJ841521.1	04-NOV-2014	567	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. South edge of Lac Hertel at Botany Bay	primary	rbcL	45.544	-73.146	0.00138777873789755
+Rorippa_palustris	JN965821.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 12 km S Churchill, Goose Creek Marina, Road side	primary	rbcL	58.663	-94.167	0.00118607349654467
+Rorippa_palustris	JN891920.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	primary	rbcL	52.06	-4.59	0.00121965205510873
+Rorippa_palustris	OR670306.1	06-NOV-2023	564	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00139466757247291
+Rorippa_palustris	MN204796.1	30-NOV-2021	724	China	secondary	rbcL	35.6876571789683	105.331208587057	0.00207331546327631
+Rorippa_palustris	MN192571.1	30-NOV-2021	720	China	secondary	rbcL	34.9357249780106	105.82384415603	0.00207616215622863
+Rorippa_palustris	KM892681.1	11-OCT-2018	577	China	secondary	rbcL	35.4918847262259	105.809502746253	0.00243663546402057
+Rorippa_palustris	KM892672.1	11-OCT-2018	577	China	secondary	rbcL	34.959140071612	104.524244090751	0.00243663546402057
+Rorippa_palustris	JN892058.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00121965205510873
+Rorippa_palustris	JN892051.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00121965205510873
+Rorippa_palustris	OR128486.1	29-AUG-2023	1092	South Korea	secondary	rbcL	36.94033	126.61458	0.00123282760162162
+Rorippa_palustris	MK044312.1	15-MAY-2019	748	South Korea	secondary	rbcL	37.7598955	126.7801502	0.00145065424801437
+Rorippa_palustris	MK044311.1	15-MAY-2019	748	South Korea	secondary	rbcL	33.241395	126.3134557	0.00176521857641953
+Rorippa_palustris	MH203376.1	04-FEB-2019	827	South Korea	secondary	rbcL	35.68162	128.66447	0.0113349845945346

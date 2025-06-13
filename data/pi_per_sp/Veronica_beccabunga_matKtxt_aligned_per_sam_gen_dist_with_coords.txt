@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_beccabunga	KX677179.1	09-AUG-2017	810	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, marshy area just off Nitnat Rd.	primary	matK	48.9126	-124.488	0.00662418277474968
+Veronica_beccabunga	KX676977.1	09-AUG-2017	810	Canada: British Columbia, Squamish-Lillooet Regional District, Ashlu Main Rd., near Squamish	primary	matK	49.933	-123.364	0.00726682344519557
+Veronica_beccabunga	JN895063.1	07-MAR-2012	816	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.00596788069005163
+Veronica_beccabunga	JN894414.1	07-MAR-2012	864	United Kingdom: Glamorgan	secondary	matK	51.6388254313614	-3.0890826813288	0.00652365680557309
+Veronica_beccabunga	JN894002.1	07-MAR-2012	711	United Kingdom: Glamorgan	secondary	matK	52.2852758927843	-3.08049141206858	0.0213005099166831

@@ -1,0 +1,27 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hyacinthoides_hispanica	OL312280.1	04-JAN-2022	631	USA: Missouri Botanical Garden, Woodland Garden.	primary	psbA-trnH	38.610248	-90.2594377	0.0172951824771873
+Hyacinthoides_hispanica	FJ423352.1	31-OCT-2009	649	Portugal: Viseu	secondary	psbA-trnH	40.6574713	-7.9138664	0.00886899680271217
+Hyacinthoides_hispanica	FJ423351.1	31-OCT-2009	375	Spain: Malaga	secondary	psbA-trnH	36.7213028	-4.4216366	0.0234952564360777
+Hyacinthoides_hispanica	FJ423350.1	31-OCT-2009	370	Spain: Badajoz	secondary	psbA-trnH	38.7608722374876	-6.34381684654167	0.0290175346732724
+Hyacinthoides_hispanica	FJ423349.1	31-OCT-2009	649	Spain: Salamanca	secondary	psbA-trnH	40.9827873520119	-5.93241938497268	0.00886899680271217
+Hyacinthoides_hispanica	FJ423348.1	31-OCT-2009	645	Portugal: Faro	secondary	psbA-trnH	36.7761618715457	-7.36513025907251	0.0137416160760873
+Hyacinthoides_hispanica	FJ423341.1	31-OCT-2009	649	United Kingdom: England, London	secondary	psbA-trnH	51.4893335	-0.1440551	0.00886899680271217
+Hyacinthoides_hispanica	FJ423340.1	31-OCT-2009	649	Spain: Leon	secondary	psbA-trnH	42.1069393626097	-5.8536011248413	0.00886899680271217
+Hyacinthoides_hispanica	FJ423338.1	31-OCT-2009	649	Spain: Leon	secondary	psbA-trnH	42.9911501024333	-6.25738307794773	0.00886899680271217
+Hyacinthoides_hispanica	FJ423337.1	31-OCT-2009	668	Spain: Granada	secondary	psbA-trnH	37.1734995	-3.5995337	0.00969900799924905
+Hyacinthoides_hispanica	FJ423336.1	31-OCT-2009	645	Spain: Cordoba	secondary	psbA-trnH	37.6814276881902	-4.08904086376422	0.0089275513210087
+Hyacinthoides_hispanica	FJ423335.1	31-OCT-2009	661	Spain: Cordoba	secondary	psbA-trnH	37.1901770325634	-5.01634137887898	0.0111470984020665
+Hyacinthoides_hispanica	FJ423334.1	31-OCT-2009	691	Spain: Sevilla	secondary	psbA-trnH	37.3886303	-5.9953403	0.0112559676503888
+Hyacinthoides_hispanica	FJ423333.1	31-OCT-2009	763	Spain: Huelva	secondary	psbA-trnH	36.9410406700569	-7.08298326652119	0.0098137134255402
+Hyacinthoides_hispanica	FJ423332.1	31-OCT-2009	649	Spain: Huelva	secondary	psbA-trnH	36.9748753565346	-7.43422481618367	0.00970310552047002
+Hyacinthoides_hispanica	FJ423331.1	31-OCT-2009	649	Spain: Badajoz	secondary	psbA-trnH	39.6206546384877	-6.96124804407734	0.0136608531886505
+Hyacinthoides_hispanica	FJ423330.1	31-OCT-2009	649	Portugal: Portalegre	secondary	psbA-trnH	39.2076447	-7.7215134	0.00886899680271217
+Hyacinthoides_hispanica	FJ423329.1	31-OCT-2009	649	Portugal: Setubal	secondary	psbA-trnH	38.0481708141428	-8.67924370009556	0.0136608531886505
+Hyacinthoides_hispanica	FJ423328.1	31-OCT-2009	649	Portugal: Setubal	secondary	psbA-trnH	38.8155962811108	-9.82034534758553	0.0136608531886505
+Hyacinthoides_hispanica	FJ423327.1	31-OCT-2009	656	Spain: Salamanca	secondary	psbA-trnH	40.7825466723527	-5.61012698273477	0.0104334974931109
+Hyacinthoides_hispanica	FJ423326.1	31-OCT-2009	644	Spain: Salamanca	secondary	psbA-trnH	40.4351358269426	-5.86064945138711	0.0153478757491941
+Hyacinthoides_hispanica	FJ423325.1	31-OCT-2009	649	Spain: Caceres	secondary	psbA-trnH	39.7591725	-6.1379457	0.0104427049041372
+Hyacinthoides_hispanica	FJ423324.1	31-OCT-2009	649	Portugal: Setubal	secondary	psbA-trnH	39.1742089652005	-8.71179302929147	0.0136608531886505
+Hyacinthoides_hispanica	FJ423323.1	31-OCT-2009	721	Portugal: Faro	secondary	psbA-trnH	37.3503715073652	-7.10405916029761	0.0098137134255402
+Hyacinthoides_hispanica	FJ423322.1	31-OCT-2009	685	Portugal: Faro	secondary	psbA-trnH	36.874485693857	-8.0550917160773	0.0100477971083441
+Hyacinthoides_hispanica	FJ423321.1	31-OCT-2009	649	Portugal: Aveiro	secondary	psbA-trnH	40.640496	-8.6537841	0.00886899680271217

@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Adenophora_liliifolia	OQ019839.1	30-JUN-2023	235	China	secondary	matK	35.5157085150605	105.651636716132	NA
+Adenophora_liliifolia	OQ019838.1	30-JUN-2023	235	Austria	secondary	matK	36.319874426143	-5.29729819468766	NA
+Adenophora_liliifolia	OQ019583.1	30-JUN-2023	235	Hungary	secondary	matK	41.5963936289394	-71.8509736118187	NA
+Adenophora_liliifolia	OQ019442.1	30-JUN-2023	386	Austria	secondary	matK	36.5758038694905	-4.18819912607748	NA
+Adenophora_liliifolia	OQ019153.1	30-JUN-2023	368	China	secondary	matK	34.7764075653163	105.455890070214	NA
+Adenophora_liliifolia	OQ019152.1	30-JUN-2023	368	Austria	secondary	matK	36.7155931788569	-5.65862217465931	NA
+Adenophora_liliifolia	OQ018749.1	30-JUN-2023	366	China	secondary	matK	35.6882285199709	104.694539347535	NA
+Adenophora_liliifolia	OQ018748.1	30-JUN-2023	366	Austria	secondary	matK	37.6047383324058	-4.65306981938127	NA
+Adenophora_liliifolia	OQ018488.1	30-JUN-2023	366	Hungary	secondary	matK	41.1241871532206	-73.0960743388882	NA
+Adenophora_liliifolia	OQ018487.1	30-JUN-2023	366	Romania	secondary	matK	45.9852129	24.6859225	NA
+Adenophora_liliifolia	MT917513.1	03-MAR-2023	778	China	secondary	matK	34.7139451010612	105.344606499076	0.116607964801002
+Adenophora_liliifolia	MT917512.1	03-MAR-2023	787	China	secondary	matK	34.613110849887	105.564994550089	0.123408855581562
+Adenophora_liliifolia	MK555981.1	22-SEP-2019	235	Austria	secondary	matK	37.2838277264787	-4.96184070873539	NA
+Adenophora_liliifolia	MK555884.1	22-SEP-2019	386	Austria	secondary	matK	36.7024103471617	-3.75263704414906	NA
+Adenophora_liliifolia	MK555764.1	22-SEP-2019	368	Austria	secondary	matK	36.8173292517693	-5.73834361613193	NA
+Adenophora_liliifolia	MK555739.1	22-SEP-2019	366	Austria	secondary	matK	36.6231632832009	-5.05614316485538	NA
+Adenophora_liliifolia	KC146500.1	18-FEB-2013	1832	South Korea: Mt.Seorak	secondary	matK	38.1646397	128.6078137	0.119532796711289

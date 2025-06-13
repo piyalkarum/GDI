@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_binervis	OP629981.1	08-MAR-2023	835	Spain: Toledo	secondary	rps16	39.8560679	-4.0239568	0.00156086657086302
+Carex_binervis	OP629979.1	08-MAR-2023	793	Spain: Avila	secondary	rps16	40.656478	-4.7002172	0.00224240983296704
+Carex_binervis	OP629978.1	08-MAR-2023	836	United Kingdom: Scotland, Highlands	secondary	rps16	56.8	-5	0.00124398857332323
+Carex_binervis	OP629976.1	08-MAR-2023	796	Portugal: Braga	secondary	rps16	41.5510583	-8.4280045	0.00160271303678233
+Carex_binervis	EF198168.1	31-JAN-2007	786	France: Brittany, Morlaix	secondary	rps16	48.5824932	-3.8331972	0.000954198473282443

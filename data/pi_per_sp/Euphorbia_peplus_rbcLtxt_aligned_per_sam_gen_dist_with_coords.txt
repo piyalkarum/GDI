@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_peplus	MG248246.1	21-JAN-2018	553	Canada: Ontario, Wellington, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	0.00033921302578019
+Euphorbia_peplus	KX678260.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Richmond, north sdie of Hwy 91, halfway between No. 7 and No. 8 Roads, peaty soil piles inside fence next to a Christmas tree farm	primary	rbcL	49.178	-122.033	0.00033921302578019
+Euphorbia_peplus	JN891784.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.42	-3.3	0.000346320346320346
+Euphorbia_peplus	LC435039.1	01-DEC-2018	523	Saudi Arabia	secondary	rbcL	25.6242618	42.3528328	0.000347644707109334
+Euphorbia_peplus	MG249365.1	21-JAN-2018	522	Canada: Ontario, Toronto, City of, University of Toronto, Department of Ecology and Evolutionary Biology, 25 Willcocks St., greenhouse	secondary	rbcL	43.5740585368035	-77.3726935173955	0.000348310693138279
+Euphorbia_peplus	MG248420.1	21-JAN-2018	552	Canada: Ontario, Grey Co., Euphrasia Tp., Beaver Valley, Kimberley, Kimberley Public School.	secondary	rbcL	43.0855933213568	-77.1351386734887	0.00033921302578019
+Euphorbia_peplus	MG247868.1	21-JAN-2018	552	Canada: Ontario, Lanark Co., Carleton Place, Park Ave.	secondary	rbcL	45.1392133	-76.1350197	0.00033921302578019
+Euphorbia_peplus	KX298982.1	06-FEB-2017	710	Egypt	secondary	rbcL	26.2540493	29.2675469	0.000800961153384061
+Euphorbia_peplus	HM849993.1	23-JUL-2011	681	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00423905004203382
+Euphorbia_peplus	JN893081.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000346320346320346
+Euphorbia_peplus	JN891112.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000346320346320346
+Euphorbia_peplus	JN891111.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000346320346320346

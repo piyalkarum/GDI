@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Olea_europaea	MK187159.1	21-DEC-2019	471	Mozambique: Sofala, Gorongosa, Gorongosa National Park, Limestone Gorge Picnic Spot	primary	trnL-trnF	-18.6818	34.769	0.532035091765876
+Olea_europaea	FM208235.1	07-SEP-2010	364	Egypt:Gebel Elba	secondary	trnL-trnF	22.183333	36.35	0.0192199292007062
+Olea_europaea	AM931501.1	08-DEC-2010	342	Australia:Campbelltown	secondary	trnL-trnF	-34.3669760298893	138.556437886479	0.0190945011067447
+Olea_europaea	AM931500.1	08-DEC-2010	342	South Africa:Kirstenbosch	secondary	trnL-trnF	-33.9856109	18.4301425	0.0190945011067447
+Olea_europaea	AM931499.1	08-DEC-2010	342	Spain:Canary Islands, Tenerife, El Rio	secondary	trnL-trnF	28.1435765	-16.5229901	0.0190945011067447
+Olea_europaea	AM931498.1	08-DEC-2010	342	Spain:Canary Islands, La Palma	secondary	trnL-trnF	28.6551163	-17.8572686	0.0190945011067447
+Olea_europaea	AM931497.1	08-DEC-2010	342	Portugal:Madeira, Sao Gonzalo	secondary	trnL-trnF	32.7517501	-16.9817486572606	0.0190945011067447
+Olea_europaea	AM931496.1	08-DEC-2010	342	Portugal:Madeira, Arco de Calheta	secondary	trnL-trnF	32.717995	-17.1463956	0.0190945011067447
+Olea_europaea	AM931495.1	08-DEC-2010	342	Morocco:Immouzzer	secondary	trnL-trnF	35.7499815	-5.8075644	0.0190945011067447
+Olea_europaea	AM931494.1	08-DEC-2010	342	Niger:Bagzane	secondary	trnL-trnF	18.9455556	9.3225	0.0190945011067447
+Olea_europaea	AM931491.1	08-DEC-2010	342	Reunion:Reunion Island	secondary	trnL-trnF	-21.1307379	55.5364801	0.0190945011067447
+Olea_europaea	AM931489.1	08-DEC-2010	342	Kenya:Timau	secondary	trnL-trnF	0.0859445	37.2389064	0.0190945011067447
+Olea_europaea	AM931488.1	08-DEC-2010	342	Kenya:Nairobi	secondary	trnL-trnF	-1.2832533	36.8172449	0.0190945011067447
+Olea_europaea	AM931487.1	08-DEC-2010	342	Kenya:Mt Elgon	secondary	trnL-trnF	0.9711257	34.6014248	0.0190945011067447
+Olea_europaea	AM931484.1	08-DEC-2010	342	Iran:Kerman	secondary	trnL-trnF	30.377450247632	56.9843934870533	0.0190945011067447
+Olea_europaea	AM931483.1	08-DEC-2010	342	Iran:Kerman	secondary	trnL-trnF	29.4015970296157	57.5430284187001	0.0190945011067447
+Olea_europaea	AM931482.1	08-DEC-2010	342	China:Guangzhou	secondary	trnL-trnF	23.1301964	113.2592945	0.0190945011067447
+Olea_europaea	AM931481.1	08-DEC-2010	342	Australia:Brownhill Creek	secondary	trnL-trnF	-35.6408592237724	138.539415898616	0.0190945011067447
+Olea_europaea	AM931480.1	08-DEC-2010	342	Australia:Brownhill Creek	secondary	trnL-trnF	-35.4382382797844	138.474678087593	0.0190945011067447
+Olea_europaea	AM931479.1	08-DEC-2010	342	Australia:Lonsdale	secondary	trnL-trnF	-35.1066033	138.4924173	0.0190945011067447
+Olea_europaea	AM931477.1	08-DEC-2010	342	Morocco:Tetouan	secondary	trnL-trnF	35.570175	-5.3742776	0.0190945011067447
+Olea_europaea	AM931476.1	08-DEC-2010	342	Italy:Sicily, Messine	secondary	trnL-trnF	38.1937571	15.5542082	0.0190945011067447
+Olea_europaea	AM931475.1	08-DEC-2010	342	Italy:Sicily, Ali	secondary	trnL-trnF	38.027364	15.417689	0.0190945011067447
+Olea_europaea	AM931474.1	08-DEC-2010	342	Algeria:Tizi Ouzou, Mt Belloua	secondary	trnL-trnF	36.7137843	4.0493919	0.0190945011067447
+Olea_europaea	AM931473.1	08-DEC-2010	342	Egypt	secondary	trnL-trnF	35.8681298	-90.9456751	0.0190945011067447
+Olea_europaea	AM931472.1	08-DEC-2010	342	Syria:Harem	secondary	trnL-trnF	36.126663	36.5241262	0.0190945011067447
+Olea_europaea	FJ490798.1	21-DEC-2008	428	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.022209166101246
+Olea_europaea	AM229536.1	01-DEC-2007	363	Australia:Campbelltown	secondary	trnL-trnF	-34.8620185490805	139.578794230681	0.0189701397087761
+Olea_europaea	AM229535.1	01-DEC-2007	363	USA:Hawaii	secondary	trnL-trnF	19.5938015	-155.4283701	0.0189701397087761

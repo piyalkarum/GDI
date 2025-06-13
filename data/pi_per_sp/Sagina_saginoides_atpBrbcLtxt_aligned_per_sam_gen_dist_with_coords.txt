@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_saginoides	MT534514.1	06-DEC-2021	811	USA	primary	atpB-rbcL	43.55	-122.39	0.00246609124537608
+Sagina_saginoides	MT534515.1	06-DEC-2021	811	Norway	secondary	atpB-rbcL	64.5731537	11.5280364	0.00328812166050144
+Sagina_saginoides	MT534513.1	06-DEC-2021	811	USA	secondary	atpB-rbcL	39.8764520120552	-100.613113212393	0.00246609124537608
+Sagina_saginoides	MT534512.1	06-DEC-2021	812	USA	secondary	atpB-rbcL	40.0092564833156	-101.003418564929	0.00164406083025072

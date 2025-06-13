@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_demarcoi	AJ458258.1	26-APR-2002	973	Italy:Sicily,Isnello	secondary	COI	37.9440767	14.0061767	0.615295726506654
+Genista_demarcoi	AJ404455.1	04-JAN-2002	486	Italy:Sicily	secondary	COI	37.2437628822253	14.1104758591406	0.571805980447471
+Genista_demarcoi	AJ402875.1	04-JAN-2002	221	Italy: Sicily	secondary	COI	37.001911939787	13.4117925265007	0.563281777762703
+Genista_demarcoi	AJ402874.1	04-JAN-2002	239	Italy: Sicily	secondary	COI	37.4358435801299	13.2014827599826	0.611542639231299

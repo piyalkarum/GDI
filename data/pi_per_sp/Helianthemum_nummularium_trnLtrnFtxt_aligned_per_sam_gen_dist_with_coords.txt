@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_nummularium	KX498693.1	18-SEP-2017	394	Italy	primary	trnL-trnF	37.89	14.65	0.000654450261780105
+Helianthemum_nummularium	KX498692.1	18-SEP-2017	393	Turkey	primary	trnL-trnF	38.14	30.94	0.000657894736842105
+Helianthemum_nummularium	KX498691.1	18-SEP-2017	385	Austria	primary	trnL-trnF	47.26	14.38	0.00131234499862221
+Helianthemum_nummularium	KY651371.1	30-JUN-2018	396	Italy	primary	trnL-trnF	44.08	7.87	0
+Helianthemum_nummularium	KY651370.1	30-JUN-2018	369	Turkey	primary	trnL-trnF	36.76	35.63	0

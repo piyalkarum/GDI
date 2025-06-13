@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scilla_siberica	MG226427.1	23-JAN-2018	552	Canada: Ontario, Toronto, City of, Toronto Islands, Ward's Island, along the boardwalk	primary	rbcL	43.626	-79.358	0
+Scilla_siberica	MG226302.1	23-JAN-2018	552	Canada: Ontario, Ottawa, City of, Ottawa, W end of Beechwood cemetery, Section 49	primary	rbcL	45.417	-75.667	0
+Scilla_siberica	MG225979.1	23-JAN-2018	552	Canada: Ontario, Halton R. M., Burlington (Aldershot), Hendrie Valley, S side of Grindstone Creek	primary	rbcL	43.3	-79.883	0
+Scilla_siberica	MG225747.1	23-JAN-2018	551	Canada: Quebec, Montreal, Island of Montreal, Parc du Mont-Royal	primary	rbcL	45.497	-73.594	0
+Scilla_siberica	MG227541.1	23-JAN-2018	552	Canada: Ontario, Toronto, City of, North York, Don River E bank, 150 m N of Sheppard Ave.	secondary	rbcL	43.72634945	-77.7101179040839	0

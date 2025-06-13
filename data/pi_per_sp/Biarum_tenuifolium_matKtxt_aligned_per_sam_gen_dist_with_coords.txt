@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Biarum_tenuifolium	EU193607.1	12-AUG-2008	1725	Greece: Crete	secondary	matK	35.1156797035787	24.386877015212	0
+Biarum_tenuifolium	EU193606.1	12-AUG-2008	1725	Greece: Crete	secondary	matK	35.5075432092022	25.3324713991439	0
+Biarum_tenuifolium	EU193605.1	12-AUG-2008	1725	Greece: Crete	secondary	matK	34.8641273500798	24.94471919444	0
+Biarum_tenuifolium	EU193604.1	12-AUG-2008	1725	Greece	secondary	matK	42.3198679480483	-77.8149335088125	0
+Biarum_tenuifolium	EU193603.1	12-AUG-2008	1725	Greece	secondary	matK	42.9091849580398	-77.8584561644922	0

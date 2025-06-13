@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tephroseris_crispa	MW796277.1	14-SEP-2021	1118	Austria: Styria	secondary	Adh	47.2500001	15.1666665	0.0101666165729351
+Tephroseris_crispa	MW796276.1	14-SEP-2021	1122	Poland: Lower Silesia	secondary	Adh	50.9206028	16.4946351	0.0203653788559449
+Tephroseris_crispa	MW796275.1	14-SEP-2021	1118	Poland: Mazovia	secondary	Adh	52.5461934	21.2073404	0.00986846511199298
+Tephroseris_crispa	MW796274.1	14-SEP-2021	1118	Austria: Lower Austria	secondary	Adh	48.2817813	15.7632457	0.0116600526868188

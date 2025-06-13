@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_piperita	LC125242.1	03-AUG-2016	412	Japan	secondary	psbA-trnH	36.199366655506	139.252450238222	0.0154503413453823
+Mentha_piperita	LC125241.1	03-AUG-2016	423	Japan	secondary	psbA-trnH	36.7115758186391	138.513970938006	0.0163285812899606
+Mentha_piperita	LC125240.1	03-AUG-2016	402	Japan	secondary	psbA-trnH	36.1336634370698	139.24011008101	0.0167395301971157
+Mentha_piperita	KP218934.1	26-APR-2015	394	Pakistan	secondary	psbA-trnH	30.3308401	71.247499	0.0271572232130608
+Mentha_piperita	KM009033.1	22-SEP-2014	403	Cyprus	secondary	psbA-trnH	34.9174159	32.8899027	0.0136383257963495

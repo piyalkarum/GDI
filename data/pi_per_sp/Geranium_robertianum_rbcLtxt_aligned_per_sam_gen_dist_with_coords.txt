@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geranium_robertianum	MG249857.1	21-JAN-2018	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Sassafras Trail/South Shore trails, in ravine behind RBG Aviary	primary	rbcL	43.269	-79.909	0.000307408134321477
+Geranium_robertianum	MG248551.1	21-JAN-2018	552	Canada: 143 Waterloo Avenue	primary	rbcL	43.5375	-80.2542	0.000307408134321477
+Geranium_robertianum	MG247503.1	21-JAN-2018	553	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West.	primary	rbcL	44.05	-79.4833	0.000307209983465267
+Geranium_robertianum	KX679114.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Baden Powell trail	primary	rbcL	49.334	-122.954	0.000307408134321477
+Geranium_robertianum	KX678560.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, View Royal, Nursery Hill Park	primary	rbcL	48.461	-123.462	0.000307408134321477
+Geranium_robertianum	KX678444.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Burnaby, junction of Stoney Creek and North Road	primary	rbcL	49.262	-122.897	0.000307408134321477
+Geranium_robertianum	KX678216.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Strathcona Regional District, Campbell Lake Forest Service Road	primary	rbcL	50.046	-125.461	0.000307408134321477
+Geranium_robertianum	HQ590118.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Junction of 3 trails E of Red Pine Forest	primary	rbcL	44.032	-79.534	0.000407130047414108
+Geranium_robertianum	KJ841346.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Rock outcrops near staff parking lot	primary	rbcL	45.538	-73.156	0.000672313207334111
+Geranium_robertianum	JN893477.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000311348031766072
+Geranium_robertianum	JN890688.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.000311348031766072
+Geranium_robertianum	MG246537.1	21-JAN-2018	530	Canada: Ontario, Chatham-Kent County, Wheatley Provincial Park, Group Camping Area #2, and trail to cemetary	secondary	rbcL	34.895926	-83.4665496	0.00217329818487335
+Geranium_robertianum	MG246399.1	21-JAN-2018	553	Canada: Ontario, Hamilton-Wentworth, Dundas, North Shore Cootes Paradise, Off Gray Doe Trail	secondary	rbcL	43.72634945	-77.7101179040839	0.000307209983465267
+Geranium_robertianum	JX913523.1	11-OCT-2013	1050	Greece	secondary	rbcL	43.2097838	-77.6930602	0.000273279080385679
+Geranium_robertianum	KJ204350.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00338199739175352
+Geranium_robertianum	HG416998.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.00027463138365394
+Geranium_robertianum	JN893652.1	07-MAR-2012	529	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000316660165431432
+Geranium_robertianum	JN893552.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.5847088099118	-3.36265523682855	0.000311348031766072
+Geranium_robertianum	JN891185.1	07-MAR-2012	533	United Kingdom: Glamorgan (41)	secondary	rbcL	51.2288763706353	-2.49258785060699	0.000314861710517451

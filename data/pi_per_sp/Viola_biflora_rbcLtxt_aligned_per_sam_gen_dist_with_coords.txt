@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_biflora	LC548081.1	18-DEC-2021	686	Japan: Hokkaido, Shari, Along Unabetsu River	primary	rbcL	43.9	144.78	0.409036495228054
+Viola_biflora	MZ359336.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.162489375739675
+Viola_biflora	MG248873.1	21-JAN-2018	552	USA: Alaska, Southeast Fairbanks Census Area, Wrangell-St. Elias National Preserve, Wellesley Mountain	primary	rbcL	62.428	-141.282	0.162658992957006
+Viola_biflora	MG245873.1	21-JAN-2018	552	Canada: Yukon Territory, Yukon River, unnamed creek 1.3 km of river of Jim Creek	primary	rbcL	63.825	-139.718	0.162658992957006
+Viola_biflora	MH116465.1	17-AUG-2018	668	China	secondary	rbcL	35.7091446158893	104.541499662446	0.164376879259557
+Viola_biflora	MH116464.1	17-AUG-2018	637	China	secondary	rbcL	35.2701825644493	104.775080819618	0.164783175963542
+Viola_biflora	DQ834784.1	09-AUG-2006	962	Japan: Mt. Rishiri	secondary	rbcL	45.1804317	141.2413764	0.412906046026842

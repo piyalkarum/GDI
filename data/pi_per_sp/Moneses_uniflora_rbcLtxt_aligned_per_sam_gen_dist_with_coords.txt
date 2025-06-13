@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Moneses_uniflora	OR640475.1	05-NOV-2023	515	Kazakhstan: Qaragandy region	primary	rbcL	49.41064	75.43456	0.00173336279313587
+Moneses_uniflora	MG224546.1	26-DEC-2017	552	Canada: Ontario, Cochrane County, 96 km WNW of Hearst, east side of Pagwachuan River, Kenogami Wetlands Candidate Area of Natural and Scientific Interest (ANSI)	primary	rbcL	50.145	-84.775	0.00123446916500913
+Moneses_uniflora	MG223513.1	26-DEC-2017	498	Canada: Yukon Territory, Richardson Mountains, tributary of Fish Creek, S of Vunta Creek	primary	rbcL	67.895	-136.503	0.00133868808567604
+Moneses_uniflora	JN965683.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	rbcL	58.692	-94.132	0.00123446916500913
+Moneses_uniflora	JN965682.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	rbcL	58.734	-94.112	0.00123446916500913
+Moneses_uniflora	JN965681.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	rbcL	58.633	-93.79	0.00123446916500913
+Moneses_uniflora	MT931299.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.00454880296114707
+Moneses_uniflora	MK925113.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9784675381574	-3.51100960557353	0.00165964475789188
+Moneses_uniflora	MK924996.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9277526342244	-2.12961133868984	0.00165964475789188
+Moneses_uniflora	MK924549.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1600695689472	-3.26823385227922	0.00165964475789188

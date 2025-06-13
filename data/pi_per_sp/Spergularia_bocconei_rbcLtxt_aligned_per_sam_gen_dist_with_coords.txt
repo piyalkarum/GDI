@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spergularia_bocconei	OQ172711.1	18-JUN-2023	689	South Korea	secondary	rbcL	35.9494212869494	127.20962227165	0.00248015873015873
+Spergularia_bocconei	OQ172710.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.9149559643641	126.830874100711	0.00248015873015873
+Spergularia_bocconei	OQ172709.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.2940633673185	127.108430853172	0.00248015873015873
+Spergularia_bocconei	HM850380.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00744047619047619

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxytropis_deflexa	LR898297.1	25-JAN-2021	458	Russia:Magadan Region	secondary	psbA-trnH	63.9900447357485	152.298701071215	0
+Oxytropis_deflexa	LR898296.1	25-JAN-2021	458	Russia:Magadan Region	secondary	psbA-trnH	63.2516521656672	154.366928663083	0
+Oxytropis_deflexa	LR898295.1	25-JAN-2021	458	Russia:Magadan Region	secondary	psbA-trnH	64.1381781159719	153.257214297649	0
+Oxytropis_deflexa	LR898294.1	25-JAN-2021	458	Russia:Tyva	secondary	psbA-trnH	51.4017149	93.8582593	0
+Oxytropis_deflexa	LR898293.1	25-JAN-2021	458	Russia:Buryatia	secondary	psbA-trnH	53.002332415751	110.771562947479	0
+Oxytropis_deflexa	LR898292.1	25-JAN-2021	458	Russia:Buryatia	secondary	psbA-trnH	52.5050075451634	108.501219234115	0
+Oxytropis_deflexa	LN898475.1	23-DEC-2015	425	Russia	secondary	psbA-trnH	64.9835765217927	98.3805369126794	0
+Oxytropis_deflexa	LN898474.1	23-DEC-2015	425	Russia	secondary	psbA-trnH	64.8344188053402	95.8494250653102	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anchusa_crispa	EU599821.1	31-MAR-2009	694	France	secondary	Adh	42.18808965	9.06841377142769	0
+Anchusa_crispa	EU599817.1	31-MAR-2009	694	Italy	secondary	Adh	40.254731984333	8.72030360367074	0
+Anchusa_crispa	EU599816.1	31-MAR-2009	694	Italy	secondary	Adh	40.4364369650657	10.0526332364216	0
+Anchusa_crispa	EU599815.1	31-MAR-2009	694	Italy	secondary	Adh	40.5015813351021	9.24789492308948	0
+Anchusa_crispa	EU599814.1	31-MAR-2009	694	Italy	secondary	Adh	40.5656478818019	9.86947592289605	0
+Anchusa_crispa	EU599813.1	31-MAR-2009	694	Italy	secondary	Adh	40.2136134355881	9.20352959669816	0

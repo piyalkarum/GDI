@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_esterellense	MH669044.1	18-SEP-2019	345	France	primary	psbA-trnH	43.51	6.94	0.000726744186046512
+Leucanthemum_esterellense	MH669043.1	18-SEP-2019	349	France	primary	psbA-trnH	43.46	6.9	0.000726744186046512
+Leucanthemum_esterellense	MH669042.1	18-SEP-2019	345	France	primary	psbA-trnH	43.48	6.91	0.000726744186046512
+Leucanthemum_esterellense	MH669041.1	18-SEP-2019	345	France	primary	psbA-trnH	43.46	6.89	0.000726744186046512
+Leucanthemum_esterellense	MH669040.1	18-SEP-2019	344	France	primary	psbA-trnH	43.45	6.85	0.00290697674418605

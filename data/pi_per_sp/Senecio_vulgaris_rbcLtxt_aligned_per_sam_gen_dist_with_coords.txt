@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_vulgaris	OL434799.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1174	-81.138	0.0031745233134065
+Senecio_vulgaris	MG222077.1	26-DEC-2017	552	Canada: Yukon Territory, Whitehorse. International Airport	primary	rbcL	60.714	-135.077	0.00302383012473863
+Senecio_vulgaris	KP402770.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, side of security under electric meter	primary	rbcL	38.889	-76.554	0.0031745233134065
+Senecio_vulgaris	KJ841566.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	rbcL	45.542	-73.154	0.0338066451930374
+Senecio_vulgaris	JN892571.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.89	-3.99	0.00308512494948028
+Senecio_vulgaris	HQ619732.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00424904382335534
+Senecio_vulgaris	MG222755.1	26-DEC-2017	553	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	secondary	rbcL	43.2945574739727	-76.8556705921898	0.0031745233134065
+Senecio_vulgaris	MG221889.1	26-DEC-2017	553	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	secondary	rbcL	42.953853576638	-77.3374747317062	0.0031745233134065
+Senecio_vulgaris	KJ204407.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00303950420937208
+Senecio_vulgaris	HM850347.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00421872778962331
+Senecio_vulgaris	JN893498.1	07-MAR-2012	517	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00323482974225181
+Senecio_vulgaris	JN890972.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00308512494948028
+Senecio_vulgaris	JN890944.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00308512494948028

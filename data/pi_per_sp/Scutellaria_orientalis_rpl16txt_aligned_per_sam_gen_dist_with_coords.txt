@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scutellaria_orientalis	OV140686.1	06-JAN-2022	1033	Iran:East Azerbaijan	secondary	rpl16	37.9160365	46.6781589	0.00556006928771935
+Scutellaria_orientalis	OV140672.1	06-JAN-2022	1150	Georgia:Kvemo Kartli	secondary	rpl16	41.5124578	44.5495369	0.0055425551545901
+Scutellaria_orientalis	OV140671.1	06-JAN-2022	1037	Georgia:Tsagveri-Borjomi	secondary	rpl16	41.7992252	43.4755218	0.00568609739580844
+Scutellaria_orientalis	OV140669.1	06-JAN-2022	1027	Armenia:Ararat	secondary	rpl16	40.0053589	44.7315157	0.00654062272511793
+Scutellaria_orientalis	OV140668.1	06-JAN-2022	1085	Armenia:Vayots Dzor	secondary	rpl16	39.8019849	45.4557591	0.00726643801810572
+Scutellaria_orientalis	OV140667.1	06-JAN-2022	1031	Armenia:Gegharkunik	secondary	rpl16	40.2386825795707	46.2652960177574	0.00653008009542048
+Scutellaria_orientalis	OV140666.1	06-JAN-2022	1028	Armenia:Gegharkunik	secondary	rpl16	39.9128344569157	44.9532944832184	0.00640716246743063
+Scutellaria_orientalis	OV140662.1	06-JAN-2022	1149	Azerbaijan:Ganja	secondary	rpl16	40.6798083	46.3597178	0.00547447097246243

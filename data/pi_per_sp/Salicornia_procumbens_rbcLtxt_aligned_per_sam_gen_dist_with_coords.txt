@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salicornia_procumbens	MW679195.1	22-DEC-2021	694	Russia	primary	rbcL	46.06	43.2	0.00382233281436976
+Salicornia_procumbens	MW679194.1	22-DEC-2021	705	United Kingdom	secondary	rbcL	54.400954403615	-3.3942161223284	0.000864553314121038
+Salicornia_procumbens	MW679193.1	22-DEC-2021	705	United Kingdom	secondary	rbcL	55.4352040895506	-3.82209396874687	0.000864553314121038
+Salicornia_procumbens	KY884402.1	30-APR-2018	595	Belgium: West Vlaanderen	secondary	rbcL	51.0404747	2.9994213	0.00103280082337674
+Salicornia_procumbens	DQ340115.1	20-JAN-2007	759	France: Manche, Barneville	secondary	rbcL	49.3779892	-1.7870469	0.00174098258779755
+Salicornia_procumbens	DQ340114.1	20-JAN-2007	765	Russia: White Sea, Monastyrski Island, Kandalakshki Bay	secondary	rbcL	63.7490887	34.5598153	0.00174098258779755

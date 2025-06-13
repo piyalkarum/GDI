@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_uniflora	JN892752.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.88	-3.75	0.000615006150061501
+Silene_uniflora	HM850355.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000634920634920635
+Silene_uniflora	JN891968.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0.00186493293504364
+Silene_uniflora	JN890910.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.000615006150061501

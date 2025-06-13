@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tephroseris_crispa	MW796314.1	14-SEP-2021	860	Austria: Styria	secondary	trnL-trnF	47.2500001	15.1666665	0.000775193798449612
+Tephroseris_crispa	MW796313.1	14-SEP-2021	860	Poland: Lower Silesia	secondary	trnL-trnF	50.9206028	16.4946351	0.000775193798449612
+Tephroseris_crispa	MW796312.1	14-SEP-2021	861	Poland: Mazovia	secondary	trnL-trnF	52.5461934	21.2073404	0.000775193798449612
+Tephroseris_crispa	MW796311.1	14-SEP-2021	865	Austria: Lower Austria	secondary	trnL-trnF	48.2817813	15.7632457	0.00232558139534884

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_genistifolia	MG224497.1	26-DEC-2017	552	Canada: British Columbia, Vancouver Island, Sidney, Island View Beach Provincial Park	primary	rbcL	48.567	-123.333	0.00371487725524993
+Linaria_genistifolia	MG221877.1	26-DEC-2017	552	Canada: Manitoulin Island	primary	rbcL	45.7667	-82.2	0.00072463768115942
+Linaria_genistifolia	MG221370.1	26-DEC-2017	552	Canada: E of Vernon	primary	rbcL	50.2665	-119.275	0.00072463768115942
+Linaria_genistifolia	MG221163.1	26-DEC-2017	552	Canada: Yukon Territory, Alaska Highway, Rancheria River, km 1074	primary	rbcL	60.1412	-130.231	0.00072463768115942
+Linaria_genistifolia	KX677856.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail, near Link Lake Forest Recreation Site	primary	rbcL	49.711	-120.231	0.00072463768115942
+Linaria_genistifolia	KX037377.1	27-NOV-2016	822	Canada: AB	secondary	rbcL	55.001251	-115.002136	0.000816326530612245

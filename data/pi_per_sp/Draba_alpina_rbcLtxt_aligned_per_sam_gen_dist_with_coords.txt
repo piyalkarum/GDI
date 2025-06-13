@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_alpina	MG247418.1	21-JAN-2018	552	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	rbcL	69.631	-140.838	0.0005175983436853
+Draba_alpina	KT960696.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	0.0005175983436853
+Draba_alpina	KT960637.1	13-DEC-2015	547	Greenland: NE, Zackenberg	primary	rbcL	74.467	-20.567	0.000522329589971272
+Draba_alpina	KC482541.1	25-OCT-2013	551	Canada: Northwest Territories, Cape Bathurst, Anderson River, Cape Bathurst E side, brook system N of river from Lake McKinlay, 0.7-1.5 km from sea	primary	rbcL	70.4833	-127.8	0.000518537723619393
+Draba_alpina	KC482543.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Near cabin on slopes just above coastal area	primary	rbcL	56.331	-79.514	0.0005175983436853
+Draba_alpina	KC482542.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Nelson Head, Southernmost tip of Banks Island	primary	rbcL	71.0939	-122.779	0.0005175983436853
+Draba_alpina	KC482540.1	25-OCT-2013	552	Canada: Nunavut, Ellef Ringnes Island, Reindeer Peninsula, Reindeer Penninsula, central part	primary	rbcL	78.9167	-104.633	0.0005175983436853
+Draba_alpina	KC482539.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Savage Harbour, Lower Savage Islands, V-shaped lake 1.5 km S of Savage harbour	primary	rbcL	61.8192	-65.7103	0.0005175983436853
+Draba_alpina	JN965472.1	27-OCT-2012	551	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Wet lichen heath	primary	rbcL	58.747	-93.863	0.000518537723619393
+Draba_alpina	JN965471.1	27-OCT-2012	524	Canada: Manitoba, Churchill, Wapusk National Park, Thompson Point, Beach ridges in sand amongst Leymus mollis and Dryas integrifolia	primary	rbcL	58.335	-93.018	0.00054525627044711
+Draba_alpina	JN965470.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Wet depression on the ridge - high tundra	primary	rbcL	58.796	-94.204	0.0005175983436853
+Draba_alpina	MT930783.1	03-MAR-2023	568	China	secondary	rbcL	35.5884024605111	105.474283232123	0.00218648959134143
+Draba_alpina	MT930782.1	03-MAR-2023	569	China	secondary	rbcL	35.2987828560416	104.716122340892	0.000502355079510455
+Draba_alpina	MT930781.1	03-MAR-2023	569	China	secondary	rbcL	34.9055425409663	105.104658897409	0.00193453851758784
+Draba_alpina	MT930780.1	03-MAR-2023	572	China	secondary	rbcL	35.0215476173417	105.912384587517	0.00361778899056355

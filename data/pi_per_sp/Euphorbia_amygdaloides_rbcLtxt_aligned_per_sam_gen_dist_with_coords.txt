@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_amygdaloides	JN891104.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.67	-2.68	0.000825082508250825
+Euphorbia_amygdaloides	HG416992.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.00247524752475248
+Euphorbia_amygdaloides	JN893752.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.000825082508250825
+Euphorbia_amygdaloides	JN891358.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000825082508250825

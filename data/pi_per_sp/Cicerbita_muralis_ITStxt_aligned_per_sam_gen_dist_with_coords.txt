@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cicerbita_muralis	LS975378.1	03-OCT-2018	638	Finland	secondary	ITS	63.2467777	25.9209164	0.00470219435736677
+Cicerbita_muralis	LS975377.1	03-OCT-2018	638	USA	secondary	ITS	39.7837304	-100.445882	0.00261233019853709
+Cicerbita_muralis	AJ633339.1	13-DEC-2004	642	Italy	secondary	ITS	42.6384261	12.674297	0.00574222831765935
+Cicerbita_muralis	AJ633338.1	13-DEC-2004	640	Belgium	secondary	ITS	50.6402809	4.6667145	0.00260743207941484

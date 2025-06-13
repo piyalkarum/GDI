@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polystichum_lonchitis	MG215542.1	24-JAN-2018	552	Canada: Nova Scotia, Thompson Woodlot	primary	rbcL	46.42	-62.273	0.00565887641666554
+Polystichum_lonchitis	MG215472.1	24-JAN-2018	553	Canada: Meager Creek Hotsprings, BC	primary	rbcL	50.6139	-123.392	0.00108695652173913
+Polystichum_lonchitis	MG215277.1	24-JAN-2018	553	Canada: Bayview Escarpment, Grey Co., ON	primary	rbcL	44.636	-80.71	0.00108695652173913
+Polystichum_lonchitis	MG215153.1	24-JAN-2018	552	Canada: Yukon Territory, Dempster Highway, near Grizzly Creek, NW of highway	primary	rbcL	64.408	-138.434	0.00108695652173913
+Polystichum_lonchitis	MK174903.1	15-JUL-2019	1188	Canada	secondary	rbcL	61.0666922	-107.991707	0.00121457489878543
+Polystichum_lonchitis	AB575203.1	03-DEC-2010	1205	France	secondary	rbcL	46.603354	1.8883335	0.00118343195266272

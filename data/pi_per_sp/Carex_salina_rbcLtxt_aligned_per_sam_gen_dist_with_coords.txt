@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_salina	MG227137.1	23-JAN-2018	552	Canada: Quebec, Vuntut National Park, ile aux Basques	primary	rbcL	48.15	-69.233	0
+Carex_salina	MG226268.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Bonavista South Dist, S of S Brd Cove, Terra Nova Nat'l Pk	primary	rbcL	48.5539	-53.855	0
+Carex_salina	MK925327.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9396785446184	-3.72012836688762	0
+Carex_salina	MK924852.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.083507420764	-3.96766824692786	0

@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bartsia_alpina	MZ359325.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.000281277896391004
+Bartsia_alpina	MG223476.1	26-DEC-2017	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Top of Mt. Irony, 50 m left E800D4.	primary	rbcL	55.1942	-69.9186	0.000281540233722183
+Bartsia_alpina	KC482095.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Soper River, Lapis site	primary	rbcL	62.95	-69.7969	0.000281540233722183
+Bartsia_alpina	KC482094.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	rbcL	62.8339	-67.3536	0.000281540233722183
+Bartsia_alpina	KC482093.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.8522	-67.3408	0.000281540233722183
+Bartsia_alpina	KC482092.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Along River in middle of town, leading from school to ocean	primary	rbcL	56.617	-79.311	0.000281540233722183
+Bartsia_alpina	JN965290.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	rbcL	58.734	-94.112	0.000281540233722183
+Bartsia_alpina	JN965289.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	rbcL	58.178	-93.637	0.000281540233722183
+Bartsia_alpina	JN965288.1	27-OCT-2012	522	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Wet lichen heath	primary	rbcL	58.747	-93.863	0.000294724432655467
+Bartsia_alpina	MK925216.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3713818386233	-3.43625847263405	0.000283848992336077
+Bartsia_alpina	MK924765.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0940680760252	-3.9281885784978	0.000283848992336077
+Bartsia_alpina	MK924605.1	14-JAN-2020	542	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.00171036803549441
+Bartsia_alpina	MK924575.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0.000283848992336077
+Bartsia_alpina	KU235112.1	18-JAN-2016	1416	France	secondary	rbcL	46.603354	1.8883335	0.00168796290661557

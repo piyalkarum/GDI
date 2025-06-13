@@ -1,0 +1,39 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crataegus_monogyna	OP959493.1	12-DEC-2022	541	USA: Washington, Wenatchee, Wenatchee Valley College Campus	primary	rbcL	47.43132045	-120.3363745	0.000150996328191613
+Crataegus_monogyna	MN447802.1	21-FEB-2022	553	United Kingdom: England, County Durham, Bishops Auckland Park	primary	rbcL	54.672	-1.6591	0.000147156488998064
+Crataegus_monogyna	MF349505.1	21-SEP-2017	553	USA: Maryland; USDA South Farm, S of I-95 &38; W of Cherry Hill Road	primary	rbcL	39.014	-76.941	0.000147156488998064
+Crataegus_monogyna	KC251347.1	03-DEC-2013	552	USA: Oregon, Linn Co., Cogswell-Foster Reserve	primary	rbcL	44.0281215181659	-122.538722024196	0.000147333566775583
+Crataegus_monogyna	KC251346.1	03-DEC-2013	552	USA: Oregon, Linn Co., Cogswell-Foster Reserve	primary	rbcL	43.2307545272278	-123.447518179351	0.000147333566775583
+Crataegus_monogyna	KC251345.1	03-DEC-2013	552	USA: Oregon, Columbia Co., Sauvie Island, Willow Bar Islands beach, just N of Columbia-Multnomah county line, on bank of Columbia River	primary	rbcL	45.7308	-122.767	0.000147333566775583
+Crataegus_monogyna	KC251344.1	03-DEC-2013	552	USA: Oregon, Linn Co., Cogswell-Foster Reserve	primary	rbcL	43.3881766039277	-121.980472381366	0.000147333566775583
+Crataegus_monogyna	KC251343.1	03-DEC-2013	552	Canada: British Columbia, Central Kootenay RD, Robson, Broadwater Road, Broadwater Road S side (Robson)	primary	rbcL	49.3347	-117.701	0.000147333566775583
+Crataegus_monogyna	KC251342.1	03-DEC-2013	552	Canada: Ontario, Durham RM, Bowmanville island of land between two forks of Bowmanville Creek	primary	rbcL	44.223476483507	-78.7554376202606	0.000147333566775583
+Crataegus_monogyna	KC251341.1	03-DEC-2013	552	USA: California, Sonoma, Ragle Ranch, W of Sebastopol, 40 m NW of NW corner of parking lot	primary	rbcL	38.4037	-122.848	0.000147333566775583
+Crataegus_monogyna	KC251340.1	03-DEC-2013	552	Canada: Ontario, Middlesex Co., Denfield Side Road, E side of road, approx. 0.25 mi. S of Middlesex Hwy 16	primary	rbcL	43.0726	-81.4019	0.000147333566775583
+Crataegus_monogyna	KC251339.1	03-DEC-2013	552	Canada: Ontario, Durham RM, Bowmanville island of land between two forks of Bowmanville Creek	primary	rbcL	43.2849404888508	-77.9051268940179	0.000147333566775583
+Crataegus_monogyna	KC251338.1	03-DEC-2013	552	USA: California, Humboldt, Hwy 36, 6.8 air km W of Bridgeville	primary	rbcL	40.4728	-123.879	0.000147333566775583
+Crataegus_monogyna	KC251337.1	03-DEC-2013	552	USA: Oregon, Lane Co., West Eugene, 3600 Village Avenue, apx. 1 block N of Churchill High School, apx. 1 block W of Bailey Hill Road	primary	rbcL	44.0424	-123.149	0.000147333566775583
+Crataegus_monogyna	KC251336.1	03-DEC-2013	552	Canada: Ontario, Durham RM, Bowmanville	primary	rbcL	43.9016	-78.6846	0.000147333566775583
+Crataegus_monogyna	JN893479.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000150154284923245
+Crataegus_monogyna	MN662636.1	13-OCT-2020	427	Lebanon	secondary	rbcL	40.375713	-76.4626118	NA
+Crataegus_monogyna	HQ619776.1	26-DEC-2010	554	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00164933401082518
+Crataegus_monogyna	MK348957.1	24-JUN-2019	1405	Pakistan	secondary	rbcL	30.3308401	71.247499	7.68905463073315e-05
+Crataegus_monogyna	KX162929.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.1951380231109	-3.25737656691275	0.00014157220712872
+Crataegus_monogyna	KX162928.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.5259427884852	-3.62416303807926	0.00014157220712872
+Crataegus_monogyna	KX162927.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.0539103728597	-4.25406738761733	0.00014157220712872
+Crataegus_monogyna	KX162926.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.4243153439839	-3.43516035563586	0.00014157220712872
+Crataegus_monogyna	KX162925.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.9318331183259	-4.76309527207616	0.00014157220712872
+Crataegus_monogyna	KX162924.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.1427380350104	-3.83725713877751	0.00014157220712872
+Crataegus_monogyna	KX162923.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.386232951024	-3.63623635633805	0.00014157220712872
+Crataegus_monogyna	KX162922.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.8724750916428	-2.50638781073779	0.00014157220712872
+Crataegus_monogyna	KX162921.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.5862816159685	-3.00560364142378	0.00014157220712872
+Crataegus_monogyna	KX162920.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.0523164253405	-3.38617874028677	0.00014157220712872
+Crataegus_monogyna	KJ746209.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	8.21490183192311e-05
+Crataegus_monogyna	KC206669.1	08-JUL-2015	920	USA: Oregon	secondary	rbcL	43.9792797	-120.737257	NA
+Crataegus_monogyna	KJ204324.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000147868670660651
+Crataegus_monogyna	HG765052.1	18-NOV-2013	711	Italy	secondary	rbcL	42.3626127047672	11.8822300417907	0.00210473073968563
+Crataegus_monogyna	HG765051.1	18-NOV-2013	711	Italy	secondary	rbcL	43.3869179504871	13.3162058770511	7.60253924810887e-05
+Crataegus_monogyna	HG765050.1	18-NOV-2013	711	Italy	secondary	rbcL	43.0300961786836	13.331382949911	7.60253924810887e-05
+Crataegus_monogyna	JN890657.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0.000150154284923245
+Crataegus_monogyna	JN890652.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000150154284923245
+Crataegus_monogyna	FN689370.1	19-MAR-2010	743	Italy:Umbria	secondary	rbcL	42.965916	12.490236	0.00161313926058236

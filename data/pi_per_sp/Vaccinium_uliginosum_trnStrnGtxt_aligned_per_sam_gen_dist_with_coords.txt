@@ -1,0 +1,292 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vaccinium_uliginosum	MK285547.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, near Mezuinalm	primary	trnS-trnG	47.26566	11.84184	0.0020330148456482
+Vaccinium_uliginosum	MK285546.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, near Mezuinalm	primary	trnS-trnG	47.26334	11.84064	0.00261333380446243
+Vaccinium_uliginosum	MK285545.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.305970484795	11.1962149264087	0.00261333380446243
+Vaccinium_uliginosum	MK285544.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, near Mezuinalm	primary	trnS-trnG	47.26352	11.83862	0.0020330148456482
+Vaccinium_uliginosum	MK285542.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, near Mezuinalm	primary	trnS-trnG	47.26334	11.83858	0.0020330148456482
+Vaccinium_uliginosum	MK285541.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13449	11.87654	0.0020330148456482
+Vaccinium_uliginosum	MK285540.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.26564	11.8419	0.0020330148456482
+Vaccinium_uliginosum	MK285539.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13448	11.87725	0.0020330148456482
+Vaccinium_uliginosum	MK285537.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	46.8264809010069	11.7194109297953	0.00351394371506393
+Vaccinium_uliginosum	MK285536.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13425	11.87767	0.0020330148456482
+Vaccinium_uliginosum	MK285535.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13553	11.88034	0.0020330148456482
+Vaccinium_uliginosum	MK285534.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13452	11.87682	0.0020330148456482
+Vaccinium_uliginosum	MK285533.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, near Mezuinalm	primary	trnS-trnG	47.26596	11.84273	0.0020330148456482
+Vaccinium_uliginosum	MK285532.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.1342	11.87764	0.0020330148456482
+Vaccinium_uliginosum	MK285531.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.1345	11.87665	0.0020330148456482
+Vaccinium_uliginosum	MK285526.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, near Mezuinalm	primary	trnS-trnG	47.26595	11.84285	0.0020330148456482
+Vaccinium_uliginosum	MK285525.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, near Mezuinalm	primary	trnS-trnG	47.2656	11.84142	0.0020330148456482
+Vaccinium_uliginosum	MK285524.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20973	10.99024	0.0020330148456482
+Vaccinium_uliginosum	MK285523.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, near Mezuinalm	primary	trnS-trnG	47.26346	11.83875	0.0020330148456482
+Vaccinium_uliginosum	MK285522.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, near Mezuinalm	primary	trnS-trnG	47.26328	11.83772	0.0020330148456482
+Vaccinium_uliginosum	MK285521.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20991	10.99005	0.0020330148456482
+Vaccinium_uliginosum	MK285520.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20847	10.98735	0.0020330148456482
+Vaccinium_uliginosum	MK285519.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20939	10.98739	0.0020330148456482
+Vaccinium_uliginosum	MK285518.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20979	10.98739	0.0020330148456482
+Vaccinium_uliginosum	MK285517.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21004	10.98787	0.0020330148456482
+Vaccinium_uliginosum	MK285516.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20991	10.98834	0.0020330148456482
+Vaccinium_uliginosum	MK285515.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20969	10.98854	0.0020330148456482
+Vaccinium_uliginosum	MK285514.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20941	10.98893	0.0020330148456482
+Vaccinium_uliginosum	MK285513.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20953	10.98907	0.0020330148456482
+Vaccinium_uliginosum	MK285512.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21039	10.9901	0.0020330148456482
+Vaccinium_uliginosum	MK285511.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21049	10.99008	0.0020330148456482
+Vaccinium_uliginosum	MK285510.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21072	10.99054	0.0020330148456482
+Vaccinium_uliginosum	MK285509.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20887	10.98945	0.0020330148456482
+Vaccinium_uliginosum	MK285508.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21072	10.99062	0.0020330148456482
+Vaccinium_uliginosum	MK285507.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21039	10.99034	0.0020330148456482
+Vaccinium_uliginosum	MK285506.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21065	10.99095	0.0020330148456482
+Vaccinium_uliginosum	MK285505.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21057	10.99104	0.0020330148456482
+Vaccinium_uliginosum	MK285504.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13505	11.8774	0.0020330148456482
+Vaccinium_uliginosum	MK285503.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20864	10.98935	0.0020330148456482
+Vaccinium_uliginosum	MK285502.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13663	11.88032	0.0020330148456482
+Vaccinium_uliginosum	MK285501.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21049	10.99135	0.0020330148456482
+Vaccinium_uliginosum	MK285500.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.1363	11.88039	0.0020330148456482
+Vaccinium_uliginosum	MK285499.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.2101	10.99158	0.0020330148456482
+Vaccinium_uliginosum	MK285498.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13665	11.88037	0.0020330148456482
+Vaccinium_uliginosum	MK285497.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.6739961021353	11.4305071071318	0.0020330148456482
+Vaccinium_uliginosum	MK285496.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13698	11.88015	0.0020330148456482
+Vaccinium_uliginosum	MK285495.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21046	10.98961	0.0020330148456482
+Vaccinium_uliginosum	MK285494.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13503	11.87736	0.0020330148456482
+Vaccinium_uliginosum	MK285493.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21041	10.99017	0.0020330148456482
+Vaccinium_uliginosum	MK285492.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.1348	11.87711	0.0020330148456482
+Vaccinium_uliginosum	MK285491.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13471	11.87782	0.0020330148456482
+Vaccinium_uliginosum	MK285490.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13507	11.87681	0.0020330148456482
+Vaccinium_uliginosum	MK285489.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13526	11.87739	0.0020330148456482
+Vaccinium_uliginosum	MK285488.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13513	11.87719	0.0020330148456482
+Vaccinium_uliginosum	MK285487.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20989	10.99037	0.0020330148456482
+Vaccinium_uliginosum	MK285486.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13513	11.87662	0.0020330148456482
+Vaccinium_uliginosum	MK285485.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13521	11.87782	0.0020330148456482
+Vaccinium_uliginosum	MK285484.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13552	11.87685	0.0020330148456482
+Vaccinium_uliginosum	MK285483.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13519	11.87709	0.0020330148456482
+Vaccinium_uliginosum	MK285482.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13523	11.87795	0.0020330148456482
+Vaccinium_uliginosum	MK285481.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13504	11.87682	0.00215732290725752
+Vaccinium_uliginosum	MK285480.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13526	11.87732	0.0020330148456482
+Vaccinium_uliginosum	MK285479.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13463	11.87822	0.0020330148456482
+Vaccinium_uliginosum	MK285478.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13475	11.87676	0.0020330148456482
+Vaccinium_uliginosum	MK285477.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13529	11.87781	0.0020330148456482
+Vaccinium_uliginosum	MK285476.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13504	11.87779	0.0020330148456482
+Vaccinium_uliginosum	MK285475.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13454	11.8763	0.0020330148456482
+Vaccinium_uliginosum	MK285474.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.1353	11.87759	0.0020330148456482
+Vaccinium_uliginosum	MK285473.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13514	11.87688	0.0020330148456482
+Vaccinium_uliginosum	MK285472.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13529	11.87736	0.0020330148456482
+Vaccinium_uliginosum	MK285471.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13466	11.8769	0.0020330148456482
+Vaccinium_uliginosum	MK285470.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13512	11.87712	0.0020330148456482
+Vaccinium_uliginosum	MK285469.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13667	11.88021	0.0020330148456482
+Vaccinium_uliginosum	MK285468.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13473	11.87779	0.0020330148456482
+Vaccinium_uliginosum	MK285467.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13499	11.87681	0.0020330148456482
+Vaccinium_uliginosum	MK285466.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21078	10.98979	0.0020330148456482
+Vaccinium_uliginosum	MK285465.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13477	11.87647	0.0020330148456482
+Vaccinium_uliginosum	MK285464.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.1341	11.87638	0.0020330148456482
+Vaccinium_uliginosum	MK285463.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20838	10.98885	0.0020330148456482
+Vaccinium_uliginosum	MK285462.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13463	11.87678	0.0020330148456482
+Vaccinium_uliginosum	MK285461.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20916	10.98983	0.0020330148456482
+Vaccinium_uliginosum	MK285460.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13459	11.87631	0.0020330148456482
+Vaccinium_uliginosum	MK285459.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20938	10.98978	0.0020330148456482
+Vaccinium_uliginosum	MK285458.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21197	10.99066	0.0020330148456482
+Vaccinium_uliginosum	MK285456.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.2102	10.98807	0.00351394371506393
+Vaccinium_uliginosum	MK285451.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	46.511733124071	11.3381061488601	0.00261333380446243
+Vaccinium_uliginosum	MK285438.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.20952	10.98998	0.00261333380446243
+Vaccinium_uliginosum	MK285437.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21082	10.98953	0.00261333380446243
+Vaccinium_uliginosum	MK285412.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13566	11.8801	0.00261333380446243
+Vaccinium_uliginosum	MK285401.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13493	11.87658	0.0020330148456482
+Vaccinium_uliginosum	MK285400.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13491	11.87654	0.0020330148456482
+Vaccinium_uliginosum	MK285393.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21016	10.99074	0.00261333380446243
+Vaccinium_uliginosum	MK285392.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13666	11.88021	0.00261333380446243
+Vaccinium_uliginosum	MK285391.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13672	11.88034	0.00261333380446243
+Vaccinium_uliginosum	MK285389.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13611	11.88012	0.00261333380446243
+Vaccinium_uliginosum	MK285388.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13542	11.87689	0.00261333380446243
+Vaccinium_uliginosum	MK285386.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13457	11.87647	0.00261333380446243
+Vaccinium_uliginosum	MK285382.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13529	11.87874	0.00261333380446243
+Vaccinium_uliginosum	MK285381.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	primary	trnS-trnG	47.21084	10.99106	0.00261333380446243
+Vaccinium_uliginosum	MK285378.1	23-DEC-2019	656	Austria: Tirol, Zillertaler Alpen, Filzenkogel, NE slope	primary	trnS-trnG	47.13475	11.87742	0.00261333380446243
+Vaccinium_uliginosum	MF427782.1	09-JAN-2018	724	Germany: Wildmoos near Gilching	primary	trnS-trnG	48.11155	11.22431	0.00204086016436022
+Vaccinium_uliginosum	MF427781.1	09-JAN-2018	737	Germany: Katzenreuter Filze	primary	trnS-trnG	48.0317	12.00653	0.00203881363972041
+Vaccinium_uliginosum	MF427780.1	09-JAN-2018	728	Germany: Schonleitenschrofen	primary	trnS-trnG	47.57122	10.80811	0.0020398687471959
+Vaccinium_uliginosum	MF427779.1	09-JAN-2018	731	Austria: bog west of Berwang	primary	trnS-trnG	47.40932	10.73626	0.00203896164744257
+Vaccinium_uliginosum	MF427778.1	09-JAN-2018	724	Italy: path towards Lavarellahutte	primary	trnS-trnG	46.61904	12.02559	0.00204086016436022
+Vaccinium_uliginosum	MF427777.1	09-JAN-2018	731	Italy: path towards Lavarellahutte	primary	trnS-trnG	46.61902	12.02641	0.00203896164744257
+Vaccinium_uliginosum	MF427776.1	09-JAN-2018	736	Italy: path towards Knuttenalm	primary	trnS-trnG	46.96917	12.08251	0.00261612861770989
+Vaccinium_uliginosum	MF427775.1	09-JAN-2018	735	Italy: summit of Creta di Timau	primary	trnS-trnG	46.59666	13.00898	0.00261626367393526
+Vaccinium_uliginosum	MF427774.1	09-JAN-2018	735	Italy: summit of Creta di Timau	primary	trnS-trnG	46.59607	13.0077	0.00261626367393526
+Vaccinium_uliginosum	MF427773.1	09-JAN-2018	683	Austria: surroundings of Zettersfeld	primary	trnS-trnG	46.86861	12.78312	0.00259094457392093
+Vaccinium_uliginosum	MF427772.1	09-JAN-2018	734	Austria: surroundings of Zettersfeld	primary	trnS-trnG	46.86863	12.78282	0.00261638581673713
+Vaccinium_uliginosum	MF427771.1	09-JAN-2018	732	Austria: below Retschitzalpe	primary	trnS-trnG	47.02884	12.79998	0.00261674839778269
+Vaccinium_uliginosum	MF427770.1	09-JAN-2018	734	Austria: along Grossglockner-Hochalpenstrasse	primary	trnS-trnG	47.13086	12.80798	0.00203840142962044
+Vaccinium_uliginosum	MF427769.1	09-JAN-2018	737	Austria: Filzenkogel, NE slope	primary	trnS-trnG	47.13477	11.87806	0.00203817769896793
+Vaccinium_uliginosum	MF427768.1	09-JAN-2018	736	Austria: Filzenkogel, NE slope	primary	trnS-trnG	47.13502	11.87716	0.0026161032600614
+Vaccinium_uliginosum	MF427767.1	09-JAN-2018	725	Austria: Filzenkogel, NE slope	primary	trnS-trnG	47.13492	11.87499	0.00261861819170191
+Vaccinium_uliginosum	MF427766.1	09-JAN-2018	735	Austria: near Mezuinalm	primary	trnS-trnG	47.26598	11.8434	0.00203831816183554
+Vaccinium_uliginosum	MF427765.1	09-JAN-2018	728	Austria: near Mezuinalm	primary	trnS-trnG	47.26627	11.84398	0.00261769547795684
+Vaccinium_uliginosum	MF427764.1	09-JAN-2018	722	Austria: near Mezuinalm	primary	trnS-trnG	47.26571	11.84481	0.00204145553367296
+Vaccinium_uliginosum	MF427763.1	09-JAN-2018	732	Austria: S of lake Zirein, Rofan	primary	trnS-trnG	47.46352	11.81212	0.00203876155633893
+Vaccinium_uliginosum	MF427762.1	09-JAN-2018	727	Switzerland: Turbenmoos near Etzel	primary	trnS-trnG	47.17588	8.75734	0.00204028998252006
+Vaccinium_uliginosum	MF427761.1	09-JAN-2018	724	Switzerland: Eggenberge below Huenderegg	primary	trnS-trnG	46.90379	8.6557	0.00204086016436022
+Vaccinium_uliginosum	MF427760.1	09-JAN-2018	728	Switzerland: Passo del Lucomagno	primary	trnS-trnG	46.563	8.79927	0.00203966853852718
+Vaccinium_uliginosum	MF427759.1	09-JAN-2018	734	Switzerland: Passo del Lucomagno	primary	trnS-trnG	46.56328	8.79964	0.00261630873257227
+Vaccinium_uliginosum	MF427758.1	09-JAN-2018	735	Switzerland: Passo del Lucomagno	primary	trnS-trnG	46.56346	8.79975	0.00261626367393526
+Vaccinium_uliginosum	MF427757.1	09-JAN-2018	732	Switzerland: Alpe di Sceng	primary	trnS-trnG	46.36022	9.05526	0.00261674839778269
+Vaccinium_uliginosum	MF427756.1	09-JAN-2018	731	Switzerland: western ridge of Monte Bar	primary	trnS-trnG	46.10381	8.99843	0.00261694780963005
+Vaccinium_uliginosum	MF427755.1	09-JAN-2018	732	Switzerland: western ridge of Monte Bar	primary	trnS-trnG	46.10406	8.99907	0.00261696910960205
+Vaccinium_uliginosum	MF427754.1	09-JAN-2018	731	Switzerland: Maggia valley, above lake Sambuco	primary	trnS-trnG	46.48823	8.61499	0.002617116783418
+Vaccinium_uliginosum	MF427753.1	09-JAN-2018	734	Germany: Spitzingsee moor	primary	trnS-trnG	47.99511	11.8835	0.00203840142962044
+Vaccinium_uliginosum	MF427752.1	09-JAN-2018	722	Germany: Filzenklaas, S of Tuntenhausen	primary	trnS-trnG	47.91572	12.02937	0.00204145553367296
+Vaccinium_uliginosum	MF427751.1	09-JAN-2018	736	Austria: Faschina, Zafernhorn, Gumpner Gratle	primary	trnS-trnG	47.27519	9.92625	0.00203828629001635
+Vaccinium_uliginosum	MF427750.1	09-JAN-2018	724	Austria: Faschina, Zafernhorn, Gumpner Gratle	primary	trnS-trnG	47.27538	9.92737	0.00204086016436022
+Vaccinium_uliginosum	MF427749.1	09-JAN-2018	731	Austria: Moor near Langen bei Bregenz	primary	trnS-trnG	47.50862	9.84761	0.00203929937799128
+Vaccinium_uliginosum	MF427748.1	09-JAN-2018	731	Switzerland: Moor Bizau-Schonenbach	primary	trnS-trnG	47.373	10.02246	0.00203910448678852
+Vaccinium_uliginosum	MF427747.1	09-JAN-2018	730	Austria: Niederthai, Hemerachalmen	primary	trnS-trnG	47.10258	10.97118	0.00261718768507018
+Vaccinium_uliginosum	MF427746.1	09-JAN-2018	729	Italy: Oberglaueggalm, Timmelsjoch	primary	trnS-trnG	46.88172	11.11075	0.00261759945877869
+Vaccinium_uliginosum	MF427745.1	09-JAN-2018	728	Italy: Lavaze Joch, Malga Varena	primary	trnS-trnG	46.35212	11.4842	0.00261817044509637
+Vaccinium_uliginosum	MF427744.1	09-JAN-2018	728	Italy: Wolflmoor, Deutschnofen	primary	trnS-trnG	46.4301	11.4105	0.00203982544646797
+Vaccinium_uliginosum	MF427743.1	09-JAN-2018	732	Germany: Fetzachmoos	primary	trnS-trnG	47.75102	10.02963	0.00203873574352046
+Vaccinium_uliginosum	MF427742.1	09-JAN-2018	737	Italy: Lazins, Pfelders	primary	trnS-trnG	46.78068	11.05981	0.00348193539402997
+Vaccinium_uliginosum	MF427741.1	09-JAN-2018	735	Italy: Lazins, Pfelders	primary	trnS-trnG	46.78279	11.06607	0.00261626367393526
+Vaccinium_uliginosum	MF427740.1	09-JAN-2018	724	Italy: Spitzn Sumpfl, Ulten	primary	trnS-trnG	46.52798	11.02469	0.00261883512850539
+Vaccinium_uliginosum	MF427739.1	09-JAN-2018	732	Switzerland: Pescia Alta, Brusio	primary	trnS-trnG	46.22962	10.07302	0.00261674839778269
+Vaccinium_uliginosum	MF427738.1	09-JAN-2018	730	Switzerland: Bernina pass	primary	trnS-trnG	46.41343	10.02328	0.0026173854875926
+Vaccinium_uliginosum	MF427737.1	09-JAN-2018	729	Switzerland: Lej da Staz, St Moritz	primary	trnS-trnG	46.49865	9.87056	0.00203975829050818
+Vaccinium_uliginosum	MF427736.1	09-JAN-2018	732	Switzerland: Lej da Staz, St Moritz	primary	trnS-trnG	46.49898	9.87118	0.00203873574352046
+Vaccinium_uliginosum	MF427735.1	09-JAN-2018	729	Germany: Glaser Moos near Kesselberg, Bonndorf	primary	trnS-trnG	47.82149	8.25212	0.00204017279600906
+Vaccinium_uliginosum	MF427734.1	09-JAN-2018	733	Switzerland: Schollberg, St. Antonien	primary	trnS-trnG	46.97529	9.85273	0.00261650890440882
+Vaccinium_uliginosum	MF427733.1	09-JAN-2018	739	Switzerland: Fluelapass	primary	trnS-trnG	46.75312	9.94573	0.00261609016253132
+Vaccinium_uliginosum	MF427732.1	09-JAN-2018	728	Austria: Gerlosplatte	primary	trnS-trnG	47.24214	12.14188	0.00204020528327016
+Vaccinium_uliginosum	MF427731.1	09-JAN-2018	733	Austria: surroundings of Jack-Hochalm, Rauris	primary	trnS-trnG	47.22186	12.95493	0.00203854901656986
+Vaccinium_uliginosum	MF427730.1	09-JAN-2018	735	Germany: Ursprunger Moos	primary	trnS-trnG	47.88449	13.06185	0.00203831816183554
+Vaccinium_uliginosum	MF427729.1	09-JAN-2018	727	Germany: Rohrmoos near Innerwill	primary	trnS-trnG	47.95229	13.05183	0.00204028998252006
+Vaccinium_uliginosum	MF427728.1	09-JAN-2018	727	Germany: Gotzenalm, Feuerpalven	primary	trnS-trnG	47.53959	12.99423	0.00204000313646835
+Vaccinium_uliginosum	MF427727.1	09-JAN-2018	728	Germany: Schwenninger Moos	primary	trnS-trnG	48.03986	8.52418	0.00204020528327016
+Vaccinium_uliginosum	MF427726.1	09-JAN-2018	737	Germany: Oberoblander Filz	primary	trnS-trnG	47.83568	10.94546	0.00203828629001635
+Vaccinium_uliginosum	MF427725.1	09-JAN-2018	737	Germany: Dettenhofer Filz	primary	trnS-trnG	47.97064	11.03736	0.00203828629001635
+Vaccinium_uliginosum	MG252855.1	09-JAN-2018	693	Switzerland: Schollberg, St. Antonien	primary	trnS-trnG	47.8190894509605	10.2165204831984	0.00205146292030895
+Vaccinium_uliginosum	MG252854.1	09-JAN-2018	680	Switzerland: Schollberg, St. Antonien	primary	trnS-trnG	46.733785246926	10.5125274648606	0.00201541491812996
+Vaccinium_uliginosum	DQ073199.1	04-JUL-2005	676	USA: Alaska, Seward Pen., Teller Rd.	primary	trnS-trnG	64.7100963400766	-165.408007483642	0.00345773457967725
+Vaccinium_uliginosum	DQ073198.1	04-JUL-2005	677	USA: Alaska, Seward Pen., Teller Rd.	primary	trnS-trnG	63.9186003653847	-166.063980419986	0.00958546444418602
+Vaccinium_uliginosum	DQ073197.1	04-JUL-2005	662	USA: Alaska, Seward Pen., Cowpack Inlet	primary	trnS-trnG	66.35	-164.95	0.00565602167883938
+Vaccinium_uliginosum	DQ073196.1	04-JUL-2005	677	USA: Alaska, Noatak Quad, Sheshalik Split	primary	trnS-trnG	67.02	-162.95	0.00485010203143886
+Vaccinium_uliginosum	DQ073195.1	04-JUL-2005	676	Canada: NWT, Mackenzie R. Delta, Tuktoyaktut	primary	trnS-trnG	69.43	-133.02	0.0035531362181108
+Vaccinium_uliginosum	DQ073194.1	04-JUL-2005	676	Canada: Nunavut, Rankin Inlet	primary	trnS-trnG	62.8	-92.1	0.00497227629730808
+Vaccinium_uliginosum	DQ073193.1	04-JUL-2005	676	Canada: Newfoundland, Holyrood, Hawke Hills	primary	trnS-trnG	47.38	-53.13	0.00502926201978039
+Vaccinium_uliginosum	DQ073192.1	04-JUL-2005	465	USA: New Hampshire, White Mts., Mt. Pierce	primary	trnS-trnG	44	-71.5	0.00408267820142381
+Vaccinium_uliginosum	DQ073191.1	04-JUL-2005	578	Ukraine: Carpathian Mts., Zakarpatskaya Region, Perechinsky	primary	trnS-trnG	48	24	0.0114853406984977
+Vaccinium_uliginosum	DQ073190.1	04-JUL-2005	492	Russia: Taymyr Pen., Ragozinka R. mouth	primary	trnS-trnG	75	102	0.00584596673451997
+Vaccinium_uliginosum	DQ073189.1	04-JUL-2005	676	Russia: Chukotka, Bilibino, Besimyanny settlement	primary	trnS-trnG	68	166	0.00656616468185761
+Vaccinium_uliginosum	DQ073188.1	04-JUL-2005	676	Russia: Yakutia, lower Indigirka drainage, Shandrin R.	primary	trnS-trnG	62	129	0.00503681322599911
+Vaccinium_uliginosum	DQ073187.1	04-JUL-2005	676	Russia: Amur Distr, Zeya R. drainage, Tukuringra Range	primary	trnS-trnG	50	138	0.0035531362181108
+Vaccinium_uliginosum	DQ073186.1	04-JUL-2005	676	Russia: Krasnoyarsk district, Khatanga settlement	primary	trnS-trnG	71.95	102.4	0.0035531362181108
+Vaccinium_uliginosum	DQ073185.1	04-JUL-2005	676	Russia: E Altai, Kurkure Range, Kuzulun R.	primary	trnS-trnG	50	85	0.0081568591321001
+Vaccinium_uliginosum	DQ073184.1	04-JUL-2005	676	Russia: Polar Ural, Kharp railway station	primary	trnS-trnG	65	66	0.0035531362181108
+Vaccinium_uliginosum	DQ073183.1	04-JUL-2005	676	Switzerland: Appenzell Assuer-Rhoden, Schwaagalp, Hungbuel	primary	trnS-trnG	47.25	9.33	0.00354486898078885
+Vaccinium_uliginosum	DQ073182.1	04-JUL-2005	676	USA: Nevada, Ormsby Co., Carson Range	primary	trnS-trnG	39	-119	0.00795408242101541
+Vaccinium_uliginosum	DQ073181.1	04-JUL-2005	611	USA: Alaska, Aleutian Is., Adak Quad, Adak I.	primary	trnS-trnG	51.83	-176.58	0.00361225481120547
+Vaccinium_uliginosum	DQ073180.1	04-JUL-2005	612	USA: Alaska, Aleutian Is., Unalaska Quad, Umnak I.	primary	trnS-trnG	53.38	-167.83	0.00683040423841459
+Vaccinium_uliginosum	DQ073179.1	04-JUL-2005	574	USA: Alaska, Aleutian Is., Atka Is.	primary	trnS-trnG	52.07	-174.58	0.0048799613210697
+Vaccinium_uliginosum	DQ073178.1	04-JUL-2005	677	USA: Alaska, Ketchikan Quad, Ella Lake, NE shore	primary	trnS-trnG	55.48	-131.07	0.00345740750297916
+Vaccinium_uliginosum	DQ073177.1	04-JUL-2005	677	USA: Alaska, Selawik Quad, Waring Mts.	primary	trnS-trnG	66.97	-159.68	0.00485010203143886
+Vaccinium_uliginosum	DQ073176.1	04-JUL-2005	676	USA: Alaska, Arctic Coastal Plain, Oumalik Test Well	primary	trnS-trnG	69.83	-156	0.0035531362181108
+Vaccinium_uliginosum	DQ073175.1	04-JUL-2005	594	USA: Alaska, Unalakleet Quad, Nulato Hills	primary	trnS-trnG	63.8	-160.38	0.00574648131603244
+Vaccinium_uliginosum	DQ073174.1	04-JUL-2005	644	USA: Alaska, Umiat	primary	trnS-trnG	69.42	-152.33	0.00811241667624806
+Vaccinium_uliginosum	DQ073173.1	04-JUL-2005	676	Norway: Nordland, Narvik, Frostisen	primary	trnS-trnG	68.2	17.3	0.00206119197290056
+Vaccinium_uliginosum	DQ073172.1	04-JUL-2005	676	Norway: Nordland, Hemnes, Okstindan, Okskalvan	primary	trnS-trnG	66	14.22	0.00206119197290056
+Vaccinium_uliginosum	DQ073171.1	04-JUL-2005	676	Spain: Pyrenees, Lerida, Barruera	primary	trnS-trnG	42.52	0.85	0.00417515657363484
+Vaccinium_uliginosum	DQ073170.1	04-JUL-2005	676	France: Rhone-Alpes, Isere, Belledonne, Chamrousse	primary	trnS-trnG	45.12	5.9	0.00265705818500959
+Vaccinium_uliginosum	DQ073169.1	04-JUL-2005	676	Greenland: Zackenberg	primary	trnS-trnG	74.47	-20.55	0.00497227629730808
+Vaccinium_uliginosum	DQ073168.1	04-JUL-2005	676	Greenland: Liverpool Land, Scoresbysund	primary	trnS-trnG	70.48	-21.93	0.00497227629730808
+Vaccinium_uliginosum	DQ073167.1	04-JUL-2005	676	Greenland: Jameson Land, Constable Point	primary	trnS-trnG	70.73	-22.68	0.00497227629730808
+Vaccinium_uliginosum	DQ073166.1	04-JUL-2005	677	Greenland: Anmagssalik, Kummiut	primary	trnS-trnG	65.85	-36.98	0.00206068977765288
+Vaccinium_uliginosum	DQ073165.1	04-JUL-2005	676	Greenland: Anmagssalik, Tasilak	primary	trnS-trnG	65.62	-37.67	0.0035531362181108
+Vaccinium_uliginosum	DQ073164.1	04-JUL-2005	676	Greenland: Anmagssalik, Kulusuk	primary	trnS-trnG	65.57	-37.17	0.00497227629730808
+Vaccinium_uliginosum	DQ073163.1	04-JUL-2005	676	Greenland: Inglefield Land, Spejlsoe	primary	trnS-trnG	79.07	-66.4	0.0035531362181108
+Vaccinium_uliginosum	DQ073162.1	04-JUL-2005	676	Greenland: Inglefield Land, Marshall Bugt	primary	trnS-trnG	78.83	-68.83	0.0035531362181108
+Vaccinium_uliginosum	DQ073161.1	04-JUL-2005	676	Greenland: Inglefield Land, Hiawatha	primary	trnS-trnG	78.83	-67.3	0.0035531362181108
+Vaccinium_uliginosum	DQ073160.1	04-JUL-2005	676	Greenland: Inglefield Land, Firfinger Soe	primary	trnS-trnG	78.98	-67.17	0.00497227629730808
+Vaccinium_uliginosum	DQ073159.1	04-JUL-2005	676	Greenland: Upernavik, Upernavik Oe	primary	trnS-trnG	72.78	-56.12	0.0035531362181108
+Vaccinium_uliginosum	DQ073158.1	04-JUL-2005	676	Greenland: Upernavik, Langoe	primary	trnS-trnG	72.77	-56.08	0.0035531362181108
+Vaccinium_uliginosum	DQ073157.1	04-JUL-2005	676	Greenland: Qeqertarsuaq (Disko), Fortune Bay	primary	trnS-trnG	69.25	-53.75	0.0035531362181108
+Vaccinium_uliginosum	DQ073156.1	04-JUL-2005	676	Canada: Nunavut, Ellesmere I., Grise Fiord	primary	trnS-trnG	76.45	-82.67	0.00497227629730808
+Vaccinium_uliginosum	DQ073155.1	04-JUL-2005	676	Canada: Quebec, Ungava Pen.	primary	trnS-trnG	62.37	-73.75	0.00502926201978039
+Vaccinium_uliginosum	DQ073154.1	04-JUL-2005	676	Canada: Nunavut, Melville I.	primary	trnS-trnG	75	-110	0.00502926201978039
+Vaccinium_uliginosum	DQ073153.1	04-JUL-2005	676	Canada: Nunavut, Victoria I., Wollaston Pen.	primary	trnS-trnG	69.33	-114.83	0.0035531362181108
+Vaccinium_uliginosum	DQ073152.1	04-JUL-2005	676	Canada: Newfoundland, Bay du Nord Wilderness (Cult. Tromsoe Bot. Garden)	primary	trnS-trnG	48	-55	0.00206119197290056
+Vaccinium_uliginosum	DQ073151.1	04-JUL-2005	676	USA: NE California, Sierra Nevada N, Adams Peak (Cult. Tromsoe Bot. Garden)	primary	trnS-trnG	40	-120	0.00647352735774392
+Vaccinium_uliginosum	DQ073150.1	04-JUL-2005	676	USA: Alaska, N of Brooks Range, along Sag river	primary	trnS-trnG	69.32	-148.72	0.0035531362181108
+Vaccinium_uliginosum	DQ073149.1	04-JUL-2005	677	Russia: Chukotka, Lavrentia village	primary	trnS-trnG	65.5	171.03	0.00485010203143886
+Vaccinium_uliginosum	DQ073148.1	04-JUL-2005	677	Russia: Chukotka, Anadyr Bay	primary	trnS-trnG	64.5540383138781	177.848852213371	0.00485010203143886
+Vaccinium_uliginosum	DQ073147.1	04-JUL-2005	677	Russia: Chukotka, Anadyr Bay	primary	trnS-trnG	64.1355314837406	178.314937615815	0.00485010203143886
+Vaccinium_uliginosum	DQ073146.1	04-JUL-2005	676	Russia: Ural, Hadata	primary	trnS-trnG	67.58	66.32	0.0035531362181108
+Vaccinium_uliginosum	DQ073145.1	04-JUL-2005	676	Russia: Vorkuta, Ileymusyur	primary	trnS-trnG	67.13	62.58	0.0035531362181108
+Vaccinium_uliginosum	DQ073144.1	04-JUL-2005	676	Russia: Vorkuta, Lyasmylk	primary	trnS-trnG	67.47	62.83	0.0035531362181108
+Vaccinium_uliginosum	DQ073143.1	04-JUL-2005	676	Russia: Vorkuta, Seyda	primary	trnS-trnG	67.38	62.92	0.00645262837405685
+Vaccinium_uliginosum	DQ073142.1	04-JUL-2005	676	Russia: Kola Pen., Drozdovka	primary	trnS-trnG	67.78	40.53	0.00206119197290056
+Vaccinium_uliginosum	DQ073141.1	04-JUL-2005	676	Finland: Kainuu, Kajaani, Koivukylaa	primary	trnS-trnG	64.02	27.45	0.00206119197290056
+Vaccinium_uliginosum	DQ073140.1	04-JUL-2005	676	Finland: Kainuu, Suomussalmi	primary	trnS-trnG	64.95	29.33	0.00206119197290056
+Vaccinium_uliginosum	DQ073139.1	04-JUL-2005	676	Finland: Uusimaa, Sipoo, Pohjois-Paippinene	primary	trnS-trnG	60.45	25.2	0.00206119197290056
+Vaccinium_uliginosum	DQ073138.1	04-JUL-2005	676	Spain: Huesca, Canfranc, Somport Frontier	primary	trnS-trnG	42.77	-0.53	0.00265705818500959
+Vaccinium_uliginosum	DQ073137.1	04-JUL-2005	676	Spain: Huesca, Bielsa, valle del Trigoniero	primary	trnS-trnG	42.7	0.23	0.00265705818500959
+Vaccinium_uliginosum	DQ073136.1	04-JUL-2005	676	France: Pyrenees, Gabas, Vallee d Ossau	primary	trnS-trnG	42.83	-0.52	0.00265705818500959
+Vaccinium_uliginosum	DQ073135.1	04-JUL-2005	676	France: Rhone-Alpes, Isere, Belledonne, Grandes Rousses	primary	trnS-trnG	45.08	6.07	0.00265705818500959
+Vaccinium_uliginosum	DQ073134.1	04-JUL-2005	676	France: Provence-Alpes, Hautes-Alpes, Col du Lautaret	primary	trnS-trnG	45.07	6.38	0.00265705818500959
+Vaccinium_uliginosum	DQ073133.1	04-JUL-2005	676	United Kingdom: Scotland, Coire An T-Sneachda, Cairn Gorm	primary	trnS-trnG	57.12	-3.67	0.00206119197290056
+Vaccinium_uliginosum	DQ073132.1	04-JUL-2005	676	United Kingdom: Scotland, Liathach, Wester Ross	primary	trnS-trnG	57.55	-5.5	0.00206119197290056
+Vaccinium_uliginosum	DQ073131.1	04-JUL-2005	676	Norway: Oppland, Dovre, Graasida, Verkenssaetri	primary	trnS-trnG	62.05	9.43	0.00206119197290056
+Vaccinium_uliginosum	DQ073130.1	04-JUL-2005	676	Norway: Hedmark, Folldal, Raataasjoehoei	primary	trnS-trnG	62.27	9.8	0.00206119197290056
+Vaccinium_uliginosum	DQ073129.1	04-JUL-2005	676	Norway: Oppland, Dovre, Geitryggen	primary	trnS-trnG	62.2	9.48	0.00206119197290056
+Vaccinium_uliginosum	DQ073128.1	04-JUL-2005	677	Norway: Nordland, Vesteraalen, Hadsel, Storheia	primary	trnS-trnG	68.53	14.87	0.00206068977765288
+Vaccinium_uliginosum	DQ073127.1	04-JUL-2005	677	Norway: Nordland, Vesteraalen, Andoey, Maatind	primary	trnS-trnG	69.25	15.88	0.00206068977765288
+Vaccinium_uliginosum	DQ073126.1	04-JUL-2005	676	Norway: Nordland, Vesteraalen, Sortland, Holand	primary	trnS-trnG	68.63	15.25	0.00206119197290056
+Vaccinium_uliginosum	DQ073125.1	04-JUL-2005	676	Norway: Nordland, Vesteraalen, Boe, Bufjellet	primary	trnS-trnG	68.77	14.47	0.00206119197290056
+Vaccinium_uliginosum	DQ073124.1	04-JUL-2005	676	Norway: Troms, Storfjord, Adjit	primary	trnS-trnG	69.35	20.37	0.00206119197290056
+Vaccinium_uliginosum	DQ073123.1	04-JUL-2005	676	Norway: Troms, Storfjord, Adjit	primary	trnS-trnG	69.37	20.38	0.00206119197290056
+Vaccinium_uliginosum	DQ073122.1	04-JUL-2005	676	Norway: Finnmark, Nordkapp, Daar'kacaak'ka	primary	trnS-trnG	70.83	25.78	0.00206119197290056
+Vaccinium_uliginosum	DQ073121.1	04-JUL-2005	676	Norway: Finnmark, Nordkapp, Duken	primary	trnS-trnG	71.03	25.8	0.0035531362181108
+Vaccinium_uliginosum	DQ073120.1	04-JUL-2005	676	Norway: Troms, Maalselv, Skakteraasen	primary	trnS-trnG	69.1950733822233	19.6106364447019	0.00206119197290056
+Vaccinium_uliginosum	DQ073119.1	04-JUL-2005	676	Norway: Troms, Maalselv, Skakteraasen	primary	trnS-trnG	69.1974841587534	21.020370100862	0.00206119197290056
+Vaccinium_uliginosum	DQ073118.1	04-JUL-2005	677	Norway: Nordland, Lofoten, Hadsel, Grunnfoerfjorden	primary	trnS-trnG	68.42	14.53	0.00206068977765288
+Vaccinium_uliginosum	DQ073117.1	04-JUL-2005	676	Norway: Troms, Kvaenangen, Kvaenangsfjellet	primary	trnS-trnG	69.9	21.57	0.00206119197290056
+Vaccinium_uliginosum	DQ073116.1	04-JUL-2005	676	Norway: Troms, Tromsoe, Floeya	primary	trnS-trnG	69.6	19.02	0.00206119197290056
+Vaccinium_uliginosum	DQ073115.1	04-JUL-2005	676	Iceland: Austurland, Reydarfjoerdur	primary	trnS-trnG	65.02	-14.07	0.00206119197290056
+Vaccinium_uliginosum	DQ073114.1	04-JUL-2005	676	Svalbard: Nordenskioeld Ld., 40 m above V2	primary	trnS-trnG	77.5240136186867	15.1128978102865	0.0035531362181108
+Vaccinium_uliginosum	DQ073113.1	04-JUL-2005	676	Iceland: Nordurland Eystra, Vesturheidi	primary	trnS-trnG	65.98	-17.87	0.00206119197290056
+Vaccinium_uliginosum	DQ073112.1	04-JUL-2005	676	Iceland: Nordurland Eystra, Myvatn	primary	trnS-trnG	65.57	-16.95	0.00206119197290056
+Vaccinium_uliginosum	DQ073111.1	04-JUL-2005	676	Iceland: Nordurland Vestra, Kjoelur	primary	trnS-trnG	64.93	-19.5	0.00206119197290056
+Vaccinium_uliginosum	DQ073110.1	04-JUL-2005	676	Iceland: Vesturland, Holtavoerduheidi	primary	trnS-trnG	64.87	-21.2	0.00206119197290056
+Vaccinium_uliginosum	DQ073109.1	04-JUL-2005	676	Svalbard: Dickson Ld., Idodalen	primary	trnS-trnG	78.58	15.38	0.0035531362181108
+Vaccinium_uliginosum	DQ073108.1	04-JUL-2005	676	Iceland: Austurland, Egilstadir	primary	trnS-trnG	65.35	-14.5	0.00206119197290056
+Vaccinium_uliginosum	DQ073107.1	04-JUL-2005	676	Svalbard: Nordenskioeld Ld., 50 m below V2	primary	trnS-trnG	78.1	15.12	0.0035531362181108
+Vaccinium_uliginosum	DQ073106.1	04-JUL-2005	676	Svalbard: Nordenskioeld Ld., Colesdalen	primary	trnS-trnG	78.5250670301352	15.1141801561209	0.0035531362181108
+Vaccinium_uliginosum	DQ073105.1	04-JUL-2005	676	Iceland: Vesturland, Akranes, Akrafjall	primary	trnS-trnG	64.35	-21.9	0.00206119197290056
+Vaccinium_uliginosum	AB570250.1	02-JUL-2010	640	Japan: Central Honshu, Mt Shirouma	primary	trnS-trnG	36.78	137.75	0.00649355768746004
+Vaccinium_uliginosum	EF502135.1	08-MAY-2007	632	Canada: BC, Skeena R. valley, Shames Mtn. ski area	primary	trnS-trnG	54.484	-128.954	0.0022129859011776
+Vaccinium_uliginosum	EF502134.1	08-MAY-2007	632	Norway: Nordland, Andayy, Rayken	primary	trnS-trnG	69.28	16.007	0.00207754627671004
+Vaccinium_uliginosum	EF502133.1	08-MAY-2007	631	Norway: Finnmark, Nordkapp, Duken	primary	trnS-trnG	71.075	25.802	0.00207803857814343
+Vaccinium_uliginosum	EF502132.1	08-MAY-2007	632	USA: Alaska, Seward Pen., Cape Nome, along Council Road	primary	trnS-trnG	64.5694278800244	-166.385248073216	0.00366868086675351
+Vaccinium_uliginosum	EF502131.1	08-MAY-2007	638	Georgia: Borjomi region, Tskhratskaro pass	primary	trnS-trnG	42.683	43.508	0.00553799581475586
+Vaccinium_uliginosum	EF502130.1	08-MAY-2007	631	Norway: Buskerud, A.l, N of Helsingset, Nysta lane	primary	trnS-trnG	60.738	8.617	0.00221335482470386
+Vaccinium_uliginosum	EF502129.1	08-MAY-2007	640	Russia: Sakha Republic (Ya), Kharaulakh Mts	primary	trnS-trnG	71.925	127.318	0.00552132459322097
+Vaccinium_uliginosum	EF502128.1	08-MAY-2007	639	Russia: Sakha Republic (Ya), Lena R. E bank, near Vartay Isl.	primary	trnS-trnG	69.107	124.195	0.00552938347039819
+Vaccinium_uliginosum	EF502127.1	08-MAY-2007	639	Russia: Nenetskiy AO, Naryan-Mar, Fakel	primary	trnS-trnG	67.66	53.114	0.00552938347039819
+Vaccinium_uliginosum	EF502126.1	08-MAY-2007	631	Canada: Newfoundland, Mt. Gros Morne	primary	trnS-trnG	49.596	-57.791	0.00207803857814343
+Vaccinium_uliginosum	EF502125.1	08-MAY-2007	640	Canada: Quebec, Gaspasie, Mt. Jacques-Cartier	primary	trnS-trnG	48.999	-65.943	0.00656562943083889
+Vaccinium_uliginosum	EF502124.1	08-MAY-2007	631	Poland: Krakow, Tatra Mts., Mt. Ornak	primary	trnS-trnG	49.22	19.833	0.00268576002244454
+Vaccinium_uliginosum	EF502123.1	08-MAY-2007	639	Romania: Southern Carpathians, Piatra Craiulu	primary	trnS-trnG	45.525	25.209	0.00405707521089935
+Vaccinium_uliginosum	EF502122.1	08-MAY-2007	639	Bulgaria: Vitosha Mt., beneath Goljam Rezen peak	primary	trnS-trnG	42.5	23.3	0.00357677339672734
+Vaccinium_uliginosum	EF502121.1	08-MAY-2007	639	Greenland: Blosseville Kyst, Cape Dalton	primary	trnS-trnG	69.456	-24.1	0.00705498313894423
+Vaccinium_uliginosum	EF502120.1	08-MAY-2007	631	Greenland: Nanortalik	primary	trnS-trnG	60.146	-45.227	0.00207803857814343
+Vaccinium_uliginosum	EF502119.1	08-MAY-2007	632	Greenland: Paamiut	primary	trnS-trnG	62.004	-49.619	0.00207754627671004
+Vaccinium_uliginosum	EF502118.1	08-MAY-2007	638	Greenland: Kangerlussuaq	primary	trnS-trnG	67	-51	0.00458973435992808
+Vaccinium_uliginosum	EF502117.1	08-MAY-2007	639	Russia: Yamalo-Nenetskiy AO, S Yamal Pen., Ercuta-Yaha R.	primary	trnS-trnG	68.2	68.9	0.00357721921230117
+Vaccinium_uliginosum	EF502116.1	08-MAY-2007	638	Russia: Yamalo-Nenetskiy AO, Polar Ural, Slanzevaya Mtn.	primary	trnS-trnG	66.917	65.767	0.00358234229129938
+Vaccinium_uliginosum	EF502115.1	08-MAY-2007	631	Russia: Sverdlovskaya Obl, North Ural, Denezhkin Kamen Rock	primary	trnS-trnG	60.433	59.55	0.00361938026652737
+Vaccinium_uliginosum	EF502114.1	08-MAY-2007	640	Greenland: Ardencaple fjord	primary	trnS-trnG	75	-20	0.00504221749453946
+Vaccinium_uliginosum	EF502113.1	08-MAY-2007	639	Russia: Sakha Republic (Ya), 4-5 km WNW of Yakutsk	primary	trnS-trnG	62.08	129.682	0.00405662759898551
+Vaccinium_uliginosum	EF502112.1	08-MAY-2007	676	USA: Alaska, Mataniska-Glenallen, Mendeltna Creek	primary	trnS-trnG	62.033	-146.533	0.0035531362181108
+Vaccinium_uliginosum	EF502111.1	08-MAY-2007	677	USA: Alaska, Brooks Range, Endicott Mts., Chandler Lake	primary	trnS-trnG	68.195	-152.744	0.00355238162332261
+Vaccinium_uliginosum	EF502110.1	08-MAY-2007	677	USA: Alaska, Seward Pen., Kigluaik Mts, Grand Singatook	primary	trnS-trnG	64.907	-166.18	0.00345740750297916
+Vaccinium_uliginosum	EF502109.1	08-MAY-2007	677	USA: Alaska, Seward Pen., Teller, mire/shore E of settlement	primary	trnS-trnG	65.253	-166.366	0.00485010203143886
+Vaccinium_uliginosum	EF502108.1	08-MAY-2007	676	USA: Alaska, Seward Pen., Teller Road/Tisuk R.	primary	trnS-trnG	64.97	-166.204	0.0035531362181108
+Vaccinium_uliginosum	EF502107.1	08-MAY-2007	676	USA: Alaska, Seward Pen., Skookum Pass	primary	trnS-trnG	64.717	-164.05	0.00345773457967725
+Vaccinium_uliginosum	EF502106.1	08-MAY-2007	482	USA: Alaska, Kenai Pen., S of Gilpatric, along Seward Hwy	primary	trnS-trnG	60.567	-149.576	0.00169352157623472
+Vaccinium_uliginosum	EF502105.1	08-MAY-2007	676	USA: Alaska, Anchorage Area, Chugach Mts., Arctic Valley	primary	trnS-trnG	61.247	-149.535	0.00345773457967725
+Vaccinium_uliginosum	EF502104.1	08-MAY-2007	677	USA: Alaska, Kenai Pen., W of Silver Lake	primary	trnS-trnG	60.633	-150.819	0.00485010203143886
+Vaccinium_uliginosum	EF502103.1	08-MAY-2007	677	USA: Alaska, Seward Pen., Cape Nome, along Council Road	primary	trnS-trnG	64.4253192194711	-164.297110960493	0.00485010203143886
+Vaccinium_uliginosum	EF502102.1	08-MAY-2007	677	USA: Alaska, Kenai Pen., Kalifornsky Beach	primary	trnS-trnG	60.433	-151.267	0.00345740750297916
+Vaccinium_uliginosum	MK285529.1	23-DEC-2019	656	Austria: Tirol, Stubaier Alpen, Kuehtai, Mittertal	secondary	trnS-trnG	47.6911714	15.5423459	0.0020330148456482

@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cephalaria_squamiflora	FJ379648.1	31-OCT-2009	290	Greece: Ikaria, Agios Dimitrios	secondary	trnL-trnF	37.608379	26.0824945	0.00298850574712644
+Cephalaria_squamiflora	FJ379647.1	31-OCT-2009	290	Greece: Karpathos, Mt. Kali Limni	secondary	trnL-trnF	34.8873001700968	27.1965474573107	0.00298850574712644
+Cephalaria_squamiflora	FJ379646.1	31-OCT-2009	290	Greece: Karpathos, Mt. Kali Limni	secondary	trnL-trnF	35.193217781516	26.2311593067505	0.00298850574712644
+Cephalaria_squamiflora	FJ379645.1	31-OCT-2009	290	Italy: Sardinia, Galtelli, Mt. Tuttavista	secondary	trnL-trnF	40.3709901	9.6364534	0.000689655172413793
+Cephalaria_squamiflora	FJ379644.1	31-OCT-2009	290	Italy: Sardinia, Orgosolo, Mt. Fumai	secondary	trnL-trnF	40.706928146793	9.90047168328743	0.000689655172413793
+Cephalaria_squamiflora	FJ379643.1	31-OCT-2009	290	Italy: Sardinia, Lula, Janna Nurai	secondary	trnL-trnF	40.4720211	9.5314461	0.000689655172413793
+Cephalaria_squamiflora	FJ379642.1	31-OCT-2009	290	Italy: Sardinia, Urzulei, Costa Silana	secondary	trnL-trnF	40.1744647	9.5047526	0.000689655172413793
+Cephalaria_squamiflora	FJ379641.1	31-OCT-2009	290	Spain: Mallorca, Mirador Formentor	secondary	trnL-trnF	38.9841775924867	2.71901629618056	0.000689655172413793
+Cephalaria_squamiflora	FJ379640.1	31-OCT-2009	290	Spain: Mallorca, El Pal	secondary	trnL-trnF	39.0104455521783	2.59692719779693	0.000689655172413793
+Cephalaria_squamiflora	FJ379639.1	31-OCT-2009	290	Spain: Mallorca, Cavall Bernat	secondary	trnL-trnF	38.7523906416998	3.08213489106668	0.000689655172413793
+Cephalaria_squamiflora	FJ379638.1	31-OCT-2009	290	Spain: Mallorca, Son Torrella	secondary	trnL-trnF	39.5746213	2.662171	0.000689655172413793
+Cephalaria_squamiflora	FJ379637.1	31-OCT-2009	290	Spain: Mallorca, Puig Major	secondary	trnL-trnF	39.4851179	2.5238257	0.000689655172413793
+Cephalaria_squamiflora	FJ379636.1	31-OCT-2009	290	Italy: Sardinia, Buggerru, Is Lisandrus	secondary	trnL-trnF	40.379285232701	8.07208340240672	0.000689655172413793
+Cephalaria_squamiflora	FJ379635.1	31-OCT-2009	290	Italy: Sardinia, Monte Irveri	secondary	trnL-trnF	39.2837256883834	8.74376748514489	0.000689655172413793
+Cephalaria_squamiflora	FJ379634.1	31-OCT-2009	290	Spain: Ibiza, Cap Jueu	secondary	trnL-trnF	38.8727071	1.2380231	0.000689655172413793
+Cephalaria_squamiflora	FJ379633.1	31-OCT-2009	290	Spain: Ibiza, Ses Roques Altes	secondary	trnL-trnF	38.9037415	1.2510483	0.000689655172413793

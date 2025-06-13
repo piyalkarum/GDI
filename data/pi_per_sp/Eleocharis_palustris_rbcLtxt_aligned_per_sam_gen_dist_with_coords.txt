@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eleocharis_palustris	MG226573.1	23-JAN-2018	512	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island West, stranded pond, FFNMP	primary	rbcL	45.264	-81.703	0.0110085227272727
+Eleocharis_palustris	KX678138.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Pitt Lake boat launch	primary	rbcL	49.349	-122.616	0.0107048748353096
+Eleocharis_palustris	JN965504.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, Meadow transition.	primary	rbcL	58.7495567359019	-94.4338033959835	0.0107048748353096
+Eleocharis_palustris	JN965503.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality	primary	rbcL	58.7765499020119	-92.4361345015599	0.118758356575243
+Eleocharis_palustris	JN965502.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	rbcL	58.772	-94.163	0.0107048748353096
+Eleocharis_palustris	JN893777.1	07-MAR-2012	542	United Kingdom	primary	rbcL	53.19	-4.46	0.0109225340278945
+Eleocharis_palustris	JN893150.1	07-MAR-2012	542	United Kingdom: Sussex, West (13)	primary	rbcL	51	-0.7	0.0109225340278945
+Eleocharis_palustris	MW010881.1	27-JUL-2021	553	USA: Wisconsin	secondary	rbcL	44.4308975	-89.6884637	0.0107048748353096
+Eleocharis_palustris	KC584890.1	04-JUN-2013	685	Italy: Umbria	secondary	rbcL	42.965916	12.490236	0.010554988083078
+Eleocharis_palustris	HM849971.1	23-JUL-2011	689	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.010685210312076
+Eleocharis_palustris	JN893313.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0109225340278945
+Eleocharis_palustris	JN892817.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0109225340278945

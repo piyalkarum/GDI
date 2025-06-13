@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hyoscyamus_pusillus	OR738129.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	49.23311	64.45108	0.0144694174214469
+Hyoscyamus_pusillus	MT932026.1	03-MAR-2023	572	China	secondary	rbcL	35.0915109775606	104.163299035668	0.00511619950050023
+Hyoscyamus_pusillus	MT932025.1	03-MAR-2023	568	China	secondary	rbcL	35.2781565484628	105.329659946962	0.00437026441327153
+Hyoscyamus_pusillus	MT932024.1	03-MAR-2023	572	China	secondary	rbcL	34.6478763651772	104.87027474341	0.00511619950050023
+Hyoscyamus_pusillus	KY656728.1	23-JAN-2018	722	Egypt	secondary	rbcL	26.2540493	29.2675469	0.00576521796555375
+Hyoscyamus_pusillus	KX282813.1	28-MAY-2017	528	Kuwait	secondary	rbcL	29.3796532	47.9734174	0.00492424242424242

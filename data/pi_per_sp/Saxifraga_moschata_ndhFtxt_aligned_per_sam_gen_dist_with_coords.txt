@@ -1,0 +1,31 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_moschata	OP823105.1	29-JAN-2023	1067	Spain: Catalunya, Alta Ribagorca, Taull, Tuc de Moror	secondary	ndhF	41.9256537176357	1.71895405969054	0.00164819183660279
+Saxifraga_moschata	OP823104.1	29-JAN-2023	1067	Spain: Catalunya, Vall d'Aran, Valarties, Montardo	secondary	ndhF	41.3451429832827	1.75660268385914	0.00164819183660279
+Saxifraga_moschata	OP823103.1	29-JAN-2023	1067	France: Occitanie, Vernet les Bains, Pic del Canigo	secondary	ndhF	42.5189047	2.4565596	0.00164819183660279
+Saxifraga_moschata	OP823101.1	29-JAN-2023	1067	Austria: Tirol, Tuxer Alpen, Grunbergspitze	secondary	ndhF	47.6911714	15.5423459	0.00164819183660279
+Saxifraga_moschata	OP823099.1	29-JAN-2023	1067	Spain: Catalunya, Alta Ribagorca, Taull, Tuc de Moror	secondary	ndhF	42.159622420786	1.11206493672279	0.00164819183660279
+Saxifraga_moschata	OP823098.1	29-JAN-2023	1067	Spain: Catalunya, Alta Ribagorca, Taull, Tuc de Moror	secondary	ndhF	40.974553313395	0.938946348100547	0.00164819183660279
+Saxifraga_moschata	OP823096.1	29-JAN-2023	1067	Spain: Catalunya, Vall d'Aran, Valarties, Montardo	secondary	ndhF	42.3565674678358	1.66756040351493	0.00164819183660279
+Saxifraga_moschata	OP823094.1	29-JAN-2023	1067	France: Occitanie, Laruns, Gorges du Bitet - Pic de Sesques (Escarpu)	secondary	ndhF	42.9810880109414	-0.594677301809602	0.00319943121222894
+Saxifraga_moschata	OP823089.1	29-JAN-2023	1067	France: Occitanie, Rioumajou, Tramezaigues, crete de Consaterre	secondary	ndhF	44.4453738818831	0.750836763032571	0.00164819183660279
+Saxifraga_moschata	OP823088.1	29-JAN-2023	1067	France: Occitanie, Rioumajou, Tramezaigues, crete de Consaterre	secondary	ndhF	43.3915240059381	-0.246784907106798	0.00403968587402644
+Saxifraga_moschata	OP823087.1	29-JAN-2023	1067	France: Occitanie, Rioumajou, Tramezaigues, crete de Consaterre	secondary	ndhF	44.1292395623612	0.855097718601653	0.00164819183660279
+Saxifraga_moschata	OP823086.1	29-JAN-2023	1067	Spain: Catalunya, Vall d'Aran, Valarties, W-side Coret d'Oelhacrestada	secondary	ndhF	42.0808190578439	2.01968462250545	0.00164819183660279
+Saxifraga_moschata	OP823085.1	29-JAN-2023	1067	Spain: Catalunya, Vall d'Aran, Valarties, W-side Coret d'Oelhacrestada	secondary	ndhF	40.8414327936734	1.06447969106699	0.00164819183660279
+Saxifraga_moschata	OP823051.1	29-JAN-2023	1068	France: Occitanie, Pic du Midi de Bigorre, Col de Sencours per la pista	secondary	ndhF	43.7611323314038	-0.902316807695893	0.00164819183660279
+Saxifraga_moschata	OP823050.1	29-JAN-2023	1067	France: Occitanie, Pic du Midi de Bigorre, Col de Sencours per la pista	secondary	ndhF	43.2103538306552	0.208255146686664	0.00164819183660279
+Saxifraga_moschata	OP823049.1	29-JAN-2023	1068	France: Occitanie, Pic du Midi de Bigorre, Col de Sencours per la pista	secondary	ndhF	44.2638538575103	-0.561933719084985	0.00164819183660279
+Saxifraga_moschata	OP823048.1	29-JAN-2023	1067	France: Occitanie, Pic du Midi de Bigorre, Col de Sencours per la pista	secondary	ndhF	43.8260690563543	0.0852979943926905	0.00255308147238471
+Saxifraga_moschata	OP823047.1	29-JAN-2023	1068	France: Occitanie, Pic du Midi de Bigorre, Col de Sencours per la pista	secondary	ndhF	43.4987098305607	-0.102894304286883	0.00164819183660279
+Saxifraga_moschata	OP823036.1	29-JAN-2023	1067	Spain: Catalunya, Alta Ribagorca, Taull, Tuc de Moror	secondary	ndhF	41.5521845872736	1.19200386989747	0.00164819183660279
+Saxifraga_moschata	OP823035.1	29-JAN-2023	1067	Spain: Catalunya, Alta Ribagorca, Taull, Tuc de Moror	secondary	ndhF	41.1431859318831	1.8771926344398	0.00164819183660279
+Saxifraga_moschata	OP823034.1	29-JAN-2023	1067	Spain: Catalunya, Alta Ribagorca, Taull, Tuc de Moror	secondary	ndhF	42.2528523818529	1.77869040253506	0.00164819183660279
+Saxifraga_moschata	OP823033.1	29-JAN-2023	1067	Spain: Catalunya, Alta Ribagorca, Taull, Tuc de Moror	secondary	ndhF	41.0723338285102	1.496667487936	0.00164819183660279
+Saxifraga_moschata	OP823032.1	29-JAN-2023	1067	Spain: Catalunya, Alta Ribagorca, Taull, Tuc de Moror	secondary	ndhF	42.2597117520088	0.822768922492994	0.00164819183660279
+Saxifraga_moschata	OP823006.1	29-JAN-2023	1067	France: Occitanie, Rioumajou, Tramezaigues, crete de Consaterre	secondary	ndhF	43.7021308709477	0.280353883860513	0.00403968587402644
+Saxifraga_moschata	OP823005.1	29-JAN-2023	1067	France: Occitanie, Rioumajou, Tramezaigues, crete de Consaterre	secondary	ndhF	43.8217739263809	0.861751542795658	0.00164819183660279
+Saxifraga_moschata	OP823004.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Cerler, cresta S Pico Castanesa	secondary	ndhF	43.1961696555375	-1.25454556700431	0.0036518760301199
+Saxifraga_moschata	OP823003.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Cerler, cresta S Pico Castanesa	secondary	ndhF	43.2603499325036	-0.813706859703687	0.0036518760301199
+Saxifraga_moschata	OP823002.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Cerler, cresta S Pico Castanesa	secondary	ndhF	43.1884352488319	-1.06915184922752	0.0036518760301199
+Saxifraga_moschata	OP823001.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Cerler, cresta S Pico Castanesa	secondary	ndhF	42.8146074105587	-0.332392241459874	0.0036518760301199
+Saxifraga_moschata	OP823000.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Cerler, cresta S Pico Castanesa	secondary	ndhF	42.0378846457437	-0.551185658123396	0.00164819183660279

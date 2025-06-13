@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arum_pictum	EU193656.1	12-AUG-2008	1726	Italy: Sardinia	secondary	matK	40.3352010841981	9.10103615552299	0
+Arum_pictum	EU193655.1	12-AUG-2008	1726	Italy: Sardinia	secondary	matK	40.6887885615732	9.78494377479258	0
+Arum_pictum	EU193654.1	12-AUG-2008	1726	Italy: Sardinia	secondary	matK	39.6902739076581	8.17741787674098	0
+Arum_pictum	EU193653.1	12-AUG-2008	1726	Italy: Sardinia	secondary	matK	40.3927128656138	9.67692432968676	0
+Arum_pictum	EU193652.1	12-AUG-2008	1726	Italy: Sardinia	secondary	matK	40.5354885596458	9.75223199577822	0
+Arum_pictum	EU193651.1	12-AUG-2008	1726	France: Corsica	secondary	matK	41.6867025054374	9.57520633487159	0
+Arum_pictum	EU193650.1	12-AUG-2008	1726	Italy: Sardinia	secondary	matK	40.659620918714	8.24706989329426	0
+Arum_pictum	EU193649.1	12-AUG-2008	1726	France: Corsica	secondary	matK	41.3894485106885	9.24907985897314	0
+Arum_pictum	EU193647.1	12-AUG-2008	1726	Spain: Majorca	secondary	matK	39.613432	2.8829185	0
+Arum_pictum	EU193646.1	12-AUG-2008	1726	France: Corsica	secondary	matK	42.1873988623232	8.12368704207797	0
+Arum_pictum	EU193645.1	12-AUG-2008	1726	Italy: Sardinia	secondary	matK	40.0800263862794	9.62649454026219	0
+Arum_pictum	EU193644.1	12-AUG-2008	1726	Italy: Sardinia	secondary	matK	39.9431308171457	9.88937315313483	0

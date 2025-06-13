@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_rostrata	JN894240.1	07-MAR-2012	787	United Kingdom: Sutherland, West (108)	primary	matK	58.29	-4.44	0
+Carex_rostrata	MK397941.1	18-AUG-2019	790	Poland	secondary	matK	51.910370245517	20.3089133883734	0
+Carex_rostrata	MK397937.1	18-AUG-2019	790	Poland	secondary	matK	52.2278039692048	19.468799226151	0
+Carex_rostrata	KU496585.1	31-JAN-2017	813	Canada: Quebec, Schefferville region	secondary	matK	46.8137431	-71.2084061	0
+Carex_rostrata	HG915876.1	07-MAR-2016	2485	Germany:Mecklenburg-Western Pomerania	secondary	matK	53.8471035	13.3513501	0
+Carex_rostrata	JN896203.1	07-MAR-2012	781	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0
+Carex_rostrata	JN896202.1	07-MAR-2012	792	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

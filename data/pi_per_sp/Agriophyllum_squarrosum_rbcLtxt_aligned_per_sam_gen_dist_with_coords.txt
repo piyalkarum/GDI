@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agriophyllum_squarrosum	MT931043.1	03-MAR-2023	565	China	secondary	rbcL	34.7354913127959	105.395689625352	0.152654867256637
+Agriophyllum_squarrosum	MT931042.1	03-MAR-2023	578	China	secondary	rbcL	34.999111031687	105.503702113037	0.152359479004027
+Agriophyllum_squarrosum	MT931041.1	03-MAR-2023	566	China	secondary	rbcL	34.4489472635013	104.551495572476	0.159920695505445
+Agriophyllum_squarrosum	MT931040.1	03-MAR-2023	568	China	secondary	rbcL	34.9119959131434	104.231780550244	0.151777674274181
+Agriophyllum_squarrosum	HM587612.1	29-APR-2011	731	Russia: SE, Prov. Astrakhan	secondary	rbcL	52.1748068	56.6577709	0.600792893656851

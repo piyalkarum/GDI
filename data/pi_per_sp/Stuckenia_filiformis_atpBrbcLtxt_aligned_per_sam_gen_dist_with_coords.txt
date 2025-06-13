@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stuckenia_filiformis	MF694545.1	04-SEP-2018	503	Canada: Yukon Territory, Leaf Lake	primary	atpB-rbcL	60.692	-131.919	0.00198807157057654
+Stuckenia_filiformis	MF694544.1	04-SEP-2018	508	Canada: Ontario, On the coastal marsh, approximately 1 kilometre north of the mouth of the Kapiskau River.	primary	atpB-rbcL	52.7833	-81.9833	0.00278733260924497
+Stuckenia_filiformis	MF694529.1	04-SEP-2018	500	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, Submerged in lake	primary	atpB-rbcL	59.2284794446559	-95.3197598167217	0.002
+Stuckenia_filiformis	MF694516.1	04-SEP-2018	508	Canada: Yukon Territory, Takhini Salt Flats, north side of Alaska Highway 1520.6km	primary	atpB-rbcL	60.8538	-135.718	0.00198813101243858
+Stuckenia_filiformis	MF694508.1	04-SEP-2018	501	Canada: Manitoba	primary	atpB-rbcL	58.8708628494146	-95.6851485455532	0.00199600798403194
+Stuckenia_filiformis	MF694502.1	04-SEP-2018	503	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, In channel	primary	atpB-rbcL	58.699738641629	-93.25728752677	0.0027912461359587

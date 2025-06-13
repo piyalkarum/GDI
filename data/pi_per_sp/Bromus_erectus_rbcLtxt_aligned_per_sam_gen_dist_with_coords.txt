@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_erectus	MG226887.1	23-JAN-2018	552	Canada: Victoria Road and Speed River, Guelph, ON	primary	rbcL	43.3863589520417	-80.657116466826	0.00190638692281766
+Bromus_erectus	MG226798.1	23-JAN-2018	552	Canada: Guelph, ON	primary	rbcL	42.724648983337	-79.9083603273996	0.00190638692281766
+Bromus_erectus	MG225673.1	23-JAN-2018	552	Canada: Victoria Road, Guelph, ON	primary	rbcL	43.3817204879413	-79.7213109042197	0.00190638692281766
+Bromus_erectus	JN892251.1	07-MAR-2012	542	United Kingdom: Somerset, North (6)	primary	rbcL	51.26	-2.74	0.00194640312739761
+Bromus_erectus	JN890974.1	07-MAR-2012	540	United Kingdom: Denbighshire	primary	rbcL	53.29	-3.63	0.00195401664089537
+Bromus_erectus	FR865129.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.0115364725354872
+Bromus_erectus	JN892848.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00194640312739761
+Bromus_erectus	JN892845.1	07-MAR-2012	524	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00148514851485149
+Bromus_erectus	AJ746286.1	07-JAN-2005	1350	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00397367603695044

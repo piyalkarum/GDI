@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hyparrhenia_hirta	KX434573.1	21-APR-2017	350	Australia: New South Wales, Picton	primary	Adh	-34.4347198406008	150.292999960412	0
+Hyparrhenia_hirta	KX434572.1	21-APR-2017	384	Australia: New South Wales, Picton	primary	Adh	-33.768878143494	149.800454623454	0.00260756636205396
+Hyparrhenia_hirta	KX434564.1	21-APR-2017	356	Australia: Queensland, QDD, Stanthorpe	primary	Adh	-28.798	151.558	0
+Hyparrhenia_hirta	KX434540.1	21-APR-2017	407	Australia: New South Wales, Picton	primary	Adh	-33.7543106458522	150.281933593606	0.0037834729114971
+Hyparrhenia_hirta	KX434539.1	21-APR-2017	404	Australia: New South Wales, Wagga Wagga	primary	Adh	-35.124	147.309	0.0037868726068844

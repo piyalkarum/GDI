@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polycnemum_majus	JQ407827.1	09-JAN-2013	618	Greece: Trikala	primary	atpB-rbcL	39.61	21.43	0.00485436893203884
+Polycnemum_majus	JQ407826.1	09-JAN-2013	721	Hungary: Suemeg	primary	atpB-rbcL	46.99	17.28	0.00196941906795996
+Polycnemum_majus	JQ407822.1	09-JAN-2013	707	Ukraine: Chechelnytsky region	primary	atpB-rbcL	48.25	29.31	0.00128053720767361
+Polycnemum_majus	JQ407821.1	09-JAN-2013	709	Austria: 'Zeilerberg' near Winden	primary	atpB-rbcL	47.98	16.76	0.00248985087401694
+Polycnemum_majus	JQ407829.1	09-JAN-2013	722	Italy: Prov. Siena	secondary	atpB-rbcL	43.1672254	11.4671812	0.00289534678001188
+Polycnemum_majus	JQ407828.1	09-JAN-2013	721	Germany: Thueringen, 35km NNE Erfurt	secondary	atpB-rbcL	51.2094255	10.4589044	0.00263350649318561
+Polycnemum_majus	JQ407825.1	09-JAN-2013	719	France: Dep. Basses-Alpes, Vaucluse, Gubian	secondary	atpB-rbcL	49.9246182	1.0791444	0.00243495494540829

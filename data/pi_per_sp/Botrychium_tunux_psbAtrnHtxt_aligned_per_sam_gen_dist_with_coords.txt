@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Botrychium_tunux	OP029292.1	01-MAY-2023	577	Kyrgyzstan	primary	psbA-trnH	40.5966836276641	74.3355789563686	0.00103986135181976
+Botrychium_tunux	OP029291.1	01-MAY-2023	577	Kyrgyzstan	primary	psbA-trnH	40.7666811585817	75.1876008781425	0.00103986135181976
+Botrychium_tunux	OP029290.1	01-MAY-2023	577	Kyrgyzstan	primary	psbA-trnH	40.4205414314955	74.5454932339904	0.00103986135181976
+Botrychium_tunux	OP029289.1	01-MAY-2023	577	Kyrgyzstan	primary	psbA-trnH	41.269762871002	75.9550659384794	0.00103986135181976
+Botrychium_tunux	OP029211.1	01-MAY-2023	577	Kyrgyzstan	primary	psbA-trnH	39.612543	70.104812	0.00103986135181976
+Botrychium_tunux	OP029108.1	01-MAY-2023	577	Canada	primary	psbA-trnH	58.70685	-94.113393	0.0024263431542461
+Botrychium_tunux	OP029107.1	01-MAY-2023	577	USA	primary	psbA-trnH	58.1018	-134.6649	0.0024263431542461
+Botrychium_tunux	OP029096.1	01-MAY-2023	577	Norway	primary	psbA-trnH	64.19722222	10.0925	0.00265742345465049
+Botrychium_tunux	OP029095.1	01-MAY-2023	577	USA	primary	psbA-trnH	48.690517	-113.38255	0.00103986135181976
+Botrychium_tunux	OP029094.1	01-MAY-2023	577	Canada	primary	psbA-trnH	61.025	-138.641667	0.00103986135181976
+Botrychium_tunux	OP029093.1	01-MAY-2023	577	USA	primary	psbA-trnH	59.095281	-138.428337	0.00381282495667244
+Botrychium_tunux	OP029092.1	01-MAY-2023	577	USA	primary	psbA-trnH	59.54944444	-139.80888889	0.00381282495667244
+Botrychium_tunux	OP029063.1	01-MAY-2023	577	Switzerland	primary	psbA-trnH	46.30156	9.06815	0.00427498555748122
+Botrychium_tunux	KT906416.1	14-NOV-2016	612	Canada: Nunavut, Kitikmeot Region, Shallow gully in sand hills above Bloody Falls, SE side of Coppermine River on SW-facing slopes	primary	psbA-trnH	67.7412	-115.3675	0.00103986135181976
+Botrychium_tunux	KT906415.1	14-NOV-2016	612	Canada: Northwest Territories, vicinity of the Lower Brock River, N side of river	primary	psbA-trnH	69.3819	-123.0841	0.00103986135181976
+Botrychium_tunux	KT906414.1	14-NOV-2016	610	Canada: Northwest Territories, vicinity of the Lower Brock River, unnamed lake (ca. 1 # 0.5 km) ca. 2.5 km NE of river	primary	psbA-trnH	69.3972	-123.0333	0.00103986135181976

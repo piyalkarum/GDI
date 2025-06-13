@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Clinopodium_vulgare	KP643977.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.892	-78.146	0.00099067948232307
+Clinopodium_vulgare	MG224075.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Staff House, Cypress Lake, Bruce Peninsula National Park	primary	rbcL	45.227	-81.527	0.00267968783095768
+Clinopodium_vulgare	MG223616.1	26-DEC-2017	552	Canada: Ontario, Wellington County, Puslinch Township, Little Tract, 500m north of South entrance (County Road 34)	primary	rbcL	43.449	-80.247	0.000991728831647788
+Clinopodium_vulgare	HQ590041.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., approx. 200 m W of Dufferin, N edge of poperty	primary	rbcL	44.04	-79.53	0.000977544375588166
+Clinopodium_vulgare	KJ593321.1	17-MAR-2015	546	USA: Wisconsin, Goodman	primary	rbcL	45.635	-88.342	0.000996177984960429
+Clinopodium_vulgare	KJ593320.1	17-MAR-2015	551	USA: Wisconsin, Popple River	primary	rbcL	45.82	-88.746	0.000992236027680711
+Clinopodium_vulgare	KJ593319.1	17-MAR-2015	553	USA: Wisconsin, Caswell	primary	rbcL	45.665	-88.651	0.00099067948232307
+Clinopodium_vulgare	KJ593318.1	17-MAR-2015	553	USA: Wisconsin, Dunbar	primary	rbcL	45.713	-88.221	0.00099067948232307
+Clinopodium_vulgare	JN892900.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.69	-2.67	0.00156195646984196
+Clinopodium_vulgare	ON947744.1	20-MAR-2023	558	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00099067948232307
+Clinopodium_vulgare	KJ204319.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00154645054405708
+Clinopodium_vulgare	HM849904.1	23-JUL-2011	709	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00157095361506219
+Clinopodium_vulgare	JN890571.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.8291623989974	-4.61176408861017	0.00156195646984196
+Clinopodium_vulgare	JN890570.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.0769244811963	-2.40051925931094	0.0032712259495879

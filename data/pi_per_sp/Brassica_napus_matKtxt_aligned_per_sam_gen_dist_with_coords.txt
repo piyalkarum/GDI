@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brassica_napus	MT917810.1	03-MAR-2023	765	China	secondary	matK	35.000074	104.999927	0.00266224289068378
+Brassica_napus	HQ619801.1	26-DEC-2010	822	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.00248747674252183
+Brassica_napus	MG924000.1	09-SEP-2018	1509	South Korea	secondary	matK	36.5305585652754	128.535854426298	0.00289987070741877
+Brassica_napus	MG923999.1	09-SEP-2018	1509	South Korea	secondary	matK	36.2305657059609	127.860738130191	0.0020119591253678
+Brassica_napus	MG923998.1	09-SEP-2018	1509	Canada	secondary	matK	61.0666922	-107.991707	0.00171208045842592
+Brassica_napus	HM850743.1	23-JUL-2011	798	Portugal	secondary	matK	39.6621648	-8.1353519	0.00258656349611894

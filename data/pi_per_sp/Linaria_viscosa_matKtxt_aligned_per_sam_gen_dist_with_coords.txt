@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_viscosa	KC994586.1	04-MAR-2014	1216	Spain: Malaga, Canillas de Aceituno	secondary	matK	36.8731665	-4.0821261	0.000411184210526316
+Linaria_viscosa	JF694249.1	21-AUG-2011	1222	Spain: Jaen, Cazorla	secondary	matK	37.9128927	-3.0038873	0.000409165302782324
+Linaria_viscosa	JF694248.1	21-AUG-2011	1222	Spain: Malaga, Competa	secondary	matK	36.832836	-3.9747057	0.000409165302782324
+Linaria_viscosa	JF694247.1	21-AUG-2011	1222	Spain: Huelva, Matalascanas	secondary	matK	36.9990019	-6.5478919	0.00163868011887329
+Linaria_viscosa	JF694246.1	21-AUG-2011	1222	Spain: Huelva, Marismas del Odiel	secondary	matK	37.2319391	-7.0081229	0.000409165302782324

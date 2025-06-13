@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thalictrum_alpinum	MZ359316.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.0038757303924646
+Thalictrum_alpinum	MG249100.1	21-JAN-2018	552	USA: Alaska, Southeast Fairbanks Census Area, Yukon-Charley National Preserve, VABM National Ridge	primary	rbcL	65.276	-141.129	0.00388256814711448
+Thalictrum_alpinum	MG246444.1	21-JAN-2018	552	Canada: Yukon Territory, Tagish Road, 6 km S on 10 Mile road east side	primary	rbcL	60.229	-134.379	0.00388256814711448
+Thalictrum_alpinum	JN892778.1	07-MAR-2012	420	United Kingdom: Caernarfonshire	primary	rbcL	53.07	-4.08	0.00428571428571429
+Thalictrum_alpinum	JN892030.1	07-MAR-2012	542	United Kingdom: Sutherland, East (107)	primary	rbcL	58.29	-4.74	0.0038790728171932
+Thalictrum_alpinum	MT931895.1	03-MAR-2023	572	China	secondary	rbcL	34.5839203996338	104.554301231781	0.00575808959335256
+Thalictrum_alpinum	MN205195.1	30-NOV-2021	689	China	secondary	rbcL	35.0263607546363	105.165426173373	0.0040442213218251
+Thalictrum_alpinum	KT280164.1	01-AUG-2016	673	China: Maqu Gansu	secondary	rbcL	34.6137382	102.4654149	0.00408585217356101
+Thalictrum_alpinum	JN892305.1	07-MAR-2012	529	United Kingdom: Caernarvonshire	secondary	rbcL	53.1844712900111	-5.34090723676103	0.00573141775271542
+Thalictrum_alpinum	JN892304.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.2930695998227	-4.70532838617608	0.0038790728171932
+Thalictrum_alpinum	JN892303.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	52.9382588335831	-5.43002910011452	0.036022946897115

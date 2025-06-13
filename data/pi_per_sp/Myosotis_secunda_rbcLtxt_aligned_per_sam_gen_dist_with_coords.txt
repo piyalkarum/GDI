@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosotis_secunda	JN890648.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.39	-3.85	0.191823899371069
+Myosotis_secunda	HM850189.1	23-JUL-2011	716	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.575471698113208
+Myosotis_secunda	JN893381.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.191823899371069
+Myosotis_secunda	JN892597.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.191823899371069

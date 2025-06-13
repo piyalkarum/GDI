@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygonum_boreale	MK925498.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3101283733829	-2.03502354019827	0
+Polygonum_boreale	MK925465.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9103978132989	-3.64363555618804	0
+Polygonum_boreale	MK925417.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2180385047138	-3.79032976783544	0
+Polygonum_boreale	MK925007.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0817992859978	-3.08744001613382	0
+Polygonum_boreale	MK924981.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1360967385367	-2.42583833196377	0
+Polygonum_boreale	MK924526.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1606232312976	-3.07095299415503	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_norvegica	MG224148.1	26-DEC-2017	552	Canada: Yukon Territory, Shingle Point area, mainland opposite	primary	rbcL	68.985	-137.42	0
+Artemisia_norvegica	MG223362.1	26-DEC-2017	536	Canada: Yukon Territory, Mt. McIntyre	primary	rbcL	60.62	-135.138	0
+Artemisia_norvegica	MG221961.1	26-DEC-2017	552	USA: Alaska, Gates of the Arctic National Park, Castle Mountain	primary	rbcL	68.564	-152.621	0
+Artemisia_norvegica	MK925401.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1323617637773	-3.20319246725392	0
+Artemisia_norvegica	MK925241.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5351021796774	-3.75154749315569	0
+Artemisia_norvegica	MK925043.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8321546466761	-3.10493867425492	0

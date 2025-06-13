@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Goniolimon_dalmaticum	MH607325.1	01-MAY-2019	722	Croatia	primary	rps16	44.51571	14.95523	0.00138504155124654
+Goniolimon_dalmaticum	MH607324.1	01-MAY-2019	722	Croatia	primary	rps16	44.4797771404804	14.5308875069435	0.000461680517082179
+Goniolimon_dalmaticum	MH607323.1	01-MAY-2019	722	Croatia	primary	rps16	44.05189659804	15.2579628325069	0.000461680517082179
+Goniolimon_dalmaticum	MH607322.1	01-MAY-2019	722	Croatia	primary	rps16	43.8139753466291	15.5940096281854	0.000461680517082179

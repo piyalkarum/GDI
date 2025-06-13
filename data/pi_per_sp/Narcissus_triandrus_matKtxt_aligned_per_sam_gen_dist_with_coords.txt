@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_triandrus	MN070148.1	07-AUG-2019	833	Portugal: Serra do Caramulo	secondary	matK	38.5919994	-9.0180886	0.000923035881019074
+Narcissus_triandrus	MN070143.1	07-AUG-2019	833	Portugal: Quinta dos Bernardos	secondary	matK	40.7639245	-7.0418236	0.00301453914899293
+Narcissus_triandrus	KC608016.1	01-MAR-2014	894	Portugal: Serra da Falperra	secondary	matK	41.7423902717832	-8.09971792343172	0.00100715006360486
+Narcissus_triandrus	KC608015.1	01-MAR-2014	894	Portugal: Serra da Falperra	secondary	matK	40.8153375345219	-7.69607631343557	0.00100715006360486
+Narcissus_triandrus	KC608014.1	01-MAR-2014	894	Spain: Lovios	secondary	matK	41.4960070974154	-7.30254872598721	0.00202716731733708
+Narcissus_triandrus	KC608013.1	01-MAR-2014	894	Spain: Lovios	secondary	matK	41.7316095037084	-6.97335940321391	0.00202716731733708
+Narcissus_triandrus	KC608012.1	01-MAR-2014	894	Portugal: Moncao	secondary	matK	42.0254112610749	-8.834455405177	0.00100715006360486
+Narcissus_triandrus	KC608011.1	01-MAR-2014	894	Portugal: Moncao	secondary	matK	42.6683318958545	-8.73490193400557	0.00100715006360486
+Narcissus_triandrus	KC608010.1	01-MAR-2014	894	Spain: Asturias	secondary	matK	43.7007265837434	-6.52623992228467	0.00100715006360486
+Narcissus_triandrus	KC608009.1	01-MAR-2014	894	Spain: Asturias	secondary	matK	43.67213771997	-5.22804226778812	0.00100715006360486

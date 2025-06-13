@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_maritimus	JN891642.1	07-MAR-2012	542	United Kingdom: Anglesey	primary	rbcL	53.25	-4.56	0.000952380952380952
+Juncus_maritimus	HM850090.1	23-JUL-2011	1286	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00380952380952381
+Juncus_maritimus	JN893493.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000952380952380952
+Juncus_maritimus	JN893112.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000952380952380952
+Juncus_maritimus	JN893111.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000952380952380952

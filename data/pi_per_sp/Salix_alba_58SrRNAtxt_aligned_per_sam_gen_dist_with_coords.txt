@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_alba	AM950551.1	31-MAY-2008	385	Germany:North-Eastern Bavaria	primary	5.8S rRNA	50.7156405232633	11.0971956463178	0
+Salix_alba	AM950550.1	31-MAY-2008	385	Germany:North-Eastern Bavaria	primary	5.8S rRNA	49.5076901457894	11.9129208322611	0
+Salix_alba	AM950543.1	31-MAY-2008	385	Germany:North-Eastern Bavaria	primary	5.8S rRNA	49.0756169897576	11.7045414878249	0
+Salix_alba	AM950542.1	31-MAY-2008	385	Germany:North-Eastern Bavaria	primary	5.8S rRNA	49.9610364600829	11.1419058755424	0
+Salix_alba	AM950539.1	31-MAY-2008	385	Germany:North-Eastern Bavaria	primary	5.8S rRNA	49.6212825196945	11.375339345716	0

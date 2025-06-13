@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salicornia_perennis	OQ851349.1	14-AUG-2023	450	Egypt	primary	matK	30.8513	29.3705	0.00177777777777778
+Salicornia_perennis	JQ412286.1	16-JAN-2013	765	South Africa: Western Cape, Cape Town, Robben Island	primary	matK	-33.813	18.362	0.00979503735720249
+Salicornia_perennis	AY996302.1	31-MAR-2006	885	France: Le Conquet, Finistere	secondary	matK	48.3306399	-4.7733487	0.00296766855726753
+Salicornia_perennis	AY996301.1	31-MAR-2006	841	France: Le Collet, Vendee	secondary	matK	44.0783896	7.2572606	0.00507204257974984
+Salicornia_perennis	DQ468646.1	31-DEC-2007	840	France: Bretagne	secondary	matK	48.2640845	-2.9202408	0.00436652266823648
+Salicornia_perennis	JN894442.1	07-MAR-2012	734	United Kingdom: Merionethshire	secondary	matK	52.79398	-3.8749545	0.00302893176338904

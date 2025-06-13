@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Caragana_frutex	OR738021.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.27639	83.28917	0.000790722192936215
+Caragana_frutex	OR678662.1	06-NOV-2023	476	Kazakhstan: Qaragandy region	primary	rbcL	49.71789	73.268	0.000900360144057623
+Caragana_frutex	MG246323.1	21-JAN-2018	552	Canada: Ontario, UofG Arboretum	primary	rbcL	43.5485	-80.2503	0.00077639751552795
+Caragana_frutex	MT931389.1	03-MAR-2023	565	China	secondary	rbcL	34.7063821584114	104.526160644084	0.0054494991970099
+Caragana_frutex	MT931388.1	03-MAR-2023	572	China	secondary	rbcL	35.6396854113976	105.726366217212	0.000758533501896334
+Caragana_frutex	MG248394.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Humewood Drive.	secondary	rbcL	43.0258401950185	-79.5614673056979	0.00077639751552795
+Caragana_frutex	MG246321.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Humewood Drive.	secondary	rbcL	44.0196249372349	-78.3860223435588	0.00077639751552795
+Caragana_frutex	KP088507.1	15-MAR-2015	785	China	secondary	rbcL	39.9057136	116.3912972	0.000670690811535882

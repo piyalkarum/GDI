@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_aetnensis	AJ404452.2	04-JAN-2002	220	Italy:Sardinia	secondary	ITS	39.5071268200468	9.86715517197964	0.370745920745921
+Genista_aetnensis	AJ404451.1	04-JAN-2002	239	Italy:Sardinia	secondary	ITS	40.168540719007	7.94023099246165	0.367521367521368
+Genista_aetnensis	AJ402885.1	04-JAN-2002	220	Italy: Sicily	secondary	ITS	37.5401198202418	14.4322650115241	0.367327117327117
+Genista_aetnensis	AJ402884.1	04-JAN-2002	239	Italy: Sicily	secondary	ITS	38.1535775310077	14.6584280369202	0.367521367521368

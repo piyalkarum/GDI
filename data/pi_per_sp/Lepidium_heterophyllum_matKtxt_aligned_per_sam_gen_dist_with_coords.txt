@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lepidium_heterophyllum	KX676976.1	09-AUG-2017	796	Canada: British Columbia, Vancouver Island, Comox Valley Regional District, Comox, Kin Beach Provincial Park	primary	matK	49.728	-124.898	0.00193798449612403
+Lepidium_heterophyllum	JN894631.1	07-MAR-2012	768	United Kingdom: Monmouthshire	primary	matK	52.51	-3.31	0.00182898948331047
+Lepidium_heterophyllum	JN894163.1	07-MAR-2012	767	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.00182898948331047
+Lepidium_heterophyllum	JN894162.1	07-MAR-2012	729	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00559596346274497

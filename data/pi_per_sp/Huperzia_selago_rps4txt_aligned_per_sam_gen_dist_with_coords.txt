@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Huperzia_selago	MW801964.1	19-DEC-2021	883	USA: Alaska	secondary	rps4	64.4459613	-149.680909	0.00179063531818558
+Huperzia_selago	MW801951.1	19-DEC-2021	889	Canada: Labrador	secondary	rps4	55.9114861	-61.7019148	0.00175857959266218
+Huperzia_selago	MW801950.1	19-DEC-2021	870	Norway	secondary	rps4	64.5731537	11.5280364	0.00138357113127993
+Huperzia_selago	KX761189.1	27-AUG-2017	604	Russia	secondary	rps4	64.6863136	97.7453061	0.00184785814347858

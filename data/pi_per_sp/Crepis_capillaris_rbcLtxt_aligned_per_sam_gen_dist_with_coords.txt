@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crepis_capillaris	MG222128.1	26-DEC-2017	552	Canada: British Columbia, Chemainus, Mount Brenton, Solly Creek	primary	rbcL	48.858	-123.875	0.00111607142857143
+Crepis_capillaris	KX678738.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Baden Powell trail	primary	rbcL	49.334	-122.954	0.00111607142857143
+Crepis_capillaris	KX678268.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	rbcL	49.376	-122.862	0.00111607142857143
+Crepis_capillaris	JN891589.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.11	-4.68	0.00114898506319418
+Crepis_capillaris	HM849923.1	23-JUL-2011	551	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.007944154538491
+Crepis_capillaris	JN893254.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00114898506319418
+Crepis_capillaris	JN892652.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00114898506319418
+Crepis_capillaris	JN892651.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00114898506319418

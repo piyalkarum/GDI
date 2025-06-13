@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lycopus_europaeus	JN895786.1	07-MAR-2012	767	United Kingdom: Glamorgan	primary	matK	51.74	-3.41	0.0196666666666667
+Lycopus_europaeus	OL989379.1	29-JAN-2022	758	India: J&K,Srinagar	secondary	matK	28.5424922	77.2029544	0.0197192513368984
+Lycopus_europaeus	MN384869.1	10-MAR-2020	767	Switzerland:Cartigny, Moulin de Vert	secondary	matK	46.1785081	6.0268252	0.0196666666666667
+Lycopus_europaeus	HM850793.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.0795957601576969
+Lycopus_europaeus	JN894657.1	07-MAR-2012	782	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0205431754874652

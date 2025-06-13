@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Typha_angustifolia	MZ302914.1	08-OCT-2021	533	Russia: Yaroslavl region	secondary	rps16	58.0120152909566	39.0908846142649	0.000416927246195539
+Typha_angustifolia	MZ302913.1	08-OCT-2021	533	Russia: Yaroslavl region	secondary	rps16	57.9278981517232	41.1056835425691	0.000416927246195539
+Typha_angustifolia	MZ302911.1	08-OCT-2021	533	Russia: Astrakhan region	secondary	rps16	45.982144842404	49.0188167915123	0.000416927246195539
+Typha_angustifolia	MZ302910.1	08-OCT-2021	533	Russia: Astrakhan region	secondary	rps16	45.6723944773831	47.6376932749366	0.000416927246195539
+Typha_angustifolia	MZ302905.1	08-OCT-2021	533	Russia: Zabaikalie	secondary	rps16	52.248521	115.956325	0.00208463623097769
+Typha_angustifolia	MZ302903.1	08-OCT-2021	533	Russia: Yaroslavl region	secondary	rps16	57.8836412310608	41.27105107456	0.000416927246195539
+Typha_angustifolia	MZ302897.1	08-OCT-2021	533	Russia: Astrakhan region	secondary	rps16	46.5120717902083	48.2398064091306	0.000416927246195539
+Typha_angustifolia	MZ302894.1	08-OCT-2021	533	Russia: Omsk region	secondary	rps16	54.9904561	73.2476003	0.000416927246195539
+Typha_angustifolia	MZ302893.1	08-OCT-2021	533	Russia: Tyumen region	secondary	rps16	57.1575004	65.6027398	0.000416927246195539
+Typha_angustifolia	MZ302888.1	08-OCT-2021	533	Russia: Perm region	secondary	rps16	58.5951603	56.3159546	0.00208463623097769

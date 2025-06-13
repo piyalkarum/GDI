@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Populus_tremula	LC758155.1	08-MAR-2023	1284	Japan:Nagano, Matsumono City, Oshirawaka River	secondary	trnL-trnF	36.6485851	138.1947664	0.00235909432832764
+Populus_tremula	LC758099.1	08-MAR-2023	1284	Japan:Nagano, Kiso-gun, Otaki-mura, Otaki River	secondary	trnL-trnF	35.823612	137.391192	0.00133757497705889
+Populus_tremula	LC758092.1	08-MAR-2023	1284	Japan:Gunma, Azuma-gun, Nakanojo-machi, Mt. Ainokura	secondary	trnL-trnF	43.6845627	141.6387999	0.00133757497705889
+Populus_tremula	KT851749.1	08-FEB-2016	966	China	secondary	trnL-trnF	30.3040892480974	-93.9900710103473	0.00152302167500321
+Populus_tremula	KT851748.1	08-FEB-2016	966	China	secondary	trnL-trnF	29.4478471875934	-94.4976203009994	0.00247118855237362

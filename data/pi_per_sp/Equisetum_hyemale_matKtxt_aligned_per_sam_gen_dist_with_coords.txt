@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Equisetum_hyemale	OR738224.1	13-NOV-2023	714	Kazakhstan: East Kazakhstan region	primary	matK	50.32694	83.54556	0.524752475247525
+Equisetum_hyemale	AB817899.1	17-APR-2014	970	South Korea: Gyeongsangbuk-do	secondary	matK	36.5754	128.5058	0.0583058305830583
+Equisetum_hyemale	AB817898.1	17-APR-2014	970	South Korea: Gangwon-do	secondary	matK	38.0341985696621	127.69219719437	0.0583058305830583
+Equisetum_hyemale	AB817897.1	17-APR-2014	970	South Korea: Gangwon-do	secondary	matK	37.7252936761655	127.45445724924	0.0583058305830583
+Equisetum_hyemale	AB817896.1	17-APR-2014	970	South Korea: Gangwon-do	secondary	matK	37.6995194071877	128.30351969604	0.0583058305830583
+Equisetum_hyemale	AB817895.1	17-APR-2014	970	South Korea: Gangwon-do	secondary	matK	38.4283611780907	127.735410361287	0.0583058305830583
+Equisetum_hyemale	AB817894.1	17-APR-2014	970	South Korea: Gangwon-do, Jeongseon-gun, Jeongseon-eup	secondary	matK	37.3796216	128.6618047	0.0583058305830583
+Equisetum_hyemale	AB817893.1	17-APR-2014	970	South Korea: Gangwon-do, Pyeongchang-gun, Jinbu-myeon	secondary	matK	37.6230237	128.5555834	0.0583058305830583
+Equisetum_hyemale	AB817892.1	17-APR-2014	970	South Korea: Gangwon-do, Inje-gun, Girin-myeon, Bangdong-ri	secondary	matK	37.92512	128.40756	0.0583058305830583
+Equisetum_hyemale	AB817890.1	17-APR-2014	970	South Korea: Gangwon-do, jeombongsan	secondary	matK	38.04874	128.425643	0.0583058305830583

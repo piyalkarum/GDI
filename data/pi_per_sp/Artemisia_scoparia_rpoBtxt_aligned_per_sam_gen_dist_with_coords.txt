@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_scoparia	KX582080.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.6874625914149	81.1515760306232	0
+Artemisia_scoparia	KX582079.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.4207594757261	80.785625231267	0
+Artemisia_scoparia	KX582078.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.894698686061	81.9518480021253	0
+Artemisia_scoparia	KX582077.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	44.0268594079989	81.8283483263575	0
+Artemisia_scoparia	KX582076.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.6327338532485	80.8900833407746	0
+Artemisia_scoparia	KX582075.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.9888690146566	80.9849412299995	0

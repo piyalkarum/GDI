@@ -1,0 +1,27 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lolium_arundinaceum	LR588272.1	30-JUL-2021	2815	Germany	primary	matK	51.3394	11.1756	0.00104046905867459
+Lolium_arundinaceum	MF597602.1	17-JUL-2018	819	Canada: British Columbia, 34 mi W of New Aiyansh on road towards Kincolith (Ginglox).	primary	matK	55.004	-129.647	0.000805551111944389
+Lolium_arundinaceum	MF597601.1	17-JUL-2018	819	Canada: British Columbia, Queen Charlotte Islands, Graham Island, 12.3 km N/ NW of Queen Charlotte City along main logging road.	primary	matK	53.323	-132.171	0.000805551111944389
+Lolium_arundinaceum	MF597600.1	17-JUL-2018	819	Canada: British Columbia, Queen Charlotte Islands, Graham Island, ~20 km along logging road N/ NW of Queen Charlotte City.	primary	matK	53.357	-132.256	0.000805551111944389
+Lolium_arundinaceum	MF597599.1	17-JUL-2018	819	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	matK	48.843	-123.305	0.000805551111944389
+Lolium_arundinaceum	MF597598.1	17-JUL-2018	778	Canada: British Columbia, Lower Mainland, Richmond, London's Landing, saltwater marsh.	primary	matK	49.116	-123.158	0.000473643223070366
+Lolium_arundinaceum	MF597597.1	17-JUL-2018	819	Canada: British Columbia, Vancouver Island, just W of intersection with Hwy. 19 and road from Cumberland that meets Hwy. 19.	primary	matK	49.632	-125.014	0.000805551111944389
+Lolium_arundinaceum	MF597596.1	17-JUL-2018	807	Canada: British Columbia, Vancouver Island, 0.2 km N of Hwy. 19 along Northwest Bay Road (Nanoose area)	primary	matK	49.266	-124.198	0.000559676111100076
+Lolium_arundinaceum	MG217067.1	24-JAN-2018	776	Canada: Ontario, Lambton County, St. Clair Twp., Wet ditch along Hwy 40, south of Sarnia	primary	matK	42.78	-82.418	0.000473338503371269
+Lolium_arundinaceum	MG216958.1	24-JAN-2018	794	Canada: Quebec, Montreal, Island of Montreal, Parc de la Pointe-aux-Prairies sect. du Bois-de-l'Heritage, pres d'un sentier de gravier	primary	matK	45.675	-73.507	0.000772236243333411
+Lolium_arundinaceum	HQ593347.1	09-NOV-2011	790	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 15 m E of entrance to overgrown orchard	primary	matK	44.027	-79.544	0.00056649833361453
+Lolium_arundinaceum	HQ593296.1	09-NOV-2011	793	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, N side of Dufferin Driveway	primary	matK	44.03	-79.53	0.00450153316096752
+Lolium_arundinaceum	MT433196.1	31-MAY-2020	1534	Norway	secondary	matK	64.5731537	11.5280364	0.00624225309257944
+Lolium_arundinaceum	MF999122.1	09-DEC-2017	2110	USA	secondary	matK	50.362174	8.6428355	0.000959169834670354
+Lolium_arundinaceum	KJ204480.1	29-JAN-2015	756	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.00314141588637446
+Lolium_arundinaceum	KJ599328.1	21-SEP-2014	769	Australia: Victoria	secondary	matK	-37.2973118045129	145.208548927628	0.000481355390384446
+Lolium_arundinaceum	KJ599327.1	21-SEP-2014	759	Australia: Victoria	secondary	matK	-36.4251845799358	145.037355563008	0.000484113097524617
+Lolium_arundinaceum	KF713141.1	15-DEC-2013	1014	South Korea: Suwon-si, Gyeonggi-do	secondary	matK	37.267483	126.934611	0.00073911837944306
+Lolium_arundinaceum	KF713140.1	15-DEC-2013	1014	South Korea: Andong-si, Gyeongsangbuk-do	secondary	matK	36.5759169	128.5060124	0.00073911837944306
+Lolium_arundinaceum	KF713139.1	15-DEC-2013	1014	South Korea: Wonju-si, Gangwon-do	secondary	matK	37.3420996	127.9197603	0.00073911837944306
+Lolium_arundinaceum	KF713138.1	15-DEC-2013	1014	South Korea: Iksan-si, Jeollabuk-do	secondary	matK	35.9479291	126.9578025	0.000979173744832986
+Lolium_arundinaceum	JX438093.1	31-MAR-2013	1249	Spain	secondary	matK	38.58720541992	-5.10245926119974	0.00174843165584753
+Lolium_arundinaceum	JX438092.1	31-MAR-2013	713	Spain	secondary	matK	40.0086327142555	-5.26273159525989	0.000451383508967504
+Lolium_arundinaceum	HM850531.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.000773609961154064
+Lolium_arundinaceum	JN894716.1	07-MAR-2012	817	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000460245063872228
+Lolium_arundinaceum	JN894714.1	07-MAR-2012	758	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000482564857235042

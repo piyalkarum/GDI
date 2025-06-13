@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_subhirsutum	HF934225.1	12-MAY-2015	640	Italy	secondary	atpB-rbcL	43.2563997710051	12.837390313072	0
+Allium_subhirsutum	HF934224.1	12-MAY-2015	640	Greece	secondary	atpB-rbcL	43.2097838	-77.6930602	0
+Allium_subhirsutum	HF934223.1	12-MAY-2015	640	Italy	secondary	atpB-rbcL	42.3338552732835	12.6755606427927	0
+Allium_subhirsutum	HF934222.1	12-MAY-2015	640	Turkey	secondary	atpB-rbcL	38.9597594	34.9249653	0

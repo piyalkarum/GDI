@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Comarum_palustre	MF543678.1	25-JUL-2018	462	Italy: Aosta Valley, Arvier, Planaval	secondary	psbA-trnH	45.6731324	7.0800418	0
+Comarum_palustre	MF543677.1	25-JUL-2018	475	Italy: Aosta Valley, Arvier, Boregne	secondary	psbA-trnH	45.1258411447937	7.84629442777844	0
+Comarum_palustre	MF543676.1	25-JUL-2018	477	Italy: Aosta Valley, Arvier, Boregne	secondary	psbA-trnH	45.862168960292	7.78735609278467	0
+Comarum_palustre	MF543675.1	25-JUL-2018	481	Italy: Aosta Valley, Arvier, Boregne	secondary	psbA-trnH	45.1203849569132	6.66280734123107	0

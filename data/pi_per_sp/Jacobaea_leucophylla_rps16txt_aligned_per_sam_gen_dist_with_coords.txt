@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_leucophylla	HE614367.1	27-JAN-2012	595	France:Pic du Canigou	secondary	rps16	42.5189047	2.4565596	0.00168067226890756
+Jacobaea_leucophylla	HE614366.1	27-JAN-2012	595	France:Puigmal d'Err	secondary	rps16	42.3832668	2.1167823	0.000420168067226891
+Jacobaea_leucophylla	HE614365.1	27-JAN-2012	595	France:Mont Mezenc	secondary	rps16	44.9110368	4.1908455	0.000420168067226891
+Jacobaea_leucophylla	HE614352.1	27-JAN-2012	595	France:Petit Puigmal de Segre	secondary	rps16	42.6713108535776	2.53981240389698	0.000420168067226891
+Jacobaea_leucophylla	HE614351.1	27-JAN-2012	595	France:Petit Puigmal de Segre	secondary	rps16	42.0633501266061	2.54467760303193	0.000420168067226891

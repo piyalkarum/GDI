@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_crassifolia	KC475926.1	25-OCT-2013	685	Canada: Nunavut, Ellesmere Island, Fosheim Penin, Hot Weather Cr., base camp and vicinity, 'Picnic Lake'	primary	matK	79.95	-84.4833	0.00788321167883212
+Stellaria_crassifolia	KC475925.1	25-OCT-2013	700	Canada: Northwest Territories, Tuktoyaktuk, Illisarvik, 60 km west of Tuktoyaktuk. Near stake 50W-100S	primary	matK	69.4833	-134.583	0.00828571428571429
+Stellaria_crassifolia	KC475924.1	25-OCT-2013	777	Canada: Yukon Territory, Blow River Delta east, Danny C. Gordon's goose camp	primary	matK	68.895	-136.961	0.0139014362039641
+Stellaria_crassifolia	KC475923.1	25-OCT-2013	671	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. East shore of Kihlbay, tundra west of cabins	primary	matK	56.442	-78.956	0.00745156482861401
+Stellaria_crassifolia	KC475922.1	25-OCT-2013	700	Canada: Northwest Territories, Mainland Northwest Territories, Tuktoyaktuk, Near Pingo Park Lodge	primary	matK	69.5	-133	0.00828571428571429
+Stellaria_crassifolia	MT917912.1	03-MAR-2023	775	China	secondary	matK	35.000074	104.999927	0.0330501644650533

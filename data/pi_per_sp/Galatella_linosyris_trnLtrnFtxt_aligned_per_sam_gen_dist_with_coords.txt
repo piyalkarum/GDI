@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galatella_linosyris	MT682336.1	19-JAN-2021	846	Ukraine: Yelanetskyi Step	primary	trnL-trnF	47.539122	32.042357	0.000709219858156028
+Galatella_linosyris	MT682335.1	19-JAN-2021	846	Serbia: Krusce	primary	trnL-trnF	43.3322	21.74222	0.000709219858156028
+Galatella_linosyris	MT682334.1	19-JAN-2021	846	Hungary: Tarcal, Nagy-Kopasz	primary	trnL-trnF	48.110278	21.365252	0.000709219858156028
+Galatella_linosyris	MT682327.1	19-JAN-2021	846	Ukraine: Yelanetskyi Step	primary	trnL-trnF	47.5391	32.042407	0.000709219858156028
+Galatella_linosyris	MT682326.1	19-JAN-2021	846	Serbia: Krusce	primary	trnL-trnF	43.33231	21.74214	0.000709219858156028
+Galatella_linosyris	MT682325.1	19-JAN-2021	846	Hungary: Tarcal, Nagy-Kopasz	primary	trnL-trnF	48.111	21.366	0.000709219858156028

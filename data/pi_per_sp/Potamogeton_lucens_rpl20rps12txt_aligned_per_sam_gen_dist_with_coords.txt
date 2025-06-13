@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_lucens	LC488729.1	21-DEC-2019	780	Japan: Aomori, Tsugaru	primary	rpl20-rps12	40.5193868656143	141.310955013884	0
+Potamogeton_lucens	LC488728.1	21-DEC-2019	776	Japan: Aomori, Tsugaru	primary	rpl20-rps12	41.242820195552	140.905368081397	0
+Potamogeton_lucens	LC316765.1	21-AUG-2018	719	Japan:Aomori, Tsugaru	secondary	rpl20-rps12	40.8087605	140.3803311	0
+Potamogeton_lucens	HQ263456.1	21-MAR-2011	799	Germany	secondary	rpl20-rps12	40.4203479	-79.1166983	0
+Potamogeton_lucens	HQ263455.1	21-MAR-2011	799	Russia: Irkutsk	secondary	rpl20-rps12	56.6370122	104.719221	0
+Potamogeton_lucens	HQ263454.1	21-MAR-2011	797	Finland	secondary	rpl20-rps12	63.2467777	25.9209164	0
+Potamogeton_lucens	HQ263453.1	21-MAR-2011	792	Japan	secondary	rpl20-rps12	36.2911442443162	138.675738881276	0
+Potamogeton_lucens	HQ263452.1	21-MAR-2011	792	Japan	secondary	rpl20-rps12	36.2104606192365	139.880157675544	0
+Potamogeton_lucens	EF174595.1	15-JAN-2007	745	Czech Republic	secondary	rpl20-rps12	49.7439047	15.3381061	0
+Potamogeton_lucens	EF174594.1	15-JAN-2007	747	Netherlands	secondary	rpl20-rps12	52.2434979	5.6343227	0

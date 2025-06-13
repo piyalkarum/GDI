@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fagus_taurica	DQ875536.1	01-AUG-2007	715	Russia: Staryi Krym, Agarmysh, Crimea	secondary	trnL-trnF	45.03339285	35.0966758303653	0.00297202797202797
+Fagus_taurica	DQ875535.1	01-AUG-2007	715	Russia: Sokolinoe	secondary	trnL-trnF	60.933773	28.9534058	0.00472027972027972
+Fagus_taurica	DQ875541.1	01-AUG-2007	715	Bulgaria: Borovetz	secondary	trnL-trnF	41.5586726	25.5165132	0.00541958041958042
+Fagus_taurica	DQ875540.1	01-AUG-2007	715	Bulgaria: Vitosha	secondary	trnL-trnF	42.56	23.28	0.00419580419580419
+Fagus_taurica	DQ875539.1	01-AUG-2007	715	Bulgaria: Devin	secondary	trnL-trnF	41.7433556	24.3984625	0.00489510489510489
+Fagus_taurica	DQ875538.1	01-AUG-2007	717	Bulgaria: Struma	secondary	trnL-trnF	41.8036903	23.162747	0.00244755244755245
+Fagus_taurica	DQ875537.1	01-AUG-2007	715	Bulgaria: Etropole	secondary	trnL-trnF	42.8326835	23.9964396	0.00244755244755245
+Fagus_taurica	AF533692.1	01-AUG-2005	715	Bulgaria	secondary	trnL-trnF	46.7889169	23.6184909	0.00244755244755245
+Fagus_taurica	AF533690.1	01-AUG-2005	715	Armenia	secondary	trnL-trnF	4.536307	-75.6723751	0.00472027972027972

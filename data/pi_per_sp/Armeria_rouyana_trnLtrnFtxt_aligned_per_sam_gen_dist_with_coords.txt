@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_rouyana	GQ901179.1	03-NOV-2009	341	Portugal: Alentejo, Santo Andre	secondary	trnL-trnF	38.6678034	-8.2094788	0.000977517106549365
+Armeria_rouyana	GQ901178.1	03-NOV-2009	341	Portugal: Alentejo, Alcacer do Sal	secondary	trnL-trnF	38.49104545	-8.02735304495019	0.00293255131964809
+Armeria_rouyana	GQ901177.1	03-NOV-2009	341	Portugal: Ribatejo	secondary	trnL-trnF	40.8684577453494	-7.72660715272764	0.000977517106549365
+Armeria_rouyana	GQ901176.1	03-NOV-2009	341	Portugal: Ribatejo	secondary	trnL-trnF	41.0021496259504	-8.80886371333071	0.000977517106549365

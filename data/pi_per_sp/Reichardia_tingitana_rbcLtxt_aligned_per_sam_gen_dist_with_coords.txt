@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Reichardia_tingitana	KY656726.1	23-JAN-2018	716	Egypt	secondary	rbcL	26.2540493	29.2675469	0.00407319110785093
+Reichardia_tingitana	KX282968.1	28-MAY-2017	576	Kuwait	secondary	rbcL	30.0708523037749	47.6520105997788	0.00406305246244271
+Reichardia_tingitana	KX282967.1	28-MAY-2017	575	Kuwait	secondary	rbcL	29.9933926925808	48.3000874167065	0.00349451209863109
+Reichardia_tingitana	KX282966.1	28-MAY-2017	580	Kuwait	secondary	rbcL	28.6611392040858	48.4133726819194	0.00463769167971183

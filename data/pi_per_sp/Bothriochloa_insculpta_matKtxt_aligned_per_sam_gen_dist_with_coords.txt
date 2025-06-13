@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bothriochloa_insculpta	LN906656.1	04-JAN-2016	1836	Tanzania:Arusha, Hanang	primary	matK	-4.4975	35.3959	0.00147278280032622
+Bothriochloa_insculpta	KR735003.1	24-JUN-2015	336	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.324255958331575	37.1184777055939	0.00149031627576404
+Bothriochloa_insculpta	KR734765.1	24-JUN-2015	374	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.397293960368933	37.2037769096636	0.00221902521157092
+Bothriochloa_insculpta	KR734640.1	24-JUN-2015	337	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.546152464211226	36.5162929083823	0.00148810841932769
+Bothriochloa_insculpta	KR734435.1	24-JUN-2015	373	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.430841751865264	36.7630046735794	0.00223218228384704

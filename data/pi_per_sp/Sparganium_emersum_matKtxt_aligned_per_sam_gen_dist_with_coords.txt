@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sparganium_emersum	HQ593456.1	09-NOV-2011	791	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., E edge of pond	primary	matK	44.035	-79.518	0.00248297559797478
+Sparganium_emersum	KJ841019.1	23-SEP-2014	758	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	matK	45.548	-73.152	0.00250046062066376
+Sparganium_emersum	LC004533.1	04-DEC-2015	713	Russia	secondary	matK	64.4575482314532	98.5163032489098	0.00116877045348294
+Sparganium_emersum	LC004532.1	04-DEC-2015	713	Russia	secondary	matK	64.2452414953096	99.2234735033631	0.00116877045348294
+Sparganium_emersum	KT215496.1	31-DEC-2015	771	Germany	secondary	matK	34.895926	-83.4665496	0.00110449810519814
+Sparganium_emersum	JN895790.1	07-MAR-2012	788	United Kingdom: Glamorgan	secondary	matK	51.6816070344148	-4.2870462256899	0.00223427876973405
+Sparganium_emersum	JN894171.1	07-MAR-2012	746	United Kingdom: Glamorgan	secondary	matK	51.6696447183238	-3.21816814461568	0.00112130127784207

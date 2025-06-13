@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Zostera_marina	JX028521.1	09-JAN-2014	294	Japan: Aomori	secondary	psbA-trnH	40.886943	140.590121	0.0136054421768707
+Zostera_marina	JN225326.1	01-FEB-2012	393	Germany: Ellenbogen, Sylt	secondary	psbA-trnH	55.0364005	8.3866533	0.00453514739229025
+Zostera_marina	JN225328.1	01-FEB-2012	393	Germany	secondary	psbA-trnH	55.6185953115291	8.88360312200475	0.00453514739229025
+Zostera_marina	JN225327.1	01-FEB-2012	393	Germany	secondary	psbA-trnH	55.2016081400232	9.72905636611217	0.00453514739229025

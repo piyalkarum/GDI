@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_alpinus	MZ400450.1	07-DEC-2021	854	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00210230365873701
+Astragalus_alpinus	KX677735.1	09-AUG-2017	814	Canada: British Columbia, Squamish-Lillooet Regional District, Relay Creek, along trail on south-facing slope in open meadow north of cabin	primary	matK	51.183	-122.968	0.000988701558334389
+Astragalus_alpinus	KC474147.1	25-OCT-2013	777	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	matK	74.908	-108.891	0.00115152746731694
+Astragalus_alpinus	KC474146.1	25-OCT-2013	706	Canada: Nunavut, Hudsons Bay, Belcher Islands, Tukarak Island, slightly east facing slope below large rock hills, 50 m from shore	primary	matK	56.386	-78.872	0.000894587744147905
+Astragalus_alpinus	KC474145.1	25-OCT-2013	776	Canada: Nunavut, Canadian Arctic Archipelago, Baffin Island, Iqaluit	primary	matK	63.445	-68.335	0.00115301139446555
+Astragalus_alpinus	KC474144.1	25-OCT-2013	776	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	matK	70.735	-117.761	0.00115301139446555
+Astragalus_alpinus	KC474143.1	25-OCT-2013	709	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 3 km ESE of junction with Little Hornaday River, NE bank	primary	matK	68.083	-121.633	0.00126197015811744
+Astragalus_alpinus	KC474142.1	25-OCT-2013	776	Canada: Northwest Territories, Victoria Island, Minto Inlet, Plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.277	-116.516	0.00115301139446555
+Astragalus_alpinus	KC474141.1	25-OCT-2013	763	Canada: Nunavut, Arctic Mainland, West Hudson Bay, Rankin Inlet	primary	matK	62.48	-92.05	0.00117265641167138
+Astragalus_alpinus	KC474140.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island (Nunavut), Cambridge Bay, Victoria Island	primary	matK	69.117	-105.05	0.00115152746731694
+Astragalus_alpinus	KC474139.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	matK	68.531	-112.703	0.00115152746731694
+Astragalus_alpinus	JN966121.1	27-OCT-2012	759	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	matK	58.734	-94.112	0.00117883641911102
+Astragalus_alpinus	JN966120.1	27-OCT-2012	776	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Bank of small stream near Goose Creek Rd	primary	matK	58.739	-94.112	0.00115301139446555
+Astragalus_alpinus	KX955060.1	16-JUL-2017	1780	China	secondary	matK	35.000074	104.999927	0.00347468781156018
+Astragalus_alpinus	MK926344.1	14-JAN-2020	792	United Kingdom	secondary	matK	55.2836630534477	-2.21403745494125	0.00112971823498139
+Astragalus_alpinus	MK925954.1	14-JAN-2020	920	United Kingdom	secondary	matK	54.9866243200298	-2.08831832359908	0.00236014581081892
+Astragalus_alpinus	MK925923.1	14-JAN-2020	238	United Kingdom	secondary	matK	54.7975164761904	-1.85986639253827	0.00309597523219814
+Astragalus_alpinus	MK925917.1	14-JAN-2020	872	United Kingdom	secondary	matK	54.178710470013	-2.68058183674613	0.00811013629021878
+Astragalus_alpinus	MK925865.1	14-JAN-2020	819	United Kingdom	secondary	matK	55.0528484216536	-2.68069941551301	0.0010924747766853
+Astragalus_alpinus	MK925848.1	14-JAN-2020	920	United Kingdom	secondary	matK	54.5603807232091	-3.65829974922501	0.0107657387297538

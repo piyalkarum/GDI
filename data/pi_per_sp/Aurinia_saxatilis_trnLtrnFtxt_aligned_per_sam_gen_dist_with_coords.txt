@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aurinia_saxatilis	KF022809.1	27-JUL-2013	371	Slovakia: Stupava	secondary	trnL-trnF	48.273044	17.0329528	0.00746968646365491
+Aurinia_saxatilis	KF022808.1	27-JUL-2013	366	Greece: Kato Zachlorou	secondary	trnL-trnF	38.0941637	22.1645771	0.00274555915795242
+Aurinia_saxatilis	KF022807.1	27-JUL-2013	365	Greece: Atena	secondary	trnL-trnF	37.9755648	23.7348324	0.00687769751140225
+Aurinia_saxatilis	KF022806.1	27-JUL-2013	371	Serbia: Bela Palanka	secondary	trnL-trnF	43.2179542	22.3112654	0.00406904416338379
+Aurinia_saxatilis	KF022810.1	27-JUL-2013	371	Romania	secondary	trnL-trnF	46.541535	23.7096356	0.00747343954117848

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_annua	MT758518.1	27-DEC-2021	457	Turkey: Balikesir	primary	psbA-trnH	39.34	27.59	0
+Artemisia_annua	MT758517.1	27-DEC-2021	457	Turkey: Trabzon	primary	psbA-trnH	41.01	39.44	0
+Artemisia_annua	MT758516.1	27-DEC-2021	457	Turkey: Istanbul	primary	psbA-trnH	41.07	29.54	0
+Artemisia_annua	MH330156.1	24-DEC-2018	438	Pakistan	secondary	psbA-trnH	30.3308401	71.247499	0
+Artemisia_annua	KX581949.1	24-SEP-2016	456	China: Xinjiang, Yili	secondary	psbA-trnH	44.4943603582503	80.8237308824022	0
+Artemisia_annua	KX581948.1	24-SEP-2016	456	China: Xinjiang, Yili	secondary	psbA-trnH	43.731407542963	80.1812910142417	0
+Artemisia_annua	KX581947.1	24-SEP-2016	456	China: Xinjiang, Yili	secondary	psbA-trnH	43.3286376983488	82.0328831311911	0
+Artemisia_annua	JF940249.1	13-NOV-2012	368	China: Beijing	secondary	psbA-trnH	39.6566257	-104.900937	0
+Artemisia_annua	JN862007.1	04-SEP-2012	373	USA: Indiana	secondary	psbA-trnH	40.3270127	-86.1746933	0

@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dasiphora_fruticosa	MG247788.1	21-JAN-2018	552	Canada: Yukon Territory, Bonnet Plume Drainage, Pinguicula Lake camp	primary	rbcL	64.699	-133.43	0.0097741654033646
+Dasiphora_fruticosa	MG247380.1	21-JAN-2018	552	Canada: Yukon Territory, Vuntut National Park, vicinity of Snowdrift camp	primary	rbcL	68.357	-139.218	0.0097741654033646
+Dasiphora_fruticosa	MF786589.1	06-DEC-2017	515	China: Sichuan, on the way from Muli to Chang-Hai-Zi Lake, near the pass	primary	rbcL	28.12731	101.16031	0.0112156996132772
+Dasiphora_fruticosa	KX678987.1	29-APR-2017	552	Canada: British Columbia, East Kootenay Regional District, Panorama Rd. near Invermere, campsite pulloff near river	primary	rbcL	50.444	-116.259	0.0110067233495931
+Dasiphora_fruticosa	KC482476.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	rbcL	69.45	-124.197	0.0097741654033646
+Dasiphora_fruticosa	KC482475.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0.0097741654033646
+Dasiphora_fruticosa	KC482474.1	25-OCT-2013	552	Canada: Northwest Territories, Inuvik, Dolomite Lake	primary	rbcL	68.38	-133.57	0.0097741654033646
+Dasiphora_fruticosa	KC482473.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	rbcL	68.064	-121.611	0.0097741654033646
+Dasiphora_fruticosa	MT931944.1	03-MAR-2023	572	China	secondary	rbcL	34.7751845868783	104.802521495664	0.0111268010679476
+Dasiphora_fruticosa	MK925311.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00949602592485761
+Dasiphora_fruticosa	JF941366.1	13-DEC-2011	675	China	secondary	rbcL	35.4918761765947	104.698998092699	0.014363500623579
+Dasiphora_fruticosa	JF941365.1	13-DEC-2011	675	China	secondary	rbcL	35.1224347077139	104.687290507036	0.0392973608348027
+Dasiphora_fruticosa	JF941364.1	13-DEC-2011	675	China	secondary	rbcL	35.1304876387155	104.24474924376	0.0286099328026373
+Dasiphora_fruticosa	JF941363.1	13-DEC-2011	675	China	secondary	rbcL	34.9732761292302	106.016393135525	0.0194848260268657

@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linnaea_borealis	LC694042.1	03-MAY-2022	599	Japan: Nagano	primary	rbcL	36.0572	138.333	0.000520305186525649
+Linnaea_borealis	MG224072.1	26-DEC-2017	547	Canada: Ontario, Nipissing District, Sproule Township, Around Cabins at Wildlife Research Station, Algonquin Park	primary	rbcL	45.592	-78.523	0.000402954320059599
+Linnaea_borealis	MG223917.1	26-DEC-2017	552	Canada: Ontario, Thunder Bay District, Neebing Twp., Thunder Bay	primary	rbcL	48.297	-89.239	0.000398759758563673
+Linnaea_borealis	MG223147.1	26-DEC-2017	552	Canada: Ontario, Algoma District, Sault Ste. Marie, Sault Ste. Marie	primary	rbcL	46.501	-84.441	0.000398759758563673
+Linnaea_borealis	MG222545.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, BPNP	primary	rbcL	45.184	-81.602	0.000398759758563673
+Linnaea_borealis	KX679081.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Ashlu Main Rd., near Squamish	primary	rbcL	49.933	-123.364	0.000398759758563673
+Linnaea_borealis	KX678964.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail, near Link Lake Forest Recreation Site	primary	rbcL	49.711	-120.231	0.000398759758563673
+Linnaea_borealis	KX678354.1	29-APR-2017	547	Canada: British Columbia, East Kootenay Regional District, near Invermere, Panorama Rd, campsite pulloff near river	primary	rbcL	50.4437	-116.259	0.000402236646928133
+Linnaea_borealis	KX678326.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.045	-125.501	0.000398759758563673
+Linnaea_borealis	KT307948.1	20-MAR-2016	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On the SW slope, 10 meters lower than E675A1.	primary	rbcL	55.3458	-67.9922	0.000398759758563673
+Linnaea_borealis	KC483091.1	25-OCT-2013	552	Canada: Yukon Territory, Richardson Mountains, Fish Creek	primary	rbcL	67.884	-136.344	0.000398759758563673
+Linnaea_borealis	KC483090.1	25-OCT-2013	552	Canada: Yukon Territory, Blow River Delta east, Mainland adjacent to Bill Storr Channel	primary	rbcL	68.782	-136.707	0.000398759758563673
+Linnaea_borealis	JN965645.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	rbcL	58.178	-93.637	0.000398759758563673
+Linnaea_borealis	JN965644.1	27-OCT-2012	483	Canada: Manitoba, Churchill, Wapusk National Park, York Factory	primary	rbcL	57.003	-92.304	0.00032908305845219
+Linnaea_borealis	MT931253.1	03-MAR-2023	578	China	secondary	rbcL	35.000074	104.999927	0.000773887556875707
+Linnaea_borealis	MK924986.1	14-JAN-2020	542	Estonia	secondary	rbcL	58.7523778	25.3319078	0.000407975037590187
+Linnaea_borealis	MK924483.1	14-JAN-2020	542	Norway	secondary	rbcL	64.5731537	11.5280364	0.000407975037590187
+Linnaea_borealis	MK924435.1	14-JAN-2020	542	Sweden	secondary	rbcL	59.6749712	14.5208584	0.000407975037590187
+Linnaea_borealis	MG221952.1	26-DEC-2017	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	42.8746586841967	-77.8176853186818	0.000398759758563673
+Linnaea_borealis	MG221864.1	26-DEC-2017	552	Canada: Ontario, Renfrew District, Petawawa, NEBIE field study site	secondary	rbcL	44.4592290706892	-77.6277146632521	0.000398759758563673
+Linnaea_borealis	KP297698.1	22-MAR-2015	529	USA	secondary	rbcL	39.6347119955054	-100.109260626711	0.00483624255464876
+Linnaea_borealis	KP297697.1	22-MAR-2015	514	Finland	secondary	rbcL	63.2467777	25.9209164	0.000533647336363347
+Linnaea_borealis	KP297689.1	22-MAR-2015	477	USA	secondary	rbcL	40.0722142034214	-100.727946517646	0.00428153381992772
+Linnaea_borealis	KJ593508.1	17-MAR-2015	553	USA: Wisconsin, Hiles	secondary	rbcL	45.7745349916606	-88.0219872405494	0.000398633760914285
+Linnaea_borealis	KJ593507.1	17-MAR-2015	553	USA: Wisconsin, Alvin	secondary	rbcL	45.984958	-88.829295	0.000398633760914285
+Linnaea_borealis	KJ593506.1	17-MAR-2015	553	USA: Wisconsin, Hiles	secondary	rbcL	46.4466444646625	-89.4743708863887	0.000398633760914285
+Linnaea_borealis	AJ420878.1	20-FEB-2002	1325	USA:Door County, WI	secondary	rbcL	44.8330333	-87.378935	0.00227194275370209

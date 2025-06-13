@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_alyssoides	MW070338.1	19-APR-2021	888	Slovakia: Hrhov	secondary	rpoB	48.3387797438178	20.5287581235429	0
+Alyssum_alyssoides	MW070337.1	19-APR-2021	888	Slovakia: Hrhov	secondary	rpoB	48.4314408019991	21.7775188484837	0
+Alyssum_alyssoides	MW070306.1	19-APR-2021	888	Romania: Palazu Mic	secondary	rpoB	44.3008129580458	27.8203114671407	0
+Alyssum_alyssoides	MW070305.1	19-APR-2021	888	Romania: Palazu Mic	secondary	rpoB	44.5571944758763	28.4116877300472	0
+Alyssum_alyssoides	MW070280.1	19-APR-2021	889	Bulgaria: Srem	secondary	rpoB	42.1339467067631	26.0210550164855	0
+Alyssum_alyssoides	MW070279.1	19-APR-2021	889	Bulgaria: Srem	secondary	rpoB	42.2285341255523	26.4846537591143	0
+Alyssum_alyssoides	MW070248.1	19-APR-2021	887	Spain: Santo Domingo de Silos	secondary	rpoB	41.4992299900352	-3.37821226182216	0
+Alyssum_alyssoides	MW070247.1	19-APR-2021	887	Spain: Santo Domingo de Silos	secondary	rpoB	41.2951062812569	-3.76364351834456	0
+Alyssum_alyssoides	MW070246.1	19-APR-2021	888	Germany: Burgberg	secondary	rpoB	48.1133490326482	11.1736582484109	0
+Alyssum_alyssoides	MW070245.1	19-APR-2021	888	Germany: Burgberg	secondary	rpoB	47.4475149187026	9.48651434577655	0
+Alyssum_alyssoides	MW070232.1	19-APR-2021	888	Italy: Opicina	secondary	rpoB	45.1529751419163	13.7345052102279	0
+Alyssum_alyssoides	MW070231.1	19-APR-2021	888	Italy: Opicina	secondary	rpoB	45.3117432623555	14.4233657113708	0
+Alyssum_alyssoides	MW070230.1	19-APR-2021	888	Montenegro: Kruce	secondary	rpoB	41.6617025087075	20.2573083183596	0
+Alyssum_alyssoides	MW070229.1	19-APR-2021	888	Montenegro: Kruce	secondary	rpoB	41.3323530464704	18.3838454165316	0
+Alyssum_alyssoides	MW070224.1	19-APR-2021	889	France: Mt. Ceuse	secondary	rpoB	44.27913609614	4.82091709711333	0
+Alyssum_alyssoides	MW070223.1	19-APR-2021	889	France: Mt. Ceuse	secondary	rpoB	44.3770447322433	7.00548176129278	0
+Alyssum_alyssoides	MW070220.1	19-APR-2021	887	Italy: Colle dell'Impiso	secondary	rpoB	41.1981148349905	14.6849184901687	0
+Alyssum_alyssoides	MW070219.1	19-APR-2021	888	Italy: Colle dell'Impiso	secondary	rpoB	41.11507540923	14.4645272646635	0
+Alyssum_alyssoides	MW070218.1	19-APR-2021	889	Italy: Mt. Amaro	secondary	rpoB	40.9338612814134	16.487197804059	0
+Alyssum_alyssoides	MW070217.1	19-APR-2021	889	Italy: Mt. Amaro	secondary	rpoB	39.6346146069085	16.6945785253462	0
+Alyssum_alyssoides	MW070216.1	19-APR-2021	888	Romania: Lipova	secondary	rpoB	46.5194076065316	20.6438920568871	0
+Alyssum_alyssoides	MW070215.1	19-APR-2021	889	Romania: Lipova	secondary	rpoB	46.865278695777	21.2979570735447	0

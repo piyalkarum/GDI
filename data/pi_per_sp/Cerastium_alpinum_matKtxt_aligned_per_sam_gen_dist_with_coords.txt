@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_alpinum	MZ400451.1	07-DEC-2021	805	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00011368804001819
+Cerastium_alpinum	KT307915.1	20-MAR-2016	764	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Top of Mt. Irony, 30 m right of Inoukshouk.	primary	matK	55.2231	-69.4894	0.00011368804001819
+Cerastium_alpinum	KC474435.1	25-OCT-2013	771	Canada: Northwest Territories, Victoria Island, Minto Inlet, River valley at base of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.317	-116.418	0.00011368804001819
+Cerastium_alpinum	KC474434.1	25-OCT-2013	771	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island, Itiliapik, ~35 km SE of Sanikiluaq, slopes to south of camp ~0.5 km, near boat launch	primary	matK	56.456	-79.003	0.00011368804001819
+Cerastium_alpinum	KC474433.1	25-OCT-2013	741	Canada: Nunavut, Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbour	primary	matK	61.82	-65.71	0.000117205813408345
+Cerastium_alpinum	KC474432.1	25-OCT-2013	771	Canada: Nunavut, Baffin Island, Nikko Island	primary	matK	63.598	-71.526	0.00011368804001819
+Cerastium_alpinum	JN966224.1	27-OCT-2012	770	Canada: Manitoba, Churchill, unspecified locality	primary	matK	59.0670940390302	-94.5352047548682	0.00011368804001819
+Cerastium_alpinum	JN966223.1	27-OCT-2012	751	Canada: Manitoba, Churchill, unspecified locality	primary	matK	59.3469720947939	-94.9798139117582	0.00011368804001819
+Cerastium_alpinum	JN966222.1	27-OCT-2012	733	Canada: Manitoba, Churchill, unspecified locality	primary	matK	58.5356821256078	-93.6802452668794	0.00137014935193751
+Cerastium_alpinum	JN894309.1	07-MAR-2012	805	United Kingdom	primary	matK	53.16	-3.97	0.00011368804001819
+Cerastium_alpinum	MK926086.1	14-JAN-2020	801	United Kingdom	secondary	matK	54.4968141645046	-2.64839893321775	0.00011368804001819
+Cerastium_alpinum	MK925805.1	14-JAN-2020	803	United Kingdom	secondary	matK	55.3719946862483	-3.28355628587992	0.00011368804001819
+Cerastium_alpinum	JN893871.1	07-MAR-2012	721	United Kingdom: Perthshire,Mid	secondary	matK	56.42429525	-3.22021700661112	0.000116063138347261

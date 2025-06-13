@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arum_italicum	MF349542.1	21-SEP-2017	553	USA: District of Columbia; 3501 New York Avenue NE; U. S. National Arboretum, Stop 4, Azalea collection hilltop footpaths	primary	rbcL	38.907	-76.958	0.0147058823529412
+Arum_italicum	HM849794.1	23-JUL-2011	1116	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0605691917054592
+Arum_italicum	JN891723.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.0928758473734	-2.85184148350905	0.0152877697841727
+Arum_italicum	JN891717.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.5055378375298	-4.10334140456055	0.0152877697841727
+Arum_italicum	JN891493.1	07-MAR-2012	542	United Kingdom: West Sussex (13)	secondary	rbcL	51.0152144	-0.0779587	0.0152877697841727

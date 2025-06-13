@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_flacca	JN895262.1	07-MAR-2012	834	United Kingdom: Monmouthshire	primary	matK	51.52	-3.04	0.00110902971026084
+Carex_flacca	MN763691.1	28-JUL-2020	534	Spain: Balearic Islands, Menorca	secondary	matK	39.949401	4.0593888	0.00397940074906367
+Carex_flacca	MN763666.1	28-JUL-2020	537	Italy: Tuscany	secondary	matK	43.4586541	11.1389204	0.00349423555750842
+Carex_flacca	KJ204452.1	29-JAN-2015	713	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00200273120370984
+Carex_flacca	HE966894.1	18-SEP-2012	815	Italy:Trieste, Mt. Valerio	secondary	matK	46.1919147359511	14.5235196501689	0.00110902971026084
+Carex_flacca	HE966893.1	18-SEP-2012	815	Italy:Trieste, Mt. Valerio	secondary	matK	45.1018695954987	13.6297973917052	0.00110902971026084
+Carex_flacca	HE966892.1	18-SEP-2012	706	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621297831693	13.4040499224309	0.00112484564070935
+Carex_flacca	JN894630.1	07-MAR-2012	749	United Kingdom: Monmouthshire	secondary	matK	52.2709462706332	-1.76165623320347	0.00110902971026084
+Carex_flacca	JN894534.1	07-MAR-2012	759	United Kingdom: Monmouthshire	secondary	matK	51.9705635053131	-1.85818400168268	0.00110902971026084

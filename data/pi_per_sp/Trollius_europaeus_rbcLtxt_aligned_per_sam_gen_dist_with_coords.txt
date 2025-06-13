@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trollius_europaeus	MZ359317.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.00229357798165138
+Trollius_europaeus	JN893519.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.92	-3.78	0.00233644859813084
+Trollius_europaeus	JN893474.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.00233644859813084
+Trollius_europaeus	JN893471.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00233644859813084
+Trollius_europaeus	HE574595.1	31-JUL-2011	566	Finland	secondary	rbcL	63.2467777	25.9209164	0.0093029237760439

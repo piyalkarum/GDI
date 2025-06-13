@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Secale_strictum	MH894092.1	24-APR-2019	283	Canada	secondary	Adh	61.0666922	-107.991707	0
+Secale_strictum	MH894091.1	24-APR-2019	283	USA	secondary	Adh	39.7837304	-100.445882	0
+Secale_strictum	MH894098.1	24-APR-2019	312	Poland	secondary	Adh	52.215933	19.134422	0.00520368002116729
+Secale_strictum	MH894096.1	24-APR-2019	306	Hungary	secondary	Adh	41.9767629	-72.7789842	0.00592139662882697
+Secale_strictum	MH894090.1	24-APR-2019	314	South Africa	secondary	Adh	-28.7359745491582	24.4461618124064	0.00584861901749947
+Secale_strictum	MH894089.1	24-APR-2019	310	South Africa	secondary	Adh	-29.0803000546948	25.8834493886557	0.00263627875392581

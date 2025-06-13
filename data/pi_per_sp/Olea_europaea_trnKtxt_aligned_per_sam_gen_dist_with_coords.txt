@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Olea_europaea	AF359504.1	09-MAY-2001	404	Spain: Cantabria, Pechon	secondary	trnK	43.3902731	-4.4892109	0.00165016501650165
+Olea_europaea	AF359503.1	09-MAY-2001	404	Spain: Mora, Toledo	secondary	trnK	39.6969745	-3.7862456	0.00165016501650165
+Olea_europaea	AF359502.1	09-MAY-2001	404	Spain: Canary Islands, coast of Fuerteventura	secondary	trnK	28.2863989	-16.7960118089107	0.00165016501650165
+Olea_europaea	AF359501.1	09-MAY-2001	404	Portugal: Madeira, Madalena do Mar	secondary	trnK	32.7008517	-17.1343394	0.00165016501650165
+Olea_europaea	AF359498.1	09-MAY-2001	404	Iran: Kerman	secondary	trnK	29.571858	57.301047	0.00412541254125413
+Olea_europaea	AF359497.1	09-MAY-2001	404	China	secondary	trnK	30.047992	-94.3357433	0.00412541254125413
+Olea_europaea	AF359500.1	09-MAY-2001	404	Algeria	secondary	trnK	23.1727455	5.67700472993184	0.00165016501650165

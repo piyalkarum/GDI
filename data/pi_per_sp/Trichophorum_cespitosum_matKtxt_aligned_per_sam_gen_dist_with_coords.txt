@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trichophorum_cespitosum	MG217002.1	24-JAN-2018	775	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Between plots E800E5 and E800F6	primary	matK	54.902	-67.164	0.000542377000622782
+Trichophorum_cespitosum	KC476058.1	25-OCT-2013	769	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Cabins on Harp Seal Lake, wetlands between cabins and river	primary	matK	56.314	-79.411	0.00054381522010706
+Trichophorum_cespitosum	KC476057.1	25-OCT-2013	777	Canada: Nunavut, Mainland Nunavut, Coppermine, Coppermine airport	primary	matK	67.817	-115.239	0.000541902530102228
+Trichophorum_cespitosum	KC476056.1	25-OCT-2013	703	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Flood plain beside creek flowing into Hornaday River	primary	matK	68.0583	-121.639	0.000461541910100014
+Trichophorum_cespitosum	KC476055.1	25-OCT-2013	554	Canada: Nunavut, West Hudson Bay, Vicinity of Hyde Lake, 6.5 km NE of Hyde Lake, ca. 28 km from HB coast	primary	matK	60.65	-95.1	0.00386843948382259
+Trichophorum_cespitosum	KC476054.1	25-OCT-2013	755	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	matK	66.839	-108.035	0.000547259962138941
+Trichophorum_cespitosum	JN966717.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0.000541902530102228
+Trichophorum_cespitosum	JN966716.1	27-OCT-2012	748	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	matK	58.629	-93.798	0.000549030688490891
+Trichophorum_cespitosum	JN893954.1	07-MAR-2012	788	United Kingdom: Cardiganshire	primary	matK	52.51	-4.03	0.00159151405973144
+Trichophorum_cespitosum	MN780670.1	26-JAN-2020	1264	USA: Utah	secondary	matK	39.4225192	-111.714358	0.000537213672972254
+Trichophorum_cespitosum	MN780656.1	26-JAN-2020	1288	France	secondary	matK	46.603354	1.8883335	0.000536548620039039
+Trichophorum_cespitosum	MN780654.1	26-JAN-2020	1288	Canada: Newfoundland	secondary	matK	49.1212094	-56.6403111	0.000536548620039039
+Trichophorum_cespitosum	KU496599.1	31-JAN-2017	813	Canada: Quebec, Schefferville region	secondary	matK	46.8137431	-71.2084061	0.00145021083825644
+Trichophorum_cespitosum	KJ513657.1	06-SEP-2014	1273	Canada	secondary	matK	61.0666922	-107.991707	0.000536548620039039
+Trichophorum_cespitosum	JN896219.1	07-MAR-2012	713	United Kingdom: Breconshire	secondary	matK	52.9875065	-1.1773256	0.00159038625339529

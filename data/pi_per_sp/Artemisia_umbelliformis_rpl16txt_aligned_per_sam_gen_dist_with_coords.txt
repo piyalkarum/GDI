@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_umbelliformis	KU000052.1	02-DEC-2016	490	Austria: Umbalkees	secondary	rpl16	47.0596622	12.2495612	0.00435374149659864
+Artemisia_umbelliformis	KU000051.1	02-DEC-2016	490	France: Restefond Jausiers	secondary	rpl16	44.3381365	6.7921587	0.00435374149659864
+Artemisia_umbelliformis	KU000049.1	02-DEC-2016	490	Italy: Monte Rondinaio	secondary	rpl16	43.9262426	10.378098	0.00435374149659864
+Artemisia_umbelliformis	KU000048.1	02-DEC-2016	490	Austria: Schladminger Tauern,Hochgolling	secondary	rpl16	47.25434315	13.7879784530046	0.00435374149659864
+Artemisia_umbelliformis	KU000047.1	02-DEC-2016	490	Austria: Hohe Tauern, Umbalkees	secondary	rpl16	47.05229645	13.2016428676744	0.00435374149659864
+Artemisia_umbelliformis	KU000046.1	02-DEC-2016	490	Spain: Huesca,Coll Anglios	secondary	rpl16	42.9585947336846	-0.158312383824191	0.00435374149659864
+Artemisia_umbelliformis	KU000045.1	02-DEC-2016	490	Spain: Palencia, Agujas de Cardano	secondary	rpl16	43.0177365	-4.742076	0.00435374149659864
+Artemisia_umbelliformis	KU000044.1	02-DEC-2016	490	Spain: Huesca,Collaradeta	secondary	rpl16	42.7065826	-0.4587865	0.00435374149659864
+Artemisia_umbelliformis	KU000043.1	02-DEC-2016	490	Spain: Granada, Barranco Goteron	secondary	rpl16	37.0640526	-3.2824738	0.00435374149659864
+Artemisia_umbelliformis	KU000042.1	02-DEC-2016	490	Spain: Girona, Bastiments	secondary	rpl16	41.8150019	2.7379873	0.00435374149659864
+Artemisia_umbelliformis	KU000041.1	02-DEC-2016	490	Spain: Girona, Noucreus	secondary	rpl16	42.4080268	2.1732245	0.00435374149659864
+Artemisia_umbelliformis	KU000040.1	02-DEC-2016	490	Spain: Huesca, Pena Nebera	secondary	rpl16	41.6017041940787	-0.922498523162415	0.00435374149659864
+Artemisia_umbelliformis	KU000039.1	02-DEC-2016	490	France: Pic du Canigo	secondary	rpl16	42.5189047	2.4565596	0.00435374149659864
+Artemisia_umbelliformis	KU000057.1	02-DEC-2016	490	Switzerland	secondary	rpl16	46.8198563	10.2036809	0.00435374149659864
+Artemisia_umbelliformis	KU000055.1	02-DEC-2016	490	Switzerland	secondary	rpl16	46.4771192	8.3878277	0.00435374149659864
+Artemisia_umbelliformis	KU000054.1	02-DEC-2016	490	Italy	secondary	rpl16	46.0963959	9.9949268	0.00435374149659864

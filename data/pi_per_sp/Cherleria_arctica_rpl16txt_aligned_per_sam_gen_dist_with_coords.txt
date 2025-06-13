@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cherleria_arctica	AB219677.1	20-DEC-2005	961	Japan: Shizuoka, Mt. Akaishidake	secondary	rpl16	35.4612203	138.1573535	0.00210748155953635
+Cherleria_arctica	AB219676.1	20-DEC-2005	957	Japan: Nagano, Mt. Kisokomagadake	secondary	rpl16	36.6485851	138.1947664	0.00125568023536847
+Cherleria_arctica	AB219675.1	20-DEC-2005	957	Japan: Toyama, Mts. Tateyama	secondary	rpl16	36.6957569	137.2136215	0.00209338763897101
+Cherleria_arctica	AB219674.1	20-DEC-2005	957	Japan: Nagano, Mt. Shiroumadake	secondary	rpl16	36.7584922	137.758539	0.00125744197543914
+Cherleria_arctica	AB219673.1	20-DEC-2005	957	Japan: Hokkaido, Mts. Taisetsuzan	secondary	rpl16	43.4603175	143.330715792837	0.00209514937904168
+Cherleria_arctica	AB219672.1	20-DEC-2005	958	Russia: Sakhalin, Mt. Zhdanko	secondary	rpl16	50.15947595	143.026441186009	0.00125744197543914

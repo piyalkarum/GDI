@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthyllis_montana	FN675866.1	01-MAR-2011	611	Croatia:Vratnik	primary	ITS	44.99	14.98	0.00105901607778954
+Anthyllis_montana	FN675865.1	01-MAR-2011	611	Slovenia:Ilirska Bistrica	primary	ITS	45.57	14.3	0.00105901607778954
+Anthyllis_montana	FN675864.1	01-MAR-2011	611	Austria:Mt. Goesing	primary	ITS	47.73	16	0.00105901607778954
+Anthyllis_montana	FN675863.1	01-MAR-2011	611	Austria:Hohe Wand	primary	ITS	47.82	16.03	0.00105901607778954
+Anthyllis_montana	AJ512930.1	21-FEB-2003	212	Switzerland	secondary	ITS	46.7939849937146	7.6542624707386	NA
+Anthyllis_montana	AJ512929.1	21-FEB-2003	212	Switzerland	secondary	ITS	46.5905043094438	8.5705904037431	NA
+Anthyllis_montana	AJ512928.1	21-FEB-2003	212	Italy:Monte Cucco	secondary	ITS	44.3278606179635	12.3044592428641	NA
+Anthyllis_montana	AJ512905.1	21-FEB-2003	231	Switzerland	secondary	ITS	46.3495187790629	8.92565518595021	NA
+Anthyllis_montana	AJ512904.1	21-FEB-2003	232	Switzerland	secondary	ITS	47.2000493231885	8.712804274913	NA
+Anthyllis_montana	AJ512903.1	21-FEB-2003	231	Italy:Monte Cucco	secondary	ITS	43.4588438977173	12.8917893911778	NA
+Anthyllis_montana	AJ315508.1	15-MAR-2002	611	Spain:Sierra de Baza	secondary	ITS	37.2538222	-2.795395	0.00556920457874236
+Anthyllis_montana	AJ315507.1	15-MAR-2002	611	France:Haute-Savoie, Saleve Mt.	secondary	ITS	46.1195922	6.1724261	0.00211803215557909
+Anthyllis_montana	AJ315506.1	15-MAR-2002	611	France:Hautes-Alpes, Briancon	secondary	ITS	44.8984037	6.6436313	0.00506847274623032
+Anthyllis_montana	AJ315505.1	15-MAR-2002	611	Italy:Abruzzi, Gran Sasso Mts.	secondary	ITS	42.4687934	13.5631284	0.00154038702223934
+Anthyllis_montana	AJ315504.1	15-MAR-2002	611	Italy:Friuli, Chiampon Mt.	secondary	ITS	46.3693475	12.8699885	0.00105901607778954
+Anthyllis_montana	AJ315503.1	15-MAR-2002	611	Austria:Geissberg Mt.	secondary	ITS	48.8050147	15.2072876	0.00105901607778954
+Anthyllis_montana	AJ315502.1	15-MAR-2002	611	Slovenia:Nanos Mt.	secondary	ITS	45.8194609	14.0192976	0.00105901607778954
+Anthyllis_montana	AJ315501.1	15-MAR-2002	611	Croatia	secondary	ITS	44.8737694	14.9837701	0.00105901607778954

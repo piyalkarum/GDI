@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_scaberulus	KC145319.1	31-JAN-2014	912	Portugal: Ervedal	secondary	trnL-trnF	40.1815389566418	-7.97208875110905	0.0186574648119196
+Narcissus_scaberulus	AY490184.1	16-DEC-2003	365	Portugal: Oliveira do Conde	secondary	trnL-trnF	40.4416171	-7.9574153	0.0139652666793037
+Narcissus_scaberulus	AY490183.1	16-DEC-2003	356	Portugal: Ervedal	secondary	trnL-trnF	40.0300208281983	-7.83647743412541	0.0281856486210419
+Narcissus_scaberulus	AY490182.1	16-DEC-2003	355	Portugal: Ervedal	secondary	trnL-trnF	40.4687119772858	-7.10393951652327	0.0141565300896287

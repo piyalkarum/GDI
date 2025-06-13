@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Osyris_lanceolata	JX517317.1	22-AUG-2013	751	South Africa: Mpumalanga, Blyde River Canyon, Blyde river Canyon	primary	matK	-24.472	30.623	0.00337421717836471
+Osyris_lanceolata	ON982122.1	17-OCT-2022	778	Kenya	secondary	matK	0.781053161059585	38.5292408331044	0.00449277917727091
+Osyris_lanceolata	MG999418.1	07-APR-2018	1068	Kenya	secondary	matK	1.20385051028605	39.1860196088391	0.00344397130023917
+Osyris_lanceolata	HF568797.1	23-DEC-2012	573	Saudi Arabia	secondary	matK	25.6242618	42.3528328	0.00951965390564952

@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_bebbiana	MG249121.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.225	-100.506	0.00169082125603865
+Salix_bebbiana	MG248556.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	45.9783687750102	-73.0679631892428	0.00169082125603865
+Salix_bebbiana	MG247282.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	45.3648230127867	-73.948022381027	0.00169082125603865
+Salix_bebbiana	HQ590255.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., NE of Willow Ridge, S of marsh	primary	rbcL	44.025	-79.536	0.00169082125603865
+Salix_bebbiana	KJ593674.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.56	-88.798	0.00169082125603865
+Salix_bebbiana	KJ593673.1	17-MAR-2015	553	USA: Wisconsin, Wabeno	primary	rbcL	45.485	-88.497	0.00169082125603865
+Salix_bebbiana	KJ841536.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.00169082125603865
+Salix_bebbiana	JN965861.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	rbcL	58.692	-94.132	0.00169082125603865
+Salix_bebbiana	JN965860.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	rbcL	59.5030518155893	-94.483692630954	0.00169082125603865
+Salix_bebbiana	JN965859.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	rbcL	59.0253740217777	-92.7262625796794	0.00169082125603865
+Salix_bebbiana	JN965858.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	rbcL	58.633	-93.79	0.00169082125603865
+Salix_bebbiana	JN965857.1	27-OCT-2012	456	Canada: Manitoba, Churchill, Vicinity of Churchill, CNR tracks	primary	rbcL	58.74	-93.82	0.00204678362573099
+Salix_bebbiana	MG248868.1	21-JAN-2018	552	Canada: Ontario, Parry Sound District, French River	secondary	rbcL	46.0161771	-80.6621483	0.0124345225973978
+Salix_bebbiana	MG246338.1	21-JAN-2018	552	Canada: Ontario, Thunder Bay District, Falling Snow	secondary	rbcL	48.1700659	-89.7981087	0.0124345225973978
+Salix_bebbiana	HE612046.1	16-NOV-2011	597	Russia:Jewish Autonomous Oblast	secondary	rbcL	48.5601613	132.2775662	0.00211161387631976
+Salix_bebbiana	FR694869.1	04-OCT-2010	597	Russia:Kamchatka	secondary	rbcL	57.1914882	160.0383819	0.00211161387631976

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Prunus_spinosa	JN895321.1	07-MAR-2012	836	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.000709728075164938
+Prunus_spinosa	KJ746125.1	29-JUL-2014	699	Poland	secondary	matK	52.215933	19.134422	0.0019635827089231
+Prunus_spinosa	KJ204527.1	29-JAN-2015	836	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00186277746004535
+Prunus_spinosa	FR865066.1	09-JUN-2011	769	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00071029174760361
+Prunus_spinosa	HE966978.1	18-SEP-2012	654	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00204907278859962
+Prunus_spinosa	JN895844.1	07-MAR-2012	813	United Kingdom: Glamorgan	secondary	matK	51.7933613334572	-2.81911418353946	0.000698279908735222
+Prunus_spinosa	JN895840.1	07-MAR-2012	701	United Kingdom: Glamorgan	secondary	matK	52.0346410189388	-2.57155313268427	0.000743980189541345

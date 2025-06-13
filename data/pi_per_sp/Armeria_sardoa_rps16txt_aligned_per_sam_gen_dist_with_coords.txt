@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_sardoa	LC757315.1	24-AUG-2023	329	Italy:Valico Sa Casa	primary	rps16	40.0185767899833	10.2578746311287	0
+Armeria_sardoa	LC757314.1	24-AUG-2023	329	Italy:Valico Sa Casa	primary	rps16	39.7673168091514	8.09508315391887	0
+Armeria_sardoa	LC757313.1	24-AUG-2023	329	Italy:Valico Sa Casa	primary	rps16	40.5933102228645	9.32817636670118	0
+Armeria_sardoa	LC757312.1	24-AUG-2023	329	Italy:Limbara	primary	rps16	41.3986974524228	8.90591961240654	0
+Armeria_sardoa	LC757311.1	24-AUG-2023	329	Italy:Limbara	primary	rps16	40.1835726621734	8.49917989035469	0
+Armeria_sardoa	LC757310.1	24-AUG-2023	329	Italy:Limbara	primary	rps16	41.3579797456284	10.0311708660746	0
+Armeria_sardoa	LC757309.1	24-AUG-2023	329	Italy:Badde Ubara	primary	rps16	40.400326422019	9.31045480937346	0
+Armeria_sardoa	LC757308.1	24-AUG-2023	329	Italy:Badde Ubara	primary	rps16	39.9406333651446	9.52847290680974	0
+Armeria_sardoa	LC757307.1	24-AUG-2023	329	Italy:Badde Ubara	primary	rps16	39.8280588074653	8.67488551426371	0
+Armeria_sardoa	LC757306.1	24-AUG-2023	329	Italy:Monte Spada	primary	rps16	39.6731666846098	10.2021235768583	0
+Armeria_sardoa	LC757305.1	24-AUG-2023	329	Italy:Monte Spada	primary	rps16	40.0689185611841	8.31139620116413	0
+Armeria_sardoa	LC757304.1	24-AUG-2023	329	Italy:Monte Spada	primary	rps16	39.4010195560828	8.49903424876655	0
+Armeria_sardoa	LC757303.1	24-AUG-2023	329	Italy:Bruncu Spina	primary	rps16	40.3073128986389	9.15895026206329	0
+Armeria_sardoa	LC757302.1	24-AUG-2023	329	Italy:Bruncu Spina	primary	rps16	39.8494464596356	9.01644999870434	0
+Armeria_sardoa	LC757301.1	24-AUG-2023	329	Italy:Bruncu Spina	primary	rps16	40.3278700161353	9.65903663180497	0

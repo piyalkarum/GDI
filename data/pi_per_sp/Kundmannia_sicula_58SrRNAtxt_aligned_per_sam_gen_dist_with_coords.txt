@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kundmannia_sicula	HE687375.1	04-MAY-2012	677	Morocco:Marrakech	secondary	5.8S rRNA	32.3576346180034	-7.71737065803164	0.00298974911429238
+Kundmannia_sicula	HE687363.1	04-MAY-2012	670	Morocco:Marrakech	secondary	5.8S rRNA	32.3484081513315	-7.69077647644554	0.00300757304186479
+Kundmannia_sicula	HE687337.1	04-MAY-2012	678	Morocco:Marrakech	secondary	5.8S rRNA	32.0385059116526	-8.64133276584951	0.00498876758723108
+Kundmannia_sicula	HE602465.1	14-OCT-2011	665	Morocco	secondary	5.8S rRNA	28.3347722	-10.3713379	0.00702359216291105

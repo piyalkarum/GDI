@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spirodela_polyrhiza	LC549213.1	04-JUN-2020	640	Japan:Yamanashi, Kofu	primary	atpF-atpH	35.7	138.6	0
+Spirodela_polyrhiza	MZ436185.1	27-FEB-2022	665	China	secondary	atpF-atpH	30.047992	-94.3357433	0
+Spirodela_polyrhiza	KP017659.1	27-MAY-2015	606	China: Chao Lake	secondary	atpF-atpH	31.2344210075531	117.324231939116	0
+Spirodela_polyrhiza	KP017648.1	27-MAY-2015	606	China: Chao Lake	secondary	atpF-atpH	30.8524336521305	117.216289706191	0
+Spirodela_polyrhiza	KP017632.1	27-MAY-2015	606	China: Chao Lake	secondary	atpF-atpH	32.0933535957342	117.733018795168	0
+Spirodela_polyrhiza	KP017628.1	27-MAY-2015	606	China: Chao Lake	secondary	atpF-atpH	32.3592685599519	117.768819862785	0
+Spirodela_polyrhiza	KP017626.1	27-MAY-2015	606	China: Chao Lake	secondary	atpF-atpH	31.5772875750778	117.575450238252	0
+Spirodela_polyrhiza	KP017624.1	27-MAY-2015	606	China: Chao Lake	secondary	atpF-atpH	32.0241233719519	118.139690580802	0
+Spirodela_polyrhiza	KP017620.1	27-MAY-2015	606	China: Chao Lake	secondary	atpF-atpH	31.9540010580681	117.091602132702	0
+Spirodela_polyrhiza	KP017618.1	27-MAY-2015	606	China: Chao Lake	secondary	atpF-atpH	32.3577701828833	117.239434050952	0
+Spirodela_polyrhiza	KP017615.1	27-MAY-2015	606	China: Chao Lake	secondary	atpF-atpH	31.1145382147819	116.543984497174	0
+Spirodela_polyrhiza	KP017614.1	27-MAY-2015	606	China: Chao Lake	secondary	atpF-atpH	31.1551597375814	118.064828801193	0

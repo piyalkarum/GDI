@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_lactea	KC474623.1	25-OCT-2013	761	Canada: Nunavut, Baffin Island, Lower Savage Islands	primary	matK	61.817	-65.7	0
+Draba_lactea	KC474622.1	25-OCT-2013	761	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	matK	69.616	-140.768	0
+Draba_lactea	KC474621.1	25-OCT-2013	762	Canada: Northwest Territories, Banks Island, Nelson Head	primary	matK	71.083	-122.767	0
+Draba_lactea	KC474620.1	25-OCT-2013	761	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of small round lake NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.267	-116.492	0
+Draba_lactea	KC474619.1	25-OCT-2013	636	Canada: Nunavut, Ellesmere Island, Valley between Muskox Fiord and Baad Fiord, W part near lake near Muskox Fiord	primary	matK	76.3167	-86.8333	0
+Draba_lactea	KC474618.1	25-OCT-2013	636	Canada: Northwest Territories, Cape Bathurst, Anderson River area, Cape Bathurst E side, brook system N of river from Lake McKinlay, 0.7-1.5 km from sea	primary	matK	70.4833	-127.8	0
+Draba_lactea	KC474617.1	25-OCT-2013	636	Canada: Northwest Territories, Melville Island, Warrington Bay, Site 153. Broad floodplain north of Cape Cyclops	primary	matK	75.2	-116.6	0

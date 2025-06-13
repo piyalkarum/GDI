@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lolium_arundinaceum	KJ529201.1	22-FEB-2015	530	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0
+Lolium_arundinaceum	KJ529199.1	22-FEB-2015	530	France	secondary	psbA-trnH	46.6533203451987	0.692501444211905	0
+Lolium_arundinaceum	KT439004.1	23-SEP-2016	553	Ukraine	secondary	psbA-trnH	37.9382413	58.387981	0
+Lolium_arundinaceum	KT438995.1	23-SEP-2016	553	France	secondary	psbA-trnH	46.4111510968156	0.80941436740007	0
+Lolium_arundinaceum	KT438991.1	23-SEP-2016	553	France	secondary	psbA-trnH	46.5233232422377	1.88198837316866	0

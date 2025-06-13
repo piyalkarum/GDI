@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Limonium_gmelinii	OR575213.1	25-OCT-2023	552	Kazakhstan: Qaragandy region	primary	rbcL	49.36198	75.73203	0.00181159420289855
+Limonium_gmelinii	MT931163.1	03-MAR-2023	569	China	secondary	rbcL	35.4481680187157	104.920581231031	0.000603864734299517
+Limonium_gmelinii	MT931162.1	03-MAR-2023	568	China	secondary	rbcL	34.5523686329955	104.851613839285	0.000603864734299517
+Limonium_gmelinii	MT931161.1	03-MAR-2023	574	China	secondary	rbcL	34.4714833817133	105.684788912578	0.000603864734299517

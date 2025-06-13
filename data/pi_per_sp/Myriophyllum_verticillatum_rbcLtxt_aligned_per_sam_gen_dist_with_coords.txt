@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myriophyllum_verticillatum	MG247517.1	21-JAN-2018	552	Canada: Yukon Territory, Haines Highway, Poison Lake	primary	rbcL	60.245	-136.957	0.000359774268152697
+Myriophyllum_verticillatum	MG245870.1	21-JAN-2018	552	Canada: Yukon Territory, Upper Liard, Loop Rd, slough off	primary	rbcL	60.066	-128.919	0.000359774268152697
+Myriophyllum_verticillatum	KX678752.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, Nicomen Slough, south side, 200 m southwest of Highway 7 bridge at Deroche	primary	rbcL	49.1842	-122.069	0.000359774268152697
+Myriophyllum_verticillatum	LC638897.1	25-DEC-2021	553	Japan:Aichi, Kasugai	secondary	rbcL	35.273804	137.007459	0.000359476455526871
+Myriophyllum_verticillatum	LC638892.1	25-DEC-2021	553	Japan:Aichi, Nagoya	secondary	rbcL	35.1851045	136.8998438	0.00206745347889907
+Myriophyllum_verticillatum	MK924707.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.000367529149816973
+Myriophyllum_verticillatum	JX100761.1	23-OCT-2012	553	Netherlands: Reeuwijk	secondary	rbcL	52.0449873	4.7224789	0.000359476455526871
+Myriophyllum_verticillatum	JX100760.1	23-OCT-2012	553	Netherlands: Ter Apel, Bosbeek	secondary	rbcL	52.8742433	7.0617746	0.000359476455526871
+Myriophyllum_verticillatum	JX100759.1	23-OCT-2012	553	Netherlands: Weerribben	secondary	rbcL	52.3066756	6.7999242	0.000359476455526871
+Myriophyllum_verticillatum	JN893178.1	07-MAR-2012	542	United Kingdom: Middlesex	secondary	rbcL	51.5460558	-0.2537791	0.000367529149816973
+Myriophyllum_verticillatum	JN893177.1	07-MAR-2012	478	United Kingdom: Norfolk,West	secondary	rbcL	52.67345305	0.947141051697642	0.000422690451476206
+Myriophyllum_verticillatum	KC737408.1	04-JAN-2014	1215	China	secondary	rbcL	40.82102925	111.706426254615	0.0023878594430607

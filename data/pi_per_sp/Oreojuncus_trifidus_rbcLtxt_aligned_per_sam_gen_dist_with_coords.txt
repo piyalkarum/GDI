@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oreojuncus_trifidus	KC483037.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.853	-67.344	0
+Oreojuncus_trifidus	MK925194.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.642954274001	-2.17217518562255	0
+Oreojuncus_trifidus	MK924915.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0
+Oreojuncus_trifidus	MK924683.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2468110191132	-3.18307495829162	0
+Oreojuncus_trifidus	MK924465.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.8585889997046	-2.86001495649594	0
+Oreojuncus_trifidus	MK924428.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.579363146027	-2.74459217345738	0

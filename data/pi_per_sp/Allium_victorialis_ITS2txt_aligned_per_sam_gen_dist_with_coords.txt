@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_victorialis	LN812894.1	13-APR-2017	646	Poland	secondary	ITS2	52.215933	19.134422	0
+Allium_victorialis	LN812893.1	13-APR-2017	646	Germany	secondary	ITS2	34.895926	-83.4665496	0
+Allium_victorialis	LN812892.1	13-APR-2017	646	Slovenia:Kobla, Ljubljana	secondary	ITS2	46.2338617	13.9650643	0
+Allium_victorialis	LN812891.1	13-APR-2017	646	France	secondary	ITS2	46.603354	1.8883335	0
+Allium_victorialis	LN812890.1	13-APR-2017	646	Austria:Fensterbach, Heiligenblut, Grossglockner	secondary	ITS2	47.9398896	15.728935	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Legousia_hybrida	MK924900.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2397463599677	-3.49783848760267	0
+Legousia_hybrida	MK924698.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3910410167455	-2.40086920287138	0
+Legousia_hybrida	MK924593.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3986726467034	-1.98954290013771	0
+Legousia_hybrida	DQ356163.1	30-JUN-2007	1215	Sweden	secondary	rbcL	59.6749712	14.5208584	0

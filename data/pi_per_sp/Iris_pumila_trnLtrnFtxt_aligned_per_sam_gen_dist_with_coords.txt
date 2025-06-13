@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_pumila	KU310524.1	31-DEC-2016	803	Ukraine: Staryi Krym	secondary	trnL-trnF	44.5879060021136	33.9815584715022	0
+Iris_pumila	KU310523.1	31-DEC-2016	803	Ukraine: Staryi Krym	secondary	trnL-trnF	45.3613933571173	35.9097268422382	0
+Iris_pumila	KU310522.1	31-DEC-2016	803	Ukraine: Balaklava	secondary	trnL-trnF	44.9097136589448	33.7108238829007	0
+Iris_pumila	KU310521.1	31-DEC-2016	803	Ukraine: Balaklava	secondary	trnL-trnF	45.207309811981	32.8496696642686	0
+Iris_pumila	KU310520.1	31-DEC-2016	803	Ukraine: Balaklava	secondary	trnL-trnF	44.1321076513544	33.1117720926649	0
+Iris_pumila	KU310519.1	31-DEC-2016	804	Ukraine: Inkerman	secondary	trnL-trnF	45.0491367326873	33.505840201282	0
+Iris_pumila	KU310518.1	31-DEC-2016	804	Ukraine: Inkerman	secondary	trnL-trnF	44.4354802153911	34.0128979873251	0
+Iris_pumila	KU310517.1	31-DEC-2016	804	Ukraine: Inkerman	secondary	trnL-trnF	44.8917261402962	34.4953996959761	0
+Iris_pumila	KU310516.1	31-DEC-2016	803	Ukraine: Dmytrivka	secondary	trnL-trnF	48.4575127935706	37.2168161513934	0
+Iris_pumila	KU310515.1	31-DEC-2016	803	Ukraine: Dmytrivka	secondary	trnL-trnF	48.1295475574534	36.2042208304744	0
+Iris_pumila	KU310514.1	31-DEC-2016	803	Ukraine: Dmytrivka	secondary	trnL-trnF	48.6717909473349	35.5269558592477	0
+Iris_pumila	KU310513.1	31-DEC-2016	803	Ukraine: Dmytrivka	secondary	trnL-trnF	49.1960681075537	36.6398688214047	0
+Iris_pumila	KU310512.1	31-DEC-2016	803	Ukraine: Dmytrivka	secondary	trnL-trnF	48.4065054387317	35.1478145262738	0
+Iris_pumila	KU310511.1	31-DEC-2016	803	Ukraine: Dmytrivka	secondary	trnL-trnF	48.2413968496895	36.6338394998282	0
+Iris_pumila	KU310510.1	31-DEC-2016	803	Ukraine: Dmytrivka	secondary	trnL-trnF	49.1761615973272	36.5377167289632	0
+Iris_pumila	KU310509.1	31-DEC-2016	803	Ukraine: Dmytrivka	secondary	trnL-trnF	47.7084884126335	35.6847976374277	0
+Iris_pumila	KU310495.1	31-DEC-2016	803	Ukraine: Andreevka	secondary	trnL-trnF	49.2649874824792	36.5997298807282	0
+Iris_pumila	KU310494.1	31-DEC-2016	803	Ukraine: Andreevka	secondary	trnL-trnF	48.6651498990599	36.7120211366623	0

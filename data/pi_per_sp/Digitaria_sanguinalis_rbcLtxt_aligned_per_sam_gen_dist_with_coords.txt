@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Digitaria_sanguinalis	OL434839.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1403	-81.1446	0.002992946233805
+Digitaria_sanguinalis	MF596733.1	28-FEB-2018	603	Canada: British Columbia, Vancouver, Community Garden at corner of Malkin Avenue and Raymur Avenue, Strathcona Park, just E of Main Street	primary	rbcL	49.1714771113015	-124.318054529378	0.00279701687681902
+Digitaria_sanguinalis	MF596732.1	28-FEB-2018	603	Canada: British Columbia, University of British Columbia, along edge of Neville Scarfe Building (Faculty of Education). With Vulpia.	primary	rbcL	50.827942578136	-126.971496697817	0.00279701687681902
+Digitaria_sanguinalis	MG227447.1	23-JAN-2018	552	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0.00299742909754111
+Digitaria_sanguinalis	MG227216.1	23-JAN-2018	603	Canada: British Columbia, Vancouver, Community Garden at corner of Malkin Avenue and Raymur Avenue, Strathcona Park, just E of Main Street	primary	rbcL	49.8064598889404	-123.78365165698	0.00279701687681902
+Digitaria_sanguinalis	MG227026.1	23-JAN-2018	603	Canada: British Columbia, University of British Columbia, along edge of Neville Scarfe Building (Faculty of Education). With Vulpia.	primary	rbcL	50.958720984393	-126.541298692376	0.00279701687681902
+Digitaria_sanguinalis	MG226130.1	23-JAN-2018	553	Canada: Ontario, Regional Municipality of York, Regional Municipality of York, Jokers Hill West, Compost area north of Dufferin St. driveway	primary	rbcL	44.05	-79.4833	0.002992946233805
+Digitaria_sanguinalis	MG226087.1	23-JAN-2018	553	Canada: Ontario, Wellington, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	0.002992946233805
+Digitaria_sanguinalis	MG225618.1	23-JAN-2018	553	Canada: Ontario, Wellington, Wellington, Elora Research Station	primary	rbcL	43.6833	-80.4333	0.002992946233805
+Digitaria_sanguinalis	HQ590067.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, Compost area north of Dufferin St. driveway	primary	rbcL	44.031	-79.53	0.00296255630853869
+Digitaria_sanguinalis	KJ841279.1	04-NOV-2014	501	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Vegetated area in centre of paved parking lot	primary	rbcL	45.536	-73.158	0.00777839165053656
+Digitaria_sanguinalis	KJ841278.1	04-NOV-2014	568	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.0156638205133198
+Digitaria_sanguinalis	MT931785.1	03-MAR-2023	569	China	secondary	rbcL	35.3757232232476	104.262546854049	0.00769799184395664
+Digitaria_sanguinalis	MN205101.1	30-NOV-2021	724	China	secondary	rbcL	35.4053893600212	105.283265270084	0.0139500251476385
+Digitaria_sanguinalis	MN192762.1	30-NOV-2021	723	China	secondary	rbcL	35.7573751374622	105.271370796325	0.00732128489307075
+Digitaria_sanguinalis	MG227378.1	23-JAN-2018	553	Canada: Ontario, Chatham-Kent County, Chatham-Kent County, Ridgetown College Campus, Compost area near old railway bed	secondary	rbcL	42.9937622420708	-77.8627913181592	0.002992946233805
+Digitaria_sanguinalis	MG226796.1	23-JAN-2018	552	Canada: Ontario, Rouge National Urban Park, Sector 7	secondary	rbcL	44.1147298265934	-77.3343140449114	0.00299742909754111
+Digitaria_sanguinalis	KY656735.1	23-JAN-2018	644	Egypt	secondary	rbcL	26.2540493	29.2675469	0.00249726646554935
+Digitaria_sanguinalis	HM849953.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00449314572155034
+Digitaria_sanguinalis	HQ600382.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.00329110956519325

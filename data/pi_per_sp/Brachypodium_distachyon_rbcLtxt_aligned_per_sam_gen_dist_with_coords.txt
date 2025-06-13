@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brachypodium_distachyon	KX282606.1	28-MAY-2017	520	Kuwait	secondary	rbcL	29.6561041633306	48.0314910185333	0.00540741350462768
+Brachypodium_distachyon	KX282605.1	28-MAY-2017	550	Kuwait	secondary	rbcL	28.5046602814713	48.0195270341005	0.00517348868946464
+Brachypodium_distachyon	KX282604.1	28-MAY-2017	517	Kuwait	secondary	rbcL	29.6536333123014	48.6706815039674	0.00396300786344908
+Brachypodium_distachyon	KT438943.1	23-SEP-2016	632	Turkey	secondary	rbcL	38.9597594	34.9249653	0.0121045772929234
+Brachypodium_distachyon	HM849819.1	23-JUL-2011	657	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00331767450235164

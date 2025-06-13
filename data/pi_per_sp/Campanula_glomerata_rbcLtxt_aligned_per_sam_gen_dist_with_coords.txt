@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_glomerata	MG221663.1	26-DEC-2017	552	Canada: City of Guelph	primary	rbcL	44.0923399398124	-80.0244255304199	0.00334486489823457
+Campanula_glomerata	MG221582.1	26-DEC-2017	552	Canada: OAC garden, Guelph	primary	rbcL	44.1973019226234	-80.5009352412829	0.000278706800445931
+Campanula_glomerata	MG221430.1	26-DEC-2017	552	Canada: Rimouski, PEI	primary	rbcL	46	-63	0.000278706800445931
+Campanula_glomerata	JN891483.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.41	-3.58	0.000284373666998436
+Campanula_glomerata	MT930599.1	03-MAR-2023	572	China	secondary	rbcL	35.25974603753	105.873207205086	0.000809210779225772
+Campanula_glomerata	MT930598.1	03-MAR-2023	572	China	secondary	rbcL	34.5618892392393	104.274009345936	0.000798457320196451
+Campanula_glomerata	MT930597.1	03-MAR-2023	572	China	secondary	rbcL	34.9726625128477	105.196755788833	0.000798457320196451
+Campanula_glomerata	MT930596.1	03-MAR-2023	569	China	secondary	rbcL	35.0749329444245	104.517412525483	0.000809210779225772
+Campanula_glomerata	MT930595.1	03-MAR-2023	561	China	secondary	rbcL	34.4992136645986	104.851259596319	0.000812273491318584
+Campanula_glomerata	KJ746315.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.000291928185666326
+Campanula_glomerata	HG416978.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	NA
+Campanula_glomerata	KC146521.1	12-FEB-2013	1287	South Korea: Mt.Daedeok	secondary	rbcL	35.8088498260074	129.552341981607	0.000298151460942159
+Campanula_glomerata	JN893355.1	07-MAR-2012	529	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000145687645687646
+Campanula_glomerata	HQ704454.1	02-JUL-2011	938	South Korea: Mt.Daedeok	secondary	rbcL	35.1664291799525	129.401231649292	NA

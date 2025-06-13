@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ulex_minor	MK925506.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7486832433632	-4.03472275194763	0.00253968253968254
+Ulex_minor	MK925181.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8381557642493	-2.58050059893295	0.00253968253968254
+Ulex_minor	MK924919.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2324781508469	-3.39950390096552	0.00253968253968254
+Ulex_minor	HM850432.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00761904761904762

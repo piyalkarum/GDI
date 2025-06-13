@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phippsia_algida	KC483424.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Scoresby Bay	primary	rbcL	79.882	-71.547	0
+Phippsia_algida	KC483423.1	25-OCT-2013	552	Canada: Nunavut, Ellef Ringnes Island, Reindeer Peninsula, W side. Reindeer Peninsula, central part	primary	rbcL	78.917	-104.633	0
+Phippsia_algida	KC483422.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Dundas Harbour, W of harbour mouth	primary	rbcL	74.52	-82.56	0
+Phippsia_algida	MG228204.1	23-JAN-2018	552	Canada: Nunavut, Baffin Island, Nanisivik Airport	primary	rbcL	85	-73	0
+Phippsia_algida	KT960732.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.9067968130799	-22.4551225980941	0
+Phippsia_algida	KT960509.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.6815567748491	-20.4290305206941	0
+Phippsia_algida	KC483421.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, ~ 100m E of large waterfall, S of Minto Inlet	primary	rbcL	71.507	-115.284	0
+Phippsia_algida	KC483420.1	25-OCT-2013	517	Canada: Northwest Territories, Victoria Island, Minto Inlet, Rocky cliffs above south shore of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.235	-116.455	0
+Phippsia_algida	KC483419.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, West end of Johansen Bay at mouth of Mackenzie Creek	primary	rbcL	68.611	-111.369	0
+Phippsia_algida	KC483418.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Worth Point	primary	rbcL	72.26	-125.66	0

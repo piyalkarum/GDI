@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_assoanus	MN070187.1	07-AUG-2019	998	Spain	secondary	ndhF	37.4645318	-5.3443621	0.00276625172890733
+Narcissus_assoanus	JF973197.1	18-SEP-2011	752	Spain	secondary	ndhF	40.4622323160177	0.670169834913503	0.000922083909635777
+Narcissus_assoanus	JF973196.1	18-SEP-2011	752	Spain	secondary	ndhF	41.6452176395816	1.73384978984176	0.000922083909635777
+Narcissus_assoanus	JF973195.1	18-SEP-2011	752	Spain	secondary	ndhF	41.3828939	2.1774322	0.000922083909635777

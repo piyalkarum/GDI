@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Populus_tremula	OR738075.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	51.33319	64.1359	0.0815826646104849
+Populus_tremula	JX572872.1	04-SEP-2013	552	South Africa: Gauteng, Pretoria along R25	primary	rbcL	-25.787	28.759	0.0818547625959078
+Populus_tremula	LC694805.1	03-MAY-2022	599	Japan: Niigata	primary	rbcL	38.0214	138.47	0.0825675306246592
+Populus_tremula	LC694708.1	03-MAY-2022	661	Japan: Iwate	primary	rbcL	38.9304	141.036	0.0824843947482103
+Populus_tremula	LC692278.1	03-MAY-2022	635	Japan: Gunma	primary	rbcL	36.6825	138.7517	0.082010144220433
+Populus_tremula	LC692090.1	03-MAY-2022	635	Japan: Toyama	primary	rbcL	36.4937	137.2806	0.082010144220433
+Populus_tremula	LC691759.1	03-MAY-2022	645	Japan: Gifu	primary	rbcL	35.9364	136.9345	0.0820081312432264
+Populus_tremula	LC690860.1	03-MAY-2022	635	Japan: Nagano	primary	rbcL	35.8268	137.4004	0.082010144220433
+Populus_tremula	JN892494.1	07-MAR-2012	522	United Kingdom: Sussex, West (13)	primary	rbcL	50.99	-0.78	0.0820823811890386
+Populus_tremula	JN891371.1	07-MAR-2012	375	United Kingdom: Glamorgan	primary	rbcL	51.71	-3.56	0.0812459350665331
+Populus_tremula	KC485206.1	03-SEP-2013	966	China: Xinjiang	secondary	rbcL	42.9575434479971	86.1347928634038	0.0827490350726504
+Populus_tremula	LC757901.1	08-MAR-2023	693	Japan:Nagano, Matsumono City, Oshirawaka River	secondary	rbcL	36.6485851	138.1947664	0.485226372884805
+Populus_tremula	LC757845.1	08-MAR-2023	693	Japan:Nagano, Kiso-gun, Otaki-mura, Otaki River	secondary	rbcL	35.823612	137.391192	0.485226372884805
+Populus_tremula	LC757838.1	08-MAR-2023	693	Japan:Gunma, Azuma-gun, Nakanojo-machi, Mt. Ainokura	secondary	rbcL	43.6845627	141.6387999	0.485226372884805
+Populus_tremula	LC693923.1	03-MAY-2022	599	Japan: Kyoto	secondary	rbcL	35.021041	135.7556075	0.083311254206167
+Populus_tremula	MN192718.1	30-NOV-2021	723	China	secondary	rbcL	30.047992	-94.3357433	0.0826819695069909
+Populus_tremula	LC364384.1	09-JUL-2019	553	Japan:Nagano	secondary	rbcL	36.1143945	138.0319015	0.0818547625959078
+Populus_tremula	MG248596.1	21-JAN-2018	552	USA: Wisconsin, Greenville, Institute of Paper Chemistry.	secondary	rbcL	44.811349	-91.4984941	0.0818547625959078
+Populus_tremula	GQ248681.1	24-JUN-2009	553	Austria	secondary	rbcL	36.9148511	-4.7534501	0.0818547625959078
+Populus_tremula	KX163000.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.2763761225144	-3.47325959865448	0.0831199919297778
+Populus_tremula	KX162999.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.0443467415542	-2.13720479588761	0.0831199919297778
+Populus_tremula	KX162998.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.299518754456	-3.63416308706509	0.0831199919297778
+Populus_tremula	KC485222.1	03-SEP-2013	966	China: Xinjiang	secondary	rbcL	42.2315097494859	84.9989156215436	0.0827490350726504
+Populus_tremula	JN893696.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0815826646104849
+Populus_tremula	JN893688.1	07-MAR-2012	542	United Kingdom	secondary	rbcL	54.4150887898389	-4.73788909787569	0.0815826646104849
+Populus_tremula	JN892183.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0815826646104849
+Populus_tremula	HE574617.1	31-JUL-2011	563	Finland	secondary	rbcL	63.2467777	25.9209164	0.0851567029003533
+Populus_tremula	AJ506079.1	23-AUG-2004	86	Greece	secondary	rbcL	43.2097838	-77.6930602	0.51937984496124

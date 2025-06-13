@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pilosella_piloselloides	MG224561.1	26-DEC-2017	552	Canada: Ontario, Nipissing District, Boulter Township, 10 miles east of Chiswich	secondary	rbcL	43.5895665077449	-78.0505794863577	0
+Pilosella_piloselloides	MG224365.1	26-DEC-2017	552	Canada: Ontario, Locality no. 283, Lot 5, Conc. II, Flamborough Tp. Between Aldershot and Waterdown, Wentworth Co.	secondary	rbcL	43.4407393770196	-77.0002687173336	0
+Pilosella_piloselloides	MG224150.1	26-DEC-2017	552	Canada: Ontario, Haldimand Twp. Northumberland Co.	secondary	rbcL	44.0075058	-78.1006385	0
+Pilosella_piloselloides	MG222915.1	26-DEC-2017	552	Canada: Ontario, Locality no. 295, Lot 39, Conc. VI, Gainsborough Tp. About 2 mi. SW of Smithville, Lincoln Co.	secondary	rbcL	43.0423401083833	-77.4771760219861	0
+Pilosella_piloselloides	MG222904.1	26-DEC-2017	552	Canada: Ontario, Emily Tp., NE of Downeyville, 1884 Pigeon Lake Rd., Gamiing Nature Centre, City of Kawartha Lakes	secondary	rbcL	43.3456930824401	-77.7739693820577	0
+Pilosella_piloselloides	MG222462.1	26-DEC-2017	552	Canada: Ontario, Guelph, Wellington County	secondary	rbcL	43.5471426	-80.2500274	0
+Pilosella_piloselloides	MG222147.1	26-DEC-2017	552	Canada: Quebec, Cte Labelle, Nominingue	secondary	rbcL	46.8137431	-71.2084061	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Logfia_minima	MG224556.1	26-DEC-2017	552	Canada: British Columbia, Greater Vancouver, Burnaby, Gaglardi Way and Lougheed Hwy, NW side	primary	rbcL	49.253	-122.913	0
+Logfia_minima	MG222594.1	26-DEC-2017	552	Canada: British Columbia, Greater Vancouver, Delta, Ladner Trunk Rd, 170m N of, W side of 72 St	primary	rbcL	49.092	-123.024	0
+Logfia_minima	MG221513.1	26-DEC-2017	552	Canada: British Columbia, Vancouver Island, Rathtrevor Beach Provincial Park	primary	rbcL	49.321	-124.268	0
+Logfia_minima	JN891049.1	07-MAR-2012	541	United Kingdom: Glamorgan	primary	rbcL	50.87	-3.62	0
+Logfia_minima	JN892444.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

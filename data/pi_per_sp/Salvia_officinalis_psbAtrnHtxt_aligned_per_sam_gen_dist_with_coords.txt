@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salvia_officinalis	OR544041.1	25-OCT-2023	377	Greece: Epirus	secondary	psbA-trnH	39.2235724209203	20.4768713764568	0.000589970501474926
+Salvia_officinalis	OR544040.1	25-OCT-2023	375	Greece: Epirus	secondary	psbA-trnH	40.0822344756657	20.9188391371539	0.000589970501474926
+Salvia_officinalis	OR544039.1	25-OCT-2023	376	Greece: Epirus	secondary	psbA-trnH	39.856682078697	19.6294136852547	0.000588235294117647
+Salvia_officinalis	MW469815.1	31-JAN-2023	237	China	secondary	psbA-trnH	35.5150407289847	105.78541505581	0.000843881856540084
+Salvia_officinalis	MW469814.1	31-JAN-2023	237	China	secondary	psbA-trnH	34.9643185591387	104.254290332134	0.000843881856540084
+Salvia_officinalis	HE966789.1	18-SEP-2012	361	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00345594001014767

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arum_italicum	GU370998.1	21-JUL-2010	769	Greece	secondary	trnK	43.2097838	-77.6930602	0.00174978127734033
+Arum_italicum	GU370997.1	21-JUL-2010	762	Portugal: Madeira	secondary	trnK	33.4391627886754	-17.1599897832203	0.00174978127734033
+Arum_italicum	GU370996.1	21-JUL-2010	762	Portugal: Madeira	secondary	trnK	32.7794860477682	-16.7032199217823	0.00174978127734033
+Arum_italicum	GU370995.1	21-JUL-2010	769	Georgia	secondary	trnK	32.3293809	-83.1137366	0.00174978127734033

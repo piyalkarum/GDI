@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_mollis	JN891913.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.66	-2.84	0.478081003761854
+Rosa_mollis	HE999625.1	06-JAN-2014	521	Sweden	secondary	rbcL	59.5302962285737	15.98865354807	0.241343548555874
+Rosa_mollis	HE999624.1	06-JAN-2014	521	Sweden	secondary	rbcL	59.0409316940855	14.7102595216269	0.242314422342281
+Rosa_mollis	HE999623.1	06-JAN-2014	520	Sweden	secondary	rbcL	60.257850694254	14.4055498385436	0.243855845316365
+Rosa_mollis	JN892943.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.478081003761854
+Rosa_mollis	AJ628812.1	11-APR-2005	567	Germany:Schleswig-Holstein, Flensburg, Geltinger, Birk	secondary	rbcL	54.7830189	9.8974315	0.236343468971515

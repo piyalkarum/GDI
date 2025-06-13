@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Marrubium_vulgare	OL537909.1	10-JAN-2022	845	USA: Texas, Lady Bird Johnson Wildflower Center	primary	matK	30.18	-97.885	0.000915750915750916
+Marrubium_vulgare	JN895787.1	07-MAR-2012	819	United Kingdom: Cardiganshire	primary	matK	52.2	-4.4	0.000661375661375661
+Marrubium_vulgare	OQ390723.1	24-MAY-2023	769	Peru	secondary	matK	-6.68460579173217	-75.9160473484298	0.000684931506849315
+Marrubium_vulgare	OQ390722.1	24-MAY-2023	835	Peru	secondary	matK	-7.60944055723221	-75.3671915580708	0.000652741514360313
+Marrubium_vulgare	HM850794.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00291479959833621

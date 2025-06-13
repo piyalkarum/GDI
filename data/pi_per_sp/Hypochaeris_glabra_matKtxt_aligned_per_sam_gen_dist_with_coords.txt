@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypochaeris_glabra	OL434951.1	14-NOV-2022	812	USA: Georgia	primary	matK	32.1174	-81.138	0.0224755647875304
+Hypochaeris_glabra	JQ412252.1	16-JAN-2013	762	South Africa: Western Cape, Robben Island	primary	matK	-33.806	18.372	0.0499223073834174
+Hypochaeris_glabra	JN895672.1	07-MAR-2012	803	United Kingdom: Cardiganshire	primary	matK	52.1	-4.68	0.0219709904682967
+Hypochaeris_glabra	HM850665.1	23-JUL-2011	537	Portugal	secondary	matK	39.6621648	-8.1353519	0.0253476099187799
+Hypochaeris_glabra	JN895228.1	07-MAR-2012	964	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0217232105246104
+Hypochaeris_glabra	AJ633232.1	10-OCT-2004	970	Belgium	secondary	matK	50.6402809	4.6667145	0.0253476099187799

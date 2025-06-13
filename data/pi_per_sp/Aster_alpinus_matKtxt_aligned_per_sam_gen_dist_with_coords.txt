@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aster_alpinus	MG225316.1	21-JAN-2018	780	Canada: Yukon Territory, Vuntut National Park, vicinity of Snowdrift camp	primary	matK	68.357	-139.218	0.00448717948717949
+Aster_alpinus	MG225026.1	21-JAN-2018	735	Canada: Yukon Territory, Albert Creek, flowing into Sekulmun Lake	primary	matK	61.58	-137.547	0.00408163265306122
+Aster_alpinus	KC474138.1	25-OCT-2013	777	Canada: Yukon Territory, Ivvavik National Park, Babbage River	primary	matK	68.785	-138.811	0.0045045045045045
+Aster_alpinus	MT917483.1	03-MAR-2023	784	China	secondary	matK	35.000074	104.999927	0.0175376023590309
+Aster_alpinus	KP175137.1	30-NOV-2016	2540	Italy	secondary	matK	42.6384261	12.674297	0.00446428571428571

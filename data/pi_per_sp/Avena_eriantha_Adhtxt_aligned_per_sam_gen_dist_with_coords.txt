@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Avena_eriantha	KT453015.1	17-FEB-2017	887	United Kingdom: England	secondary	Adh	52.5310214	-1.2649062	0.00301490046733517
+Avena_eriantha	KT452978.1	17-FEB-2017	887	United Kingdom	secondary	Adh	54.7023545	-3.2765753	0.00301490046733517
+Avena_eriantha	KT452958.1	17-FEB-2017	882	Morocco	secondary	Adh	28.253879887839	-9.79798448637108	0.00302343159486017
+Avena_eriantha	KT452937.1	17-FEB-2017	886	Morocco	secondary	Adh	27.9046750452038	-9.98903613061256	0.00451808513724025

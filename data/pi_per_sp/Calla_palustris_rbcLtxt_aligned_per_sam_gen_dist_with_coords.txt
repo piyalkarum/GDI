@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calla_palustris	MG227413.1	23-JAN-2018	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Sassafras Point	primary	rbcL	43.2721	-79.9051	0
+Calla_palustris	MG225888.1	23-JAN-2018	552	Canada: Yukon Territory, Beaver River BR-W1	primary	rbcL	60.206	-125.091	0
+Calla_palustris	KX678316.1	29-APR-2017	551	Canada: British Columbia, Thompson-Nicola Regional District, Wells Gray Provincial Park, Marsh near Clearwater Dump, muddy spots in marsh	primary	rbcL	51.75	-122.05	0
+Calla_palustris	KC482183.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0

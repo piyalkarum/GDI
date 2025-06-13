@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_latifolia	OR568519.1	24-OCT-2023	366	Kazakhstan: Qaragandy region	primary	psbA-trnH	49.42895	75.48023	0.00865133960138193
+Silene_latifolia	OR464996.1	26-SEP-2023	311	USA: South Westnedge Park, Portage, MI	primary	psbA-trnH	42.18538478	-85.59246029	0.00857191799323617
+Silene_latifolia	MF348335.1	21-SEP-2017	329	USA: Virginia; 0.5 km on Rt 614 S, on unpaved road across from St. Paul's Church. Sand barrens along powerline right-of-way to the Blackwater River. E side of road	primary	psbA-trnH	36.857	-76.836	0.00825524629723513
+Silene_latifolia	OQ172869.1	18-JUN-2023	276	South Korea	secondary	psbA-trnH	36.3930643546923	126.952632331272	0.00907366732558422
+Silene_latifolia	OQ172868.1	18-JUN-2023	273	South Korea	secondary	psbA-trnH	37.3737680722905	127.307721744714	0.013906745409383
+Silene_latifolia	OQ172867.1	18-JUN-2023	273	South Korea	secondary	psbA-trnH	36.8911294303881	126.89528287642	0.013906745409383
+Silene_latifolia	HE966814.1	18-SEP-2012	258	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6441616722424	13.6010207463966	0.0257975282742543
+Silene_latifolia	HE966813.1	18-SEP-2012	259	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.1554721931072	14.3064437775899	0.029975574457174
+Silene_latifolia	HE966812.1	18-SEP-2012	260	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6848985441955	14.7143240566387	0.0124520292304914
+Silene_latifolia	FN821225.1	07-DEC-2010	406	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0.00591679625963534
+Silene_latifolia	FN821224.1	07-DEC-2010	406	Germany	secondary	psbA-trnH	40.4203479	-79.1166983	0.00591679625963534
+Silene_latifolia	FN821223.1	07-DEC-2010	406	Finland	secondary	psbA-trnH	63.2467777	25.9209164	0.00591679625963534
+Silene_latifolia	FN821222.1	07-DEC-2010	407	France	secondary	psbA-trnH	46.2094254311404	2.07285000286473	0.0106581234684154
+Silene_latifolia	FN821221.1	07-DEC-2010	412	Italy	secondary	psbA-trnH	43.4767491978002	12.8003235743577	0.0256454555126714
+Silene_latifolia	FN821220.1	07-DEC-2010	424	Turkey	secondary	psbA-trnH	38.9597594	34.9249653	0.0391119339815048
+Silene_latifolia	FN821219.1	07-DEC-2010	406	Poland	secondary	psbA-trnH	52.215933	19.134422	0.00591679625963534
+Silene_latifolia	FN821218.1	07-DEC-2010	397	Italy	secondary	psbA-trnH	43.2229213306175	12.8293110759728	0.00658533895606226
+Silene_latifolia	FN821217.1	07-DEC-2010	407	Portugal	secondary	psbA-trnH	39.6621648	-8.1353519	0.00753543449071132
+Silene_latifolia	FN821216.1	07-DEC-2010	405	France	secondary	psbA-trnH	47.1272749945213	1.33511194341511	0.0073239901637578
+Silene_latifolia	FN821215.1	07-DEC-2010	406	Sweden	secondary	psbA-trnH	59.6749712	14.5208584	0.00591679625963534
+Silene_latifolia	FN821214.1	07-DEC-2010	406	Slovakia	secondary	psbA-trnH	48.7411522	19.4528646	0.00591679625963534
+Silene_latifolia	FN821213.1	07-DEC-2010	406	Georgia:Kartli	secondary	psbA-trnH	41.7036429	44.7845059	0.010671658822734

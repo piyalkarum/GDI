@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achyranthes_aspera	MK186959.1	21-DEC-2019	425	Mozambique: Sofala, Gorongosa, Gorongosa National Park, Termite mound	primary	trnL-trnF	-18.9748	34.3555	0.207802243011838
+Achyranthes_aspera	LT993057.1	26-MAY-2018	1157	Ethiopia	secondary	trnL-trnF	6.72416810670649	34.7625790681757	0.10897978239867
+Achyranthes_aspera	LT993053.1	26-MAY-2018	1185	Ethiopia	secondary	trnL-trnF	6.53537355244795	36.2140564788767	0.110971545533279
+Achyranthes_aspera	LT993049.1	26-MAY-2018	1515	Kenya	secondary	trnL-trnF	0.663453802629966	38.5555187269946	0.435185323440405
+Achyranthes_aspera	LT993048.1	26-MAY-2018	1185	Kenya	secondary	trnL-trnF	0.996669553588446	38.7809098490763	0.113435935192333
+Achyranthes_aspera	LT993047.1	26-MAY-2018	1537	Kenya	secondary	trnL-trnF	0.705219063219871	38.4572358222581	0.480909683558105
+Achyranthes_aspera	LT993046.1	26-MAY-2018	1158	Kenya	secondary	trnL-trnF	0.911133709201073	38.1657434069981	0.112179557901195
+Achyranthes_aspera	LT993043.1	26-MAY-2018	1181	Ethiopia	secondary	trnL-trnF	6.67027371108348	35.6817763357575	0.113310960994958
+Achyranthes_aspera	EF688734.1	30-OCT-2008	1054	Mexico	secondary	trnL-trnF	19.4326296	-99.1331785	0.125072560192151

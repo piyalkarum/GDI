@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trichophorum_cespitosum	MN780715.1	26-JAN-2020	853	Canada: Northwest Territories	secondary	rps16	64.1717588655245	-118.773402081602	0.000244798041615667
+Trichophorum_cespitosum	MN780714.1	26-JAN-2020	853	Canada: Northwest Territories	secondary	rps16	65.7228683555997	-117.281390070114	0.000244798041615667
+Trichophorum_cespitosum	MN780709.1	26-JAN-2020	810	USA: Utah	secondary	rps16	39.4225192	-111.714358	0.000258397932816538
+Trichophorum_cespitosum	MN780692.1	26-JAN-2020	853	Canada: Nunavut	secondary	rps16	65.0377727	-92.5540791	0.000244798041615667
+Trichophorum_cespitosum	MN780691.1	26-JAN-2020	817	Canada: Newfoundland	secondary	rps16	49.1212094	-56.6403111	0.00125118999048008
+Trichophorum_cespitosum	MF669243.1	02-DEC-2017	810	Canada: British Columbia	secondary	rps16	55.001251	-125.002441	0.000258397932816538

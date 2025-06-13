@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cirsium_palustre	JN895512.1	07-MAR-2012	957	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.00120671386561472
+Cirsium_palustre	KT249983.1	09-AUG-2015	820	Germany	secondary	matK	34.895926	-83.4665496	0.00186767062646006
+Cirsium_palustre	HM850622.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00100091022909952
+Cirsium_palustre	JN895547.1	07-MAR-2012	942	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000879676770690895
+Cirsium_palustre	JN895190.1	07-MAR-2012	808	United Kingdom: Breconshire (42)	secondary	matK	52.9875065	-1.1773256	0.00126333846521381

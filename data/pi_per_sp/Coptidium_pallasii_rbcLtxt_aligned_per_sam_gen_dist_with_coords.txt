@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Coptidium_pallasii	MG247308.1	21-JAN-2018	552	Canada: Ontario, Ontario, Kenora, ca. 19 km inland from Hudson Bay coast, ca. 31 km SW of Cape Hentrietta Maria, Polar Bear Provincial Park	primary	rbcL	54.967	-82.667	0
+Coptidium_pallasii	MG246580.1	21-JAN-2018	552	Canada: Yukon Territory, Vuntut National Park, Sam Lake	primary	rbcL	68.407	-138.633	0
+Coptidium_pallasii	MG246233.1	21-JAN-2018	552	Canada: Yukon Territory, Shingle Point area, mainland opposite	primary	rbcL	68.984	-137.427	0
+Coptidium_pallasii	KC482464.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, In Sylvia Grinnell Park near the entrance from Crystal II Road	primary	rbcL	63.7364	-68.5547	0
+Coptidium_pallasii	KC482463.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Firth River	primary	rbcL	69.08	-138.67	0

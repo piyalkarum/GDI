@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thermopsis_lanceolata	MF786594.1	06-DEC-2017	553	China: Xizang (Tibet), Changmuda Xiang. Route 318 near km marker 5205	primary	rbcL	28.6022	86.4975	0
+Thermopsis_lanceolata	MT931479.1	03-MAR-2023	565	China	secondary	rbcL	34.1766862858894	105.035907976943	0
+Thermopsis_lanceolata	MN192640.1	30-NOV-2021	699	China	secondary	rbcL	35.0152802499297	104.069623527229	0
+Thermopsis_lanceolata	MN192639.1	30-NOV-2021	645	China	secondary	rbcL	35.3780195956154	105.810785003636	0
+Thermopsis_lanceolata	KT280165.1	01-AUG-2016	673	China: Maqu Gansu	secondary	rbcL	34.6137382	102.4654149	0

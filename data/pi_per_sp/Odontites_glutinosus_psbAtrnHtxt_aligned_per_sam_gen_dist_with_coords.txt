@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_glutinosus	KU216760.1	24-JAN-2016	351	France	secondary	psbA-trnH	46.603354	1.8883335	0.0028735632183908
+Odontites_glutinosus	KU216759.1	24-JAN-2016	351	Bulgaria	secondary	psbA-trnH	46.7336992699209	24.6454978945089	0.00285714285714286
+Odontites_glutinosus	KU216758.1	24-JAN-2016	351	Bulgaria	secondary	psbA-trnH	46.3720616049983	22.9224045803576	0.00285714285714286
+Odontites_glutinosus	KU216757.1	24-JAN-2016	351	Turkey	secondary	psbA-trnH	38.9597594	34.9249653	0.00285714285714286
+Odontites_glutinosus	KU216756.1	24-JAN-2016	350	Greece	secondary	psbA-trnH	43.2097838	-77.6930602	0.0114449917898194

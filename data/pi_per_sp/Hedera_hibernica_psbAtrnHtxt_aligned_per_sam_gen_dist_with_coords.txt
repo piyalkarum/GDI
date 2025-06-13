@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedera_hibernica	KY798813.1	20-APR-2018	376	United Kingdom: Scotland, Great Britain, Edinburgh	secondary	psbA-trnH	52.0941379289723	-0.384129178555586	0.00213051166505048
+Hedera_hibernica	KY798812.1	20-APR-2018	376	United Kingdom: Scotland, Great Britain, Island of Skye	secondary	psbA-trnH	53.126816715588	0.199144269686987	0.00213051166505048
+Hedera_hibernica	KY798811.1	20-APR-2018	387	United Kingdom: Scotland, Great Britain, Drumnadrochit	secondary	psbA-trnH	52.3303747409431	0.243253769434995	0.00208011490510399
+Hedera_hibernica	KY798806.1	20-APR-2018	373	France: Corce, Saint Andrea di Bozio	secondary	psbA-trnH	46.7771134	0.6039188	0.00251852729597757
+Hedera_hibernica	KY798805.1	20-APR-2018	373	France: St. Chinian	secondary	psbA-trnH	43.4215	2.94677	0.00214477211796247
+Hedera_hibernica	KY798804.1	20-APR-2018	387	Spain: Gerona	secondary	psbA-trnH	41.9793006	2.8199439	0.00247041515639424
+Hedera_hibernica	KY798803.1	20-APR-2018	387	Spain: Santander, Bollacin, Escudo pass	secondary	psbA-trnH	43.4620412	-3.8099719	0.00247041515639424
+Hedera_hibernica	KY798802.1	20-APR-2018	387	Spain: Malaga, between Antequera and Ayora	secondary	psbA-trnH	36.7213028	-4.4216366	0.00674804720014867
+Hedera_hibernica	KY798801.1	20-APR-2018	387	Spain: Cadiz, near las Palomas pass	secondary	psbA-trnH	36.5297438	-6.2928976	0.0092313937991146
+Hedera_hibernica	HQ220582.1	04-DEC-2011	532	USA: Washington	secondary	psbA-trnH	38.8822649581543	-77.2168245206764	0.00220994475138122
+Hedera_hibernica	HQ220581.1	04-DEC-2011	532	USA	secondary	psbA-trnH	39.7837304	-100.445882	0.00220994475138122
+Hedera_hibernica	HQ220580.1	04-DEC-2011	532	USA: Washington	secondary	psbA-trnH	39.6268003022185	-76.756242955859	0.00220994475138122
+Hedera_hibernica	KY798810.1	20-APR-2018	373	Ireland	secondary	psbA-trnH	51.8413698	-8.8310263	0.00251852729597757
+Hedera_hibernica	KY798809.1	20-APR-2018	387	Ireland	secondary	psbA-trnH	51.7501967	-9.5499762	0.00247041515639424
+Hedera_hibernica	KY798808.1	20-APR-2018	387	Ireland	secondary	psbA-trnH	52.0032196	-9.5056129	0.00208011490510399
+Hedera_hibernica	KY798807.1	20-APR-2018	373	Ireland	secondary	psbA-trnH	52.5167478	-7.8879311	0.00214477211796247

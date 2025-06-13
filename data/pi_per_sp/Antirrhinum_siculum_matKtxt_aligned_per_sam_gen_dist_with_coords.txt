@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_siculum	MH748923.1	30-OCT-2018	790	USA: District of Columbia, Washington, United States Botanic Garden Production facility outdoor beds	primary	matK	38.81702756	-77.01616242	0.00268817204301075
+Antirrhinum_siculum	EU718034.1	31-MAY-2009	1255	Italy: Sicily, Siracusa	secondary	matK	37.0646139	15.2907196	0.00179282868525896
+Antirrhinum_siculum	EU718033.1	31-MAY-2009	1255	Italy: Sicily, Messine	secondary	matK	38.1937571	15.5542082	0.00139442231075697
+Antirrhinum_siculum	EU718032.1	31-MAY-2009	1255	Italy: Sicily, Catania	secondary	matK	37.5023612	15.0873718	0.00139442231075697
+Antirrhinum_siculum	HM152978.1	24-AUG-2010	1255	Morocco: Oriental, Zegzel	secondary	matK	34.8414927	-2.355503	0.00487940710277171

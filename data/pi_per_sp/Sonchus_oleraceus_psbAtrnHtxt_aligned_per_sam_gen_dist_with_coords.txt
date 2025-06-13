@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sonchus_oleraceus	OQ310700.1	16-MAY-2023	472	Mexico: Puebla	secondary	psbA-trnH	18.8680886492202	-98.4874743877944	0.221730571669205
+Sonchus_oleraceus	OQ310105.1	16-MAY-2023	475	Mexico: Puebla	secondary	psbA-trnH	19.5064118751866	-98.8953895121034	0.0611965884619744
+Sonchus_oleraceus	KP214523.1	30-NOV-2015	316	South Korea:Dokdo	secondary	psbA-trnH	37.2421201	131.8647159	0.0513698630136986
+Sonchus_oleraceus	KF196112.1	20-JAN-2014	451	China: Yunnan, Zhongdian	secondary	psbA-trnH	27.8717021	99.8365499	0.0558075502928444
+Sonchus_oleraceus	KF196111.1	20-JAN-2014	451	China: Sichuan, Jiulong	secondary	psbA-trnH	29.0033649	101.5055715	0.0558075502928444

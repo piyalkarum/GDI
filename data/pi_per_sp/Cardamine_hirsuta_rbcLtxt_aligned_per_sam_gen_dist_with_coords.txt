@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_hirsuta	MT192769.1	28-MAR-2020	550	USA: New York, Roslyn, developed	primary	rbcL	40.6404748987978	-74.2702965964184	0.00220667089534151
+Cardamine_hirsuta	MT192767.1	28-MAR-2020	532	USA: New York, Roslyn, Near the fence	primary	rbcL	40.1206261913275	-72.7060241261794	0.00179444729801191
+Cardamine_hirsuta	MG249331.1	21-JAN-2018	530	Canada: Ontario, Norfolk County, Norfolk Township, Concession 4, in woods halfway between western edge of Backus Woods and the main trail junction	primary	rbcL	42.663	-80.491	0.00162035672169811
+Cardamine_hirsuta	MG247496.1	21-JAN-2018	552	Canada: Ontario, Wellington County, City of Guelph, University of Guelph, in gravel around Bovey Building Greenhouse	primary	rbcL	43.529	-80.229	0.00174641052454812
+Cardamine_hirsuta	KX679042.1	29-APR-2017	512	Canada: British Columbia, Vancouver Island, Capital Regional District, Saanich, Swan Lake Christmas Hill Nature Sanctuary	primary	rbcL	48.473	-123.375	0.00335193676662602
+Cardamine_hirsuta	KX678885.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, Gowlland Tod Provincial Park	primary	rbcL	48.548	-123.497	0.00174641052454812
+Cardamine_hirsuta	KX678633.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, Saanich Peninsula, Island View Beach	primary	rbcL	48.585	-123.372	0.00174641052454812
+Cardamine_hirsuta	KX678511.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, Victoria, Mill Hill Park	primary	rbcL	48.457	-123.479	0.00174641052454812
+Cardamine_hirsuta	KX677991.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, North of Yale, west side of Hwy 1	primary	rbcL	49.576	-121.403	0.00331026125766462
+Cardamine_hirsuta	KP402591.1	06-JAN-2016	524	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, truck 602 left side of parking space	primary	rbcL	38.889	-76.554	0.00163891646902615
+Cardamine_hirsuta	JN892261.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.53	-3.22	0.00177845160610637
+Cardamine_hirsuta	MN204790.1	30-NOV-2021	721	China	secondary	rbcL	35.3581945840752	104.172893495957	0.0054819299946389
+Cardamine_hirsuta	MN185100.1	27-APR-2021	722	China	secondary	rbcL	35.4043580369548	105.481919683897	0.00700109582775524
+Cardamine_hirsuta	HQ619739.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00174460875816187
+Cardamine_hirsuta	MH215250.1	22-JAN-2019	553	China	secondary	rbcL	34.2557858347968	105.585573178871	0.00676160676310059
+Cardamine_hirsuta	MH116092.1	17-AUG-2018	668	China	secondary	rbcL	34.9594717630318	104.943209789713	0.00530021724798023
+Cardamine_hirsuta	MH116091.1	17-AUG-2018	644	China	secondary	rbcL	34.7807864339203	105.766048965788	0.0053281117694962
+Cardamine_hirsuta	HM849847.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00191287064543662
+Cardamine_hirsuta	JN891998.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00177845160610637
+Cardamine_hirsuta	JN891992.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00177845160610637
+Cardamine_hirsuta	JN891991.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.00177845160610637

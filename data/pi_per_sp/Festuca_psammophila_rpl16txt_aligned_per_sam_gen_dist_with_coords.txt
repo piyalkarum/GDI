@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_psammophila	LR217955.1	30-JUL-2021	891	Germany	primary	rpl16	52.5644	14.1253	0.00479275798950533
+Festuca_psammophila	LR217951.1	30-JUL-2021	854	Germany	primary	rpl16	52.465	14.4967	0.00150846877249484
+Festuca_psammophila	LR217950.1	30-JUL-2021	854	Germany	primary	rpl16	52.4647	14.4828	0.00217877200101788
+Festuca_psammophila	LR217949.1	30-JUL-2021	893	Germany	primary	rpl16	51.8964	12.0392	0.00145873279932041
+Festuca_psammophila	LR217948.1	30-JUL-2021	878	Germany	primary	rpl16	52.1886	11.7281	0.00115006763187257
+Festuca_psammophila	LR217947.1	30-JUL-2021	857	Germany	primary	rpl16	52.3739	13.7086	0.00150434908550332
+Festuca_psammophila	LR217946.1	30-JUL-2021	854	Germany	primary	rpl16	52.3667	13.7019	0.00150846877249484
+Festuca_psammophila	LR217945.1	30-JUL-2021	895	Germany	primary	rpl16	52.4625	12.8011	0.00213429847210682

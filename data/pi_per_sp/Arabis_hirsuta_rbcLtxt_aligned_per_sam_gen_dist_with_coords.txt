@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_hirsuta	JN892411.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.83	-4.04	0.0033210332103321
+Arabis_hirsuta	MT930714.1	03-MAR-2023	571	China	secondary	rbcL	35.000074	104.999927	0.0169107668611094
+Arabis_hirsuta	FR865132.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.00309477756286267
+Arabis_hirsuta	JX848435.1	06-AUG-2013	1359	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.00385288966725044
+Arabis_hirsuta	JN890746.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.0033210332103321
+Arabis_hirsuta	JN890745.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.0033210332103321

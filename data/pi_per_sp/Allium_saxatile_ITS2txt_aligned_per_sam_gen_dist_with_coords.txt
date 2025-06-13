@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_saxatile	HG794225.1	04-JAN-2016	641	Georgia:Imeretia, Tskaltubo - Tsageri	secondary	ITS2	42.3471464	42.5971538	0.0015600624024961
+Allium_saxatile	HG794201.1	04-JAN-2016	641	Georgia:Manglisi	secondary	ITS2	41.6986621	44.3830654	0.0015600624024961
+Allium_saxatile	HG794178.1	04-JAN-2016	641	Russia:North Ossetia, Tseyskoye Gorge, Nizhny Tsey	secondary	ITS2	42.7556839	43.9856290987111	0.00253510140405616
+Allium_saxatile	FM945431.1	16-DEC-2009	641	Georgia:Mtskheta	secondary	ITS2	41.846295	44.7195591	0.00975039001560063
+Allium_saxatile	HG794210.1	04-JAN-2016	641	Georgia	secondary	ITS2	42.6969414	44.5181108	0.0015600624024961
+Allium_saxatile	HG794207.1	04-JAN-2016	641	Georgia	secondary	ITS2	42.634241	44.6186561	0.0015600624024961
+Allium_saxatile	HG794203.1	04-JAN-2016	641	Georgia	secondary	ITS2	41.9130657	44.0927211	0.0015600624024961
+Allium_saxatile	HG794202.1	04-JAN-2016	641	Georgia	secondary	ITS2	41.7881642	45.1646249	0.0015600624024961
+Allium_saxatile	HG794194.1	04-JAN-2016	641	Russia	secondary	ITS2	44.039775	43.0706669	0.00253510140405616

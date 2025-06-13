@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_noctiflora	MG248040.1	21-JAN-2018	552	Canada: British Columbia, Clearwater, Raft River	primary	rbcL	51.637	-119.972	0.00602605021756352
+Silene_noctiflora	MG246525.1	21-JAN-2018	552	Canada: Ontario, Thunder bay County, Neebing Railway Yard, between Broadway Avenue and Rosslyn Road, west of Hwy 61	primary	rbcL	48.357	-89.347	0.00854037267080745
+Silene_noctiflora	MG246449.1	21-JAN-2018	552	Canada: Ontario, Norfolk County, Delhi Twp., Intersection of Charlotteville West Quarter Line Road and Charlotteville Road #5	primary	rbcL	42.737	-80.419	0.00602605021756352
+Silene_noctiflora	JN892748.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.44	-4.04	0.00870476489290903
+Silene_noctiflora	OR670265.1	06-NOV-2023	578	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00601458314225191
+Silene_noctiflora	OQ172695.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.7230755214143	127.559616136436	0.00630724454861428
+Silene_noctiflora	OQ172694.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.0333474849127	127.069537145465	0.00633099042319291
+Silene_noctiflora	JN891735.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.00870476489290903

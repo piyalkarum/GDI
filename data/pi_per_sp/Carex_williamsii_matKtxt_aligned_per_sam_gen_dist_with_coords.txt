@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_williamsii	FJ548145.1	25-AUG-2009	736	Canada: Nunavut, Baffin Island, Frobisher Bay, Ogac Lake, head of Ney Harbour	primary	matK	62.87	-67.25	0
+Carex_williamsii	FJ548144.1	25-AUG-2009	739	Canada: Nunavut, Baffin Island, Iqaluit, Sylvia Grinnell Park, E of Sylvia Grinnel River N on trail from parking lot	primary	matK	63.74	-68.56	0
+Carex_williamsii	JN966217.1	27-OCT-2012	675	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	matK	58.769	-93.856	0
+Carex_williamsii	JN966216.1	27-OCT-2012	752	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0
+Carex_williamsii	JN966215.1	27-OCT-2012	783	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	matK	58.178	-93.637	0
+Carex_williamsii	KU496594.1	31-JAN-2017	817	Canada: Yukon, Klondike	secondary	matK	64.2405159	-139.0146881	0

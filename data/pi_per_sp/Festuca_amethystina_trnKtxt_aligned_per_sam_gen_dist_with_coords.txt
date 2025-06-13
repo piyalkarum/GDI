@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_amethystina	LR588300.1	30-JUL-2021	2804	Germany	primary	trnK	11.0365	49.5399	0.000803317100379032
+Festuca_amethystina	LR588251.1	30-JUL-2021	2799	Germany	primary	trnK	47.5531	11.4136	0.00116154395997141
+Festuca_amethystina	LR588332.1	30-JUL-2021	2806	Germany	secondary	trnK	35.0162702811287	-82.4304748573189	0.00115956769139394
+Festuca_amethystina	LR588331.1	30-JUL-2021	2805	Germany	secondary	trnK	34.9936526785789	-82.5244581047303	0.00107095158615379
+Festuca_amethystina	LR588330.1	30-JUL-2021	2801	Germany	secondary	trnK	35.3169204620879	-83.3070269505963	0.000803667331104816

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_vulpina	OQ354733.1	27-JUN-2023	817	Slovenia	secondary	matK	46.1199444	14.8153333	0
+Carex_vulpina	OQ354732.1	27-JUN-2023	817	Poland	secondary	matK	52.215933	19.134422	0
+Carex_vulpina	OQ354731.1	27-JUN-2023	817	Germany	secondary	matK	40.4203479	-79.1166983	0
+Carex_vulpina	MK926336.1	14-JAN-2020	816	United Kingdom	secondary	matK	54.7830098203114	-2.51656561576314	0
+Carex_vulpina	MK926099.1	14-JAN-2020	817	United Kingdom	secondary	matK	54.7595202574974	-4.32478807103385	0

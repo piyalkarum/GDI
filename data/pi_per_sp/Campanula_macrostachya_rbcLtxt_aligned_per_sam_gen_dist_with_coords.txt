@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_macrostachya	MK556082.1	22-SEP-2019	321	Hungary	secondary	rbcL	42.0049086677741	-73.8331770305271	0.573212179915795
+Campanula_macrostachya	MK556001.1	22-SEP-2019	336	Hungary	secondary	rbcL	42.5608400985772	-72.9470354554374	0.611200457111467
+Campanula_macrostachya	MK555552.1	22-SEP-2019	357	Hungary	secondary	rbcL	41.6175601994623	-73.397148722548	0.598232951652958
+Campanula_macrostachya	MK555361.1	22-SEP-2019	382	Hungary	secondary	rbcL	41.8929605218266	-72.1922703137178	0.626454720119386

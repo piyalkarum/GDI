@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daucus_carota	MN261007.1	25-AUG-2020	2013	Portugal: Beja	primary	nad5	37.39389	-8.48889	0.00156128024980484
+Daucus_carota	MN261005.1	25-AUG-2020	2013	Portugal: Faro	primary	nad5	37.34111	-8.85194	0.00113547654531261
+Daucus_carota	MN261004.1	25-AUG-2020	2013	Portugal: Faro	primary	nad5	37.11944	-8.55194	0.000567738272656305
+Daucus_carota	MN261002.1	25-AUG-2020	2013	Uzbekistan: Gazelkent	primary	nad5	41.57667	69.81972	0.00141934568164076
+Daucus_carota	MN261001.1	25-AUG-2020	2013	Turkey: Konya	primary	nad5	37.35861	31.88389	0.000567738272656305
+Daucus_carota	MN261000.1	25-AUG-2020	2013	Portugal: Coimbra	primary	nad5	40.11667	-8.25	0.000993541977148535
+Daucus_carota	MN261003.1	25-AUG-2020	2013	France	secondary	nad5	48.3605295	-4.7709059	0.000567738272656305
+Daucus_carota	MN260999.1	25-AUG-2020	2013	Pakistan	secondary	nad5	36.0765123	74.2812071	0.000567738272656305

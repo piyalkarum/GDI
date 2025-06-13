@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_angustata	KC476221.1	25-OCT-2013	583	Canada: Nunavut, Ellesmere Island, Eureka, 2 km west of airport	primary	atpF-atpH	79.99	-85.9	0
+Puccinellia_angustata	KC476220.1	25-OCT-2013	583	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, slopes to north of airstrip	primary	atpF-atpH	76.24	-119.36	0
+Puccinellia_angustata	KC476219.1	25-OCT-2013	628	Canada: Northwest Territories, Banks Island, Masik River area, top of ridge south of our camp lake. About 200 m from top of slope	primary	atpF-atpH	71.58	-123.19	0
+Puccinellia_angustata	KC476218.1	25-OCT-2013	583	Canada: Nunavut, Axel Heiberg Island, Colour Peak. Big Hill to left of main spring. 750 m from water`s edge	primary	atpF-atpH	79.38	-91.28	0

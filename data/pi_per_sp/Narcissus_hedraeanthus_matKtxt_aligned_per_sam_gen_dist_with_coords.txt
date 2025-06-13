@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_hedraeanthus	MN070159.1	07-AUG-2019	833	Spain: Quesada, Puerto de Tiscar	secondary	matK	37.7863686	-3.038451	0
+Narcissus_hedraeanthus	KC238488.1	01-OCT-2014	1781	Spain: Cazorla	secondary	matK	38.1850170571895	-3.50793972074373	0
+Narcissus_hedraeanthus	KC238487.1	01-OCT-2014	1781	Spain: Cazorla	secondary	matK	38.3992766474847	-2.55689467618158	0
+Narcissus_hedraeanthus	KC238486.1	01-OCT-2014	1781	Spain: Nerpio	secondary	matK	38.1482489	-2.3014306	0

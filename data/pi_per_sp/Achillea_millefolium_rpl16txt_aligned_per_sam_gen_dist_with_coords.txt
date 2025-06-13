@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achillea_millefolium	HQ450983.1	27-FEB-2012	854	Austria: Salzburg, Hohe Tauern	secondary	rpl16	47.2811128631154	13.745148027875	0.000292740046838407
+Achillea_millefolium	HQ450982.1	27-FEB-2012	854	Austria: Salzburg, Hohe Tauern	secondary	rpl16	46.5001088019863	13.2163190813433	0.000975800156128025
+Achillea_millefolium	HQ450977.1	27-FEB-2012	854	USA: Utah, ascent from Snowbird Alta to Lake Cecret	secondary	rpl16	35.1206782824553	-87.5993470201709	0.000292740046838407
+Achillea_millefolium	HQ450976.1	27-FEB-2012	854	USA: Utah, ascent from Snowbird Alta to Lake Cecret	secondary	rpl16	35.0127910424245	-87.7023004289538	0.000292740046838407
+Achillea_millefolium	HQ450975.1	27-FEB-2012	854	USA: Utah, ascent from Snowbird Alta to Lake Cecret	secondary	rpl16	36.0289280109422	-87.20512727819	0.000292740046838407
+Achillea_millefolium	HQ450974.1	27-FEB-2012	854	USA: Connecticut, Hopeville State Park	secondary	rpl16	41.3952314299516	-71.3560898865553	0.000292740046838407
+Achillea_millefolium	HQ450973.1	27-FEB-2012	854	USA: Connecticut, Hopeville State Park	secondary	rpl16	41.3280862756347	-72.7796405537547	0.000292740046838407
+Achillea_millefolium	HQ450972.1	27-FEB-2012	854	USA: Washington, Mt. Rainier	secondary	rpl16	46.8792794021414	-121.096150577952	0.000292740046838407
+Achillea_millefolium	HQ450971.1	27-FEB-2012	854	USA: Washington, Mt. Rainier	secondary	rpl16	46.9758189525277	-123.024898211469	0.000292740046838407
+Achillea_millefolium	HQ450967.1	27-FEB-2012	854	France: E Pyrenees	secondary	rpl16	44.2428707816539	-0.290910453576051	0.000292740046838407
+Achillea_millefolium	HQ450966.1	27-FEB-2012	854	France: E Pyrenees	secondary	rpl16	44.2209257580427	-0.875010473643064	0.000292740046838407
+Achillea_millefolium	HQ450965.1	27-FEB-2012	859	France: Massif Central	secondary	rpl16	44.5679519656534	2.74646596101277	0.000975800156128025
+Achillea_millefolium	HQ450964.1	27-FEB-2012	859	France: Massif Central	secondary	rpl16	46.0610394487554	3.54004300946409	0.000975800156128025

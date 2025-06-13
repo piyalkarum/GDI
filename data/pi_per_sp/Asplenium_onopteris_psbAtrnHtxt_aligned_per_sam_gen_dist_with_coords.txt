@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_onopteris	OL312378.1	04-JAN-2022	507	USA: Missouri Botanical Garden, Shoenberg Temperate House.	primary	psbA-trnH	38.614472	-90.259083	0
+Asplenium_onopteris	KU756236.1	09-OCT-2016	522	Italy	secondary	psbA-trnH	42.6384261	12.674297	0
+Asplenium_onopteris	KU724300.1	04-SEP-2016	532	Spain: Caceres, Losar de la Vera	secondary	psbA-trnH	40.121961	-5.6069115	0.00093984962406015
+Asplenium_onopteris	KU724299.1	04-SEP-2016	532	Spain: Burgos, Crespos	secondary	psbA-trnH	42.8969226	-3.7835331	0.000469924812030075
+Asplenium_onopteris	KU724298.1	04-SEP-2016	532	Spain: Asturias, Luarca	secondary	psbA-trnH	43.5439003	-6.5357408	0.000469924812030075

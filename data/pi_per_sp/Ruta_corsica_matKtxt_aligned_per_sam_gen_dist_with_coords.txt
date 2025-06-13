@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ruta_corsica	EF489054.1	31-DEC-2008	1518	France: Haut Asco, Asco, Bastia, Corsica	secondary	matK	42.4032858	8.9235583	0.00131752305665349
+Ruta_corsica	EF489053.1	31-DEC-2008	1518	France: Asco, Corsica	secondary	matK	42.4542774	9.0341777	0.00131752305665349
+Ruta_corsica	EF489052.1	31-DEC-2008	1518	France	secondary	matK	42.18808965	9.06841377142769	0.00131752305665349
+Ruta_corsica	EF489051.1	31-DEC-2008	1518	Italy	secondary	matK	39.9613903	9.5072721	0.00197628458498024
+Ruta_corsica	EF489050.1	31-DEC-2008	1518	Italy	secondary	matK	40.118804	9.2519707	0.00197628458498024

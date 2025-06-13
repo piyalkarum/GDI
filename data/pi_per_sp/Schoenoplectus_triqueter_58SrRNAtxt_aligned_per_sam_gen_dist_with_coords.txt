@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Schoenoplectus_triqueter	LC757810.1	08-MAR-2023	386	Japan: Yamanashi, Hokuto city	secondary	5.8S rRNA	35.7805063000713	139.624017566059	0
+Schoenoplectus_triqueter	LC757809.1	08-MAR-2023	386	Japan: Yamaguchi, Yamaguchi city	secondary	5.8S rRNA	34.1783147	131.4733985	0
+Schoenoplectus_triqueter	LC757808.1	08-MAR-2023	386	Japan: Yamanashi, Hokuto city	secondary	5.8S rRNA	34.9395189934663	138.448551813157	0
+Schoenoplectus_triqueter	LC655280.1	20-APR-2022	727	Japan:Aichi, Nagoya	secondary	5.8S rRNA	35.1851045	136.8998438	0
+Schoenoplectus_triqueter	AB206269.1	24-AUG-2005	539	Japan	secondary	5.8S rRNA	36.5748441	139.2394179	0

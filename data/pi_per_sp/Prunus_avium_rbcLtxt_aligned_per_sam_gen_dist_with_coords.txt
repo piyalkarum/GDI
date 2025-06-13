@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Prunus_avium	MG248789.1	21-JAN-2018	552	Canada: Georgetown, ON	primary	rbcL	43.65	-79.933	NA
+Prunus_avium	MG247971.1	21-JAN-2018	552	Canada: Niagara-on-the-lake, ON	primary	rbcL	43.255	-79.0773	NA
+Prunus_avium	MG246371.1	21-JAN-2018	552	Canada: Brampton, ON	primary	rbcL	43.6833	-79.7667	NA
+Prunus_avium	KP402674.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H12x1y2	primary	rbcL	39.0659479990351	-76.5218706275822	NA
+Prunus_avium	KP402609.1	06-JAN-2016	524	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H16x5y6	primary	rbcL	39.7139038604707	-76.8990252767319	NA
+Prunus_avium	JN891862.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.55	-3.63	NA
+Prunus_avium	KP769100.1	29-APR-2015	462	China	secondary	rbcL	34.7080790824374	104.670374014134	NA
+Prunus_avium	KP769034.1	29-APR-2015	814	China	secondary	rbcL	34.9158848107346	103.983538717469	0
+Prunus_avium	KP769015.1	29-APR-2015	814	China	secondary	rbcL	34.9642625883104	105.356175861153	0
+Prunus_avium	JN892272.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.0305520008722	-3.95803169908646	NA
+Prunus_avium	JN892271.1	07-MAR-2012	506	United Kingdom: Glamorgan	secondary	rbcL	51.7787117190805	-3.75170839109817	NA

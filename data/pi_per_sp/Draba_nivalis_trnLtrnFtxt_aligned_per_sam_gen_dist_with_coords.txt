@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_nivalis	GU202843.1	28-DEC-2009	318	Norway: Jan Mayen, Fishburn Bay, below bird cliff	primary	trnL-trnF	70.994217	8.188047	0.0053248136315229
+Draba_nivalis	GU202842.1	28-DEC-2009	318	Norway: Jan Mayen, Lidhogda	primary	trnL-trnF	70.98841	8.340517	0.0053248136315229
+Draba_nivalis	GU202841.1	28-DEC-2009	314	USA: Plants of Alaska. Rocky cliffs, Alitak, Kodiak Island	primary	trnL-trnF	56.944363	-154.168228	0.00531463882840534
+Draba_nivalis	GU202632.1	28-DEC-2009	358	Russia: Yakutskaya oblast (region), Lena river delta, area of Bukhta Tiksi (bay), on an edge of the coast of Bukhta Tiksi (bay), in 1.5 km to the north from Polyarnoi (polyar) station	primary	trnL-trnF	71.6537	128.855	0.0117044151862328

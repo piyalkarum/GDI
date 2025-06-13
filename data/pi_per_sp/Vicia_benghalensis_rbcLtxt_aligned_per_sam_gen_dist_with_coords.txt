@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_benghalensis	KP896717.1	13-OCT-2015	545	Canada	secondary	rbcL	61.0666922	-107.991707	0
+Vicia_benghalensis	KP896716.1	13-OCT-2015	545	Uruguay	secondary	rbcL	-32.8755548	-56.0201525	0
+Vicia_benghalensis	KP896715.1	13-OCT-2015	545	Australia	secondary	rbcL	-24.7761086	134.755	0
+Vicia_benghalensis	KP896714.1	13-OCT-2015	545	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Vicia_benghalensis	KP896713.1	13-OCT-2015	545	Belgium	secondary	rbcL	50.6402809	4.6667145	0
+Vicia_benghalensis	HM850457.1	23-JUL-2011	999	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000289184499710815
+Vicia_benghalensis	JN661194.1	09-JAN-2013	1352	Spain: Canary Islands, Gran Canaria	secondary	rbcL	28.0979963555017	-14.7857983536726	0.000144592249855408
+Vicia_benghalensis	JN661193.1	09-JAN-2013	1352	Spain: Canary Islands, Gran Canaria	secondary	rbcL	28.7268644933002	-15.1871374605666	0.000144592249855408

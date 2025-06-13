@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_insubricum	HF934173.1	12-MAY-2015	646	Italy	secondary	rbcL	43.0605279420255	13.4263776284888	0.134402654867257
+Allium_insubricum	HF934172.1	12-MAY-2015	646	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.134402654867257
+Allium_insubricum	HF934171.1	12-MAY-2015	672	Italy	secondary	rbcL	42.2742471511892	12.9249318710333	0.134825327510917
+Allium_insubricum	HF934170.1	12-MAY-2015	672	Italy	secondary	rbcL	42.3453581459537	12.3126931786523	0.134825327510917
+Allium_insubricum	HG416961.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.538455964756347

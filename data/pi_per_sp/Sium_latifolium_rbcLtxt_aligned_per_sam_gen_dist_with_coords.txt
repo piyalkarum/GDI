@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sium_latifolium	MK925492.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2688227023925	-2.88993994122775	0.00127469725940089
+Sium_latifolium	MK925373.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9917428933176	-2.94709167265251	0.00127469725940089
+Sium_latifolium	MK924545.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4837420928096	-4.46245918695487	0.00127469725940089
+Sium_latifolium	KC584901.1	04-JUN-2013	685	Italy: Umbria	secondary	rbcL	42.965916	12.490236	0.00382409177820268

@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_norvegica	MG249330.1	21-JAN-2018	553	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.4406	-81.8842	0
+Potentilla_norvegica	MG249135.1	21-JAN-2018	552	Canada: Manitoba, Churchill, downtown near ocean waterfront	primary	rbcL	58.77	-94.162	0
+Potentilla_norvegica	MG248347.1	21-JAN-2018	552	Canada: Yukon Territory, Knorr Range, Lakes at headwaters of Noisy Creek	primary	rbcL	65.507	-134.383	0
+Potentilla_norvegica	MG247963.1	21-JAN-2018	552	Canada: R.R.Tracks between Glasgow St. & Yorkshire St.	primary	rbcL	43.54	-80.254	0
+Potentilla_norvegica	MG247691.1	21-JAN-2018	553	Canada: Ontario, Wellington, Wellington, Elora Research Station	primary	rbcL	43.6833	-80.4333	0
+Potentilla_norvegica	KX678224.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Squamish Valley Rd., Riverside Forest Recreation Site	primary	rbcL	49.916	-123.296	0
+Potentilla_norvegica	KM212153.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Mont Saint-Hilaire, Area infront of Gault House, along Lac Hertel	primary	rbcL	45.542	-73.154	0
+Potentilla_norvegica	MN601463.1	15-DEC-2019	1428	USA	secondary	rbcL	39.7837304	-100.445882	5.41535795516084e-05
+Potentilla_norvegica	MG249666.1	21-JAN-2018	553	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West.	secondary	rbcL	43.3127570913209	-78.1298340005393	0
+Potentilla_norvegica	MG249546.1	21-JAN-2018	552	Canada: Ontario, Kenora District, Dryden	secondary	rbcL	49.785698	-92.835846	0
+Potentilla_norvegica	MG248414.1	21-JAN-2018	533	Canada: Ontario, Nipissing District, Mattawan Twp., Mattawa, NEBIE Block#3, Intensive treatment	secondary	rbcL	45.3658443	15.6575209	0
+Potentilla_norvegica	MG248209.1	21-JAN-2018	552	Canada: Ontario, Renfrew District, Petawawa, NEBIE field study site	secondary	rbcL	44.2211961123757	-78.6510066573895	0
+Potentilla_norvegica	MG248006.1	21-JAN-2018	553	Canada: Ontario, Kenora District, Dryden Township, Dryden	secondary	rbcL	43.1719520037685	-77.0614252908464	0
+Potentilla_norvegica	KJ593633.1	17-MAR-2015	553	USA: Wisconsin, Breed	secondary	rbcL	45.0730383	-88.4242704	0
+Potentilla_norvegica	JX848530.1	06-AUG-2013	1319	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	5.41535795516084e-05

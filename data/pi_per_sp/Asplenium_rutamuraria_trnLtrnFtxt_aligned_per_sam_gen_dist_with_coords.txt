@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_ruta-muraria	MK828031.1	30-APR-2020	741	Germany: Freistaat Sachsen	secondary	trnL-trnF	50.9295798	13.4585052	0.0113353949300198
+Asplenium_ruta-muraria	MK828027.1	30-APR-2020	611	Switzerland: Fribourg	secondary	trnL-trnF	46.8055656	7.1612669	0.015864881543291
+Asplenium_ruta-muraria	MK828026.1	30-APR-2020	833	USA: Virginia	secondary	trnL-trnF	37.1232245	-78.4927721	0.0108814564713553
+Asplenium_ruta-muraria	MK827759.1	30-APR-2020	351	China: Xingjiang	secondary	trnL-trnF	26.493227	115.773331	0.011950288184649
+Asplenium_ruta-muraria	KU753806.1	27-SEP-2016	948	Spain: Bu, Crespos	secondary	trnL-trnF	42.8969226	-3.7835331	0.0127995756768923
+Asplenium_ruta-muraria	JX068763.1	31-MAY-2013	886	France	secondary	trnL-trnF	46.4796484075769	3.04012159758681	0.0104432370206972
+Asplenium_ruta-muraria	JX068762.1	31-MAY-2013	872	France	secondary	trnL-trnF	46.893070275397	2.75672424094828	0.00963657076291703
+Asplenium_ruta-muraria	JX068761.1	31-MAY-2013	885	France	secondary	trnL-trnF	46.0992635574347	1.30101163286231	0.0109033827034906
+Asplenium_ruta-muraria	JX068760.1	31-MAY-2013	874	Austria	secondary	trnL-trnF	36.9148511	-4.7534501	0.00918664077639988
+Asplenium_ruta-muraria	JX068759.1	31-MAY-2013	886	France	secondary	trnL-trnF	47.4184565653418	2.40164965219606	0.0106729438573469
+Asplenium_ruta-muraria	JX068758.1	31-MAY-2013	886	Croatia	secondary	trnL-trnF	45.3658443	15.6575209	0.0106729438573469
+Asplenium_ruta-muraria	JX068757.1	31-MAY-2013	888	Italy	secondary	trnL-trnF	42.3387826623916	13.5938965731825	0.0106667972746169
+Asplenium_ruta-muraria	JX068756.1	31-MAY-2013	877	Germany	secondary	trnL-trnF	40.4203479	-79.1166983	0.0106009342467276
+Asplenium_ruta-muraria	JX068755.1	31-MAY-2013	875	Italy	secondary	trnL-trnF	42.3068642490292	11.5752901140857	0.00990728780259118

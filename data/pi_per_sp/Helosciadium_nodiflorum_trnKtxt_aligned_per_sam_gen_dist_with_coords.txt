@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helosciadium_nodiflorum	MT095023.1	22-JUL-2020	1751	United Kingdom: England, Oxfordshire, Port Meadow	secondary	trnK	51.7674805	-1.2734228	0.00627561784308624
+Helosciadium_nodiflorum	MF598288.1	06-NOV-2017	830	Spain	secondary	trnK	38.7474376871077	-5.71910798834208	0.00792514110480927
+Helosciadium_nodiflorum	MF598286.1	06-NOV-2017	823	Spain	secondary	trnK	39.7498174258554	-4.41476082673856	0.00538672217661695
+Helosciadium_nodiflorum	KP871507.1	16-SEP-2015	1781	United Kingdom: Cambridgeshire, Chippenham Fen NNR, GR 52/6506.6918	secondary	trnK	52.3729017	-0.0449359942200065	0.00360350806635595

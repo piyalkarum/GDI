@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nothobartsia_asperrima	KX959206.1	02-NOV-2017	1034	Morocco: Tanger-Tetouan, between Sidi Jel and Beni Bouker	primary	trnK	34.4991172703922	-5.2481752480883	0.00134339132453864
+Nothobartsia_asperrima	KX959205.1	02-NOV-2017	1034	Morocco: Tanger-Tetouan, between Sidi Jel and Beni Bouker	primary	trnK	35.3743203527974	-4.12084794529897	0.00134339132453864
+Nothobartsia_asperrima	KX959127.1	02-NOV-2017	1038	Portugal: Setubal, Vendas de Azeitao	primary	trnK	39.052999180961	-9.75377757343514	0.000731383500204504
+Nothobartsia_asperrima	KX959126.1	02-NOV-2017	1031	Portugal: Setubal, Vendas de Azeitao	primary	trnK	38.0195122691789	-9.07632061267316	0.000734666703710971
+Nothobartsia_asperrima	KX959125.1	02-NOV-2017	1038	Portugal: Setubal, Sesimbra, Cabo Espichel	primary	trnK	38.1646662317483	-10.0227440617828	0.000731383500204504
+Nothobartsia_asperrima	KX959124.1	02-NOV-2017	1038	Portugal: Santarem, Tomar, Algarvias	primary	trnK	39.7195804641708	-9.30322563207988	0.00109126791403858
+Nothobartsia_asperrima	KX959123.1	02-NOV-2017	1038	Portugal: Santarem, Tomar, Algarvias	primary	trnK	39.8375066568795	-8.84586583060806	0.00109126791403858
+Nothobartsia_asperrima	KX959101.1	02-NOV-2017	1031	Portugal: Setubal, Sesimbra, Cabo Espichel	primary	trnK	38.4000826010412	-8.36494003336419	0.000734666703710971
+Nothobartsia_asperrima	JF900573.1	05-MAR-2013	1005	Portugal	secondary	trnK	39.6621648	-8.1353519	0.00199303184377811

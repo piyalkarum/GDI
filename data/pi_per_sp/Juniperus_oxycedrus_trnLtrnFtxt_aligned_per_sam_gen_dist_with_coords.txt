@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juniperus_oxycedrus	JN845592.1	30-AUG-2013	603	Morocco: Agadir, Imouzzer Ida Ou Tane	secondary	trnL-trnF	30.4205162	-9.5838532	0.00587685692798444
+Juniperus_oxycedrus	JN845591.1	30-AUG-2013	603	Morocco: Asni, Tizi n'Test	secondary	trnL-trnF	30.868219	-8.3788916	0.00449177810860446
+Juniperus_oxycedrus	JN845589.1	30-AUG-2013	573	Morocco: Beni-Mellal, Taghzour	secondary	trnL-trnF	32.334193	-6.353335	0.00245950407525719
+Juniperus_oxycedrus	JN845586.1	30-AUG-2013	603	Morocco: Marrakech	secondary	trnL-trnF	31.6258257	-7.9891608	0.00587685692798444
+Juniperus_oxycedrus	JN845584.1	30-AUG-2013	603	Morocco: El Ksiba	secondary	trnL-trnF	32.568902	-6.034093	0.00449177810860446
+Juniperus_oxycedrus	JF950989.1	12-DEC-2011	625	Tunisia: Cap Bon, Sidi Daoud	secondary	trnL-trnF	36.7405961	10.7337411751559	0.00433344166937507
+Juniperus_oxycedrus	JF950988.1	12-DEC-2011	597	Greece: Kalavryta, Diakofto	secondary	trnL-trnF	38.1101921	22.1609243	0.020690477045935
+Juniperus_oxycedrus	JF950987.1	12-DEC-2011	597	Turkey: Istambul, Kartal	secondary	trnL-trnF	40.9949563	28.9257631	0.020690477045935
+Juniperus_oxycedrus	JF950984.1	12-DEC-2011	647	Spain: Balearic Islands, Menorca	secondary	trnL-trnF	39.949401	4.0593888	0.00442435902549835
+Juniperus_oxycedrus	JF950983.1	12-DEC-2011	647	Spain: El Penon	secondary	trnL-trnF	43.5473215681048	-5.48400291255162	0.00442435902549835
+Juniperus_oxycedrus	JF950982.1	12-DEC-2011	647	Spain: El Penon	secondary	trnL-trnF	42.8061706341095	-6.79417797244354	0.00442435902549835
+Juniperus_oxycedrus	JF950981.1	12-DEC-2011	597	Turkey: Gumushane, Torul	secondary	trnL-trnF	40.557658	39.2926361	0.020690477045935
+Juniperus_oxycedrus	JF950978.1	12-DEC-2011	647	Spain: Jaen	secondary	trnL-trnF	38.3020361127643	-3.50631124564063	0.0046971110938682
+Juniperus_oxycedrus	JF950977.1	12-DEC-2011	603	Spain: Jaen	secondary	trnL-trnF	37.8643047731131	-2.8101467612606	0.00449177810860446
+Juniperus_oxycedrus	JF950976.1	12-DEC-2011	603	Spain: Ciudad Real, Puebla de Don Rodrigo	secondary	trnL-trnF	39.0823124	-4.6168415	0.00449177810860446
+Juniperus_oxycedrus	JF950975.1	12-DEC-2011	603	Spain: Madrid, Villalba	secondary	trnL-trnF	40.4889735	-3.6929096	0.00449177810860446
+Juniperus_oxycedrus	JF950974.1	12-DEC-2011	677	Spain: Huesca, Sierra de Guara	secondary	trnL-trnF	42.2774189	-0.1899393	0.00442435902549835
+Juniperus_oxycedrus	HM024581.1	28-SEP-2010	621	France: Corsica	secondary	trnL-trnF	42.1880896	9.0684138	0.00449177810860446

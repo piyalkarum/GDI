@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Schoenus_ferrugineus	MK926393.1	14-JAN-2020	805	United Kingdom	secondary	matK	55.1629941332015	-2.17035564514535	0
+Schoenus_ferrugineus	MK926382.1	14-JAN-2020	795	United Kingdom	secondary	matK	53.9467246819708	-3.63679506260703	0
+Schoenus_ferrugineus	MK925992.1	14-JAN-2020	790	United Kingdom	secondary	matK	53.9979750883488	-3.59803236664283	0
+Schoenus_ferrugineus	MK925947.1	14-JAN-2020	777	Estonia	secondary	matK	58.7523778	25.3319078	0
+Schoenus_ferrugineus	MF543554.1	31-JUL-2018	740	Italy: Aosta Valley, Saint-Denis, Semon	secondary	matK	45.3228165518386	7.60004083040676	0
+Schoenus_ferrugineus	MF543553.1	31-JUL-2018	739	Italy: Aosta Valley, Saint-Denis, Semon	secondary	matK	45.7603287873959	7.74321928442174	0
+Schoenus_ferrugineus	MF543552.1	31-JUL-2018	630	Italy: Aosta Valley, Saint-Denis, Semon	secondary	matK	45.1165695396853	8.06244016589409	0

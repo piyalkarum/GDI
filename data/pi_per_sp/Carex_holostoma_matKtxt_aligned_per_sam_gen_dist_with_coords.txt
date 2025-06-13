@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_holostoma	KC474330.1	25-OCT-2013	561	Canada: Nunavut, Hudson Bay region, Ferguson Lake	primary	matK	62.92	-96.88	0
+Carex_holostoma	KC474329.1	25-OCT-2013	777	Canada: Yukon Territory, Kay Point	primary	matK	69.29	-138.37	0.00037147102526003
+Carex_holostoma	KC474328.1	25-OCT-2013	775	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Hornaday River, ~1 km downstream of valley leading to Castle Butte	primary	matK	68.1833	-121.825	0.0003725782414307
+Carex_holostoma	KC474327.1	25-OCT-2013	673	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour, in gully west of camp	primary	matK	62.85	-67.35	0.00111552029195076
+Carex_holostoma	LK021902.1	24-SEP-2015	2560	Greenland:Disko, Godhavn	secondary	matK	69.7808372	-53.3682007043176	0.00037147102526003

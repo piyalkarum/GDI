@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_cinerea	OR738104.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.37333	83.89556	0.140268829542889
+Salix_cinerea	MG249791.1	21-JAN-2018	553	Canada: Ontario, Niagara Co., Bertie Twp. Marcy Woods, NW base of Point Abino, Lake Erie, 4.3km SW of Crystal Beach PO. Map 30L/14 UTM 547471 Square 17PT54	primary	rbcL	42.863	-79.106	0.141074589273646
+Salix_cinerea	JN893030.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.39	-4.07	0.140268829542889
+Salix_cinerea	LC757936.1	08-MAR-2023	701	Japan:Miyagi, Botanical Gardens of Tohoku University	secondary	rbcL	34.9803071	139.838919	0.425497813743554
+Salix_cinerea	ON081354.1	08-NOV-2022	606	Russia	secondary	rbcL	64.7830732677751	96.5750289391799	0.420180955372908
+Salix_cinerea	ON081342.1	08-NOV-2022	615	Russia	secondary	rbcL	65.2916685271981	97.5872923947392	0.420835548735402
+Salix_cinerea	KX163031.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.3718634721516	-4.03544896641631	0.140337539835471
+Salix_cinerea	KX163030.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.2671625368105	-2.32561641353024	0.140337539835471
+Salix_cinerea	KX163029.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.0339415829473	-3.69617398427518	0.140337539835471
+Salix_cinerea	JN892120.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.140268829542889
+Salix_cinerea	JN891948.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.3346896232532	-2.20402450135022	0.140268829542889
+Salix_cinerea	JN891947.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.9087047185672	-4.35913037584455	0.140268829542889

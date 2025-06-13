@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_lachenalii	MZ359302.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.000611624882126599
+Carex_lachenalii	MG227706.1	23-JAN-2018	523	USA: Alaska, Kotzebue Quad, Seward Peninsula, Coepack Inlet 'Lagoon', N arm of Shishmaref Inlet	primary	rbcL	66.5267	-164.783	0.000646697252986472
+Carex_lachenalii	MG225870.1	23-JAN-2018	667	Canada: Nunavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	rbcL	62.8247566964663	-68.4855726250803	0.0014572854591023
+Carex_lachenalii	MG225868.1	23-JAN-2018	667	Canada: Nunavut, Baffin Island, Cape Dorset, between Nascopie Building and secondary water supply	primary	rbcL	63.6604752954028	-77.7657164506118	0.0014572854591023
+Carex_lachenalii	MG225756.1	23-JAN-2018	674	Canada: Nunavut, Baffin Island, Sylvia Grinnell Park, near the entrance to the park	primary	rbcL	62.8075434501663	-69.5198935906553	0.00143737396744724
+Carex_lachenalii	FJ548263.1	25-AUG-2009	667	Canada: Nunuavut, Baffin Island, Cape Dorset, between Nascopie Building and secondary water supply lake	primary	rbcL	63.3435825739545	-76.701532194153	0.0014572854591023
+Carex_lachenalii	FJ548262.1	25-AUG-2009	667	Canada: Nunuavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	rbcL	62.8351276158517	-67.7758451893766	0.0014572854591023
+Carex_lachenalii	FJ548261.1	25-AUG-2009	674	Canada: Nunuavut, Baffin Island, Sylvia Grinnell Park, near the entrance to the park	primary	rbcL	63.4549082249016	-70.540642786291	0.00143737396744724
+Carex_lachenalii	KC482302.1	25-OCT-2013	522	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park, Buckland Hills, NW part	primary	rbcL	69.417	-139.633	0.000610442521883327
+Carex_lachenalii	KC482301.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Mainland south of delta	primary	rbcL	68.87	-136.97	0.000610442521883327
+Carex_lachenalii	KC482300.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.852	-67.356	0.000610442521883327
+Carex_lachenalii	KC482299.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East side of Hornaday River	primary	rbcL	68.3	-121.858	0.000610442521883327
+Carex_lachenalii	KC482298.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Rocky ledges above fresh lake in lowlands 1 km W of Kihlbay	primary	rbcL	56.472	-79.042	0.000610442521883327
+Carex_lachenalii	KC482297.1	25-OCT-2013	510	Canada: Northwest Territories, Victoria Island, Minto Inlet, Small unnamed lake in lee of plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.294	-116.421	0.000664385594006157
+Carex_lachenalii	KC482296.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, NE edge of unnamed lake 8 km NE of Minto Inlet on escarpment above valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.629	-115.505	0.000610442521883327
+Carex_lachenalii	MK925583.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0839736626175	-2.85777462053579	0.000623705382176903
+Carex_lachenalii	MK925529.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5540057433828	-2.56953970861607	0.000623705382176903
+Carex_lachenalii	MK925475.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2990859470398	-4.17093349862796	0.000623705382176903
+Carex_lachenalii	MK925231.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5147822876722	-3.16791653598136	0.000623705382176903
+Carex_lachenalii	MK924759.1	14-JAN-2020	542	Sweden	secondary	rbcL	59.6749712	14.5208584	0.000623705382176903

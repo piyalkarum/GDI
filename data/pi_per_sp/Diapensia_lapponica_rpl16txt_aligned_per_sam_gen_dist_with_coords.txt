@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Diapensia_lapponica	KJ563051.1	27-MAY-2014	350	Canada	primary	rpl16	40	-65.94	0.00384615384615385
+Diapensia_lapponica	KJ563050.1	27-MAY-2014	350	Canada	primary	rpl16	49.59	-57.8	0.00384615384615385
+Diapensia_lapponica	KJ563049.1	27-MAY-2014	350	Russia	primary	rpl16	68.35	53.15	0.00384615384615385
+Diapensia_lapponica	KJ563046.1	27-MAY-2014	350	USA	primary	rpl16	44.28	-71.29	0.00384615384615385
+Diapensia_lapponica	KJ563045.1	27-MAY-2014	350	Iceland	primary	rpl16	65.41	-16.72	0.00384615384615385
+Diapensia_lapponica	KJ563044.1	27-MAY-2014	350	United Kingdom	primary	rpl16	56.9	-5.47	0.00384615384615385
+Diapensia_lapponica	KJ563043.1	27-MAY-2014	350	Greenland	primary	rpl16	60.92	-46.03	0.00384615384615385
+Diapensia_lapponica	KJ563042.1	27-MAY-2014	350	Greenland	primary	rpl16	64.17	-51.66	0.00384615384615385
+Diapensia_lapponica	KJ563041.1	27-MAY-2014	350	Greenland	primary	rpl16	69.25	-53.53	0.00384615384615385
+Diapensia_lapponica	KJ563040.1	27-MAY-2014	350	Norway	primary	rpl16	66.19	14.55	0.00384615384615385
+Diapensia_lapponica	KJ563039.1	27-MAY-2014	350	Norway	primary	rpl16	69.52	21.27	0.00384615384615385
+Diapensia_lapponica	KJ563038.1	27-MAY-2014	350	Norway	primary	rpl16	68.77	19.66	0.00384615384615385
+Diapensia_lapponica	KJ563037.1	27-MAY-2014	350	Canada	primary	rpl16	58.7	-78.18	0.00384615384615385
+Diapensia_lapponica	KJ563036.1	27-MAY-2014	350	Canada	primary	rpl16	62.53	-77.93	0.00384615384615385
+Diapensia_lapponica	KJ563035.1	27-MAY-2014	350	Canada	primary	rpl16	52.46	-55.74	0.00384615384615385
+Diapensia_lapponica	KJ563034.1	27-MAY-2014	350	Canada	primary	rpl16	51.45	-57.26	0.00384615384615385
+Diapensia_lapponica	KJ563033.1	27-MAY-2014	350	Russia	primary	rpl16	65.35	60.66	0.00384615384615385
+Diapensia_lapponica	KJ563032.1	27-MAY-2014	350	Russia	primary	rpl16	66.92	65.8	0.00384615384615385
+Diapensia_lapponica	KJ563048.1	27-MAY-2014	350	USA	secondary	rpl16	39.7837304	-100.445882	0.00384615384615385
+Diapensia_lapponica	KJ563047.1	27-MAY-2014	350	Canada	secondary	rpl16	61.0666922	-107.991707	0.00384615384615385
+Diapensia_lapponica	AB219708.1	20-DEC-2005	1334	Japan: Shizuoka, Mt. Akaishidake	secondary	rpl16	35.4612203	138.1573535	0.0137933217953449
+Diapensia_lapponica	AB219707.1	20-DEC-2005	1338	Japan: Nagano, Mts. Ontakesan	secondary	rpl16	36.6485851	138.1947664	0.0112197303964201
+Diapensia_lapponica	AB219706.1	20-DEC-2005	1334	Japan: Ishikawa, Mts. Hakusan	secondary	rpl16	37.1570412	140.4468974	0.0158467047755084
+Diapensia_lapponica	AB219705.1	20-DEC-2005	1337	Japan: Nagano, Mt. Shiroumadake	secondary	rpl16	36.7584922	137.758539	0.0112197518964533
+Diapensia_lapponica	AB219704.1	20-DEC-2005	1331	Japan: Iwate, Mt. Yakeishidake	secondary	rpl16	39.1637016	140.8288204	0.00905173625040697
+Diapensia_lapponica	AB219703.1	20-DEC-2005	1338	Japan: Hokkaido, Mts. Taisetsuzan	secondary	rpl16	43.4603175	143.330715792837	0.00905054354596341
+Diapensia_lapponica	AB219702.1	20-DEC-2005	1330	Russia: Sakhalin, Mt. Zhdanko	secondary	rpl16	50.15947595	143.026441186009	0.00905177970412593

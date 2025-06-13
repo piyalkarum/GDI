@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colchicum_burttii	KX139592.1	26-APR-2017	529	Turkey: Mugla	secondary	rbcL	37.6129973347642	28.8517849900802	0.00283735417477016
+Colchicum_burttii	KX139591.1	26-APR-2017	555	Turkey: Denizli	secondary	rbcL	41.8273528600287	30.2593187553543	0.00200872065908109
+Colchicum_burttii	KX139590.1	26-APR-2017	521	Turkey: Denizli	secondary	rbcL	40.2620387633	30.0530768280305	0.00210822404671915
+Colchicum_burttii	KX139589.1	26-APR-2017	482	Turkey: Mugla	secondary	rbcL	36.98642663465	27.4742838945203	0

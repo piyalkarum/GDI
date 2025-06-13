@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_rotundata	MG227458.1	23-JAN-2018	522	USA: Alaska, Anchorage, Far N Bicentennial Pk, off Campbell Airstrip rd	primary	rbcL	61.1614	-149.741	0
+Carex_rotundata	MG226169.1	23-JAN-2018	552	Canada: Manitoba, Wapusk National Park, wetland between ice wedge polygons bordering a small lk on the W side of the S end of Skidmore Lk	primary	rbcL	57.7875	-93.379	0
+Carex_rotundata	KC482344.1	25-OCT-2013	552	Canada: Northwest Territories, Northwest Territories Mainland, Inuvialuit Region, 40 km SSW of Tuktoyaktuk, near Parsons Lake. Site 80-26	primary	rbcL	69.1	-133.617	0
+Carex_rotundata	KC482343.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Trail River	primary	rbcL	69.022	-138.665	0
+Carex_rotundata	KC482342.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Mainland south of delta	primary	rbcL	68.868	-136.991	0
+Carex_rotundata	JN965399.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.0232742885276	-92.2700130762968	0
+Carex_rotundata	JN965398.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.0270272865423	-91.2938776540086	0
+Carex_rotundata	JN965397.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 5 km E Churchill, Miss Piggy, n of airport, beach near /`/` crash site	primary	rbcL	58.763	-94.087	0
+Carex_rotundata	JN965396.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	rbcL	57.7672424127407	-92.192952046188	0
+Carex_rotundata	JN965379.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	rbcL	57.8407424974437	-92.5526024405127	0

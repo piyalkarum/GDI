@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_laciniatum	LN868986.1	17-SEP-2015	462	Italy	primary	psbA-trnH	39.9	16.11	0
+Leucanthemum_laciniatum	LN868985.1	17-SEP-2015	339	Italy	primary	psbA-trnH	39.91	16.19	0
+Leucanthemum_laciniatum	HE680967.1	22-APR-2013	339	Italy:Basilicata	secondary	psbA-trnH	41.2620473912347	15.7897308504632	0
+Leucanthemum_laciniatum	HE680966.1	22-APR-2013	339	Italy:Basilicata	secondary	psbA-trnH	40.4824940733826	16.1722571882757	0
+Leucanthemum_laciniatum	HE680965.1	22-APR-2013	339	Italy:Calabria	secondary	psbA-trnH	38.8833172440302	16.0491071361914	0
+Leucanthemum_laciniatum	HE680937.1	22-APR-2013	339	Italy:Calabria	secondary	psbA-trnH	39.4574457219861	15.7211293313471	0

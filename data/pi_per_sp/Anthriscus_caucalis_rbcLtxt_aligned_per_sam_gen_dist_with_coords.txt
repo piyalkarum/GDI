@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthriscus_caucalis	MK060093.1	26-MAY-2019	638	Poland	primary	rbcL	52.9097	18.6959	0
+Anthriscus_caucalis	KX679213.1	29-APR-2017	552	Canada: British Columbia, Comox-Strathcona Regional District, Vancouver Island, Kin Beach Provincial Park	primary	rbcL	49.73	-124.898	0
+Anthriscus_caucalis	KX678059.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, Metchosin, Boys & Girls Club camp	primary	rbcL	48.394	-123.511	0
+Anthriscus_caucalis	JN892202.1	07-MAR-2012	452	United Kingdom: Denbighshire	primary	rbcL	53.31	-3.52	0
+Anthriscus_caucalis	JN893703.1	07-MAR-2012	523	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0

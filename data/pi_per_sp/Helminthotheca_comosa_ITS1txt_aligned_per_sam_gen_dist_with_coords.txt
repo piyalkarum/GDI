@@ -1,0 +1,35 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helminthotheca_comosa	LN830792.1	07-MAR-2016	637	Spain:Cadiz Province, Conil de la Frontera	primary	ITS1	36.9985127780054	-6.68844911032592	0.0113956462804179
+Helminthotheca_comosa	LN830791.1	07-MAR-2016	637	Spain:Cadiz Province, Conil de la Frontera	primary	ITS1	36.8398756868845	-5.98619075313048	0.0133260922662364
+Helminthotheca_comosa	LN830790.1	07-MAR-2016	637	Spain:Cadiz Province, Conil de la Frontera	primary	ITS1	36.6480790073888	-5.38945175633396	0.0097780664957222
+Helminthotheca_comosa	LN830789.1	07-MAR-2016	637	Spain:Cadiz Province, Conil de la Frontera	primary	ITS1	35.4508026635809	-6.22183993248901	0.0113095992442749
+Helminthotheca_comosa	LN830788.1	07-MAR-2016	637	Spain:Cadiz Province, Jerez de la Frontera	primary	ITS1	37.0887604801088	-5.47656274250996	0.0109290274351317
+Helminthotheca_comosa	LN830787.1	07-MAR-2016	637	Spain:Cadiz Province, Jerez de la Frontera	primary	ITS1	36.8733261462122	-6.7334497117539	0.0105484556259884
+Helminthotheca_comosa	LN830786.1	07-MAR-2016	637	Spain:Cadiz Province, Jerez de la Frontera	primary	ITS1	36.3911928924018	-5.97443897863258	0.0125466072198273
+Helminthotheca_comosa	LN830785.1	07-MAR-2016	637	Spain:Cadiz Province, Grazalema	primary	ITS1	36.0416750642243	-5.94060137538252	0.0105484556259884
+Helminthotheca_comosa	LN830784.1	07-MAR-2016	637	Spain:Cadiz Province, Grazalema	primary	ITS1	37.5075246744337	-5.07357049837982	0.0097780664957222
+Helminthotheca_comosa	LN830783.1	07-MAR-2016	637	Spain:Cadiz Province, Zahara de los Atunes	primary	ITS1	35.8313521526046	-6.44675029583867	0.0105866319943147
+Helminthotheca_comosa	LN830782.1	07-MAR-2016	637	Spain:Cadiz Province, Zahara de los Atunes	primary	ITS1	35.5538071272455	-6.632921557105	0.0113570211245809
+Helminthotheca_comosa	LN830781.1	07-MAR-2016	637	Spain:Ciudad Real Province, Puertollano	primary	ITS1	39.1784514907642	-4.14832882053461	0.0132218533978077
+Helminthotheca_comosa	LN830780.1	07-MAR-2016	637	Spain:Ciudad Real Province, Puertollano	primary	ITS1	38.4937066562612	-5.38545362391453	0.0116994165653979
+Helminthotheca_comosa	LN830779.1	07-MAR-2016	637	Spain:Seville Province, Castilblanco de los Arroyos	primary	ITS1	37.1803420772064	-5.18472605172529	0.00910296991357873
+Helminthotheca_comosa	LN830778.1	07-MAR-2016	637	Spain:Seville Province, Castilblanco de los Arroyos	primary	ITS1	38.1836518017648	-5.66364774062707	0.00890343849702737
+Helminthotheca_comosa	LN830777.1	07-MAR-2016	637	Spain:Huelva Province, Between Gibraleon and San Bartolome de la Torre	primary	ITS1	37.2387237726152	-7.27646242143926	0.0131377486612567
+Helminthotheca_comosa	LN830776.1	07-MAR-2016	637	Spain:Huelva Province, Between Gibraleon and San Bartolome de la Torre	primary	ITS1	37.645950205976	-7.6309578759321	0.0138220907553799
+Helminthotheca_comosa	LN830775.1	07-MAR-2016	637	Spain:Huelva Province, Almonaster la Real	primary	ITS1	37.4426224652262	-7.31763211449412	0.0151903710082765
+Helminthotheca_comosa	LN830774.1	07-MAR-2016	637	Spain:Huelva Province, Almonaster la Real	primary	ITS1	38.4601916992796	-7.18183392533682	0.0123175914157428
+Helminthotheca_comosa	LN830773.1	07-MAR-2016	637	Spain:Huelva Province, Hinojos	primary	ITS1	37.1867363688319	-6.26876172534525	0.0122812077511715
+Helminthotheca_comosa	LN830772.1	07-MAR-2016	637	Spain:Huelva Province, Hinojos	primary	ITS1	37.676626112048	-5.77187055598893	0.00887615074859894
+Helminthotheca_comosa	LN830771.1	07-MAR-2016	580	Portugal:Faro District, Between Querenca and Barranco do Velho	primary	ITS1	37.2411246617587	-7.08215948973719	0.0101363825859091
+Helminthotheca_comosa	LN830770.1	07-MAR-2016	637	Portugal:Faro District, Between Querenca and Barranco do Velho	primary	ITS1	37.5639870020908	-8.4122260936802	0.00892346788522898
+Helminthotheca_comosa	LN830769.1	07-MAR-2016	637	Portugal:Coimbra District, Figueira da Foz. Cabo Mondego	primary	ITS1	40.6962607835582	-8.74080858066108	0.012471747995256
+Helminthotheca_comosa	LN830768.1	07-MAR-2016	637	Portugal:Coimbra District, Figueira da Foz. Cabo Mondego	primary	ITS1	39.8842892498806	-8.73758056792922	0.0117013588649898
+Helminthotheca_comosa	LN830767.1	07-MAR-2016	637	Portugal:Setubal District, Serra da Arrabida between Setubal and Portinho da Arrabida	primary	ITS1	39.2648896327693	-8.75443033259283	0.0116153118288468
+Helminthotheca_comosa	LN830766.1	07-MAR-2016	637	Portugal:Setubal District, Serra da Arrabida between Setubal and Portinho da Arrabida	primary	ITS1	38.505712871268	-8.53728033600308	0.0140123766599515
+Helminthotheca_comosa	LN830765.1	07-MAR-2016	637	Portugal:Beja District, Serra de Monchique between Monchique and Odemira	primary	ITS1	37.9846500447734	-8.60351205145145	0.0104643508894373
+Helminthotheca_comosa	LN830764.1	07-MAR-2016	637	Portugal:Beja District, Serra de Monchique between Monchique and Odemira	primary	ITS1	37.051306350583	-8.75471650277269	0.00929494377822941
+Helminthotheca_comosa	LN830763.1	07-MAR-2016	637	Portugal:Faro District, Between Silves and Sao Marcos da Serra	primary	ITS1	37.2844876547966	-7.50626486455909	0.012262866323049
+Helminthotheca_comosa	LN830762.1	07-MAR-2016	637	Portugal:Faro District, Between Silves and Sao Marcos da Serra	primary	ITS1	37.5021016949981	-8.34277418406617	0.0104550006337817
+Helminthotheca_comosa	LN830761.1	07-MAR-2016	582	Portugal:Faro District, Between Sao Bras de Alportel and Santa Catarina	primary	ITS1	37.8426035291134	-7.67096707038599	0.0141636760630332
+Helminthotheca_comosa	LN830760.1	07-MAR-2016	637	Portugal:Faro District, Between Sao Bras de Alportel and Santa Catarina	primary	ITS1	36.307409722447	-8.02814889600028	0.0137854078991348
+Helminthotheca_comosa	AJ633323.1	13-DEC-2004	637	Germany:Saxonia	secondary	ITS1	50.9295798	13.4585052	0.0105940531994145

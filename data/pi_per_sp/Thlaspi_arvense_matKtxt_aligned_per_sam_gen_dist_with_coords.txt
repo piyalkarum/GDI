@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thlaspi_arvense	OR575187.1	25-OCT-2023	785	Kazakhstan: Qaragandy region	primary	matK	49.49993	73.26461	0.00432839905520839
+Thlaspi_arvense	OQ847561.1	15-AUG-2023	774	USA: American Prairie White Rock Unit	primary	matK	47.9867	-107.9798	0.0040233626405477
+Thlaspi_arvense	OR464958.1	26-SEP-2023	822	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.28826615	-85.61731875	0.00400017161356172
+Thlaspi_arvense	HQ593466.1	09-NOV-2011	772	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Clearing in woods W of manager's house	primary	matK	44.031	-79.53	0.00526984473878313
+Thlaspi_arvense	KJ841026.1	23-SEP-2014	706	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	matK	45.535	-73.149	0.00417985202242745
+Thlaspi_arvense	JN966711.1	27-OCT-2012	764	Canada: Manitoba, Churchill, 3 km SE Churchill, pipeline, Forest along the pipe	primary	matK	58.747	-94.115	0.00404007203586754
+Thlaspi_arvense	JN893943.1	07-MAR-2012	786	United Kingdom: Monmouthshire	primary	matK	51.89	-2.82	0.00400862040629204
+Thlaspi_arvense	MT917830.1	03-MAR-2023	765	China	secondary	matK	30.8732719069381	-94.4710271090061	0.00402546949241075
+Thlaspi_arvense	MT917829.1	03-MAR-2023	768	China	secondary	matK	30.1228533005399	-93.3210792399372	0.00434326639647355
+Thlaspi_arvense	MT917828.1	03-MAR-2023	768	China	secondary	matK	30.5760877898211	-93.6656810775966	0.00434326639647355
+Thlaspi_arvense	MT917827.1	03-MAR-2023	768	China	secondary	matK	30.3870991769477	-93.9066747755636	0.00434326639647355
+Thlaspi_arvense	MT946453.1	03-MAR-2023	754	China	secondary	matK	30.3528013697913	-94.3137683082489	0.00442363419626463
+Thlaspi_arvense	KM892765.1	11-OCT-2018	747	China	secondary	matK	29.2554537270836	-94.6242711303007	0.00434842567545363
+Thlaspi_arvense	KM892742.1	11-OCT-2018	747	China	secondary	matK	30.0597685515033	-94.8528785614098	0.0545574375109721
+Thlaspi_arvense	KM892741.1	11-OCT-2018	747	China	secondary	matK	30.7297796336336	-94.9815607133985	0.00402786939100902
+Thlaspi_arvense	KT280268.1	01-AUG-2016	723	China: Maqu Gansu	secondary	matK	34.6137382	102.4654149	0.00448687589520531
+Thlaspi_arvense	HM850750.1	23-JUL-2011	798	Portugal	secondary	matK	39.6621648	-8.1353519	0.00763132019072544
+Thlaspi_arvense	JN895666.1	07-MAR-2012	735	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00414396984896083

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lactuca_saligna	MK926161.1	14-JAN-2020	790	United Kingdom	secondary	matK	55.3621291420535	-2.83411280605046	0.00197411713094977
+Lactuca_saligna	MK926047.1	14-JAN-2020	790	United Kingdom	secondary	matK	54.572008165505	-4.41295520543813	0.00197411713094977
+Lactuca_saligna	MK925831.1	14-JAN-2020	790	United Kingdom	secondary	matK	54.3090848095722	-3.65213311055748	0.00197411713094977
+Lactuca_saligna	KU586766.1	06-FEB-2017	542	Spain: Sevilla, Dos Hermanas	secondary	matK	37.283689	-5.9226718	NA
+Lactuca_saligna	AJ633238.1	10-OCT-2004	970	Germany	secondary	matK	34.895926	-83.4665496	NA

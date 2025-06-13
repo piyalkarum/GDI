@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_trojana	HE583658.1	04-SEP-2011	694	Greece	secondary	trnK	43.2097838	-77.6930602	0
+Quercus_trojana	HE583652.1	04-SEP-2011	693	Turkey	secondary	trnK	38.9597594	34.9249653	0
+Quercus_trojana	HE583614.1	04-SEP-2011	693	Italy:Apulia	secondary	trnK	40.9842539	16.6210027	0
+Quercus_trojana	HE583609.1	04-SEP-2011	693	Greece:Eubea	secondary	trnK	38.4941723	23.9110844	0

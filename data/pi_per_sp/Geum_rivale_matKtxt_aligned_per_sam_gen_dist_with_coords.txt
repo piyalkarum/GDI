@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geum_rivale	JN895978.1	07-MAR-2012	360	United Kingdom: Carmarthenshire	primary	matK	51.91	-3.86	0.0117643350754408
+Geum_rivale	MK926301.1	14-JAN-2020	734	United Kingdom	secondary	matK	54.7102964333661	-2.23702000089359	0.00509374110374558
+Geum_rivale	MK925730.1	14-JAN-2020	788	United Kingdom	secondary	matK	54.4227909629338	-1.92657876624034	0.0044514479591592
+Geum_rivale	MK925672.1	14-JAN-2020	777	United Kingdom	secondary	matK	54.6695479293172	-4.53870290437817	0.00582113463531916

@@ -1,0 +1,98 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_pratensis	KC483588.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Hills just NE of settlement	primary	rbcL	68.75	-68.5	0.00091789508610698
+Poa_pratensis	JN891129.1	07-MAR-2012	535	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.75	0.000730731695315388
+Poa_pratensis	JN890887.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.2	0.000722670745043659
+Poa_pratensis	KC483581.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Masik River Valley, hills on S side of valley, SSW of large oblong lake	primary	rbcL	71.58	-123.17	0.00202673922318599
+Poa_pratensis	KC483580.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Hills between Big River and Egg River, near junction of the two rivers	primary	rbcL	72.43	-129.38	0.00202673922318599
+Poa_pratensis	KC483579.1	25-OCT-2013	552	Canada: Northwest Territories, NWT mainland, Inuvik, between town and lagoon, on NW side of town	primary	rbcL	68.35	-133.72	0.00091789508610698
+Poa_pratensis	KC483578.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island, McCormick Inlet, ~10 km SW of head of inlet at river delta	primary	rbcL	75.79	-112.44	0.00202673922318599
+Poa_pratensis	KC483577.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	rbcL	76.56	-118.86	0.00091789508610698
+Poa_pratensis	KC483576.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	70.735	-117.761	0.00091789508610698
+Poa_pratensis	KC483575.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Two Basin Lake, 23 km ESE of Eureka airstrip. Ridge Lake drainage gully	primary	rbcL	80.1919432669415	-83.4828459302576	0.00091789508610698
+Poa_pratensis	KC483574.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Small point into ocean, ~10 km SW of Sanikiluaq	primary	rbcL	56.478	-79.386	0.00091789508610698
+Poa_pratensis	KC483573.1	25-OCT-2013	552	Canada: Northwest Territories, Baffin Island, Sylvia Grinnell Park	primary	rbcL	63.733	-68.55	0.00091789508610698
+Poa_pratensis	KC483572.1	25-OCT-2013	552	Canada: Northwest Territories, NWT mainland, Nicolson Island, Liverpool Bay	primary	rbcL	69.1038789972612	-129.365592249967	0.00091789508610698
+Poa_pratensis	KC483571.1	25-OCT-2013	552	Canada: Northwest Territories, NWT mainland, Nicolson Island, Liverpool Bay	primary	rbcL	69.3231458569399	-130.355286106371	0.00091789508610698
+Poa_pratensis	KC483570.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East side of Hornaday River	primary	rbcL	68.4139	-121.892	0.00091789508610698
+Poa_pratensis	KC483569.1	25-OCT-2013	552	Canada: Northwest Territories, NWT mainland, Inuvialuit summer camp on narrow isthmus of Kitigazuit Island	primary	rbcL	69.35	-133.68	0.00202673922318599
+Poa_pratensis	KC483568.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Large valley along upper Bukken River	primary	rbcL	80.5332076670189	-89.561679180701	0.00091789508610698
+Poa_pratensis	KC483567.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Region SW of camp, ca. 9 km north of Coronation Gulf coast, 12 km north of point	primary	rbcL	68.728	-112.678	0.00374180627847866
+Poa_pratensis	JN965751.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes burn site, Burn site 5 years after fire	primary	rbcL	58.617	-93.812	0.00202673922318599
+Poa_pratensis	JN965755.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 23 km E Churchill, Fort Churchill, Spaceport project, chuchill area. Site 9. Below ridge. Lower slope below white spruce belt in willow zone. Moist, mossy.	primary	rbcL	58.733	-93.783	0.00202673922318599
+Poa_pratensis	JN965754.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, Before willow zone.	primary	rbcL	58.5162346867469	-94.7750688200291	0.00202673922318599
+Poa_pratensis	JN965753.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	59.3733370922064	-94.8404487912143	0.00202673922318599
+Poa_pratensis	JN965734.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	rbcL	59.6473295753338	-93.9458624860579	0.00202673922318599
+Poa_pratensis	OR738105.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.37333	83.89556	0.00259034721128712
+Poa_pratensis	MF596992.1	28-FEB-2018	603	Canada: British Columbia, End of Hudson Bay Mountain trail that starts at alpine ski area at the end of Hudson Bay Mountain Road, W of Smithers.	primary	rbcL	54.784	-127.291	0.000958678518366134
+Poa_pratensis	MF596991.1	28-FEB-2018	603	Canada: British Columbia, Big Bell Mountain, McBride, ridge top with alpine vegetation	primary	rbcL	53.7901530151309	-121.132927647799	0.000958678518366134
+Poa_pratensis	MF596990.1	28-FEB-2018	600	Canada: British Columbia, Old gravel mining area, just S of Hwy 16, N of Bulkley River, just E of Ross Lake.	primary	rbcL	55.1043541380875	-125.753155404495	0.000963658010136461
+Poa_pratensis	MF596989.1	28-FEB-2018	603	Canada: British Columbia, Olsen Rest Area, along Hwy. 3 12.7 km W of Sparwood. Lawn of rest area.	primary	rbcL	49.6305294425046	-114.378146160143	0.000958678518366134
+Poa_pratensis	MF596988.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, Saanich Peninsula, at corner of Derrick Road and Norris Road, south of Deep Cove.	primary	rbcL	49.1825214718819	-123.981954983608	0.000958678518366134
+Poa_pratensis	MF596987.1	28-FEB-2018	549	Canada: Saskatchewan, Along Hwy. 18, N of road the leads to entrance of Grasslands National Park, 6.5 km S of Wood Moutain Regional Park	primary	rbcL	49.0401624225319	-105.109094004523	0.000922729387123573
+Poa_pratensis	MF596986.1	28-FEB-2018	603	Canada: Manitoba, 3 miles South of Spruce Woods Provincial Park southern boundary on Hwy 5 towards Glenboro.	primary	rbcL	49.4218147863274	-98.4431213487726	0.000958678518366134
+Poa_pratensis	MF596985.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Mount Raymond peak (accessible only by hiking trail).	primary	rbcL	53.2847071953384	-130.866858107675	0.000958678518366134
+Poa_pratensis	MF596984.1	28-FEB-2018	549	Canada: Saskatchewan, Big Muddy Badlands, along Hwy. 18, ca. 28 km E of junction of highways 18 and 36, E of Coronach.	primary	rbcL	48.9204972229225	-104.411296458428	0.000922729387123573
+Poa_pratensis	MG228241.1	23-JAN-2018	603	Canada: British Columbia, Big Bell Mountain, McBride, ridge top with alpine vegetation	primary	rbcL	53.2504391359634	-119.73124360312	0.000958678518366134
+Poa_pratensis	MG228009.1	23-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Halfway Log Dump Parking Lot, BPNP	primary	rbcL	45.227	-81.481	0.00091789508610698
+Poa_pratensis	MG227649.1	23-JAN-2018	552	Canada: Yukon Territory, Vuntut National Park, Dog Creek camp	primary	rbcL	68.465	-138.746	0.00091789508610698
+Poa_pratensis	MG227641.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Mount Raymond peak (accessible only by hiking trail).	primary	rbcL	53.7411949876451	-131.723795080698	0.000958678518366134
+Poa_pratensis	MG227253.1	23-JAN-2018	552	USA: Alaska, Kenai Penninsula, W of Hope, S side of Turn Again Arm. Porcupine Cr. Camp Ground, Gull Rock Tr.	primary	rbcL	60	-149	0.00091789508610698
+Poa_pratensis	MG226911.1	23-JAN-2018	552	Canada: Nunavut, Ellesmere Island, Two Basin Lake, 23 km ESE ofEureka airstrip	primary	rbcL	80.5487411558404	-87.5785270198687	0.00091789508610698
+Poa_pratensis	MG226853.1	23-JAN-2018	549	Canada: Saskatchewan, Along Hwy. 18, N of road the leads to entrance of Grasslands National Park, 6.5 km S of Wood Moutain Regional Park	primary	rbcL	49.4287649266329	-105.702801123382	0.000922729387123573
+Poa_pratensis	MG226554.1	23-JAN-2018	553	Canada: Ontario, Wellington, Wellington, Guelph	primary	rbcL	43.5485	-80.2503	0.000917387450083004
+Poa_pratensis	MG226509.1	23-JAN-2018	600	Canada: British Columbia, Old gravel mining area, just S of Hwy 16, N of Bulkley River, just E of Ross Lake.	primary	rbcL	54.5000609289769	-126.833206809196	0.000963658010136461
+Poa_pratensis	MG226469.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, Saanich Peninsula, at corner of Derrick Road and Norris Road, south of Deep Cove.	primary	rbcL	47.936188652432	-123.274481800463	0.000958678518366134
+Poa_pratensis	MG226257.1	23-JAN-2018	549	Canada: Saskatchewan, Big Muddy Badlands, along Hwy. 18, ca. 28 km E of junction of highways 18 and 36, E of Coronach.	primary	rbcL	48.7658628483956	-105.961801606625	0.000922729387123573
+Poa_pratensis	MG225779.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Timmins, NEBIE Block#3, Basic treatment	primary	rbcL	48.342	-81.304	0.00363958710242464
+Poa_pratensis	MG225700.1	23-JAN-2018	603	Canada: Manitoba, 3 miles South of Spruce Woods Provincial Park southern boundary on Hwy 5 towards Glenboro.	primary	rbcL	49.6400835020597	-98.0117972063493	0.000958678518366134
+Poa_pratensis	MG225684.1	23-JAN-2018	603	Canada: British Columbia, Olsen Rest Area, along Hwy. 3 12.7 km W of Sparwood. Lawn of rest area.	primary	rbcL	49.6090871318752	-115.746208255844	0.000958678518366134
+Poa_pratensis	MG225573.1	23-JAN-2018	552	Canada: Nunavut, Axel Heiberg Island, Large valley along upper Bukken River	primary	rbcL	80.0828516487602	-88.4596217843382	0.00091789508610698
+Poa_pratensis	HQ590213.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., SW of property	primary	rbcL	44.026	-79.542	0.00255266425814133
+Poa_pratensis	KU887743.1	19-MAR-2016	602	USA: Colorado, Highlands Ranch, Front Lawn	primary	rbcL	39.4	-104.9	0.00114490159231758
+Poa_pratensis	KU887744.1	19-MAR-2016	606	USA: Colorado, Highlands Ranch, Front Lawn	primary	rbcL	39.1	-104.9	0.00116209081123948
+Poa_pratensis	KU887745.1	19-MAR-2016	608	USA: Colorado, Castle Rock, front yard	primary	rbcL	39.4554	-104.9008	0.00213983837151856
+Poa_pratensis	KT960694.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.8180537523966	-19.3762476150714	0.00202673922318599
+Poa_pratensis	KT960623.1	13-DEC-2015	527	Greenland: NE, Zackenberg	primary	rbcL	74.0620687778526	-19.0224990830664	0.00207461554041283
+Poa_pratensis	KT960520.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1246492421703	-18.7742534104533	0.00363958710242464
+Poa_pratensis	KT960500.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.719082498593	-20.8071379108292	0.00202673922318599
+Poa_pratensis	KT960458.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.9320641032452	-21.9909987227021	0.00091789508610698
+Poa_pratensis	KJ841483.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.00091789508610698
+Poa_pratensis	KJ841482.1	04-NOV-2014	569	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Along trail before Pain de Sucre summit	primary	rbcL	45.55	-73.172	0.0016042589627916
+Poa_pratensis	KJ841481.1	04-NOV-2014	455	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Between base of s-w slope of mountain and nearby fen	primary	rbcL	54.899	-67.171	0.00197439944428271
+Poa_pratensis	KC483587.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Pond Inlet	primary	rbcL	72.78	-77	0.00202673922318599
+Poa_pratensis	KC483586.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, De Salis Bay, flat plain along Sandhill River, 1.5-2km from mouth	primary	rbcL	71.45	-121.87	0.00202673922318599
+Poa_pratensis	KC483585.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Eureka	primary	rbcL	80	-85.95	0.00202673922318599
+Poa_pratensis	KC483584.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Tanquary Camp, Ellesmere Island National Park Reserve, sandy gravel floodplain along MacDonald River	primary	rbcL	81.4	-76.87	0.00202673922318599
+Poa_pratensis	KC483583.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island, McCormick Inlet, ~10 km SW of head of inlet at river delta	primary	rbcL	75.78	-112.37	0.00202673922318599
+Poa_pratensis	KC483582.1	25-OCT-2013	552	Canada: Nunavut, Cornwallis Island, Resolute	primary	rbcL	74.68	-94.9	0.00202673922318599
+Poa_pratensis	JN965752.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	rbcL	59.3472762210933	-95.0409209596764	0.00363958710242464
+Poa_pratensis	JN891127.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.06	-4.39	0.00227457821129799
+Poa_pratensis	JN893728.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000722670745043659
+Poa_pratensis	JN892395.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.7813122419912	-2.91107868435346	0.000722670745043659
+Poa_pratensis	MT931820.1	03-MAR-2023	565	China	secondary	rbcL	34.3721952249215	105.110424944962	0.00100477891942852
+Poa_pratensis	KP711242.1	31-MAR-2016	1096	China	secondary	rbcL	35.4120864798687	105.553319039707	0.00112585716078068
+Poa_pratensis	JN893844.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.1041435427045	-2.58843085528988	0.000722670745043659
+Poa_pratensis	JN893843.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.9949228285345	-3.32781927313405	0.000722670745043659
+Poa_pratensis	OR670271.1	06-NOV-2023	428	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00350951586087651
+Poa_pratensis	MN205146.1	30-NOV-2021	724	China	secondary	rbcL	34.3146425109538	105.627699356627	0.00111034800534137
+Poa_pratensis	MN192780.1	30-NOV-2021	723	China	secondary	rbcL	34.9620279371021	104.451133922254	0.00401501224500483
+Poa_pratensis	MF998460.1	09-DEC-2017	1353	Reunion	secondary	rbcL	-21.1309332	55.5265771	0.00121172438289354
+Poa_pratensis	MG227813.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, North Boat Harbour	secondary	rbcL	51.5898366	-55.9889934	0.00091789508610698
+Poa_pratensis	MG227512.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Cape Norman	secondary	rbcL	51.633333	-55.9	0.00091789508610698
+Poa_pratensis	MG226481.1	23-JAN-2018	552	Canada: Quebec, Reg. adm. GaspesieIles-de-la-Madeleine, MRC La Haute-Gaspesie, Municipalite Sainte-Anne-des-Monts, Riviere Ste. Anne, near Grande Fosse Lookout, Gaspe	secondary	rbcL	46.8137431	-71.2084061	0.00091789508610698
+Poa_pratensis	MG225940.1	23-JAN-2018	552	Canada: Ontario, Thunder Bay District, Falling Snow	secondary	rbcL	48.1700659	-89.7981087	0.00363958710242464
+Poa_pratensis	MG225895.1	23-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0.00211399516477954
+Poa_pratensis	MG225625.1	23-JAN-2018	552	Canada: Ontario, Kenora District, Dryden	secondary	rbcL	49.785698	-92.835846	0.00211399516477954
+Poa_pratensis	KP711243.1	31-MAR-2016	1096	China	secondary	rbcL	35.2040976156929	105.477990904332	0.00112585716078068
+Poa_pratensis	KJ746318.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.000941763703164228
+Poa_pratensis	KM538826.1	20-JUN-2015	743	South Korea	secondary	rbcL	36.9477971220155	127.502566542075	0.00407540504135779
+Poa_pratensis	KJ599150.1	21-SEP-2014	556	Australia: Victoria	secondary	rbcL	-35.8156078969729	145.136478738548	0.000935923107778842
+Poa_pratensis	KJ599149.1	21-SEP-2014	559	Australia: Victoria	secondary	rbcL	-37.2566565586283	144.792661015847	0.006417804712699
+Poa_pratensis	KF713052.1	15-DEC-2013	1096	South Korea: Andong-si, Gyeongsangbuk-do	secondary	rbcL	36.5759169	128.5060124	0.00112585716078068
+Poa_pratensis	KF713050.1	15-DEC-2013	1096	South Korea: Suwon-si, Gyeonggi-do	secondary	rbcL	37.267483	126.934611	0.00112585716078068
+Poa_pratensis	JX848506.1	06-AUG-2013	1384	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.00410329549831423
+Poa_pratensis	HQ600438.1	02-AUG-2012	751	South Korea	secondary	rbcL	37.241270088438	127.821578439214	0.00427297517669504
+Poa_pratensis	HQ600433.1	02-AUG-2012	751	South Korea	secondary	rbcL	35.8947158539023	127.419101268269	0.0042019528305098
+Poa_pratensis	JN892398.1	07-MAR-2012	513	United Kingdom: Cardiganshire	secondary	rbcL	52.7032406467944	-4.49706758657958	0.000720098481714436
+Poa_pratensis	JN892392.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000722670745043659
+Poa_pratensis	JN892391.1	07-MAR-2012	514	United Kingdom: Cardiganshire	secondary	rbcL	52.6634420478541	-3.24729062002001	0.000718724369016198

@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_oblongata	LC634024.1	02-JUN-2021	706	Japan: Ibaraki, Moriya	secondary	5.8S rRNA	35.9510096	139.9754981	0
+Euphorbia_oblongata	LC634023.1	02-JUN-2021	706	Japan: Aichi, Nisshin	secondary	5.8S rRNA	35.139303	137.053708	0
+Euphorbia_oblongata	LC634022.1	02-JUN-2021	706	Japan: Aichi, Nagoya	secondary	5.8S rRNA	35.1851045	136.8998438	0
+Euphorbia_oblongata	LC634021.1	02-JUN-2021	706	Japan: Wakayama, Kozaki	secondary	5.8S rRNA	34.2147113	135.2068084	0
+Euphorbia_oblongata	LC634020.1	02-JUN-2021	706	Japan: Okayama, Setouchi, Ushimado	secondary	5.8S rRNA	34.6198794	134.1603052	0
+Euphorbia_oblongata	LC634019.1	02-JUN-2021	706	Japan	secondary	5.8S rRNA	36.5748441	139.2394179	0
+Euphorbia_oblongata	LC634018.1	02-JUN-2021	706	Japan: Okayama, Handayama Botanical Garden	secondary	5.8S rRNA	34.6553944	133.9194595	0
+Euphorbia_oblongata	LC634017.1	02-JUN-2021	706	Japan: Kochi, Makino Botanical Garden	secondary	5.8S rRNA	33.5483309	133.579122	0
+Euphorbia_oblongata	LC634027.1	02-JUN-2021	706	Japan: Kanagawa, Ninomiya	secondary	5.8S rRNA	35.300994	139.246756	0
+Euphorbia_oblongata	LC634026.1	02-JUN-2021	706	Japan: Kanagawa, Fujisawa	secondary	5.8S rRNA	35.364842	139.465077	0
+Euphorbia_oblongata	LC634025.1	02-JUN-2021	706	Japan: Tokyo, Nerima, Oizumi	secondary	5.8S rRNA	35.7495045	139.5865223	0

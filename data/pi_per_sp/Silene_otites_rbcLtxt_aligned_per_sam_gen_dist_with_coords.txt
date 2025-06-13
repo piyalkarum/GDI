@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_otites	MK925480.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.453680586865	-4.44397928155226	0
+Silene_otites	MK924767.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7689449164979	-3.50728864947517	0
+Silene_otites	MK924454.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5358593272603	-3.59507327615528	0
+Silene_otites	KJ746297.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0

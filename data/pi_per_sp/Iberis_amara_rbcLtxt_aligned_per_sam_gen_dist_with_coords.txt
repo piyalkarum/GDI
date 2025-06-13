@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iberis_amara	MG246456.1	21-JAN-2018	552	Canada: British Columbia, Vancouver, West Point Grey	primary	rbcL	49.2667	-123.2	0.139381633532676
+Iberis_amara	MK925406.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0318339313677	-1.97310064076642	0.14012875987229
+Iberis_amara	MK924626.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2029264549131	-3.41717091604571	0.14012875987229
+Iberis_amara	MG246540.1	21-JAN-2018	552	Canada: Ontario, Capreol	secondary	rbcL	46.705969	-80.922546	0.142159430397906
+Iberis_amara	JQ933366.1	30-SEP-2012	721	Bhutan: Thimphu district	secondary	rbcL	27.5583211	89.5524789	0.556290131801284

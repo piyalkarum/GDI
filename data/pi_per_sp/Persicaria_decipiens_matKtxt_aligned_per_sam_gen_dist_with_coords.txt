@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Persicaria_decipiens	KR735094.1	24-JUN-2015	282	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.115600323050419	36.4544880659378	0.000709219858156028
+Persicaria_decipiens	KR735001.1	24-JUN-2015	693	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.84856261821574	37.5843647770348	0.000288600288600289
+Persicaria_decipiens	KR734437.1	24-JUN-2015	691	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	-0.22672989005931	36.5621075237822	0.000289435600578871
+Persicaria_decipiens	KR734365.1	24-JUN-2015	712	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.984375541483592	36.8808287691308	0.000570613409415121
+Persicaria_decipiens	ON982093.1	17-OCT-2022	776	Kenya	secondary	matK	0.977425993175291	38.4549937731687	0.000516129032258065
+Persicaria_decipiens	ON981879.1	17-OCT-2022	1081	Kenya	secondary	matK	0.957138684408879	37.8055341860286	0.00237399818900837

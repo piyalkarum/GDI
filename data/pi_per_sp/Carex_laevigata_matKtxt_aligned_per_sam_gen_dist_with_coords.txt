@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_laevigata	OP629964.1	08-MAR-2023	586	Spain: Huelva	secondary	matK	37.2575874	-6.9484945	0.00113765642775882
+Carex_laevigata	OP629963.1	08-MAR-2023	585	Spain: Asturias	secondary	matK	43.3133868	-5.94192	0.00113960113960114
+Carex_laevigata	MK925946.1	14-JAN-2020	785	United Kingdom	secondary	matK	55.5312168165812	-2.77586522739415	0.00113862878367998
+Carex_laevigata	MK925645.1	14-JAN-2020	789	United Kingdom	secondary	matK	55.3778878277989	-2.63523194327468	0.00113862878367998

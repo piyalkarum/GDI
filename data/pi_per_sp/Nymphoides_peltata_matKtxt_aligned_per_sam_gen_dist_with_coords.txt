@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nymphoides_peltata	LC219334.1	16-MAR-2017	903	China:Zhejiang, East Tiaoxi River	primary	matK	30.3855	119.9648	0
+Nymphoides_peltata	LC219226.1	16-MAR-2017	774	China:Zhejiang, East Tiaoxi River	primary	matK	30.4311	120.0503	0
+Nymphoides_peltata	LC219174.1	16-MAR-2017	894	China:Zhejiang, East Tiaoxi River	primary	matK	30.8678	120.077	0
+Nymphoides_peltata	LC219170.1	16-MAR-2017	918	China:Zhejiang, East Tiaoxi River	primary	matK	30.8861	120.1003	0
+Nymphoides_peltata	LC219161.1	16-MAR-2017	762	China:Zhejiang, East Tiaoxi River	primary	matK	30.9071	120.1042	0
+Nymphoides_peltata	LC219157.1	16-MAR-2017	906	China:Zhejiang, East Tiaoxi River	primary	matK	30.9107	120.1089	0
+Nymphoides_peltata	LC219154.1	16-MAR-2017	864	China:Zhejiang, East Tiaoxi River	primary	matK	30.9148	120.1178	0
+Nymphoides_peltata	LC219148.1	16-MAR-2017	921	China:Zhejiang, East Tiaoxi River	primary	matK	30.919	120.1231	0
+Nymphoides_peltata	LC219143.1	16-MAR-2017	783	China:Zhejiang, East Tiaoxi River	primary	matK	30.9224	120.1252	0
+Nymphoides_peltata	LC219138.1	16-MAR-2017	783	China:Zhejiang, East Tiaoxi River	primary	matK	30.9351	120.1262	0
+Nymphoides_peltata	LC219133.1	16-MAR-2017	786	China:Zhejiang, East Tiaoxi River	primary	matK	30.9412	120.126	0
+Nymphoides_peltata	MN273617.1	30-NOV-2021	786	China	secondary	matK	35.000074	104.999927	0
+Nymphoides_peltata	MK926264.1	14-JAN-2020	828	United Kingdom	secondary	matK	55.1895749430466	-3.36194387968255	0
+Nymphoides_peltata	MK926232.1	14-JAN-2020	819	United Kingdom	secondary	matK	54.273502924081	-3.06176409901828	0
+Nymphoides_peltata	MK925789.1	14-JAN-2020	814	United Kingdom	secondary	matK	54.2283891831664	-4.26907060730722	0
+Nymphoides_peltata	EF173081.1	13-SEP-2008	2322	USA: NY	secondary	matK	43.1561681	-75.8449946	0

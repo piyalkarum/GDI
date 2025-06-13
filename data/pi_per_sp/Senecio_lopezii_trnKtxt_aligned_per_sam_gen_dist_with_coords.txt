@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_lopezii	JX895020.1	19-DEC-2012	440	Portugal: Monchique, vertiente norte, Portela de Viuva direcci n Aljezur	secondary	trnK	38.074889158899	-8.29266155826869	0.315555555555556
+Senecio_lopezii	JX895019.1	19-DEC-2012	440	Spain: Tarifa, los Morrones	secondary	trnK	35.5028778215095	-5.2410784784558	0.315555555555556
+Senecio_lopezii	JX895018.1	19-DEC-2012	440	Spain: San Roque, alrededores del cortijo de la Alcaidesa	secondary	trnK	36.7368025976696	-4.64077893804934	0.315555555555556
+Senecio_lopezii	JX894948.1	19-DEC-2012	478	Portugal: Monchique, vertiente norte, Portela de Viuva direcci n Aljezur	secondary	trnK	38.0341656380369	-9.07842948736774	0.315555555555556
+Senecio_lopezii	JX894947.1	19-DEC-2012	478	Spain: Tarifa, los Morrones	secondary	trnK	36.0850219166403	-4.51632064539013	0.315555555555556
+Senecio_lopezii	JX894946.1	19-DEC-2012	478	Spain: San Roque, alrededores del cortijo de la Alcaidesa	secondary	trnK	36.7527764797025	-6.20383850222052	0.315555555555556

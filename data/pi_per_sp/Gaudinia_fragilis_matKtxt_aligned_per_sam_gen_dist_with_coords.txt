@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gaudinia_fragilis	KX873479.1	16-OCT-2017	816	Australia: Victoria, c. 65 km (direct line) NNE of Wubin, Charles Darwin Reserve, c. 3 km NNW of Manager's residence, Monger's Well	primary	matK	-37.5833	144.7667	0.0888914051859276
+Gaudinia_fragilis	KX873478.1	16-OCT-2017	865	Australia: Victoria, c. 14 km ENE (direct line) of Cavendish, E side of McCutcheons Road, just S of McDonalds Creek crossing	primary	matK	-38.1664	145.3697	0.0889757688554694
+Gaudinia_fragilis	KX873477.1	16-OCT-2017	833	Uruguay: Cerro Largo, Banado de Medina, Puente Moratorio, ruta 26 km 419. Muy abundante	primary	matK	-32.3783	-54.3214	0.0889918438237766
+Gaudinia_fragilis	LT159672.1	15-MAR-2018	774	Spain	secondary	matK	39.4390404462303	-5.03064808727625	0.532193569770392
+Gaudinia_fragilis	LN554436.1	02-APR-2015	2024	Spain	secondary	matK	40.1470991441852	-4.72972619340861	0.0893849709142829
+Gaudinia_fragilis	HM850536.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0908609752605916
+Gaudinia_fragilis	JN894368.1	07-MAR-2012	837	United Kingdom: Somerset,North	secondary	matK	51.3812678	-2.3622445	0.0888008271626235

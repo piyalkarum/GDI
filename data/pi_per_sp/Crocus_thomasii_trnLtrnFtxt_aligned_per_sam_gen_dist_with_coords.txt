@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_thomasii	LT991688.1	01-SEP-2018	558	Italy	secondary	trnL-trnF	42.4872641155387	12.5132966545524	0
+Crocus_thomasii	LT991687.1	01-SEP-2018	558	Italy	secondary	trnL-trnF	42.6422477813039	13.7267542899174	0
+Crocus_thomasii	LT991686.1	01-SEP-2018	558	Italy	secondary	trnL-trnF	41.7693599542387	12.691848905055	0
+Crocus_thomasii	LT991685.1	01-SEP-2018	558	Italy	secondary	trnL-trnF	43.1023470213085	12.553752655631	0
+Crocus_thomasii	LT991684.1	01-SEP-2018	558	Croatia	secondary	trnL-trnF	45.3658443	15.6575209	0

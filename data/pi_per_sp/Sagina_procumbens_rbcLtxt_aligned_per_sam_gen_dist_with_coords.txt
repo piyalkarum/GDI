@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_procumbens	OK505918.1	22-FEB-2022	888	Germany: Nordrhein-Westfalen, Borken	primary	rbcL	51.843611	6.861111	0.354688552905211
+Sagina_procumbens	OK505916.1	22-FEB-2022	888	Germany: Schleswig-Holstein, Hallig Langeness	primary	rbcL	54.6	8.5	0.354688552905211
+Sagina_procumbens	MT534509.1	06-DEC-2021	810	Greece	primary	rbcL	40.2	22.18	0.361215019185064
+Sagina_procumbens	MT534508.1	06-DEC-2021	809	Germany	primary	rbcL	50.06	8.42	0.360216401423075
+Sagina_procumbens	MT534507.1	06-DEC-2021	810	Germany	primary	rbcL	49.99	8.24	0.361090394799906
+Sagina_procumbens	MT534506.1	06-DEC-2021	810	Bulgaria	primary	rbcL	42.13	23.18	0.361215019185064
+Sagina_procumbens	MG249281.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Rocky Point, first small inlet N of small U-shaped trail for vehicle turnaround S of ammunition dock	primary	rbcL	48.317	-123.556	0.223965064421183
+Sagina_procumbens	MG248221.1	21-JAN-2018	553	Canada: Ontario, Wellington, Wellington, Guelph	primary	rbcL	43.5485	-80.2503	0.235436690640858
+Sagina_procumbens	MG246877.1	21-JAN-2018	552	Canada: Manitoba, Churchill airport	primary	rbcL	58.748	-94.077	0.223965064421183
+Sagina_procumbens	KX783990.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	31.2	30.022	0.223965064421183
+Sagina_procumbens	KX678807.1	29-APR-2017	532	Canada: British Columbia, Kootenay Boundary Regional District, Mt. Baldy Ski Area	primary	rbcL	49.1529	-119.236	0.222817258635542
+Sagina_procumbens	JN890854.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.53	-3.21	0.224136690589701
+Sagina_procumbens	OQ172645.1	18-JUN-2023	689	South Korea	secondary	rbcL	35.9015510538211	127.841863887833	0.219914695860139
+Sagina_procumbens	OQ172644.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.0324818379567	128.304253405692	0.219914695860139
+Sagina_procumbens	OQ172643.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.9227992802471	128.053610011341	0.219914695860139
+Sagina_procumbens	OQ172642.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.3139938941469	127.411321613319	0.219914695860139
+Sagina_procumbens	OK505917.1	22-FEB-2022	888	United Kingdom: Middlesex, Ruislip	secondary	rbcL	51.5460558	-0.253779138934072	0.354688552905211
+Sagina_procumbens	MT534510.1	06-DEC-2021	794	Germany	secondary	rbcL	31.4399019	-95.350778	0.357069013917474
+Sagina_procumbens	HM850329.1	23-JUL-2011	1299	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.218511333273372
+Sagina_procumbens	JN893170.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.224136690589701
+Sagina_procumbens	JN892925.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.224136690589701

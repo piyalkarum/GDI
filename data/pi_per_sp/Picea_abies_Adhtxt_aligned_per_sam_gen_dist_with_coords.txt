@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Picea_abies	KP698161.1	14-JUL-2015	690	Ukraine: Carpathians, Rakhov, Khlevinskoe forestry, Zadonsky forest management unit, Lipetskaya obl.	primary	Adh	48.04	24.2	0.242790912583437
+Picea_abies	KM588357.1	21-DEC-2014	751	Ukraine: Carpathians, Rakovo	primary	Adh	48.117	24.05	0.24219323126119
+Picea_abies	KM588356.1	21-DEC-2014	760	Russia: Leningradskaja, Tosno	primary	Adh	59.5	30.867	0.242150607101951
+Picea_abies	KM588355.1	21-DEC-2014	726	Russia: Arhangelskaja, Konosha	primary	Adh	60.967	40.183	0.242154231866341
+Picea_abies	JX508386.1	09-AUG-2013	1167	Serbia: Predov Krst, Tara National Park	secondary	Adh	44.3478438042646	19.9123587581769	0.376777563371504
+Picea_abies	JX508385.1	09-AUG-2013	1167	Serbia: Predov Krst, Tara National Park	secondary	Adh	43.5526917818728	18.9770578440556	0.376777563371504
+Picea_abies	JX508384.1	09-AUG-2013	1167	Austria: Eisenkappel, Kaernten	secondary	Adh	46.1968042346356	15.150111623147	0.376163173973252
+Picea_abies	JX508383.1	09-AUG-2013	1167	Austria: Eisenkappel, Kaernten	secondary	Adh	46.0360972012708	13.7008333235616	0.376163173973252
+Picea_abies	JX508382.1	09-AUG-2013	1167	Germany: Taennesberg, Bavaria	secondary	Adh	49.6579621780097	11.01709219136	0.376163173973252
+Picea_abies	JX508381.1	09-AUG-2013	1167	Russia: Kostroma, Kostroma	secondary	Adh	57.8966112499421	39.5594811274891	0.376314391272511
+Picea_abies	JX508380.1	09-AUG-2013	1167	Norway: Modalen, Hordaland	secondary	Adh	60.2227093902459	5.61877862168324	0.376314391272511
+Picea_abies	JX508342.1	09-AUG-2013	1980	Serbia: Predov Krst, Tara National Park	secondary	Adh	44.1662014756584	20.4555507899367	0.24266247659079
+Picea_abies	JX508341.1	09-AUG-2013	1963	Serbia: Predov Krst, Tara National Park	secondary	Adh	43.9446328703241	20.2952295446729	0.242570996599499
+Picea_abies	JX508340.1	09-AUG-2013	1940	Austria: Eisenkappel, Kaernten	secondary	Adh	46.5198091911937	13.521818883469	0.241763685044964
+Picea_abies	JX508339.1	09-AUG-2013	1908	Austria: Eisenkappel, Kaernten	secondary	Adh	46.2989047485883	15.8401808607331	0.242897450872028
+Picea_abies	JX508338.1	09-AUG-2013	1992	Germany: Taennesberg, Bavaria	secondary	Adh	49.6843703607791	12.4132229378357	0.241511576597086
+Picea_abies	JX508337.1	09-AUG-2013	1861	Russia: Kostroma, Kostroma	secondary	Adh	57.5855214942713	40.3539424249229	0.242686354699243
+Picea_abies	JX508336.1	09-AUG-2013	1807	Norway: Modalen, Hordaland	secondary	Adh	60.8987985635813	4.61127613608214	0.241295386677565

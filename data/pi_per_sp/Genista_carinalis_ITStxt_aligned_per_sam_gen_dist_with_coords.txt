@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_carinalis	AJ971552.1	24-MAR-2006	221	Greece:W. Macedonia, distr. Imathi, Kastania	secondary	ITS	37.1515877572864	21.4220833749897	0.326165850955767
+Genista_carinalis	AJ971551.1	24-MAR-2006	239	Greece:W. Macedonia, distr. Imathi, Kastania	secondary	ITS	36.73626359533	21.6024675750764	0.353402173051962
+Genista_carinalis	AJ971550.1	24-MAR-2006	221	Greece:W. Rodhopi, Likkolakka	secondary	ITS	37.2391324846347	22.7450919559814	0.332634592298458
+Genista_carinalis	AJ971549.1	24-MAR-2006	238	Greece:W. Rodhopi, Likkolakka	secondary	ITS	36.2173696508404	21.7936359036889	0.330253624292356
+Genista_carinalis	AJ971556.1	24-MAR-2006	222	Greece	secondary	ITS	37.9263257902551	22.9646433072735	0.32613179594368
+Genista_carinalis	AJ971555.1	24-MAR-2006	238	Greece	secondary	ITS	38.0951118860013	23.4184482218495	0.326357243404976

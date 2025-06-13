@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Najas_minor	LC128189.1	01-APR-2017	508	Japan: Fukushima	secondary	rpoB	37.4326167473509	140.495725672527	0
+Najas_minor	LC128188.1	01-APR-2017	508	Japan: Fukushima	secondary	rpoB	37.1406303673957	139.733288070273	0
+Najas_minor	LC128187.1	01-APR-2017	508	Greece: Thessaloniki	secondary	rpoB	40.6403167	22.9352716	0
+Najas_minor	LC128186.1	01-APR-2017	508	South Korea	secondary	rpoB	36.638392	127.6961188	0
+Najas_minor	LC128185.1	01-APR-2017	508	Italy: Trieste	secondary	rpoB	45.6496485	13.7772781	0

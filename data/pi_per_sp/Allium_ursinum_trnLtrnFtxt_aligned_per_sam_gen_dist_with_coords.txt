@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_ursinum	FN550401.1	15-SEP-2010	240	Germany:Bavaria, N Franconian Switzerland, Vierzehnheiligen	primary	trnL-trnF	50.06	11.02	0
+Allium_ursinum	FN550400.1	15-SEP-2010	240	Germany:Bavaria, N Franconian Switzerland, Staffelberg	primary	trnL-trnF	50.06	10.59	0
+Allium_ursinum	FN550399.1	15-SEP-2010	240	Germany:Bavaria, SW Franconian Switzerland, Hetzles	primary	trnL-trnF	49.38	11.08	0
+Allium_ursinum	FN550398.1	15-SEP-2010	240	Germany:Lower Saxony, Osnabrueck, Honeburg	primary	trnL-trnF	52.18	8.02	0
+Allium_ursinum	FN550397.1	15-SEP-2010	240	Germany:Lower Saxony, Leer	primary	trnL-trnF	53.13	7.29	0
+Allium_ursinum	FN550396.1	15-SEP-2010	240	Germany:North Rhine-Westphalia, Brochterbeck	primary	trnL-trnF	52.13	7.45	0
+Allium_ursinum	FN550395.1	15-SEP-2010	240	Germany:Lower Saxony, Osnabrueck, Westerberg	primary	trnL-trnF	52.16	8.01	0
+Allium_ursinum	FN550394.1	15-SEP-2010	240	Germany:Lower Saxony, Bad Iburg/Holperdorp	primary	trnL-trnF	52.09	8	0
+Allium_ursinum	FN550393.1	15-SEP-2010	240	Germany:Lower Saxony, Bad Iburg	primary	trnL-trnF	52.09	8.04	0
+Allium_ursinum	FN550392.1	15-SEP-2010	240	Germany:Lower Saxony, Bad Laer/Bad Rothenfelde	primary	trnL-trnF	52.06	8.07	0
+Allium_ursinum	FN550391.1	15-SEP-2010	240	Germany:Lower Saxony, Dissen	primary	trnL-trnF	52.08	8.11	0
+Allium_ursinum	HF934798.1	12-MAY-2015	288	Germany:Thuringia, Keula	secondary	trnL-trnF	51.3321247	10.5290433	0
+Allium_ursinum	KF550176.1	01-JAN-2014	702	Germany: Teutoburger Wald	secondary	trnL-trnF	52.0562587	8.4047596	0

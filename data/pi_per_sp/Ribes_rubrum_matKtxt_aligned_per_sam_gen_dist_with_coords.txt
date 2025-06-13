@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ribes_rubrum	KX676698.1	09-AUG-2017	812	Canada: British Columbia, Greater Vancouver Regional District, Langley, 96 Avenue, 20 m north of, 240 m west of Telegraph Trail	primary	matK	49.1772	-122.676	0.00320427236315087
+Ribes_rubrum	HQ593415.1	09-NOV-2011	788	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, W side of driveway to Koffler Residence at bend	primary	matK	44.03	-79.532	0.0157296609639802
+Ribes_rubrum	KJ840986.1	23-SEP-2014	812	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, South of reserve. On east side of small creek that flows south of small rd between chalets and reserve entrance, approx150-200 metres south of road	primary	matK	45.537	-73.155	0.00323014804845222
+Ribes_rubrum	JN894688.1	07-MAR-2012	848	United Kingdom: Glamorgan	primary	matK	51.51	-3.54	0.00304568527918782
+Ribes_rubrum	JN894285.1	07-MAR-2012	850	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00304955527318933
+Ribes_rubrum	JN894284.1	07-MAR-2012	814	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0032

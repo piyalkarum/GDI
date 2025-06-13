@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_trifoliatum	HF934233.1	12-MAY-2015	641	Israel	secondary	rbcL	30.2912184983861	35.0044630603918	0
+Allium_trifoliatum	HF934232.1	12-MAY-2015	641	Israel	secondary	rbcL	30.2315298529573	34.5823011133872	0
+Allium_trifoliatum	HF934231.1	12-MAY-2015	641	Israel	secondary	rbcL	31.0068400870061	35.2570579419129	0
+Allium_trifoliatum	HF934230.1	12-MAY-2015	641	Greece	secondary	rbcL	43.2097838	-77.6930602	0
+Allium_trifoliatum	HF934229.1	12-MAY-2015	641	Cyprus	secondary	rbcL	34.9174159	32.8899027	0

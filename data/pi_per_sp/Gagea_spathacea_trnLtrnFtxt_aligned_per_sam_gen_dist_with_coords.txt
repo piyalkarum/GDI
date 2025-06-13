@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_spathacea	LT985875.1	14-JUN-2019	204	Russia	secondary	trnL-trnF	64.6863136	97.7453061	0
+Gagea_spathacea	LT985874.1	14-JUN-2019	204	Netherlands	secondary	trnL-trnF	52.2434979	5.6343227	0
+Gagea_spathacea	LT985873.1	14-JUN-2019	204	Germany	secondary	trnL-trnF	40.8629432737685	-78.550494175444	0
+Gagea_spathacea	LT985872.1	14-JUN-2019	204	Germany	secondary	trnL-trnF	40.4692120001336	-77.9732863540366	0
+Gagea_spathacea	LT985871.1	14-JUN-2019	204	Belgium	secondary	trnL-trnF	50.6402809	4.6667145	0
+Gagea_spathacea	AM283108.1	23-JUN-2006	276	Italy	secondary	trnL-trnF	42.6384261	12.674297	0

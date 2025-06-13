@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Orobanche_minor	KR260933.1	01-OCT-2016	1272	Poland	secondary	rbcL	52.215933	19.134422	0.0131438837878668
+Orobanche_minor	KR260931.1	01-OCT-2016	1240	Georgia	secondary	rbcL	32.1999261355966	-82.6800634268107	0.0122515825703255
+Orobanche_minor	KR260930.1	01-OCT-2016	1242	Georgia	secondary	rbcL	32.8529030009542	-83.3861373603466	0.0122514198480469
+Orobanche_minor	HM854935.1	01-AUG-2011	644	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0129199185825924
+Orobanche_minor	MW818183.1	05-APR-2021	255	Spain	secondary	rbcL	28.6551163	-17.8572685655797	0.0378090794550752

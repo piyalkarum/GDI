@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Triglochin_maritima	MG227460.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Shipsands Island, coastal plain	primary	rbcL	51.347	-80.43	0.000181159420289855
+Triglochin_maritima	KC484280.1	25-OCT-2013	502	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Bill Storr Channel	primary	rbcL	68.86	-136.813	0
+Triglochin_maritima	KC484279.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, West side of Hornaday River, east of Castle Butte	primary	rbcL	68.2528	-121.811	0.000181159420289855
+Triglochin_maritima	KC484278.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, along Darnley Bay	primary	rbcL	69.3944	-124.117	0.000181159420289855
+Triglochin_maritima	KC484277.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Sheep Crrek	primary	rbcL	69.154	-140.161	0.00163411824586782
+Triglochin_maritima	JN966048.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0.000181159420289855
+Triglochin_maritima	JN966047.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	rbcL	59.0670752571168	-95.1456781126609	0.000181159420289855
+Triglochin_maritima	JN966046.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 10 km SE Churchill, Farnworth Lake, Lake shore	primary	rbcL	58.705	-94.052	0.000181159420289855
+Triglochin_maritima	JN966045.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	rbcL	58.7393668462249	-93.5761186475569	0.000181159420289855
+Triglochin_maritima	JN892489.1	07-MAR-2012	542	United Kingdom: Monmouthshire (35)	primary	rbcL	51.5	-3.13	0.000184842883548983
+Triglochin_maritima	JX848473.1	06-AUG-2013	1366	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.000181159420289855

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Goniolimon_besserianum	MH607277.1	01-MAY-2019	725	Bulgaria	primary	rps16	43.40988	28.26549	0.000459770114942529
+Goniolimon_besserianum	MH607271.1	01-MAY-2019	725	Romania	primary	rps16	45.0512203365664	29.9994795258386	0.000459770114942529
+Goniolimon_besserianum	MH607270.1	01-MAY-2019	725	Romania	primary	rps16	43.8978880257705	28.868142369446	0.000459770114942529
+Goniolimon_besserianum	MH607269.1	01-MAY-2019	725	Romania	primary	rps16	44.46727	28.4696	0.00137931034482759

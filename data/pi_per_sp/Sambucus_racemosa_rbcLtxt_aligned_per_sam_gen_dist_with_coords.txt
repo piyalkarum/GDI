@@ -1,0 +1,36 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sambucus_racemosa	LC692193.1	03-MAY-2022	652	Japan: Miyazaki	primary	rbcL	32.2889	131.4459	0.000204681216877068
+Sambucus_racemosa	LC690704.1	03-MAY-2022	638	Japan: Nagano	primary	rbcL	35.7557	137.5939	0.000209798097090352
+Sambucus_racemosa	LC689166.1	03-MAY-2022	626	Japan: Saga	primary	rbcL	33.3692	130.3725	0.000213225025490357
+Sambucus_racemosa	LC694587.1	03-MAY-2022	599	Japan: Niigata	primary	rbcL	38.0092	138.476	0.000200736490354154
+Sambucus_racemosa	LC694439.1	03-MAY-2022	599	Japan: Tokyo	primary	rbcL	35.6461	139.276	0.000200736490354154
+Sambucus_racemosa	LC693022.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	44.8612	142.1084	0.000200736490354154
+Sambucus_racemosa	LC693169.1	03-MAY-2022	599	Japan: Nagasaki	primary	rbcL	34.1417	129.2	0.000200736490354154
+Sambucus_racemosa	LC693007.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	44.7375	142.0584	0.000200736490354154
+Sambucus_racemosa	LC693144.1	03-MAY-2022	599	Japan: Nagasaki	primary	rbcL	34.2112	129.275	0.000200736490354154
+Sambucus_racemosa	LC692933.1	03-MAY-2022	635	Japan: Okayama	primary	rbcL	35.1445	133.5375	0.000209798097090352
+Sambucus_racemosa	LC693069.1	03-MAY-2022	644	Japan: Miyazaki	primary	rbcL	32.75	131.4389	0.000206479729913199
+Sambucus_racemosa	LC692795.1	03-MAY-2022	645	Japan: Kagoshima	primary	rbcL	31.157	130.9681	0.000206479729913199
+Sambucus_racemosa	LC692380.1	03-MAY-2022	599	Japan: Nagasaki	primary	rbcL	34.5306	129.4112	0.000200736490354154
+Sambucus_racemosa	LC692356.1	03-MAY-2022	664	Japan: Iwate	primary	rbcL	39.7389	141.4667	0.000200736490354154
+Sambucus_racemosa	LC691704.1	03-MAY-2022	638	Japan: Kagoshima	primary	rbcL	32.0084	130.3062	0.000209798097090352
+Sambucus_racemosa	LC691438.1	03-MAY-2022	636	Japan: Kagoshima	primary	rbcL	32.0639	130.5056	0.000209798097090352
+Sambucus_racemosa	LC691095.1	03-MAY-2022	635	Japan: Ibaraki	primary	rbcL	36.9034	140.5964	0.000209798097090352
+Sambucus_racemosa	LC690743.1	03-MAY-2022	652	Japan: Nagano	primary	rbcL	36.0428	137.777	0.000204681216877068
+Sambucus_racemosa	LC690674.1	03-MAY-2022	635	Japan: Iwate	primary	rbcL	39.3625	140.887	0.000209798097090352
+Sambucus_racemosa	LC690569.1	03-MAY-2022	598	Japan: Wakayama	primary	rbcL	33.697	135.682	0.00526904422912404
+Sambucus_racemosa	LC690513.1	03-MAY-2022	638	Japan: Iwate	primary	rbcL	39.4	140.9506	0.000209798097090352
+Sambucus_racemosa	LC690435.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	41.8268	140.4196	0.000200736490354154
+Sambucus_racemosa	LC690223.1	03-MAY-2022	599	Japan: Miyazaki	primary	rbcL	31.8903	131.2165	0.000200736490354154
+Sambucus_racemosa	LC690146.1	03-MAY-2022	593	Japan: Miyazaki	primary	rbcL	31.88	131.2429	0.000202231936223001
+Sambucus_racemosa	LC689798.1	03-MAY-2022	599	Japan: Yamanashi	primary	rbcL	35.783	138.8225	0.000200736490354154
+Sambucus_racemosa	MG224089.1	26-DEC-2017	551	Canada: Quebec, Montreal, Island of Montreal, Parc du Bois-de-Liesse, pres d'un sentier de gravier	primary	rbcL	45.496	-73.78	0.000213515533255044
+Sambucus_racemosa	KX678837.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.0449	-125.501	0.000213128729752771
+Sambucus_racemosa	KX678439.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	rbcL	49.182	-119.091	0.000213128729752771
+Sambucus_racemosa	KX678155.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Chute Lake Road, near Naramata	primary	rbcL	49.6915	-119.536	0.000213128729752771
+Sambucus_racemosa	KJ593677.1	17-MAR-2015	553	USA: Wisconsin, Green Bay	primary	rbcL	44.527	-87.933	0.000213032378609121
+Sambucus_racemosa	KJ841550.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Steep south-facing slope up from Boundary Trail	primary	rbcL	45.541	-73.148	0.000213128729752771
+Sambucus_racemosa	OQ189675.1	13-JUN-2023	716	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0.000256540233178322
+Sambucus_racemosa	LC693917.1	03-MAY-2022	599	Japan: Niigata	secondary	rbcL	37.6452283	138.7669125	0.000200736490354154
+Sambucus_racemosa	MW011010.1	27-JUL-2021	553	USA: Wisconsin	secondary	rbcL	44.4308975	-89.6884637	0.00201413721336278
+Sambucus_racemosa	HG765084.1	18-NOV-2013	688	Italy	secondary	rbcL	42.6384261	12.674297	0.000206117499751513

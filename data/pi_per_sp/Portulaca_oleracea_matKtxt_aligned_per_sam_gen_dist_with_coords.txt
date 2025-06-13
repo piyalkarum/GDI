@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Portulaca_oleracea	OM039354.1	19-JUN-2022	843	United Arab Emirates: Sharjah	primary	matK	25.278	55.8277	0.0296370852603917
+Portulaca_oleracea	MK228100.1	31-DEC-2019	904	Bahrain	primary	matK	26.211495	50.587557	0.0302743281318037
+Portulaca_oleracea	HQ593395.1	09-NOV-2011	863	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., NW end of plowed area N of E-pond	primary	matK	44.031	-79.536	0.0303205653180607
+Portulaca_oleracea	OQ390970.1	24-MAY-2023	815	Peru	secondary	matK	-6.8699697	-75.0458515	0.125071611395029
+Portulaca_oleracea	MT918092.1	03-MAR-2023	782	China	secondary	matK	35.000074	104.999927	0.0295428399380639
+Portulaca_oleracea	MN006723.1	21-JAN-2020	678	India	secondary	matK	22.3511148	78.6677428	0.164776185793885
+Portulaca_oleracea	MG220675.1	21-JAN-2018	796	Canada: Ontario, Rouge National Urban Park, Sector 7	secondary	matK	43.72634945	-77.7101179040839	0.0305458533294337
+Portulaca_oleracea	DQ855850.1	12-SEP-2006	1530	Switzerland	secondary	matK	46.7985624	8.2319736	0.0300187471206528
+Portulaca_oleracea	HM851013.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.0340048154973138
+Portulaca_oleracea	MH660002.1	01-AUG-2020	803	China	secondary	matK	NA	NA	0.0299131463565333

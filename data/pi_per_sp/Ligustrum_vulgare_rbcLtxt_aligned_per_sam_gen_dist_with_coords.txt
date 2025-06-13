@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ligustrum_vulgare	KP644045.1	08-DEC-2015	542	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.892	-78.146	0.00369308525799013
+Ligustrum_vulgare	KT695578.1	29-SEP-2015	544	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.00143350698212864
+Ligustrum_vulgare	JN891799.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.43	-4.03	0.0014350143501435
+Ligustrum_vulgare	HQ619759.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00204594828458616
+Ligustrum_vulgare	FJ862059.1	02-MAY-2009	670	Italy: Sardinia Island	secondary	rbcL	40.0615028	9.0975894	0.00203051837545156
+Ligustrum_vulgare	KX162971.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00141142884408222
+Ligustrum_vulgare	KJ204365.1	29-JAN-2015	540	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00144415377790016
+Ligustrum_vulgare	JN893020.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.0014350143501435
+Ligustrum_vulgare	JN890610.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00574462993700569
+Ligustrum_vulgare	JN890556.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0014350143501435

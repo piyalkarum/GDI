@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctophila_fulva	MF597174.1	17-JUL-2018	774	Canada: Northwest Territories, 128 mi SW of Inuvik on Dempster Hwy (5) towards Eagle Plains. Margin of small pond with Eriophorum, Carex aquatilis, and Arctophila	primary	matK	67.289	-135.051	0.00109827555250833
+Arctophila_fulva	MF597173.1	17-JUL-2018	805	Canada: Northwest Territories, Disturbed ground in yard of transportation company in Inuvik with Carex aquatilis, Beckmannia, and Hordeum	primary	matK	68.376	-133.768	0.00021464055929829
+Arctophila_fulva	MG216972.1	24-JAN-2018	770	Canada: Northwest Territories, Banks Island, beside Thompson River	primary	matK	73	-119	0.000218018696279566
+Arctophila_fulva	KC474075.1	25-OCT-2013	729	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 3 km ESE of junction with Little Hornaday River, NE bank, between willow grove and sand hills to east	primary	matK	68.4333	-121.964	0.000230861959257021
+Arctophila_fulva	KC474074.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Cambridge Bay, 0.5-1.0 km northeast of Cambridge Bay, along road to Mt. Pelly	primary	matK	69.172	-105.075	0.000216611437083878
+Arctophila_fulva	KC474073.1	25-OCT-2013	774	Canada: Northwest Territories, Mainland Northwest Territories, Nettilling Lake Burwash Bay	primary	matK	66.033	-71.2	0.000217459393394682
+Arctophila_fulva	JN966108.1	27-OCT-2012	779	Canada: Manitoba	primary	matK	58.928395983416	-93.20433676346	0.000216336083791837
+Arctophila_fulva	JN966107.1	27-OCT-2012	779	Canada: Manitoba	primary	matK	59.035593887735	-93.6671521574689	0.00142296995194061
+Arctophila_fulva	JN966106.1	27-OCT-2012	779	Canada: Manitoba, Churchill, 18 km E Churchill, Halfway Point, Raised beach ridge sloping down to shore, grassy area above the beach	primary	matK	58.63	-93.819	0.000216336083791837
+Arctophila_fulva	KM523847.1	12-JUL-2015	751	Canada: Northwest Territories	secondary	matK	64.6669417116539	-117.811913057137	0.000115740740740741
+Arctophila_fulva	KM523846.1	12-JUL-2015	768	Canada: Nunavut	secondary	matK	65.0377727	-92.5540791	0.000113071008593397
+Arctophila_fulva	KM523845.1	12-JUL-2015	757	Canada: Northwest Territories	secondary	matK	64.9204511609517	-117.927638745044	0.000110083663584324
+Arctophila_fulva	LR606888.1	25-JAN-2021	2105	Russia	secondary	matK	64.6863136	97.7453061	0.00021464055929829

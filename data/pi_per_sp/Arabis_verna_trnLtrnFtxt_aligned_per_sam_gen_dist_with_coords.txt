@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_verna	KF547671.1	09-SEP-2014	384	Israel: Wadi Yallah (Carmel)	primary	trnL-trnF	32.75	35	0
+Arabis_verna	KF547670.1	09-SEP-2014	384	Turkey: Prov. Mersin,Gulnar	primary	trnL-trnF	36.3333	33.4	0
+Arabis_verna	KF547669.1	09-SEP-2014	384	Lebanon: Gouv. Bekaa,Rachaiya	primary	trnL-trnF	33.5019	35.8398	0
+Arabis_verna	KF547668.1	09-SEP-2014	384	Syria: Hamidiyah, Nusariy Mts.	primary	trnL-trnF	35.7	36.88	0
+Arabis_verna	KF547667.1	09-SEP-2014	384	Italy: Sicily, Prov. Trapani,Erice	primary	trnL-trnF	38.0365	12.5837	0
+Arabis_verna	KC412340.1	31-DEC-2013	384	Croatia: Istria County,Pula	primary	trnL-trnF	44.895	13.858	0
+Arabis_verna	HQ646688.1	31-DEC-2011	384	Spain: Prov. Malaga, Antequera, Torcal de Antequera	primary	trnL-trnF	36.95	-4.55	0

@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_purpurea	MG221132.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	46.1162181310139	-73.8115218138774	0.0153846153846154
+Salix_purpurea	MG220916.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	46.1542289240154	-74.1688958606173	0.0153846153846154
+Salix_purpurea	MG220851.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	45.1014956413589	-74.3823006621189	0.0153846153846154
+Salix_purpurea	MG220820.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	45.4132109144436	-72.7445092299189	0.0153846153846154
+Salix_purpurea	MG220769.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	45.5233213458362	-73.472847987383	0.0153846153846154
+Salix_purpurea	MG220706.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	45.7525459642045	-73.5815973909565	0.0153846153846154
+Salix_purpurea	MG220699.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	45.4960424398884	-73.7265784379024	0.0153846153846154
+Salix_purpurea	MG220696.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	45.7506565490354	-73.0884731294367	0.0153846153846154
+Salix_purpurea	MG220625.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	46.214115650366	-73.5047944432352	0.0153846153846154
+Salix_purpurea	MG220616.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	44.9853307989884	-73.0297880775343	0.0153846153846154
+Salix_purpurea	KU556661.1	06-AUG-2016	827	Egypt	primary	matK	30.0303	31.1956	0.200549239191287
+Salix_purpurea	JN893908.1	07-MAR-2012	842	United Kingdom: Glamorgan	primary	matK	51.49	-3.27	0.0154851684263449
+Salix_purpurea	JN894735.1	07-MAR-2012	848	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0155899925317401
+Salix_purpurea	JN894734.1	07-MAR-2012	835	United Kingdom: Anglesey	secondary	matK	53.2782257	-4.331344	0.0156279243870485

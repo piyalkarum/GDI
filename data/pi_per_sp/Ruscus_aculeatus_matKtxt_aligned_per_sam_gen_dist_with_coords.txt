@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ruscus_aculeatus	OL690146.1	08-DEC-2021	845	USA: Missouri, Missouri Botanical Garden, Shoenberg Temperate House. Source, Giardini Botanico Hanbury (Unknown). MOBOT LCMS Accesion # 1989-4672-2	primary	matK	38.6145	-90.2591	0.00252507637814391
+Ruscus_aculeatus	JN895027.1	07-MAR-2012	826	United Kingdom: Glamorgan	primary	matK	51.44	-3.6	0.00254631393114857
+Ruscus_aculeatus	KM527363.1	15-SEP-2015	818	Croatia	secondary	matK	45.3658443	15.6575209	0.00768038950782738
+Ruscus_aculeatus	HM850496.1	23-JUL-2011	831	Portugal	secondary	matK	39.6621648	-8.1353519	0.0053177751309432
+Ruscus_aculeatus	HE966987.1	18-SEP-2012	755	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00274093390615913
+Ruscus_aculeatus	FN668804.1	27-APR-2010	807	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00307010230404802

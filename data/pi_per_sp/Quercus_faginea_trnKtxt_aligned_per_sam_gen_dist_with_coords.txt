@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_faginea	OQ990817.1	13-AUG-2023	624	Spain: Andalucia	secondary	trnK	37.4492555968149	-4.12000484490898	0
+Quercus_faginea	OQ990816.1	13-AUG-2023	624	Spain: Andalucia	secondary	trnK	36.6772900954419	-4.79189547307748	0
+Quercus_faginea	HE583627.1	04-SEP-2011	693	Portugal:Faro	secondary	trnK	37.0162727	-7.9351771	0
+Quercus_faginea	HE583626.1	04-SEP-2011	693	Algeria:Tlemcen	secondary	trnK	34.881789	-1.316699	0

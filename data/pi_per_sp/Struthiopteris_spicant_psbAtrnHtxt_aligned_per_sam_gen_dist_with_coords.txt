@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Struthiopteris_spicant	OQ320388.1	14-JUN-2023	448	Latvia	secondary	psbA-trnH	56.8406494	24.7537645	0.000318877551020408
+Struthiopteris_spicant	MH644160.1	31-JUL-2022	557	Spain: Salamanca, Batuecas	secondary	psbA-trnH	40.3890802503149	-6.90477915767395	0.00185773366797347
+Struthiopteris_spicant	MH644158.1	31-JUL-2022	557	Spain: Salamanca, Batuecas	secondary	psbA-trnH	39.7459677956996	-6.06702006440514	0.000256476019492178
+Struthiopteris_spicant	MH644157.1	31-JUL-2022	557	Spain: Asturias, Paladeperre	secondary	psbA-trnH	43.378035730911	-6.07690411243954	0.000256476019492178
+Struthiopteris_spicant	MH644156.1	31-JUL-2022	557	Spain: Burgos, Sierra de San Millan	secondary	psbA-trnH	42.1608671	-3.3674654	0.000256476019492178
+Struthiopteris_spicant	MH644155.1	31-JUL-2022	557	Spain: Asturias, Paladeperre	secondary	psbA-trnH	42.8777939454359	-6.68769663333974	0.000256476019492178
+Struthiopteris_spicant	MH644154.1	31-JUL-2022	557	Spain: Asturias, Luarca	secondary	psbA-trnH	43.5439003	-6.5357408	0.000256476019492178
+Struthiopteris_spicant	MH644153.1	31-JUL-2022	557	Spain: Galicia, Pontevedra	secondary	psbA-trnH	42.6075172	-8.4714942	0.000256476019492178

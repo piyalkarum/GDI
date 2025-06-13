@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alnus_incana	MG247701.1	21-JAN-2018	552	Canada: Nova Scotia, Queens County, Ponhook Lake, Grassy Point	primary	rbcL	44.29	-64.876	0.0026195187162259
+Alnus_incana	MF349622.1	21-SEP-2017	553	USA: District of Columbia; United States Botanic Garden, 100 Maryland Ave SW.	primary	rbcL	38.887	-77.012	0.0026195187162259
+Alnus_incana	KX679117.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Fairview Rd., travelling from Cawston to Oliver	primary	rbcL	49.218	-119.682	0.0026195187162259
+Alnus_incana	KX678819.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail near Link Lake Forest Recreation Site	primary	rbcL	49.7109	-120.231	0.0026195187162259
+Alnus_incana	KX678262.1	29-APR-2017	516	Canada: British Columbia, East Kootenay Regional District, near Invermere, Panorama Rd, campsite pulloff near river	primary	rbcL	50.4437	-116.259	0.00267052157061004
+Alnus_incana	KJ593203.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.568	-88.787	0.0026195187162259
+Alnus_incana	KJ593202.1	17-MAR-2015	553	USA: Wisconsin, Blackwell	primary	rbcL	45.552	-88.577	0.0026195187162259
+Alnus_incana	KJ841090.1	04-NOV-2014	509	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Botany Bay on south side of Lac Hertel	primary	rbcL	45.544	-73.145	0.00225615769212414
+Alnus_incana	MN531404.1	09-MAR-2020	485	Germany: Grosshansdorf	secondary	rbcL	53.6635561	10.2835977	0.00395985648188387
+Alnus_incana	KX966374.1	01-NOV-2017	525	India	secondary	rbcL	22.3511148	78.6677428	0.0224993536620046
+Alnus_incana	FJ844583.1	12-APR-2010	1357	USA: Arnold Arboretum	secondary	rbcL	42.299438	-71.1226049	0.00159944969676197
+Alnus_incana	KJ204296.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.0026195187162259
+Alnus_incana	HM849757.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00445820536838057

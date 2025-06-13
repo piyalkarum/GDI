@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_pygmaeus	KC475670.1	25-OCT-2013	764	Canada: Northwest Territories, Victoria Island, Minto Inlet, Sandy bank of Kuujjua River south Fish lake, 17 km SE of Minto Inlet	primary	matK	71.1119	-116.106	0.000654450261780105
+Ranunculus_pygmaeus	KC475669.1	25-OCT-2013	679	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	matK	74.5333	-82.7833	0.000736377025036819
+Ranunculus_pygmaeus	KC475668.1	25-OCT-2013	677	Canada: Northwest Territories, Banks Island, Lennie River, S-facing steep slope above river	primary	matK	72.2842	-125.041	0.000738552437223043
+Ranunculus_pygmaeus	KP687310.1	20-OCT-2015	1717	Russia: Taymyr	secondary	matK	74.4787053	101.6575086	0.00135589545316733
+Ranunculus_pygmaeus	KP687309.1	20-OCT-2015	1725	Canada: British Columbia	secondary	matK	55.001251	-125.002441	0.00135589545316733

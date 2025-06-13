@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jasione_montana	JN895310.1	07-MAR-2012	466	United Kingdom: Breconshire	primary	matK	51.84	-3.71	0.301392138814892
+Jasione_montana	MK555936.1	22-SEP-2019	229	Poland	secondary	matK	52.2464203819183	18.1857661401005	0.555523524489701
+Jasione_montana	MK555845.1	22-SEP-2019	386	Poland	secondary	matK	51.7763155330141	19.306994220318	0.608134282373376
+Jasione_montana	MK555707.1	22-SEP-2019	366	Poland	secondary	matK	51.544591193797	19.202042316875	0.305636578092171
+Jasione_montana	JN896226.1	07-MAR-2012	760	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.303107648493044

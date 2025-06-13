@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_coronopus	MH158759.1	06-JUN-2018	384	Turkey: Antalya, north of Beskonak	secondary	psbA-trnH	36.8864752	30.7029585	0
+Plantago_coronopus	MH158757.1	06-JUN-2018	384	Morocco	secondary	psbA-trnH	28.3347722	-10.3713379	0
+Plantago_coronopus	MH158756.1	06-JUN-2018	384	Spain: Andalusia, Province Cadiz, Algodonales Puerto de la Vieja (TF)	secondary	psbA-trnH	37.4645318	-5.3443621	0
+Plantago_coronopus	MH158755.1	06-JUN-2018	384	Montenegro: Budva	secondary	psbA-trnH	42.2885656	18.8419505	0
+Plantago_coronopus	MH158754.1	06-JUN-2018	384	Spain: Andalusia, Punta Entinas	secondary	psbA-trnH	36.705762	-2.6627621	0
+Plantago_coronopus	MH158751.1	06-JUN-2018	384	Algeria: Djelfa, Oued Mehla	secondary	psbA-trnH	34.671359	3.254037	0
+Plantago_coronopus	MH158758.1	06-JUN-2018	384	South Africa	secondary	psbA-trnH	-33.928992	18.417396	0
+Plantago_coronopus	MH158753.1	06-JUN-2018	384	Spain	secondary	psbA-trnH	37.0675509	-2.52946955211445	0

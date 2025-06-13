@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_gasparrinii	HF547614.1	07-JAN-2013	221	Italy:Ischia Island	secondary	ITS	40.5281425528221	14.0152293936836	0.409756097560976
+Genista_gasparrinii	HF547603.1	07-JAN-2013	239	Italy:Ischia Island	secondary	ITS	41.4046886409298	13.3329509384504	0.409756097560976
+Genista_gasparrinii	AJ402873.1	04-JAN-2002	221	Italy: Sicily	secondary	ITS	36.7893725509103	13.6669144322415	0.409756097560976
+Genista_gasparrinii	AJ402872.1	04-JAN-2002	239	Italy: Sicily	secondary	ITS	37.4463002981309	13.5913808546949	0.409756097560976

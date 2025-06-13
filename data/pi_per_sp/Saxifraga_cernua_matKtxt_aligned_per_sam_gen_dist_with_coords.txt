@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_cernua	MZ400426.1	07-DEC-2021	586	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00363255370407549
+Saxifraga_cernua	KC475829.1	25-OCT-2013	743	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Small cliff south of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	matK	68.703	-112.653	0.00363979570958479
+Saxifraga_cernua	KC475828.1	25-OCT-2013	631	Canada: Northwest Territories, Melville Island, McCormick Inlet, ca. 10 km SW of head of inlet at river delta	primary	matK	75.79	-112.44	0.00310086891333396
+Saxifraga_cernua	KC475827.1	25-OCT-2013	763	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Upper slope of Lookout Hill	primary	matK	68.689	-122.283	0.002205292290211
+Saxifraga_cernua	KC475826.1	25-OCT-2013	763	Canada: Northwest Territories, Banks Island, Aulavik National Park	primary	matK	73.45	-119.8	0.002205292290211
+Saxifraga_cernua	KC475825.1	25-OCT-2013	763	Canada: Nunavut, Axel Heiberg Island, Bukken River headwaters	primary	matK	80.517	-92.05	0.00264979864450009
+Saxifraga_cernua	KC475824.1	25-OCT-2013	763	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. The Bluff, approximately 6 km NW of Sanikiluaq, halfway up west peninsula	primary	matK	56.647	-79.364	0.00264979864450009
+Saxifraga_cernua	KC475823.1	25-OCT-2013	763	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.247	-116.513	0.00264979864450009
+Saxifraga_cernua	KC475822.1	25-OCT-2013	743	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	matK	76.56	-118.88	0.00270271719051012
+Saxifraga_cernua	MK926397.1	14-JAN-2020	871	United Kingdom	secondary	matK	54.1485972725905	-3.70125987977431	0.00219431306917105
+Saxifraga_cernua	MK926175.1	14-JAN-2020	861	Svalbard	secondary	matK	78.7198519	20.3493328	0.00219431306917105
+Saxifraga_cernua	MK925988.1	14-JAN-2020	871	Russia	secondary	matK	64.6863136	97.7453061	0.00219431306917105
+Saxifraga_cernua	MK925586.1	14-JAN-2020	871	United Kingdom	secondary	matK	54.0875289217324	-3.82901955947928	0.00219431306917105

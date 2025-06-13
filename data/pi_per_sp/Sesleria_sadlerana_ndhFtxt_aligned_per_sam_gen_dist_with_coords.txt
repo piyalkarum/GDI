@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sesleria_sadlerana	KY910651.1	02-MAY-2018	1784	Poland	secondary	ndhF	52.9629337452831	19.550656171156	0.00579537099680004
+Sesleria_sadlerana	KY910650.1	02-MAY-2018	1784	Slovakia	secondary	ndhF	49.367311100678	20.2951688315149	0.00542146933293763
+Sesleria_sadlerana	KY910649.1	02-MAY-2018	1787	Slovakia	secondary	ndhF	48.1123977975839	19.9102919187768	0.00542157412600486
+Sesleria_sadlerana	KY910648.1	02-MAY-2018	1788	Poland	secondary	ndhF	51.8191020075994	18.7680260773745	0.00542157412600486

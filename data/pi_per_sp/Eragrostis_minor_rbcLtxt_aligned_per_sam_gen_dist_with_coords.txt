@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eragrostis_minor	OL434837.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.119	-81.135	0.000633740988512285
+Eragrostis_minor	MF596768.1	28-FEB-2018	578	Canada: British Columbia, Osoyoos, roadside near Main Street and Tamarack Street.	primary	rbcL	49.8409231028989	-119.407692185699	0.00192971038479343
+Eragrostis_minor	MF596767.1	28-FEB-2018	603	Canada: British Columbia, Port Coquitlam, along railway tracks at corner of Lougheed Highway and Pitt River Road	primary	rbcL	48.7755720404287	-122.511441956348	0.000770590477701843
+Eragrostis_minor	MF596766.1	28-FEB-2018	603	Canada: British Columbia, Port Coquitlam, gravel lot along Oxford connector that parallels CPR railway along Lougheed Highway, just SE of Shaughnessy Street	primary	rbcL	49.8606153207778	-123.432188575713	0.000770590477701843
+Eragrostis_minor	MG228102.1	23-JAN-2018	603	Canada: British Columbia, Port Coquitlam, along railway tracks at corner of Lougheed Highway and Pitt River Road	primary	rbcL	49.2224767836493	-123.360996060408	0.000770590477701843
+Eragrostis_minor	MG227222.1	23-JAN-2018	603	Canada: British Columbia, Port Coquitlam, gravel lot along Oxford connector that parallels CPR railway along Lougheed Highway, just SE of Shaughnessy Street	primary	rbcL	48.8034989319853	-123.271634554196	0.000770590477701843
+Eragrostis_minor	MG227069.1	23-JAN-2018	578	Canada: British Columbia, Osoyoos, roadside near Main Street and Tamarack Street.	primary	rbcL	48.5280385190445	-118.411319168771	0.00192971038479343
+Eragrostis_minor	MG226934.1	23-JAN-2018	553	Canada: Ontario, Little Love Grass, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	0.000633740988512285
+Eragrostis_minor	MG226387.1	23-JAN-2018	552	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	rbcL	43.529	-80.229	0.000633740988512285
+Eragrostis_minor	LN907939.1	14-JAN-2016	1353	Madagascar:Toliara, Itampolo	primary	rbcL	-24.2226	43.6857	0.000638142278463476
+Eragrostis_minor	MT931791.1	03-MAR-2023	569	China	secondary	rbcL	34.8855179281652	105.31024534276	0.000838298329996275
+Eragrostis_minor	KP711260.1	31-MAR-2016	1096	China	secondary	rbcL	34.6131674427265	105.791126229581	0.00374894860029834
+Eragrostis_minor	KM538830.1	20-JUN-2015	743	South Korea	secondary	rbcL	36.638392	127.6961188	0.00141977202560098
+Eragrostis_minor	KP056863.1	28-FEB-2015	1096	South Korea: Gangneung-si, Gangwon-do	secondary	rbcL	37.7437978	128.9300798	0.000626621379144831
+Eragrostis_minor	KP056861.1	28-FEB-2015	1096	South Korea: Iksan-si, Jeollabuk-do	secondary	rbcL	35.9479291	126.9578025	0.00229512719667736
+Eragrostis_minor	KP056859.1	28-FEB-2015	1096	South Korea: Uiwang-si, Gyeonggi-do	secondary	rbcL	37.3449082	126.9689861	0.000626621379144831
+Eragrostis_minor	HM849978.1	23-JUL-2011	1324	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00310494215682288
+Eragrostis_minor	AM849338.1	09-JAN-2008	1342	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.000535453414554465

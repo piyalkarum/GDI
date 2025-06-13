@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pimpinella_saxifraga	MG223951.1	26-DEC-2017	552	Canada: Gobden, Ross Twp., Renfrew Co., ON	primary	rbcL	45.6667	-77.25	0.000955508484964378
+Pimpinella_saxifraga	MG223051.1	26-DEC-2017	552	Canada: Citadelle de Quebec, Quebec	primary	rbcL	51.8	-128.25	0.000955508484964378
+Pimpinella_saxifraga	MG221838.1	26-DEC-2017	552	Canada: Luther Marsh Conservation Area, Wellington Co., ON	primary	rbcL	43	-80.4333	0.000955508484964378
+Pimpinella_saxifraga	JN891330.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	52.09	-3.93	0.000976027835341674
+Pimpinella_saxifraga	KJ746248.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00400919500206135
+Pimpinella_saxifraga	FR865128.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.00244873038581022
+Pimpinella_saxifraga	JN892078.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000976027835341674

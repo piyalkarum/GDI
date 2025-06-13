@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Muscari_neglectum	KX678011.1	29-APR-2017	552	Canada: British Columbia, Capital Regional District, Vancouver Island, Victoria, Uplands Park	primary	rbcL	48.44	-123.296	0
+Muscari_neglectum	MW960350.1	21-AUG-2022	1346	Iran	secondary	rbcL	32.6475314	54.5643516	0
+Muscari_neglectum	MK924967.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0264422258625	-4.2482695202166	0
+Muscari_neglectum	MK924867.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1206449386477	-4.26993326512651	0

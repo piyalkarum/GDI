@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_oederi	MT929873.1	03-MAR-2023	821	China	secondary	matK	35.5880211823473	105.441673469277	0.1359675345797
+Pedicularis_oederi	MN433418.1	30-NOV-2021	710	China	secondary	matK	34.6624331275179	105.245334414134	0.139769452449568
+Pedicularis_oederi	MN433417.1	30-NOV-2021	710	China	secondary	matK	34.3353006337168	105.302531891613	0.139769452449568
+Pedicularis_oederi	KJ749811.1	24-FEB-2015	1123	USA: Quad Creek, Beartooth Plateau, Carbon County, MT	secondary	matK	45.0290344	-109.4165754	0.487459118788963
+Pedicularis_oederi	HG423987.1	09-APR-2014	1018	USA:Alaska	secondary	matK	64.4459613	-149.680909	0.486725218661698
+Pedicularis_oederi	JF955249.1	13-DEC-2011	755	China: Tibet	secondary	matK	29.3043161054369	90.701963144996	0.139546684709066
+Pedicularis_oederi	JF955248.1	13-DEC-2011	755	China: Tibet	secondary	matK	30.4350382335592	90.851901341869	0.139546684709066
+Pedicularis_oederi	JF955247.1	13-DEC-2011	755	China: Sichuan	secondary	matK	53.2780787	-6.2107338	0.139546684709066
+Pedicularis_oederi	JF955246.1	13-DEC-2011	755	China: Yunnan	secondary	matK	25	102	0.139546684709066

@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helminthotheca_aculeata	LN830811.1	07-MAR-2016	637	Italy:Sicilian Region, Chiusa Sclafani	primary	ITS1	37.7482242665965	12.8772019671477	0.0126896912611198
+Helminthotheca_aculeata	LN830810.1	07-MAR-2016	637	Italy:Sicilian Region, Chiusa Sclafani	primary	ITS1	38.1068423808144	14.1800292594958	0.0141287284144427
+Helminthotheca_aculeata	LN830809.1	07-MAR-2016	637	Italy:Sicilian Region, Castellaccio W of Monreale	primary	ITS1	37.4828638496075	12.6436978129381	0.0141287284144427
+Helminthotheca_aculeata	LN830808.1	07-MAR-2016	637	Italy:Sicilian Region, Castellaccio W of Monreale	primary	ITS1	38.5066361433849	12.2659043399435	0.0141287284144427
+Helminthotheca_aculeata	LN830807.1	07-MAR-2016	637	Italy:Sicilian Region, Monte Cofano NW of Custonaci	primary	ITS1	38.1	12.67	0.0156985871271586
+Helminthotheca_aculeata	LN830805.1	07-MAR-2016	637	Algeria:Tissemsilt Province (Tell Atlas), Theniet El Had National Park	primary	ITS1	35.85	1.98	0.0153061224489796
+Helminthotheca_aculeata	LN830800.1	07-MAR-2016	637	Morocco:Rabat-Sale-Zemmour-Zaer Region (Middle Atlas), Montes de Zaian between Tiddas and Oulmes	primary	ITS1	32.7543586394459	-6.26676308160823	0.0153061224489796
+Helminthotheca_aculeata	LN830799.1	07-MAR-2016	637	Morocco:Rabat-Sale-Zemmour-Zaer Region (Middle Atlas), Montes de Zaian between Tiddas and Oulmes	primary	ITS1	33.6523212124475	-5.84972699411537	0.0155677655677656
+Helminthotheca_aculeata	LN830798.1	07-MAR-2016	637	Morocco:Meknes-Tafilalet Region (Middle Atlas), S of Bou Fekrane on road to Jemaa de Mrirt	primary	ITS1	34.0421636903584	-5.01418919043012	0.0164835164835165
+Helminthotheca_aculeata	LN830797.1	07-MAR-2016	637	Morocco:Meknes-Tafilalet Region (Middle Atlas), S of Bou Fekrane on road to Jemaa de Mrirt	primary	ITS1	33.1484930424754	-6.03685116402601	0.0158294086865515
+Helminthotheca_aculeata	LN830796.1	07-MAR-2016	637	Morocco:Fes-Boulemane Region (Middle Atlas), Ribate El Kheir	primary	ITS1	33.6089726794562	-4.75392296466646	0.0155677655677656
+Helminthotheca_aculeata	LN830795.1	07-MAR-2016	637	Morocco:Fes-Boulemane Region (Middle Atlas), Ribate El Kheir	primary	ITS1	34.2354863593176	-4.69445812861568	0.0170068027210884
+Helminthotheca_aculeata	LN830806.1	07-MAR-2016	637	Algeria	secondary	ITS1	36.78391455	5.01624028585713	0.0128205128205128

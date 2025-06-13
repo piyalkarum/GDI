@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fallopia_dumetorum	ON586885.1	06-JUN-2023	1138	United Kingdom: England, Surrey, Wisley (cultivated)	secondary	matK	51.4510191	-0.993491440497516	0.00781515460414543
+Fallopia_dumetorum	MK925864.1	14-JAN-2020	770	Denmark	secondary	matK	55.670249	10.3333283	0.0104347826086957
+Fallopia_dumetorum	MK925814.1	14-JAN-2020	750	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.0107719928186715
+Fallopia_dumetorum	AM503813.2	31-AUG-2007	984	Italy:Trentino	secondary	matK	46.1029536	11.1297425	0.0290219300315125

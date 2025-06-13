@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagittaria_trifolia	LC219328.1	16-MAR-2017	618	China:Zhejiang, East Tiaoxi River	primary	matK	30.3855	119.9648	0.000267522739432852
+Sagittaria_trifolia	LC219131.1	16-MAR-2017	837	China:Zhejiang, East Tiaoxi River	primary	matK	30.9412	120.126	0.000366733537465245
+Sagittaria_trifolia	LC541402.1	14-OCT-2020	841	Japan: Yamagata, Tainai	secondary	matK	37.898932	139.6320696	0.0013346003589906
+Sagittaria_trifolia	JF956183.1	13-DEC-2011	738	China: Heilongjiang Sheng	secondary	matK	48.0000047	127.999992	0.000387146728610143
+Sagittaria_trifolia	JF956182.1	13-DEC-2011	738	China: Shanxi	secondary	matK	37	112	0.00162253628956835
+Sagittaria_trifolia	JF956181.1	13-DEC-2011	738	China: Anhui	secondary	matK	32	117	0.000387146728610143
+Sagittaria_trifolia	JF956180.1	13-DEC-2011	738	China: Guizhou	secondary	matK	26.8155875632815	106.142140316199	0.000387146728610143
+Sagittaria_trifolia	JF956179.1	13-DEC-2011	738	China: Guizhou	secondary	matK	27.4622943376397	106.758223243799	0.000387146728610143

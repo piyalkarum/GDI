@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_incarnata	JF694214.1	21-AUG-2011	1219	Spain: Salamanca, Pelabravo	secondary	matK	40.9366792	-5.5790972	0.00533223954060705
+Linaria_incarnata	JF694213.1	21-AUG-2011	1222	Spain: Badajoz, Alburquerque	secondary	matK	39.2190169	-6.9999295	0.00531914893617021
+Linaria_incarnata	JF694212.1	21-AUG-2011	1222	Morocco: Sale	secondary	matK	34.044889	-6.814017	0.00552775946584963
+Linaria_incarnata	JF694210.1	21-AUG-2011	1222	Morocco: Kenitra-Khemisset	secondary	matK	33.830287	-6.072605	0.00614201090480915
+Linaria_incarnata	JF694211.1	21-AUG-2011	1222	Spain	secondary	matK	39.4371037	3.01033027933501	0.00798325476732961

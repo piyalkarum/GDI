@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cormus_domestica	JN895827.1	07-MAR-2012	832	United Kingdom: Gloucestershire	primary	matK	51.64	-2.64	0.00179379905237464
+Cormus_domestica	HE967002.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.000937832025182966
+Cormus_domestica	JN894461.1	07-MAR-2012	794	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.000879585396218767
+Cormus_domestica	JN894272.1	07-MAR-2012	762	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0018205635621987

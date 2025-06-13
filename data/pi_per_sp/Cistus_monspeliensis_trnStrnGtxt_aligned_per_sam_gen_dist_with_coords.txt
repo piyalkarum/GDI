@@ -1,0 +1,156 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cistus_monspeliensis	MK805883.1	16-MAY-2020	614	Spain: Tenerife, Vilaflor	secondary	trnS-trnG	28.4884621396346	-16.4460816529612	0.00564234995666515
+Cistus_monspeliensis	MK805882.1	16-MAY-2020	615	Spain: Tenerife, Vilaflor	secondary	trnS-trnG	27.7903985101152	-17.2598248303785	0.00450826426325039
+Cistus_monspeliensis	MK805881.1	16-MAY-2020	610	Spain: Tenerife, Vilaflor	secondary	trnS-trnG	27.7434096454086	-16.5664617571305	0.00535162711394012
+Cistus_monspeliensis	MK805880.1	16-MAY-2020	607	Spain: Tenerife, Igueste de San Andres - Las Casillas	secondary	trnS-trnG	28.2935785	-16.6214471211441	0.00357744996094648
+Cistus_monspeliensis	MK805879.1	16-MAY-2020	611	Spain: Tenerife, Erjos	secondary	trnS-trnG	28.4651439443255	-16.3449315145984	0.00270100234069319
+Cistus_monspeliensis	MK805878.1	16-MAY-2020	614	Spain: Tenerife, Erjos	secondary	trnS-trnG	27.9533072147053	-15.8929182098195	0.00261432900763963
+Cistus_monspeliensis	MK805877.1	16-MAY-2020	613	Spain: Tenerife, Barranco del Rey	secondary	trnS-trnG	28.2954540233326	-17.0270069779565	0.00451760554892291
+Cistus_monspeliensis	MK805876.1	16-MAY-2020	613	Spain: Tenerife, Barranco del Rey	secondary	trnS-trnG	27.6874642474838	-16.1477429172877	0.00417857769665971
+Cistus_monspeliensis	MK805875.1	16-MAY-2020	612	Spain: Tenerife, Barranco del Rey	secondary	trnS-trnG	28.5279753818326	-16.5067215640263	0.00411933021366997
+Cistus_monspeliensis	MK805874.1	16-MAY-2020	613	Spain: La Palma, Tijarafe - road to El Topo	secondary	trnS-trnG	28.3466771077129	-17.0570516316981	0.0050031293093728
+Cistus_monspeliensis	MK805873.1	16-MAY-2020	616	Spain: La Palma, Fuencaliente	secondary	trnS-trnG	29.0148344934303	-18.2485895843114	0.00270139424048551
+Cistus_monspeliensis	MK805872.1	16-MAY-2020	616	Spain: La Palma, Fuencaliente	secondary	trnS-trnG	28.2838546546779	-17.7406429919924	0.00270139424048551
+Cistus_monspeliensis	MK805871.1	16-MAY-2020	615	Spain: La Palma, Fuencaliente	secondary	trnS-trnG	27.6347931782486	-17.9958678008601	0.00270362584339306
+Cistus_monspeliensis	MK805870.1	16-MAY-2020	612	Spain: La Palma, Barranco Garome	secondary	trnS-trnG	28.2697588167608	-17.3140565780251	0.00259695775466801
+Cistus_monspeliensis	MK805869.1	16-MAY-2020	613	Spain: La Palma, Barlovento	secondary	trnS-trnG	28.6744184014682	-17.7473588103467	0.0026174155260933
+Cistus_monspeliensis	MK805868.1	16-MAY-2020	614	Spain: La Palma, Barlovento	secondary	trnS-trnG	28.5943786827698	-17.8843865299849	0.00261432900763963
+Cistus_monspeliensis	MK805867.1	16-MAY-2020	612	Spain: La Palma, Barlovento	secondary	trnS-trnG	28.7892927844919	-18.3612096101739	0.00262170713140099
+Cistus_monspeliensis	MK805866.1	16-MAY-2020	613	Spain: La Gomera, Roque Agando - Degollada Peraza	secondary	trnS-trnG	27.3718204269632	-17.5701026623883	0.00410062891676825
+Cistus_monspeliensis	MK805865.1	16-MAY-2020	613	Spain: La Gomera, Roque Agando - Degollada Peraza	secondary	trnS-trnG	28.1716569809306	-18.1529625197047	0.00451526197674254
+Cistus_monspeliensis	MK805864.1	16-MAY-2020	615	Spain: La Gomera, Roque Agando - Degollada Peraza	secondary	trnS-trnG	27.6291268472631	-17.3853559909285	0.00270164219916567
+Cistus_monspeliensis	MK805863.1	16-MAY-2020	662	Spain: La Gomera, Arure (850 m)	secondary	trnS-trnG	27.4805568018831	-17.3356912745482	0.00302854389743506
+Cistus_monspeliensis	MK805862.1	16-MAY-2020	613	Spain: La Gomera, Arure (850 m)	secondary	trnS-trnG	28.5091107096726	-18.0163666888084	0.00410062891676825
+Cistus_monspeliensis	MK805861.1	16-MAY-2020	613	Spain: La Gomera, Arure (850 m)	secondary	trnS-trnG	27.4274837480123	-17.85396412036	0.00369760951764258
+Cistus_monspeliensis	MK805860.1	16-MAY-2020	610	Spain: La Gomera, Aluce	secondary	trnS-trnG	28.8022312134628	-17.3940714827097	0.00371244977928442
+Cistus_monspeliensis	MK805859.1	16-MAY-2020	611	Spain: La Gomera, Aluce	secondary	trnS-trnG	27.937224119319	-16.9151707659144	0.00370786025858273
+Cistus_monspeliensis	MK805858.1	16-MAY-2020	611	Spain: La Gomera, Aluce	secondary	trnS-trnG	27.7081829280965	-17.0780657659225	0.00370786025858273
+Cistus_monspeliensis	MK805857.1	16-MAY-2020	612	Spain: Gran Canaria, Tirma	secondary	trnS-trnG	28.3762386337085	-16.1574643014562	0.0030371244711302
+Cistus_monspeliensis	MK805856.1	16-MAY-2020	612	Spain: Gran Canaria, Tirma	secondary	trnS-trnG	28.1519314280809	-16.3437890394609	0.00418384386124852
+Cistus_monspeliensis	MK805855.1	16-MAY-2020	613	Spain: Gran Canaria, San Bartolome de Tirajana (900 m)	secondary	trnS-trnG	28.1022070334078	-15.6039916905285	0.00270801451426369
+Cistus_monspeliensis	MK805854.1	16-MAY-2020	614	Spain: Gran Canaria, San Bartolome de Tirajana (900 m)	secondary	trnS-trnG	28.0046280466241	-15.4707060571833	0.00302854389743506
+Cistus_monspeliensis	MK805853.1	16-MAY-2020	616	Spain: Gran Canaria, Roque Cho Domingo	secondary	trnS-trnG	27.511239521745	-16.3467076162914	0.00534503472132445
+Cistus_monspeliensis	MK805852.1	16-MAY-2020	616	Spain: Gran Canaria, Roque Cho Domingo	secondary	trnS-trnG	27.6636490849489	-14.8521869302976	0.00270018944002307
+Cistus_monspeliensis	MK805851.1	16-MAY-2020	612	Spain: Gran Canaria, Roque Cho Domingo	secondary	trnS-trnG	28.6484490672145	-15.0947526375175	0.00261932004459149
+Cistus_monspeliensis	MK805850.1	16-MAY-2020	612	Spain: Gran Canaria, Monte Helechal	secondary	trnS-trnG	27.6043742458254	-16.0613890253918	0.00261954584330608
+Cistus_monspeliensis	MK805849.1	16-MAY-2020	613	Spain: Gran Canaria, Monte Helechal	secondary	trnS-trnG	27.9044186051634	-14.6181023438107	0.00261622809082823
+Cistus_monspeliensis	MK805848.1	16-MAY-2020	612	Spain: Gran Canaria, Monte Helechal	secondary	trnS-trnG	27.3145823852745	-15.0116346720469	0.00261954584330608
+Cistus_monspeliensis	MK805847.1	16-MAY-2020	617	Spain: El Hierro, La Frontera - sendero a Jinama	secondary	trnS-trnG	27.2952798088716	-18.7364104325126	0.00430270913598792
+Cistus_monspeliensis	MK805846.1	16-MAY-2020	616	Spain: El Hierro, Falda Montana Tenaca	secondary	trnS-trnG	28.0419946735195	-17.4347747377699	0.00283568084562322
+Cistus_monspeliensis	MK805845.1	16-MAY-2020	503	Tunisia: Cap Serrat	secondary	trnS-trnG	37.2403843	9.2172101	0.00459591944593422
+Cistus_monspeliensis	MK805844.1	16-MAY-2020	608	Portugal: Setubal	secondary	trnS-trnG	39.1812811530363	-8.86485918973079	0.00323152348971365
+Cistus_monspeliensis	MK805843.1	16-MAY-2020	610	Portugal: Setubal	secondary	trnS-trnG	38.8175295341138	-8.66295356181326	0.00481359963096077
+Cistus_monspeliensis	MK805842.1	16-MAY-2020	608	Portugal: Sesimbra	secondary	trnS-trnG	39.0386046806346	-9.85660768301301	0.00323152348971365
+Cistus_monspeliensis	MK805841.1	16-MAY-2020	607	Portugal: Sesimbra	secondary	trnS-trnG	38.9441398675162	-9.18621210236762	0.00323557200610435
+Cistus_monspeliensis	MK805840.1	16-MAY-2020	608	Portugal: Sesimbra	secondary	trnS-trnG	38.1566470027257	-9.2347761803032	0.00644039540372465
+Cistus_monspeliensis	MK805839.1	16-MAY-2020	607	Portugal: Burgau	secondary	trnS-trnG	37.0932011704247	-8.32950940325298	0.00484893515028687
+Cistus_monspeliensis	MK805838.1	16-MAY-2020	609	Portugal: Burgau	secondary	trnS-trnG	37.3592648944625	-9.68664680801865	0.00322714485679564
+Cistus_monspeliensis	MK805837.1	16-MAY-2020	610	Portugal: Burgau	secondary	trnS-trnG	36.3143673958262	-8.54703290614465	0.00322291899479634
+Cistus_monspeliensis	MK805836.1	16-MAY-2020	609	Portugal: Burgau	secondary	trnS-trnG	37.3846897083835	-8.21566245421948	0.00322714485679564
+Cistus_monspeliensis	MK805835.1	16-MAY-2020	606	Portugal: Burgau	secondary	trnS-trnG	36.7211805221378	-8.18260529814969	0.00324303871056225
+Cistus_monspeliensis	MK805834.1	16-MAY-2020	610	Portugal: Burgau	secondary	trnS-trnG	37.487251397653	-7.84950281527472	0.00322214828900556
+Cistus_monspeliensis	MK805833.1	16-MAY-2020	608	Portugal: Burgau	secondary	trnS-trnG	37.6929625294539	-8.05095705454546	0.0230249619192276
+Cistus_monspeliensis	MK805832.1	16-MAY-2020	608	Morocco: Xauen	secondary	trnS-trnG	34.9944998294049	-4.52530732401039	0.00323118349230184
+Cistus_monspeliensis	MK805831.1	16-MAY-2020	608	Morocco: Xauen	secondary	trnS-trnG	35.5265682701928	-6.15509100113866	0.00323152348971365
+Cistus_monspeliensis	MK805830.1	16-MAY-2020	607	Morocco: Xauen	secondary	trnS-trnG	35.0529556476492	-4.27032643240542	0.00323697454521163
+Cistus_monspeliensis	MK805829.1	16-MAY-2020	607	Morocco: Marrakech	secondary	trnS-trnG	31.6258257	-7.9891608	0.00323557200610435
+Cistus_monspeliensis	MK805818.1	16-MAY-2020	610	Italy: San Giuliano Terme	secondary	trnS-trnG	43.7460925440318	11.4503444264873	0.00322325703102796
+Cistus_monspeliensis	MK805817.1	16-MAY-2020	608	Italy: San Giuliano Terme	secondary	trnS-trnG	43.3212110276613	10.0183541786055	0.00323152348971365
+Cistus_monspeliensis	MK805816.1	16-MAY-2020	608	Italy: San Giuliano Terme	secondary	trnS-trnG	43.3135061080836	10.3428998867258	0.00323152348971365
+Cistus_monspeliensis	MK805815.1	16-MAY-2020	609	Italy: San Giuliano Terme	secondary	trnS-trnG	43.6571371994105	9.35179930486898	0.00322651241924368
+Cistus_monspeliensis	MK805814.1	16-MAY-2020	608	Spain: Huelva, Zalamea La Real	secondary	trnS-trnG	38.2970689919458	-6.86600964798862	0.00323152348971365
+Cistus_monspeliensis	MK805813.1	16-MAY-2020	608	Spain: Huelva, Zalamea La Real	secondary	trnS-trnG	38.1675475750793	-6.368657399167	0.00323152348971365
+Cistus_monspeliensis	MK805812.1	16-MAY-2020	608	Spain: Huelva, Zalamea La Real	secondary	trnS-trnG	38.3969532328261	-7.06679055979997	0.00323152348971365
+Cistus_monspeliensis	MK805811.1	16-MAY-2020	608	Spain: Huelva, Zalamea La Real	secondary	trnS-trnG	38.1764890628222	-6.85939924855671	0.00323152348971365
+Cistus_monspeliensis	MK805810.1	16-MAY-2020	608	Greece: Saronida	secondary	trnS-trnG	37.5129131774285	23.1286976681121	0.00323152348971365
+Cistus_monspeliensis	MK805809.1	16-MAY-2020	609	Greece: Saronida	secondary	trnS-trnG	38.164267499087	22.8614382535597	0.0048411506470569
+Cistus_monspeliensis	MK805808.1	16-MAY-2020	607	Greece: Saronida	secondary	trnS-trnG	37.6341435890609	24.4032762790716	0.00323557200610435
+Cistus_monspeliensis	MK805807.1	16-MAY-2020	604	Spain: Granada, Almunecar	secondary	trnS-trnG	36.7184707391187	-4.30559289611025	0.00322664129899751
+Cistus_monspeliensis	MK805806.1	16-MAY-2020	610	Spain: Granada, Almunecar	secondary	trnS-trnG	37.3217182057744	-4.44837538145449	0.00322651241924368
+Cistus_monspeliensis	MK805805.1	16-MAY-2020	609	Spain: Granada, Almunecar	secondary	trnS-trnG	36.7078182447932	-3.67815315575052	0.00322651241924368
+Cistus_monspeliensis	MK805804.1	16-MAY-2020	608	France: Saint-Chinian	secondary	trnS-trnG	44.0655837654346	3.01481517864003	0.00323152348971365
+Cistus_monspeliensis	MK805803.1	16-MAY-2020	608	France: Saint-Chinian	secondary	trnS-trnG	43.9759680205971	2.34975240002887	0.00323152348971365
+Cistus_monspeliensis	MK805802.1	16-MAY-2020	610	France: Saint-Chinian	secondary	trnS-trnG	42.8109535086365	2.64295823140556	0.00323444464847737
+Cistus_monspeliensis	MK805801.1	16-MAY-2020	608	Spain: Castellon, Alcocebre	secondary	trnS-trnG	40.7464862164933	0.781851426015164	0.00323152348971365
+Cistus_monspeliensis	MK805800.1	16-MAY-2020	610	Spain: Castellon, Alcocebre	secondary	trnS-trnG	40.2302024718683	0.550262106903884	0.00322325703102796
+Cistus_monspeliensis	MK805799.1	16-MAY-2020	605	Spain: Castellon, Alcocebre	secondary	trnS-trnG	39.6827116692855	1.02524202131148	0.00324810045178454
+Cistus_monspeliensis	MK805798.1	16-MAY-2020	603	Spain: Badajoz, Fregenal de la Sierra	secondary	trnS-trnG	38.5689422085528	-6.83895171725286	0.00322573514998728
+Cistus_monspeliensis	GQ927102.1	11-NOV-2009	599	Spain: Canary Islands, Tenerife, Villa de Arico	secondary	trnS-trnG	28.0669086405449	-17.3517800880605	0.0910071933276029
+Cistus_monspeliensis	HQ286843.1	06-MAR-2011	615	Spain: Canary Islands, Gran Canaria, Roque Nublo	secondary	trnS-trnG	28.7960869734093	-15.6258992061329	0.00268808378848816
+Cistus_monspeliensis	HQ286842.1	06-MAR-2011	615	Spain: Canary Islands, Gran Canaria, Roque Nublo	secondary	trnS-trnG	28.9635683636928	-15.34543545021	0.00268808378848816
+Cistus_monspeliensis	HQ286841.1	06-MAR-2011	614	Spain: Canary Islands, Gran Canaria, Roque Nublo	secondary	trnS-trnG	28.1781965922265	-15.2393836834404	0.00369473748331807
+Cistus_monspeliensis	HQ286840.1	06-MAR-2011	615	Spain: Canary Islands, Gran Canaria, San Bartolome de Tirajana	secondary	trnS-trnG	27.7654100280111	-14.9889748904789	0.00268808378848816
+Cistus_monspeliensis	HQ286839.1	06-MAR-2011	615	Spain: Canary Islands, Gran Canaria, San Bartolome de Tirajana	secondary	trnS-trnG	28.8216134471941	-15.8074050343514	0.00268808378848816
+Cistus_monspeliensis	HQ286838.1	06-MAR-2011	615	Spain: Canary Islands, Gran Canaria, San Bartolome de Tirajana	secondary	trnS-trnG	27.8223295010385	-16.4085216778495	0.00268808378848816
+Cistus_monspeliensis	HQ286837.1	06-MAR-2011	614	Spain: Canary Islands, Gran Canaria, road GC-605	secondary	trnS-trnG	28.1275602954642	-16.465654834101	0.00531370927143396
+Cistus_monspeliensis	HQ286836.1	06-MAR-2011	616	Spain: Canary Islands, Gran Canaria, road GC-605	secondary	trnS-trnG	28.5205647286285	-17.6313164820815	0.00534503472132445
+Cistus_monspeliensis	HQ286835.1	06-MAR-2011	616	Spain: Canary Islands, Gran Canaria, road GC-605	secondary	trnS-trnG	28.3563591953856	-17.3128729847852	0.00534503472132445
+Cistus_monspeliensis	HQ286834.1	06-MAR-2011	614	Spain: Canary Islands, Gran Canaria, Artenara	secondary	trnS-trnG	27.5107831059053	-16.1544498463331	0.00369473748331807
+Cistus_monspeliensis	HQ286833.1	06-MAR-2011	615	Spain: Canary Islands, Gran Canaria, Artenara	secondary	trnS-trnG	28.0910485553602	-14.533029584298	0.00268808378848816
+Cistus_monspeliensis	HQ286832.1	06-MAR-2011	615	Spain: Canary Islands, Gran Canaria, Artenara	secondary	trnS-trnG	28.4849481877526	-15.8398156329813	0.00268808378848816
+Cistus_monspeliensis	HQ286831.1	06-MAR-2011	615	Spain: Canary Islands, Gran Canaria, Embalse del Mulato	secondary	trnS-trnG	28.1965191493474	-16.5670157533955	0.00268808378848816
+Cistus_monspeliensis	HQ286830.1	06-MAR-2011	615	Spain: Canary Islands, Gran Canaria, Embalse del Mulato	secondary	trnS-trnG	27.7152797612937	-16.8927986788747	0.00268808378848816
+Cistus_monspeliensis	HQ286829.1	06-MAR-2011	612	Spain: Canary Islands, Tenerife, Igueste de San Andres	secondary	trnS-trnG	28.7325592387582	-16.1517376609488	0.00259470275713003
+Cistus_monspeliensis	HQ286828.1	06-MAR-2011	612	Spain: Canary Islands, Tenerife, Igueste de San Andres	secondary	trnS-trnG	29.1689572606596	-15.9083587810304	0.00259470275713003
+Cistus_monspeliensis	HQ286827.1	06-MAR-2011	612	Spain: Canary Islands, Tenerife, Igueste de San Andres	secondary	trnS-trnG	28.551548726292	-15.589405659937	0.00259470275713003
+Cistus_monspeliensis	HQ286826.1	06-MAR-2011	613	Spain: Canary Islands, Tenerife, Guimar	secondary	trnS-trnG	28.3088679422072	-16.7598264334154	0.00367488292641803
+Cistus_monspeliensis	HQ286825.1	06-MAR-2011	613	Spain: Canary Islands, Tenerife, Guimar	secondary	trnS-trnG	28.1979564808792	-15.6795285964108	0.00367488292641803
+Cistus_monspeliensis	HQ286824.1	06-MAR-2011	613	Spain: Canary Islands, Tenerife, Guimar	secondary	trnS-trnG	28.9177991645734	-16.7550912001087	0.00367488292641803
+Cistus_monspeliensis	HQ286823.1	06-MAR-2011	613	Spain: Canary Islands, Tenerife, Aguamansa	secondary	trnS-trnG	28.3644941	-16.4988272	0.00367488292641803
+Cistus_monspeliensis	HQ286822.1	06-MAR-2011	615	Spain: Canary Islands, Tenerife, road to Teide	secondary	trnS-trnG	28.8647587401996	-16.1201936641738	0.00268808378848816
+Cistus_monspeliensis	HQ286821.1	06-MAR-2011	615	Spain: Canary Islands, Tenerife, Villa de Arico	secondary	trnS-trnG	28.6834264690339	-16.6982987341126	0.0041702699864889
+Cistus_monspeliensis	HQ286820.1	06-MAR-2011	615	Spain: Canary Islands, Tenerife, Villa de Arico	secondary	trnS-trnG	28.3035316872014	-16.7524805687243	0.00268808378848816
+Cistus_monspeliensis	HQ286819.1	06-MAR-2011	615	Spain: Canary Islands, Tenerife, Villa de Arico	secondary	trnS-trnG	27.5091101621916	-16.5174469066884	0.00268808378848816
+Cistus_monspeliensis	HQ286818.1	06-MAR-2011	616	Spain: Canary Islands, Tenerife, Barranco de las Animas	secondary	trnS-trnG	28.3697239	-16.6683677	0.00269848807114458
+Cistus_monspeliensis	HQ286817.1	06-MAR-2011	614	Spain: Canary Islands, La Gomera, Jaragan	secondary	trnS-trnG	28.7190496081467	-16.621863274184	0.00369473748331807
+Cistus_monspeliensis	HQ286816.1	06-MAR-2011	614	Spain: Canary Islands, La Gomera, Jaragan	secondary	trnS-trnG	28.2803762653324	-16.2225833647079	0.00369473748331807
+Cistus_monspeliensis	HQ286815.1	06-MAR-2011	614	Spain: Canary Islands, La Gomera, Alto de Garajonay	secondary	trnS-trnG	28.7747286386581	-17.2382577126396	0.00369473748331807
+Cistus_monspeliensis	HQ286814.1	06-MAR-2011	614	Spain: Canary Islands, La Gomera, Alto de Garajonay	secondary	trnS-trnG	29.1302040150883	-16.9778309536437	0.00369473748331807
+Cistus_monspeliensis	HQ286813.1	06-MAR-2011	614	Spain: Canary Islands, La Gomera, Alto de Garajonay	secondary	trnS-trnG	27.5060344837991	-17.1038979592966	0.00369473748331807
+Cistus_monspeliensis	HQ286812.1	06-MAR-2011	615	Spain: Canary Islands, La Gomera, Arure	secondary	trnS-trnG	28.7543589117821	-16.0960572938816	0.00529788157365793
+Cistus_monspeliensis	HQ286811.1	06-MAR-2011	614	Spain: Canary Islands, La Gomera, Arure	secondary	trnS-trnG	28.6109487912535	-16.4570691024729	0.00409713511816947
+Cistus_monspeliensis	HQ286810.1	06-MAR-2011	615	Spain: Canary Islands, La Gomera, Arure	secondary	trnS-trnG	29.1602682131094	-16.9492393565326	0.00529788157365793
+Cistus_monspeliensis	HQ286809.1	06-MAR-2011	615	Spain: Canary Islands, La Palma, Barranco Seco	secondary	trnS-trnG	28.2905369920668	-16.0325299346942	0.00268808378848816
+Cistus_monspeliensis	HQ286808.1	06-MAR-2011	615	Spain: Canary Islands, La Palma, Barranco Seco	secondary	trnS-trnG	28.5604028177207	-16.8644025390244	0.00268808378848816
+Cistus_monspeliensis	HQ286807.1	06-MAR-2011	615	Spain: Canary Islands, La Palma, Barranco Seco	secondary	trnS-trnG	27.8472957441695	-16.6072290085748	0.00268808378848816
+Cistus_monspeliensis	HQ286806.1	06-MAR-2011	612	Spain: Canary Islands, La Palma, Villa de Mazo	secondary	trnS-trnG	28.0876945036816	-16.1959124911149	0.00259470275713003
+Cistus_monspeliensis	HQ286805.1	06-MAR-2011	615	Spain: Canary Islands, La Palma, Los Llanos Santa Cruz	secondary	trnS-trnG	27.5096833126743	-16.5333975426731	0.00268808378848816
+Cistus_monspeliensis	HQ286804.1	06-MAR-2011	614	Spain: Canary Islands, La Palma, Los Llanos Santa Cruz	secondary	trnS-trnG	27.9045050923774	-17.5938163266993	0.00261432900763963
+Cistus_monspeliensis	HQ286803.1	06-MAR-2011	614	Spain: Canary Islands, La Palma, Los Llanos Santa Cruz	secondary	trnS-trnG	28.5101676647436	-16.4937780953126	0.00261432900763963
+Cistus_monspeliensis	HQ286802.1	06-MAR-2011	614	Spain: Canary Islands, La Palma, La Tosca	secondary	trnS-trnG	28.9321509457133	-18.5427876569672	0.00261432900763963
+Cistus_monspeliensis	HQ286801.1	06-MAR-2011	614	Spain: Canary Islands, La Palma, La Tosca	secondary	trnS-trnG	28.5732055570068	-18.657537880257	0.00261432900763963
+Cistus_monspeliensis	HQ286800.1	06-MAR-2011	614	Spain: Canary Islands, La Palma, La Tosca	secondary	trnS-trnG	28.5875992858364	-17.4315246783286	0.00261432900763963
+Cistus_monspeliensis	HQ286799.1	06-MAR-2011	614	Spain: Canary Islands, La Palma, Barranco Garome	secondary	trnS-trnG	27.4777234787502	-16.771483832253	0.00261432900763963
+Cistus_monspeliensis	HQ286798.1	06-MAR-2011	616	Spain: Canary Islands, La Palma, Barranco Garome	secondary	trnS-trnG	28.2601901210254	-16.7926346319136	0.00268783664680529
+Cistus_monspeliensis	HQ286797.1	06-MAR-2011	614	Spain: Canary Islands, La Palma, Barranco Garome	secondary	trnS-trnG	28.5004175543234	-16.1904234746513	0.00261432900763963
+Cistus_monspeliensis	HQ286796.1	06-MAR-2011	614	Spain: Canary Islands, El Hierro, Valverde	secondary	trnS-trnG	28.2823319272661	-16.4350972342797	0.00369473748331807
+Cistus_monspeliensis	HQ286795.1	06-MAR-2011	616	Spain: Canary Islands, El Hierro, Valverde	secondary	trnS-trnG	28.9960578150515	-17.2492164015165	0.00432868409706054
+Cistus_monspeliensis	HQ286794.1	06-MAR-2011	614	Spain: Canary Islands, El Hierro, Valverde	secondary	trnS-trnG	28.0861744480576	-16.7918281728612	0.00369473748331807
+Cistus_monspeliensis	HQ286793.1	06-MAR-2011	615	Spain: Canary Islands, El Hierro, La Pena	secondary	trnS-trnG	28.948568900974	-16.4937065121517	0.00268808378848816
+Cistus_monspeliensis	HQ286792.1	06-MAR-2011	616	Spain: Canary Islands, El Hierro, La Pena	secondary	trnS-trnG	27.6721868373919	-16.4172167210197	0.00269848807114458
+Cistus_monspeliensis	HQ286791.1	06-MAR-2011	616	Spain: Canary Islands, El Hierro, La Pena	secondary	trnS-trnG	27.8644015566804	-16.2544934410017	0.00269848807114458
+Cistus_monspeliensis	GU288935.1	08-DEC-2010	611	Cyprus: Peyia	secondary	trnS-trnG	34.8835052	32.3803202	0.00321890213008539
+Cistus_monspeliensis	GU288934.1	08-DEC-2010	611	Greece: Kapandriti	secondary	trnS-trnG	38.2158722	23.8771927	0.00321890213008539
+Cistus_monspeliensis	GU288933.1	08-DEC-2010	611	Greece: Saronida	secondary	trnS-trnG	36.7597472458886	22.8368876023495	0.00321890213008539
+Cistus_monspeliensis	GU288932.1	08-DEC-2010	611	Italy: Sardinia, Baunei	secondary	trnS-trnG	40.0323613	9.6634049	0.00321890213008539
+Cistus_monspeliensis	GU288931.1	08-DEC-2010	611	Italy: San Giuliano Terme	secondary	trnS-trnG	43.394553455489	10.1925219315415	0.00321890213008539
+Cistus_monspeliensis	GU288930.1	08-DEC-2010	611	France: Corsica, Barchetta	secondary	trnS-trnG	42.5076604	9.3720674	0.00321890213008539
+Cistus_monspeliensis	GU288929.1	08-DEC-2010	611	France: Saint-Chinian	secondary	trnS-trnG	44.3038843750569	2.75741763892174	0.00321890213008539
+Cistus_monspeliensis	GU288928.1	08-DEC-2010	611	Spain: Menorca, Punta Galdana	secondary	trnS-trnG	39.94928595	4.05294854797649	0.00321890213008539
+Cistus_monspeliensis	GU288927.1	08-DEC-2010	611	Spain: Castellon, Alcocebre	secondary	trnS-trnG	40.1332469952377	-0.788112008012031	0.00321890213008539
+Cistus_monspeliensis	GU288926.1	08-DEC-2010	611	Spain: Castellon, Chovar	secondary	trnS-trnG	39.8509369	-0.3200757	0.00321890213008539
+Cistus_monspeliensis	GU288925.1	08-DEC-2010	611	Spain: Murcia, Portman	secondary	trnS-trnG	37.5887961	-0.8439827	0.00321890213008539
+Cistus_monspeliensis	GU288924.1	08-DEC-2010	611	Spain: Granada, Almunecar	secondary	trnS-trnG	37.4257114833081	-3.73178631499531	0.00321890213008539
+Cistus_monspeliensis	GU288923.1	08-DEC-2010	497	Spain: Granada, Casabermeja	secondary	trnS-trnG	37.1734995	-3.5995337	0.00265316106767876
+Cistus_monspeliensis	GU288922.1	08-DEC-2010	611	Spain: Cordoba, Posadas - Villaviciosa	secondary	trnS-trnG	37.8104384	-5.1034471	0.00321890213008539
+Cistus_monspeliensis	GU288921.1	08-DEC-2010	611	Spain: Cadiz, Grazalema	secondary	trnS-trnG	36.7583892	-5.366074	0.00321890213008539
+Cistus_monspeliensis	GU288920.1	08-DEC-2010	607	Spain: Badajoz, Embalse de Cornalvo	secondary	trnS-trnG	39.0587751	-6.3119355	0.00323975286327109
+Cistus_monspeliensis	GU288919.1	08-DEC-2010	611	Spain: Huelva, Zufre	secondary	trnS-trnG	37.8338999	-6.3388735	0.00321890213008539
+Cistus_monspeliensis	GU288918.1	08-DEC-2010	611	Spain: Badajoz, Fregenal de la Sierra	secondary	trnS-trnG	38.6369234983137	-5.70069015739942	0.00321890213008539
+Cistus_monspeliensis	GU288917.1	08-DEC-2010	611	Spain: Huelva, Zalamea la Real	secondary	trnS-trnG	37.7135552607699	-5.70385006114814	0.00321890213008539
+Cistus_monspeliensis	GU288916.1	08-DEC-2010	611	Portugal: Sagres	secondary	trnS-trnG	37.0078288	-8.941924	0.00321890213008539
+Cistus_monspeliensis	GU288914.1	08-DEC-2010	611	Morocco: Tafouralt	secondary	trnS-trnG	34.8067419	-2.4164896	0.00321890213008539
+Cistus_monspeliensis	GU288913.1	08-DEC-2010	611	Morocco: Beni Hadifa	secondary	trnS-trnG	34.951068	-4.138968	0.00321890213008539
+Cistus_monspeliensis	GU288912.1	08-DEC-2010	611	Morocco: Targuist	secondary	trnS-trnG	34.939869	-4.320451	0.00321890213008539
+Cistus_monspeliensis	GU288910.1	08-DEC-2010	611	Morocco: Tanger	secondary	trnS-trnG	35.7696302	-5.8033522	0.00321890213008539
+Cistus_monspeliensis	FJ225849.1	13-OCT-2008	853	Portugal	secondary	trnS-trnG	39.6621648	-8.1353519	0.00315525050881369

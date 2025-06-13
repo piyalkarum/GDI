@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sporobolus_anglicus	MW868181.1	03-JAN-2022	729	South Korea	secondary	trnL-trnF	37.3300122080291	127.662070471184	0
+Sporobolus_anglicus	MW868180.1	03-JAN-2022	729	South Korea	secondary	trnL-trnF	37.4592306340021	127.609227872921	0
+Sporobolus_anglicus	MW868179.1	03-JAN-2022	729	South Korea	secondary	trnL-trnF	37.35319968851	127.169032548481	0
+Sporobolus_anglicus	MW868178.1	03-JAN-2022	729	South Korea	secondary	trnL-trnF	36.3839723340982	128.205961298398	0

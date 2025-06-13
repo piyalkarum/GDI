@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_obliquum	MW201121.1	06-SEP-2021	851	Romania: Cheile Turzii, Distr. Cluj	secondary	rps16	46.5632244	23.680255	0
+Allium_obliquum	MW201120.1	06-SEP-2021	851	Kazakhstan: Tarbagatai, Alekseevka	secondary	rps16	47.188371	82.46574	0
+Allium_obliquum	MW201116.1	06-SEP-2021	839	Kazakhstan: Altai, Schemonaicha	secondary	rps16	49.724243	84.275146	0
+Allium_obliquum	MW201113.1	06-SEP-2021	851	Russia: Altai, Teletzkoe Lake	secondary	rps16	49.7995174	86.5788193	0

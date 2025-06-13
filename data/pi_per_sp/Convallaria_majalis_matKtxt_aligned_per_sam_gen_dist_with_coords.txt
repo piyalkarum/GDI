@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Convallaria_majalis	JN893885.1	07-MAR-2012	798	United Kingdom: Glamorgan (41)	primary	matK	50.53	-3.22	0.00169660410421937
+Convallaria_majalis	OQ303555.1	13-JUN-2023	701	Latvia	secondary	matK	56.8406494	24.7537645	0.00130151779352625
+Convallaria_majalis	LC670178.1	21-JAN-2022	582	Japan: Honshu,Miyagi, Sendai	secondary	matK	37.490012	139.835662141241	0.00372427362863334
+Convallaria_majalis	JN896035.1	07-MAR-2012	806	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.00123959124443153
+Convallaria_majalis	JN894911.1	07-MAR-2012	729	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00127655317562957
+Convallaria_majalis	JN894910.1	07-MAR-2012	706	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00177268633525888
+Convallaria_majalis	FN668803.1	27-APR-2010	807	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00250529993104414

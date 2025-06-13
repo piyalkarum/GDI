@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Schoenoplectus_tabernaemontani	HQ593435.1	09-NOV-2011	797	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., S end of pond, 10 m N of forest edge in water-saturated soil	primary	matK	44.035	-79.518	0
+Schoenoplectus_tabernaemontani	JN895494.1	07-MAR-2012	883	United Kingdom: Glamorgan	primary	matK	51.54	-3.64	0.000290023201856148
+Schoenoplectus_tabernaemontani	LT900080.1	12-AUG-2019	1276	Germany	secondary	matK	40.4203479	-79.1166983	0.000966618143965623
+Schoenoplectus_tabernaemontani	JN896059.1	07-MAR-2012	764	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00033921302578019
+Schoenoplectus_tabernaemontani	JN895332.1	07-MAR-2012	756	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.000337381916329285

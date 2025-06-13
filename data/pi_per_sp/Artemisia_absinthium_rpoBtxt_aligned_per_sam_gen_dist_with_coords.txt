@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_absinthium	KX582048.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.6509533944173	81.4714866738956	0
+Artemisia_absinthium	KX582047.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.9175208037202	81.1749197304696	0
+Artemisia_absinthium	KX582046.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.3599860694099	82.0601403896223	0
+Artemisia_absinthium	KX582045.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	44.7690189826534	81.0820264174633	0

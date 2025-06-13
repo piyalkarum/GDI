@@ -1,0 +1,45 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_sepium	LC769861.1	05-AUG-2023	564	Japan: Hokkaido, Matsumae-gun, Matsumae-cho, Otsu, rock of ridge	primary	matK	41.6663263665884	140.804952736951	0.00634999175325746
+Vicia_sepium	LC769860.1	05-AUG-2023	564	Japan: Hokkaido, Matsumae-gun, Matsumae-cho, Otsu, rock of ridge	primary	matK	40.7961012508118	140.108367425598	0.00634999175325746
+Vicia_sepium	LC767606.1	05-AUG-2023	564	Japan: Shiga, Maibara-shi, Mt. Ibuki, West mountain trail	primary	matK	35.9417943766572	136.215380904406	0.00634999175325746
+Vicia_sepium	LC767605.1	05-AUG-2023	564	Japan: Shiga, Maibara-shi, Mt. Ibuki, West mountain trail	primary	matK	35.7199202989582	136.561912911247	0.00634999175325746
+Vicia_sepium	LC767604.1	05-AUG-2023	564	Japan: Shiga, Maibara-shi, Ueno, Mt. Ibuki, between the first and the second stations	primary	matK	35.23454	136.23254	0.00634999175325746
+Vicia_sepium	LC767603.1	05-AUG-2023	564	Japan: Shiga, Maibara-shi, Ueno, Mt. Ibuki, between the first and the second stations	primary	matK	35.23449	136.23244	0.00634999175325746
+Vicia_sepium	LC767602.1	05-AUG-2023	564	Japan: Shiga, Maibara-shi, Ueno, Mt. Ibuki, between the first and the second stations	primary	matK	35.23436	136.23202	0.00634999175325746
+Vicia_sepium	LC767601.1	05-AUG-2023	564	Japan: Shiga, Maibara-shi, Ueno, Mt. Ibuki, near the first station	primary	matK	35.23421	136.2315	0.00634999175325746
+Vicia_sepium	LC767600.1	05-AUG-2023	564	Germany: Nordrhein-Westfalen, Soest, Lendringsen, stone cist grave	primary	matK	51.53028	8.10861	0.00775193798449612
+Vicia_sepium	LC767599.1	05-AUG-2023	564	Germany: Brandenburg, Niederlausitz, Forst, fallow land along August-Bebel-street, north of the station, ordinance survey map 4253/42	primary	matK	51.74167	14.62778	0.00923635164110177
+Vicia_sepium	LC767598.1	05-AUG-2023	564	Germany: Hessen, Frankfurt-Seckbach, Huthpark, lower slope near E-Rand	primary	matK	50.13555908	8.71944428	0.00923635164110177
+Vicia_sepium	LC767597.1	05-AUG-2023	564	Germany: Thueringen, south of Ratscher, Lauterbachtal, valley flank above meadow	primary	matK	50.49222183	10.77527714	0.00923635164110177
+Vicia_sepium	LC767596.1	05-AUG-2023	564	Germany: Hessen. Kassel-Oberzwehren and Korbacher Street, north of the university campus	primary	matK	51.29222183	9.46361065	0.00923635164110177
+Vicia_sepium	LC767595.1	05-AUG-2023	564	Japan: Hokkaido, Yubari-gun, Naganuma-cho	primary	matK	42.627841232423	140.687019036319	0.00634999175325746
+Vicia_sepium	LC767594.1	05-AUG-2023	564	Japan: Hokkaido, Yubari-gun, Naganuma-cho	primary	matK	43.122770126005	140.600398182721	0.00634999175325746
+Vicia_sepium	LC767593.1	05-AUG-2023	564	Japan: Hokkaido, Yubari-gun, Naganuma-cho	primary	matK	42.3318388921269	141.913952819386	0.00634999175325746
+Vicia_sepium	LC767592.1	05-AUG-2023	564	Japan: Hokkaido, Yubari-gun, Naganuma-cho	primary	matK	42.5897640494649	141.556591818066	0.00634999175325746
+Vicia_sepium	LC767591.1	05-AUG-2023	564	Japan: Hokkaido, Yubari-gun, Naganuma-cho	primary	matK	42.8646438974531	141.366424983513	0.00634999175325746
+Vicia_sepium	LC767590.1	05-AUG-2023	564	Japan: Hokkaido, Sorachi-gun, Nanporo-cho	primary	matK	43.4292979530358	140.676928947824	0.00634999175325746
+Vicia_sepium	LC767589.1	05-AUG-2023	564	Japan: Hokkaido, Sorachi-gun, Nanporo-cho	primary	matK	42.8706305609625	140.664271278149	0.00634999175325746
+Vicia_sepium	LC767588.1	05-AUG-2023	564	Japan: Hokkaido, Sorachi-gun, Nanporo-cho	primary	matK	43.0890727422546	142.052736792898	0.00634999175325746
+Vicia_sepium	LC767587.1	05-AUG-2023	564	Japan: Hokkaido, Sorachi-gun, Nanporo-cho	primary	matK	42.3236650729831	140.838770748161	0.00634999175325746
+Vicia_sepium	LC767586.1	05-AUG-2023	564	Japan: Hokkaido, Sorachi-gun, Nanporo-cho	primary	matK	42.96256928093	141.352786188885	0.00634999175325746
+Vicia_sepium	LC767585.1	05-AUG-2023	564	Japan: Hokkaido, Iwamizawa-shi	primary	matK	42.3539138233586	140.682118237596	0.00634999175325746
+Vicia_sepium	LC767584.1	05-AUG-2023	564	Japan: Hokkaido, Iwamizawa-shi	primary	matK	43.5694883980391	141.85719498882	0.00634999175325746
+Vicia_sepium	LC767583.1	05-AUG-2023	564	Japan: Hokkaido, Iwamizawa-shi	primary	matK	43.1094330730046	141.743546138214	0.00634999175325746
+Vicia_sepium	LC767582.1	05-AUG-2023	564	Japan: Hokkaido, Iwamizawa-shi	primary	matK	42.724497961868	140.689446001382	0.00634999175325746
+Vicia_sepium	LC767581.1	05-AUG-2023	564	Japan: Hokkaido, Iwamizawa-shi	primary	matK	43.8610214745939	141.151748528807	0.00634999175325746
+Vicia_sepium	LC767580.1	05-AUG-2023	564	Japan: Shiga, Maibara-shi, Mt. Ibuki, West mountain trail	primary	matK	35.25046	136.24211	0.00634999175325746
+Vicia_sepium	LC767579.1	05-AUG-2023	564	Japan: Shiga, Maibara-shi, Mt. Ibuki, West mountain trail	primary	matK	34.7891963302233	136.654049993556	0.00634999175325746
+Vicia_sepium	LC767578.1	05-AUG-2023	564	Japan: Shiga, Maibara-shi, Mt. Ibuki, West mountain trail	primary	matK	35.7564467527708	135.481652309525	0.00634999175325746
+Vicia_sepium	LC767577.1	05-AUG-2023	564	Japan: Shiga, Maibara-shi, Mt. Ibuki, West mountain trail	primary	matK	34.8691841413973	136.525947121574	0.00634999175325746
+Vicia_sepium	LC767576.1	05-AUG-2023	564	Japan: Shiga, Maibara-shi, Mt. Ibuki, West mountain trail	primary	matK	34.6228437101072	136.135701521638	0.00634999175325746
+Vicia_sepium	LC767575.1	05-AUG-2023	564	Japan: Gifu, Ibigawa-cyo, Kasuga-sasamata, Mt.Ibuki	primary	matK	35.8901575787588	136.832034893016	0.00634999175325746
+Vicia_sepium	LC767574.1	05-AUG-2023	564	Japan: Gifu, Ibigawa-cyo, Kasuga-sasamata, Mt.Ibuki	primary	matK	36.238203141566	136.352818977785	0.00634999175325746
+Vicia_sepium	LC767573.1	05-AUG-2023	564	Japan: Gifu, Ibigawa-cyo, Kasuga-sasamata, Mt.Ibuki	primary	matK	36.1343582696584	136.074852833552	0.00634999175325746
+Vicia_sepium	LC767572.1	05-AUG-2023	564	Japan: Gifu, Ibigawa-cyo, Kasuga-sasamata, Mt.Ibuki	primary	matK	34.9172744182868	137.228912091088	0.00634999175325746
+Vicia_sepium	LC767571.1	05-AUG-2023	564	Japan: Gifu, Ibigawa-cyo, Kasuga-sasamata, Mt.Ibuki	primary	matK	35.5108055213944	137.376790636041	0.00634999175325746
+Vicia_sepium	LC767570.1	05-AUG-2023	564	Japan: Gifu, Ibigawa-cyo, Kasuga-sasamata, Mt.Ibuki	primary	matK	36.1715405213613	136.062301637792	0.00634999175325746
+Vicia_sepium	JN894332.1	07-MAR-2012	776	United Kingdom: Glamorgan	primary	matK	51.51	-3.3	0.00801039259595553
+Vicia_sepium	MH714231.1	01-SEP-2020	867	China: Hebei	secondary	matK	39.0000001	116	0.248747310975105
+Vicia_sepium	MK926157.1	14-JAN-2020	833	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00781539731181934
+Vicia_sepium	JN896142.1	07-MAR-2012	881	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00914655292980544
+Vicia_sepium	JN896140.1	07-MAR-2012	923	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00772244956634796

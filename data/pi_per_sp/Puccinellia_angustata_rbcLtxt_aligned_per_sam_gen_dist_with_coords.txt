@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_angustata	KT960416.1	13-DEC-2015	545	Greenland: NE, Zackenberg	primary	rbcL	74.5352563151634	-20.6389731183528	0.00996068152031455
+Puccinellia_angustata	KT960404.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.3154928178112	-20.8310185274735	0.00675537067639182
+Puccinellia_angustata	KC483711.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park, Hazen Camp on N shore of Lake Hazen. Behind Blister Hill, ~2.5 km WNW of Hazen Camp, ~300 m	primary	rbcL	81.817	-71.333	0.00208701350504302
+Puccinellia_angustata	KC483710.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, Mudflats downriver of large waterfall S of head of Minto Inlet	primary	rbcL	71.46	-115.298	0.00208701350504302
+Puccinellia_angustata	KC483709.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Anderson River (Northwest Territories), Cape Bathurst E side, brook system N of river from Lake Mc kinlay, 0.7 - 1.5 km from sea	primary	rbcL	70.483	-127.8	0.00208701350504302
+Puccinellia_angustata	KC483708.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Eureka (Nunavut), Clay barrens along shore 0-1 km E of PCSP base, between airstrip and shore	primary	rbcL	80	-85.95	0.00208701350504302
+Puccinellia_angustata	KC483707.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Masik River area, top of ridge south of our camp lake. About 200 m from top of slope	primary	rbcL	71.58	-123.19	0.00208701350504302
+Puccinellia_angustata	KC483706.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Colour Peak. Big Hill to left of main spring. 750 m from water's edge	primary	rbcL	79.38	-91.28	0.00208701350504302

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_controversum	EU717986.1	31-MAY-2009	1255	Spain: Valencia, Xeresa, Colom	secondary	matK	39.4697065	-0.3763353	0.00147979510529311
+Antirrhinum_controversum	EU717985.1	31-MAY-2009	1255	Spain: Valencia, Chella	secondary	matK	39.0419132	-0.6590644	0.00147979510529311
+Antirrhinum_controversum	EU717984.1	31-MAY-2009	1255	Spain: Valencia, Carcagente	secondary	matK	39.1209651	-0.4472814	0.00102447353443369
+Antirrhinum_controversum	EU717983.1	31-MAY-2009	1255	Spain: Valencia, Bolomor	secondary	matK	39.0596913	-0.2502812	0.00170745589072282
+Antirrhinum_controversum	EU717982.1	31-MAY-2009	1255	Spain: Almeria, Berja	secondary	matK	36.8428832	-2.945818	0.00239043824701195
+Antirrhinum_controversum	EU717981.1	31-MAY-2009	1255	Spain: Alicante, Jalon	secondary	matK	38.7408285	-0.0116019	0.00102447353443369
+Antirrhinum_controversum	HM152975.1	24-AUG-2010	1255	Spain: Almeria, Berchules	secondary	matK	36.7605981	-2.6205279	0.00239043824701195
+Antirrhinum_controversum	HM152974.1	24-AUG-2010	1255	Spain: Albacete, Villa de Ves	secondary	matK	39.2105199	-1.2589751	0.00102447353443369

@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_otrubae	JN896253.1	07-MAR-2012	816	United Kingdom: Glamorgan	primary	matK	51.5	-3.12	0.000149342891278375
+Carex_otrubae	OQ354727.1	27-JUN-2023	814	Slovenia	secondary	matK	46.1199444	14.8153333	0.000149745432764301
+Carex_otrubae	OQ354726.1	27-JUN-2023	814	Netherlands	secondary	matK	52.2434979	5.6343227	0.000149745432764301
+Carex_otrubae	OQ354725.1	27-JUN-2023	746	Poland	secondary	matK	52.215933	19.134422	0.000149543891132047
+Carex_otrubae	MN763223.1	28-JUL-2020	732	Spain: Seville	secondary	matK	37.3886303	-5.9953403	0.000151791135397693
+Carex_otrubae	MF543493.1	31-JUL-2018	833	Italy: Aosta Valley, Quart, Teppe	secondary	matK	46.5659589514305	7.28181246618098	0.000147557916482219
+Carex_otrubae	MF543492.1	31-JUL-2018	843	Italy: Aosta Valley, Quart, Teppe	secondary	matK	46.2559004424574	6.40594411636962	0.000147557916482219
+Carex_otrubae	HM850843.1	23-JUL-2011	753	Portugal	secondary	matK	39.6621648	-8.1353519	0.00134724429770908
+Carex_otrubae	JN894860.1	07-MAR-2012	792	United Kingdom: Glamorgan	secondary	matK	51.4045088569535	-3.86262937743013	0.000152415790275873
+Carex_otrubae	JN894859.1	07-MAR-2012	746	United Kingdom: Glamorgan	secondary	matK	52.2365989633297	-3.2813010417853	0.000149543891132047

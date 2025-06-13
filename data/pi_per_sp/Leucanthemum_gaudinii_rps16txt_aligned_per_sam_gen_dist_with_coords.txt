@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_gaudinii	LN869175.1	17-SEP-2015	431	Austria	primary	rps16	46.86	13.82	0.00232342308314898
+Leucanthemum_gaudinii	LN869174.1	17-SEP-2015	458	Slovakia	primary	rps16	49.25	20.23	0.000465116279069767
+Leucanthemum_gaudinii	LN869173.1	17-SEP-2015	459	Spain	primary	rps16	42.83	-6.86	0.000464037122969838
+Leucanthemum_gaudinii	LN869172.1	17-SEP-2015	458	Spain	primary	rps16	43.13	-4.75	0.000465116279069767
+Leucanthemum_gaudinii	LN869171.1	17-SEP-2015	459	Spain	primary	rps16	42.78	-0.23	0.000464037122969838
+Leucanthemum_gaudinii	LN869170.1	17-SEP-2015	458	Spain	primary	rps16	42.58	1	0.000465116279069767

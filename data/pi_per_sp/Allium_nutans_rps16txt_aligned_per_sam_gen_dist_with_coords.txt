@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_nutans	MN929048.1	09-NOV-2020	840	Russia	secondary	rps16	65.2995067481292	98.8900585561356	0.00398247710075667
+Allium_nutans	MN929045.1	09-NOV-2020	840	Russia	secondary	rps16	64.7067321151001	97.7112226009813	0.00398247710075667
+Allium_nutans	LN867059.1	03-AUG-2015	861	Russia:Altai, Ust-Koksa	secondary	rps16	50.2695927	85.6155842	0.00398247710075667
+Allium_nutans	LN867058.1	03-AUG-2015	861	Russia:Krasnoyarsk Krai	secondary	rps16	63.3233807	97.0979974	0.00398247710075667

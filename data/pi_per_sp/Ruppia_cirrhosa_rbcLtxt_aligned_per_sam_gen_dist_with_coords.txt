@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ruppia_cirrhosa	MG227122.1	23-JAN-2018	552	Canada: British Columbia, South Okanagan, Upper shore of Mahoney Lake, west of Okanagan Falls	primary	rbcL	49.292	-119.584	NA
+Ruppia_cirrhosa	MG225816.1	23-JAN-2018	534	Canada: British Columbia, Cache Creek, Venables Lake, 92I-11	primary	rbcL	50.583	-121.333	NA
+Ruppia_cirrhosa	MZ466378.1	16-MAY-2022	654	Sweden	secondary	rbcL	59.6749712	14.5208584	NA
+Ruppia_cirrhosa	MK925116.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3340027317367	-2.84118629072482	NA
+Ruppia_cirrhosa	MK924724.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3735719218735	-3.62019347896653	NA
+Ruppia_cirrhosa	MG226313.1	23-JAN-2018	552	Canada: British Columbia, Surrey, Elgin Heritage Park, beside Nikomekl River	secondary	rbcL	49.25783145	-123.246241986222	NA
+Ruppia_cirrhosa	KR263135.1	16-APR-2016	577	Portugal: Algarve	secondary	rbcL	37.2447167	-8.1505388	NA
+Ruppia_cirrhosa	KR263134.1	16-APR-2016	577	Spain: Cadiz	secondary	rbcL	36.5262463	-5.9008367	NA
+Ruppia_cirrhosa	AB728688.1	24-APR-2013	660	Spain	secondary	rbcL	39.4122196565684	-3.72862490183821	NA
+Ruppia_cirrhosa	JN113277.1	04-DEC-2011	1373	Italy	secondary	rbcL	42.6384261	12.674297	0.00128298710311519
+Ruppia_cirrhosa	JN113276.1	04-DEC-2011	1373	Spain	secondary	rbcL	38.7607383379054	-4.56986325016419	0.00107903404542446
+Ruppia_cirrhosa	JN113275.1	04-DEC-2011	1373	Greece	secondary	rbcL	43.2097838	-77.6930602	0.00100750500945127

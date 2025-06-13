@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_angustata	OK247899.1	27-OCT-2022	1091	Canada: Northwest Territories	secondary	rpoB	65.0000004	-118	0
+Puccinellia_angustata	GQ283281.1	28-FEB-2010	1179	Canada: Northwest Territories, Prince Patrick Island	secondary	rpoB	62.9230038471784	-114.181204517654	0.0027457527168517
+Puccinellia_angustata	GQ283280.1	28-FEB-2010	1181	Canada: Northwest Territories, Prince Patrick Island	secondary	rpoB	62.9742261646662	-113.540204793978	0.0027457527168517
+Puccinellia_angustata	GQ283279.1	28-FEB-2010	1177	Canada: Nunavut, Axel Heiberg Island	secondary	rpoB	73.6128557599146	-93.4523220743487	0.00294231802910041
+Puccinellia_angustata	GQ283278.1	28-FEB-2010	1176	Canada: Nunavut, Axel Heiberg Island	secondary	rpoB	74.7974128620253	-92.7096445259923	0.00268217598004832
+Puccinellia_angustata	GQ283277.1	28-FEB-2010	1177	Canada: Nunavut, Axel Heiberg Island	secondary	rpoB	74.8435230689138	-93.375576389805	0.00274742145692145
+Puccinellia_angustata	GQ283276.1	28-FEB-2010	1178	Canada: Nunavut, Ellesmere Island	secondary	rpoB	81.5940594185743	-69.4265552537019	0.00281066455647579
+Puccinellia_angustata	GQ283275.1	28-FEB-2010	1176	Canada: Nunavut, Ellesmere Island	secondary	rpoB	81.6191811085794	-70.0715146674514	0.00281377728126691
+Puccinellia_angustata	GQ283274.1	28-FEB-2010	1177	Canada: Northwest Territories, Banks Island	secondary	rpoB	74.0237327641534	-119.458617174884	0.00287696320193551
+Puccinellia_angustata	GQ283273.1	28-FEB-2010	1175	Canada: Northwest Territories, Banks Island	secondary	rpoB	73.8479748632517	-119.735511918254	0.00202985024689327
+Puccinellia_angustata	GQ283272.1	28-FEB-2010	1176	Canada: Northwest Territories, Banks Island	secondary	rpoB	73.2014890101153	-121.319120219468	0.00255152142690137
+Puccinellia_angustata	GQ283271.1	28-FEB-2010	1177	Canada: Northwest Territories, Banks Island	secondary	rpoB	74.4731918393786	-121.510458646627	0.00287696320193551
+Puccinellia_angustata	GQ283270.1	28-FEB-2010	1179	Canada: Northwest Territories, Banks Island	secondary	rpoB	74.2838854876378	-121.374263381274	0.0027457527168517
+Puccinellia_angustata	GQ283269.1	28-FEB-2010	1176	Canada: Northwest Territories, Banks Island	secondary	rpoB	73.1965593761088	-122.237699922557	0.0066731242415133

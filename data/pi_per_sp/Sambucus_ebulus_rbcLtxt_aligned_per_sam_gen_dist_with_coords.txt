@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sambucus_ebulus	MG223397.1	26-DEC-2017	552	Canada: Guelph, ON	primary	rbcL	43.5485	-80.2503	0.000413821642871922
+Sambucus_ebulus	JN893720.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.41	-3.36	0.00042247570764681
+Sambucus_ebulus	ON950751.1	17-OCT-2022	756	Kenya	secondary	rbcL	1.4419683	38.4313975	0.000505050505050505
+Sambucus_ebulus	MN662677.1	13-OCT-2020	467	Lebanon	secondary	rbcL	40.375713	-76.4626118	0.000475850582916964
+Sambucus_ebulus	MK924813.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.4431807941518	-3.52936146211437	0.00042247570764681
+Sambucus_ebulus	KX163035.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.3165885283148	-3.09615432667051	0.000398962696987832
+Sambucus_ebulus	HG765078.1	18-NOV-2013	688	Italy	secondary	rbcL	43.0407973291517	13.6842018667426	0.00396808438244547
+Sambucus_ebulus	HG765077.1	18-NOV-2013	688	Italy	secondary	rbcL	42.9765178068498	13.1476293417389	0.000484496124031008
+Sambucus_ebulus	JN893334.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00042247570764681
+Sambucus_ebulus	JN890911.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00042247570764681

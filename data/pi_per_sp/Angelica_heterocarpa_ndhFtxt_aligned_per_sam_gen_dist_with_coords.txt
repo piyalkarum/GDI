@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Angelica_heterocarpa	MT765892.1	05-MAY-2021	1041	France	secondary	ndhF	46.269659823429	2.60454693438417	0.00160225621320722
+Angelica_heterocarpa	MT765887.1	05-MAY-2021	1044	France	secondary	ndhF	46.0760459086007	2.92459461437403	0.000960614793467819
+Angelica_heterocarpa	MT765886.1	05-MAY-2021	1042	France	secondary	ndhF	46.6286161607244	2.36713257839892	0.000961230572181581
+Angelica_heterocarpa	MT765885.1	05-MAY-2021	1042	France	secondary	ndhF	46.8202947093637	0.707193085395257	0.000961230572181581

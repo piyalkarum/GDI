@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Medicago_polymorpha	OL434914.1	14-NOV-2022	806	USA: Georgia	primary	matK	32.1403	-81.1446	0.00657900664558676
+Medicago_polymorpha	KX677242.1	09-AUG-2017	821	Canada: British Columbia, Capital Regional District, Victoria, Clover Point	primary	matK	48.405	-123.35	0.00678559635536008
+Medicago_polymorpha	OQ390727.1	24-MAY-2023	809	Peru	secondary	matK	-6.86622336587344	-75.7443741248277	0.0072572909029715
+Medicago_polymorpha	OQ390726.1	24-MAY-2023	803	Peru	secondary	matK	-6.57241341137894	-75.0547080223236	0.00660702602004711
+Medicago_polymorpha	OQ290337.1	16-MAY-2023	804	Mexico: Puebla	secondary	matK	19.1705686	-98.4123106	0.00660451169233111
+Medicago_polymorpha	MN311788.1	30-NOV-2021	753	China	secondary	matK	34.5990313139966	104.995000425052	0.0398102538562002
+Medicago_polymorpha	MN433368.1	30-NOV-2021	787	China	secondary	matK	34.701193596423	105.892918171355	0.00661992303444244
+Medicago_polymorpha	HM851137.1	23-JUL-2011	813	Portugal	secondary	matK	39.3517053822053	-9.13992503779482	0.0113160646269987
+Medicago_polymorpha	JX505826.1	09-JAN-2013	1378	Portugal	secondary	matK	39.1602861868525	-9.09404305234069	0.00748153413933574
+Medicago_polymorpha	JN893893.1	07-MAR-2012	930	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0192182976483155

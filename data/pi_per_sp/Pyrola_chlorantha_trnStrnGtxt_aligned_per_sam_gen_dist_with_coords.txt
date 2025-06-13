@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pyrola_chlorantha	KR005198.1	16-SEP-2015	716	USA: South Dakota	secondary	trnS-trnG	45.2343640869596	-99.5709604426989	0
+Pyrola_chlorantha	KR005197.1	16-SEP-2015	716	USA: South Dakota	secondary	trnS-trnG	44.5426886076679	-100.861174459449	0
+Pyrola_chlorantha	KR005196.1	16-SEP-2015	716	USA: South Dakota	secondary	trnS-trnG	45.4993343455458	-100.464997835731	0
+Pyrola_chlorantha	KR005195.1	16-SEP-2015	716	USA: South Dakota	secondary	trnS-trnG	44.980375621199	-100.813789496381	0
+Pyrola_chlorantha	KR005194.1	16-SEP-2015	716	USA: South Dakota	secondary	trnS-trnG	44.9161960410799	-99.1848963102615	0
+Pyrola_chlorantha	KR005193.1	16-SEP-2015	716	USA: South Dakota	secondary	trnS-trnG	44.9346952602597	-101.455874412494	0
+Pyrola_chlorantha	KR005192.1	16-SEP-2015	716	USA: Michigan	secondary	trnS-trnG	44.245411470702	-83.8479615053783	0
+Pyrola_chlorantha	KR005191.1	16-SEP-2015	716	USA: Michigan	secondary	trnS-trnG	43.5594313109666	-85.3610171633057	0
+Pyrola_chlorantha	KR005190.1	16-SEP-2015	716	USA: Michigan	secondary	trnS-trnG	44.1226472019418	-84.7757104691392	0
+Pyrola_chlorantha	KR005189.1	16-SEP-2015	716	USA: South Dakota	secondary	trnS-trnG	44.4179699945005	-99.6142375050233	0
+Pyrola_chlorantha	KR005188.1	16-SEP-2015	716	USA: South Dakota	secondary	trnS-trnG	44.3606157827375	-100.253139932486	0
+Pyrola_chlorantha	KR005187.1	16-SEP-2015	717	USA: South Dakota	secondary	trnS-trnG	43.8092427867001	-100.280570111469	0
+Pyrola_chlorantha	KR005186.1	16-SEP-2015	716	USA: South Dakota	secondary	trnS-trnG	44.7308351110402	-99.5658421097832	0
+Pyrola_chlorantha	KR005185.1	16-SEP-2015	717	USA: South Dakota	secondary	trnS-trnG	44.9703790639676	-100.383364013901	0
+Pyrola_chlorantha	KR005183.1	16-SEP-2015	717	USA: South Dakota	secondary	trnS-trnG	44.9880964373022	-99.4019979710887	0
+Pyrola_chlorantha	KR005182.1	16-SEP-2015	717	USA: Michigan	secondary	trnS-trnG	43.151938412143	-85.3229277847968	0
+Pyrola_chlorantha	KR005181.1	16-SEP-2015	716	USA: Michigan	secondary	trnS-trnG	43.7011719754059	-83.7608484214906	0
+Pyrola_chlorantha	KR005180.1	16-SEP-2015	717	USA: Michigan	secondary	trnS-trnG	43.928066738342	-85.2628592219327	0
+Pyrola_chlorantha	KR005179.1	16-SEP-2015	716	USA: Michigan	secondary	trnS-trnG	44.1580512852861	-85.1248570461345	0
+Pyrola_chlorantha	KR005178.1	16-SEP-2015	716	USA: Michigan	secondary	trnS-trnG	43.9331276486969	-83.9306751084144	0
+Pyrola_chlorantha	KR005177.1	16-SEP-2015	716	USA: Michigan	secondary	trnS-trnG	43.7969480603564	-83.7482640907963	0

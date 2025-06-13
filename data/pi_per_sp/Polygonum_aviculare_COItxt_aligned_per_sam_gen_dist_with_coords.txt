@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygonum_aviculare	EU701167.1	03-SEP-2008	655	Canada: Ontario	primary	COI	44.032	-79.534	0.00254452926208651
+Polygonum_aviculare	EU701166.1	03-SEP-2008	655	Canada: Ontario	primary	COI	43.529	-80.229	0.00254452926208651
+Polygonum_aviculare	EU701165.1	03-SEP-2008	655	Canada: Ontario	primary	COI	45.227	-81.527	0.00254452926208651
+Polygonum_aviculare	EU701164.1	03-SEP-2008	655	Canada: Ontario	primary	COI	43.221	-79.618	0.00356234096692112

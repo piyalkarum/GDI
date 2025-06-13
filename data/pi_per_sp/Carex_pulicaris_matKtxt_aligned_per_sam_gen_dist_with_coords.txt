@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_pulicaris	MZ892046.1	12-DEC-2021	545	Spain: Huesca, Panticosa	secondary	matK	42.7236963	-0.2843924	0.00723269775504164
+Carex_pulicaris	MZ892045.1	12-DEC-2021	434	United Kingdom: Scotland, Highlands	secondary	matK	56.8	-5	0.00691244239631336
+Carex_pulicaris	MN763011.1	28-JUL-2020	815	United Kingdom: England	secondary	matK	52.5310214	-1.2649062	0.00356297298439944
+Carex_pulicaris	KJ513590.1	06-SEP-2014	1277	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00356297298439944
+Carex_pulicaris	JN894931.1	07-MAR-2012	781	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.00356297298439944

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brachypodium_sylvaticum	JN895901.1	07-MAR-2012	1043	United Kingdom: Breconshire	primary	matK	51.8	-3.79	0.0133567645708094
+Brachypodium_sylvaticum	MN492699.1	30-NOV-2021	789	China	secondary	matK	34.6104749412624	105.911350872507	0.0146354159964653
+Brachypodium_sylvaticum	MN450932.1	30-NOV-2021	782	China	secondary	matK	35.129425852092	105.760414776959	0.0158740639970804
+Brachypodium_sylvaticum	KJ204448.1	29-JAN-2015	813	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0130844091773583
+Brachypodium_sylvaticum	HM850579.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0200438169925659
+Brachypodium_sylvaticum	JN894148.1	07-MAR-2012	808	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0137393282577621
+Brachypodium_sylvaticum	JN894145.1	07-MAR-2012	738	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0134386686363936
+Brachypodium_sylvaticum	HQ600033.1	02-AUG-2011	1329	South Korea	secondary	matK	36.638392	127.6961188	0.0687185704113538

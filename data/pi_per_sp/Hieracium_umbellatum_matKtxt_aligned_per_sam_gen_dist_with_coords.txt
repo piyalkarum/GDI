@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hieracium_umbellatum	KX677561.1	09-AUG-2017	786	Canada: British Columbia, Okanagan-Similkameen Regional District, East of Manning Park, Pasayten Forest Service Road	primary	matK	49.132	-120.585	0.0082792835862937
+Hieracium_umbellatum	MG225071.1	21-JAN-2018	746	Canada: Yukon Territory, Whitehorse, S of, Venus Rd intersection with the Alaska Hwy	primary	matK	60.6	-134.817	0.00642832918179721
+Hieracium_umbellatum	MG225056.1	21-JAN-2018	771	Canada: Yukon Territory, Crow River Hotsprings	primary	matK	60.2	-125.79	0.00546967432255884
+Hieracium_umbellatum	KC474886.1	25-OCT-2013	783	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	matK	62.533	-114.356	0.00558965015701207
+Hieracium_umbellatum	MT917389.1	03-MAR-2023	789	China	secondary	matK	35.000074	104.999927	0.0280241961638815
+Hieracium_umbellatum	KT250107.1	09-AUG-2015	820	Romania	secondary	matK	45.9852129	24.6859225	0.00554505856563355
+Hieracium_umbellatum	KF195975.1	20-JAN-2014	794	China: Yunnan, Zhongdian	secondary	matK	27.8717021	99.8365499	0.00554089405657719
+Hieracium_umbellatum	AJ633195.1	10-OCT-2004	970	Germany:Bavaria, Oberpfalz	secondary	matK	49.1919845	11.6036515	0.00702445196612034

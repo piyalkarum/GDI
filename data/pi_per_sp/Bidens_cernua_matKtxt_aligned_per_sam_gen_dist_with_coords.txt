@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bidens_cernua	MG225347.1	21-JAN-2018	792	Canada: Yukon Territory, Watson Lake, Wye Lake	primary	matK	60.066	-128.703	0.00173009263848959
+Bidens_cernua	MG225119.1	21-JAN-2018	792	Canada: Yukon Territory, Beaver River Hotsprings	primary	matK	60.381	-125.576	0.00202318855010554
+Bidens_cernua	MG225088.1	21-JAN-2018	787	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island bog, FFNMP	primary	matK	45.266	-81.7	0.00173284970554983
+Bidens_cernua	HQ593191.1	09-NOV-2011	794	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., N edge of pond	primary	matK	44.035	-79.518	0.00202621097336636
+Bidens_cernua	KJ592872.1	17-MAR-2015	503	USA: Wisconsin, Silvercliff	primary	matK	45.512	-88.409	0.00178612813642037
+Bidens_cernua	JN895705.1	07-MAR-2012	942	United Kingdom: Glamorgan	primary	matK	51.48	-3.28	0.00173844787839204
+Bidens_cernua	JN893931.1	07-MAR-2012	660	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00756558877364247
+Bidens_cernua	JN893870.1	07-MAR-2012	977	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00172655732182701

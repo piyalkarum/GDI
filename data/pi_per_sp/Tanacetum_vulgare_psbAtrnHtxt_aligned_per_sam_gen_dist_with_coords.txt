@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tanacetum_vulgare	OR381781.1	30-SEP-2023	179	Canada: Guelph, ON	secondary	psbA-trnH	43.8626045256615	-80.8025534856589	0
+Tanacetum_vulgare	OR381780.1	30-SEP-2023	179	Canada: Guelph, ON	secondary	psbA-trnH	44.2536253352963	-80.7949213053272	0
+Tanacetum_vulgare	OR381762.1	30-SEP-2023	466	Canada: Guelph, ON	secondary	psbA-trnH	43.9190529296168	-79.971092959267	0
+Tanacetum_vulgare	OR381761.1	30-SEP-2023	466	Canada: Guelph, ON	secondary	psbA-trnH	43.8464312114574	-79.685881047545	0
+Tanacetum_vulgare	OQ320365.1	14-JUN-2023	381	Latvia	secondary	psbA-trnH	56.8406494	24.7537645	0

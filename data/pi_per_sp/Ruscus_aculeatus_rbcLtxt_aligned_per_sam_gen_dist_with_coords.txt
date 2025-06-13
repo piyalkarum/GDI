@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ruscus_aculeatus	ON684481.1	21-AUG-2022	1452	Portugal: Casais da Cabrela, Terrugem, Sintra	primary	rbcL	38.85472	-9.35222	0.0228714216902891
+Ruscus_aculeatus	OL537095.1	10-JAN-2022	553	USA: Missouri, Missouri Botanical Garden, Shoenberg Temperate House. Source, Giardini Botanico Hanbury (Unknown). MOBOT LCMS Accesion # 1989-4672-2	primary	rbcL	38.6145	-90.2591	0.0237070283826768
+Ruscus_aculeatus	MF349328.1	21-SEP-2017	523	USA: District of Columbia; US National Arboretum, National Herb Garden - Dioscorides Garden	primary	rbcL	38.911	-76.969	0.0224297828752466
+Ruscus_aculeatus	JN892146.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.44	-3.6	0.0234953089042308
+Ruscus_aculeatus	KX163027.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.5053037864468	-4.24754049768423	0.0232618466943797
+Ruscus_aculeatus	KX163026.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.4656646758193	-2.73611386595799	0.0232618466943797
+Ruscus_aculeatus	KM527354.1	15-SEP-2015	559	Croatia	secondary	rbcL	45.3658443	15.6575209	0.177423327133402
+Ruscus_aculeatus	HM850325.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0304288873417023
+Ruscus_aculeatus	JN892402.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0234953089042308

@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tilia_cordata	MG220903.1	21-JAN-2018	788	Canada: Quebec, Ste-Foy, partie ancienne de la pepiniere de la Centrale d'energie.	primary	matK	46.783	-71.275	0.000129366106080207
+Tilia_cordata	JN894141.1	07-MAR-2012	802	United Kingdom: Cardiganshire	primary	matK	52.33	-3.93	0
+Tilia_cordata	OQ929519.1	04-JUL-2023	755	Switzerland	secondary	matK	47.0897367734305	7.48072268207513	0
+Tilia_cordata	OQ929510.1	04-JUL-2023	776	Switzerland	secondary	matK	47.3590182159566	8.39962315069181	0.000129366106080207
+Tilia_cordata	MG221069.1	21-JAN-2018	670	Canada: Ontario, Simcoe Co., Tecumseth Tp., Beeton	secondary	matK	44.0789618	-79.784557	0
+Tilia_cordata	MG220805.1	21-JAN-2018	705	Canada: Ontario, Toronto, City of, Mount Pleasant Cemetery	secondary	matK	43.697204	-79.3791189	0
+Tilia_cordata	JN896030.1	07-MAR-2012	761	United Kingdom: Breconshire (42)	secondary	matK	52.3595447445164	-0.821073366291573	0
+Tilia_cordata	JN894342.1	07-MAR-2012	795	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0
+Tilia_cordata	JN894340.1	07-MAR-2012	828	United Kingdom: Breconshire	secondary	matK	52.3370153907531	-1.12450542642096	0
+Tilia_cordata	KP089342.1	15-MAR-2015	733	China	secondary	matK	39.1805360141386	116.811362883603	0
+Tilia_cordata	KP089341.1	15-MAR-2015	733	China	secondary	matK	39.8936010126266	116.579409140257	0

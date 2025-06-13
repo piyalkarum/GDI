@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pontederia_korsakowii	LC576889.1	03-MAR-2021	348	China: Liaoning, Shenyang	secondary	rps16	41.160268249968	123.87720859797	0.0989806412583182
+Pontederia_korsakowii	LC576888.1	03-MAR-2021	348	Japan: Hokkaido, Sapporo, Chuo, Kita	secondary	rps16	43.0683802	141.3867912	0.0986932849364791
+Pontederia_korsakowii	LC576887.1	03-MAR-2021	348	Japan: Akita, Yamamoto	secondary	rps16	40.2765395	140.1117149	0.0986932849364791
+Pontederia_korsakowii	LC576886.1	03-MAR-2021	348	Japan: Shizuoka, Shizuoka, Asahata	secondary	rps16	34.4030827972033	137.920851167293	0.0986932849364791
+Pontederia_korsakowii	LC576885.1	03-MAR-2021	348	Japan: Fukushima, Soma, Naraha	secondary	rps16	41.4839424	140.2508772	0.0986932849364791
+Pontederia_korsakowii	LC576884.1	03-MAR-2021	348	Japan: Miyagi, Natori	secondary	rps16	38.171499	140.8917335	0.0989806412583182
+Pontederia_korsakowii	LC576883.1	03-MAR-2021	348	Japan: Hokkaido, Yubari, naganuma	secondary	rps16	43.010346	141.6951135	0.0986932849364791
+Pontederia_korsakowii	LC576882.1	03-MAR-2021	348	China: Liaoning	secondary	rps16	41.2374106	122.9955469	0.0989806412583182
+Pontederia_korsakowii	LC576881.1	03-MAR-2021	348	China: Liaoning, Shenyang	secondary	rps16	41.9931401260022	122.614287283603	0.0989806412583182
+Pontederia_korsakowii	LC576846.1	03-MAR-2021	298	China: Liaoning, Shenyang	secondary	rps16	41.9991270587176	123.671418388278	0.438947368421053
+Pontederia_korsakowii	LC576845.1	03-MAR-2021	298	Japan: Shizuoka, Shizuoka, Asahata	secondary	rps16	35.8102493652716	138.127733312139	0.438947368421053

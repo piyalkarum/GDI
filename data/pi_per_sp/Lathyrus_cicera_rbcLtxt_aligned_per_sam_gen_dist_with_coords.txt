@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_cicera	KX431869.1	10-MAY-2017	515	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00277392510402219
+Lathyrus_cicera	KX431868.1	10-MAY-2017	515	Iraq	secondary	rbcL	33.0955793	44.1749775	0.00388403481977582
+Lathyrus_cicera	KX431867.1	10-MAY-2017	501	Turkey	secondary	rbcL	38.9597594	34.9249653	0.00256629597946963
+Lathyrus_cicera	KX431866.1	10-MAY-2017	515	Syria	secondary	rbcL	34.6401861	39.0494106	0.0162125626660991
+Lathyrus_cicera	KX431865.1	10-MAY-2017	516	Algeria	secondary	rbcL	28.0000272	2.9999825	0.00445375479928181
+Lathyrus_cicera	KX431864.1	10-MAY-2017	514	Morocco	secondary	rbcL	28.3347722	-10.3713379	0.00277932184546971
+Lathyrus_cicera	KX431863.1	10-MAY-2017	502	Tunisia: Djerba	secondary	rbcL	33.7735976	10.8861888	0.00256118383608423
+Lathyrus_cicera	KX431862.1	10-MAY-2017	524	Tunisia: Zarzis	secondary	rbcL	33.5036797	11.1097173	0.00277392510402219

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_acutus	OQ851352.1	14-AUG-2023	450	Egypt	primary	matK	31.3279	31.814	0.000740740740740741
+Juncus_acutus	JN894994.1	07-MAR-2012	692	United Kingdom: Carmarthenshire	primary	matK	51.78	-4.37	0
+Juncus_acutus	HM850944.1	23-JUL-2011	764	Portugal	secondary	matK	39.6621648	-8.1353519	0.00087260034904014
+Juncus_acutus	JN896001.1	07-MAR-2012	835	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00161334108978088

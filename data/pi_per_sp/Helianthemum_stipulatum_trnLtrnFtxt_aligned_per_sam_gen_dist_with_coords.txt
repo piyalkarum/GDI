@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_stipulatum	KX498720.1	18-SEP-2017	402	Iran	primary	trnL-trnF	28.55	56.25	0.000998003992015968
+Helianthemum_stipulatum	KX498719.1	18-SEP-2017	334	Djibouti	primary	trnL-trnF	11.82	42.27	0.000998003992015968
+Helianthemum_stipulatum	MN622937.1	18-NOV-2020	376	Israel	secondary	trnL-trnF	30.8124247	34.8594762	0
+Helianthemum_stipulatum	MN622901.1	18-NOV-2020	378	Cyprus	secondary	trnL-trnF	34.9174159	32.8899027	0

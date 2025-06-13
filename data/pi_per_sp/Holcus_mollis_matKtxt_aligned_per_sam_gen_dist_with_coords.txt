@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Holcus_mollis	MF597421.1	17-JUL-2018	778	Canada: British Columbia, Lower Mainland, Serpentine Fen Bird Sanctuary and Nature Trails Park, just NE of Hwy. 99A, E of Mud Bay and S of Serpentine River, off 44 Avenue	primary	matK	49.082	-122.826	0.00620384795276394
+Holcus_mollis	JN895313.1	07-MAR-2012	1047	United Kingdom: Cardiganshire	primary	matK	52.15	-3.85	0.00309134336662216
+Holcus_mollis	LR606914.1	25-JAN-2021	1993	Germany	secondary	matK	34.895926	-83.4665496	0.002904741494639
+Holcus_mollis	MT433203.1	31-MAY-2020	1366	Norway	secondary	matK	64.5731537	11.5280364	0.0056082580386057
+Holcus_mollis	JN895365.1	07-MAR-2012	785	United Kingdom: Montgomeryshire	secondary	matK	52.615273	-3.4649973	0.00309728987136256
+Holcus_mollis	JN895362.1	07-MAR-2012	774	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00310077519379845

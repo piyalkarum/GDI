@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stachys_sylvatica	MG223164.1	26-DEC-2017	552	Canada: OAC garden, Guelph	primary	rbcL	43.5485	-80.2503	0.000317460317460317
+Stachys_sylvatica	JN892814.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000324254215304799
+Stachys_sylvatica	ON755118.1	14-MAR-2023	654	Egypt	secondary	rbcL	26.2540493	29.2675469	0.00193193749613983
+Stachys_sylvatica	KJ204409.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000317460317460317
+Stachys_sylvatica	JN893727.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000324254215304799
+Stachys_sylvatica	JN893526.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.000324254215304799
+Stachys_sylvatica	JN892197.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000324254215304799

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_vulgaris	ON684588.1	21-AUG-2022	1524	Portugal: Utopia, Pedreira, Povoa do Lanhoso	primary	matK	41.61855	-8.32338	0.00490724173168941
+Thymus_vulgaris	HE819432.1	22-MAY-2013	789	France	primary	matK	43.93	7.51	0.00514133364811514
+Thymus_vulgaris	HE819431.1	22-MAY-2013	789	Italy:Liguria	primary	matK	44.22	9.5	0.00435560875695924
+Thymus_vulgaris	HE819430.1	22-MAY-2013	789	Italy:Lazio	primary	matK	41.29	13.25	0.00664792116437297
+Thymus_vulgaris	FR719108.1	30-MAR-2011	810	Italy	secondary	matK	42.1504268520327	12.1081113308052	0.00434547474478222
+Thymus_vulgaris	FR719107.1	30-MAR-2011	810	Italy	secondary	matK	42.6318854179208	12.384962286769	0.00434547474478222
+Thymus_vulgaris	FR719106.1	30-MAR-2011	810	Italy	secondary	matK	43.0407684920921	12.9338003607532	0.00434547474478222
+Thymus_vulgaris	MN972467.1	03-JUN-2020	643	Egypt	secondary	matK	30.0443879	31.2357257	0.015318987782002

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phyla_nodiflora	OK469392.1	04-JAN-2022	349	USA: Fort Worth Botanic Gardens	primary	psbA-trnH	32.74172251	-97.36252225	0.00256964714493569
+Phyla_nodiflora	OK636911.1	13-DEC-2021	393	China: Guangxi, Beihai, Lianzhou Harbor	primary	psbA-trnH	22.1319843962377	109.179321346649	0.000676232346872562
+Phyla_nodiflora	OK636910.1	13-DEC-2021	393	China: Guangxi, Beihai, Lianzhou Harbor	primary	psbA-trnH	21.0364567155207	108.997137332189	0.000676232346872562
+Phyla_nodiflora	OK636909.1	13-DEC-2021	393	China: Guangxi, Beihai, Lianzhou Harbor	primary	psbA-trnH	21.0262014337647	109.556894346398	0.000676232346872562
+Phyla_nodiflora	OK636908.1	13-DEC-2021	393	China: Guangxi, Beihai, Lianzhou Harbor	primary	psbA-trnH	21.3949607456772	109.406593661033	0.000676232346872562
+Phyla_nodiflora	OQ309522.1	16-MAY-2023	405	Mexico: Puebla	secondary	psbA-trnH	19.1710098	-98.4125121	0.00234544294973056
+Phyla_nodiflora	MZ146732.1	10-AUG-2021	334	India	secondary	psbA-trnH	22.3511148	78.6677428	0.000763659596694462
+Phyla_nodiflora	MH622021.1	03-MAY-2019	334	USA	secondary	psbA-trnH	39.7837304	-100.445882	0.000763659596694462
+Phyla_nodiflora	MH069967.1	30-APR-2019	385	Malaysia	secondary	psbA-trnH	3.18209125	101.695260411187	0.000682841513787073

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ulmus_minor	MH589264.1	12-MAR-2019	754	United Kingdom: Norfolk	secondary	matK	52.666667	1	0.00227070343455402
+Ulmus_minor	KJ204554.1	29-JAN-2015	721	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.00202205794347048
+Ulmus_minor	KC584949.1	04-JUN-2013	821	Italy: Umbria	secondary	matK	42.965916	12.490236	0.00244776015357462
+Ulmus_minor	HE967015.1	18-SEP-2012	754	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00341460099627146
+Ulmus_minor	JN895917.1	07-MAR-2012	780	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00111601588621622
+Ulmus_minor	JN895764.1	07-MAR-2012	835	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00158525871743829

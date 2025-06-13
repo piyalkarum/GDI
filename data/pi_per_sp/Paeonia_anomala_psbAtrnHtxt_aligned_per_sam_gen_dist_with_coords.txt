@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Paeonia_anomala	DQ313735.1	31-DEC-2006	258	China	secondary	psbA-trnH	35.051862416161	105.734963946176	0
+Paeonia_anomala	DQ313734.1	31-DEC-2006	255	China	secondary	psbA-trnH	35.1615510920335	104.445868420587	0
+Paeonia_anomala	DQ313733.1	31-DEC-2006	258	China	secondary	psbA-trnH	34.8663492928567	105.569879188541	0
+Paeonia_anomala	DQ313732.1	31-DEC-2006	246	China	secondary	psbA-trnH	34.7756430432777	105.357960760137	0
+Paeonia_anomala	DQ313731.1	31-DEC-2006	247	China	secondary	psbA-trnH	34.5003488424673	105.908336330708	0

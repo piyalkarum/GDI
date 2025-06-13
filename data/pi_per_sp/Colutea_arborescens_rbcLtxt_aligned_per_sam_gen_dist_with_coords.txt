@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colutea_arborescens	MG248881.1	21-JAN-2018	552	Canada: Ontario, UofG Arboretum	primary	rbcL	43.0400213999606	-79.7048686017551	0
+Colutea_arborescens	MG247685.1	21-JAN-2018	552	Canada: Ontario, RBG Old Guelph Rd. (Hill)	primary	rbcL	42.9217656718897	-79.7236694475443	0
+Colutea_arborescens	MG247613.1	21-JAN-2018	552	Canada: Ontario, Ottawa, City of, Ottawa Arboretum.	secondary	rbcL	45.3911336	-75.7045198	0
+Colutea_arborescens	MG246834.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, High Park.	secondary	rbcL	43.6538668	-79.4668644	0
+Colutea_arborescens	MG246501.1	21-JAN-2018	552	Canada: Ontario, Middlesex Co., London, Springbank Park.	secondary	rbcL	43.72634945	-77.7101179040839	0
+Colutea_arborescens	KP088540.1	15-MAR-2015	785	China	secondary	rbcL	39.9057136	116.3912972	0

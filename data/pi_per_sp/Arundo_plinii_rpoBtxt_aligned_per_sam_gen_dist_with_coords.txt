@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arundo_plinii	MT079779.1	09-AUG-2020	994	Italy: Roma	secondary	rpoB	41.8933203	12.4829321	0.00100755693077348
+Arundo_plinii	MT079778.1	09-AUG-2020	993	Italy: Bologna	secondary	rpoB	44.4938203	11.3426327	0.00100755693077348
+Arundo_plinii	KF169804.1	30-SEP-2013	993	Italy	secondary	rpoB	42.142677465911	12.214546324663	0.00151057401812689
+Arundo_plinii	KF169803.1	30-SEP-2013	992	Croatia	secondary	rpoB	45.3658443	15.6575209	0.00151209677419355
+Arundo_plinii	KF169802.1	30-SEP-2013	993	Italy	secondary	rpoB	42.3651431259812	11.6103383276321	0.00100755693077348

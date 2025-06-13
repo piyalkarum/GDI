@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Avenella_flexuosa	MF597186.1	17-JUL-2018	812	USA: Tennessee, Sevier, Great Smoky Mountain National Park, Alum Cave Trail, near trail head.	primary	matK	35.65	-83.437	0.00330465062862063
+Avenella_flexuosa	KJ840868.1	23-SEP-2014	750	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, rocky peak approximately 50-100 metres north of Dieppe summit	primary	matK	45.56	-73.1754	0.000797804891349584
+Avenella_flexuosa	KJ840867.1	23-SEP-2014	741	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Along a hidden trail on south-west edge of reserve	primary	matK	45.548	-73.173	0.000779338398741553
+Avenella_flexuosa	JN894954.1	07-MAR-2012	1035	United Kingdom: Carmarthenshire	primary	matK	52.09	-3.89	0.00155482725738951
+Avenella_flexuosa	LR606838.1	25-JAN-2021	2132	Germany	secondary	matK	31.4399019	-95.350778	0.00261261410768526
+Avenella_flexuosa	JX438083.1	31-MAR-2013	1228	Spain	secondary	matK	39.3260685	-4.8379791	0.00127582023012401
+Avenella_flexuosa	JN896065.1	07-MAR-2012	741	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.00330948106083153
+Avenella_flexuosa	JN895040.1	07-MAR-2012	754	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00230680362294872

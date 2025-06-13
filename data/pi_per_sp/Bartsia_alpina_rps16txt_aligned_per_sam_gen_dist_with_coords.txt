@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bartsia_alpina	JF900538.1	05-MAR-2013	814	Canada	secondary	rps16	61.0666922	-107.991707	0.00342774384828736
+Bartsia_alpina	JF900537.1	05-MAR-2013	808	Finland	secondary	rps16	63.2467777	25.9209164	0.00343425164869963
+Bartsia_alpina	JF900536.1	05-MAR-2013	807	Italy	secondary	rps16	42.6384261	12.674297	0.00428135033569666
+Bartsia_alpina	JF900535.1	05-MAR-2013	775	Germany	secondary	rps16	40.4203479	-79.1166983	0.00774193548387097

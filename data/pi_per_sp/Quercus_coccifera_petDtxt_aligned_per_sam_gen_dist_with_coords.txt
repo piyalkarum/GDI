@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_coccifera	MN751803.1	24-NOV-2021	886	Lebanon: Mount Lebanon, Tarchich	primary	petD	34.2928766032954	36.7583873524494	0.000322476620445018
+Quercus_coccifera	MN751802.1	24-NOV-2021	886	Lebanon: Beqaa, Ammiq	primary	petD	34.3254329165369	36.1298515174081	0.000322476620445018
+Quercus_coccifera	MN751801.1	24-NOV-2021	886	Lebanon: Beqaa, Ammiq	primary	petD	34.3684318831129	35.8651465361981	0.000322476620445018
+Quercus_coccifera	MN751800.1	24-NOV-2021	886	Lebanon: Mount Lebanon, Tarchich	primary	petD	33.5041490070435	35.3767227247518	0.000322476620445018
+Quercus_coccifera	MN751799.1	24-NOV-2021	886	Lebanon: North, Ehden reserve-Ain Al Naassa	primary	petD	33.6563757955344	36.3465277028673	0.000322476620445018
+Quercus_coccifera	MN751798.1	24-NOV-2021	886	Lebanon: North, Ehden reserve-Ain Al Naassa	primary	petD	34.5150388343566	36.7136288292423	0.000322476620445018
+Quercus_coccifera	MN751797.1	24-NOV-2021	886	Lebanon: South, Habbariyeh	primary	petD	32.7740064199056	36.176761200741	0.000967429861335053
+Quercus_coccifera	MN751796.1	24-NOV-2021	886	Lebanon: South, Habbariyeh	primary	petD	32.8639698483906	35.2764589659699	0.000967429861335053

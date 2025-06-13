@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_multiceps	LC757345.1	24-AUG-2023	311	France:Monte d'Oro	primary	trnL-trnF	41.2716846491842	8.72654515718545	0.00964630225080386
+Armeria_multiceps	LC757344.1	24-AUG-2023	311	France:Monte d'Oro	primary	trnL-trnF	42.4358957355406	9.62402447230388	0.00964630225080386
+Armeria_multiceps	LC757343.1	24-AUG-2023	311	France:Monte d'Oro	primary	trnL-trnF	41.6784798218328	9.48830385199631	0.00578778135048231
+Armeria_multiceps	LC757342.1	24-AUG-2023	311	France:Col di Bavella	primary	trnL-trnF	41.305218602653	8.64683762568144	0.00578778135048231
+Armeria_multiceps	LC757341.1	24-AUG-2023	311	France:Col di Bavella	primary	trnL-trnF	42.0869397106269	9.74752523913946	0.00578778135048231
+Armeria_multiceps	LC757340.1	24-AUG-2023	311	France:Col di Bavella	primary	trnL-trnF	41.8773460363145	9.59944432169929	0.00578778135048231

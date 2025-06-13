@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_villosa	AM409345.1	02-NOV-2006	674	Italy:Calabria	secondary	26S rRNA	39.0565974	16.5249864	0.000508130081300813
+Gagea_villosa	AM287283.1	19-JUL-2006	674	Italy:Abruzzo	secondary	26S rRNA	42.227681	13.854983	0.000508130081300813
+Gagea_villosa	AJ427545.1	12-JAN-2002	660	Germany:Saxony-Anhalt	secondary	26S rRNA	52.0089065	11.7003344	0.000508130081300813
+Gagea_villosa	AM180453.1	21-DEC-2005	656	Moldova	secondary	26S rRNA	47.2879608	28.5670941	0.00152439024390244

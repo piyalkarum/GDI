@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Comarum_palustre	KX677418.1	09-AUG-2017	790	Canada: British Columbia, Squamish-Lillooet Regional District, Small pond just off west side of Hwy 101	primary	matK	50.069	-123.097	0.000302236550473504
+Comarum_palustre	KX677312.1	09-AUG-2017	756	Canada: British Columbia, Thompson-Nicola Regional District, Shea Lake Forest Recreation Site	primary	matK	49.9024	-120.736	0.000302663438256659
+Comarum_palustre	KX676665.1	09-AUG-2017	763	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	matK	50.0449	-125.501	0.000306122448979592
+Comarum_palustre	MG221035.1	21-JAN-2018	759	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island Bog, FFNMP	primary	matK	45.266	-81.7	0.000284612412758866
+Comarum_palustre	MG220653.1	21-JAN-2018	759	USA: North Dakota	primary	matK	48.999	-100.426	0.000284612412758866
+Comarum_palustre	KC474483.1	25-OCT-2013	741	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	matK	66.839	-108.035	0.0011767991421622
+Comarum_palustre	KC474482.1	25-OCT-2013	759	Canada: Nunavut, Hudson Bay, Belcher Islands, Unnamed island between Kugong Island and Howard Peninusula	primary	matK	56.603	-79.611	0.00116839558489174
+Comarum_palustre	JN966247.1	27-OCT-2012	759	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0.00116839558489174
+Comarum_palustre	JN894052.1	07-MAR-2012	797	United Kingdom: Shetland (112)	primary	matK	60.3	-1.61	0.000284612412758866
+Comarum_palustre	MF543540.1	31-JUL-2018	815	Italy: Aosta Valley, Arvier, Boregne	secondary	matK	46.2860025996092	6.47989765410062	0.000289184499710815
+Comarum_palustre	MF543539.1	31-JUL-2018	808	Italy: Aosta Valley, Arvier, Boregne	secondary	matK	46.0495376014926	6.64972771307815	0.000295974743488556
+Comarum_palustre	MF543538.1	31-JUL-2018	817	Italy: Aosta Valley, Arvier, Boregne	secondary	matK	45.5075164523907	7.24833225390594	0.000381372610394778
+Comarum_palustre	MG220878.1	21-JAN-2018	767	Canada: Ontario, Thunder Bay District, Geraldton	secondary	matK	49.7188752	-86.9493168	0.000288407122023421
+Comarum_palustre	MG220840.1	21-JAN-2018	731	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	matK	43.72634945	-77.7101179040839	0.000294348508634223
+Comarum_palustre	JN896178.1	07-MAR-2012	842	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000374298895718724

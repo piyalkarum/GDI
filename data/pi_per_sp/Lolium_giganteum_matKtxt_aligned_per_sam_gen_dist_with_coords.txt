@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lolium_giganteum	JN894427.1	07-MAR-2012	837	United Kingdom: Glamorgan	primary	matK	51.52	-3.53	0
+Lolium_giganteum	LR606928.1	25-JAN-2021	2088	Germany	secondary	matK	40.4203479	-79.1166983	0.00020259319286872
+Lolium_giganteum	JX438096.1	31-MAR-2013	1234	Norway	secondary	matK	64.5731537	11.5280364	0.00020259319286872
+Lolium_giganteum	JN894873.1	07-MAR-2012	765	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Lolium_giganteum	JN894872.1	07-MAR-2012	781	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0

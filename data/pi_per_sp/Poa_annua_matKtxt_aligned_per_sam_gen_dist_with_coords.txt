@@ -1,0 +1,33 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_annua	OR738246.1	13-NOV-2023	658	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.0326493982320262
+Poa_annua	OL434903.1	14-NOV-2022	806	USA: Georgia	primary	matK	32.126	-81.14	0.00489352990159313
+Poa_annua	LC439241.1	02-NOV-2019	826	Japan:Ibaraki, Tsukuba, Tsukuba Botanical Garden	primary	matK	36.101	140.1109	0.00483718633909636
+Poa_annua	MF597501.1	17-JUL-2018	793	Canada: British Columbia, Rest area along Hwy. 3, 25 km W of Moyie, 8 km W of Rocky Mountain Forest District.	primary	matK	49.056	-116.028	0.00551222844480455
+Poa_annua	MF597500.1	17-JUL-2018	819	Canada: Yukon Territory, 86 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy 6) just west of MacMillan Pass.	primary	matK	62.767	-131.039	0.00521198125529678
+Poa_annua	MF597499.1	17-JUL-2018	792	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Hadyn Turner Campground, S end of Queen Charlotte City.	primary	matK	53.251	-132.119	0.00563846056957311
+Poa_annua	MF597498.1	17-JUL-2018	819	Canada: British Columbia, Francis Point Provincial Park - just south of Pender Harbour, Sunshine Coast	primary	matK	49.613	-124.055	0.00521198125529678
+Poa_annua	MF597497.1	17-JUL-2018	778	Canada: British Columbia, Osoyoos, roadside near Main Street and Tamarack Street.	primary	matK	49.212	-119.563	0.00483386642460205
+Poa_annua	MG217121.1	24-JAN-2018	646	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	matK	51.273	-80.641	0.00523186660057674
+Poa_annua	MG217112.1	24-JAN-2018	778	USA: New Hampshire, Coos County, Mt. Washington, Lake of Clouds Hut	primary	matK	44.26	-71.32	0.00485481464517599
+Poa_annua	HQ593388.1	09-NOV-2011	835	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West	primary	matK	44.5398084719395	-79.3485439120914	0.0117684915661327
+Poa_annua	HQ593387.1	09-NOV-2011	818	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, Compost area north of Dufferin St. driveway	primary	matK	44.6963533234758	-78.7027442177578	0.00500256572377573
+Poa_annua	KJ840967.1	23-SEP-2014	787	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Next to observation lookout at Lac Hertel	primary	matK	45.544	-73.156	0.00505998405445631
+Poa_annua	JN896112.1	07-MAR-2012	806	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.00483086055663657
+Poa_annua	OQ289860.1	16-MAY-2023	801	Mexico: Puebla	secondary	matK	19.1710098	-98.4125121	0.00501905969253876
+Poa_annua	ON341209.1	30-APR-2023	761	USA: Georgia	secondary	matK	32.3293809	-83.1137366	0.00536634234600924
+Poa_annua	MH551810.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.70257735	-81.983441193043	0.00484938234419204
+Poa_annua	MN450964.1	30-NOV-2021	785	China	secondary	matK	34.5072860838302	105.217640891003	0.091973227243067
+Poa_annua	LR606957.1	25-JAN-2021	2054	Germany	secondary	matK	40.4203479	-79.1166983	0.00494331755656046
+Poa_annua	HQ619828.1	26-DEC-2010	837	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.00487615890706223
+Poa_annua	MH898815.1	31-MAR-2019	754	Canada	secondary	matK	61.0666922	-107.991707	0.00484367970599284
+Poa_annua	KJ529344.1	22-FEB-2015	969	Spain	secondary	matK	39.3260685	-4.8379791	0.0149811722720554
+Poa_annua	MH116761.1	17-AUG-2018	646	China	secondary	matK	35.3070549251345	104.514974372367	0.015375004325092
+Poa_annua	MG217094.1	24-JAN-2018	772	Canada: Ontario, Ottawa-Carleton REGIONAL MUNICIPALITY, Greely, Hwy 16, Ottawa area, garden of Albert Dugal	secondary	matK	43.72634945	-77.7101179040839	0.00485831759827215
+Poa_annua	MG217041.1	24-JAN-2018	778	Canada: British Columbia, Vancouver, University of British Columbia, on grounds of Anthropology Museum	secondary	matK	49.25783145	-123.246241986222	0.00485481464517599
+Poa_annua	KJ204522.1	29-JAN-2015	800	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00521951975454733
+Poa_annua	KJ599340.1	21-SEP-2014	579	Australia: Victoria	secondary	matK	-36.5986096	144.6780052	0.00520301021621583
+Poa_annua	KJ599339.1	21-SEP-2014	352	Australia: Lord Howe Island	secondary	matK	-31.5233816	159.0636715	0.00641495601173021
+Poa_annua	KF713157.1	15-DEC-2013	1014	South Korea: Boryeong-si, Choongcheongnam-do	secondary	matK	36.33401	126.613165	0.00728447489243979
+Poa_annua	FN908068.1	17-MAY-2012	2495	Portugal:Azores	secondary	matK	37.8085564	-25.4731374	0.00494331755656046
+Poa_annua	JN895062.1	07-MAR-2012	740	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00490652065895838
+Poa_annua	JN894344.1	07-MAR-2012	788	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00481281632169716

@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabidopsis_thaliana	MG245902.1	21-JAN-2018	552	Canada: British Columbia, Vancouver, Point Grey, UBC Campus	primary	rbcL	49.25	-123.167	0.00422705314009662
+Arabidopsis_thaliana	JN891749.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.31	0.0043050430504305
+Arabidopsis_thaliana	MT930711.1	03-MAR-2023	569	China	secondary	rbcL	35.3005490249291	105.350795854345	0.020844941027764
+Arabidopsis_thaliana	MN185098.1	27-APR-2021	722	China	secondary	rbcL	35.0136364511559	105.845936071753	0.00446889619045193
+Arabidopsis_thaliana	KM892707.1	11-OCT-2018	577	China	secondary	rbcL	35.8874883708136	104.954066792012	0.0163072355194383
+Arabidopsis_thaliana	KM892696.1	11-OCT-2018	577	China	secondary	rbcL	35.0720114485623	104.43544089944	0.00447425580774319
+Arabidopsis_thaliana	MG248950.1	21-JAN-2018	553	Canada: Ontario, Wellington County, City of Guelph, University of Guelph, Animal Science Building Patio	secondary	rbcL	43.72634945	-77.7101179040839	0.00421940928270042
+Arabidopsis_thaliana	HM849785.1	23-JUL-2011	639	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00431803365730947
+Arabidopsis_thaliana	JN890748.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	52.7741928839179	-2.68321200878187	0.0043050430504305
+Arabidopsis_thaliana	JN890747.1	07-MAR-2012	513	United Kingdom: Caernarvonshire	secondary	rbcL	53.1692140448194	-3.06242671884089	0.00411522633744856

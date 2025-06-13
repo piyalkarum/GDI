@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_gallaecicum	MK481794.1	24-MAR-2019	364	Spain	primary	psbA-trnH	42.98	-7.92	0.00184162062615101
+Leucanthemum_gallaecicum	LN868977.1	17-SEP-2015	460	Spain	primary	psbA-trnH	42.85	-7.99	0.00184162062615101
+Leucanthemum_gallaecicum	HF912045.1	21-APR-2013	324	Spain:Lugo	primary	psbA-trnH	42.82	-7.95	0
+Leucanthemum_gallaecicum	HE680975.1	22-APR-2013	337	Spain:Galicia	secondary	psbA-trnH	42.61946	-7.863112	0

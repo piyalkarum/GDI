@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hordeum_secalinum	AJ608120.1	09-SEP-2004	599	Spain:San Juan del Puerto	secondary	ITS1	37.2875779087679	-7.59536261692184	0.0379004025661498
+Hordeum_secalinum	AJ608119.1	09-SEP-2004	599	Spain:San Juan del Puerto	secondary	ITS1	36.7643664804164	-6.43787368194014	0.109253065774805
+Hordeum_secalinum	AJ608118.1	09-SEP-2004	599	Spain:San Juan del Puerto	secondary	ITS1	37.436519713974	-6.48801751711781	0.0390142991943094
+Hordeum_secalinum	AJ608117.1	09-SEP-2004	599	Belgium:Doel	secondary	ITS1	51.3111156	4.2643189	0.0412420924506284

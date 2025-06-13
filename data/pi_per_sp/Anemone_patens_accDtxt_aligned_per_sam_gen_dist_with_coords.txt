@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anemone_patens	MK550959.1	17-MAR-2019	949	Canada: Yukon	primary	accD	68.39	-139.14	0.00210748155953635
+Anemone_patens	MK550958.1	17-MAR-2019	949	Kazakhstan: Zhaksy	primary	accD	51.93	67.35	0.00210748155953635
+Anemone_patens	MK550957.1	17-MAR-2019	949	Romania: Rimetea	primary	accD	46.45	23.59	0.00140498770635757
+Anemone_patens	MK550956.1	17-MAR-2019	949	Kazakhstan: Pavlodar	primary	accD	51.41	78.34	0.00140498770635757

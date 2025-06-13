@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Micranthes_hieraciifolia	KC474985.1	25-OCT-2013	783	Canada: Yukon Territory, Herschel Island, Highest point on Island	primary	matK	69.617	-139.083	0
+Micranthes_hieraciifolia	KC474984.1	25-OCT-2013	622	Canada: Nunavut, Ellesmere Island, Hot Weather Creek	primary	matK	79.983	-84.45	0
+Micranthes_hieraciifolia	KC474983.1	25-OCT-2013	696	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	matK	69.583	-140.733	0
+Micranthes_hieraciifolia	KC474982.1	25-OCT-2013	697	Canada: Nunavut, Baffin Island, Pond Inlet	primary	matK	72.783	-77	0

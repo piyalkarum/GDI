@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Prunus_laurocerasus	OQ929515.1	04-JUL-2023	724	Switzerland	secondary	matK	46.9626023016508	8.40945233877919	0.00799103779507785
+Prunus_laurocerasus	MW369029.1	10-MAR-2021	777	Switzerland	secondary	matK	46.4717820221604	7.1266693840535	0.00177556818181818
+Prunus_laurocerasus	MW369028.1	10-MAR-2021	1500	Australia	secondary	matK	-24.7761086	134.755	0.00207182320441989
+Prunus_laurocerasus	HQ619835.1	26-DEC-2010	840	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.00207182320441989
+Prunus_laurocerasus	FN668846.1	27-APR-2010	850	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00207182320441989

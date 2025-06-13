@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_lachenalii	FJ548196.1	30-AUG-2009	550	Canada: Nunuavut, Baffin Island, Ogac Lake, Ney Harbour, growing at the margin of the lake near the campsite	primary	rpoC1	62.86	-67.35	0
+Carex_lachenalii	FJ548195.1	30-AUG-2009	554	Canada: Nunuavut, Baffin Island, Cape Dorset, between Nascopie Building and secondary water supply lake	primary	rpoC1	64.23	-76.54	0
+Carex_lachenalii	FJ548194.1	30-AUG-2009	590	Canada: Nunuavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	rpoC1	62.83	-67.35	0
+Carex_lachenalii	FJ548193.1	30-AUG-2009	597	Canada: Nunuavut, Baffin Island, Sylvia Grinnell Park, near the entrance to the park	primary	rpoC1	63.58	-68.73	0
+Carex_lachenalii	FJ548192.1	30-AUG-2009	534	Canada	secondary	rpoC1	61.0666922	-107.991707	0

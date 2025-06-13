@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Abies_cephalonica	MT247266.1	28-SEP-2020	825	Greece	secondary	matK	42.5863135398136	-77.620750688146	0
+Abies_cephalonica	MT247265.1	28-SEP-2020	825	Greece	secondary	matK	43.0540444695297	-78.2892671213352	0
+Abies_cephalonica	MT247264.1	28-SEP-2020	829	Greece	secondary	matK	43.6559314101494	-77.7611713170763	0
+Abies_cephalonica	MT247263.1	28-SEP-2020	825	Greece	secondary	matK	43.2392983682911	-78.0345985162377	0

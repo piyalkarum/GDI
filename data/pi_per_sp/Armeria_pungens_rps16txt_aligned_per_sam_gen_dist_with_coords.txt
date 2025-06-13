@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_pungens	LC757300.1	24-AUG-2023	329	Italy:Lu Riu de li Saldi	primary	rps16	40.5157745833997	8.91499000638545	0
+Armeria_pungens	LC757299.1	24-AUG-2023	329	Italy:Lu Riu de li Saldi	primary	rps16	40.7727222910404	8.24630407463808	0
+Armeria_pungens	LC757298.1	24-AUG-2023	329	Italy:Lu Riu de li Saldi	primary	rps16	41.8518517185757	9.53327713724718	0
+Armeria_pungens	LC757297.1	24-AUG-2023	329	Italy:Badesi mare	primary	rps16	40.5115682214713	9.63588033226181	0
+Armeria_pungens	LC757296.1	24-AUG-2023	329	Italy:Badesi mare	primary	rps16	41.1151227831083	8.78731494714017	0
+Armeria_pungens	LC757295.1	24-AUG-2023	329	Italy:Badesi mare	primary	rps16	41.281830498026	8.14266971460035	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_insubricum	HF934173.1	12-MAY-2015	646	Italy	secondary	atpB-rbcL	42.5096989067439	12.3927007698709	0
+Allium_insubricum	HF934172.1	12-MAY-2015	646	Switzerland	secondary	atpB-rbcL	46.7985624	8.2319736	0
+Allium_insubricum	HF934171.1	12-MAY-2015	672	Italy	secondary	atpB-rbcL	42.9249102282353	12.7621493856147	0
+Allium_insubricum	HF934170.1	12-MAY-2015	672	Italy	secondary	atpB-rbcL	41.9388972965391	13.013540049953	0

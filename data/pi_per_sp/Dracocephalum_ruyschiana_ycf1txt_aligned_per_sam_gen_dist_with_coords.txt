@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dracocephalum_ruyschiana	OL808600.1	14-JUN-2023	528	Serbia	secondary	ycf1	43.5740735378988	22.0865780854946	0.312297587151687
+Dracocephalum_ruyschiana	OL808599.1	14-JUN-2023	528	China	secondary	ycf1	34.9616623110802	106.067039473213	0.313606520412765
+Dracocephalum_ruyschiana	OL808598.1	14-JUN-2023	489	Poland	secondary	ycf1	52.2570922082762	19.2631614033714	0.316200288117344
+Dracocephalum_ruyschiana	OL808463.1	14-JUN-2023	977	Serbia	secondary	ycf1	43.8423675954912	22.0801551437487	0.313726265751276
+Dracocephalum_ruyschiana	OL808462.1	14-JUN-2023	977	China	secondary	ycf1	34.9334716811844	104.366004711868	0.313726265751276
+Dracocephalum_ruyschiana	OL808461.1	14-JUN-2023	1059	Poland	secondary	ycf1	52.6236979002258	18.5419909583199	0.313118064289785

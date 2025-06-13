@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_repens	JN894787.1	07-MAR-2012	906	United Kingdom: Monmouthshire	primary	matK	51.5	-3.13	0.0045662100456621
+Linaria_repens	JF694193.1	21-AUG-2011	1222	Spain: Cuenca, Beteta	secondary	matK	40.572657	-2.0759798	0.00890909502009184
+Linaria_repens	JN894757.1	07-MAR-2012	835	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00171821305841924
+Linaria_repens	JN894755.1	07-MAR-2012	795	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0026246719160105

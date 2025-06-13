@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_serotina	LT985602.1	14-JUN-2019	293	Russia	secondary	psbA-trnH	65.3417276997474	98.2587096576528	0
+Gagea_serotina	LT985601.1	14-JUN-2019	293	Russia	secondary	psbA-trnH	65.0529008141823	99.1333316082921	0
+Gagea_serotina	LT985600.1	14-JUN-2019	293	USA	secondary	psbA-trnH	39.2512575567964	-100.025430006923	0
+Gagea_serotina	LT985599.1	14-JUN-2019	293	USA	secondary	psbA-trnH	39.6650289321691	-101.108877912732	0
+Gagea_serotina	LT985598.1	14-JUN-2019	293	USA	secondary	psbA-trnH	40.0172560344209	-99.5044453759674	0
+Gagea_serotina	LT985597.1	14-JUN-2019	293	USA	secondary	psbA-trnH	39.0887056499304	-100.457217557435	0
+Gagea_serotina	LT985596.1	14-JUN-2019	292	Poland	secondary	psbA-trnH	52.215933	19.134422	0
+Gagea_serotina	LT985595.1	14-JUN-2019	293	Italy	secondary	psbA-trnH	42.6384261	12.674297	0
+Gagea_serotina	LT985594.1	14-JUN-2019	293	Bulgaria	secondary	psbA-trnH	46.7889169	23.6184909	0
+Gagea_serotina	AM238530.1	04-APR-2006	390	Kazakhstan	secondary	psbA-trnH	48.1012954	66.7780818	0
+Gagea_serotina	AM409337.1	02-NOV-2006	366	Russia	secondary	psbA-trnH	64.8534825557617	99.6694071076101	0

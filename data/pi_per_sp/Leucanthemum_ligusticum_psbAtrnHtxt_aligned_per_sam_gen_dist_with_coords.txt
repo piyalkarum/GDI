@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_ligusticum	KY778082.1	31-MAY-2017	362		primary	psbA-trnH	44.34	9.46	0.000920810313075506
+Leucanthemum_ligusticum	KY778081.1	31-MAY-2017	364		primary	psbA-trnH	44.36	9.51	0.000915750915750916
+Leucanthemum_ligusticum	KY778080.1	31-MAY-2017	364		primary	psbA-trnH	44.5858606714681	10.1694499953926	0.000915750915750916
+Leucanthemum_ligusticum	LN869003.1	17-SEP-2015	462	Italy	primary	psbA-trnH	43.9852202745201	8.66001924775387	0.00275231214457734

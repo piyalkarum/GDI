@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_onopteris	MK828025.1	30-APR-2020	826	Spain: Orense	secondary	trnL-trnF	41.8673622788555	-7.98351894907592	0.00457288585266137
+Asplenium_onopteris	MK828024.1	30-APR-2020	733	Spain: Orense	secondary	trnL-trnF	42.8023275503871	-7.1239448435771	0.00472648857985301
+Asplenium_onopteris	KP861411.1	19-AUG-2015	905	Spain: Cc, Losar de la Vera	secondary	trnL-trnF	40.121961	-5.6069115	0.00479528706873909
+Asplenium_onopteris	KP861408.1	19-AUG-2015	905	Spain: Bu, Crespos	secondary	trnL-trnF	42.8969226	-3.7835331	0.00356645404814632
+Asplenium_onopteris	KP861401.1	19-AUG-2015	905	Spain: O, Valdes	secondary	trnL-trnF	43.4847858	-6.4693693	0.00356645404814632
+Asplenium_onopteris	KR233940.1	04-OCT-2015	855	Italy	secondary	trnL-trnF	42.3953272570917	13.5226330361845	0.00467865485230644
+Asplenium_onopteris	JX068740.1	31-MAY-2013	863	Tunisia	secondary	trnL-trnF	36.8002068	10.1857757	0.00371640562434939
+Asplenium_onopteris	JX068739.1	31-MAY-2013	863	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.00371640562434939
+Asplenium_onopteris	JX068738.1	31-MAY-2013	863	Austria	secondary	trnL-trnF	36.9148511	-4.7534501	0.00371640562434939
+Asplenium_onopteris	JX068737.1	31-MAY-2013	863	Italy	secondary	trnL-trnF	42.8603125155216	13.6237132880721	0.00371640562434939
+Asplenium_onopteris	AY300078.1	31-MAY-2004	401	Malaysia: Borneo	secondary	trnL-trnF	5.9817102	116.0746698	0.0321044546850998

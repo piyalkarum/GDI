@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_corsicus	KX959204.1	02-NOV-2017	1050	France: Corsica, Olmeta-di-Capocorso, Bocca di San Ghjacintu	primary	trnK	43.1244122664505	10.0252224716863	0.00213001205119924
+Odontites_corsicus	KX959203.1	02-NOV-2017	1050	France: Corsica, Olmeta-di-Capocorso, Bocca di San Ghjacintu	primary	trnK	42.7738050766866	9.48885880159346	0.00213001205119924
+Odontites_corsicus	KX959051.1	02-NOV-2017	1043	France: Corsica, Olmeta-di-Capocorso, Bocca di San Ghjacintu	primary	trnK	43.1707676557329	8.63568757082872	0.0017427477988074
+Odontites_corsicus	KX959050.1	02-NOV-2017	1050	France: Corsica, Olmeta-di-Capocorso, Bocca di San Ghjacintu	primary	trnK	42.5264313766374	9.89120038003019	0.00174019107141846
+Odontites_corsicus	KX959228.1	02-NOV-2017	1033	France: Corsica, Col de Vergio	secondary	trnK	42.2903223	8.8783989	0.00485084881826553
+Odontites_corsicus	JF900589.1	05-MAR-2013	1069	France	secondary	trnK	46.603354	1.8883335	0.00409489849284458

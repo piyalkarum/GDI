@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_subspathacea	MG228083.1	23-JAN-2018	523	Canada: Manitoba, Churchill Area, Akudlik	primary	rbcL	58.75	-94.117	0.00101975780752071
+Carex_subspathacea	MG227297.1	23-JAN-2018	552	Canada: Quebec, MRC Basques, NW, au SW du sentier de la Traversee	primary	rbcL	48.1472	-69.246	0.000966183574879227
+Carex_subspathacea	MG226435.1	23-JAN-2018	552	USA: Alaska, st Matthew Quad, Bering Sea Region, St Matthew Is, N end between Bull Seal Pt and Glory of Russia Cape	primary	rbcL	60.55	-172.917	0.000972880353959413
+Carex_subspathacea	KT960587.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.031824732913	-23.375891730638	0.000966183574879227
+Carex_subspathacea	KT960556.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.8246184056029	-22.9024365929689	0.000966183574879227
+Carex_subspathacea	KT960508.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.467	-20.567	0.000972880353959413
+Carex_subspathacea	KC482371.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island (Northwest Territories), Jesse Bay, Morgan Bluffs	primary	rbcL	72.13	-119.55	0.000972880353959413
+Carex_subspathacea	KC482370.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Sylvia Grinnell Park	primary	rbcL	63.739	-68.559	0.000972880353959413
+Carex_subspathacea	KC482369.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	rbcL	71.313	-116.916	0.000972880353959413
+Carex_subspathacea	KC482368.1	25-OCT-2013	552	Canada: Nunavut, Northwest Territories Mainland, Rankin Inlet, 2 km NW of mouth of Meliadine River along north bank, 7 km N of Rankin Inlet, Meliadine River Park study area. Hudson Bay	primary	rbcL	62.867	-92.117	0.000972880353959413
+Carex_subspathacea	KC482367.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. In the vicinity of the fresh water lake in lowlands 1 km W of Kihlbay	primary	rbcL	56.472	-79.042	0.000966183574879227
+Carex_subspathacea	KC482366.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	rbcL	69.4194	-124.094	0.000972880353959413
+Carex_subspathacea	KC482365.1	25-OCT-2013	552	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk, From beach below Polar Continental Shelf Project base	primary	rbcL	69.5	-133	0.000972880353959413
+Carex_subspathacea	JN965413.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality, Sanspit. Mud flats, mid tide.	primary	rbcL	57.1250790999471	-93.6462682582658	0.000966183574879227
+Carex_subspathacea	JN965412.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality, Sandspit. Wet meadow.	primary	rbcL	57.9948370568504	-92.249173313601	0.000966183574879227
+Carex_subspathacea	JN965411.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality, Sandspit. Tidal Marsh.	primary	rbcL	57.9140870011521	-92.6597959997835	0.000966183574879227

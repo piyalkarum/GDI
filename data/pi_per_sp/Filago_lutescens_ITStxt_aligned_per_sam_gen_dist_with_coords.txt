@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Filago_lutescens	FN645876.2	10-JAN-2011	628	Spain:Avila, Bohoyo	secondary	ITS	40.3162123	-5.4419845	0.00212314225053079
+Filago_lutescens	FN645883.1	10-JAN-2011	639	Spain:Zamora, Mercado del Puente	secondary	ITS	42.0845207	-6.6414795	0.00208659363588941
+Filago_lutescens	FN645882.1	10-JAN-2011	639	Spain:Avila, Navacepeda de Tormes	secondary	ITS	40.3604054	-5.2499666	0.00208659363588941
+Filago_lutescens	FN645877.1	10-JAN-2011	639	Spain:Huelva, Cortegana, Veredas	secondary	ITS	37.887486	-6.84431	0.00629632952230961

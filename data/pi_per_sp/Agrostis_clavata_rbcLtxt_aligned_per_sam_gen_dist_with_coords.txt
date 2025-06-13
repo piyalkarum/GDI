@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostis_clavata	MG228135.1	23-JAN-2018	553	USA: Alaska, Tolovana River area, at Tolovana River bridge, Mile 56 Elliott Highway	primary	rbcL	65.45	-148.25	0.00110632147314265
+Agrostis_clavata	MN192751.1	30-NOV-2021	723	China	secondary	rbcL	34.2354110870366	104.624514559081	0.00233092676831433
+Agrostis_clavata	MN192750.1	30-NOV-2021	722	China	secondary	rbcL	35.8356810476703	104.965247577808	0.00216001409269434
+Agrostis_clavata	MG226015.1	23-JAN-2018	505	Canada: Yukon Territory	secondary	rbcL	63.000147	-136.002502	0.00123958824453874
+Agrostis_clavata	KF713048.1	15-DEC-2013	1096	South Korea: Jeollabuk-do, Muju-gun, Seolcheon-myeon	secondary	rbcL	35.9771634	127.7848819	0.00306294245197133
+Agrostis_clavata	KF713047.1	15-DEC-2013	1096	South Korea: Suwon-si, Gyeonggi-do	secondary	rbcL	37.267483	126.934611	0.00306294245197133
+Agrostis_clavata	HQ600470.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.9154364208692	127.987613646444	0.00320882037741498
+Agrostis_clavata	HQ600466.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.1315665240362	126.99854995083	0.00320882037741498
+Agrostis_clavata	KF713049.1	15-DEC-2013	1096	South Korea	secondary	rbcL	35.4163118	127.3903713	0.00317699354686184

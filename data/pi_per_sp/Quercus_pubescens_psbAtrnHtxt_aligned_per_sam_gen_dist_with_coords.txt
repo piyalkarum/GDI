@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_pubescens	OQ990801.1	13-AUG-2023	517	Italy: Apulia	secondary	psbA-trnH	40.9842539	16.6210027	0.00211480657989498
+Quercus_pubescens	OQ990794.1	13-AUG-2023	518	Croatia: Dalmatia	secondary	psbA-trnH	43.5387965	16.1752356	0.00178516135962944
+Quercus_pubescens	OQ990793.1	13-AUG-2023	517	Italy: Molise	secondary	psbA-trnH	41.684672	14.595614	0.00211480657989498
+Quercus_pubescens	MT465756.1	28-SEP-2020	572	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.00334798644106374
+Quercus_pubescens	HE966771.1	18-SEP-2012	427	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00216642435529529
+Quercus_pubescens	HE591309.1	30-SEP-2011	571	Greece	secondary	psbA-trnH	43.2097838	-77.6930602	0.00194595504911775
+Quercus_pubescens	HE591308.1	30-SEP-2011	572	Croatia	secondary	psbA-trnH	45.3658443	15.6575209	0.00164450346675805
+Quercus_pubescens	HE591289.1	30-SEP-2011	571	Italy:Sardinia	secondary	psbA-trnH	39.5105869979071	9.50749974504289	0.004816417615491
+Quercus_pubescens	HE591288.1	30-SEP-2011	573	Italy:Latium	secondary	psbA-trnH	42.7295461892581	12.6502050885245	0.00164450346675805
+Quercus_pubescens	HE591277.1	30-SEP-2011	571	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0.00365061917616804
+Quercus_pubescens	HE591276.1	30-SEP-2011	571	Italy:Sicily	secondary	psbA-trnH	37.587794	14.155048	0.00164473898497821
+Quercus_pubescens	FN687501.1	16-MAR-2010	571	Italy:Sardinia	secondary	psbA-trnH	39.5022132421301	8.38273067828789	0.004816417615491
+Quercus_pubescens	FN687494.1	16-MAR-2010	571	Italy:Campania	secondary	psbA-trnH	40.860672	14.843984	0.00164473898497821
+Quercus_pubescens	FN687493.1	16-MAR-2010	573	Italy:Latium	secondary	psbA-trnH	41.355719693421	12.278552105698	0.00164450346675805

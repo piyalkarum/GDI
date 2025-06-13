@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iberodes_brassicifolia	MK819509.1	12-JUN-2019	828	Spain: Caceres, Arroyomolinos de la Vera	secondary	trnL-trnF	40.0530939	-5.8549889	0.000944287063267233
+Iberodes_brassicifolia	MK819508.1	12-JUN-2019	706	Spain: Salamanca, Aldeharcipreste	secondary	trnL-trnF	40.9651572	-5.6640182	0.000944287063267233
+Iberodes_brassicifolia	KF849244.1	07-FEB-2015	666	Spain: Extremadura,Caceres,Garguera	secondary	trnL-trnF	40.0612161	-5.9275376	0
+Iberodes_brassicifolia	AY837607.1	22-MAR-2006	316	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0

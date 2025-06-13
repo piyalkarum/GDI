@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dactylorhiza_maculata	OR508855.1	17-OCT-2023	794	Kazakhstan: Qaragandy region	primary	matK	49.4475	75.47607	0.00885246417604125
+Dactylorhiza_maculata	JN895877.1	07-MAR-2012	826	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.13	0.00220403022670025
+Dactylorhiza_maculata	GQ248115.1	02-JUL-2009	799	Sweden: Soedermanland, Svarta	secondary	matK	58.8200281	17.0937484	0.00220680958385876
+Dactylorhiza_maculata	JN894119.1	07-MAR-2012	788	United Kingdom: Breconshire (42)	secondary	matK	53.650140082737	-1.64845054292957	0.00222081218274112
+Dactylorhiza_maculata	JN894118.1	07-MAR-2012	788	United Kingdom: Breconshire (42)	secondary	matK	53.6278627286661	-0.446285974908525	0.00222081218274112

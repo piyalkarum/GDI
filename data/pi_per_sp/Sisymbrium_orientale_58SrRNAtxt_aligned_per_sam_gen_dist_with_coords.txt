@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sisymbrium_orientale	LC003518.1	15-JAN-2015	894	Japan: Hiroshima, Aki-gun, Kaita-cho	primary	5.8S rRNA	34.36	132.53	0.000436871996505024
+Sisymbrium_orientale	AB856329.1	09-JUL-2014	2539	Japan:Hiroshima, Hiroshima-shi, Saeki-ku, Itsukaichi	primary	5.8S rRNA	34.38	132.36	0.000436871996505024
+Sisymbrium_orientale	LC090010.1	27-OCT-2015	760	Japan	secondary	5.8S rRNA	36.5748441	139.2394179	0
+Sisymbrium_orientale	AB856332.1	09-JUL-2014	763	Japan:Hiroshima, Onomichi-shi, Higashikubo	secondary	5.8S rRNA	34.3917241	132.4517589	0.000873743993010048

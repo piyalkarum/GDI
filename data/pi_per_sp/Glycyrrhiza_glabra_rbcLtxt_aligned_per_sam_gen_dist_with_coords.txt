@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glycyrrhiza_glabra	OR738091.1	13-NOV-2023	450	Kazakhstan: Mangistau region	primary	rbcL	43.22523	53.34242	0.00297619047619048
+Glycyrrhiza_glabra	OR738059.1	13-NOV-2023	542	Kazakhstan: Atyrau region	primary	rbcL	48.42402	54.42309	0.0024703557312253
+Glycyrrhiza_glabra	KU556648.1	06-AUG-2016	617	Egypt	primary	rbcL	30.0303	31.1956	0.00369543601139829
+Glycyrrhiza_glabra	MT931417.1	03-MAR-2023	565	China	secondary	rbcL	34.3337666184274	104.494706433492	0.00375687181550013
+Glycyrrhiza_glabra	MT931416.1	03-MAR-2023	568	China	secondary	rbcL	35.5663044477634	105.188112430484	0.00375609005246814
+Glycyrrhiza_glabra	ON359941.1	22-JAN-2023	637	India	secondary	rbcL	22.6108040944987	77.9512130469393	0.00506118271425296
+Glycyrrhiza_glabra	OP613270.1	13-DEC-2022	544	India: Karnataka, Bangalore, Hebbal Agriculture University Garden	secondary	rbcL	14.8143303	74.1424757	0.00348605577689243
+Glycyrrhiza_glabra	LC522358.1	08-FEB-2020	534	India	secondary	rbcL	22.7727638305533	78.2148167505431	0.0274744119321233
+Glycyrrhiza_glabra	MK348959.1	24-JUN-2019	1463	Pakistan	secondary	rbcL	30.3308401	71.247499	0.0048518024797471

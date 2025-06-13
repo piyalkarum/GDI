@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aruncus_dioicus	LC377018.1	18-APR-2018	262	Japan: Toyama, Mt.Taro	primary	rbcL	36.44	137.51	0.000477099236641221
+Aruncus_dioicus	MG247899.1	21-JAN-2018	552	Canada: British Columbia, North Coast, Trutch Island, NW end of island	primary	rbcL	53.123	-129.755	0.000226449275362319
+Aruncus_dioicus	KX679159.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, Fairy Lake Forest Recreation Site	primary	rbcL	48.587	-124.35	0.00206224416417745
+Aruncus_dioicus	KX679111.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, East side of Harrison Lake, East Harrison Forest Service Road	primary	rbcL	49.418	-121.759	0.000226449275362319
+Aruncus_dioicus	KX678991.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Baden Powell trail	primary	rbcL	49.334	-122.954	0.000226449275362319
+Aruncus_dioicus	KX678293.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Strathcona Provincial Park, Buttle Lake	primary	rbcL	49.835	-125.627	0.000226449275362319
+Aruncus_dioicus	KX677830.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	rbcL	49.376	-122.862	0.000226449275362319
+Aruncus_dioicus	KJ841118.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Near Gault House	primary	rbcL	45.542	-73.153	0.000226449275362319
+Aruncus_dioicus	LC632479.1	10-NOV-2021	553	Japan:Hokkaido, Hidakacho	secondary	rbcL	43.4603175	143.330715792837	0.000226449275362319

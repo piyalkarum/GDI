@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_corniculatus	OR464922.1	26-SEP-2023	894	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.288732	-85.618929	0.008919945962713
+Lotus_corniculatus	OR464921.1	26-SEP-2023	842	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.28873151	-85.61892891	0.00897038038826199
+Lotus_corniculatus	KX677688.1	09-AUG-2017	776	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	matK	50.045	-125.501	0.00889339644004297
+Lotus_corniculatus	KX677324.1	09-AUG-2017	810	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	matK	49.3463699880982	-120.122751653642	0.00923510834884128
+Lotus_corniculatus	KX677141.1	09-AUG-2017	830	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, South Shore Rd., west of Caycuse along Cowichan Lake	primary	matK	48.9121	-124.437	0.00911524205595351
+Lotus_corniculatus	KX677017.1	09-AUG-2017	776	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, Port Renfrew-Lake Cowichan Road	primary	matK	48.439	-124.109	0.00889339644004297
+Lotus_corniculatus	KX676556.1	09-AUG-2017	776	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	matK	49.1812284702738	-119.996776116467	0.00889339644004297
+Lotus_corniculatus	MG220662.1	21-JAN-2018	776	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	matK	45.188	-81.42	0.00998611803385162
+Lotus_corniculatus	HQ593352.1	09-NOV-2011	782	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 200 m W of Willow Ridge driveway on N edge of Side Road 19	primary	matK	44.032	-79.534	0.0123622639731138
+Lotus_corniculatus	JN894450.1	07-MAR-2012	938	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.010178182959552
+Lotus_corniculatus	MN433365.1	30-NOV-2021	784	China	secondary	matK	29.6923865490893	-93.576043452209	0.128764447259319
+Lotus_corniculatus	MT928680.1	12-DEC-2020	774	China	secondary	matK	30.6319240265317	-94.0680994828478	0.00884066893414281
+Lotus_corniculatus	KJ746151.1	29-JUL-2014	699	Poland	secondary	matK	52.215933	19.134422	0.00954003098240214
+Lotus_corniculatus	KJ204504.1	29-JAN-2015	754	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00929659084641697
+Lotus_corniculatus	HM851124.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0167895384897057
+Lotus_corniculatus	HE966949.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0165774946938443
+Lotus_corniculatus	JN895015.1	07-MAR-2012	771	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00893864379160659
+Lotus_corniculatus	JN894302.1	07-MAR-2012	926	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00897944866356866

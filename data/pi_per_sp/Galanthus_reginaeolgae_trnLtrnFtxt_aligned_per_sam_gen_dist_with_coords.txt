@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galanthus_reginae-olgae	MK706033.1	21-DEC-2019	924	Montenegro: Bay of Kotor, Strp	primary	trnL-trnF	42.506944	18.66925	0.00162337662337662
+Galanthus_reginae-olgae	MK706032.1	21-DEC-2019	924	Croatia: Dubrovnik, Konavle	primary	trnL-trnF	43.3160511398016	18.2434428490887	0.00653494674027415
+Galanthus_reginae-olgae	MK706031.1	21-DEC-2019	924	Croatia: Dubrovnik, Konavle	primary	trnL-trnF	42.213526084447	17.9717291128485	0.00162337662337662
+Galanthus_reginae-olgae	MK706030.1	21-DEC-2019	924	Croatia: Dubrovnik, Konavle	primary	trnL-trnF	42.0594972104792	17.8658066821321	0.00162337662337662
+Galanthus_reginae-olgae	JQ044718.1	17-JUL-2013	902	Montenegro	secondary	trnL-trnF	-29.6826112	-51.4687455	0.00166481687014428

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_ledifolium	KY951686.1	18-APR-2018	553	Kuwait	secondary	rbcL	29.9637540629439	47.323115415142	0.00136861313868613
+Helianthemum_ledifolium	KY951685.1	18-APR-2018	534	Kuwait	secondary	rbcL	29.4630745781018	48.6510033466936	0.00141242937853107
+Helianthemum_ledifolium	KX282782.1	28-MAY-2017	538	Kuwait	secondary	rbcL	28.8563367100261	47.5800292652089	0.00140712945590994
+Helianthemum_ledifolium	KX282781.1	28-MAY-2017	534	Kuwait	secondary	rbcL	30.0816922195453	48.5650022946018	0.00141242937853107
+Helianthemum_ledifolium	FJ492023.1	08-APR-2009	1365	Spain: Madrid, Tres Cantos	secondary	rbcL	40.3995202	-3.5414834	0.00560060135165822

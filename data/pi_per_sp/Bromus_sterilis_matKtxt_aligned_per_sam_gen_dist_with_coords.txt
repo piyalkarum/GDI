@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_sterilis	MF597253.1	17-JUL-2018	795	Canada: British Columbia, Vancouver Island, just S of Chemanus along Hwy. 1A.	primary	matK	48.931	-123.731	0.00175766540819263
+Bromus_sterilis	MF597252.1	17-JUL-2018	798	Canada: British Columbia, South end of Tsawassen Drive South, Tsawassen Indian Reserve #0. Beach head with Rubus.	primary	matK	49.023	-123.11	0.00190123166361484
+Bromus_sterilis	MF597251.1	17-JUL-2018	804	Canada: British Columbia, Vancouver Island, just off Hwy. 19A along Crane Road, N of Qualicum Beach, at confluence of Nile Creek and the Straight of Georgia.	primary	matK	49.42	-124.641	0.00132927257337032
+Bromus_sterilis	MF597250.1	17-JUL-2018	798	Canada: British Columbia, University of British Columbia, Museum of Anthropology, edge of parking lot, with Dactylis glomerata, Rubus armenicus, and Cytisus scoparius.	primary	matK	49.27	-123.25	0.00190123166361484
+Bromus_sterilis	JN895072.1	07-MAR-2012	805	United Kingdom: Cardiganshire	primary	matK	52.1	-4.69	0.000917636247983621
+Bromus_sterilis	OM048606.1	08-AUG-2022	1425	Iran: Isfahan, road of Semirom to Yasuj, Ab-e-garm gah, near to Rood Abad village, near river	secondary	matK	32.6707877	51.6650002	0.00143674225368887
+Bromus_sterilis	HQ619827.1	26-DEC-2010	837	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.00103914947669852
+Bromus_sterilis	HE966884.1	18-SEP-2012	742	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0038339819701787
+Bromus_sterilis	JN893972.1	07-MAR-2012	778	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.000922809264151917
+Bromus_sterilis	JN893969.1	07-MAR-2012	735	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00309832393711817

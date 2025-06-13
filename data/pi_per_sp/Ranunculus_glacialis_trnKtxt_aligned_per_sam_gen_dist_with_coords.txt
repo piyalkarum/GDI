@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_glacialis	AY312242.1	27-JUN-2003	402	Poland: Tatra	secondary	trnK	49.2562305	19.948966	0.00746268656716418
+Ranunculus_glacialis	AY312240.1	27-JUN-2003	402	Austria: Schleinitz	secondary	trnK	46.8949662	12.7485816	0.00124378109452736
+Ranunculus_glacialis	AY312239.1	27-JUN-2003	402	Switzerland: Furkapass	secondary	trnK	46.5726851	8.415184	0.00124378109452736
+Ranunculus_glacialis	AY312238.1	27-JUN-2003	402	Norway	secondary	trnK	64.5731537	11.5280364	0.00124378109452736
+Ranunculus_glacialis	AY312237.1	27-JUN-2003	402	Austria: Hochgolling	secondary	trnK	47.266271	13.760642	0.00124378109452736
+Ranunculus_glacialis	AY312236.1	27-JUN-2003	402	Sweden	secondary	trnK	59.6749712	14.5208584	0.00124378109452736
+Ranunculus_glacialis	AY312241.1	27-JUN-2003	402	Spain	secondary	trnK	42.5824012	0.538827167130727	0.00124378109452736

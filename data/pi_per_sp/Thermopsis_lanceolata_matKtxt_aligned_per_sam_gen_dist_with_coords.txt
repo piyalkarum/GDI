@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thermopsis_lanceolata	MF786856.1	06-DEC-2017	723	China: Changmuda Xiang. Route 318 near km marker 5205	primary	matK	28.6022	86.4975	0.000276625172890733
+Thermopsis_lanceolata	MT918295.1	03-MAR-2023	782	China	secondary	matK	34.9669971483414	104.992663488492	0.000255754475703325
+Thermopsis_lanceolata	MN433371.1	30-NOV-2021	775	China	secondary	matK	34.5829881801639	105.351101068584	0.000258064516129032
+Thermopsis_lanceolata	MN317487.1	30-SEP-2021	790	China	secondary	matK	35.0881934150975	105.463052019798	0.00131461143171222
+Thermopsis_lanceolata	KT280267.1	01-AUG-2016	738	China: Maqu Gansu	secondary	matK	34.6137382	102.4654149	0.0002710027100271
+Thermopsis_lanceolata	JQ669595.1	01-JUN-2012	1521	China: Qinghai	secondary	matK	35.4070952	95.9521157	0.000253164556962025

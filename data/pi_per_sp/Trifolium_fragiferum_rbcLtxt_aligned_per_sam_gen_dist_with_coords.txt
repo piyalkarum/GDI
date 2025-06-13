@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_fragiferum	KX678860.1	29-APR-2017	552	Canada: British Columbia, Capital Regional District, Victoria, Saanich, Rithet's Bog, west side	primary	rbcL	48.492	-123.383	0
+Trifolium_fragiferum	JN890922.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.52	-4.04	0
+Trifolium_fragiferum	HM850413.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Trifolium_fragiferum	JN891067.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Trifolium_fragiferum	JN891064.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0

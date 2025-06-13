@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hornungia_petraea	FM164549.1	05-JUN-2009	165	Morocco	secondary	ITS	28.1320495486068	-9.82817288301744	NA
+Hornungia_petraea	FM164548.1	05-JUN-2009	265	Morocco	secondary	ITS	27.6469450682614	-10.1095875652571	NA
+Hornungia_petraea	AJ440308.1	27-MAR-2003	612	Spain:Mt.Dornajo	secondary	ITS	40.1228553	-3.262629	0.03728958188583
+Hornungia_petraea	AJ440307.1	27-MAR-2003	612	Italy:Mt.Faito	secondary	ITS	40.2025437	16.674159	0.0391626888521937
+Hornungia_petraea	AJ440305.1	27-MAR-2003	612	Germany:Wuerzburg	secondary	ITS	49.79245	9.932966	0.0391626888521937
+Hornungia_petraea	AJ440303.1	27-MAR-2003	612	France:Caussols	secondary	ITS	43.7413269	6.9000361	0.03728958188583

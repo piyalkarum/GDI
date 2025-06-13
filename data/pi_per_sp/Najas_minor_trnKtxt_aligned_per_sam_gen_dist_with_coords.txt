@@ -1,0 +1,57 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Najas_minor	KT036874.1	14-JUN-2016	1120	China: Mishan Heilongjiang	secondary	trnK	45.7462625212704	132.918000410428	0
+Najas_minor	KT036873.1	14-JUN-2016	1120	China: Anhui Hefei	secondary	trnK	31.7814279	117.2307112	0
+Najas_minor	KT036870.1	14-JUN-2016	1120	USA: West Virginia Marion Co. Monongahela River	secondary	trnK	39.5297176	-80.0777273	0
+Najas_minor	KT036869.1	14-JUN-2016	1120	USA: Ohio Portage Co. Michael J Kirwan Reservoir	secondary	trnK	41.1422823	-81.1698615	0
+Najas_minor	KT036868.1	14-JUN-2016	1120	China: Mishan Heilongjiang	secondary	trnK	44.7638731852141	132.898118553884	0
+Najas_minor	KT036867.1	14-JUN-2016	1120	China: Hebei Qinhuangdao	secondary	trnK	39.9395724	119.5894129	0
+Najas_minor	KT036866.1	14-JUN-2016	1120	USA: Wisconsin Rock Co. Storrs Lake	secondary	trnK	42.7763312	-88.9174127	0
+Najas_minor	KT036865.1	14-JUN-2016	1120	USA: West Virginia Taylor Co. Tygart Lake	secondary	trnK	39.2807871	-80.014977	0
+Najas_minor	KT036863.1	14-JUN-2016	1120	USA: New York Westchester Co. Oscaleta Lake	secondary	trnK	41.4951859650268	-72.9993187999044	0
+Najas_minor	KT036862.1	14-JUN-2016	1120	USA: New York Westchester Co. Oscaleta Lake	secondary	trnK	40.9235538065513	-73.3722525481998	0
+Najas_minor	KT036861.1	14-JUN-2016	1120	USA: New York Westchester Co. Oscaleta Lake	secondary	trnK	41.3210317027435	-74.1467104356148	0
+Najas_minor	KT036860.1	14-JUN-2016	1120	USA: New York Westchester Co. Oscaleta Lake	secondary	trnK	42.1092488635595	-73.9663878517717	0
+Najas_minor	KT036859.1	14-JUN-2016	1120	USA: New York Westchester Co. Oscaleta Lake	secondary	trnK	41.9737376850803	-73.3258811137714	0
+Najas_minor	KT036857.1	14-JUN-2016	1120	USA: New York Putnam Co. China Pond	secondary	trnK	41.4417256	-73.7434998	0
+Najas_minor	KT036856.1	14-JUN-2016	1120	USA: New York Chautauqua Co. Findley Lake	secondary	trnK	42.1192226	-79.7325485	0
+Najas_minor	KT036855.1	14-JUN-2016	1120	USA: New York Allegany Co. Rushford Lake	secondary	trnK	42.3744765	-78.1954877	0
+Najas_minor	KT036854.1	14-JUN-2016	1120	USA: New Jersey Sussex Co. Tamarack Lake	secondary	trnK	41.0932727	-74.5388764	0
+Najas_minor	KT036853.1	14-JUN-2016	1120	USA: New Jersey Passaic Co. Upper Greenwood Lake	secondary	trnK	41.1141538907232	-74.3858737229953	0
+Najas_minor	KT036852.1	14-JUN-2016	1120	USA: New Jersey Passaic Co. Upper Greenwood Lake	secondary	trnK	41.4133708575008	-73.42454589672	0
+Najas_minor	KT036851.1	14-JUN-2016	1120	USA: Massachusetts Berkshire Co. Onota Lake	secondary	trnK	42.4711111	-73.2807924	0
+Najas_minor	KT036850.1	14-JUN-2016	1120	USA: Iowa Mahaska Co. Lake Keomah	secondary	trnK	41.289983	-92.5384669	0
+Najas_minor	KT036843.1	14-JUN-2016	1120	USA: California Alameda Co. Lake del Valle	secondary	trnK	36.9224874564077	-121.478429544014	0
+Najas_minor	KT036842.1	14-JUN-2016	1120	USA: California Alameda Co. Lake del Valle	secondary	trnK	37.0752923190349	-122.602969088788	0
+Najas_minor	KT036841.1	14-JUN-2016	1120	USA: Kansas Johnson Co. Overland Park	secondary	trnK	38.9742502	-94.6851702	0
+Najas_minor	KT036840.1	14-JUN-2016	1120	USA: West Virginia Wood Co. Mountwood Lake	secondary	trnK	39.0670001561612	-81.2725427841762	0
+Najas_minor	KT036839.1	14-JUN-2016	1120	USA: West Virginia Wood Co. Mountwood Lake	secondary	trnK	38.881789237527	-80.9648946577446	0
+Najas_minor	KT036838.1	14-JUN-2016	1120	USA: West Virginia Jackson Co. Turkey Run Lake	secondary	trnK	38.9666249	-81.7706103	0
+Najas_minor	KT036837.1	14-JUN-2016	1120	USA: Virginia Smyth Co. Hungry Mother Lake	secondary	trnK	36.8788728	-81.5238554	0
+Najas_minor	KT036835.1	14-JUN-2016	1120	USA: Pennsylvania Mercer Co. Wilhelm Lake	secondary	trnK	41.9206618508819	-81.0877317402425	0
+Najas_minor	KT036834.1	14-JUN-2016	1120	USA: Pennsylvania Mercer Co. Wilhelm Lake	secondary	trnK	41.136362650441	-81.2606288915879	0
+Najas_minor	KT036833.1	14-JUN-2016	1120	USA: Pennsylvania Indiana Co. Yellow Creek Lake	secondary	trnK	39.9378678761621	-79.5268796199091	0
+Najas_minor	KT036832.1	14-JUN-2016	1120	USA: Pennsylvania Indiana Co. Yellow Creek Lake	secondary	trnK	41.1804343025679	-79.3810386289805	0
+Najas_minor	KT036831.1	14-JUN-2016	1120	USA: Pennsylvania Crawford Co. Pymatuning Reservoir	secondary	trnK	41.589253	-80.519037	0
+Najas_minor	KT036830.1	14-JUN-2016	1120	USA: Pennsylvania Butler Co. Lake Arthur	secondary	trnK	40.945871	-80.0843882	0
+Najas_minor	KT036827.1	14-JUN-2016	1120	USA: Ohio Trumbull Co. Mosquito Lake	secondary	trnK	41.4309217	-80.7771714	0
+Najas_minor	KT036826.1	14-JUN-2016	1120	USA: Ohio Summit Co. Turkeyfoot Lake	secondary	trnK	40.9693004	-81.5367929	0
+Najas_minor	KT036824.1	14-JUN-2016	1120	USA: Ohio Portage Co. Wingfoot Lake	secondary	trnK	41.013032	-81.3659321	0
+Najas_minor	KT036823.1	14-JUN-2016	1120	USA: Ohio Portage Co. West Twin Lake	secondary	trnK	41.1982737	-81.3409036	0
+Najas_minor	KT036822.1	14-JUN-2016	1120	USA: Ohio Pike Co. Pike Lake	secondary	trnK	39.1609155	-83.2198665	0
+Najas_minor	KT036821.1	14-JUN-2016	1120	USA: Ohio Pike Co. Lake White	secondary	trnK	39.1091242	-83.0257799	0
+Najas_minor	KT036820.1	14-JUN-2016	1120	USA: Ohio Noble Co. Wolf Run Lake	secondary	trnK	39.2921439608805	-81.9028435461005	0
+Najas_minor	KT036819.1	14-JUN-2016	1120	USA: Ohio Noble Co. Wolf Run Lake	secondary	trnK	39.6250383464138	-81.1078124929993	0
+Najas_minor	KT036816.1	14-JUN-2016	1120	USA: Ohio Lawrence Co. Lake Vesuvius	secondary	trnK	38.8484160555621	-82.3023202283722	0
+Najas_minor	KT036815.1	14-JUN-2016	1120	USA: Ohio Lawrence Co. Lake Vesuvius	secondary	trnK	38.7973760987134	-83.4604555168662	0
+Najas_minor	KT036813.1	14-JUN-2016	1120	USA: Ohio Ashtabula Co. Roaming Rock Lake	secondary	trnK	41.6547409	-80.8396378	0
+Najas_minor	KT036812.1	14-JUN-2016	1120	USA: Ohio Ashtabula Co. Lake Cardinal	secondary	trnK	41.6167218	-80.8914785	0
+Najas_minor	KT036810.1	14-JUN-2016	1120	USA: Minnesota Hennepin Co. Round Lake	secondary	trnK	44.8685096	-93.4928243	0
+Najas_minor	KT036809.1	14-JUN-2016	1120	USA: Michigan Newaygo Co. Hardy Dam Pond	secondary	trnK	43.527615	-85.5762552	0
+Najas_minor	KT036808.1	14-JUN-2016	1120	USA: Kentucky Jefferson Co. Mirror Lakes	secondary	trnK	38.1681847	-85.5152159	0
+Najas_minor	KT036807.1	14-JUN-2016	1120	USA: Kentucky Greenup Co. Greenbo Lake	secondary	trnK	38.4866109	-82.8734269	0
+Najas_minor	KT036806.1	14-JUN-2016	1120	USA: Indiana Jackson Co. Knob Lake	secondary	trnK	38.8638384	-86.0033055	0
+Najas_minor	KT036805.1	14-JUN-2016	1120	USA: Indiana Harrison Co. Pine Shelter Pond	secondary	trnK	38.1986215	-86.2680739	0
+Najas_minor	KT036804.1	14-JUN-2016	1120	USA: Indiana Crawford Co. Wyandotte Lake	secondary	trnK	38.2209356	-86.3021753	0
+Najas_minor	KT036803.1	14-JUN-2016	1120	USA: Illinois Wayne Co. Sam Dale Lake	secondary	trnK	38.5375479	-88.5950521	0
+Najas_minor	KT036802.1	14-JUN-2016	1120	USA: Illinois Lake Co. Round Lake	secondary	trnK	42.353355	-88.0934145	0
+Najas_minor	KT036800.1	14-JUN-2016	1120	USA: Alabama Marshall Co. Guntersville Lake	secondary	trnK	34.6645724	-85.946121	0

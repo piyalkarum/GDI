@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Populus_nigra	JX495748.1	16-AUG-2013	789	Egypt: Alexandria, Smouha, Antoniades gardens	primary	matK	31.205	29.948	0.00163602633819548
+Populus_nigra	JN894480.1	07-MAR-2012	816	United Kingdom: Monmouthshire	primary	matK	51.6	-2.99	0.000799496683473295
+Populus_nigra	MH574156.1	09-DEC-2020	819	China	secondary	matK	35.000074	104.999927	0.00159363511732243
+Populus_nigra	KJ204525.1	29-JAN-2015	846	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00207070825833815
+Populus_nigra	KC485120.1	03-SEP-2013	775	China: Xinjiang	secondary	matK	42.4804953	85.4633464	0.00104111673932588
+Populus_nigra	KC584938.1	04-JUN-2013	830	Italy: Umbria	secondary	matK	42.965916	12.490236	0.00127362997861318
+Populus_nigra	HM850926.1	23-JUL-2011	825	Portugal	secondary	matK	39.6621648	-8.1353519	0.00178714139047993
+Populus_nigra	JN895053.1	07-MAR-2012	796	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000810375830296992
+Populus_nigra	JN895052.1	07-MAR-2012	783	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00164304395939488

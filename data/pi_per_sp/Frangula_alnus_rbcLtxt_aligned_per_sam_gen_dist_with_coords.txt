@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Frangula_alnus	OR738131.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.48277	64.18468	0
+Frangula_alnus	OR464840.1	26-SEP-2023	596	USA: Bishop's Bog Preserve, Portage, MI	primary	rbcL	42.17958795	-85.59548778	0
+Frangula_alnus	MG248176.1	21-JAN-2018	553	Canada: Quebec, Montreal, Island of Montreal, Parc du Mont-Royal, pres de la bordure d'un sentier pedestre	primary	rbcL	45.512	-73.591	0
+Frangula_alnus	MG245936.1	21-JAN-2018	552	Canada: Ontario, Wellington County, Puslinch Township, Little Tract, 500m north of South entrance (County Road 34)	primary	rbcL	43.449	-80.247	0
+Frangula_alnus	KJ593419.1	17-MAR-2015	542	USA: Wisconsin, Laona	primary	rbcL	45.548	-88.675	0
+Frangula_alnus	KJ593418.1	17-MAR-2015	553	USA: Wisconsin, Blackwell	primary	rbcL	45.552	-88.577	0
+Frangula_alnus	KJ593417.1	17-MAR-2015	553	USA: Wisconsin, Peshtigo	primary	rbcL	45.023	-87.721	0
+Frangula_alnus	KJ593416.1	17-MAR-2015	543	USA: Wisconsin, Oconto	primary	rbcL	44.858	-87.855	0
+Frangula_alnus	JN891042.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.63	-3.9	0
+Frangula_alnus	JN892060.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.7695395109318	-2.18473538993259	0
+Frangula_alnus	JN891414.1	07-MAR-2012	520	United Kingdom: Glamorgan	secondary	rbcL	50.725348609395	-3.82108908121903	0
+Frangula_alnus	AJ390026.1	01-SEP-2000	972	Switzerland	secondary	rbcL	46.7985624	8.2319736	0

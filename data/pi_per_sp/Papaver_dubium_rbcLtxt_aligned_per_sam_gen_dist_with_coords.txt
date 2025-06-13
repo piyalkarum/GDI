@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Papaver_dubium	MG248859.1	21-JAN-2018	552	Canada: n/a, ON	primary	rbcL	50.7	-86.05	0.0141409451984222
+Papaver_dubium	JN890645.1	07-MAR-2012	542	United Kingdom: Radnorshire	primary	rbcL	52.12	-3.35	0.00295748613678373
+Papaver_dubium	AB517147.1	18-AUG-2009	786	Japan:Shiga, Nagahama	primary	rbcL	35.21	136.17	0.00291099941577222
+Papaver_dubium	HM850229.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00286639322471611
+Papaver_dubium	JN893377.1	07-MAR-2012	542	United Kingdom: Radnorshire	secondary	rbcL	52.4627049	-3.2561628	0.00295748613678373
+Papaver_dubium	JN893374.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00295748613678373

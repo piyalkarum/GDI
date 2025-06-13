@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aethusa_cynapium	JN891276.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.63	-3.14	0
+Aethusa_cynapium	KJ204292.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0
+Aethusa_cynapium	JN893699.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.008546752622	-3.67796493492285	0
+Aethusa_cynapium	JN891604.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.1569091081756	-4.21083556690698	0

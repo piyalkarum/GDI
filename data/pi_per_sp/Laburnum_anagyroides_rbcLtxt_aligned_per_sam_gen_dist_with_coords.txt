@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Laburnum_anagyroides	MG248834.1	21-JAN-2018	552	Canada: OAC, Guelph	primary	rbcL	43.5927452116064	-81.0507711506297	0.00132978723404255
+Laburnum_anagyroides	MG248400.1	21-JAN-2018	552	Canada: OAC, Guelph	primary	rbcL	44.375426866942	-79.9389426461052	0.00132978723404255
+Laburnum_anagyroides	KX678805.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Coquitlam, Lougheed Highway	primary	rbcL	49.283	-122.75	0.00132978723404255
+Laburnum_anagyroides	HG417006.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.00110619469026549
+Laburnum_anagyroides	FR869999.1	10-JAN-2012	468	Netherlands:Leiden Hortus	secondary	rbcL	52.1560031	4.4839431	0.00509555639239315

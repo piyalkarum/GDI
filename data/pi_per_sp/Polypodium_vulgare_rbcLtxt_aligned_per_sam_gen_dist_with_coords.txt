@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polypodium_vulgare	OR660051.1	06-NOV-2023	492	Kazakhstan: Qaragandy region	primary	rbcL	49.42895	75.48023	0.00447154471544716
+Polypodium_vulgare	KX821239.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.1485144779162	8.05163992529384	0.00491492092972441
+Polypodium_vulgare	KX821238.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.7376157085959	8.22198962710745	0.00626083024548051
+Polypodium_vulgare	JF832081.1	24-JAN-2012	1309	Sweden: Uppsala	secondary	rbcL	59.8586126	17.6387436	0.00695828929015126
+Polypodium_vulgare	HE574634.1	31-JUL-2011	566	Finland	secondary	rbcL	63.2467777	25.9209164	0.00430220113042421
+Polypodium_vulgare	AB044899.1	21-JUN-2000	1373	Japan:Shimane, Nishinosima, Oki Island	secondary	rbcL	35.7819102	139.797285920612	0.0104106884226603

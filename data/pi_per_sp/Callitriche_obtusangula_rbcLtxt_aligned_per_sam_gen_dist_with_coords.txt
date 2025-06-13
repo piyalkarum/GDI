@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Callitriche_obtusangula	JN890763.1	07-MAR-2012	458	United Kingdom: Glamorgan	primary	rbcL	51.5	-3.87	0.00227818963474493
+Callitriche_obtusangula	LC177690.1	01-APR-2017	1298	Spain:Seville, Donana National Park	secondary	rbcL	36.9844599	-6.4086033	0.000775193798449612
+Callitriche_obtusangula	JN893579.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000727802037845706
+Callitriche_obtusangula	JN893577.1	07-MAR-2012	505	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.000775193798449612

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Microcnemum_coralloides	EU544025.1	28-FEB-2009	1692	Iran: Arak, N of Kavir-e Migham, near Deh-Namak; near the margin of Arak salt lake	secondary	trnL-trnF	34.0862719	49.6893884	0.0653358681013572
+Microcnemum_coralloides	EU544022.1	28-FEB-2009	1693	Turkey: Eskisehir, Gunyuzu, Kavuncu Koyu Cora, 707 m	secondary	trnL-trnF	39.7743941	30.519116	0.064893908091233
+Microcnemum_coralloides	EU544021.1	28-FEB-2009	1678	Turkey: Aksaray, Eskil, Yenikent-Eskil Aras Eski yol uzeri corak alan 904 m	secondary	trnL-trnF	38.3705416	34.026907	0.0669812082794918
+Microcnemum_coralloides	EU544020.1	28-FEB-2009	1643	Turkey: Kayseri, Buyuktuzhisar, Tuzla Lake	secondary	trnL-trnF	38.7219011	35.4873214	0.109289006415582
+Microcnemum_coralloides	EU544018.1	28-FEB-2009	1592	Spain: Zaragoza, Velado de Penaflor	secondary	trnL-trnF	41.7302815012566	-1.63906479682523	0.0667129710869381
+Microcnemum_coralloides	EU544017.1	28-FEB-2009	1597	Spain: Mota del Cuervo, Laguna de Manjavacas	secondary	trnL-trnF	39.4154387	-2.8659241	0.181113078557955
+Microcnemum_coralloides	EU544016.1	28-FEB-2009	1598	Spain: Azaila, Laguna de la Salada	secondary	trnL-trnF	41.2912333	-0.4942811	0.233573829337866
+Microcnemum_coralloides	EU544015.1	28-FEB-2009	1592	Spain: Zaragoza, Huesca, Penalba, Amarga Baja, 356 m	secondary	trnL-trnF	42.2082441622682	-0.0415966036751102	0.0667935991483077
+Microcnemum_coralloides	EU544019.1	28-FEB-2009	1642	Turkey	secondary	trnL-trnF	38.6589897	32.9237305	0.0659003233472631

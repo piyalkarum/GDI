@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_divulsa	MG226722.1	23-JAN-2018	501	Canada: Ontario, Essex county, Pelee township, Lake Erie, Middle Island, Point Pelee National Park	primary	rbcL	41.6816	-82.6845	0.00232934131736527
+Carex_divulsa	JN893132.1	07-MAR-2012	542	United Kingdom: Denbighshire	primary	rbcL	52.95	-2.87	0.000650128314798973
+Carex_divulsa	MG226898.1	23-JAN-2018	523	USA: Washington, King Co, private botanical garden, 196th st, Vashon Island	secondary	rbcL	38.8950368	-77.0365427	0.0006620644312952
+Carex_divulsa	HM849851.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00226390836248045
+Carex_divulsa	JN893021.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.000650128314798973
+Carex_divulsa	JN892574.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.7111166369537	-3.80010602637988	0.000650128314798973
+Carex_divulsa	JN892573.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.9643295760687	-4.03684914842578	0.000650128314798973

@@ -1,0 +1,86 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cystopteris_fragilis	MT723746.1	27-SEP-2021	997	India	primary	matK	18.990066	73.273048	0.0107654033374343
+Cystopteris_fragilis	OQ290000.1	16-MAY-2023	793	Mexico: Puebla	secondary	matK	19.1705686	-98.4123106	0.537698914743246
+Cystopteris_fragilis	MH062354.1	25-DEC-2018	1202	USA: Washington, Okanogan County, North Cascades Mts, Methow Valley area, North Lake/Cedar Creek Trail	secondary	matK	39.5551376252361	-76.3759663691642	0.0110449995006975
+Cystopteris_fragilis	MH062353.1	25-DEC-2018	1202	USA: Washington, Okanogan County, North Cascades Mts, Methow Valley area, North Lake/Cedar Creek Trail	secondary	matK	38.9722609202491	-78.006759444026	0.0110449995006975
+Cystopteris_fragilis	MH062352.1	25-DEC-2018	1202	USA: Utah, Salt Lake County, Central Wasatch Mountains, Little Cottonwood Canyon	secondary	matK	35.4401771866878	-88.4299645696617	0.021182447787531
+Cystopteris_fragilis	MH062351.1	25-DEC-2018	1202	USA: Utah, Salt Lake County, Central Wasatch Mountains, Little Cottonwood Canyon	secondary	matK	34.9923019804083	-87.6144769300819	0.0110449995006975
+Cystopteris_fragilis	MH062350.1	25-DEC-2018	1202	USA: Utah, Salt Lake County, Central Wasatch Mountains, Little Cottonwood Canyon	secondary	matK	35.812900496271	-88.6611564297743	0.0110449995006975
+Cystopteris_fragilis	MH062349.1	25-DEC-2018	1202	USA: Utah, Salt Lake County, Central Wasatch Mountains, Little Cottonwood Canyon	secondary	matK	35.6546087481111	-88.4135394538294	0.0110449995006975
+Cystopteris_fragilis	MH062347.1	25-DEC-2018	1202	Canada: Ontario, Manitoulin Island	secondary	matK	45.8275404954394	-80.9857662930897	0.0110449995006975
+Cystopteris_fragilis	MH062346.1	25-DEC-2018	1211	Canada: Ontario, Manitoulin Island	secondary	matK	45.6097028947658	-82.1370300363251	0.0115408377390585
+Cystopteris_fragilis	MH062345.1	25-DEC-2018	1202	Canada: Ontario, Manitoulin Island	secondary	matK	46.491590939039	-82.503187270134	0.0115428399336607
+Cystopteris_fragilis	MH062344.1	25-DEC-2018	1202	Canada: Ontario, Manitoulin Island	secondary	matK	46.1010149977248	-82.6856863276403	0.0110449995006975
+Cystopteris_fragilis	MH062343.1	25-DEC-2018	1202	Canada: Ontario, Manitoulin Island	secondary	matK	45.3179699119648	-81.9067815871921	0.0110449995006975
+Cystopteris_fragilis	MH062342.1	25-DEC-2018	1202	Canada: Ontario, Manitoulin Island	secondary	matK	46.1632332190019	-81.2071668180544	0.0110449995006975
+Cystopteris_fragilis	MH062341.1	25-DEC-2018	1211	Canada: Ontario, Manitoulin Island	secondary	matK	46.4729321715872	-82.7625577897012	0.0114364212474587
+Cystopteris_fragilis	MH062340.1	25-DEC-2018	1202	Canada: Ontario, Manitoulin Island	secondary	matK	45.4509270768907	-82.4967714515255	0.0110449995006975
+Cystopteris_fragilis	MH062339.1	25-DEC-2018	1202	Canada: Ontario, Manitoulin Island	secondary	matK	46.0001894062821	-81.9639525621414	0.0116297324453077
+Cystopteris_fragilis	MH062338.1	25-DEC-2018	1202	Canada: British Columbia, Fraser Valley Regional District, Othello Tunnels, Coquihalla Canyon Provincial Park	secondary	matK	49.25783145	-123.246241986222	0.0110449995006975
+Cystopteris_fragilis	MH062337.1	25-DEC-2018	620	Canada: British Columbia, Capital Regional District, Mount Finlayson	secondary	matK	48.4827911	-123.5382869	0.0130979896732082
+Cystopteris_fragilis	MH062334.1	25-DEC-2018	1202	Kyrgyzstan: Kyzart	secondary	matK	41.9775874	74.9492294	0.0100711404027823
+Cystopteris_fragilis	MH062332.1	25-DEC-2018	1202	India: Great Himalayan Range, Darcha	secondary	matK	33.2320332170032	76.76929771022	0.0100711404027823
+Cystopteris_fragilis	MH062331.1	25-DEC-2018	1202	India: Great Himalayan Range, Darcha	secondary	matK	33.2890311774292	77.0103309756826	0.0100711404027823
+Cystopteris_fragilis	MH062330.1	25-DEC-2018	1202	Georgia: Vardzia, Vanis Kvabi	secondary	matK	41.3839113	43.3041984	0.00986538127718895
+Cystopteris_fragilis	MH062325.1	25-DEC-2018	1202	Spain: Sierra Nevada, Capileira	secondary	matK	37.0271604	-3.4211169	0.0110449995006975
+Cystopteris_fragilis	MH062324.1	25-DEC-2018	1202	Spain: Sierra de la Demanda, Ezcaray	secondary	matK	42.3028686656868	-3.62545055942152	0.0110449995006975
+Cystopteris_fragilis	MH062323.1	25-DEC-2018	1202	Spain: Sierra de la Demanda, Ezcaray	secondary	matK	42.921928243677	-2.65251580745859	0.0110449995006975
+Cystopteris_fragilis	MH062317.1	25-DEC-2018	1202	Spain: Andalusia, Sierra Nevada, Berchules	secondary	matK	37.4645318	-5.3443621	0.0100711404027823
+Cystopteris_fragilis	MH062316.1	25-DEC-2018	1202	Serbia: Tekija	secondary	matK	43.5937423	21.3984137	0.0100711404027823
+Cystopteris_fragilis	MH062315.1	25-DEC-2018	1202	Serbia: Tara NP, Zaovine	secondary	matK	43.91206065	19.4246246187462	0.00986538127718895
+Cystopteris_fragilis	MH062314.1	25-DEC-2018	1202	Serbia: Druzinice	secondary	matK	43.0015555400807	20.8780913249592	0.00986538127718895
+Cystopteris_fragilis	MH062313.1	25-DEC-2018	1202	Serbia: Druzinice	secondary	matK	44.0890861479043	19.8285533646396	0.00986538127718895
+Cystopteris_fragilis	MH062312.1	25-DEC-2018	1202	Romania: Suncuius	secondary	matK	46.9457577	22.5357405	0.00986538127718895
+Cystopteris_fragilis	MH062310.1	25-DEC-2018	1196	Norway: Svalbard, Skansbukta	secondary	matK	78.0032056197395	21.1214851939898	0.0131051403668898
+Cystopteris_fragilis	MH062309.1	25-DEC-2018	1196	Norway: Svalbard, Fortet	secondary	matK	79.5120105091678	21.519566603747	0.0131051403668898
+Cystopteris_fragilis	MH062308.1	25-DEC-2018	1202	Norway: Rondane NP, Sel	secondary	matK	61.8875636	9.79660465577977	0.0100711404027823
+Cystopteris_fragilis	MH062293.1	25-DEC-2018	1202	Italy: Lillaz	secondary	matK	46.422196841925	8.4071723213289	0.0100711404027823
+Cystopteris_fragilis	MH062292.1	25-DEC-2018	1202	Italy: Lillaz	secondary	matK	45.1556854515583	6.79387684822888	0.0100711404027823
+Cystopteris_fragilis	MH062291.1	25-DEC-2018	1202	Italy: Lillaz	secondary	matK	46.4887758461773	6.8863063085599	0.0100711404027823
+Cystopteris_fragilis	MH062290.1	25-DEC-2018	1202	United Kingdom: Wales, Dolwyddelan	secondary	matK	53.052963	-3.8890881	0.0099699462167798
+Cystopteris_fragilis	MH062289.1	25-DEC-2018	1202	United Kingdom: Scotland, Braemore	secondary	matK	58.251863	-3.5812879	0.0116890333725015
+Cystopteris_fragilis	MH062283.1	25-DEC-2018	1202	United Kingdom: North Scotland, Durness	secondary	matK	58.5964328	-3.5229737	0.00986538127718895
+Cystopteris_fragilis	MH062282.1	25-DEC-2018	1202	United Kingdom: England, Yorkshire Dales national park, Malham	secondary	matK	53.6843735168988	-3.10783573812693	0.00986538127718895
+Cystopteris_fragilis	MH062281.1	25-DEC-2018	1202	United Kingdom: England, Yorkshire Dales national park, Malham	secondary	matK	54.32647250413	-1.7684681384851	0.00986538127718895
+Cystopteris_fragilis	MH062279.1	25-DEC-2018	1202	France: Pyrenees, Pyrenees-Orientales, Les Angles	secondary	matK	42.9509924091307	1.67798605137399	0.0110449995006975
+Cystopteris_fragilis	MH062278.1	25-DEC-2018	1202	France: Pyrenees, Pyrenees-Orientales, Les Angles	secondary	matK	42.8718558228073	1.28741970592513	0.0100711404027823
+Cystopteris_fragilis	MH062277.1	25-DEC-2018	1202	France: Pyrenees, Pyrenees-Orientales, Les Angles	secondary	matK	43.0289925424668	2.56418931964742	0.0110449995006975
+Cystopteris_fragilis	MH062276.1	25-DEC-2018	1202	France: Pyrenees, Pyrenees-Orientales, Les Angles	secondary	matK	42.1952864443283	1.07459458777971	0.0110449995006975
+Cystopteris_fragilis	MH062275.1	25-DEC-2018	1202	France: Pyrenees, Pyrenees-Orientales, Les Angles	secondary	matK	41.8161863125915	2.24161765652234	0.0110449995006975
+Cystopteris_fragilis	MH062274.1	25-DEC-2018	1202	France: Pyrenees, Hautes-Pyrenees, Gavarnie	secondary	matK	43.6259329854857	-0.0718313271614263	0.00986538127718895
+Cystopteris_fragilis	MH062273.1	25-DEC-2018	1202	France: Pyrenees, Hautes-Pyrenees, Gavarnie	secondary	matK	41.8907578957079	-0.322496436746598	0.0100711404027823
+Cystopteris_fragilis	MH062272.1	25-DEC-2018	1202	France: Pyrenees, Hautes-Pyrenees, Gavarnie	secondary	matK	43.3897029092309	0.54450397211685	0.00986538127718895
+Cystopteris_fragilis	MH062271.1	25-DEC-2018	1202	France: Pyrenees, Hautes-Pyrenees, Gavarnie	secondary	matK	42.7750095938595	0.312757650400189	0.0100711404027823
+Cystopteris_fragilis	MH062270.1	25-DEC-2018	1202	France: Pyrenees, Hautes-Pyrenees, Gavarnie	secondary	matK	43.0318104473215	-0.395716739410648	0.00986538127718895
+Cystopteris_fragilis	MH062269.1	25-DEC-2018	1202	France: Pyrenees, Hautes-Pyrenees, Gavarnie	secondary	matK	41.9605032993407	-0.287592877079122	0.00986538127718895
+Cystopteris_fragilis	MH062268.1	25-DEC-2018	1202	France: Provence-Alpes-Cote d'Azur, Annot	secondary	matK	43.9586817256484	5.45843642345916	0.00986538127718895
+Cystopteris_fragilis	MH062267.1	25-DEC-2018	1202	France: Provence-Alpes-Cote d'Azur, Annot	secondary	matK	43.9972559270864	6.3378736897514	0.0100711404027823
+Cystopteris_fragilis	MH062266.1	25-DEC-2018	1202	France: Provence-Alpes-Cote d'Azur, Annot	secondary	matK	44.0167309545998	7.49197508559735	0.0100711404027823
+Cystopteris_fragilis	MH062262.1	25-DEC-2018	1202	Czech Republic: Primelkov	secondary	matK	49.3411305	15.7318879	0.0100711404027823
+Cystopteris_fragilis	JF832266.1	24-JAN-2012	912	Sweden: Uppsala	secondary	matK	59.8586126	17.6387436	0.0107303957008237
+Cystopteris_fragilis	JX873986.1	07-MAY-2013	1211	USA: Utah. Salt Lake Co.	secondary	matK	40.6632297	-111.9103124	0.0133267924364086
+Cystopteris_fragilis	JX873985.1	07-MAY-2013	1201	USA: Colorado. Park County.	secondary	matK	39.1089299	-105.7561639	0.0139495746738373
+Cystopteris_fragilis	MH062336.1	25-DEC-2018	1202	Turkey	secondary	matK	40.6896591331766	39.4358560737564	0.0100711404027823
+Cystopteris_fragilis	MH062335.1	25-DEC-2018	1202	Turkey	secondary	matK	40.0462522136358	39.6785492261308	0.0110449995006975
+Cystopteris_fragilis	MH062327.1	25-DEC-2018	1202	Armenia	secondary	matK	39.7530401083396	43.891951015564	0.0100711404027823
+Cystopteris_fragilis	MH062326.1	25-DEC-2018	1202	Armenia	secondary	matK	39.4775112531414	44.3472385823565	0.0100711404027823
+Cystopteris_fragilis	MH062322.1	25-DEC-2018	1202	Spain	secondary	matK	42.1059222261857	2.25593297124914	0.00986538127718895
+Cystopteris_fragilis	MH062321.1	25-DEC-2018	1202	Spain	secondary	matK	42.8130712809361	0.886622191449636	0.0100711404027823
+Cystopteris_fragilis	MH062320.1	25-DEC-2018	1202	Spain	secondary	matK	42.6658690672975	1.24029847535275	0.0100711404027823
+Cystopteris_fragilis	MH062319.1	25-DEC-2018	1202	Spain	secondary	matK	42.6798686028847	2.66052424931045	0.0100711404027823
+Cystopteris_fragilis	MH062311.1	25-DEC-2018	1202	Poland	secondary	matK	50.8268011	15.5221261	0.0100711404027823
+Cystopteris_fragilis	MH062307.1	25-DEC-2018	1202	Norway	secondary	matK	68.0228148961534	16.8404880840102	0.00986538127718895
+Cystopteris_fragilis	MH062306.1	25-DEC-2018	1202	Norway	secondary	matK	67.1043966044627	16.7321004812752	0.0110449995006975
+Cystopteris_fragilis	MH062305.1	25-DEC-2018	1202	Norway	secondary	matK	68.7888850315126	21.3961700618753	0.0110449995006975
+Cystopteris_fragilis	MH062304.1	25-DEC-2018	1202	Norway	secondary	matK	68.6775096087649	21.637462642392	0.0110449995006975
+Cystopteris_fragilis	MH062303.1	25-DEC-2018	1202	Norway	secondary	matK	69.7357448200614	18.9059246842414	0.0110449995006975
+Cystopteris_fragilis	MH062299.1	25-DEC-2018	1202	Macedonia	secondary	matK	42.5323420516597	21.1304706869164	0.0110449995006975
+Cystopteris_fragilis	MH062298.1	25-DEC-2018	1202	Macedonia	secondary	matK	42.0278367865154	19.7279050464161	0.0110449995006975
+Cystopteris_fragilis	MH062286.1	25-DEC-2018	1202	United Kingdom	secondary	matK	57.8245924131061	-3.44103787347051	0.0116890333725015
+Cystopteris_fragilis	MH062285.1	25-DEC-2018	1202	United Kingdom	secondary	matK	57.5916563517389	-4.60738885539378	0.0116890333725015
+Cystopteris_fragilis	MH062284.1	25-DEC-2018	1202	United Kingdom	secondary	matK	57.1482429	-2.0928095	0.0116890333725015
+Cystopteris_fragilis	MH062280.1	25-DEC-2018	1202	Germany	secondary	matK	49.1493317	7.7802569	0.0100711404027823
+Cystopteris_fragilis	MH062264.1	25-DEC-2018	1202	Czech Republic	secondary	matK	49.8731609931166	16.4204071324536	0.0100711404027823
+Cystopteris_fragilis	MH062263.1	25-DEC-2018	1192	Czech Republic	secondary	matK	50.5830284567344	15.0456689879869	0.00988800843415464
+Cystopteris_fragilis	MH062261.1	25-DEC-2018	1202	Czech Republic	secondary	matK	50.6933938239595	14.3080481272843	0.0100711404027823
+Cystopteris_fragilis	MH062260.1	25-DEC-2018	1202	Czech Republic	secondary	matK	51.5197247383021	15.9219074077121	0.0100711404027823

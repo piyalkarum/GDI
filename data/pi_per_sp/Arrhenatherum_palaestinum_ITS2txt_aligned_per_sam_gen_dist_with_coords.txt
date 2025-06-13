@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arrhenatherum_palaestinum	AJ632242.1	08-JAN-2007	625	Bulgaria	secondary	ITS2	46.5178508100205	24.56924811543	0.00982133068081344
+Arrhenatherum_palaestinum	AJ632241.1	08-JAN-2007	529	Bulgaria	secondary	ITS2	46.4941219737245	23.3952612907077	0.0349095555766943
+Arrhenatherum_palaestinum	AJ632240.1	08-JAN-2007	627	Greece	secondary	ITS2	43.2097838	-77.6930602	0.0101404844968357
+Arrhenatherum_palaestinum	AJ632239.1	08-JAN-2007	627	Turkey	secondary	ITS2	39.7947018082733	34.7510045705809	0.0102655265218242
+Arrhenatherum_palaestinum	AJ632238.1	08-JAN-2007	628	Turkey	secondary	ITS2	38.9048129059201	35.6366351701937	0.0102809400179598

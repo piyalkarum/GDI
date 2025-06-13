@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bidens_tripartita	MF770231.1	30-JUN-2018	804	India	primary	matK	23.44	92.39	0.00316707965961697
+Bidens_tripartita	JN895697.1	07-MAR-2012	954	United Kingdom: Glamorgan	primary	matK	51.68	-3.4	0.00330343874677966
+Bidens_tripartita	MT917503.1	03-MAR-2023	793	China	secondary	matK	35.000074	104.999927	0.0107576636664117
+Bidens_tripartita	LC722797.1	11-FEB-2023	849	Japan:Aichi, Minamichitacho	secondary	matK	35.1219442	137.081740723195	0.0100172253567696
+Bidens_tripartita	JN896081.1	07-MAR-2012	992	United Kingdom: Radnorshire	secondary	matK	52.4627049	-3.2561628	0.00325742285979468
+Bidens_tripartita	JN896080.1	07-MAR-2012	808	United Kingdom: Glamorgan	secondary	matK	51.8566044971627	-3.37687598275854	0.00312952439365302
+Bidens_tripartita	JN893869.1	07-MAR-2012	827	United Kingdom: Glamorgan	secondary	matK	50.8008705555322	-3.92740951347075	0.00329363185429949

@@ -1,0 +1,50 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Deschampsia_cespitosa	MF596721.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, along Tlell River adjacent to Naikoon Provincial Park along Hwy. 16.	primary	rbcL	54.1100031323545	-132.161395074623	0.00492818236081964
+Deschampsia_cespitosa	MF596720.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Island, Graham Island, 28 km N/ NW of Queen Charlotte City along Rennell Sound Forest Service Road.	primary	rbcL	53.4204071705414	-131.144496873256	0.00222409085083418
+Deschampsia_cespitosa	MF596719.1	28-FEB-2018	603	Canada: British Columbia, Grant Narrows Regional Park, mouth of Pitt River, tidal flat along edge of river with Equisetum, Phalaris arundinaceae, Juncus sp., Scirpus sp	primary	rbcL	49.8248833077565	-121.833147873148	0.00492818236081964
+Deschampsia_cespitosa	MF596718.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Slatechuck Mountain. Rocky mountain ridge and associated grass/ sedge meadow, accessible only by hiking trail.	primary	rbcL	53.2125424268806	-131.394387995043	0.00222409085083418
+Deschampsia_cespitosa	MF596717.1	28-FEB-2018	603	Canada: Saskatchewan, Cypress Hills, 18 mi E of Alberta border, E of Elk Water. Margin of small pond in standing water with Potamogeton, Eleocharis, and Ranunculus.	primary	rbcL	48.9981381833625	-109.783619060664	0.00283494363989697
+Deschampsia_cespitosa	MG228014.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Slatechuck Mountain. Rocky mountain ridge and associated grass/ sedge meadow, accessible only by hiking trail.	primary	rbcL	53.5402932660347	-132.141518724552	0.00222409085083418
+Deschampsia_cespitosa	MG227723.1	23-JAN-2018	603	Canada: British Columbia, Grant Narrows Regional Park, mouth of Pitt River, tidal flat along edge of river with Equisetum, Phalaris arundinaceae, Juncus sp., Scirpus sp	primary	rbcL	48.5849989423505	-122.743363203337	0.00492818236081964
+Deschampsia_cespitosa	MG227624.1	23-JAN-2018	603	Canada: Saskatchewan, Cypress Hills, 18 mi E of Alberta border, E of Elk Water. Margin of small pond in standing water with Potamogeton, Eleocharis, and Ranunculus.	primary	rbcL	49.5813938170158	-110.969827231434	0.00283494363989697
+Deschampsia_cespitosa	MG226591.1	23-JAN-2018	553	Greenland: Kangerssuneq, Igdlorssuit	primary	rbcL	60.367	-44.067	0.00226617567025948
+Deschampsia_cespitosa	MG226521.1	23-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Alvar, Emmett Lake Road, Bruce Peninsula National Park	primary	rbcL	45.199	-81.506	0.00291502184299899
+Deschampsia_cespitosa	MG226464.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Island, Graham Island, 28 km N/ NW of Queen Charlotte City along Rennell Sound Forest Service Road.	primary	rbcL	53.5616414045777	-131.529453474908	0.00222409085083418
+Deschampsia_cespitosa	MG226415.1	23-JAN-2018	553	Greenland: South Greenland, Amitsuarssuk	primary	rbcL	60.133	-44.75	0.00226617567025948
+Deschampsia_cespitosa	MG226027.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, along Tlell River adjacent to Naikoon Provincial Park along Hwy. 16.	primary	rbcL	53.7224702391904	-130.722526895879	0.00492818236081964
+Deschampsia_cespitosa	MG225634.1	23-JAN-2018	552	Canada: Saskatchewan, Tazin Lake Quad, Lake Athabasca, sand dune region W of William River, ca. 6 mi S of mouth of river.	primary	rbcL	59.05	-109.233	0.00291502184299899
+Deschampsia_cespitosa	MG225543.1	23-JAN-2018	552	USA: Alaska, Kenai Peninsula Borough, Kenai Fjords National Park, Delight Lake	primary	rbcL	59.548	-150.333	0.00500184037449994
+Deschampsia_cespitosa	MF349576.1	21-SEP-2017	553	USA: District of Columbia; United States National Arboretum, 3501 New York Ave NE; Gotelli Dwarf and Slow-Growing Conifer Collection Pond	primary	rbcL	38.909	-76.963	0.0509677892221712
+Deschampsia_cespitosa	KC482515.1	25-OCT-2013	525	Canada: Nunavut, Baffin Island, Iqaluit, Roadside ditch near Nunavut Science Institute	primary	rbcL	63.75	-68.5167	0.0023015873015873
+Deschampsia_cespitosa	KC482514.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Koukdjuak Riv., Nikko Island in the Koukdjuak River. Abandoned fishing camp	primary	rbcL	66.747555159304	-70.056553315073	0.00226849612696904
+Deschampsia_cespitosa	KC482513.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Koukdjuak Riv., Nikko Island	primary	rbcL	66.5895949352485	-73.5542999926778	0.00226849612696904
+Deschampsia_cespitosa	KC482512.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Nettilling Lake Burwash Bay	primary	rbcL	65.95	-71.3	0.00226849612696904
+Deschampsia_cespitosa	KC482511.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Apex, Plant growing at back of Iqaluit lab	primary	rbcL	64.4276013766775	-67.4351430282826	0.00226849612696904
+Deschampsia_cespitosa	KC482510.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq. Between Plots 3 and 4. On east side of N-S road, to east of north shore of lake	primary	rbcL	56.597	-79.217	0.00291502184299899
+Deschampsia_cespitosa	KC482509.1	25-OCT-2013	525	Canada: Northwest Territories, Anderson River, Cape Bathurst E side, brook system N of river from Lake Mc kinlay, 0.7 - 1.5 km from sea	primary	rbcL	70.4833	-127.8	0.0029778889506516
+Deschampsia_cespitosa	KC482508.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Sheep Creek Beside air strip North Yukon National Park	primary	rbcL	69.1667	-140.083	0.00291502184299899
+Deschampsia_cespitosa	KC482507.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, WASHBURN LAKE Northwestern end of lake. Site 80	primary	rbcL	70.0833	-107.933	0.00291502184299899
+Deschampsia_cespitosa	KC482506.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Frobisher Bay. Behind large diesel oil storage tank	primary	rbcL	63.6572283473356	-69.689035076026	0.00226849612696904
+Deschampsia_cespitosa	KC482505.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Egg River. Area #14	primary	rbcL	72.45	-124.6	0.00291502184299899
+Deschampsia_cespitosa	KC482504.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Cape Dorset, Near the Nascopie Building	primary	rbcL	64.2333	-76.5417	0.00226849612696904
+Deschampsia_cespitosa	KC482503.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, Mould Bay Peninsula, East side, ~11 km E of Mould Bay	primary	rbcL	76.2333	-118.95	0.00291502184299899
+Deschampsia_cespitosa	KC482502.1	25-OCT-2013	552	Canada: Northwest Territories, Pelly Island, Pelly Island	primary	rbcL	69.5667	-135.567	0.00291502184299899
+Deschampsia_cespitosa	KC482501.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. South shore of island, South Camp	primary	rbcL	55.989	-79.733	0.00226849612696904
+Deschampsia_cespitosa	KC482500.1	25-OCT-2013	553	Canada: Yukon Territory, Ivvavik National Park, Buckland Hills	primary	rbcL	69.25	-139.38	0.00291315997811066
+Deschampsia_cespitosa	KC482499.1	25-OCT-2013	553	Canada: Northwest Territories, Mackenzie River Delta, Oniak Channel	primary	rbcL	68.4	-134.16	0.00291315997811066
+Deschampsia_cespitosa	KC482498.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. East shore of Kihlbay, tundra west of cabins	primary	rbcL	56.442	-78.956	0.00226849612696904
+Deschampsia_cespitosa	KC482497.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Sanikiluaq, east side of hamlet along coast	primary	rbcL	56.594	-79.253	0.00226849612696904
+Deschampsia_cespitosa	KC482496.1	25-OCT-2013	552	Canada: Northwest Territories, Inuvialuit Region, Illisarvik Drained thermocast lake, Experimental Lake	primary	rbcL	69.4833	-134.617	0.00291502184299899
+Deschampsia_cespitosa	KC482495.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. South shore of island, 1/2 km E of Upingavialuq	primary	rbcL	55.889	-79.9	0.00291502184299899
+Deschampsia_cespitosa	JN965469.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	rbcL	58.626	-94.23	0.00226849612696904
+Deschampsia_cespitosa	JN965468.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, Wet sandy soil.	primary	rbcL	58.692	-94.132	0.00226849612696904
+Deschampsia_cespitosa	JN965467.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.734	-94.112	0.00226849612696904
+Deschampsia_cespitosa	JN965466.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Roadside	primary	rbcL	58.75	-94.11	0.00291502184299899
+Deschampsia_cespitosa	JN892311.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.15	0.0023122905359426
+Deschampsia_cespitosa	MN205098.1	30-NOV-2021	719	China	secondary	rbcL	35.851991832707	104.981639295252	0.00410666467312361
+Deschampsia_cespitosa	MN205097.1	30-NOV-2021	724	China	secondary	rbcL	34.41383794721	104.995058467769	0.00238137317397902
+Deschampsia_cespitosa	KT280091.1	01-AUG-2016	673	China: Maqu Gansu	secondary	rbcL	34.6137382	102.4654149	0.00236684666329727
+Deschampsia_cespitosa	AY691635.1	28-AUG-2004	1347	New Zealand	secondary	rbcL	-41.5000831	172.8344077	0.0094059127151283
+Deschampsia_cespitosa	KJ204328.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.00227860178679851
+Deschampsia_cespitosa	JX848495.1	06-AUG-2013	1381	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.00369330786410235
+Deschampsia_cespitosa	JN892155.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0023122905359426

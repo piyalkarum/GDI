@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oligomeris_linifolia	MK097161.1	21-MAY-2019	553	Bahrain	primary	rbcL	26.027845	50.55236	0.000493096646942801
+Oligomeris_linifolia	MF590082.1	23-JAN-2018	647	Egypt	secondary	rbcL	26.2540493	29.2675469	0.00243297728125178
+Oligomeris_linifolia	KX282908.1	28-MAY-2017	579	Kuwait	secondary	rbcL	29.6220340252235	47.8737966173587	0.00091758677197507
+Oligomeris_linifolia	KX282907.1	28-MAY-2017	576	Kuwait	secondary	rbcL	28.6639725116696	47.7998307163589	0.000919859168717362
+Oligomeris_linifolia	KX282906.1	28-MAY-2017	577	Kuwait	secondary	rbcL	29.4243122037995	46.9580958201775	0.00184309059821224

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_vivipara	MZ359294.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.000621890547263682
+Festuca_vivipara	KT960433.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.9257518806244	-18.5388560754123	0.000621890547263682
+Festuca_vivipara	KT960411.1	13-DEC-2015	536	Greenland: NE, Zackenberg	primary	rbcL	74.5526461417333	-20.5989692493134	0.00373134328358209
+Festuca_vivipara	KT960383.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5038494345486	-21.057093014346	0.000621890547263682
+Festuca_vivipara	JN891047.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.47	-3.78	0.000621890547263682
+Festuca_vivipara	JN891472.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	51.7337291801922	-4.27237186936917	0.000621890547263682
+Festuca_vivipara	JN891465.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	53.0490908276768	-4.15662852955342	0.000621890547263682

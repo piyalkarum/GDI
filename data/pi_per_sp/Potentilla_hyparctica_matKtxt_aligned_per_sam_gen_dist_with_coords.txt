@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_hyparctica	KC475480.1	25-OCT-2013	765	Canada: Nunavut, Baffin Island, Apex	primary	matK	63.717	-68.433	0.000235072872590503
+Potentilla_hyparctica	KC475479.1	25-OCT-2013	687	Canada: Nunavut, Ellesmere Island, RCMP Post, Alexandra Fiord	primary	matK	78.883	-75.75	0.000242600679281902
+Potentilla_hyparctica	KC475478.1	25-OCT-2013	698	Canada: Nunavut, Axel Heiberg Island, Bukken River	primary	matK	80.517	-92.35	0.000257997936016512
+Potentilla_hyparctica	KC475477.1	25-OCT-2013	709	Canada: Yukon Territory, Ivvavik National Park, Buckland Hills	primary	matK	69.417	-139.633	0.00144089010566043
+Potentilla_hyparctica	KC475476.1	25-OCT-2013	765	Canada: Northwest Territories, Prince Patrick Island, Mould Bay	primary	matK	76.35	-119.05	0.000235072872590503
+Potentilla_hyparctica	KC475475.1	25-OCT-2013	765	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. The Bluff, approximately 6 km NW of Sanikiluaq, halfway up west peninsula	primary	matK	56.647	-79.364	0.000235072872590503
+Potentilla_hyparctica	KC475474.1	25-OCT-2013	765	Canada: Northwest Territories, Prince Patrick Island, Green Bay	primary	matK	76.567	-118.883	0.000235072872590503

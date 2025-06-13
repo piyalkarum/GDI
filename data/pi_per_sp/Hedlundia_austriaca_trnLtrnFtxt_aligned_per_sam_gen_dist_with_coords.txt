@@ -1,0 +1,27 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedlundia_austriaca	OQ511884.1	17-APR-2023	941	Bosnia and Herzegovina	primary	trnL-trnF	43.181111	18.568333	0
+Hedlundia_austriaca	OQ511883.1	17-APR-2023	941	Slovakia	primary	trnL-trnF	48.744167	18.913056	0
+Hedlundia_austriaca	OQ511882.1	17-APR-2023	941	Kosovo	primary	trnL-trnF	42.661389	20.243333	0
+Hedlundia_austriaca	OQ511881.1	17-APR-2023	941	Serbia	primary	trnL-trnF	43.044444	20.085556	0
+Hedlundia_austriaca	OQ511879.1	17-APR-2023	941	Austria	primary	trnL-trnF	48.5362119901715	12.8385412572813	0
+Hedlundia_austriaca	OQ511878.1	17-APR-2023	941	Romania	primary	trnL-trnF	45.050556	21.768056	0
+Hedlundia_austriaca	OQ511877.1	17-APR-2023	941	Austria	primary	trnL-trnF	47.9623538602405	12.9894378522103	0
+Hedlundia_austriaca	OQ511876.1	17-APR-2023	941	Austria	primary	trnL-trnF	47.815	13.253889	0
+Hedlundia_austriaca	OQ511875.1	17-APR-2023	941	Serbia	primary	trnL-trnF	43.156667	22.221389	0
+Hedlundia_austriaca	OQ511874.1	17-APR-2023	941	Romania	primary	trnL-trnF	44.879167	22.432778	0
+Hedlundia_austriaca	OQ511872.1	17-APR-2023	941	Serbia	primary	trnL-trnF	43.42	19.825833	0
+Hedlundia_austriaca	OQ511870.1	17-APR-2023	941	Austria	primary	trnL-trnF	46.591111	13.728611	0
+Hedlundia_austriaca	OQ511869.1	17-APR-2023	941	Bosnia and Herzegovina	primary	trnL-trnF	43.519167	18.447222	0
+Hedlundia_austriaca	OQ511868.1	17-APR-2023	941	Bosnia and Herzegovina	primary	trnL-trnF	43.319167	18.713056	0
+Hedlundia_austriaca	OQ511867.1	17-APR-2023	941	Bosnia and Herzegovina	primary	trnL-trnF	43.739167	18.298333	0
+Hedlundia_austriaca	OQ511866.1	17-APR-2023	941	Slovenia	primary	trnL-trnF	46.466389	13.990556	0
+Hedlundia_austriaca	OQ511865.1	17-APR-2023	941	Austria	primary	trnL-trnF	47.686389	15.655278	0
+Hedlundia_austriaca	OQ511864.1	17-APR-2023	941	Croatia	primary	trnL-trnF	43.319167	17.054444	0
+Hedlundia_austriaca	OQ511863.1	17-APR-2023	941	Bosnia and Herzegovina	primary	trnL-trnF	43.610556	17.519167	0
+Hedlundia_austriaca	OQ511862.1	17-APR-2023	941	Croatia	primary	trnL-trnF	44.529167	15.186389	0
+Hedlundia_austriaca	OQ511858.1	17-APR-2023	941	Austria	primary	trnL-trnF	47.0399390026315	14.571899763654	0
+Hedlundia_austriaca	OQ511857.1	17-APR-2023	941	Austria	primary	trnL-trnF	47.6469402532169	15.9137100840389	0
+Hedlundia_austriaca	KP794854.1	04-JAN-2016	941	Bosnia and Herzegovina	secondary	trnL-trnF	43.8967599146593	18.2740408031408	0
+Hedlundia_austriaca	KP794853.1	04-JAN-2016	941	Bosnia and Herzegovina	secondary	trnL-trnF	43.8808159572637	17.900775947464	0
+Hedlundia_austriaca	KP794852.1	04-JAN-2016	941	Bosnia and Herzegovina	secondary	trnL-trnF	44.3953754896452	18.3686501290474	0
+Hedlundia_austriaca	KP794851.1	04-JAN-2016	941	Bosnia and Herzegovina	secondary	trnL-trnF	44.9747778138117	16.9618380993411	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sibbaldia_procumbens	MK800811.1	04-FEB-2020	1068	USA: Idaho, White Cloud Mountains, Castle Peak	primary	ndhF	44.04019	-114.58878	0.00335087275874482
+Sibbaldia_procumbens	MK800810.1	04-FEB-2020	1068	USA: Idaho, Sawtooth Mountains, Horstmann Peak	primary	ndhF	44.1117	-115.00318	0.00471419927544557
+Sibbaldia_procumbens	MK800759.1	04-FEB-2020	489	USA: Idaho, Pioneer Mountians, Salzburger Spitzl	primary	ndhF	43.76619	-114.15839	0.00340831629175187
+Sibbaldia_procumbens	MK800758.1	04-FEB-2020	489	USA: Idaho, Sawtooth Mountains, Mount Cramer	primary	ndhF	44.01108	-114.98117	0.00340831629175187

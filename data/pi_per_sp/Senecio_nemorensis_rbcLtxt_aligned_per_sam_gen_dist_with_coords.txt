@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_nemorensis	LC767964.1	27-MAY-2023	262	Japan:Niigata, Mt.Hiuchi	primary	rbcL	-36.9227	138.0681	0
+Senecio_nemorensis	MT930553.1	03-MAR-2023	568	China	secondary	rbcL	34.5867163920337	105.716726908003	0
+Senecio_nemorensis	MT930552.1	03-MAR-2023	572	China	secondary	rbcL	35.3077309593611	105.736491770217	0
+Senecio_nemorensis	MT930551.1	03-MAR-2023	581	China	secondary	rbcL	34.8538312351212	105.797985120955	0
+Senecio_nemorensis	MH657705.1	01-AUG-2020	571	China: Hebei	secondary	rbcL	39.0000001	116	0

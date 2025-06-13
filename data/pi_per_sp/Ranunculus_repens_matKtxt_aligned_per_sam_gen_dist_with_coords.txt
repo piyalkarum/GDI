@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_repens	OR738238.1	13-NOV-2023	715	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.254022695397169
+Ranunculus_repens	MK926039.1	14-JAN-2020	873	United Kingdom	secondary	matK	54.6892275079173	-4.76809950439107	0.0657642381622824
+Ranunculus_repens	MK925965.1	14-JAN-2020	870	United Kingdom	secondary	matK	54.8128198197828	-2.04414827735322	0.0657672005985901
+Ranunculus_repens	HM851062.1	23-JUL-2011	816	Portugal	secondary	matK	39.6621648	-8.1353519	0.0649518397821962
+Ranunculus_repens	HM565166.1	20-FEB-2011	1795	Iran	secondary	matK	32.6475314	54.5643516	0.0646582384317898

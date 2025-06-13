@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Homogyne_discolor	MH223402.1	01-MAY-2019	500	Austria	secondary	psbA-trnH	37.5026441154638	-4.03018373140377	0
+Homogyne_discolor	MH223401.1	01-MAY-2019	500	Austria	secondary	psbA-trnH	36.2851177873192	-5.2835465524721	0
+Homogyne_discolor	MH223400.1	01-MAY-2019	500	Austria	secondary	psbA-trnH	37.5410314000215	-5.07498366967646	0
+Homogyne_discolor	MH223399.1	01-MAY-2019	463	Austria	secondary	psbA-trnH	37.5786115984634	-4.56954351865984	0
+Homogyne_discolor	MH223398.1	01-MAY-2019	500	Austria	secondary	psbA-trnH	37.4358939865721	-5.10442805143025	0
+Homogyne_discolor	MH223397.1	01-MAY-2019	500	Austria	secondary	psbA-trnH	36.248777718489	-4.88924996754862	0
+Homogyne_discolor	MH223396.1	01-MAY-2019	500	Austria	secondary	psbA-trnH	37.3242370996889	-4.82955436690637	0
+Homogyne_discolor	MH223395.1	01-MAY-2019	500	Italy	secondary	psbA-trnH	42.6384261	12.674297	0

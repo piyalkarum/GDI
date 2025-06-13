@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chenopodiastrum_murale	MK228106.1	31-DEC-2019	898	Bahrain	primary	matK	26.211495	50.587557	0.0407969540186289
+Chenopodiastrum_murale	KX676515.1	09-AUG-2017	815	Canada: British Columbia, Capital Regional District, Oak Bay, 2744 Bowker Avenue, near Greatford Place, vacant lot, in disturbed ground near demolished home site	primary	matK	48.432	-123.306	0.0405865867452131
+Chenopodiastrum_murale	JQ412223.1	16-JAN-2013	728	South Africa: Western Cape, Cape Town, Robben Island	primary	matK	-33.808	18.377	0.041242257416006
+Chenopodiastrum_murale	OQ390314.1	24-MAY-2023	858	Peru	secondary	matK	-6.73242808807321	-75.0813963233197	0.0407090366934927
+Chenopodiastrum_murale	OQ390313.1	24-MAY-2023	797	Peru	secondary	matK	-6.10345574297788	-74.5954410596278	0.0407722649082256
+Chenopodiastrum_murale	OQ390312.1	24-MAY-2023	803	Peru	secondary	matK	-7.27361507300337	-74.6264753548694	0.0407502389436536
+Chenopodiastrum_murale	OQ390311.1	24-MAY-2023	812	Peru	secondary	matK	-6.81715211091544	-75.4115412443176	0.040717840150572
+Chenopodiastrum_murale	OQ390310.1	24-MAY-2023	830	Peru	secondary	matK	-6.85751560787788	-74.3052127554186	0.0407142791083736
+Chenopodiastrum_murale	KY941439.1	30-APR-2018	434	Portugal	secondary	matK	39.5046709496798	-7.59585710416548	0.568944181147973
+Chenopodiastrum_murale	KX299000.1	06-FEB-2017	899	Egypt	secondary	matK	26.2540493	29.2675469	0.0410934147400607
+Chenopodiastrum_murale	HM850765.1	23-JUL-2011	813	Portugal	secondary	matK	39.76977213657	-8.91756408569012	0.0726108253614917
+Chenopodiastrum_murale	HE855633.1	07-JAN-2013	2430	USA	secondary	matK	39.7837304	-100.445882	0.0424859328618024
+Chenopodiastrum_murale	HE855632.1	07-JAN-2013	2442	Mexico	secondary	matK	19.4326296	-99.1331785	0.0407020139498629
+Chenopodiastrum_murale	JQ988070.1	17-DEC-2012	813	Saudi Arabia	secondary	matK	26.1305178934456	42.0680172894129	0.0405991524892587
+Chenopodiastrum_murale	JQ988069.1	17-DEC-2012	879	Saudi Arabia	secondary	matK	25.6893075350572	41.4822772867757	0.0408780501343125
+Chenopodiastrum_murale	JN894392.1	07-MAR-2012	806	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0406097785130043

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Onosma_pseudoarenaria	JX267934.1	18-SEP-2012	589	Serbia: Deliblatska pescara	secondary	trnK	44.9014298	21.1083119	0.000154344806297268
+Onosma_pseudoarenaria	JX267933.1	18-SEP-2012	589	Romania: Suatu	secondary	trnK	46.7720689	23.9686333	0.000154344806297268
+Onosma_pseudoarenaria	JX267932.1	18-SEP-2012	589	Romania: Sfaras	secondary	trnK	46.9048906	23.0985891	0.000154344806297268
+Onosma_pseudoarenaria	JX267931.1	18-SEP-2012	589	Romania: Paulis	secondary	trnK	46.1471022923435	22.5943649533607	0.000154344806297268
+Onosma_pseudoarenaria	JX267930.1	18-SEP-2012	589	Romania: Govajdia	secondary	trnK	45.7399966	22.7951249	0.000154344806297268
+Onosma_pseudoarenaria	JX267929.1	18-SEP-2012	589	Romania: Ocna Mures	secondary	trnK	46.3814028	23.8577354	0.000154344806297268
+Onosma_pseudoarenaria	JX267928.1	18-SEP-2012	589	Romania: Izvorul Crisului	secondary	trnK	44.3849142	26.1100947	0.000154344806297268
+Onosma_pseudoarenaria	JX267927.1	18-SEP-2012	589	Romania: Cunta	secondary	trnK	45.9251054	23.7225461	0.000154344806297268
+Onosma_pseudoarenaria	JX267926.1	18-SEP-2012	589	Romania: Chinteni	secondary	trnK	46.861747	23.5404553	0.00169779286926995
+Onosma_pseudoarenaria	JX267925.1	18-SEP-2012	589	Romania: Ciumbrud	secondary	trnK	46.3080965	23.762224	0.000154344806297268
+Onosma_pseudoarenaria	JX267924.1	18-SEP-2012	589	Romania: Galda de Sus	secondary	trnK	46.2229106	23.5639494	0.000154344806297268
+Onosma_pseudoarenaria	JX267923.1	18-SEP-2012	589	Romania: Paulis	secondary	trnK	46.2502424140397	22.8420954187886	0.000154344806297268

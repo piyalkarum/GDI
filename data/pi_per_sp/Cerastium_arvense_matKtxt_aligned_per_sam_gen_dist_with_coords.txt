@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_arvense	MT917858.1	03-MAR-2023	779	China	secondary	matK	35.000074	104.999927	0.00174655769435401
+Cerastium_arvense	MK926197.1	14-JAN-2020	756	United Kingdom	secondary	matK	54.0693421781583	-4.1530694117464	0.000440917107583774
+Cerastium_arvense	MK926101.1	14-JAN-2020	741	United Kingdom	secondary	matK	55.0698626785784	-4.12521305273017	0.000449842555105713
+Cerastium_arvense	OQ263162.1	23-AUG-2023	921	China	secondary	matK	35.6250478	111.2209922	0.000855798031664527

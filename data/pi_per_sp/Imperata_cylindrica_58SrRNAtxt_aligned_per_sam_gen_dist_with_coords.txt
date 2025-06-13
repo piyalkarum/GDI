@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Imperata_cylindrica	LC427254.1	05-OCT-2021	528	Japan:Tochigi	primary	5.8S rRNA	36.6833	139.7666	0.00464876033057851
+Imperata_cylindrica	LC427253.1	05-OCT-2021	528	Japan:Fukushima	primary	5.8S rRNA	37.5333	140.8666	0.00550964187327824
+Imperata_cylindrica	LC427252.1	05-OCT-2021	528	Japan:Yamagata	primary	5.8S rRNA	38.3666	140.2166	0.0049931129476584
+Imperata_cylindrica	LC427251.1	05-OCT-2021	528	Japan:Yamagata	primary	5.8S rRNA	38.45	140.0833	0.0049931129476584
+Imperata_cylindrica	LC427250.1	05-OCT-2021	528	Japan:Yamagata	primary	5.8S rRNA	38.9833	139.85	0.00550964187327824
+Imperata_cylindrica	LC427249.1	05-OCT-2021	528	Japan:Miyagi	primary	5.8S rRNA	38.8	141.0666	0.00482093663911846
+Imperata_cylindrica	LC427248.1	05-OCT-2021	528	Japan:Akita	primary	5.8S rRNA	39.15	140.4833	0.00654269972451791
+Imperata_cylindrica	LC427247.1	05-OCT-2021	528	Japan:Hokkaido	primary	5.8S rRNA	43.2	140.8333	0.00774793388429752
+Imperata_cylindrica	LC427246.1	05-OCT-2021	528	Japan:Akita	primary	5.8S rRNA	39.1166	139.8833	0.00619834710743802
+Imperata_cylindrica	LC427245.1	05-OCT-2021	528	Japan:Akita	primary	5.8S rRNA	39.2166	140.1333	0.00637052341597796
+Imperata_cylindrica	LC427244.1	05-OCT-2021	528	Japan:Akita	primary	5.8S rRNA	40.25	140.3666	0.00637052341597796
+Imperata_cylindrica	LC427243.1	05-OCT-2021	528	Japan:Tokyo	primary	5.8S rRNA	27.1	142.2	0.00482093663911846

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_hybridum	OR464924.1	26-SEP-2023	898	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.071061476308	-86.6688050525614	0.000954427795016591
+Trifolium_hybridum	OR464923.1	26-SEP-2023	837	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.4194265546929	-85.5141129079689	0.000954427795016591
+Trifolium_hybridum	OQ404744.1	03-JUL-2023	880	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	42.4840618232924	-86.3964060567445	0.000954427795016591
+Trifolium_hybridum	OQ404743.1	03-JUL-2023	835	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	42.6784652934953	-86.6315048198168	0.000954427795016591
+Trifolium_hybridum	KX677456.1	09-AUG-2017	720	Canada: British Columbia, Vancouver Island, Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	matK	50.045	-125.501	0
+Trifolium_hybridum	KX677211.1	09-AUG-2017	697	Canada: British Columbia, Kootenay Boundary Regional District, Just west of Kettle River Forest Service Road, north of Christian Valley	primary	matK	49.698	-118.778	0
+Trifolium_hybridum	KX677029.1	09-AUG-2017	741	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	matK	49.376	-122.862	0
+Trifolium_hybridum	KX677004.1	09-AUG-2017	671	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail, near Link Lake Forest Recreation Site	primary	matK	49.711	-120.231	0
+Trifolium_hybridum	KX676663.1	09-AUG-2017	821	Canada: British Columbia, Capital Regional District, Victoria, Lochside Drive	primary	matK	48.433	-123.367	0.000121373953149654
+Trifolium_hybridum	KP210442.1	28-NOV-2015	678	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	matK	45.535	-73.149	0
+Trifolium_hybridum	KJ593136.1	17-MAR-2015	761	USA: Wisconsin, Doty	primary	matK	45.156	-88.558	0.00215091029652689
+Trifolium_hybridum	KJ593135.1	17-MAR-2015	763	USA: Wisconsin, Laona	primary	matK	45.552	-88.794	0.00226727413001767

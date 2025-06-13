@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epipactis_palustris	JN896120.1	07-MAR-2012	779	United Kingdom: Glamorgan (41)	primary	matK	51.56	-4.16	0
+Epipactis_palustris	JN896054.1	07-MAR-2012	826	United Kingdom	primary	matK	53.19	-4.46	0.000158227848101266
+Epipactis_palustris	MF543519.1	31-JUL-2018	812	Italy: Aosta Valley, Verrayes, Vieille	secondary	matK	45.7762572	7.5190811	0
+Epipactis_palustris	MF543518.1	31-JUL-2018	821	Italy: Aosta Valley, Saint-Denis, Del	secondary	matK	45.7692659	7.5569758	0.000158227848101266
+Epipactis_palustris	MF543517.1	31-JUL-2018	790	Italy: Aosta Valley, Saint-Denis, Semon	secondary	matK	45.7733237	7.5632241	0.000967240650749592
+Epipactis_palustris	MF543516.1	31-JUL-2018	834	Italy: Aosta Valley, Challand-Saint-Victor, Villa	secondary	matK	45.6849072	7.7002514	0.000164257555847569
+Epipactis_palustris	MF543515.1	31-JUL-2018	833	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	matK	45.4059233030683	8.12523051218638	0.000164041994750656
+Epipactis_palustris	MF543514.1	31-JUL-2018	831	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	matK	45.6876518923782	6.69200126879822	0.000164257555847569
+Epipactis_palustris	MF543513.1	31-JUL-2018	826	Italy: Aosta Valley, Verrayes, Plan	secondary	matK	45.7641845	7.5388629	0.000158227848101266

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_cerris	MT457080.1	28-SEP-2020	779	Italy	secondary	matK	42.6384261	12.674297	NA
+Quercus_cerris	HE583649.1	04-SEP-2011	693	Croatia	secondary	matK	45.3658443	15.6575209	NA
+Quercus_cerris	HE583648.1	04-SEP-2011	693	Greece	secondary	matK	43.2097838	-77.6930602	NA
+Quercus_cerris	HE583605.1	04-SEP-2011	693	Italy:Basilicata	secondary	matK	40.6971474615806	15.9004595924717	NA
+Quercus_cerris	HE583604.1	04-SEP-2011	693	Italy:Liguria	secondary	matK	44.1796485317215	7.74951034768683	NA
+Quercus_cerris	FN675341.1	08-MAR-2010	828	Italy:Apulia	secondary	matK	41.3064464766383	15.5117610554505	NA
+Quercus_cerris	FN675340.1	08-MAR-2010	828	Italy:Liguria	secondary	matK	44.4964413490281	7.76424554326701	NA
+Quercus_cerris	FN675335.1	08-MAR-2010	828	Italy:Basilicata	secondary	matK	40.9356911686539	15.5337781501648	NA
+Quercus_cerris	FN674502.1	08-MAR-2010	693	Italy:Apulia	secondary	matK	41.4534289241276	17.2022939665225	NA
+Quercus_cerris	FN674501.1	08-MAR-2010	693	Italy:Liguria	secondary	matK	44.4969957975249	7.91207390999523	NA
+Quercus_cerris	FN674500.1	08-MAR-2010	693	Italy:Basilicata	secondary	matK	40.7053289902513	14.987209698148	NA
+Quercus_cerris	AB125034.1	01-APR-2004	2100	Malaysia:Fraser's Hill	secondary	matK	3.7130484	101.7365565	0.000700198389543704

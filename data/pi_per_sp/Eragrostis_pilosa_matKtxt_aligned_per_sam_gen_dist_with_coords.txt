@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eragrostis_pilosa	MT930020.1	03-MAR-2023	796	China	secondary	matK	34.8998527492681	105.204046024488	0.0240674685187711
+Eragrostis_pilosa	MT929960.1	03-MAR-2023	778	China	secondary	matK	35.0020132608226	104.8160578984	0.0898885753319091
+Eragrostis_pilosa	MN492711.1	30-NOV-2021	790	China	secondary	matK	35.4802610100174	105.843228583735	0.0207263116942018
+Eragrostis_pilosa	MN492710.1	30-NOV-2021	791	China	secondary	matK	35.1902172786446	105.722225464187	0.0253691114922519
+Eragrostis_pilosa	MF999031.1	09-DEC-2017	2104	Madagascar	secondary	matK	-18.9249604	46.4416422	0.0183329283034405
+Eragrostis_pilosa	KM538802.1	20-JUN-2015	1091	South Korea	secondary	matK	36.638392	127.6961188	0.0172519318037771
+Eragrostis_pilosa	KP056964.1	28-FEB-2015	1020	South Korea: Jecheon-si, Choongbuk-do	secondary	matK	37.1326042	128.1913508	0.0168984399847899
+Eragrostis_pilosa	KP056961.1	28-FEB-2015	1020	South Korea: Siheung-si, Gyeonggi-do	secondary	matK	37.3798891	126.8032255	0.0168984399847899
+Eragrostis_pilosa	HE966914.1	18-SEP-2012	665	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0234962406015038

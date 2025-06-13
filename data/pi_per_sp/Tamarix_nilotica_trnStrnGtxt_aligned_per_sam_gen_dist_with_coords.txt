@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_nilotica	MH626160.1	14-AUG-2019	837	Egypt	secondary	trnS-trnG	25.8433237919075	29.8418019632037	0.001194743130227
+Tamarix_nilotica	MH626159.1	14-AUG-2019	837	Egypt	secondary	trnS-trnG	25.6635866093415	28.5820957511701	0.000398247710075667
+Tamarix_nilotica	MH626158.1	14-AUG-2019	838	Greece	secondary	trnS-trnG	42.8265865612403	-77.2210827719685	0.000398247710075667
+Tamarix_nilotica	MH626157.1	14-AUG-2019	838	Greece	secondary	trnS-trnG	42.5932944275353	-78.5839561925008	0.000398247710075667

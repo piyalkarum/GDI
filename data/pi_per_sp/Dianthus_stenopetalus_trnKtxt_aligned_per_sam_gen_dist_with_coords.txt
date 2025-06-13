@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_stenopetalus	OU877877.1	17-JUN-2022	2416	Greece:Grevena, SW Agapi	secondary	trnK	39.4298824007202	20.8962446947154	0.371578052112059
+Dianthus_stenopetalus	OU877876.1	17-JUN-2022	2420	Greece:Macedonia, Nomos u. Eparchie Kozani Vourinos	secondary	trnK	40.4800445968875	24.7837535836262	0.368811800383152
+Dianthus_stenopetalus	OU860254.1	17-JUN-2022	243	Greece:Grevena, SW Agapi	secondary	trnK	40.9166543094873	21.6675782210597	0.338843069287206
+Dianthus_stenopetalus	OU860253.1	17-JUN-2022	243	Greece:Macedonia, Nomos u. Eparchie Kozani Vourinos	secondary	trnK	41.3207587748428	24.5602500721791	0.341609321016114

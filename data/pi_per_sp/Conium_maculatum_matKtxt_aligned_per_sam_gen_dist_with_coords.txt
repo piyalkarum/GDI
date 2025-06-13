@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Conium_maculatum	OR526573.1	25-OCT-2023	897	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.1134891859694	-86.4919478033497	0.00113478071365904
+Conium_maculatum	OR526572.1	25-OCT-2023	837	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.9766553902554	-86.0033183134673	0.00117007037657953
+Conium_maculatum	OR464980.1	26-SEP-2023	899	USA: South Westnedge Park, Portage, MI	primary	matK	42.4556044731974	-86.079662567443	0.00113450514149199
+Conium_maculatum	OR464979.1	26-SEP-2023	838	USA: South Westnedge Park, Portage, MI	primary	matK	41.909205085007	-85.0121871794778	0.00116991196460257
+Conium_maculatum	KX676957.1	09-AUG-2017	811	Canada: British Columbia, Metro Vancouver Regional District, Vancouver, under Oak Street Bridge, at the back of warehouses by railroad tracks	primary	matK	49.2027	-123.13	0.000869499129900164
+Conium_maculatum	JN895763.1	07-MAR-2012	812	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.31	0.000835197994390419
+Conium_maculatum	KT176597.1	19-AUG-2015	1557	USA	secondary	matK	39.7837304	-100.445882	0.000799912681654531
+Conium_maculatum	HM850724.1	23-JUL-2011	651	Portugal	secondary	matK	39.6621648	-8.1353519	0.000901963288607856
+Conium_maculatum	JN895816.1	07-MAR-2012	774	United Kingdom: Merionethshire	secondary	matK	52.79398	-3.8749545	0.00310513364796821
+Conium_maculatum	JN895815.1	07-MAR-2012	822	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000860294449902026

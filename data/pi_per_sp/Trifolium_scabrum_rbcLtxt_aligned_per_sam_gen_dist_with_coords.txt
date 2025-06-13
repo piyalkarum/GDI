@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_scabrum	JN890927.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.68	-4.26	0
+Trifolium_scabrum	HM850422.1	23-JUL-2011	699	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Trifolium_scabrum	JN892959.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Trifolium_scabrum	JN892958.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0

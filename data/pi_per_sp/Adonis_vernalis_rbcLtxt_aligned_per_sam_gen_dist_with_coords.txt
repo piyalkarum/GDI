@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Adonis_vernalis	OR738025.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.3422	83.5511	0.00417453302440001
+Adonis_vernalis	OR737990.1	13-NOV-2023	542	Kazakhstan: Atyrau region	primary	rbcL	46.32025	55.3501	0.0152545951419167
+Adonis_vernalis	OR640468.1	05-NOV-2023	498	Kazakhstan: Qaragandy region	primary	rbcL	46.77978	74.70621	0.00401606425702811
+Adonis_vernalis	OR670274.1	06-NOV-2023	566	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00416622737655948
+Adonis_vernalis	KJ746304.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00582315974862907

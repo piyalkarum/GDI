@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_smyrnaeum	MW070328.1	19-APR-2021	915	Greece: Crete, Lasithi	secondary	rpoB	35.3885167367632	26.7518382351595	0
+Alyssum_smyrnaeum	MW070327.1	19-APR-2021	915	Greece: Crete, Lasithi	secondary	rpoB	34.7793082561099	24.9355926692396	0
+Alyssum_smyrnaeum	MW070322.1	19-APR-2021	915	Greece: Crete, Mt. Dikti	secondary	rpoB	34.4830516486479	24.0510476324802	0
+Alyssum_smyrnaeum	MW070321.1	19-APR-2021	915	Greece: Crete, Mt. Dikti	secondary	rpoB	34.5766077070939	25.0111202134903	0

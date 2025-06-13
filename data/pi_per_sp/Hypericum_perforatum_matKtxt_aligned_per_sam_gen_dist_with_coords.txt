@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypericum_perforatum	MT228069.1	01-MAR-2021	853	Greece	primary	matK	41.05	24.46	0.0207954853914137
+Hypericum_perforatum	MT228068.1	01-MAR-2021	853	Greece	primary	matK	40.31	23.44	0.0207954853914137
+Hypericum_perforatum	MT228067.1	01-MAR-2021	853	Greece	primary	matK	41	25.05	0.0207954853914137
+Hypericum_perforatum	MT228066.1	01-MAR-2021	853	Greece	primary	matK	41.16	24.29	0.0207954853914137
+Hypericum_perforatum	MT228065.1	01-MAR-2021	853	Greece	primary	matK	41.09	24.34	0.0207954853914137
+Hypericum_perforatum	MT228064.1	01-MAR-2021	853	Greece	primary	matK	41	24.39	0.0207954853914137
+Hypericum_perforatum	MT228063.1	01-MAR-2021	853	Greece	primary	matK	41.05	24.45	0.0203124120137206
+Hypericum_perforatum	MT228062.1	01-MAR-2021	853	Greece	primary	matK	41.0955010324636	23.5270872337545	0.0203124120137206
+Hypericum_perforatum	MT228061.1	01-MAR-2021	853	Greece	primary	matK	40.9308498695852	23.5307997058334	0.0207954853914137
+Hypericum_perforatum	MT228060.1	01-MAR-2021	853	Greece	primary	matK	40.3180235402003	23.7847567115034	0.0203124120137206
+Hypericum_perforatum	MT228059.1	01-MAR-2021	853	Greece	primary	matK	39.7306933013743	24.720240339483	0.0207954853914137
+Hypericum_perforatum	KX677431.1	09-AUG-2017	826	Canada: British Columbia, Squamish-Lillooet Regional District, Squamish Valley Rd., Riverside Forest Recreation Site	primary	matK	49.916	-123.296	0.0211210740656159
+Hypericum_perforatum	KX677195.1	09-AUG-2017	832	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	matK	50.0449	-125.501	0.0211429286014727
+Hypericum_perforatum	KX677144.1	09-AUG-2017	824	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	matK	49.1818	-119.091	0.0211740013867488
+Hypericum_perforatum	MK429805.1	22-OCT-2019	477	Iran: (ARAk)	secondary	matK	34.0862719	49.6893884	0.309470093006502
+Hypericum_perforatum	HM850934.1	23-JUL-2011	852	Portugal	secondary	matK	39.6621648	-8.1353519	0.0220754022796793
+Hypericum_perforatum	AB698447.1	19-JUL-2012	1455	Japan:Tsukuba, National Institute of Biomedical Innovation, Research Center for Medicinal Plant Resources	secondary	matK	36.0833265	140.077279	0.0208084541989458
+Hypericum_perforatum	HE966941.1	18-SEP-2012	790	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0224266972519609

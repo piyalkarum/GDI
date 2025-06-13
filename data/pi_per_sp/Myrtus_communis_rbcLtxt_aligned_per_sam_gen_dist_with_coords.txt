@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myrtus_communis	HF585093.1	17-MAR-2013	701	Italy:Sardinia, Poggio dei Pini	primary	rbcL	44.98	-10.74	0.00394716355480372
+Myrtus_communis	HF585092.1	17-MAR-2013	701	Italy:Sardinia, Sarroch	primary	rbcL	39.09	-9.01	0.00394716355480372
+Myrtus_communis	MN662653.1	13-OCT-2020	1115	Lebanon	secondary	rbcL	40.375713	-76.4626118	0.00448430493273543
+Myrtus_communis	JQ730673.1	08-MAY-2012	1428	Iran	secondary	rbcL	32.6475314	54.5643516	0.0143273064585048
+Myrtus_communis	HM850194.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00758910988317779

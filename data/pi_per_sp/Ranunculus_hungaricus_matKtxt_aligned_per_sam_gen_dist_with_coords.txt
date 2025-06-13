@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_hungaricus	FJ625807.1	30-NOV-2009	1781	Slovakia	secondary	matK	48.8426533822056	18.6980416673765	0.00140608360221182
+Ranunculus_hungaricus	FJ625805.1	30-NOV-2009	1781	Hungary	secondary	matK	41.9767629	-72.7789842	0.00196677330920428
+Ranunculus_hungaricus	FJ625804.1	30-NOV-2009	1771	Slovakia	secondary	matK	48.4965592692016	19.6361334394128	0.00197628458498024
+Ranunculus_hungaricus	FJ625803.1	30-NOV-2009	1781	Slovakia	secondary	matK	49.2230775397192	18.5572434522025	0.00182798794350683
+Ranunculus_hungaricus	FJ625802.1	30-NOV-2009	1781	Slovakia	secondary	matK	48.6112310794301	19.020999276561	0.00239026286312862

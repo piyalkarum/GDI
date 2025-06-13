@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Diplotaxis_harra	MF590075.1	23-JAN-2018	647	Egypt	secondary	rbcL	26.2540493	29.2675469	0
+Diplotaxis_harra	KX282703.1	28-MAY-2017	571	Kuwait	secondary	rbcL	30.1474795046165	47.4415210455041	0.000607164541590771
+Diplotaxis_harra	KX282702.1	28-MAY-2017	531	Kuwait	secondary	rbcL	29.5606325091086	48.3830974257571	0.000627746390458255
+Diplotaxis_harra	KX282701.1	28-MAY-2017	558	Kuwait	secondary	rbcL	29.5727914535146	48.6957764641615	0.00123491093204903

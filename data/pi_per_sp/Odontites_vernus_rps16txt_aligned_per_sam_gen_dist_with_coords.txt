@@ -1,0 +1,85 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_vernus	MW842982.1	05-APR-2023	823	Spain: Segovia, Fuenterrebollo, Arroyo de las Bragadas	primary	rps16	41.1506441936522	-3.28808105371897	0.136949543941801
+Odontites_vernus	MW842981.1	05-APR-2023	825	Spain: Teruel, La Iglesuela del Cid, Rambla de las Truchas, junto al Arroyo de la Tosquilla	primary	rps16	40.9771788650092	-0.0816755304793714	0.137167583058767
+Odontites_vernus	MW842980.1	05-APR-2023	824	Spain: Cantabria, Laredo, El Sable, junto a la entrada del Camping Laredo	primary	rps16	43.6946089270718	-3.63718161223599	0.137449041115195
+Odontites_vernus	MW842979.1	05-APR-2023	826	Spain: Huesca, Anso, alrededores del Refugio de Linza	primary	rps16	42.7551391214996	-1.59664851882108	0.136286245372371
+Odontites_vernus	MW842978.1	05-APR-2023	825	Spain: Huesca, Bisaurri, Renanue, carretera a Castejon de Sos	primary	rps16	43.2069122683549	-0.241434736772911	0.137167583058767
+Odontites_vernus	MW842977.1	05-APR-2023	823	Spain: Huesca, Saravillo, pasado el pueblo	primary	rps16	41.7199995181683	0.14180686908672	0.137882657242902
+Odontites_vernus	MW842976.1	05-APR-2023	826	Spain: Lerida, Espot, entrada al Camping Voraparc, junto al Riu Escrita	primary	rps16	42.2070692380419	0.322365643178671	0.136286245372371
+Odontites_vernus	MW842975.1	05-APR-2023	824	Spain: Zaragoza, Sos del Rey Catolico, salida sur del pueblo	primary	rps16	42.1199342514705	-2.2427552049279	0.138172233708127
+Odontites_vernus	MW842974.1	05-APR-2023	824	Spain: Gerona, Campdevanol, entre Colonia Pernau y Colonia Molinou, junto a la entrada de la Colonia Pernau	primary	rps16	41.5801323802395	2.69303571983694	0.139294752067798
+Odontites_vernus	MW842973.1	05-APR-2023	824	Spain: Gerona, Ribes de Freser, Brugera, Serrat d'en Posa	primary	rps16	42.6058482532361	2.09506669920689	0.139099844457832
+Odontites_vernus	MW842972.1	05-APR-2023	844	Spain: Lugo, Folgoso do Courel, Parada	primary	rps16	42.3105531492387	-7.4685169478246	0.139754411507394
+Odontites_vernus	MW842971.1	05-APR-2023	823	Spain: Lugo, Folgoso do Courel, Parada	primary	rps16	43.2923801387705	-7.11419677288011	0.139730679621505
+Odontites_vernus	MW842970.1	05-APR-2023	824	Spain: Orense, Verea, limite con Bande, Outeiro das Augas	primary	rps16	42.5136936047419	-8.54642855949952	0.139294752067798
+Odontites_vernus	MW842969.1	05-APR-2023	827	Spain: Segovia, Valle de Tabladillo	primary	rps16	41.7965532612105	-3.25287287256623	0.13961584373403
+Odontites_vernus	MW842968.1	05-APR-2023	844	Spain: Valladolid, Rabano, orillas del rio Duraton	primary	rps16	41.9583820995519	-3.67296139253977	0.138129208745426
+Odontites_vernus	MW842967.1	05-APR-2023	825	Spain: Zamora, Entre Villaralbo y Villalazan	primary	rps16	41.0242629830042	-5.88646212012607	0.139442780617653
+Odontites_vernus	MW842966.1	05-APR-2023	847	Spain: Burgos, Contreras, Tenadas de Valcarcel	primary	rps16	42.8162137942463	-3.52947633636493	0.138348653999697
+Odontites_vernus	MW842965.1	05-APR-2023	825	Spain: Valladolid, San Miguel del Arroyo, junto al Arroyo del Henar	primary	rps16	41.6316438735731	-3.86328180013693	0.137167583058767
+Odontites_vernus	MW842964.1	05-APR-2023	847	Spain: Teruel, Linares de Mora, Corral de los Prados de Lomaritas	primary	rps16	39.42978921044	-0.269511024976358	0.139108261938201
+Odontites_vernus	MW842963.1	05-APR-2023	845	Spain: Burgos, Castrillo de la Vega, Los Regajos, junto al canal de Guma	primary	rps16	42.3191579719339	-3.94323361383299	0.139897018499707
+Odontites_vernus	MW842962.1	05-APR-2023	954	Spain: Segovia, Fuenterrebollo, Arroyo de las Bragadas	primary	rps16	40.6075216445989	-4.1338448710349	0.434349172472414
+Odontites_vernus	MW842961.1	05-APR-2023	943	Spain: Teruel, La Iglesuela del Cid, Rambla de las Truchas, junto al Arroyo de la Tosquilla	primary	rps16	40.2958837820132	0.483829453793828	0.427636653694693
+Odontites_vernus	MW842960.1	05-APR-2023	955	Spain: Cantabria, Laredo, El Sable, junto a la entrada del Camping Laredo	primary	rps16	43.2011762280368	-4.54333960152847	0.434323914206647
+Odontites_vernus	MW842959.1	05-APR-2023	943	Spain: Huesca, Anso, alrededores del Refugio de Linza	primary	rps16	43.4358705135417	-0.277926455623359	0.427636653694693
+Odontites_vernus	MW842958.1	05-APR-2023	952	Spain: Huesca, Bisaurri, Renanue, carretera a Castejon de Sos	primary	rps16	41.6990434961767	0.785995699229431	0.434579933453074
+Odontites_vernus	MW842957.1	05-APR-2023	955	Spain: Huesca, Saravillo, pasado el pueblo	primary	rps16	42.2235000162721	-0.52592150551918	0.434323914206647
+Odontites_vernus	MW842956.1	05-APR-2023	953	Spain: Lerida, Espot, entrada al Camping Voraparc, junto al Riu Escrita	primary	rps16	42.2408340093648	1.85476096831677	0.432548277448221
+Odontites_vernus	MW842955.1	05-APR-2023	951	Spain: Zaragoza, Sos del Rey Catolico, salida sur del pueblo	primary	rps16	41.9065443441415	-1.14056266256635	0.434008583495167
+Odontites_vernus	MW842954.1	05-APR-2023	959	Spain: Gerona, Campdevanol, entre Colonia Pernau y Colonia Molinou, junto a la entrada de la Colonia Pernau	primary	rps16	42.5247274251012	2.48702653418803	0.436065225341353
+Odontites_vernus	MW842953.1	05-APR-2023	947	Spain: Gerona, Ribes de Freser, Brugera, Serrat d'en Posa	primary	rps16	42.4578677961129	1.71622664718149	0.433142912730055
+Odontites_vernus	MW842952.1	05-APR-2023	951	Spain: Lugo, Folgoso do Courel, Parada	primary	rps16	43.3051609628796	-7.31712431456033	0.434008583495167
+Odontites_vernus	MW842951.1	05-APR-2023	951	Spain: Lugo, Folgoso do Courel, Parada	primary	rps16	42.9879441836209	-6.13767316580891	0.435214304554618
+Odontites_vernus	MW842950.1	05-APR-2023	947	Spain: Orense, Verea, limite con Bande, Outeiro das Augas	primary	rps16	42.3602501724578	-8.3413771244487	0.434490088992815
+Odontites_vernus	MW842949.1	05-APR-2023	951	Spain: Segovia, Valle de Tabladillo	primary	rps16	41.1394369324471	-3.63962190684066	0.435265333363203
+Odontites_vernus	MW842948.1	05-APR-2023	951	Spain: Valladolid, Rabano, orillas del rio Duraton	primary	rps16	41.8722524382477	-3.24219193858537	0.435265333363203
+Odontites_vernus	MW842947.1	05-APR-2023	951	Spain: Zamora, Entre Villaralbo y Villalazan	primary	rps16	41.5833202951259	-6.23075706304999	0.434008583495167
+Odontites_vernus	MW842946.1	05-APR-2023	957	Spain: Burgos, Contreras, Tenadas de Valcarcel	primary	rps16	41.2376063695381	-3.36890945788166	0.437187078508173
+Odontites_vernus	MW842945.1	05-APR-2023	943	Spain: Valladolid, San Miguel del Arroyo, junto al Arroyo del Henar	primary	rps16	40.9664976051025	-3.83055813497123	0.427867907228214
+Odontites_vernus	MW842944.1	05-APR-2023	951	Spain: Teruel, Linares de Mora, Corral de los Prados de Lomaritas	primary	rps16	40.8125296571264	-1.41729820581178	0.435265333363203
+Odontites_vernus	MW842943.1	05-APR-2023	951	Spain: Burgos, Castrillo de la Vega, Los Regajos, junto al canal de Guma	primary	rps16	41.9679181467545	-3.38163179332218	0.434008583495167
+Odontites_vernus	KX958993.1	02-NOV-2017	796	China: Xinjiang, Atojnagh Valley	primary	rps16	38.95	75.17	0.136147241618891
+Odontites_vernus	KX958992.1	02-NOV-2017	836	USA: Maine, Aroostook County	primary	rps16	46.1247	-68.3397	0.13589085934256
+Odontites_vernus	KX958952.1	02-NOV-2017	838	Russia: Altai Krai, between Gonokhovo and Dobraya Volya	primary	rps16	52.9259	81.24068	0.135851327373844
+Odontites_vernus	KX958950.1	02-NOV-2017	828	Russia: Altai Republic, near settlement Aktal	primary	rps16	49.92	88.87	0.136395186241221
+Odontites_vernus	KX958948.1	02-NOV-2017	837	Russia: Khakassia, foot of a ridge Alan	primary	rps16	52.80173	91.0846	0.136039504701606
+Odontites_vernus	KX958947.1	02-NOV-2017	837	Russia: Altai Krai, Kadnikovo	primary	rps16	52.87285	81.88878	0.136039504701606
+Odontites_vernus	KX958946.1	02-NOV-2017	825	France: Haut-Rhin, Bergheim	primary	rps16	48.0431002532514	7.81548897624181	0.136286665394635
+Odontites_vernus	KX958945.1	02-NOV-2017	834	France: Haut-Rhin, Bergheim	primary	rps16	48.516944891192	8.38406836694164	0.135930883584906
+Odontites_vernus	KX958944.1	02-NOV-2017	826	Germany: Rheinland-Pfalz, near Landau	primary	rps16	48.5295720284036	8.03999055168356	0.137854533980727
+Odontites_vernus	KX958943.1	02-NOV-2017	835	Germany: Rheinland-Pfalz, near Landau	primary	rps16	49.5942874652132	7.19466123377631	0.13749290995335
+Odontites_vernus	KX958942.1	02-NOV-2017	819	France: Aisne, Beaurieux	primary	rps16	49.6966691747041	2.73949912558241	0.137078052960163
+Odontites_vernus	KX958941.1	02-NOV-2017	819	France: Aisne, Beaurieux	primary	rps16	50.2033633263914	4.11057065519069	0.137078052960163
+Odontites_vernus	KX958940.1	02-NOV-2017	820	France: Eure, Evreux	primary	rps16	48.6580957556783	1.40085651577122	0.136797606140056
+Odontites_vernus	KX958939.1	02-NOV-2017	826	France: Eure, Evreux	primary	rps16	48.3278030326773	1.00995951749081	0.137125033634178
+Odontites_vernus	KX958924.1	02-NOV-2017	820	Finland: Uusimaa, Ruotsinpyhtaa, Soderby, Ropanudden	primary	rps16	60.33	26.53	0.135767858494756
+Odontites_vernus	KX958923.1	02-NOV-2017	820	Finland: Uusimaa, Porvoon mlk, Sundby, Karilamalm	primary	rps16	60.27	25.87	0.135767858494756
+Odontites_vernus	KX958856.1	02-NOV-2017	825	Ireland: County Longford, Cashel Nature Reserve, opposite to Cow Island	primary	rps16	53.58889	-7.98694	0.136976716523522
+Odontites_vernus	KX958786.1	02-NOV-2017	807	Croatia: Licko-Senjska, between Prijeboj and Licko Petrovo Selo	primary	rps16	44.84572	15.68401	0.136341271631916
+Odontites_vernus	KX958785.1	02-NOV-2017	820	Spain: Granada, Quentar	primary	rps16	37.0025105783408	-3.97998002224225	0.139484043475669
+Odontites_vernus	KX958784.1	02-NOV-2017	821	Spain: Granada, Quentar	primary	rps16	37.2058651628563	-4.04514391043055	0.139285019773282
+Odontites_vernus	KX958783.1	02-NOV-2017	808	Turkey: Kirklareli, Derekoy	primary	rps16	41.93761	27.35305	0.135442277728278
+Odontites_vernus	KX958782.1	02-NOV-2017	820	Italy: Sicily, Geraci Siculo	primary	rps16	38.113939083129	13.5919577727829	0.13610519506925
+Odontites_vernus	KX958781.1	02-NOV-2017	837	Italy: Sicily, Geraci Siculo	primary	rps16	37.2514198398467	14.7191643653723	0.136039504701606
+Odontites_vernus	KX958780.1	02-NOV-2017	821	Greece: Arcadia, between Tripoli and Nestani	primary	rps16	37.2935498622977	22.9095176603801	0.139637532809825
+Odontites_vernus	KX958779.1	02-NOV-2017	823	Greece: Arcadia, between Tripoli and Nestani	primary	rps16	37.6649452394884	23.0646491101742	0.138466845161135
+Odontites_vernus	KX958756.1	02-NOV-2017	825	Spain: Lugo, Samos, Renche	primary	rps16	42.72	-7.22	0.139247793682918
+Odontites_vernus	KX958755.1	02-NOV-2017	837	Spain: Segovia, Valle de Tabladillo	primary	rps16	41.36	-3.84	0.138696710247416
+Odontites_vernus	KX958754.1	02-NOV-2017	805	Spain: Valladolid, Aldeamayor de San Martin	primary	rps16	41.52	-4.61	0.136115156052012
+Odontites_vernus	KX958995.1	02-NOV-2017	810	Germany: Bavaria, Landkreis Freising, Eching	secondary	rps16	48.3	11.6167	0.135921740840483
+Odontites_vernus	KX958994.1	02-NOV-2017	819	Finland: Hameenlinna, 750m SW of Vanaja church	secondary	rps16	60.9948584	24.46654	0.136853019346266
+Odontites_vernus	KX958987.1	02-NOV-2017	524	Pakistan: Kashmir, Hushe River	secondary	rps16	33.1206295	74.0749169	0.140654479367925
+Odontites_vernus	KX958977.1	02-NOV-2017	816	Germany: Bavaria, Neustadt an der Waldnaab	secondary	rps16	49.7314121	12.1732938	0.137008496937045
+Odontites_vernus	KX958926.1	02-NOV-2017	809	Finland: Varsinais-Suomi, Nauvo, Vastergard	secondary	rps16	60.053734	21.7996008	0.135773074936715
+Odontites_vernus	KX958925.1	02-NOV-2017	808	Finland: Uusimaa, Storpellinge island, istmus between Koras and Cape Sandholmen	secondary	rps16	61.05740305	21.4779712776738	0.135774925446966
+Odontites_vernus	KX958912.1	02-NOV-2017	836	United Kingdom: Hampshire, Winchester, near Itchen Down Farm	secondary	rps16	51.04483545	-1.24340935971731	0.13589085934256
+Odontites_vernus	KX958911.1	02-NOV-2017	814	Italy: Veneto, Caorle	secondary	rps16	45.5979147	12.8876282	0.137099003344079
+Odontites_vernus	KX958909.1	02-NOV-2017	800	France: Bas-Rhin, Auenheim	secondary	rps16	48.8113012	8.0156397	0.13683897372186
+Odontites_vernus	KX958908.1	02-NOV-2017	807	Belgium: Wallonia, Tihange (Huy)	secondary	rps16	50.5243039	5.2419531	0.136341271631916
+Odontites_vernus	KX958907.1	02-NOV-2017	809	Russia: Moscow, Abramtsevo	secondary	rps16	56.2234015	37.9673058	0.136110416425993
+Odontites_vernus	KX958905.1	02-NOV-2017	802	Germany: Schleswig-Holstein, Leck, Bullsbull	secondary	rps16	51.038284	7.0119166	0.136831076647133
+Odontites_vernus	KX958904.1	02-NOV-2017	836	Denmark: Zealand, Hundige	secondary	rps16	55.5979984	12.3340961	0.13589085934256
+Odontites_vernus	JF900558.1	05-MAR-2013	758	Pakistan	secondary	rps16	30.3308401	71.247499	0.136171871634385
+Odontites_vernus	KX958949.1	02-NOV-2017	806	Russia	secondary	rps16	54.809906	55.890156	0.13633229608997
+Odontites_vernus	KX958906.1	02-NOV-2017	836	Denmark	secondary	rps16	56.8462311	9.045604	0.13589085934256

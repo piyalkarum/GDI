@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabidopsis_thaliana	JN894751.1	07-MAR-2012	780	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.31	0.00780619111709287
+Arabidopsis_thaliana	KM892769.1	11-OCT-2018	747	China	secondary	matK	34.3819615387602	104.52932659558	0.0393019453740934
+Arabidopsis_thaliana	KM892758.1	11-OCT-2018	747	China	secondary	matK	34.8980311118198	105.222954770762	0.00776439089692102
+Arabidopsis_thaliana	HM850734.1	23-JUL-2011	798	Portugal	secondary	matK	39.6621648	-8.1353519	0.00798898071625344
+Arabidopsis_thaliana	JN894006.1	07-MAR-2012	774	United Kingdom: Caernarvonshire	secondary	matK	52.636859787694	-3.7795524019518	0.00776439089692102
+Arabidopsis_thaliana	JN894005.1	07-MAR-2012	754	United Kingdom: Caernarvonshire	secondary	matK	52.9872408237342	-4.59239668057278	0.00797799174690509

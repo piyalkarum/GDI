@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_rotundifolius	JX505703.1	09-JAN-2013	581	Turkey	secondary	trnL-trnF	39.5477739440196	34.0876619761092	0
+Lathyrus_rotundifolius	JX505690.1	09-JAN-2013	581	Turkey	secondary	trnL-trnF	38.4775815236627	35.5194173514017	0
+Lathyrus_rotundifolius	JX505689.1	09-JAN-2013	581	Armenia	secondary	trnL-trnF	4.4919761	-75.7413509	0
+Lathyrus_rotundifolius	JX505688.1	09-JAN-2013	581	Iran	secondary	trnL-trnF	32.6475314	54.5643516	0
+Lathyrus_rotundifolius	JX505671.1	09-JAN-2013	581	Turkey	secondary	trnL-trnF	39.4829985600598	35.4298194468276	0

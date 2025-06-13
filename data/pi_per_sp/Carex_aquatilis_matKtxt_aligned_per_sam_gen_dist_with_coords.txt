@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_aquatilis	KX676950.1	09-AUG-2017	705	Canada: British Columbia, Vancouver Island, Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	matK	50.045	-125.501	0.00228658754608171
+Carex_aquatilis	MG217039.1	24-JAN-2018	712	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, BPNP	primary	matK	45.185	-81.6	0.0105178836486602
+Carex_aquatilis	MG216992.1	24-JAN-2018	767	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island bog, FFNMP	primary	matK	45.266	-81.7	0.000750477661470244
+Carex_aquatilis	FJ548069.1	25-AUG-2009	715	Canada: Northwest Territories, 128 mi SW of Inuvik on Dempster Hwy (5) towards Eagle Plains	primary	matK	67.29	-135.05	0.0007783088388823
+Carex_aquatilis	FJ548068.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island	primary	matK	70.25	-83.78	0.000772692120485534
+Carex_aquatilis	FJ548067.1	25-AUG-2009	729	Canada: Nunavut, Keewatin District, Coats Island, Hudson Bay	primary	matK	62.82	-81.93	0.00211655376099854
+Carex_aquatilis	FJ548066.1	25-AUG-2009	729	Canada: Nunavut, Victoria Island, Cambridge Bay, 3 km NW of Dew Line Site, 5 km WNW of town	primary	matK	69.13	-105.17	0.00172190040982377
+Carex_aquatilis	FJ548065.1	25-AUG-2009	733	Canada: Northwest Territories, Bathurst Island	primary	matK	75.75	-100	0.00171685731276461
+Carex_aquatilis	FJ548064.1	25-AUG-2009	730	Canada: Nunavut, Baffin Island	primary	matK	71.36	-79.59	0.000772472450500831
+Carex_aquatilis	KC474295.1	25-OCT-2013	722	Canada: Northwest Territories, Northwest Territories Mainland, Anderson River (Northwest Territories), Cape Bathurst E side, brook system N of river from Lake Mc kinlay, 0.7 - 1.5 km from sea	primary	matK	70.8736460229508	-126.05495870045	0.000779359037425532
+Carex_aquatilis	KC474294.1	25-OCT-2013	755	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Fish River	primary	matK	68.861	-136.811	0.000758236199011207
+Carex_aquatilis	KC474293.1	25-OCT-2013	770	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	matK	66.839	-108.035	0.000750171414400569
+Carex_aquatilis	KC474292.1	25-OCT-2013	758	Canada: Northwest Territories, Victoria Island, Minto Inlet, Small unnamed lake in lee of plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.294	-116.421	0.00168651016820259
+Carex_aquatilis	KC474291.1	25-OCT-2013	769	Canada: Nunavut	primary	matK	56.428	-79.164	0.00166729160592441
+Carex_aquatilis	KC474290.1	25-OCT-2013	770	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	matK	74.914	-109.591	0.000750113871029582
+Carex_aquatilis	KC474289.1	25-OCT-2013	732	Canada: Northwest Territories, Northwest Territories Mainland, Anderson River (Northwest Territories), Cape Bathurst E side, brook system N of river from Lake Mc kinlay, 0.7 - 1.5 km from sea	primary	matK	70.6620553799855	-128.938698095669	0.000778379162337803
+Carex_aquatilis	KC474288.1	25-OCT-2013	775	Canada: Nunavut, Stefansson Island, Northeastern section of Stefansson Island. Site 85	primary	matK	73.283	-106.75	0.000749430670753815
+Carex_aquatilis	KC474287.1	25-OCT-2013	775	Canada: Nunavut, Ellesmere Island, Scoresby Bay	primary	matK	79.882	-71.547	0.000749430670753815
+Carex_aquatilis	KC474286.1	25-OCT-2013	775	Canada: Northwest Territories, Banks Island (Northwest Territories), Aulavik National Park, Banks of the Thomsen River	primary	matK	73.717	-119.925	0.000749430670753815
+Carex_aquatilis	KC474285.1	25-OCT-2013	775	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk, Near the coastal end of the runway	primary	matK	69.437	-133.1	0.000749430670753815
+Carex_aquatilis	KC474284.1	25-OCT-2013	724	Canada: Yukon Territory, Banks Island (Northwest Territories), Buckland Hills, Ivvavik National Park, Buckland Hills, NW part	primary	matK	69.417	-139.633	0.000786164974604175
+Carex_aquatilis	JN966170.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	matK	58.626	-94.23	0.000749242953084759
+Carex_aquatilis	JN966169.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	matK	58.78	-94.195	0.000749242953084759
+Carex_aquatilis	JN966168.1	27-OCT-2012	775	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0.000749430670753815
+Carex_aquatilis	JN966167.1	27-OCT-2012	753	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Bank of small stream near Goose Creek Rd	primary	matK	58.739	-94.112	0.00169301763638896
+Carex_aquatilis	MN763070.1	28-JUL-2020	815	Canada	secondary	matK	61.0666922	-107.991707	0.000746718267179354
+Carex_aquatilis	KU496566.1	31-JAN-2017	813	USA: Alaska, 28 mi N of Nome	secondary	matK	39.4703246	-86.6413912	0.000746718267179354
+Carex_aquatilis	KP273666.1	27-APR-2015	1289	Canada: Newfoundland, Strait of Belle Isle Dist	secondary	matK	49.12120935	-56.6403111408207	0.000745541870980879
+Carex_aquatilis	JN896073.1	07-MAR-2012	637	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0023042316585596

@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_crispus	OR464943.1	26-SEP-2023	899	USA: WMU West Entrance Roundabout, Kalamazoo, MI	primary	matK	42.2820907	-85.61915112	0.00147983429512381
+Rumex_crispus	HQ593423.1	09-NOV-2011	850	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Road ditch at Dead Man's Curve	primary	matK	44.032	-79.534	0.00202344131944314
+Rumex_crispus	KJ840991.1	23-SEP-2014	735	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	matK	45.548	-73.152	0.00554672806919951
+Rumex_crispus	JN894497.1	07-MAR-2012	643	United Kingdom: Monmouthshire	primary	matK	51.6	-2.92	0.00327315885135824
+Rumex_crispus	MT918091.1	03-MAR-2023	769	China	secondary	matK	35.1910339481082	104.71283958933	0.00221685036032244
+Rumex_crispus	MT918090.1	03-MAR-2023	765	China	secondary	matK	34.355860637445	105.34173703016	0.00223536905517174
+Rumex_crispus	HM851084.1	23-JUL-2011	810	Portugal	secondary	matK	39.6621648	-8.1353519	0.00151241467378671
+Rumex_crispus	JN895740.1	07-MAR-2012	803	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00206487301842711
+Rumex_crispus	JN895739.1	07-MAR-2012	818	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00204661867222569
+Rumex_crispus	MK578036.1	15-MAY-2019	822	South Korea	secondary	matK	35.4578678329375	127.956491510494	0.00151403678552335
+Rumex_crispus	MK578035.1	15-MAY-2019	822	South Korea	secondary	matK	35.2915532925665	129.626814246875	0.00151403678552335
+Rumex_crispus	MK578034.1	15-MAY-2019	822	South Korea	secondary	matK	34.7546257	127.659859	0.00151403678552335
+Rumex_crispus	MK578033.1	15-MAY-2019	822	South Korea	secondary	matK	37.1637943	128.9857176	0.00151403678552335
+Rumex_crispus	MK044322.1	15-MAY-2019	822	South Korea	secondary	matK	33.4930566	126.5130589	0.00158771030183781
+Rumex_crispus	MK044321.1	15-MAY-2019	822	South Korea	secondary	matK	36.2425017	128.5732027	0.00151403678552335

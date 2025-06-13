@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_montanum	KF022902.1	27-JUL-2013	2057	Croatia	secondary	ndhF	45.7872024	15.644793	0.00673391520950508
+Alyssum_montanum	KF022900.1	27-JUL-2013	2057	Croatia	secondary	ndhF	43.591922	16.9191808	0.0063127693753293
+Alyssum_montanum	KF022897.1	27-JUL-2013	2057	Macedonia	secondary	ndhF	41.8867672	21.278393	0.00591566120345268
+Alyssum_montanum	KF022895.1	27-JUL-2013	1623	Turkey	secondary	ndhF	40.6052225	31.2799396191908	0.00878003696857671
+Alyssum_montanum	KF022894.1	27-JUL-2013	2057	Macedonia	secondary	ndhF	40.9332094	20.8205661	0.0146110796100417

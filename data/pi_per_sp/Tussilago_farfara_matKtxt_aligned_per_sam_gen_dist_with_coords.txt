@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tussilago_farfara	MG225301.1	21-JAN-2018	721	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, Access Point	primary	matK	45.185	-81.602	0.00101588923765725
+Tussilago_farfara	HQ593480.1	09-NOV-2011	809	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East, 20 m E of Dufferin on main path to pond	primary	matK	44.03	-79.528	0.00162167808542908
+Tussilago_farfara	HQ593479.1	09-NOV-2011	788	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., S edge of trail to pond, approx. 120 m E of Dufferin	primary	matK	44.036	-79.518	0.00313789017947818
+Tussilago_farfara	KJ841033.1	23-SEP-2014	781	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Across road from Chalet complex	primary	matK	45.537	-73.153	0.0018811085682153
+Tussilago_farfara	JN896028.1	07-MAR-2012	916	United Kingdom: Glamorgan	primary	matK	51.51	-3.3	0.000906506774014155
+Tussilago_farfara	JN894311.1	07-MAR-2012	795	United Kingdom: Carmarthenshire	primary	matK	51.12408237874	-4.92714741854293	0.00158093160431446
+Tussilago_farfara	JN894127.1	07-MAR-2012	790	United Kingdom: Carmarthenshire	primary	matK	52.3234246493398	-4.35096077652903	0.00132209173606582
+Tussilago_farfara	MT917459.1	03-MAR-2023	785	China	secondary	matK	35.000074	104.999927	0.000935151741603354
+Tussilago_farfara	EF537951.1	24-APR-2008	560	USA	secondary	matK	39.7837304	-100.445882	0.00920044794800691
+Tussilago_farfara	JN895892.1	07-MAR-2012	780	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.00166093415976974
+Tussilago_farfara	JN895065.1	07-MAR-2012	843	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00154705195766222

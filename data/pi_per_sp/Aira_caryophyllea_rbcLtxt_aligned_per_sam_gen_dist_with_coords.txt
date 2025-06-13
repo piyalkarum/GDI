@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aira_caryophyllea	MF596547.1	28-FEB-2018	603	Canada: British Columbia, Francis Point Provincial Park - just south of Pender Harbour, Sunshine Coast	primary	rbcL	49.2685907275958	-124.63597231071	0
+Aira_caryophyllea	MF596546.1	28-FEB-2018	603	Canada: British Columbia, Roadside pullout on W side of Hwy. 1 (TransCanada) at Hells Gate. With Pseudotsuga and Achillea.	primary	rbcL	49.2301816420704	-122.432271761014	0
+Aira_caryophyllea	MF596545.1	28-FEB-2018	603	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	rbcL	48.5948917714517	-123.212031586757	0
+Aira_caryophyllea	MG227689.1	23-JAN-2018	603	Canada: British Columbia, Roadside pullout on W side of Hwy. 1 (TransCanada) at Hells Gate. With Pseudotsuga and Achillea.	primary	rbcL	49.4030289341466	-120.582043573385	0
+Aira_caryophyllea	MG225925.1	23-JAN-2018	603	Canada: British Columbia, Francis Point Provincial Park - just south of Pender Harbour, Sunshine Coast	primary	rbcL	49.3430097781244	-124.491796385454	0
+Aira_caryophyllea	MG225579.1	23-JAN-2018	603	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	rbcL	49.2592938451825	-122.933014625276	0
+Aira_caryophyllea	JN891528.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.58	-2.96	0
+Aira_caryophyllea	MF998477.1	09-DEC-2017	1353	Tanzania	secondary	rbcL	-6.5247123	35.7878438	0.0006326386584471
+Aira_caryophyllea	HM849751.1	23-JUL-2011	1325	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000781053357888036
+Aira_caryophyllea	HQ600460.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.00113924947774165
+Aira_caryophyllea	JN893051.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.7688178920471	-4.82691980260549	0
+Aira_caryophyllea	JN892581.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.9390804492573	-4.5191398244768	0

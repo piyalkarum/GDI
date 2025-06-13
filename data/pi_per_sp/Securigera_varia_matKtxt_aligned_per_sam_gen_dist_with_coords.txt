@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Securigera_varia	OR464975.1	26-SEP-2023	894	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	41.7405263619102	-85.681181172406	0.0328907340471666
+Securigera_varia	OR464974.1	26-SEP-2023	854	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	41.9163548724349	-84.793726590936	0.032903463933629
+Securigera_varia	KX677099.1	09-AUG-2017	814	Canada: British Columbia, Greater Vancouver Regional District, Burnaby, west of Stride Avenue, south of Sky Train tracks, in landfill, vegetation dump	primary	matK	49.207	-122.961	0.0339575395369354
+Securigera_varia	MG221137.1	21-JAN-2018	776	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	matK	42.765	-80.303	0.0326976777631571
+Securigera_varia	MG220987.1	21-JAN-2018	766	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, Access Point	primary	matK	45.185	-81.602	0.0317938227566647
+Securigera_varia	MG220942.1	21-JAN-2018	764	Canada: Ontario, Wellington County, City of Guelph, Stone Road and Eramosa River, Old Jail Quarry	primary	matK	43.549	-80.199	0.248944353984802
+Securigera_varia	MG220937.1	21-JAN-2018	776	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	matK	42.454	-81.884	0.0326976777631571
+Securigera_varia	KJ204536.1	29-JAN-2015	756	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0440924647263273
+Securigera_varia	HE966989.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0349028475482614

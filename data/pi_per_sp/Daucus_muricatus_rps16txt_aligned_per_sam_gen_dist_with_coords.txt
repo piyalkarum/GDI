@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daucus_muricatus	KT347863.1	13-JUL-2016	874	Portugal: Algarve, near Lagos	secondary	rps16	37.2447167	-8.15053875890853	0.264078136783859
+Daucus_muricatus	JQ290144.1	07-MAY-2012	1441	Spain	secondary	rps16	39.3293372919486	-4.55685675091977	0.393225444614931
+Daucus_muricatus	JQ290143.1	07-MAY-2012	1441	Morocco	secondary	rps16	27.9620547576859	-10.6089459025977	0.394112748872582
+Daucus_muricatus	JQ290136.1	07-MAY-2012	866	Spain	secondary	rps16	38.5638478102712	-4.25322687991818	0.262045345391481
+Daucus_muricatus	JQ290135.1	07-MAY-2012	866	Morocco	secondary	rps16	27.8430839511889	-10.8701314464895	0.262045345391481

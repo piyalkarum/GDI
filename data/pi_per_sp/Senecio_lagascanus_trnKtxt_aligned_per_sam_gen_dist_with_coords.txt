@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_lagascanus	JX895021.1	19-DEC-2012	440	Portugal: Montejunto, parte alta, alrededores Ermida de Nossa Senhora das Neves	secondary	trnK	39.2053380916954	-10.0007556969118	0.315555555555556
+Senecio_lagascanus	JX895017.1	19-DEC-2012	440	Spain: La Jana, rambla de Cervera	secondary	trnK	40.466092154942	-0.117726306142987	0.315555555555556
+Senecio_lagascanus	JX894949.1	19-DEC-2012	478	Portugal: Montejunto, parte alta, alrededores Ermida de Nossa Senhora das Neves	secondary	trnK	38.9778905033176	-9.66522681448453	0.315555555555556
+Senecio_lagascanus	JX894945.1	19-DEC-2012	478	Spain: La Jana, rambla de Cervera	secondary	trnK	40.1057003819563	0.885481671518566	0.315555555555556
+Senecio_lagascanus	JX894979.1	19-DEC-2012	440	France	secondary	trnK	44.2999871135441	2.41895285414255	0.315555555555556
+Senecio_lagascanus	JX894907.1	19-DEC-2012	478	France	secondary	trnK	44.4465313677619	2.87087362142341	0.315555555555556

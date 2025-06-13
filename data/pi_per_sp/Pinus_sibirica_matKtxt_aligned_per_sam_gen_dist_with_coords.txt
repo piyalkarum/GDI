@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_sibirica	AY497264.1	31-DEC-2004	1601	Russia: Irkutsk	secondary	matK	56.6370122	104.719221	0.00118943625021837
+Pinus_sibirica	EF546723.1	14-SEP-2007	1545	Russia: Krasnoyarsk Krai	secondary	matK	63.3233807	97.0979974	0.00120679628855408
+Pinus_sibirica	AB455831.1	02-MAY-2009	1025	Russia: Lake Baikal	secondary	matK	53.6167298	108.1307186	0.00100828134045538
+Pinus_sibirica	AB161014.1	27-JUL-2004	1661	Russia	secondary	matK	64.6863136	97.7453061	0.00121579856376693

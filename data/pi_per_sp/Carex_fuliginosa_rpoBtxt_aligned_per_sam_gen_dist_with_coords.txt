@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_fuliginosa	FJ548315.1	30-AUG-2009	504	Canada: Nunuavut, Baffin Island	primary	rpoB	71.44	-80.21	0
+Carex_fuliginosa	FJ548314.1	30-AUG-2009	475	Canada: Nunuavut, Baffin Island	primary	rpoB	70.91	-79.57	0
+Carex_fuliginosa	FJ548313.1	30-AUG-2009	512	Canada: Nunuavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rpoB	62.86	-67.35	0
+Carex_fuliginosa	FJ548312.1	30-AUG-2009	484	Canada: Nunuavut, Baffin Island	primary	rpoB	71.87	-80.89	0
+Carex_fuliginosa	FJ548311.1	30-AUG-2009	489	Canada: Nunuavut, Baffin Island	primary	rpoB	71.59	-79.99	0

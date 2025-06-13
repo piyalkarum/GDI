@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_arvensis	OR464865.1	26-SEP-2023	599	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28835517	-85.6195475	0.00232803323290127
+Veronica_arvensis	MK550616.1	02-MAR-2019	460	USA: New York, Cold Spring Harbor, CSHL main campus	primary	rbcL	40.51	-73.28	0.00124223602484472
+Veronica_arvensis	MG223753.1	26-DEC-2017	553	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, End of Group Camping Area	primary	rbcL	42.2833	-81.8667	0.0211869101675406
+Veronica_arvensis	MG222985.1	26-DEC-2017	552	Canada: Ontario, Frontenac County, Bon Echo Provincial Park, Hardwood Hill Campground	primary	rbcL	44.901	-77.257	0.00207302441992629
+Veronica_arvensis	MG222792.1	26-DEC-2017	552	Canada: Ontario, Wellington, Wellington, Guelph	primary	rbcL	43.5485	-80.2503	0.00207302441992629
+Veronica_arvensis	KJ841651.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	rbcL	45.535	-73.149	0.00233072386654281
+Veronica_arvensis	JN891676.1	07-MAR-2012	539	United Kingdom: Glamorgan	primary	rbcL	51.78	-3.37	0.00198780811025709
+Veronica_arvensis	LC634094.1	10-NOV-2021	553	Japan:Mie, Inabe	secondary	rbcL	35.1573562	136.5043894	0.00206927088645725
+Veronica_arvensis	HQ619782.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00324391730693016
+Veronica_arvensis	MG224330.1	26-DEC-2017	553	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, North Campground, Locust Section, Campsite #193	secondary	rbcL	45.3658443	15.6575209	0.00206927088645725
+Veronica_arvensis	MG221420.1	26-DEC-2017	553	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, End of Group Camping Area	secondary	rbcL	43.72634945	-77.7101179040839	0.00520175060880592
+Veronica_arvensis	HM850447.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00212329354176729
+Veronica_arvensis	JN893605.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.00197680548234054
+Veronica_arvensis	JN893082.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00197680548234054
+Veronica_arvensis	JN891837.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00356422606437327

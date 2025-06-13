@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_porrifolius	FN675710.1	10-JAN-2011	722	Spain:Jaen, El Oasis	secondary	ITS1	37.677975	-3.6262157	0.00526142388340508
+Tragopogon_porrifolius	FN675709.1	10-JAN-2011	722	Spain:Jaen, La Carolina	secondary	ITS1	38.2742478	-3.6152701	0.00526142388340508
+Tragopogon_porrifolius	FN675708.1	10-JAN-2011	723	Spain:Granada, Orce	secondary	ITS1	37.7212772	-2.4794159	0.00472855012892319
+Tragopogon_porrifolius	FN675707.1	10-JAN-2011	723	Spain:Granada, Iznalloz	secondary	ITS1	37.3928352	-3.5276704	0.00472855012892319
+Tragopogon_porrifolius	FN675706.1	10-JAN-2011	711	Spain:Granada, La Cortichuela	secondary	ITS1	37.1734995	-3.5995337	0.00707196767100493
+Tragopogon_porrifolius	AJ633496.1	13-DEC-2004	639	Romania	secondary	ITS1	45.9852129	24.6859225	0.0125195618153365

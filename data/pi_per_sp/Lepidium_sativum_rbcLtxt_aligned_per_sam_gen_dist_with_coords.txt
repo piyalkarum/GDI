@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lepidium_sativum	MG248116.1	21-JAN-2018	552	Canada: Ottawa, On	primary	rbcL	45.4214	-75.6919	0.00269592476489028
+Lepidium_sativum	MG246480.1	21-JAN-2018	552	Canada: Huntsville, On	primary	rbcL	45.3333	-79.2167	0.00269592476489028
+Lepidium_sativum	OQ446853.1	03-JUL-2023	569	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00330198537095089
+Lepidium_sativum	MZ945424.1	27-OCT-2022	319	India	secondary	rbcL	22.3511148	78.6677428	0.00626959247648903

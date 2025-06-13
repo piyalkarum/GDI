@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_supina	FJ548143.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island	primary	matK	70.65	-78.07	0.00164203612479475
+Carex_supina	KC474401.1	25-OCT-2013	566	Canada: Nunavut, Northwest Territories Mainland, Rankin Inlet, Top of Meliadine esker at 55 K/16 405740, 11 km of Rankin Inlet in Meliadine River Park study area, Hudson Bay	primary	matK	62.892	-92.2	0.000588928150765607
+Carex_supina	MN763329.1	28-JUL-2020	609	Armenia: Gegharkunik, Chambarak District	secondary	matK	40.2483299	45.1455126	0.00223096427556035
+Carex_supina	MN763328.1	28-JUL-2020	609	Armenia: Kotayk Province, Hrazdan District	secondary	matK	40.4865042	44.7640096	0.00109469074986316

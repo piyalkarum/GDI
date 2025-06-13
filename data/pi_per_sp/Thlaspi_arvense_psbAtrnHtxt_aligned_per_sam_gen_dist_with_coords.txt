@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thlaspi_arvense	OR607732.1	01-NOV-2023	235	Kazakhstan: Qaragandy region	primary	psbA-trnH	49.49993	73.26461	0.0662852779346848
+Thlaspi_arvense	OQ832292.1	15-AUG-2023	284	USA: American Prairie White Rock Unit	primary	psbA-trnH	47.9867	-107.9798	0.0500040144520273
+Thlaspi_arvense	OR465029.1	26-SEP-2023	263	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	psbA-trnH	42.28826615	-85.61731875	0.0542289278978674
+Thlaspi_arvense	KM892608.1	11-OCT-2018	328	China	secondary	psbA-trnH	29.7588534878366	-93.3956820310904	0.0444920238475289
+Thlaspi_arvense	KM892598.1	11-OCT-2018	314	China	secondary	psbA-trnH	30.0168457406371	-94.7932353754435	0.102934154891976
+Thlaspi_arvense	KM892597.1	11-OCT-2018	312	China	secondary	psbA-trnH	29.851829376432	-94.0511196329999	0.104300102859866

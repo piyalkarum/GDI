@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epipactis_albensis	OM287153.1	06-DEC-2022	538	Poland	secondary	trnS-trnG	52.5797340863821	20.1654787110045	0
+Epipactis_albensis	OM287152.1	06-DEC-2022	401	Poland	secondary	trnS-trnG	52.1479825075743	20.5669811443201	0
+Epipactis_albensis	OM287151.1	06-DEC-2022	401	Poland	secondary	trnS-trnG	52.1093571396227	18.494764883794	0
+Epipactis_albensis	FJ454889.1	26-AUG-2009	557	France	secondary	trnS-trnG	46.603354	1.8883335	0

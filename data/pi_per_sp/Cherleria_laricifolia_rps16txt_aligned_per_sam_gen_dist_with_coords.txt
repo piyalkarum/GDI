@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cherleria_laricifolia	MT094066.1	11-DEC-2021	597	Switzerland: Graubuenden	secondary	rps16	46.6960615	9.6027351	0.00143040288692101
+Cherleria_laricifolia	KY249977.1	18-DEC-2017	585	Italy	secondary	rps16	42.5680875695633	11.7055660123842	0.00229255731921119
+Cherleria_laricifolia	KY249976.1	18-DEC-2017	579	Italy	secondary	rps16	42.8268451161767	12.449545030129	0.00289011952585946
+Cherleria_laricifolia	KY249958.1	18-DEC-2017	585	Italy	secondary	rps16	41.8529058821578	12.602877074043	0.00229255731921119
+Cherleria_laricifolia	KY249957.1	18-DEC-2017	573	France	secondary	rps16	46.603354	1.8883335	0.00145793120743632
+Cherleria_laricifolia	KY249956.1	18-DEC-2017	585	Italy	secondary	rps16	42.3675056109818	12.7164227524192	0.00229255731921119
+Cherleria_laricifolia	KY249955.1	18-DEC-2017	585	Switzerland	secondary	rps16	46.7985624	8.2319736	0.00229255731921119

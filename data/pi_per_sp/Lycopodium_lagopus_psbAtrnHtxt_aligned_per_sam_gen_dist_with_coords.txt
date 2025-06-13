@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lycopodium_lagopus	MW817470.1	19-DEC-2021	243	Canada: British Columbia	secondary	psbA-trnH	54.8995222189469	-126.277513615511	0
+Lycopodium_lagopus	MW817469.1	19-DEC-2021	243	Canada: British Columbia	secondary	psbA-trnH	55.2124968093323	-124.624841883889	0
+Lycopodium_lagopus	MW817468.1	19-DEC-2021	244	Canada: Newfoundland & Labrador	secondary	psbA-trnH	49.1212094	-56.6403111	0
+Lycopodium_lagopus	MW817467.1	19-DEC-2021	243	USA: Alaska	secondary	psbA-trnH	64.4459613	-149.680909	0

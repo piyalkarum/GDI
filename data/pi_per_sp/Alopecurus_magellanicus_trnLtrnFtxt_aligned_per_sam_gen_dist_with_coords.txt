@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alopecurus_magellanicus	KX872612.1	16-OCT-2017	995	Peru: Puno, ca. 7 km WNW of Santa Rosa on Hwy. 3 and 2 km W toward Quishuara, ca. 4 km E of Quishuara, near confluence of Rio Vilacota and Rio Santa Rosa	primary	trnL-trnF	-14.6008	-70.8635	0.000697398906338451
+Alopecurus_magellanicus	OK247927.1	28-OCT-2022	1766	USA: Alaska	secondary	trnL-trnF	64.4459613	-149.680909	0.000946969696969697
+Alopecurus_magellanicus	KM524046.1	04-JUL-2015	1773	Argentina	secondary	trnL-trnF	-34.9964963	-64.9672817	0.00148103770035596
+Alopecurus_magellanicus	DQ353966.1	31-DEC-2007	1789	Canada	secondary	trnL-trnF	61.0666922	-107.991707	0.00204338354442615

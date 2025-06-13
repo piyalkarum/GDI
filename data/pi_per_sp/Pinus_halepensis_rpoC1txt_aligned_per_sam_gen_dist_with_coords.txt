@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_halepensis	HE659531.1	03-FEB-2012	435	Morocco	secondary	rpoC1	28.3347722	-10.3713379	0.00406564210770092
+Pinus_halepensis	FR845680.1	17-MAR-2011	457	Greece:Corfu island	secondary	rpoC1	39.591337	19.8596189	0.000539083557951483
+Pinus_halepensis	FR845671.1	17-MAR-2011	457	Italy:Sardinia	secondary	rpoC1	40.0912813	9.0305773	0.000539083557951483
+Pinus_halepensis	FR845670.1	17-MAR-2011	457	Italy:Umbria	secondary	rpoC1	42.965916	12.490236	0.000539083557951483
+Pinus_halepensis	FR845669.1	17-MAR-2011	457	Greece:Crete island	secondary	rpoC1	35.3084952	24.4633423	0.000539083557951483
+Pinus_halepensis	FN689657.1	25-MAR-2010	554	Italy:Apulia	secondary	rpoC1	40.9842539	16.6210027	0.00190930787589499

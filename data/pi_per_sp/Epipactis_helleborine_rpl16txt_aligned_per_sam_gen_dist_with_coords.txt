@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epipactis_helleborine	OM287143.1	06-DEC-2022	967	Serbia	secondary	rpl16	44.3019116971276	21.2420545439152	0.000693019414268924
+Epipactis_helleborine	OM287142.1	06-DEC-2022	967	Serbia	secondary	rpl16	44.1458821263653	20.1514581596549	0.000689417442261289
+Epipactis_helleborine	OM287141.1	06-DEC-2022	957	Poland	secondary	rpl16	51.6624620849937	18.692952057892	0.000696621386276559
+Epipactis_helleborine	JN811747.1	31-OCT-2012	1061	Poland	secondary	rpl16	52.1850152516243	18.1834772068198	0.000693019414268924

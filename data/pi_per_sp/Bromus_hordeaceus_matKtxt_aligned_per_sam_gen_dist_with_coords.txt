@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_hordeaceus	MF597212.1	17-JUL-2018	783	Canada: British Columbia, NE of Osoyoos ~2 km going up Anarchist Mountain, just before town lookout and just beyond the first switchback.	primary	matK	49.019	-119.382	0.00132324823875146
+Bromus_hordeaceus	MF597211.1	17-JUL-2018	819	Canada: British Columbia, Vancouver Island. Fairwinds Natural Area, along trail to Dolphin Lake and Enos Lake.	primary	matK	49.287	-124.15	0.00104483151331443
+Bromus_hordeaceus	MF597210.1	17-JUL-2018	780	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, Moresby Camp, Gillett Arm of Cumshewa Inlet, 11 km from Y junction of the loop road.	primary	matK	53.052	-132.025	0.000397930760047752
+Bromus_hordeaceus	MF597209.1	17-JUL-2018	819	Canada: British Columbia, Vancouver Island, Thetis Lake Regional Park, just N of Hwy. 1, N of Langford.	primary	matK	48.465	-123.472	0.00104483151331443
+Bromus_hordeaceus	OM048557.1	08-AUG-2022	1191	Canada: British Columbia, Kuskanook Rest Area, Kuskanook Harbour society, gravel around edge of lake and edge of mixed woods	secondary	matK	49.1152055095396	-124.424021406556	0.00082889931449152
+Bromus_hordeaceus	OM048556.1	08-AUG-2022	1233	Canada: British Columbia, Osoyoos, 0.5 km up Grizzly road, S of Hwy. 3, ca 5 km E of Osoyoos	secondary	matK	48.7747198967569	-123.676422290366	0.000763838681277285
+Bromus_hordeaceus	OM048555.1	08-AUG-2022	1227	Canada: Ontario, Prince Edward County, Gull Bar, south shore of Prince Edward County, on Lake Ontario	secondary	matK	44.558719935125	-77.3232248941747	0.000766543694207246
+Bromus_hordeaceus	OM048554.1	08-AUG-2022	899	Canada: British Columbia, Roadside pullout on W side of Hwy. 1 (Trans-Canada) at Hells Gate	secondary	matK	49.1205742112595	-124.429559649815	0.000774466735897926
+Bromus_hordeaceus	OM048553.1	08-AUG-2022	1071	Canada: Ontario, Niagara, Baden-Powell Park (city of Niagara Falls)	secondary	matK	43.9909558618692	-77.83607483446	0.000690823043039792
+Bromus_hordeaceus	KJ529322.1	22-FEB-2015	969	Spain	secondary	matK	39.3260685	-4.8379791	0.00573469490345095
+Bromus_hordeaceus	HM850582.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.000596740166852604
+Bromus_hordeaceus	JN895538.1	07-MAR-2012	815	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.000465880159422687
+Bromus_hordeaceus	JN895537.1	07-MAR-2012	767	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000488248419140579
+Bromus_hordeaceus	JN893982.1	07-MAR-2012	755	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00039848575413429
+Bromus_hordeaceus	GQ248088.1	02-JUL-2009	790	United Kingdom	secondary	matK	51.16175085	-3.07538670622275	0.000476879789947299

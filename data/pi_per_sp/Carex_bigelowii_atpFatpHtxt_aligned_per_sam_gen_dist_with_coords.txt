@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_bigelowii	FJ548395.1	30-AUG-2009	434	Canada: Northwest Territories, SW Banks Is, Mosik River Valley	primary	atpF-atpH	71.1818224180872	-126.045971218524	0.00136138363266701
+Carex_bigelowii	FJ548394.1	30-AUG-2009	513	Canada: Northwest Territories, Banks Island, Mesik River	primary	atpF-atpH	70.9533211113569	-124.620021982024	0.00149570009621901
+Carex_bigelowii	FJ548393.1	30-AUG-2009	386	Canada: Nunuavut, Baffin Island, Kimmiru, Hameau	primary	atpF-atpH	62.85	-69.87	0.00107009095773141
+Carex_bigelowii	FJ548392.1	30-AUG-2009	471	Canada: Nunuavut, E of Baffin Island, Brevoort Island	primary	atpF-atpH	63.34	-64.15	0.00121386947515149
+Carex_bigelowii	FJ548391.1	30-AUG-2009	474	Canada: Nunuavut, Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbor, NE-facing shady slope above E arm of lake, 30-80 m	primary	atpF-atpH	61.82	-65.7	0.00120682257026389
+Carex_bigelowii	FJ548390.1	30-AUG-2009	483	Canada: Nunuavut, Baffin Island, between Apex and Iqaluit	primary	atpF-atpH	63.74	-68.48	0.00274212436213311
+Carex_bigelowii	FJ548389.1	30-AUG-2009	462	Canada: Nunuavut, Baffin Island, head of Clyde Inlet, outwash from Caribou Falls	primary	atpF-atpH	69.83	-70.67	0.00124665349230621
+Carex_bigelowii	FJ548388.1	30-AUG-2009	316	USA: New Hampshire, Coos County, White Mountain National Forest, 2.1 mi below summit of Mt. Washington along auto road	primary	atpF-atpH	44.28	-71.28	0.00666071412622038

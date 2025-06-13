@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_utriculata	MG227718.1	23-JAN-2018	552	USA: Pennsylvania, Wayne Co, 3 mi NE of Goulsboro, vicinity of NE portion of Lehigh Pond, State Game Land #312	primary	rbcL	41.2633	-75.422	0
+Carex_utriculata	MG227511.1	23-JAN-2018	552	Canada: Manitoba, Nopiming Provincial Park, Flanders Lk, shallow bay and small crk on NE side of lk between Blocks 2 and 3	primary	rbcL	50.4431	-85.234	0
+Carex_utriculata	KX678570.1	29-APR-2017	552	Canada: British Columbia, East Kootenay Regional District, Panorama Rd. near Invermere, campsite pulloff near river	primary	rbcL	50.444	-116.259	0
+Carex_utriculata	KX678027.1	29-APR-2017	552	Canada: British Columbia, Thompson-Nicola Regional District, Shea Lake Forest Recreation Site	primary	rbcL	49.902	-120.736	0
+Carex_utriculata	KJ841217.1	04-NOV-2014	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Towards Elross Lake from the base of s-w slope of mountain	primary	rbcL	54.891	-67.17	0
+Carex_utriculata	MG226216.1	23-JAN-2018	552	USA: Alaska, 7 mi NE of Wasilla, 1 mile N along trl going N from Starwood Drive (off Pamela Drive)	secondary	rbcL	39.4703246	-86.6413912	0

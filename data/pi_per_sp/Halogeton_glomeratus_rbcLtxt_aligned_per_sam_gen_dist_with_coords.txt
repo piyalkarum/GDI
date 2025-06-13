@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Halogeton_glomeratus	OQ832181.1	15-AUG-2023	553	USA: American Prairie Dry Fork Unit	primary	rbcL	47.8703	-108.2321	0.281297431486367
+Halogeton_glomeratus	KP974333.1	07-APR-2017	580	Kazakhstan	primary	rbcL	44.1624	78.7501	0.430539694771013
+Halogeton_glomeratus	MT931093.1	03-MAR-2023	571	China	secondary	rbcL	35.000074	104.999927	0.291016822931458
+Halogeton_glomeratus	KY884404.1	30-APR-2018	498	China: Xinjiang	secondary	rbcL	42.4804953	85.4633464	0.40272238864102
+Halogeton_glomeratus	HM131765.1	29-JUN-2010	1343	China: Urumqi, Xinjiang	secondary	rbcL	43.8368402	87.5753263	0.261558911377017

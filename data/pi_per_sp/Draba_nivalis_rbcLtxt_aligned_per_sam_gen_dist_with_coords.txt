@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_nivalis	KT960605.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.9759268234572	-23.373733817776	0
+Draba_nivalis	KT960596.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.8703030303834	-22.468813351744	0
+Draba_nivalis	KC482622.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Dundas Harbour	primary	rbcL	74.517	-82.55	0
+Draba_nivalis	KC482621.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	rbcL	62.883	-92.183	0
+Draba_nivalis	KC482620.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Murray Point, Murray Point, W side of Wilbank Bay	primary	rbcL	68.678	-110.367	0
+Draba_nivalis	KC482619.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.8522	-67.3408	0
+Draba_nivalis	KC482618.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	68.719	-110.783	0
+Draba_nivalis	KC482616.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Near cabin on terraces above coastal area	primary	rbcL	56.331	-79.514	0
+Draba_nivalis	JN965491.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, Cape Churchill, Cape Churchill, north and in the vicinity of Canadian Wildlife service viewing tower	primary	rbcL	58.767	-93.251	0
+Draba_nivalis	JN965490.1	27-OCT-2012	509	Canada: Manitoba	primary	rbcL	59.1568486161203	-92.337469337286	0
+Draba_nivalis	JN965489.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.1439493817238	-94.3574383614623	0
+Draba_nivalis	KC482617.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit	secondary	rbcL	74.08295045	-94.3110795713201	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_sylvestris	AJ699019.1	30-APR-2005	221	Italy:Apulia, Monte S. Angelo	secondary	ITS	40.928558726618	16.5080714624328	0.338977278256216
+Genista_sylvestris	AJ699018.1	30-APR-2005	239	Italy:Apulia, Monte S. Angelo	secondary	ITS	41.4634770231943	15.597610831203	0.31726149622512
+Genista_sylvestris	AJ699013.1	30-APR-2005	223	Italy:Trieste, Opicina	secondary	ITS	45.7059781817165	14.3548738870939	0.349844356727961
+Genista_sylvestris	AJ699012.1	30-APR-2005	239	Italy:Trieste, Opicina	secondary	ITS	45.9332483803352	14.3425651502076	0.31726149622512

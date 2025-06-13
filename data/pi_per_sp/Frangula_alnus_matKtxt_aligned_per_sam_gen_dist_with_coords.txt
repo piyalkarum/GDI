@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Frangula_alnus	OR738282.1	13-NOV-2023	797	Kazakhstan: Kostanay region	primary	matK	53.48277	64.18468	0.00443730198275406
+Frangula_alnus	OR464911.1	26-SEP-2023	905	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.6929365872906	-85.3731584454955	0.00116280375477754
+Frangula_alnus	OR464910.1	26-SEP-2023	850	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.0565445799514	-85.8272048735274	0.00116280375477754
+Frangula_alnus	MG220897.1	21-JAN-2018	797	Canada: Quebec, Montreal, Island of Montreal, Parc du Mont-Royal, pres de la bordure d'un sentier pedestre	primary	matK	45.512	-73.591	0.000832953843658572
+Frangula_alnus	MG220598.1	21-JAN-2018	780	Canada: Ontario, Wellington County, Puslinch Township, Little Tract, 500m north of South entrance (County Road 34)	primary	matK	43.449	-80.247	0.000475079853439859
+Frangula_alnus	KJ592956.1	17-MAR-2015	742	USA: Wisconsin, Laona	primary	matK	45.548	-88.675	0.000122518990443519
+Frangula_alnus	KJ592955.1	17-MAR-2015	738	USA: Wisconsin, Blackwell	primary	matK	45.552	-88.577	0.000123183050012318
+Frangula_alnus	KJ592954.1	17-MAR-2015	784	USA: Wisconsin, Peshtigo	primary	matK	45.023	-87.721	0.00105695204371847
+Frangula_alnus	KJ592953.1	17-MAR-2015	772	USA: Wisconsin, Oconto	primary	matK	44.858	-87.855	0.00531660396835986
+Frangula_alnus	JN894230.1	07-MAR-2012	840	United Kingdom: Glamorgan	primary	matK	51.63	-3.9	0.00116280375477754
+Frangula_alnus	JN894976.1	07-MAR-2012	829	United Kingdom: Glamorgan	secondary	matK	51.9301200761143	-2.21780504897645	0.000834045571349362
+Frangula_alnus	JN894808.1	07-MAR-2012	846	United Kingdom: Glamorgan	secondary	matK	51.5982160640242	-2.93458688675355	0.00117215087725858

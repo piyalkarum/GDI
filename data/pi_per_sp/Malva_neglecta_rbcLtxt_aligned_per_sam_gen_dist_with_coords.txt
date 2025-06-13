@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Malva_neglecta	MG249647.1	21-JAN-2018	552	Canada: R.R.Tracks between Glasgow St. & Yorkshire St.	primary	rbcL	43.54	-80.254	0.000402576489533011
+Malva_neglecta	MG248315.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Staff House, Cypress Lake, Bruce Peninsula National Park	primary	rbcL	45.227	-81.527	0.000402576489533011
+Malva_neglecta	MG247956.1	21-JAN-2018	552	Canada: University of Guelph Campus, Parking Lot west of Biodiversity Center	primary	rbcL	43.528	-80.23	0.00162258416899581
+Malva_neglecta	MG246452.1	21-JAN-2018	553	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	rbcL	43.2565	-79.8675	0.000402212496323669
+Malva_neglecta	HQ590176.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 10 m W of North Barn	primary	rbcL	44.03	-79.532	0.00162035670832091
+Malva_neglecta	JQ412387.1	16-JAN-2013	552	South Africa: Western Cape, Cape Town, Robben Island	primary	rbcL	-33.812	18.381	0.000402576489533011
+Malva_neglecta	JN893190.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.77	-4.39	0.000410383031741593
+Malva_neglecta	MT931737.1	03-MAR-2023	565	China	secondary	rbcL	35.000074	104.999927	0.000401849817169233
+Malva_neglecta	JN891504.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000410383031741593
+Malva_neglecta	JN891497.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.000410383031741593

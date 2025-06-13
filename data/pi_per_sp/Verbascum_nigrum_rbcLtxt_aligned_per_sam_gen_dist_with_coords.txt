@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Verbascum_nigrum	MG221619.1	26-DEC-2017	552	Canada: Kingston	primary	rbcL	44.2314	-76.4847	0
+Verbascum_nigrum	JN893520.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.66	-3.02	0
+Verbascum_nigrum	OQ189672.1	13-JUN-2023	833	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0
+Verbascum_nigrum	HG417057.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0
+Verbascum_nigrum	JN893706.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Verbascum_nigrum	JN890646.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0

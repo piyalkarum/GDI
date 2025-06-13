@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphrasia_confusa	JN891557.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.65	-3.7	0.190188172043011
+Euphrasia_confusa	JN891989.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.190188172043011
+Euphrasia_confusa	JN891988.1	07-MAR-2012	515	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.194740582800284
+Euphrasia_confusa	EU040294.1	31-JUL-2008	792	United Kingdom: north England	secondary	rbcL	55.1314061	-2.0722867	0.575116926886306

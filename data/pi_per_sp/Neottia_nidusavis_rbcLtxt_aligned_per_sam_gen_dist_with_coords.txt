@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Neottia_nidus-avis	JX133787.1	31-DEC-2012	1224	Italy: Brescia	secondary	rbcL	45.9550216434813	11.3991639359581	0.107256317722349
+Neottia_nidus-avis	JX133786.1	31-DEC-2012	1568	Italy: Brescia	secondary	rbcL	45.0608141630188	10.2684133397964	0.0983610053326088
+Neottia_nidus-avis	JX133785.1	31-DEC-2012	2214	Italy: Brescia	secondary	rbcL	46.5205919320723	9.96792860799355	0.0915766803210227
+Neottia_nidus-avis	JN893608.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0803752532064763

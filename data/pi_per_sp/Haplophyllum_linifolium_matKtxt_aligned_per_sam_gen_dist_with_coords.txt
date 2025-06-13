@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Haplophyllum_linifolium	EF489079.1	31-DEC-2008	1515	Spain: Almeria	secondary	matK	36.8414197	-2.4628135	0.108580858085809
+Haplophyllum_linifolium	HM164005.1	18-APR-2011	1515	Spain	secondary	matK	38.695740893447	-4.29715379254827	0.108910891089109
+Haplophyllum_linifolium	HM164004.1	18-APR-2011	1515	Spain	secondary	matK	39.5281196262221	-5.71730714214506	0.125082508250825
+Haplophyllum_linifolium	HM164003.1	18-APR-2011	1515	Spain	secondary	matK	39.8323565896158	-5.73819300457011	0.115181518151815
+Haplophyllum_linifolium	HM164002.1	18-APR-2011	1521	Morocco	secondary	matK	28.3347722	-10.3713379	0.323432343234323

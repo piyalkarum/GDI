@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_salicifolium	KY951690.1	18-APR-2018	582	Kuwait	secondary	rbcL	29.3023869270197	48.3521865172093	0.000900445688225539
+Helianthemum_salicifolium	KY951689.1	18-APR-2018	544	Kuwait	secondary	rbcL	29.3212917835161	48.1613994504114	0.000934579439252336
+Helianthemum_salicifolium	KX282788.1	28-MAY-2017	535	Kuwait	secondary	rbcL	29.0967079049432	48.7794842043804	0.000934579439252336
+Helianthemum_salicifolium	KX282787.1	28-MAY-2017	576	Kuwait	secondary	rbcL	29.474607310532	48.3717800794537	0.00230144303792564
+Helianthemum_salicifolium	KX282786.1	28-MAY-2017	536	Kuwait	secondary	rbcL	28.5617319236953	47.7627179856882	0.00233383317059562

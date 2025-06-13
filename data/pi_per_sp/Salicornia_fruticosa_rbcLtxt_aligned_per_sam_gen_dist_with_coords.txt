@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salicornia_fruticosa	OQ791304.1	02-AUG-2023	584	Egypt	primary	rbcL	30.8481	29.3547	0.338062365455519
+Salicornia_fruticosa	OQ791295.1	02-AUG-2023	584	Egypt	primary	rbcL	29.1923	25.5689	0.338358872601341
+Salicornia_fruticosa	OM284022.1	06-DEC-2022	540	Egypt	primary	rbcL	24.3236	35.3414	0.336776186776187
+Salicornia_fruticosa	ON684503.1	21-AUG-2022	1428	Portugal: Ilhavo, Aveiro	primary	rbcL	40.60536	-8.66613	0.3283546960706
+Salicornia_fruticosa	MW679117.1	22-DEC-2021	696	Turkey	secondary	rbcL	38.9597594	34.9249653	0.334507050683521
+Salicornia_fruticosa	KM984723.1	26-NOV-2015	687	Israel: Accre Plain, Na#aman saltmarsh	secondary	rbcL	45.3658443	15.6575209	0.333365721195125
+Salicornia_fruticosa	KM984722.1	26-NOV-2015	687	Spain: Almeria, Salinas de Cabo de Gata	secondary	rbcL	36.7593892	-2.2159661	0.333365721195125
+Salicornia_fruticosa	DQ340121.1	20-JAN-2007	712	France: Loire-Atlantique, Saint Nazaire	secondary	rbcL	47.2733517	-2.2138905	0.334155503863533

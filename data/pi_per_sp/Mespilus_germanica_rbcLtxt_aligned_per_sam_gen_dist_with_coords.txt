@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mespilus_germanica	KC251303.1	03-DEC-2013	552	USA: California, Alameda Co., University of California Botanic Garden. (=97FW12)	primary	rbcL	37.875	-122.25	0.000301932367149758
+Mespilus_germanica	KC251302.1	03-DEC-2013	552	USA: Illinois, Lisle Morton Arboretum. Cultivated from seed from the Botanical Garden of the Botanical Institute, Dushanbe 17, Tadjik S.S.R. (Willd)	primary	rbcL	42.414966233731	-88.7361369533606	0.000301932367149758
+Mespilus_germanica	KC251301.1	03-DEC-2013	552	Turkey: Istanbul, Istanbul	primary	rbcL	41.3	28.7	0.000301932367149758
+Mespilus_germanica	KC251300.1	03-DEC-2013	552	Turkey: Bolu, Bolu	primary	rbcL	40.6515	31.6359	0.000301932367149758
+Mespilus_germanica	KC251299.1	03-DEC-2013	552	Turkey: Goynuk, Bolu	primary	rbcL	40.4483	30.9016	0.000301932367149758
+Mespilus_germanica	KC251298.1	03-DEC-2013	552	USA: Illinois, Lisle Morton Arboretum. Cultivated from seed from the wild in Tauria, Crimean-from Stae Nikita Botanical Gardens, Jalta, Tauria	primary	rbcL	42.0385653035452	-88.0226883383218	0.0033335342495111
+Mespilus_germanica	KC251297.1	03-DEC-2013	552	Turkey: Ardanuc, Artvin	primary	rbcL	41.161	42.0633	0.000301932367149758
+Mespilus_germanica	KC251296.1	03-DEC-2013	552	USA: Massachusetts, Suffolk Co., Arnold Arboretum	primary	rbcL	42.2977	-71.1282	0.000301932367149758
+Mespilus_germanica	KC251295.1	03-DEC-2013	552	Turkey: Bursa	primary	rbcL	40.194	29.0442	0.000301932367149758
+Mespilus_germanica	KC251294.1	03-DEC-2013	552	Turkey: Kirklareli, Kirklareli	primary	rbcL	41.8841	27.9853	0.000301932367149758
+Mespilus_germanica	MK925001.1	14-JAN-2020	542	France	secondary	rbcL	46.603354	1.8883335	0.000308071472581639
+Mespilus_germanica	MK924942.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.000308071472581639
+Mespilus_germanica	KC206626.1	08-JUL-2015	913	USA	secondary	rbcL	39.7837304	-100.445882	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_humifusa	KC475930.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	matK	71.313	-116.916	0
+Stellaria_humifusa	KC475929.1	25-OCT-2013	694	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq, along bay west of hamlet	primary	matK	56.586	-79.253	0
+Stellaria_humifusa	KC475928.1	25-OCT-2013	701	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	matK	69.419	-124.094	0
+Stellaria_humifusa	KC475927.1	25-OCT-2013	694	Canada: Nunavut, Rankin Inlet, Beach below town centre, Hudson Bay	primary	matK	62.8	-92.0833	0

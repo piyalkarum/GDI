@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mesembryanthemum_nodiflorum	MH168723.1	07-OCT-2018	553	Bahrain	primary	rbcL	26.015736	50.4959	0.00106044228919676
+Mesembryanthemum_nodiflorum	KP149557.1	16-NOV-2015	552	South Africa: Northern Cape, Namaqualand, Noup	primary	rbcL	-30.1382	17.2019	0.00106044228919676
+Mesembryanthemum_nodiflorum	JX572768.1	04-SEP-2013	552	South Africa: Western Cape, Robben Island	primary	rbcL	-33.809	18.362	0.00350122157653179
+Mesembryanthemum_nodiflorum	KY794549.1	23-JAN-2018	527	Egypt	secondary	rbcL	26.2540493	29.2675469	0.000686345756768292
+Mesembryanthemum_nodiflorum	KX282886.1	28-MAY-2017	517	Kuwait	secondary	rbcL	29.1212206773893	47.4593265230886	0.00283787517830071
+Mesembryanthemum_nodiflorum	KX282885.1	28-MAY-2017	580	Kuwait	secondary	rbcL	29.8845689317206	47.2268007605457	0.00105556088772687
+Mesembryanthemum_nodiflorum	KX282884.1	28-MAY-2017	579	Kuwait	secondary	rbcL	30.0114907549735	48.2008825249735	0.00105556088772687
+Mesembryanthemum_nodiflorum	HM850176.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00187549864885073

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_porrifolius	KF050506.1	23-DEC-2013	716	Sweden	secondary	Adh	59.6749712	14.5208584	0.0300868099014558
+Tragopogon_porrifolius	KF050494.1	23-DEC-2013	714	Turkey	secondary	Adh	38.9597594	34.9249653	0.0642190312267115
+Tragopogon_porrifolius	KF050467.1	23-DEC-2013	750	Spain: Granada	secondary	Adh	37.1734995	-3.5995337	0.0567786579541634
+Tragopogon_porrifolius	KT167156.1	19-AUG-2015	757	United Kingdom	secondary	Adh	54.7208666746898	-3.11683679723614	0.0223390431170146
+Tragopogon_porrifolius	KT167155.1	19-AUG-2015	757	United Kingdom	secondary	Adh	54.0966614222369	-0.99314318371419	0.0223390431170146
+Tragopogon_porrifolius	KT167154.1	19-AUG-2015	818	United Kingdom	secondary	Adh	54.479507453275	-0.653805085345983	0.0227188712763498
+Tragopogon_porrifolius	KT167150.1	19-AUG-2015	818	United Kingdom	secondary	Adh	54.8496662967876	-1.20748263914296	0.0264123805599393

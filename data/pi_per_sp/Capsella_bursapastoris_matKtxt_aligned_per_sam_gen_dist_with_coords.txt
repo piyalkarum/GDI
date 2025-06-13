@@ -1,0 +1,33 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Capsella_bursa-pastoris	OR738194.1	13-NOV-2023	804	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.274969928785868
+Capsella_bursa-pastoris	OR575889.1	25-OCT-2023	591	Kazakhstan: Qaragandy region	primary	matK	49.49993	73.26461	0.022317042961086
+Capsella_bursa-pastoris	KX676983.1	09-AUG-2017	796	Canada: British Columbia, Okanagan-Similkameen Regional District, Red Creek Forest Service Road	primary	matK	49.564	-120.41	0.0104567592335057
+Capsella_bursa-pastoris	MG221124.1	21-JAN-2018	704	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	matK	43.529	-80.229	0.0111084693236229
+Capsella_bursa-pastoris	MG221055.1	21-JAN-2018	770	Canada: Ontario, Norfolk County, Norfolk Township, Concession 4, in woods halfway between western edge of Backus Woods and the main trail junction	primary	matK	42.663	-80.491	0.00999344763585605
+Capsella_bursa-pastoris	MG221023.1	21-JAN-2018	762	USA: North Dakota	primary	matK	47.906	-101.306	0.00999704544757889
+Capsella_bursa-pastoris	MG221000.1	21-JAN-2018	762	USA: North Dakota	primary	matK	47.16	-100.741	0.00999704544757889
+Capsella_bursa-pastoris	MG220898.1	21-JAN-2018	762	USA: North Dakota	primary	matK	48.454	-101.592	0.00999704544757889
+Capsella_bursa-pastoris	MG220745.1	21-JAN-2018	698	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	matK	42.454	-81.884	0.00968448610651029
+Capsella_bursa-pastoris	MF786952.1	06-DEC-2017	757	China: Chogao Xiang, on the way from Bashong Tso to Xin Tso, near Shengdong	primary	matK	30.00403	94.21808	0.0100193025261815
+Capsella_bursa-pastoris	KX374552.1	07-MAR-2017	830	Egypt	primary	matK	28.39	28.8814	0.0135645159219352
+Capsella_bursa-pastoris	HQ593199.1	09-NOV-2011	768	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 20 m SW of Racing Barn	primary	matK	44.03	-79.534	0.0100291891830125
+Capsella_bursa-pastoris	KJ840876.1	23-SEP-2014	581	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	matK	45.535	-73.149	0.0176403559092458
+Capsella_bursa-pastoris	JN966165.1	27-OCT-2012	762	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	matK	58.772	-94.163	0.0112769662539188
+Capsella_bursa-pastoris	JN895272.1	07-MAR-2012	768	United Kingdom: Monmouthshire (35)	primary	matK	51.5	-3.13	0.00995993996849944
+Capsella_bursa-pastoris	JN893963.1	07-MAR-2012	768	United Kingdom	primary	matK	51.89	-3.97	0.00995993996849944
+Capsella_bursa-pastoris	OQ390296.1	24-MAY-2023	785	Peru	secondary	matK	-6.83279916555434	-74.8221111457738	0.0101215940388753
+Capsella_bursa-pastoris	OQ390295.1	24-MAY-2023	755	Peru	secondary	matK	-7.04624287482228	-75.4983361311687	0.0110976877514583
+Capsella_bursa-pastoris	OQ390294.1	24-MAY-2023	718	Peru	secondary	matK	-7.30347627477332	-75.6684986089108	0.0101073262344791
+Capsella_bursa-pastoris	OQ390293.1	24-MAY-2023	739	Peru	secondary	matK	-6.80049306363323	-75.2293528525271	0.0101036845364297
+Capsella_bursa-pastoris	MT917685.1	03-MAR-2023	764	China	secondary	matK	34.6068229811097	105.889692454416	0.0100077217485934
+Capsella_bursa-pastoris	MT917684.1	03-MAR-2023	772	China	secondary	matK	35.1917393738096	106.042283233341	0.00995513931121506
+Capsella_bursa-pastoris	MT917682.1	03-MAR-2023	768	China	secondary	matK	35.3215274370566	104.484989869516	0.00995993996849944
+Capsella_bursa-pastoris	HQ619802.1	26-DEC-2010	822	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.010203317354244
+Capsella_bursa-pastoris	MG458331.1	17-OCT-2018	818	Pakistan	secondary	matK	30.3308401	71.247499	0.0166556279524053
+Capsella_bursa-pastoris	KM892774.1	11-OCT-2018	747	China	secondary	matK	35.4298987017435	104.472073451896	0.010068255188868
+Capsella_bursa-pastoris	KM892773.1	11-OCT-2018	747	China	secondary	matK	35.2926615746769	104.865475942028	0.010068255188868
+Capsella_bursa-pastoris	KM892772.1	11-OCT-2018	747	China	secondary	matK	35.7960953334858	104.974373882821	0.010068255188868
+Capsella_bursa-pastoris	KM892759.1	11-OCT-2018	747	China	secondary	matK	34.2908467768359	104.994466636783	0.010068255188868
+Capsella_bursa-pastoris	KM892745.1	11-OCT-2018	747	China	secondary	matK	35.4977764598791	104.907801787576	0.010068255188868
+Capsella_bursa-pastoris	KT456900.1	07-FEB-2016	1581	USA	secondary	matK	39.7837304	-100.445882	0.010462039921525
+Capsella_bursa-pastoris	KJ204451.1	29-JAN-2015	767	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0102389025306566

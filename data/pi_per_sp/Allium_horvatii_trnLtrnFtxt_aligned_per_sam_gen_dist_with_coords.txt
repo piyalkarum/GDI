@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_horvatii	HG794069.1	14-MAY-2015	295	Italy	secondary	trnL-trnF	41.8872792070804	13.1149918374259	0
+Allium_horvatii	HG794050.1	14-MAY-2015	295	Montenegro	secondary	trnL-trnF	-29.6826112	-51.4687455	0
+Allium_horvatii	HG794047.1	14-MAY-2015	295	Slovenia	secondary	trnL-trnF	46.1199444	14.8153333	0
+Allium_horvatii	HG794029.1	14-MAY-2015	295	Italy	secondary	trnL-trnF	42.8010093591503	13.4068852178802	0

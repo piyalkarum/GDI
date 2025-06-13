@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Malcolmia_africana	KJ623417.1	10-JUN-2014	730	China	secondary	trnL-trnF	35.8480105885023	104.743950479035	0.00274348422496571
+Malcolmia_africana	KJ623416.1	10-JUN-2014	730	China	secondary	trnL-trnF	35.4679539358058	104.380792380863	0.00274348422496571
+Malcolmia_africana	KJ623415.1	10-JUN-2014	741	China	secondary	trnL-trnF	35.2079019324429	104.519188428792	0.00819332839580421
+Malcolmia_africana	KJ623414.1	10-JUN-2014	740	China	secondary	trnL-trnF	34.824220877414	104.371072292287	0.0027063599458728

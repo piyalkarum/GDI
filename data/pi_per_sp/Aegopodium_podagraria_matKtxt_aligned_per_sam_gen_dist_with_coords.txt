@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aegopodium_podagraria	KX677748.1	09-AUG-2017	811	Canada: British Columbia, Metro Vancouver Regional District, Vancouver, West 59th Avenue, 1500 block	primary	matK	49.2	-123.083	0.00493572840754165
+Aegopodium_podagraria	MG225342.1	21-JAN-2018	791	Canada: Quebec, Montreal, Island of Montreal, Parc de Beausejour, en bordure d'un sentier de gravier	primary	matK	45.527	-73.732	0.00521735679920255
+Aegopodium_podagraria	JN894400.1	07-MAR-2012	938	United Kingdom: Carmarthenshire	primary	matK	51.8	-4.21	0.00436094541756822
+Aegopodium_podagraria	MG225038.1	21-JAN-2018	781	Canada: Quebec, Grosse-Ile, cte Montmagny.	secondary	matK	47.5300140262428	-71.0756333233305	0.0306569637765191
+Aegopodium_podagraria	MG224996.1	21-JAN-2018	794	Canada: Quebec, Cte Dubuc, St-Honore, au bord de la route de St-Ambroise, pres du village.	secondary	matK	46.5378381544954	-71.0536858195186	0.00568325995055814
+Aegopodium_podagraria	KJ204432.1	29-JAN-2015	821	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00493572840754165
+Aegopodium_podagraria	JN895997.1	07-MAR-2012	843	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00493341594640545
+Aegopodium_podagraria	JN895992.1	07-MAR-2012	775	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00430125872735505

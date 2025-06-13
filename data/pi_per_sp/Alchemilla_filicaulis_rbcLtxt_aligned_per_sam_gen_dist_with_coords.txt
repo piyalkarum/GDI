@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alchemilla_filicaulis	MG249205.1	21-JAN-2018	553	Canada: Newfoundland and Labrador, Burgeo and La Poile. Burgeo clsoe to edge of roads	primary	rbcL	47.617	-57.672	0.00439868413150678
+Alchemilla_filicaulis	JN891526.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.09	-4.45	0.0051660516605166
+Alchemilla_filicaulis	MK924676.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.0044280442804428
+Alchemilla_filicaulis	MG247207.1	21-JAN-2018	553	Canada: Quebec	secondary	rbcL	52.4760892	-71.8258668	0.00439868413150678
+Alchemilla_filicaulis	MG246030.1	21-JAN-2018	553	Canada: Newfoundland and Labrador, Humber District. Corner Brook, three-mile dam	secondary	rbcL	49.7738268	-56.8821439113846	0.00473832767260765
+Alchemilla_filicaulis	JN890702.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.0047970479704797

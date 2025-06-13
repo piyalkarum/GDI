@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Typha_latifolia	OQ418645.1	03-JUL-2023	899	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	43.0544855945913	-85.4601767905937	0.00391484298894803
+Typha_latifolia	OQ418644.1	03-JUL-2023	847	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	42.0608507434498	-84.7582787090184	0.00389199318069131
+Typha_latifolia	KJ841034.1	23-SEP-2014	629	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Next to observation lookout at Lac Hertel	primary	matK	45.544	-73.156	0.00264970853206147
+Typha_latifolia	JN895192.1	07-MAR-2012	831	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.14	0.00159857615805308
+Typha_latifolia	MH552092.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.8939586263481	-81.7025294022863	0.00170250783297371
+Typha_latifolia	MH551723.1	11-MAR-2019	723	USA: Ordway-Swisher Biological Station, FL	secondary	matK	30.4780004859976	-81.7174142781204	0.0026785278960048
+Typha_latifolia	OL989382.1	29-JAN-2022	840	India: J&K,Srinagar	secondary	matK	28.5424922	77.2029544	0.00152103840177763
+Typha_latifolia	MN492741.1	30-NOV-2021	787	China	secondary	matK	34.820897887231	103.944428646493	0.00674066800083316
+Typha_latifolia	MN492740.1	30-NOV-2021	792	China	secondary	matK	34.6979504952971	106.027341354129	0.00321184214643147
+Typha_latifolia	LC576686.1	03-MAR-2021	837	Japan:Aichi, Nisshin	secondary	matK	35.139303	137.053708	0.00159412896322259
+Typha_latifolia	KC584948.1	04-JUN-2013	818	Italy: Umbria	secondary	matK	42.965916	12.490236	0.00160142590824186
+Typha_latifolia	JN894820.1	07-MAR-2012	760	United Kingdom: Glamorgan	secondary	matK	52.1932482358966	-3.45132786904625	0.0015648250168374
+Typha_latifolia	JN894167.1	07-MAR-2012	790	United Kingdom: Glamorgan	secondary	matK	52.1198353639566	-2.76673997539705	0.00152023132661911

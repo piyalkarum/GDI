@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cupressus_sempervirens	JX571816.1	04-SEP-2013	552	Egypt: Alexandria, Smouha, Antoniades gardens	primary	rbcL	31.204	29.949	0
+Cupressus_sempervirens	MN662637.1	13-OCT-2020	335	Lebanon	secondary	rbcL	40.375713	-76.4626118	0
+Cupressus_sempervirens	HM024278.1	28-SEP-2010	1280	Croatia	secondary	rbcL	45.3658443	15.6575209	0.00189934676230849
+Cupressus_sempervirens	FR831942.1	25-MAR-2011	701	Italy:Tuscany	secondary	rbcL	43.4586541	11.1389204	0.000475511174512601
+Cupressus_sempervirens	FR831941.1	25-MAR-2011	701	Italy:Sicily	secondary	rbcL	37.587794	14.155048	0.000475511174512601
+Cupressus_sempervirens	FR831940.1	25-MAR-2011	701	Italy:Umbria	secondary	rbcL	42.7492394533583	13.0860103153128	0.000475511174512601
+Cupressus_sempervirens	FN689378.1	19-MAR-2010	743	Italy:Umbria	secondary	rbcL	42.7782329133247	13.5993160611387	0.000472813238770686

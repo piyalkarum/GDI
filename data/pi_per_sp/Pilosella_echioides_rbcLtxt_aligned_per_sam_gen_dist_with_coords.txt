@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pilosella_echioides	OR670322.1	06-NOV-2023	547	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00610054174953626
+Pilosella_echioides	MT930533.1	03-MAR-2023	569	China	secondary	rbcL	34.7728982531398	105.941424196382	0.00183150183150183
+Pilosella_echioides	MT930532.1	03-MAR-2023	578	China	secondary	rbcL	35.1967643072807	104.934032280828	0.0024375380865326
+Pilosella_echioides	MT930531.1	03-MAR-2023	569	China	secondary	rbcL	35.6890288889245	104.82611983168	0.00183150183150183

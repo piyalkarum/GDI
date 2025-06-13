@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hyoscyamus_niger	OR670340.1	06-NOV-2023	795	Kazakhstan: Qaragandy region	primary	matK	49.49993	73.26461	0.000171703296703297
+Hyoscyamus_niger	OQ847536.1	15-AUG-2023	789	USA: American Prairie, White Rock	primary	matK	47.9827	-107.938	0.000172890733056708
+Hyoscyamus_niger	JN895452.1	07-MAR-2012	840	United Kingdom: Glamorgan	primary	matK	51.49	-3.13	0.000162548764629389
+Hyoscyamus_niger	OQ303557.1	13-JUN-2023	356	Latvia	secondary	matK	56.8406494	24.7537645	0
+Hyoscyamus_niger	MT930220.1	03-MAR-2023	780	China	secondary	matK	35.5273564663894	105.427512270941	0.000172890733056708
+Hyoscyamus_niger	MN492882.1	30-NOV-2021	767	China	secondary	matK	34.9575907295901	105.458153116102	0
+Hyoscyamus_niger	MN492881.1	30-NOV-2021	798	China	secondary	matK	34.648145610838	104.244208662507	0.000171467764060357
+Hyoscyamus_niger	JN894600.1	07-MAR-2012	859	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000162548764629389
+Hyoscyamus_niger	JN894599.1	07-MAR-2012	769	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00101405005613585

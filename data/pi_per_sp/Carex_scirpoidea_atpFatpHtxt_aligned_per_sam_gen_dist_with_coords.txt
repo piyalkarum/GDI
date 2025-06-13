@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_scirpoidea	FJ548457.1	30-AUG-2009	384	Canada: Nunuavut, Baffin Island, Franklin District, Nettilling Lake, Burwash Bay	primary	atpF-atpH	65.95	-71.3	0.00772749869307323
+Carex_scirpoidea	FJ548456.1	30-AUG-2009	375	Canada: Northwest Territories, Banks Island, Aulavik National Park, site of Muskox exclosure about 2.5 km from confluence of Thomsen and Muskox Rivers	primary	atpF-atpH	73.84	-119.06	0.00424655009283824
+Carex_scirpoidea	FJ548455.1	30-AUG-2009	282	Canada: Nunuavut, Southampton Island, Salliq (Coral Harbour), low lying area S of the old graveyard	primary	atpF-atpH	64.13	-83.17	0.00213528559444826
+Carex_scirpoidea	FJ548454.1	30-AUG-2009	310	Canada: Nunuavut, Baffin Island, Iqaluit, between Apex and Iqaluit	primary	atpF-atpH	63.74	-68.48	0.00592026013376196
+Carex_scirpoidea	FJ548453.1	30-AUG-2009	419	Canada: Northwest Territories, 11 mi S of Inuvik on Dempster Hwy (5) towards Eagle Plains	primary	atpF-atpH	68.38	-133.33	0.00529056753285541
+Carex_scirpoidea	FJ548452.1	30-AUG-2009	354	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.31	-79.23	0.00768514677276705

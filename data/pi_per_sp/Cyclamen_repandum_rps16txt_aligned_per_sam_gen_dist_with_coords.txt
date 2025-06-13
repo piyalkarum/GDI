@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cyclamen_repandum	AM990511.1	16-MAY-2008	839	France:Corsica, Calenzana	secondary	rps16	42.5083711	8.8552855	0.00759449416188074
+Cyclamen_repandum	AM990507.1	16-MAY-2008	835	Greece:Peloponnese	secondary	rps16	37.3633283	22.2395373	0.00679936243082365
+Cyclamen_repandum	AM990506.1	16-MAY-2008	840	Greece:Kos	secondary	rps16	36.7936933	27.0848266	0.00838952484056449
+Cyclamen_repandum	AM990505.1	16-MAY-2008	833	Greece:Peloponnese, between Tripolis and Sparta	secondary	rps16	37.36332825	22.2395373439955	0.00681234726603777

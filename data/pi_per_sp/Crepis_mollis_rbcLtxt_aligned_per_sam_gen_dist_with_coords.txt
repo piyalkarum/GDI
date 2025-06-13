@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crepis_mollis	JN891590.1	07-MAR-2012	542	United Kingdom: Yorkshire	primary	rbcL	54.01	-2.28	0.000615006150061501
+Crepis_mollis	MK925264.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5015123666328	-1.91082168780455	0.000615006150061501
+Crepis_mollis	MK925022.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0726733578798	-3.66038594274209	0.0018450184501845
+Crepis_mollis	JN892236.1	07-MAR-2012	542	United Kingdom: Yorkshire,Mid-west	secondary	rbcL	53.9825271	-1.3852499932685	0.000615006150061501

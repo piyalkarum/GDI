@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_argentea	MG220969.1	21-JAN-2018	785	Canada: Ontario, Sudbury District, Sables-Spanish Rivers Twp., Chutes Provincial Park, Mowed lawn near shower building	primary	matK	46.219	-82.074	0
+Potentilla_argentea	KJ840973.1	23-SEP-2014	798	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 70-100 metres north of Research Station, about 50 metres to east of access road, along small trail	primary	matK	45.536	-73.1495	0
+Potentilla_argentea	MK926366.1	14-JAN-2020	805	United Kingdom	secondary	matK	54.7023545	-3.2765753	0
+Potentilla_argentea	KJ746129.1	29-JUL-2014	687	Poland	secondary	matK	52.215933	19.134422	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bassia_hyssopifolia	MG247718.1	21-JAN-2018	552	Canada: Keremeos, Bc	primary	rbcL	49.2053	-119.824	0.280340679919332
+Bassia_hyssopifolia	MG246916.1	21-JAN-2018	552	Canada: Regina, Saskatchewan	primary	rbcL	50.4553	-104.61	0.280340679919332
+Bassia_hyssopifolia	KX678943.1	29-APR-2017	552	Canada: British Columbia, Thompson-Nicola Regional District, Cache Creek, Venables Valley, second small saline lake on road to Veneables Valley	primary	rbcL	50.597	-121.343	0.280340679919332
+Bassia_hyssopifolia	KY884384.1	30-APR-2018	507	China: Xinjiang	secondary	rbcL	42.4804953	85.4633464	0.419763254673613
+Bassia_hyssopifolia	KF785909.1	21-AUG-2014	673	Spain: Granada, near Baza, Jabalcon	secondary	rbcL	37.1734995	-3.5995337	0.424246832893147

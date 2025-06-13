@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_confertum	JN891869.1	07-MAR-2012	542	United Kingdom: Anglesey	primary	rbcL	53.26	-4.09	0
+Lamium_confertum	KF055120.1	26-OCT-2013	1162	Finland	secondary	rbcL	63.2467777	25.9209164	0
+Lamium_confertum	JN891286.1	07-MAR-2012	542	United Kingdom: Sutherland,West	secondary	rbcL	57.9508631	-4.4504483	0
+Lamium_confertum	JN891013.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0

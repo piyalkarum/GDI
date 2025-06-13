@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dryopteris_expansa	AB575750.1	03-DEC-2010	528	Japan	secondary	psbA-trnH	36.5748441	139.2394179	0
+Dryopteris_expansa	JQ936672.1	28-MAY-2012	437	USA	secondary	psbA-trnH	40.2135820710683	-101.178513750345	0
+Dryopteris_expansa	JQ936666.1	28-MAY-2012	436	USA	secondary	psbA-trnH	39.4633504724804	-100.725024939256	0
+Dryopteris_expansa	JQ936645.1	28-MAY-2012	437	USA	secondary	psbA-trnH	40.0372492621577	-99.7782697107725	0

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_montanum	KF022763.1	27-JUL-2013	378	Croatia: Smerovisce	secondary	trnL-trnF	45.7872024	15.644793	0.00397176259245225
+Alyssum_montanum	KF022762.1	27-JUL-2013	385	Croatia: island Pag	secondary	trnL-trnF	44.4966129	14.9461853	0.005295683456603
+Alyssum_montanum	KF022761.1	27-JUL-2013	378	Croatia: Tijarica	secondary	trnL-trnF	43.591922	16.9191808	0.00617751767177054
+Alyssum_montanum	KF022758.1	27-JUL-2013	378	Macedonia: Kozjak, Nova Breznica	secondary	trnL-trnF	41.0581405	21.0433567	0.00397176259245225
+Alyssum_montanum	KF022757.1	27-JUL-2013	377	Greece	secondary	trnL-trnF	43.2097838	-77.6930602	0.0106100795755968
+Alyssum_montanum	KF022756.1	27-JUL-2013	378	Turkey: Bolu, Abant	secondary	trnL-trnF	40.7219266	31.4768524	0.0105890278304071
+Alyssum_montanum	KF022755.1	27-JUL-2013	378	Macedonia: Galicica	secondary	trnL-trnF	41.014549	20.8534922	0.005295683456603

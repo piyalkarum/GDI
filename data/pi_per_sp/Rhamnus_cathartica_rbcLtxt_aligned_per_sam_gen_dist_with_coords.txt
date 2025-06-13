@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhamnus_cathartica	OR538528.1	17-OCT-2023	603	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28877053	-85.61945094	0.000766422817996809
+Rhamnus_cathartica	OR538511.1	17-OCT-2023	603	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28854753	-85.62007774	0.000766422817996809
+Rhamnus_cathartica	OR464880.1	26-SEP-2023	601	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28712709	-85.61614889	0.00230318831113527
+Rhamnus_cathartica	MG248706.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	47.404	-101.925	0.000775449690778986
+Rhamnus_cathartica	MG247727.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.4083123023984	-100.370999889724	0.000775449690778986
+Rhamnus_cathartica	MG247150.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.1099782899564	-101.7275220289	0.000775449690778986
+Rhamnus_cathartica	HQ590235.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, in scrubby woods on edge of cultivated fields, east of old gravel pits	primary	rbcL	44.028	-79.543	0.000766422817996809
+Rhamnus_cathartica	KT695479.1	29-SEP-2015	506	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	42.5724429240464	-80.5550074566844	0.000832325795508613
+Rhamnus_cathartica	KT695558.1	29-SEP-2015	543	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.0076573615232	-79.440986521205	0.00953321676661191
+Rhamnus_cathartica	KT695504.1	29-SEP-2015	510	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.3771372078915	-81.1023550511882	0.000722394220846233
+Rhamnus_cathartica	KJ593660.1	17-MAR-2015	553	USA: Wisconsin, Green Bay	primary	rbcL	44.526	-87.927	0.000774196538632769
+Rhamnus_cathartica	KJ593659.1	17-MAR-2015	524	USA: Wisconsin, Laona	primary	rbcL	45.548	-88.675	0.000803727606055555
+Rhamnus_cathartica	JN891668.1	07-MAR-2012	542	United Kingdom: Breconshire	primary	rbcL	51.78	-3.43	0.00392219021370705
+Rhamnus_cathartica	MN662669.1	13-OCT-2020	799	Lebanon	secondary	rbcL	40.375713	-76.4626118	0.000611995104039168
+Rhamnus_cathartica	MG248253.1	21-JAN-2018	553	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	secondary	rbcL	43.72634945	-77.7101179040839	0.000774196538632769
+Rhamnus_cathartica	KJ593662.1	17-MAR-2015	553	USA: Wisconsin, Pensaukee	secondary	rbcL	44.823047	-87.9131587	0.000774196538632769
+Rhamnus_cathartica	KJ593661.1	17-MAR-2015	553	USA: Wisconsin, Green Bay	secondary	rbcL	44.5126379	-88.0125794	0.000774196538632769
+Rhamnus_cathartica	JN893791.1	07-MAR-2012	532	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000791638626748256
+Rhamnus_cathartica	JN893284.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.000777029367725334
+Rhamnus_cathartica	JN891408.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000777029367725334

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_hirta	MG227116.1	23-JAN-2018	552	Canada: New Brunswick, Saint J Co, At edge of Sait John terminal land, 600 m NW of base of ferry dock	primary	rbcL	43.2586	-66.068	0
+Carex_hirta	MG226633.1	23-JAN-2018	552	USA: Pennsylvania, Chester Co, 0.8 mi WSW of W Grove, 0.1 mi W of Middle Branch of White Clay Crk	primary	rbcL	39.8158	-75.841	0
+Carex_hirta	MG226627.1	23-JAN-2018	552	Canada: Quebec, Comte de Quebec, Sainte Foy, Boul. Du Versant Nord, env	primary	rbcL	46.7833	-71.3	0
+Carex_hirta	KJ841178.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Parking lot by maintenance shed, by edge of road	primary	rbcL	45.538	-73.156	0
+Carex_hirta	JN892186.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0
+Carex_hirta	MW011008.1	27-JUL-2021	553	Germany	secondary	rbcL	31.9633093997415	-95.7664612095458	0
+Carex_hirta	MW011004.1	27-JUL-2021	553	Germany	secondary	rbcL	31.6645474876489	-94.417314730832	0
+Carex_hirta	JN891464.1	07-MAR-2012	524	United Kingdom: Glamorgan	secondary	rbcL	50.984977144105	-2.2671164733564	0
+Carex_hirta	JN891457.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.6988857192889	-3.47104618742555	0

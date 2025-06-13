@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_alopecurus	MF572163.1	31-JUL-2018	583	Italy: Aosta Valley, Torgnon, Chessin	secondary	rbcL	46.1992377299373	6.88650548586323	0
+Astragalus_alopecurus	MF572162.1	31-JUL-2018	582	Italy: Aosta Valley, Cogne, Plan de Suche	secondary	rbcL	45.645223	7.3094182	0
+Astragalus_alopecurus	MF572161.1	31-JUL-2018	579	Italy: Aosta Valley, Cogne, Epinel	secondary	rbcL	45.9042614535032	7.35529282864556	0
+Astragalus_alopecurus	MF572160.1	31-JUL-2018	577	Italy: Aosta Valley, Cogne, Epinel	secondary	rbcL	45.4858970573415	7.72483571038874	0
+Astragalus_alopecurus	MF572159.1	31-JUL-2018	572	Italy: Aosta Valley, Cogne, Valnontey	secondary	rbcL	45.5598697	7.3279544	0
+Astragalus_alopecurus	MF572158.1	31-JUL-2018	577	Italy: Aosta Valley, Cogne, Lillaz	secondary	rbcL	45.594076	7.3900994	0
+Astragalus_alopecurus	MF572155.1	31-JUL-2018	573	Italy: Aosta Valley, Torgnon, Chessin	secondary	rbcL	45.5924553567931	8.56918731144661	0
+Astragalus_alopecurus	MF572157.1	31-JUL-2018	573	Italy	secondary	rbcL	45.6087425	7.3560226	0
+Astragalus_alopecurus	MF572156.1	31-JUL-2018	581	Italy	secondary	rbcL	45.7017361	7.2476561	0

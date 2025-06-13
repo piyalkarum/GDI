@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leptaleum_filifolium	KJ623405.1	10-JUN-2014	489	China	secondary	trnL-trnF	34.3694556020562	105.30526397477	0.0013661259551334
+Leptaleum_filifolium	KJ623404.1	10-JUN-2014	487	China	secondary	trnL-trnF	35.7876263624769	104.661211329005	0
+Leptaleum_filifolium	KJ623403.1	10-JUN-2014	496	China	secondary	trnL-trnF	34.8572211151153	105.406828024002	0.000681663258350375
+Leptaleum_filifolium	KJ623402.1	10-JUN-2014	488	China	secondary	trnL-trnF	34.8019691462943	104.956867766597	0.000684462696783025

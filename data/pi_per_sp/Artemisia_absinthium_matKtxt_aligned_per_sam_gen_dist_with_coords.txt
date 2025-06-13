@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_absinthium	OQ847500.1	15-AUG-2023	795	USA: James Kipp Recreation Area	primary	matK	47.626	-108.6781	0.000361206429474445
+Artemisia_absinthium	KX677578.1	09-AUG-2017	799	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Forest Service Road	primary	matK	49.1879	-119.088	0.0003866228494104
+Artemisia_absinthium	MG225207.1	21-JAN-2018	781	USA: North Dakota	primary	matK	48.326	-100.765	0.000365831351746845
+Artemisia_absinthium	JN894750.1	07-MAR-2012	911	United Kingdom: Glamorgan	primary	matK	51.8	-3.14	0.000378931413414172
+Artemisia_absinthium	OR703744.1	11-NOV-2023	639	Kazakhstan: Akmola region	secondary	matK	51.8742347	69.8582132	0.000447127207690588
+Artemisia_absinthium	OQ303560.1	13-JUN-2023	661	Latvia	secondary	matK	56.8406494	24.7537645	0.000432245515452777
+Artemisia_absinthium	MT917502.1	03-MAR-2023	767	China	secondary	matK	35.1543486191194	105.696572817851	0.000372508847085118
+Artemisia_absinthium	MT917299.1	03-MAR-2023	791	China	secondary	matK	34.9967609069564	104.244041055526	0.00535620494529161
+Artemisia_absinthium	MG946952.1	29-MAY-2018	1253	Pakistan	secondary	matK	30.3308401	71.247499	0.00037943464238285
+Artemisia_absinthium	KX581891.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	43.9184407547482	81.3770224533451	0.00037202380952381
+Artemisia_absinthium	KX581890.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	44.6868003248022	81.9542371334433	0.00037202380952381
+Artemisia_absinthium	KX581889.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	44.4421994802764	81.2754619377681	0.00037202380952381
+Artemisia_absinthium	KX581888.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	44.5936843482426	81.4618356426104	0.00037202380952381
+Artemisia_absinthium	HE970675.1	18-SEP-2012	811	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.000382995021064726
+Artemisia_absinthium	JN894044.1	07-MAR-2012	837	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.000361206429474445

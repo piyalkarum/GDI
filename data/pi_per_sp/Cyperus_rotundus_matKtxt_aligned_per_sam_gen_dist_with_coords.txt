@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cyperus_rotundus	KY386843.1	09-MAY-2017	645	India: Corbett National Park	primary	matK	30.2372290128432	79.4570694479006	0
+Cyperus_rotundus	KY386842.1	09-MAY-2017	823	India: Corbett National Park	primary	matK	29.4902742798917	77.9261328111424	0.000243013365735115
+Cyperus_rotundus	KY386835.1	09-MAY-2017	769	India: Chennai	primary	matK	12.9907	80.1859	0.000260078023407022
+Cyperus_rotundus	MN492681.1	30-NOV-2021	831	China	secondary	matK	35.0687781008264	104.547227710861	0.000745809835744079
+Cyperus_rotundus	MN450924.1	30-NOV-2021	791	China	secondary	matK	35.5999828289177	105.328598298168	0
+Cyperus_rotundus	LC628673.1	28-OCT-2021	843	Japan:Kochi, Inocho	secondary	matK	33.5680384	133.5394221	0.000242718446601942

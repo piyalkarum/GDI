@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxybasis_rubra	MG249329.1	21-JAN-2018	553	Canada: Northwest Territories, Mackenzie District. Near Hook Lake, 3 mi East of Slave River	primary	rbcL	60.717	-112.833	0.00072463768115942
+Oxybasis_rubra	MG246027.1	21-JAN-2018	552	Canada: Yukon Territory, Fox Creek saline flat, 600 m south of Fox Creek km 227 on east side of North Klondike Highway	primary	rbcL	61.093	-135.279	0.00072463768115942
+Oxybasis_rubra	KX678438.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Okanagan Valley, south of Oliver, south shore of Deadman Lake, drying mud-caked shore	primary	rbcL	49.092	-119.554	0.00366738996490664
+Oxybasis_rubra	JN892679.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.53	-3.19	0.000739371534195933
+Oxybasis_rubra	JN892909.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000739371534195933
+Oxybasis_rubra	JN892908.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.000739371534195933

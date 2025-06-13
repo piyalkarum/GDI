@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_rostrata	MG228184.1	23-JAN-2018	552	USA: Washington, Snohomish Co, Former site of Big Four Inn, 3 mi SE of Silverton	primary	rbcL	48.0681	-121.064	0
+Carex_rostrata	MG226645.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, st George's Dist, Sern Long Range Mts, Bottom Brook, Third Pond, NE corner at mouth of inlet, on N side	primary	rbcL	48.5415	-58.213	0
+Carex_rostrata	JN891053.1	07-MAR-2012	542	United Kingdom: Sutherland, West (108)	primary	rbcL	58.29	-4.44	0
+Carex_rostrata	MW010900.1	27-JUL-2021	506	Canada: Manitoba	secondary	rbcL	55.001251	-97.001038	0
+Carex_rostrata	MG227816.1	23-JAN-2018	552	Canada: Manitoba, Hwy 208, N of Sprague Lk, 0.4 mi N of Premier Peat operation	secondary	rbcL	50.9959116	-98.7987473049144	0
+Carex_rostrata	MG225643.1	23-JAN-2018	552	USA: Alaska, 7 mi NE of Wasilla, 1 mile N along trl going N from Starwood Drive (off Pamela Drive)	secondary	rbcL	39.4703246	-86.6413912	0
+Carex_rostrata	GQ469851.1	11-JAN-2010	1408	Spain: Lerida, Aran Valley	secondary	rbcL	41.6147605	0.6267842	0
+Carex_rostrata	JN893766.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Carex_rostrata	JN893765.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

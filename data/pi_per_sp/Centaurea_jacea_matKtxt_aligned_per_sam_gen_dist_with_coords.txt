@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_jacea	MG224963.1	21-JAN-2018	786	Canada: Ontario, Wellington County, Puslinch Township, Little Tract, 500m north of South entrance (County Road 34)	primary	matK	43.449	-80.247	0.00128462309885383
+Centaurea_jacea	HQ593227.1	09-NOV-2011	808	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., 10 m from E edge of pond in wet trough	primary	matK	44.035	-79.518	0.00248249542366692
+Centaurea_jacea	KT249956.1	09-AUG-2015	820	Germany	secondary	matK	35.4417685542006	-83.1056854277596	0.00341997971580358
+Centaurea_jacea	KT249955.1	09-AUG-2015	820	Austria	secondary	matK	36.9148511	-4.7534501	0.00463612517111075
+Centaurea_jacea	KT249954.1	09-AUG-2015	820	Germany	secondary	matK	34.1059376985798	-83.0314764624985	0.00124974331252676
+Centaurea_jacea	KT249953.1	09-AUG-2015	820	Germany	secondary	matK	35.023671837118	-83.7458265871456	0.00124974331252676
+Centaurea_jacea	KJ204455.1	29-JAN-2015	843	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00294409073251361
+Centaurea_jacea	KC969486.1	30-NOV-2013	981	USA	secondary	matK	39.7837304	-100.445882	0.00103666452401659
+Centaurea_jacea	HE970687.1	18-SEP-2012	811	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.000996573035556271

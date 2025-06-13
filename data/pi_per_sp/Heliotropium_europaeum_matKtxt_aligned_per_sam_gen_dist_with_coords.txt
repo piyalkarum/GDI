@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Heliotropium_europaeum	MF694856.1	16-SEP-2018	809	Pakistan: Punjab, Cholistan Desert, Chananpir	primary	matK	28.58	71.42	0.0414588971461926
+Heliotropium_europaeum	MT917582.1	03-MAR-2023	768	China	secondary	matK	34.6150966275715	104.632653136424	0.0322339526217982
+Heliotropium_europaeum	MT917581.1	03-MAR-2023	794	China	secondary	matK	34.6288535068257	104.096388861792	0.0331306922623136
+Heliotropium_europaeum	KY764579.1	20-FEB-2019	828	Pakistan	secondary	matK	29.6577362048708	71.8939828162177	0.126613186355143
+Heliotropium_europaeum	KY764578.1	20-FEB-2019	810	Pakistan	secondary	matK	29.783241387635	70.6121414913843	0.0356828361307945
+Heliotropium_europaeum	MK125115.1	03-FEB-2019	548	Saudi Arabia: Makkah (Coast Road)	secondary	matK	22.6363744	39.0386503	0.0407816413930563

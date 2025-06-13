@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_fontanum	MH487956.1	20-JAN-2022	1958	Slovenia	secondary	trnL-trnF	46.3316135392696	13.6223408165578	0.000516528925619835
+Cerastium_fontanum	OQ326818.1	23-AUG-2023	944	China: Kanas, Xinjiang	secondary	trnL-trnF	49.1713511	87.7945375	0.000469924812030075
+Cerastium_fontanum	MH487954.1	20-JAN-2022	1958	Slovenia	secondary	trnL-trnF	45.9889400341476	15.6849589527584	0.000516528925619835
+Cerastium_fontanum	MH487953.1	20-JAN-2022	1958	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.000516528925619835
+Cerastium_fontanum	KF591315.1	27-OCT-2013	532	New Zealand	secondary	trnL-trnF	-41.5000831	172.8344077	0.00201951158888958

@@ -1,0 +1,87 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vaccinium_myrtillus	MZ393051.1	26-OCT-2022	680	Russia: Yakutia, Aldan district	primary	trnS-trnG	58.57247	126.1788	0.000437977496597693
+Vaccinium_myrtillus	MZ393050.1	26-OCT-2022	696	Russia: Yakutia, Aldan district	primary	trnS-trnG	58.61587	125.38941	0.000468036446807215
+Vaccinium_myrtillus	MZ393049.1	26-OCT-2022	702	Hungary: Heves county, Petervasara district	primary	trnS-trnG	47.91636	19.94983	0.000537110311071982
+Vaccinium_myrtillus	MZ393048.1	26-OCT-2022	701	Hungary: Borsod-Abauj-Zemplen county, Satoraljaujhely district	primary	trnS-trnG	48.42027	21.49027	0.00053728064655686
+Vaccinium_myrtillus	MZ393047.1	26-OCT-2022	691	Hungary: Heves county, Petervasara district	primary	trnS-trnG	47.90647	19.95788	0.00135715425188135
+Vaccinium_myrtillus	MZ393046.1	26-OCT-2022	701	Poland: Krosno county, Gmina Dukla district	primary	trnS-trnG	49.4251	21.69055	0.00053728064655686
+Vaccinium_myrtillus	MZ393044.1	26-OCT-2022	699	Russia: Leningrad region, Lodeynoe Pole district	primary	trnS-trnG	60.64818	33.19915	0.000537722495859353
+Vaccinium_myrtillus	MZ393043.1	26-OCT-2022	701	Spain: Leon, Marana	primary	trnS-trnG	43.08372	-5.21873	0.00053728064655686
+Vaccinium_myrtillus	MZ393042.1	26-OCT-2022	701	Spain: Asturias, Caso	primary	trnS-trnG	43.12251	-5.30942	0.00053728064655686
+Vaccinium_myrtillus	MZ393041.1	26-OCT-2022	702	Russia: Krasnodar region, Tuapse district	primary	trnS-trnG	44.11407	39.58235	0.000536894195517145
+Vaccinium_myrtillus	MZ393040.1	26-OCT-2022	701	Russia: Murmansk region, Tersky district	primary	trnS-trnG	66.54991	34.5679	0.00053728064655686
+Vaccinium_myrtillus	MZ393039.1	26-OCT-2022	701	Russia: Murmansk region, Teriberka district	primary	trnS-trnG	69.22777	35.23058	0.00053728064655686
+Vaccinium_myrtillus	MZ393038.1	26-OCT-2022	701	Russia: Murmansk region, Teriberka district	primary	trnS-trnG	69.19197	35.5599	0.00053728064655686
+Vaccinium_myrtillus	MZ393037.1	26-OCT-2022	701	Slovenia: Ljubljana region, Sostro district	primary	trnS-trnG	46.02871	14.61221	0.00053728064655686
+Vaccinium_myrtillus	MZ393036.1	26-OCT-2022	695	Russia: Krasnodar region, Adler district	primary	trnS-trnG	43.63333	40.28611	0.000468089826306875
+Vaccinium_myrtillus	MZ393035.1	26-OCT-2022	683	Russia: Krasnodar region, Sochi district	primary	trnS-trnG	43.65954	40.43727	0.00041916242366791
+Vaccinium_myrtillus	MZ393034.1	26-OCT-2022	689	Russia: Leningrad region, Lodeynoe Pole district	primary	trnS-trnG	60.6767	33.99798	0.000469515632981829
+Vaccinium_myrtillus	MZ393033.1	26-OCT-2022	688	Russia: Karachay-Cherkessia, Karachayevsk district	primary	trnS-trnG	43.28999	41.61081	0.000434934887417859
+Vaccinium_myrtillus	MZ393032.1	26-OCT-2022	694	Russia: North Ossetia, Alagir district	primary	trnS-trnG	42.80093	43.94337	0.00152330893669548
+Vaccinium_myrtillus	MZ393031.1	26-OCT-2022	672	Russia: Karelia, Loukhi district	primary	trnS-trnG	61.63207	31.14158	0.000315711732787716
+Vaccinium_myrtillus	MZ393030.1	26-OCT-2022	686	Sweden: Skane county, Perstorp	primary	trnS-trnG	56.20417	13.39467	0.000471073329105536
+Vaccinium_myrtillus	MZ393029.1	26-OCT-2022	691	Sweden: Kalmar county, Vimmerby	primary	trnS-trnG	57.5857	16.062	0.000469015602083791
+Vaccinium_myrtillus	MZ393028.1	26-OCT-2022	676	Croatia: Zagreb counte, Jakovlje	primary	trnS-trnG	46.1465247930694	16.0487530364344	0.000476922237608893
+Vaccinium_myrtillus	MZ393027.1	26-OCT-2022	666	Croatia: Zagreb counte, Jakovlje	primary	trnS-trnG	45.8172201218384	14.9943841848969	0.000409077083759105
+Vaccinium_myrtillus	MZ393026.1	26-OCT-2022	666	Croatia: Zagreb counte, Jakovlje	primary	trnS-trnG	45.3605972051716	15.9605111418666	0.000409077083759105
+Vaccinium_myrtillus	MZ393025.1	26-OCT-2022	673	Romania: Alba county, Fegbonlaus	primary	trnS-trnG	46.4891	22.81174	0.000442580344227681
+Vaccinium_myrtillus	MZ393024.1	26-OCT-2022	666	Italy: Emilia-Romagna, Corno Alle Scale	primary	trnS-trnG	44.12264	10.83018	0.000409077083759105
+Vaccinium_myrtillus	MZ393023.1	26-OCT-2022	676	Russia: Marii El republic, Zvenigovo district	primary	trnS-trnG	56.44925	47.52074	0.000403936973419672
+Vaccinium_myrtillus	MZ393022.1	26-OCT-2022	675	Russia: Marii El republic, Zvenigovo district	primary	trnS-trnG	55.98672	48.09195	0.000477128500258595
+Vaccinium_myrtillus	MZ393021.1	26-OCT-2022	676	Russia: Krasnodar region, Tuapse district	primary	trnS-trnG	44.10685	39.45489	0.00047719215210283
+Vaccinium_myrtillus	MZ393020.1	26-OCT-2022	687	Russia: Arkhangelsk region, Pinega district	primary	trnS-trnG	66.34336	33.6771	0.000435303888356799
+Vaccinium_myrtillus	MZ393019.1	26-OCT-2022	672	Austria: Wiener Hausberge, Rax	primary	trnS-trnG	47.1617623216537	16.7272337856559	0.000479731049214043
+Vaccinium_myrtillus	MZ393018.1	26-OCT-2022	457	Austria: Wiener Hausberge, Rax	primary	trnS-trnG	48.0987985001597	15.5733299512941	0.00255094692188899
+Vaccinium_myrtillus	MZ393017.1	26-OCT-2022	670	Austria: Lower Austrian Limestone Alps, Rothwald	primary	trnS-trnG	47.77476	15.09225	0.00139328342763778
+Vaccinium_myrtillus	MZ393016.1	26-OCT-2022	599	Austria: Waldviertel, Giesshubl	primary	trnS-trnG	48.31996	15.36356	0.000470933823688748
+Vaccinium_myrtillus	MZ393015.1	26-OCT-2022	666	Germany: Berchtesgaden, Hintersee	primary	trnS-trnG	47.7959025170943	12.5232620902848	0.000409077083759105
+Vaccinium_myrtillus	MZ393014.1	26-OCT-2022	660	Germany: Berchtesgaden, Hintersee	primary	trnS-trnG	47.2698360662331	11.7225029772308	0.000338536691933603
+Vaccinium_myrtillus	MZ393013.1	26-OCT-2022	658	Germany: Berchtesgaden, Hintersee	primary	trnS-trnG	46.9868148350675	13.2122939767697	0.000320874879456152
+Vaccinium_myrtillus	MZ393012.1	26-OCT-2022	666	Slovakia: Slovensky Kras, Borka	primary	trnS-trnG	48.4732277559965	21.1698924234137	0.000409077083759105
+Vaccinium_myrtillus	MZ393011.1	26-OCT-2022	625	Slovakia: Slovensky Kras, Borka	primary	trnS-trnG	49.0720358717045	21.5026559145928	0.000334262767853643
+Vaccinium_myrtillus	MZ393010.1	26-OCT-2022	597	Slovakia: Slovensky Kras, Borka	primary	trnS-trnG	49.3559148081801	20.1887282651758	0.000327218856226942
+Vaccinium_myrtillus	MZ393009.1	26-OCT-2022	609	United Kingdom: Scotland, Argyll and Bute	primary	trnS-trnG	56.46532	-4.72262	0.000321830044196883
+Vaccinium_myrtillus	MZ393008.1	26-OCT-2022	596	Russia: Novosibirsk region, Ordynskoye district	primary	trnS-trnG	54.16667	81.5	0.000347141528396151
+Vaccinium_myrtillus	MZ393007.1	26-OCT-2022	593	Russia: Krasnoyarsk region, Turukhansk district	primary	trnS-trnG	62.30167	89.02111	0.000348660684427932
+Vaccinium_myrtillus	MZ393006.1	26-OCT-2022	659	Russia: Arkhangelsk region, Pinega district	primary	trnS-trnG	64.21627	44.26229	0.000320486590809959
+Vaccinium_myrtillus	MZ393005.1	26-OCT-2022	625	Russia: Altai republic, Turochak district	primary	trnS-trnG	51.79	87.25	0.000334393836604397
+Vaccinium_myrtillus	MZ393004.1	26-OCT-2022	638	Russia: North Ossetia, Alagir district	primary	trnS-trnG	42.79742	43.93586	0.00158999610984224
+Vaccinium_myrtillus	MZ393003.1	26-OCT-2022	694	Russia: Arkhangelsk region, Pinega district	primary	trnS-trnG	64.71409	43.63061	0.000468403731236888
+Vaccinium_myrtillus	MZ393002.1	26-OCT-2022	629	Georgia: Racha-Lechkhumi and Kvemo Svaneti, Oni district	primary	trnS-trnG	42.709	43.786	0.000371701740366693
+Vaccinium_myrtillus	MZ393001.1	26-OCT-2022	507	Russia: Karachay-Cherkessia, Karachayevsk district	primary	trnS-trnG	43.25344	41.70059	0.00175188852746257
+Vaccinium_myrtillus	MZ393000.1	26-OCT-2022	694	Russia: Murmansk region, Kandalaksha district	primary	trnS-trnG	67.17102	32.79528	0.000468403731236888
+Vaccinium_myrtillus	MZ392999.1	26-OCT-2022	692	Russia: Murmansk region, Kandalaksha district	primary	trnS-trnG	66.70986	32.6413	0.000468708800406262
+Vaccinium_myrtillus	MZ392998.1	26-OCT-2022	696	Russia: Tver region, Nelidovo district	primary	trnS-trnG	56.44856	32.89888	0.000485056731468835
+Vaccinium_myrtillus	MZ392997.1	26-OCT-2022	690	Russia: Leningrad region, Luga district	primary	trnS-trnG	58.98047	29.82667	0.000469213000617861
+Vaccinium_myrtillus	MZ392996.1	26-OCT-2022	694	Russia: Vologda region, Kirillov district	primary	trnS-trnG	60.66094	38.90206	0.000468335283108205
+Vaccinium_myrtillus	MZ392995.1	26-OCT-2022	700	Russia: Moscow region, Istra district	primary	trnS-trnG	55.867	36.85033	0.000537355321140677
+Vaccinium_myrtillus	MZ392994.1	26-OCT-2022	689	Russia: Moscow region, Serpukhov district	primary	trnS-trnG	54.84567	37.78553	0.000469515632981829
+Vaccinium_myrtillus	MZ392993.1	26-OCT-2022	704	Russia: Dagestan, Tsunta district	primary	trnS-trnG	41.5568427271524	45.4844893980653	0.00152064425080541
+Vaccinium_myrtillus	MZ392992.1	26-OCT-2022	704	Russia: Dagestan, Tsunta district	primary	trnS-trnG	42.3122559164532	47.1716579837058	0.00152064425080541
+Vaccinium_myrtillus	MZ392991.1	26-OCT-2022	704	Russia: Dagestan, Tsunta district	primary	trnS-trnG	42.6595912260782	45.3427472727393	0.00152064425080541
+Vaccinium_myrtillus	MZ392990.1	26-OCT-2022	704	Russia: Dagestan, Tsunta district	primary	trnS-trnG	42.5081062806209	45.0392028470014	0.00152064425080541
+Vaccinium_myrtillus	MZ392989.1	26-OCT-2022	694	Russia: Tver region, Udomlya district	primary	trnS-trnG	57.96536	35.33185	0.000468335283108205
+Vaccinium_myrtillus	MZ392988.1	26-OCT-2022	686	Russia: Tver region, Udomlya district	primary	trnS-trnG	57.8422	34.74507	0.000470374483523828
+Vaccinium_myrtillus	MZ392987.1	26-OCT-2022	687	Russia: Karelia, Loukhi district	primary	trnS-trnG	66.37708	33.72384	0.000470123567712616
+Vaccinium_myrtillus	MZ392986.1	26-OCT-2022	693	Russia: Karelia, Loukhi district	primary	trnS-trnG	66.41244	33.64653	0.000468512256411301
+Vaccinium_myrtillus	MZ392985.1	26-OCT-2022	689	Russia: Komi republic, Ukhta district	primary	trnS-trnG	64.2661	52.64497	0.00046962060700659
+Vaccinium_myrtillus	MZ392984.1	26-OCT-2022	692	Russia: Tuva republic, Erzin district	primary	trnS-trnG	50.6357	95.78445	0.000468708800406262
+Vaccinium_myrtillus	MZ392983.1	26-OCT-2022	695	Russia: Tuva republic, Erzin district	primary	trnS-trnG	50.63107	95.82941	0.00048525271170064
+Vaccinium_myrtillus	MZ392982.1	26-OCT-2022	622	Russia: Komi republic, Sosnogorsk district	primary	trnS-trnG	63.64552	53.87238	0.000659138089861782
+Vaccinium_myrtillus	MZ392981.1	26-OCT-2022	565	Slovenia: Upper Carniola, Bled district	primary	trnS-trnG	46.39906	14.07784	0.000346902497274246
+Vaccinium_myrtillus	MZ392980.1	26-OCT-2022	700	Russia: Adygea, Maykop district	primary	trnS-trnG	44.0543	40.40828	0.00048430370300532
+Vaccinium_myrtillus	MZ392979.1	26-OCT-2022	704	Russia: Krasnodar region, Mostovskoy district	primary	trnS-trnG	44.0220648005802	40.4193570278649	0.000536867287923754
+Vaccinium_myrtillus	MZ392978.1	26-OCT-2022	698	Russia: Krasnodar region, Mostovskoy district	primary	trnS-trnG	43.3071381564013	40.2104465100177	0.00138731948921295
+Vaccinium_myrtillus	MZ392977.1	26-OCT-2022	704	Armenia: Tavush province, Dilizhan district	primary	trnS-trnG	41.5817201402419	44.4735666530916	0.00158954839197318
+Vaccinium_myrtillus	MZ392976.1	26-OCT-2022	695	Armenia: Tavush province, Dilizhan district	primary	trnS-trnG	40.0618531148828	45.3549450153128	0.00152306275877638
+Vaccinium_myrtillus	MZ392975.1	26-OCT-2022	694	Armenia: Tavush province, Dilizhan district	primary	trnS-trnG	41.0224048314218	43.9534732139423	0.00152341856152823
+Vaccinium_myrtillus	MZ392974.1	26-OCT-2022	702	Armenia: Kotayk province, Meghradzor district	primary	trnS-trnG	40.67954	44.4999	0.00158988814356591
+Vaccinium_myrtillus	MZ392973.1	26-OCT-2022	664	Armenia: Kotayk province, Meghradzor district	primary	trnS-trnG	40.3308524778861	44.2452613001418	0.00149421406480536
+Vaccinium_myrtillus	MZ392972.1	26-OCT-2022	659	Armenia: Kotayk province, Meghradzor district	primary	trnS-trnG	40.3503286747692	43.4550379283993	0.00144170051809854
+Vaccinium_myrtillus	MZ392971.1	26-OCT-2022	704	Russia: Kirov region, outskirts of Kirov city	primary	trnS-trnG	58.0664151558682	50.8365697675172	0.000465049160656552
+Vaccinium_myrtillus	MZ392970.1	26-OCT-2022	691	Russia: Kirov region, outskirts of Kirov city	primary	trnS-trnG	58.2991654594127	50.7369490770116	0.000468911253048422
+Vaccinium_myrtillus	MZ392967.1	26-OCT-2022	704	Russia: Bashkiria, Duvansky district	primary	trnS-trnG	56.1951527545866	56.8380625031678	0.000465049160656552
+Vaccinium_myrtillus	MZ392966.1	26-OCT-2022	704	Russia: Bashkiria, Duvansky district	primary	trnS-trnG	56.030138473389	59.1182445562871	0.000465049160656552
+Vaccinium_myrtillus	MZ392965.1	26-OCT-2022	704	Russia: Bashkiria, Duvansky district	primary	trnS-trnG	56.200015488099	57.1315756883313	0.000465049160656552
+Vaccinium_myrtillus	MZ392964.1	26-OCT-2022	699	Russia: Murmansk region, Kandalaksha district	primary	trnS-trnG	67.10232	32.72027	0.00046742726904469
+Vaccinium_myrtillus	DQ073200.1	04-JUL-2005	672	France: V. myrtillus, Rhone-Alpes, Isere, Belledonne, Chamrousse	primary	trnS-trnG	45.12	5.9	0.0130632818894694

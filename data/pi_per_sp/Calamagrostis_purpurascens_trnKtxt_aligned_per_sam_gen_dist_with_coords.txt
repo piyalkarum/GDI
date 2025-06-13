@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_purpurascens	OL540183.1	16-AUG-2022	727	USA	secondary	trnK	39.9047261831249	-101.346054665628	0.27188936554894
+Calamagrostis_purpurascens	OL540182.1	16-AUG-2022	727	USA	secondary	trnK	39.3135336449606	-101.032218304923	0.272302359712168
+Calamagrostis_purpurascens	OL540181.1	16-AUG-2022	727	Canada	secondary	trnK	60.6462767602319	-107.950197494059	0.272302359712168
+Calamagrostis_purpurascens	LR606850.1	25-JAN-2021	2144	Canada	secondary	trnK	61.0670909745789	-106.729775685016	0.406203840472674
+Calamagrostis_purpurascens	LT222486.1	21-APR-2018	772	USA	secondary	trnK	39.2929221363778	-100.211344488748	0.408914728682171

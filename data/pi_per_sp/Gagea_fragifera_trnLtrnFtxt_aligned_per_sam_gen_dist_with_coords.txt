@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_fragifera	LT985773.1	14-JUN-2019	206	Kazakhstan	secondary	trnL-trnF	47.4653314988877	67.4076395017603	0
+Gagea_fragifera	LT985772.1	14-JUN-2019	206	Kazakhstan	secondary	trnL-trnF	47.390963266307	66.6036440791165	0
+Gagea_fragifera	LT985771.1	14-JUN-2019	206	Kazakhstan	secondary	trnL-trnF	48.1683793377321	65.6662748569013	0
+Gagea_fragifera	LT985770.1	14-JUN-2019	211	Kazakhstan	secondary	trnL-trnF	48.3524919414927	66.857309681795	0
+Gagea_fragifera	LT985769.1	14-JUN-2019	206	Kazakhstan	secondary	trnL-trnF	48.5275249179784	67.1267443637175	0
+Gagea_fragifera	LT985768.1	14-JUN-2019	208	Morocco	secondary	trnL-trnF	28.3347722	-10.3713379	0
+Gagea_fragifera	LT985767.1	14-JUN-2019	208	Italy	secondary	trnL-trnF	42.1790470399929	12.164040682316	0
+Gagea_fragifera	FN868225.1	10-JAN-2012	208	Italy:Piemonte, Valle di Bellino, Cuneo, sopra Rif. Meleze	secondary	trnL-trnF	42.7740801	12.5487676	0
+Gagea_fragifera	FN868223.1	10-JAN-2012	208	France:Alpes-Maritimes	secondary	trnL-trnF	43.9210587	7.1790785	0
+Gagea_fragifera	FN868226.1	30-NOV-2011	213	China:Xinjiang, Tianchi Lake	secondary	trnL-trnF	44.2071839139988	88.630334424907	0
+Gagea_fragifera	AM283103.1	23-JUN-2006	295	Italy	secondary	trnL-trnF	42.4918905059977	11.7676328636705	0.00364547732968786
+Gagea_fragifera	AM283102.1	23-JUN-2006	296	Italy:Sicily	secondary	trnL-trnF	37.587794	14.155048	0.00362976406533575
+Gagea_fragifera	FN868222.1	10-JAN-2012	206	Italy:Dolomiti di Brenta, Malga Massodi	secondary	trnL-trnF	45.9350844667009	11.1981457458117	0
+Gagea_fragifera	FN868221.1	10-JAN-2012	206	Italy:Dolomiti di Brenta, Malga Massodi	secondary	trnL-trnF	46.4774045699677	10.889437898495	0
+Gagea_fragifera	FN868228.1	30-NOV-2011	213	China:Xinjiang, Tianchi Lake	secondary	trnL-trnF	44.3930161609423	87.5641071222666	0
+Gagea_fragifera	FN868227.1	30-NOV-2011	213	China:Xinjiang, Tianchi Lake	secondary	trnL-trnF	43.5526967737455	87.6930775352173	0
+Gagea_fragifera	EU912309.1	21-JUL-2009	744	Iran	secondary	trnL-trnF	32.956040625107	55.1695013950008	0.00218009834044628
+Gagea_fragifera	EU912275.1	21-JUL-2009	743	Iran	secondary	trnL-trnF	32.8160365081077	55.5818845118846	0.00217802219570348
+Gagea_fragifera	EU912274.1	21-JUL-2009	735	Iran	secondary	trnL-trnF	31.9502210519363	54.0966607501208	0.00232538966599824
+Gagea_fragifera	EU912273.1	21-JUL-2009	741	Iran	secondary	trnL-trnF	32.1558999900881	54.9506698602523	0.00218009834044628

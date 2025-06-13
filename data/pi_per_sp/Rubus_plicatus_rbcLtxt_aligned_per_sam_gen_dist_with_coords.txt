@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubus_plicatus	JN893026.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.58	-3.14	0
+Rubus_plicatus	JN892358.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0
+Rubus_plicatus	JN891407.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0
+Rubus_plicatus	FR865141.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0

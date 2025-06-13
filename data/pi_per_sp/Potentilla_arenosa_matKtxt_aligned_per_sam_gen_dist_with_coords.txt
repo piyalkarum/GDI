@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_arenosa	KC475455.1	25-OCT-2013	765	Canada: Northwest Territories, Banks Island, De Salis Bay	primary	matK	71.45	-121.867	0.000186741363211951
+Potentilla_arenosa	KC475454.1	25-OCT-2013	765	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East bank of Hornaday River	primary	matK	68.242	-121.85	0.000186741363211951
+Potentilla_arenosa	KC475453.1	25-OCT-2013	760	Canada: Nunavut, Ellesmere Island, John Richardson Bay	primary	matK	80.217	-72.633	0.00018796992481203
+Potentilla_arenosa	KC475452.1	25-OCT-2013	765	Canada: Northwest Territories, Victoria Island, Minto Inlet, Flat to gently sloping plateau E of junction of 3 rivers 6 km NE of head of Minto Inlet	primary	matK	71.66	-115.57	0.000186741363211951
+Potentilla_arenosa	KC475451.1	25-OCT-2013	765	Canada: Northwest Territories, Victoria Island, Minto Inlet, River valley at N head of Minto Inlet, ~ 3 km from Inlet	primary	matK	71.68	-115.492	0.000186741363211951
+Potentilla_arenosa	KC475450.1	25-OCT-2013	762	Canada: Yukon Territory, Ivvavik National Park, Ptarmigan Bay	primary	matK	69.483	-139.088	0.000187476565429321
+Potentilla_arenosa	KC475449.1	25-OCT-2013	765	Canada: Northwest Territories, Victoria Island, Minto Inlet, Coast on S side of river delta at head of N arm of Minto Inlet	primary	matK	71.631	-115.476	0.00122398445975489
+Potentilla_arenosa	KC475448.1	25-OCT-2013	765	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	matK	70.735	-117.761	0.000186741363211951
+Potentilla_arenosa	KC475447.1	25-OCT-2013	765	Canada: Northwest Territories, Victoria Island, Minto Inlet, River valley at head of N arm of Minto Inlet, willow thicket 1 km from inlet	primary	matK	71.552	-115.482	0.000186741363211951
+Potentilla_arenosa	KC475446.1	25-OCT-2013	762	Canada: Nunavut, Ellesmere Island, Alexandra Fiord	primary	matK	78.833	-76.417	0.000187476565429321
+Potentilla_arenosa	KC475445.1	25-OCT-2013	765	Canada: Northwest Territories, Victoria Island, Minto Inlet, Valley at the junction of 3 rivers 6 km NE of head of Minto Inlet	primary	matK	71.2412197048548	-115.109746389028	0.000186741363211951
+Potentilla_arenosa	KC475444.1	25-OCT-2013	765	Canada: Northwest Territories, Victoria Island, Minto Inlet, Valley downstream from the junction of 3 rivers 6 km NE of head of Minto Inlet	primary	matK	71.64	-115.531	0.000186741363211951
+Potentilla_arenosa	KC475443.1	25-OCT-2013	765	Canada: Northwest Territories, Victoria Island, Minto Inlet, Valley at the junction of 3 rivers 6 km NE of head of Minto Inlet	primary	matK	71.1758636244851	-116.287317022387	0.000186741363211951
+Potentilla_arenosa	KC475442.1	25-OCT-2013	765	Canada: Northwest Territories, Victoria Island, Minto Inlet, SE side of river valley at head of N arm of Minto Inlet, base of N facing cliffs	primary	matK	71.663	-115.402	0.00122398445975489
+Potentilla_arenosa	KC475441.1	25-OCT-2013	699	Canada: Nunavut, Victoria Island, Oterkvik Point, Camp 13 km north of Oterkvik Point, 10 km north of coast at Coronation Gulf, upper camp area	primary	matK	68.739	-112.625	0.000204373594931535

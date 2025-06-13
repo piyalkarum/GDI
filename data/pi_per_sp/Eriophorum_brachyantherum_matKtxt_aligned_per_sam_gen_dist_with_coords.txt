@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eriophorum_brachyantherum	KC474748.1	25-OCT-2013	777	Canada: Nunavut, Nunavut Mainland, Rankin Inlet, 0.5 km S of gravel pits by Meliadine esker at 55 K/16 437703, 7.5 km northwest of Rankin Inlet, Hudson Bay	primary	matK	62.858	-92.133	0.00147738367238692
+Eriophorum_brachyantherum	KC474747.1	25-OCT-2013	759	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.619	-115.493	0.000329380764163373
+Eriophorum_brachyantherum	KC474746.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.221	-116.408	0.000643500643500643
+Eriophorum_brachyantherum	KC474745.1	25-OCT-2013	670	Canada: Northwest Territories, Northwest Territories Mainland, Kelly Lake, East shore	primary	matK	65.483	-126.35	0.000373134328358209
+Eriophorum_brachyantherum	KC474744.1	25-OCT-2013	777	Canada: Nunavut, Nunavut Mainland, Rankin Inlet, 13 km NW of Rankin Inlet along Meliadine esker at 55 K/16 396758 at NE end Sik-sik' Lake, Meliadine River Park study area, Hudson Bay.'	primary	matK	62.917	-92.225	0.00147738367238692
+Eriophorum_brachyantherum	KR902916.1	29-MAY-2016	813	Canada: Quebec	secondary	matK	52.4760892	-71.8258668	0.0010905080093272
+Eriophorum_brachyantherum	KJ513602.1	06-SEP-2014	1289	Canada	secondary	matK	60.9342129694158	-106.34495118766	0.00302550296216544
+Eriophorum_brachyantherum	KJ513601.1	06-SEP-2014	1289	Canada	secondary	matK	61.2929850716179	-107.848638277086	0.00080662231554396
+Eriophorum_brachyantherum	KJ513600.1	06-SEP-2014	1289	Canada	secondary	matK	61.6798741997671	-108.240776546427	0.00080662231554396

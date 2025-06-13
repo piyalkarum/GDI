@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygonatum_verticillatum	OK148451.1	02-NOV-2021	625	India: Bhaderwah, J&K	primary	psbA-trnH	33.52656	75.43596	0.000676820888685296
+Polygonatum_verticillatum	OK148448.1	02-NOV-2021	590	India: Seoz Dhar, Bhaderwah, J&K	primary	psbA-trnH	32.54228	75.36346	0.000677966101694915
+Polygonatum_verticillatum	JN046422.1	13-DEC-2011	592	China	secondary	psbA-trnH	35.8600720021542	104.832317728704	0.000676820888685296
+Polygonatum_verticillatum	JN046421.1	13-DEC-2011	592	China	secondary	psbA-trnH	34.2219190249027	105.093328733657	0.00135249656436097
+Polygonatum_verticillatum	JN046420.1	13-DEC-2011	592	China	secondary	psbA-trnH	34.8986975407979	105.119058458483	0.000676820888685296
+Polygonatum_verticillatum	JN046419.1	13-DEC-2011	590	China	secondary	psbA-trnH	35.2916995733241	105.527159142301	0.00135593220338983

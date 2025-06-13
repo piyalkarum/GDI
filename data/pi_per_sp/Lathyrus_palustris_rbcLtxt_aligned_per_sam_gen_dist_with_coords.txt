@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_palustris	MG249574.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.11	-100.377	0.0111927054033057
+Lathyrus_palustris	MG247920.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	47.672	-100.11	0.0111927054033057
+Lathyrus_palustris	MG247695.1	21-JAN-2018	552	Canada: Ontario, Point Pelee, pioneer village, marsh path	primary	rbcL	41.6833	-82.6833	0.00317028985507246
+Lathyrus_palustris	MG247200.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Singing Sands, BPNP	primary	rbcL	45.192	-81.578	0.00317028985507246
+Lathyrus_palustris	MG246488.1	21-JAN-2018	552	Canada: Ontario, Norfolk County, Big Creek National Wildlife Area, Long Point	primary	rbcL	42.575	-80.47	0.00317028985507246
+Lathyrus_palustris	KX678414.1	29-APR-2017	552	Canada: British Columbia, Comox Regional District, Courtenay River, river estuary, behind the sawmill	primary	rbcL	49.699	-124.985	0.00317028985507246
+Lathyrus_palustris	JN891868.1	07-MAR-2012	542	United Kingdom: Caernarfonshire	primary	rbcL	51.43	-2.32	0.00323475046210721
+Lathyrus_palustris	JN890637.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00323475046210721
+Lathyrus_palustris	JN890636.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.00323475046210721

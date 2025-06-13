@@ -1,0 +1,27 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_versicolor	KC180987.1	28-OCT-2013	351	Macedonia: Galicica	primary	psbA-trnH	40.9954048692204	20.0144633788213	0.00501815221815222
+Campanula_versicolor	KC180986.1	28-OCT-2013	351	Macedonia: Galicica	primary	psbA-trnH	40.2736585224286	21.3768070623134	0.00501815221815222
+Campanula_versicolor	KC180985.1	28-OCT-2013	353	Macedonia: Veles	primary	psbA-trnH	41.0312850021662	22.5025592128897	0.00957301954157478
+Campanula_versicolor	KC180984.1	28-OCT-2013	352	Macedonia: Veles Vardar	primary	psbA-trnH	42.4723856690611	21.4563858600805	0.00957366337366337
+Campanula_versicolor	KC180983.1	28-OCT-2013	351	Serbia: Sar Planina Brod	primary	psbA-trnH	41.9653	20.7153	0.00501815221815222
+Campanula_versicolor	KC180960.1	28-OCT-2013	352	Macedonia: Demir Kapija	primary	psbA-trnH	40.6739323180701	22.1593456213321	0.00455680615680616
+Campanula_versicolor	KC180958.1	28-OCT-2013	351	Macedonia: Svilija Banjani	primary	psbA-trnH	42.1288	21.3878	0.00501815221815222
+Campanula_versicolor	KC180957.1	28-OCT-2013	351	Serbia: Prizren Dusanov Grad	primary	psbA-trnH	42.1964	20.6997	0.00456231176231176
+Campanula_versicolor	KC180956.1	28-OCT-2013	350	Bulgaria: Zemen	primary	psbA-trnH	43.0131962438732	22.6131830916983	0.0050305362259517
+Campanula_versicolor	KC180955.1	28-OCT-2013	351	Greece: Kastoria	primary	psbA-trnH	40.4621	21.1379	0.00524607244607245
+Campanula_versicolor	KC180954.1	28-OCT-2013	350	Bulgaria: Zemen	primary	psbA-trnH	42.6085326611774	22.4035236690252	0.0050305362259517
+Campanula_versicolor	KC180953.1	28-OCT-2013	351	Serbia: Prizren Dusanov Grad	primary	psbA-trnH	42.2007	20.7619	0.00456231176231176
+Campanula_versicolor	KC180952.1	28-OCT-2013	352	Macedonia: Veles	primary	psbA-trnH	41.6829353124943	20.9320963764014	0.00957366337366337
+Campanula_versicolor	KC180951.1	28-OCT-2013	350	Macedonia: Ohrid Pestani	primary	psbA-trnH	41.0109	20.8073	0.0050305362259517
+Campanula_versicolor	KC180950.1	28-OCT-2013	350	Macedonia: Skopje Matka	primary	psbA-trnH	41.8808	21.1937	0.00503250102333197
+Campanula_versicolor	KC180949.1	28-OCT-2013	350	Greece: Parnas	primary	psbA-trnH	38.5555	22.5741	0.00525812525583299
+Campanula_versicolor	KC180948.1	28-OCT-2013	351	Greece: Timfi Vikos	primary	psbA-trnH	39.8621	20.7756	0.00524607244607245
+Campanula_versicolor	KC180947.1	28-OCT-2013	352	Greece: Peloponnese Langadia	primary	psbA-trnH	37.6786	22.0175	0.00523959743959744
+Campanula_versicolor	KC180946.1	28-OCT-2013	351	Greece: Osa	primary	psbA-trnH	39.7933	22.6666	0.00524607244607245
+Campanula_versicolor	KC180945.1	28-OCT-2013	351	Greece: Pineios	primary	psbA-trnH	39.8781	22.5849	0.00525456044539139
+Campanula_versicolor	KC180944.1	28-OCT-2013	351	Greece: Giona	primary	psbA-trnH	38.6333	22.3768	0.00524607244607245
+Campanula_versicolor	KC180943.1	28-OCT-2013	353	Albania: Djalica	primary	psbA-trnH	41.9918	20.4233	0.00501135157990682
+Campanula_versicolor	KC180942.1	28-OCT-2013	352	Macedonia: Demir Kapija	primary	psbA-trnH	41.4043509593455	21.4176840664021	0.00455680615680616
+Campanula_versicolor	KC180941.1	28-OCT-2013	350	Italy: Otranto Serra Tricase	primary	psbA-trnH	39.8607	18.3923	0.00525812525583299
+Campanula_versicolor	KC180940.1	28-OCT-2013	352	Italy: Otranto Novaglie	primary	psbA-trnH	39.9116	18.3931	0.00523959743959744
+Campanula_versicolor	KC180939.1	28-OCT-2013	350	Greece: Olimp	primary	psbA-trnH	40.0931	22.3044	0.0052610724519034

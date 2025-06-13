@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stachys_palustris	JN966688.1	27-OCT-2012	679	Canada: Manitoba, Churchill, 3 km SE Churchill, pipeline, Forest along the pipe	primary	matK	58.747	-94.115	0.00105988341282459
+Stachys_palustris	JN894812.1	07-MAR-2012	776	United Kingdom: Glamorgan	primary	matK	51.74	-3.41	0.000892458723784025
+Stachys_palustris	JN895215.1	07-MAR-2012	758	United Kingdom: Glamorgan	secondary	matK	51.5942519920844	-3.04045697584161	0.00283184961242216
+Stachys_palustris	JN895214.1	07-MAR-2012	873	United Kingdom: Glamorgan	secondary	matK	51.4906355475478	-2.8668776112933	0.000879507475813544

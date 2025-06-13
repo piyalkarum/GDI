@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_medium	MG223011.1	26-DEC-2017	552	Canada: Jardin Pedagogique, Quebec	primary	rbcL	46	-71	0.351775264958031
+Campanula_medium	MG222236.1	26-DEC-2017	552	Canada: Guelph Arboretum	primary	rbcL	43.5485	-80.2503	0.351775264958031
+Campanula_medium	KX678196.1	29-APR-2017	552	Canada: British Columbia, Mount Waddington Regional District, Alert Bay, field near museum	primary	rbcL	50.583	-126.917	0.351775264958031
+Campanula_medium	MK556083.1	22-SEP-2019	347	China	secondary	rbcL	34.6183187729856	104.978615246534	0.576301380524329
+Campanula_medium	MK556002.1	22-SEP-2019	328	China	secondary	rbcL	35.5042949196279	105.788255770207	0.592645476848305
+Campanula_medium	MK555553.1	22-SEP-2019	357	China	secondary	rbcL	34.5976266445126	104.947101493736	0.587316149701471

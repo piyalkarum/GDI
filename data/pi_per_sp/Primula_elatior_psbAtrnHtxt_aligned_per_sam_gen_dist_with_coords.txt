@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Primula_elatior	JX231081.1	03-SEP-2012	416	Italy: Alps	secondary	psbA-trnH	46.1738963943786	9.93238985934449	0.111937842729482
+Primula_elatior	JX231080.1	03-SEP-2012	414	Romania: Piatra Craiului Mountains	secondary	psbA-trnH	45.9425953518513	26.1186034719552	0.113071542814793
+Primula_elatior	JX231079.1	03-SEP-2012	208	Austria: Alps	secondary	psbA-trnH	47.2318956918313	12.3329820384011	0.0280590771114455
+Primula_elatior	JX231078.1	03-SEP-2012	208	Austria: Alps	secondary	psbA-trnH	46.8009728430741	13.6879450380293	0.0280590771114455
+Primula_elatior	JX231077.1	03-SEP-2012	208	Slovenia: Alps	secondary	psbA-trnH	46.224243	13.6800995	0.0280590771114455
+Primula_elatior	JX231076.1	03-SEP-2012	208	Italy: Alps	secondary	psbA-trnH	46.3774207320102	10.1285778293389	0.0280590771114455
+Primula_elatior	JX231071.1	03-SEP-2012	208	Romania: Rodna Mountains	secondary	psbA-trnH	47.4468390976278	25.4423522189139	0.0280590771114455
+Primula_elatior	JX231070.1	03-SEP-2012	208	Romania: Rodna Mountains	secondary	psbA-trnH	47.4377833736209	24.0994792952439	0.0280590771114455
+Primula_elatior	JX231069.1	03-SEP-2012	208	Romania: Piatra Craiului Mountains	secondary	psbA-trnH	44.9815447790819	26.0417682851573	0.0280590771114455
+Primula_elatior	JX231067.1	03-SEP-2012	208	Romania	secondary	psbA-trnH	45.6022219	24.7340555	0.0280590771114455

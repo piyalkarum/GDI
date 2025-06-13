@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lactuca_serriola	LS991532.1	03-OCT-2018	419	USA:KS	secondary	ETS	38.27312	-98.5821872	0.00159108989657916
+Lactuca_serriola	LS975415.1	03-OCT-2018	419	USA:Maury Co., TN	secondary	ETS	36.1550620044013	-87.0188083899718	0.00159108989657916
+Lactuca_serriola	LS975414.1	03-OCT-2018	419	USA:Maury Co., TN	secondary	ETS	34.9376440124451	-87.0854085871768	0.00159108989657916
+Lactuca_serriola	LS975413.1	03-OCT-2018	419	Germany:Brandenburg. Odergebiet, NRand von Mallnow	secondary	ETS	52.3362346	9.17475546295642	0.00477326968973747

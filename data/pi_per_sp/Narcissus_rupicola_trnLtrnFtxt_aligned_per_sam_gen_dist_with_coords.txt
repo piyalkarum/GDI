@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_rupicola	KC145308.1	31-JAN-2014	917	Spain: Madrid	secondary	trnL-trnF	40.4167047	-3.7035825	0.0142774610166727
+Narcissus_rupicola	AY490192.1	16-DEC-2003	367	Spain: Cuenca, Grado de Pico	secondary	trnL-trnF	39.9976837447466	-2.08091273609983	0.0102179836512262
+Narcissus_rupicola	AY490191.1	16-DEC-2003	367	Spain: Cuenca, Grado de Pico	secondary	trnL-trnF	40.0686390978693	-2.85989631557191	0.00817438692098093
+Narcissus_rupicola	AY490190.1	16-DEC-2003	369	Spain: Madrid, Sierra de la Cabrera	secondary	trnL-trnF	40.8809255	-3.6234595	0.00951462189808487
+Narcissus_rupicola	AY490189.1	16-DEC-2003	369	Morocco: Oukaimeden	secondary	trnL-trnF	31.205279	-7.8613235	0.0095238271531809

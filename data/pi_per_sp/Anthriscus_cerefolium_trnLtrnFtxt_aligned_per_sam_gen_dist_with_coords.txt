@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthriscus_cerefolium	KY710810.1	25-FEB-2018	314	Turkey: Amasya	secondary	trnL-trnF	40.6299735374395	36.4611478627513	0.00995222929936306
+Anthriscus_cerefolium	KY710809.1	25-FEB-2018	314	Turkey: Amasya	secondary	trnL-trnF	41.1376507497984	36.692754764679	0.0111464968152866
+Anthriscus_cerefolium	KY710808.1	25-FEB-2018	314	Turkey: Isparta	secondary	trnL-trnF	37.9465412	30.9602093	0.0111464968152866
+Anthriscus_cerefolium	KY710807.1	25-FEB-2018	314	Turkey: Eskisehir	secondary	trnL-trnF	39.7743941	30.519116	0.0111464968152866
+Anthriscus_cerefolium	KY710806.1	25-FEB-2018	314	Turkey: Aksaray	secondary	trnL-trnF	38.4326291	33.8976963	0.0131369426751592
+Anthriscus_cerefolium	KY710805.1	25-FEB-2018	314	Turkey: Amasya	secondary	trnL-trnF	41.4941152048449	36.0023935708794	0.0111464968152866
+Anthriscus_cerefolium	KY710804.1	25-FEB-2018	314	Turkey: Konya	secondary	trnL-trnF	37.872734	32.4924376	0.0111464968152866
+Anthriscus_cerefolium	KY710803.1	25-FEB-2018	314	Turkey: Erzincan	secondary	trnL-trnF	39.6073429	39.2013209	0.0111464968152866
+Anthriscus_cerefolium	AF432022.1	11-NOV-2001	944	USA: Ohio	secondary	trnL-trnF	40.2253569	-82.6881395	0.0477707006369427

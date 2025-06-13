@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Soldanella_alpina	KJ365422.1	25-MAY-2014	950	Austria: Styria, Mariazell, Seewiesen, Hochschwab	primary	ndhJ	47.61	15.21	0.00571818656837549
+Soldanella_alpina	KJ365421.1	25-MAY-2014	432	Austria: Tyrol, Lienzer Dolomitenstrasse	primary	ndhJ	46.79	12.78	NA
+Soldanella_alpina	KJ365420.1	25-MAY-2014	515	Austria: Carinthia, Hochobir, Eisenkappeler Huette	primary	ndhJ	46.5	14.5	NA
+Soldanella_alpina	KJ365419.1	25-MAY-2014	955	Austria: Salzburg, Dachstein, Filzmoos	primary	ndhJ	47.47	13.53	0.00364273754352222

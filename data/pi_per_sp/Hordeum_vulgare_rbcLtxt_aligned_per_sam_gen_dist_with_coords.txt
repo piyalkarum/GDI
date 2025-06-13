@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hordeum_vulgare	MG227959.1	23-JAN-2018	552	Canada: Ontario, Thunder Bay Dist., Vicinity of Peninsula, Heron Bay.	primary	rbcL	48.75	-86.25	0.00414450324338894
+Hordeum_vulgare	MG227412.1	23-JAN-2018	552	Canada: Ontario, Thunder Bay Dist., Thunder Bay City, near mouth of Kaministiquia River, right bank of Mission River, just behind elevator.	primary	rbcL	48.367	-89.233	0.00108010241716447
+Hordeum_vulgare	OR670319.1	06-NOV-2023	566	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00640256721168853
+Hordeum_vulgare	MW580952.1	06-JUL-2021	542	India	secondary	rbcL	22.3511148	78.6677428	0.00501027820907319
+Hordeum_vulgare	KP210988.1	31-AUG-2017	1274	China: Fuyun	secondary	rbcL	46.7504829	89.2188372	0.00175474962422284
+Hordeum_vulgare	KU195717.1	02-MAY-2016	558	Egypt	secondary	rbcL	26.2540493	29.2675469	0.00124414205779343
+Hordeum_vulgare	KJ606365.1	28-JUN-2014	553	China	secondary	rbcL	35.4427250931113	105.714849960647	0.00107947523771588
+Hordeum_vulgare	KJ606364.1	28-JUN-2014	553	China	secondary	rbcL	34.5961107643797	104.758532334755	0.00107947523771588
+Hordeum_vulgare	KJ606363.1	28-JUN-2014	553	China	secondary	rbcL	34.8298019429168	105.969672600927	0.00107947523771588
+Hordeum_vulgare	KJ606362.1	28-JUN-2014	553	China	secondary	rbcL	34.1562118460731	105.170905047774	0.00107947523771588
+Hordeum_vulgare	KJ606361.1	28-JUN-2014	553	China	secondary	rbcL	35.7248810225323	104.937001247458	0.00107947523771588
+Hordeum_vulgare	KJ606360.1	28-JUN-2014	553	China	secondary	rbcL	34.9200631083493	105.902774526002	0.00107947523771588
+Hordeum_vulgare	HQ600432.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.0021327150126227

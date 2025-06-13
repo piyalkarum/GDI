@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arenaria_serpyllifolia	HQ593179.1	09-NOV-2011	782	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Gravelly mound E of racetrack	primary	matK	44.033	-79.538	0.00406093501304673
+Arenaria_serpyllifolia	JN895223.1	07-MAR-2012	774	United Kingdom: Glamorgan	primary	matK	51.57	-3.97	0.00413722091352208
+Arenaria_serpyllifolia	OQ172321.1	18-JUN-2023	776	South Korea	secondary	matK	37.1884934613301	127.601600430078	0.00394006461926115
+Arenaria_serpyllifolia	OQ172320.1	18-JUN-2023	776	South Korea	secondary	matK	37.1458597260325	126.931537024325	0.00515581398881563
+Arenaria_serpyllifolia	OQ172319.1	18-JUN-2023	776	South Korea	secondary	matK	36.9981246407928	128.113182567872	0.00394006461926115
+Arenaria_serpyllifolia	MT917857.1	03-MAR-2023	766	China	secondary	matK	34.5671536518692	104.858308004445	0.0471726087201536
+Arenaria_serpyllifolia	MH551807.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.6814498	-81.9683386867758	0.00414780514467471
+Arenaria_serpyllifolia	MN273642.1	30-NOV-2021	774	China	secondary	matK	35.0739590585109	105.12960790225	0.00396624979958313
+Arenaria_serpyllifolia	MN273641.1	30-NOV-2021	774	China	secondary	matK	35.4286501783637	104.640919677259	0.00395058067030619
+Arenaria_serpyllifolia	FJ869016.1	01-JUN-2011	704	France: Col St Anne	secondary	matK	18.0819479	-63.0646952	0.00410264852209541
+Arenaria_serpyllifolia	KJ204441.1	29-JAN-2015	829	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00423961846388913
+Arenaria_serpyllifolia	JN895833.1	07-MAR-2012	798	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00402383740231308
+Arenaria_serpyllifolia	JN895089.1	07-MAR-2012	790	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.00393503486033318

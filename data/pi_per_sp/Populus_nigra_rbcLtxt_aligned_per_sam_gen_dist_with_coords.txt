@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Populus_nigra	KT695584.1	29-SEP-2015	503	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00292247117419441
+Populus_nigra	KJ841494.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 50-100 metres uphill from research station, 5 metres east of small trail	primary	rbcL	45.536	-73.1488	0.00265984168017125
+Populus_nigra	JX571882.1	04-SEP-2013	552	Egypt: Alexandria, Smouha, Antoniades gardens	primary	rbcL	31.205	29.948	0.00265984168017125
+Populus_nigra	JN891372.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.6	-2.99	0.00271103273147197
+Populus_nigra	MH574075.1	09-DEC-2020	553	China	secondary	rbcL	35.000074	104.999927	0.00265681773658594
+Populus_nigra	HQ619781.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00265681773658594
+Populus_nigra	KX162997.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.4296534856585	-2.54040803026762	0.00837981502214234
+Populus_nigra	KX162996.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.9964395231159	-4.32720910534817	0.00837981502214234
+Populus_nigra	KJ204391.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00856353075682042
+Populus_nigra	KC485213.1	03-SEP-2013	966	China: Xinjiang	secondary	rbcL	42.4804953	85.4633464	0.00296303288142362
+Populus_nigra	HM850278.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00638296868402111
+Populus_nigra	JN893690.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00271103273147197
+Populus_nigra	JN893689.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00271103273147197
+Populus_nigra	FN689367.1	19-MAR-2010	670	Italy:Umbria	secondary	rbcL	42.965916	12.490236	0.00638395591738132

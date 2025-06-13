@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saponaria_officinalis	OR515815.1	01-NOV-2023	515	Kazakhstan: Qaragandy region	primary	rbcL	49.49998	73.26456	0.000367107195301028
+Saponaria_officinalis	OR464831.1	26-SEP-2023	613	USA: South Westnedge Park, Portage, MI	primary	rbcL	42.18574617	-85.59244277	0.000309214594928881
+Saponaria_officinalis	ON684499.1	21-AUG-2022	1428	Portugal: Jardim Botanico da Ajuda, Ajuda, Lisboa	primary	rbcL	38.70641	-9.19938	0.00146096369693898
+Saponaria_officinalis	MG248269.1	21-JAN-2018	552	Canada: R.R.Tracks between Glasgow St. & Yorkshire St.	primary	rbcL	43.54	-80.254	0.000349406009783368
+Saponaria_officinalis	HQ590261.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., E end near Bathurst	primary	rbcL	44.039	-79.508	0.000313873195229127
+Saponaria_officinalis	KT695581.1	29-SEP-2015	549	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.000352360817477097
+Saponaria_officinalis	KJ841554.1	04-NOV-2014	569	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Edge of visitor's gravel parking lot	primary	rbcL	45.536	-73.156	0.00054322147251544
+Saponaria_officinalis	JN893723.1	07-MAR-2012	458	United Kingdom: Glamorgan	primary	rbcL	51.49	-3.62	0.00043630017452007
+Saponaria_officinalis	OQ172648.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.5944772659938	127.135849060641	0.000362515860068878
+Saponaria_officinalis	OQ172647.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.6083180506212	126.752388775162	0.000362515860068878
+Saponaria_officinalis	OQ172646.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.3522368360204	127.298876550901	0.000362515860068878
+Saponaria_officinalis	MT931004.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.000445584292277205
+Saponaria_officinalis	MG249614.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	secondary	rbcL	43.8646030229966	-78.217662746504	0.000349406009783368
+Saponaria_officinalis	MG248584.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Norfolk Twp., Carr Tract and Nursery Tract (St. Williams Forest), North Walsingham/South Walsingham Townline Road	secondary	rbcL	43.8344974528436	-78.6458616348063	0.000349406009783368
+Saponaria_officinalis	MG247333.1	21-JAN-2018	553	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	secondary	rbcL	44.1807002764106	-78.5426709496984	0.000349406009783368
+Saponaria_officinalis	KJ204401.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000349406009783368
+Saponaria_officinalis	HM850338.1	23-JUL-2011	1304	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00738796192961874
+Saponaria_officinalis	JN892922.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.6911592188937	-4.77534078256689	0.000357653791130186
+Saponaria_officinalis	JN892921.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.7751964902977	-2.47819836336858	0.000357653791130186

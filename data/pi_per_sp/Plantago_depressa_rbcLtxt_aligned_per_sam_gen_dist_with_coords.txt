@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_depressa	MT931644.1	03-MAR-2023	569	China	secondary	rbcL	35.3211770524585	105.325921116519	0.00472498129534918
+Plantago_depressa	MN192690.1	30-NOV-2021	720	China	secondary	rbcL	35.6323959724423	104.596687324884	0.0104888304065419
+Plantago_depressa	MN167870.1	27-APR-2021	686	China	secondary	rbcL	35.4003625194755	104.921868645651	0.00453581506014586
+Plantago_depressa	KT280138.1	01-AUG-2016	673	China: Maqu Gansu	secondary	rbcL	34.6137382	102.4654149	0.00346706290242694

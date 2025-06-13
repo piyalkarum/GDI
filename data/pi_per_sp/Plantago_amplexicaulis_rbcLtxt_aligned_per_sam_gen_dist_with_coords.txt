@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_amplexicaulis	KY951700.1	18-APR-2018	559	Kuwait	secondary	rbcL	30.2668064142673	47.9084676948755	0
+Plantago_amplexicaulis	KY951699.1	18-APR-2018	633	Kuwait	secondary	rbcL	29.463079104236	48.3553621519098	0
+Plantago_amplexicaulis	KX282938.1	28-MAY-2017	580	Kuwait	secondary	rbcL	29.0985779464325	48.8735969034939	0
+Plantago_amplexicaulis	KX282937.1	28-MAY-2017	543	Kuwait	secondary	rbcL	30.1128666920189	47.7873557075867	0

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_glareosus	MK751676.1	20-DEC-2020	915	Spain: Alicante, Vall d Alcala, 650 m	primary	trnL-trnF	38.79	-0.25	0.00637567578047204
+Lotus_glareosus	MK751675.1	20-DEC-2020	901	Spain: Segovia, La Granja, La Bola del Mundo, 2000 m	primary	trnL-trnF	40.78	-3.98	0.00747042048977097
+Lotus_glareosus	MK751674.1	20-DEC-2020	915	Spain: Soria, Puerto de Oncala, 1500 m	primary	trnL-trnF	41.95	-2.33	0.00637567578047204
+Lotus_glareosus	MK751673.1	20-DEC-2020	915	Spain: Granada, Sierra Nevada, Trevenque, 1800 m	primary	trnL-trnF	37.08	-3.48	0.00637567578047204
+Lotus_glareosus	MK751672.1	20-DEC-2020	842	Spain: Granada, Sierra de Alfacar, Alfaguarilla, 1200 m	primary	trnL-trnF	37.27	-3.53	0.00764635779610478
+Lotus_glareosus	MK751671.1	20-DEC-2020	842	Spain: Orense, Casayo, carretera a Pena Trevinca, 1800 m	primary	trnL-trnF	42.24	-6.8	0.00832788277278621
+Lotus_glareosus	MF314953.1	10-SEP-2018	915	Spain	primary	trnL-trnF	37.89	-2.91	0.022862649677116
+Lotus_glareosus	MF314952.1	10-SEP-2018	858	Spain	primary	trnL-trnF	41.96	-3.48	0.0183667497774696

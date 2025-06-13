@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lunaria_annua	KX679006.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, Victoria, Uplands Park	primary	rbcL	48.44	-123.296	0
+Lunaria_annua	KX677929.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox Valley Regional District, Kye Bay, end of Winslow Rd.	primary	rbcL	49.707	-124.876	0
+Lunaria_annua	MG248811.1	21-JAN-2018	552	Canada: Ontario, Simcoe Co., Tiny Tp., Conc. XVIII, Lot 24, 8 1/2 mi W of Penetang.	secondary	rbcL	43.2340931008321	-78.0764441812013	0
+Lunaria_annua	MG247699.1	21-JAN-2018	552	Canada: Ontario, Norfolk Co., Charlotteville Tp., Lynedoch	secondary	rbcL	43.6992012436048	-76.6492682106413	0
+Lunaria_annua	MG246909.1	21-JAN-2018	552	Canada: Quebec, Cte Deux-Montagnes, La Trappe.	secondary	rbcL	46.8137431	-71.2084061	0

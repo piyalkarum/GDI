@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_poeticus	OR464961.1	26-SEP-2023	912	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	41.8479093194819	-85.3096746102407	0.0872288844474054
+Narcissus_poeticus	OR464960.1	26-SEP-2023	861	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.0253519880778	-84.8809713814164	0.0873167365214025
+Narcissus_poeticus	KC238498.1	01-OCT-2014	1781	Spain: Barcelona	secondary	matK	41.3828939	2.1774322	0.0879098740138535
+Narcissus_poeticus	MF349869.1	21-SEP-2017	814	USA	secondary	matK	38.88820035	-77.0236271826779	0.259444919764127

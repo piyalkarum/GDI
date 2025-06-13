@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alchemilla_glabra	JN894582.1	07-MAR-2012	824	United Kingdom: Cardiganshire	primary	matK	52.26	-4.02	0
+Alchemilla_glabra	MK926211.1	14-JAN-2020	830	United Kingdom	secondary	matK	55.0477537011305	-2.02026554330969	0
+Alchemilla_glabra	MK925849.1	14-JAN-2020	830	United Kingdom	secondary	matK	54.0574904579812	-2.89269239445643	0
+Alchemilla_glabra	MK925651.1	14-JAN-2020	828	United Kingdom	secondary	matK	54.3815863537799	-2.96768096268143	0
+Alchemilla_glabra	JN895008.1	07-MAR-2012	740	United Kingdom: Breconshire (42)	secondary	matK	52.3385059309765	-1.15648766214134	0
+Alchemilla_glabra	JN894466.1	07-MAR-2012	811	United Kingdom: Breconshire	secondary	matK	53.3622391303216	-0.321190547533041	0

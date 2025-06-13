@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ruta_corsica	EF489202.1	31-DEC-2008	503	France: Haut Asco, Asco, Bastia, Corsica	secondary	trnL-trnF	42.4032858	8.9235583	0
+Ruta_corsica	EF489201.1	31-DEC-2008	488	France: Asco, Corsica	secondary	trnL-trnF	42.4542774	9.0341777	0
+Ruta_corsica	EF489200.1	31-DEC-2008	503	France	secondary	trnL-trnF	42.18808965	9.06841377142769	0
+Ruta_corsica	EF489199.1	31-DEC-2008	504	Italy	secondary	trnL-trnF	39.9613903	9.5072721	0
+Ruta_corsica	EF489198.1	31-DEC-2008	505	Italy	secondary	trnL-trnF	40.118804	9.2519707	0

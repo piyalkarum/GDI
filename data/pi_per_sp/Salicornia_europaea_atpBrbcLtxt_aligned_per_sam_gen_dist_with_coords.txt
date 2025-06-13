@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salicornia_europaea	AB537537.1	03-JUN-2010	736	South Korea: Inchon, Yongyudo	secondary	atpB-rbcL	37.692078160144	125.791077909112	0.000552486187845304
+Salicornia_europaea	AB537536.1	03-JUN-2010	736	South Korea: Inchon, Yongyudo	secondary	atpB-rbcL	38.0497436679778	126.996182547866	0.000552486187845304
+Salicornia_europaea	AB537535.1	03-JUN-2010	736	Japan: Okayama, Yorishima	secondary	atpB-rbcL	34.5450812753392	132.873874115176	0.000552486187845304
+Salicornia_europaea	AB537534.1	03-JUN-2010	736	Japan: Okayama, Yorishima	secondary	atpB-rbcL	34.6486918422769	134.30926821909	0.000552486187845304
+Salicornia_europaea	AB537533.1	03-JUN-2010	736	Japan: Okayama, Yorishima	secondary	atpB-rbcL	34.5066448097235	133.644901026235	0.000552486187845304
+Salicornia_europaea	AB537532.1	03-JUN-2010	736	Japan: Okayama, Yorishima	secondary	atpB-rbcL	35.2627296633092	133.653531655062	0.000552486187845304
+Salicornia_europaea	AB537531.1	03-JUN-2010	736	Japan: Kagawa, Sakaide	secondary	atpB-rbcL	34.3082086	133.8698532	0.000552486187845304
+Salicornia_europaea	AB537530.1	03-JUN-2010	736	Japan: Ehime, Niihama	secondary	atpB-rbcL	33.9603497	133.2835899	0.000552486187845304
+Salicornia_europaea	AB537529.1	03-JUN-2010	724	Japan: Hokkaido, Notsuke	secondary	atpB-rbcL	43.6030965	145.2954554	0.00248618784530387
+Salicornia_europaea	AB537528.1	03-JUN-2010	724	Japan: Hokkaido, Nemuro	secondary	atpB-rbcL	43.3301154	145.5829068	0.00124309392265193
+Salicornia_europaea	AB537527.1	03-JUN-2010	724	Japan: Hokkaido, Abashiri	secondary	atpB-rbcL	44.0199184	144.2541269	0.00124309392265193

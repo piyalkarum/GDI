@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vaccinium_uliginosum	LC690785.1	03-MAY-2022	635	Japan: Nagano	primary	rbcL	35.8734	137.5014	0
+Vaccinium_uliginosum	MZ359347.1	07-DEC-2021	548	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Vaccinium_uliginosum	LC376988.1	18-APR-2018	262	Japan: Toyama, Mt.Taro	primary	rbcL	36.44	137.51	0
+Vaccinium_uliginosum	MG221585.1	26-DEC-2017	552	Canada: Nunavut, Victoria Island, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	69.3441479326753	-109.734692490195	0
+Vaccinium_uliginosum	KX677950.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Delta, Burns Bog, southwest corner	primary	rbcL	49.133	-124.05	0
+Vaccinium_uliginosum	KT307964.1	20-MAR-2016	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On the SW slope, 20 meters above E800I9	primary	rbcL	57.6269	-68.7575	0
+Vaccinium_uliginosum	KT960725.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5608701042528	-18.8553839497358	0
+Vaccinium_uliginosum	KT960533.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5118636839581	-19.203490793844	0
+Vaccinium_uliginosum	KT960522.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.8142991832132	-22.6581787554465	0
+Vaccinium_uliginosum	KC484314.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	68.4660616584973	-112.838056254466	0
+Vaccinium_uliginosum	KC484313.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Wet sedge meadow between two small lakes NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.272	-116.467	0
+Vaccinium_uliginosum	KC484312.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. ~20 km SW of Sanikiluaq. Upland about 0.3 km from coast	primary	rbcL	56.422	-79.364	0
+Vaccinium_uliginosum	KC484311.1	25-OCT-2013	552	Canada: Nunavut, Brevoort Island, Around glacier stream, in the tundra, near the seashore	primary	rbcL	63.3397	-64.1458	0
+Vaccinium_uliginosum	KC484310.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Savage Harbour, V-shaped lake 1.5 km S of Savage Harbour	primary	rbcL	61.8192	-65.7103	0
+Vaccinium_uliginosum	KC484309.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	rbcL	74.5333	-82.7833	0
+Vaccinium_uliginosum	KC484308.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0
+Vaccinium_uliginosum	KC484307.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, 2-3 km SE of Paulatuk (within sight of hamlet)	primary	rbcL	69.356	-124.167	0
+Vaccinium_uliginosum	KC484306.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	rbcL	68.064	-121.603	0
+Vaccinium_uliginosum	JN966056.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas heath	primary	rbcL	58.769	-93.862	0
+Vaccinium_uliginosum	MK925482.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2672567027681	-4.30340559346893	0
+Vaccinium_uliginosum	MK925383.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.199948900272	-2.99750963804116	0
+Vaccinium_uliginosum	MK925229.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2512314136184	-3.89507422795495	0
+Vaccinium_uliginosum	MK925103.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5274773309279	-1.82754294606699	0
+Vaccinium_uliginosum	MK925067.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3048572349078	-2.83851059217545	0
+Vaccinium_uliginosum	MK925038.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.269026918572	-4.15409246375791	0
+Vaccinium_uliginosum	MK924855.1	14-JAN-2020	542	Iceland	secondary	rbcL	65.4470635192426	-17.9034377001523	0
+Vaccinium_uliginosum	MK924824.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.2797256687501	-17.1214681832093	0

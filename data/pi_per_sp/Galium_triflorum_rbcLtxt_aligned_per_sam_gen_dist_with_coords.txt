@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_triflorum	KP644080.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.830171873642	-79.2229985950227	0.00143447708631676
+Galium_triflorum	KP643996.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	39.283567096562	-77.8128025758638	0.00143447708631676
+Galium_triflorum	KP643937.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.9712894844386	-78.3689628126208	0.00143447708631676
+Galium_triflorum	MG224576.1	26-DEC-2017	552	Canada: Lake Superior, ON	primary	rbcL	47.75	-84.8333	0.00143508825854509
+Galium_triflorum	MG223374.1	26-DEC-2017	553	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay, en bordure du sentier principal situe a l'est	primary	rbcL	45.519	-73.738	0.00143447708631676
+Galium_triflorum	MG223361.1	26-DEC-2017	552	Canada: Bruce Co., ON	primary	rbcL	44.5	-81.25	0.0122538112309105
+Galium_triflorum	MG222232.1	26-DEC-2017	552	Canada: Dufferin Co., ON	primary	rbcL	44.0833	-80.1667	0.00143508825854509
+Galium_triflorum	KX678746.1	29-APR-2017	547	Canada: British Columbia, East Kootenay Regional District, Dry Gulch Provincial Park	primary	rbcL	50.5862	-116.035	0.00144561352337505
+Galium_triflorum	KX678585.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Ashlu Main Rd., near Squamish	primary	rbcL	49.933	-123.364	0.00143508825854509
+Galium_triflorum	KP402733.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H12x1y2	primary	rbcL	38.889	-76.559	0.00143447708631676
+Galium_triflorum	KP402625.1	06-JAN-2016	405	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, DSCTRL	primary	rbcL	38.6189518537862	-76.1307802689067	0.00594835773885974
+Galium_triflorum	KP402601.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, DSCTRL	primary	rbcL	38.1791755205858	-75.8480494555846	0.00143447708631676
+Galium_triflorum	KJ593436.1	17-MAR-2015	553	USA: Wisconsin, Wolf River	primary	rbcL	45.322	-88.724	0.00143447708631676
+Galium_triflorum	KJ593435.1	17-MAR-2015	553	USA: Wisconsin, Green Bay	primary	rbcL	44.527	-87.932	0.00143447708631676
+Galium_triflorum	KJ593434.1	17-MAR-2015	553	USA: Wisconsin, Wolf River	primary	rbcL	45.301	-88.746	0.00143447708631676
+Galium_triflorum	KJ593433.1	17-MAR-2015	553	USA: Wisconsin, Silvercliff	primary	rbcL	45.516	-88.404	0.00143447708631676
+Galium_triflorum	KJ841344.1	04-NOV-2014	569	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Botany Bay on south side of Lac Hertel	primary	rbcL	45.544	-73.144	0.0014324421394967
+Galium_triflorum	MK027943.1	17-DEC-2018	697	USA: California, Coast Ranges S of San Francisco	secondary	rbcL	38.628683	-92.5659635	0.00114673050518019
+Galium_triflorum	MK027901.1	17-DEC-2018	698	USA: West Virginia, Shenandoah Mts.	secondary	rbcL	47.5156127	-92.5701953	0.00114673050518019
+Galium_triflorum	MG222933.1	26-DEC-2017	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0.00143508825854509
+Galium_triflorum	HE574631.1	31-JUL-2011	562	Finland	secondary	rbcL	63.2467777	25.9209164	0.0110371456563286

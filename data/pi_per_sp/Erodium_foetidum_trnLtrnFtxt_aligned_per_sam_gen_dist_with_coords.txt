@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erodium_foetidum	HQ677616.1	08-MAY-2012	341	Spain: Jaen, Sierra de Magina, Pico Almaden	secondary	trnL-trnF	37.7728858	-3.7883289	0.00294293203228402
+Erodium_foetidum	HQ677615.1	08-MAY-2012	341	Spain: Granada, Sierra de Arana	secondary	trnL-trnF	37.3446037	-3.413138	0.00412287303523387
+Erodium_foetidum	HQ677614.1	08-MAY-2012	341	Spain: Tarragona, Mola de Collejon	secondary	trnL-trnF	41.7172186029806	1.13013606658984	0.00294293203228402
+Erodium_foetidum	DQ072081.1	31-MAY-2006	379	Spain: Tarragona, ports de Beseit, L'Engrillo	secondary	trnL-trnF	41.2499842319878	1.78520365377383	0.00270078844342743
+Erodium_foetidum	DQ072080.1	31-MAY-2006	379	Spain: Granada, Sierra de Arana, Cueva del Agua	secondary	trnL-trnF	37.1734995	-3.5995337	0.00959363641316615
+Erodium_foetidum	DQ072079.1	31-MAY-2006	381	Spain: Gerona, Cabo Norfeu, Rosas, Gerona	secondary	trnL-trnF	41.9793006	2.8199439	0.00381154295529987

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_arcticum	KC474708.1	25-OCT-2013	686	Canada: Nunavut, Ellesmere Island, Slidre Fiord Quad., Fosheim Penin, Hot Weather Cr., base camp and vicinity, 'Picnic Lake'	primary	matK	79.95	-84.4833	0.000971817298347911
+Epilobium_arcticum	KC474707.1	25-OCT-2013	723	Canada: Northwest Territories, Victoria Island, Shaler Mountains	primary	matK	71.3	-115.25	0.000946950603991844
+Epilobium_arcticum	KC474706.1	25-OCT-2013	789	Canada: Northwest Territories, Banks Island, De Salis Bay, ~2km N of Sandhill River, ~3 km E of Windrum Lagoon, SE shore of small lake	primary	matK	71.4672	-121.901	0.000906079783033287
+Epilobium_arcticum	KC474705.1	25-OCT-2013	749	Canada: Nunavut, Victoria Island, Johansen Bay, Coast opposite Richardson Islands, ca. 18 km E of Johansen Bay airstrip	primary	matK	68.733	-110.719	0.000930946477389354

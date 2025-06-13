@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Climacoptera_lanata	OQ077149.1	28-JUN-2023	529	Kazakhstan	secondary	rps16	47.574311270389	66.6804760393951	0.00320512820512821
+Climacoptera_lanata	OQ077148.1	28-JUN-2023	520	Kazakhstan	secondary	rps16	48.063843591748	65.7718880163649	0.00448717948717949
+Climacoptera_lanata	OQ077147.1	28-JUN-2023	520	Kazakhstan	secondary	rps16	47.885699639434	65.7165414755912	0.00320512820512821
+Climacoptera_lanata	OQ077146.1	28-JUN-2023	520	Kazakhstan	secondary	rps16	47.8447944893728	67.9053041386641	0.00320512820512821

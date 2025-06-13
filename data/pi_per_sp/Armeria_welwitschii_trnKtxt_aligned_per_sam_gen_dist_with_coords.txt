@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_welwitschii	GQ901410.1	03-NOV-2009	1505	Portugal: Cabo Carvoeiro, Peniche	secondary	trnK	38.6933595169513	-9.11198902997466	0.00209663585247308
+Armeria_welwitschii	GQ901409.1	03-NOV-2009	1505	Portugal: Cabo Carvoeiro, Peniche	secondary	trnK	40.1773892740319	-9.12819207912893	0.00209663585247308
+Armeria_welwitschii	GQ901408.1	03-NOV-2009	1499	Portugal: Nazare	secondary	trnK	40.3674456850971	-8.46647439822065	0.00171542933384161
+Armeria_welwitschii	GQ901407.1	03-NOV-2009	1499	Portugal: Nazare	secondary	trnK	40.0010295898586	-9.0575712237193	0.00228723911178881
+Armeria_welwitschii	GQ901406.1	03-NOV-2009	1499	Portugal: Estremadura	secondary	trnK	40.177384	-6.6268256	0.00171542933384161
+Armeria_welwitschii	GQ901405.1	03-NOV-2009	1499	Portugal: Baixo Alentejo	secondary	trnK	37.6740554741054	-8.81808867017441	0.00285904888973601
+Armeria_welwitschii	GQ901404.1	03-NOV-2009	1499	Portugal: Baixo Alentejo	secondary	trnK	37.5206989801394	-8.86500675593736	0.00228723911178881
+Armeria_welwitschii	GQ901403.1	03-NOV-2009	1499	Portugal: Baixo Alentejo	secondary	trnK	37.6742459412075	-7.77646088173291	0.00285904888973601

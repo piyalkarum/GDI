@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_bocconei	KX959233.1	02-NOV-2017	1037	Italy: Sicily, 9 km N of Polizzi Generosa	primary	matK	37.84	14.01	0.000860915142682257
+Odontites_bocconei	KX959227.1	02-NOV-2017	1037	Italy: Sicily, Chiusa Sclafani	primary	matK	38.2490403152919	13.2646468370289	0.00159002380851199
+Odontites_bocconei	KX959208.1	02-NOV-2017	1027	Italy: Sicily, Le Madonie National Park, near Monte Scalone	primary	matK	37.4963829549208	13.4106569938609	0.00086208885270452
+Odontites_bocconei	KX959207.1	02-NOV-2017	1027	Italy: Sicily, Le Madonie National Park, near Monte Scalone	primary	matK	37.3431136141036	14.8981672853076	0.00086208885270452
+Odontites_bocconei	KX959178.1	02-NOV-2017	1027	Italy: Sicily, Chiusa Sclafani	primary	matK	37.6806884777641	13.6432219188854	0.00086208885270452
+Odontites_bocconei	KX959111.1	02-NOV-2017	1027	Italy: Sicily, San Martino delle Scale	primary	matK	38.6050681888291	13.9899373780721	0.00086208885270452
+Odontites_bocconei	KX959110.1	02-NOV-2017	1027	Italy: Sicily, San Martino delle Scale	primary	matK	38.5284467632222	13.0955535731447	0.00086208885270452
+Odontites_bocconei	JF900592.1	05-MAR-2013	1061	Italy	secondary	matK	42.6384261	12.674297	0.00592227083418518
+Odontites_bocconei	HM193528.1	24-AUG-2010	2399	Italy: Sicily	secondary	matK	37.587794	14.155048	0.000860184989700604

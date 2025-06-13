@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dactylorhiza_majalis	JN891811.1	07-MAR-2012	458	United Kingdom: Anglesey	primary	rbcL	53.2	-4.4	0.00613853266538787
+Dactylorhiza_majalis	MK925012.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4235551209368	-4.62092032453009	0.00555172501851426
+Dactylorhiza_majalis	MK924876.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1581018467062	-4.21768390149428	0.00555172501851426
+Dactylorhiza_majalis	MK924525.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7147592110955	-3.92074016054882	0.00555172501851426
+Dactylorhiza_majalis	MG227484.1	23-JAN-2018	552	Canada: Ontario, Cochrane Dist., Timmins, Shore of Gillies Lake.	secondary	rbcL	43.72634945	-77.7101179040839	0.00555363609607534
+Dactylorhiza_majalis	JN890784.1	07-MAR-2012	513	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.0213566220985651

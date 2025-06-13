@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Medicago_polymorpha	OL434782.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1403	-81.1446	0.00529314596139368
+Medicago_polymorpha	KX678640.1	29-APR-2017	551	Canada: British Columbia, Capital Regional District, Victoria, Clover Point	primary	rbcL	48.405	-123.35	0.010317723252226
+Medicago_polymorpha	OP564943.1	30-MAY-2023	674	India	secondary	rbcL	22.3511148	78.6677428	0.00473822871401828
+Medicago_polymorpha	OQ392114.1	10-MAY-2023	528	Peru	secondary	rbcL	-7.36951390273605	-74.5979994033633	0.00545613203956994
+Medicago_polymorpha	OQ391636.1	10-MAY-2023	528	Peru	secondary	rbcL	-7.10180293624996	-75.5806612153866	0.0074343022433499
+Medicago_polymorpha	MN192638.1	30-NOV-2021	723	China	secondary	rbcL	35.4130263431909	104.319163193209	0.0131080144732541
+Medicago_polymorpha	MN185161.1	27-APR-2021	718	China	secondary	rbcL	35.5176304869283	104.15047415381	0.00520572095685174
+Medicago_polymorpha	HM850165.1	23-JUL-2011	682	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00465688116358903
+Medicago_polymorpha	JX505486.1	09-JAN-2013	906	Portugal: Azores Island	secondary	rbcL	38.5855122	-27.9302237	0.0185382027471495
+Medicago_polymorpha	JN890875.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.8641475057575	-4.10136119625677	0.0137213900399598
+Medicago_polymorpha	JN890609.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.7786697010481	-3.31400799364441	0.0122077656562709

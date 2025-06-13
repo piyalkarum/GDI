@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_maritima	KX783901.1	31-MAY-2017	552	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	cob	31.8953799846547	30.9359378678694	0.392704220667002
+Jacobaea_maritima	KX783697.1	31-MAY-2017	795	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	cob	31.6596215051584	31.6730974231899	0.569912958595823
+Jacobaea_maritima	EF538244.1	24-APR-2008	706	New Zealand	secondary	cob	-41.5000831	172.8344077	0.583654313552633
+Jacobaea_maritima	HM850081.1	23-JUL-2011	1363	Portugal	secondary	cob	39.6621648	-8.1353519	0.390070908301251

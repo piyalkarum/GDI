@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Barbarea_vulgaris	OR464946.1	26-SEP-2023	824	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.28833279	-85.61955311	0.0071383500667358
+Barbarea_vulgaris	KP643015.1	08-DEC-2015	740	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.6656089025484	-77.0515977862434	0.00911040304383459
+Barbarea_vulgaris	KP642920.1	08-DEC-2015	743	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	39.0110547272491	-77.5376741781375	0.00918249058945626
+Barbarea_vulgaris	KP642771.1	08-DEC-2015	745	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.7187724369209	-79.2667493345115	0.00968458451967539
+Barbarea_vulgaris	HQ593190.1	09-NOV-2011	768	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, Edge of gravel pad at NW end of SR 19 driveway	primary	matK	44.035	-79.518	0.0071883502791766
+Barbarea_vulgaris	KP402298.1	06-JAN-2016	652	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, fox pt.	primary	matK	38.887	-76.554	0.019466729589429
+Barbarea_vulgaris	KJ592864.1	17-MAR-2015	753	USA: Wisconsin, Blackwell	primary	matK	45.579	-88.534	0.00808705409289908
+Barbarea_vulgaris	KJ840869.1	23-SEP-2014	758	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	matK	45.535	-73.149	0.00846274930212606
+Barbarea_vulgaris	JN895703.1	07-MAR-2012	759	United Kingdom: Monmouthshire	primary	matK	51.61	-2.72	0.0105781701940065
+Barbarea_vulgaris	MT917808.1	03-MAR-2023	767	China	secondary	matK	35.5908411242414	105.328599068459	0.0423812318853006
+Barbarea_vulgaris	MT917686.1	03-MAR-2023	766	China	secondary	matK	34.9908802536803	104.025876382554	0.00717044220587156
+Barbarea_vulgaris	KJ592865.1	17-MAR-2015	750	USA: Wisconsin, Laona	secondary	matK	45.560864	-88.672457	0.00809114031212474
+Barbarea_vulgaris	JN894594.1	07-MAR-2012	786	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.0104832513680787
+Barbarea_vulgaris	JN894590.1	07-MAR-2012	765	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0105462850987779

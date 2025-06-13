@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gentianella_germanica	AJ580567.1	30-JUN-2004	830	Austria:Boesenstein	secondary	ITS1	47.4380347	14.4016955	0.000240963855421687
+Gentianella_germanica	AJ580566.1	30-JUN-2004	832	Switzerland:Fuldera	secondary	ITS1	46.6092434	10.3703539	0.000482218378944003
+Gentianella_germanica	AJ580565.1	30-JUN-2004	836	Switzerland:Diegten	secondary	ITS1	47.409937	7.809077	0.0011999217282263
+Gentianella_germanica	AJ580564.1	30-JUN-2004	840	Netherlands:Kunderberg	secondary	ITS1	50.8617154	5.9627003	0.000480198305182452
+Gentianella_germanica	AJ580563.1	30-JUN-2004	839	Switzerland:Dittingen	secondary	ITS1	47.4383276	7.4989147	0.000239234449760766
+Gentianella_germanica	AJ580562.1	30-JUN-2004	839	Germany:Lengerich	secondary	ITS1	52.1887731	7.8508691	0.000239234449760766

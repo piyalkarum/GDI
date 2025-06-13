@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eragrostis_minor	MF597355.1	17-JUL-2018	819	Canada: British Columbia, Osoyoos, roadside near Main Street and Tamarack Street.	primary	matK	49.028	-119.441	0.00221958241582563
+Eragrostis_minor	MF597354.1	17-JUL-2018	778	Canada: British Columbia, Port Coquitlam, along railway tracks at corner of Lougheed Highway and Pitt River Road	primary	matK	49.251	-122.801	0.00274090770885179
+Eragrostis_minor	MF597353.1	17-JUL-2018	819	Canada: British Columbia, Port Coquitlam, gravel lot along Oxford connector that parallels CPR railway along Lougheed Highway, just SE of Shaughnessy Street	primary	matK	49.265	-122.772	0.00318253095994949
+Eragrostis_minor	LN906704.1	04-JAN-2016	1826	Madagascar:Toliara, Itampolo	primary	matK	-24.2226	43.6857	0.00192363407252277
+Eragrostis_minor	MT930019.1	03-MAR-2023	776	China	secondary	matK	35.000074	104.999927	0.00155403922636289
+Eragrostis_minor	MH551781.1	11-MAR-2019	723	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.70257735	-81.983441193043	0.00277109062236529
+Eragrostis_minor	AF144593.1	29-DEC-1999	1542	Afghanistan	secondary	matK	33.7680065	66.2385139	0.00748072792154434
+Eragrostis_minor	JF729112.1	12-SEP-2011	817	USA	secondary	matK	39.7837304	-100.445882	0.00189597852448449
+Eragrostis_minor	KM538801.1	20-JUN-2015	1091	South Korea	secondary	matK	36.638392	127.6961188	0.001856190412097
+Eragrostis_minor	KP056953.1	28-FEB-2015	1020	South Korea: Gangneung-si, Gangwon-do	secondary	matK	37.7437978	128.9300798	0.00166193685915118
+Eragrostis_minor	KP056951.1	28-FEB-2015	1020	South Korea: Iksan-si, Jeollabuk-do	secondary	matK	35.9479291	126.9578025	0.00166193685915118
+Eragrostis_minor	KP056949.1	28-FEB-2015	1020	South Korea: Uiwang-si, Gyeonggi-do	secondary	matK	37.3449082	126.9689861	0.00166193685915118
+Eragrostis_minor	HM850577.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00857878147047325

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_hirta	FN400725.1	07-JAN-2010	481	France	secondary	trnS-trnG	46.2077671732629	1.12928230051061	0
+Viola_hirta	FN400724.1	07-JAN-2010	481	France	secondary	trnS-trnG	45.7390880615807	1.78004145920302	0
+Viola_hirta	FN400723.1	07-JAN-2010	481	France	secondary	trnS-trnG	46.8948649450224	1.83870536179344	0
+Viola_hirta	FN400722.1	07-JAN-2010	481	Spain	secondary	trnS-trnG	39.3260685	-4.8379791	0

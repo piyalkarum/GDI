@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_viminalis	ON081465.1	08-NOV-2022	607	Russia	secondary	atpB-rbcL	64.652240756404	99.0574012293065	0
+Salix_viminalis	ON081455.1	08-NOV-2022	606	Russia	secondary	atpB-rbcL	65.0895755155722	97.613253699774	0
+Salix_viminalis	ON081454.1	08-NOV-2022	606	Russia	secondary	atpB-rbcL	65.3439242573754	98.3320315340023	0
+Salix_viminalis	ON081453.1	08-NOV-2022	606	Russia	secondary	atpB-rbcL	64.6536268162241	99.5316963380999	0
+Salix_viminalis	ON081452.1	08-NOV-2022	606	Russia	secondary	atpB-rbcL	64.6661389033532	98.5375872607938	0
+Salix_viminalis	ON081371.1	08-NOV-2022	606	Russia	secondary	atpB-rbcL	64.2373820393265	99.4728867653474	0
+Salix_viminalis	ON081363.1	08-NOV-2022	605	Russia	secondary	atpB-rbcL	64.5246424246126	97.5490508518901	0
+Salix_viminalis	ON081341.1	08-NOV-2022	615	Russia	secondary	atpB-rbcL	65.126733494507	98.0635880860392	0
+Salix_viminalis	ON081340.1	08-NOV-2022	615	Russia	secondary	atpB-rbcL	64.6660736293229	98.8685577931112	0

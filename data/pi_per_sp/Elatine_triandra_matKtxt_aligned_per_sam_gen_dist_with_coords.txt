@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elatine_triandra	MG220792.1	21-JAN-2018	797	Canada: Ontario, Renfrew Co., Clara Tp., Deux Rivieres, S shore of Ottawa River at E end of Hwy 17 causeway	primary	matK	46.25	-78.283	0.466325022948244
+Elatine_triandra	KT970437.1	12-NOV-2016	753	USA: Pennsylvania, Berks County, French Creek State Park, Scotts Run Lake, public boat launch	primary	matK	40.2096	-75.7968	0.116926303444287
+Elatine_triandra	KU604810.1	31-OCT-2017	765	USA: Connecticut, Litchfield Co.	secondary	matK	41.7587013	-73.259781	0.117135379141271
+Elatine_triandra	KU604809.1	31-OCT-2017	765	USA: Connecticut, Hartford Co.	secondary	matK	41.7918949	-72.744107	0.117135379141271
+Elatine_triandra	KU604808.1	31-OCT-2017	760	Austria: Lower Austria	secondary	matK	48.2817813	15.7632457	0.117763117372717
+Elatine_triandra	KU604807.1	31-OCT-2017	765	Austria: Steiermark	secondary	matK	47.2500001	15.1666665	0.117889999174632
+Elatine_triandra	KT970439.1	12-NOV-2016	753	USA: Oregon, Lincoln County, Devils Lake. Grown in the lab from a sediment core retrieved from the lake bed	secondary	matK	42.0147513	-89.3323279	0.116926303444287
+Elatine_triandra	KT970438.1	12-NOV-2016	753	USA: Connecticut, Litchfield County, West Hill Pond, New Hartford, shallow water	secondary	matK	41.5827982495157	-72.8367738159518	0.116926303444287
+Elatine_triandra	KT970435.1	12-NOV-2016	753	USA: Connecticut, Litchfield County, West Hill Pond, New Hartford, shallow water	secondary	matK	41.8246928118745	-73.211173587492	0.116926303444287
+Elatine_triandra	KR131972.1	23-MAR-2016	839	USA: Salt Lake Co., Utah	secondary	matK	40.7628137	-111.8368719	0.470173297467677

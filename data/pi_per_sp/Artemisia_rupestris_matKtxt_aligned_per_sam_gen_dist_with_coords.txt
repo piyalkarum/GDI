@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_rupestris	MG224957.1	21-JAN-2018	786	Canada: Yukon Territory, Kluane Lake north of Cultus Bay	primary	matK	61.177	-138.438	0.148865019259974
+Artemisia_rupestris	MG224838.1	21-JAN-2018	786	Canada: Yukon Territory, Kluane Lake, grasslands on E shore of, N of Cultus Bay	primary	matK	61.174	-138.443	0.148865019259974
+Artemisia_rupestris	KX581918.1	24-SEP-2016	786	China: Xinjiang, Yili	secondary	matK	43.1380725066859	80.7269188626701	0.148440931049627
+Artemisia_rupestris	KX581917.1	24-SEP-2016	786	China: Xinjiang, Yili	secondary	matK	44.2072964143837	82.383441072851	0.148440931049627

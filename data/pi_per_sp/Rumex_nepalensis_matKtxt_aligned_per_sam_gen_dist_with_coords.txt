@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_nepalensis	ON982094.1	17-OCT-2022	786	Kenya	secondary	matK	1.4419683	38.4313975	0.00208612973594343
+Rumex_nepalensis	MN245083.1	31-AUG-2021	834	China	secondary	matK	34.3990632377017	104.975549834127	0.00103133291952972
+Rumex_nepalensis	MH898986.1	25-OCT-2018	777	India: West Bengal, Darjeeling	secondary	matK	27.0377554	88.263176	0.00105479681641371
+Rumex_nepalensis	MH116831.1	17-AUG-2018	701	China	secondary	matK	35.2125043953396	104.644519008079	0.0014265335235378
+Rumex_nepalensis	MH116830.1	17-AUG-2018	701	China	secondary	matK	34.7467437549802	104.070447031812	0.0014265335235378

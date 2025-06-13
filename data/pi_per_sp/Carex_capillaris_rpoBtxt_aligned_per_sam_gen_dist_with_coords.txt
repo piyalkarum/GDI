@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_capillaris	FJ548308.1	30-AUG-2009	514	Canada: Nunuavut, Baffin Island, Ogac Lake, Ney Harbour, inner basin, S slope approaching Stickleback Lake	primary	rpoB	62.86	-67.35	0.000665335994677312
+Carex_capillaris	FJ548307.1	30-AUG-2009	512	Canada: Nunuavut, Baffin Island, Iqaluit, run-off stream between Apex and Iqaluit	primary	rpoB	63.74	-68.48	0.000665335994677312
+Carex_capillaris	FJ548306.1	30-AUG-2009	519	Canada: Nunuavut, Baffin Island, Frobisher Bay, Koojesse Bay trail from Frobisher Bay to Apex Hill	primary	rpoB	62.5	-66	0.000665335994677312
+Carex_capillaris	FJ548305.1	30-AUG-2009	501	Canada: Nunuavut, Baffin Island	primary	rpoB	71.8	-80.66	0.00199600798403194

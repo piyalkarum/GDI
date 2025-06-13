@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Circaea_canadensis	MG247334.1	21-JAN-2018	552	Canada: Oxford Co	primary	rbcL	42.9719	-80.8131	0
+Circaea_canadensis	MG246569.1	21-JAN-2018	552	Canada: Puslinch Co	primary	rbcL	43.4602	-80.2734	0
+Circaea_canadensis	MF349680.1	21-SEP-2017	553	USA: District of Columbia; United States National Arboretum, 3501 New York Ave NE; parking lot at Beechwood Lane across from Fern Valley	primary	rbcL	38.91	-76.966	0
+Circaea_canadensis	KJ593312.1	17-MAR-2015	534	USA: Wisconsin, Laona	primary	rbcL	45.554	-88.795	0
+Circaea_canadensis	KJ593311.1	17-MAR-2015	536	USA: Wisconsin, Green Bay	primary	rbcL	44.527	-87.933	0
+Circaea_canadensis	KJ593310.1	17-MAR-2015	553	USA: Wisconsin, Townsend	primary	rbcL	45.375	-88.629	0
+Circaea_canadensis	KJ593309.1	17-MAR-2015	531	USA: Wisconsin, Laona	primary	rbcL	45.56	-88.798	0
+Circaea_canadensis	KJ593308.1	17-MAR-2015	553	USA: Wisconsin, Oconto Falls	primary	rbcL	44.882	-88.151	0
+Circaea_canadensis	KJ841239.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0

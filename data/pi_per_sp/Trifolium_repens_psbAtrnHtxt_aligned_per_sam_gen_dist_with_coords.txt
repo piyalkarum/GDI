@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_repens	MT263950.1	26-MAR-2022	428	Brazil: Rio Grande do Sul, Rio Grande	primary	psbA-trnH	-32.536237	-52.533691	0.000934579439252336
+Trifolium_repens	OQ309871.1	16-MAY-2023	486	Mexico: Puebla	secondary	psbA-trnH	18.4079034532748	-98.3222491186618	0.00181392257863492
+Trifolium_repens	OQ309716.1	16-MAY-2023	488	Mexico: Puebla	secondary	psbA-trnH	19.3834811928439	-98.5232367792789	0.0018122044098592
+Trifolium_repens	OQ309568.1	16-MAY-2023	484	Mexico: Puebla	secondary	psbA-trnH	19.6510167386154	-98.4232264797568	0.00357665936778374
+Trifolium_repens	KP338480.1	21-APR-2015	409	China	secondary	psbA-trnH	35.000074	104.999927	0.00249792050008822
+Trifolium_repens	HE966853.1	18-SEP-2012	404	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00251607634990303

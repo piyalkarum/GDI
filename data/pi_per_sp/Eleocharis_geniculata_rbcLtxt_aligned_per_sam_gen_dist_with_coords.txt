@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eleocharis_geniculata	MG228110.1	23-JAN-2018	552	Canada: Ontario, Kent County, 6 km SSW of Blenheim, sand pit on south side of Hwy.3 at Cedar Springs	primary	rbcL	42.277	-82.031	0.00905797101449275
+Eleocharis_geniculata	JQ591246.1	24-APR-2012	552	Costa Rica: Area de Conservacion Guanacaste, Sector Santa Elena, Laguna el Jicaro	primary	rbcL	10.9386009510251	-86.4729689344308	0.00301932367149758
+Eleocharis_geniculata	JQ591245.1	24-APR-2012	552	Costa Rica: Area de Conservacion Guanacaste, Sector Santa Elena, Laguna el Jicaro	primary	rbcL	11.5624233580953	-86.2117420147476	0.00301932367149758
+Eleocharis_geniculata	JQ591244.1	24-APR-2012	552	Costa Rica: Area de Conservacion Guanacaste, Sector Santa Elena, Laguna el Jicaro	primary	rbcL	11.609438533114	-85.4142934401098	0.00301932367149758

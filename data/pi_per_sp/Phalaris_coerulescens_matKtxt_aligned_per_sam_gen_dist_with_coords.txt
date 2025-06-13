@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phalaris_coerulescens	LR606951.1	25-JAN-2021	2098	Italy	secondary	matK	42.6384261	12.674297	0.00330200616071974
+Phalaris_coerulescens	MT433214.1	31-MAY-2020	1018	Norway	secondary	matK	64.5731537	11.5280364	0.0066079295154185
+Phalaris_coerulescens	KJ529325.1	22-FEB-2015	963	Spain	secondary	matK	39.3260685	-4.8379791	0.0128384591104341
+Phalaris_coerulescens	FN908066.1	17-MAY-2012	2433	Portugal:Azores	secondary	matK	37.8085564	-25.4731374	0.00330200616071974

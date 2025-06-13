@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lycopodium_clavatum	MW801923.1	19-DEC-2021	904	Ecuador: Pichincha	secondary	rps4	-0.0584893	-78.3284371	0.0013936697848901
+Lycopodium_clavatum	MW801920.1	19-DEC-2021	904	Peru: Ancash	secondary	rps4	-9.5	-77.75	0.000414823008849558
+Lycopodium_clavatum	MW801919.1	19-DEC-2021	904	Canada: British Columbia	secondary	rps4	55.7648891091009	-124.751241663587	0.000414823008849558
+Lycopodium_clavatum	MW801875.1	19-DEC-2021	913	Ecuador: Zamora-Chinchipe	secondary	rps4	-4.0620183	-78.7751588	0.00138683641687722
+Lycopodium_clavatum	MW801869.1	19-DEC-2021	913	Costa Rica: Heredia	secondary	rps4	10.3767813	-84.0139721	0.000412096899262375
+Lycopodium_clavatum	MW801867.1	19-DEC-2021	910	Mexico: Oaxaca	secondary	rps4	17	-96.5	0.000413460013903965
+Lycopodium_clavatum	MW801866.1	19-DEC-2021	910	Canada: British Columbia	secondary	rps4	55.5422851840657	-125.441714322703	0.000413460013903965
+Lycopodium_clavatum	MW801865.1	19-DEC-2021	913	South Africa	secondary	rps4	-28.8166236	24.991639	0.00138683641687722
+Lycopodium_clavatum	DQ463115.1	29-MAR-2007	846	United Kingdom	secondary	rps4	54.7023545	-3.2765753	0.000444839857651246

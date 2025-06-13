@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tofieldia_calyculata	AB541029.1	29-APR-2010	2613	Italy: Lago di Garda, Val di Vesta	secondary	matK	45.7174324	10.6112294	0.00435964837798705
+Tofieldia_calyculata	AB541028.1	29-APR-2010	2625	Germany: Garmisch-Partenkirchen, Schachen	secondary	matK	47.4195013	11.1128431	0.00696667983842224
+Tofieldia_calyculata	AB541027.1	29-APR-2010	2608	Germany: Frankfurt, Palmengarten	secondary	matK	50.1236287	8.6559827	0.00477569231454582
+Tofieldia_calyculata	AB183403.1	15-OCT-2004	1548	Germany:Garmisch-Partenkirchen	secondary	matK	47.4923741	11.0962815	0.00117048427062275
+Tofieldia_calyculata	AB451559.1	26-JAN-2011	1461	Italy	secondary	matK	42.6384261	12.674297	0.00082135523613963
+Tofieldia_calyculata	AB541030.1	29-APR-2010	2641	Italy	secondary	matK	45.841883	10.6866449	0.00449122799031035

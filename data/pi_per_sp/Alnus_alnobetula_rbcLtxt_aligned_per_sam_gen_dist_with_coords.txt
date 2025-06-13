@@ -1,0 +1,24 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alnus_alnobetula	LC768003.1	27-MAY-2023	262	Japan:Niigata, Mt.Hiuchi	primary	rbcL	-36.9227	138.0681	0
+Alnus_alnobetula	LC693016.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	44.7728	142.1695	0
+Alnus_alnobetula	LC692983.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	44.4362	142.1973	0
+Alnus_alnobetula	LC690769.1	03-MAY-2022	635	Japan: Nagano	primary	rbcL	35.8695	137.5108	0
+Alnus_alnobetula	LC690442.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	42.545	139.9405	0
+Alnus_alnobetula	MG249950.1	21-JAN-2018	552	USA: Alaska, Southeast Fairbanks Census Area, Wrangell-St.Elias National Preserve, Wellesley Mountain	primary	rbcL	62.411	-141.275	0
+Alnus_alnobetula	MG249823.1	21-JAN-2018	552	Canada: Manitoba, Gillam	primary	rbcL	56.348	-94.698	0
+Alnus_alnobetula	MG247515.1	21-JAN-2018	552	Canada: Ontario	primary	rbcL	50.885	-84.585	0
+Alnus_alnobetula	KX679025.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, East side of Harrison Lake, along primitive road just outside Cascade Peninsula Forest Recreation Site	primary	rbcL	49.4398	-121.777	0
+Alnus_alnobetula	KX678361.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, campsite along Tulameen River	primary	rbcL	49.4343	-121.013	0
+Alnus_alnobetula	KX678291.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Just west of Kettle River Forest Service Road, north of Christian Valley	primary	rbcL	49.6983	-118.778	0
+Alnus_alnobetula	KX678202.1	29-APR-2017	522	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Mount Seymour trail	primary	rbcL	49.378	-122.944	0
+Alnus_alnobetula	KX677923.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.0449	-125.501	0
+Alnus_alnobetula	KT307933.1	20-MAR-2016	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, End of stone path, north of Irony	primary	rbcL	54.9061	-67.1529	0
+Alnus_alnobetula	KJ841091.1	04-NOV-2014	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, S-w facing slope with 16.5 degree decline	primary	rbcL	54.904	-67.1722	0
+Alnus_alnobetula	KC481895.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	61.8314188782426	-113.249366100397	0
+Alnus_alnobetula	KC481894.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.7289444426794	-114.368465045011	0
+Alnus_alnobetula	JN965217.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	rbcL	58.626	-94.23	0
+Alnus_alnobetula	LC694355.1	03-MAY-2022	599	Japan: Aomori	secondary	rbcL	40.886943	140.590121	0
+Alnus_alnobetula	MG249033.1	21-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0
+Alnus_alnobetula	FJ844588.1	12-APR-2010	1357	Switzerland	secondary	rbcL	46.7985624	8.2319736	0
+Alnus_alnobetula	JF940717.1	13-DEC-2011	606	China: Jilin	secondary	rbcL	44.343080133046	126.765913064048	0
+Alnus_alnobetula	JF940716.1	13-DEC-2011	606	China: Jilin	secondary	rbcL	43.7492640511709	126.139667371389	0

@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spirodela_polyrhiza	DQ222870.1	27-SEP-2006	376	Russia: Dmitrov	secondary	trnL-trnF	56.3450695	37.5200723	0.00986676548830078
+Spirodela_polyrhiza	DQ222869.1	27-SEP-2006	376	Netherlands: Wageningen	secondary	trnL-trnF	51.9750995	5.6636754	0.0072000722122899
+Spirodela_polyrhiza	DQ222867.1	27-SEP-2006	373	Belarus	secondary	trnL-trnF	43.657259	51.1500934	0.0123389258842861
+Spirodela_polyrhiza	DQ222858.1	27-SEP-2006	376	Russia: Cheboksary, Chuvashia	secondary	trnL-trnF	56.1307195	47.2449597	0.00586886653853103
+Spirodela_polyrhiza	DQ222857.1	27-SEP-2006	374	Russia: Moscow	secondary	trnL-trnF	55.7505412	37.6174782	0.00963500658178408
+Spirodela_polyrhiza	DQ222868.1	27-SEP-2006	375	Belarus: Gomel	secondary	trnL-trnF	52.4238936	31.0131698	0.00347452509641439
+Spirodela_polyrhiza	DQ222866.1	27-SEP-2006	376	Russia: Brin	secondary	trnL-trnF	54.0868091	35.1587204	0.00347026977726545
+Spirodela_polyrhiza	DQ222865.1	27-SEP-2006	376	Russia: Sergiev Posad	secondary	trnL-trnF	56.3153284	38.1359898	0.00347026977726545
+Spirodela_polyrhiza	DQ222864.1	27-SEP-2006	376	Russia: Blagoveshchensk	secondary	trnL-trnF	50.2600417	127.5337378	0.00347026977726545
+Spirodela_polyrhiza	DQ222860.1	27-SEP-2006	375	Russia: Volkovo, Amur region	secondary	trnL-trnF	50.2498677	127.776129	0.00347955836144023
+Spirodela_polyrhiza	DQ222859.1	27-SEP-2006	376	Russia: Vladimir	secondary	trnL-trnF	56.1288899	40.4075203	0.00347026977726545

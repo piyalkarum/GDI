@@ -1,0 +1,26 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_macloviana	KY203532.1	09-MAY-2017	632	USA: Alaska	secondary	trnK	65.0842076956739	-149.909148607631	6e-04
+Carex_macloviana	KY203531.1	09-MAY-2017	632	USA: Utah	secondary	trnK	39.4225192	-111.714358	6e-04
+Carex_macloviana	KY203530.1	09-MAY-2017	632	Greenland: Qeqqata	secondary	trnK	66.5	-48	6e-04
+Carex_macloviana	KY203529.1	09-MAY-2017	632	Norway: Troms	secondary	trnK	69.5311071	19.5296839	6e-04
+Carex_macloviana	KY203528.1	09-MAY-2017	632	USA: Washington	secondary	trnK	38.8950368	-77.0365427	6e-04
+Carex_macloviana	KY203527.1	09-MAY-2017	632	Canada: Yukon	secondary	trnK	63.4048255835303	-135.563091686673	6e-04
+Carex_macloviana	KY203526.1	09-MAY-2017	632	Finland: Lapland	secondary	trnK	67.6923521	26.7299683	6e-04
+Carex_macloviana	KY203525.1	09-MAY-2017	632	Canada: Yukon	secondary	trnK	63.0763280728866	-135.116905277436	6e-04
+Carex_macloviana	KY203522.1	09-MAY-2017	632	Finland: Fennia	secondary	trnK	65.0123314	25.4675907	6e-04
+Carex_macloviana	KY203521.1	09-MAY-2017	632	Greenland: Kujalleq	secondary	trnK	61	-45	6e-04
+Carex_macloviana	KY203520.1	09-MAY-2017	632	Canada: Alberta	secondary	trnK	55.001251	-115.002136	6e-04
+Carex_macloviana	KY203519.1	09-MAY-2017	632	Canada: British Columbia	secondary	trnK	55.001251	-125.002441	6e-04
+Carex_macloviana	KY203518.1	09-MAY-2017	632	USA: Alaska	secondary	trnK	64.7386578365761	-148.386508453035	6e-04
+Carex_macloviana	KY203513.1	09-MAY-2017	626	USA: Montana	secondary	trnK	47.3752671	-109.638757	6e-04
+Carex_macloviana	KY203512.1	09-MAY-2017	625	Chile: O'Higgins	secondary	trnK	-48.4730258	-72.8474931	6e-04
+Carex_macloviana	KY203511.1	09-MAY-2017	625	Argentina: Tierra del Fuego	secondary	trnK	-54.0862215907342	-66.9395236857859	6e-04
+Carex_macloviana	KY203510.1	09-MAY-2017	625	Argentina: Tierra del Fuego	secondary	trnK	-54.7661108238553	-67.2334753726016	0.00106666666666667
+Carex_macloviana	KY203509.1	09-MAY-2017	625	Chile: Malleco	secondary	trnK	-37.7960595	-72.6516866	0.00106666666666667
+Carex_macloviana	KY203508.1	09-MAY-2017	625	Chile: Nuble	secondary	trnK	-36.6331577	-71.9384821	0.00106666666666667
+Carex_macloviana	KY203507.1	09-MAY-2017	625	Argentina: Rio Negro	secondary	trnK	-40.4811973	-67.6145911	0.00106666666666667
+Carex_macloviana	KY203506.1	09-MAY-2017	625	Argentina: Tierra del Fuego	secondary	trnK	-53.8321679042592	-66.7640101435139	0.00106666666666667
+Carex_macloviana	KY203505.1	09-MAY-2017	625	Argentina: Santa Cruz	secondary	trnK	-48.5693327	-70.1606767	0.00106666666666667
+Carex_macloviana	KY203504.1	09-MAY-2017	625	Argentina: Tierra del Fuego	secondary	trnK	-54.281812730612	-66.9510786538365	0.00106666666666667
+Carex_macloviana	KY203503.1	09-MAY-2017	625	Argentina: Tierra del Fuego	secondary	trnK	-54.2458623090296	-66.4964164569389	0.00106666666666667
+Carex_macloviana	KY203502.1	09-MAY-2017	625	Argentina: Tierra del Fuego	secondary	trnK	-54.3983156846299	-68.7528297535349	0.00106666666666667

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_heldreichii	HE649543.1	04-FEB-2013	615	Greece	secondary	5.8S rRNA	43.1469767076185	-77.4120353912504	0.0103485838779956
+Gagea_heldreichii	HE649542.1	04-FEB-2013	615	Greece	secondary	5.8S rRNA	43.6846278099896	-77.3919845070125	0.0103485838779956
+Gagea_heldreichii	HE649541.1	04-FEB-2013	615	Greece	secondary	5.8S rRNA	42.4375483260175	-77.5299098588439	0.0103485838779956
+Gagea_heldreichii	AM265534.1	23-MAY-2006	673	Ukraine:Crimea	secondary	5.8S rRNA	45.6856952	33.9329411	0.0310457516339869

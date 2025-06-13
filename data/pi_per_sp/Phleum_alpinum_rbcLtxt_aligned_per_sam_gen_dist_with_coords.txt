@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phleum_alpinum	MK749366.1	08-FEB-2020	646	USA: Idaho, Pioneer Mountians, Hyndman Peak	primary	rbcL	43.74357	-114.12403	0.194233495913213
+Phleum_alpinum	MF596911.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Slatechuck Mountain. Rocky mountain ridge and associated grass/ sedge meadow, accessible only by hiking trail.	primary	rbcL	53.0191604072331	-132.195059695765	0.012706589165517
+Phleum_alpinum	MF596910.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Mount Raymond peak (accessible only by hiking trail).	primary	rbcL	53.646592222891	-133.105488634316	0.012706589165517
+Phleum_alpinum	MF596909.1	28-FEB-2018	603	Canada: British Columbia, McBride Peak, with alpine vegetation	primary	rbcL	53.2636727326517	-120.217254371103	0.012706589165517
+Phleum_alpinum	MF596908.1	28-FEB-2018	603	Canada: Alberta, Banff National Park, 11 mi NW of Mosquito Creek at Bow summit. Forest with Picea, Abies, Cassiope, Phyllodoce, Kalmia, and Salix.	primary	rbcL	51.6928036543132	-116.872854329402	0.012706589165517
+Phleum_alpinum	MF596907.1	28-FEB-2018	603	Canada: British Columbia, End of Hudson Bay Mountain Road at alpine ski area, W of Smithers. Parking lot edge with Lupinus, Poa alpinum, Abies lasiocarpa.	primary	rbcL	55.1401928767254	-126.22553768864	0.012706589165517
+Phleum_alpinum	MG228222.1	23-JAN-2018	603	Canada: British Columbia, End of Hudson Bay Mountain Road at alpine ski area, W of Smithers. Parking lot edge with Lupinus, Poa alpinum, Abies lasiocarpa.	primary	rbcL	54.4200470468221	-128.523451274997	0.012706589165517
+Phleum_alpinum	MG227820.1	23-JAN-2018	603	Canada: British Columbia, McBride Peak, with alpine vegetation	primary	rbcL	53.761467676075	-120.852474275186	0.012706589165517
+Phleum_alpinum	MG227434.1	23-JAN-2018	603	Canada: Alberta, Banff National Park, 11 mi NW of Mosquito Creek at Bow summit. Forest with Picea, Abies, Cassiope, Phyllodoce, Kalmia, and Salix.	primary	rbcL	51.5527699920648	-116.555286237626	0.012706589165517
+Phleum_alpinum	MG226477.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Slatechuck Mountain. Rocky mountain ridge and associated grass/ sedge meadow, accessible only by hiking trail.	primary	rbcL	52.6559333322862	-131.460964637217	0.012706589165517
+Phleum_alpinum	MG225826.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Mount Raymond peak (accessible only by hiking trail).	primary	rbcL	53.1506119142416	-132.165232640849	0.012706589165517
+Phleum_alpinum	MK925225.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.959896494139	-2.4281988902631	0.0141788074419535
+Phleum_alpinum	MK924863.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6784379269309	-2.27790800798187	0.0141788074419535
+Phleum_alpinum	MK924656.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1366182832111	-2.55527969176778	0.0141788074419535
+Phleum_alpinum	MK720943.1	01-JAN-2020	733	China	secondary	rbcL	35.0899202876408	104.149733968951	0.0121620401447605
+Phleum_alpinum	MF963088.1	10-OCT-2017	1292	USA: Plumas Co, CA	secondary	rbcL	39.933515	-120.9057229	0.0214603433880271
+Phleum_alpinum	KP711238.1	31-MAR-2016	1096	China	secondary	rbcL	34.9798804205523	105.335873763227	0.0181664022981896

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daphne_laureola	KX678228.1	29-APR-2017	552	Canada: British Columbia, Capital Regional District, Vancouver Island, Saanich Peninsula, Island View Beach	primary	rbcL	48.585	-123.372	0.000466417910447761
+Daphne_laureola	JN892035.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.45	-3.23	0.000476190476190476
+Daphne_laureola	HM849946.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00189498933901919
+Daphne_laureola	JN892068.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000476190476190476
+Daphne_laureola	JN892067.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.000476190476190476

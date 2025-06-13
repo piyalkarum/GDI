@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypericum_androsaemum	ON684520.1	21-AUG-2022	1437	Portugal: Meiral, Canidelo, Vila Nova de Gaia	primary	rbcL	41.12447	-8.64486	0
+Hypericum_androsaemum	ON684508.1	21-AUG-2022	1437	Portugal: Utopia, Pedreira, Povoa do Lanhoso	primary	rbcL	41.61855	-8.32338	0
+Hypericum_androsaemum	KX679132.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, North Vancouver, Capilano River, on cliff face where there is seepage	primary	rbcL	49.311	-123.019	0
+Hypericum_androsaemum	JN892725.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.24	0
+Hypericum_androsaemum	MK925166.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Hypericum_androsaemum	JN892756.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0
+Hypericum_androsaemum	JN891732.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.799515744154	-5.65988046486408	0
+Hypericum_androsaemum	JN891731.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.5380782095655	-5.2018597234202	0
+Hypericum_androsaemum	MW818134.1	05-APR-2021	186	Spain	secondary	rbcL	28.6551163	-17.8572685655797	0

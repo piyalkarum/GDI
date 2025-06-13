@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_piperita	ON684595.1	21-AUG-2022	1530	Portugal: Meiral, Canidelo, Vila Nova de Gaia	primary	matK	41.12447	-8.64486	0.00503758182165401
+Mentha_piperita	KX783718.1	31-MAY-2017	786	Egypt: Alexandria, Mariot, Mostafa Kamel Village	primary	matK	30.926	29.776	0.00161770322404898
+Mentha_piperita	KX783716.1	31-MAY-2017	777	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	31.2	30.022	0.00132706185716916
+Mentha_piperita	LC374288.1	17-MAR-2018	810	Saudi Arabia: Taif	secondary	matK	21.2702801	40.4158308	0.00327251321059782
+Mentha_piperita	LC126649.1	03-AUG-2016	820	Japan	secondary	matK	36.6894492762356	139.064950937909	0.00315247461107922
+Mentha_piperita	LC126648.1	03-AUG-2016	820	Japan	secondary	matK	36.3899252260361	139.392462580546	0.00659347832645891
+Mentha_piperita	LC126647.1	03-AUG-2016	820	Japan	secondary	matK	36.7410791836485	139.196088348883	0.00512287268211768
+Mentha_piperita	KP172055.1	04-FEB-2015	797	Pakistan	secondary	matK	30.3308401	71.247499	0.00274815071348332
+Mentha_piperita	FR719056.1	30-MAR-2011	810	Italy	secondary	matK	43.083626984534	12.7567863290556	0.00217569230520711
+Mentha_piperita	FR719055.1	30-MAR-2011	810	Italy	secondary	matK	41.8554970304178	12.4549099297827	0.00159346724635736

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_infectoria	MT465755.1	28-SEP-2020	569	Greece	secondary	psbA-trnH	43.2097838	-77.6930602	0.231400117164616
+Quercus_infectoria	HE591306.1	30-SEP-2011	572	Lebanon	secondary	psbA-trnH	40.375713	-76.4626118	0.0779124143105274
+Quercus_infectoria	HE591305.1	30-SEP-2011	570	Turkey	secondary	psbA-trnH	38.9597594	34.9249653	0.080253651116661
+Quercus_infectoria	HE591304.1	30-SEP-2011	571	Cyprus	secondary	psbA-trnH	34.9174159	32.8899027	0.0779124143105274

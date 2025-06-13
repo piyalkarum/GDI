@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anchusa_arvensis	MT930667.1	03-MAR-2023	565	China	secondary	rbcL	35.4530655314721	105.909832598719	0.00166630260922072
+Anchusa_arvensis	MT930666.1	03-MAR-2023	565	China	secondary	rbcL	34.7047276583804	105.871081182652	0.00166630260922072
+Anchusa_arvensis	MK924878.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1051157402511	-3.89664081237953	0.000461254612546125
+Anchusa_arvensis	MK924710.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4475667037272	-3.23747280022133	0.000461254612546125
+Anchusa_arvensis	MG223546.1	26-DEC-2017	553	Canada: Ontario, Bruce Co., Lions Head.	secondary	rbcL	44.9871951	-81.2527224	0.000452079566003617
+Anchusa_arvensis	MG222990.1	26-DEC-2017	527	Canada: Ontario, Spring Bay to Providence Bay side road, NE of Sand Lakes, Campbell Twp. Manitoulin Is.	secondary	rbcL	43.72634945	-77.7101179040839	0.00047438330170778
+Anchusa_arvensis	EU599894.1	31-MAR-2009	1195	Italy	secondary	rbcL	42.6384261	12.674297	0.000533049040511727
+Anchusa_arvensis	JN893638.1	07-MAR-2012	528	United Kingdom: Glamorgan	secondary	rbcL	51.4509249933039	-4.31289172291585	0.000473484848484848
+Anchusa_arvensis	JN892944.1	07-MAR-2012	524	United Kingdom: Glamorgan	secondary	rbcL	51.6167229185405	-3.05944446300007	0.000477099236641221

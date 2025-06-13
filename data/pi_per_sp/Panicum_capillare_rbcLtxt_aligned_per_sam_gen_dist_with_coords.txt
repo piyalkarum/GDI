@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Panicum_capillare	OP023390.1	13-JUN-2023	333	India	primary	rbcL	17.38	78.49	0.0146880569626185
+Panicum_capillare	OP023389.1	13-JUN-2023	365	India	primary	rbcL	17.38	78.48	0.0428426481104713
+Panicum_capillare	MF596898.1	28-FEB-2018	603	Canada: British Columbia, Vancouver, Jericho Beach Park, corner of NW Marine Drive and Discovery, by Jericho Arts Centre.	primary	rbcL	50.0893471344845	-123.446508113459	0.002375999759097
+Panicum_capillare	MF596897.1	28-FEB-2018	603	USA: California, Shasta Co., Along hwy 89, 0.6 mi N of Clark Creek Road (FS-50).	primary	rbcL	41.005	-121.633	0.00372234884354133
+Panicum_capillare	MF596896.1	28-FEB-2018	603	USA: California, Siskiyou Co., @ 3 mi SW of Scott Bar on Hwy 7F-01 towards Kelsey Creek, along Scott River.	primary	rbcL	41.728	-123.01	0.002375999759097
+Panicum_capillare	MF596895.1	28-FEB-2018	603	Canada: Ontario, Ottawa, Sandy Hill area, corner of Marleborough Avenue and Osgoode Street, just W of Rideau River. Growing cracks in the sidewalk.	primary	rbcL	44.6224578547453	-75.4515182712495	0.002375999759097
+Panicum_capillare	MF596894.1	28-FEB-2018	603	Canada: British Columbia, Vancouver, Jericho Beach Park, corner of NW Marine Drive and Discovery, by Jericho Arts Centre.	primary	rbcL	48.634133662979	-122.741068169169	0.002375999759097
+Panicum_capillare	MG228230.1	23-JAN-2018	603	Canada: British Columbia, Vancouver, Jericho Beach Park, corner of NW Marine Drive and Discovery, by Jericho Arts Centre.	primary	rbcL	48.6163345197625	-122.333076950431	0.002375999759097
+Panicum_capillare	MG228071.1	23-JAN-2018	603	Canada: Ontario, Ottawa, Sandy Hill area, corner of Marleborough Avenue and Osgoode Street, just W of Rideau River. Growing cracks in the sidewalk.	primary	rbcL	44.8099846191413	-74.9894822358289	0.002375999759097
+Panicum_capillare	MG227970.1	23-JAN-2018	553	Canada: Ontario, Niagara, Niagara, Vineland	primary	rbcL	43.1539	-79.3922	0.00242592443565533
+Panicum_capillare	MG227662.1	23-JAN-2018	603	Canada: British Columbia, Vancouver, Jericho Beach Park, corner of NW Marine Drive and Discovery, by Jericho Arts Centre.	primary	rbcL	49.5912573096089	-124.277405530475	0.002375999759097
+Panicum_capillare	MG227618.1	23-JAN-2018	553	Canada: Ontario, Wellington, Wellington, Arkell Station	primary	rbcL	43.537	-80.1678	0.00242592443565533
+Panicum_capillare	MG227170.1	23-JAN-2018	553	Canada: Ontario, Wellington County, Wellington County, OAC Herbarium and BIO Grounds	primary	rbcL	43.5485	-80.2503	0.00242592443565533
+Panicum_capillare	MG227129.1	23-JAN-2018	552	Canada: Ontario, Norfolk County, Norfolk Township, 100m south of intersection of East 1/4 line road and Highway #24	primary	rbcL	42.682	-80.477	0.00242616709779489
+Panicum_capillare	MG226589.1	23-JAN-2018	553	Canada: Ontario, Regional Municipality of York, Regional Municipality of York, KSR West, Echo Valley Parking Lot	primary	rbcL	43.857	-79.423	0.00425798035651394
+Panicum_capillare	MG225969.1	23-JAN-2018	553	Canada: Ontario, Durham, Durham, Uxbridge	primary	rbcL	44.1114	-79.1233	0.00425798035651394
+Panicum_capillare	MG225958.1	23-JAN-2018	553	Canada: Ontario, Norfolk County, Norfolk County, 100m south of intersection of East 1/4 line road and Highway #24	primary	rbcL	42.8033	-80.4086	0.00242592443565533
+Panicum_capillare	MG225920.1	23-JAN-2018	553	Canada: Ontario, Wellington, Wellington, Elora Research Station	primary	rbcL	43.6833	-80.4333	0.00242592443565533
+Panicum_capillare	MG225565.1	23-JAN-2018	552	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	rbcL	43.529	-80.229	0.00242616709779489
+Panicum_capillare	HQ590199.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, Echo Valley Parking Lot	primary	rbcL	44.025	-79.53	0.00237502380644827
+Panicum_capillare	KJ841444.1	04-NOV-2014	555	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Near Pain de Sucre	primary	rbcL	45.551	-73.172	0.00206046059610766
+Panicum_capillare	KJ841443.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, on north side of road that connects reasearch building and chalets	primary	rbcL	45.537	-73.1518	0.00242616709779489
+Panicum_capillare	KX198599.1	28-SEP-2016	570	USA: Indiana	secondary	rbcL	40.0630492542863	-86.7657975574897	0.0024194490431643
+Panicum_capillare	KX198598.1	28-SEP-2016	587	USA: Indiana	secondary	rbcL	40.3291882576107	-85.3586436034234	0.00237892357080501
+Panicum_capillare	KX198597.1	28-SEP-2016	717	USA: Indiana	secondary	rbcL	41.1696900878477	-86.1283243313868	0.00248200609636054
+Panicum_capillare	KX198593.1	28-SEP-2016	554	Canada: Ontario	secondary	rbcL	50.000678	-86.000977	0.0024132529894566
+Panicum_capillare	HM850227.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00243477327019571
+Panicum_capillare	AM849355.1	09-JAN-2008	1398	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.00242785838139411

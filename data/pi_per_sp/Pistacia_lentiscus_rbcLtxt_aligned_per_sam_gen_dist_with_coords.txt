@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pistacia_lentiscus	OL537055.1	10-JAN-2022	553	USA: Missouri	primary	rbcL	38.6145	-90.2591	0.503059538186797
+Pistacia_lentiscus	KU504609.1	30-JUL-2016	842	Spain: Granada	primary	rbcL	36.88	-3.3	0.151359052975597
+Pistacia_lentiscus	KU504608.1	30-JUL-2016	833	Spain: Cordoba	primary	rbcL	38.7	-5.08	0.146280089619381
+Pistacia_lentiscus	KU504607.1	30-JUL-2016	843	Spain: Huesca	primary	rbcL	42.18	-0.06	0.147618554808603
+Pistacia_lentiscus	KU504606.1	30-JUL-2016	840	Algeria: Oran	primary	rbcL	36.2696172481223	-1.09490801709834	0.147014778596233
+Pistacia_lentiscus	KU504605.1	30-JUL-2016	842	Algeria: Oran	primary	rbcL	35.8346854672209	-0.140390123559806	0.147119562099783
+Pistacia_lentiscus	KU504604.1	30-JUL-2016	840	Cyprus: Lamaka	primary	rbcL	34.9	33.31	0.145773630246165
+Pistacia_lentiscus	KM527352.1	15-SEP-2015	560	Croatia	secondary	rbcL	45.3658443	15.6575209	0.527097939699977
+Pistacia_lentiscus	KP031679.1	07-FEB-2015	749	Syria	secondary	rbcL	34.6401861	39.0494106	0.145583139737412

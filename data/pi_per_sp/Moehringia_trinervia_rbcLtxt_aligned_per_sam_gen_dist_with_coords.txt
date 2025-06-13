@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Moehringia_trinervia	JN893436.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.67	-2.68	0
+Moehringia_trinervia	JN892473.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Moehringia_trinervia	JN892472.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Moehringia_trinervia	JN891187.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0

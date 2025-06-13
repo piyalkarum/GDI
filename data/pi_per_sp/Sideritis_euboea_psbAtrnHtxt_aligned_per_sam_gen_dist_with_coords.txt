@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sideritis_euboea	KT633352.1	14-NOV-2017	371	Greece: Athens, herbal store	secondary	psbA-trnH	38.1904122669556	23.4676286118476	0
+Sideritis_euboea	KT633313.1	14-NOV-2017	483	Greece: Athens, herbal store	secondary	psbA-trnH	38.3088777145733	23.767367978025	0.000324675324675325
+Sideritis_euboea	KT633307.1	14-NOV-2017	465	Greece: Athens, drag store	secondary	psbA-trnH	37.5126451388416	24.7006251767765	0.000324675324675325
+Sideritis_euboea	KT633299.1	14-NOV-2017	474	Greece: Thessaloniki, herbal store	secondary	psbA-trnH	40.6403167	22.9352716	0.000324675324675325
+Sideritis_euboea	KT633287.1	14-NOV-2017	427	Greece: Veria, coffee grinder store	secondary	psbA-trnH	40.517641160322	21.7871888093791	0
+Sideritis_euboea	KT633286.1	14-NOV-2017	422	Greece: Veria, coffee grinder store	secondary	psbA-trnH	41.3728964923396	22.2810447944086	0
+Sideritis_euboea	KT633277.1	14-NOV-2017	440	Greece: Athens, herbal store	secondary	psbA-trnH	38.1136692139274	22.946915087722	0.000974025974025974
+Sideritis_euboea	KT633276.1	14-NOV-2017	437	Greece: Athens, Cretan products store	secondary	psbA-trnH	38.61384900622	23.2779977908793	0

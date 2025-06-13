@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_tisoniana	LT985851.1	14-JUN-2019	210	Italy	secondary	trnL-trnF	43.2437449454946	11.9374489773062	0
+Gagea_tisoniana	LT985850.1	14-JUN-2019	210	Italy	secondary	trnL-trnF	42.0277957384952	13.2623330669076	0
+Gagea_tisoniana	LT985849.1	14-JUN-2019	211	Italy	secondary	trnL-trnF	42.7662074454509	12.9768093511988	0
+Gagea_tisoniana	AM409358.1	02-NOV-2006	259	Italy	secondary	trnL-trnF	42.4255266120236	13.3111489944993	0

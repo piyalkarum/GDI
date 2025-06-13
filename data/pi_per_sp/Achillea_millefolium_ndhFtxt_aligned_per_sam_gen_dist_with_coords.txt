@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achillea_millefolium	MK800619.1	04-FEB-2020	489	USA: Idaho, White Cloud Mountains, D.O. Lee Peak	primary	ndhF	44.10969	-114.63886	0
+Achillea_millefolium	MK800618.1	04-FEB-2020	489	USA: Idaho, Pioneer Mountians, Hyndman Peak	primary	ndhF	43.74938	-114.1312	0
+Achillea_millefolium	MK800617.1	04-FEB-2020	489	USA: Idaho, Pioneer Mountians, Salzburger Spitzl	primary	ndhF	43.77446	-114.15942	0
+Achillea_millefolium	MK800616.1	04-FEB-2020	489	USA: Idaho, White Cloud Mountains, Castle Peak	primary	ndhF	44.04019	-114.58878	0
+Achillea_millefolium	MK800615.1	04-FEB-2020	489	USA: Idaho, Sawtooth Mountains, Horstmann Peak	primary	ndhF	44.1117	-115.00318	0

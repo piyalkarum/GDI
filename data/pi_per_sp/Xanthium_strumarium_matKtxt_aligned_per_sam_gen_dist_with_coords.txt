@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Xanthium_strumarium	OQ847566.1	15-AUG-2023	795	USA: American Prairie Blue Ridge Unit	primary	matK	47.747	-107.5706	0.0297322985885956
+Xanthium_strumarium	MH070469.1	14-JAN-2019	792	China	primary	matK	23.57	113.64	0.0307775404228207
+Xanthium_strumarium	MH070468.1	14-JAN-2019	792	China	primary	matK	22.44	114.33	0.0304614847970306
+Xanthium_strumarium	MH070594.1	24-DEC-2018	791	China	primary	matK	24.1	114.28	0.0306559685786465
+Xanthium_strumarium	MF694892.1	16-SEP-2018	811	Pakistan: Khyber Pakhtunkhwa, Swat	primary	matK	34.761	72.36	0.0305459755831469
+Xanthium_strumarium	KP210453.1	28-NOV-2015	799	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	matK	45.535	-73.149	0.0307142999232849
+Xanthium_strumarium	ON981793.1	17-OCT-2022	1101	Kenya	secondary	matK	1.4419683	38.4313975	0.0369562621939697
+Xanthium_strumarium	KX272487.1	08-FEB-2017	909	China: LiaoNing	secondary	matK	41.2374106	122.9955469	0.225057129071757
+Xanthium_strumarium	HM850670.1	23-JUL-2011	738	Portugal	secondary	matK	39.6621648	-8.1353519	0.035138234291509

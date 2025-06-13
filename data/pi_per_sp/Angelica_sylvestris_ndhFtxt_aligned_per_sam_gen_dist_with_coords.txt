@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Angelica_sylvestris	MT765893.1	05-MAY-2021	1015	Switzerland	secondary	ndhF	46.7985624	8.2319736	0.00198511313073937
+Angelica_sylvestris	MT765891.1	05-MAY-2021	1043	USA	secondary	ndhF	40.121420707395	-99.609021745325	0.00193511191361896
+Angelica_sylvestris	MT765890.1	05-MAY-2021	1052	Iceland	secondary	ndhF	64.9841821	-18.1059013	0.00193419178365981
+Angelica_sylvestris	MT765889.1	05-MAY-2021	1042	Russia	secondary	ndhF	64.6863136	97.7453061	0.00145717173851432
+Angelica_sylvestris	MT765888.1	05-MAY-2021	1044	USA	secondary	ndhF	40.2507686470218	-101.050201217183	0.00145434533452353

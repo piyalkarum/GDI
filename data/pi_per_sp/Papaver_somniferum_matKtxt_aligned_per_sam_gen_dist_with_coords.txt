@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Papaver_somniferum	MG221004.1	21-JAN-2018	777	Canada: Ontario, City of Toronto, City of Toronto, Base of Leslie Street Spit	primary	matK	43.647	-79.32	0
+Papaver_somniferum	JN896016.1	07-MAR-2012	781	United Kingdom: Breconshire	primary	matK	51.79	-3.73	0
+Papaver_somniferum	MT707523.1	03-AUG-2021	856	South Korea	secondary	matK	36.4742282840924	128.30209182349	0
+Papaver_somniferum	MT707522.1	03-AUG-2021	856	South Korea	secondary	matK	37.507623492544	127.579091946964	0
+Papaver_somniferum	MG769009.1	30-OCT-2018	806	South Korea	secondary	matK	36.5255647040747	128.237163022307	0
+Papaver_somniferum	MG769008.1	30-OCT-2018	806	South Korea	secondary	matK	36.955203453272	128.444437240498	0
+Papaver_somniferum	MH287273.1	18-JUN-2018	883	Pakistan	secondary	matK	30.3308401	71.247499	0
+Papaver_somniferum	HM851029.1	23-JUL-2011	813	Portugal	secondary	matK	39.1105846590406	-8.7462213508062	0
+Papaver_somniferum	HM851028.1	23-JUL-2011	813	Portugal	secondary	matK	39.4486529208867	-8.4390003083758	0
+Papaver_somniferum	JN895410.1	07-MAR-2012	833	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Papaver_somniferum	JN895409.1	07-MAR-2012	754	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0

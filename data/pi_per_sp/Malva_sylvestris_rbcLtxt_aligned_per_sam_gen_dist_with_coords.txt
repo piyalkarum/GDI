@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Malva_sylvestris	MH078523.1	29-MAY-2018	541	Ecuador	primary	rbcL	-1.607808	-78.644835	0.00021035629620077
+Malva_sylvestris	MG249589.1	21-JAN-2018	552	Canada: Durham Co	primary	rbcL	44.7304485197637	-77.7120309850451	0.000107665805340224
+Malva_sylvestris	MG249062.1	21-JAN-2018	552	Canada: Durham Co	primary	rbcL	44.0792256203802	-78.7254027270877	0.000107665805340224
+Malva_sylvestris	MG247933.1	21-JAN-2018	552	Canada: UofG campus	primary	rbcL	43.5485	-80.2503	0.000107665805340224
+Malva_sylvestris	MG246827.1	21-JAN-2018	552	Canada: Regina	primary	rbcL	50.4553	-104.61	0.000107665805340224
+Malva_sylvestris	MG246102.1	21-JAN-2018	552	Canada: Ste-Foy, Quebec 10	primary	rbcL	46.7833	-71.3	0.000107665805340224
+Malva_sylvestris	MF349342.1	21-SEP-2017	553	USA: District of Columbia; Smithsonian National Museum of American History. Right of main entrance	primary	rbcL	38.822	-77.003	0.000107665805340224
+Malva_sylvestris	JN893198.1	07-MAR-2012	535	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.31	0.000107665805340224
+Malva_sylvestris	MK521572.1	31-OCT-2019	516	Iran: Tehran	secondary	rbcL	35.6892523	51.3896004	0.000107665805340224
+Malva_sylvestris	MK521571.1	31-OCT-2019	519	Iran: Khorasan Razavi	secondary	rbcL	35.5691553372361	58.2024902556187	0.000107665805340224
+Malva_sylvestris	MK521570.1	31-OCT-2019	525	Iran: Kerman	secondary	rbcL	30.2124687562485	56.7426990300376	0.000107665805340224
+Malva_sylvestris	MK521569.1	31-OCT-2019	525	Iran: Kerman	secondary	rbcL	28.964282036168	57.9366882455094	0.000107665805340224
+Malva_sylvestris	MK521568.1	31-OCT-2019	516	Iran: Hormozgan	secondary	rbcL	27.7198095	56.335807	0.000107665805340224
+Malva_sylvestris	MK521567.1	31-OCT-2019	516	Iran: Khorasan Razavi	secondary	rbcL	35.3701706206554	59.1959494867033	0.00193798449612403
+Malva_sylvestris	MK521566.1	31-OCT-2019	522	Iran: Kerman	secondary	rbcL	29.3646353937765	56.5834249732749	0.000107665805340224
+Malva_sylvestris	MK521565.1	31-OCT-2019	597	Iran: Khorasan Razavi	secondary	rbcL	34.9783013210019	59.8408543656514	0.00021035629620077
+Malva_sylvestris	KJ204373.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000107665805340224
+Malva_sylvestris	JN891505.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000107665805340224
+Malva_sylvestris	JN891177.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000107665805340224

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Primula_egaliksensis	MG224479.1	26-DEC-2017	492	Canada: Yukon Territory, Wolf Lake	primary	rbcL	60.71	-131.735	0
+Primula_egaliksensis	MG223867.1	26-DEC-2017	507	Canada: Yukon Territory, Keele Range	primary	rbcL	66.967	-140.801	0
+Primula_egaliksensis	MG223063.1	26-DEC-2017	501	Canada: Northwest Territories, Lower Brock River, vicinity of, west of Tuktut Nogait National Park. Unnamed lake ~2.5 km NE of river	primary	rbcL	68.398	-123.045	0
+Primula_egaliksensis	KC483686.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Firth River	primary	rbcL	68.88	-140.423	0
+Primula_egaliksensis	KC483685.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. In the vicinity of the fresh water lake in lowlands 1 km W of Kihlbay	primary	rbcL	56.472	-79.042	0
+Primula_egaliksensis	JN965779.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas heath	primary	rbcL	58.769	-93.862	0

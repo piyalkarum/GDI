@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_fuliginosa	FJ548408.1	30-AUG-2009	480	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.32	-79.23	0.000355366027007818
+Carex_fuliginosa	FJ548407.1	30-AUG-2009	469	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.44	-80.21	0.000355366027007818
+Carex_fuliginosa	FJ548406.1	30-AUG-2009	497	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	70.91	-79.57	0.00170494346447717
+Carex_fuliginosa	FJ548405.1	30-AUG-2009	491	Canada: Nunuavut, Baffin Island, Ogac Lake, Ney Harbour	primary	atpF-atpH	62.86	-67.35	0.00137369596590802
+Carex_fuliginosa	FJ548404.1	30-AUG-2009	470	Canada: Nunuavut, Scoresby Bay	primary	atpF-atpH	72.88	-71.55	0.00216352773751396
+Carex_fuliginosa	FJ548403.1	30-AUG-2009	498	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.87	-80.89	0.00136550015151043
+Carex_fuliginosa	FJ548402.1	30-AUG-2009	431	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.59	-79.99	0.000386697602474865

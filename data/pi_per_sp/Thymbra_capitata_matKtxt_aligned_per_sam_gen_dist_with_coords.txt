@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymbra_capitata	HE819442.1	22-MAY-2013	795	Italy:Puglia	primary	matK	40.08	18.48	0
+Thymbra_capitata	HE819441.1	22-MAY-2013	795	Italy:Lazio	primary	matK	41.3	13.55	0
+Thymbra_capitata	HE819440.1	22-MAY-2013	795	Italy:Sicilia	primary	matK	37.15	15.23	0
+Thymbra_capitata	KX758468.1	29-AUG-2017	450	Egypt	secondary	matK	26.2540493	29.2675469	0

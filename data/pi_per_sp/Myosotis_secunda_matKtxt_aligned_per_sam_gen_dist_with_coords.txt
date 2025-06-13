@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosotis_secunda	JN895881.1	07-MAR-2012	787	United Kingdom: Cardiganshire	primary	matK	52.39	-3.85	0
+Myosotis_secunda	HM850874.1	23-JUL-2011	807	Portugal	secondary	matK	39.6621648	-8.1353519	0
+Myosotis_secunda	JN895415.1	07-MAR-2012	811	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0
+Myosotis_secunda	JN895366.1	07-MAR-2012	761	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0

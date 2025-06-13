@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sonchus_tenerrimus	KU586786.1	06-FEB-2017	542	Spain: Castellon	secondary	matK	40.2518568	-0.0615052	0.000461254612546125
+Sonchus_tenerrimus	DQ840452.1	13-AUG-2006	2804	Australia	secondary	matK	-24.7761086	134.755	0.00183755097277679
+Sonchus_tenerrimus	DQ507994.1	01-JUL-2006	2801	Spain	secondary	matK	39.3260685	-4.8379791	0.000535523027490182
+Sonchus_tenerrimus	DQ507993.1	01-JUL-2006	2801	Italy	secondary	matK	42.6384261	12.674297	0.000535523027490182
+Sonchus_tenerrimus	HM850663.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.000305250305250305

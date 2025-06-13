@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_bigelowii	FJ548304.1	30-AUG-2009	512	Canada: Northwest Territories, SW Banks Is, Mosik River Valley	primary	rpoB	71.1178858582787	-126.092436412973	0.000245579567779961
+Carex_bigelowii	FJ548303.1	30-AUG-2009	524	Canada: Northwest Territories, Banks Island, Mesik River	primary	rpoB	71.4857168734009	-126.379475460834	0.000243190661478599
+Carex_bigelowii	FJ548302.1	30-AUG-2009	511	Canada: Nunuavut, Baffin Island, Kimmiru, Hameau	primary	rpoB	62.85	-69.87	0.000244618395303327
+Carex_bigelowii	FJ548301.1	30-AUG-2009	514	Canada: Nunuavut, E of Baffin Island, Brevoort Island	primary	rpoB	63.34	-64.15	0.00196656793714295
+Carex_bigelowii	FJ548300.1	30-AUG-2009	480	Canada: Nunuavut, Baffin Island, Baffinland Iron Mines, Mary River Project (Outcrop Limited). Steensby Inlet port site, small stream cascading down slope	primary	rpoB	70.3	-78.49	0.000260416666666667
+Carex_bigelowii	FJ548299.1	30-AUG-2009	514	Canada: Nunuavut, Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbor, NE-facing shady slope above E arm of lake, 30-80 m	primary	rpoB	61.82	-65.7	0.000243190661478599
+Carex_bigelowii	FJ548298.1	30-AUG-2009	518	Canada: Nunuavut, Baffin Island, between Apex and Iqaluit	primary	rpoB	63.74	-68.48	0.000243190661478599
+Carex_bigelowii	FJ548297.1	30-AUG-2009	515	Canada: Nunuavut, Baffin Island, head of Clyde Inlet, outwash from Caribou Falls	primary	rpoB	69.83	-70.67	0.000243190661478599
+Carex_bigelowii	FJ548296.1	30-AUG-2009	519	USA: New Hampshire, Coos County, White Mountain National Forest, 2.1 mi below summit of Mt. Washington along auto road	primary	rpoB	44.28	-71.28	0.000243190661478599

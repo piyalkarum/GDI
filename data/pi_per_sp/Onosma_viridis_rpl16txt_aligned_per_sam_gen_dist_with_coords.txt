@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Onosma_viridis	JX267881.1	18-SEP-2012	1084	Romania: Moldovenesti	secondary	rpl16	46.5005469	23.6644851	0
+Onosma_viridis	JX267880.1	18-SEP-2012	1084	Romania: Deva	secondary	rpl16	45.8817402	22.9008611	0
+Onosma_viridis	JX267879.1	18-SEP-2012	1084	Romania: Orsova	secondary	rpl16	44.9268469915379	22.0997088897502	0
+Onosma_viridis	JX267878.1	18-SEP-2012	1084	Romania: Orsova	secondary	rpl16	44.2441518827021	21.3618194871953	0

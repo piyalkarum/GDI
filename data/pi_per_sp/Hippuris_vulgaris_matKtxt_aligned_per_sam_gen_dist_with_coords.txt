@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hippuris_vulgaris	KX676522.1	09-AUG-2017	797	Canada: British Columbia, Greater Vancouver Regional District, Fraser delta, Richmond, Kirkland Island, northeast end	primary	matK	49.1103	-123.091	0.00134454232906991
+Hippuris_vulgaris	KC474904.1	25-OCT-2013	678	Canada: Nunavut, Baker Lake, Baker Lake. About 3.5 km N of the settlement. Under the S slope of the 4th ridge at NW end of the long lake draining to NW	primary	matK	64.35	-96.0167	0.00147492625368732
+Hippuris_vulgaris	KC474903.1	25-OCT-2013	767	USA: Alaska, Fairbanks Quad, Goldstream Valley	primary	matK	64.917	-146.917	0.00143484077681485
+Hippuris_vulgaris	KC474902.1	25-OCT-2013	767	Canada: Yukon Territory, Blow River Delta east, Mainland south of delta	primary	matK	68.865	-137	0.00143484077681485
+Hippuris_vulgaris	KC474901.1	25-OCT-2013	762	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Unnamed cove on west coast, 1/2 way down island, lake 1 km SE of camp at coast	primary	matK	56.25	-79.608	0.00131302666114104
+Hippuris_vulgaris	KC474900.1	25-OCT-2013	783	Canada: Northwest Territories, Mackenzie District, Chick Lake	primary	matK	65.883	-128.217	0.0017379686596753
+Hippuris_vulgaris	JN966336.1	27-OCT-2012	787	Canada: Manitoba, Churchill, 23 km E Churchill, Ramsay Creek, Tundra, creek bank	primary	matK	58.731	-93.78	0.00173602130637186
+Hippuris_vulgaris	JN966335.1	27-OCT-2012	787	Canada: Manitoba, Churchill, Wapusk National Park, South of Hoot Creek, Fen and melt pond	primary	matK	57.351	-93.523	0.00140426113910662
+Hippuris_vulgaris	JN895316.1	07-MAR-2012	849	United Kingdom: Pembrokeshire	primary	matK	51.72	-4.84	0.00171332634857806
+Hippuris_vulgaris	JN895911.1	07-MAR-2012	843	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00249001253237725
+Hippuris_vulgaris	JN895910.1	07-MAR-2012	804	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00173679931487493

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_gramineus	AB491756.1	13-APR-2012	694	Japan:Fukui, Fukui	secondary	26S rRNA	35.7580670602037	136.620245723145	0
+Potamogeton_gramineus	AB491755.1	13-APR-2012	694	Japan:Fukui, Fukui	secondary	26S rRNA	36.1402023760747	136.514047825481	0
+Potamogeton_gramineus	AB491754.1	13-APR-2012	694	Japan:Fukui, Fukui	secondary	26S rRNA	35.9380498115336	137.263956794859	0
+Potamogeton_gramineus	AB491753.1	13-APR-2012	694	Japan:Fukui, Fukui	secondary	26S rRNA	36.321396404398	135.649107298461	0

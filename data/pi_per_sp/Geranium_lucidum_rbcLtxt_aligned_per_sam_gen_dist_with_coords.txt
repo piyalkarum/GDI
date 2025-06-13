@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geranium_lucidum	KX679274.1	29-APR-2017	552	Canada: British Columbia, Capital Regional District, Salt Spring Island, opposite 1214 North Beach Road	primary	rbcL	48.918	-123.546	0
+Geranium_lucidum	JN893709.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0
+Geranium_lucidum	JX913527.1	11-OCT-2013	1050	Spain	secondary	rbcL	39.3260685	-4.8379791	0
+Geranium_lucidum	JN892290.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Geranium_lucidum	JN892289.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0

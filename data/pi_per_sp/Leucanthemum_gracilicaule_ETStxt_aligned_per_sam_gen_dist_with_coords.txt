@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_gracilicaule	HG516024.2	04-APR-2014	447	Spain:Alicante	primary	ETS	39.2327564212662	0.388951137788477	0.00298284862043251
+Leucanthemum_gracilicaule	HG516023.2	04-APR-2014	447	Spain:Alicante	primary	ETS	38.0052972083215	-0.363790618986944	0.00149142431021626
+Leucanthemum_gracilicaule	HG516022.2	04-APR-2014	447	Spain:Alicante	primary	ETS	38.2278805128376	0.580325328064663	0.00149142431021626
+Leucanthemum_gracilicaule	HG516021.2	04-APR-2014	447	Spain:Alicante	primary	ETS	38.74609980264	-0.322381498107638	0.00298284862043251

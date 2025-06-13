@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ruppia_drepanensis	KX758430.1	18-SEP-2017	455	Algeria	secondary	psbA-trnH	28.0000272	2.9999825	0
+Ruppia_drepanensis	KX758429.1	18-SEP-2017	452	Spain	secondary	psbA-trnH	39.2495222810045	-4.00275400030178	0
+Ruppia_drepanensis	KX758428.1	18-SEP-2017	451	Spain	secondary	psbA-trnH	39.3623151254088	-5.30819334057376	0
+Ruppia_drepanensis	KR263133.1	16-APR-2016	360	Spain: Cadiz	secondary	psbA-trnH	36.5262463	-5.9008367	0
+Ruppia_drepanensis	JN113266.1	04-DEC-2011	451	Spain	secondary	psbA-trnH	39.5526546754188	-3.97319452019228	0

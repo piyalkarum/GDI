@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_pseudophragmites	OL540271.1	16-AUG-2022	820	India	secondary	rps16	22.7137518066725	78.9642765189888	0.269571639586411
+Calamagrostis_pseudophragmites	OL540270.1	16-AUG-2022	820	Kyrgyzstan	secondary	rps16	41.76833244632	74.095065138491	0.269571639586411
+Calamagrostis_pseudophragmites	OL540269.1	16-AUG-2022	820	Armenia	secondary	rps16	4.84912313649942	-76.3922430690969	0.269571639586411
+Calamagrostis_pseudophragmites	OL540180.1	16-AUG-2022	728	India	secondary	rps16	22.1695005297536	79.0522976600395	0.359428852781881
+Calamagrostis_pseudophragmites	OL540179.1	16-AUG-2022	728	Kyrgyzstan	secondary	rps16	42.1467334106361	73.8877144294081	0.359428852781881
+Calamagrostis_pseudophragmites	OL540178.1	16-AUG-2022	728	Armenia	secondary	rps16	4.64710635457588	-75.0170694841098	0.359428852781881
+Calamagrostis_pseudophragmites	MT410002.1	14-DEC-2020	817	Greece	secondary	rps16	43.2097838	-77.6930602	0.269571639586411

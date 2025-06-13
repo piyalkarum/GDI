@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Onopordum_acanthium	MG223478.1	26-DEC-2017	552	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0
+Onopordum_acanthium	JN892529.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.53	-3.16	0
+Onopordum_acanthium	MT930530.1	03-MAR-2023	571	China	secondary	rbcL	34.8784065577697	105.954906064735	0
+Onopordum_acanthium	MN192535.1	30-NOV-2021	723	China	secondary	rbcL	34.7229515870428	105.037396453518	0
+Onopordum_acanthium	MN185083.1	27-APR-2021	722	China	secondary	rbcL	34.5777308198814	105.830242786267	0
+Onopordum_acanthium	JN893408.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Onopordum_acanthium	JN891890.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_obtusifolius	JN891634.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.25	-3.92	0
+Potamogeton_obtusifolius	MF694574.1	04-SEP-2018	553	Canada: Quebec, St-Fabien, Rimouski County. Lake south of the station	secondary	rbcL	46.8137431	-71.2084061	0
+Potamogeton_obtusifolius	FJ956854.1	30-DEC-2010	890	China: Xiaoxingkai Lake, Heilongjiang	secondary	rbcL	45.32871425	132.617000816047	0
+Potamogeton_obtusifolius	JN893415.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0
+Potamogeton_obtusifolius	AB196947.1	01-MAY-2009	1349	Japan:Hokkaido, Kushiro	secondary	rbcL	42.9906837	144.3820381	0

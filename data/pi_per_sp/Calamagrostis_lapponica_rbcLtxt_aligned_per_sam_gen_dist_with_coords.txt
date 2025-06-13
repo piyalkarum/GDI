@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_lapponica	MZ359297.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.000362976406533575
+Calamagrostis_lapponica	MF596673.1	28-FEB-2018	603	Canada: Yukon Territory, 39 mi NW of Stewart Crossing on Klondike Hwy (2) towards Dawson.	primary	rbcL	64.4183605087631	-138.050795305751	0.000364298724954463
+Calamagrostis_lapponica	MF596672.1	28-FEB-2018	603	Canada: British Columbia, 18 mi N of Dease Lake (Brady Creek) on Hwy 37 towards Watson Lake. Near small pond with Betula, Picea, Salix, Epilobium, and Carex.	primary	rbcL	58.8160926286755	-130.809112594501	0.000364298724954463
+Calamagrostis_lapponica	MG226345.1	23-JAN-2018	603	Canada: British Columbia, 18 mi N of Dease Lake (Brady Creek) on Hwy 37 towards Watson Lake. Near small pond with Betula, Picea, Salix, Epilobium, and Carex.	primary	rbcL	58.3056528151948	-128.719345094629	0.000364298724954463
+Calamagrostis_lapponica	MG225551.1	23-JAN-2018	603	Canada: Yukon Territory, 39 mi NW of Stewart Crossing on Klondike Hwy (2) towards Dawson.	primary	rbcL	63.2828791526785	-137.715149029361	0.000364298724954463
+Calamagrostis_lapponica	KC482158.1	25-OCT-2013	552	Canada: Yukon Territory, Yukon Mainland, Blow River, Abandoned shingle landing strip in tundra Site 13	primary	rbcL	68.767	-137.5	0.00182017130635143

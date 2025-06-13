@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alchemilla_arvensis	MG248318.1	21-JAN-2018	552	Canada: British Columbia, Greater Victoria, Saanich, Elk Lake, Van Isle Flora, 5471 Hamsterley Rd. along retaining wall in parking lot gap	primary	rbcL	48.537	-123.39	0.00110169037477564
+Alchemilla_arvensis	MG246849.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Dist of N Saanich, N end of Ebor Terrace, N of Amity Dr at turnaround by trail	primary	rbcL	48.619	-123.41	0.00110169037477564
+Alchemilla_arvensis	MG245907.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Upper Harbour, 100m S of Pt Ellice Bridge (Bay St)	primary	rbcL	48.433	-123.378	0.00109432344825739
+Alchemilla_arvensis	JN892207.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.14	-4.57	0.00110769314717177
+Alchemilla_arvensis	JN891359.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00110837522423283
+Alchemilla_arvensis	JN891356.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00110837522423283

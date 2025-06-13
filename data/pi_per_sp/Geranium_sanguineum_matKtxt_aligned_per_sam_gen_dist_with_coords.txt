@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geranium_sanguineum	JN895977.1	07-MAR-2012	720	United Kingdom: Glamorgan	primary	matK	51.55	-4.18	0.016793893129771
+Geranium_sanguineum	HE966936.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0509167889750285
+Geranium_sanguineum	JN895640.1	07-MAR-2012	818	United Kingdom: Glamorgan (41)	secondary	matK	51.0420440730248	-2.18694175592802	0.0172074729596853
+Geranium_sanguineum	JN894357.1	07-MAR-2012	773	United Kingdom: Glamorgan (41)	secondary	matK	51.1924272646667	-3.58471964543377	0.0169154228855721

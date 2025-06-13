@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosotis_laxa	HQ590187.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., S end of pond	primary	rbcL	44.034	-79.517	0
+Myosotis_laxa	KJ841424.1	04-NOV-2014	546	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	rbcL	45.538	-73.158	0
+Myosotis_laxa	JN890651.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.14	-3.18	0
+Myosotis_laxa	JN893107.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Myosotis_laxa	JN890894.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0
+Myosotis_laxa	HE574615.1	31-JUL-2011	565	Finland	secondary	rbcL	63.2467777	25.9209164	0

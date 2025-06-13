@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Convolvulus_arvensis	OR737995.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	7.05467372134039e-05
+Convolvulus_arvensis	OQ832217.1	15-AUG-2023	553	USA: American Prairie, near Enrico	primary	rbcL	47.7444	-107.7761	6.90989496959646e-05
+Convolvulus_arvensis	MH133123.1	07-OCT-2018	553	Bahrain	primary	rbcL	26.211344	50.590258	6.90989496959646e-05
+Convolvulus_arvensis	MG224252.1	26-DEC-2017	552	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	6.90989496959646e-05
+Convolvulus_arvensis	MG223772.1	26-DEC-2017	553	Canada: Ontario, Wellington, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	6.90989496959646e-05
+Convolvulus_arvensis	MG222149.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	48.6	-102.01	6.90989496959646e-05
+Convolvulus_arvensis	MG221189.1	26-DEC-2017	553	Canada: Ontario, Wellington, Wellington, Arkell Station	primary	rbcL	43.5373	-80.1678	6.90989496959646e-05
+Convolvulus_arvensis	KX678930.1	29-APR-2017	522	Canada: British Columbia, Metro Vancouver Regional Distrct, Vancouver, Jericho Park, duckpond, north shore, pond margin, by park lawn	primary	rbcL	49.272	-123.197	0
+Convolvulus_arvensis	KX678140.1	29-APR-2017	453	Canada: British Columbia, Central Okanagan Regional District, Kelowna, Quail Ridge Blvd. at sharp bend in the road	primary	rbcL	49.962	-119.388	8.47529451648445e-05
+Convolvulus_arvensis	KU556612.1	06-AUG-2016	646	Egypt	primary	rbcL	30.0303	31.1956	0
+Convolvulus_arvensis	HQ590044.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Front yard at Willow Ridge	primary	rbcL	44.024	-79.537	6.27746390458255e-05
+Convolvulus_arvensis	KT695499.1	29-SEP-2015	545	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	6.90989496959646e-05
+Convolvulus_arvensis	JN893156.1	07-MAR-2012	542	United Kingdom: Radnorshire	primary	rbcL	52.26	-2.99	7.05467372134039e-05
+Convolvulus_arvensis	MT932018.1	03-MAR-2023	539	China	secondary	rbcL	34.4807326848226	104.615049628081	7.29075532225138e-05
+Convolvulus_arvensis	MT932017.1	03-MAR-2023	571	China	secondary	rbcL	34.5574435924616	104.170258914655	6.8970273811987e-05
+Convolvulus_arvensis	MT932016.1	03-MAR-2023	565	China	secondary	rbcL	34.5774699773416	105.678866058061	6.8970273811987e-05
+Convolvulus_arvensis	MT932015.1	03-MAR-2023	568	China	secondary	rbcL	35.3740136068141	104.407136003005	6.8970273811987e-05
+Convolvulus_arvensis	MT932014.1	03-MAR-2023	567	China	secondary	rbcL	35.0129908854317	104.325835017113	6.90989496959646e-05
+Convolvulus_arvensis	MT932013.1	03-MAR-2023	569	China	secondary	rbcL	34.5811923667157	104.946283185816	6.88420762770205e-05
+Convolvulus_arvensis	MT932012.1	03-MAR-2023	572	China	secondary	rbcL	34.9282562265955	104.15488746993	6.88420762770205e-05
+Convolvulus_arvensis	KC529180.1	31-JAN-2015	606	Turkey	secondary	rbcL	38.9597594	34.9249653	0
+Convolvulus_arvensis	KC529179.1	31-JAN-2015	599	Spain	secondary	rbcL	39.3260685	-4.8379791	0
+Convolvulus_arvensis	KT178135.1	19-AUG-2015	1446	USA	secondary	rbcL	39.7837304	-100.445882	2.86886421665663e-05
+Convolvulus_arvensis	KJ204320.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	6.90989496959646e-05
+Convolvulus_arvensis	HM849909.1	23-JUL-2011	1291	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00149779624970705
+Convolvulus_arvensis	JN891773.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	7.05467372134039e-05
+Convolvulus_arvensis	JN891771.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	7.05467372134039e-05
+Convolvulus_arvensis	MW818157.1	05-APR-2021	234	Spain	secondary	rbcL	28.6551163	-17.8572685655797	0

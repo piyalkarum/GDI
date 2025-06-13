@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_flexuosa	KX676633.1	09-AUG-2017	785	Canada: British Columbia, Greater Vancouver Regional District, Burnaby Lake Regional Park	primary	matK	49.248	-122.919	0.0164023928931074
+Cardamine_flexuosa	JN894558.1	07-MAR-2012	1004	United Kingdom: Glamorgan	primary	matK	51.69	-3.39	0.0139826870789992
+Cardamine_flexuosa	MN273626.1	30-NOV-2021	764	China	secondary	matK	35.5716664182925	105.260018281362	0.0126757358659769
+Cardamine_flexuosa	KM892775.1	11-OCT-2018	747	China	secondary	matK	35.1072710903849	105.067016568731	0.0123262169938809
+Cardamine_flexuosa	KM892761.1	11-OCT-2018	747	China	secondary	matK	34.9360073088836	104.457410157077	0.0123262169938809
+Cardamine_flexuosa	KM892752.1	11-OCT-2018	747	China	secondary	matK	34.6589961697216	104.681469728709	0.0123262169938809
+Cardamine_flexuosa	KM892751.1	11-OCT-2018	747	China	secondary	matK	35.0591264042346	104.63363062042	0.0355619266854813
+Cardamine_flexuosa	JN895455.1	07-MAR-2012	764	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.0147235833058514
+Cardamine_flexuosa	JN894928.1	07-MAR-2012	771	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.0146822348191251

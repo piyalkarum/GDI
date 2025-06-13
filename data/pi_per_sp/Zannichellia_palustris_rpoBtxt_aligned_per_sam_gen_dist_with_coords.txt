@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Zannichellia_palustris	KT302156.1	11-JUL-2016	508	Austria	secondary	rpoB	36.9148511	-4.7534501	0
+Zannichellia_palustris	KT302155.1	11-JUL-2016	508	Hungary: Szombathely	secondary	rpoB	47.2291184	16.6187625	0
+Zannichellia_palustris	AB906874.1	09-MAY-2015	483	Denmark:Copenhagen	secondary	rpoB	55.6867243	12.5700724	0
+Zannichellia_palustris	AB906873.1	09-MAY-2015	482	USA:Utah	secondary	rpoB	39.4225192	-111.714358	0
+Zannichellia_palustris	AB906872.1	09-MAY-2015	508	Japan:Aomori	secondary	rpoB	40.886943	140.590121	0

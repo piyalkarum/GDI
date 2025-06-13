@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_penzesii	MW476406.1	26-APR-2021	617	Turkey: Kirklareli prov., Demirkoy distr., between Demirkoy and Igneada, close to Avcilar	primary	ITS	41.568076611066	27.4937945186136	0.0124257158292815
+Cardamine_penzesii	MW476405.1	26-APR-2021	621	Turkey: Kirklareli prov., Demirkoy distr., between Demirkoy and Igneada, close to Avcilar	primary	ITS	41.6841113977665	28.441997456548	0.0296400692144473
+Cardamine_penzesii	MW476404.1	26-APR-2021	621	Turkey: Kirklareli prov., Demirkoy distr., between Demirkoy and Igneada, close to Avcilar	primary	ITS	41.8743482960706	27.9803050538411	0.0221211322425707
+Cardamine_penzesii	MW476403.1	26-APR-2021	621	Turkey: Kirklareli prov., Demirkoy distr., between Demirkoy and Igneada, close to Avcilar	primary	ITS	41.6945659992549	28.0836016440626	0.017715453456416
+Cardamine_penzesii	MW476402.1	26-APR-2021	621	Turkey: Kirklareli prov., Demirkoy distr., between Demirkoy and Igneada, close to Avcilar	primary	ITS	41.35458554616	27.2307438755357	0.0153529754121679
+Cardamine_penzesii	MW476401.1	26-APR-2021	621	Turkey: Kirklareli prov., Demirkoy distr., between Demirkoy and Igneada, close to Avcilar	primary	ITS	42.5712834999814	28.671329863375	0.0183623597289536
+Cardamine_penzesii	MW476400.1	26-APR-2021	621	Turkey: Kirklareli prov., Demirkoy distr., between Demirkoy and Igneada, close to Avcilar	primary	ITS	41.7637880299017	26.7240572655942	0.0217997670232655
+Cardamine_penzesii	MW476399.1	26-APR-2021	621	Turkey: Kirklareli prov., Demirkoy distr., between Demirkoy and Igneada, close to Avcilar	primary	ITS	41.7724899689971	27.146571492474	0.0202961188233544
+Cardamine_penzesii	MW476398.1	26-APR-2021	621	Turkey: Instanbul prov., Sariyer distr., Bahcekoy	primary	ITS	41.8882596959298	28.3322387448051	0.0138493272122568
+Cardamine_penzesii	MW476397.1	26-APR-2021	621	Turkey: Instanbul prov., Sariyer distr., Bahcekoy	primary	ITS	42.282984746086	28.3730492499197	0.0125603864734299
+Cardamine_penzesii	MW476396.1	26-APR-2021	621	Turkey: Instanbul prov., Sariyer distr., Bahcekoy	primary	ITS	42.0542189756415	27.7647299475574	0.016749965853858
+Cardamine_penzesii	MW476395.1	26-APR-2021	621	Turkey: Instanbul prov., Sariyer distr., Bahcekoy	primary	ITS	42.2135161087717	27.6404417488268	0.01836027181199
+Cardamine_penzesii	MW476394.1	26-APR-2021	621	Turkey: Instanbul prov., Sariyer distr., Bahcekoy	primary	ITS	41.0746293337174	29.0293871323623	0.0163219428763318
+Cardamine_penzesii	MW476393.1	26-APR-2021	621	Turkey: Instanbul prov., Sariyer distr., Bahcekoy	primary	ITS	42.1158532769923	27.4236544448034	0.0322172547197798
+Cardamine_penzesii	MW476392.1	26-APR-2021	621	Turkey: Instanbul prov., Sariyer distr., Bahcekoy	primary	ITS	41.5704703417171	27.0768715845543	0.0280290672839941
+Cardamine_penzesii	MW476391.1	26-APR-2021	621	Turkey: Instanbul prov., Sariyer distr., Bahcekoy	primary	ITS	41.9560572754694	28.3676994011038	0.0304988990587844

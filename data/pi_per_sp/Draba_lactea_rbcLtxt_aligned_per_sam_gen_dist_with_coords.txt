@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_lactea	MG249294.1	21-JAN-2018	552	Canada: Nunavut, Ellesmere Island, Alexandra Fjiord	primary	rbcL	78.883	-75.917	0.000181159420289855
+Draba_lactea	KT960686.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.2574491498862	-20.0729011820954	0.000181159420289855
+Draba_lactea	KT960453.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.2633833578524	-19.0824256644956	0.000181159420289855
+Draba_lactea	KT960407.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.6259245818008	-20.879871640961	0.00181159420289855
+Draba_lactea	KC482612.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Lower Savage Islands	primary	rbcL	61.817	-65.7	0.000181159420289855
+Draba_lactea	KC482611.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	rbcL	69.616	-140.768	0.000181159420289855
+Draba_lactea	KC482610.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Nelson Head	primary	rbcL	71.083	-122.767	0.000181159420289855
+Draba_lactea	KC482609.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of small round lake NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.267	-116.492	0.000181159420289855
+Draba_lactea	KC482608.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Valley between Muskox Fiord and Baad Fiord, W part near lake near Muskox Fiord	primary	rbcL	76.3167	-86.8333	0.000181159420289855
+Draba_lactea	KC482607.1	25-OCT-2013	552	Canada: Northwest Territories, Cape Bathurst, Anderson River area: Cape Bathurst E side, brook system N of river from Lake McKinlay, 0.7-1.5 km from sea	primary	rbcL	70.4833	-127.8	0.000181159420289855
+Draba_lactea	KC482606.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island, Warrington Bay, Site 153. Broad floodplain north of Cape Cyclops	primary	rbcL	75.2	-116.6	0.000181159420289855

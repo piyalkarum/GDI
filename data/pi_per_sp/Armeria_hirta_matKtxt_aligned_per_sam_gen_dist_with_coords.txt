@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_hirta	GQ901417.1	03-NOV-2009	1499	Spain: Malaga	secondary	matK	36.7213028	-4.4216366	0.00200133422281521
+Armeria_hirta	GQ901416.1	03-NOV-2009	1499	Spain: Cadiz, Conil de la Frontera	secondary	matK	36.277054	-6.0881874	0.00200133422281521
+Armeria_hirta	GQ901415.1	03-NOV-2009	1499	Spain: Cadiz, Arcos-Medina Sidonia	secondary	matK	36.0673757930585	-5.47097332632742	0.00289081609962197
+Armeria_hirta	GQ901414.1	03-NOV-2009	1499	Spain: Cadiz, Arcos-Medina Sidonia	secondary	matK	36.4211160844542	-5.28819125932786	0.00155659328441183

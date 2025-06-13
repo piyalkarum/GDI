@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chrozophora_tinctoria	MH598867.1	22-JAN-2019	590	Saudi Arabia: Makkah	secondary	rbcL	21.420847	39.826869	0.019825948397377
+Chrozophora_tinctoria	KY656725.1	23-JAN-2018	722	Egypt	secondary	rbcL	26.2540493	29.2675469	0.0133909419623705
+Chrozophora_tinctoria	KX282656.1	28-MAY-2017	518	Kuwait	secondary	rbcL	29.1139871448308	48.6176971035417	0.0109395109395109
+Chrozophora_tinctoria	KX282655.1	28-MAY-2017	518	Kuwait	secondary	rbcL	28.994713370686	47.4719913123233	0.0109395109395109

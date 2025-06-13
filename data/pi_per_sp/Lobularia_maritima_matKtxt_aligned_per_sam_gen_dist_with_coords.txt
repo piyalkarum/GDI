@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lobularia_maritima	MT917772.1	03-MAR-2023	768	China	secondary	matK	34.9424535613498	105.283054702901	0.0281265633996923
+Lobularia_maritima	MT917767.1	03-MAR-2023	769	China	secondary	matK	34.9737635561993	105.350491196992	0.0281265633996923
+Lobularia_maritima	KM892729.1	11-OCT-2018	747	China	secondary	matK	35.6618633769079	105.591429079983	0.0309307615663715
+Lobularia_maritima	HM850752.1	23-JUL-2011	548	Portugal	secondary	matK	39.6621648	-8.1353519	0.0281234856811923

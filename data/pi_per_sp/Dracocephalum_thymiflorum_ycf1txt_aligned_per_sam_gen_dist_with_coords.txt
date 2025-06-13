@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dracocephalum_thymiflorum	OL808617.1	14-JUN-2023	531	Russia	secondary	ycf1	64.8265394285594	98.4017014119417	0.346076458752515
+Dracocephalum_thymiflorum	OL808616.1	14-JUN-2023	533	Russia	secondary	ycf1	64.2571839036993	97.6978725786865	0.344689378757515
+Dracocephalum_thymiflorum	OL808480.1	14-JUN-2023	959	Russia	secondary	ycf1	63.9168532449011	97.3359241889727	0.345382918755015
+Dracocephalum_thymiflorum	OL808479.1	14-JUN-2023	959	Russia	secondary	ycf1	65.315978601016	96.5394418883815	0.345382918755015

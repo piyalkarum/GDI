@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colchicum_macrophyllum	KX139640.1	26-APR-2017	530	Turkey: Mugla	secondary	rbcL	37.3401417343258	27.5739574011886	0.265471698113208
+Colchicum_macrophyllum	KX139639.1	26-APR-2017	526	Turkey: Mugla	secondary	rbcL	36.4611827898564	28.8879519219075	0.264531510070701
+Colchicum_macrophyllum	KX139638.1	26-APR-2017	573	Turkey: Mugla	secondary	rbcL	36.9488949510641	28.8864718147356	0.259759599239783
+Colchicum_macrophyllum	JF934002.1	17-OCT-2011	915	Turkey	secondary	rbcL	38.9597594	34.9249653	0.393934420427536
+Colchicum_macrophyllum	JF934001.1	17-OCT-2011	915	Greece	secondary	rbcL	43.2097838	-77.6930602	0.393934420427536

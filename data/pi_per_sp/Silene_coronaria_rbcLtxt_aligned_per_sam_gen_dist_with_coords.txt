@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_coronaria	MG248729.1	21-JAN-2018	552	Canada: Ontario, Bruce Co., Just S of Hepworth, at junction of Hwy 6, 70 and 8, Amabel Tp.	primary	rbcL	44.617	-81.15	0
+Silene_coronaria	MF349319.1	21-SEP-2017	553	USA: District of Columbia; US National Arboretum, National Herb Garden - Dioscorides Garden	primary	rbcL	38.912	-76.969	0
+Silene_coronaria	OQ172674.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.638392	127.6961188	0
+Silene_coronaria	MG248938.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Valleys of the Rouge, Section XV	secondary	rbcL	43.7203002622967	-76.7781931466931	0
+Silene_coronaria	MG247759.1	21-JAN-2018	552	Canada: Ontario, Grey Co., Keppel Tp., Skinner Bluff ANSI, Niagara Escarpment plain, slope and terrace just E of Oxenden	secondary	rbcL	43.86148847734	-78.2101698895723	0
+Silene_coronaria	MG247229.1	21-JAN-2018	552	Canada: Ontario, Simcoe Co., Wasaga Beach, 16th Ave. close to the shore, 2 mi. NE of Brocks Beach.	secondary	rbcL	42.9522720869699	-77.7905209988051	0

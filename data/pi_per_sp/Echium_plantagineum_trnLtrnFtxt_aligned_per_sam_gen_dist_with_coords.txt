@@ -1,0 +1,203 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Echium_plantagineum	MG598094.1	17-SEP-2018	399	Spain	secondary	trnL-trnF	38.9026169484798	-4.88842245745476	0.0018308440056245
+Echium_plantagineum	MG598093.1	17-SEP-2018	399	Spain	secondary	trnL-trnF	38.6687891671123	-4.15501935888584	0.0018308440056245
+Echium_plantagineum	MG598092.1	17-SEP-2018	399	Spain	secondary	trnL-trnF	40.0523963033059	-5.32077531748577	0.00203034774008503
+Echium_plantagineum	MG598091.1	17-SEP-2018	399	Portugal	secondary	trnL-trnF	39.6621648	-8.1353519	0.00203034774008503
+Echium_plantagineum	MG598080.1	17-SEP-2018	399	South Africa: city George	secondary	trnL-trnF	-34.0210087253416	18.6857204579784	0.00203034774008503
+Echium_plantagineum	MG598079.1	17-SEP-2018	399	South Africa: city George	secondary	trnL-trnF	-34.3924083561297	18.8605975174073	0.00203034774008503
+Echium_plantagineum	MG598078.1	17-SEP-2018	399	South Africa: city George	secondary	trnL-trnF	-34.1299711760423	17.9381430176302	0.00203034774008503
+Echium_plantagineum	MG598077.1	17-SEP-2018	399	South Africa: city George	secondary	trnL-trnF	-33.5568571714003	17.7978476730362	0.00203034774008503
+Echium_plantagineum	MG598076.1	17-SEP-2018	399	South Africa: city George	secondary	trnL-trnF	-34.5205736815874	18.3294276472969	0.00203034774008503
+Echium_plantagineum	MG598075.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.7321991889415	18.1969986210296	0.00203034774008503
+Echium_plantagineum	MG598074.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.7213978205474	18.4825411062935	0.00203034774008503
+Echium_plantagineum	MG598073.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-34.1435122604515	18.2042346645573	0.00203034774008503
+Echium_plantagineum	MG598072.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.5464913083907	19.2974359292612	0.00203034774008503
+Echium_plantagineum	MG598071.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.7212973560678	19.3155825573548	0.00203034774008503
+Echium_plantagineum	MG598070.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.4255852452524	18.3185132207545	0.00203034774008503
+Echium_plantagineum	MG598069.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.6269821394005	17.9071383784481	0.0018308440056245
+Echium_plantagineum	MG598068.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.5090611671356	18.7101448020286	0.00203034774008503
+Echium_plantagineum	MG598067.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.7433069552739	19.056170482636	0.00203034774008503
+Echium_plantagineum	MG598066.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-34.3621989654178	18.3014351751767	0.00203034774008503
+Echium_plantagineum	MG598065.1	17-SEP-2018	399	South Africa: city Caledon	secondary	trnL-trnF	-26.2730686283554	27.5996166970686	0.00203034774008503
+Echium_plantagineum	MG598064.1	17-SEP-2018	399	South Africa: city Caledon	secondary	trnL-trnF	-25.7956656962051	28.1293292138911	0.00203034774008503
+Echium_plantagineum	MG598063.1	17-SEP-2018	399	South Africa: city Caledon	secondary	trnL-trnF	-26.6406168999179	28.1573166058785	0.00203034774008503
+Echium_plantagineum	MG598062.1	17-SEP-2018	399	South Africa: city Caledon	secondary	trnL-trnF	-26.861623287259	28.6611705686175	0.00203034774008503
+Echium_plantagineum	MG598061.1	17-SEP-2018	399	South Africa: city Caledon	secondary	trnL-trnF	-25.9977941529853	28.5957021975725	0.00203034774008503
+Echium_plantagineum	MG598060.1	17-SEP-2018	399	South Africa: city Stellenbosch	secondary	trnL-trnF	-34.053602520905	18.0966307328144	0.0018308440056245
+Echium_plantagineum	MG598059.1	17-SEP-2018	399	South Africa: city Stellenbosch	secondary	trnL-trnF	-33.8869160104274	18.1607768224924	0.00203034774008503
+Echium_plantagineum	MG598058.1	17-SEP-2018	399	South Africa: city Stellenbosch	secondary	trnL-trnF	-33.3361544896707	18.2853277414904	0.0018308440056245
+Echium_plantagineum	MG598057.1	17-SEP-2018	399	South Africa: city Stellenbosch	secondary	trnL-trnF	-34.4430437835742	18.2386469706237	0.0018308440056245
+Echium_plantagineum	MG598056.1	17-SEP-2018	399	South Africa: city Stellenbosch	secondary	trnL-trnF	-34.1683271406078	19.4405768305585	0.0018308440056245
+Echium_plantagineum	MG598055.1	17-SEP-2018	399	South Africa: city Stellenbosch	secondary	trnL-trnF	-33.4942670170344	19.3821177108162	0.00203034774008503
+Echium_plantagineum	MG598054.1	17-SEP-2018	399	South Africa: city Stellenbosch	secondary	trnL-trnF	-33.5566764320912	19.4304331929727	0.00203034774008503
+Echium_plantagineum	MG598053.1	17-SEP-2018	399	South Africa: city Stellenbosch	secondary	trnL-trnF	-33.5393234258742	18.1141016288732	0.0018308440056245
+Echium_plantagineum	MG598052.1	17-SEP-2018	399	South Africa: city Stellenbosch	secondary	trnL-trnF	-34.7130149600576	18.7298601513872	0.0018308440056245
+Echium_plantagineum	MG598051.1	17-SEP-2018	399	South Africa: city Stellenbosch	secondary	trnL-trnF	-34.0339283322525	19.5526162222439	0.0018308440056245
+Echium_plantagineum	MG598050.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.4958501802081	18.0163974678113	0.00203034774008503
+Echium_plantagineum	MG598049.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-34.6705287160137	18.3523053439988	0.00203034774008503
+Echium_plantagineum	MG598048.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.4043258343472	18.3360561308441	0.00203034774008503
+Echium_plantagineum	MG598047.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-34.4808160288205	17.9947140283705	0.00203034774008503
+Echium_plantagineum	MG598046.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.5699194559801	18.3494384430806	0.00203034774008503
+Echium_plantagineum	MG598045.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.8791889676089	18.1327672826463	0.0018308440056245
+Echium_plantagineum	MG598044.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-34.0730013699145	18.636741759892	0.00203034774008503
+Echium_plantagineum	MG598043.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-34.6123304331484	18.3633712215232	0.00203034774008503
+Echium_plantagineum	MG598042.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.3325232855733	17.6284269840813	0.00203034774008503
+Echium_plantagineum	MG598041.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.5881186162188	18.0703254248537	0.00203034774008503
+Echium_plantagineum	MG598040.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-34.114225288415	17.6649476371238	0.00203034774008503
+Echium_plantagineum	MG598039.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-34.1842203647142	17.5979048750358	0.0018308440056245
+Echium_plantagineum	MG598038.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.3286891408246	19.2185369948948	0.0018308440056245
+Echium_plantagineum	MG598037.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.6338409319322	19.1051891215945	0.00203034774008503
+Echium_plantagineum	MG598036.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.9713774634068	17.859891899099	0.00203034774008503
+Echium_plantagineum	MG598035.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-34.574949321953	18.6954864241473	0.00597937409455043
+Echium_plantagineum	MG598034.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-34.4393141237824	18.5735391409365	0.00597937409455043
+Echium_plantagineum	MG598033.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-34.7329630182621	18.1245593416653	0.00203034774008503
+Echium_plantagineum	MG598032.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.4314207958927	18.7670889359451	0.00597937409455043
+Echium_plantagineum	MG598031.1	17-SEP-2018	399	South Africa: city Cape Town	secondary	trnL-trnF	-33.3585691510402	18.9986887844869	0.00597937409455043
+Echium_plantagineum	MG598030.1	17-SEP-2018	399	Spain: city Cadiz	secondary	trnL-trnF	36.5508708142307	-5.29317045999451	0.00203034774008503
+Echium_plantagineum	MG598029.1	17-SEP-2018	399	Spain: city Cadiz	secondary	trnL-trnF	36.6026572855286	-6.34120613163753	0.00203034774008503
+Echium_plantagineum	MG598028.1	17-SEP-2018	399	Spain: city Cadiz	secondary	trnL-trnF	36.9846610180914	-6.49048336987864	0.00203034774008503
+Echium_plantagineum	MG598027.1	17-SEP-2018	399	Spain: city Cadiz	secondary	trnL-trnF	35.7922572236755	-6.88655756672735	0.00203034774008503
+Echium_plantagineum	MG598017.1	17-SEP-2018	399	United Kingdom: city Jersey	secondary	trnL-trnF	52.0381027213964	-0.207166571214627	0.0018308440056245
+Echium_plantagineum	MG598015.1	17-SEP-2018	399	United Kingdom: city Jersey	secondary	trnL-trnF	51.5549198937216	-1.69958952446313	0.0018308440056245
+Echium_plantagineum	MG598011.1	17-SEP-2018	399	United Kingdom: city Worcestershire	secondary	trnL-trnF	53.7585488	-0.39723	0.0018308440056245
+Echium_plantagineum	MG598008.1	17-SEP-2018	399	United Kingdom: city Guernsey	secondary	trnL-trnF	53.4211088	-2.9159215	0.0018308440056245
+Echium_plantagineum	MG598006.1	17-SEP-2018	399	United Kingdom: city Jersey	secondary	trnL-trnF	51.7027582965906	-0.489347384969074	0.0018308440056245
+Echium_plantagineum	MG598002.1	17-SEP-2018	399	United Kingdom	secondary	trnL-trnF	54.7023545	-3.2765753	0.0018308440056245
+Echium_plantagineum	MG598001.1	17-SEP-2018	399	United Kingdom: city Cornwall	secondary	trnL-trnF	51.5237793	-0.1565794	0.0018308440056245
+Echium_plantagineum	MG598000.1	17-SEP-2018	399	United Kingdom: city West Cornwall	secondary	trnL-trnF	53.1970133	-2.8881518	0.0018308440056245
+Echium_plantagineum	MG597999.1	17-SEP-2018	399	Portugal: city Coimbra	secondary	trnL-trnF	39.3307005390872	-8.66731911372956	0.00203034774008503
+Echium_plantagineum	MG597998.1	17-SEP-2018	399	Portugal: city Coimbra	secondary	trnL-trnF	40.320943849773	-9.28013518659453	0.00203034774008503
+Echium_plantagineum	MG597997.1	17-SEP-2018	399	Portugal: city Coimbra	secondary	trnL-trnF	40.7620693154693	-8.17790487692975	0.00203034774008503
+Echium_plantagineum	MG597982.1	17-SEP-2018	399	Portugal: city Coimbra	secondary	trnL-trnF	40.6885701584246	-7.5298099650418	0.0018308440056245
+Echium_plantagineum	MG597981.1	17-SEP-2018	399	Portugal: city Coimbra	secondary	trnL-trnF	40.374110032325	-9.4277772463902	0.00203034774008503
+Echium_plantagineum	MG597980.1	17-SEP-2018	399	Portugal: city Coimbra	secondary	trnL-trnF	39.684159299431	-8.89904894182326	0.00203034774008503
+Echium_plantagineum	MG597979.1	17-SEP-2018	399	Portugal: city Coimbra	secondary	trnL-trnF	40.4938876464038	-7.97412546678159	0.00203034774008503
+Echium_plantagineum	MG597978.1	17-SEP-2018	399	Portugal: city Coimbra	secondary	trnL-trnF	40.4855584086039	-8.95460064511037	0.00203034774008503
+Echium_plantagineum	MG597977.1	17-SEP-2018	399	Portugal: city Coimbra	secondary	trnL-trnF	39.732273176688	-8.15610189859738	0.00203034774008503
+Echium_plantagineum	MG597976.1	17-SEP-2018	399	Spain: city Galicia	secondary	trnL-trnF	42.478233403989	-7.79656437290978	0.0018308440056245
+Echium_plantagineum	MG597975.1	17-SEP-2018	399	Spain: city Galicia	secondary	trnL-trnF	43.6920620792159	-8.29914719521212	0.0018308440056245
+Echium_plantagineum	MG597974.1	17-SEP-2018	399	Spain: city Galicia	secondary	trnL-trnF	42.4254716717629	-8.46026711695586	0.00597937409455043
+Echium_plantagineum	MG597973.1	17-SEP-2018	399	Spain: city Galicia	secondary	trnL-trnF	42.4107453053387	-7.79882260404309	0.0018308440056245
+Echium_plantagineum	MG597971.1	17-SEP-2018	399	Spain: city Cadiz	secondary	trnL-trnF	37.2763074265024	-6.36879181700108	0.0018308440056245
+Echium_plantagineum	MG597967.1	17-SEP-2018	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.3894452890958	147.336716567279	0.0018308440056245
+Echium_plantagineum	KX012622.1	09-OCT-2016	399	Australia: city Kangaroo Flat	secondary	trnL-trnF	-37.094369952273	144.556960227109	0.0018308440056245
+Echium_plantagineum	KX012621.1	09-OCT-2016	399	Australia: city Kangaroo Flat	secondary	trnL-trnF	-37.4099058910808	143.688752957566	0.0018308440056245
+Echium_plantagineum	KX012620.1	09-OCT-2016	399	Australia: city Bandiana	secondary	trnL-trnF	-35.7643041905201	146.306059625607	0.0018308440056245
+Echium_plantagineum	KX012619.1	09-OCT-2016	399	Australia: city Bandiana	secondary	trnL-trnF	-35.9150000265932	146.771042254214	0.0018308440056245
+Echium_plantagineum	KX012618.1	09-OCT-2016	399	Australia: city Bathurst	secondary	trnL-trnF	-33.5353689389727	148.566118081302	0.00203034774008503
+Echium_plantagineum	KX012617.1	09-OCT-2016	399	Australia: city Bathurst	secondary	trnL-trnF	-34.1320343930133	149.385353475453	0.00203034774008503
+Echium_plantagineum	KX012615.1	09-OCT-2016	399	Australia: city Tumut	secondary	trnL-trnF	-37.8334958	140.8096145	0.00203034774008503
+Echium_plantagineum	KX012612.1	09-OCT-2016	399	Australia: city Scotia	secondary	trnL-trnF	-30.2240033	121.1996624	0.0018308440056245
+Echium_plantagineum	KX012610.1	09-OCT-2016	399	Australia: city Warwick	secondary	trnL-trnF	-31.8448271	115.7963953	0.0018308440056245
+Echium_plantagineum	KX012609.1	09-OCT-2016	399	Australia: city Goondiwindi	secondary	trnL-trnF	-38.1589084	144.5590242	0.0018308440056245
+Echium_plantagineum	KX012608.1	09-OCT-2016	399	Australia: city Canberra	secondary	trnL-trnF	-34.7688061362989	149.208346646634	0.00203034774008503
+Echium_plantagineum	KX012607.1	09-OCT-2016	399	Australia: city Canberra	secondary	trnL-trnF	-35.7239452301778	149.601987765342	0.00203034774008503
+Echium_plantagineum	KX012606.1	09-OCT-2016	399	Australia: city Canberra	secondary	trnL-trnF	-35.1239346104858	149.256764424505	0.00203034774008503
+Echium_plantagineum	KX012604.1	09-OCT-2016	399	Australia: city Barmah	secondary	trnL-trnF	-36.2763929	145.3682421	0.00203034774008503
+Echium_plantagineum	KX012603.1	09-OCT-2016	399	Australia: city Mulgrave	secondary	trnL-trnF	-37.9319869	145.1817988	0.0018308440056245
+Echium_plantagineum	KX012602.1	09-OCT-2016	399	Australia: city Northam	secondary	trnL-trnF	-32.088611	115.9472082	0.00203034774008503
+Echium_plantagineum	KX012601.1	09-OCT-2016	399	Australia: city Narrogin	secondary	trnL-trnF	-28.071409	153.4210212	0.00203034774008503
+Echium_plantagineum	KX012600.1	09-OCT-2016	399	Australia: city WA	secondary	trnL-trnF	-32.020995	115.9386727	0.00203034774008503
+Echium_plantagineum	KX012599.1	09-OCT-2016	399	Australia: city Dongara	secondary	trnL-trnF	-32.6219749	115.6248768	0.0018308440056245
+Echium_plantagineum	KX012598.1	09-OCT-2016	399	Australia: city Coombah	secondary	trnL-trnF	-34.3590200226224	150.513238722313	0.0018308440056245
+Echium_plantagineum	KX012597.1	09-OCT-2016	399	Australia: city Mintaro	secondary	trnL-trnF	-31.665301	115.695979	0.0018308440056245
+Echium_plantagineum	KX012596.1	09-OCT-2016	399	Australia: city St Agnes	secondary	trnL-trnF	-34.8307347	138.7107466	0.00203034774008503
+Echium_plantagineum	KX012595.1	09-OCT-2016	399	Australia: city Cobar	secondary	trnL-trnF	-31.131441505299	145.937056691161	0.00203034774008503
+Echium_plantagineum	KX012594.1	09-OCT-2016	399	Australia: city White Cliff	secondary	trnL-trnF	-33.6550158074805	142.064020429413	0.00203034774008503
+Echium_plantagineum	KX012593.1	09-OCT-2016	399	Australia: city White Cliff	secondary	trnL-trnF	-34.1197451657379	142.983520227077	0.00203034774008503
+Echium_plantagineum	KX012592.1	09-OCT-2016	399	Australia: city White Cliff	secondary	trnL-trnF	-33.935262053165	143.030517722547	0.00203034774008503
+Echium_plantagineum	KX012591.1	09-OCT-2016	399	Australia: city White Cliff	secondary	trnL-trnF	-33.6354093498762	142.667493727876	0.00203034774008503
+Echium_plantagineum	KX012590.1	09-OCT-2016	399	Australia: city White Cliff	secondary	trnL-trnF	-33.4657214331103	142.245720228629	0.0018308440056245
+Echium_plantagineum	KX012589.1	09-OCT-2016	399	Australia: city Cobar	secondary	trnL-trnF	-31.9212841692575	144.913758625853	0.0018308440056245
+Echium_plantagineum	KX012588.1	09-OCT-2016	399	Australia: city Cobar	secondary	trnL-trnF	-32.0909889065652	145.21746642736	0.0018308440056245
+Echium_plantagineum	KX012587.1	09-OCT-2016	399	Australia: city Hillston	secondary	trnL-trnF	-34.2814453736985	145.669489594734	0.0018308440056245
+Echium_plantagineum	KX012586.1	09-OCT-2016	399	Australia: city Hillston	secondary	trnL-trnF	-34.8636983206957	146.165561482739	0.00597937409455043
+Echium_plantagineum	KX012585.1	09-OCT-2016	399	Australia: city Griffith	secondary	trnL-trnF	-34.1476386244249	145.152549554115	0.0018308440056245
+Echium_plantagineum	KX012584.1	09-OCT-2016	399	Australia: city Griffith	secondary	trnL-trnF	-34.659280684886	145.892695508503	0.00203034774008503
+Echium_plantagineum	KX012583.1	09-OCT-2016	399	Australia: city St Helens	secondary	trnL-trnF	-38.1225052	144.3581756	0.0018308440056245
+Echium_plantagineum	KX012582.1	09-OCT-2016	399	Australia: city Kingston	secondary	trnL-trnF	-38.004496	145.1111494	0.0018308440056245
+Echium_plantagineum	KX012581.1	09-OCT-2016	399	Australia: city Launceston	secondary	trnL-trnF	-41.4340813	147.1373496	0.0018308440056245
+Echium_plantagineum	KX012580.1	09-OCT-2016	399	Australia: city Silverton	secondary	trnL-trnF	-38.1486843733276	145.704131116933	0.00203034774008503
+Echium_plantagineum	KX012579.1	09-OCT-2016	399	Australia: city Silverton	secondary	trnL-trnF	-37.5723723577583	145.671775884649	0.00203034774008503
+Echium_plantagineum	KX012574.1	09-OCT-2016	399	Australia: city Mildura	secondary	trnL-trnF	-34.4930209100803	142.312794829081	0.00203034774008503
+Echium_plantagineum	KX012573.1	09-OCT-2016	399	Australia: city Mildura	secondary	trnL-trnF	-33.7670374439283	142.50367018636	0.00203034774008503
+Echium_plantagineum	KX012572.1	09-OCT-2016	399	Australia: city Hay	secondary	trnL-trnF	-35.0054546999358	116.755204184697	0.00203034774008503
+Echium_plantagineum	KX012571.1	09-OCT-2016	399	Australia: city Hay	secondary	trnL-trnF	-35.3137368005442	117.009929037642	0.00203034774008503
+Echium_plantagineum	KX012570.1	09-OCT-2016	399	Australia: city Yanco	secondary	trnL-trnF	-33.8762539048497	150.699736652866	0.0018308440056245
+Echium_plantagineum	KX012569.1	09-OCT-2016	399	Australia: city Yanco	secondary	trnL-trnF	-33.4019761068982	151.390330479843	0.0018308440056245
+Echium_plantagineum	KX012568.1	09-OCT-2016	399	Australia: city Leeton	secondary	trnL-trnF	-33.1057511132346	150.858505019092	0.00203034774008503
+Echium_plantagineum	KX012567.1	09-OCT-2016	399	Australia: city Leeton	secondary	trnL-trnF	-34.1255605077439	150.242371297092	0.0018308440056245
+Echium_plantagineum	KX012566.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.8120630442415	147.684284837466	0.00597937409455043
+Echium_plantagineum	KX012565.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.8754789001969	147.155603479914	0.00597937409455043
+Echium_plantagineum	KX012564.1	09-OCT-2016	399	Australia: city Adelong	secondary	trnL-trnF	-33.7851292962036	151.612593253412	0.0018308440056245
+Echium_plantagineum	KX012563.1	09-OCT-2016	399	Australia: city Adelong	secondary	trnL-trnF	-33.5476692120539	151.619327191993	0.0018308440056245
+Echium_plantagineum	KX012562.1	09-OCT-2016	399	Australia: city Adelong	secondary	trnL-trnF	-33.4999587565047	151.336534207325	0.0018308440056245
+Echium_plantagineum	KX012561.1	09-OCT-2016	399	Australia: city Talbingo	secondary	trnL-trnF	-32.2173552856608	151.818817529172	0.00597937409455043
+Echium_plantagineum	KX012560.1	09-OCT-2016	399	Australia: city Talbingo	secondary	trnL-trnF	-33.5098110504037	152.478714764081	0.0018308440056245
+Echium_plantagineum	KX012559.1	09-OCT-2016	399	Australia: city Talbingo	secondary	trnL-trnF	-33.4884746015531	151.419362480412	0.0018308440056245
+Echium_plantagineum	KX012558.1	09-OCT-2016	399	Australia: city Talbingo	secondary	trnL-trnF	-32.5063312747363	152.550646523421	0.0018308440056245
+Echium_plantagineum	KX012557.1	09-OCT-2016	399	Australia: city Talbingo	secondary	trnL-trnF	-33.4415965608231	151.616489572187	0.00203034774008503
+Echium_plantagineum	KX012556.1	09-OCT-2016	399	Australia: city Talbingo	secondary	trnL-trnF	-32.1294101209468	152.041718778584	0.0018308440056245
+Echium_plantagineum	KX012555.1	09-OCT-2016	399	Australia: city Adelong	secondary	trnL-trnF	-33.9188267735438	150.326500379327	0.0018308440056245
+Echium_plantagineum	KX012554.1	09-OCT-2016	399	Australia: city Adelong	secondary	trnL-trnF	-33.6426941209069	151.773592931998	0.0018308440056245
+Echium_plantagineum	KX012553.1	09-OCT-2016	399	Australia: city Narrandera	secondary	trnL-trnF	-35.3621806933644	146.880754733694	0.00203034774008503
+Echium_plantagineum	KX012552.1	09-OCT-2016	399	Australia: city Narrandera	secondary	trnL-trnF	-35.4189237173171	148.03314073366	0.00203034774008503
+Echium_plantagineum	KX012551.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-34.6877761358036	147.750846283427	0.0018308440056245
+Echium_plantagineum	KX012550.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.3647228769799	148.148277376961	0.0018308440056245
+Echium_plantagineum	KX012549.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-34.731305395423	147.665101168388	0.0018308440056245
+Echium_plantagineum	KX012548.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.3292371566706	147.227080275399	0.0018308440056245
+Echium_plantagineum	KX012547.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.4367471575837	147.602088698989	0.00203034774008503
+Echium_plantagineum	KX012546.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.2379857282423	147.696061853081	0.00203034774008503
+Echium_plantagineum	KX012545.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.8039624550984	146.928520490705	0.0018308440056245
+Echium_plantagineum	KX012544.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-34.2713517529412	147.215521986166	0.00597937409455043
+Echium_plantagineum	KX012543.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.4866013415455	147.06203092874	0.00597937409455043
+Echium_plantagineum	KX012542.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.815486159213	147.997220741044	0.0018308440056245
+Echium_plantagineum	KX012541.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.3818196266601	146.582922490785	0.0018308440056245
+Echium_plantagineum	KX012540.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.5615686623166	146.863149756342	0.0018308440056245
+Echium_plantagineum	KX012539.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.4956220823815	147.41673178062	0.0018308440056245
+Echium_plantagineum	KX012538.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.7327653164216	146.987656929304	0.00203034774008503
+Echium_plantagineum	KX012537.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.450621802026	147.12114303711	0.0018308440056245
+Echium_plantagineum	KX012536.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-34.9565587094203	146.920485406123	0.0018308440056245
+Echium_plantagineum	KX012535.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.2411232447689	148.063349497822	0.0018308440056245
+Echium_plantagineum	KX012534.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.4264895735804	146.748641493649	0.0018308440056245
+Echium_plantagineum	KX012533.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.5119965425783	146.637706020985	0.0018308440056245
+Echium_plantagineum	KX012532.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.743108045829	147.06327736567	0.0018308440056245
+Echium_plantagineum	KX012531.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.9116284444721	147.332160707661	0.0018308440056245
+Echium_plantagineum	KX012530.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.9743213527985	147.082646569852	0.0018308440056245
+Echium_plantagineum	KX012529.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-34.3341429426403	147.153171228124	0.0018308440056245
+Echium_plantagineum	KX012528.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.5446645636815	147.007643244534	0.00597937409455043
+Echium_plantagineum	KX012527.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.6994132082448	147.075478494482	0.0018308440056245
+Echium_plantagineum	KX012526.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.5692854052462	147.846158841063	0.00203034774008503
+Echium_plantagineum	KX012525.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-34.5060728530823	147.117868442583	0.0018308440056245
+Echium_plantagineum	KX012524.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.4728953854519	147.516849807724	0.0018308440056245
+Echium_plantagineum	KX012523.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.4638300927863	148.113252336773	0.0018308440056245
+Echium_plantagineum	KX012522.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.3832885077337	148.327993125957	0.0018308440056245
+Echium_plantagineum	KX012521.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-34.3096436941187	147.194287871976	0.0018308440056245
+Echium_plantagineum	KX012520.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-34.7542380766245	146.975250962463	0.0018308440056245
+Echium_plantagineum	KX012519.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.7036013408944	146.709337126492	0.0018308440056245
+Echium_plantagineum	KX012518.1	09-OCT-2016	399	Australia: city Coolamon	secondary	trnL-trnF	-37.811067704129	144.737992261788	0.00597937409455043
+Echium_plantagineum	KX012517.1	09-OCT-2016	399	Australia: city Coolamon	secondary	trnL-trnF	-38.5162109227651	145.244756620602	0.00597937409455043
+Echium_plantagineum	KX012516.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.2950842813832	147.67677959186	0.0018308440056245
+Echium_plantagineum	KX012515.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.7818843183649	147.8762318239	0.00203034774008503
+Echium_plantagineum	KX012514.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-34.6698495043699	146.70544856652	0.0018308440056245
+Echium_plantagineum	KX012513.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.227524638566	147.403486564893	0.00203034774008503
+Echium_plantagineum	KX012512.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-34.4575695233367	147.335284438708	0.00203034774008503
+Echium_plantagineum	KX012511.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-35.3076026838649	146.620840950441	0.00203034774008503
+Echium_plantagineum	KX012510.1	09-OCT-2016	399	Australia: city Yanco	secondary	trnL-trnF	-34.459083681011	150.408294561106	0.00203034774008503
+Echium_plantagineum	KX012509.1	09-OCT-2016	399	Australia: city Yanco	secondary	trnL-trnF	-33.8017002185325	150.372910958941	0.00203034774008503
+Echium_plantagineum	KX012508.1	09-OCT-2016	399	Australia: city Yanco	secondary	trnL-trnF	-34.3035542839073	151.131468010273	0.00203034774008503
+Echium_plantagineum	KX012507.1	09-OCT-2016	399	Australia: city Yanco	secondary	trnL-trnF	-33.0238357545067	150.333539228264	0.00203034774008503
+Echium_plantagineum	KX012506.1	09-OCT-2016	399	Australia: city Coolamon	secondary	trnL-trnF	-37.9876182126905	144.05404571376	0.00597937409455043
+Echium_plantagineum	KX012505.1	09-OCT-2016	399	Australia: city Coolamon	secondary	trnL-trnF	-37.850710381954	144.141263380036	0.00597937409455043
+Echium_plantagineum	KX012504.1	09-OCT-2016	399	Australia: city Coolamon	secondary	trnL-trnF	-37.2341841307619	144.39580569315	0.00597937409455043
+Echium_plantagineum	KX012503.1	09-OCT-2016	399	Australia: city Coolamon	secondary	trnL-trnF	-37.2097868430908	144.100547355458	0.00597937409455043
+Echium_plantagineum	KX012502.1	09-OCT-2016	399	Australia: city Coombah	secondary	trnL-trnF	-34.2078186879536	151.693416507964	0.0018308440056245
+Echium_plantagineum	KX012501.1	09-OCT-2016	399	Australia: city Silverton	secondary	trnL-trnF	-38.2167758734629	144.238113077182	0.00203034774008503
+Echium_plantagineum	KX012500.1	09-OCT-2016	399	Australia: city Griffith	secondary	trnL-trnF	-34.1135017414429	145.367511361502	0.00203034774008503
+Echium_plantagineum	KX012499.1	09-OCT-2016	399	Australia: city Griffith	secondary	trnL-trnF	-35.1754032294275	146.210798102096	0.00203034774008503
+Echium_plantagineum	KX012498.1	09-OCT-2016	399	Australia: city Talbingo	secondary	trnL-trnF	-33.3643913688325	151.885457408057	0.0018308440056245
+Echium_plantagineum	KX012497.1	09-OCT-2016	399	Australia: city Talbingo	secondary	trnL-trnF	-33.0306799850829	152.581526106845	0.0018308440056245
+Echium_plantagineum	KX012495.1	09-OCT-2016	399	Australia: city Coombah	secondary	trnL-trnF	-33.8771043548111	151.255224781918	0.0018308440056245
+Echium_plantagineum	KX012494.1	09-OCT-2016	399	Australia: city Wagga Wagga	secondary	trnL-trnF	-34.4813527772411	147.790394890368	0.00203034774008503
+Echium_plantagineum	EU599961.1	31-MAR-2009	339	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.0240097447863925
+Echium_plantagineum	EU599960.1	31-MAR-2009	339	Spain: Tenerife	secondary	trnL-trnF	28.2935785	-16.6214471	0.0240097447863925

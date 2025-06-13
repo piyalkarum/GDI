@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_gigas	KC238566.1	01-OCT-2014	1774	Spain: Puerto de Panderrueda	secondary	matK	43.3108073065818	-3.9131184043993	0.00488538143555054
+Narcissus_gigas	KC238565.1	01-OCT-2014	1774	Spain: Puerto de Panderrueda	secondary	matK	43.4470581840555	-5.38704047770194	0.00488538143555054
+Narcissus_gigas	KC238512.1	01-OCT-2014	1774	Spain: Asturias	secondary	matK	43.630146395749	-6.66833175019139	0.00488538143555054
+Narcissus_gigas	KC238511.1	01-OCT-2014	1774	Spain: Asturias	secondary	matK	43.9613276183828	-5.15873609392193	0.00488538143555054

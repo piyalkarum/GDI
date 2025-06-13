@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Adoxa_moschatellina	MG224315.1	26-DEC-2017	552	Canada: Yukon Territory, Keele Range	primary	rbcL	66.971	-140.832	0
+Adoxa_moschatellina	MG221627.1	26-DEC-2017	552	Canada: Yukon Territory, La Biche River	primary	rbcL	60.225	-124.236	0
+Adoxa_moschatellina	MG221251.1	26-DEC-2017	552	USA: Alaska, Stuver Creek drainage, Wrangell St. Elias National Park	primary	rbcL	62.429	-142.014	0
+Adoxa_moschatellina	JN891274.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.8	-3.03	0
+Adoxa_moschatellina	MN192616.1	30-NOV-2021	723	China	secondary	rbcL	35.000074	104.999927	0
+Adoxa_moschatellina	JN893796.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.6063919730232	-2.50661164098721	0
+Adoxa_moschatellina	JN893793.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.2680455811257	-3.66116578740882	0

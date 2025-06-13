@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_moly	HF934742.1	12-MAY-2015	286	Germany:Hort	secondary	trnL-trnF	47.8307989	12.9329767	0.00137174211248285
+Allium_moly	HF934741.1	12-MAY-2015	286	Spain:Aragona, Puerto de Aldea	secondary	trnL-trnF	40.6946348	-4.5934464	0.00137174211248285
+Allium_moly	HF934740.1	12-MAY-2015	286	Spain:Jaen, Siera de Casorla	secondary	trnL-trnF	37.7728858	-3.7883289	0.00137174211248285
+Allium_moly	KF550165.1	01-JAN-2014	666	Germany: Gatersleben	secondary	trnL-trnF	51.8152287	11.2905076	0.00411522633744856

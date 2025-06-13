@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_thessala	MF521426.1	10-SEP-2018	1332	Macedonia	secondary	trnL-trnF	41.5780197652595	-95.794909308393	0.00203219664185563
+Euphorbia_thessala	MF521425.1	10-SEP-2018	1473	Greece	secondary	trnL-trnF	43.2097838	-77.6930602	0.00327131074405345
+Euphorbia_thessala	MF521421.1	10-SEP-2018	1448	Serbia	secondary	trnL-trnF	44.0243229	21.0765743	0.00209964793758551
+Euphorbia_thessala	MF521420.1	10-SEP-2018	1447	Macedonia	secondary	trnL-trnF	41.7382778597689	-96.0516829019788	0.00404173795941903

@@ -1,0 +1,34 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tofieldia_pusilla	OP005272.1	12-APR-2023	1004	Russia: Sakha	primary	petD	70.517	147.467	0.00743578621948723
+Tofieldia_pusilla	OP005271.1	12-APR-2023	1005	Russia: Krasnoyarsk	primary	petD	71.907	103.839	0.025463250989914
+Tofieldia_pusilla	OP005270.1	12-APR-2023	688	Russia: Murmansk	primary	petD	66.729	33.694	0.0298480874015002
+Tofieldia_pusilla	OP005269.1	12-APR-2023	1005	Russia: Krasnoyarsk	primary	petD	74.896	106.522	0.0074279849044317
+Tofieldia_pusilla	OP005268.1	12-APR-2023	1005	Russia: Yamalo-Nenets	primary	petD	67.286	68.71	0.0074279849044317
+Tofieldia_pusilla	OP005267.1	12-APR-2023	1005	Russia: Sakha	primary	petD	69.417	150.25	0.0074279849044317
+Tofieldia_pusilla	OP005266.1	12-APR-2023	668	Russia: Krasnoyarsk	primary	petD	68.084	87.792	0.0103944826935668
+Tofieldia_pusilla	OP005265.1	12-APR-2023	988	Norway: Svalbard, Ossian Sars	primary	petD	78.9110047442894	13.9877140116113	0.00695790151289005
+Tofieldia_pusilla	OP005264.1	12-APR-2023	1000	Germany: Berchtesgaden, Watzmann	primary	petD	47.568	12.932	0.00686915421732089
+Tofieldia_pusilla	OP005263.1	12-APR-2023	894	Norway: Bronnoy hd., Somna	primary	petD	65.36	12.224	0.0140575929356765
+Tofieldia_pusilla	OP005262.1	12-APR-2023	978	Finland: Ostroboltnia kajanensis, Paltamo	primary	petD	64.407	27.834	0.0181820003624086
+Tofieldia_pusilla	OP005261.1	12-APR-2023	1000	Norway: Buskerud	primary	petD	60.483	8.711	0.0212075022891243
+Tofieldia_pusilla	OP005260.1	12-APR-2023	1000	Iceland: Laugarvatn	primary	petD	64.211	-20.774	0.0202036632342048
+Tofieldia_pusilla	OP005259.1	12-APR-2023	1000	Iceland: Geysir	primary	petD	64.314	-20.306	0.01483725764118
+Tofieldia_pusilla	OP005258.1	12-APR-2023	1000	Norway: Nordland, Beiarn	primary	petD	66.893	14.666	0.0248677334937161
+Tofieldia_pusilla	OP005257.1	12-APR-2023	1005	Greenland: Tasiilaq	primary	petD	65.61	-37.62	0.0337323381192485
+Tofieldia_pusilla	OP005256.1	12-APR-2023	1005	Greenland: Kitaa	primary	petD	72.504	-24.03	0.00813431969122931
+Tofieldia_pusilla	OP005255.1	12-APR-2023	1000	Austria: Salzburg, Lungau, Weisseck	primary	petD	47.161	13.377	0.0133004384270467
+Tofieldia_pusilla	OP005254.1	12-APR-2023	1009	Norway: Svalbard, Ringhorndalen	primary	petD	78.7558743093564	15.3366531775593	0.00773787099221648
+Tofieldia_pusilla	OP005253.1	12-APR-2023	1009	Norway: Svalbard, Ringhorndalen	primary	petD	78.6434208646928	17.6187457997744	0.00686538082830877
+Tofieldia_pusilla	OP005252.1	12-APR-2023	1009	Norway: Svalbard, Blomstrandhalvoya	primary	petD	78.974	12.179	0.00686538082830877
+Tofieldia_pusilla	OP005251.1	12-APR-2023	1009	Norway: Svalbard, Ringhorndalen	primary	petD	79.33	16.161	0.00686538082830877
+Tofieldia_pusilla	OP005250.1	12-APR-2023	1009	Norway: Svalbard, Nathorstdalen	primary	petD	78.9771212112025	15.9576992168341	0.00686538082830877
+Tofieldia_pusilla	OP005249.1	12-APR-2023	1009	Norway: Svalbard, Ringhorndalen	primary	petD	79.1651543463693	20.2746698836399	0.00686538082830877
+Tofieldia_pusilla	OP005248.1	12-APR-2023	1009	Norway: Svalbard, Nathorstdalen	primary	petD	79.1905530529529	19.2357847982768	0.00686538082830877
+Tofieldia_pusilla	OP005247.1	12-APR-2023	1009	Norway: Svalbard, Nathorstdalen	primary	petD	79.4137638468697	14.2710177206336	0.00686538082830877
+Tofieldia_pusilla	OP005246.1	12-APR-2023	1022	Norway: Svalbard, Bockfjorden	primary	petD	79.389	13.438	0.00686222915423648
+Tofieldia_pusilla	OP005245.1	12-APR-2023	1010	Norway: Svalbard, Ossian Sars	primary	petD	79.4870259860717	11.6892408499729	0.0068651355114084
+Tofieldia_pusilla	OP005244.1	12-APR-2023	1010	Norway: Svalbard, Ossian Sars	primary	petD	79.5100916164081	12.9119901276654	0.0068651355114084
+Tofieldia_pusilla	OP005243.1	12-APR-2023	1027	USA: Alaska, Nome	primary	petD	64.894	-165.215	0.00741905509991705
+Tofieldia_pusilla	OP005242.1	12-APR-2023	1014	Canada: Victoria Island, Boot inlet	primary	petD	71.51	-117.338	0.00812456649914643
+Tofieldia_pusilla	OP005241.1	12-APR-2023	1027	Greenland: Disko	primary	petD	69.25	-53.542	0.00812281052558729
+Tofieldia_pusilla	OP005240.1	12-APR-2023	1027	Greenland: Angmagssalik Island	primary	petD	65.717	-37.583	0.00812281052558729

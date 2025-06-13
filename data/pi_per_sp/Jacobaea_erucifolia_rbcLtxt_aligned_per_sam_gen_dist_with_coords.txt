@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_erucifolia	JN892981.1	07-MAR-2012	449	United Kingdom: Monmouthshire	primary	rbcL	51.51	-3.05	0
+Jacobaea_erucifolia	JN892024.1	07-MAR-2012	542	United Kingdom: Monmouthshire (35)	primary	rbcL	51.49	-3.13	0
+Jacobaea_erucifolia	MK924430.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Jacobaea_erucifolia	JN891722.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Jacobaea_erucifolia	JN891721.1	07-MAR-2012	541	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_physodes	OR738149.1	13-NOV-2023	542	Kazakhstan: Mangistau region	primary	rbcL	43.35334	51.32053	0
+Carex_physodes	MT931753.1	03-MAR-2023	565	China	secondary	rbcL	35.2237333181892	105.391006996978	0
+Carex_physodes	MT931752.1	03-MAR-2023	568	China	secondary	rbcL	35.7646304223945	105.250192972448	0
+Carex_physodes	MT931751.1	03-MAR-2023	565	China	secondary	rbcL	34.7280470620303	105.808088003742	0
+Carex_physodes	MT931750.1	03-MAR-2023	565	China	secondary	rbcL	34.3398005002407	104.774415237135	0
+Carex_physodes	MT931749.1	03-MAR-2023	567	China	secondary	rbcL	34.5345703726366	104.65919981228	0

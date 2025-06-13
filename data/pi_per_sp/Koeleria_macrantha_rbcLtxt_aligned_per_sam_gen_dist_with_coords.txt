@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Koeleria_macrantha	MF596854.1	28-FEB-2018	603	Canada: British Columbia, 10 km W of Princeton on Hwy. 3. Ponderosa pine upper steppe roadside grassland. Edge of road with Artemesia tridentata.	primary	rbcL	49.614327472803	-120.659194653114	0.000745162597797016
+Koeleria_macrantha	MF596853.1	28-FEB-2018	603	Canada: British Columbia, Francis Point Provincial Park - just south of Pender Harbour, Sunshine Coast	primary	rbcL	50.3810486150519	-124.506037300552	0.000745162597797016
+Koeleria_macrantha	MF596852.1	28-FEB-2018	603	Canada: Alberta, 26 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	rbcL	50.9552462364401	-113.894430917336	0.000745162597797016
+Koeleria_macrantha	MF596851.1	28-FEB-2018	603	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	rbcL	49.4332798424957	-123.957071609661	0.000745162597797016
+Koeleria_macrantha	MF596850.1	28-FEB-2018	603	Canada: Manitoba, 3 miles South of Spruce Woods Provincial Park southern boundary on Hwy 5 towards Glenboro.	primary	rbcL	49.5241436478125	-99.517175941991	0.000745162597797016
+Koeleria_macrantha	MG227418.1	23-JAN-2018	603	Canada: Alberta, 26 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	rbcL	51.1534519384113	-113.789500663989	0.000745162597797016
+Koeleria_macrantha	MG226353.1	23-JAN-2018	603	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	rbcL	49.1266417176836	-123.73506536361	0.000745162597797016
+Koeleria_macrantha	MG226324.1	23-JAN-2018	603	Canada: Manitoba, 3 miles South of Spruce Woods Provincial Park southern boundary on Hwy 5 towards Glenboro.	primary	rbcL	49.8736823700706	-98.1238918354375	0.000745162597797016
+Koeleria_macrantha	MG225923.1	23-JAN-2018	603	Canada: British Columbia, 10 km W of Princeton on Hwy. 3. Ponderosa pine upper steppe roadside grassland. Edge of road with Artemesia tridentata.	primary	rbcL	49.8400156406728	-119.743662597483	0.000745162597797016
+Koeleria_macrantha	MG225590.1	23-JAN-2018	603	Canada: British Columbia, Francis Point Provincial Park - just south of Pender Harbour, Sunshine Coast	primary	rbcL	48.9304557762662	-124.127310769618	0.000745162597797016
+Koeleria_macrantha	JN892250.1	07-MAR-2012	542	United Kingdom: Somerset, North (6)	primary	rbcL	51.26	-2.74	0.000836247461311822
+Koeleria_macrantha	JN891641.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.12	-4.69	0.000836247461311822
+Koeleria_macrantha	KJ746317.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00875098613156237
+Koeleria_macrantha	KM538823.1	20-JUN-2015	743	South Korea	secondary	rbcL	36.638392	127.6961188	0.00379600911950652
+Koeleria_macrantha	JX848501.1	06-AUG-2013	1391	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.000990501008398549
+Koeleria_macrantha	JN891197.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000836247461311822
+Koeleria_macrantha	JN891192.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.000836247461311822

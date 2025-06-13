@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygonum_boreale	MK926339.1	14-JAN-2020	775	United Kingdom	secondary	matK	54.4877315346861	-4.64128575264183	0.00268456375838926
+Polygonum_boreale	MK926172.1	14-JAN-2020	749	United Kingdom	secondary	matK	54.1655808898519	-2.28916594786914	0.00803935448607091
+Polygonum_boreale	MK926023.1	14-JAN-2020	774	United Kingdom	secondary	matK	54.6313876320908	-4.51099947239987	0.00268456375838926
+Polygonum_boreale	MK925757.1	14-JAN-2020	769	United Kingdom	secondary	matK	55.2106875358341	-3.1399532950196	0.00267022696929239

@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_vulgare	MG223675.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Head of Trails Parking Lot, BPNP	primary	rbcL	45.236	-81.523	0.000524208906850193
+Leucanthemum_vulgare	MG223267.1	26-DEC-2017	552	USA: Alaska, Haines Airport	primary	rbcL	59.244	-135.513	0.000524208906850193
+Leucanthemum_vulgare	MG223175.1	26-DEC-2017	552	Canada: Yukon Territory, Alaska Highway km 1080, E of Spencer Creek	primary	rbcL	60.118	-130.291	0.000524208906850193
+Leucanthemum_vulgare	MG223172.1	26-DEC-2017	552	Canada: Yukon Territory, Dawson City, Dome Road	primary	rbcL	64.069	-139.383	0.00169482067123563
+Leucanthemum_vulgare	MG222974.1	26-DEC-2017	553	Canada: Ontario, Wellington, Wellington County, Guelph	primary	rbcL	43.5283812927886	-79.1700679914575	0.000523970109557714
+Leucanthemum_vulgare	MG222955.1	26-DEC-2017	553	Canada: Ontario, Wellington, Wellington County, Guelph	primary	rbcL	42.9065772448898	-80.8711280944675	0.00169386421799533
+Leucanthemum_vulgare	MG222211.1	26-DEC-2017	552	Canada: Ontario, Kenora District, Dryden Township, Dryden, NEBIE Block#3, Basic treatment	primary	rbcL	49.636	-92.767	0.000524208906850193
+Leucanthemum_vulgare	MG221968.1	26-DEC-2017	498	Canada: Ontario, Nipissing District, Pentland Twp., Algonquin Park, ~10km in from Kiosk stop-gate, portage trail @ 2nd bridge	primary	rbcL	46.05	-78.922	7.31850117096019e-05
+Leucanthemum_vulgare	MG221901.1	26-DEC-2017	552	Canada: Ontario, Kenora, English River Forest	primary	rbcL	49.7667	-94.4667	0.000524208906850193
+Leucanthemum_vulgare	MG221852.1	26-DEC-2017	549	Canada: Ontario, Parry Sound District, French River	primary	rbcL	46.0251	-80.5779	0.000395440053180767
+Leucanthemum_vulgare	MG221706.1	26-DEC-2017	552	Canada: British Columbia, Spectacle Lake, southern Vancouver Island	primary	rbcL	48.428	-123.362	0.000524208906850193
+Leucanthemum_vulgare	KX679063.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Ashlu Main Rd., near Squamish	primary	rbcL	49.933	-123.364	0.000524208906850193
+Leucanthemum_vulgare	KX678742.1	29-APR-2017	548	Canada: British Columbia, East Kootenay Regional District, near Invermere, Panorama Rd, campsite pulloff near river	primary	rbcL	50.4437	-116.259	0.000396049038970887
+Leucanthemum_vulgare	KX678424.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, marshy area just off Nitnat Rd.	primary	rbcL	48.9126	-124.488	0.000524208906850193
+Leucanthemum_vulgare	KX678094.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	rbcL	49.182	-119.091	0.000524208906850193
+Leucanthemum_vulgare	KX677855.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, near Link Lake Forest Recreation Site, Kettle Valley Rail Trail	primary	rbcL	49.711	-120.231	0.000524208906850193
+Leucanthemum_vulgare	HQ590159.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., S of path, NE of pond towards red pine plantation	primary	rbcL	44.038	-79.513	0.00127156240928485
+Leucanthemum_vulgare	KJ593503.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.561	-88.791	0.000523970109557714
+Leucanthemum_vulgare	KJ593502.1	17-MAR-2015	553	USA: Wisconsin, Caswell	primary	rbcL	45.665	-88.651	0.000523970109557714
+Leucanthemum_vulgare	KJ841377.1	04-NOV-2014	570	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.000785162326573207
+Leucanthemum_vulgare	JN893039.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.6595182249935	-2.84619608067653	0.000400132227328997
+Leucanthemum_vulgare	JN891654.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.7712820754673	-4.63823963708274	0.00159026790851848
+Leucanthemum_vulgare	OP711469.1	26-DEC-2022	545	Mexico: Puebla	secondary	rbcL	19.1705686	-98.4123106	0.00193753655822809
+Leucanthemum_vulgare	MG222580.1	26-DEC-2017	552	Canada: Quebec, Colline chalet, Breeches lake, canton de Garthby, Wolfe County	secondary	rbcL	46.8137431	-71.2084061	0.00169482067123563
+Leucanthemum_vulgare	HM850122.1	23-JUL-2011	704	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00390981430176681
+Leucanthemum_vulgare	JN892458.1	07-MAR-2012	529	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000410089515646007
+Leucanthemum_vulgare	JN891978.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000400132227328997
+Leucanthemum_vulgare	HE574589.1	31-JUL-2011	600	Finland	secondary	rbcL	62.9271260220492	24.8409063485396	0.00521030410758441
+Leucanthemum_vulgare	HE574588.1	31-JUL-2011	567	Finland	secondary	rbcL	63.2631817418654	27.1063352753019	0.000842292281392281

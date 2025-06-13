@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alliaria_petiolata	OR464870.1	26-SEP-2023	613	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28796604	-85.62082532	0.000282954504943234
+Alliaria_petiolata	KP644014.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.4463240607859	-77.3674950833914	0.000287455525169128
+Alliaria_petiolata	KP643935.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.3945911382704	-79.0542292404887	0.00201701078730904
+Alliaria_petiolata	KP643839.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.586963142747	-77.4057534046864	0.000287455525169128
+Alliaria_petiolata	MG249818.1	21-JAN-2018	552	Canada: Victoria Rd. Bridge, north side of river.	primary	rbcL	43.55	-80.22	0.000287979854804575
+Alliaria_petiolata	MG249801.1	21-JAN-2018	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Parking Lot, Little Cove, BPNP	primary	rbcL	44.9454	-81.2769	0.000287455525169128
+Alliaria_petiolata	MG249200.1	21-JAN-2018	552	Canada: R.R.Tracks between Glasgow St. & Yorkshire St.	primary	rbcL	43.54	-80.254	0.000287979854804575
+Alliaria_petiolata	MG246775.1	21-JAN-2018	553	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West.	primary	rbcL	44.05	-79.4833	0.000287455525169128
+Alliaria_petiolata	MG246663.1	21-JAN-2018	553	Canada: Ontario, Hamilton-Wentworth, Dundas, North Shore Cootes Paradise, Off Gray Doe Trail	primary	rbcL	43.2628	-79.9597	0.000287455525169128
+Alliaria_petiolata	KX678066.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, NE corner of W. 16th Ave. & SW Marine Dr.	primary	rbcL	49.253	-123.246	0.000287979854804575
+Alliaria_petiolata	HQ589945.1	09-NOV-2011	587	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West	primary	rbcL	44.031	-79.53	0.00200594652022989
+Alliaria_petiolata	HQ589944.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., N side of driveway to Dufferin, W of flower bed	primary	rbcL	44.036	-79.518	0.000281942854051358
+Alliaria_petiolata	KP402726.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, Cumberstone Rd. - on left side of road near gate before going down the hill to the CO2 site	primary	rbcL	38.87	-76.551	0.000287455525169128
+Alliaria_petiolata	JN893074.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.14	0.000291318702660711
+Alliaria_petiolata	JN890631.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.88	-3.98	0.000291318702660711
+Alliaria_petiolata	MG248838.1	21-JAN-2018	511	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, South Point Trail, ~500-600m from Rondeau Road trailhead parking lot, within 20m of main pathway	secondary	rbcL	43.72634945	-77.7101179040839	0.00020599443815017
+Alliaria_petiolata	KJ593198.1	17-MAR-2015	553	USA: Wisconsin, Saukville	secondary	rbcL	43.3816691	-87.9406454	0.000287455525169128
+Alliaria_petiolata	KJ593197.1	17-MAR-2015	553	USA: Wisconsin, Green Bay	secondary	rbcL	44.5126379	-88.0125794	0.000287455525169128
+Alliaria_petiolata	JN891844.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.5644066196447	-4.7950245170063	0.00194302281901439
+Alliaria_petiolata	JN891843.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4265824676372	-3.85407195825399	0.000291318702660711

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_pseudacorus	MN481446.1	10-MAR-2020	819	Switzerland:Cartigny, Moulin de Vert	secondary	trnL-trnF	46.1785081	6.0268252	0.00289855072463768
+Iris_pseudacorus	LT628004.1	18-OCT-2016	888	Russia:Primorsky Krai, Vladivostok	secondary	trnL-trnF	43.1150678	131.8855768	0.0027972027972028
+Iris_pseudacorus	KF170871.1	23-SEP-2013	715	South Korea: Daegu-si	secondary	trnL-trnF	35.8713	128.6018	0.00284787676092024
+Iris_pseudacorus	KF170869.1	23-SEP-2013	715	South Korea: Busan	secondary	trnL-trnF	35.1799528	129.0752365	0.00284787676092024

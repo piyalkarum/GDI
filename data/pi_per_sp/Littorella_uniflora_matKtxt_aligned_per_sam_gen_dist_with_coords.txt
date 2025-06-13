@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Littorella_uniflora	JN895291.1	07-MAR-2012	797	United Kingdom: Glamorgan	primary	matK	51.74	-3.41	0.000836470096194061
+Littorella_uniflora	HM851045.1	23-JUL-2011	801	Portugal	secondary	matK	39.6621648	-8.1353519	0.00213758631695187
+Littorella_uniflora	JN894904.1	07-MAR-2012	783	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00046882325363338
+Littorella_uniflora	JN894903.1	07-MAR-2012	855	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000832292967124428

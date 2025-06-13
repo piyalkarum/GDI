@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ajuga_pyramidalis	MK925183.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8781364942408	-4.3460727462433	0
+Ajuga_pyramidalis	MK924940.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3981160571339	-3.35990692095034	0
+Ajuga_pyramidalis	MK924871.1	14-JAN-2020	542	France	secondary	rbcL	46.603354	1.8883335	0
+Ajuga_pyramidalis	MK924841.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9527771483835	-4.27538411272748	0
+Ajuga_pyramidalis	MK924800.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3268143918038	-2.59004468343366	0
+Ajuga_pyramidalis	MK924669.1	14-JAN-2020	542	Italy	secondary	rbcL	42.6384261	12.674297	0

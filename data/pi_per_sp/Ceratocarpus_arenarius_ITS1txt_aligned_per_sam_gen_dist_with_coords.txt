@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ceratocarpus_arenarius	LR537386.1	28-MAY-2019	525	Ukraine	primary	ITS1	48.1342	39.7964	0.00317460317460318
+Ceratocarpus_arenarius	LR537385.1	28-MAY-2019	525	Russia	primary	ITS1	43.970433025496	48.3686148432819	0.00571428571428571
+Ceratocarpus_arenarius	LR537384.1	28-MAY-2019	525	Russia	primary	ITS1	43.5556224801168	47.4278679758072	0.00380952380952381
+Ceratocarpus_arenarius	LR537383.1	28-MAY-2019	525	Russia	primary	ITS1	43.3747109954573	46.5291624613773	0.00507936507936508

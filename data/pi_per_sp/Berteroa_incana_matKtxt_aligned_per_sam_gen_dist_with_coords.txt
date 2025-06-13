@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Berteroa_incana	OR575186.1	25-OCT-2023	774	Kazakhstan: Qaragandy region	primary	matK	49.756	73.11774	0.000408666022010407
+Berteroa_incana	OQ434037.1	02-JUL-2023	822	USA: South Westnudge Park, Portage, MI	primary	matK	42.18514448	-85.59238737	0.000408666022010407
+Berteroa_incana	KX677289.1	09-AUG-2017	796	Canada: British Columbia, Kootenay Boundary Regional District, Gilpin Grasslands Provincial Park	primary	matK	49.011	-118.312	0.000423591340811576
+Berteroa_incana	MG220712.1	21-JAN-2018	762	USA: North Dakota	primary	matK	48.454	-101.592	0.00255721066257843
+Berteroa_incana	OR703763.1	11-NOV-2023	666	Kazakhstan: Akmola region	secondary	matK	51.8742347	69.8582132	0.000303759981179336
+Berteroa_incana	MT917850.1	03-MAR-2023	768	China	secondary	matK	34.4861499700756	104.192241486743	0.000408666022010407
+Berteroa_incana	MT917849.1	03-MAR-2023	768	China	secondary	matK	35.2571708911786	104.626629092169	0.000408666022010407
+Berteroa_incana	MT917848.1	03-MAR-2023	770	China	secondary	matK	35.4286838316793	105.319571880348	0.000408666022010407
+Berteroa_incana	MT917847.1	03-MAR-2023	767	China	secondary	matK	35.8704555416612	105.112354730113	0.000408666022010407
+Berteroa_incana	MT917846.1	03-MAR-2023	769	China	secondary	matK	35.0512081163687	105.414550642316	0.000408666022010407
+Berteroa_incana	KJ746208.1	29-JUL-2014	684	Poland	secondary	matK	52.215933	19.134422	0.00161559813512275

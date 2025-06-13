@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Petagnaea_gussonei	FM867688.1	23-MAR-2009	732	Italy:Sicily, Torrente Monte Cuculone	secondary	atpB-rbcL	36.6521426237782	14.3579794513324	0
+Petagnaea_gussonei	FM867687.1	23-MAR-2009	732	Italy:Sicily, Fiumara Tortorici, affluent 3	secondary	atpB-rbcL	37.1494819970442	13.54035307679	0
+Petagnaea_gussonei	FM867686.1	23-MAR-2009	732	Italy:Sicily, Fiumara Tortorici, affluent 2	secondary	atpB-rbcL	36.6898368654705	15.2907292338633	0
+Petagnaea_gussonei	FM867685.1	23-MAR-2009	732	Italy:Sicily, Fiumara Tortorici, affluent 1	secondary	atpB-rbcL	37.2581058011781	15.2161452473424	0
+Petagnaea_gussonei	FM867684.1	23-MAR-2009	732	Italy:Sicily, Sorgente Patira'	secondary	atpB-rbcL	36.4104879060633	14.5158998350504	0
+Petagnaea_gussonei	FM867683.1	23-MAR-2009	732	Italy:Sicily, Vallone Runcillo	secondary	atpB-rbcL	37.9430374	14.8657372	0
+Petagnaea_gussonei	FM867682.1	23-MAR-2009	732	Italy:Sicily, Vallone Sollazzo Salmieri	secondary	atpB-rbcL	36.932174207019	14.7645012868587	0
+Petagnaea_gussonei	FM867681.1	23-MAR-2009	732	Italy:Sicily, Torrente Crocetta	secondary	atpB-rbcL	36.502732495984	14.6086771959983	0
+Petagnaea_gussonei	FM867680.1	23-MAR-2009	732	Italy:Sicily, Torrente Contrada Contrasto	secondary	atpB-rbcL	37.1793201393935	14.0327780189861	0
+Petagnaea_gussonei	FM867679.1	23-MAR-2009	732	Italy:Sicily, Stagno Case Mangalaviti	secondary	atpB-rbcL	37.4048571531499	15.0878339002391	0
+Petagnaea_gussonei	FM867678.1	23-MAR-2009	732	Italy:Sicily, Vallone Case Mangalaviti	secondary	atpB-rbcL	37.6614560125751	14.7264430121346	0
+Petagnaea_gussonei	FM867677.1	23-MAR-2009	732	Italy:Sicily, Torrente Fiumetto	secondary	atpB-rbcL	37.7695183	14.3824237	0
+Petagnaea_gussonei	FM867676.1	23-MAR-2009	732	Italy:Sicily, Torrente Suta	secondary	atpB-rbcL	36.4352785976827	14.3990839893359	0
+Petagnaea_gussonei	FM867675.1	23-MAR-2009	732	Italy:Sicily, Torrente Galati - S. Basilio	secondary	atpB-rbcL	36.8071479396598	15.3799598367451	0
+Petagnaea_gussonei	FM867674.1	23-MAR-2009	732	Italy:Sicily, Affluente Vallone S. Pietro	secondary	atpB-rbcL	37.8945426567951	14.5796874429075	0
+Petagnaea_gussonei	FM867673.1	23-MAR-2009	732	Italy:Sicily, Affluente Vallone Linari	secondary	atpB-rbcL	37.8403588557204	14.6433264863829	0
+Petagnaea_gussonei	FM867672.1	23-MAR-2009	732	Italy:Sicily, Castell'Umberto	secondary	atpB-rbcL	38.0843696	14.8071222	0

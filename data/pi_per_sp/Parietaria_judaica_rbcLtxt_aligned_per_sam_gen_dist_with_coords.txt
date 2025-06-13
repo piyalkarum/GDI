@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Parietaria_judaica	JN893504.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	primary	rbcL	51.64	-4.69	0
+Parietaria_judaica	MK925098.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.984433807986	-3.22169621287699	0
+Parietaria_judaica	MK924587.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9655618331751	-3.08151500685206	0
+Parietaria_judaica	FJ432248.1	02-JUN-2009	1322	Australia	secondary	rbcL	-24.7761086	134.755	0.00466464952092789
+Parietaria_judaica	HM850236.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00466464952092789
+Parietaria_judaica	JN893368.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0
+Parietaria_judaica	JN893363.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

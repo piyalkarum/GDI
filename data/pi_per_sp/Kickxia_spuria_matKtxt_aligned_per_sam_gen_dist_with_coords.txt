@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kickxia_spuria	KJ204495.1	29-JAN-2015	851	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00454226856636088
+Kickxia_spuria	HM850970.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00632225632225632
+Kickxia_spuria	JN895426.1	07-MAR-2012	791	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00358027350059223
+Kickxia_spuria	JN894552.1	07-MAR-2012	876	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.0032142473180209

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Schoenoplectus_triqueter	LC757810.1	08-MAR-2023	386	Japan: Yamanashi, Hokuto city	secondary	ITS2	35.498027180494	138.515552992447	0
+Schoenoplectus_triqueter	LC757809.1	08-MAR-2023	386	Japan: Yamaguchi, Yamaguchi city	secondary	ITS2	34.1783147	131.4733985	0
+Schoenoplectus_triqueter	LC757808.1	08-MAR-2023	386	Japan: Yamanashi, Hokuto city	secondary	ITS2	35.1936390065662	139.093043739996	0
+Schoenoplectus_triqueter	LC655280.1	20-APR-2022	727	Japan:Aichi, Nagoya	secondary	ITS2	35.1851045	136.8998438	0
+Schoenoplectus_triqueter	AB206269.1	24-AUG-2005	539	Japan	secondary	ITS2	36.5748441	139.2394179	0

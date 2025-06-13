@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polycnemum_arvense	KX678927.1	29-APR-2017	552	Canada: British Columbia, Thompson-Nicola Regional District, Fintry Provincial Park and Protected Area, Whitemans Creek Road	primary	rbcL	50.233	-119.433	0.416342412451362
+Polycnemum_arvense	JQ407832.1	09-JAN-2013	722	Austria: 'Pirscherwald' near Jois	primary	rbcL	47.99	16.82	0.276211974549892
+Polycnemum_arvense	JQ407836.1	09-JAN-2013	616	Spain: Toledo, Navahermosa	secondary	rbcL	39.6337383	-4.4724804	0.277104200028694
+Polycnemum_arvense	MT586761.1	02-JUN-2022	1241	Spain	secondary	rbcL	39.8560597	-4.0239356	0.410344827586207
+Polycnemum_arvense	JQ407834.1	09-JAN-2013	616	Spain	secondary	rbcL	37.1332098	-2.797482	0.276617818705736

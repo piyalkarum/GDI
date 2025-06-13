@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_lutea	JN891145.1	07-MAR-2012	542	United Kingdom: Denbighshire	primary	rbcL	53.09	-3.19	0
+Gagea_lutea	JN891143.1	07-MAR-2012	542	United Kingdom: Northamptonshire	primary	rbcL	52.35	-0.78	0
+Gagea_lutea	JN891142.1	07-MAR-2012	533	United Kingdom: Shropshire	primary	rbcL	52.34	-2.56	0
+Gagea_lutea	LC707681.1	27-OCT-2022	547	Japan:Shiga, Maibara	secondary	rbcL	35.3149074	136.2901179	0
+Gagea_lutea	MK925261.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0

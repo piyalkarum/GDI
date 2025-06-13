@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Milium_effusum	MZ676681.1	10-AUG-2022	575	United Kingdom: England, County Durham	primary	rbcL	54.7554	-1.5752	0.00661022120518688
+Milium_effusum	MG227066.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Timmins, NEBIE Block#1, Intensive treatment	primary	rbcL	48.351	-81.301	0.00634057971014493
+Milium_effusum	MG226727.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Timmins, NEBIE Block#2, Basic treatment	primary	rbcL	48.344	-81.306	0.00634057971014493
+Milium_effusum	KJ841417.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Along trail before Pain de Sucre summit	primary	rbcL	45.55	-73.172	0.00718069253694657
+Milium_effusum	JN893661.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.37	-4.08	0.00627306273062731
+Milium_effusum	MN205127.1	30-NOV-2021	724	China	secondary	rbcL	35.000074	104.999927	0.05615848871456
+Milium_effusum	KJ593540.1	17-MAR-2015	553	USA: Wisconsin, Tipler	secondary	rbcL	45.924958	-88.634849	0.00632911392405063
+Milium_effusum	KJ593539.1	17-MAR-2015	553	USA: Wisconsin, Blackwell	secondary	rbcL	45.514131	-88.612611	0.00632911392405063
+Milium_effusum	HQ600468.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.0133185763335381
+Milium_effusum	JN893348.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00627306273062731
+Milium_effusum	JN893347.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.00627306273062731

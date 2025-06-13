@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_dubium	MG247445.1	21-JAN-2018	552	Canada: Ontario, Sudbury Dist., Reeves Tp., West Crawford River, Near Hwy 101.	primary	rbcL	48.217	-82.067	0.0217245115045406
+Trifolium_dubium	KX679215.1	29-APR-2017	552	Canada: British Columbia, Powell River Regional District, Southern Hernando Island	primary	rbcL	49.983	-124.917	0.00120772946859903
+Trifolium_dubium	KX679209.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, East side of Harrison Lake, along primitive road just outside Cascade Peninsula Forest Recreation Site	primary	rbcL	49.44	-121.777	0.00120772946859903
+Trifolium_dubium	KX679041.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Gladstone Provincial Park, Badger Trail	primary	rbcL	49.123	-118.242	0.00120772946859903
+Trifolium_dubium	KX678400.1	29-APR-2017	505	Canada: British Columbia, Vancouver Island, Capital Regional District, Sooke Potholes Provincial Park, along trail to Lookout Point	primary	rbcL	48.431	-123.713	0.00121012101210121
+Trifolium_dubium	KX678024.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Pitt Meadows	primary	rbcL	49.233	-122.683	0.00120772946859903
+Trifolium_dubium	KX677941.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.045	-125.501	0.00120772946859903
+Trifolium_dubium	JN891652.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.1316244598456	-3.75974834551491	0.00123228589032656
+Trifolium_dubium	JN891337.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	52.5045338993731	-4.22181934653965	0.00123228589032656
+Trifolium_dubium	MG249926.1	21-JAN-2018	552	Canada: British Columbia, U.B.C.	secondary	rbcL	49.0332416	-122.2498143	0.00120772946859903
+Trifolium_dubium	MG249438.1	21-JAN-2018	552	Canada: British Columbia, Queen Charlotte Islands, Graham Island, just S of Skidegate Mission near Queen Charlotte City.	secondary	rbcL	49.25783145	-123.246241986222	0.00120772946859903
+Trifolium_dubium	MG246652.1	21-JAN-2018	552	Canada: Nova Scotia, Hants Co., 2 mi W of Mount Uniacke.	secondary	rbcL	45	-63.75	0.00120772946859903
+Trifolium_dubium	KJ204416.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	45.9554691282075	5.00233822317188	0.00121432908318154
+Trifolium_dubium	KJ204415.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.5360036329961	5.65668946729023	0.00121432908318154
+Trifolium_dubium	HM850412.1	23-JUL-2011	1269	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00454558138793213
+Trifolium_dubium	JX505489.1	09-JAN-2013	926	Portugal: Azores Island	secondary	rbcL	38.5855122	-27.9302237	0.00452778317361651
+Trifolium_dubium	JN892755.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00123228589032656
+Trifolium_dubium	JN891068.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.3428834432169	-3.28261519791875	0.00123228589032656
+Trifolium_dubium	JN891065.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.5757798078567	-2.23603703079847	0.00123228589032656

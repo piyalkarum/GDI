@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_flagellaris	MG249578.1	21-JAN-2018	552	Canada: Yukon Territory, Joe Creek drainage	primary	rbcL	69.024	-140.618	0.00144927536231884
+Saxifraga_flagellaris	MG247360.1	21-JAN-2018	552	Canada: Yukon Territory, Printer's Pass	primary	rbcL	61.194	-138.325	0.00144927536231884
+Saxifraga_flagellaris	KC484045.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island, Murray Inlet	primary	rbcL	75.3	-114.033	0.00144927536231884
+Saxifraga_flagellaris	KC484044.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Large valley along upper Bukken River	primary	rbcL	80.5261	-92.3639	0.00144927536231884
+Saxifraga_flagellaris	KC484043.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.906	-109.597	0.00144927536231884
+Saxifraga_flagellaris	MT932009.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.0072463768115942

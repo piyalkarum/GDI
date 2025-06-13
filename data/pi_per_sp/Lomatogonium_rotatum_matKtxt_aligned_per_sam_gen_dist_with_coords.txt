@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lomatogonium_rotatum	KC474963.1	25-OCT-2013	597	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	matK	70.717	-117.717	0.0016750418760469
+Lomatogonium_rotatum	KC474962.1	25-OCT-2013	786	Canada: Yukon Territory, Blow River Delta east, Whitefish Station	primary	matK	68.893	-136.902	0.00145401672119229
+Lomatogonium_rotatum	KC474961.1	25-OCT-2013	786	Canada: Nunavut, Victoria Island, Johansen Bay, Flat to gently sloped ground southeast of large unnamed lake, 18 km ENE of Johansen Bay airstrip	primary	matK	68.742	-110.7	0.00145401672119229
+Lomatogonium_rotatum	KC474960.1	25-OCT-2013	786	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	matK	71.313	-116.916	0.00145401672119229
+Lomatogonium_rotatum	KC474959.1	25-OCT-2013	786	Canada: Yukon Territory, Ivvavik National Park, Aspen Creek	primary	matK	69.018	-140.661	0.00145401672119229
+Lomatogonium_rotatum	MT918340.1	03-MAR-2023	798	China	secondary	matK	34.6338900149524	105.476496992651	0.0103523390898576
+Lomatogonium_rotatum	KC861295.1	10-NOV-2013	774	China	secondary	matK	35.3908757619272	104.364829620842	0.00143061516452074
+Lomatogonium_rotatum	KC861294.1	10-NOV-2013	774	China	secondary	matK	34.2674230699978	104.408191123533	0.00143061516452074

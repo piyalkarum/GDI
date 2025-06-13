@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_aphaca	JX505653.1	09-JAN-2013	592	Portugal	secondary	trnL-trnF	39.6621648	-8.1353519	0.00258673583221776
+Lathyrus_aphaca	JX505652.1	09-JAN-2013	576	Turkey	secondary	trnL-trnF	39.7325644457162	34.512188632293	0.00250321487080915
+Lathyrus_aphaca	JX505651.1	09-JAN-2013	498	Turkey	secondary	trnL-trnF	39.5036017009392	35.6343513999441	0.00535475234270415
+Lathyrus_aphaca	JX505650.1	09-JAN-2013	569	Turkey	secondary	trnL-trnF	39.6460981626853	34.6020253992524	0.00259385520994346

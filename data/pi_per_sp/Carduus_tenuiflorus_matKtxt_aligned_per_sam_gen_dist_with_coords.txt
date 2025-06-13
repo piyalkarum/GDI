@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carduus_tenuiflorus	JN894378.1	07-MAR-2012	875	United Kingdom: Glamorgan	primary	matK	51.55	-4.2	0.00165469005676138
+Carduus_tenuiflorus	KC969473.1	30-NOV-2013	981	USA	secondary	matK	39.7837304	-100.445882	0.00131749236423875
+Carduus_tenuiflorus	HM850617.1	23-JUL-2011	552	Portugal	secondary	matK	39.6621648	-8.1353519	0.00277577727459322
+Carduus_tenuiflorus	JN896074.1	07-MAR-2012	782	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.0030093446682072

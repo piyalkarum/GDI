@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhodiola_rosea	KJ570165.1	09-AUG-2014	905	China: Beijing, Wutai Mt	secondary	rpl16	39.2512552504765	116.92962734419	0.00719724173398451
+Rhodiola_rosea	KJ570164.1	09-AUG-2014	905	China: Beijing, Wuling Mt	secondary	rpl16	40.3983389115374	117.218567365389	0.00904213091985057
+Rhodiola_rosea	KJ570163.1	09-AUG-2014	901	China: Beijing, Dongling Mt	secondary	rpl16	40.6537267801953	116.728882514517	0.0155648251143246
+Rhodiola_rosea	KJ570162.1	09-AUG-2014	930	Iceland	secondary	rpl16	64.9841821	-18.1059013	0.00601812425344294
+Rhodiola_rosea	KJ570161.1	09-AUG-2014	931	Greenland	secondary	rpl16	35.9948477	-94.1796014	0.0100582707755409
+Rhodiola_rosea	KJ570160.1	09-AUG-2014	907	Russia: Chukotka	secondary	rpl16	66.0006475	169.4900869	0.00996257416461147
+Rhodiola_rosea	KJ570159.1	09-AUG-2014	930	Canada: New Brunswick, Cap Enrag	secondary	rpl16	47.43950925	-68.3926909826309	0.0153937373557681

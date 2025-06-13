@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Caragana_frutex	OR738220.1	13-NOV-2023	787	Kazakhstan: East Kazakhstan region	primary	matK	50.27639	83.28917	0.0152550616632592
+Caragana_frutex	OR678648.1	06-NOV-2023	778	Kazakhstan: Qaragandy region	primary	matK	49.71789	73.268	0.0151591644409702
+Caragana_frutex	MT918195.1	03-MAR-2023	774	China	secondary	matK	35.4596189377564	104.961954556213	0.0151931442776306
+Caragana_frutex	MT918181.1	03-MAR-2023	774	China	secondary	matK	34.6580365976452	104.127509933162	0.0234551836829653
+Caragana_frutex	KP088990.1	15-MAR-2015	733	China	secondary	matK	39.9057136	116.3912972	0.0263715959815951

@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthoxanthum_odoratum	MZ400472.1	07-DEC-2021	855	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.0113393720612013
+Anthoxanthum_odoratum	KX873230.1	16-OCT-2017	824	Canada: British Columbia, 3.2 km W of Gray Creek along Hwy. 3A	primary	matK	49.6303	-116.7883	0.0124487974692957
+Anthoxanthum_odoratum	MF597168.1	17-JUL-2018	819	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, N shore of Skidegate Lake at campground.	primary	matK	53.105	-131.923	0.00916982535785605
+Anthoxanthum_odoratum	MF597167.1	17-JUL-2018	778	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, Moresby Camp, Gillett Arm of Cumshewa Inlet, 11 km from Y junction of the loop road.	primary	matK	53.052	-132.025	0.00870614748480249
+Anthoxanthum_odoratum	MF597166.1	17-JUL-2018	819	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	matK	48.843	-123.305	0.0122042146548378
+Anthoxanthum_odoratum	JN894743.1	07-MAR-2012	821	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.00839587612272806
+Anthoxanthum_odoratum	LR606826.1	25-JAN-2021	2079	Russia	secondary	matK	40.2338211	-84.4096729	0.00987709197577329
+Anthoxanthum_odoratum	MF999114.1	09-DEC-2017	1812	Reunion	secondary	matK	-21.1307379	55.5364801	0.0126008423471462
+Anthoxanthum_odoratum	JX438072.1	31-MAR-2013	1240	Spain	secondary	matK	39.3260685	-4.8379791	0.0485829076931227
+Anthoxanthum_odoratum	HM850562.1	23-JUL-2011	766	Portugal	secondary	matK	39.6621648	-8.1353519	0.0126857862455941
+Anthoxanthum_odoratum	HE966877.1	18-SEP-2012	704	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0121747486717175
+Anthoxanthum_odoratum	JN893974.1	07-MAR-2012	803	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00915680001078031
+Anthoxanthum_odoratum	JN893971.1	07-MAR-2012	805	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00908091054881641

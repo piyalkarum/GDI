@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubus_scissoides	KM037136.1	28-SEP-2014	453	Czech Republic: S Bohemia, near esk Bud jovice	secondary	trnL-trnF	50.6553116548826	15.5037938647765	0
+Rubus_scissoides	KM037135.1	28-SEP-2014	455	Czech Republic: S Bohemia, Novohradsk hory	secondary	trnL-trnF	50.5394484288462	14.8790680919002	0
+Rubus_scissoides	KM036972.1	28-SEP-2014	455	Czech Republic: S Bohemia, Novohradsk hory	secondary	trnL-trnF	50.3112077728486	15.8418935724474	0
+Rubus_scissoides	KM036961.1	28-SEP-2014	453	Belgium: Walloon Region, near Spa	secondary	trnL-trnF	50.1545331	5.39935452432352	0

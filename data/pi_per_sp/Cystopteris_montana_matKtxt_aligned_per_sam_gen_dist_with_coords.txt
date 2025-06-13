@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cystopteris_montana	JF832267.1	24-JAN-2012	1318	Canada: Ontario	secondary	matK	50.000678	-86.000977	0.00478925807351404
+Cystopteris_montana	JX873993.1	07-MAY-2013	1211	Norway: Finnmark. Alta County.	secondary	matK	58.9435055	9.5833627	0.00478925807351404
+Cystopteris_montana	JX873992.1	07-MAY-2013	1198	China: Tibet. S Tibet.	secondary	matK	26.8787129	100.2334604	0.0068864774624374
+Cystopteris_montana	JX873991.1	07-MAY-2013	1203	China: Tibet. SE Tibet.	secondary	matK	29.8556443	90.8749807	0.00748129675810474
+Cystopteris_montana	JX873990.1	07-MAY-2013	1211	Canada: Newfoundland. St. Barbe North District.	secondary	matK	49.12120935	-56.6403111408207	0.00478925807351404

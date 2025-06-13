@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kickxia_elatine	JN894674.1	07-MAR-2012	793	United Kingdom: Monmouthshire	primary	matK	51.68	-2.86	0
+Kickxia_elatine	HM850969.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0
+Kickxia_elatine	JN894550.1	07-MAR-2012	806	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0
+Kickxia_elatine	JN894549.1	07-MAR-2012	832	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0

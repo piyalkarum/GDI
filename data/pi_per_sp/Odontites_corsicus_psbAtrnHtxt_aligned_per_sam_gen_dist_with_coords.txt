@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_corsicus	KU216896.1	24-JAN-2016	416	France	secondary	psbA-trnH	46.3394585979644	0.842471856517788	0
+Odontites_corsicus	KU216895.1	24-JAN-2016	413	France	secondary	psbA-trnH	46.2955201605439	1.84039475357345	0
+Odontites_corsicus	KU216894.1	24-JAN-2016	396	France	secondary	psbA-trnH	47.2937511459879	1.99157223951799	0
+Odontites_corsicus	KU216849.1	24-JAN-2016	413	France	secondary	psbA-trnH	47.126688821642	2.73614021334062	0

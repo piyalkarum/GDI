@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pancratium_maritimum	HE565492.1	10-JAN-2012	1935	Libya	secondary	ndhF	32.7593795	22.6383195	0
+Pancratium_maritimum	HE565491.1	10-JAN-2012	1935	Spain	secondary	ndhF	41.3598601	2.0997927	0
+Pancratium_maritimum	HE565490.1	10-JAN-2012	1935	Morocco	secondary	ndhF	33.6958383	-7.3893292	0
+Pancratium_maritimum	HE565485.1	10-JAN-2012	1935	Egypt	secondary	ndhF	31.554444	31.090278	0
+Pancratium_maritimum	FN594735.1	26-AUG-2010	1976	Italy	secondary	ndhF	35.55184715	12.3213882503846	0
+Pancratium_maritimum	FN594734.1	26-AUG-2010	1976	Italy	secondary	ndhF	35.51113415	12.5962913596296	0
+Pancratium_maritimum	FN594733.1	26-AUG-2010	1976	Italy	secondary	ndhF	41.904344	15.899453	0
+Pancratium_maritimum	FN594732.1	26-AUG-2010	1976	Italy	secondary	ndhF	40.05672	17.996423	0
+Pancratium_maritimum	FN594731.1	26-AUG-2010	1976	Italy	secondary	ndhF	37.5023612	15.0873718	0
+Pancratium_maritimum	FN594730.1	26-AUG-2010	1976	Greece	secondary	ndhF	35.3084952	24.463342318423	0

@@ -1,0 +1,32 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sambucus_racemosa	LC679579.1	03-MAY-2022	658	Japan: Miyazaki	primary	matK	32.75	131.4389	0.00086511883510473
+Sambucus_racemosa	LC679505.1	03-MAY-2022	680	Japan: Okayama	primary	matK	35.1445	133.5375	0.000843191544014618
+Sambucus_racemosa	LC677715.1	03-MAY-2022	702	Japan: Yamanashi	primary	matK	35.783	138.8225	0.00174763299335376
+Sambucus_racemosa	LC677363.1	03-MAY-2022	749	Japan: Saga	primary	matK	33.3692	130.3725	0.000820176795035889
+Sambucus_racemosa	LC680582.1	03-MAY-2022	757	Japan: Niigata	primary	matK	38.0092	138.476	0.0017096045656063
+Sambucus_racemosa	LC680495.1	03-MAY-2022	761	Japan: Tokyo	primary	matK	35.6461	139.276	0.00170580197896221
+Sambucus_racemosa	LC679633.1	03-MAY-2022	671	Japan: Nagasaki	primary	matK	34.1417	129.2	0.000855559403426134
+Sambucus_racemosa	LC679626.1	03-MAY-2022	670	Japan: Nagasaki	primary	matK	34.2112	129.275	0.000855930128044473
+Sambucus_racemosa	LC678421.1	03-MAY-2022	775	Japan: Nagano	primary	matK	36.0428	137.777	0.00168111235741715
+Sambucus_racemosa	LC678386.1	03-MAY-2022	782	Japan: Nagano	primary	matK	35.7557	137.5939	0.000789651431933177
+Sambucus_racemosa	LC678359.1	03-MAY-2022	782	Japan: Iwate	primary	matK	39.3625	140.887	0.0016687556040358
+Sambucus_racemosa	LC679350.1	03-MAY-2022	647	Japan: Nagasaki	primary	matK	34.5306	129.4112	0.000673501706683757
+Sambucus_racemosa	LC679337.1	03-MAY-2022	680	Japan: Iwate	primary	matK	39.7389	141.4667	0.000843191544014618
+Sambucus_racemosa	LC679281.1	03-MAY-2022	669	Japan: Miyazaki	primary	matK	32.2889	131.4459	0.000857225192133454
+Sambucus_racemosa	LC678271.1	03-MAY-2022	784	Japan: Wakayama	primary	matK	33.697	135.682	0.000787847132996339
+Sambucus_racemosa	LC678007.1	03-MAY-2022	787	Japan: Miyazaki	primary	matK	31.8903	131.2165	0.000786925738221487
+Sambucus_racemosa	LC677948.1	03-MAY-2022	762	Japan: Miyazaki	primary	matK	31.88	131.2429	0.00080590203740255
+Sambucus_racemosa	LC679048.1	03-MAY-2022	761	Japan: Kagoshima	primary	matK	32.0084	130.3062	0.000806074486280081
+Sambucus_racemosa	LC678667.1	03-MAY-2022	781	Japan: Ibaraki	primary	matK	36.9034	140.5964	0.000790402732091892
+Sambucus_racemosa	LC678220.1	03-MAY-2022	784	Japan: Iwate	primary	matK	39.4	140.9506	0.000787847132996339
+Sambucus_racemosa	LC678168.1	03-MAY-2022	784	Japan: Hokkaido	primary	matK	41.8268	140.4196	0.000787847132996339
+Sambucus_racemosa	KX677409.1	09-AUG-2017	779	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	matK	50.0449	-125.501	0.00153679987747537
+Sambucus_racemosa	KX677068.1	09-AUG-2017	778	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	matK	49.182	-119.091	0.00153793578882312
+Sambucus_racemosa	KX676824.1	09-AUG-2017	788	Canada: British Columbia, Okanagan-Similkameen Regional District, Chute Lake Road, near Naramata	primary	matK	49.6915	-119.536	0.00153194257029541
+Sambucus_racemosa	MG225281.1	21-JAN-2018	794	Canada: Quebec, Montreal, Island of Montreal, Parc du Bois-de-Liesse, pres d'un sentier de gravier	primary	matK	45.496	-73.78	0.00255108383679301
+Sambucus_racemosa	HQ593430.1	09-NOV-2011	783	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 100 m S of Racing Barn	primary	matK	44.029	-79.534	0.00254025336979709
+Sambucus_racemosa	KP210422.1	28-NOV-2015	750	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Steep south-facing slope up from Boundary Trail	primary	matK	45.541	-73.148	0.00260771951652748
+Sambucus_racemosa	KJ593099.1	17-MAR-2015	758	USA: Wisconsin, Green Bay	primary	matK	44.527	-87.933	0.0033867798150451
+Sambucus_racemosa	OQ303548.1	13-JUN-2023	643	Latvia	secondary	matK	56.8406494	24.7537645	0.000520413282179739
+Sambucus_racemosa	LC680116.1	03-MAY-2022	786	Japan: Niigata	secondary	matK	37.6452283	138.7669125	0.00166268004580029
+Sambucus_racemosa	FN668835.1	27-APR-2010	767	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.000782609889271012

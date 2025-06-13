@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salicornia_europaea	AB537526.1	03-JUN-2010	624	South Korea: Inchon, Yongyudo	secondary	ITS2	37.3440105230166	126.914249529835	0
+Salicornia_europaea	AB537525.1	03-JUN-2010	624	South Korea: Inchon, Yongyudo	secondary	ITS2	37.6614332073142	126.609898365367	0
+Salicornia_europaea	AB537524.1	03-JUN-2010	624	South Korea: Inchon, Yongyudo	secondary	ITS2	37.2408289677361	127.640395813364	0
+Salicornia_europaea	AB537523.1	03-JUN-2010	624	South Korea: Inchon, Yongyudo	secondary	ITS2	37.9883082719209	126.716124155042	0
+Salicornia_europaea	AB537521.1	03-JUN-2010	624	Japan: Okayama, Yorishima	secondary	ITS2	34.242732486394	133.830607932643	0
+Salicornia_europaea	AB537520.1	03-JUN-2010	624	Japan: Okayama, Yorishima	secondary	ITS2	35.3503018264052	133.552982404748	0
+Salicornia_europaea	AB537519.1	03-JUN-2010	624	Japan: Okayama, Yorishima	secondary	ITS2	35.3540637963349	133.226868865471	0
+Salicornia_europaea	AB537518.1	03-JUN-2010	624	Japan: Kagawa, Sakaide	secondary	ITS2	34.3082086	133.8698532	0
+Salicornia_europaea	AB537517.1	03-JUN-2010	624	Japan: Ehime, Niihama	secondary	ITS2	33.9603497	133.2835899	0
+Salicornia_europaea	AB537516.1	03-JUN-2010	624	Japan: Hokkaido, Notsuke	secondary	ITS2	43.6030965	145.2954554	0
+Salicornia_europaea	AB537515.1	03-JUN-2010	624	Japan: Hokkaido, Abashiri	secondary	ITS2	44.0199184	144.2541269	0
+Salicornia_europaea	AB537514.1	03-JUN-2010	624	Japan: Hokkaido, Nemuro	secondary	ITS2	43.3301154	145.5829068	0

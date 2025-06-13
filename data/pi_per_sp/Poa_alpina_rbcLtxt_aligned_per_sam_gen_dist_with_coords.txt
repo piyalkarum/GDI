@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_alpina	MZ359295.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.000210315648306985
+Poa_alpina	MF596930.1	28-FEB-2018	603	Canada: Alberta, Banff National Park, 11 mi NW of Mosquito Creek at Bow summit. Forest with Picea, Abies, Cassiope, Phyllodoce, Kalmia, and Salix.	primary	rbcL	52.1648450847943	-116.984048230818	0.000211096158646743
+Poa_alpina	MF596929.1	28-FEB-2018	603	Canada: British Columbia, End of Hudson Bay Mountain Road at alpine ski area, W of Smithers. Parking lot edge with Lupinus, Poa alpinum, Abies lasiocarpa.	primary	rbcL	55.5102059169826	-126.858185190758	0.000211096158646743
+Poa_alpina	MF596928.1	28-FEB-2018	603	Canada: British Columbia, McBride Peak, with alpine vegetation	primary	rbcL	52.5241251808833	-120.485754726064	0.000211096158646743
+Poa_alpina	MF596927.1	28-FEB-2018	603	Canada: Yukon Territory, 143 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy 6) at MacMillan Pass. Moist meadows with Salix, Betula nana ssp. exilis, and Carex	primary	rbcL	63.6137121834992	-128.662090551397	0.000211096158646743
+Poa_alpina	MF596926.1	28-FEB-2018	603	Canada: Alberta, Banff National Park, 11 mi NW of Mosquito Creek at Bow summit. Forest with Picea, Abies, Cassiope, Phyllodoce, Kalmia, and Salix.	primary	rbcL	51.9760699139501	-115.381004505021	0.000211096158646743
+Poa_alpina	MG228031.1	23-JAN-2018	603	Canada: British Columbia, McBride Peak, with alpine vegetation	primary	rbcL	53.597578564522	-119.214711500631	0.000211096158646743
+Poa_alpina	MG227757.1	23-JAN-2018	603	Canada: Alberta, Banff National Park, 11 mi NW of Mosquito Creek at Bow summit. Forest with Picea, Abies, Cassiope, Phyllodoce, Kalmia, and Salix.	primary	rbcL	51.6018480285375	-116.207556352566	0.000211096158646743
+Poa_alpina	MG227457.1	23-JAN-2018	603	Canada: Alberta, Banff National Park, 11 mi NW of Mosquito Creek at Bow summit. Forest with Picea, Abies, Cassiope, Phyllodoce, Kalmia, and Salix.	primary	rbcL	50.8586534668931	-116.805613724727	0.000211096158646743
+Poa_alpina	MG226808.1	23-JAN-2018	603	Canada: Yukon Territory, 143 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy 6) at MacMillan Pass. Moist meadows with Salix, Betula nana ssp. exilis, and Carex	primary	rbcL	63.2691089557772	-131.925138237272	0.000211096158646743
+Poa_alpina	MG226255.1	23-JAN-2018	552	Canada: Nunavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	rbcL	62.83	-67.36	0.000210446816972574
+Poa_alpina	MG225659.1	23-JAN-2018	603	Canada: British Columbia, End of Hudson Bay Mountain Road at alpine ski area, W of Smithers. Parking lot edge with Lupinus, Poa alpinum, Abies lasiocarpa.	primary	rbcL	54.3036026965001	-126.794654935165	0.000211096158646743
+Poa_alpina	KC483484.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit. Disturbed grounds of N.W.T.Science Institute	primary	rbcL	63.4937199050783	-67.5366705178614	0.000210446816972574
+Poa_alpina	KC483483.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, West side of Hornaday River, 0.5-1 km N of confluence of small tributary river with Hornaday	primary	rbcL	68.3083	-121.903	0.000210446816972574
+Poa_alpina	KC483482.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Rocky ledges above fresh lake in lowlands 1 km W of Kihlbay	primary	rbcL	56.472	-79.042	0.000210446816972574
+Poa_alpina	KC483481.1	25-OCT-2013	552	Canada: Yukon Territory, Richardson Mountains, Tributary of Fish Creek, south of Vunta Creek	primary	rbcL	67.89	-136.55	0.000210446816972574
+Poa_alpina	KC483480.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit. Near Apex, along coastal trail to Iqaluit, common in sandy soil on dry south-facing hillside	primary	rbcL	63.7108887566907	-66.9690491383464	0.000210446816972574
+Poa_alpina	JN965739.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	rbcL	58.772	-94.163	0.000210446816972574
+Poa_alpina	JN965738.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	rbcL	58.626	-94.23	0.000210446816972574
+Poa_alpina	JN965737.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes burn site, Burn site 5 years after fire	primary	rbcL	58.617	-93.812	0.000210446816972574
+Poa_alpina	JN965736.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	rbcL	58.633	-93.79	0.000210446816972574
+Poa_alpina	JN890888.1	07-MAR-2012	542	United Kingdom: Caernarfonshire	primary	rbcL	53.08	-4.07	0.00185173730908101
+Poa_alpina	MT931819.1	03-MAR-2023	572	China	secondary	rbcL	35.000074	104.999927	0.00356503964131593
+Poa_alpina	MK925193.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6098839866304	-4.37501582831694	0.000212886744252058
+Poa_alpina	MK925124.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9443066282675	-3.81551113575371	0.000212886744252058
+Poa_alpina	MG226153.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Cooks Pt, NE of Cook's Harbour	secondary	rbcL	49.7738268	-56.8821439113846	0.000210446816972574
+Poa_alpina	JN893839.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.000212886744252058

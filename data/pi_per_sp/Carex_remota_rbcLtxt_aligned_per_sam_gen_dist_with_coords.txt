@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_remota	JN891516.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0
+Carex_remota	OQ354743.1	27-JUN-2023	542	Slovenia	secondary	rbcL	46.1199444	14.8153333	0
+Carex_remota	OQ354742.1	27-JUN-2023	542	Poland	secondary	rbcL	52.215933	19.134422	0
+Carex_remota	OQ354741.1	27-JUN-2023	542	Netherlands	secondary	rbcL	52.2434979	5.6343227	0
+Carex_remota	KJ204312.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0
+Carex_remota	JN893762.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Carex_remota	JN893761.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

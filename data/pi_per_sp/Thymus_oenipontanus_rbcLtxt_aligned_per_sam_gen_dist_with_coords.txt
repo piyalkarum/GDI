@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_oenipontanus	HE819508.1	22-MAY-2013	599	Italy:Abruzzo	primary	rbcL	42.65	13.77	0
+Thymus_oenipontanus	HE819507.1	22-MAY-2013	599	Italy:Toscana	primary	rbcL	43.65	12.06	0
+Thymus_oenipontanus	HE819506.1	22-MAY-2013	599	Italy:Abruzzo	primary	rbcL	42.42	13.54	0
+Thymus_oenipontanus	HE819505.1	22-MAY-2013	599	Italy:Lombardia	primary	rbcL	45.55	10.26	0

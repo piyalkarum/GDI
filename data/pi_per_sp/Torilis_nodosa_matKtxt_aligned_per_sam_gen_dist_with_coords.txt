@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Torilis_nodosa	JN893952.1	07-MAR-2012	891	United Kingdom: Monmouthshire	primary	matK	51.5	-3.1	0.128545134213768
+Torilis_nodosa	ON758376.1	10-OCT-2022	559	Iraq: Sulaimaniya Halabja	secondary	matK	35.4968289	45.4305975	0.506514689174966
+Torilis_nodosa	HM850715.1	23-JUL-2011	810	Portugal	secondary	matK	39.6621648	-8.1353519	0.131046085974552
+Torilis_nodosa	JN895302.1	07-MAR-2012	840	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.128545134213768
+Torilis_nodosa	JN895301.1	07-MAR-2012	806	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.128562109775417

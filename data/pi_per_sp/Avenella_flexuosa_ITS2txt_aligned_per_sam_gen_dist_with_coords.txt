@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Avenella_flexuosa	AM041234.1	28-JUN-2007	595	Argentina:Tierra del Fuego, Tolhuin	secondary	ITS2	-54.5113492	-67.1954004	0.00118422018733545
+Avenella_flexuosa	AM041233.1	28-JUN-2007	595	Argentina:Tierra del Fuego, Estancia Ushuaia	secondary	ITS2	-54.9756998	-66.7446429	0.00118422018733545
+Avenella_flexuosa	AM041232.1	28-JUN-2007	594	Malaysia:Mt. Kinabalu	secondary	ITS2	6.0750667	116.5587	0.00112233445566779
+Avenella_flexuosa	AM041231.1	28-JUN-2007	535	Sweden	secondary	ITS2	61.8584278	12.7168462	0.00124610591900312

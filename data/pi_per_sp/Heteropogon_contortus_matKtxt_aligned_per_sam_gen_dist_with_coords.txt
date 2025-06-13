@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Heteropogon_contortus	LN906714.1	04-JAN-2016	2113	Madagascar:Mahajanga, Maevatanana	primary	matK	-16.9597	46.9213	0.00381609180618094
+Heteropogon_contortus	MN433988.1	30-NOV-2021	789	China	secondary	matK	35.000074	104.999927	0.00266644504006593
+Heteropogon_contortus	KY991263.1	08-APR-2018	2283	Australia	secondary	matK	-24.7761086	134.755	0.00381609180618094
+Heteropogon_contortus	KR734997.1	24-JUN-2015	366	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	matK	-0.27612255	36.0580092268183	0.00728597449908925

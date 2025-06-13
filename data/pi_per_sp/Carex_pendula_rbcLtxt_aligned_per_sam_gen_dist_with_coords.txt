@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_pendula	JN893828.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.48	-3.22	0.000347222222222222
+Carex_pendula	MW011028.1	27-JUL-2021	553	Germany	secondary	rbcL	40.4203479	-79.1166983	0.000336927223719677
+Carex_pendula	MW011020.1	27-JUL-2021	371	Hungary	secondary	rbcL	41.9767629	-72.7789842	0.00279152008982848
+Carex_pendula	KC584889.1	04-JUN-2013	685	Italy: Umbria	secondary	rbcL	42.965916	12.490236	0.000336927223719677
+Carex_pendula	HM849861.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000336927223719677
+Carex_pendula	JN892131.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.8611574647819	-2.43143176247812	0.000347222222222222
+Carex_pendula	JN891692.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.000347222222222222
+Carex_pendula	JN891689.1	07-MAR-2012	501	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000391849529780564
+Carex_pendula	JN891132.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.6817696861694	-3.60924683405242	0.000347222222222222

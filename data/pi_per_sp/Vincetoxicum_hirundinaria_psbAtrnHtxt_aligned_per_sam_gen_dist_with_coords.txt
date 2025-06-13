@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vincetoxicum_hirundinaria	MF595586.1	01-JUL-2018	337	Germany	secondary	psbA-trnH	34.895926	-83.4665496	0.028549713190586
+Vincetoxicum_hirundinaria	HE793906.1	21-MAR-2013	352	Germany:Bavaria	secondary	psbA-trnH	48.9467562	11.4038717	0.0398454312994174
+Vincetoxicum_hirundinaria	HE966869.1	18-SEP-2012	236	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0288135593220339
+Vincetoxicum_hirundinaria	OP776170.1	13-MAY-2023	304	Romania	secondary	psbA-trnH	46.2246329	24.5761141	0.0232158786797502
+Vincetoxicum_hirundinaria	OP776168.1	13-MAY-2023	304	Romania	secondary	psbA-trnH	44.9654851	28.4346997	0.0232158786797502
+Vincetoxicum_hirundinaria	OP776165.1	13-MAY-2023	304	Romania	secondary	psbA-trnH	47.1659243	27.1737967	0.0436329170383586

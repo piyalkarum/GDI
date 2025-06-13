@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kalmia_procumbens	KX677545.1	09-AUG-2017	811	Canada: British Columbia, Skeena-Queen Charlotte Regional District, Porcher Island, Ridge in northwest part of southwest hill	primary	matK	53.967	-130.417	0
+Kalmia_procumbens	KC474925.1	25-OCT-2013	680	Canada: Nunavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	matK	62.8339	-67.3536	0
+Kalmia_procumbens	KC474924.1	25-OCT-2013	725	Canada: Nunavut, West Hudson Bay, '50 mile hill', 5 km N of Hyde Lake, 35 km from HB coast	primary	matK	60.66	-95.22	0
+Kalmia_procumbens	KC474923.1	25-OCT-2013	661	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	matK	62.8553	-67.3469	0
+Kalmia_procumbens	KC474922.1	25-OCT-2013	734	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Camp on Harp Seal Lake, 35 km SW of Sanikiluaq	primary	matK	56.317	-79.444	0
+Kalmia_procumbens	JN966344.1	27-OCT-2012	596	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	matK	58.629	-93.798	0
+Kalmia_procumbens	MK926337.1	14-JAN-2020	780	United Kingdom	secondary	matK	54.5832311359247	-3.32840129926367	0
+Kalmia_procumbens	MK926223.1	14-JAN-2020	753	United Kingdom	secondary	matK	55.2955065367734	-3.22322086681868	0
+Kalmia_procumbens	MK926168.1	14-JAN-2020	766	United Kingdom	secondary	matK	54.9890834923704	-4.00167534014663	0
+Kalmia_procumbens	MK926018.1	14-JAN-2020	773	United Kingdom	secondary	matK	53.984606151052	-3.1396067415015	0
+Kalmia_procumbens	MK925607.1	14-JAN-2020	766	United Kingdom	secondary	matK	54.3343741730877	-3.4373525985442	0
+Kalmia_procumbens	MK925595.1	14-JAN-2020	765	Iceland	secondary	matK	64.9841821	-18.1059013	0
+Kalmia_procumbens	AB842070.1	03-JUL-2014	1193	Japan:Hokkaido, Daisetsusan	secondary	matK	43.4603175	143.330715792837	0

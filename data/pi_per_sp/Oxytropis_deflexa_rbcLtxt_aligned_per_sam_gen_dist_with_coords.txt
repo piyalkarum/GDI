@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxytropis_deflexa	MG249943.1	21-JAN-2018	552	Canada: Yukon Territory, Dempster Highway	primary	rbcL	65.314	-138.221	0
+Oxytropis_deflexa	MG247667.1	21-JAN-2018	552	Canada: Yukon Territory, Babbage River	primary	rbcL	69.166	-138.326	0
+Oxytropis_deflexa	KX677931.1	29-APR-2017	552	Canada: British Columbia, East Kootenay Regional District, near Wasa, Kootenay River	primary	rbcL	49.792	-115.75	0
+Oxytropis_deflexa	KC483254.1	25-OCT-2013	552	Canada: Northwest Territories, Arctic Mainland, Richardson Mountains, Bear Crek	primary	rbcL	67.44	-136.07	0
+Oxytropis_deflexa	KC483253.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Causeway to Inuit Head	primary	rbcL	63.75	-68.517	0
+Oxytropis_deflexa	KC483252.1	25-OCT-2013	552	Canada: Northwest Territories, Arctic Mainland, Tuktoyaktuk, Mackay Pingo	primary	rbcL	69.28	-132.33	0
+Oxytropis_deflexa	KC483251.1	25-OCT-2013	552	Canada: Nunavut, Canadian Arctic Archipelago, Baffin Island, Iqaluit	primary	rbcL	63.445	-68.315	0
+Oxytropis_deflexa	KC483250.1	25-OCT-2013	523	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0

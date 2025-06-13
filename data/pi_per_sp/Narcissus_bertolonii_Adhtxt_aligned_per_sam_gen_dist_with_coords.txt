@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_bertolonii	JF973157.1	18-SEP-2011	752	Italy	secondary	Adh	39.2171994	9.113311	0
+Narcissus_bertolonii	JF973156.1	18-SEP-2011	752	Italy	secondary	Adh	40.9922556709227	7.47199537967603	0
+Narcissus_bertolonii	JF973155.1	18-SEP-2011	752	Italy	secondary	Adh	40.4616470399376	7.21926036927474	0
+Narcissus_bertolonii	JF973154.1	18-SEP-2011	752	Spain	secondary	Adh	39.14532315	2.94667260063085	0

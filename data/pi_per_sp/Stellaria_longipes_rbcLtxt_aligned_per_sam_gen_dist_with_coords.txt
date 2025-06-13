@@ -1,0 +1,39 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_longipes	MG249962.1	21-JAN-2018	552	Canada: Yukon Territory, Bonnet Plume Drainage, Gillespie Lake	primary	rbcL	64.723	-133.984	0
+Stellaria_longipes	MG249736.1	21-JAN-2018	552	Canada: Yukon Territory, Vuntut National Park, Selaginella Site	primary	rbcL	68.504	-138.762	0
+Stellaria_longipes	MG249585.1	21-JAN-2018	552	Canada: Yukon Territory, Knorr Range, Lakes at headwaters of Noisy Creek	primary	rbcL	65.499	-134.39	0
+Stellaria_longipes	MG247401.1	21-JAN-2018	552	Canada: Yukon Territory, Sheep Creek drainage, north of Sheep Creek	primary	rbcL	69.158	-140.222	0
+Stellaria_longipes	MG246594.1	21-JAN-2018	552	USA: Alaska, Southeast Fairbanks Census Area, Yukon-Charley National Preserve, top of snow shute Mount Sorenson	primary	rbcL	65.001	-142.873	0
+Stellaria_longipes	MG246564.1	21-JAN-2018	552	Canada: Yukon Territory, Snake River Drainage, Popcornfish Lake	primary	rbcL	65.457	-133.785	0
+Stellaria_longipes	KX679148.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, campsite along Tulameen River	primary	rbcL	49.4343	-121.013	0
+Stellaria_longipes	KT960724.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.7881687344654	-21.584353800162	0
+Stellaria_longipes	KT960691.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.0013115449594	-20.0800468434536	0
+Stellaria_longipes	KT960529.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.4797362163629	-22.2225603354271	0
+Stellaria_longipes	KC484175.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Small cliff south of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	rbcL	68.703	-112.653	0
+Stellaria_longipes	KC484174.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk. Behind Northern Store/Hotel/Parks Canada building (Paulatuk Centre)	primary	rbcL	69.467	-124.211	0
+Stellaria_longipes	KC484173.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	70.735	-117.761	0
+Stellaria_longipes	KC484172.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Small point into ocean, ~10 km SW of Sanikiluaq	primary	rbcL	56.478	-79.386	0
+Stellaria_longipes	KC484171.1	25-OCT-2013	552	Canada: Nunavut, Keewatin, Kaminak Lake	primary	rbcL	62.283	-95.05	0
+Stellaria_longipes	KC484170.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Near Sachs Harbour	primary	rbcL	71.983	-125.233	0
+Stellaria_longipes	KC484169.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	rbcL	76.56	-118.86	0
+Stellaria_longipes	KC484168.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Stokes Point	primary	rbcL	69.333	-138.733	0
+Stellaria_longipes	KC484167.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Sheep Creek	primary	rbcL	69.157	-140.221	0
+Stellaria_longipes	KC484166.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Scoresby Bay	primary	rbcL	79.867	-71.533	0
+Stellaria_longipes	KC484165.1	25-OCT-2013	552	Canada: Northwest Territories, Cape Bathurst, Cape Bathurst E side, brook system N of river from Lake McKinlay, 0.7-1.5 km from sea	primary	rbcL	70.4833	-127.8	0
+Stellaria_longipes	KC484164.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Rankin Inlet, Adjacent to graveyard	primary	rbcL	62.8	-92.1	0
+Stellaria_longipes	KC484163.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Hot Weather Creek, 25 km east of Eureka, Fosheim Peninsula, Site 67	primary	rbcL	80	-84.4	0
+Stellaria_longipes	KC484162.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Below Igloo Church at sea beach, Frobisher Bay	primary	rbcL	63.7417	-68.525	0
+Stellaria_longipes	KC484161.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.619	-115.493	0
+Stellaria_longipes	KC484160.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	rbcL	62.85	-92.133	0
+Stellaria_longipes	KC484159.1	25-OCT-2013	552	Canada: Nunavut, Coats Island, Cairn Cove	primary	rbcL	62.817	-81.933	0
+Stellaria_longipes	KC484158.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	rbcL	62.867	-92.133	0
+Stellaria_longipes	KC484157.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Tanquary Fiord	primary	rbcL	81.5	-76.05	0
+Stellaria_longipes	KC484156.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	rbcL	68.064	-121.611	0
+Stellaria_longipes	KC484155.1	25-OCT-2013	552	Canada: Nunavut, Ellef Ringnes Island, Reindeer Peninsula, W side. Reindeer Penninsula, central part	primary	rbcL	78.9167	-104.633	0
+Stellaria_longipes	KC484154.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vincinity of Arctic Char Inn, Uluhaktok	primary	rbcL	70.736	-117.77	0
+Stellaria_longipes	JN966021.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	rbcL	58.772	-94.163	0
+Stellaria_longipes	JN966020.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	rbcL	58.7521957071567	-93.5655701286415	0
+Stellaria_longipes	JN966019.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	rbcL	58.192992296798	-93.2799541528556	0
+Stellaria_longipes	JN966018.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	rbcL	58.626	-94.23	0
+Stellaria_longipes	JN966017.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Dry gravel ridge	primary	rbcL	58.75	-94.11	0
+Stellaria_longipes	JX848449.1	06-AUG-2013	1381	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0

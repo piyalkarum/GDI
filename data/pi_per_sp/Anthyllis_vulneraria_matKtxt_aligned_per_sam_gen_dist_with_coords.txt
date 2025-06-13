@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthyllis_vulneraria	JN895076.1	07-MAR-2012	866	United Kingdom: Anglesey	primary	matK	53.26	-4.61	0.00123752183357412
+Anthyllis_vulneraria	AF543845.1	03-OCT-2002	1527	Sweden	secondary	matK	59.6749712	14.5208584	0.00152175448894385
+Anthyllis_vulneraria	KJ746152.1	29-JUL-2014	673	Poland	secondary	matK	52.215933	19.134422	0.00148588410104012
+Anthyllis_vulneraria	JN895642.1	07-MAR-2012	819	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.000676721330510335
+Anthyllis_vulneraria	JN894822.1	07-MAR-2012	934	United Kingdom: Anglesey	secondary	matK	53.2782257	-4.331344	0.000927820580922185

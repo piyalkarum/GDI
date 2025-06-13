@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cynosurus_cristatus	MN486534.1	15-MAY-2021	527	United Kingdom: England, County Durham, Aukland Castle Park	primary	rbcL	54.67	-1.66	0.000752671985548698
+Cynosurus_cristatus	MF596697.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island. Fairwinds Natural Area, along trail to Dolphin Lake and Enos Lake.	primary	rbcL	49.7414539509986	-124.344108550618	0.000708315625442697
+Cynosurus_cristatus	MF596696.1	28-FEB-2018	603	Canada: British Columbia, Mayne Island, Bennett Bay, Gulf Islands National Park Reserve of Canada, Wilkes Road off Bennett Bay Road. Along trail through woods along coast.	primary	rbcL	48.3600065309777	-122.726465799269	0.000708315625442697
+Cynosurus_cristatus	MF596695.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, along the coast N of Massett at the end of Cemetary Road.	primary	rbcL	54.0929507745075	-131.554515554871	0.000708315625442697
+Cynosurus_cristatus	MG226998.1	23-JAN-2018	603	Canada: British Columbia, Mayne Island, Bennett Bay, Gulf Islands National Park Reserve of Canada, Wilkes Road off Bennett Bay Road. Along trail through woods along coast.	primary	rbcL	48.0428224691391	-123.782273171584	0.000708315625442697
+Cynosurus_cristatus	MG226958.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, along the coast N of Massett at the end of Cemetary Road.	primary	rbcL	54.4302907492925	-132.011441020637	0.000708315625442697
+Cynosurus_cristatus	MG226841.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island. Fairwinds Natural Area, along trail to Dolphin Lake and Enos Lake.	primary	rbcL	49.6193378590176	-123.888771605408	0.000708315625442697
+Cynosurus_cristatus	KJ599166.1	21-SEP-2014	546	Australia: Victoria	secondary	rbcL	-36.5986096	144.6780052	0.00928292598062002
+Cynosurus_cristatus	HM849932.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000725689404934688
+Cynosurus_cristatus	JN893770.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.5170879887742	-4.45467650189869	0.00071093416749609
+Cynosurus_cristatus	JN893329.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	50.7818581311396	-3.30883531121022	0.00071093416749609
+Cynosurus_cristatus	JN892366.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00071093416749609
+Cynosurus_cristatus	JN892365.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00071093416749609
+Cynosurus_cristatus	JN890889.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9875065	-1.1773256	0.00071093416749609

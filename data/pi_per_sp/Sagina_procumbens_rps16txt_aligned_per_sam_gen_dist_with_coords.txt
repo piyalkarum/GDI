@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_procumbens	OK505857.1	22-FEB-2022	736	Germany: Nordrhein-Westfalen, Borken	primary	rps16	51.843611	6.861111	0.00577931233372907
+Sagina_procumbens	OK505855.1	22-FEB-2022	735	Germany: Schleswig-Holstein, Hallig Langeness	primary	rps16	54.6	8.5	0.00577931233372907
+Sagina_procumbens	MT671714.1	06-DEC-2021	697	Greece	primary	rps16	40.2	22.18	0.00898684419356695
+Sagina_procumbens	OK505856.1	22-FEB-2022	735	United Kingdom: Middlesex, Ruislip	secondary	rps16	51.5460558	-0.253779138934072	0.00577931233372907
+Sagina_procumbens	MT671715.1	06-DEC-2021	678	Germany	secondary	rps16	31.4399019	-95.350778	0.00686551515797704
+Sagina_procumbens	KY700826.1	10-MAY-2017	691	Bulgaria	secondary	rps16	46.7889169	23.6184909	0.0169606056851842

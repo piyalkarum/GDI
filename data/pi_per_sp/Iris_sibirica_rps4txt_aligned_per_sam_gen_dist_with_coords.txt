@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_sibirica	LT981300.1	31-MAR-2018	876	United Kingdom:Cambridge, cult.,Cambridge University Botanic Garden	secondary	rps4	52.2055314	0.1186637	0.000192318784792484
+Iris_sibirica	LT981299.1	31-MAR-2018	863	Mongolia:Khentii, Binder	secondary	rps4	48.6163764	110.6062847	0.000195247841923708
+Iris_sibirica	LT981298.1	31-MAR-2018	863	Mongolia:Dornod, Bayan-Uul	secondary	rps4	49.1208848	112.6726952	0.000195247841923708
+Iris_sibirica	LT981286.1	31-MAR-2018	863	Austria:Lower Austria, Stillfried	secondary	rps4	48.4101398	16.8431396	0.000193274120356305
+Iris_sibirica	LT981285.1	31-MAR-2018	863	Georgia:Javakheti, Borjomi, Bakuriani Botanical Garden	secondary	rps4	41.6174722525491	42.4824859426581	0.00129104145396999
+Iris_sibirica	LT981283.1	31-MAR-2018	863	Russia:Moscow, Setun River valley	secondary	rps4	55.7505412	37.6174782	0.000193274120356305
+Iris_sibirica	LT981282.1	31-MAR-2018	876	United Kingdom:Hertfordshire, St. Albans, cult.	secondary	rps4	51.8400523	-0.0985651674151207	0.000192318784792484
+Iris_sibirica	LT981280.1	31-MAR-2018	876	Russia:Pskov Oblast, Sebezhsky District	secondary	rps4	56.2456435	28.6897672	0.000192318784792484
+Iris_sibirica	LT981278.1	31-MAR-2018	876	Russia:Kurgan Oblast, Pritobolny District	secondary	rps4	54.8785076	65.2930222	0.000192318784792484
+Iris_sibirica	LT981276.1	31-MAR-2018	876	Russia:Primorsky Krai, Vladivostok	secondary	rps4	43.1150678	131.8855768	0.000192318784792484
+Iris_sibirica	LT981275.1	31-MAR-2018	876	Russia:Primorsky Krai, Romanovka	secondary	rps4	43.2353637	132.4574767	0.000192318784792484
+Iris_sibirica	LT981274.1	31-MAR-2018	876	Russia:Primorsky Krai, Pokrovka	secondary	rps4	43.9524657	131.6329635	0.000192318784792484
+Iris_sibirica	LT981272.1	31-MAR-2018	876	Russia:Primorsky Krai, Khankaysky District	secondary	rps4	44.9424147	131.8270851	0.00114986836712815
+Iris_sibirica	LT981270.1	31-MAR-2018	876	Armenia:Lori Province, Saratovka	secondary	rps4	41.076799	44.3096631	0.000192318784792484
+Iris_sibirica	LT981268.1	31-MAR-2018	876	Georgia:Javakheti, Ninotsminda district, Lake Paravani shore	secondary	rps4	41.5709389242389	44.3409669341379	0.000192318784792484
+Iris_sibirica	LT628017.1	18-OCT-2016	859	Armenia:Shirak Province, Zorakert	secondary	rps4	41.0909828	43.6602243	0.000194024058983314
+Iris_sibirica	LT628016.1	18-OCT-2016	862	Russia:Primorsky Krai, Orlovka	secondary	rps4	43.9286898	132.8104629	0.00116229161490729
+Iris_sibirica	LT628015.1	18-OCT-2016	862	Mongolia	secondary	rps4	43.9382593	-79.2235563	0.000193348801237432
+Iris_sibirica	LT981271.1	31-MAR-2018	876	Russia	secondary	rps4	43.4410989	41.7436988	0.000192318784792484

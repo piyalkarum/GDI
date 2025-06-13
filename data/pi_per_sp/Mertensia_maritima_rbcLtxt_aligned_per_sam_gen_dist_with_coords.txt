@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mertensia_maritima	MG224438.1	26-DEC-2017	553	Canada: Manitoba	primary	rbcL	57.855	-92.748	0
+Mertensia_maritima	MG224196.1	26-DEC-2017	553	Canada: Nova Scotia, Shelburne County, Western Head	primary	rbcL	43.661	-65.129	0
+Mertensia_maritima	MG224112.1	26-DEC-2017	527	Canada: Manitoba, Churchill, unspecified locality, Along coast. Sandy beach.	primary	rbcL	58.74	-93.82	0
+Mertensia_maritima	MG222940.1	26-DEC-2017	553	Canada: Manitoba, Churchill, Dump Beach	primary	rbcL	58.762	-94.03	0
+Mertensia_maritima	KC483148.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vincinity of Arctic Char Inn, Uluhaktok	primary	rbcL	70.736	-117.77	0
+Mertensia_maritima	JN965671.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.689	-93.159	0
+Mertensia_maritima	JN893660.1	07-MAR-2012	542	United Kingdom: Denbighshire	primary	rbcL	53.22	-3.65	0
+Mertensia_maritima	JN893639.1	07-MAR-2012	504	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0

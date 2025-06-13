@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_praecox	HE819439.1	22-MAY-2013	789	Italy:Trentino	primary	matK	46.43	11.73	0.00451454225634027
+Thymus_praecox	HE819438.1	22-MAY-2013	789	Italy:Trentino	primary	matK	46.49	11.81	0.00825689123916299
+Thymus_praecox	HE819437.1	22-MAY-2013	789	Italy:Abruzzo	primary	matK	42.45	13.55	0.00343343196738481
+Thymus_praecox	JN896109.1	07-MAR-2012	776	United Kingdom: Breconshire (42)	primary	matK	51.88	-3.7	0.0043293895591896
+Thymus_praecox	JN893961.1	07-MAR-2012	810	United Kingdom	primary	matK	53.33	-3.85	0.0054052317445812
+Thymus_praecox	JN895060.1	07-MAR-2012	795	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.00454543685108876

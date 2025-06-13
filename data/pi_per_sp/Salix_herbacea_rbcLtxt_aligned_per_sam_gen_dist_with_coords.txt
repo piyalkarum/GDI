@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_herbacea	MZ359340.1	07-DEC-2021	521	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Salix_herbacea	KT307957.1	20-MAR-2016	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On top of Mt. Irony, N slope.	primary	rbcL	55.1931	-68.3525	0
+Salix_herbacea	KT960621.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.3858466585473	-23.1264796644864	0
+Salix_herbacea	KT960442.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1670337423834	-23.3692671530535	0
+Salix_herbacea	KT960406.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.9248476293798	-18.1537963524945	0
+Salix_herbacea	KC483957.1	25-OCT-2013	552	Canada: Nunavut, Keewatin, Small lake south of Garry Lakes	primary	rbcL	65.5	-100.05	0
+Salix_herbacea	KC483956.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. In the vicinity of the fresh water lake in lowlands 1 km W of Kihlbay	primary	rbcL	56.472	-79.042	0
+Salix_herbacea	JN965907.1	27-OCT-2012	552	Canada: Manitoba, Keewatin, Baralzon lake, Hummocky sedge-heath tundra	primary	rbcL	60	-98.167	0
+Salix_herbacea	JN965906.1	27-OCT-2012	552	Canada: Manitoba, Duck Lake, edge of lake	primary	rbcL	59.367	-97.767	0
+Salix_herbacea	JN893620.1	07-MAR-2012	505	United Kingdom: Sutherland, West (108)	primary	rbcL	58.41	-4.44	0
+Salix_herbacea	MK925533.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9763313377177	-4.1474885571758	0
+Salix_herbacea	MK925226.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9689565165402	-3.71636009246305	0
+Salix_herbacea	JN891952.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9875065	-1.1773256	0
+Salix_herbacea	JN890900.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0

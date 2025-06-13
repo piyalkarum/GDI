@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_marschallianum	HG794017.1	14-MAY-2015	316	Ukraine	secondary	trnL-trnF	49.9756966405944	30.2821982035021	0
+Allium_marschallianum	HG794016.1	14-MAY-2015	316	Ukraine	secondary	trnL-trnF	49.6789953564503	32.2130291308016	0
+Allium_marschallianum	HG794015.1	14-MAY-2015	316	Ukraine	secondary	trnL-trnF	50.2629095094462	30.6473623987375	0
+Allium_marschallianum	HG794014.1	14-MAY-2015	316	Ukraine	secondary	trnL-trnF	49.5493419442761	30.40179109248	0
+Allium_marschallianum	HG794013.1	14-MAY-2015	316	Ukraine	secondary	trnL-trnF	49.1302531756959	32.1744717509178	0

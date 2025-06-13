@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juniperus_communis	MT311762.1	28-SEP-2020	389	France	secondary	psbA-trnH	46.6949132464131	1.49319625245886	0.0134021166401681
+Juniperus_communis	MT311761.1	28-SEP-2020	389	France	secondary	psbA-trnH	45.9899455799289	1.07834961438191	0.0134021166401681
+Juniperus_communis	JN045067.2	13-DEC-2011	398	China: Gansu	secondary	psbA-trnH	38.0000001	101.9999999	0.0117863217898277
+Juniperus_communis	JN045068.2	13-DEC-2011	400	China: Qinghai	secondary	psbA-trnH	35.4070952	95.9521157	0.0117349930095161
+Juniperus_communis	FR865108.1	09-JUN-2011	478	Italy:Lombardy	secondary	psbA-trnH	45.5703694	9.7732524	0.00903929870761103
+Juniperus_communis	HE966672.1	18-SEP-2012	459	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0100430644032572

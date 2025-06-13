@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hieracium_lachenalii	MG222927.1	26-DEC-2017	512	Canada: Quebec, St. Adele, lake, 3000 Rue des Vers Luisants	primary	rbcL	46.006	-74.117	0.0009765625
+Hieracium_lachenalii	MG222677.1	26-DEC-2017	552	Canada: Quebec, Disraeli, Lac Aylmer	primary	rbcL	45.816	-71.381	0.000905797101449275
+Hieracium_lachenalii	MG222451.1	26-DEC-2017	552	Canada: Erin TWp	primary	rbcL	43.7667	-80.0667	0.000905797101449275
+Hieracium_lachenalii	MG222298.1	26-DEC-2017	552	Canada: British Columbia, Vancouver Island, Victoria, Fernwood	primary	rbcL	48.437	-123.343	0.00336952891427093
+Hieracium_lachenalii	MG222242.1	26-DEC-2017	551	Canada: Quebec, Montreal, Island of Montreal, Parc du Mont-Royal, pres d'un sentier pedestre	primary	rbcL	45.506	-73.589	0.000907441016333938
+Hieracium_lachenalii	MG221748.1	26-DEC-2017	552	Canada: Guelph conservation area	primary	rbcL	43.5485	-80.2503	0.00183573064071035
+Hieracium_lachenalii	KX678041.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	rbcL	49.376	-122.862	0.000905797101449275

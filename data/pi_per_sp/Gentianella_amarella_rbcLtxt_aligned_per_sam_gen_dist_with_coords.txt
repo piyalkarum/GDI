@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gentianella_amarella	MG221506.1	26-DEC-2017	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee	primary	rbcL	51.273	-80.641	0.0011090573012939
+Gentianella_amarella	MG221288.1	26-DEC-2017	552	Canada: British Columbia, Atlin Road, approx.16 km N of Atlin	primary	rbcL	59.71	-133.72	0.0011090573012939
+Gentianella_amarella	KX679011.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Manning Provincial Park, Cascade Lookout Road & Sub-Alpine Meadow trails	primary	rbcL	49.104	-120.759	0.0011090573012939
+Gentianella_amarella	KX678131.1	29-APR-2017	552	Canada: British Columbia, East Kootenay Regional District, East Kootenays, Moscow Road, around km 36-41	primary	rbcL	50.295	-115.287	0.0011090573012939
+Gentianella_amarella	JN965560.1	27-OCT-2012	530	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, On gravel by trail through White spruce wood	primary	rbcL	58.9665559304003	-94.9203773638716	0.00115606936416185
+Gentianella_amarella	JN965559.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, Open stony ground on gravel ridge	primary	rbcL	58.0627971220408	-94.0950612750898	0.0011090573012939
+Gentianella_amarella	JN965558.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality, unspecified locality	primary	rbcL	58.74	-93.82	0.0011090573012939
+Gentianella_amarella	JN965557.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, On gravel by trail through White spruce wood	primary	rbcL	58.6036833111665	-95.1224782608259	0.0011090573012939
+Gentianella_amarella	JN893669.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.81	-4.13	0.00297315682440638
+Gentianella_amarella	JN892678.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00297315682440638
+Gentianella_amarella	JN891479.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00297315682440638

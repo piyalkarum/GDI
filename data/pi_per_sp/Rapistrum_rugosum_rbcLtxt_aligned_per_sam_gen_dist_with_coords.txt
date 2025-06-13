@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rapistrum_rugosum	KP149530.1	16-NOV-2015	528	South Africa: North-West, Potchefstroom, Wasgoedspruit, Albert Luthuli Street	primary	rbcL	-26.701	27.101	0.00631313131313131
+Rapistrum_rugosum	JX572919.1	04-SEP-2013	524	South Africa: Western Cape, Robben Island	primary	rbcL	-33.795	18.369	0.00636132315521629
+Rapistrum_rugosum	MG247086.1	21-JAN-2018	552	Canada: British Columbia, Vancouver, University of British Columbia endownment lands, 16th Ave. and Blanca St.	secondary	rbcL	49.25783145	-123.246241986222	0.00621890547263682
+Rapistrum_rugosum	HM850300.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0188933599409844

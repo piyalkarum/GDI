@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_polygonifolius	JN891052.1	07-MAR-2012	542	United Kingdom: Sutherland, West (108)	primary	rbcL	58.29	-4.44	0
+Potamogeton_polygonifolius	HM850282.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Potamogeton_polygonifolius	JN893621.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0
+Potamogeton_polygonifolius	JN892166.1	07-MAR-2012	516	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0

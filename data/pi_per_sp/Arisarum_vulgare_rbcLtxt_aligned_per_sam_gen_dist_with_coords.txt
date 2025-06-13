@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arisarum_vulgare	KX789402.1	26-AUG-2017	420	Egypt	secondary	rbcL	26.2540493	29.2675469	0.00285714285714286
+Arisarum_vulgare	EU193186.1	30-MAY-2008	1242	Greece	secondary	rbcL	43.8404075823916	-77.4452525055622	0.00337474120082816
+Arisarum_vulgare	EU193185.1	30-MAY-2008	1242	Greece	secondary	rbcL	42.6016965573542	-77.7764171954609	0.00481711525189786
+Arisarum_vulgare	EU193184.1	30-MAY-2008	1242	Greece: Crete	secondary	rbcL	35.3084952	24.4633423	0.00707844490453186
+Arisarum_vulgare	EU193183.1	30-MAY-2008	1242	Spain: Tenerife	secondary	rbcL	28.2935785	-16.6214471	0.00305268000920175
+Arisarum_vulgare	HM849791.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00321371060501495

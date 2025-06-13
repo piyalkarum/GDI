@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_pratensis	MG226836.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	rbcL	51.273	-80.641	0.00025879917184265
+Festuca_pratensis	JN891048.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.26	-4.14	0.000264061262212833
+Festuca_pratensis	KT438964.1	23-SEP-2016	632	Germany	secondary	rbcL	34.895926	-83.4665496	0.000720608030020802
+Festuca_pratensis	KT438947.1	23-SEP-2016	632	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.000494568247018994
+Festuca_pratensis	KJ599216.1	21-SEP-2014	558	Australia: Australian Capital Territory	secondary	rbcL	-35.4883502	149.0026942	0.00185161395082759
+Festuca_pratensis	HM850003.1	23-JUL-2011	1335	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00048961384731388
+Festuca_pratensis	JN891704.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.7209827800238	-4.61338609820309	0.000264061262212833
+Festuca_pratensis	JN891469.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8591662949879	-4.9330778740955	0.000264061262212833

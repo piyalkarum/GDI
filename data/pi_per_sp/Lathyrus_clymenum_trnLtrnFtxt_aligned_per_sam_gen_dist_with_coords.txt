@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_clymenum	JX505656.1	09-JAN-2013	586	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.00171938999378558
+Lathyrus_clymenum	JX505655.1	09-JAN-2013	573	United Kingdom	secondary	trnL-trnF	54.7023545	-3.2765753	0.00058173356602676
+Lathyrus_clymenum	JX505654.1	09-JAN-2013	586	Morocco	secondary	trnL-trnF	28.3347722	-10.3713379	0.000568828213879408
+Lathyrus_clymenum	JX505661.1	09-JAN-2013	586	Germany	secondary	trnL-trnF	31.4399019	-95.350778	0.000568828213879408

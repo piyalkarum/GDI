@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_gallica	MZ563263.1	24-APR-2022	818	France: Occitanie, Languedoc-Roussillon, Aude, La Palme, Etang de La Palme	primary	ycf1	42.967	2.999	0.00122249388753056
+Tamarix_gallica	MZ563262.1	24-APR-2022	818	Morocco: Gharb-Chrarda-Beni Hssen Region, Kenitra, Kenitra, North of the city, next to Mohamed V avenue (N1)	primary	ycf1	34.272	-6.556	0.000733496332518337
+Tamarix_gallica	MZ563261.1	24-APR-2022	818	Spain: Andalusia, Malaga, Malaga, Desembocadura del rio Guadalhorce	primary	ycf1	36.668	-4.466	0.000733496332518337
+Tamarix_gallica	MZ563260.1	24-APR-2022	818	Spain: Comunidad Valenciana, Alicante, Elche, Pantano de Elche	primary	ycf1	38.313	-0.724	0.00171149144254279
+Tamarix_gallica	MZ563259.1	24-APR-2022	818	Spain: Castilla-La Mancha, Ciudad Real, Daimiel, Tablas de Daimiel, Isla Algeciras	primary	ycf1	39.163	-3.684	0.00122249388753056
+Tamarix_gallica	MZ563258.1	24-APR-2022	818	Spain: Catalonia, Tarragona, Delta del Ebro	primary	ycf1	40.629	0.753	0.000733496332518337

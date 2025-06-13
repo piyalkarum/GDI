@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_bufonius	KX676756.1	09-AUG-2017	807	Canada: British Columbia, Columbia-Shuswap Regional District, Golden, northwest of town	primary	matK	51.32	-116.996	0.00970673275505989
+Juncus_bufonius	JN895155.1	07-MAR-2012	847	United Kingdom: Glamorgan (41)	primary	matK	51.53	-3.22	0.00951194584761382
+Juncus_bufonius	KJ204491.1	29-JAN-2015	829	Switzerland: Geneva	secondary	matK	45.7035631805857	6.54784289529749	0.0554663876994745
+Juncus_bufonius	KJ204490.1	29-JAN-2015	818	Switzerland: Geneva	secondary	matK	46.4115065544012	5.766931591657	0.00969420953220168
+Juncus_bufonius	HM850947.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0112915492741355
+Juncus_bufonius	JN894885.1	07-MAR-2012	849	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00968045956154846
+Juncus_bufonius	JN894884.1	07-MAR-2012	841	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.0096916828732452

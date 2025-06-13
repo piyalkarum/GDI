@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubus_plicatus	JN895179.1	07-MAR-2012	781	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.00298926847679518
+Rubus_plicatus	JN894501.1	07-MAR-2012	778	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.0038560411311054
+Rubus_plicatus	JN894438.1	07-MAR-2012	780	United Kingdom: Glamorgan	primary	matK	51.58	-3.14	0.00299255157866983
+Rubus_plicatus	KM036753.1	28-SEP-2014	993	Belgium: Walloon Region, near Spa	secondary	matK	50.1545331	5.39935452432352	0.00812406512830134

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_odorata	MF695020.1	16-SEP-2018	553	Pakistan: Baluchistan	primary	rbcL	29.5441287854298	66.9237765524637	0.000230627306273063
+Viola_odorata	MF694802.1	15-SEP-2018	552	Pakistan: Baluchistan	primary	rbcL	29.646534802148	67.3584448683262	0.000231053604436229
+Viola_odorata	MG246687.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Victoria, James Bay area, along fence bottom in school playground at corner of Toronto and Douglas Streets	primary	rbcL	48.419	-123.367	0.000231053604436229
+Viola_odorata	JN891416.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.56	-3.09	0.000230627306273063
+Viola_odorata	OP710794.1	26-DEC-2022	469	Mexico: Puebla	secondary	rbcL	19.1710098	-98.4125121	0.000266524520255864
+Viola_odorata	HM850467.1	23-JUL-2011	699	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000238095238095238
+Viola_odorata	JN892426.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.00188923619231581
+Viola_odorata	JN891921.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000230627306273063
+Viola_odorata	JN891247.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.000230627306273063

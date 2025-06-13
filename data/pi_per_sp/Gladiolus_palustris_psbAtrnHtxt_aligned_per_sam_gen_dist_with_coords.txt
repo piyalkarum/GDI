@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gladiolus_palustris	KM887236.1	07-FEB-2015	539	Croatia: Rijeka	secondary	psbA-trnH	45.3267976	14.442208	0.00222910901282809
+Gladiolus_palustris	KM887235.1	07-FEB-2015	539	Germany	secondary	psbA-trnH	34.895926	-83.4665496	0.00222910901282809
+Gladiolus_palustris	KM887234.1	07-FEB-2015	543	Austria: Salzburg	secondary	psbA-trnH	47.7981346	13.0464806	0.015592707372436
+Gladiolus_palustris	KM887233.1	07-FEB-2015	539	Slovenia: Julian Alps	secondary	psbA-trnH	46.224243	13.6800995	0.00222910901282809
+Gladiolus_palustris	KM887232.1	07-FEB-2015	539	Croatia: Istria	secondary	psbA-trnH	45.1934345	13.9150536	0.00222910901282809
+Gladiolus_palustris	KM887229.1	07-FEB-2015	539	France: Cranves-Sales	secondary	psbA-trnH	46.1876567	6.2919875	0.00222910901282809
+Gladiolus_palustris	KM887227.1	07-FEB-2015	537	Poland: Bystrzyca Klodzka	secondary	psbA-trnH	50.2968684	16.652017	0.00893854748603352
+Gladiolus_palustris	MF543658.1	25-JUL-2018	620	Italy	secondary	psbA-trnH	45.2766566847721	6.81900282299323	0.00222910901282809
+Gladiolus_palustris	MF543657.1	25-JUL-2018	620	Italy	secondary	psbA-trnH	45.6240063740291	8.73597158878826	0.00222910901282809
+Gladiolus_palustris	MF543656.1	25-JUL-2018	620	Italy	secondary	psbA-trnH	45.6813449747841	8.15492095064072	0.00222910901282809
+Gladiolus_palustris	MF543655.1	25-JUL-2018	620	Italy	secondary	psbA-trnH	45.7445264	7.549854	0.00222910901282809

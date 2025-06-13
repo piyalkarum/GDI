@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geum_aleppicum	MG247390.1	21-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	rbcL	51.273	-80.641	0.00370674016033081
+Geum_aleppicum	HQ590119.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., 250 m W of gated creek crossing on N-most trail	primary	rbcL	44.037	-79.523	0.00036231884057971
+Geum_aleppicum	KJ593442.1	17-MAR-2015	553	USA: Wisconsin, Wabeno	primary	rbcL	45.418	-88.636	0.00036231884057971
+Geum_aleppicum	KJ593441.1	17-MAR-2015	553	USA: Wisconsin, Phelps	primary	rbcL	46.102	-89.11	0.00036231884057971
+Geum_aleppicum	KJ593440.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.562	-88.799	0.00036231884057971
+Geum_aleppicum	KJ841347.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, near catchment pond on edge of reserve, along Boundary Trail	primary	rbcL	45.555	-73.1305	0.00036231884057971
+Geum_aleppicum	MT931937.1	03-MAR-2023	568	China	secondary	rbcL	34.998691563484	105.791751931133	0.00036231884057971
+Geum_aleppicum	MT931936.1	03-MAR-2023	572	China	secondary	rbcL	35.5459551044289	105.270724862619	0.00036231884057971
+Geum_aleppicum	MH713919.1	01-SEP-2020	569	China: Hebei	secondary	rbcL	39.0000001	116	0.00036231884057971
+Geum_aleppicum	KM218346.1	11-OCT-2014	1269	South Korea	secondary	rbcL	36.638392	127.6961188	0.000385356454720617
+Geum_aleppicum	JX848524.1	06-AUG-2013	1272	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.000422832980972516

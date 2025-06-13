@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Goodyera_repens	LC686128.1	26-AUG-2022	840	Japan:Yamanashi, Narusawamura	secondary	ITS	36.2135082346023	138.327160555692	0
+Goodyera_repens	LC686127.1	26-AUG-2022	840	Japan:Yamanashi, Narusawamura	secondary	ITS	35.2377161477359	139.642217493601	0
+Goodyera_repens	LC686126.1	26-AUG-2022	840	Japan:Yamanashi, Narusawamura	secondary	ITS	35.1452556194085	139.156405985497	0
+Goodyera_repens	LC686125.1	26-AUG-2022	840	Japan:Nagano, Kaidamura	secondary	ITS	36.6485851	138.1947664	0

@@ -1,0 +1,73 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_pubescens	OP823102.1	29-JAN-2023	1067	Spain: Catalunya, Ripolles, Queralbs, Puigmal	secondary	ndhF	42.3832668	2.1167823	0.00335282548147366
+Saxifraga_pubescens	OP823092.1	29-JAN-2023	1067	France: Occitanie, Laruns, Gorges du Bitet - Pic de Sesques (Escarpu)	secondary	ndhF	43.3670250491994	1.04776079506143	0.00110880842694405
+Saxifraga_pubescens	OP823091.1	29-JAN-2023	1067	France: Occitanie, Laruns, Gorges du Bitet - Pic de Sesques (Escarpu)	secondary	ndhF	43.0980453785006	-0.624443078272077	0.00110880842694405
+Saxifraga_pubescens	OP823090.1	29-JAN-2023	1067	France: Occitanie, Laruns, Gorges du Bitet - Pic de Sesques (Escarpu)	secondary	ndhF	44.3983773927984	-0.843775093288555	0.00110880842694405
+Saxifraga_pubescens	OP823084.1	29-JAN-2023	1067	Spain: Catalunya, Ripolles, Queralbs, Gorges del Freser, Marrades and Costa Rubi	secondary	ndhF	41.4290234451492	1.85874874419777	0.0041448315007194
+Saxifraga_pubescens	OP823083.1	29-JAN-2023	1067	Spain: Catalunya, Ripolles, Queralbs, Gorges del Freser, Marrades and Costa Rubi	secondary	ndhF	41.4137650059323	1.35024037156582	0.00335282548147366
+Saxifraga_pubescens	OP823082.1	29-JAN-2023	1067	Spain: Catalunya, Ripolles, Queralbs, Gorges del Freser, Marrades and Costa Rubi	secondary	ndhF	42.131663736087	1.47378939947388	0.0041448315007194
+Saxifraga_pubescens	OP823081.1	29-JAN-2023	1067	Spain: Catalunya, Ripolles, Queralbs, Gorges del Freser, Marrades and Costa Rubi	secondary	ndhF	41.7270555923613	1.43564410835145	0.00506883852317277
+Saxifraga_pubescens	OP823080.1	29-JAN-2023	1067	Spain: Catalunya, Ripolles, Queralbs, Gorges del Freser, Marrades and Costa Rubi	secondary	ndhF	42.1870279642393	0.862589916738835	0.0041448315007194
+Saxifraga_pubescens	OP823079.1	29-JAN-2023	1067	Spain: Catalunya, Bergueda, Baga, Roc dels Canells, N-cliffs	secondary	ndhF	41.1532875106943	2.31305456670011	0.00110880842694405
+Saxifraga_pubescens	OP823078.1	29-JAN-2023	1067	Spain: Catalunya, Bergueda, Baga, Roc dels Canells, N-cliffs	secondary	ndhF	42.3298753635963	2.20367749641852	0.00110880842694405
+Saxifraga_pubescens	OP823077.1	29-JAN-2023	1067	Spain: Catalunya, Bergueda, Baga, Roc dels Canells, N-cliffs	secondary	ndhF	41.5368923173387	0.87204517438769	0.00110880842694405
+Saxifraga_pubescens	OP823076.1	29-JAN-2023	1067	Spain: Catalunya, Bergueda, Baga, Roc dels Canells, N-cliffs	secondary	ndhF	41.360529710349	0.974120780864708	0.00110880842694405
+Saxifraga_pubescens	OP823075.1	29-JAN-2023	1067	Spain: Catalunya, Bergueda, Baga, Roc dels Canells, N-cliffs	secondary	ndhF	41.166031917782	2.17884093688859	0.00110880842694405
+Saxifraga_pubescens	OP823074.1	29-JAN-2023	1067	Spain: Catalonia, Ripolles, Setcases, Queralbs, Coma de Vaca, pr. Coll de la Vaca	secondary	ndhF	41.157189492125	1.93904136127968	0.00110880842694405
+Saxifraga_pubescens	OP823073.1	29-JAN-2023	1067	Spain: Catalonia, Ripolles, Setcases, Queralbs, Coma de Vaca, pr. Coll de la Vaca	secondary	ndhF	41.6526229735466	3.11526928165759	0.00110880842694405
+Saxifraga_pubescens	OP823072.1	29-JAN-2023	1067	Spain: Catalonia, Ripolles, Setcases, Queralbs, Coma de Vaca, pr. Coll de la Vaca	secondary	ndhF	42.0020028542692	1.34018425546861	0.0041448315007194
+Saxifraga_pubescens	OP823071.1	29-JAN-2023	1067	Spain: Catalonia, Ripolles, Setcases, Queralbs, Coma de Vaca, pr. Coll de la Vaca	secondary	ndhF	41.0849546971895	2.13164681002334	0.00110880842694405
+Saxifraga_pubescens	OP823065.1	29-JAN-2023	1067	Spain: Aragon, Sobrarbe, Urdiceto, ridge Port - Pico Urdiceto	secondary	ndhF	41.8390145078786	-1.32916388997269	0.00192721464683132
+Saxifraga_pubescens	OP823064.1	29-JAN-2023	1067	Spain: Aragon, Sobrarbe, Urdiceto, ridge Port - Pico Urdiceto	secondary	ndhF	42.1415999029266	-1.49638050888045	0.00192721464683132
+Saxifraga_pubescens	OP823063.1	29-JAN-2023	1067	Spain: Aragon, Sobrarbe, Urdiceto, ridge Port - Pico Urdiceto	secondary	ndhF	42.2871832425713	-0.5434214570094	0.00192721464683132
+Saxifraga_pubescens	OP823062.1	29-JAN-2023	1067	Spain: Aragon, Sobrarbe, Urdiceto, ridge Port - Pico Urdiceto	secondary	ndhF	43.1511173105389	-1.22526289938413	0.00192721464683132
+Saxifraga_pubescens	OP823061.1	29-JAN-2023	1067	Spain: Aragon, Sobrarbe, Urdiceto, ridge Port - Pico Urdiceto	secondary	ndhF	43.3246023888468	-0.171472465579961	0.00192721464683132
+Saxifraga_pubescens	OP823059.1	29-JAN-2023	1067	France: Occitanie, Gavarnie - Cauterets, crete de la Hourquette	secondary	ndhF	43.5136236533749	-0.1674951128633	0.00390722969494568
+Saxifraga_pubescens	OP823057.1	29-JAN-2023	1067	France: Occitanie, Laruns, Gorges du Bitet - Pic de Sesques (Escarpu)	secondary	ndhF	44.1906057186339	-0.904246406966251	0.00110880842694405
+Saxifraga_pubescens	OP823056.1	29-JAN-2023	1067	France: Occitanie, Laruns, Gorges du Bitet - Pic de Sesques (Escarpu)	secondary	ndhF	44.2805604141061	-0.0576541849261456	0.00110880842694405
+Saxifraga_pubescens	OP823055.1	29-JAN-2023	1067	France: Occitanie, Gavarnie - Cauterets, crete de la Hourquette	secondary	ndhF	43.8203946308101	-1.03366769198243	0.00390722969494568
+Saxifraga_pubescens	OP823054.1	29-JAN-2023	1067	France: Occitanie, Gavarnie - Cauterets, crete de la Hourquette	secondary	ndhF	43.1251438424192	0.509207115498705	0.00110880842694405
+Saxifraga_pubescens	OP823053.1	29-JAN-2023	1067	France: Occitanie, Gavarnie - Cauterets, crete de la Hourquette	secondary	ndhF	43.2258384548738	0.351445682994129	0.00390722969494568
+Saxifraga_pubescens	OP823052.1	29-JAN-2023	1067	France: Occitanie, Gavarnie - Cauterets, crete de la Hourquette	secondary	ndhF	43.9096242190667	-0.905661756708307	0.00390722969494568
+Saxifraga_pubescens	OP823046.1	29-JAN-2023	1068	France: Occitanie, Le Plan, W-side Pic de l'Aiguilette	secondary	ndhF	43.7164534572263	-0.182436508249053	0.00110880842694405
+Saxifraga_pubescens	OP823045.1	29-JAN-2023	1067	France: Occitanie, Le Plan, W-side Pic de l'Aiguilette	secondary	ndhF	44.3254355722145	-0.923045222280968	0.00192721464683132
+Saxifraga_pubescens	OP823044.1	29-JAN-2023	1068	France: Occitanie, Le Plan, W-side Pic de l'Aiguilette	secondary	ndhF	44.6143497369806	-0.14832930928649	0.00110880842694405
+Saxifraga_pubescens	OP823043.1	29-JAN-2023	1068	France: Occitanie, Le Plan, W-side Pic de l'Aiguilette	secondary	ndhF	43.3828300187348	-1.17951501468248	0.00110880842694405
+Saxifraga_pubescens	OP823042.1	29-JAN-2023	1067	France: Occitanie, Le Plan, W-side Pic de l'Aiguilette	secondary	ndhF	44.0609633138396	-0.015059444154324	0.00390722969494568
+Saxifraga_pubescens	OP823041.1	29-JAN-2023	1067	France: Occitanie, Vernet les Bains, Pic del Canigo	secondary	ndhF	42.6815737119905	2.39725983986378	0.00110880842694405
+Saxifraga_pubescens	OP823040.1	29-JAN-2023	1067	France: Occitanie, Vernet les Bains, Pic del Canigo	secondary	ndhF	43.1292582981441	2.25084610905291	0.00110880842694405
+Saxifraga_pubescens	OP823039.1	29-JAN-2023	1067	France: Occitanie, Vernet les Bains, Pic del Canigo	secondary	ndhF	42.9374115260697	2.01529113217224	0.00110880842694405
+Saxifraga_pubescens	OP823038.1	29-JAN-2023	1070	France: Occitanie, Vernet les Bains, Pic del Canigo	secondary	ndhF	43.1201033054684	1.78897877143002	0.00110880842694405
+Saxifraga_pubescens	OP823037.1	29-JAN-2023	1067	France: Occitanie, Vernet les Bains, Pic del Canigo	secondary	ndhF	42.2647606058542	2.6985489225559	0.00110880842694405
+Saxifraga_pubescens	OP823031.1	29-JAN-2023	1067	Spain: Catalunya, La Cerdanya, Masella, Tossa d'Alp	secondary	ndhF	41.2812066458412	0.950210869475259	0.00110880842694405
+Saxifraga_pubescens	OP823030.1	29-JAN-2023	1067	Spain: Catalunya, La Cerdanya, Masella, Tossa d'Alp	secondary	ndhF	41.4394457348447	1.22840913969582	0.00110880842694405
+Saxifraga_pubescens	OP823029.1	29-JAN-2023	1067	Spain: Catalunya, La Cerdanya, Masella, Tossa d'Alp	secondary	ndhF	41.9093155018437	2.52193668640871	0.00110880842694405
+Saxifraga_pubescens	OP823028.1	29-JAN-2023	1067	Spain: Catalunya, La Cerdanya, Masella, Tossa d'Alp	secondary	ndhF	41.9909176118389	1.816066115591	0.00110880842694405
+Saxifraga_pubescens	OP823027.1	29-JAN-2023	1067	Spain: Catalunya, La Cerdanya, Masella, Tossa d'Alp	secondary	ndhF	41.6183928569105	0.630024688420035	0.00110880842694405
+Saxifraga_pubescens	OP823026.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Aneto, Llauset, Tuca de Vallibierna	secondary	ndhF	41.8734616858589	-0.852296622818593	0.00192721464683132
+Saxifraga_pubescens	OP823025.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Aneto, Llauset, Tuca de Vallibierna	secondary	ndhF	42.053132900401	-1.5579844278191	0.00110880842694405
+Saxifraga_pubescens	OP823024.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Aneto, Llauset, Tuca de Vallibierna	secondary	ndhF	42.268171851876	-1.66649542242552	0.00110880842694405
+Saxifraga_pubescens	OP823023.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Aneto, Llauset, Tuca de Vallibierna	secondary	ndhF	42.5092469974783	-1.63881033394851	0.00110880842694405
+Saxifraga_pubescens	OP823022.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Aneto, Llauset, Tuca de Vallibierna	secondary	ndhF	42.7319269307374	-1.96428994427188	0.00200641524875589
+Saxifraga_pubescens	OP823021.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Barbaruens, Cotiella, Punta Armena	secondary	ndhF	42.0334158313407	-1.48396089637219	0.00427683250392702
+Saxifraga_pubescens	OP823020.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Barbaruens, Cotiella, Punta Armena	secondary	ndhF	42.8296652242393	-1.73815516230657	0.00110880842694405
+Saxifraga_pubescens	OP823019.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Barbaruens, Cotiella, Punta Armena	secondary	ndhF	42.4792713105254	-0.308899978415977	0.00110880842694405
+Saxifraga_pubescens	OP823018.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Barbaruens, Cotiella, Punta Armena	secondary	ndhF	42.5591402729424	-0.838955351724979	0.00110880842694405
+Saxifraga_pubescens	OP823017.1	29-JAN-2023	1068	Spain: Aragon, Ribagorza, Barbaruens, Cotiella, Punta Armena	secondary	ndhF	42.4867529315693	-0.230746010322525	0.00110880842694405
+Saxifraga_pubescens	OP823015.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Benasque, Pico de Alba	secondary	ndhF	42.0371464968361	1.08870849233248	0.00110880842694405
+Saxifraga_pubescens	OP823013.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Benasque, Pico de Alba	secondary	ndhF	42.2044618277166	1.66438072949483	0.00200641524875589
+Saxifraga_pubescens	OP823012.1	29-JAN-2023	1067	Spain: Aragon, Ribagorza, Benasque, Pico de Alba	secondary	ndhF	43.3764945461258	1.04324020110159	0.00110880842694405
+Saxifraga_pubescens	OP823011.1	29-JAN-2023	1067	Spain: Catalunya, Ripolles, Queralbs, Puigmal, Serra del Borrut	secondary	ndhF	41.6635296206821	0.520374353593676	0.00110880842694405
+Saxifraga_pubescens	OP823010.1	29-JAN-2023	1067	Spain: Catalunya, Ripolles, Queralbs, Puigmal, Serra del Borrut	secondary	ndhF	41.5163377765294	1.14400203174438	0.00110880842694405
+Saxifraga_pubescens	OP823009.1	29-JAN-2023	1067	Spain: Catalunya, Ripolles, Queralbs, Puigmal, Serra del Borrut	secondary	ndhF	42.1242677473044	1.14888651085971	0.00110880842694405
+Saxifraga_pubescens	OP823008.1	29-JAN-2023	1067	Spain: Catalunya, Ripolles, Queralbs, Puigmal, Serra del Borrut	secondary	ndhF	42.4109522189296	1.76378409120384	0.00110880842694405
+Saxifraga_pubescens	OP823007.1	29-JAN-2023	1067	Spain: Catalunya, Ripolles, Queralbs, Puigmal, Serra del Borrut	secondary	ndhF	41.5604764912148	1.27022006137204	0.0041448315007194
+Saxifraga_pubescens	OP822999.1	29-JAN-2023	1067	Spain: Catalunya, Vall d'Aran, Valarties, Montardo	secondary	ndhF	41.9405756066089	2.22690666711823	0.00110880842694405
+Saxifraga_pubescens	OP822998.1	29-JAN-2023	1067	Spain: Catalunya, Vall d'Aran, Valarties, Montardo	secondary	ndhF	42.1083733895916	1.08335026295781	0.00192721464683132
+Saxifraga_pubescens	OP822996.1	29-JAN-2023	1067	Spain: Catalunya, Vall d'Aran, Valarties, Montardo	secondary	ndhF	41.4082108385217	1.00391543734152	0.00192721464683132
+Saxifraga_pubescens	OP822995.1	29-JAN-2023	1067	Spain: Catalunya, Vall d'Aran, Valarties, Montardo	secondary	ndhF	40.8970086807591	1.13259664628412	0.00110880842694405
+Saxifraga_pubescens	OP822994.1	29-JAN-2023	1067	Spain: Aragon, La Jacetania, Vilanua, Collarada, collado de Ip	secondary	ndhF	41.8977028730814	-1.17368952728497	0.00110880842694405
+Saxifraga_pubescens	OP822993.1	29-JAN-2023	1067	Spain: Aragon, La Jacetania, Vilanua, Collarada, collado de Ip	secondary	ndhF	42.2372876571783	0.0476233472132112	0.00110880842694405
+Saxifraga_pubescens	OP822992.1	29-JAN-2023	1067	Spain: Aragon, La Jacetania, Vilanua, Collarada, collado de Ip	secondary	ndhF	43.0698211099971	-0.301990196862185	0.00110880842694405
+Saxifraga_pubescens	OP822991.1	29-JAN-2023	1068	Spain: Aragon, La Jacetania, Vilanua, Collarada, collado de Ip	secondary	ndhF	42.2103020839932	0.17039874986665	0.00110880842694405
+Saxifraga_pubescens	OP822990.1	29-JAN-2023	1068	Spain: Aragon, La Jacetania, Vilanua, Collarada, collado de Ip	secondary	ndhF	42.8194203756277	-1.03436278548826	0.00110880842694405

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scrophularia_arguta	KY067842.1	29-MAR-2017	469	Spain: Canary Islands, El Hierro	secondary	rps16	27.7435083	-18.0381796	0.0281784522987666
+Scrophularia_arguta	KY067841.1	29-MAR-2017	936	Tunisia: Tataouine	secondary	rps16	31.7317009	9.7702197	0.0257572220184784
+Scrophularia_arguta	KR361586.1	13-JUL-2015	727	Morocco: DA, Safi	secondary	rps16	32.299424	-9.239533	0.0190167391733973
+Scrophularia_arguta	KF447368.1	27-OCT-2013	1103	Spain: Fuerteventura, Puerto del Rosario	secondary	rps16	28.40037685	-14.0048697135422	0.0578364817441803
+Scrophularia_arguta	KF447366.1	27-OCT-2013	1065	Morocco: Tiznit	secondary	rps16	29.698624	-9.7312815	0.0187489016350633

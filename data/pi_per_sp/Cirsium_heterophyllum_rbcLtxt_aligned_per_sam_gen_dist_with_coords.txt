@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cirsium_heterophyllum	JN891314.1	07-MAR-2012	542	United Kingdom: Denbighshire	primary	rbcL	53.1	-3.2	0.000922509225092251
+Cirsium_heterophyllum	MW010945.1	27-JUL-2021	553	United Kingdom: Scotland	secondary	rbcL	56.7861112	-4.1140518	0.000922509225092251
+Cirsium_heterophyllum	MW010944.1	27-JUL-2021	553	Finland	secondary	rbcL	63.2467777	25.9209164	0.000922509225092251
+Cirsium_heterophyllum	JN892860.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.003690036900369
+Cirsium_heterophyllum	JN891898.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0.000922509225092251

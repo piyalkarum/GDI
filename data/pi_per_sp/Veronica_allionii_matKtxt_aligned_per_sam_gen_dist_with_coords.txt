@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_allionii	MF543568.1	31-JUL-2018	825	Italy: Aosta Valley, Rhemes-Notre-Dame, Truc de Tsanteleina	secondary	matK	45.5030463	7.0813303	0
+Veronica_allionii	MF543571.1	31-JUL-2018	770	Italy	secondary	matK	45.2393630046909	7.75522102520423	0
+Veronica_allionii	MF543570.1	31-JUL-2018	840	Italy	secondary	matK	45.3714291490329	7.01001463423106	0
+Veronica_allionii	MF543569.1	31-JUL-2018	815	Italy	secondary	matK	45.4344813508462	7.44533446999115	0

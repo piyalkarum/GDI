@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elatine_triandra	KT970437.1	12-NOV-2016	753	USA: Pennsylvania, Berks County, French Creek State Park, Scotts Run Lake, public boat launch	primary	trnK	40.2096	-75.7968	0.0707303569604366
+Elatine_triandra	KU604810.1	31-OCT-2017	765	USA: Connecticut, Litchfield Co.	secondary	trnK	41.7587013	-73.259781	0.0707360356423271
+Elatine_triandra	KU604809.1	31-OCT-2017	765	USA: Connecticut, Hartford Co.	secondary	trnK	41.7918949	-72.744107	0.0707360356423271
+Elatine_triandra	KU604808.1	31-OCT-2017	760	Austria: Lower Austria	secondary	trnK	48.2817813	15.7632457	0.0712310532306863
+Elatine_triandra	KU604807.1	31-OCT-2017	765	Austria: Steiermark	secondary	trnK	47.2500001	15.1666665	0.0712289032478861
+Elatine_triandra	KT970439.1	12-NOV-2016	753	USA: Oregon, Lincoln County, Devils Lake. Grown in the lab from a sediment core retrieved from the lake bed	secondary	trnK	42.0147513	-89.3323279	0.0707303569604366
+Elatine_triandra	KT970438.1	12-NOV-2016	753	USA: Connecticut, Litchfield County, West Hill Pond, New Hartford, shallow water	secondary	trnK	42.083729478722	-72.4587689083943	0.0707303569604366
+Elatine_triandra	KT970435.1	12-NOV-2016	753	USA: Connecticut, Litchfield County, West Hill Pond, New Hartford, shallow water	secondary	trnK	41.3433047573675	-73.9082279981905	0.0707303569604366
+Elatine_triandra	KR131972.1	23-MAR-2016	839	USA: Salt Lake Co., Utah	secondary	trnK	40.7628137	-111.8368719	0.562885923600209

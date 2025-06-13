@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_heldreichii	MT247351.1	28-SEP-2020	760	Serbia	secondary	matK	43.6170186242585	22.186133702055	0
+Pinus_heldreichii	MT247350.1	28-SEP-2020	760	Montenegro	secondary	matK	-29.6826112	-51.4687455	0
+Pinus_heldreichii	MT247349.1	28-SEP-2020	760	Italy	secondary	matK	42.6384261	12.674297	0
+Pinus_heldreichii	MT247348.1	28-SEP-2020	760	Yugoslavia	secondary	matK	23.0412366	-81.5261419	0
+Pinus_heldreichii	MT247347.1	28-SEP-2020	760	Serbia	secondary	matK	43.4892312529222	21.5055165407389	0
+Pinus_heldreichii	MT247346.1	28-SEP-2020	760	Serbia	secondary	matK	43.9614743630204	21.3120325162924	0

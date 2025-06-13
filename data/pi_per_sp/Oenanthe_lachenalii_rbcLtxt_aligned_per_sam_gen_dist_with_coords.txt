@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oenanthe_lachenalii	JN890581.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.5	-3.13	0
+Oenanthe_lachenalii	JN892758.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0
+Oenanthe_lachenalii	JN892279.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Oenanthe_lachenalii	JN892278.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

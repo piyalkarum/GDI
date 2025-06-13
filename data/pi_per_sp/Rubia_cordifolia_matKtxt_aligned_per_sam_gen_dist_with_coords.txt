@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubia_cordifolia	OR088512.1	25-JUN-2023	664	India	secondary	matK	22.3511148	78.6677428	0.00612768048831569
+Rubia_cordifolia	MH714212.1	01-SEP-2020	779	China: Hebei	secondary	matK	39.1463973045789	114.986155475345	0.00201409869083585
+Rubia_cordifolia	MH714137.1	01-SEP-2020	778	China: Hebei	secondary	matK	38.8743105501202	115.896425263868	0.00201714573877963
+Rubia_cordifolia	MH265196.1	22-JAN-2019	879	China	secondary	matK	35.000074	104.999927	0.00209643605870021

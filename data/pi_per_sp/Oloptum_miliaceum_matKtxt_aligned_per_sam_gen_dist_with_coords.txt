@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oloptum_miliaceum	JF769132.1	03-APR-2012	763	Australia: Victoria, Victorian Volcanic Plains	primary	matK	-37.802	144.904	0.011399628658803
+Oloptum_miliaceum	KC129539.1	05-NOV-2013	780	Australia: Victoria, Midlands	primary	matK	-37.58	143.847	0.0116253559916069
+Oloptum_miliaceum	KC129538.1	05-NOV-2013	780	Australia: Tasmania, Swansea	primary	matK	-42.125	148.077	0.0116253559916069
+Oloptum_miliaceum	MT433211.1	31-MAY-2020	1535	Norway	secondary	matK	64.5731537	11.5280364	0.0127816080227306
+Oloptum_miliaceum	GU254729.1	16-FEB-2011	555	Jordan	secondary	matK	44.6663146	-93.6261918	NA
+Oloptum_miliaceum	LN832471.1	20-MAY-2017	784	USA:California	secondary	matK	36.7014631	-118.755997	NA
+Oloptum_miliaceum	LN554445.1	02-APR-2015	2010	Spain	secondary	matK	39.3260685	-4.8379791	0.0103552428536597
+Oloptum_miliaceum	HE966965.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	NA
+Oloptum_miliaceum	FN908067.1	17-MAY-2012	1890	Portugal:Azores	secondary	matK	37.8085564	-25.4731374	0.0103552428536597

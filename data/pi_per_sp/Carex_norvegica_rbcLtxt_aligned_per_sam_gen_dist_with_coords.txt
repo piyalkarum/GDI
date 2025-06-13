@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_norvegica	MG227586.1	23-JAN-2018	552	USA: Oregon, Wallowa Co, Wallowa Whitman Nat'l Forest Hurricane Crk Canyon, along trl	primary	rbcL	45.293	-117.308	0
+Carex_norvegica	KT960742.1	13-DEC-2015	484	Greenland: NE, Zackenberg	primary	rbcL	74.6054542789628	-18.3084902932959	0
+Carex_norvegica	KT960692.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1065034757517	-23.5573428659906	0
+Carex_norvegica	KC482328.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Baffin Island S. Iqaluit, hills just NE of settlement	primary	rbcL	63.75	-68.5	0
+Carex_norvegica	KC482327.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.857	-67.354	0
+Carex_norvegica	MK925573.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6691952914855	-4.64511850100466	0
+Carex_norvegica	MK925310.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1935243066313	-4.15257364316354	0
+Carex_norvegica	MK925118.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1102973498188	-1.98086055849338	0
+Carex_norvegica	MK924998.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5838769088031	-2.42176232398122	0
+Carex_norvegica	MG226844.1	23-JAN-2018	552	Canada: New Brunswick, Madawaska Co, vicinity of Third Lk, W of Summit Depot	secondary	rbcL	47.43950925	-68.3926909826309	0

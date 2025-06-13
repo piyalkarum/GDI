@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Citrullus_colocynthis	MF694965.1	16-SEP-2018	553	Pakistan: Punjab, Cholistan Desert, Dingarh	primary	rbcL	28.9742652471914	72.0972703430789	0.000784978278171529
+Citrullus_colocynthis	MF694690.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan Desert, Dingarh	primary	rbcL	29.0562784711167	72.7992382440717	0.00156995655634306
+Citrullus_colocynthis	KU556610.1	06-AUG-2016	645	Egypt	primary	rbcL	30.0303	31.1956	0.000261643118785976
+Citrullus_colocynthis	MH598887.1	22-JAN-2019	590	Saudi Arabia: Saudi Arabia,Makkah	secondary	rbcL	22.509932	39.0980719	0.00129358236076696
+Citrullus_colocynthis	KX282659.1	28-MAY-2017	554	Kuwait	secondary	rbcL	29.9775747813584	47.9575433400603	0.00156896624242588
+Citrullus_colocynthis	KX282658.1	28-MAY-2017	546	Kuwait	secondary	rbcL	29.7323982077485	47.5611786978198	0.000523286237571952
+Citrullus_colocynthis	KX282657.1	28-MAY-2017	552	Kuwait	secondary	rbcL	29.3749617508377	48.7902380060335	0.00157280760235082
+Citrullus_colocynthis	HM849900.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000779762257064129

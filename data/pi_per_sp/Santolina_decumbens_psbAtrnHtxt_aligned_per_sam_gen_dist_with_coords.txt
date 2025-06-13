@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Santolina_decumbens	LC720388.1	09-DEC-2022	429	France	secondary	psbA-trnH	46.0552784982357	1.6439534306028	0
+Santolina_decumbens	LC720387.1	09-DEC-2022	429	France	secondary	psbA-trnH	46.1140967360307	1.18670973440118	0
+Santolina_decumbens	LC720386.1	09-DEC-2022	429	France	secondary	psbA-trnH	47.3464856814389	1.83519611573055	0
+Santolina_decumbens	LC720385.1	09-DEC-2022	424	France	secondary	psbA-trnH	46.7617929452768	3.05447726104842	0
+Santolina_decumbens	LC720384.1	09-DEC-2022	424	France	secondary	psbA-trnH	47.0140324562559	0.726312336544549	0
+Santolina_decumbens	LC720383.1	09-DEC-2022	424	France	secondary	psbA-trnH	46.3119034833394	0.905511200381626	0
+Santolina_decumbens	LC720382.1	09-DEC-2022	424	France	secondary	psbA-trnH	46.8230586114389	0.833015832163494	0
+Santolina_decumbens	LC720381.1	09-DEC-2022	424	France	secondary	psbA-trnH	46.925817988688	0.864341258594767	0
+Santolina_decumbens	LC720380.1	09-DEC-2022	424	France	secondary	psbA-trnH	46.9667872792573	2.77016782840582	0

@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_biglumis	KT960543.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.7450700405053	-21.3783649028818	0.103922330270478
+Juncus_biglumis	KT960430.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.8853738404916	-19.4190291137547	0.0118357487922705
+Juncus_biglumis	KT960428.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5682854957026	-23.8198610059863	0.0118357487922705
+Juncus_biglumis	KT960398.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.9522913720976	-21.676718608362	0.0118357487922705
+Juncus_biglumis	KT960387.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1242336366729	-17.5375291689198	0.0750531311670105
+Juncus_biglumis	KC483026.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Alexandra Fiord, RCMP Post	primary	rbcL	78.53	-75.45	0.0118357487922705
+Juncus_biglumis	KC483025.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, along Darnley Bay	primary	rbcL	69.3944	-124.117	0.0118357487922705
+Juncus_biglumis	KC483024.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, Mould Bay Peninsula, east side, ca 10 km E of Mould Bay	primary	rbcL	76.23	-118.95	0.0118357487922705
+Juncus_biglumis	KC483023.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vicinity of Holman Island Airport, Uluhaktok	primary	rbcL	70.758	-117.79	0.0118357487922705
+Juncus_biglumis	KC483022.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island, Sabine Peninsula, Nias Point, south shore of Sabine Bay	primary	rbcL	75.55	-110.41	0.0118357487922705
+Juncus_biglumis	KC483021.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Camp 13 km north of Oterkvik Point, 10 km north of coast at Coronation Gulf, upper camp area	primary	rbcL	68.739	-112.625	0.0118357487922705
+Juncus_biglumis	KC483020.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	rbcL	70.738	-117.762	0.0135339369748274
+Juncus_biglumis	KC483019.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.644	-115.493	0.0118357487922705
+Juncus_biglumis	MK925083.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2412878376118	-3.9751321850757	0.0120764017252002
+Juncus_biglumis	MK924835.1	14-JAN-2020	542	Norway	secondary	rbcL	64.5731537	11.5280364	0.0120764017252002
+Juncus_biglumis	MK924639.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3334026072213	-3.07872243002066	0.0120764017252002

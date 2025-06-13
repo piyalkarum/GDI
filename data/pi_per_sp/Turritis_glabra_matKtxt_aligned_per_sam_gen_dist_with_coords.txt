@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Turritis_glabra	KX677407.1	09-AUG-2017	765	Canada: British Columbia, Kootenay Boundary Regional District, Granby-Burrell Forest Recreation Site	primary	matK	49.368	-118.461	0.00593079378559478
+Turritis_glabra	HQ593175.1	09-NOV-2011	769	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, N side of Dufferin Driveway	primary	matK	44.03	-79.529	0.00546008709310255
+Turritis_glabra	KP210444.1	28-NOV-2015	804	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, La Pre	primary	matK	45.542	-73.1601	0.00606839218743886
+Turritis_glabra	MT917678.1	03-MAR-2023	765	China	secondary	matK	34.9863895039464	105.518396162722	0.00470703540593884
+Turritis_glabra	MT917664.1	03-MAR-2023	764	China	secondary	matK	34.6518881873747	105.422514775306	0.0204735619842829
+Turritis_glabra	MK925944.1	14-JAN-2020	765	United Kingdom	secondary	matK	54.203262865361	-3.56799398063456	0.00725338905658549
+Turritis_glabra	MK925732.1	14-JAN-2020	772	France	secondary	matK	46.603354	1.8883335	0.00838241247314604
+Turritis_glabra	MK925660.1	14-JAN-2020	753	United Kingdom	secondary	matK	54.7330954116604	-3.71600117982108	0.00556738650337654

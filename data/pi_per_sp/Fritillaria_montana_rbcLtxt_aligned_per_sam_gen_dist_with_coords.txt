@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fritillaria_montana	MF572201.1	31-JUL-2018	601	Italy: Aosta Valley, Montjovet, Guaz	secondary	rbcL	45.7029028	7.6590834	0
+Fritillaria_montana	MF572203.1	31-JUL-2018	589	Italy	secondary	rbcL	45.4564261591342	8.46709268800458	0
+Fritillaria_montana	MF572202.1	31-JUL-2018	576	Italy	secondary	rbcL	45.6774670792302	7.90547971952548	0
+Fritillaria_montana	MF572200.1	31-JUL-2018	579	Italy	secondary	rbcL	45.8635980562914	8.93359319194782	0

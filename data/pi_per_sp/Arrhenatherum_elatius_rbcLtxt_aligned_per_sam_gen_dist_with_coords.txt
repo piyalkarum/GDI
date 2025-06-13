@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arrhenatherum_elatius	MF596585.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Island, Graham Island. Roadside along Hwy. 16, across from ferry terminal at Skidegate.	primary	rbcL	53.9086915029543	-132.377333332709	0.00107524053713994
+Arrhenatherum_elatius	MF596584.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, along Hwy. 18, E of town of Lake Cowichan, just E of Cowichan River Provincial Park.	primary	rbcL	49.1205773506673	-125.068786401229	0.00107524053713994
+Arrhenatherum_elatius	MF596583.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, just W of intersection with Hwy. 19 and road from Cumberland that meets Hwy. 19.	primary	rbcL	50.010022375179	-124.531285515322	0.00107524053713994
+Arrhenatherum_elatius	MG228145.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, along Hwy. 18, E of town of Lake Cowichan, just E of Cowichan River Provincial Park.	primary	rbcL	48.8981073653628	-123.617158549047	0.00107524053713994
+Arrhenatherum_elatius	MG227859.1	23-JAN-2018	553	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Brackenbrae Trail	primary	rbcL	43.3248	-79.8021	0.00443368335110807
+Arrhenatherum_elatius	MG227109.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Island, Graham Island. Roadside along Hwy. 16, across from ferry terminal at Skidegate.	primary	rbcL	53.7954968372093	-132.413445438547	0.00107524053713994
+Arrhenatherum_elatius	MG226780.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, just W of intersection with Hwy. 19 and road from Cumberland that meets Hwy. 19.	primary	rbcL	48.9018292529354	-124.33730782486	0.00107524053713994
+Arrhenatherum_elatius	JN893238.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.00154935280101606
+Arrhenatherum_elatius	KJ204301.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00152159285539516
+Arrhenatherum_elatius	HM849793.1	23-JUL-2011	682	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00110164146551864
+Arrhenatherum_elatius	JN891435.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00154935280101606
+Arrhenatherum_elatius	JN890938.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.00154935280101606
+Arrhenatherum_elatius	JN890710.1	07-MAR-2012	541	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00155223898421469

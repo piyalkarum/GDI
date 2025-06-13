@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atriplex_patula	KX676545.1	09-AUG-2017	664	Canada: British Columbia, Central Okanagan Regional District, Kelowna, topsoil in landfill	primary	matK	49.88	-119.444	0.0794730897001432
+Atriplex_patula	HQ593188.1	09-NOV-2011	785	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, Echo Valley Parking Lot	primary	matK	44.025	-79.53	0.0791587444421541
+Atriplex_patula	JN894918.1	07-MAR-2012	747	United Kingdom: Carmarthenshire	primary	matK	51.67	-4.09	0.0780822542677618
+Atriplex_patula	JN893886.1	07-MAR-2012	784	United Kingdom: Glamorgan (41)	primary	matK	51.52	-3.21	0.0792961209499584
+Atriplex_patula	KY941459.1	30-APR-2018	458	United Kingdom: England, Greater London	secondary	matK	51.4893335	-0.1440551	0.546300277959919
+Atriplex_patula	HM850759.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0813499790285069
+Atriplex_patula	JN894373.1	07-MAR-2012	728	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.078527355457674
+Atriplex_patula	JN894198.1	07-MAR-2012	756	United Kingdom: Breconshire	secondary	matK	52.9875065	-1.1773256	0.0788846793664211

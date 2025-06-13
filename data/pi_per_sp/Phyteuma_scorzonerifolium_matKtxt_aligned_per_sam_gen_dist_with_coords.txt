@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phyteuma_scorzonerifolium	MK555923.1	22-SEP-2019	238	Italy	secondary	matK	42.1033107430361	12.5976292412523	NA
+Phyteuma_scorzonerifolium	MK555831.1	22-SEP-2019	386	Italy	secondary	matK	41.7697686302665	12.9289524775165	NA
+Phyteuma_scorzonerifolium	KC455823.1	16-SEP-2013	2443	Switzerland	secondary	matK	46.456096521761	7.6579088991201	0.000350856675048243
+Phyteuma_scorzonerifolium	KC455822.1	16-SEP-2013	2443	Switzerland	secondary	matK	47.0203365166823	7.66095575093619	0.000350856675048243
+Phyteuma_scorzonerifolium	KC455821.1	16-SEP-2013	2443	Switzerland	secondary	matK	46.8677965538371	7.47172333386238	0.000350856675048243
+Phyteuma_scorzonerifolium	KC455817.1	16-SEP-2013	2472	France	secondary	matK	46.9956806542965	2.36665258279419	0.00127961441343444
+Phyteuma_scorzonerifolium	KC455805.1	16-SEP-2013	2472	Italy	secondary	matK	41.9304483255502	12.0854063337798	0.000813177525718608
+Phyteuma_scorzonerifolium	KC455804.1	16-SEP-2013	2472	France	secondary	matK	46.7275777709725	2.62047149821638	0.000346740638002774

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_esula	MT447274.1	01-MAY-2022	780	South Korea	primary	matK	33.22	126.3	0.037789349634852
+Euphorbia_esula	MT447273.1	01-MAY-2022	780	South Korea	primary	matK	36.4	129.38	0.0389490070382998
+Euphorbia_esula	KX677332.1	09-AUG-2017	820	Canada: British Columbia, Fraser Valley Regional District, 3 km east of Agassiz, an island in Fraser River, 600 m southeast of east foot of Cuthbert Road, rivershore, 2 m above highwater bank, washed mossy sand	primary	matK	49.235	-121.722	0.0363875290003346
+Euphorbia_esula	MG220900.1	21-JAN-2018	782	USA: North Dakota	primary	matK	48.335	-103.566	0.0364280772646636
+Euphorbia_esula	HQ593294.1	09-NOV-2011	788	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 200 m E of gazebo	primary	matK	44.032	-79.534	0.0396935541838658
+Euphorbia_esula	MN433437.1	30-NOV-2021	801	China	secondary	matK	30.047992	-94.3357433	0.0363705646447856
+Euphorbia_esula	KT456907.1	07-FEB-2016	1512	USA	secondary	matK	50.362174	8.6428355	0.0376924140598728
+Euphorbia_esula	KJ746207.1	29-JUL-2014	684	Poland	secondary	matK	52.215933	19.134422	0.262244152046784
+Euphorbia_esula	EU659777.1	06-JUL-2008	2136	South Korea	secondary	matK	36.638392	127.6961188	0.0376577947926234

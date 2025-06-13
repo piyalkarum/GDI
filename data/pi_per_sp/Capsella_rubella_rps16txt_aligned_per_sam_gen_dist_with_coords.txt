@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Capsella_rubella	FR822363.1	12-FEB-2012	851	Italy:Prov. Foggia, Mte. Gargano	primary	rps16	41.9593551295779	16.7986913936476	0.335731414868105
+Capsella_rubella	FR822362.1	12-FEB-2012	851	Chile:Region Biobio, near Concepcion	primary	rps16	-36.5	-73.03	0.335731414868105
+Capsella_rubella	FR822323.1	12-FEB-2012	452	Italy:Prov. Foggia, Mte. Gargano	primary	rps16	41.5678113504466	16.1859533540561	0.335731414868105
+Capsella_rubella	FR822322.1	12-FEB-2012	452	Chile:Region Biobio, near Concepcion	primary	rps16	-36.83	-73.05	0.335731414868105

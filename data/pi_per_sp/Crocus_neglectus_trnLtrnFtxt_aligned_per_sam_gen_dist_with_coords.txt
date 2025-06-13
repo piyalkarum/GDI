@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_neglectus	KT357300.1	14-AUG-2016	754	Germany	secondary	trnL-trnF	34.3673778093151	-82.6166804139071	0
+Crocus_neglectus	KT357299.1	14-AUG-2016	756	Germany	secondary	trnL-trnF	34.3604551564237	-84.3064370459742	0
+Crocus_neglectus	KT357298.1	14-AUG-2016	756	Germany	secondary	trnL-trnF	35.2454999087294	-82.7214629228518	0
+Crocus_neglectus	KT357297.1	14-AUG-2016	757	Germany	secondary	trnL-trnF	34.6899194235115	-83.446382103924	0
+Crocus_neglectus	HG518228.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.7183893836473	12.5554553120914	0
+Crocus_neglectus	HG518227.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	43.0026839548586	12.669246185926	0
+Crocus_neglectus	HG518226.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.8659204552175	13.8029553042971	0
+Crocus_neglectus	HG518225.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.2623129697268	12.3552955411641	0
+Crocus_neglectus	HG518224.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.3781523738905	13.6103881685281	0
+Crocus_neglectus	HG518223.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.0573333088324	11.8417364061556	0
+Crocus_neglectus	HG518222.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.1310457786586	13.2778835036898	0

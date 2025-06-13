@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scrophularia_heterophylla	KY067781.1	29-MAR-2017	1203	Croatia: Velebit	secondary	rps16	44.365	15.5	0.00792449332674246
+Scrophularia_heterophylla	KY067780.1	29-MAR-2017	1121	Greece: Peloponnesus	secondary	rps16	37.3633283	22.2395373	0.0171441837329492
+Scrophularia_heterophylla	KR361609.1	13-JUL-2015	868	Greece: NAF	secondary	rps16	37.9884444	23.7631055	0.00807381776239908
+Scrophularia_heterophylla	KR361608.1	13-JUL-2015	868	Greece: IPI	secondary	rps16	37.5004234	24.9237859	0.00883522289371156

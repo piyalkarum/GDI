@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epipactis_helleborine	MG227896.1	23-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Staff House, Cypress Lake, Bruce Peninsula National Park	primary	rbcL	45.227	-81.527	0.0046583850931677
+Epipactis_helleborine	KJ841299.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Near boardwalk, along Red Trail	primary	rbcL	45.545	-73.158	0.0046583850931677
+Epipactis_helleborine	JN892049.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.54	-3.26	0.00474433315761729
+Epipactis_helleborine	MT930342.1	03-MAR-2023	572	China	secondary	rbcL	34.6776015139305	105.021720976506	0.0329875761768657
+Epipactis_helleborine	MN204704.1	30-NOV-2021	721	China	secondary	rbcL	34.3184681994486	105.420612916047	0.00477027366306804
+Epipactis_helleborine	MN185058.1	27-APR-2021	722	China	secondary	rbcL	35.1908448213028	104.447112392731	0.00476190476190476
+Epipactis_helleborine	MG227414.1	23-JAN-2018	553	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., 10 m E of gated creek along N-most trail.	secondary	rbcL	43.72634945	-77.7101179040839	0.00464996125032291
+Epipactis_helleborine	JN893018.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00474433315761729

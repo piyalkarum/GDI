@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mesembryanthemum_crystallinum	OQ791310.1	02-AUG-2023	584	Egypt	primary	rbcL	31.4415	26.8362	0.188182663883918
+Mesembryanthemum_crystallinum	KJ848112.1	10-MAR-2015	614	Germany	primary	rbcL	49.991	8.2407	0.463064662078665
+Mesembryanthemum_crystallinum	JQ412389.1	16-JAN-2013	552	South Africa: Western Cape, Cape Town, Robben Island	primary	rbcL	-33.805	18.377	0.18458051571842
+Mesembryanthemum_crystallinum	MT645218.1	25-JUL-2020	594	Egypt	secondary	rbcL	36.4706325485216	-91.0543400592197	0.184764137404943
+Mesembryanthemum_crystallinum	KX808561.1	26-AUG-2017	511	Egypt	secondary	rbcL	36.4848197489471	-90.6627016034089	0.192824464981574
+Mesembryanthemum_crystallinum	HM850175.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.183699857211977
+Mesembryanthemum_crystallinum	AM161298.1	08-JAN-2007	754	South Africa	secondary	rbcL	-28.8166236	24.991639	0.463746807169833

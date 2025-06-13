@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mandragora_officinarum	JX067469.1	31-JUL-2012	925	Cyprus	secondary	trnL-trnF	34.9174159	32.8899027	0.000648648648648649
+Mandragora_officinarum	JX067468.1	31-JUL-2012	925	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.000648648648648649
+Mandragora_officinarum	JX067467.1	31-JUL-2012	925	Morocco	secondary	trnL-trnF	28.3347722	-10.3713379	0.000648648648648649
+Mandragora_officinarum	JX067466.1	31-JUL-2012	925	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.000648648648648649
+Mandragora_officinarum	JX067465.1	31-JUL-2012	925	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.000648648648648649
+Mandragora_officinarum	JX067464.1	31-JUL-2012	925	Greece: Paros	secondary	trnL-trnF	37.0651048	25.1921674	0.000648648648648649

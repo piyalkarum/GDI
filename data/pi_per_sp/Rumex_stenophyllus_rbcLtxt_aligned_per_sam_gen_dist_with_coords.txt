@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_stenophyllus	OR738062.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0
+Rumex_stenophyllus	MG247712.1	21-JAN-2018	552	Canada: Regina, Saskatchewan	primary	rbcL	50.812761759126	-103.961211751548	0
+Rumex_stenophyllus	MG246756.1	21-JAN-2018	552	Canada: Corinne, Saskatchewan	primary	rbcL	50.0497	-104.633	0
+Rumex_stenophyllus	MG246246.1	21-JAN-2018	552	Canada: Regina, Saskatchewan	primary	rbcL	50.468965633498	-105.280142248899	0

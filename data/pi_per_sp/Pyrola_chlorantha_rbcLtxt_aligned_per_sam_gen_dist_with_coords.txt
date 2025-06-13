@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pyrola_chlorantha	OR575215.1	25-OCT-2023	507	Kazakhstan: Qaragandy region	primary	rbcL	49.41064	75.43456	0.0264357011073709
+Pyrola_chlorantha	MG223241.1	26-DEC-2017	481	Canada: Yukon Territory, La Biche River	primary	rbcL	60.089	-124.039	0.00498960498960499
+Pyrola_chlorantha	MG223191.1	26-DEC-2017	492	Canada: Yukon Territory, Wind River, Deception Mountain	primary	rbcL	65.6	-135.474	0.0048780487804878
+Pyrola_chlorantha	MG221649.1	26-DEC-2017	552	Canada: Canol, Yukon	primary	rbcL	63.2847	-130.153	0.00552268244575937
+Pyrola_chlorantha	MG221479.1	26-DEC-2017	552	Canada: Liard River, Yukon	primary	rbcL	60.01	-128.593	0.00552268244575937
+Pyrola_chlorantha	KX678873.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Osprey Lake Forest Recreation Site	primary	rbcL	49.7152	-120.205	0.00552268244575937

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_marschallianum	HG794158.1	04-JAN-2016	637	Ukraine:Crimea, Karadag	secondary	ITS	44.9337751	35.2207388	0
+Allium_marschallianum	HG794157.1	04-JAN-2016	637	Ukraine:Crimea, Demerdzhi, yayla	secondary	ITS	46.164924851276	34.0746107522443	0
+Allium_marschallianum	HG794156.1	04-JAN-2016	638	Ukraine:Crimea, Balaklava, Chembolo fortress	secondary	ITS	44.6703984263321	34.4446780445582	0
+Allium_marschallianum	HG794155.1	04-JAN-2016	637	Ukraine:Crimea, S suburb of Sevastopol, Cape Fiolent	secondary	ITS	45.8671637900201	34.607305414562	0
+Allium_marschallianum	HG794154.1	04-JAN-2016	638	Ukraine:Crimea, Sevastopol	secondary	ITS	44.558815	33.8450617	0
+Allium_marschallianum	HG794153.1	04-JAN-2016	638	Ukraine:Crimea, Chatyrdag, lower plateau, Mramornaya Cave	secondary	ITS	45.5707111482566	34.8878827690517	0

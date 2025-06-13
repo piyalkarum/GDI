@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Inula_helenium	MG225107.1	21-JAN-2018	783	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #6 trail	primary	matK	43.097	-79.281	0
+Inula_helenium	HQ593331.1	09-NOV-2011	794	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., Forest N of pond further from Racing Barn	primary	matK	44.031	-79.537	0
+Inula_helenium	HQ593330.1	09-NOV-2011	781	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Marsh between Willow Ridge and Classroom	primary	matK	44.026	-79.535	0
+Inula_helenium	HQ593329.1	01-NOV-2011	783	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, open area near stream channel north of Echo Valley Cottage	primary	matK	44.026	-79.532	0
+Inula_helenium	JN895311.1	07-MAR-2012	962	United Kingdom: Breconshire	primary	matK	52.06	-3.17	0
+Inula_helenium	JN896265.1	07-MAR-2012	842	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0
+Inula_helenium	JN896262.1	07-MAR-2012	823	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

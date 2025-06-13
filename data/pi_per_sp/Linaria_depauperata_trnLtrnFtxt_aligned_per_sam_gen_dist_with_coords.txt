@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_depauperata	JN663540.1	10-MAR-2012	263	Spain: Albacete, Fabrica de Riopar	secondary	trnL-trnF	38.9950921	-1.8559154	0
+Linaria_depauperata	JN663539.1	10-MAR-2012	263	Spain: Alicante, Alcoi	secondary	trnL-trnF	38.6982275	-0.4747767	0
+Linaria_depauperata	JN663538.1	10-MAR-2012	223	Spain: Alicante, Petrel	secondary	trnL-trnF	38.5333906	-0.8203332	0
+Linaria_depauperata	JN663537.1	10-MAR-2012	263	Spain: Castellon, Vistabella	secondary	trnL-trnF	40.3688142	0.3926844	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_brutia	MT247271.1	28-SEP-2020	818	Greece	secondary	matK	43.2097838	-77.6930602	0
+Pinus_brutia	MT247270.1	28-SEP-2020	818	Turkey	secondary	matK	38.714540405022	34.0179384299166	0
+Pinus_brutia	MT247269.1	28-SEP-2020	818	Cyprus	secondary	matK	35.3225745840863	32.922400740691	0
+Pinus_brutia	MT247268.1	28-SEP-2020	818	Cyprus	secondary	matK	35.2000044273886	33.82045417987	0
+Pinus_brutia	MT247267.1	28-SEP-2020	818	Turkey	secondary	matK	38.708153448845	34.151309379537	0
+Pinus_brutia	KP089952.1	15-MAR-2015	789	Australia	secondary	matK	-34.9281805	138.5999312	0

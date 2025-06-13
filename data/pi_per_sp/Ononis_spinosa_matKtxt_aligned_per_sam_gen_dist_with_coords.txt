@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ononis_spinosa	JN894101.1	07-MAR-2012	780	United Kingdom: Carmarthenshire	primary	matK	51.68	-4.24	0
+Ononis_spinosa	JN894098.1	07-MAR-2012	775	United Kingdom: Glamorgan	primary	matK	51.55	-3.26	0
+Ononis_spinosa	KJ746144.1	29-JUL-2014	699	Poland	secondary	matK	52.215933	19.134422	0
+Ononis_spinosa	KJ204513.1	29-JAN-2015	744	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0
+Ononis_spinosa	JN895637.1	07-MAR-2012	783	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0
+Ononis_spinosa	JN894068.1	07-MAR-2012	931	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

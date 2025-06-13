@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gladiolus_imbricatus	KM887297.1	07-FEB-2015	765	Poland: Krakow - Kostrze, Kolo Tynieckie	secondary	trnL-trnF	50.0316667	19.8327778	0.000217864923747277
+Gladiolus_imbricatus	KM887296.1	07-FEB-2015	765	Czech Republic: Moravia, on the Dyja river	secondary	trnL-trnF	49.71606885	17.1022580832927	0.000217864923747277
+Gladiolus_imbricatus	KM887295.1	07-FEB-2015	765	Romania: Dofteana	secondary	trnL-trnF	46.3210628	26.5220256	0.00130718954248366
+Gladiolus_imbricatus	KM887293.1	07-FEB-2015	765	Poland: Bialowieza	secondary	trnL-trnF	52.7027392	23.8512556	0.000217864923747277
+Gladiolus_imbricatus	KM887289.1	07-FEB-2015	765	Poland: Bednarze	secondary	trnL-trnF	51.308027	19.0716108	0.000217864923747277
+Gladiolus_imbricatus	KM887288.1	07-FEB-2015	765	Poland: Podhale	secondary	trnL-trnF	50.8441667	20.6411111	0.000217864923747277
+Gladiolus_imbricatus	KM887287.1	07-FEB-2015	765	Poland	secondary	trnL-trnF	49.7887467	19.4431583	0.000217864923747277

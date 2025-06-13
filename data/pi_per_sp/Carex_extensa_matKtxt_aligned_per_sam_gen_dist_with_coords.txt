@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_extensa	JN895304.1	07-MAR-2012	732	United Kingdom: Glamorgan	primary	matK	51.54	-3.75	0.00593339669799697
+Carex_extensa	MN763449.1	28-JUL-2020	557	France: Corsica	secondary	matK	42.1880896	9.0684138	0.0101735487731897
+Carex_extensa	HM850844.1	23-JUL-2011	680	Portugal	secondary	matK	39.6621648	-8.1353519	0.0100714612595487
+Carex_extensa	JN895345.1	07-MAR-2012	777	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00593339669799697

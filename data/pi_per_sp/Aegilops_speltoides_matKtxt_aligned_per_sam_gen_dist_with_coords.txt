@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aegilops_speltoides	KC608219.1	12-MAR-2014	1120	Turkey	secondary	matK	38.7322609545055	34.764044704818	0
+Aegilops_speltoides	KC608218.1	12-MAR-2014	1120	Turkey	secondary	matK	38.7706642335297	34.9673785166059	0
+Aegilops_speltoides	KC608217.1	12-MAR-2014	1120	Turkey	secondary	matK	38.4193461835302	35.2886119598962	0
+Aegilops_speltoides	KC608216.1	12-MAR-2014	1120	Turkey	secondary	matK	38.7094086789365	35.7915869887818	0
+Aegilops_speltoides	KC608215.1	12-MAR-2014	1120	Turkey	secondary	matK	38.3221701283917	34.6479491704599	0
+Aegilops_speltoides	KC608214.1	12-MAR-2014	1120	Turkey	secondary	matK	39.6721736446765	34.9056216122617	0
+Aegilops_speltoides	KC608207.1	12-MAR-2014	1120	Turkey	secondary	matK	38.755870055516	34.7791484356959	0
+Aegilops_speltoides	KC608206.1	12-MAR-2014	1120	Turkey	secondary	matK	38.7765253113098	34.2798555992129	0
+Aegilops_speltoides	KC608205.1	12-MAR-2014	1120	Turkey	secondary	matK	39.2437436970659	34.0238794264462	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_vahliana	GQ283318.1	28-FEB-2010	840	Canada: Nunavut, Ellesmere Island	secondary	rpl16	81.8620353	-73.0609216	0
+Puccinellia_vahliana	GQ283317.1	28-FEB-2010	840	Canada: Nunavut, Axel Heiberg Island	secondary	rpl16	74.08295045	-94.3110795713201	0
+Puccinellia_vahliana	GQ283316.1	28-FEB-2010	841	Canada: Northwest Territories, Banks Island	secondary	rpl16	73.6123055264512	-122.558220275345	0
+Puccinellia_vahliana	GQ283315.1	28-FEB-2010	840	Canada: Northwest Territories, Banks Island	secondary	rpl16	73.8531773321382	-122.551395967274	0
+Puccinellia_vahliana	GQ283314.1	28-FEB-2010	840	Canada: Northwest Territories, Banks Island	secondary	rpl16	74.1719836979446	-119.965882227603	0

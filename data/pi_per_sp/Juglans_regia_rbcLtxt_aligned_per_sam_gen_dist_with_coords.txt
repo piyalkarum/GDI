@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juglans_regia	MF694989.1	16-SEP-2018	553	Pakistan: Baluchistan	primary	rbcL	30.5803947106278	66.4811274089259	NA
+Juglans_regia	MF694735.1	15-SEP-2018	552	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	34.761	72.36	NA
+Juglans_regia	MF694734.1	15-SEP-2018	552	Pakistan: Baluchistan	primary	rbcL	30.9102750319043	66.4329880044873	NA
+Juglans_regia	OQ446846.1	03-JUL-2023	542	Pakistan	secondary	rbcL	29.9027280455051	70.499405933687	NA
+Juglans_regia	OQ446845.1	03-JUL-2023	530	Pakistan	secondary	rbcL	30.9790441768674	70.8553202231394	NA
+Juglans_regia	MG247977.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Toronto.	secondary	rbcL	43.6534817	-79.3839347	NA
+Juglans_regia	KP768995.1	29-APR-2015	437	China	secondary	rbcL	35.3827515682038	104.988220929118	NA
+Juglans_regia	KP768926.1	29-APR-2015	437	China	secondary	rbcL	35.2721860765098	104.146126379301	NA
+Juglans_regia	KP088636.1	15-MAR-2015	785	China	secondary	rbcL	39.9057136	116.3912972	0.0209523922318329

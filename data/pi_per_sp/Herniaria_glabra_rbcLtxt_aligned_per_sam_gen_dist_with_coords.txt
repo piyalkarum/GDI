@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Herniaria_glabra	OR508840.1	17-OCT-2023	574	Kazakhstan: Qaragandy region	primary	rbcL	47.43832	74.81248	0.000905797101449275
+Herniaria_glabra	MG249402.1	21-JAN-2018	552	Canada: British Columbia, New Westminster, Queens Park, SW Queens Park Arena, 70 m NE corner of 1st St and 3rd Ave	primary	rbcL	49.2138	-122.906	0.000905797101449275
+Herniaria_glabra	MG247611.1	21-JAN-2018	552	Canada: Quebec, Matapedia coast, Grand Metis, near Bergeron bridge	primary	rbcL	48.625	-68.136	0.000905797101449275
+Herniaria_glabra	MK924815.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9951376658545	-2.19498906569468	0.000924214417744917
+Herniaria_glabra	MK924756.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0323033265147	-3.28736086202358	0.000924214417744917
+Herniaria_glabra	MK924521.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0383293571287	-3.89320550690202	0.000924214417744917
+Herniaria_glabra	MG248511.1	21-JAN-2018	552	Greece: Platanias, E of Hania, Crete	secondary	rbcL	38.8600579659778	24.2575870480058	0.00319791582951593
+Herniaria_glabra	MG247819.1	21-JAN-2018	552	Canada: Ontario, Caribou Island, Lake Superior	secondary	rbcL	43.72634945	-77.7101179040839	0.000905797101449275
+Herniaria_glabra	MG247232.1	21-JAN-2018	552	Greece: Platanias, E of Hania, Crete	secondary	rbcL	38.9984413371499	22.8693665837937	0.00319791582951593

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_cartwrightianus	LS398304.1	01-SEP-2018	615	Greece	secondary	trnK	42.6323199326265	-77.8915169159415	0
+Crocus_cartwrightianus	LS398303.1	01-SEP-2018	615	Greece	secondary	trnK	42.7791240453253	-76.6644138524543	0
+Crocus_cartwrightianus	LS398302.1	01-SEP-2018	615	Greece	secondary	trnK	42.4392124243418	-77.7197595099017	0
+Crocus_cartwrightianus	LS398301.1	01-SEP-2018	615	Greece	secondary	trnK	42.843461126533	-77.273788577365	0
+Crocus_cartwrightianus	LS398300.1	01-SEP-2018	614	Greece	secondary	trnK	43.1662939318235	-77.1963676999326	0
+Crocus_cartwrightianus	LS398299.1	01-SEP-2018	614	Greece	secondary	trnK	42.8149412716618	-76.9022993520316	0

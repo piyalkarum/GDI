@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Struthiopteris_spicant	MH644136.1	31-JUL-2022	834	Spain: Salamanca	secondary	trnL-trnF	40.9651572	-5.6640182	0.00331755617961436
+Struthiopteris_spicant	MH644135.1	31-JUL-2022	835	Spain: Asturias, Paladeperre	secondary	trnL-trnF	44.2595325961714	-6.55681903234185	0.00331052181351583
+Struthiopteris_spicant	MH644134.1	31-JUL-2022	835	Spain: Asturias, Paladeperre	secondary	trnL-trnF	42.7750746637607	-6.16441745879549	0.00331052181351583
+Struthiopteris_spicant	MH644133.1	31-JUL-2022	835	Spain: Salamanca, Batuecas	secondary	trnL-trnF	40.4550662	-6.0658334	0.00331052181351583
+Struthiopteris_spicant	MH644131.1	31-JUL-2022	829	Spain: Burgos, Sierra de San Millan	secondary	trnL-trnF	42.1608671	-3.3674654	0.00335329720376864
+Struthiopteris_spicant	MH644130.1	31-JUL-2022	835	Spain: Galicia, Pontevedra	secondary	trnL-trnF	42.6075172	-8.4714942	0.00597665355339825
+Struthiopteris_spicant	MH644129.1	31-JUL-2022	835	Spain: Asturias, Luarca	secondary	trnL-trnF	43.5439003	-6.5357408	0.0153081146429867
+Struthiopteris_spicant	EF427625.1	05-MAR-2007	315	Finland: Puolanka	secondary	trnL-trnF	64.8729778	27.6552537	0.0152720275879105

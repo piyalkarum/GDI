@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Larix_decidua	MG215415.1	24-JAN-2018	552	Canada: Quebec, Co. Louis-Hebert, Ste-Foy, Cite Universitaire, Campus, plantation le long de la Station experimentale aux limites NW du Campus.	primary	rbcL	46.783	-71.275	0.00184532966291528
+Larix_decidua	FR831937.1	25-MAR-2011	701	Italy:Piedmont	secondary	rbcL	45.060735	7.923549	0.00109624363882048
+Larix_decidua	FR831936.1	25-MAR-2011	701	Italy:Trentino	secondary	rbcL	46.1029536	11.1297425	0.00109624363882048
+Larix_decidua	FN689379.1	19-MAR-2010	743	Italy:Friuli Venezia Giulia	secondary	rbcL	46.151042	13.055904	0.00155488708332472

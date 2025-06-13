@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_purpurea	KX872058.1	16-OCT-2017	448	Sweden: Vaesterbotten Co., Vilhelmina kommun, W of lake Malgoviken, W of Skansholm, near the river Kvarnbaecken	primary	atpF-atpH	64.6939	16.2258	0
+Calamagrostis_purpurea	KX872057.1	16-OCT-2017	577	Sweden: Norbotten Co., Pajala kommun, NW of Pello, near the border with Finland, Jarhois	primary	atpF-atpH	66.9456	23.8078	0
+Calamagrostis_purpurea	KX872056.1	16-OCT-2017	654	Sweden: Norbotten Co., Oeverkalix kommun, SW of Jock, W of lake Vallsjaerv, Bjoerkhultet	primary	atpF-atpH	66.6381	22.5856	0.000535905680600214
+Calamagrostis_purpurea	KX872055.1	16-OCT-2017	622	Sweden: Norrbotten Co., Jokkmokk kommun, 17 km N of Jokkmokk	primary	atpF-atpH	66.7578	19.8639	0.000535905680600214

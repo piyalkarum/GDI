@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_latifolium	OL689876.1	08-DEC-2021	834	USA: Missouri	primary	matK	38.6145	-90.2591	0.00834938985228002
+Antirrhinum_latifolium	EU717997.1	31-MAY-2009	1255	Spain: Lerida, Martinet	secondary	matK	42.3229252	1.6931213	0.00359386193184871
+Antirrhinum_latifolium	EU717996.1	31-MAY-2009	1255	Spain: Lerida, Bapa	secondary	matK	41.6147605	0.6267842	0.00359386193184871
+Antirrhinum_latifolium	EU717995.1	31-MAY-2009	1255	Spain: Girona, Collada de Toses	secondary	matK	42.3360286	1.9911225	0.00359386193184871
+Antirrhinum_latifolium	HM152976.1	24-AUG-2010	1255	Italy: Piamonte, Cuneo	secondary	matK	44.1375493121875	6.62826367631213	0.002503615339541
+Antirrhinum_latifolium	KJ911398.1	22-JUL-2014	1250	France: St Martin d'Entraunes	secondary	matK	44.1427858	6.7622026	0.00250892742453436
+Antirrhinum_latifolium	KJ911397.1	22-JUL-2014	1251	France: Lourmarin	secondary	matK	43.7755825	5.3515561	0.00313114964675658
+Antirrhinum_latifolium	KJ911396.1	22-JUL-2014	1250	France: Col de l'Espigoulier	secondary	matK	43.3162935	5.6591747	0.00250892742453436
+Antirrhinum_latifolium	KJ911395.1	22-JUL-2014	1250	France: Auriol	secondary	matK	43.3688436	5.6298611	0.00250892742453436
+Antirrhinum_latifolium	KJ911394.1	22-JUL-2014	1250	Italy: Piamonte, Cuneo	secondary	matK	44.8622842632785	7.4875309840993	0.0035956326268465

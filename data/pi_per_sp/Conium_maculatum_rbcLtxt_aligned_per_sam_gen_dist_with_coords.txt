@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Conium_maculatum	OR526571.1	25-OCT-2023	606	USA: Bishop's Bog Preserve, Portage, MI	primary	rbcL	42.18281871	-85.59396878	0.00107443692359983
+Conium_maculatum	OR464886.1	26-SEP-2023	615	USA: South Westnedge Park, Portage, MI	primary	rbcL	42.18516539	-85.59250882	0.00106622320701521
+Conium_maculatum	MG224498.1	26-DEC-2017	552	Canada: Manitowaning, Manitoulin Island, ON	primary	rbcL	45.813	-82.4055	0.00165166380907053
+Conium_maculatum	MG222601.1	26-DEC-2017	552	Canada: Cite Universitaire, Ste-Foy, Quebec	primary	rbcL	46.7833	-71.3	0.00110546771901282
+Conium_maculatum	MG222023.1	26-DEC-2017	552	Canada: Goderich, Huron County, ON	primary	rbcL	43.7333	-81.7	0.00110546771901282
+Conium_maculatum	KX678313.1	29-APR-2017	551	Canada: British Columbia, Metro Vancouver Regional District, Vancouver, under Oak Street Bridge, at the back of warehouses by railroad tracks	primary	rbcL	49.2027	-123.13	0.00165435871665748
+Conium_maculatum	JN893157.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.31	0.00168118065140479
+Conium_maculatum	KT178116.1	19-AUG-2015	1428	USA	secondary	rbcL	39.7837304	-100.445882	0.00102512159972707
+Conium_maculatum	HM849908.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00435458777580912
+Conium_maculatum	JN893511.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.00111964183808725
+Conium_maculatum	JN893233.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00168118065140479

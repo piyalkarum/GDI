@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_carpetana	AJ971558.1	24-MAR-2006	220	Spain:Leon, Villamanin	secondary	ITS	42.4801173260908	-5.72616327865247	0.428708133971292
+Genista_carpetana	AJ971557.1	24-MAR-2006	227	Spain:Leon, Villamanin	secondary	ITS	42.5801436310361	-6.25136122566969	0.390483191218269
+Genista_carpetana	AJ699051.1	30-APR-2005	212	Spain:Avila, Circo de Gredos	secondary	ITS	39.6521487931744	-5.61305153353948	0.444762235706076
+Genista_carpetana	AJ699050.1	30-APR-2005	227	Spain:Avila, Circo de Gredos	secondary	ITS	40.3406401621847	-4.81829632189326	0.390483191218269

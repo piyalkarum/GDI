@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_rapunculoides	LR702021.1	21-OCT-2021	2801	Russia	primary	matK	47.0368	41.6744	0.0125738656478471
+Campanula_rapunculoides	LR702020.1	21-OCT-2021	2801	Russia	primary	matK	47.055	41.6645	0.0125228452396839
+Campanula_rapunculoides	LR701383.1	21-OCT-2021	2800	Russia	primary	matK	44.0539	43.1114	0.0125738747553816
+Campanula_rapunculoides	LR701379.1	21-OCT-2021	2800	Russia	primary	matK	44.1397	40.7778	0.0125738747553816
+Campanula_rapunculoides	KX677744.1	09-AUG-2017	814	Canada: British Columbia, Thompson-Nicola Regional District, north of Cache Creek, dry roadside on road to Loon Lake	primary	matK	50.81	-121.32	NA
+Campanula_rapunculoides	KP643153.1	08-DEC-2015	730	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.3256928343585	-78.84223122073	NA
+Campanula_rapunculoides	KP643125.1	08-DEC-2015	750	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.5197000293914	-77.5906751683895	NA
+Campanula_rapunculoides	KP643098.1	08-DEC-2015	750	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	39.3529980460642	-77.2098433918258	NA
+Campanula_rapunculoides	MG225195.1	21-JAN-2018	775	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Grindstone Creek	primary	matK	43.296	-79.872	NA
+Campanula_rapunculoides	MG225097.1	21-JAN-2018	790	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Sassafras Point/South Shore trails, in ravine behind RBG Aviary	primary	matK	43.269	-79.909	NA
+Campanula_rapunculoides	HQ593198.1	09-NOV-2011	869	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., 200 m E of Dufferin on main trail to pond	primary	matK	44.031	-79.526	NA
+Campanula_rapunculoides	KJ840875.1	23-SEP-2014	722	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Edge of road between Gault House and park entrance	primary	matK	45.54	-73.154	NA
+Campanula_rapunculoides	OQ290108.1	16-MAY-2023	710	Mexico: Puebla	secondary	matK	19.1710098	-98.4125121	NA
+Campanula_rapunculoides	MK555906.1	22-SEP-2019	235	Romania	secondary	matK	45.6749548039549	24.4531798874495	NA
+Campanula_rapunculoides	MK555804.1	22-SEP-2019	386	Romania	secondary	matK	46.8575377951991	24.6223050501366	NA

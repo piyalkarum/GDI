@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ajuga_reptans	MN447815.1	21-FEB-2022	594	United Kingdom: England, County Durham, Auckland Castle gardens	primary	rbcL	54.6719	-1.66	0.00172413793103448
+Ajuga_reptans	MG322262.1	11-NOV-2018	580	United Kingdom: England, North West, Foreshield Burn	primary	rbcL	54.8159	-2.39	0.0181923310546671
+Ajuga_reptans	MG224474.1	26-DEC-2017	552	Canada: Ottawa	primary	rbcL	45.4214	-75.6919	0.00181159420289855
+Ajuga_reptans	MG223189.1	26-DEC-2017	552	Canada: Elora	primary	rbcL	43.6833	-80.4333	0.00181159420289855
+Ajuga_reptans	MF349412.1	21-SEP-2017	553	USA: District of Columbia; Ripley Garden next to the Smithsonian Castle, Washington	primary	rbcL	38.888	-77.023	0.00180831826401447
+Ajuga_reptans	KX783818.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	31.2	30.022	0.00181159420289855
+Ajuga_reptans	JN893626.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	primary	rbcL	51.78	-3.54	0.0018450184501845
+Ajuga_reptans	JN893089.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.0018450184501845
+Ajuga_reptans	JN893311.1	07-MAR-2012	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.0018450184501845
+Ajuga_reptans	JN891021.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0018450184501845
+Ajuga_reptans	JN891019.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0018450184501845

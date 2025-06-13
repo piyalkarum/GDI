@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_juressi	KF547646.1	09-SEP-2014	350	Portugal: Distr. Coimbra,Penedo da Meditacao	primary	trnL-trnF	40.2245	-8.4078	0.0128463855746167
+Arabis_juressi	KF547601.1	09-SEP-2014	374	Spain: Reg. Castile and Leon, Prov. Salamanca,La Orbada	primary	trnL-trnF	41.1278	-5.4875	0.00959618580300848
+Arabis_juressi	KF547600.1	09-SEP-2014	374	Spain: Prov. Madrid,La Cabrera	primary	trnL-trnF	40.8644	-3.6263	0.00959618580300848
+Arabis_juressi	KF547599.1	09-SEP-2014	374	Spain: Castile-La Mancha, Prov. Toledo,Valdeazores	primary	trnL-trnF	39.4333	-4.7167	0.010360127743421
+Arabis_juressi	KC412326.1	31-DEC-2013	371	Spain: Prov. Lugo,Becerrea	primary	trnL-trnF	42.8519	-7.1641	0.0102911393508533
+Arabis_juressi	HQ646676.1	31-DEC-2011	353	Portugal: Distr. Vila Real, Mondim de Bastos, Ermelo	primary	trnL-trnF	41.36	-7.9	0.010643961301856
+Arabis_juressi	HQ646675.1	31-DEC-2011	354	Spain: Prov. Ourense, Puente de Abeleda, Paradela, Castro Caldelas.	primary	trnL-trnF	42.41	-7.45	0.0101897509163512
+Arabis_juressi	HQ646674.1	31-DEC-2011	354	Spain: Prov. Ourense, Castro Caldelas, La Teixeira, Ibedo	primary	trnL-trnF	42.4	-7.48	0.008165115891284

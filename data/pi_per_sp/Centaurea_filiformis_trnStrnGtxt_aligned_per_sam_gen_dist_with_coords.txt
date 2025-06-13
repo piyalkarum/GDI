@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_filiformis	MH627788.1	19-FEB-2020	625	Italy: Sardinia, Pischina Urtaddala	secondary	trnS-trnG	39.9892483170326	8.504551943309	0.00181333333333333
+Centaurea_filiformis	MH627787.1	19-FEB-2020	625	Italy: Sardinia, Pischina Urtaddala	secondary	trnS-trnG	40.0702925280487	10.3432392305762	0.00181333333333333
+Centaurea_filiformis	MH627786.1	19-FEB-2020	625	Italy: Sardinia, Pischina Urtaddala	secondary	trnS-trnG	40.1710179491269	10.0656486247455	0.00181333333333333
+Centaurea_filiformis	MH627785.1	19-FEB-2020	625	Italy: Sardinia, Genna Silana	secondary	trnS-trnG	39.3848875874195	9.53081022731089	0.00245333333333333
+Centaurea_filiformis	MH627784.1	19-FEB-2020	625	Italy: Sardinia, Genna Silana	secondary	trnS-trnG	39.5634115417825	10.3752423127562	0.00245333333333333
+Centaurea_filiformis	MH627783.1	19-FEB-2020	625	Italy: Sardinia, Genna Silana	secondary	trnS-trnG	40.4414429670302	10.549186176099	0.00245333333333333
+Centaurea_filiformis	MH627782.1	19-FEB-2020	625	Italy: Sardinia, Galtelli	secondary	trnS-trnG	40.8637284412354	9.51409905861652	0.00181333333333333
+Centaurea_filiformis	MH627781.1	19-FEB-2020	625	Italy: Sardinia, Galtelli	secondary	trnS-trnG	40.5415830284007	9.32333978605563	0.00181333333333333
+Centaurea_filiformis	MH627780.1	19-FEB-2020	625	Italy: Sardinia, Galtelli	secondary	trnS-trnG	40.8779486366145	9.12286397784781	0.00181333333333333
+Centaurea_filiformis	MH627779.1	19-FEB-2020	625	Italy: Sardinia, Cala Fuili	secondary	trnS-trnG	40.014017817816	10.468390145016	0.00245333333333333
+Centaurea_filiformis	MH627778.1	19-FEB-2020	625	Italy: Sardinia, Cala Fuili	secondary	trnS-trnG	41.0040148919924	9.80135598469854	0.00245333333333333
+Centaurea_filiformis	MH627777.1	19-FEB-2020	625	Italy: Sardinia, Cala Fuili	secondary	trnS-trnG	41.0249516385384	9.57355130068444	0.00245333333333333
+Centaurea_filiformis	MH627776.1	19-FEB-2020	625	Italy: Sardinia, Dorgali	secondary	trnS-trnG	39.974088643548	10.3663240346191	0.00138666666666667
+Centaurea_filiformis	MH627775.1	19-FEB-2020	625	Italy: Sardinia, Dorgali	secondary	trnS-trnG	39.9206160616512	9.66554889807402	0.00138666666666667
+Centaurea_filiformis	MH627774.1	19-FEB-2020	625	Italy: Sardinia, Dorgali	secondary	trnS-trnG	39.8881889217504	9.58012645747542	0.00138666666666667
+Centaurea_filiformis	KF630575.1	31-DEC-2014	625	Italy: Sardinia, Capo Figari	secondary	trnS-trnG	40.9981359	9.6546114	0.00288

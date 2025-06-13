@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phyteuma_scorzonerifolium	MK556108.1	22-SEP-2019	306	Italy	secondary	rbcL	42.6682212004812	13.6513974038557	0.63059916571862
+Phyteuma_scorzonerifolium	MK555600.1	22-SEP-2019	357	Italy	secondary	rbcL	42.5901185674377	12.6983682417836	0.602846722806155
+Phyteuma_scorzonerifolium	MK555465.1	22-SEP-2019	381	Italy	secondary	rbcL	43.0292265581616	12.3650140759927	0.62029637793684
+Phyteuma_scorzonerifolium	MK555391.1	22-SEP-2019	382	Italy	secondary	rbcL	42.058711246485	12.5816906307921	0.623262889272742

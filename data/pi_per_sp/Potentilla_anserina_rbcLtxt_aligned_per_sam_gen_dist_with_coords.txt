@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_anserina	MG248524.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.951	-101.571	0.00227962042582745
+Potentilla_anserina	MG248279.1	21-JAN-2018	552	Canada: Yukon Territory, Old Crow	primary	rbcL	67.568	-139.843	0.00227962042582745
+Potentilla_anserina	MG246823.1	21-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Shipsands Island, coastal plain	primary	rbcL	51.347	-80.43	0.00227962042582745
+Potentilla_anserina	MG246458.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.11	-100.377	0.00227962042582745
+Potentilla_anserina	MG246197.1	21-JAN-2018	552	Canada: Manitoba, Winnipeg, Red River, Pembrina Drive, near boat launch	primary	rbcL	49.824	-97.147	0.00227962042582745
+Potentilla_anserina	MG245929.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.248	-101.359	0.00227962042582745
+Potentilla_anserina	KX678314.1	29-APR-2017	548	Canada: British Columbia, Kootenay Boundary Regional District, Mt. Baldy Ski Area	primary	rbcL	49.1529	-119.236	0.00225972851575313
+Potentilla_anserina	KJ841496.1	04-NOV-2014	507	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	rbcL	45.538	-73.158	0.00246693762360616
+Potentilla_anserina	JN893482.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.00228786574633027
+Potentilla_anserina	JN890903.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.00228786574633027
+Potentilla_anserina	MN205225.1	30-NOV-2021	708	China	secondary	rbcL	29.9489126126792	-95.2332319021282	0.00226993230540438
+Potentilla_anserina	MN192840.1	30-NOV-2021	645	China	secondary	rbcL	29.976075908307	-93.408732053758	0.0129013130352276
+Potentilla_anserina	KT280144.1	01-AUG-2016	673	China: Maqu Gansu	secondary	rbcL	34.6137382	102.4654149	0.00909131375033399
+Potentilla_anserina	JX848521.1	06-AUG-2013	1388	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.00225157960401793
+Potentilla_anserina	JN893768.1	07-MAR-2012	541	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00229197886176207
+Potentilla_anserina	JN893500.1	07-MAR-2012	454	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00249632892804699

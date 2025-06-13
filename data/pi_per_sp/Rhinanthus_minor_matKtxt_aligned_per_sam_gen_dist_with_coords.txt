@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhinanthus_minor	JN966492.1	27-OCT-2012	779	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	matK	58.626	-94.23	0.00173880023917005
+Rhinanthus_minor	JN894578.1	07-MAR-2012	766	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.13	0.00179382691922592
+Rhinanthus_minor	JN894370.1	07-MAR-2012	755	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00179499491156389
+Rhinanthus_minor	JN894366.1	07-MAR-2012	794	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00173763224683208

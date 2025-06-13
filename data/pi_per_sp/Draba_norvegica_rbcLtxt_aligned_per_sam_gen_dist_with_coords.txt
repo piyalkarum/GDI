@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_norvegica	KJ841284.1	04-NOV-2014	460	Canada: Newfoundland and Labrador, Labrador, Mont Irony, S-w slope of mountain, near summit	primary	rbcL	54.902	-67.1669	0.00173913043478261
+Draba_norvegica	KC482623.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Tukarak Island, slightly east facing slope below large rock hills, 50 m from shore	primary	rbcL	56.386	-78.872	0.00258780036968577
+Draba_norvegica	MK925524.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9099278943377	-3.38511484306477	0.00529965572901731
+Draba_norvegica	MK925419.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.005151877489	-3.98168797913668	0.0025830258302583
+Draba_norvegica	MK925239.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1369981618861	-4.01122539307877	0.0025830258302583
+Draba_norvegica	MK925051.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5657319591037	-3.95869472618241	0.00640734887618908

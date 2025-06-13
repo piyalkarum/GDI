@@ -1,0 +1,26 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_arctica	MK800575.1	04-FEB-2020	696	USA: Idaho, Pioneer Mountians, Hyndman Peak	primary	matK	43.74357	-114.12403	0.284578739113811
+Salix_arctica	MK800574.1	04-FEB-2020	696	USA: Idaho, Pioneer Mountians, Salzburger Spitzl	primary	matK	43.76619	-114.15839	0.284578739113811
+Salix_arctica	MG221091.1	21-JAN-2018	824	Canada: Yukon Territory, Mount Klotz camp	primary	matK	65.363	-140.182	0.0263761005977494
+Salix_arctica	MG220932.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	45.5595	-73.566	0.0252227548217906
+Salix_arctica	MG220813.1	21-JAN-2018	824	USA: Alaska, Chugach State Park, Glen Alps Trailhead	primary	matK	61.0862	-149.61	0.0252227548217906
+Salix_arctica	KC475736.1	25-OCT-2013	750	Canada: Nunavut, Victoria Island, Oterkvik Point, Camp 13 km north of Oterkvik Point, 10 km north of coast at Coronation gulf, lower camp area and vicinity to the south	primary	matK	68.739	-112.625	0.0252363376529654
+Salix_arctica	KC475735.1	25-OCT-2013	757	USA: Alaska, Aleutian Islands, Attu Island, ATTU ISLAND, West Mountains just west of Casco Cove and near the old east-west runway at Coast Guard Station. Low shoulder of mountain	primary	matK	53.1642612114151	-172.049813262013	0.0252329420908317
+Salix_arctica	KC475734.1	25-OCT-2013	763	USA: Alaska, Aleutian Islands, Rat Island	primary	matK	51.805	-178.312	0.0266501335347779
+Salix_arctica	KC475733.1	25-OCT-2013	781	USA: Alaska, Aleutian Islands, Attu Island, Siddons Valley, ca 3.5 miles north of Coast Guard Station. Road passing through west end of Siddens Valley	primary	matK	52.387	-173.191	0.0252259492746441
+Salix_arctica	KC475732.1	25-OCT-2013	789	USA: Alaska, Aleutian Islands, Rat Island	primary	matK	51.805	-178.301	0.0252240525042397
+Salix_arctica	KC475731.1	25-OCT-2013	756	USA: Alaska, Anchorage area, Glen Alps State Park, On branch of Power Line Trail that crosses bridge and runs along the base of XX Mountain	primary	matK	61.085	-149.628	0.0252333061241107
+Salix_arctica	KC475730.1	25-OCT-2013	789	USA: Alaska, Anchorage area, Glen Alps State Park, On branch of Power Line Trail that crosses bridge and runs along the base of XX Mountain	primary	matK	61.088	-149.622	0.0252240525042397
+Salix_arctica	KC475729.1	25-OCT-2013	789	Canada: Nunavut	primary	matK	56.428	-79.164	0.0266179487369287
+Salix_arctica	KC475728.1	25-OCT-2013	765	USA: Alaska, Anchorage area, Glen Alps State Park, On branch of Power Line Trail that crosses bridge and runs along the base of XX Mountain	primary	matK	61.086	-149.61	0.0252305670728565
+Salix_arctica	KC475727.1	25-OCT-2013	789	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.9918767423346	-116.961158430081	0.0265547216251432
+Salix_arctica	KC475726.1	25-OCT-2013	725	Canada: Nunavut, Baffin Island, Iqaluit, Baffin Island. Trail between Apex and Iqaluit	primary	matK	63.5833	-68.7333	0.0252476478005723
+Salix_arctica	KC475725.1	25-OCT-2013	659	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	matK	69.966866388774	-117.870135896758	0.0286550724215402
+Salix_arctica	KC475724.1	25-OCT-2013	789	USA: Alaska, Aleutian Islands, Buldir Island	primary	matK	52.372	-175.891	0.0252240525042397
+Salix_arctica	KC475723.1	25-OCT-2013	789	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	matK	74.907	-109.59	0.0252240525042397
+Salix_arctica	KC475722.1	25-OCT-2013	789	Canada: Nunavut, Victoria Island, Cambridge Bay, Cambridge Bay, ~0.25 km SW of town, adjacent to the airport road, near where road enters town	primary	matK	69.25	-105.203	0.0263438959485081
+Salix_arctica	KC475721.1	25-OCT-2013	765	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	72.1288816569023	-115.016076096129	0.0252302068551813
+Salix_arctica	KC475720.1	25-OCT-2013	787	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	matK	70.0608362879835	-119.1720107239	0.0252244551176841
+Salix_arctica	KC475719.1	25-OCT-2013	785	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	matK	70.8330947775129	-119.478725932169	0.025224859782662
+Salix_arctica	KC475718.1	25-OCT-2013	481	USA: Alaska, Aleutian Islands, Attu Island, West Mountains just west of Casco Cove and near the old east-west runway at Coast Guard Station. Mid-shoulder of mountain	primary	matK	53.0512738910775	-172.601061164691	0.0414486069205742
+Salix_arctica	FR695011.1	07-OCT-2010	835	Russia:Kamchatka	secondary	matK	57.1914882	160.0383819	0.00785348338090954

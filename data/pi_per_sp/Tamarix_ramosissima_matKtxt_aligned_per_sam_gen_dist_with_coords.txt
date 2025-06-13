@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_ramosissima	MZ563173.1	24-APR-2022	695	Argentina: San Juan, Ullum, at Termas de Talacasto	primary	matK	-31.03	-68.75	0.00396486219881036
+Tamarix_ramosissima	OL537966.1	10-JAN-2022	829	USA: Texas, Texas, Presidio County	primary	matK	29.346	-104.08	0.00461440779033273
+Tamarix_ramosissima	MT918115.1	03-MAR-2023	770	China	secondary	matK	35.000074	104.999927	0.0061071780711495
+Tamarix_ramosissima	MT114373.1	30-MAR-2020	693	Azerbaijan	secondary	matK	40.3936294	47.7872508	0.00439886219008761

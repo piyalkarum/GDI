@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_saginoides	MT534514.1	06-DEC-2021	811	USA	primary	rbcL	43.55	-122.39	0.42530704288574
+Sagina_saginoides	MG247673.1	21-JAN-2018	552	Canada: Yukon Territory, VALLEY NE OF ANNIV MTN-WATER SURVEY SITE, WP 62, NWT	primary	rbcL	62.612	-129.344	0.174130447253945
+Sagina_saginoides	MG246270.1	21-JAN-2018	552	Canada: Yukon Territory, Asi Keyi SMA, Brooke Creek, plateau west of, creek flowing in from the west	primary	rbcL	61.56	-140.818	0.175825862262468
+Sagina_saginoides	JX572943.1	04-SEP-2013	552	South Africa: Western Cape, Robben Island	primary	rbcL	-33.809	18.361	0.192177408273829
+Sagina_saginoides	MT931003.1	03-MAR-2023	569	China	secondary	rbcL	34.5720560263924	105.133318482213	0.182545305815875
+Sagina_saginoides	MT534515.1	06-DEC-2021	811	Norway	secondary	rbcL	64.5731537	11.5280364	0.423769222766412
+Sagina_saginoides	MT534513.1	06-DEC-2021	811	USA	secondary	rbcL	40.1126681536964	-99.7455346466281	0.42577896360306
+Sagina_saginoides	MT534512.1	06-DEC-2021	812	USA	secondary	rbcL	39.6749092570138	-100.588703159736	0.424371924579149
+Sagina_saginoides	MN204812.1	30-NOV-2021	724	China	secondary	rbcL	35.5701443254446	104.682637379395	0.172048808251385
+Sagina_saginoides	MK925068.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0.177202334653827
+Sagina_saginoides	MK924892.1	14-JAN-2020	542	Sweden	secondary	rbcL	59.6749712	14.5208584	0.176633584399563
+Sagina_saginoides	MK924783.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8141395247603	-3.38758555347031	0.177202334653827
+Sagina_saginoides	MK924641.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1720775547195	-4.34383035620517	0.176633584399563
+Sagina_saginoides	JQ933467.1	30-SEP-2012	1382	Nepal: Phakding	secondary	rbcL	27.740133	86.712692	0.162999936351434

@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arenaria_serpyllifolia	MG248029.1	21-JAN-2018	552	Canada: British Columbia, Clearwater, Raft River	primary	rbcL	51.637	-119.972	0.000483091787439614
+Arenaria_serpyllifolia	MG247705.1	21-JAN-2018	531	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Staff House, Cypress Lake, Bruce Peninsula National Park	primary	rbcL	44.9454	-81.2769	0.000376647834274953
+Arenaria_serpyllifolia	MG246542.1	21-JAN-2018	553	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, End of Group Camping Area	primary	rbcL	42.2833	-81.8667	0.000482218203737191
+Arenaria_serpyllifolia	MG246099.1	21-JAN-2018	545	Canada: Ontario, Wellington County, City of Guelph, South-East of Summerfield Road along Victoria Road South	primary	rbcL	43.52	-80.179	0.000489296636085627
+Arenaria_serpyllifolia	HQ589962.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Gravelly mound E of racetrack	primary	rbcL	44.033	-79.538	0.00102962929981052
+Arenaria_serpyllifolia	JN892413.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.57	-3.97	0.0004920049200492
+Arenaria_serpyllifolia	OQ172536.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.3585352224178	127.191985909601	0.000590310244346488
+Arenaria_serpyllifolia	OQ172535.1	18-JUN-2023	689	South Korea	secondary	rbcL	35.9760697918361	127.318075970637	0.000590310244346488
+Arenaria_serpyllifolia	OQ172534.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.1777979819994	127.605071269121	0.000590310244346488
+Arenaria_serpyllifolia	MT930974.1	03-MAR-2023	572	China	secondary	rbcL	35.7638407544604	104.470167595458	0.00738686869987858
+Arenaria_serpyllifolia	MN192579.1	30-NOV-2021	644	China	secondary	rbcL	35.8262975819112	105.185788079929	0.000699800265340934
+Arenaria_serpyllifolia	MN192578.1	30-NOV-2021	644	China	secondary	rbcL	34.5403297979395	105.265263550997	0.000699800265340934
+Arenaria_serpyllifolia	KJ204300.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000485731633272617
+Arenaria_serpyllifolia	JN893252.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.0004920049200492
+Arenaria_serpyllifolia	JN892223.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.0004920049200492
+Arenaria_serpyllifolia	JN892222.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.0004920049200492

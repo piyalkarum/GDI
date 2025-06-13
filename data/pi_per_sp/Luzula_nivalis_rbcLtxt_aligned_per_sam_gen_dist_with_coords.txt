@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Luzula_nivalis	KT960642.1	13-DEC-2015	537	Greenland: NE, Zackenberg	primary	rbcL	73.9182723444016	-22.58604112203	0.000947405353670813
+Luzula_nivalis	KT960487.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.9674442988775	-19.4816479195954	0.000932947299377928
+Luzula_nivalis	KT960436.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1955665508395	-19.5605980040995	0.000932947299377928
+Luzula_nivalis	KC483132.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, West coast	primary	rbcL	76.764	-120.459	0.000932947299377928
+Luzula_nivalis	KC483131.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	rbcL	70.738	-117.762	0.00103881120094382
+Luzula_nivalis	KC483130.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island, Sabine Peninsula, Nias Point, south shore of Sabine Bay	primary	rbcL	75.2680909166596	-110.546145155416	0.000932947299377928
+Luzula_nivalis	KC483129.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk	primary	rbcL	69.4944	-124.117	0.00103881120094382
+Luzula_nivalis	KC483128.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, West coast	primary	rbcL	76.46	-119.58	0.000932947299377928
+Luzula_nivalis	KC483127.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Flat topped steep sided hill, 11 km northeast of Johansen Bay airstrip	primary	rbcL	68.683	-111.031	0.00103881120094382
+Luzula_nivalis	KC483126.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Nias Point, south shore of Sabine Bay	primary	rbcL	75.1898327271148	-111.857933688909	0.00103881120094382
+Luzula_nivalis	KC483125.1	25-OCT-2013	508	Canada: Northwest Territories, Victoria Island, Minto Inlet, Small unnamed lake in lee of plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	70.728760767368	-115.772776267923	0.00112485939257593
+Luzula_nivalis	KC483124.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, west coast	primary	rbcL	76.76	-120.46	0.000932947299377928
+Luzula_nivalis	KC483123.1	25-OCT-2013	524	Canada: Northwest Territories, Victoria Island, Minto Inlet, Sandy bank of Kuujjua River south Fish lake, 17 km SE of Minto Inlet	primary	rbcL	70.6742733088691	-117.106379992055	0.00109051254089422
+Luzula_nivalis	KC483122.1	25-OCT-2013	516	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.663	-115.58	0.00110741971207087
+Luzula_nivalis	KC483121.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Central Plateau	primary	rbcL	76.75	-119.5	0.000932947299377928

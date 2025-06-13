@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Luzula_spicata	MZ359321.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.0242907182814422
+Luzula_spicata	MK749357.1	08-FEB-2020	646	USA: Idaho, Pioneer Mountians, Hyndman Peak	primary	rbcL	43.74938	-114.1312	0.222230622481674
+Luzula_spicata	KJ841391.1	04-NOV-2014	378	Canada: Newfoundland and Labrador, Labrador, Mont Irony, S-w slope near summit, on Davies' 'E5' transect	primary	rbcL	54.902	-67.1649	0.0364491475602587
+Luzula_spicata	KC483136.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Kimmirut, Hameau	primary	rbcL	62.85	-69.867	0.024465270372607
+Luzula_spicata	KC483135.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.852	-67.341	0.024465270372607
+Luzula_spicata	KC483134.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Newell Sd. on the south coast	primary	rbcL	63.1	-67.883	0.024465270372607
+Luzula_spicata	MK924974.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.5647197638258	-18.4019309181936	0.0247342815631992
+Luzula_spicata	MK924854.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.26025102038	-3.49451934167422	0.0247342815631992
+Luzula_spicata	MK924673.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8804676242564	-3.55492759671079	0.0247342815631992
+Luzula_spicata	MK924516.1	14-JAN-2020	542	Iceland	secondary	rbcL	65.2374819218948	-18.143504449752	0.0247342815631992

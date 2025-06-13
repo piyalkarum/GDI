@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_articulata	KP897033.1	13-OCT-2015	686	Turkey	secondary	matK	38.9597594	34.9249653	0.00388726919339164
+Vicia_articulata	KP897032.1	13-OCT-2015	686	Russia	secondary	matK	64.6863136	97.7453061	0.00388726919339164
+Vicia_articulata	KP897031.1	13-OCT-2015	686	Spain	secondary	matK	39.3260685	-4.8379791	0.00583090379008746
+Vicia_articulata	KP897030.1	13-OCT-2015	686	Belgium	secondary	matK	50.6402809	4.6667145	0.00583090379008746

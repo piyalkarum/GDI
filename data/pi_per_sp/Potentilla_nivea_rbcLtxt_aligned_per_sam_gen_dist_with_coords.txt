@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_nivea	MG247387.1	21-JAN-2018	552	Canada: Yukon Territory, Richardson Mountains, tributary of Fish Creek, S of Vunta Creek	primary	rbcL	67.896	-136.559	0.000164690382081686
+Potentilla_nivea	MG246722.1	21-JAN-2018	552	Canada: Yukon Territory, Kotaneelee Range Yukon/NWT border	primary	rbcL	60.219	-124.11	0.00181159420289855
+Potentilla_nivea	MG246550.1	21-JAN-2018	552	USA: Alaska, North Slope Borough, Gates of the Arctic National Park, Castle Mountain	primary	rbcL	68.564	-152.621	0.000164690382081686
+Potentilla_nivea	KC483644.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Rocky hills south of large unnamed lake ca. 18 km ENE of Johansen Bay airstrip	primary	rbcL	68.753	-110.708	0.000164690382081686
+Potentilla_nivea	KC483643.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Low rocky hills at coast	primary	rbcL	68.606	-113.144	0.000164690382081686
+Potentilla_nivea	KC483642.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Nettilling Lake	primary	rbcL	65.983	-71.3	0.000164690382081686
+Potentilla_nivea	KC483641.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	rbcL	63.867	-92.133	0.000164690382081686
+Potentilla_nivea	JN965772.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	rbcL	58.78	-94.195	0.000164690382081686
+Potentilla_nivea	JN965771.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	rbcL	58.789	-94.227	0.000164690382081686
+Potentilla_nivea	JN965770.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	rbcL	58.734	-94.112	0.000164690382081686
+Potentilla_nivea	JN965769.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Dry gravel ridge	primary	rbcL	58.75	-94.11	0.000164690382081686
+Potentilla_nivea	LC759972.1	12-SEP-2023	553	Japan:Yamanashi, Minami-alps	secondary	rbcL	35.6083617	138.4649893	0.000164690382081686

@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sisymbrium_loeselii	MG249150.1	21-JAN-2018	552	Canada: British Columbia, Osoyoos	primary	rbcL	49.184	-119.535	0
+Sisymbrium_loeselii	MG248252.1	21-JAN-2018	552	Canada: Saskatchewan, Saskatoon, Kiwanis Park, South Saskatchewan River	primary	rbcL	52.124	-106.659	0
+Sisymbrium_loeselii	KX679181.1	29-APR-2017	552	Canada: British Columbia, Central Okanagan Regional District, Kelowna, Quail Ridge Blvd. at sharp bend in the road	primary	rbcL	49.962	-119.388	0
+Sisymbrium_loeselii	KX678877.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Red Creek Forest Service Road	primary	rbcL	49.564	-120.41	0
+Sisymbrium_loeselii	MT930922.1	03-MAR-2023	569	China	secondary	rbcL	35.4954607897491	104.59073686233	0
+Sisymbrium_loeselii	MT930921.1	03-MAR-2023	578	China	secondary	rbcL	34.6170291542331	105.308481019776	0.000185873605947955
+Sisymbrium_loeselii	MT930920.1	03-MAR-2023	565	China	secondary	rbcL	35.3085990089102	104.975478764053	0
+Sisymbrium_loeselii	MT930919.1	03-MAR-2023	565	China	secondary	rbcL	35.470446527175	105.093697843156	0
+Sisymbrium_loeselii	MT930918.1	03-MAR-2023	566	China	secondary	rbcL	34.4224470550149	105.553214791956	0
+Sisymbrium_loeselii	MT930917.1	03-MAR-2023	569	China	secondary	rbcL	34.8784453606882	105.743727008426	0
+Sisymbrium_loeselii	KJ746308.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.000185873605947955

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saussurea_alpina	MZ400444.1	07-DEC-2021	852	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00301995705165309
+Saussurea_alpina	MK925743.1	14-JAN-2020	975	United Kingdom	secondary	matK	54.431472824901	-2.22220768611494	0.00158385430760727
+Saussurea_alpina	MK925708.1	14-JAN-2020	863	United Kingdom	secondary	matK	54.8548950811426	-2.5103543365882	0.00165934345208562
+Saussurea_alpina	KC590037.1	22-MAY-2013	948	Italy	secondary	matK	42.6384261	12.674297	0.00222851945144137

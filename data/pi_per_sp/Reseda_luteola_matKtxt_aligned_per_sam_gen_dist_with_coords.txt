@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Reseda_luteola	JN894693.1	07-MAR-2012	513	United Kingdom: Glamorgan	primary	matK	51.52	-3.25	0.000649772579597141
+Reseda_luteola	HM850757.1	23-JUL-2011	795	Portugal	secondary	matK	39.6621648	-8.1353519	0.00133155792276964
+Reseda_luteola	JN895873.1	07-MAR-2012	762	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000974658869395711
+Reseda_luteola	JN895872.1	07-MAR-2012	751	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00295598937176249

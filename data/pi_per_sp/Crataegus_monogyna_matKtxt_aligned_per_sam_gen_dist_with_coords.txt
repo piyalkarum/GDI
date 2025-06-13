@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crataegus_monogyna	KC251101.1	03-DEC-2013	440	USA: Oregon, Linn Co., Cogswell-Foster Reserve	primary	matK	43.3057732937923	-121.81213105091	0
+Crataegus_monogyna	KC251100.1	03-DEC-2013	601	USA: Oregon, Linn Co., Cogswell-Foster Reserve	primary	matK	44.40348882745	-122.836899154997	9.24385283786282e-05
+Crataegus_monogyna	KC251099.1	03-DEC-2013	662	USA: Oregon, Columbia Co., Sauvie Island, Willow Bar Islands beach, just N of Columbia-Multnomah county line, on bank of Columbia River	primary	matK	45.7308	-122.767	8.39207787848271e-05
+Crataegus_monogyna	KC251098.1	03-DEC-2013	782	Canada: British Columbia, Central Kootenay RD, Robson, Broadwater Road, Broadwater Road S side (Robson)	primary	matK	49.3347	-117.701	7.10429099175902e-05
+Crataegus_monogyna	KC251097.1	03-DEC-2013	783	Canada: Ontario, Durham RM, Bowmanville island of land between two forks of Bowmanville Creek	primary	matK	43.6692997087077	-79.4799208004259	7.09521782318717e-05
+Crataegus_monogyna	KC251096.1	03-DEC-2013	764	USA: California, Sonoma, Ragle Ranch, W of Sebastopol, 40 m NW of NW corner of parking lot	primary	matK	38.4037	-122.848	7.2716695753345e-05
+Crataegus_monogyna	KC251095.1	03-DEC-2013	748	Canada: Ontario, Middlesex Co., Denfield Side Road, E side of road, approx. 0.25 mi. S of Middlesex Hwy 16	primary	matK	43.0726	-81.4019	7.42721330956625e-05
+Crataegus_monogyna	KC251094.1	03-DEC-2013	569	Canada: Ontario, Durham RM, Bowmanville island of land between two forks of Bowmanville Creek	primary	matK	43.3560898575264	-77.9427581992026	9.76371802382347e-05
+Crataegus_monogyna	KC251093.1	03-DEC-2013	783	USA: California, Humboldt, Hwy 36, 6.8 air km W of Bridgeville	primary	matK	40.4728	-123.879	7.09521782318717e-05
+Crataegus_monogyna	KC251092.1	03-DEC-2013	607	USA: Oregon, Lane Co., West Eugene, 3600 Village Avenue, apx. 1 block N of Churchill High School, apx. 1 block W of Bailey Hill Road	primary	matK	44.0424	-123.149	9.15248032216731e-05
+Crataegus_monogyna	KC251091.1	03-DEC-2013	765	Canada: Ontario, Durham RM, Bowmanville	primary	matK	43.9016	-78.6846	7.26216412490922e-05
+Crataegus_monogyna	JN895999.1	07-MAR-2012	832	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.000346298312100199
+Crataegus_monogyna	MT114396.1	30-MAR-2020	591	Spain	secondary	matK	39.3260685	-4.8379791	9.40026320736981e-05
+Crataegus_monogyna	HQ619832.1	26-DEC-2010	843	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.00160903076688184
+Crataegus_monogyna	KJ746124.1	29-JUL-2014	705	Poland	secondary	matK	52.215933	19.134422	7.88022064617809e-05
+Crataegus_monogyna	KJ204463.1	29-JAN-2015	795	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.000628930817610063
+Crataegus_monogyna	HE966908.1	18-SEP-2012	754	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	7.86905886056028e-05
+Crataegus_monogyna	JN893932.1	07-MAR-2012	825	United Kingdom: Breconshire	secondary	matK	52.9877138	-1.1775355	7.15922107674685e-05
+Crataegus_monogyna	JN893928.1	07-MAR-2012	817	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	7.16845878136201e-05

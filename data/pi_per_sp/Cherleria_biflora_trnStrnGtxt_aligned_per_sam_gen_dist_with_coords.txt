@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cherleria_biflora	AM085646.1	07-JAN-2006	785	Russia:Altai, Zhumaly	secondary	trnS-trnG	49.7995174	86.5788193	0.000424628450106157
+Cherleria_biflora	AM085645.1	07-JAN-2006	779	Russia:Taymyr, Ary-Mas	secondary	trnS-trnG	74.0779606801195	100.592835125541	0.000427899015832264
+Cherleria_biflora	AM085644.1	07-JAN-2006	785	Russia:Taymyr, Khatanga	secondary	trnS-trnG	74.2465085320163	101.306212133159	0.000424628450106157
+Cherleria_biflora	AM085643.1	07-JAN-2006	785	Norway:Roros	secondary	trnS-trnG	62.5695151	11.6604365	0.00127715591604458

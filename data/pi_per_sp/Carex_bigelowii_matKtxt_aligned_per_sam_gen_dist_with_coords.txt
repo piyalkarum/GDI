@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_bigelowii	MZ400459.1	07-DEC-2021	860	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00088930716089228
+Carex_bigelowii	FJ548083.1	25-AUG-2009	729	Canada: Northwest Territories, SW Banks Is, Mosik River Valley	primary	matK	71.7207824140748	-121.541743698293	0.00077395243602505
+Carex_bigelowii	FJ548082.1	25-AUG-2009	729	Canada: Northwest Territories, Banks Island, Mesik River	primary	matK	72.065120962833	-123.101581107824	0.00077395243602505
+Carex_bigelowii	FJ548081.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island, Kimmiru, Hameau	primary	matK	62.85	-69.87	0.00077395243602505
+Carex_bigelowii	FJ548080.1	25-AUG-2009	729	Canada: Nunavut, E of Baffin Island, Brevoort Island	primary	matK	63.34	-64.15	0.00077395243602505
+Carex_bigelowii	FJ548079.1	25-AUG-2009	726	Canada: Nunavut, Baffin Island, Baffinland Iron Mines, Mary River Project (Outcrop Limited). Steensby Inlet port site, small stream cascading down slope	primary	matK	70.3	-78.49	0.00077194731086198
+Carex_bigelowii	FJ548078.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbor, NE-facing shady slope above E arm of lake, 30-80 m	primary	matK	61.82	-65.7	0.00077395243602505
+Carex_bigelowii	FJ548077.1	25-AUG-2009	732	USA: New Hampshire, Coos County, White Mountain National Forest, 2.1 mi below summit of Mt. Washington along auto road	primary	matK	44.28	-71.28	0.00077184759244684
+Carex_bigelowii	KC474308.1	25-OCT-2013	776	Canada: Nunavut, Canadian Arctic Archipelago, Baffin Island, Baffinland Iron Mines, Mary River project	primary	matK	70.26	-78.22	0.000766908140084446
+Carex_bigelowii	KC474307.1	25-OCT-2013	774	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. The Hill 2 km southwest of Sanikiluaq airport	primary	matK	56.558	-79.325	0.000768673793534151
+Carex_bigelowii	KC474306.1	25-OCT-2013	734	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park, Buckland Hills, NW part	primary	matK	69.417	-139.633	0.00740117404381072
+Carex_bigelowii	KC474305.1	25-OCT-2013	739	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	matK	70.738	-117.762	0.000781821919181845
+Carex_bigelowii	KC474304.1	25-OCT-2013	775	Canada: Nunavut, Victoria Island (Nunavut), SURREY LAKE. Delta at northernmost tip of lake. Site 79	primary	matK	69.8	-107.167	0.000766908140084446
+Carex_bigelowii	KC474303.1	25-OCT-2013	775	Canada: Northwest Territories, Victoria Island, Minto Inlet, Head of Minto Inlet, end of eastern most inlet (N arm), coastal saline flat	primary	matK	71.535	-115.184	0.000766908140084446
+Carex_bigelowii	MN763487.1	28-JUL-2020	597	Canada: Quebec	secondary	matK	52.4760892	-71.8258668	0.0016750418760469
+Carex_bigelowii	MN763486.1	28-JUL-2020	597	Canada: Manitoba	secondary	matK	55.001251	-97.001038	0.0016750418760469
+Carex_bigelowii	MN763485.1	28-JUL-2020	597	USA: Alaska	secondary	matK	64.4459613	-149.680909	0.0016750418760469
+Carex_bigelowii	KU496568.1	31-JAN-2017	813	Canada: Quebec, 40 km N of Schefferville	secondary	matK	46.8137431	-71.2084061	0.000766908140084446
+Carex_bigelowii	LK021890.1	24-SEP-2015	2546	Canada:Nunavut, Victoria Island	secondary	matK	69.1134592	-102.4961246	0.00088930716089228
+Carex_bigelowii	JN895168.1	07-MAR-2012	729	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00197800558372582

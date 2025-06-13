@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elatine_gussonei	KX818142.1	01-DEC-2016	1484	Malta: Gozo, Ta Sannat	primary	psbM-trnD	36.01	14.25	0.0184031199576661
+Elatine_gussonei	KX818141.1	01-DEC-2016	1484	Italy: Lampedusa	primary	psbM-trnD	35.51	12.56	0.0178917562684636
+Elatine_gussonei	KX818137.1	01-DEC-2016	1501	Morocco: Ben Slimane	primary	psbM-trnD	33.61	-7.1	0.011758691206544
+Elatine_gussonei	KX818136.1	01-DEC-2016	1501	Italy: Sicily, Modica	primary	psbM-trnD	36.76	14.77	0.011758691206544
+Elatine_gussonei	KX818135.1	01-DEC-2016	1500	Spain: Casar de Caceres	primary	psbM-trnD	39.33	-6.25	0.0117667121418827

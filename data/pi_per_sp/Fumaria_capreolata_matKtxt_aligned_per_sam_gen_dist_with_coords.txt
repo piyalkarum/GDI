@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fumaria_capreolata	JN894064.1	07-MAR-2012	822	United Kingdom: Carmarthenshire	primary	matK	51.69	-4.23	0.000930232558139535
+Fumaria_capreolata	OQ390577.1	24-MAY-2023	784	Peru	secondary	matK	-6.48220435230626	-74.2563028608748	0.000930232558139535
+Fumaria_capreolata	OQ390576.1	24-MAY-2023	796	Peru	secondary	matK	-6.3596907568787	-75.4626118714872	0.000930232558139535
+Fumaria_capreolata	LN610945.1	20-MAY-2015	1519	Spain	secondary	matK	39.3260685	-4.8379791	0.000930232558139535
+Fumaria_capreolata	HM851022.1	23-JUL-2011	645	Portugal	secondary	matK	39.6621648	-8.1353519	0.00465116279069767
+Fumaria_capreolata	JN894937.1	07-MAR-2012	788	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000930232558139535

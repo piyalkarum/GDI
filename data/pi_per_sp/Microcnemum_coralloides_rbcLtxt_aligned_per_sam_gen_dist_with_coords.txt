@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Microcnemum_coralloides	KU975295.1	09-MAR-2017	709	Spain: Madrid, Chinchon-Villaconejos	secondary	rbcL	40.1101017	-3.5186182	0.0540985762272716
+Microcnemum_coralloides	EU484429.1	28-FEB-2009	662	Iran: Arak, N of Kavir-e Migham, near Deh-Namak, near the margin of Arak Salt Lake	secondary	rbcL	34.0862719	49.6893884	0.0557669451683375
+Microcnemum_coralloides	EU484426.1	28-FEB-2009	666	Turkey: Eskisehir, Gunyuzu, Kavuncu Koyu Cora, 707 m	secondary	rbcL	39.7743941	30.519116	0.0546924576969176
+Microcnemum_coralloides	EU484425.1	28-FEB-2009	662	Turkey: Aksaray, Eskil	secondary	rbcL	38.4017027	33.412823	0.0543953909757288
+Microcnemum_coralloides	EU484424.1	28-FEB-2009	666	Turkey: Kayseri, Buyuktuzhisar, Tuzla Lake, 1124 m	secondary	rbcL	38.7219011	35.4873214	0.0558956991911434
+Microcnemum_coralloides	EU484423.1	28-FEB-2009	697	Spain: Zaragoza, Velado de Penaflor	secondary	rbcL	41.2537488582562	-1.30422491455917	0.0543060377598142
+Microcnemum_coralloides	EU484422.1	28-FEB-2009	697	Spain: Mota del Cuervo, Laguna de Manjavacas	secondary	rbcL	39.4154387	-2.8659241	0.0543060377598142
+Microcnemum_coralloides	EU484421.1	28-FEB-2009	697	Spain: Azaila, Laguna de la Salada	secondary	rbcL	41.2912333	-0.4942811	0.0543060377598142
+Microcnemum_coralloides	EU484420.1	28-FEB-2009	697	Spain: Zaragoza,Huesca, Penalba, Amarga Baja, 356 m	secondary	rbcL	41.0390456345507	-1.62578373491835	0.0543060377598142
+Microcnemum_coralloides	DQ340106.1	20-JAN-2007	778	Spain: Aragon, Laguna de Guallar	secondary	rbcL	42.55494	-0.7870838	0.0536306836521655
+Microcnemum_coralloides	AY489263.1	30-NOV-2004	1343	Spain	secondary	rbcL	40.8440751	-1.888874	0.525816033331671

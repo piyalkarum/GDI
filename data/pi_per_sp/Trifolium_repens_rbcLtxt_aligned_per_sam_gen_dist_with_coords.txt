@@ -1,0 +1,41 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_repens	OR640479.1	05-NOV-2023	510	Kazakhstan: Qaragandy region	primary	rbcL	49.43775	75.48958	0.0228383518208712
+Trifolium_repens	MG249401.1	21-JAN-2018	553	Canada: Quebec, Montreal, Ile Bizard, Parc-nature du Bois-de-l'Ile-Bizard, pres d'un marais	primary	rbcL	45.513	-73.888	0.00183745606228978
+Trifolium_repens	MG248934.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.852	-80.499	0.0129428509946928
+Trifolium_repens	MG248271.1	21-JAN-2018	552	Canada: 143 Waterloo Avenue	primary	rbcL	43.5375	-80.2542	0.0162688375353453
+Trifolium_repens	MG247099.1	21-JAN-2018	552	Canada: Yukon Territory, Hootalinqua	primary	rbcL	61.583	-134.9	0.00183806150439625
+Trifolium_repens	KX678638.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Garibaldi Park, Cheakamus Lake Rd.	primary	rbcL	50.059	-123.03	0.00183806150439625
+Trifolium_repens	KX677902.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Mt. Baldy Ski Area	primary	rbcL	49.153	-119.236	0.00183806150439625
+Trifolium_repens	KX677881.1	29-APR-2017	552	Canada: British Columbia, Central Kootenay Regional District, 20 kilometers west of Castlegar and 1 kilometer east of Lower Arrow Lake, Tulip Creek, on old logging road	primary	rbcL	49.4	-117.983	0.00183806150439625
+Trifolium_repens	KP402723.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, hill towards tower	primary	rbcL	38.889	-76.556	0.00183745606228978
+Trifolium_repens	KT695510.1	29-SEP-2015	554	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00183661718814657
+Trifolium_repens	KJ593731.1	17-MAR-2015	539	USA: Wisconsin, Doty	primary	rbcL	45.156	-88.558	0.00180977197760355
+Trifolium_repens	KJ841634.1	04-NOV-2014	527	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	rbcL	45.538	-73.158	0.00423149937978254
+Trifolium_repens	HQ644078.1	01-NOV-2011	607	USA: Georgia, Muscogee County, Columbus, Columbus State University	primary	rbcL	32.4996	-84.9367	0.00183494899081719
+Trifolium_repens	JN891881.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.675851493547	-3.34323437314307	0.00186104946305036
+Trifolium_repens	JN891336.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	52.385135085324	-4.98627547729056	0.00186104946305036
+Trifolium_repens	OQ391956.1	10-MAY-2023	528	Peru	secondary	rbcL	-7.41049402961718	-74.94649286096	0.00671520691456747
+Trifolium_repens	OQ391874.1	10-MAY-2023	525	Peru	secondary	rbcL	-6.65451074974248	-74.2748899156899	0.00674766830870363
+Trifolium_repens	OQ391612.1	10-MAY-2023	528	Peru	secondary	rbcL	-6.52547022860325	-74.8216285897771	0.00671520691456747
+Trifolium_repens	MT931484.1	03-MAR-2023	565	China	secondary	rbcL	35.3105263992247	105.726335020236	0.00188094622387801
+Trifolium_repens	MT931483.1	03-MAR-2023	569	China	secondary	rbcL	34.5019420301068	105.477429346803	0.0018795118864956
+Trifolium_repens	OP710883.1	26-DEC-2022	202	Mexico: Puebla	secondary	rbcL	18.8451808270736	-98.903112270189	NA
+Trifolium_repens	OP710592.1	26-DEC-2022	556	Mexico: Puebla	secondary	rbcL	19.5607653492857	-97.7423279759683	0.00181013761692892
+Trifolium_repens	OP710469.1	26-DEC-2022	593	Mexico: Puebla	secondary	rbcL	19.9300991583013	-98.4802482841318	0.00192000256744411
+Trifolium_repens	MN192643.1	30-NOV-2021	723	China	secondary	rbcL	35.4507392055594	105.93637481672	0.00252153350060821
+Trifolium_repens	MN192642.1	30-NOV-2021	723	China	secondary	rbcL	35.3891137070003	105.896211049472	0.00252153350060821
+Trifolium_repens	MT921037.1	12-DEC-2020	660	China	secondary	rbcL	34.3811402997212	105.235596240502	0.00182606891118718
+Trifolium_repens	MN726228.1	24-JUL-2020	737	South Korea	secondary	rbcL	37.0511581893677	127.561797107653	NA
+Trifolium_repens	MN726227.1	24-JUL-2020	737	South Korea	secondary	rbcL	37.322961764397	127.941114818776	NA
+Trifolium_repens	MN726226.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.8911504857215	128.716748203031	NA
+Trifolium_repens	MN726225.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.908207752641	128.658099332988	NA
+Trifolium_repens	MN726224.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.1576469344229	127.878534174078	NA
+Trifolium_repens	MN726223.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.2438502540943	127.406411504754	NA
+Trifolium_repens	MN726222.1	24-JUL-2020	737	South Korea	secondary	rbcL	35.7968636915562	128.025377072804	NA
+Trifolium_repens	MN601482.1	15-DEC-2019	1428	USA	secondary	rbcL	39.7837304	-100.445882	0.00225739858178668
+Trifolium_repens	MG247545.1	21-JAN-2018	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	secondary	rbcL	43.72634945	-77.7101179040839	0.00183745606228978
+Trifolium_repens	KJ204418.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00179572462495792
+Trifolium_repens	HM850420.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00257924451944723
+Trifolium_repens	JN892961.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00186104946305036
+Trifolium_repens	JN892960.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0040980792183053
+Trifolium_repens	JN891763.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00186104946305036

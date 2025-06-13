@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_distachya	MZ892018.1	12-DEC-2021	542	Turkey: Manisa, Borlu	secondary	matK	38.7519292	28.4686621	0.00134436793652728
+Carex_distachya	MZ892017.1	12-DEC-2021	532	Tunisia	secondary	matK	36.8002068	10.1857757	0.00467895477702604
+Carex_distachya	MZ892016.1	12-DEC-2021	460	Spain: Toledo	secondary	matK	39.8560679	-4.0239568	0.00093167701863354
+Carex_distachya	MZ892015.1	12-DEC-2021	562	Spain: Barcelona	secondary	matK	41.3828939	2.1774322	0.00133220214938928
+Carex_distachya	MZ892014.1	12-DEC-2021	543	Morocco: Tanger-Tetuan	secondary	matK	35.202941	-5.5510167	0.00134337898411468
+Carex_distachya	MZ892013.1	12-DEC-2021	546	France: Languedoc-Rosellon	secondary	matK	43.654203	3.6746699	0.00134043406297476
+Carex_distachya	MZ944880.1	12-DEC-2021	559	Greece: Creta, Kissamos-Koutsomatadas	secondary	matK	35.3084952	24.463342318423	0.00278656787399365
+Carex_distachya	MN763811.1	28-JUL-2020	541	Spain	secondary	matK	39.3260685	-4.8379791	0.00375748434374013

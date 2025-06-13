@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pancratium_maritimum	FN594905.1	26-AUG-2010	818	Israel	secondary	rps16	30.8124247	34.8594762	0
+Pancratium_maritimum	FN594902.1	26-AUG-2010	817	Italy:Pelagie Islands, Lampedusa	secondary	rps16	35.51113415	12.5962913596296	0
+Pancratium_maritimum	FN594901.1	26-AUG-2010	817	Italy:Ischitella	secondary	rps16	41.904344	15.899453	0
+Pancratium_maritimum	FN594900.1	26-AUG-2010	817	Italy:Gallipoli	secondary	rps16	40.05672	17.996423	0
+Pancratium_maritimum	FN594899.1	26-AUG-2010	818	Italy:Sicily, Catania, Foce Simeto	secondary	rps16	37.4001607	15.0778379	0
+Pancratium_maritimum	FN594898.1	26-AUG-2010	818	Greece:Crete, Elafonissi	secondary	rps16	35.2693909	23.5314766	0
+Pancratium_maritimum	FN594903.1	26-AUG-2010	818	Italy	secondary	rps16	35.55184715	12.3213882503846	0

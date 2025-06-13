@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_bertolae	MK556067.1	22-SEP-2019	346	Italy	secondary	rbcL	42.4644915656538	13.5948525883697	0.580403878688976
+Campanula_bertolae	MK555985.1	22-SEP-2019	337	Italy	secondary	rbcL	42.4911727574219	13.788879304499	0.584095640332599
+Campanula_bertolae	MK555528.1	22-SEP-2019	357	Italy	secondary	rbcL	41.8407704036179	12.8193981024045	0.615857175437497
+Campanula_bertolae	MK555339.1	22-SEP-2019	382	Italy	secondary	rbcL	42.3022051196461	12.4630634614822	0.614052396494131

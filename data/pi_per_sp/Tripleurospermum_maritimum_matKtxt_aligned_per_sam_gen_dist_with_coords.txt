@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tripleurospermum_maritimum	KC476074.1	25-OCT-2013	779	Canada: Northwest Territories, Banks Island, Sachs Harbour	primary	matK	71.983	-125.333	0.000137532664007702
+Tripleurospermum_maritimum	KC476073.1	25-OCT-2013	783	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	matK	71.313	-116.916	0.000137532664007702
+Tripleurospermum_maritimum	KC476072.1	25-OCT-2013	775	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	matK	70.735	-117.761	0.000137532664007702
+Tripleurospermum_maritimum	KC476071.1	25-OCT-2013	783	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. South shore of island, South Camp	primary	matK	55.989	-79.733	0.000137532664007702
+Tripleurospermum_maritimum	KC476070.1	25-OCT-2013	783	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	matK	68.628	-112.714	0.000137532664007702
+Tripleurospermum_maritimum	KC476069.1	25-OCT-2013	783	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	matK	70.79	-117.76	0.000137532664007702
+Tripleurospermum_maritimum	KC476068.1	25-OCT-2013	783	Canada: Nunavut, West Hudson Bay, Rankin Inlet	primary	matK	62.8	-92.0833	0.000137532664007702
+Tripleurospermum_maritimum	KC476067.1	25-OCT-2013	779	Canada: Nunavut	primary	matK	63.75	-68.517	0.000137532664007702
+Tripleurospermum_maritimum	KC476066.1	25-OCT-2013	779	Canada: Nunavut, Southampton Island, Coral Harbour, Adjacent to the Inns North building	primary	matK	64.137	-83.165	0.000137532664007702
+Tripleurospermum_maritimum	JN966723.1	27-OCT-2012	787	Canada: Manitoba, Churchill, 12 km S Churchill, Goose Creek Marina, Road side	primary	matK	58.663	-94.167	0.000136705399863295
+Tripleurospermum_maritimum	JN966722.1	27-OCT-2012	787	Canada: Manitoba, Churchill, Town of Churchill, near Kelsey and Munk Streets, disturbed area behind Northern Store	primary	matK	58.77	-94.172	0.000136705399863295
+Tripleurospermum_maritimum	JN895342.1	07-MAR-2012	800	United Kingdom: Glamorgan	primary	matK	51.45	-3.17	0.00151120477579591

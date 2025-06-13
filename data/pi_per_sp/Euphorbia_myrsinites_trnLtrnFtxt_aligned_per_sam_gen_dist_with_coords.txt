@@ -1,0 +1,41 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_myrsinites	MK959674.1	14-MAR-2020	1428	Greece: Makedonia, E of the village Stathmos Aggistis	secondary	trnL-trnF	41.4530210746983	23.4230756423318	0.000718928516983483
+Euphorbia_myrsinites	MK959672.1	14-MAR-2020	1426	Italy: Puglia, 2.5 km NW of the village Rignano Garganico	secondary	trnL-trnF	43.5028121	11.8816631	0.000179823457301866
+Euphorbia_myrsinites	MK959671.1	14-MAR-2020	1426	Italy: Umbria, E of the village Patrico SE of Spoleto	secondary	trnL-trnF	42.8334672	12.5777111	0.000179823457301866
+Euphorbia_myrsinites	MK959670.1	14-MAR-2020	1426	Italy: Abruzzo, 1.4 km SE of the village Poggio Picenze	secondary	trnL-trnF	44.6820018	10.6756847844877	0.000179823457301866
+Euphorbia_myrsinites	MK959669.1	14-MAR-2020	1426	Greece: Peloponnese, NW of the village Peristera	secondary	trnL-trnF	37.6252044826555	23.2238595098775	0.000179823457301866
+Euphorbia_myrsinites	MK959667.1	14-MAR-2020	1426	Greece: Thessalia, Mt. Tymfristos	secondary	trnL-trnF	39.5594194	21.6848495	0.000179823457301866
+Euphorbia_myrsinites	MK959666.1	14-MAR-2020	1444	Greece: Corfu, Mount Pantokrator	secondary	trnL-trnF	39.591337	19.8596189187339	0.000179823457301866
+Euphorbia_myrsinites	MK959665.1	14-MAR-2020	1428	Turkey: Tekirdag, roadside near Ucmakdere	secondary	trnL-trnF	40.9781214	27.5107799	0.0001795715860599
+Euphorbia_myrsinites	MK959664.1	14-MAR-2020	1428	Turkey: Balikesir, NE of Edremit	secondary	trnL-trnF	39.6473917	27.8879787	0.0001795715860599
+Euphorbia_myrsinites	MK959663.1	14-MAR-2020	1428	Turkey: Cankiri, roadside of D765 ca 10 km NNE Ilgaz	secondary	trnL-trnF	40.5971947	33.6212704	0.0001795715860599
+Euphorbia_myrsinites	MK959662.1	14-MAR-2020	1428	Turkey: Kastamonu, roadside E of Kuere	secondary	trnL-trnF	41.3765359	33.7770087	0.000718928516983483
+Euphorbia_myrsinites	MK959661.1	14-MAR-2020	1428	Turkey: Bolu, roadside ca 2 km N of Seben	secondary	trnL-trnF	40.7332953	31.6110479	0.000862600885397185
+Euphorbia_myrsinites	MK959659.1	14-MAR-2020	1427	Albania: Elbasan, Mali i Cikes	secondary	trnL-trnF	41.1105874	20.0794072	0.000179697433422674
+Euphorbia_myrsinites	MK959658.1	14-MAR-2020	1426	North Macedonia: Korab, Nistrovski Korab	secondary	trnL-trnF	41.7677692	20.5460721	0.000179823457301866
+Euphorbia_myrsinites	MK959657.1	14-MAR-2020	1426	Montenegro: Prokletije, Grebaja	secondary	trnL-trnF	42.2851271616098	19.2006247888361	0.000179823457301866
+Euphorbia_myrsinites	MK959656.1	14-MAR-2020	1426	North Macedonia: Ohrid, Baba	secondary	trnL-trnF	40.9539377	20.8125316	0.000179823457301866
+Euphorbia_myrsinites	MK959655.1	14-MAR-2020	1427	North Macedonia: Polog, gorge Beric	secondary	trnL-trnF	41.008551	21.6159188	0.000179697433422674
+Euphorbia_myrsinites	MK959654.1	14-MAR-2020	1426	Albania: Gjirokaster, Grapsh	secondary	trnL-trnF	39.9549251	20.2490729	0.000179823457301866
+Euphorbia_myrsinites	MK959653.1	14-MAR-2020	1426	Albania: Gjirokaster, Polican	secondary	trnL-trnF	40.1298038	20.3517736	0.000179823457301866
+Euphorbia_myrsinites	MK959652.1	14-MAR-2020	1426	Greece: Olympos, Koromilles	secondary	trnL-trnF	39.0724401	26.3534276	0.000179823457301866
+Euphorbia_myrsinites	MK959651.1	14-MAR-2020	1428	Greece: Peloponnese, slopes of Profitis Illias	secondary	trnL-trnF	37.1801114776026	23.22451398786	0.0001795715860599
+Euphorbia_myrsinites	MK959650.1	14-MAR-2020	1428	Greece: Tasos, Castro	secondary	trnL-trnF	40.7787007	24.7090735	0.00204907531504037
+Euphorbia_myrsinites	MK959649.1	14-MAR-2020	1428	Bulgaria: Smoljan, near Devin	secondary	trnL-trnF	41.5768238	24.7010351	0.00204907531504037
+Euphorbia_myrsinites	MK959648.1	14-MAR-2020	1426	Montenegro: Durmitor, along the road between zabljak and Trsa	secondary	trnL-trnF	43.1259576	19.0435665	0.000179823457301866
+Euphorbia_myrsinites	MK959647.1	14-MAR-2020	1426	Albania: Kukes, southern edge of Shija gorge	secondary	trnL-trnF	42.07271955	20.4211631813227	0.000179823457301866
+Euphorbia_myrsinites	MK959646.1	14-MAR-2020	1426	Greece: Makedonia, along the road between the villages Eptachori and Pentalofos	secondary	trnL-trnF	39.9928940906182	22.6280402495081	0.000179823457301866
+Euphorbia_myrsinites	MK959644.1	14-MAR-2020	1426	Albania: Skrapar, Mali i Tomorit	secondary	trnL-trnF	40.5649737	19.496937	0.000179823457301866
+Euphorbia_myrsinites	MK959642.1	14-MAR-2020	1426	Montenegro: Prokletije, Ropojana valley SW of Vusanje	secondary	trnL-trnF	42.8328567815027	19.2409352510654	0.000179823457301866
+Euphorbia_myrsinites	MK959640.1	14-MAR-2020	1426	Bulgaria: Pirin, Mt. Orelek	secondary	trnL-trnF	41.64749765	23.4601571187429	0.000179823457301866
+Euphorbia_myrsinites	MK959639.1	14-MAR-2020	1426	Italy: Abruzzo, Campo Imperatore	secondary	trnL-trnF	42.4430453	13.5587238	0.000179823457301866
+Euphorbia_myrsinites	MK959638.1	14-MAR-2020	1426	Italy: Basilicata, along the road Marsicovetere - Calvello	secondary	trnL-trnF	40.6658732	15.9200695	0.000179823457301866
+Euphorbia_myrsinites	MK959637.1	14-MAR-2020	1426	Italy: Calabria, along the street il Fortino - Colle del Dragone	secondary	trnL-trnF	44.6693744	11.5122716	0.000179823457301866
+Euphorbia_myrsinites	MK959636.1	14-MAR-2020	1427	Croatia: Velebit, Vaganski vrh	secondary	trnL-trnF	44.365	15.5	0.000179697433422674
+Euphorbia_myrsinites	MK959635.1	14-MAR-2020	1426	Albania: Tropoje, W above the village Dragobi	secondary	trnL-trnF	42.4033485	20.1641348	0.000179823457301866
+Euphorbia_myrsinites	MK959634.1	14-MAR-2020	1426	Montenegro: Pljevlja, along the road Boan-savnik	secondary	trnL-trnF	43.3565611	19.3584715	0.000179823457301866
+Euphorbia_myrsinites	MK959632.1	14-MAR-2020	1427	Bulgaria: Stara Planina, 1 km W of the village Karnare	secondary	trnL-trnF	43.24319415	23.8482421671301	0.000719432807407663
+Euphorbia_myrsinites	MK959631.1	14-MAR-2020	1426	North Macedonia: stip, surroundings of the village Mrezicko	secondary	trnL-trnF	41.7374724	22.1935856	0.000179823457301866
+Euphorbia_myrsinites	MK959630.1	14-MAR-2020	1427	Croatia: Kvarner, Osorscica	secondary	trnL-trnF	44.9138595	14.1653355264935	0.000179697433422674
+Euphorbia_myrsinites	MK959629.1	14-MAR-2020	1426	Croatia: Dalmacija, NW ridge of Mt. Kimet	secondary	trnL-trnF	44.2504997625664	16.4168136750968	0.000179823457301866
+Euphorbia_myrsinites	MK959628.1	14-MAR-2020	1427	Croatia: Dalmacija, summit of Mt. Vidova gora	secondary	trnL-trnF	43.6133931508918	14.9825585846583	0.000179697433422674

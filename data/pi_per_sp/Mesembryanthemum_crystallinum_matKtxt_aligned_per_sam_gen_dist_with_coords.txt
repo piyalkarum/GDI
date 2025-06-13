@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mesembryanthemum_crystallinum	OQ815714.1	05-AUG-2023	422	Egypt	primary	matK	31.4415	26.8362	0.00868878357030016
+Mesembryanthemum_crystallinum	JQ412264.1	16-JAN-2013	765	South Africa: Western Cape, Cape Town, Robben Island	primary	matK	-33.805	18.377	0.0113398179527762
+Mesembryanthemum_crystallinum	KX789386.1	26-AUG-2017	803	Egypt	secondary	matK	35.8681298	-90.9456751	0.00608739535177125
+Mesembryanthemum_crystallinum	HM850877.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00796534647654162

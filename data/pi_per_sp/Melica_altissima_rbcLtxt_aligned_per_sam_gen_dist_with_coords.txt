@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melica_altissima	MF596875.1	28-FEB-2018	603	Canada: British Columbia, Vancouver, Community Garden at corner of Malkin Avenue and Raymur Avenue, Strathcona Park, just E of Main Street	primary	rbcL	48.9510998753838	-122.338922521903	0.0042501517911354
+Melica_altissima	MG226850.1	23-JAN-2018	603	Canada: British Columbia, Vancouver, Community Garden at corner of Malkin Avenue and Raymur Avenue, Strathcona Park, just E of Main Street	primary	rbcL	49.6616697760389	-122.05242462834	0.0042501517911354
+Melica_altissima	MG226787.1	23-JAN-2018	552	Canada: Landon Garden, Simcoe, Norfolk County, ON	primary	rbcL	42.8033	-80.4086	0.0102986985560043
+Melica_altissima	MG226457.1	23-JAN-2018	552	Canada: Guelph, ON	primary	rbcL	43.5485	-80.2503	0.0066557113064597

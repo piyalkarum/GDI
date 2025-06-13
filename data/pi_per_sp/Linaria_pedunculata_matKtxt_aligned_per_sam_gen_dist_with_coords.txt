@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_pedunculata	JF694235.1	21-AUG-2011	1209	Morocco: Larache	secondary	matK	35.1952327	-6.152913	0.00425028443569294
+Linaria_pedunculata	JF694234.1	21-AUG-2011	1222	Portugal: Monte Gordo	secondary	matK	37.1824461	-7.451945	0.000933943231520509
+Linaria_pedunculata	JF694233.1	21-AUG-2011	1177	Morocco: Mohammedia	secondary	matK	33.6958383	-7.3893292	0.00212404418011895
+Linaria_pedunculata	JF694232.1	21-AUG-2011	1222	Morocco: Mdiq	secondary	matK	35.699567	-5.3294643	0.000933943231520509
+Linaria_pedunculata	JF694231.1	21-AUG-2011	1222	Morocco: Chefchaouen	secondary	matK	35.1700832	-5.2766583	0.000933943231520509
+Linaria_pedunculata	JF694230.1	21-AUG-2011	1222	Spain: Malaga, Mijas, Faro Calaburras	secondary	matK	36.5126318	-4.6392452	0.000933943231520509
+Linaria_pedunculata	JF694229.1	21-AUG-2011	1222	Spain: Huelva, Marismas del Odiel	secondary	matK	37.2319391	-7.0081229	0.000933943231520509
+Linaria_pedunculata	JF694228.1	21-AUG-2011	1222	Spain: Cadiz, Barbate	secondary	matK	36.1923983	-5.9192837	0.000933943231520509
+Linaria_pedunculata	JF694227.1	21-AUG-2011	1222	Spain: Almeria, Cabo de Gata	secondary	matK	36.7210296	-2.1932327	0.00237604337133519

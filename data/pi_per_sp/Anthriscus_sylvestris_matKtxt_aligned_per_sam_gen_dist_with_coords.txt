@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthriscus_sylvestris	KX676631.1	09-AUG-2017	811	Canada: British Columbia, Greater Vancouver Regional District, Burnaby Lake Regional Park	primary	matK	49.248	-122.919	0.000254452926208651
+Anthriscus_sylvestris	KX676541.1	09-AUG-2017	769	Canada: British Columbia, Greater Vancouver Regional District, Pacific Spirit Park	primary	matK	49.249	-123.207	0.000260078023407022
+Anthriscus_sylvestris	MG225345.1	21-JAN-2018	791	Canada: Quebec, Montreal, Island of Montreal, Parc-nature de la Pointe-aux-Prairies (Secteur Fleuve), pres d'une clairiere et d'un sentier	primary	matK	45.682	-73.493	0.00104007718664944
+Anthriscus_sylvestris	JN894255.1	07-MAR-2012	632	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.15	0
+Anthriscus_sylvestris	JN896153.1	07-MAR-2012	823	United Kingdom: Glamorgan	secondary	matK	51.2993133871893	-2.83779194404349	0.000253807106598985
+Anthriscus_sylvestris	JN896152.1	07-MAR-2012	751	United Kingdom: Glamorgan	secondary	matK	51.7968258653431	-3.25756321099069	0.000271739130434783

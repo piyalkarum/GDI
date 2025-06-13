@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_bupleuroides	MK643245.1	05-FEB-2021	798	Iran	secondary	rps16	31.7613341208032	54.4302073585029	0.00662783326378071
+Silene_bupleuroides	MN460322.1	20-MAR-2020	798	Iran	secondary	rps16	32.6639641194024	54.5300701218078	0.00482720530739145
+Silene_bupleuroides	EF061360.1	24-DEC-2006	725	Sweden	secondary	rps16	59.6749712	14.5208584	0.00414367290570745
+Silene_bupleuroides	KX852492.1	30-SEP-2017	754	Bulgaria	secondary	rps16	46.7889169	23.6184909	0.00489269900345157

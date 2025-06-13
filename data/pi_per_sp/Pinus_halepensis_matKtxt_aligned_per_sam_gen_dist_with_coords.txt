@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_halepensis	JX905942.1	05-OCT-2013	755	South Africa: Western Cape, Robben Island	primary	matK	-33.8049	18.3739	0
+Pinus_halepensis	MT247287.1	28-SEP-2020	813	France	secondary	matK	46.048846519826	2.05946671469166	0
+Pinus_halepensis	MT247286.1	28-SEP-2020	813	Morocco	secondary	matK	27.5576151236309	-10.2216790926392	0
+Pinus_halepensis	MT247285.1	28-SEP-2020	813	Morocco	secondary	matK	28.7292873727184	-10.2693648610757	0
+Pinus_halepensis	MT247284.1	28-SEP-2020	813	Israel	secondary	matK	30.6703289537559	35.362967913432	0
+Pinus_halepensis	MT247283.1	28-SEP-2020	813	France	secondary	matK	46.3736645012751	2.31966012569114	0
+Pinus_halepensis	MT247282.1	28-SEP-2020	813	Israel	secondary	matK	31.6085287368407	35.0284044597437	0
+Pinus_halepensis	MT247281.1	28-SEP-2020	813	Turkey	secondary	matK	38.9597594	34.9249653	0
+Pinus_halepensis	MT247280.1	28-SEP-2020	813	France	secondary	matK	46.7059782359358	2.19022112711623	0
+Pinus_halepensis	MT247279.1	28-SEP-2020	813	Spain	secondary	matK	39.3260685	-4.8379791	0
+Pinus_halepensis	MT247278.1	28-SEP-2020	765	France	secondary	matK	46.0257719111987	1.99166009421762	0
+Pinus_halepensis	MT247277.1	28-SEP-2020	813	Greece	secondary	matK	43.2097838	-77.6930602	0

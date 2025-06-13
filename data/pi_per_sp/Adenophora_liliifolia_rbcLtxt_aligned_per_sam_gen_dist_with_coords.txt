@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Adenophora_liliifolia	OQ021054.1	30-JUN-2023	358	China	secondary	rbcL	35.7101618505384	105.042863150457	NA
+Adenophora_liliifolia	OQ021053.1	30-JUN-2023	358	Austria	secondary	rbcL	36.2976284471865	-4.51294392671664	NA
+Adenophora_liliifolia	OQ020610.1	30-JUN-2023	333	China	secondary	rbcL	35.6587890053053	105.453458670549	NA
+Adenophora_liliifolia	OQ020609.1	30-JUN-2023	333	Austria	secondary	rbcL	37.6515994020155	-5.06913206869461	NA
+Adenophora_liliifolia	OQ018288.1	30-JUN-2023	360	China	secondary	rbcL	35.1222870031291	104.230395106024	NA
+Adenophora_liliifolia	OQ018287.1	30-JUN-2023	360	Austria	secondary	rbcL	36.7576816025256	-5.3544279021644	NA
+Adenophora_liliifolia	OQ018019.1	30-JUN-2023	360	Hungary	secondary	rbcL	41.9767629	-72.7789842	NA
+Adenophora_liliifolia	OQ018018.1	30-JUN-2023	360	Romania	secondary	rbcL	45.9852129	24.6859225	NA
+Adenophora_liliifolia	OQ017914.1	30-JUN-2023	381	China	secondary	rbcL	35.5985025506381	104.655534149921	0.180388465665425
+Adenophora_liliifolia	OQ017913.1	30-JUN-2023	381	Austria	secondary	rbcL	36.4923884447231	-5.62023906059535	0.181618962119326
+Adenophora_liliifolia	OQ017523.1	30-JUN-2023	382	China	secondary	rbcL	34.795519166863	104.75111942266	NA
+Adenophora_liliifolia	OQ017522.1	30-JUN-2023	366	Austria	secondary	rbcL	37.3070610869215	-3.81282745440057	NA
+Adenophora_liliifolia	MT930594.1	03-MAR-2023	572	China	secondary	rbcL	34.6659551987676	105.943381054951	NA
+Adenophora_liliifolia	MT930593.1	03-MAR-2023	572	China	secondary	rbcL	35.233326435993	104.232711163543	NA
+Adenophora_liliifolia	MK556150.1	22-SEP-2019	358	Austria	secondary	rbcL	36.9680022550722	-5.30552848030433	NA
+Adenophora_liliifolia	MK556064.1	22-SEP-2019	342	Austria	secondary	rbcL	37.6850065414839	-4.46047796397672	NA
+Adenophora_liliifolia	MK555659.1	22-SEP-2019	357	Austria	secondary	rbcL	36.8493356350804	-5.47780949263029	NA
+Adenophora_liliifolia	MK555510.1	22-SEP-2019	381	Austria	secondary	rbcL	37.5474440703859	-4.20313581958209	0.181618962119326
+Adenophora_liliifolia	MK555448.1	22-SEP-2019	366	Austria	secondary	rbcL	36.8682267812832	-5.58579118818389	NA
+Adenophora_liliifolia	KC146540.1	12-FEB-2013	1287	South Korea: Mt.Seorak	secondary	rbcL	38.904903999309	129.082476907134	0.189405892104713
+Adenophora_liliifolia	HQ704473.1	02-JUL-2011	939	South Korea: Mt.Seorak	secondary	rbcL	37.7355822282669	128.065911754481	0.367219938979767

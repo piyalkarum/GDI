@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_pluriflorum	LN868990.1	17-SEP-2015	475	Spain	primary	psbA-trnH	43.041869763498	-6.71674350646017	0.000833638455905429
+Leucanthemum_pluriflorum	LN868989.1	17-SEP-2015	474	Spain	primary	psbA-trnH	43.5170600758121	-8.84495725171106	0.000575373993095512
+Leucanthemum_pluriflorum	HF912054.1	21-APR-2013	338	Spain:Lugo	primary	psbA-trnH	43.07	-6.95	0
+Leucanthemum_pluriflorum	HF912053.1	21-APR-2013	338	Spain:Lugo	primary	psbA-trnH	43.8431860998481	-7.55384196662801	0
+Leucanthemum_pluriflorum	HF912052.1	21-APR-2013	338	Spain:Lugo	primary	psbA-trnH	43.68	-7.41	0
+Leucanthemum_pluriflorum	HF912051.1	21-APR-2013	338	Spain:Lugo	primary	psbA-trnH	43.68	-7.61	0
+Leucanthemum_pluriflorum	HF912050.1	21-APR-2013	338	Spain:A Coruna	primary	psbA-trnH	43.7	-8.05	0
+Leucanthemum_pluriflorum	HF912049.1	21-APR-2013	338	Spain:A Coruna	primary	psbA-trnH	43.64	-8.12	0
+Leucanthemum_pluriflorum	HF912048.1	21-APR-2013	338	Spain:A Coruna	primary	psbA-trnH	43.3	-8.61	0
+Leucanthemum_pluriflorum	HF912047.1	21-APR-2013	338	Spain:A Coruna	primary	psbA-trnH	43.6323158571662	-8.68111353638971	0
+Leucanthemum_pluriflorum	HF912046.1	21-APR-2013	338	Spain:A Coruna	primary	psbA-trnH	42.92	-9.23	0
+Leucanthemum_pluriflorum	HE680953.1	22-APR-2013	352	Spain:Galicia	secondary	psbA-trnH	42.61946	-7.863112	0.000258264462809917

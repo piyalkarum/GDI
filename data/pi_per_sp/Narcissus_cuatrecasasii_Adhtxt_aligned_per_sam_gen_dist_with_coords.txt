@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_cuatrecasasii	MN070203.1	07-AUG-2019	998	Spain	secondary	Adh	37.7557181098485	-2.6294372385362	0.180060405905101
+Narcissus_cuatrecasasii	KC607927.1	01-MAR-2014	934	Spain	secondary	Adh	37.4780738128896	-4.52663959769495	0.536839471420752
+Narcissus_cuatrecasasii	JF973189.1	18-SEP-2011	752	Spain	secondary	Adh	38.4167413083512	-3.76275136450212	0.179311616667462
+Narcissus_cuatrecasasii	JF973188.1	18-SEP-2011	752	Spain	secondary	Adh	37.4713257007722	-4.45065573862371	0.179311616667462

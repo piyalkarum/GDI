@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_japonicus	OR738206.1	13-NOV-2023	733	Kazakhstan: Mangistau region	primary	matK	43.53385	51.55197	0.00199519819509607
+Bromus_japonicus	MF597222.1	17-JUL-2018	774	Canada: British Columbia, 5.6 km S of Hwy. 3 on Mount Kreger Road, South Okanagan Grasslands Protected Area.	primary	matK	49.044	-119.558	0.00085618518328435
+Bromus_japonicus	MG217085.1	24-JAN-2018	767	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	matK	43.274	-79.899	0.00191517857708791
+Bromus_japonicus	MT929974.1	03-MAR-2023	774	China	secondary	matK	35.067441707871	105.326683630191	0.000713198527048566
+Bromus_japonicus	MT929972.1	03-MAR-2023	777	China	secondary	matK	34.744473925254	104.890800047365	0.000710873490482274
+Bromus_japonicus	OM048564.1	08-AUG-2022	1157	Canada: Ontario, Peterborough, water street at Parkhill Road, disturbed gravel parking lot edge of original Greek restaurant	secondary	matK	43.8823540707742	-78.5361806062647	0.00106562672126535
+Bromus_japonicus	OM048563.1	08-AUG-2022	1137	Canada: Ontario, Thunder Bay, S side of railway tracks near Neys Provincial Park, E of park entrance road, 4 km WNW of Coldwell	secondary	matK	44.5398373988028	-77.5277364733918	0.00108255724691095
+Bromus_japonicus	OM048562.1	08-AUG-2022	1308	Canada: Ontario, Prince Edward County, Miller tract, Hastings-Prince Edward Land Trust, hill top road	secondary	matK	44.2029176283672	-78.6285443252325	0.00105630258670876
+Bromus_japonicus	OM048560.1	08-AUG-2022	1425	Iran: Ardabil, Sabalan mountain	secondary	matK	38.2515581	48.2972269	0.00116465492844791
+Bromus_japonicus	MN450933.1	30-NOV-2021	789	China	secondary	matK	35.7047848826908	104.829679612121	0.00128750346144143
+Bromus_japonicus	KF713100.1	15-DEC-2013	1014	South Korea: Icheon	secondary	matK	37.2808823	127.4429132	0.00471373063131448
+Bromus_japonicus	KF713099.1	15-DEC-2013	1014	South Korea: Andong-si, Gyeongsangbuk-do	secondary	matK	36.5759169	128.5060124	0.00210338925868442

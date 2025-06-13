@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achyrophorus_laevigatus	HG518126.1	02-JAN-2014	635	Algeria:Saharan Atlas, Aures massif	secondary	5.8S rRNA	32.9059202	-0.4657248	0.0163206871868289
+Achyrophorus_laevigatus	HG518125.1	02-JAN-2014	635	Algeria:Tell Atlas, Theniet-el-Had (Ouarsenis massif)	secondary	5.8S rRNA	36.0208943213711	3.59559403363685	0.0150322118826056
+Achyrophorus_laevigatus	HG518124.1	02-JAN-2014	635	Algeria:Tell Atlas, Tikjda	secondary	5.8S rRNA	37.1933141409434	4.73586893030143	0.0143163922691482
+Achyrophorus_laevigatus	HG518123.1	02-JAN-2014	635	Morocco:Middle Atlas, Beni-Mellal, ascent to Jbel Tassemit	secondary	5.8S rRNA	33.557	-3.9	0.00916249105225483
+Achyrophorus_laevigatus	HG518121.1	02-JAN-2014	635	Morocco:Aknoul, Tizi Ouzli between Kassita and Aknoul	secondary	5.8S rRNA	34.65602	-3.865259	0.0134574087329993
+Achyrophorus_laevigatus	HG518119.1	02-JAN-2014	635	Morocco:Rif	secondary	5.8S rRNA	34.8397986	-4.5035276	0.0104509663564782
+Achyrophorus_laevigatus	HG518118.1	02-JAN-2014	635	Italy:Sicily	secondary	5.8S rRNA	37.587794	14.155048	0.01159627773801
+Achyrophorus_laevigatus	HG518117.1	02-JAN-2014	635	Italy:Reggio Calabria, Aspromonte	secondary	5.8S rRNA	38.263471	15.854796	0.0101646385110952
+Achyrophorus_laevigatus	HG518116.1	02-JAN-2014	635	Italy:Reggio Calabria, Monte Sant Elia SW Palmi	secondary	5.8S rRNA	38.1035389	15.6397556	0.0101646385110952
+Achyrophorus_laevigatus	HG518127.1	02-JAN-2014	635	Algeria:Seraidi, Edough massif next to Annaba	secondary	5.8S rRNA	36.9115192	7.6752692	0.0094488188976378
+Achyrophorus_laevigatus	AJ627265.1	11-FEB-2005	635	Italy:Calabria	secondary	5.8S rRNA	39.0565974	16.5249864	0.0101646385110952
+Achyrophorus_laevigatus	HG518120.1	02-JAN-2014	635	Morocco	secondary	5.8S rRNA	35.570175	-5.3742776	0.00916249105225483

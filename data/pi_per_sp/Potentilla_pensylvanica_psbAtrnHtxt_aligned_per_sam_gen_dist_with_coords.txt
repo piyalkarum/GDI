@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_pensylvanica	MF543685.1	25-JUL-2018	431	Italy: Aosta Valley, Cogne, Epinel	secondary	psbA-trnH	44.9644647809313	6.89198696862045	0
+Potentilla_pensylvanica	MF543682.1	25-JUL-2018	464	Italy: Aosta Valley, Avise, Thomasset	secondary	psbA-trnH	44.8604799489028	6.95239806732113	0
+Potentilla_pensylvanica	MF543681.1	25-JUL-2018	464	Italy: Aosta Valley, Avise, Thomasset	secondary	psbA-trnH	45.4768167557054	7.84729341071352	0
+Potentilla_pensylvanica	MF543680.1	25-JUL-2018	464	Italy: Aosta Valley, Avise, Thomasset	secondary	psbA-trnH	46.261028973607	7.46289367240989	0
+Potentilla_pensylvanica	MF543679.1	25-JUL-2018	447	Italy: Aosta Valley, Cogne, Epinel	secondary	psbA-trnH	46.4116156099568	6.93578184659376	0
+Potentilla_pensylvanica	MF543684.1	25-JUL-2018	464	Italy	secondary	psbA-trnH	45.8711474448087	7.72788173672977	0
+Potentilla_pensylvanica	MF543683.1	25-JUL-2018	464	Italy	secondary	psbA-trnH	45.6726978415106	6.35226573908377	0

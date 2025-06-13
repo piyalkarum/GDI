@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_lusitanica	FM212704.1	27-APR-2009	643	Spain:Huelva	primary	ITS	37.9066938789085	-6.68005207543272	0.00355476560764275
+Campanula_lusitanica	FM212703.1	27-APR-2009	699	Spain:Huelva	primary	ITS	37.7237546407824	-5.72688427365482	0.000853092890818413
+Campanula_lusitanica	FM212702.1	27-APR-2009	699	Spain:Sevilla	primary	ITS	37.16	-6.03	0.00209713371595376
+Campanula_lusitanica	FM212701.1	27-APR-2009	699	Spain:Malaga	primary	ITS	36.33	-5.16	0.00209713371595376
+Campanula_lusitanica	FM212700.1	27-APR-2009	699	Spain:Malaga	primary	ITS	36.7898674368268	-3.43408759481256	0.000853092890818413
+Campanula_lusitanica	FM212699.1	27-APR-2009	699	Spain:Malaga	primary	ITS	36.6492098267247	-3.56515326031952	0.000853092890818413
+Campanula_lusitanica	FM212698.1	27-APR-2009	699	Spain:Sevilla	primary	ITS	37.31	-6.09	0.000853092890818413
+Campanula_lusitanica	FM212697.1	27-APR-2009	699	Spain:Jaen	primary	ITS	38.1	-3.46	0.000853092890818413

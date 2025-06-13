@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leontodon_saxatilis	MG223541.1	26-DEC-2017	552	Canada: Ontario, Nipissing Dist., Peck Tp., Algonquin Provincial Park, N end of Smoke L. by seaplane base at Hwy 60.	primary	rbcL	45.525	-78.7	0
+Leontodon_saxatilis	MG221617.1	26-DEC-2017	552	Canada: Ontario, Simcoe Co., Sunnidale Tp., Wasaga Beach Provincial Park, E side 41st Street, Oakview Woods.	primary	rbcL	44.478	-80.075	0
+Leontodon_saxatilis	JN892492.1	07-MAR-2012	542	United Kingdom: Sussex, West (13)	primary	rbcL	50.99	-0.75	0
+Leontodon_saxatilis	JN891582.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.52	-4.06	0
+Leontodon_saxatilis	MG224430.1	26-DEC-2017	512	Canada: Ontario, Simcoe Co., Close to hwy. 12 along street to Bergis Pt., Victoria Harbour.	secondary	rbcL	43.7129582982001	-77.6280375928987	0
+Leontodon_saxatilis	MG223503.1	26-DEC-2017	552	Canada: Ontario, Muskoka D. M., Medora twp. in Bala, E of Hwy 69 and N of liquor store, 31E/4E 092855	secondary	rbcL	43.3906851460663	-77.1720837947915	0
+Leontodon_saxatilis	HM850115.1	23-JUL-2011	673	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Leontodon_saxatilis	JN891901.1	07-MAR-2012	529	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Leontodon_saxatilis	JN891900.1	07-MAR-2012	529	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Leontodon_saxatilis	JN890751.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_reptans	OP286942.1	14-SEP-2022	546	China: Outside US, Beijing, Garden	primary	rbcL	39.9	116.4	0.000228937728937729
+Potentilla_reptans	JN893241.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000238095238095238
+Potentilla_reptans	JN892491.1	07-MAR-2012	542	United Kingdom: Monmouthshire (35)	primary	rbcL	51.5	-3.13	0.000238095238095238
+Potentilla_reptans	MG247498.1	21-JAN-2018	552	Canada: British Columbia, Vancouver, University of British Columbia Botanical Garden, nursery	secondary	rbcL	49.25783145	-123.246241986222	0.000233208955223881
+Potentilla_reptans	KJ204392.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000233208955223881
+Potentilla_reptans	HM850287.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00188812120715106
+Potentilla_reptans	JN893735.1	07-MAR-2012	537	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000240384615384615
+Potentilla_reptans	JN893734.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000238095238095238
+Potentilla_reptans	JN893732.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.000238095238095238

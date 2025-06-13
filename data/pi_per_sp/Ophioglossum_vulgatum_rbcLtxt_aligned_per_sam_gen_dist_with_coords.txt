@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ophioglossum_vulgatum	OL539473.1	21-JUN-2022	1269	China: Sichuan	secondary	rbcL	53.2780787	-6.2107338	0.00521752594447411
+Ophioglossum_vulgatum	DQ026594.1	05-FEB-2006	1035	Finland	secondary	rbcL	63.2467777	25.9209164	0.00193236714975845
+Ophioglossum_vulgatum	AB574681.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.00221485017291962
+Ophioglossum_vulgatum	AB626644.1	18-OCT-2011	1197	Japan:Fukushima	secondary	rbcL	37.75454	140.4592144	0.00227137893041783

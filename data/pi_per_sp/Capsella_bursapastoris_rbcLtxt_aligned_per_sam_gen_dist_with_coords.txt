@@ -1,0 +1,38 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Capsella_bursa-pastoris	OR738024.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.25278	83.335	0.000468360776044735
+Capsella_bursa-pastoris	OR738008.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.0150495391568234
+Capsella_bursa-pastoris	OR557587.1	01-NOV-2023	399	Kazakhstan: Qaragandy region	primary	rbcL	49.49993	73.26461	0.000435825435825436
+Capsella_bursa-pastoris	MK965410.1	07-DEC-2019	476		primary	rbcL	32.35	-95.87	0.00235947989289878
+Capsella_bursa-pastoris	MK936600.1	19-JUN-2019	514	China: Outside US, Jiangyong Hunan, Agriculture land	primary	rbcL	25	111	0.000436653260526
+Capsella_bursa-pastoris	MG249724.1	21-JAN-2018	552	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	rbcL	43.529	-80.229	0.00046911863944592
+Capsella_bursa-pastoris	MG249304.1	21-JAN-2018	552	Canada: Ontario, Norfolk County, Norfolk Township, Concession 4, in woods halfway between western edge of Backus Woods and the main trail junction	primary	rbcL	42.663	-80.491	0.00046911863944592
+Capsella_bursa-pastoris	MG248557.1	21-JAN-2018	553	Canada: Ontario, Wellington, Wellington, Guelph	primary	rbcL	43.5485	-80.2503	0.000468360776044735
+Capsella_bursa-pastoris	MG247010.1	21-JAN-2018	552	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0.00046911863944592
+Capsella_bursa-pastoris	MF786711.1	06-DEC-2017	553	China: Xizang, Chogao Xiang, on the way from Bashong Tso to Xin Tso, near Shengdong	primary	rbcL	30.00403	94.21808	0.000468360776044735
+Capsella_bursa-pastoris	KX678492.1	29-APR-2017	538	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Forest Service Road	primary	rbcL	49.188	-119.088	0.000471409133665858
+Capsella_bursa-pastoris	KX678345.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Red Creek Forest Service Road	primary	rbcL	49.564	-120.41	0.00046911863944592
+Capsella_bursa-pastoris	HQ589982.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 20 m SW of Racing Barn	primary	rbcL	44.03	-79.534	0.000970974091554792
+Capsella_bursa-pastoris	KJ841146.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	rbcL	45.535	-73.149	0.00175518097679938
+Capsella_bursa-pastoris	JN965329.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	rbcL	58.772	-94.163	0.00046911863944592
+Capsella_bursa-pastoris	JN892480.1	07-MAR-2012	542	United Kingdom: Monmouthshire (35)	primary	rbcL	51.5	-3.13	0.000468360776044735
+Capsella_bursa-pastoris	JN890699.1	07-MAR-2012	524	United Kingdom	primary	rbcL	51.89	-3.97	0.000482815013260602
+Capsella_bursa-pastoris	OQ391655.1	10-MAY-2023	524	Peru	secondary	rbcL	-6.75015431819251	-74.5941731091596	0.000495263620635866
+Capsella_bursa-pastoris	OQ391386.1	10-MAY-2023	525	Peru	secondary	rbcL	-7.62696419766911	-74.933656997967	0.00101036821620023
+Capsella_bursa-pastoris	OQ391302.1	10-MAY-2023	522	Peru	secondary	rbcL	-7.02584082047864	-74.5360290319993	0.00103036953961412
+Capsella_bursa-pastoris	OQ391252.1	10-MAY-2023	528	Peru	secondary	rbcL	-6.49281543591296	-74.5964147140462	0.00100623624848557
+Capsella_bursa-pastoris	MT930730.1	03-MAR-2023	569	China	secondary	rbcL	35.5441427651367	105.727111557374	0.000468360776044735
+Capsella_bursa-pastoris	MT930729.1	03-MAR-2023	565	China	secondary	rbcL	34.2533239291235	104.672167059687	0.000468360776044735
+Capsella_bursa-pastoris	MT930728.1	03-MAR-2023	578	China	secondary	rbcL	34.9552635708395	105.816366468964	0.0010583172129548
+Capsella_bursa-pastoris	HQ619738.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.000468360776044735
+Capsella_bursa-pastoris	MH215233.1	22-JAN-2019	553	China	secondary	rbcL	34.9608179412618	105.995048689974	0.000468360776044735
+Capsella_bursa-pastoris	KM892712.1	11-OCT-2018	577	China	secondary	rbcL	35.161536671611	105.533832702426	0.00105974198717854
+Capsella_bursa-pastoris	KM892711.1	11-OCT-2018	577	China	secondary	rbcL	34.8734283900734	104.984167857102	0.00105974198717854
+Capsella_bursa-pastoris	KM892710.1	11-OCT-2018	577	China	secondary	rbcL	34.2148131030988	105.08425468876	0.00105974198717854
+Capsella_bursa-pastoris	KM892697.1	11-OCT-2018	577	China	secondary	rbcL	34.3301982643126	104.668767240679	0.00105974198717854
+Capsella_bursa-pastoris	KM892684.1	11-OCT-2018	577	China	secondary	rbcL	34.683040912375	105.673824086254	0.00105974198717854
+Capsella_bursa-pastoris	KM892678.1	11-OCT-2018	577	China	secondary	rbcL	34.3634869425332	104.233179365104	0.00105974198717854
+Capsella_bursa-pastoris	KX298988.1	06-FEB-2017	687	Egypt	secondary	rbcL	26.2540493	29.2675469	0.000967457608595921
+Capsella_bursa-pastoris	KJ204310.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000471409133665858
+Capsella_bursa-pastoris	JX848437.1	06-AUG-2013	1380	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.00141926521241209
+Capsella_bursa-pastoris	MK044304.1	15-MAY-2019	748	South Korea	secondary	rbcL	33.4930566	126.5130589	0.00180653166805524
+Capsella_bursa-pastoris	MK044301.1	15-MAY-2019	748	South Korea	secondary	rbcL	35.68162	128.66447	0.00180653166805524

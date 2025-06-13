@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_trichomanes	MK827611.1	30-APR-2020	802	USA: Oregon	secondary	rps4	43.9421179897366	-119.908201722689	0.00488820671033585
+Asplenium_trichomanes	MK827567.1	30-APR-2020	720	USA: Virginia	secondary	rps4	37.1232245	-78.4927721	0.00526647422270074
+Asplenium_trichomanes	MK827559.1	30-APR-2020	881	USA: Washington	secondary	rps4	38.8950368	-77.0365427	0.00587342555034285
+Asplenium_trichomanes	MK827549.1	30-APR-2020	805	Norway: Nordland	secondary	rps4	67.2756405	13.8623606	0.00609211992461932
+Asplenium_trichomanes	MK827545.1	30-APR-2020	872	USA: Oregon	secondary	rps4	44.1484505556618	-121.488245417929	0.00509658942150957
+Asplenium_trichomanes	MK827544.1	30-APR-2020	881	USA: Big Island	secondary	rps4	19.3788941499984	-155.777399534352	0.00798455343778147
+Asplenium_trichomanes	MK827522.1	30-APR-2020	881	USA: Big Island	secondary	rps4	19.1601128568631	-154.724697786059	0.00798455343778147
+Asplenium_trichomanes	MK827498.1	30-APR-2020	881	Canada: British Columbia	secondary	rps4	54.7679326826837	-125.287626040153	0.0080713048756802
+Asplenium_trichomanes	MK827497.1	30-APR-2020	887	Canada: British Columbia	secondary	rps4	55.0273601520597	-125.391059636675	0.00637223634269518
+Asplenium_trichomanes	MK827269.1	30-APR-2020	910	China: Taiwan Island	secondary	rps4	-0.824303133644917	166.992893517302	0.0110981921756947
+Asplenium_trichomanes	MK827268.1	30-APR-2020	908	China: Taiwan Island	secondary	rps4	-0.605069426835153	166.250568284632	0.007509060518462
+Asplenium_trichomanes	MK827267.1	30-APR-2020	912	China: Taiwan Island	secondary	rps4	-0.101169188842171	166.728635894141	0.00708343347210975
+Asplenium_trichomanes	MK827153.1	30-APR-2020	911	China: Yunnan	secondary	rps4	25.0242329244476	101.484340718053	0.00518017660619439
+Asplenium_trichomanes	MK827135.1	30-APR-2020	911	China: Yunnan	secondary	rps4	24.1923401143128	102.41852720356	0.00518017660619439
+Asplenium_trichomanes	LR586057.1	28-JAN-2020	427	Spain:Madrid, Bustarviejo	secondary	rps4	40.4619042	-3.6956234	0.0179717965938448
+Asplenium_trichomanes	LR586056.1	28-JAN-2020	427	Spain:A Coruna, Santiago	secondary	rps4	42.8411382	-8.4967896	0.0179717965938448
+Asplenium_trichomanes	LR586055.1	28-JAN-2020	427	Spain:Avila, Solosancho	secondary	rps4	40.552537	-4.9050209	0.0179717965938448
+Asplenium_trichomanes	KP835412.1	17-AUG-2015	962	Australia: Bogong, Victoria	secondary	rps4	-36.796961	147.221541601379	0.00630629020483292
+Asplenium_trichomanes	KP835410.1	17-AUG-2015	983	Australia: Glenelg River, Victoria	secondary	rps4	-37.5403033	141.3972946	0.0103371264829984

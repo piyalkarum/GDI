@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_maritima	MG248034.1	21-JAN-2018	552	Canada: Northwest Territories, Cape Bathurst, west coast	primary	rbcL	70.379	-128.207	0.00372339654203667
+Armeria_maritima	JN892412.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.57	-4.11	0.000739371534195933
+Armeria_maritima	KJ746293.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.0010629646505136
+Armeria_maritima	HM849792.1	23-JUL-2011	685	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00105022002449757
+Armeria_maritima	JN892553.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000739371534195933
+Armeria_maritima	JN891216.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000739371534195933

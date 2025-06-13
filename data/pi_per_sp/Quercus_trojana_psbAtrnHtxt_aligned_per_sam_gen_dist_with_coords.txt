@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_trojana	MT465758.1	28-SEP-2020	572	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.00387510246665176
+Quercus_trojana	HE591301.1	30-SEP-2011	568	Greece	secondary	psbA-trnH	43.2097838	-77.6930602	0.0010569590381797
+Quercus_trojana	HE591295.1	30-SEP-2011	568	Turkey	secondary	psbA-trnH	38.9597594	34.9249653	0.00246913580246914
+Quercus_trojana	HE591257.1	30-SEP-2011	568	Italy:Apulia	secondary	psbA-trnH	41.3203433934291	16.9074966062083	0.0010569590381797
+Quercus_trojana	HE591252.1	30-SEP-2011	568	Greece:Eubea	secondary	psbA-trnH	38.4941723	23.9110844	0.0010569590381797
+Quercus_trojana	FN687479.1	16-MAR-2010	568	Italy:Apulia	secondary	psbA-trnH	41.0053836757911	16.7382374867601	0.0010569590381797

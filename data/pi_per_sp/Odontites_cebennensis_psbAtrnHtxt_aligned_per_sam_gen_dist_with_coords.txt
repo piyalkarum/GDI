@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_cebennensis	KU216853.1	24-JAN-2016	422	Spain	secondary	psbA-trnH	39.3697248801336	-5.72368432827731	0
+Odontites_cebennensis	KU216852.1	24-JAN-2016	422	Spain	secondary	psbA-trnH	39.5395844790788	-3.72290901292499	0
+Odontites_cebennensis	KU216851.1	24-JAN-2016	422	France	secondary	psbA-trnH	46.0944519718502	2.70640482705135	0
+Odontites_cebennensis	KU216850.1	24-JAN-2016	422	France	secondary	psbA-trnH	46.6765690404688	0.667688275194837	0
+Odontites_cebennensis	KU216764.1	24-JAN-2016	425	Spain	secondary	psbA-trnH	40.1407555130498	-5.07390987878244	0
+Odontites_cebennensis	KU216763.1	24-JAN-2016	425	Spain	secondary	psbA-trnH	39.3090047249506	-4.93657355776249	0
+Odontites_cebennensis	KU216762.1	24-JAN-2016	425	Spain	secondary	psbA-trnH	39.2379182651284	-3.81254146157275	0
+Odontites_cebennensis	KU216761.1	24-JAN-2016	425	Spain	secondary	psbA-trnH	39.3365972597348	-5.89332318978997	0

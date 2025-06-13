@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polemonium_caeruleum	MG222346.1	26-DEC-2017	552	Canada: Penticton, BC	primary	rbcL	49.4911	-119.589	0.00584415584415584
+Polemonium_caeruleum	MG222159.1	26-DEC-2017	552	Canada: Brazeua River, Alberta	primary	rbcL	52.2325	-117.061	0.00584415584415584
+Polemonium_caeruleum	LC759980.1	12-SEP-2023	553	Japan:Yamanashi, Minami-alps	secondary	rbcL	35.6083617	138.4649893	0.00584415584415584
+Polemonium_caeruleum	MT931301.1	03-MAR-2023	569	China	secondary	rbcL	34.2193161837209	105.439936287009	0.00584415584415584
+Polemonium_caeruleum	MT931300.1	03-MAR-2023	572	China	secondary	rbcL	34.8338180987374	105.905835633788	0.00584415584415584
+Polemonium_caeruleum	LC554196.1	18-JUL-2020	440	Pakistan	secondary	rbcL	30.3308401	71.247499	0.0409090909090909
+Polemonium_caeruleum	MK925244.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0488631623053	-2.12267267366033	0.00584415584415584
+Polemonium_caeruleum	MK924946.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7045024633259	-2.08351716577972	0.00584415584415584

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Origanum_dictamnus	OL598329.1	27-MAY-2022	886	Greece: Crete, Zaros	secondary	rps16	34.5501438305311	24.4973265684393	0.000846501128668172
+Origanum_dictamnus	OL598328.1	27-MAY-2022	886	Greece: Crete, Zaros	secondary	rps16	34.8197129482943	25.5757724090341	0.000846501128668172
+Origanum_dictamnus	OL598327.1	27-MAY-2022	886	Greece: Crete, Therissos	secondary	rps16	34.9988469547168	25.9157496375907	0.00112866817155756
+Origanum_dictamnus	OL598326.1	27-MAY-2022	886	Greece: Crete, Therissos	secondary	rps16	35.4469132123225	25.5381934516397	0.00112866817155756
+Origanum_dictamnus	OL598325.1	27-MAY-2022	886	Greece: Crete, Sugia	secondary	rps16	35.3084952	24.463342318423	0.00169300225733634

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cormus_domestica	JN893246.1	07-MAR-2012	542	United Kingdom: Gloucestershire	primary	rbcL	51.64	-2.64	0
+Cormus_domestica	HG765092.1	18-NOV-2013	711	Italy	secondary	rbcL	42.1098244839393	12.1620435493707	0
+Cormus_domestica	HG765091.1	18-NOV-2013	711	Italy	secondary	rbcL	42.1405767391887	12.4987991055935	0
+Cormus_domestica	HG765090.1	18-NOV-2013	711	Italy	secondary	rbcL	42.6283198195807	13.5789821270362	0
+Cormus_domestica	JN891096.1	07-MAR-2012	529	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Cormus_domestica	JN890680.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_brachyphylla	MK800791.1	04-FEB-2020	1041	USA: Idaho, Pioneer Mountians, Hyndman Peak	primary	ndhF	43.74938	-114.1312	0.0064040986231188
+Festuca_brachyphylla	MK800790.1	04-FEB-2020	1041	USA: Idaho, Sawtooth Mountains, Mount Cramer	primary	ndhF	44.01108	-114.98117	0.00256163944924752
+Festuca_brachyphylla	MK800789.1	04-FEB-2020	1041	USA: Idaho, White Cloud Mountains, Castle Peak	primary	ndhF	44.04019	-114.58878	0.00256163944924752
+Festuca_brachyphylla	MK800788.1	04-FEB-2020	1041	USA: Idaho, Sawtooth Mountains, Braxon Peak	primary	ndhF	44.09333	-115.99681	0.00256163944924752

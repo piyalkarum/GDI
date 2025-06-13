@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Picris_hieracioides	LC365337.1	27-JUN-2019	422	Japan:Nagano	secondary	psbA-trnH	36.1143945	138.0319015	0.00477678757463731
+Picris_hieracioides	KF196109.1	20-JAN-2014	449	China: Shanxi, Huozhou	secondary	psbA-trnH	36.586266	111.821311	0.00228597314555877
+Picris_hieracioides	KF196108.1	20-JAN-2014	451	China: Yunnan, Lushui	secondary	psbA-trnH	25.8255921	98.8573411	0.00044543429844098
+Picris_hieracioides	HE966737.1	18-SEP-2012	508	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.1436718314919	14.1115818934944	0.00187160671869698
+Picris_hieracioides	HE966736.1	18-SEP-2012	508	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.0083329010054	13.1449114952963	0.00187160671869698
+Picris_hieracioides	HE966735.1	18-SEP-2012	508	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.613334014924	14.5741032866936	0.00187160671869698

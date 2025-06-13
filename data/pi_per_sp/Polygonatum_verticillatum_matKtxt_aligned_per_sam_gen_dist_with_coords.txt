@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygonatum_verticillatum	OK148449.1	02-NOV-2021	787	India: Bhaderwah, J&K	primary	matK	33.52656	75.43596	0.00195861711598729
+Polygonatum_verticillatum	OK148446.1	02-NOV-2021	789	India: Seoz Dhar, Bhaderwah, J&K	primary	matK	32.54228	75.36346	0.00220888163302025
+Polygonatum_verticillatum	MK277379.1	01-JAN-2020	1761	China	secondary	matK	35.1772767754574	104.472829319294	0.00606020545928946
+Polygonatum_verticillatum	JF955582.1	13-DEC-2011	490	China	secondary	matK	35.6939308384488	104.316956417958	0.00413632384005064
+Polygonatum_verticillatum	JF955581.1	13-DEC-2011	489	China	secondary	matK	34.1377761546853	104.993397317192	0.0016359918200409
+Polygonatum_verticillatum	JF955580.1	13-DEC-2011	489	China	secondary	matK	34.806352563772	104.876442699681	0.0016359918200409

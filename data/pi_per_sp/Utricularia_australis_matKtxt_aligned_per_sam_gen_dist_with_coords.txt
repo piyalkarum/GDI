@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Utricularia_australis	LC682642.1	10-AUG-2022	837	Japan:Aichi, Nagakute	secondary	matK	35.174318	137.070047	0.000895463571974916
+Utricularia_australis	MN384867.1	10-MAR-2020	828	Switzerland:Cartigny, Moulin de Vert	secondary	matK	46.179887	6.0265078	0.00126205740265087
+Utricularia_australis	MK926091.1	14-JAN-2020	805	United Kingdom	secondary	matK	55.0046691123014	-4.18085986848294	0.000545264670038402
+Utricularia_australis	MK925701.1	14-JAN-2020	812	United Kingdom	secondary	matK	55.0430958802199	-3.962192116264	0.000542067112520349
+Utricularia_australis	MF543566.1	31-JUL-2018	785	Italy: Aosta Valley, Verrayes, Loson	secondary	matK	45.7796478	7.5534861	0.000363967242948135
+Utricularia_australis	MF543565.1	31-JUL-2018	787	Italy: Aosta Valley, Arvier, Lolair	secondary	matK	45.6930619	7.1393712	0.0011097445797955
+Utricularia_australis	MF543564.1	31-JUL-2018	763	Italy	secondary	matK	45.7250585670573	7.06969078220184	0.000374461711290021
+Utricularia_australis	MF543563.1	31-JUL-2018	766	Italy	secondary	matK	45.5482605529184	6.55918393388724	0.000372995151063036

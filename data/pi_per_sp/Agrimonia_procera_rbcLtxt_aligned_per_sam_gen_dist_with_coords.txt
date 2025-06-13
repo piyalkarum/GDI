@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrimonia_procera	JN892047.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.54	-3.25	0
+Agrimonia_procera	JN891532.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.62	-2.75	0
+Agrimonia_procera	JN891113.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.8210015669222	-1.9883349793014	0
+Agrimonia_procera	JN890691.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Agrimonia_procera	JN890687.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7104788010686	-3.34558218966324	0

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_spicata	MG227071.1	23-JAN-2018	552	Canada: Arkell Ponds, Puslinch Township, Wellington County, ON	primary	rbcL	43.3653483282991	-80.7776978838735	0
+Carex_spicata	MG226501.1	23-JAN-2018	552	Canada: Arkell Hills, Wellington County, ON	primary	rbcL	43.4101815482808	-80.9479243522916	0
+Carex_spicata	MG226261.1	23-JAN-2018	552	Canada: 7 Knevitt Place, Guelph, ON	primary	rbcL	43.5485	-80.2503	0
+Carex_spicata	MG225591.1	23-JAN-2018	552	USA: Delaware	primary	rbcL	39.8056	-75.571	0
+Carex_spicata	JN893600.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.75	-3.37	0
+Carex_spicata	JN893540.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Carex_spicata	JN893539.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Carex_spicata	JN891136.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0

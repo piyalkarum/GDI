@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_aizoides	MZ359343.1	07-DEC-2021	551	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Saxifraga_aizoides	MG249924.1	21-JAN-2018	552	Canada: Yukon Territory, Dempster Highway, Windy Pass km 158	primary	rbcL	65.078	-138.36	0
+Saxifraga_aizoides	KC484012.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, River valley at base of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.317	-116.418	0
+Saxifraga_aizoides	KC484011.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vicinity of Holman Island Airport, Uluhaktok	primary	rbcL	70.758	-117.79	0
+Saxifraga_aizoides	KC484010.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Unnamed cove on west coast, 1/2 way down island	primary	rbcL	56.322	-79.7	0
+Saxifraga_aizoides	KC484009.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, between road and Darnley Bay	primary	rbcL	69.386	-124.078	0
+Saxifraga_aizoides	KC484008.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity, Region N of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	rbcL	68.764	-112.714	0
+Saxifraga_aizoides	KC484007.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Flood plain beside creek flowing into Hornaday River	primary	rbcL	68.083	-121.633	0
+Saxifraga_aizoides	JN965983.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 23 km E Churchill, Ramsay Creek, Tundra, creek bank	primary	rbcL	58.731	-93.78	0
+Saxifraga_aizoides	JN965982.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 5 km E Churchill, Miss Piggy, Dryas heath	primary	rbcL	58.76	-94.088	0
+Saxifraga_aizoides	MK925200.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.625004622862	-3.51471052385564	0
+Saxifraga_aizoides	MK925146.1	14-JAN-2020	542	Norway	secondary	rbcL	64.5731537	11.5280364	0
+Saxifraga_aizoides	MK924983.1	14-JAN-2020	542	Switzerland	secondary	rbcL	46.7985624	8.2319736	0
+Saxifraga_aizoides	MK924744.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1627580158278	-4.51774531019156	0
+Saxifraga_aizoides	HG417041.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0

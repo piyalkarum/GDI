@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_hamosus	KY951673.1	18-APR-2018	561	Kuwait	secondary	rbcL	29.6712518399604	48.2475209317451	0.0043050430504305
+Astragalus_hamosus	KY951672.1	18-APR-2018	555	Kuwait	secondary	rbcL	29.1938456034121	47.8921225389143	0.00433705080545229
+Astragalus_hamosus	KX282568.1	28-MAY-2017	542	Kuwait	secondary	rbcL	28.616977227876	48.2324411470527	0.0129791446613351
+Astragalus_hamosus	KX282567.1	28-MAY-2017	538	Kuwait	secondary	rbcL	29.5987953590865	48.2952221952401	0.00433705080545229

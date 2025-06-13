@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_maritima	JN895281.1	07-MAR-2012	790	United Kingdom: Monmouthshire (35)	primary	matK	51.5	-3.13	0.00134800823502436
+Puccinellia_maritima	OK247842.1	27-OCT-2022	788	Spain	secondary	matK	39.3260685	-4.8379791	0.000441501103752759
+Puccinellia_maritima	JN895380.1	07-MAR-2012	728	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.000457875457875458
+Puccinellia_maritima	JN895379.1	07-MAR-2012	743	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000448631673396142

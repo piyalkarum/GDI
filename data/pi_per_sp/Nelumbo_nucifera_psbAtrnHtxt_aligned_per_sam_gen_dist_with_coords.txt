@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nelumbo_nucifera	JN045540.2	13-DEC-2011	347	China: Anhui	secondary	psbA-trnH	31.5216929145957	117.362467056596	0
+Nelumbo_nucifera	JN045541.2	13-DEC-2011	342	China: Anhui	secondary	psbA-trnH	31.6558727934711	117.918145290533	0
+Nelumbo_nucifera	JN045542.2	13-DEC-2011	347	China: Anhui	secondary	psbA-trnH	31.6716636365858	116.892621694576	0
+Nelumbo_nucifera	JN045543.2	13-DEC-2011	347	China: Hubei	secondary	psbA-trnH	31.1530504	112.8806423	0

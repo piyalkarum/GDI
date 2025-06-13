@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_graminea	MN447803.1	21-FEB-2022	553	United Kingdom: England, County Durham, Bishop Auckland Park	primary	rbcL	54.672	-1.6592	0
+Stellaria_graminea	MG248007.1	21-JAN-2018	552	Canada: Ontario, Ontario, Haliburton County, Silent Lake Provinical Park, Day Use Area	primary	rbcL	44.921	-78.071	0
+Stellaria_graminea	MG247069.1	21-JAN-2018	551	Canada: Quebec, Montreal, Ile Perrot, Parc des Rainettes	primary	rbcL	45.36	-73.882	0
+Stellaria_graminea	KJ841601.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. La Pre (the old orchard)	primary	rbcL	45.542	-73.161	0
+Stellaria_graminea	JN890625.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.13	0
+Stellaria_graminea	MT931034.1	03-MAR-2023	568	China	secondary	rbcL	34.5963801535362	104.276409852591	0
+Stellaria_graminea	MT931033.1	03-MAR-2023	572	China	secondary	rbcL	35.7851662266435	104.637597083492	0
+Stellaria_graminea	JN892194.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.5416805102239	-2.87373895009399	0
+Stellaria_graminea	JN892193.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4294357458799	-4.8178148247667	0

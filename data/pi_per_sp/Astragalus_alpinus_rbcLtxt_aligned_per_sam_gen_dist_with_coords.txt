@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_alpinus	MZ359333.1	07-DEC-2021	539	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.0822711163352996
+Astragalus_alpinus	KX679217.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Relay Creek, along trail on south-facing slope in open meadow north of cabin	primary	rbcL	51.183	-122.968	0.0038944946008143
+Astragalus_alpinus	KC482071.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island (Northwest Territories), De Salis Bay, ~2km N of Sandhill River, ~2.5 km W of Windrum Lagoon, near shore of small lake	primary	rbcL	71.47	-121.884	0.0038944946008143
+Astragalus_alpinus	KC482070.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.908	-108.891	0.0038944946008143
+Astragalus_alpinus	KC482069.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Tukarak Island, slightly east facing slope below large rock hills, 50 m from shore	primary	rbcL	56.386	-78.872	0.0038944946008143
+Astragalus_alpinus	KC482068.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Iqaluit. Slopes along east side of Federal Ave., east of airport	primary	rbcL	63.803	-68.619	0.0038944946008143
+Astragalus_alpinus	KC482067.1	25-OCT-2013	552	Canada: Nunavut, Canadian Arctic Archipelago, Baffin Island, Iqaluit	primary	rbcL	63.445	-68.335	0.0038944946008143
+Astragalus_alpinus	KC482066.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	rbcL	70.735	-117.761	0.0038944946008143
+Astragalus_alpinus	KC482065.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 3 km ESE of junction with Little Hornaday River, NE bank	primary	rbcL	68.083	-121.633	0.0038944946008143
+Astragalus_alpinus	KC482064.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.277	-116.516	0.0038944946008143
+Astragalus_alpinus	KC482063.1	25-OCT-2013	552	Canada: Nunavut, Arctic Mainland, West Hudson Bay, Rankin Inlet	primary	rbcL	62.48	-92.05	0.0038944946008143
+Astragalus_alpinus	KC482062.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island (Nunavut), Cambridge Bay, Victoria Island	primary	rbcL	69.117	-105.05	0.0038944946008143
+Astragalus_alpinus	KC482061.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	rbcL	68.531	-112.703	0.0038944946008143
+Astragalus_alpinus	JN965277.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	rbcL	58.734	-94.112	0.0038944946008143
+Astragalus_alpinus	JN965276.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Bank of small stream near Goose Creek Rd	primary	rbcL	59.3856978785849	-94.9290445016622	0.0038944946008143
+Astragalus_alpinus	JN965275.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Bank of small stream near Goose Creek Rd	primary	rbcL	58.7233904109534	-92.9175926090273	0.0038944946008143
+Astragalus_alpinus	MK925550.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8648943679074	-3.86485098797973	0.00397561622051418
+Astragalus_alpinus	MK925305.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3040040535638	-2.93449601316191	0.00397561622051418
+Astragalus_alpinus	MK925298.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5278051883587	-2.91957693709719	0.00397561622051418
+Astragalus_alpinus	MK925190.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2989511292666	-4.30065078467889	0.00397561622051418
+Astragalus_alpinus	MK924770.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2697530659544	-4.3449503495363	0.00397561622051418
+Astragalus_alpinus	MK924547.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1355928445189	-3.92275298147802	0.00397561622051418

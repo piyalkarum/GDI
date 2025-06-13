@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_longiflorus	HG518204.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.9551834664542	12.0444921919451	0
+Crocus_longiflorus	HG518203.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.7025729629575	11.4803182128318	0
+Crocus_longiflorus	HG518202.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.2511110310437	12.7562849666359	0
+Crocus_longiflorus	HG518201.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.8536599472135	13.6624351109552	0

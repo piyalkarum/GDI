@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sabulina_rubella	KC475024.1	25-OCT-2013	776	Canada: Northwest Territories, Axel Heiberg Island, Expedition Fiord	primary	matK	79.4	-90.8	0.000463723098691767
+Sabulina_rubella	KC475023.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.68	-115.492	0.000463326688351803
+Sabulina_rubella	KC475022.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Summit of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.514	-116.439	0.000463326688351803
+Sabulina_rubella	KC475021.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk. Behind Northern Store/Hotel/Parks Canada building (Paulatuk Centre)	primary	matK	69.467	-124.211	0.000463326688351803
+Sabulina_rubella	KC475020.1	25-OCT-2013	776	Canada: Nunavut, Victoria Island, Cambridge Bay	primary	matK	69.1	-105.117	0.000463723098691767
+Sabulina_rubella	KC475019.1	25-OCT-2013	776	Canada: Nunavut, Baffin Island, Kimmirut	primary	matK	62.85	-69.867	0.000463723098691767
+Sabulina_rubella	KC475018.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Small cliff south of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	matK	68.703	-112.653	0.000463326688351803
+Sabulina_rubella	KC475017.1	25-OCT-2013	766	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, West side of Hornaday River, 0.5-1 km N of confluence of small tributary river with Hornaday	primary	matK	68.308	-121.903	0.000465501010907019
+Sabulina_rubella	KC475016.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of cliffs on S shore of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.27	-116.46	0.000463326688351803
+Sabulina_rubella	JN966377.1	27-OCT-2012	776	Canada: Manitoba, Churchill, unspecified locality	primary	matK	58.4479068431904	-95.4087871736684	0.000463521806800408
+Sabulina_rubella	JN966376.1	27-OCT-2012	559	Canada: Manitoba, Churchill, unspecified locality	primary	matK	58.0813898910245	-92.6423988370688	0.000632515139104122
+Sabulina_rubella	JN966375.1	27-OCT-2012	765	Canada: Manitoba, Churchill, 23 km E Churchill, CNSC	primary	matK	58.738	-93.819	0.000465701777232082
+Sabulina_rubella	JN966374.1	27-OCT-2012	776	Canada: Manitoba, Churchill, unspecified locality	primary	matK	59.002661119848	-93.2848482184548	0.000463521806800408
+Sabulina_rubella	JN966373.1	27-OCT-2012	766	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh	primary	matK	58.75	-94.11	0.000465501010907019
+Sabulina_rubella	JN966372.1	27-OCT-2012	776	Canada: Manitoba, Churchill, unspecified locality	primary	matK	59.3702717046299	-93.0180002412175	0.000463521806800408
+Sabulina_rubella	MK926151.1	14-JAN-2020	768	United Kingdom	secondary	matK	54.3454933490481	-4.39850155608327	0.00236408180042986
+Sabulina_rubella	MK925821.1	14-JAN-2020	813	Iceland	secondary	matK	64.9841821	-18.1059013	0.00233812112511422
+Sabulina_rubella	MK925688.1	14-JAN-2020	744	United Kingdom	secondary	matK	54.021428473003	-2.28966439787595	0.00242538417084169

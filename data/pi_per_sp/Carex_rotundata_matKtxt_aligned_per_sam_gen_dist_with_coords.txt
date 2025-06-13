@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_rotundata	KC474380.1	25-OCT-2013	548	Canada: Northwest Territories, Northwest Territories Mainland, Inuvialuit Region, 40 km SSW of Tuktoyaktuk, near Parsons Lake. Site 80-26	primary	matK	69.1	-133.617	0.00159671532846715
+Carex_rotundata	KC474379.1	25-OCT-2013	773	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Trail River	primary	matK	69.022	-138.665	0.00161489932216355
+Carex_rotundata	KC474378.1	25-OCT-2013	773	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Mainland south of delta	primary	matK	68.868	-136.991	0.00161489932216355
+Carex_rotundata	JN966203.1	27-OCT-2012	774	Canada: Manitoba, Churchill, 5 km E Churchill, Miss Piggy, n of airport, beach near /`/` crash site	primary	matK	58.763	-94.087	0.00544313431373157
+Carex_rotundata	JN966202.1	27-OCT-2012	683	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	matK	58.769	-93.856	0.0062945342182381
+Carex_rotundata	JN966201.1	27-OCT-2012	777	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	matK	58.4347550518651	-94.0551838658967	0.00161083392782591
+Carex_rotundata	JN966191.1	27-OCT-2012	727	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	matK	57.9069917384052	-92.7393078404876	0.00165544683059119
+Carex_rotundata	MN763748.1	28-JUL-2020	537	Finland	secondary	matK	63.2467777	25.9209164	0.00325884543761639
+Carex_rotundata	HG915877.1	07-MAR-2016	2485	USA:Alaska	secondary	matK	64.4459613	-149.680909	0.00161083392782591

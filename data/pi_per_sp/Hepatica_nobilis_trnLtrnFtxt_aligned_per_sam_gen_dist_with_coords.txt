@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hepatica_nobilis	MT276423.1	12-OCT-2020	371	Spain: Terual, Pitarque	primary	trnL-trnF	40.63485	0.59698	0.128419452887538
+Hepatica_nobilis	MT276422.1	12-OCT-2020	367	Italy: Genova, Vobbia	primary	trnL-trnF	44.61509	9.01414	0.128067484662577
+Hepatica_nobilis	MT276421.1	12-OCT-2020	332	Romania: Bihor, Nucet	primary	trnL-trnF	46.49576	22.55516	0.125429553264605
+Hepatica_nobilis	MT276420.1	12-OCT-2020	373	Spain: Barcelona, Alpens	primary	trnL-trnF	42.11404	2.1151	0.128398791540786
+Hepatica_nobilis	MK564172.1	17-MAR-2019	514	Romania: Nucet	primary	trnL-trnF	46.5	22.56	0.510315282355505

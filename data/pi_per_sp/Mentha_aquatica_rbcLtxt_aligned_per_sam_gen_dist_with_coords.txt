@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_aquatica	ON684515.1	21-AUG-2022	1434	Portugal: Meiral, Canidelo, Vila Nova de Gaia	primary	rbcL	41.12447	-8.64486	0.000193423597678917
+Mentha_aquatica	ON684512.1	21-AUG-2022	1434	Portugal: Utopia, Pedreira, Povoa do Lanhoso	primary	rbcL	41.61855	-8.32338	0.000193423597678917
+Mentha_aquatica	ON684500.1	21-AUG-2022	1434	Portugal: Jardim Botanico da Ajuda, Ajuda, Lisboa	primary	rbcL	38.70641	-9.19938	0.000193423597678917
+Mentha_aquatica	KX356060.1	15-NOV-2016	212	India	primary	rbcL	26.6055991599002	81.3196980614939	0
+Mentha_aquatica	KX356059.1	15-NOV-2016	212	India	primary	rbcL	27.5884954508102	80.9924544236668	0
+Mentha_aquatica	KX356058.1	15-NOV-2016	212	India	primary	rbcL	26.6885653042863	80.6280876962684	0
+Mentha_aquatica	KX356057.1	15-NOV-2016	212	India	primary	rbcL	26.2366899740902	81.2670185287638	0
+Mentha_aquatica	MG224103.1	26-DEC-2017	517	Canada: Ontario, Durham R. M., Oshawa, Ghost Rd, Second Marsh area, N of road	secondary	rbcL	43.72634945	-77.7101179040839	0.00116474644689261
+Mentha_aquatica	KP172048.1	04-FEB-2015	1337	Pakistan	secondary	rbcL	30.3308401	71.247499	0.000197628458498024
+Mentha_aquatica	KC584892.1	04-JUN-2013	685	Italy: Umbria	secondary	rbcL	42.965916	12.490236	0.000193423597678917
+Mentha_aquatica	HM850170.1	23-JUL-2011	684	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000193423597678917

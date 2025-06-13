@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armoracia_rusticana	MG220631.1	21-JAN-2018	779	Canada: Quebec, Montreal, Island of Montreal, Parc de la Pointe-aux-Prairies sect. du Fleuve, entre le chemin de fer et le boise	primary	matK	45.682	-73.493	0.000256739409499358
+Armoracia_rusticana	JN894749.1	07-MAR-2012	783	United Kingdom: Monmouthshire	primary	matK	51.61	-2.78	0.000255427841634738
+Armoracia_rusticana	LC064385.1	14-JUL-2015	2195	Japan	secondary	matK	36.5748441	139.2394179	0.00102681570156236
+Armoracia_rusticana	JN894591.1	07-MAR-2012	792	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000252525252525253
+Armoracia_rusticana	JN894589.1	07-MAR-2012	763	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.000262123197903014
+Armoracia_rusticana	FN597648.1	26-AUG-2010	1041	Netherlands:Gelderland	secondary	matK	52.1014041	5.9515701	0

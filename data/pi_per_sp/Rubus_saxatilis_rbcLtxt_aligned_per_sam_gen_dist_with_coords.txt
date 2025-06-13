@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubus_saxatilis	JN891152.1	07-MAR-2012	535	United Kingdom: Radnorshire	primary	rbcL	52.25	-3.2	0.208597603946441
+Rubus_saxatilis	MK925451.1	14-JAN-2020	505	United Kingdom	secondary	rbcL	53.8106368974931	-3.0815426273646	0.208333333333333
+Rubus_saxatilis	MK924832.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2063401058447	-4.41677863060537	0.208333333333333
+Rubus_saxatilis	AJ628832.1	11-APR-2005	551	Italy:Suedtirol, Felixer Weiher	secondary	rbcL	46.4965569	11.163614	0.625264270613108

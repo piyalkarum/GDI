@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Buxus_sempervirens	MT311734.1	28-SEP-2020	306	France	secondary	psbA-trnH	46.1288602247021	1.76108675207619	0
+Buxus_sempervirens	MT311733.1	28-SEP-2020	306	France	secondary	psbA-trnH	46.4533135257796	2.81702470490791	0
+Buxus_sempervirens	FJ493272.1	22-DEC-2008	372	Italy	secondary	psbA-trnH	42.6384261	12.674297	0
+Buxus_sempervirens	HE966525.1	18-SEP-2012	279	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.0926569686358	14.708140918965	0
+Buxus_sempervirens	HE966524.1	18-SEP-2012	279	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.9502274251309	14.419647433941	0
+Buxus_sempervirens	HE966523.1	18-SEP-2012	279	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6503964703308	13.9943724158955	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lithospermum_officinale	KJ841381.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, on west edge of mowed area behind chalets, within 20 metres of chalets	primary	rbcL	45.537	-73.153	0.00147126036960487
+Lithospermum_officinale	JN892706.1	07-MAR-2012	458	United Kingdom: Carmarthenshire	primary	rbcL	51.69	-4.3	0.000547045951859956
+Lithospermum_officinale	EU599855.1	31-MAR-2009	1194	Italy	secondary	rbcL	42.6384261	12.674297	0
+Lithospermum_officinale	JN893110.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0.000462107208872458
+Lithospermum_officinale	JN891191.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.000462107208872458

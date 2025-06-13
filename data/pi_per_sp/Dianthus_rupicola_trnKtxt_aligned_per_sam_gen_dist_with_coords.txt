@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_rupicola	OU877868.1	17-JUN-2022	2418	Italy:Sicily, Messina, Capo Milazzo, Milazzo	secondary	trnK	38.7652216636625	15.9335757315688	0.295266479784356
+Dianthus_rupicola	OU877856.1	17-JUN-2022	2417	Italy:Sicily, Messina, Castelmola	secondary	trnK	38.2070712475041	16.3032064328054	0.295266479784356
+Dianthus_rupicola	OU877732.1	17-JUN-2022	2415	Italy:Stromboli, no further locality data	secondary	trnK	38.5759420379194	15.3467738634345	0.296426037129627
+Dianthus_rupicola	OU860245.1	17-JUN-2022	243	Italy:Sicily, Messina, Capo Milazzo, Milazzo	secondary	trnK	38.3808859959995	16.0198939165656	0.293775933609958
+Dianthus_rupicola	OU860244.1	17-JUN-2022	243	Italy:Stromboli, no further locality data	secondary	trnK	38.9498665025121	15.3258320475799	0.293775933609958
+Dianthus_rupicola	OU860226.1	17-JUN-2022	243	Italy:Sicily, Messina, Castelmola	secondary	trnK	38.1989684990911	14.7663762716267	0.293775933609958

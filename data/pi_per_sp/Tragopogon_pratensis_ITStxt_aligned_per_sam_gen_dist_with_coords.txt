@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_pratensis	AJ633495.1	13-DEC-2004	641	Germany:Sachsen-Anhalt	secondary	ITS	52.0089065	11.7003344	0.00471531148867314
+Tragopogon_pratensis	LS973937.1	29-AUG-2018	452	Czech Republic	secondary	ITS	49.7439047	15.3381061	0.00228398774236045
+Tragopogon_pratensis	AM493999.1	22-FEB-2007	350	USA:ID, Moscow	secondary	ITS	46.5757503731113	-117.643364016466	0.0044428202697008
+Tragopogon_pratensis	AM493998.1	22-FEB-2007	350	USA:ID, Moscow	secondary	ITS	46.7068214197525	-117.506434380452	0.0044428202697008
+Tragopogon_pratensis	AM493997.1	22-FEB-2007	350	USA:ID, Moscow	secondary	ITS	47.0341848386011	-118.009947471945	0.00220982142857143

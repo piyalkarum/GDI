@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Adonis_vernalis	OR738217.1	13-NOV-2023	804	Kazakhstan: East Kazakhstan region	primary	matK	50.3422	83.5511	0.0353427953043078
+Adonis_vernalis	OR738181.1	13-NOV-2023	752	Kazakhstan: Atyrau region	primary	matK	46.32025	55.3501	0.244882519843163
+Adonis_vernalis	OR508851.1	17-OCT-2023	756	Kazakhstan: Buiratau National Park	secondary	matK	51.3871823	73.3156977	0.0379662289663351
+Adonis_vernalis	OL943577.1	13-NOV-2022	803	Romania	secondary	matK	45.9852129	24.6859225	0.0356853640707602
+Adonis_vernalis	OL943576.1	13-NOV-2022	803	Austria	secondary	matK	36.9148511	-4.7534501	0.0356853640707602
+Adonis_vernalis	OL943575.1	13-NOV-2022	803	Spain	secondary	matK	39.3260685	-4.8379791	0.0356853640707602
+Adonis_vernalis	KJ746121.1	29-JUL-2014	678	Poland	secondary	matK	52.215933	19.134422	0.0371434174291764
+Adonis_vernalis	AJ414340.1	14-SEP-2002	880	Germany	secondary	matK	34.895926	-83.4665496	0.03553477516954

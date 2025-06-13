@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostemma_githago	MG249937.1	21-JAN-2018	552	Canada: Essex County, ON	primary	rbcL	42.166	-82.784	0
+Agrostemma_githago	MG248206.1	21-JAN-2018	552	Canada: Oxford County, ON	primary	rbcL	42.9719	-80.8131	0
+Agrostemma_githago	MG246565.1	21-JAN-2018	552	Canada: Middlesex County, ON	primary	rbcL	43	-81.5	0
+Agrostemma_githago	JN891531.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.75	-3.2	0
+Agrostemma_githago	OQ172533.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.638392	127.6961188	0
+Agrostemma_githago	MK895562.1	30-JUN-2019	464	USA: TN	secondary	rbcL	35.7730076	-86.2820081	0
+Agrostemma_githago	JN891551.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0
+Agrostemma_githago	JN891550.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

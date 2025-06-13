@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kundmannia_sicula	HE687434.1	04-MAY-2012	461	Morocco:Marrakech	secondary	rpoC1	31.9220924894347	-8.96820909254173	0.0131502078418155
+Kundmannia_sicula	HE687420.1	04-MAY-2012	460	Morocco:Marrakech	secondary	rpoC1	31.4174183890315	-7.50764688454075	0.00271739130434783
+Kundmannia_sicula	HE687386.1	04-MAY-2012	450	Morocco:Marrakech	secondary	rpoC1	31.3279051945713	-8.62268924994316	0.00347222222222222
+Kundmannia_sicula	HE687376.1	04-MAY-2012	450	Morocco:Marrakech	secondary	rpoC1	32.111738052948	-7.80000070919832	0.00347222222222222
+Kundmannia_sicula	HE603102.1	14-OCT-2011	448	Morocco	secondary	rpoC1	28.3347722	-10.3713379	0.00348837209302326

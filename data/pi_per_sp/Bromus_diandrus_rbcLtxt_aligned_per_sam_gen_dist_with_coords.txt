@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_diandrus	KF712967.1	15-DEC-2013	1096	South Korea: Incheon, Ongjin-gun, Baengnyeon-myeon, Jinchon-ri	secondary	rbcL	37.456	126.7052	0.0025296411053817
+Bromus_diandrus	KF712966.1	15-DEC-2013	1096	South Korea: Wando, Jeollanam-do	secondary	rbcL	34.34488865	126.691058840622	0.0025296411053817
+Bromus_diandrus	KF712964.1	15-DEC-2013	1096	South Korea: Suncheon-si, Jeollanam-do	secondary	rbcL	34.9505457	127.4872992	0.0025296411053817
+Bromus_diandrus	HM849828.1	23-JUL-2011	697	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00327272638394287
+Bromus_diandrus	HQ600435.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.00575091716175748

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Malva_excisa	HM214512.1	31-MAY-2011	498	Ukraine	secondary	psbA-trnH	49.0281876700692	31.4083331951214	0
+Malva_excisa	HM214511.1	31-MAY-2011	498	Ukraine	secondary	psbA-trnH	50.0083090247484	31.3992169250931	0
+Malva_excisa	HM214510.1	31-MAY-2011	497	Ukraine	secondary	psbA-trnH	49.7648481620031	31.1707451023651	0
+Malva_excisa	HM214509.1	31-MAY-2011	498	Ukraine	secondary	psbA-trnH	49.8090023955873	31.9914157756579	0
+Malva_excisa	HM214508.1	31-MAY-2011	498	Poland	secondary	psbA-trnH	51.7875808745377	19.6241587693725	0
+Malva_excisa	HM214507.1	31-MAY-2011	498	Poland	secondary	psbA-trnH	51.6331652502064	19.3520109459249	0
+Malva_excisa	HM214506.1	31-MAY-2011	498	Poland	secondary	psbA-trnH	51.5780757084864	19.6793161810405	0

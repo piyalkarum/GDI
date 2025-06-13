@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cotinus_coggygria	MH714293.1	01-SEP-2020	893	China: Xi'an Botanical Garden	secondary	matK	34.2088967	108.9540883	0.00897776515373069
+Cotinus_coggygria	MT114393.1	30-MAR-2020	714	Montenegro	secondary	matK	-29.6826112	-51.4687455	0.00436791927453474
+Cotinus_coggygria	HE966907.1	18-SEP-2012	763	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.012469390512713
+Cotinus_coggygria	KP089025.1	15-MAR-2015	754	China	secondary	matK	39.9057136	116.3912972	0.00369317312855968

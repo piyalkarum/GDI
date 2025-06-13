@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cichorium_spinosum	AJ633455.1	13-DEC-2004	640	Greece:Crete, Sfakia	secondary	ITS	35.2013308	24.1360907	0.00833333333333333
+Cichorium_spinosum	AJ633448.1	13-DEC-2004	641	Greece:Crete	secondary	ITS	34.4198055326328	24.3080467036249	0.00832764560582423
+Cichorium_spinosum	AJ746394.1	02-DEC-2004	640	Greece:Crete, Eparchi	secondary	ITS	35.3084952	24.463342318423	0.009375
+Cichorium_spinosum	AJ746393.1	02-DEC-2004	641	Greece:Crete	secondary	ITS	34.5515935572781	24.4377289236453	0.0135359789391576

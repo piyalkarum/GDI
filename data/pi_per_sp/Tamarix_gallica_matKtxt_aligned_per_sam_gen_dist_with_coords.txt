@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_gallica	OL434964.1	14-NOV-2022	779	USA: Georgia	primary	matK	32.126	-81.14	0.000949597464885235
+Tamarix_gallica	MZ563153.1	24-APR-2022	695	France: Occitanie, Languedoc-Roussillon, Aude, La Palme, Etang de La Palme	primary	matK	42.967	2.999	0.00102774922918808
+Tamarix_gallica	MZ563152.1	24-APR-2022	695	Morocco: Gharb-Chrarda-Beni Hssen Region, Kenitra, Kenitra, North of the city, next to Mohamed V avenue (N1)	primary	matK	34.272	-6.556	0.00102774922918808
+Tamarix_gallica	MZ563151.1	24-APR-2022	695	Spain: Andalusia, Malaga, Malaga, Desembocadura del rio Guadalhorce	primary	matK	36.668	-4.466	0.00102774922918808
+Tamarix_gallica	MZ563150.1	24-APR-2022	695	Spain: Comunidad Valenciana, Alicante, Elche, Pantano de Elche	primary	matK	38.313	-0.724	0.00226104830421377
+Tamarix_gallica	MZ563149.1	24-APR-2022	695	Spain: Castilla-La Mancha, Ciudad Real, Daimiel, Tablas de Daimiel, Isla Algeciras	primary	matK	39.163	-3.684	0.00102774922918808
+Tamarix_gallica	MZ563148.1	24-APR-2022	695	Spain: Catalonia, Tarragona, Delta del Ebro	primary	matK	40.629	0.753	0.00102774922918808
+Tamarix_gallica	KC584947.1	04-JUN-2013	809	Italy: Umbria	secondary	matK	42.965916	12.490236	0.00588279376498801

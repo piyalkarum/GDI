@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_myuros	MF597086.1	28-FEB-2018	603	Canada: British Columbia, Mayne Island, Bennett Bay, Gulf Islands National Park Reserve of Canada, Wilkes Road off Bennett Bay Road. Along trail through woods along coast.	primary	rbcL	49.2458302906214	-122.954149023733	0.000646928405647291
+Festuca_myuros	MF597085.1	28-FEB-2018	603	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	rbcL	48.8004603086656	-122.666102164552	0.000646928405647291
+Festuca_myuros	MF597084.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, along Deering Road 29.5 km N of Port Renfrew. Rocky roadside in mountains with Lolium, Elymus, Festuca.	primary	rbcL	48.5832459810629	-123.341217053863	0.000646928405647291
+Festuca_myuros	MF597083.1	28-FEB-2018	603	Canada: British Columbia, Horseshoe Bay, Whytecliff Park. Among rocky cliffs with Anthoxanthum odoratum and Dactylis glomerata.	primary	rbcL	49.7234107443716	-123.488453705002	0.000646928405647291
+Festuca_myuros	MF597082.1	28-FEB-2018	603	Canada: British Columbia, Vancouver, University of British Columbia Botanical Garden, west side of campus.	primary	rbcL	50.0402280560829	-123.632273671739	0.000646928405647291
+Festuca_myuros	MG228148.1	23-JAN-2018	603	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	rbcL	48.64638918795	-122.594605493539	0.000646928405647291
+Festuca_myuros	MG227496.1	23-JAN-2018	603	Canada: British Columbia, Mayne Island, Bennett Bay, Gulf Islands National Park Reserve of Canada, Wilkes Road off Bennett Bay Road. Along trail through woods along coast.	primary	rbcL	48.089670873112	-123.386512736073	0.000646928405647291
+Festuca_myuros	MG227330.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, along Deering Road 29.5 km N of Port Renfrew. Rocky roadside in mountains with Lolium, Elymus, Festuca.	primary	rbcL	48.7327127423331	-124.529113016221	0.000646928405647291
+Festuca_myuros	MG226487.1	23-JAN-2018	603	Canada: British Columbia, Horseshoe Bay, Whytecliff Park. Among rocky cliffs with Anthoxanthum odoratum and Dactylis glomerata.	primary	rbcL	49.2370707594958	-123.169622717693	0.000646928405647291
+Festuca_myuros	MG225822.1	23-JAN-2018	603	Canada: British Columbia, Vancouver, University of British Columbia Botanical Garden, west side of campus.	primary	rbcL	48.8618439576096	-123.657293351257	0.000646928405647291
+Festuca_myuros	JN891423.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.68	-4.24	0.000493657016589708
+Festuca_myuros	OQ391611.1	10-MAY-2023	525	Peru	secondary	rbcL	-6.24056243868105	-74.7701027814125	0.00224778488663887
+Festuca_myuros	OQ391433.1	10-MAY-2023	519	Peru	secondary	rbcL	-6.94747220558837	-75.5429227228217	0.00563029179752123
+Festuca_myuros	OQ391426.1	10-MAY-2023	525	Peru	secondary	rbcL	-6.65804064655747	-75.3232676866694	0.000665398101939947
+Festuca_myuros	KT438984.1	23-SEP-2016	632	Turkey	secondary	rbcL	38.9597594	34.9249653	0.000660426050308298
+Festuca_myuros	KJ599162.1	21-SEP-2014	559	Australia: Victoria	secondary	rbcL	-36.5986096	144.6780052	0.00755731315975955
+Festuca_myuros	KF713076.1	15-DEC-2013	1096	South Korea: Ganghwa-gun, Inchon	secondary	rbcL	37.746	126.488	0.000824129152456503
+Festuca_myuros	KF713074.1	15-DEC-2013	1096	South Korea: Jeju-do	secondary	rbcL	33.3939924	126.5626653	0.000824129152456503
+Festuca_myuros	KF713073.1	15-DEC-2013	1096	South Korea: Iksan-si, Jeollabuk-do	secondary	rbcL	35.9479291	126.9578025	0.000824129152456503
+Festuca_myuros	KF713072.1	15-DEC-2013	1096	South Korea: Daecheongdo, Incheon	secondary	rbcL	37.8246278	124.69863991812	0.000824129152456503
+Festuca_myuros	KF713071.1	15-DEC-2013	1096	South Korea: Anyang-si, Gyeonggi-do	secondary	rbcL	37.3938528	126.9570605	0.000824129152456503
+Festuca_myuros	HQ600450.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.00191817904626862
+Festuca_myuros	FN870411.1	17-MAY-2012	1349	Portugal:Azores	secondary	rbcL	37.8085564	-25.4731374	0.000823927514316472
+Festuca_myuros	JN891716.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000493657016589708

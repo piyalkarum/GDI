@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_pratensis	AM903047.1	30-OCT-2007	676	Italy	secondary	26S rRNA	42.6384261	12.674297	0.00415407854984894
+Gagea_pratensis	AJ427542.1	12-JAN-2002	662	Germany:Saxony-Anhalt	secondary	26S rRNA	52.5573513805721	11.917276483108	0.00302114803625378
+Gagea_pratensis	AJ437203.1	01-MAR-2002	662	Germany:Saxony-Anhalt	secondary	26S rRNA	51.5185689279702	11.8954643831428	0.00264350453172205
+Gagea_pratensis	AJ437202.1	01-MAR-2002	662	Germany:Brandenburg	secondary	26S rRNA	52.8455492	13.2461296	0.00264350453172205
+Gagea_pratensis	AJ437201.1	01-MAR-2002	662	Germany:Saxony-Anhalt	secondary	26S rRNA	51.3479312784044	11.2673049300995	0.00188821752265861

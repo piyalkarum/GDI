@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tanacetum_vulgare	MG223901.1	26-DEC-2017	552	Canada: Yukon Territory, North Klondike Highway, km 635.8	primary	rbcL	63.871	-138.116	0
+Tanacetum_vulgare	MG222859.1	26-DEC-2017	552	Canada: Yukon Territory, Yukon River Bridge	primary	rbcL	60.572	-134.667	0
+Tanacetum_vulgare	MG221600.1	26-DEC-2017	524	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, Access Point	primary	rbcL	45.185	-81.602	0
+Tanacetum_vulgare	KT695544.1	29-SEP-2015	548	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0
+Tanacetum_vulgare	KJ841613.1	04-NOV-2014	478	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. La Pre (the old orchard)	primary	rbcL	45.542	-73.161	0
+Tanacetum_vulgare	JN892564.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.4	-4.06	0
+Tanacetum_vulgare	OR381722.1	30-SEP-2023	553	Canada: Guelph, ON	secondary	rbcL	42.989354233851	-80.0464192354202	0
+Tanacetum_vulgare	OR381721.1	30-SEP-2023	553	Canada: Guelph, ON	secondary	rbcL	43.686671938976	-80.7696792539651	0
+Tanacetum_vulgare	OQ189685.1	13-JUN-2023	804	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0
+Tanacetum_vulgare	MW010937.1	27-JUL-2021	553	Finland	secondary	rbcL	63.2789650213521	24.9051821723607	0
+Tanacetum_vulgare	MW010936.1	27-JUL-2021	553	Finland	secondary	rbcL	62.5459883711163	26.4931412765076	0
+Tanacetum_vulgare	MG224705.1	26-DEC-2017	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, Access Point	secondary	rbcL	43.72634945	-77.7101179040839	0
+Tanacetum_vulgare	JX848431.1	06-AUG-2013	1316	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0
+Tanacetum_vulgare	JN891960.1	07-MAR-2012	535	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Tanacetum_vulgare	JN891957.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

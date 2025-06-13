@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ammi_majus	OR290936.1	19-SEP-2023	657	Egypt	secondary	matK	26.009011359936	28.5377939648491	0
+Ammi_majus	OQ290551.1	16-MAY-2023	717	Mexico: Puebla	secondary	matK	19.1705686	-98.4123106	0
+Ammi_majus	KX758458.1	29-AUG-2017	450	Egypt	secondary	matK	26.5513062232102	28.9008871122425	0
+Ammi_majus	HM850716.1	23-JUL-2011	810	Portugal	secondary	matK	39.6621648	-8.1353519	0

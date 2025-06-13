@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aegilops_speltoides	DQ290653.1	23-DEC-2006	719	Syria: Aleppo	primary	Adh	36.17	36.83	0.00198688654877806
+Aegilops_speltoides	DQ290652.1	23-DEC-2006	719	Syria: Aleppo	primary	Adh	37	36.68	0.000794754619511226
+Aegilops_speltoides	DQ290642.1	23-DEC-2006	719	Turkey: Siirt	primary	Adh	37.75	42.17	0.000794754619511226
+Aegilops_speltoides	DQ290641.1	23-DEC-2006	719	Turkey: Siirt	primary	Adh	38.07	41.78	0.000794754619511226
+Aegilops_speltoides	DQ290640.1	23-DEC-2006	719	Turkey: Adiyaman	primary	Adh	38.02	38.52	0.000794754619511226
+Aegilops_speltoides	DQ290639.1	23-DEC-2006	719	Turkey: Gaziantep	primary	Adh	37.08	37.4	0.000794754619511226
+Aegilops_speltoides	DQ290638.1	23-DEC-2006	719	Turkey: Adiyaman	primary	Adh	37.97	38.62	0.000794754619511226
+Aegilops_speltoides	DQ290643.1	31-DEC-2012	719	Turkey	secondary	Adh	38.3705416	34.026907	0.00437115040731174

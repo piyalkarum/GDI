@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Deschampsia_cespitosa	KX872744.1	16-OCT-2017	927	Canada: Saskatchewan, Cypress Hills Provincial Park, near overlook (East Park)	primary	trnL-trnF	49.6783	-109.5508	0.00108813928182807
+Deschampsia_cespitosa	KX872743.1	16-OCT-2017	918	Canada: Alberta, Banff National Park, Waterfowl Lakes trail, towards Cirque Lake	primary	trnL-trnF	51.8408	-116.6228	0.00109649122807018
+Deschampsia_cespitosa	MW240903.1	04-SEP-2021	922	Brazil	secondary	trnL-trnF	-10.3333333	-53.2	0.00218463050989825
+Deschampsia_cespitosa	EU004146.1	24-JUL-2007	364	Svalbard	secondary	trnL-trnF	78.7198519	20.3493328	0

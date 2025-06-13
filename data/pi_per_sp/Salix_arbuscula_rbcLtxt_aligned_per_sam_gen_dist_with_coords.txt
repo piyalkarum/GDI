@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_arbuscula	MK925082.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.5455967874917	-2.87115110983657	0
+Salix_arbuscula	MK925065.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2556877185472	-2.9679648660445	0
+Salix_arbuscula	MK924905.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3219945777266	-2.38402474641362	0
+Salix_arbuscula	MK924543.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4614517919441	-4.65898341128878	0

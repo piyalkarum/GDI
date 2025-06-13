@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ceratocarpus_arenarius	LR537386.1	28-MAY-2019	525	Ukraine	primary	18S rRNA	48.1342	39.7964	0.00317460317460318
+Ceratocarpus_arenarius	LR537385.1	28-MAY-2019	525	Russia	primary	18S rRNA	43.8987136554081	47.1005419543585	0.00571428571428571
+Ceratocarpus_arenarius	LR537384.1	28-MAY-2019	525	Russia	primary	18S rRNA	44.750389869621	47.7341036741251	0.00380952380952381
+Ceratocarpus_arenarius	LR537383.1	28-MAY-2019	525	Russia	primary	18S rRNA	44.198790473102	47.8272838785703	0.00507936507936508

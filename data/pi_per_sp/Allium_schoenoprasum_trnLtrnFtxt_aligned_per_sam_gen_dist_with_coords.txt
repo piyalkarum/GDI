@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_schoenoprasum	MT225412.1	01-MAR-2021	366	Russia: Altai	secondary	trnL-trnF	50.7114101	86.8572186	0.509986868477435
+Allium_schoenoprasum	KF550171.1	01-JAN-2014	709	USA: Washington	secondary	trnL-trnF	38.8950368	-77.0365427	0.0676909728356674
+Allium_schoenoprasum	AB477119.1	16-JUL-2009	311	Japan	secondary	trnL-trnF	36.6038753791162	140.299973905152	0.090444195029222
+Allium_schoenoprasum	AB477118.1	16-JUL-2009	312	Japan	secondary	trnL-trnF	36.8768299971915	138.684026727	0.0922952993267863
+Allium_schoenoprasum	AB477117.1	16-JUL-2009	312	Japan	secondary	trnL-trnF	36.9595648221494	139.067785021802	0.0904390420899855
+Allium_schoenoprasum	AB477116.1	16-JUL-2009	313	Japan	secondary	trnL-trnF	37.0863938102433	138.920146923963	0.0925758052021141
+Allium_schoenoprasum	AB477115.1	16-JUL-2009	313	Japan	secondary	trnL-trnF	36.996287628767	138.317406693688	0.0904373354189498

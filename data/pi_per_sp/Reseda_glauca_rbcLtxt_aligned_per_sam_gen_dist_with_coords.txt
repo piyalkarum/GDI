@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Reseda_glauca	GQ891215.1	30-SEP-2010	1385	Spain: Gerona, Nuria Sanctuary	secondary	rbcL	41.9793006	2.8199439	0
+Reseda_glauca	GQ891214.1	30-SEP-2010	867	Spain: Navarra, Lakartxela	secondary	rbcL	42.54084	0.0316563	0
+Reseda_glauca	GQ891213.1	30-SEP-2010	1385	Spain: Asturias, Central Picos de Europa	secondary	rbcL	37.56683545	-5.43181911956782	0
+Reseda_glauca	GQ891212.1	30-SEP-2010	1379	Spain: Leon, Western Picos de Europa	secondary	rbcL	42.5989995	-5.5682413	0

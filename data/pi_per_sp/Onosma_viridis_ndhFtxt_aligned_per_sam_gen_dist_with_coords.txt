@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Onosma_viridis	JX267900.1	18-SEP-2012	634	Romania: Moldovenesti	secondary	ndhF	46.5005469	23.6644851	0
+Onosma_viridis	JX267899.1	18-SEP-2012	634	Romania: Deva	secondary	ndhF	45.8817402	22.9008611	0
+Onosma_viridis	JX267898.1	18-SEP-2012	634	Romania: Orsova	secondary	ndhF	44.9268247036027	21.5238467327884	0
+Onosma_viridis	JX267897.1	18-SEP-2012	634	Romania: Orsova	secondary	ndhF	44.3823404171527	22.8369299597706	0

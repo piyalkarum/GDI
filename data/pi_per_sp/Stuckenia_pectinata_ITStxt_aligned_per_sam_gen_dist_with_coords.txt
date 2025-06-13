@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stuckenia_pectinata	HE613428.1	21-DEC-2011	727	United Kingdom:Fife, Coldrain	primary	ITS	56.19	-3.49	0.00320953690967446
+Stuckenia_pectinata	HE613427.1	21-DEC-2011	727	Russia:Pechora delta, Shrenii Shar	primary	ITS	68.1	53.63	0.00962861072902338
+Stuckenia_pectinata	HE613426.1	21-DEC-2011	727	Italy:Lake Iseo	primary	ITS	45.73	10.07	0.00320953690967446
+Stuckenia_pectinata	HE613425.1	21-DEC-2011	727	Netherlands:Buitenhavena, Midden Harnis, Haringfliet	primary	ITS	51.75	4.17	0.00320953690967446

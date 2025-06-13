@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Circaea_lutetiana	KP644057.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	39.4862882431187	-78.6912473509642	0.000156641604010025
+Circaea_lutetiana	KP643715.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.6404706868646	-77.425765179977	0.000156641604010025
+Circaea_lutetiana	KP643689.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	39.6367212349904	-77.6035860396821	0.000156641604010025
+Circaea_lutetiana	HQ590036.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., edge of trail 25 m N of driveway N of North Barn	primary	rbcL	44.03	-79.532	0.000156641604010025
+Circaea_lutetiana	KP402678.1	06-JAN-2016	524	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H15x8y6	primary	rbcL	38.889	-76.559	0.000159033078880407
+Circaea_lutetiana	KT695453.1	29-SEP-2015	511	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.000163078930202218
+Circaea_lutetiana	JN892903.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.51	-3.54	0.000156641604010025
+Circaea_lutetiana	MK924823.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0990030299106	-4.42411692216499	0.000156641604010025
+Circaea_lutetiana	MK924464.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.4142180561749	-3.99229652181908	0.000156641604010025
+Circaea_lutetiana	KJ204317.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.000157828282828283
+Circaea_lutetiana	JN892496.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000156641604010025
+Circaea_lutetiana	JN891684.1	07-MAR-2012	494	United Kingdom: Glamorgan (41)	secondary	rbcL	52.1018949048693	-3.92105048906524	0.000168690958164642
+Circaea_lutetiana	JN891431.1	07-MAR-2012	532	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4027224246794	-2.48550813035192	0.00190176408215575

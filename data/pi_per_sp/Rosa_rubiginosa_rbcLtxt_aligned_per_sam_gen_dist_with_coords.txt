@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_rubiginosa	MG679228.1	16-JAN-2019	361	India	primary	rbcL	31.09	77.15	0.0468107431096361
+Rosa_rubiginosa	JN891157.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.6	-3.64	0.0455234689346714
+Rosa_rubiginosa	MN125618.1	14-APR-2020	645	India	secondary	rbcL	22.3511148	78.6677428	0.0558364642523523
+Rosa_rubiginosa	MG249860.1	21-JAN-2018	552	Canada: Ontario, Grey Co., Keppel Tp., Skinner Bluff ANSI, Niagara Escarpment plain, slope and terrace just E of Oxenden	secondary	rbcL	43.9761275889574	-77.4007709004701	0.0455370302137067
+Rosa_rubiginosa	MG249385.1	21-JAN-2018	552	Canada: Quebec, Cte. Rimouski, Bic, Comte de Rimouski, au fond de la baie du Bic.	secondary	rbcL	47.249521135818	-71.4334848712269	0.0455370302137067
+Rosa_rubiginosa	MG249288.1	21-JAN-2018	552	Canada: Ontario, Grey Co., Keppel Tp., Skinner Bluff ANSI, Niagara Escarpment plain, slope and terrace just E of Oxenden	secondary	rbcL	44.5105295370712	-77.8710675548869	0.0455370302137067
+Rosa_rubiginosa	MG248780.1	21-JAN-2018	552	Canada: Ontario, Grey Co., Keppel Tp., Skinner Bluff ANSI, Niagara Escarpment plain, slope and terrace just E of Oxenden	secondary	rbcL	43.0074249234553	-77.612808015416	0.0472284398995891
+Rosa_rubiginosa	MG248143.1	21-JAN-2018	552	Canada: Quebec, Grenville (Argenteuil).	secondary	rbcL	45.769072	-74.6135623	0.0455370302137067
+Rosa_rubiginosa	MG247721.1	21-JAN-2018	552	Canada: Quebec, Cte. Rimouski, Bic, Cte Rimouski, Pointe-aux-Anglais.	secondary	rbcL	47.2115827190143	-71.8112313280198	0.0455370302137067
+Rosa_rubiginosa	JN893209.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.0455234689346714
+Rosa_rubiginosa	JN893208.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.0455234689346714
+Rosa_rubiginosa	JN893207.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0455234689346714
+Rosa_rubiginosa	AJ628819.1	11-APR-2005	563	Germany:Schleswig Holstein, Helgoland	secondary	rbcL	54.1800452	7.8853621	0.535131457540997

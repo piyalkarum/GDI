@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Orostachys_spinosa	LK022073.1	12-MAY-2015	613	Russia:Magadan Terr., Susumansky Distr	primary	5.8S rRNA	63.99	152.4	0.0263071895424837
+Orostachys_spinosa	LK022072.1	12-MAY-2015	612	Russia:Khabarovsky Terr., Shantar Islands	primary	5.8S rRNA	54.91	137.67	0.0263071895424837
+Orostachys_spinosa	LK022071.1	12-MAY-2015	614	Russia:Primorsky Terr., Lazovsky Distr.	primary	5.8S rRNA	43.41	133.89	0.0239900253611761
+Orostachys_spinosa	LK022070.1	12-MAY-2015	614	Russia:Primorsky Terr., Khasanski Distr., Khanka Lake	primary	5.8S rRNA	45.24	151.98	0.0220319048687255
+Orostachys_spinosa	LK022069.1	12-MAY-2015	613	Russia:Amur Terr., Blagoveshchensk	primary	5.8S rRNA	50.37	127.65	0.0235016899636418
+Orostachys_spinosa	LK022068.1	12-MAY-2015	613	Russia:Amur Terr., Skovorodinsky Distr., Solovyovsk	primary	5.8S rRNA	54.11	124.61	0.021543038096152
+Orostachys_spinosa	LK022067.1	12-MAY-2015	613	China:Inner Mongolia, Yakeshi Shi	primary	5.8S rRNA	49.23	120.88	0.0249704123084797
+Orostachys_spinosa	LK022066.1	12-MAY-2015	614	Russia:Zabaikalski Terr., Chita	primary	5.8S rRNA	52.03	113.45	0.0300213803782925
+Orostachys_spinosa	LK022065.1	12-MAY-2015	614	Russia:Irkutsk Region, Baikal Lake	primary	5.8S rRNA	51.87	104.8	0.0329588250679683
+Orostachys_spinosa	LK022064.1	12-MAY-2015	613	Russia:Republic of Bashkortostan, Ufa	primary	5.8S rRNA	54.83	56.19	0.0417708899764365
+Orostachys_spinosa	AB480589.1	07-JUL-2009	654	Russia:Primorsky	secondary	5.8S rRNA	45.0819456	134.726645	0.0249688181833621

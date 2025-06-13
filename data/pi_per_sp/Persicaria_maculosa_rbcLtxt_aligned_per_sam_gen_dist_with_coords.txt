@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Persicaria_maculosa	MT937075.1	28-NOV-2020	487	China: Qingcheng, Qingcheng Mountain, Sichuan, China	primary	rbcL	30.55	103.29	0.0132886531919962
+Persicaria_maculosa	MG249620.1	21-JAN-2018	552	Canada: Behind Hoad House, east of Center Biodiversity Genomics	primary	rbcL	43.529	-80.229	0.00640187123080004
+Persicaria_maculosa	MG248450.1	21-JAN-2018	552	USA: Alaska, Yukon-Koyukuk Census Area, Circle Hotsprings	primary	rbcL	65.483	-144.639	0.00640187123080004
+Persicaria_maculosa	MG246745.1	21-JAN-2018	552	Canada: Ontario, Nipissing District, Mattawan Twp., Mattawa, NEBIE Block#2, Intensive treatment	primary	rbcL	46.381	-79.006	0.00640187123080004
+Persicaria_maculosa	KJ593586.1	17-MAR-2015	553	USA: Wisconsin, Dunbar	primary	rbcL	45.709	-88.232	0.00650438884764314
+Persicaria_maculosa	JN893743.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.49	-3.18	0.00676279695587984
+Persicaria_maculosa	MT931214.1	03-MAR-2023	572	China	secondary	rbcL	35.000074	104.999927	0.0438739483852694
+Persicaria_maculosa	LC413419.1	31-JUL-2018	262	Japan:Aichi, Chita	secondary	rbcL	34.970089	136.860738	0.0017961383026493
+Persicaria_maculosa	MG249118.1	21-JAN-2018	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Boat passage	secondary	rbcL	43.72634945	-77.7101179040839	0.00650438884764314
+Persicaria_maculosa	KJ593585.1	17-MAR-2015	553	USA: Wisconsin, Baileys Harbor	secondary	rbcL	45.064993	-87.124274	0.00650438884764314
+Persicaria_maculosa	HM850246.1	23-JUL-2011	590	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00673773944884485
+Persicaria_maculosa	JN893812.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.5373435410413	-3.54150597521272	0.00676279695587984
+Persicaria_maculosa	JN893811.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.4656148940407	-4.98681554530284	0.00676279695587984
+Persicaria_maculosa	MK578007.1	15-MAY-2019	748	South Korea	secondary	rbcL	35.6437571368947	128.282636639513	0.0133452656793402
+Persicaria_maculosa	MK578004.1	15-MAY-2019	748	South Korea	secondary	rbcL	34.7546257	127.659859	0.0133452656793402
+Persicaria_maculosa	MK578003.1	15-MAY-2019	748	South Korea	secondary	rbcL	37.2982901	127.637033	0.0133452656793402
+Persicaria_maculosa	MK044275.1	15-MAY-2019	748	South Korea	secondary	rbcL	33.4930566	126.5130589	0.0133452656793402
+Persicaria_maculosa	MK044274.1	15-MAY-2019	748	South Korea	secondary	rbcL	35.0327497993131	128.423327200691	0.0133452656793402

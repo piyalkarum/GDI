@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_vaginata	MZ400462.1	07-DEC-2021	847	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.000429976028713124
+Carex_vaginata	MG217076.1	24-JAN-2018	775	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Top of Mt. Irony.	primary	matK	55.1358	-68.7733	0.000430073057610659
+Carex_vaginata	MG216950.1	24-JAN-2018	686	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On the SW slope, 30 m down E615A1	primary	matK	55.1753	-68.2069	0.000435285178418446
+Carex_vaginata	KC474414.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	matK	68.064	-121.603	0.000429976028713124
+Carex_vaginata	KC474413.1	25-OCT-2013	671	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Camp on Harp Seal Lake, 35 km SW of Sanikiluaq	primary	matK	56.317	-79.444	0.00037747010032621
+Carex_vaginata	KC474412.1	25-OCT-2013	737	Canada: Yukon Territory, Arctic Mainland, Richardson Mountains, Tributary of Fish Creek, south of Vunta Creek	primary	matK	67.894	-136.502	0.00159767570135354
+Carex_vaginata	KC474411.1	25-OCT-2013	775	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk, vicinity of large lake	primary	matK	69.425	-124.197	0.000430073057610659
+Carex_vaginata	KC474410.1	25-OCT-2013	765	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Sheep Crrek	primary	matK	69.161	-140.148	0.000429976028713124
+Carex_vaginata	KC474409.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Small unnamed lake in lee of plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.294	-116.421	0.000429976028713124
+Carex_vaginata	JN966214.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	matK	58.244522127155	-92.6704107213776	0.000429976028713124
+Carex_vaginata	JN966213.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	matK	59.0920073420085	-93.7293720452293	0.000429976028713124
+Carex_vaginata	JN966212.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	matK	58.734	-94.112	0.000429976028713124
+Carex_vaginata	JN966211.1	27-OCT-2012	733	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Wet lichen heath	primary	matK	58.747	-93.863	0.000433536519312107
+Carex_vaginata	MN763679.1	28-JUL-2020	537	China: Jilin	secondary	matK	43.7289674	126.1997366	0.00196020778202489
+Carex_vaginata	MN763319.1	28-JUL-2020	606	China: Yunnan, Diqing Prefecture	secondary	matK	27.82234	99.7017831	0.00499172158722145
+Carex_vaginata	MK926364.1	14-JAN-2020	820	United Kingdom	secondary	matK	54.6469196085563	-2.05775286391152	0.000429976028713124
+Carex_vaginata	MK925876.1	14-JAN-2020	815	United Kingdom	secondary	matK	54.8809353499062	-2.89156347680613	0.000429976028713124
+Carex_vaginata	MK925856.1	14-JAN-2020	776	United Kingdom	secondary	matK	54.5591654229914	-4.35235325408209	0.000430562184132429
+Carex_vaginata	MK925765.1	14-JAN-2020	820	Estonia	secondary	matK	58.7523778	25.3319078	0.000429976028713124
+Carex_vaginata	KU496591.1	31-JAN-2017	813	Canada: Labrador, Schefferville region	secondary	matK	55	-69	0.000429976028713124

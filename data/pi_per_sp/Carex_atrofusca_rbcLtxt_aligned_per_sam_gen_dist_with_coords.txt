@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_atrofusca	MG227727.1	23-JAN-2018	552	USA: Alaska, Kotzebue Quad, Sweard Peninsula, Espenberg Riv, 5 km inland from coast, vic of channel between riv and lagoon to E	primary	rbcL	66.5692	-164.02	0.000419103602287174
+Carex_atrofusca	MG227581.1	23-JAN-2018	665	Canada: Nunavut, Victoria Island, Cambridge Bay	primary	rbcL	69.8457694395738	-106.039823266416	0.000645188966651743
+Carex_atrofusca	MG227096.1	23-JAN-2018	663	Canada: Nunavut, Baffin Island, vicinity of Mary River	primary	rbcL	71.8730931445851	-78.3544567098245	0.00410990221342732
+Carex_atrofusca	MG226889.1	23-JAN-2018	666	Canada: Nunavut, Baffin Island, E side of Sylvia Grinnel River 2.0 km S of main rapis in Sylvia Grinnel Park, Iqaluit, Frobisher Bay	primary	rbcL	64.0942352159306	-69.7140771723963	0.000644592805097526
+Carex_atrofusca	MG226635.1	23-JAN-2018	552	Canada: Ontario, Kenora Co, 12 km inland from Hudson Bay coast, 30 km SW of Cape Henrietta Maria, Polar Bear Provincial Park	primary	rbcL	54.95	-82.6667	0.000419103602287174
+Carex_atrofusca	FJ548250.1	25-AUG-2009	665	Canada: Nunuavut, Victoria Island, Cambridge Bay	primary	rbcL	68.8272154470172	-103.921133604194	0.000645188966651743
+Carex_atrofusca	FJ548249.1	25-AUG-2009	666	Canada: Nunuavut, Baffin Island, Franklin District, E side of Sylvia Grinnel River 2.0 km S of main rapids in Sylvia Grinnel Park at 25 N/10 222668, Iqaluit, Frobisher Bay	primary	rbcL	63.8831999974339	-68.7066341083352	0.000644592805097526
+Carex_atrofusca	FJ548248.1	25-AUG-2009	663	Canada: Nunuavut, Baffin Island	primary	rbcL	72.2085508996049	-83.2147855255353	0.00410990221342732
+Carex_atrofusca	KT960728.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.467	-20.567	0.000419103602287174
+Carex_atrofusca	KC482242.1	25-OCT-2013	552	Canada: Nunavut, Canadian Arctic Archipelago, Baffin Island, Baffinland Iron Mines, Mary River project	primary	rbcL	71.13	-78.54	0.000419103602287174
+Carex_atrofusca	KC482241.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.644	-115.493	0.00219201211360309
+Carex_atrofusca	KC482240.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Komakuk Beach	primary	rbcL	69.36	-140.07	0.000419103602287174
+Carex_atrofusca	KC482239.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, along Darnley Bay	primary	rbcL	69.3944	-124.117	0.000419103602287174
+Carex_atrofusca	KC482238.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Hornaday River, ~1 km downstream of valley leading to Castle Butte	primary	rbcL	68.2056	-121.844	0.000419103602287174
+Carex_atrofusca	JN965339.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Wet lichen heath	primary	rbcL	58.747	-93.863	0.000419103602287174
+Carex_atrofusca	JN965338.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.835	-92.796	0.000419103602287174
+Carex_atrofusca	JN965337.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	59.4450873205845	-93.1083423108426	0.000419103602287174
+Carex_atrofusca	JN965336.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.3024878064599	-94.2527101432173	0.000419103602287174
+Carex_atrofusca	JN965335.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.1847913416594	-93.5113074751416	0.000419103602287174
+Carex_atrofusca	MK925162.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0904870800098	-4.27346060440111	0.000428192558064775
+Carex_atrofusca	MK924530.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3836536199919	-3.20013973226274	0.000428192558064775
+Carex_atrofusca	MK924486.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9405034192838	-2.58394508722652	0.000428192558064775
+Carex_atrofusca	MF572167.1	31-JUL-2018	578	Italy: Aosta Valley, Valgrisenche, Vaudet	secondary	rbcL	45.4557276124441	6.40933290500503	0.00091233232728781
+Carex_atrofusca	MF572166.1	31-JUL-2018	575	Italy: Aosta Valley, Valgrisenche, Vaudet	secondary	rbcL	45.2819269450249	5.92109748732506	0.000913933539170539

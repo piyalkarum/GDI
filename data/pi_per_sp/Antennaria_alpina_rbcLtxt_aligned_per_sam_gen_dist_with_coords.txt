@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antennaria_alpina	MZ359332.1	07-DEC-2021	539	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Antennaria_alpina	MG223102.1	26-DEC-2017	552	Canada: Yukon Territory, Kluane National Park, Fisher Glacier near Alsek, W-facing slope above valley glacier leading into Fisher Glacier	primary	rbcL	60.138	-138.224	0
+Antennaria_alpina	KJ841104.1	04-NOV-2014	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, S-w slope near Davies' site 'TSC3.2a'	primary	rbcL	54.903	-67.1678	0
+Antennaria_alpina	KC481941.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Sylvia Grinnell River, Rivershore by waterfall along Sylvia Grinnell River, 1.5 km west of airfield	primary	rbcL	63.733	-68.567	0
+Antennaria_alpina	KC481940.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit	primary	rbcL	62.833	-67.35	0
+Antennaria_alpina	KC481939.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	rbcL	62.867	-92.133	0
+Antennaria_alpina	KC481938.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East bank of Hornaday River	primary	rbcL	68.242	-121.85	0

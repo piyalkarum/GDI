@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_conglomeratus	KX678068.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, Bridal Falls, Popkum, west of junction of road to golf course and road to falls	primary	rbcL	49.18	-121.754	0.000373134328358209
+Juncus_conglomeratus	JN892296.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.27	-3.85	0.000380952380952381
+Juncus_conglomeratus	HM850088.1	23-JUL-2011	680	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00189694385216773
+Juncus_conglomeratus	JN893373.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000380952380952381
+Juncus_conglomeratus	JN893372.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000380952380952381
+Juncus_conglomeratus	JN892171.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.000380952380952381

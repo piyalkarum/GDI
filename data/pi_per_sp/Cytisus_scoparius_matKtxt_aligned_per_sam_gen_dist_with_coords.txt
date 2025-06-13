@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cytisus_scoparius	KX677157.1	09-AUG-2017	795	Canada: British Columbia, Fraser Valley Regional District, East side of Harrison Lake, along primitive road just outside Cascade Peninsula Forest Recreation Site	primary	matK	49.4398	-121.777	0
+Cytisus_scoparius	KX676954.1	09-AUG-2017	795	Canada: British Columbia, Vancouver Island, Capital Regional District, View Royal, Nursery Hill Park	primary	matK	48.4608	-123.462	0
+Cytisus_scoparius	KX676721.1	09-AUG-2017	795	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Mount Seymour trail	primary	matK	49.378	-122.944	0
+Cytisus_scoparius	JN894797.1	07-MAR-2012	869	United Kingdom: Caernarfonshire	primary	matK	53.08	-4.39	0
+Cytisus_scoparius	KX821265.1	02-SEP-2017	798	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.8526975032141	7.5796745549149	0
+Cytisus_scoparius	KX821266.1	02-SEP-2017	798	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.4434180921622	7.60881708948287	0
+Cytisus_scoparius	KX821267.1	02-SEP-2017	798	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	57.0887458632177	9.54540857250531	0
+Cytisus_scoparius	KJ746150.1	29-JUL-2014	644	Poland	secondary	matK	52.215933	19.134422	0
+Cytisus_scoparius	HM851131.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0
+Cytisus_scoparius	JN894661.1	07-MAR-2012	895	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0

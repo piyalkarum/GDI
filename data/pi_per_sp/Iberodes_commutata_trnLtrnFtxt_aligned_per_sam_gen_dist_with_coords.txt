@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iberodes_commutata	MK819511.1	12-JUN-2019	818	Spain: Malaga, Villaluenga	secondary	trnL-trnF	36.7487851	-5.1544289	0.00156407169829989
+Iberodes_commutata	MK819510.1	12-JUN-2019	829	Spain: Malaga, Montejaque	secondary	trnL-trnF	36.7338717	-5.2514725	0.00154769168191987
+Iberodes_commutata	KF849225.1	07-FEB-2015	745	Spain: Cadiz, Grazalema	secondary	trnL-trnF	36.7583892	-5.366074	0.00235805052124374
+Iberodes_commutata	KC542542.1	19-JUN-2013	835	Spain	secondary	trnL-trnF	38.8038374296829	-5.13958856778832	0.00653137817611502
+Iberodes_commutata	AY837610.1	22-MAR-2006	316	Spain	secondary	trnL-trnF	39.6514222944439	-5.91581977576644	0.00240384615384615

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phelipanche_purpurea	KY484505.1	01-MAY-2018	806	Poland	secondary	trnL-trnF	51.7437690347153	18.655655026192	0.00211578965320236
+Phelipanche_purpurea	KY484504.1	01-MAY-2018	807	Poland	secondary	trnL-trnF	52.11180529852	17.9911508605567	0.00211310620232553
+Phelipanche_purpurea	KY484503.1	01-MAY-2018	807	Poland	secondary	trnL-trnF	52.6056538730342	18.2315751026291	0.00379823691971432
+Phelipanche_purpurea	KU238872.1	23-MAY-2016	787	Poland	secondary	trnL-trnF	52.7938735607747	18.560338632762	0.00472066322581787

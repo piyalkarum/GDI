@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_molle	EU718017.1	31-MAY-2009	1255	Spain: Huesca, Sopeira	secondary	matK	42.671641893542	1.06339604610081	0.000399203187250996
+Antirrhinum_molle	EU718016.1	31-MAY-2009	1255	Spain: Barcelona, Rigureixer	secondary	matK	41.3828939	2.1774322	0.001399203187251
+Antirrhinum_molle	KJ911393.1	22-JUL-2014	1250	Spain: Huesca, Belver	secondary	matK	41.691075	0.1794223	4e-04
+Antirrhinum_molle	KJ911391.1	22-JUL-2014	1250	Spain: Huesca, Sopeira	secondary	matK	42.9868709872411	0.554015222930041	4e-04
+Antirrhinum_molle	KJ911388.1	22-JUL-2014	1250	Spain: Barcelona, Queralt	secondary	matK	41.513585	1.4580161	0.0014
+Antirrhinum_molle	KJ911324.1	22-JUL-2014	1250	Spain: Huesca, Sopeira	secondary	matK	42.0631552860386	1.71709637177004	4e-04
+Antirrhinum_molle	KJ911323.1	22-JUL-2014	1250	Spain: Huesca, Sopeira	secondary	matK	42.7507294255398	1.65779906630789	4e-04
+Antirrhinum_molle	KJ911322.1	22-JUL-2014	1250	Spain: Huesca, Gabasa	secondary	matK	42.006761	0.4162118	4e-04
+Antirrhinum_molle	KJ911389.1	22-JUL-2014	1250	Spain	secondary	matK	42.1568289	1.1412483	4e-04

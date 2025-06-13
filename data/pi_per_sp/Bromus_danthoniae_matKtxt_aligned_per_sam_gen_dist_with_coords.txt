@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_danthoniae	OM048545.1	08-AUG-2022	1425	Iran: Kurdistan, Baneh, 25 km from Baneh to Sanandaj, route of Nekerouz mountain	secondary	matK	35.0396426924033	47.6837539216824	0.000548337858164138
+Bromus_danthoniae	OM048544.1	08-AUG-2022	1361	Iran: West Azerbaijan, 50 km to Sardasht from Mahabad	secondary	matK	36.7194505	46.5154803	0.000548996238073125
+Bromus_danthoniae	OM048543.1	08-AUG-2022	1204	Iran: Razavi Khorasan, Darrud to Jaghargh, Binalud mountain	secondary	matK	38.5362255	47.156315	0.00122082343084194
+Bromus_danthoniae	OM048542.1	08-AUG-2022	1351	Iran: Kohgiluyeh and Boyer-Ahmad, Sisakht	secondary	matK	30.8630661	51.4557071	0.0012582246280255
+Bromus_danthoniae	OM048541.1	08-AUG-2022	1123	Iran: Kurdistan, Sanandaj, Zaleh station	secondary	matK	35.2353338237958	47.5546891891316	0.00199253447253373
+Bromus_danthoniae	OM048540.1	08-AUG-2022	1337	Iran: Yazd, Taft, after Sanij village, Shir kuh mountain	secondary	matK	32.5714046770683	54.547219981208	0.000551731848719882
+Bromus_danthoniae	OM048539.1	08-AUG-2022	1425	Iran: Lorestan, after Malayer toward Ilam, near wheat field	secondary	matK	32.9036456	49.6832218	0.000548337858164138
+Bromus_danthoniae	OM048538.1	08-AUG-2022	1211	Iran: Chaharmahal and Bakhtiari, 55 km from Shahr-e Kord to Kouhrang	secondary	matK	31.749786	50.5509398	0.00121593121000123
+Bromus_danthoniae	OM048537.1	08-AUG-2022	1320	Iran: Yazd, Bafq, Gazestan village	secondary	matK	31.6733461019571	53.4964301003572	0.00128820775366743
+Bromus_danthoniae	OM048536.1	08-AUG-2022	1233	Iran: East Azerbaijan, inter Ahar and Hurand	secondary	matK	38.5579309	47.2575712	0.000565684018703195

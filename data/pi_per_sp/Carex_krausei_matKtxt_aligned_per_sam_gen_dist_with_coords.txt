@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_krausei	KC474338.1	25-OCT-2013	773	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Sheep Crrek	primary	matK	69.161	-140.155	0
+Carex_krausei	KC474337.1	25-OCT-2013	775	Canada: Nunavut, Ellesmere Island, Hot Weather Creek., Tributary of 25 km E of Eureka Fosheim Peninsula. Site 13. Flat, linear valley bottom 50-80 m wide, steep sided walls to the N and S	primary	matK	79.983	-84.45	0
+Carex_krausei	KC474336.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Sandy bank of Kuujjua River south Fish lake, 17 km SE of Minto Inlet	primary	matK	71.22	-116.159	0
+Carex_krausei	KC474335.1	25-OCT-2013	612	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk, Between the airport and Pingo Park Lodge, beside a small lake	primary	matK	69.437	-133.1	0
+Carex_krausei	KC474334.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, between road and Darnley Bay	primary	matK	69.3861	-124.031	0
+Carex_krausei	KC474333.1	25-OCT-2013	774	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Between gas pumps and the ocean, in the vicinity of the Coop Store	primary	matK	56.631	-79.228	0
+Carex_krausei	KC474332.1	25-OCT-2013	775	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Castle Butte, near summit	primary	matK	68.2472	-121.814	0
+Carex_krausei	KC474331.1	25-OCT-2013	774	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 3 km ESE of junction with Little Hornaday River, NE bank	primary	matK	68.3889	-121.939	0

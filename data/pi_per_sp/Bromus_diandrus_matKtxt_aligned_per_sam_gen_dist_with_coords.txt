@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_diandrus	KF713103.1	15-DEC-2013	1014	South Korea: Wando, Jeollanam-do	secondary	matK	34.34488865	126.691058840622	0.0023106815810053
+Bromus_diandrus	KF713102.1	15-DEC-2013	1014	South Korea: Suncheon-si, Jeollanam-do	secondary	matK	34.9505457	127.4872992	0.0014792899408284
+Bromus_diandrus	HM850584.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0006765899864682
+Bromus_diandrus	HQ600014.1	02-AUG-2011	1331	South Korea	secondary	matK	36.638392	127.6961188	0.002465483234714
+Bromus_diandrus	KF713101.1	15-DEC-2013	1014	South Korea	secondary	matK	37.9697229	124.7112448	0.0023106815810053

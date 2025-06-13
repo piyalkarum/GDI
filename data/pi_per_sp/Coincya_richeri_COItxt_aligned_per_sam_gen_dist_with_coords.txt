@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Coincya_richeri	MF543766.1	31-JUL-2018	800	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	COI	45.9482651878612	7.373784290241	0.503017538791938
+Coincya_richeri	MF543765.1	31-JUL-2018	749	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	COI	45.6606689871846	8.24200826938567	0.502508772576987
+Coincya_richeri	MF543764.1	31-JUL-2018	796	Italy: Aosta Valley, Valgrisenche, Vaudet	secondary	COI	46.3816415041976	7.31376119315146	0.504181192532617
+Coincya_richeri	MF543763.1	31-JUL-2018	797	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	COI	44.9393136296344	6.25062485558055	0.503017538791938
+Coincya_richeri	MF543501.1	31-JUL-2018	778	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	COI	45.4958490013915	6.36051939614656	0.445676109441673
+Coincya_richeri	MF543500.1	31-JUL-2018	773	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	COI	45.3824284612639	7.49503147151758	0.445522146478085
+Coincya_richeri	MF543499.1	31-JUL-2018	770	Italy: Aosta Valley, Valgrisenche, Vaudet	secondary	COI	46.176740935147	7.02923801212014	0.445298000545238
+Coincya_richeri	MF543498.1	31-JUL-2018	771	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	COI	45.971172068625	5.89901871728296	0.445479610845607
+Coincya_richeri	MF572178.1	31-JUL-2018	575	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	COI	44.9456208796745	7.33159775941379	0.481336858133096
+Coincya_richeri	MF572177.1	31-JUL-2018	579	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	COI	45.3000130665233	5.90607721582694	0.484141835512374
+Coincya_richeri	MF572176.1	31-JUL-2018	575	Italy: Aosta Valley, Valgrisenche, Vaudet	secondary	COI	45.8393986461812	6.98074608084311	0.481274790137462
+Coincya_richeri	MF572175.1	31-JUL-2018	575	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	COI	46.0306818193652	6.66350653751525	0.481336858133096
+Coincya_richeri	MF543631.1	25-JUL-2018	317	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	COI	45.2727036544569	7.96159627366653	0.44564494337175
+Coincya_richeri	MF543630.1	25-JUL-2018	314	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	COI	45.1295658809277	7.78385023069319	0.449067448297955
+Coincya_richeri	MF543629.1	25-JUL-2018	316	Italy: Aosta Valley, Valgrisenche, Vaudet	secondary	COI	44.7814899800124	7.07006876071422	0.457385375124348
+Coincya_richeri	MF543628.1	25-JUL-2018	315	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	COI	45.7058604805261	7.55034012363701	0.445650318415422

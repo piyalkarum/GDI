@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_peplus	KX676918.1	09-AUG-2017	820	Canada: British Columbia, Greater Vancouver Regional District, Richmond, north sdie of Hwy 91, halfway between No. 7 and No. 8 Roads, peaty soil piles inside fence next to a Christmas tree farm	primary	matK	49.178	-122.033	0.00170449090222755
+Euphorbia_peplus	JN894777.1	07-MAR-2012	541	United Kingdom: Glamorgan	primary	matK	51.42	-3.3	0.00106254632666129
+Euphorbia_peplus	LC435038.1	01-DEC-2018	590	Saudi Arabia	secondary	matK	25.6242618	42.3528328	0.00216730194952357
+Euphorbia_peplus	KX299005.1	06-FEB-2017	843	Egypt	secondary	matK	26.2540493	29.2675469	0.00488274496505889
+Euphorbia_peplus	HM850919.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00261143233982669
+Euphorbia_peplus	HE966926.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	45.6637644515287	12.9216339992547	0.00643531860753447
+Euphorbia_peplus	HE966925.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	45.8491705832828	13.4307489427015	0.0028702290686788
+Euphorbia_peplus	HE966924.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	45.8794599419778	12.9331042023404	0.001468038993619
+Euphorbia_peplus	JN895712.1	07-MAR-2012	807	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00103453393484317
+Euphorbia_peplus	JN894282.1	07-MAR-2012	688	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00110695095571311
+Euphorbia_peplus	JN894281.1	07-MAR-2012	782	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00106024462044846

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_jenisseensis	OQ172906.1	18-JUN-2023	222	South Korea	secondary	psbA-trnH	35.8913767479892	127.989170990391	0.0045045045045045
+Silene_jenisseensis	OQ172905.1	18-JUN-2023	222	South Korea	secondary	psbA-trnH	37.249673749344	127.85385684229	0.00788288288288288
+Silene_jenisseensis	OQ172904.1	18-JUN-2023	404	South Korea	secondary	psbA-trnH	36.4091814074082	126.828177325917	0.0146396396396396
+Silene_jenisseensis	OQ172903.1	18-JUN-2023	222	South Korea	secondary	psbA-trnH	36.7858695458424	126.743620512975	0.0045045045045045
+Silene_jenisseensis	OQ172902.1	18-JUN-2023	222	South Korea	secondary	psbA-trnH	36.3003985842688	128.630844467662	0.0045045045045045

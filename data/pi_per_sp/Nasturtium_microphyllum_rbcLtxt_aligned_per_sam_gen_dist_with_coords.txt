@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nasturtium_microphyllum	MG248264.1	21-JAN-2018	553	Canada: Quebec, Gaspe-Est County. Perce, in the middle of the village	primary	rbcL	48.521	-64.217	0
+Nasturtium_microphyllum	MG247197.1	21-JAN-2018	553	Canada: Quebec, Portneuf County. Pont-Rouge, banks of the Jacques-Cartier river, close to bridge, south of the village	primary	rbcL	46.746	-71.696	0
+Nasturtium_microphyllum	HQ590243.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., W side of Dufferin, half way from entrance to Dead Man's Curve	primary	rbcL	44.034	-79.528	0
+Nasturtium_microphyllum	JN891917.1	07-MAR-2012	454	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.73	0
+Nasturtium_microphyllum	MG249862.1	21-JAN-2018	553	Canada: Ontario, 0.5 miles North of Colpoy Bay. Bruce County	secondary	rbcL	44.3098014059905	-78.0242435545833	0
+Nasturtium_microphyllum	MG247968.1	21-JAN-2018	553	Canada: Ontario, Happy Hollow, Taunton Road, Durham County	secondary	rbcL	44.212371414768	-76.8792447821917	0
+Nasturtium_microphyllum	MG246293.1	21-JAN-2018	553	Canada: Newfoundland and Labrador, Gander District. 1km west of Glenwood Day-use Park along Route 1	secondary	rbcL	49.7738268	-56.8821439113846	0
+Nasturtium_microphyllum	JN893536.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.0963861947275	-2.86017752926143	0
+Nasturtium_microphyllum	JN892059.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4543412202079	-3.36954450361097	0

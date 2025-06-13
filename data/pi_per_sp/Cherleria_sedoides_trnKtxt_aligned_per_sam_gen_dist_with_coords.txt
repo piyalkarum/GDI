@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cherleria_sedoides	KY249984.1	18-DEC-2017	629	Austria	secondary	trnK	36.492950403373	-4.51415383051372	0.00529941706412295
+Cherleria_sedoides	KY249983.1	18-DEC-2017	629	Austria	secondary	trnK	37.2853310346631	-4.88047477083813	0.00423953365129836
+Cherleria_sedoides	KY249982.1	18-DEC-2017	629	Slovenia	secondary	trnK	46.1199444	14.8153333	0.00317965023847377
+Cherleria_sedoides	KY249981.1	18-DEC-2017	629	Austria	secondary	trnK	37.1841130972911	-4.98256642316025	0.00423953365129836

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_jacea	MG222304.1	26-DEC-2017	552	Canada: Ontario, Wellington County, Puslinch Township, Little Tract, 500m north of South entrance (County Road 34)	primary	rbcL	43.449	-80.247	0.00121324925593267
+Centaurea_jacea	HQ590025.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., 10 m from E edge of pond in wet trough	primary	rbcL	44.035	-79.518	0.00179891875266865
+Centaurea_jacea	KJ204314.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00121654906322392
+Centaurea_jacea	HE574584.1	31-JUL-2011	567	Finland	secondary	rbcL	63.2467777	25.9209164	0.00180665852004467

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_spinosissima	OR738112.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.27611	83.28917	0.168254799141865
+Rosa_spinosissima	JN891156.1	07-MAR-2012	542	United Kingdom: Merionethshire	primary	rbcL	52.78	-3.64	0.168254799141865
+Rosa_spinosissima	MT931959.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.166872696267248
+Rosa_spinosissima	MG246530.1	21-JAN-2018	552	Canada: Quebec, Cte Quebec, Ste-Foy, U Laval, plante dans le Jardin Pedagogique.	secondary	rbcL	46.8137431	-71.2084061	0.168629535147392
+Rosa_spinosissima	JN893205.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.168254799141865
+Rosa_spinosissima	JN891190.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.168254799141865
+Rosa_spinosissima	AJ628787.1	11-APR-2005	568	Austria:Senftenberg, Krems	secondary	rbcL	48.4339554	15.5844049	0.503408885785548
+Rosa_spinosissima	AJ628774.1	11-APR-2005	542	Germany:Schleswig-Holstein, Fehmarn	secondary	rbcL	54.4687375	11.1340848	0.505639690325177

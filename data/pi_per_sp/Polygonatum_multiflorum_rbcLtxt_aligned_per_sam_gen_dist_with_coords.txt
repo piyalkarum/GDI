@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygonatum_multiflorum	MG227791.1	23-JAN-2018	552	Canada: Quebec, Co. Levis, St-Romuald, l'eglise protestante dans le Cote Rouge.	secondary	rbcL	46.8137431	-71.2084061	0.00369685767097967
+Polygonatum_multiflorum	JN891841.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.003690036900369
+Polygonatum_multiflorum	JN891819.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0110769314717177
+Polygonatum_multiflorum	JN891491.1	07-MAR-2012	542	United Kingdom: West Sussex (13)	secondary	rbcL	50.984855	-0.104519	0.003690036900369

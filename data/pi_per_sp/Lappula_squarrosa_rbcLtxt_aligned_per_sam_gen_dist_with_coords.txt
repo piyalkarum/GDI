@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lappula_squarrosa	OR557601.1	01-NOV-2023	495	Kazakhstan: Qaragandy region	primary	rbcL	47.43832	74.81248	0
+Lappula_squarrosa	MG224141.1	26-DEC-2017	553	Canada: Yukon Territory, Whitehorse, near Yukon River islands	primary	rbcL	60.726	-135.067	0
+Lappula_squarrosa	MG223765.1	26-DEC-2017	527	Canada: Saskatchewan, Saskatoon, 4th Ave & 20th St	primary	rbcL	52.125	-106.661	0
+Lappula_squarrosa	MG222980.1	26-DEC-2017	518	Canada: Yukon Territory, Carcross Dunes	primary	rbcL	60.167	-134.7	0
+Lappula_squarrosa	KX678055.1	29-APR-2017	553	Canada: British Columbia, Okanagan-Similkameen Regional District, Red Creek Forest Service Road	primary	rbcL	49.5639	-120.41	0

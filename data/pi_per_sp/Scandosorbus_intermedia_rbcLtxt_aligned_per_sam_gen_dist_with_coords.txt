@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scandosorbus_intermedia	MG249898.1	21-JAN-2018	551	Canada: Ontario, Toronto, City of, Riverdale Park, W side	primary	rbcL	42.8803134754388	-79.5463208226535	0.000202757502027575
+Scandosorbus_intermedia	MG246278.1	21-JAN-2018	506	Canada: Ontario, Toronto, City of, Mount Pleasant Cemetery, Toronto.	primary	rbcL	43.65	-79.383	0
+Scandosorbus_intermedia	MG246215.1	21-JAN-2018	548	Canada: Ontario, Toronto, City of, Riverdale Park, W side	primary	rbcL	42.9544134915162	-79.3755892964611	0.0016220600162206
+Scandosorbus_intermedia	MG246581.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Glendon Hall grounds, Toronto.	secondary	rbcL	43.72634945	-77.7101179040839	0.000202757502027575
+Scandosorbus_intermedia	KX163057.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.7189065444078	-3.10810228527351	0.000202757502027575
+Scandosorbus_intermedia	KX163056.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.0242803265518	-3.85966725540439	0.000202757502027575
+Scandosorbus_intermedia	KX163055.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.729091267501	-2.92766511638265	0.000202757502027575
+Scandosorbus_intermedia	KX163054.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.9474611931431	-3.69275581497722	0.000202757502027575
+Scandosorbus_intermedia	KX163053.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.7121882733083	-3.42627226733448	0.000202757502027575
+Scandosorbus_intermedia	KX163052.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.1448364270192	-1.92164544569989	0.000202757502027575

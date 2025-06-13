@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phleum_pratense	OK247960.1	28-OCT-2022	1778	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.00321861337678252
+Phleum_pratense	KM524084.1	04-JUL-2015	1777	Russia: Caucasus	secondary	trnL-trnF	43.345	42.44	0.00193062392403974
+Phleum_pratense	KM524083.1	04-JUL-2015	1744	Canada: British Columbia	secondary	trnL-trnF	55.001251	-125.002441	0.00288264379532965
+Phleum_pratense	DQ353964.1	31-DEC-2007	1857	USA	secondary	trnL-trnF	39.7837304	-100.445882	0.00211160217581928
+Phleum_pratense	KP711118.1	31-MAR-2016	830	China	secondary	trnL-trnF	35.000074	104.999927	0.0057110416181343
+Phleum_pratense	KM385507.1	01-DEC-2014	572	Switzerland	secondary	trnL-trnF	46.7985624	8.2319736	0.00128110975112199

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elatine_gussonei	KX818196.1	01-DEC-2016	586	Malta: Gozo, Ta Sannat	primary	petA-psbJ	36.01	14.25	0.0102389078498294
+Elatine_gussonei	KX818195.1	01-DEC-2016	586	Italy: Lampedusa	primary	petA-psbJ	35.51	12.56	0.0102389078498294
+Elatine_gussonei	KX818191.1	01-DEC-2016	592	Morocco: Ben Slimane	primary	petA-psbJ	33.61	-7.1	0.0068259385665529
+Elatine_gussonei	KX818190.1	01-DEC-2016	592	Italy: Sicily, Modica	primary	petA-psbJ	36.76	14.77	0.0068259385665529
+Elatine_gussonei	KX818189.1	01-DEC-2016	592	Spain: Casar de Caceres	primary	petA-psbJ	39.33	-6.25	0.0068259385665529

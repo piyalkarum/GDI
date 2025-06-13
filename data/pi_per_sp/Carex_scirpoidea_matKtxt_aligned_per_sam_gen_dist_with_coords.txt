@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_scirpoidea	MG217054.1	24-JAN-2018	775	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Between plots E800E5 and E800F6	primary	matK	54.8769827236711	-68.6891335423008	9.83284169124877e-05
+Carex_scirpoidea	MG216934.1	24-JAN-2018	775	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Between plots E800E5 and E800f6	primary	matK	54.2292084100978	-66.7850463752918	9.83284169124877e-05
+Carex_scirpoidea	FJ548142.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island, Franklin District, Nettilling Lake, Burwash Bay	primary	matK	65.95	-71.3	9.83284169124877e-05
+Carex_scirpoidea	FJ548140.1	25-AUG-2009	729	Canada: Nunavut, Southampton Island, Salliq (Coral Harbour), low lying area S of the old graveyard	primary	matK	64.13	-83.17	9.83284169124877e-05
+Carex_scirpoidea	FJ548139.1	25-AUG-2009	733	Canada: Nunavut, Baffin Island, Iqaluit, between Apex and Iqaluit	primary	matK	63.74	-68.48	9.83284169124877e-05
+Carex_scirpoidea	FJ548138.1	25-AUG-2009	733	Canada: Northwest Territories, 11 mi S of Inuvik on Dempster Hwy (5) towards Eagle Plains	primary	matK	68.38	-133.33	9.83284169124877e-05
+Carex_scirpoidea	FJ548137.1	25-AUG-2009	733	Canada: Nunavut, Baffin Island	primary	matK	71.31	-79.23	9.83284169124877e-05
+Carex_scirpoidea	KC474394.1	25-OCT-2013	776	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk. Behind Northern Store/Hotel/Parks Canada building (Paulatuk Centre)	primary	matK	69.4667	-124.211	9.83284169124877e-05
+Carex_scirpoidea	KC474393.1	25-OCT-2013	775	Canada: Northwest Territories, Banks Island (Northwest Territories), Aulavik National Park, (Aulavik National Park). Banks of the Thomsen River	primary	matK	73.603	-120.033	9.83284169124877e-05
+Carex_scirpoidea	KC474392.1	25-OCT-2013	776	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vicinity of Holman Island Airport, Uluhaktok	primary	matK	70.758	-117.79	9.83284169124877e-05
+Carex_scirpoidea	KC474391.1	25-OCT-2013	763	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	matK	68.064	-121.611	9.83284169124877e-05
+Carex_scirpoidea	KC474390.1	25-OCT-2013	769	Canada: Nunavut, Hudsons Bay, Belcher Islands, Tukarak Island, slightly east facing slope below large rock hills, 50 m from shore	primary	matK	56.386	-78.872	9.83284169124877e-05
+Carex_scirpoidea	KC474389.1	25-OCT-2013	755	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.644	-115.493	9.83284169124877e-05
+Carex_scirpoidea	JN966208.1	27-OCT-2012	565	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	matK	58.633	-93.79	0.00176991150442478
+Carex_scirpoidea	JN966207.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	matK	58.629	-93.798	9.83284169124877e-05
+Carex_scirpoidea	MN763081.1	28-JUL-2020	815	USA	secondary	matK	39.7837304	-100.445882	9.83284169124877e-05
+Carex_scirpoidea	KU496587.1	31-JAN-2017	791	Canada: Quebec, 25 km N of Schefferville	secondary	matK	46.8137431	-71.2084061	9.83284169124877e-05
+Carex_scirpoidea	FJ548141.1	25-AUG-2009	729	Canada: Northwest Territories, Banks Island, Aulavik National Park, site of Muskox exclosure	secondary	matK	62.4538109	-114.361050472611	9.83284169124877e-05
+Carex_scirpoidea	KP273704.1	27-APR-2015	1289	USA: Alaska, Eklutna Lake	secondary	matK	61.3722642	-149.0306676	9.83284169124877e-05

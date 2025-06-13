@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_clymenum	JX505532.1	09-JAN-2013	736	Spain: Canary Islands	secondary	trnS-trnG	28.2863989	-16.7960118	0.000911992704058368
+Lathyrus_clymenum	JX505531.1	09-JAN-2013	731	United Kingdom	secondary	trnS-trnG	54.7023545	-3.2765753	0.000917010545621275
+Lathyrus_clymenum	JX505530.1	09-JAN-2013	713	Morocco	secondary	trnS-trnG	28.3347722	-10.3713379	0.000941619585687382
+Lathyrus_clymenum	JX505537.1	09-JAN-2013	758	Germany	secondary	trnS-trnG	31.4399019	-95.350778	0.00277062283536702

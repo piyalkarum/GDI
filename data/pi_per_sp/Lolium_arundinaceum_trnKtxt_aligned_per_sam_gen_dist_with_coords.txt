@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lolium_arundinaceum	LR588272.1	30-JUL-2021	2815	Germany	primary	trnK	51.3394	11.1756	0.000266880170803309
+Lolium_arundinaceum	MF999122.1	09-DEC-2017	2110	USA	secondary	trnK	50.362174	8.6428355	0.000357653791130186
+Lolium_arundinaceum	JX438093.1	31-MAR-2013	1249	Spain	secondary	trnK	40.0666789502831	-4.70497237915168	0.000624533961933495
+Lolium_arundinaceum	JX438092.1	31-MAR-2013	713	Spain	secondary	trnK	39.0247555126978	-4.29600015831838	0

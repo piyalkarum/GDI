@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Avena_nuda	KT453193.1	17-FEB-2017	791	Poland	secondary	rps16	52.215933	19.134422	0
+Avena_nuda	KT453192.1	17-FEB-2017	791	Czechoslovakia	secondary	rps16	14.480176	121.0392436	0
+Avena_nuda	KT453191.1	17-FEB-2017	790	Germany	secondary	rps16	31.4399019	-95.350778	0
+Avena_nuda	KT453190.1	17-FEB-2017	791	Netherlands	secondary	rps16	52.2434979	5.6343227	0
+Avena_nuda	KT453165.1	17-FEB-2017	791	Canada: Ontario	secondary	rps16	50.000678	-86.000977	0
+Avena_nuda	KT453128.1	17-FEB-2017	791	Colombia	secondary	rps16	4.099917	-72.9088133	0

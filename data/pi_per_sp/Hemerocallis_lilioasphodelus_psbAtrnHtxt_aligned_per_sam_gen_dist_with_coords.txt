@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hemerocallis_lilioasphodelus	LC566815.1	27-JUL-2021	525	Japan: Hokkaido, Shari, Koshimizu	secondary	psbA-trnH	43.8567969	144.4611386	0.00363636363636364
+Hemerocallis_lilioasphodelus	LN829425.1	05-JAN-2017	627	Sweden	secondary	psbA-trnH	60.5094969450309	14.1957341286628	0.000491310921932931
+Hemerocallis_lilioasphodelus	LN829424.1	05-JAN-2017	627	Sweden	secondary	psbA-trnH	59.0947661448523	14.1883318703943	0.000491310921932931
+Hemerocallis_lilioasphodelus	LN829423.1	05-JAN-2017	627	Sweden	secondary	psbA-trnH	59.8994551691874	16.1810304192238	0.000491310921932931
+Hemerocallis_lilioasphodelus	LN829422.1	05-JAN-2017	627	Sweden	secondary	psbA-trnH	59.657158620771	16.1107224626245	0.000491310921932931
+Hemerocallis_lilioasphodelus	LN829421.1	05-JAN-2017	627	Sweden	secondary	psbA-trnH	60.4814465752903	14.632758131846	0.000491310921932931
+Hemerocallis_lilioasphodelus	LN829419.1	05-JAN-2017	627	Finland	secondary	psbA-trnH	62.981872008629	27.80427566923	0.000491310921932931
+Hemerocallis_lilioasphodelus	LN829418.1	05-JAN-2017	627	Finland	secondary	psbA-trnH	63.2103895478136	26.0189962797431	0.000491310921932931
+Hemerocallis_lilioasphodelus	LN829417.1	05-JAN-2017	627	Finland	secondary	psbA-trnH	63.6394471557585	26.7772610226532	0.000491310921932931
+Hemerocallis_lilioasphodelus	LN829416.1	05-JAN-2017	627	Finland	secondary	psbA-trnH	63.616744878005	25.6135444051498	0.000491310921932931
+Hemerocallis_lilioasphodelus	LN829415.1	05-JAN-2017	627	Finland	secondary	psbA-trnH	63.2068790104904	25.8193157307947	0.000491310921932931
+Hemerocallis_lilioasphodelus	LN829414.1	05-JAN-2017	627	Finland	secondary	psbA-trnH	62.3702897151368	25.5765662946054	0.00162306592928603

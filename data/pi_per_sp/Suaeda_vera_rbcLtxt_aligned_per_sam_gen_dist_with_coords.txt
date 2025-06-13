@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Suaeda_vera	JN893487.1	07-MAR-2012	542	United Kingdom: Anglesey	primary	rbcL	53.25	-4.56	0.196371337430007
+Suaeda_vera	MK924433.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.196371337430007
+Suaeda_vera	KY884339.1	30-APR-2018	604	Morocco: Agadir	secondary	rbcL	30.4205162	-9.5838532	0.587268993839836
+Suaeda_vera	JN891228.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.196986343580068

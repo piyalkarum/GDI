@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_gramineus	MF694563.1	04-SEP-2018	497	Canada: Yukon Territory, Nordenskiold River	primary	atpB-rbcL	62.2904896991712	-137.503373256311	0
+Potamogeton_gramineus	MF694522.1	04-SEP-2018	493	Canada: Yukon Territory, Nordenskiold River	primary	atpB-rbcL	61.6040999467996	-136.342433951584	0
+Potamogeton_gramineus	MF694552.1	04-SEP-2018	500	Canada: Ontario, Marmora Township, north shore of Crowe Lake, 2-3 miles northwest of Marmora	secondary	atpB-rbcL	44.3540204835492	-77.4690981019793	0
+Potamogeton_gramineus	MF694528.1	04-SEP-2018	500	Canada: Ontario, Waterloo County, North Dumfries Township, McCrone's Lake, 1.5 kilometres northeast of Ayr. Westernmost lake. UTM 466934 40P/8 17NT49.	secondary	atpB-rbcL	44.5875379734212	-77.4765743560972	0

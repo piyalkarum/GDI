@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sisymbrium_orientale	MG248806.1	21-JAN-2018	552	Canada: British Columbia, W side of entrance to Granville Isl. Under bridge	primary	rbcL	49.6083610952237	-124.156385680942	0.0105760539643598
+Sisymbrium_orientale	MG247429.1	21-JAN-2018	552	Canada: British Columbia, W side of entrance to Granville Isl. Under bridge	primary	rbcL	48.656737869429	-123.575757829588	0.0105760539643598
+Sisymbrium_orientale	MG246578.1	21-JAN-2018	552	Canada: British Columbia, below burrard bridge, Vancouver	primary	rbcL	49.3	-123.2	0.0105760539643598
+Sisymbrium_orientale	LC003311.1	15-JAN-2015	1241	Japan: Hiroshima, Aki-gun, Kaita-cho	primary	rbcL	34.36	132.53	0.0113283143873155
+Sisymbrium_orientale	AB856328.1	09-JUL-2014	2032	Japan:Hiroshima, Hiroshima-shi, Saeki-ku, Itsukaichi	primary	rbcL	34.38	132.36	0.0122643757326373
+Sisymbrium_orientale	OQ392073.1	10-MAY-2023	528	Peru	secondary	rbcL	-6.8132010208465	-74.6748499172815	0.0131012785663948
+Sisymbrium_orientale	OQ391841.1	10-MAY-2023	525	Peru	secondary	rbcL	-7.31498195357776	-75.303949661713	0.0109090909090909
+Sisymbrium_orientale	OQ391840.1	10-MAY-2023	525	Peru	secondary	rbcL	-7.21013369604703	-74.4596489397646	0.0129990244986235
+Sisymbrium_orientale	MW174832.1	11-AUG-2021	516	South Korea	secondary	rbcL	36.638392	127.6961188	0.0107470049330514
+Sisymbrium_orientale	KX283050.1	28-MAY-2017	577	Kuwait	secondary	rbcL	30.180450934	47.7612721714313	0.0122926603488041
+Sisymbrium_orientale	KX283049.1	28-MAY-2017	577	Kuwait	secondary	rbcL	29.4056706164449	47.6590141095978	0.103142752807073
+Sisymbrium_orientale	KX283048.1	28-MAY-2017	571	Kuwait	secondary	rbcL	29.8844221685593	48.5030930477323	0.0122360951582498

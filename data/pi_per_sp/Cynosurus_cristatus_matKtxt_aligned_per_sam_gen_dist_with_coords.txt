@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cynosurus_cristatus	MF597292.1	17-JUL-2018	817	Canada: British Columbia, Vancouver Island. Fairwinds Natural Area, along trail to Dolphin Lake and Enos Lake.	primary	matK	49.287	-124.15	0.00801705544040203
+Cynosurus_cristatus	MF597291.1	17-JUL-2018	793	Canada: British Columbia, Mayne Island, Bennett Bay, Gulf Islands National Park Reserve of Canada, Wilkes Road off Bennett Bay Road. Along trail through woods along coast.	primary	matK	48.804	-123.322	0.00781717468671755
+Cynosurus_cristatus	MF597290.1	17-JUL-2018	815	Canada: British Columbia, Queen Charlotte Islands, Graham Island, along the coast N of Massett at the end of Cemetary Road.	primary	matK	54.033	-132.137	0.00764471981101868
+Cynosurus_cristatus	LR606872.1	25-JAN-2021	2036	Germany	secondary	matK	34.895926	-83.4665496	0.00722068571492714
+Cynosurus_cristatus	MT433190.1	31-MAY-2020	1533	Norway	secondary	matK	64.5731537	11.5280364	0.00965967519186095
+Cynosurus_cristatus	KJ529363.1	22-FEB-2015	969	Spain	secondary	matK	39.3260685	-4.8379791	0.0213358922890031
+Cynosurus_cristatus	KJ599277.1	21-SEP-2014	769	Australia: Victoria	secondary	matK	-36.5986096	144.6780052	0.0457337713799438
+Cynosurus_cristatus	HM850529.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0128297094121563
+Cynosurus_cristatus	JN896206.1	07-MAR-2012	788	United Kingdom: Glamorgan (41)	secondary	matK	51.7814955455179	-1.99101156826096	0.00769702305562104
+Cynosurus_cristatus	JN895894.1	07-MAR-2012	808	United Kingdom: Glamorgan (41)	secondary	matK	50.5220132222118	-3.20938188632655	0.00758332596453256
+Cynosurus_cristatus	JN894115.1	07-MAR-2012	809	United Kingdom: Breconshire (42)	secondary	matK	52.9875065	-1.1773256	0.00757153268917356

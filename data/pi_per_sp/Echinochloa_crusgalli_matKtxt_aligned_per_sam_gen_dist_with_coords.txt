@@ -1,0 +1,52 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Echinochloa_crus-galli	OR738279.1	13-NOV-2023	810	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.00481320068709687
+Echinochloa_crus-galli	OQ434012.1	02-JUL-2023	430	USA: West Lake Nature Preserve, Portage, MI	primary	matK	42.18556625	-85.58761546	0.00391977180396303
+Echinochloa_crus-galli	MF597329.1	17-JUL-2018	814	Canada: British Columbia, Vancouver, Jericho Beach Park, corner of NW Marine Drive and Discovery, by Jericho Arts Centre.	primary	matK	49.272	-123.203	0.00443160834698305
+Echinochloa_crus-galli	HQ593274.1	09-NOV-2011	839	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., NW end of plowed area N of E-pond	primary	matK	44.031	-79.536	0.00128583639794214
+Echinochloa_crus-galli	MG216977.1	24-JAN-2018	779	Canada: Ontario, Rouge National Urban Park, Sector 8	secondary	matK	43.5123852848361	-78.8638171818444	0.00136521062558609
+Echinochloa_crus-galli	MG216942.1	24-JAN-2018	794	Canada: Ontario, Rouge National Urban Park, Sector 7	secondary	matK	43.8108879908277	-78.4489361708352	0.00133648906094844
+Echinochloa_crus-galli	KT365309.1	10-AUG-2015	1020	South Korea: Iksan-si, Jeollabuk-do	secondary	matK	35.559300542637	126.938215694029	0.00144052859716085
+Echinochloa_crus-galli	KT365307.1	10-AUG-2015	1020	South Korea: Iksan-si, Jeollabuk-do	secondary	matK	36.6030883610011	126.862659896029	0.00144052859716085
+Echinochloa_crus-galli	KJ204471.1	29-JAN-2015	814	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00131050848120486
+Echinochloa_crus-galli	KF010247.1	02-MAR-2014	1534	South Korea: Sancheong, Gyeongsangnamdo	secondary	matK	35.41629	127.87844	0.00142546320557276
+Echinochloa_crus-galli	KF010245.1	02-MAR-2014	1534	South Korea: Jangseong, Jeonranamdo	secondary	matK	35.33415	126.81244	0.00142546320557276
+Echinochloa_crus-galli	KF010244.1	02-MAR-2014	1534	South Korea: Namhae, Gyeonsangnamdo	secondary	matK	34.838547	127.8936556	0.00142546320557276
+Echinochloa_crus-galli	KF010242.1	02-MAR-2014	1534	South Korea: Jecheon, Choonchungbukdo	secondary	matK	37.1326042	128.1913508	0.00142546320557276
+Echinochloa_crus-galli	KF010241.1	02-MAR-2014	1534	South Korea: Busan	secondary	matK	35.1952536465036	128.013010182521	0.00142546320557276
+Echinochloa_crus-galli	KF010240.1	02-MAR-2014	1534	South Korea: Busan	secondary	matK	36.014006051836	129.201301953762	0.00378044825001268
+Echinochloa_crus-galli	KF010239.1	02-MAR-2014	1534	South Korea: Busan	secondary	matK	35.7644651244807	129.083509961079	0.00142546320557276
+Echinochloa_crus-galli	KF010238.1	02-MAR-2014	1534	South Korea: Busan	secondary	matK	35.660878037199	129.165421272773	0.00142546320557276
+Echinochloa_crus-galli	KF010237.1	02-MAR-2014	1534	South Korea: Busan	secondary	matK	34.8355642143297	128.186993827877	0.00378044825001268
+Echinochloa_crus-galli	KF010236.1	02-MAR-2014	1534	South Korea: Busan	secondary	matK	35.1349701259055	129.454495655989	0.0043354556202872
+Echinochloa_crus-galli	KF010234.1	02-MAR-2014	1534	South Korea: Cheongsong, Gyeonsangbukdo	secondary	matK	36.41994	129.09199	0.00142546320557276
+Echinochloa_crus-galli	KF010233.1	02-MAR-2014	1534	China	secondary	matK	35.7805052649825	105.454599998102	0.00378044825001268
+Echinochloa_crus-galli	KF010232.1	02-MAR-2014	1534	China	secondary	matK	35.2388412372035	104.059481792047	0.00142546320557276
+Echinochloa_crus-galli	KF010231.1	02-MAR-2014	1534	China	secondary	matK	34.7795684283589	105.19103680263	0.00378044825001268
+Echinochloa_crus-galli	KF010230.1	02-MAR-2014	1534	China	secondary	matK	35.2985364630665	105.158100912047	0.00378044825001268
+Echinochloa_crus-galli	KF010229.1	02-MAR-2014	1534	China	secondary	matK	35.5068184098099	104.23283753691	0.00142546320557276
+Echinochloa_crus-galli	KF010228.1	02-MAR-2014	1534	Philippines	secondary	matK	12.7503486	122.7312101	0.00142546320557276
+Echinochloa_crus-galli	KF010227.1	02-MAR-2014	1534	South Korea: Naju, Jeonranamdo	secondary	matK	35.4771034944892	126.776903780464	0.00142546320557276
+Echinochloa_crus-galli	KF010226.1	02-MAR-2014	1534	South Korea: Naju, Jeonranamdo	secondary	matK	35.4838034926289	126.079084665939	0.00142546320557276
+Echinochloa_crus-galli	KF010223.1	02-MAR-2014	1534	South Korea: Seosan, Choongchungnamdo	secondary	matK	36.7454693132555	127.061936841638	0.00142546320557276
+Echinochloa_crus-galli	KF010222.1	02-MAR-2014	1534	South Korea: Seosan, Choongchungnamdo	secondary	matK	36.3833108836476	126.788857749347	0.00142546320557276
+Echinochloa_crus-galli	KF010221.1	02-MAR-2014	1534	South Korea: Naju, Jeonranamdo	secondary	matK	34.7837193041515	127.510976221933	0.00142546320557276
+Echinochloa_crus-galli	KF010220.1	02-MAR-2014	1534	South Korea: Naju, Jeonranamdo	secondary	matK	34.6933321907721	126.484616119374	0.00142546320557276
+Echinochloa_crus-galli	KF163805.1	28-OCT-2013	1023	South Korea	secondary	matK	37.3601833473387	128.134404305744	0.033949632287194
+Echinochloa_crus-galli	KF163728.1	28-OCT-2013	1023	South Korea	secondary	matK	36.4666710236654	127.101224750219	0.0014363634043947
+Echinochloa_crus-galli	KF163727.1	28-OCT-2013	1023	South Korea	secondary	matK	37.2873557311333	128.007784158222	0.0014363634043947
+Echinochloa_crus-galli	KF163726.1	28-OCT-2013	1023	South Korea	secondary	matK	35.9734132715838	127.584379770154	0.0014363634043947
+Echinochloa_crus-galli	KF163725.1	28-OCT-2013	1023	South Korea	secondary	matK	35.9190860058869	127.759844426974	0.00403530080827609
+Echinochloa_crus-galli	KF163724.1	28-OCT-2013	1023	South Korea	secondary	matK	36.7031883560437	126.679229590402	0.0014363634043947
+Echinochloa_crus-galli	KF163723.1	28-OCT-2013	1023	South Korea	secondary	matK	35.9243782641071	127.849559571397	0.0014363634043947
+Echinochloa_crus-galli	KF163722.1	28-OCT-2013	1023	South Korea	secondary	matK	36.2697306276204	127.733273302317	0.0014363634043947
+Echinochloa_crus-galli	KF163721.1	28-OCT-2013	1023	South Korea	secondary	matK	36.2784507197977	127.604207747373	0.0014363634043947
+Echinochloa_crus-galli	KC164271.1	03-MAR-2013	1534	South Korea: Naju, Jeonranamdo	secondary	matK	35.4794635354137	126.243268875638	0.00142546320557276
+Echinochloa_crus-galli	KC164270.1	03-MAR-2013	1534	South Korea: Iksan, Jeongrabukdo	secondary	matK	36.0116454257706	127.663128216153	0.00142546320557276
+Echinochloa_crus-galli	KC164261.1	03-MAR-2013	1534	South Korea: Gyehwado, Jeonrabukdo	secondary	matK	35.5818477065723	126.875901857528	0.00142546320557276
+Echinochloa_crus-galli	KC164260.1	03-MAR-2013	1534	South Korea: Gyehwado, Jeonrabukdo	secondary	matK	35.0584246169888	126.549457962174	0.00378044825001268
+Echinochloa_crus-galli	HM850573.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00130836910686887
+Echinochloa_crus-galli	HQ599962.1	02-AUG-2011	1306	South Korea	secondary	matK	36.2523328727914	127.133801123898	0.00148266332212319
+Echinochloa_crus-galli	HQ599954.1	02-AUG-2011	1306	South Korea	secondary	matK	36.0402704542934	128.17273694718	0.00148266332212319
+Echinochloa_crus-galli	HQ599953.1	02-AUG-2011	1306	South Korea	secondary	matK	37.0297842768724	127.6662113349	0.00148266332212319
+Echinochloa_crus-galli	KF010225.1	02-MAR-2014	1534	South Korea	secondary	matK	37.5946849486421	126.063233763138	0.00226853915495637
+Echinochloa_crus-galli	KF010215.1	02-MAR-2014	1534	South Korea	secondary	matK	37.5798659737341	126.469674190921	0.00142546320557276

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ononis_reclinata	JN890868.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.54	-4.23	0.0116851168511685
+Ononis_reclinata	KX282913.1	28-MAY-2017	574	Kuwait	secondary	rbcL	30.1888796399178	48.3919596054622	0.0134676653246392
+Ononis_reclinata	KX282912.1	28-MAY-2017	577	Kuwait	secondary	rbcL	29.6648933242179	48.8217485708054	0.0122376530245162
+Ononis_reclinata	JN890825.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0116851168511685

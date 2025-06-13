@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Heracleum_sphondylium	EU594934.1	31-MAR-2009	297	Poland: Dlugosiodlo	secondary	psbA-trnH	52.759577	21.5929004	0.0348185305913614
+Heracleum_sphondylium	EU594930.1	31-MAR-2009	201	Poland: Zyzniewo	secondary	psbA-trnH	53.05635	21.8710796	0.0199004975124378
+Heracleum_sphondylium	EU594935.1	31-MAR-2009	286	Italy: Etruria	secondary	psbA-trnH	41.5649267	14.671679	0.0146902220586431
+Heracleum_sphondylium	EU594933.1	31-MAR-2009	300	Italy: Abruzzo	secondary	psbA-trnH	42.227681	13.854983	0.0200076529709568
+Heracleum_sphondylium	EU594932.1	31-MAR-2009	302	Austria: Tirol	secondary	psbA-trnH	47.223193	11.5261028	0.0178948620127472
+Heracleum_sphondylium	EU594928.1	31-MAR-2009	295	Poland: Wigry NP.	secondary	psbA-trnH	54.0726267	23.0624474	0.0308675165919212

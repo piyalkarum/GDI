@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_litoralis	KU216882.1	24-JAN-2016	416	Finland	secondary	psbA-trnH	63.512736084474	24.531124292388	0
+Odontites_litoralis	KU216878.1	24-JAN-2016	416	Finland	secondary	psbA-trnH	63.1222648833443	25.7869540039152	0
+Odontites_litoralis	KU216877.1	24-JAN-2016	416	Finland	secondary	psbA-trnH	62.8691138474783	26.5109146128759	0
+Odontites_litoralis	KU216875.1	24-JAN-2016	416	United Kingdom: Scotland	secondary	psbA-trnH	56.7296378721849	-5.49492553079078	0
+Odontites_litoralis	KU216874.1	24-JAN-2016	416	United Kingdom: Scotland	secondary	psbA-trnH	57.1560188341676	-3.18424285833249	0
+Odontites_litoralis	KU216873.1	24-JAN-2016	416	United Kingdom: Scotland	secondary	psbA-trnH	57.270441632501	-4.9669131477417	0
+Odontites_litoralis	KU216864.1	24-JAN-2016	413	Sweden	secondary	psbA-trnH	59.382080185438	15.2464913200034	0
+Odontites_litoralis	KU216863.1	24-JAN-2016	403	Sweden	secondary	psbA-trnH	59.2140017038476	15.186317634755	0
+Odontites_litoralis	KU216856.1	24-JAN-2016	413	Finland	secondary	psbA-trnH	63.0284362615572	24.585160115931	0

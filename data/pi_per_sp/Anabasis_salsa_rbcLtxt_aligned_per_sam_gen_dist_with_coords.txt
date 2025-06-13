@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anabasis_salsa	OR738159.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	48.04889	83.06556	0.208806498749396
+Anabasis_salsa	MT931047.1	03-MAR-2023	565	China	secondary	rbcL	35.000074	104.999927	0.199613083509476
+Anabasis_salsa	MF156724.1	30-MAY-2018	591	Kazakhstan: Ustyurt, Beyneu	secondary	rbcL	44	55.9	0.56755682439637
+Anabasis_salsa	HM131750.1	29-JUN-2010	1343	China: Beitun, Altai, Xinjiang	secondary	rbcL	47.3249377	87.8306682	0.18973897389739

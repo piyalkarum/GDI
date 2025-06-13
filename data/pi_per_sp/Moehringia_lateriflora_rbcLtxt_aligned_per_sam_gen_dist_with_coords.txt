@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Moehringia_lateriflora	MG246333.1	21-JAN-2018	552	Canada: Yukon Territory, Peel and Wind rivers, confluence of, camp #7	primary	rbcL	65.841	-135.304	0
+Moehringia_lateriflora	JN965680.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, York Factory	primary	rbcL	57.003	-92.304	0
+Moehringia_lateriflora	OQ172602.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.4849213939291	127.420603925434	0
+Moehringia_lateriflora	OQ172601.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.1960515180918	127.572599577752	0
+Moehringia_lateriflora	OQ172600.1	18-JUN-2023	689	South Korea	secondary	rbcL	35.8180706086391	127.719320000086	0
+Moehringia_lateriflora	OQ172599.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.770019756995	126.651717143906	0

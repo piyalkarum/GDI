@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Androsace_cylindrica	AY274988.1	12-MAY-2003	932	Spain	secondary	trnL-trnF	39.3797281766491	-5.2499115353146	0.00464949928469242
+Androsace_cylindrica	AY274987.1	12-MAY-2003	932	Spain	secondary	trnL-trnF	39.3128442389298	-4.63066815902941	0.0025035765379113
+Androsace_cylindrica	EU655595.1	30-JUN-2009	932	Spain	secondary	trnL-trnF	38.9389243177725	-4.13270090044028	0.00393419170243205
+Androsace_cylindrica	EU655594.1	30-JUN-2009	932	Spain	secondary	trnL-trnF	39.2178479592375	-4.5482265906137	0.0025035765379113

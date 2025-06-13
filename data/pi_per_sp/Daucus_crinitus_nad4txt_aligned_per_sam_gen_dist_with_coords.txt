@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daucus_crinitus	MN260975.1	25-AUG-2020	273	Portugal:Guarda	primary	nad4	40.9970430932345	-7.3367558798174	0.212454212454212
+Daucus_crinitus	MN260974.1	25-AUG-2020	273	Portugal:Braganca	primary	nad4	42.026616590229	-6.68456801177773	0.212454212454212
+Daucus_crinitus	MN260938.1	25-AUG-2020	8837	Portugal:Guarda	primary	nad4	40.3887865767683	-6.71934288450333	0.212454212454212
+Daucus_crinitus	MN260937.1	25-AUG-2020	8836	Portugal:Braganca	primary	nad4	42.0635984225943	-6.85331017171268	0.212454212454212

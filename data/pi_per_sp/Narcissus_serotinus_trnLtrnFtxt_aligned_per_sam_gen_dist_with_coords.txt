@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_serotinus	KC145379.1	31-JAN-2014	911	Portugal: Elvas	secondary	trnL-trnF	38.8806123	-7.1637237	0.0208986003140078
+Narcissus_serotinus	JF973284.1	30-AUG-2011	419	Spain: Sevilla	secondary	trnL-trnF	38.1072163908908	-6.41657749038677	0.0254226066726067
+Narcissus_serotinus	JF973283.1	30-AUG-2011	418	Spain: Sevilla	secondary	trnL-trnF	37.0036388053523	-5.85744374316972	0.0310679671425914
+Narcissus_serotinus	AY490201.1	16-DEC-2003	364	Spain: Sevilla, Dos Hermanas	secondary	trnL-trnF	37.283689	-5.9226718	0.0321881803246699

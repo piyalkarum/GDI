@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Persicaria_amphibia	MG248752.1	21-JAN-2018	516	Canada: British Columbia, Vancouver Island, Florence Lake	primary	rbcL	48.467	-123.517	0
+Persicaria_amphibia	MG248148.1	21-JAN-2018	552	Canada: Yukon Territory, Beaver River, Lee's Lake	primary	rbcL	60.175	-125.124	0
+Persicaria_amphibia	MG246515.1	21-JAN-2018	552	Canada: British Columbia, Kelowna, Ellison Lake	primary	rbcL	49.979	-119.393	0
+Persicaria_amphibia	MG246042.1	21-JAN-2018	552	Canada: British Columbia, Greater Vancouver, Richmond, 280 m east of No. 6 Road, 200 m north of Country Meadows Golf Course	primary	rbcL	49.154	-123.065	0
+Persicaria_amphibia	MF349207.1	21-SEP-2017	553	USA: Virginia; Daingerfield Island Marina along the abandoned greenhouse and marshy field	primary	rbcL	38.826	-77.04	0
+Persicaria_amphibia	JN893747.1	07-MAR-2012	401	United Kingdom: Monmouthshire	primary	rbcL	51.61	-2.72	0
+Persicaria_amphibia	JN893693.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.49	-3.27	0
+Persicaria_amphibia	JN890738.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Persicaria_amphibia	JN890737.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9875065	-1.1773256	0
+Persicaria_amphibia	JN890736.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Persicaria_amphibia	FM883621.1	14-DEC-2008	1385	Italy	secondary	rbcL	42.6384261	12.674297	0

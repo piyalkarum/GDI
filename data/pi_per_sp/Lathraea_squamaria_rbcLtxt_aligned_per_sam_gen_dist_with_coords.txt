@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathraea_squamaria	JN891871.1	07-MAR-2012	487	United Kingdom: Denbighshire	primary	rbcL	53.11	-3.31	0.0184804928131417
+Lathraea_squamaria	MK925525.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3976395294635	-2.73170191269455	0.0176864244741874
+Lathraea_squamaria	MK924827.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0771822277136	-2.93766164265442	0.0176864244741874
+Lathraea_squamaria	JN890561.1	07-MAR-2012	523	United Kingdom: Breconshire	secondary	rbcL	52.9875065	-1.1773256	0.0711911493677804
+Lathraea_squamaria	JN890560.1	07-MAR-2012	447	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.017337807606264

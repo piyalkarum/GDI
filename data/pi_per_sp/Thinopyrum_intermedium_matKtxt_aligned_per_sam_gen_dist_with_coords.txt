@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thinopyrum_intermedium	OQ847496.1	15-AUG-2023	789	USA: Bowdoin Wildlife Refuge	primary	matK	48.3769	-107.6879	0.0034189507795845
+Thinopyrum_intermedium	MF597628.1	17-JUL-2018	742	Canada: British Columbia, NE of Osoyoos ~2 km going up Anarchist Mountain, just before town lookout and just beyond the first switchback.	primary	matK	49.016	-119.411	0.00497049472751462
+Thinopyrum_intermedium	MF597627.1	17-JUL-2018	749	Canada: British Columbia, NE of Osoyoos ~2 km going up Anarchist Mountain, just before town lookout and just beyond the first switchback.	primary	matK	49.016	-119.403	0.00459702989227213
+Thinopyrum_intermedium	MF597626.1	17-JUL-2018	705	Canada: Manitoba, Rural Municipality of Pembina, ~5 km E of Manitou. Moist ground between gravel road and canola field with Phleum, Taraxacum, Lolium.	primary	matK	49.237	-98.46	0.0063177410885743
+Thinopyrum_intermedium	MF597625.1	17-JUL-2018	764	Canada: British Columbia, 2 km W of White Lake Road and Seacrest Road intersection. Ponderosa pine glade, with balsamroot, Festuca, and Amelanchier.	primary	matK	49.263	-119.603	0.00659293845813265
+Thinopyrum_intermedium	KP210665.1	31-AUG-2017	891	Germany	secondary	matK	31.4399019	-95.350778	0.00507736940771821
+Thinopyrum_intermedium	KF277165.1	30-SEP-2013	741	Poland	secondary	matK	52.215933	19.134422	0.00352751627423429
+Thinopyrum_intermedium	KF277164.1	30-SEP-2013	741	Romania	secondary	matK	45.9852129	24.6859225	0.00352751627423429
+Thinopyrum_intermedium	HE966912.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0201630323236899

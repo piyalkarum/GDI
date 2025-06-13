@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melica_uniflora	KJ204510.1	29-JAN-2015	795	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0
+Melica_uniflora	JN895692.1	07-MAR-2012	739	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Melica_uniflora	JN895662.1	07-MAR-2012	777	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0
+Melica_uniflora	JN895659.1	07-MAR-2012	821	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0

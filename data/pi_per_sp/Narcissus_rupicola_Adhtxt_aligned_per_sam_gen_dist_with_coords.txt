@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_rupicola	MN070218.1	07-AUG-2019	998	Portugal	secondary	Adh	40.3725462	-7.5165191	0.0914102037714738
+Narcissus_rupicola	KC607930.1	01-MAR-2014	934	Spain	secondary	Adh	40.655951783087	-4.15834101514933	0.537045870739227
+Narcissus_rupicola	JF973187.1	18-SEP-2011	751	Spain	secondary	Adh	37.7728858	-3.7883289	0.09067626242506
+Narcissus_rupicola	JF973186.1	18-SEP-2011	752	Spain	secondary	Adh	41.0493488524345	-3.26448728742915	0.090551222928161
+Narcissus_rupicola	JF973185.1	18-SEP-2011	752	Morocco	secondary	Adh	31.205279	-7.8613235	0.0900993658598662
+Narcissus_rupicola	JF973184.1	18-SEP-2011	752	Morocco	secondary	Adh	31.6258257	-7.9891608	0.0900993658598662
+Narcissus_rupicola	JF973183.1	18-SEP-2011	752	Morocco	secondary	Adh	34.230155	-4.010104	0.0900993658598662

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atriplex_glabriuscula	JN966128.1	27-OCT-2012	747	Canada: Manitoba, Churchill, unspecified locality	primary	matK	58.74	-93.82	0.0924372229741357
+Atriplex_glabriuscula	JN966127.1	27-OCT-2012	589	Canada: Manitoba, Churchill, 47 km NW Churchill, Seal River, Goose Camp	primary	matK	59.067	-94.8	0.0927491979058403
+Atriplex_glabriuscula	JN966126.1	27-OCT-2012	757	Canada: Manitoba, Churchill, 47 km NW Churchill, Seal River, Goose Camp	primary	matK	59.083	-94.8	0.0921641605640747
+Atriplex_glabriuscula	JN966125.1	27-OCT-2012	565	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove	primary	matK	58.763	-93.885	0.0928934351761499
+Atriplex_glabriuscula	JN894916.1	07-MAR-2012	800	United Kingdom: Carmarthenshire	primary	matK	51.68	-4.26	0.0949447734927718
+Atriplex_glabriuscula	KY941487.1	30-APR-2018	458	United Kingdom: England, East Sussex	secondary	matK	50.9404266	0.3699978	0.535653610760698
+Atriplex_glabriuscula	JN894033.1	07-MAR-2012	760	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0950860009649943

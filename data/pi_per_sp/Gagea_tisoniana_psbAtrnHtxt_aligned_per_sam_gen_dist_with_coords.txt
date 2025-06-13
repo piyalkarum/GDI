@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_tisoniana	LT985607.1	14-JUN-2019	298	Italy	secondary	psbA-trnH	43.2903496624334	12.623728454207	0
+Gagea_tisoniana	LT985606.1	14-JUN-2019	298	Italy	secondary	psbA-trnH	43.4279996549603	12.2117670166574	0
+Gagea_tisoniana	LT985605.1	14-JUN-2019	298	Italy	secondary	psbA-trnH	42.670350397074	11.8234244598998	0
+Gagea_tisoniana	AM409349.1	02-NOV-2006	395	Italy	secondary	psbA-trnH	42.8336794990556	12.2632133990054	0

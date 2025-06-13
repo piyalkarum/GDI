@@ -1,0 +1,57 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_crispus	MF694551.1	04-SEP-2018	500	Canada: Ontario, Middlesex County, Thames River, downstream (south) of Thorndale Road Bridge	primary	rbcL	42.6072291890158	-81.7043201728189	0.456113919810795
+Potamogeton_crispus	MF694550.1	04-SEP-2018	492	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.2537970388592	-80.2698058273845	0.457810121112826
+Potamogeton_crispus	MF694625.1	04-SEP-2018	552	Canada: Ontario, Middlesex County, Thames River, downstream (south) of Thorndale Road Bridge	primary	rbcL	42.757011684196	-82.212068509773	0.0909605643630177
+Potamogeton_crispus	LC219122.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3855	119.9648	0.0912893033560884
+Potamogeton_crispus	LC219110.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.377	119.9517	0.0912893033560884
+Potamogeton_crispus	LC219098.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3736	119.937	0.0912893033560884
+Potamogeton_crispus	LC219070.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3418	119.9271	0.0912893033560884
+Potamogeton_crispus	LC219058.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3231	119.9455	0.0912893033560884
+Potamogeton_crispus	LC219046.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3	119.947	0.0912893033560884
+Potamogeton_crispus	LC219038.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.2999	119.9471	0.0912893033560884
+Potamogeton_crispus	LC219028.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.2821	119.9447	0.0912893033560884
+Potamogeton_crispus	LC219013.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.2829	119.9448	0.0912893033560884
+Potamogeton_crispus	LC219005.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4086	119.9817	0.0912893033560884
+Potamogeton_crispus	LC219003.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4106	119.9896	0.0912893033560884
+Potamogeton_crispus	LC218972.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.0834010383	120.750695509869	0.0912893033560884
+Potamogeton_crispus	LC218970.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	29.6867060535244	120.541857957445	0.0912893033560884
+Potamogeton_crispus	LC218962.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4311	120.0504	0.0912893033560884
+Potamogeton_crispus	LC218955.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4311	120.0503	0.0912893033560884
+Potamogeton_crispus	LC218942.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4828	120.0596	0.0912893033560884
+Potamogeton_crispus	LC218936.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.5002	120.0634	0.0912893033560884
+Potamogeton_crispus	LC218934.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.524	120.0656	0.0912893033560884
+Potamogeton_crispus	LC218917.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.5609	120.0626	0.0912893033560884
+Potamogeton_crispus	LC218907.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.596	120.0595	0.0912893033560884
+Potamogeton_crispus	LC218897.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.702	120.0655	0.0912893033560884
+Potamogeton_crispus	LC218886.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.8268	120.1176	0.0912893033560884
+Potamogeton_crispus	LC218883.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.8398	120.1072	0.0912893033560884
+Potamogeton_crispus	LC218870.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.8961	120.101	0.0912893033560884
+Potamogeton_crispus	LC218832.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.9351	120.1262	0.0912893033560884
+Potamogeton_crispus	KT695549.1	29-SEP-2015	538	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	42.6267482198206	-80.5295967614168	0.0911407320662409
+Potamogeton_crispus	OQ754225.1	02-AUG-2023	840	Russia	secondary	rbcL	64.6863136	97.7453061	0.0841762056521785
+Potamogeton_crispus	MH170939.1	28-OCT-2018	703	Turkey	secondary	rbcL	38.158412024337	34.9601263928633	0.0893149503653833
+Potamogeton_crispus	MH170938.1	28-OCT-2018	703	Turkey	secondary	rbcL	38.6796665326257	35.8523709737645	0.0893149503653833
+Potamogeton_crispus	MH170937.1	28-OCT-2018	703	Turkey	secondary	rbcL	38.2524099781832	35.0223159911347	0.0893149503653833
+Potamogeton_crispus	MF694547.1	04-SEP-2018	454	Canada: Ontario, 1.5 miles southwest of Prescott. Genville County. In St. Lawrence River	secondary	rbcL	44.3681202413814	-77.5522891543974	0.45599703779801
+Potamogeton_crispus	MF694495.1	04-SEP-2018	497	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Boat passage	secondary	rbcL	43.5802682985723	-77.2342653288595	0.457535699445988
+Potamogeton_crispus	MF694622.1	04-SEP-2018	528	Canada: Ontario, 1.5 miles southwest of Prescott. Genville County. In St. Lawrence River	secondary	rbcL	43.7841339753998	-78.8059487014505	0.0910508277432227
+Potamogeton_crispus	MF694579.1	04-SEP-2018	550	Canada: Ontario, Inner Bay, Lake Erie. Causeway to Long Point, Norfolk County.	secondary	rbcL	44.4584749871308	-77.3802996945706	0.0909855244034517
+Potamogeton_crispus	MF694575.1	04-SEP-2018	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Boat passage	secondary	rbcL	44.1461377585394	-78.4643969404162	0.0910364526660622
+Potamogeton_crispus	FJ956836.1	30-DEC-2010	890	China: Linbao, Henan	secondary	rbcL	34.5453526	110.8795605	0.0841996711744675
+Potamogeton_crispus	JN891790.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.0901966893860121
+Potamogeton_crispus	JN891788.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.0901966893860121
+Potamogeton_crispus	JN891787.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0901966893860121
+Potamogeton_crispus	JF943539.1	13-DEC-2011	615	China: Guizhou	secondary	rbcL	26.6228928541647	107.776068695504	0.0894384869350762
+Potamogeton_crispus	JF943538.1	13-DEC-2011	615	China: Shanxi	secondary	rbcL	37	112	0.0894384869350762
+Potamogeton_crispus	JF943537.1	13-DEC-2011	615	China: Guizhou	secondary	rbcL	26.5890543917601	107.029191003738	0.0902468838925101
+Potamogeton_crispus	JF943536.1	13-DEC-2011	615	China: Zhejiang	secondary	rbcL	29.0000001	119.9999999	0.0894384869350762
+Potamogeton_crispus	JF943535.1	13-DEC-2011	615	China: Anhui	secondary	rbcL	32	117	0.0894384869350762
+Potamogeton_crispus	JF943534.1	13-DEC-2011	615	China: Guizhou	secondary	rbcL	26.5880380100865	106.984882106878	0.0894384869350762
+Potamogeton_crispus	JF943533.1	13-DEC-2011	615	China: Hebei	secondary	rbcL	39.0000001	116	0.0894384869350762
+Potamogeton_crispus	JF943532.1	13-DEC-2011	615	China: Jiangsu	secondary	rbcL	33.0000001	119.9999999	0.0894384869350762
+Potamogeton_crispus	EF529727.1	30-APR-2007	928	USA: Connecticut, Rogers Pond	secondary	rbcL	41.3819338	-72.4426421	0.483274067664661
+Potamogeton_crispus	EF529708.1	30-APR-2007	920	USA: Connecticut, Crystal Lake	secondary	rbcL	41.9361265	-72.3628906	0.483996331180347
+Potamogeton_crispus	EF529707.1	30-APR-2007	920	USA: Connecticut, Grannis Lake	secondary	rbcL	42.6218688574993	-73.5792722974011	0.483996331180347
+Potamogeton_crispus	EF529706.1	30-APR-2007	921	USA: Connecticut, Grannis Lake	secondary	rbcL	41.2000556964271	-73.1018418831447	0.483985067985939
+Potamogeton_crispus	EF529705.1	30-APR-2007	896	USA: Connecticut	secondary	rbcL	41.6500201	-72.7342163	0.486021784919163
+Potamogeton_crispus	AB196847.1	01-MAY-2009	1349	Japan:Shiga, Nagahama	secondary	rbcL	35.4857724	136.294057	0.0871497407417807

@@ -1,0 +1,51 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chenopodium_album	OQ832193.1	15-AUG-2023	553	USA: American Prairie, near Enrico	primary	rbcL	47.7447	-107.7716	0.0288690437152933
+Chenopodium_album	MF694963.1	16-SEP-2018	553	Pakistan: Punjab, Cholistan Desert, Derawar fort	primary	rbcL	28.3865240243369	71.2775574877232	0.0288690437152933
+Chenopodium_album	MF694689.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan Desert, Derawar fort	primary	rbcL	28.3685222318142	72.1567911141903	0.0368051371985736
+Chenopodium_album	MF694688.1	15-SEP-2018	522	Pakistan: Punjab, Cholistan Desert, Dingarh	primary	rbcL	28.963	71.786	0.029012855326372
+Chenopodium_album	MF694687.1	15-SEP-2018	525	Pakistan: Punjab, Cholistan Desert, Kanchi mor	primary	rbcL	29.051	71.87	0.0290457624414371
+Chenopodium_album	MH092647.1	23-APR-2018	526	India	primary	rbcL	27.4511652	94.8935577	0.0300806610072593
+Chenopodium_album	MG249608.1	21-JAN-2018	553	Canada: Ontario, Niagara County, Niagara-on-the-Lake Township, Fields around Traveller's Stop at intersection of York Road and Glendale Avenue (at exit of 403)	primary	rbcL	43.2585	-79.0841	0.0288690437152933
+Chenopodium_album	MG249488.1	21-JAN-2018	552	Canada: R.R.Tracks between Glasgow St. & Yorkshire St.	primary	rbcL	43.54	-80.254	0.0288728545013422
+Chenopodium_album	MG248646.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.8526	-80.4991	0.0288690437152933
+Chenopodium_album	MG248199.1	21-JAN-2018	552	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	rbcL	43.529	-80.229	0.0288728545013422
+Chenopodium_album	KX677946.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, Coquitlam, Stella-Jones Inc., 25 Braid Street	primary	rbcL	49.226	-122.872	0.0288728545013422
+Chenopodium_album	KJ841232.1	04-NOV-2014	521	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	rbcL	45.542	-73.154	0.0290270174541627
+Chenopodium_album	JQ412341.1	16-JAN-2013	552	South Africa: Western Cape, Cape Town, Robben Island	primary	rbcL	-33.809	18.379	0.0288728545013422
+Chenopodium_album	JN892465.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.61	-3.95	0.0290386502062357
+Chenopodium_album	OR381701.1	30-SEP-2023	553	Canada: Guelph, ON	secondary	rbcL	43.8064723017181	-80.9992560061334	0.0288690437152933
+Chenopodium_album	OR381700.1	30-SEP-2023	553	Canada: Guelph, ON	secondary	rbcL	43.9158996081015	-80.5297390890212	0.0288690437152933
+Chenopodium_album	MH469749.1	14-JUN-2020	651	Argentina: Santa Fe	secondary	rbcL	-30.3154739	-61.1645076	0.556503962231072
+Chenopodium_album	MH598929.1	22-JAN-2019	563	Saudi Arabia: Taif	secondary	rbcL	21.2702801	40.4158308	0.0287829761076205
+Chenopodium_album	MH598870.1	22-JAN-2019	605	Saudi Arabia: Makkah	secondary	rbcL	21.420847	39.826869	0.127109945593364
+Chenopodium_album	KY884351.1	30-APR-2018	593	United Kingdom: England, West Sussex	secondary	rbcL	51	-0.416667	0.563071213148137
+Chenopodium_album	MG247860.1	21-JAN-2018	553	Canada: Ontario, Lincoln County. Niagara township. 0.5mi West of Queenston	secondary	rbcL	43.7093979340879	-78.8161997963874	0.0288690437152933
+Chenopodium_album	MG247073.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Norfolk Twp., Carr Tract and Nursery Tract (St. Williams Forest), North Walsingham/South Walsingham Townline Road	secondary	rbcL	44.1681629275305	-76.9030526631629	0.0288690437152933
+Chenopodium_album	MG245965.1	21-JAN-2018	553	Canada: Ontario, Niagara County, Niagara-on-the-Lake Township, Fields around Traveller's Stop at intersection of York Road and Glendale Avenue (at exit of 403)	secondary	rbcL	43.7095726558459	-78.7939385779488	0.0288690437152933
+Chenopodium_album	KX808557.1	26-AUG-2017	511	Egypt	secondary	rbcL	26.2540493	29.2675469	0.0299137624753913
+Chenopodium_album	KJ204316.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.121931268519733
+Chenopodium_album	HM849888.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0282448925755135
+Chenopodium_album	JN891443.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.0290386502062357
+Chenopodium_album	JN891256.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0290386502062357
+Chenopodium_album	JN891255.1	07-MAR-2012	538	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0290177257937926
+Chenopodium_album	JF941270.1	13-DEC-2011	615	China	secondary	rbcL	34.8684550182361	104.372237681938	0.0289440083050519
+Chenopodium_album	JF941269.1	13-DEC-2011	615	China	secondary	rbcL	34.9474644802265	105.337682277734	0.0289440083050519
+Chenopodium_album	JF941268.1	13-DEC-2011	615	China	secondary	rbcL	35.0279966002701	105.427465589201	0.0289440083050519
+Chenopodium_album	JF941267.1	13-DEC-2011	615	China	secondary	rbcL	34.5881008664583	104.085484401154	0.0289440083050519
+Chenopodium_album	JF941266.1	13-DEC-2011	615	China	secondary	rbcL	34.6546978315873	105.761423659303	0.0289440083050519
+Chenopodium_album	JF941265.1	13-DEC-2011	615	China	secondary	rbcL	34.685527672155	103.977038478272	0.0289440083050519
+Chenopodium_album	JF941264.1	13-DEC-2011	615	China	secondary	rbcL	34.3902226012581	104.973579105157	0.0547425071649505
+Chenopodium_album	JF941263.1	13-DEC-2011	615	China	secondary	rbcL	34.9714985605297	104.525607802849	0.0289440083050519
+Chenopodium_album	JF941262.1	13-DEC-2011	615	China	secondary	rbcL	35.2313492716101	105.405496859814	0.0289440083050519
+Chenopodium_album	JF941261.1	13-DEC-2011	615	China	secondary	rbcL	35.521505875476	105.802937316142	0.0289440083050519
+Chenopodium_album	JF941260.1	13-DEC-2011	615	China	secondary	rbcL	35.3942005646159	105.606677232796	0.0289440083050519
+Chenopodium_album	JF941259.1	13-DEC-2011	528	China	secondary	rbcL	35.7125098548711	105.030550935935	0.0524395384496363
+Chenopodium_album	JF941258.1	13-DEC-2011	615	China	secondary	rbcL	34.8926925251953	106.007998107697	0.0289440083050519
+Chenopodium_album	JF941257.1	13-DEC-2011	615	China	secondary	rbcL	35.6662202508991	104.411416028943	0.0289440083050519
+Chenopodium_album	JF941256.1	13-DEC-2011	615	China	secondary	rbcL	35.296112947448	104.185349958123	0.0289440083050519
+Chenopodium_album	JF941255.1	13-DEC-2011	615	China	secondary	rbcL	34.5871571406621	104.038125368216	0.0289440083050519
+Chenopodium_album	JF941254.1	13-DEC-2011	615	China	secondary	rbcL	35.6663531245151	105.626102197296	0.0289440083050519
+Chenopodium_album	JF941253.1	13-DEC-2011	615	China	secondary	rbcL	34.4649573511021	104.383304502022	0.0289440083050519
+Chenopodium_album	JF941252.1	13-DEC-2011	615	China	secondary	rbcL	35.3969110465775	105.455677729453	0.0289440083050519
+Chenopodium_album	JF941251.1	13-DEC-2011	615	China	secondary	rbcL	35.0550555946143	104.005518031012	0.0289440083050519
+Chenopodium_album	MK044287.1	15-MAY-2019	748	South Korea	secondary	rbcL	33.4930566	126.5130589	0.0305917824688725

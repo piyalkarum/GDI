@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_palustre	MG223950.1	26-DEC-2017	552	Canada: Ontario, Wellington County, Guelph/Eramosa Township, Jones Baseline and Highway 124	primary	rbcL	43.608	-80.226	0.00193108909006878
+Galium_palustre	MG223108.1	26-DEC-2017	520	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay	primary	rbcL	45.515	-73.741	0.00180794188801079
+Galium_palustre	HQ590113.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, W edge of E pond	primary	rbcL	44.03	-79.536	0.00186618817416644
+Galium_palustre	KJ841341.1	04-NOV-2014	568	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Next to observation lookout at Lac Hertel	primary	rbcL	45.9503089433036	-72.2284470809672	0.00182622214256598
+Galium_palustre	KJ841340.1	04-NOV-2014	490	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 20 metres west-north-west of where West Creek enters Lac Hertel	primary	rbcL	45.4828759162158	-73.7038362124855	0.00185594924194072
+Galium_palustre	HQ590112.1	01-NOV-2011	519	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Marsh approx. 400 m N of Willow Ridge, 30 m E of fence	primary	rbcL	44.026	-79.537	0.00198319706990227
+Galium_palustre	JN890593.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.6	-2.89	0.00178051043517009
+Galium_palustre	MK028050.1	17-DEC-2018	732	Switzerland: Geneva	secondary	rbcL	45.8011645935139	7.15399657253107	0.0154938950065194
+Galium_palustre	KJ204346.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.7760839970103	6.3217796569895	0.00380634215465297
+Galium_palustre	HM850020.1	23-JUL-2011	1315	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00780444883238686
+Galium_palustre	JN893769.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00178051043517009
+Galium_palustre	JN893138.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00178051043517009
+Galium_palustre	JN893137.1	07-MAR-2012	529	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00179643669608648

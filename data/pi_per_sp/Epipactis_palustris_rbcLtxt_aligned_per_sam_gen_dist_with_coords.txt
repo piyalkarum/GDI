@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epipactis_palustris	JN893642.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.56	-4.16	0
+Epipactis_palustris	JN893553.1	07-MAR-2012	542	United Kingdom	primary	rbcL	53.19	-4.46	0
+Epipactis_palustris	MF572198.1	31-JUL-2018	573	Italy: Aosta Valley, Verrayes, Vieille	secondary	rbcL	45.7762572	7.5190811	0.000184162062615101
+Epipactis_palustris	MF572197.1	31-JUL-2018	527	Italy: Aosta Valley, Saint-Denis, Del	secondary	rbcL	45.6408328645156	6.6411417068891	0
+Epipactis_palustris	MF572196.1	31-JUL-2018	573	Italy: Aosta Valley, Saint-Denis, Del	secondary	rbcL	45.3868954719587	8.70538225720211	0.000184162062615101
+Epipactis_palustris	MF572195.1	31-JUL-2018	572	Italy: Aosta Valley, Saint-Denis, Semon	secondary	rbcL	45.7733237	7.5632241	0.000184162062615101
+Epipactis_palustris	MF572194.1	31-JUL-2018	574	Italy: Aosta Valley, Challand-Saint-Victor, Villa	secondary	rbcL	45.6849072	7.7002514	0.000183823529411765
+Epipactis_palustris	MF572193.1	31-JUL-2018	573	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	rbcL	45.8492962260693	6.43484759838596	0.000184162062615101
+Epipactis_palustris	MF572192.1	31-JUL-2018	574	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	rbcL	45.3973530435967	7.19539455689037	0.000183823529411765
+Epipactis_palustris	MF572191.1	31-JUL-2018	573	Italy: Aosta Valley, Verrayes, Plan	secondary	rbcL	45.7641845	7.5388629	0.000184162062615101
+Epipactis_palustris	FJ454882.1	30-AUG-2009	1307	France	secondary	rbcL	46.603354	1.8883335	0.00128845737189904

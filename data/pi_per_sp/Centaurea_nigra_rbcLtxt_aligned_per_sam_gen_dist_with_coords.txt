@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_nigra	MZ676678.1	10-AUG-2022	568	United Kingdom: England, Durham	primary	rbcL	54.7531	-1.5806	0.00264084507042254
+Centaurea_nigra	MW497157.1	18-MAY-2022	577	United Kingdom: England, London, Arrandene open space, Mill Hill.	primary	rbcL	51.6127	-0.2347	0.00259965337954939
+Centaurea_nigra	MG224356.1	26-DEC-2017	553	Canada: Ontario, Grey, Grey, Markdale	primary	rbcL	44.3167	-80.65	0.0027124773960217
+Centaurea_nigra	MG224199.1	26-DEC-2017	553	Canada: Ontario, Bruce, Bruce, Purple Grove	primary	rbcL	44.5	-81.25	0.0027124773960217
+Centaurea_nigra	MG221433.1	26-DEC-2017	552	Canada: Nova Scotia, Lunenburg County, Bridgewater	primary	rbcL	44.373	-64.507	0.00271739130434783
+Centaurea_nigra	KY463523.1	26-MAR-2017	612	USA: New York, New York City, Natural area adjacent to Central Park, near a construction site	primary	rbcL	40.78	-73.97	0.0262979736976547
+Centaurea_nigra	JN892357.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.0025830258302583
+Centaurea_nigra	JN891108.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.52	-3.1	0.0025830258302583
+Centaurea_nigra	JN893384.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.0025830258302583
+Centaurea_nigra	JN892339.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.0025830258302583
+Centaurea_nigra	JN890917.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0025830258302583
