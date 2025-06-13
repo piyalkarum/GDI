@@ -1,1 +1,15 @@
+data/extrapolated_matrix_array_coord_reassigned.rds filter=lfs diff=lfs merge=lfs -text
+data/pi_per_sp filter=lfs diff=lfs merge=lfs -text
+data/EU_all_native_species_list.csv filter=lfs diff=lfs merge=lfs -text
+data/Pi_per_fam_top10.rds filter=lfs diff=lfs merge=lfs -text
+data/eu_new_taxonomy.csv filter=lfs diff=lfs merge=lfs -text
+data/extrapolated_matrix_array_coord_reassigned.h5 filter=lfs diff=lfs merge=lfs -text
+data/marker_assigned_all_meta_data.csv filter=lfs diff=lfs merge=lfs -text
+data/meta_analysis_seq_geo_availability_phylo_tree_ordertable2.csv filter=lfs diff=lfs merge=lfs -text
+data/sequence_alignments filter=lfs diff=lfs merge=lfs -text
+data/sp_marker_sequence_counts.tsv filter=lfs diff=lfs merge=lfs -text
+data/EU_all_sp_higher_taxonomy_joined.csv filter=lfs diff=lfs merge=lfs -text
+data/EU_all_species_marker_coordinate_final_list.txt filter=lfs diff=lfs merge=lfs -text
+data/EU_sp_taxonomy_for_phylo_tree.txt filter=lfs diff=lfs merge=lfs -text
+data/* filter=lfs diff=lfs merge=lfs -text
 data/*.csv filter=lfs diff=lfs merge=lfs -text
