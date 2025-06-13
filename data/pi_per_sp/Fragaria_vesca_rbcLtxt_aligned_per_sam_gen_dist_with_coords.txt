@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fragaria_vesca	OR738174.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.32694	83.54556	0.00148942024793097
+Fragaria_vesca	MK030036.1	16-OCT-2019	578	United Kingdom: England, County Durham, Foreshield Burn	primary	rbcL	54.8159	-2.39	0.0233592201638206
+Fragaria_vesca	KP643756.1	08-DEC-2015	526	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.892	-78.146	0.00153516172820063
+Fragaria_vesca	MG249279.1	21-JAN-2018	551	Canada: Quebec, Montreal, Island of Montreal, Lieu vacant Ponner	primary	rbcL	45.461	-73.785	0.00146416374117671
+Fragaria_vesca	MG246897.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Flowerpot Island, FFNMP	primary	rbcL	45.303	-81.621	0.00155206806709005
+Fragaria_vesca	KX678302.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, campsite along Tulameen River	primary	rbcL	49.4343	-121.013	0.00155206806709005
+Fragaria_vesca	KX678250.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Loveland Bay Forest Service Road	primary	rbcL	50.0508	-125.371	0.00155206806709005
+Fragaria_vesca	KJ841329.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Across road from Chalet complex	primary	rbcL	45.537	-73.153	0.00155206806709005
+Fragaria_vesca	KJ841328.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Slope behind research station	primary	rbcL	45.535	-73.149	0.00155206806709005
+Fragaria_vesca	JN892538.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.14	0.00148942024793097
+Fragaria_vesca	JN891413.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.00148942024793097
+Fragaria_vesca	OR670273.1	06-NOV-2023	575	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.0014994384726456
+Fragaria_vesca	MT931935.1	03-MAR-2023	579	China	secondary	rbcL	30.3766431072039	-94.5859196452134	0.00149289159927865
+Fragaria_vesca	MT931934.1	03-MAR-2023	578	China	secondary	rbcL	29.5488831515608	-93.6420153612206	0.0014955201545083
+Fragaria_vesca	HQ619777.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.0015499387068154
+Fragaria_vesca	MH116180.1	17-AUG-2018	668	China	secondary	rbcL	29.738013918178	-95.1672297552747	0.00480391190536507
+Fragaria_vesca	MH116179.1	17-AUG-2018	668	China	secondary	rbcL	30.3852730035021	-93.5770161127489	0.00480391190536507
+Fragaria_vesca	HM850009.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0016417623468659
+Fragaria_vesca	JN892328.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9875065	-1.1773256	0.00148942024793097
+Fragaria_vesca	JN890880.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00148942024793097
+Fragaria_vesca	HE574629.1	31-JUL-2011	555	Finland	secondary	rbcL	63.2467777	25.9209164	0.00155586377150138

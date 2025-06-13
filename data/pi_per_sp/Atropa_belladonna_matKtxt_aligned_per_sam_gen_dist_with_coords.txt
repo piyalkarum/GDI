@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atropa_belladonna	JN894912.1	07-MAR-2012	662	United Kingdom: Monmouthshire	primary	matK	51.83	-2.67	0.000490196078431373
+Atropa_belladonna	OQ303550.1	13-JUN-2023	681	Latvia	secondary	matK	56.8406494	24.7537645	0.000490196078431373
+Atropa_belladonna	MK898773.1	30-JUN-2019	408	USA: DuPage County, IL	secondary	matK	41.7523506	-87.9373815	0.00245098039215686
+Atropa_belladonna	JN894598.1	07-MAR-2012	822	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000490196078431373
+Atropa_belladonna	JN894597.1	07-MAR-2012	807	United Kingdom: Flintshire	secondary	matK	53.2165096	-3.1402189	0.000490196078431373
+Atropa_belladonna	FN668828.1	27-APR-2010	602	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.000490196078431373

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leymus_multicaulis	MT929979.1	03-MAR-2023	773	China	secondary	matK	35.000074	104.999927	0
+Leymus_multicaulis	KP210637.1	31-AUG-2017	888	Kazakhstan	secondary	matK	47.3254122204605	67.1713336643849	NA
+Leymus_multicaulis	KP210584.1	31-AUG-2017	321	Kazakhstan	secondary	matK	48.454495347301	65.9921073646732	NA
+Leymus_multicaulis	KP210532.1	31-AUG-2017	321	Kazakhstan	secondary	matK	48.5537578230502	66.8641239441468	NA

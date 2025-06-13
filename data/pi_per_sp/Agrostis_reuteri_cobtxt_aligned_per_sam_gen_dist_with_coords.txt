@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostis_reuteri	MT396541.1	18-DEC-2020	709	Spain	secondary	cob	39.451312276468	-4.58977404690856	0.657759322310333
+Agrostis_reuteri	MT410030.1	14-DEC-2020	715	Spain	secondary	cob	39.2384676128957	-3.84369037451059	0.633029892980842
+Agrostis_reuteri	MT409989.1	14-DEC-2020	816	Spain	secondary	cob	38.8418550849155	-5.40092805383507	0.616078078608968
+Agrostis_reuteri	MT409943.1	14-DEC-2020	864	Spain	secondary	cob	38.6437211898319	-5.33960057975525	0.596992598342128

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_nevadensis	HE649755.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	39.2301457510977	-5.6607438515834	0
+Gagea_nevadensis	HE649754.1	04-FEB-2013	279	Spain	secondary	psbA-trnH	39.2620065305579	-5.96673133602252	0
+Gagea_nevadensis	HE649753.1	04-FEB-2013	279	Spain	secondary	psbA-trnH	39.3815000002066	-3.79401150745521	0
+Gagea_nevadensis	AM287269.1	19-JUL-2006	357	France:Pyrenes	secondary	psbA-trnH	16.0290953	-61.7436496	0

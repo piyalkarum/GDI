@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eritrichium_nanum	OP716968.1	03-MAY-2023	694	Austria: Reitereck	secondary	ndhF	47.0195628	13.5041866	0.00699637836018935
+Eritrichium_nanum	OP716966.1	03-MAY-2023	694	France: Mercantour, Col du Fer	secondary	ndhF	44.166965	6.93032807146882	0.00641661663559474
+Eritrichium_nanum	JX161511.1	30-JUN-2014	710	Switzerland: Alps	secondary	ndhF	46.3400988	6.1722939	0.00629966123528355
+Eritrichium_nanum	JX161510.1	30-JUN-2014	699	Romania: Piatra Craiului Mountains	secondary	ndhF	45.475794406632	24.6521891969388	0.00693968717728031
+Eritrichium_nanum	JX161507.1	30-JUN-2014	700	Romania: Bucegi Mountains	secondary	ndhF	45.1479862946819	26.4396737510582	0.0069488215699174
+Eritrichium_nanum	JX161503.1	30-JUN-2014	700	Romania: Bucegi Mountains	secondary	ndhF	45.09096420456	25.2303455401667	0.0069488215699174

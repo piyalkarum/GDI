@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alopecurus_geniculatus	MF596557.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, Juan de Fuca Provincial Park, end of Hwy. 17, 2 km W of Port Renfrew. Botanical Beach and Botany Bay.	primary	rbcL	48.4395345276587	-124.278190032594	0
+Alopecurus_geniculatus	MF596556.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, ~3.2 km up road to Moresby Camp from Y junction (loop road), just over brdige at small creek.	primary	rbcL	53.2610986134642	-133.12711198189	0
+Alopecurus_geniculatus	MF596555.1	28-FEB-2018	603	Canada: British Columbia, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Rd. Dry mud flats with Juncus.	primary	rbcL	48.8117699107465	-122.035238714447	0
+Alopecurus_geniculatus	MG227577.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, Juan de Fuca Provincial Park, end of Hwy. 17, 2 km W of Port Renfrew. Botanical Beach and Botany Bay.	primary	rbcL	48.6535368598253	-125.291060026922	0
+Alopecurus_geniculatus	MG226623.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, ~3.2 km up road to Moresby Camp from Y junction (loop road), just over brdige at small creek.	primary	rbcL	52.7566291685453	-131.496009506566	0
+Alopecurus_geniculatus	MG225929.1	23-JAN-2018	603	Canada: British Columbia, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Rd. Dry mud flats with Juncus.	primary	rbcL	48.7517975310999	-122.80817462729	0
+Alopecurus_geniculatus	JN891005.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.5	-3.13	0
+Alopecurus_geniculatus	HM849758.1	23-JUL-2011	1322	Portugal	secondary	rbcL	39.6621648	-8.1353519	8.40477391158178e-05
+Alopecurus_geniculatus	JN893325.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Alopecurus_geniculatus	AJ746281.1	07-JAN-2005	1329	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	8.40477391158178e-05

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eleocharis_quinqueflora	MG227660.1	23-JAN-2018	552	Canada: Kinbasket Lake, BC	primary	rbcL	51.95	-118.033	0
+Eleocharis_quinqueflora	MG226630.1	23-JAN-2018	552	Canada: Watson Lake, Alaska Highway, Yukon	primary	rbcL	60.1167	-128.8	0
+Eleocharis_quinqueflora	MG226212.1	23-JAN-2018	552	Canada: Klondike Hwy., Yukon	primary	rbcL	64.0625	-139.431	0
+Eleocharis_quinqueflora	JN890619.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.49	-3.73	0
+Eleocharis_quinqueflora	MF963341.1	10-OCT-2017	1285	USA: Tulare Co, CA	secondary	rbcL	36.3286877	-119.3192268	0
+Eleocharis_quinqueflora	JN892184.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Eleocharis_quinqueflora	JN892182.1	07-MAR-2012	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0

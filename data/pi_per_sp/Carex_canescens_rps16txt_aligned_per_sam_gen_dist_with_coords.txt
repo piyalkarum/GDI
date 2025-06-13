@@ -1,0 +1,35 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_canescens	KY189270.1	18-DEC-2017	788	Russia: Kamchatka Peninsula, Pacific Ocean coast, SE of Nalychevo.	secondary	rps16	55.6286562115508	158.316939600602	0.00145194711074538
+Carex_canescens	KY189268.1	18-DEC-2017	739	Armenia: Mt. Aragats, Aragatsotn, Aragats	secondary	rps16	40.4765905	44.1857351	0.00132500325036826
+Carex_canescens	KY189267.1	18-DEC-2017	788	Spain: Lerida, Banos de Tredos	secondary	rps16	41.3218037174587	1.28672801962828	0.00145194711074538
+Carex_canescens	KY189266.1	18-DEC-2017	241	Spain: Zamora, Pena Trevinca, Laguna de Cubillas	secondary	rps16	41.5056574	-5.7448039	0.0205170563401839
+Carex_canescens	KY189263.1	18-DEC-2017	547	Canada: Newfoundland and Labrador, Strait of Belle District, on road to Goose Cove	secondary	rps16	48.1954925939977	-57.0763228900894	0.00664500858988435
+Carex_canescens	KY189261.1	18-DEC-2017	793	Finland: Pallas-Ounastunturi National Park	secondary	rps16	67.6401897	24.3369428	0.00144966642145681
+Carex_canescens	KY189260.1	18-DEC-2017	737	Bulgaria: Rhodope mountains, between Belovo and Jakoruda	secondary	rps16	41.56093875	24.7280574578639	0.00132988132609493
+Carex_canescens	KY189258.1	18-DEC-2017	788	Austria: Tirol, Oetztaler Alpen, Soelden	secondary	rps16	47.6911714	15.5423459	0.00145194711074538
+Carex_canescens	KY189257.1	18-DEC-2017	210	Australia: New South Wales, Kosciusko, Karlway Morraine Creek, Mount Northcott	secondary	rps16	-28.82345785	153.299685955468	0.00246504186287125
+Carex_canescens	KY189256.1	18-DEC-2017	788	Russia: Kamchatka Peninsula, Bristraya River, Esso	secondary	rps16	55.0527562279971	158.431052327631	0.00145228378407155
+Carex_canescens	KY189255.1	18-DEC-2017	612	Australia: Victoria, Snowfields, Bogong High Plains	secondary	rps16	-21.2309116	148.9741517	0.00151859125899563
+Carex_canescens	KY189254.1	18-DEC-2017	790	Spain: Burgos. Neila, Laguna de los Patos	secondary	rps16	42.043537	-3.0456918	0.00145125674815866
+Carex_canescens	KY189253.1	18-DEC-2017	682	Canada: Northwest Territories, Canol Road (Hwy 5), MacMillan Pass	secondary	rps16	62.4538109	-114.361050472611	0.00139816233190898
+Carex_canescens	KY189252.1	18-DEC-2017	774	Canada: Yukon, Vicinity of Halfway Lake, North of Mayo	secondary	rps16	62.3441509	-136.4936376	0.00482356815206885
+Carex_canescens	KY189251.1	18-DEC-2017	782	United Kingdom: Scotland, Highlands between Tynohumy and Glencoe	secondary	rps16	52.8609703	-0.5098637	0.00145757976318762
+Carex_canescens	KY189250.1	18-DEC-2017	767	USA: Utah, Daggett County, Green Lake	secondary	rps16	35.5903318	-88.0583569	0.00169026703630503
+Carex_canescens	KY189248.1	18-DEC-2017	209	Russia: Siberia, Region of Lake Baikal, Valley of Korolok	secondary	rps16	60	100	0.00358714130077353
+Carex_canescens	KY189247.1	18-DEC-2017	777	USA: California, El Dorado Co, El Dorado National Forest, Grass Lake	secondary	rps16	38.628683	-92.5659635	0.00184224735448008
+Carex_canescens	KY189246.1	18-DEC-2017	701	Canada: Newfoundland and Labrador. Route 13 before Trans-Labrador (Hwy 510)	secondary	rps16	48.2985919789279	-58.4065098965264	0.00176794353201994
+Carex_canescens	KY189243.1	18-DEC-2017	794	USA: Alaska, Alaska Range District, Peters Hills Mountains.	secondary	rps16	39.4703246	-86.6413912	0.00183010062583069
+Carex_canescens	KY189240.1	18-DEC-2017	793	Argentina: Tierra del Fuego, Rio Grande, Ona River	secondary	rps16	-54.5505133483573	-68.6530165403248	0.00178209658626588
+Carex_canescens	KY189239.1	18-DEC-2017	795	Argentina: Tierra del Fuego, between Ushuaia and Tolhuin, Rancho Hambre	secondary	rps16	-54.3710767915632	-69.1674118991033	0.00183010062583069
+Carex_canescens	KY189238.1	18-DEC-2017	795	Argentina: Tierra del Fuego, Ushuaia, Tierra del Fuego National Park	secondary	rps16	-54.8351128	-68.5621773	0.00183010062583069
+Carex_canescens	KY189237.1	18-DEC-2017	794	Argentina: Rio Negro, Nahuel Huapi National Park	secondary	rps16	-39.7281192	-65.3426773	0.00183010062583069
+Carex_canescens	KY189236.1	18-DEC-2017	794	Argentina: Chubut, Los Alerces National Park	secondary	rps16	-42.8421431	-71.8761216	0.00183010062583069
+Carex_canescens	KY189235.1	18-DEC-2017	794	Argentina: Santa Cruz, Los Glaciares National Park	secondary	rps16	-49.9027374228803	-73.163259788016	0.00302345633783012
+Carex_canescens	KY189234.1	18-DEC-2017	582	Argentina: Santa Cruz, Los Glaciares National Park	secondary	rps16	-50.2603293149814	-72.2844197583773	0.00681395703338229
+Carex_canescens	KY189233.1	18-DEC-2017	521	USA: Massachusetts, Berkshire County, Thomas Pond	secondary	rps16	42.2461755	-73.108015	0.00358585897340627
+Carex_canescens	KY055215.1	15-OCT-2017	788	Canada: Prince Edward Island	secondary	rps16	46.5036807	-63.595411	0.00248713053246366
+Carex_canescens	KY055214.1	15-OCT-2017	791	Spain: Lerida	secondary	rps16	42.1028191904277	0.839212223077623	0.00145053624461178
+Carex_canescens	KR827139.1	22-SEP-2015	786	Romania: Carpathians	secondary	rps16	45.3274423	23.9141009	0.00145345549875588
+Carex_canescens	KY189265.1	18-DEC-2017	789	Serbia	secondary	rps16	42.7111362	22.3424838537789	0.00145278673184997
+Carex_canescens	KY189264.1	18-DEC-2017	787	Norway	secondary	rps16	58.11557925	8.25014120870404	0.0014545937173466
+Carex_canescens	KY189241.1	18-DEC-2017	794	Chile	secondary	rps16	-53.4017264	-71.3708493905513	0.00183010062583069

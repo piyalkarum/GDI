@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spirodela_polyrhiza	MG227583.1	23-JAN-2018	552	Canada: Ontario, Renfrew County, Olmsted Lake, 3 miles SE of Coden	primary	rbcL	45.817	-76.783	0.000302757318972572
+Spirodela_polyrhiza	LC219130.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3855	119.9648	0.000301932367149758
+Spirodela_polyrhiza	LC219112.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.377	119.9517	0.00197653845641824
+Spirodela_polyrhiza	LC219102.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3736	119.937	0.000301932367149758
+Spirodela_polyrhiza	LC219055.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3231	119.9455	0.000301932367149758
+Spirodela_polyrhiza	LC218988.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4196	120.0209	0.000301932367149758
+Spirodela_polyrhiza	LC218967.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4311	120.0504	0.000301932367149758
+Spirodela_polyrhiza	LC218940.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.4828	120.0596	0.000301932367149758
+Spirodela_polyrhiza	JN891580.1	07-MAR-2012	535	United Kingdom: Glamorgan	primary	rbcL	51.51	-3.68	0.000155763239875389
+Spirodela_polyrhiza	KC584885.1	04-JUN-2013	743	Italy: Umbria	secondary	rbcL	42.965916	12.490236	0.00181995026472004
+Spirodela_polyrhiza	JN892888.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0.00030750307503075
+Spirodela_polyrhiza	JN892883.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00030750307503075
+Spirodela_polyrhiza	JN891492.1	07-MAR-2012	542	United Kingdom: West Sussex (13)	secondary	rbcL	50.984855	-0.104519	0.00030750307503075

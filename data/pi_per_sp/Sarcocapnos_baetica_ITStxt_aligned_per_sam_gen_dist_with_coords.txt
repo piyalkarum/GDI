@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sarcocapnos_baetica	AJ250623.3	06-JAN-2001	540	Spain:Albacete	secondary	ITS	38.9020468895855	-1.39017439248852	0.018700327255727
+Sarcocapnos_baetica	AJ429200.1	05-SEP-2002	230	Spain:Embalse de la Fuensanta.Albacete	secondary	ITS	38.3767186	-2.23307981549865	0.00579710144927536
+Sarcocapnos_baetica	AJ250624.3	06-JAN-2001	155	Spain:Albacete	secondary	ITS	39.6710579715929	-1.17347214180513	0.0150537634408602
+Sarcocapnos_baetica	AJ250622.1	06-JAN-2001	155	Spain:Cazorla	secondary	ITS	37.9128927	-3.0038873	0.0236559139784946

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helminthotheca_echioides	LN830759.1	07-MAR-2016	638	Algeria:Annaba Province, El Kerma on the road Annaba-Guelma	primary	ITS1	36.7	7.62	0.0146360759493671
+Helminthotheca_echioides	LN830758.1	07-MAR-2016	632	Morocco:Tangier-Tetouan Region, S of Ksar es-Seghir	primary	ITS1	35.77	-5.53	0.00593354430379747
+Helminthotheca_echioides	LN830757.1	07-MAR-2016	632	Spain:Cadiz Province, Conil de la Frontera	primary	ITS1	36.32	-6.08	0.00474683544303798
+Helminthotheca_echioides	LN830756.1	07-MAR-2016	632	Spain:Huelva Province, Between Gibraleon and Cartaya	primary	ITS1	37.33	-7.03	0.00514240506329114
+Helminthotheca_echioides	LN830755.1	07-MAR-2016	632	Portugal:Coimbra District, Figueira da Foz. Cabo Mondego	primary	ITS1	40.18	-8.9	0.00593354430379747

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spiranthes_australis	MH785197.1	22-JAN-2019	901	New Zealand	secondary	ycf1	-41.5000831	172.8344077	0.00258971513133555
+Spiranthes_australis	MH785195.1	22-JAN-2019	1569	Russia	secondary	ycf1	64.6863136	97.7453061	0.00371421221422176
+Spiranthes_australis	MH785194.1	22-JAN-2019	1569	Australia	secondary	ycf1	-24.7761086	134.755	0.00376915199621222
+Spiranthes_australis	MH785193.1	22-JAN-2019	1569	China	secondary	ycf1	35.000074	104.999927	0.00530392899610871

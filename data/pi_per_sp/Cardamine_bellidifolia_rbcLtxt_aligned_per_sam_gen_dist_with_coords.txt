@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_bellidifolia	MG249452.1	21-JAN-2018	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On the NE slope, 50 m from the top, in line with the truck's parking.	primary	rbcL	55.5064	-67.8361	0.000201288244766506
+Cardamine_bellidifolia	MG248654.1	21-JAN-2018	552	Canada: Yukon Territory, Mount Sedgwick	primary	rbcL	68.858	-139.153	0.000201288244766506
+Cardamine_bellidifolia	MG248009.1	21-JAN-2018	552	USA: Alaska, Southeast Fairbanks Census Area, Yukon-Charley National Preserve, Mount Sorenson camp	primary	rbcL	65.004	-142.819	0.000201288244766506
+Cardamine_bellidifolia	KT960676.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.244963769579	-22.4958443068501	0.000201288244766506
+Cardamine_bellidifolia	KT960491.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.7469845040106	-18.9902459720125	0.000201288244766506
+Cardamine_bellidifolia	KC482205.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. In the vicinity of the fresh water lake in lowlands 1 km W of Kihlbay	primary	rbcL	56.472	-79.042	0.000201288244766506
+Cardamine_bellidifolia	KC482204.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Central Plateau	primary	rbcL	76.75	-119.5	0.000201288244766506
+Cardamine_bellidifolia	KC482203.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve. Tanquary Fiord Quad., Ekblaw Lake, SW shoreline of lake	primary	rbcL	81.6167	-75.5	0.000201288244766506
+Cardamine_bellidifolia	KC482202.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Tundra Valley	primary	rbcL	63.7383	-68.4986	0.00184178743961353
+Cardamine_bellidifolia	KC482201.1	25-OCT-2013	480	Canada: Northwest Territories, Prince Patrick Island, West coast	primary	rbcL	76.76	-120.46	0.000231481481481481

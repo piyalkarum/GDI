@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubus_caesius	OR738085.1	13-NOV-2023	542	Kazakhstan: Mangistau region	primary	rbcL	44.28015	51.25251	0
+Rubus_caesius	JN891151.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.53	-3.7	0
+Rubus_caesius	JN892997.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0
+Rubus_caesius	JN892467.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Rubus_caesius	JN890848.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Rubus_caesius	FN689382.1	19-MAR-2010	743	Italy:Umbria	secondary	rbcL	42.965916	12.490236	0

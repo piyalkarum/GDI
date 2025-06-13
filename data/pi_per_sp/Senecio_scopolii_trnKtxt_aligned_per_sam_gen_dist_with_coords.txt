@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_scopolii	JX894982.1	19-DEC-2012	440	Italy: Foggia, San Giovanni Rotondo, monte Calvo	secondary	trnK	42.2853853042771	16.6715061350361	0.31452861952862
+Senecio_scopolii	JX894981.1	19-DEC-2012	440	Croatia: Istria, Ucka	secondary	trnK	45.8825198720689	13.7992342426424	0.31452861952862
+Senecio_scopolii	JX894980.1	19-DEC-2012	440	Italy: Abruzzo, L'Aquila, Campo Imperatore	secondary	trnK	42.2595976872977	13.9828859081442	0.316464646464646
+Senecio_scopolii	JX894910.1	19-DEC-2012	478	Italy: Foggia, San Giovanni Rotondo, monte Calvo	secondary	trnK	42.0957598229201	15.1161331098016	0.314567901234568
+Senecio_scopolii	JX894909.1	19-DEC-2012	478	Croatia: Istria, Ucka	secondary	trnK	45.0646734176742	13.0417483321055	0.314567901234568
+Senecio_scopolii	JX894908.1	19-DEC-2012	478	Italy: Abruzzo, L'Aquila, Campo Imperatore	secondary	trnK	42.7670660258534	14.4867304198605	0.314567901234568

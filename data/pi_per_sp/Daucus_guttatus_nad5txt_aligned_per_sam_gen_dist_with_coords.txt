@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daucus_guttatus	MN260997.1	25-AUG-2020	2013	Turkey:Mugla	primary	nad5	37.1775	28.4275	0.000331180659049512
+Daucus_guttatus	MN260996.1	25-AUG-2020	2013	Greece:Macedonia	primary	nad5	40.90555	21.95861	0.000331180659049512
+Daucus_guttatus	MN261015.1	25-AUG-2020	2013	Iran	secondary	nad5	36.5935450592668	51.1116722678773	0.000331180659049512
+Daucus_guttatus	MN261014.1	25-AUG-2020	2013	Iran	secondary	nad5	36.9199769451282	51.415045959713	0.000331180659049512

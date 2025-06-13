@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_coronopus	MH158796.1	06-JUN-2018	813	Turkey: Antalya, north of Beskonak	secondary	trnL-trnF	36.8864752	30.7029585	0.00665328188798071
+Plantago_coronopus	MH158794.1	06-JUN-2018	813	Morocco	secondary	trnL-trnF	28.3347722	-10.3713379	0.00500042605391196
+Plantago_coronopus	MH158793.1	06-JUN-2018	813	Spain: Andalusia, Province Cadiz, Algodonales Puerto de la Vieja (TF)	secondary	trnL-trnF	37.4645318	-5.3443621	0.00500042605391196
+Plantago_coronopus	MH158792.1	06-JUN-2018	813	Montenegro: Budva	secondary	trnL-trnF	42.2885656	18.8419505	0.00500042605391196
+Plantago_coronopus	MH158791.1	06-JUN-2018	788	Spain: Andalusia, Punta Entinas	secondary	trnL-trnF	36.705762	-2.6627621	0.00470621950196834
+Plantago_coronopus	MH158788.1	06-JUN-2018	813	Algeria: Djelfa, Oued Mehla	secondary	trnL-trnF	34.671359	3.254037	0.00527792972498361
+Plantago_coronopus	KY951660.1	18-APR-2018	576	Kuwait	secondary	trnL-trnF	30.2108344275992	47.7292113034722	0.0199190228343183
+Plantago_coronopus	KY951659.1	18-APR-2018	551	Kuwait	secondary	trnL-trnF	28.8577519171246	47.6977717459785	0.0127437337330912
+Plantago_coronopus	MH158795.1	06-JUN-2018	812	South Africa	secondary	trnL-trnF	-33.928992	18.417396	0.00537316135486135
+Plantago_coronopus	MH158790.1	06-JUN-2018	813	Spain	secondary	trnL-trnF	37.0675509	-2.52946955211445	0.00500042605391196

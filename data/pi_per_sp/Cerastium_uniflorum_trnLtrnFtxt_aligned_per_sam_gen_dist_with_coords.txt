@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_uniflorum	MH487925.1	20-JAN-2022	2040	Austria	secondary	trnL-trnF	36.9461667031813	-5.18661416662571	0.00247060765844543
+Cerastium_uniflorum	MH487923.1	20-JAN-2022	2040	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.00579839000915232
+Cerastium_uniflorum	MH487916.1	20-JAN-2022	2050	Austria	secondary	trnL-trnF	36.1312175067089	-4.93101665551288	0.00246853154065637
+Cerastium_uniflorum	MH487915.1	20-JAN-2022	2040	Austria	secondary	trnL-trnF	36.0286671180597	-4.72177314219505	0.00246853154065637
+Cerastium_uniflorum	MH487914.1	20-JAN-2022	2036	Slovakia	secondary	trnL-trnF	48.7411522	19.4528646	0.00283835713888087

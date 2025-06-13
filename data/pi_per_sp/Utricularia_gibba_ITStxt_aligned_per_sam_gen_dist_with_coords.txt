@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Utricularia_gibba	LC682660.1	10-AUG-2022	777	Japan:Aichi, Nissin	secondary	ITS	34.9481296528199	136.463991535005	0.00836973794720274
+Utricularia_gibba	LC682659.1	10-AUG-2022	777	Japan:Aichi, Nissin	secondary	ITS	35.8149393397435	137.217246466749	0.00836973794720274
+Utricularia_gibba	LC682655.1	10-AUG-2022	720	Japan:Aichi, Nagakute	secondary	ITS	35.174318	137.070047	0.0201994576152568
+Utricularia_gibba	LC682652.1	10-AUG-2022	652	Japan:Aichi, Nissin	secondary	ITS	34.5163834214075	136.377345778419	0.005175983436853

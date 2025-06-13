@@ -1,0 +1,35 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Solidago_virgaurea	MZ020920.1	09-MAY-2022	474	Slovakia: Beckov, S of the village, natural reserve Beckovske Skalice	primary	ycf1	48.8810028209939	17.767226842095	0
+Solidago_virgaurea	MZ020919.1	09-MAY-2022	474	Slovakia: Beckov, S of the village, natural reserve Beckovske Skalice	primary	ycf1	48.2632897326375	16.9833669760242	0
+Solidago_virgaurea	MZ020918.1	09-MAY-2022	474	Slovakia: Banska Stiavnica, W part of the town, Pod Trojickym vrchom street	primary	ycf1	48.4471433	18.898096	0
+Solidago_virgaurea	MZ020917.1	09-MAY-2022	474	Slovakia: Betliar, SE of the village	primary	ycf1	48.5920028490765	21.0661846937487	0
+Solidago_virgaurea	MZ020916.1	09-MAY-2022	474	Slovakia: Betliar, SE of the village	primary	ycf1	49.0678021313675	20.5248373077296	0
+Solidago_virgaurea	MZ020915.1	09-MAY-2022	474	Slovakia: Jelsava, N of the town	primary	ycf1	48.230782781593	20.3057095238414	0
+Solidago_virgaurea	MZ020914.1	09-MAY-2022	474	Slovakia: Jelsava, N of the town	primary	ycf1	48.9674810722206	19.6965822095409	0
+Solidago_virgaurea	MZ020913.1	09-MAY-2022	474	Slovakia: Nezbudska Lucka, loco dicto Za vodou and Hradskeho potok creek valley	primary	ycf1	48.7643471787786	18.6794546694146	0
+Solidago_virgaurea	MZ020912.1	09-MAY-2022	474	Slovakia: Nezbudska Lucka, loco dicto Za vodou and Hradskeho potok creek valley	primary	ycf1	48.7321230286144	19.7592949814882	0
+Solidago_virgaurea	MZ020911.1	09-MAY-2022	474	Slovakia: Nezbudska Lucka, loco dicto Za vodou and Hradskeho potok creek valley	primary	ycf1	49.3390189516265	19.580436556666	0
+Solidago_virgaurea	MZ020910.1	09-MAY-2022	474	Slovakia: Nezbudska Lucka, loco dicto Za vodou and Hradskeho potok creek valley	primary	ycf1	49.915740843939	19.6353259141843	0
+Solidago_virgaurea	MZ020909.1	09-MAY-2022	474	Slovakia: Nezbudska Lucka, loco dicto Za vodou and Hradskeho potok creek valley	primary	ycf1	48.8403420342144	17.6690105550097	0
+Solidago_virgaurea	MZ020908.1	09-MAY-2022	474	Slovakia: Niznoslanska Bana, S part of the village	primary	ycf1	48.73687	20.41457	0
+Solidago_virgaurea	MZ020907.1	09-MAY-2022	474	Slovakia: Liptovska Teplieka, spring of the river Hornad	primary	ycf1	48.98089	20.10653	0
+Solidago_virgaurea	MZ020906.1	09-MAY-2022	474	Slovakia: Hrhov, S of the village, Velky Paklan hill	primary	ycf1	49.3683408141712	21.1512746870162	0
+Solidago_virgaurea	MZ020905.1	09-MAY-2022	465	Slovakia: Hrhov, S of the village, Velky Paklan hill	primary	ycf1	48.0258657189655	21.203833086691	0
+Solidago_virgaurea	MZ020886.1	09-MAY-2022	474	Slovakia: Kojsov, E of the village, below Zemnieky saddle	primary	ycf1	48.824287	21.011266	0
+Solidago_virgaurea	MZ020885.1	09-MAY-2022	474	Slovakia: Velky Kolacin, SE of the village, SE slope of Markovnica hill	primary	ycf1	48.925081	18.19405	0
+Solidago_virgaurea	MZ020829.1	09-MAY-2022	474	Poland: Jachowka, W of the village	primary	ycf1	49.5328464757473	20.4952330779048	0
+Solidago_virgaurea	MZ020828.1	09-MAY-2022	477	Poland: Jachowka, W of the village	primary	ycf1	49.588446193516	19.1539971654575	0
+Solidago_virgaurea	MZ020827.1	09-MAY-2022	477	Poland: Palcza, N of the village, Dzial Polecki settlement	primary	ycf1	49.82612	19.73678	0
+Solidago_virgaurea	MZ020826.1	09-MAY-2022	474	Poland: Januszowice, W of the village	primary	ycf1	50.0113642783355	19.5079675096471	0
+Solidago_virgaurea	MZ020825.1	09-MAY-2022	474	Poland: Czajowice, S of the village	primary	ycf1	50.259232826536	19.7095358767773	0
+Solidago_virgaurea	MZ020824.1	09-MAY-2022	474	Poland: Mydlniki, Krakow, N of the city district	primary	ycf1	50.2679048803973	18.7852309270469	0
+Solidago_virgaurea	MZ020823.1	09-MAY-2022	474	Poland: Czajowice, S of the village	primary	ycf1	49.5056723287855	19.8885685498213	0
+Solidago_virgaurea	MZ020822.1	09-MAY-2022	474	Slovakia: Nezbudska Lucka, loco dicto Za vodou and Hradskeho potok creek valley	primary	ycf1	48.5171978995959	19.6698272920739	0
+Solidago_virgaurea	MZ020821.1	09-MAY-2022	474	Poland: Podlesna Wola, W of village	primary	ycf1	51.2448044996949	20.3297977872694	0
+Solidago_virgaurea	MZ020820.1	09-MAY-2022	474	Hungary: Abujvar, W of the village	primary	ycf1	48.3811386784334	22.1157255815957	0
+Solidago_virgaurea	MZ020819.1	09-MAY-2022	474	Hungary: Abujvar, W of the village	primary	ycf1	48.831682726744	20.557831319451	0
+Solidago_virgaurea	MZ020818.1	09-MAY-2022	474	Romania: Arpasu de sus, S of the village	primary	ycf1	45.1999076092821	24.9455519716121	0
+Solidago_virgaurea	MZ020817.1	09-MAY-2022	406	Romania: Arpasu de sus, S of the village	primary	ycf1	46.08222347527	25.5532812628228	0
+Solidago_virgaurea	MZ020816.1	09-MAY-2022	474	Poland: Mydlniki, Krakow, N of the city district	primary	ycf1	50.7217590656222	20.6033938152383	0
+Solidago_virgaurea	MZ020815.1	09-MAY-2022	474	Poland: Januszowice, W of the village	primary	ycf1	50.8354536578757	19.7655563369084	0
+Solidago_virgaurea	MZ020814.1	09-MAY-2022	474	Poland: Podlesna Wola, W of village	primary	ycf1	49.7966159109144	19.6875906443702	0

@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chamaedaphne_calyculata	MG223596.1	26-DEC-2017	552	Canada: Northwest Territories, Inuvik, 1 km N of airstrip	primary	rbcL	68.305	-133.529	0.00841029885858674
+Chamaedaphne_calyculata	MG222835.1	26-DEC-2017	552	Canada: Ontario, Nipissing District, Sproule Township, Around Cabins at Wildlife Research Station, Algonquin Park	primary	rbcL	45.592	-78.523	0.00181159420289855
+Chamaedaphne_calyculata	MG222416.1	26-DEC-2017	499	Canada: Ontario, Cochrane District, Timmins, Tamarack Trail, Kettle Lakes Provincial Park	primary	rbcL	48.576	-80.88	0.00180360721442886
+Chamaedaphne_calyculata	MG221771.1	26-DEC-2017	552	Canada: Ontario, Wellington County, Guelph, Downey road, just north of 401 highway, in a ditch	primary	rbcL	43.445	-80.213	0.00181159420289855
+Chamaedaphne_calyculata	MF349407.1	21-SEP-2017	553	USA: District of Columbia; US Botanical Garden, Washington	primary	rbcL	38.888	-77.012	0.00180995623345651
+Chamaedaphne_calyculata	KJ593301.1	17-MAR-2015	553	USA: Wisconsin, Blackwell	primary	rbcL	45.555	-88.574	0.00180995623345651
+Chamaedaphne_calyculata	KJ593300.1	17-MAR-2015	553	USA: Wisconsin, Crandon	primary	rbcL	45.603	-89.002	0.00180995623345651
+Chamaedaphne_calyculata	KJ593299.1	17-MAR-2015	553	USA: Wisconsin, Phelps	primary	rbcL	46.011	-89.012	0.00180995623345651
+Chamaedaphne_calyculata	LC694373.1	03-MAY-2022	599	Japan: Hokkaido	secondary	rbcL	43.4519831	142.8197834	0.00530708861179654
+Chamaedaphne_calyculata	LC610824.1	25-AUG-2021	553	Japan:Hokkaido, Nemuro	secondary	rbcL	43.3301154	145.5829068	0.00365872282342813
+Chamaedaphne_calyculata	MG223702.1	26-DEC-2017	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0.00181159420289855

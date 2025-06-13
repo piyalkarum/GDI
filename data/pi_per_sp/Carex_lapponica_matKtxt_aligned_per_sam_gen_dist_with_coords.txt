@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_lapponica	KP980133.1	21-SEP-2015	785	Finland	secondary	matK	63.2467777	25.9209164	0.000849256900212314
+Carex_lapponica	KP980129.1	21-SEP-2015	785	Norway	secondary	matK	64.5731537	11.5280364	0.00254993993920709
+Carex_lapponica	KP980074.1	21-SEP-2015	783	USA: Alaska	secondary	matK	64.4459613	-149.680909	0.000851426138782461
+Carex_lapponica	KP979993.1	21-SEP-2015	785	Canada: Manitoba	secondary	matK	55.001251	-97.001038	0.000849256900212314

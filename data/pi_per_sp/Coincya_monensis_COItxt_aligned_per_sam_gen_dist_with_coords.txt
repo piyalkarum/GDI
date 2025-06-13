@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Coincya_monensis	KX166021.1	11-MAY-2016	416	United Kingdom	primary	COI	51.570602	-4.105892	0.635040635040635
+Coincya_monensis	JN894362.1	07-MAR-2012	774	United Kingdom: Glamorgan	secondary	COI	51.9567429909309	-3.65396152415164	0.435031908773703
+Coincya_monensis	JN894360.1	07-MAR-2012	793	United Kingdom: Glamorgan	secondary	COI	51.9165501139352	-2.80323268235686	0.434401253178546
+Coincya_monensis	JN892991.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	COI	51.103571995694	-4.00873457176696	0.45985360611315
+Coincya_monensis	JN891266.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	COI	52.2857096642414	-3.13463737037838	0.45985360611315

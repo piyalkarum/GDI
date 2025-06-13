@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Paris_quadrifolia	JN896021.1	07-MAR-2012	808	United Kingdom: Monmouthshire	primary	matK	51.68	-2.68	0.00102040816326531
+Paris_quadrifolia	JN895205.1	07-MAR-2012	785	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00103448275862069
+Paris_quadrifolia	JF954933.1	13-DEC-2011	735	Netherlands: Leiden University	secondary	matK	52.8410446404354	4.97297410928994	0.00102040816326531
+Paris_quadrifolia	JF954932.1	13-DEC-2011	735	Netherlands: Leiden University	secondary	matK	52.2471692208142	4.76423705123924	0.00102040816326531
+Paris_quadrifolia	JF954931.1	13-DEC-2011	735	Netherlands: Leiden University	secondary	matK	52.2146470048514	4.52639041476915	0.00409570724841661

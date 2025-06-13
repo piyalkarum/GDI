@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polemonium_boreale	MG224453.1	26-DEC-2017	552	Canada: Northwest Territories, Cape Bathurst, west coast	primary	rbcL	70.358	-128.079	0
+Polemonium_boreale	MG222277.1	26-DEC-2017	552	USA: Alaska, Valdez-Cordova Census Area, Wrangell-St.Elias National Preserve, Euchre Mountain, alpine ridge	primary	rbcL	62.08	-142.16	0
+Polemonium_boreale	MG221828.1	26-DEC-2017	552	Canada: Yukon Territory, Ivvavik National Park, Ptarmigan Bay	primary	rbcL	69.486	-139.085	0
+Polemonium_boreale	MG221477.1	26-DEC-2017	552	Canada: Yukon Territory, Kluane National Park, Rock Glacier	primary	rbcL	60.417	-137.083	0
+Polemonium_boreale	KT960737.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1524153676131	-21.3654632710376	0
+Polemonium_boreale	KT960562.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.8764106330021	-19.6344512926316	0
+Polemonium_boreale	KT960540.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1156508305349	-21.9101203278278	0
+Polemonium_boreale	KC483595.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Aulavik National Park	primary	rbcL	73.817	-119.867	0
+Polemonium_boreale	KC483594.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Aulavik National Park	primary	rbcL	73.717	-119.917	0
+Polemonium_boreale	KC483593.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Masik River, Masik River Valley, hills on S side of valley, SSW of large oblong lake	primary	rbcL	71.5833	-123.171	0
+Polemonium_boreale	KC483592.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Sachs Harbour	primary	rbcL	72	-125	0

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phyteuma_globulariifolium	KC455852.1	16-SEP-2013	2419	Switzerland	secondary	trnK	46.7697596938022	7.64392399448419	0.0018618983543635
+Phyteuma_globulariifolium	KC455851.1	16-SEP-2013	2453	France	secondary	trnK	46.8055957985646	1.45815902202691	0.00183606911986156
+Phyteuma_globulariifolium	KC455850.1	16-SEP-2013	2453	Switzerland	secondary	trnK	46.7770450583341	7.29712503934028	0.00204102253570495
+Phyteuma_globulariifolium	KC455849.1	16-SEP-2013	2453	Italy	secondary	trnK	42.6384261	12.674297	0.00190671168031691
+Phyteuma_globulariifolium	KC455848.1	16-SEP-2013	2453	France	secondary	trnK	46.5309730121281	1.5727009814749	0.00238344115268973
+Phyteuma_globulariifolium	KC455847.1	16-SEP-2013	2450	Austria	secondary	trnK	36.8828472218483	-4.12712633778719	0.00347896112087219
+Phyteuma_globulariifolium	KC455846.1	16-SEP-2013	2450	Austria	secondary	trnK	37.5788441727594	-5.03970267907515	0.00313786772987341

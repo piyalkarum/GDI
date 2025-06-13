@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_illegitima	MZ944881.1	12-DEC-2021	563	Greece: Rhodos, Laerma	secondary	matK	36.1547572	27.9378644	0.00533495171852807
+Carex_illegitima	MN763413.1	28-JUL-2020	593	Greece: Peloponeso, Korintia	secondary	matK	37.36332825	22.2395373439955	0.00258079502363592
+Carex_illegitima	MN763341.1	28-JUL-2020	601	Turkey	secondary	matK	38.9597594	34.9249653	0.00255199297795563
+Carex_illegitima	MN763086.1	28-JUL-2020	815	Greece	secondary	matK	43.2097838	-77.6930602	0.00345131601009302
+Carex_illegitima	KP273691.1	27-APR-2015	1264	Greece: Rhodes, SW Rhodes City	secondary	matK	36.17252975	27.9194016383958	0.00345131601009302

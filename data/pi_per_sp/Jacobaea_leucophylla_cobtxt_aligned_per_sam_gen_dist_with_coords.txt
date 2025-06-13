@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_leucophylla	HE614439.1	27-JAN-2012	943	France:Pic du Canigou	secondary	cob	42.4178889167458	2.00186877023801	0.450936311052642
+Jacobaea_leucophylla	HE614438.1	27-JAN-2012	943	France:Puigmal d'Err	secondary	cob	41.7002518736135	2.04877698395504	0.450936311052642
+Jacobaea_leucophylla	HE614437.1	27-JAN-2012	943	France:Mont Mezenc	secondary	cob	45.2265634042351	4.03227205951376	0.450936311052642
+Jacobaea_leucophylla	HE614424.1	27-JAN-2012	943	France:Petit Puigmal de Segre	secondary	cob	42.217812739059	1.9641396873417	0.450799168901281
+Jacobaea_leucophylla	HE614423.1	27-JAN-2012	943	France:Petit Puigmal de Segre	secondary	cob	41.524078671034	2.16091436025811	0.450936311052642
+Jacobaea_leucophylla	HE614367.1	27-JAN-2012	595	France:Pic du Canigou	secondary	cob	43.3453366891487	2.73033926560592	0.455018532903268
+Jacobaea_leucophylla	HE614366.1	27-JAN-2012	595	France:Puigmal d'Err	secondary	cob	42.0429200033636	3.02669455456761	0.455337958919288
+Jacobaea_leucophylla	HE614365.1	27-JAN-2012	595	France:Mont Mezenc	secondary	cob	44.1902372521988	4.28875086562631	0.455337958919288
+Jacobaea_leucophylla	HE614352.1	27-JAN-2012	595	France:Petit Puigmal de Segre	secondary	cob	42.1141406452412	1.19313210534762	0.455337958919288
+Jacobaea_leucophylla	HE614351.1	27-JAN-2012	595	France:Petit Puigmal de Segre	secondary	cob	41.6255678888754	1.50023470530357	0.455337958919288
+Jacobaea_leucophylla	HE614583.1	27-JAN-2012	616	France:Pic du Canigou	secondary	cob	42.9047171005629	2.35607749947085	0.463655974722511
+Jacobaea_leucophylla	HE614582.1	27-JAN-2012	616	France:Puigmal d'Err	secondary	cob	42.42520734452	1.77259258181111	0.463655974722511
+Jacobaea_leucophylla	HE614581.1	27-JAN-2012	616	France:Mont Mezenc	secondary	cob	44.536376577904	4.18879354316829	0.46440788660288
+Jacobaea_leucophylla	HE614568.1	27-JAN-2012	616	France:Petit Puigmal de Segre	secondary	cob	42.7984936982229	1.28061694853711	0.463655974722511
+Jacobaea_leucophylla	HE614567.1	27-JAN-2012	616	France:Petit Puigmal de Segre	secondary	cob	42.7823543241887	1.51472888297283	0.463655974722511
+Jacobaea_leucophylla	HE614511.1	27-JAN-2012	1194	France:Pic du Canigou	secondary	cob	43.0076742149915	2.81695084767692	0.413177507874888
+Jacobaea_leucophylla	HE614510.1	27-JAN-2012	1194	France:Puigmal d'Err	secondary	cob	42.7837558287882	2.85232608713894	0.413177507874888
+Jacobaea_leucophylla	HE614509.1	27-JAN-2012	1194	France:Mont Mezenc	secondary	cob	44.6028265414984	4.5170404605249	0.413177507874888
+Jacobaea_leucophylla	HE614496.1	27-JAN-2012	1131	France:Petit Puigmal de Segre	secondary	cob	41.9176955963347	1.39204724619725	0.413177507874888
+Jacobaea_leucophylla	HE614495.1	27-JAN-2012	1131	France:Petit Puigmal de Segre	secondary	cob	42.6722764972815	3.0368492857332	0.413177507874888

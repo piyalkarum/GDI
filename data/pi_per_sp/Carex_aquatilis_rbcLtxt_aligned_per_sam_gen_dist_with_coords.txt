@@ -1,0 +1,39 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_aquatilis	MG227938.1	23-JAN-2018	529	Canada: Newfoundland and Labrador, Eagle River, L'anse aux Morts, bottom of, sand dunes W of the rd	primary	rbcL	51.4758	-56.87	0.0017569545787645
+Carex_aquatilis	MG227206.1	23-JAN-2018	667	Canada: Nunavut, Coats Island, Hudson Bay, Cairncove	primary	rbcL	63.2635668858953	-81.9909438703275	0.00498619051953308
+Carex_aquatilis	MG226954.1	23-JAN-2018	670	Canada: Northwest Territories, 128 mi SW of Inuvik on Dempster Hwy (5) towards Eagle Plains	primary	rbcL	66.9796151746202	-133.061750710956	0.0103938056289788
+Carex_aquatilis	MG226867.1	23-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, BPNP	primary	rbcL	45.185	-81.6	0.00172076527036347
+Carex_aquatilis	MG226651.1	23-JAN-2018	552	Canada: Manitoba, 26 km E of Richer, along S side of rte 1 (Trans Canada hwy), 26 km E of jct of rtes 1 and 302	primary	rbcL	49.6625	-96.108	0.00172076527036347
+Carex_aquatilis	MG226338.1	23-JAN-2018	552	Canada: New Brunswick, Mount Carleton Provincial Park	primary	rbcL	47.39	-66.917	0.00172076527036347
+Carex_aquatilis	MG226283.1	23-JAN-2018	551	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island bog, FFNMP	primary	rbcL	45.266	-81.7	0.0017239970775882
+Carex_aquatilis	MG226230.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Shipsands Island, coastal plain	primary	rbcL	51.347	-80.43	0.00172076527036347
+Carex_aquatilis	KX678303.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.045	-125.501	0.00172076527036347
+Carex_aquatilis	FJ548247.1	25-AUG-2009	670	Canada: Northwest Territories, 128 mi SW of Inuvik on Dempster Hwy (5) towards Eagle Plains	primary	rbcL	66.8020513968521	-136.545109622448	0.0103938056289788
+Carex_aquatilis	FJ548246.1	25-AUG-2009	667	Canada: Nunuavut, Keewatin District, Coats Island, Hudson Bay	primary	rbcL	62.7316289032689	-81.148519478564	0.00498619051953308
+Carex_aquatilis	KT960741.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.4533923312611	-20.6135769343579	0.00172076527036347
+Carex_aquatilis	KT960643.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.2477909039765	-21.9128772704601	0.00172076527036347
+Carex_aquatilis	KT960457.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.3521627581717	-22.0125083742143	0.00172076527036347
+Carex_aquatilis	KC482237.1	25-OCT-2013	522	Canada: Northwest Territories, Northwest Territories Mainland, Anderson River (Northwest Territories), Cape Bathurst E side, brook system N of river from Lake Mc kinlay, 0.7 - 1.5 km from sea	primary	rbcL	70.7373977386708	-127.057449418466	0.00166788504022261
+Carex_aquatilis	KC482236.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk	primary	rbcL	69.4944	-124.117	0.00162462371342024
+Carex_aquatilis	KC482235.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Fish River	primary	rbcL	68.861	-136.811	0.00162462371342024
+Carex_aquatilis	KC482234.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	rbcL	66.839	-108.035	0.00162462371342024
+Carex_aquatilis	KC482233.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Small unnamed lake in lee of plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.294	-116.421	0.00162462371342024
+Carex_aquatilis	KC482232.1	25-OCT-2013	552	Canada: Nunavut	primary	rbcL	56.428	-79.164	0.00162462371342024
+Carex_aquatilis	KC482231.1	25-OCT-2013	552	Canada: Northwest Territories, Northwest Territories Mainland, Anderson River (Northwest Territories), Cape Bathurst E side, brook system N of river from Lake Mc kinlay, 0.7 - 1.5 km from sea	primary	rbcL	69.9583878497139	-129.214325287803	0.00162462371342024
+Carex_aquatilis	KC482230.1	25-OCT-2013	552	Canada: Yukon Territory, Herschel Island, Near Ivvavik National Park. SW end	primary	rbcL	69.592	-139.182	0.00162462371342024
+Carex_aquatilis	KC482229.1	25-OCT-2013	552	Canada: Nunavut, Stefansson Island, Northeastern section of Stefansson Island. Site 85	primary	rbcL	73.283	-106.75	0.00162462371342024
+Carex_aquatilis	KC482228.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Scoresby Bay	primary	rbcL	79.882	-71.547	0.00162462371342024
+Carex_aquatilis	KC482227.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island (Northwest Territories), Aulavik National Park, Banks of the Thomsen River	primary	rbcL	73.717	-119.925	0.00162462371342024
+Carex_aquatilis	KC482226.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Near Red Rocks Rising hiking area, west side of Hornaday River	primary	rbcL	68.6222	-122.433	0.00162462371342024
+Carex_aquatilis	KC482225.1	25-OCT-2013	552	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk, Near the coastal end of the runway	primary	rbcL	69.437	-133.1	0.00162462371342024
+Carex_aquatilis	KC482224.1	25-OCT-2013	552	Canada: Nunavut, Nunavut Mainland, Baker Lake, About 3.5 km N of the settlement. Under the S slope of the 4th ridge at NW end of the long lake draining to NW	primary	rbcL	64.35	-96.017	0.00162462371342024
+Carex_aquatilis	KC482223.1	25-OCT-2013	552	Canada: Yukon Territory, Banks Island (Northwest Territories), Buckland Hills, Ivvavik National Park, Buckland Hills, NW part	primary	rbcL	69.417	-139.633	0.00162462371342024
+Carex_aquatilis	KC482222.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0.00172076527036347
+Carex_aquatilis	JN965334.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	rbcL	58.626	-94.23	0.00172076527036347
+Carex_aquatilis	JN965333.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	rbcL	58.78	-94.195	0.00162462371342024
+Carex_aquatilis	JN965332.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0.00162462371342024
+Carex_aquatilis	JN965331.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Bank of small stream near Goose Creek Rd	primary	rbcL	58.739	-94.112	0.00162462371342024
+Carex_aquatilis	JN891231.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.06	-4.59	0.00175699635535751
+Carex_aquatilis	MG226050.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Strait of Belle Isle Dist, Strait of Belle Isle District, Great Mrehat, headland N of Great Brehat Bay	secondary	rbcL	47.6235417	-57.6431700998735	0.00172076527036347
+Carex_aquatilis	JN892453.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00175699635535751
+Carex_aquatilis	JN892447.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00175699635535751

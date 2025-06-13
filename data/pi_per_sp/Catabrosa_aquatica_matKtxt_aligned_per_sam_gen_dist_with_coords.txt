@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Catabrosa_aquatica	MF597285.1	17-JUL-2018	788	Canada: Alberta, 31 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	matK	51.227	-114.682	0.00588533010713095
+Catabrosa_aquatica	JN896092.1	07-MAR-2012	1035	United Kingdom: Monmouthshire	primary	matK	51.58	-2.86	0.00184440615647543
+Catabrosa_aquatica	KM523853.1	12-JUL-2015	788	Canada	secondary	matK	61.0666922	-107.991707	0.00413285268845654
+Catabrosa_aquatica	LR606853.1	25-JAN-2021	2170	Germany	secondary	matK	34.895926	-83.4665496	0.00466421196557407
+Catabrosa_aquatica	JX438061.1	31-MAR-2013	1251	Spain	secondary	matK	39.3260685	-4.8379791	0.00467737453598194
+Catabrosa_aquatica	JN895182.1	07-MAR-2012	786	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00179223566647819
+Catabrosa_aquatica	JN894490.1	07-MAR-2012	807	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00216868953998862

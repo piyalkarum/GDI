@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Schoenus_ferrugineus	MK925478.1	14-JAN-2020	542	Estonia	secondary	rbcL	58.7523778	25.3319078	0
+Schoenus_ferrugineus	MK925297.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2576502768096	-3.26181517235276	0
+Schoenus_ferrugineus	MK925128.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5841774274411	-3.94598317777551	0
+Schoenus_ferrugineus	MK924948.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.066052714338	-3.74781302454072	0
+Schoenus_ferrugineus	MF572243.1	31-JUL-2018	575	Italy: Aosta Valley, Saint-Denis, Semon	secondary	rbcL	45.3931675263324	8.3933904046073	0
+Schoenus_ferrugineus	MF572242.1	31-JUL-2018	573	Italy: Aosta Valley, Saint-Denis, Semon	secondary	rbcL	46.2043104598773	7.68015058958894	0
+Schoenus_ferrugineus	MF572241.1	31-JUL-2018	572	Italy: Aosta Valley, Saint-Denis, Semon	secondary	rbcL	46.1216689032205	8.17318775827768	0
+Schoenus_ferrugineus	MF572240.1	31-JUL-2018	577	Italy: Aosta Valley, Saint-Denis, Semon	secondary	rbcL	46.4050405615106	8.08180475702335	0

@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Withania_somnifera	MF695022.1	16-SEP-2018	553	Pakistan: Punjab, Cholistan Desert, Derawar fort	primary	rbcL	28.8023533657847	70.8347552934144	0.0119445006812253
+Withania_somnifera	MF694807.1	15-SEP-2018	528	Pakistan: Punjab, Cholistan Desert, Chananpir	primary	rbcL	28.856	71.674	0.00449693807141625
+Withania_somnifera	MF694806.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan Desert, Kanchi mor	primary	rbcL	29.168	71.657	0.0119494145895514
+Withania_somnifera	MF694805.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan Desert, Derawar fort	primary	rbcL	28.7146405988903	71.6987705422829	0.00441731639778368
+Withania_somnifera	MF694804.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan Desert, Dingarh	primary	rbcL	28.94	71.671	0.00441731639778368
+Withania_somnifera	KU556636.1	06-AUG-2016	645	Egypt	primary	rbcL	30.0303	31.1956	0.00451169797943991
+Withania_somnifera	MW557859.1	01-JUN-2022	543	Kenya	secondary	rbcL	0.772809376930436	39.0217190706828	0.00449033341904284
+Withania_somnifera	MW557858.1	01-JUN-2022	502	Kenya	secondary	rbcL	0.700116426757578	37.925067462005	0.00471717466178646
+Withania_somnifera	MW557857.1	01-JUN-2022	543	Kenya	secondary	rbcL	1.05682312488267	38.432669117161	0.00449033341904284
+Withania_somnifera	MW557856.1	01-JUN-2022	507	Kenya	secondary	rbcL	1.26880991374621	39.2283661586939	0.00467089775402431
+Withania_somnifera	MW557855.1	01-JUN-2022	543	Kenya	secondary	rbcL	1.41889257220989	38.5967688882656	0.00449033341904284
+Withania_somnifera	MW509055.1	02-AUG-2021	499	India	secondary	rbcL	22.3511148	78.6677428	0.00513586252716687
+Withania_somnifera	MK244678.1	04-DEC-2019	372	India: Karnataka, Makali, Bangalore	secondary	rbcL	14.8143303	74.1424757	0.00766238307544366
+Withania_somnifera	MH598851.1	22-JAN-2019	548	Saudi Arabia: Makkah	secondary	rbcL	21.420847	39.826869	0.0682104495258806
+Withania_somnifera	MH598848.1	22-JAN-2019	591	Saudi Arabia: Taif	secondary	rbcL	21.2702801	40.4158308	0.00482110468799846
+Withania_somnifera	KY656708.1	23-JAN-2018	715	Egypt	secondary	rbcL	26.2540493	29.2675469	0.00449499842266568
+Withania_somnifera	KR737126.1	13-MAY-2016	553	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	rbcL	-0.462308814713176	35.8465251265979	0.00441649741306266
+Withania_somnifera	KR737056.1	13-MAY-2016	553	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	rbcL	-1.10925414860646	35.8848059627041	0.00441649741306266
+Withania_somnifera	KR736441.1	13-MAY-2016	553	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	rbcL	-0.496939316902343	35.2268680391918	0.00441649741306266
+Withania_somnifera	KR736394.1	13-MAY-2016	553	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	rbcL	0.0496100446850356	35.639749017229	0.00441649741306266
+Withania_somnifera	JX996055.1	27-JAN-2013	1246	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00453629934685093

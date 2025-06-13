@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_cicer	MG249855.1	21-JAN-2018	552	Canada: Saskatchewan, Saskatoon City Limits, NE Swale	primary	rbcL	52.177	-106.567	0
+Astragalus_cicer	MG248546.1	21-JAN-2018	552	Canada: Yukon Territory, Sa Dena Hes mine site	primary	rbcL	60.547	-128.863	0
+Astragalus_cicer	MG246862.1	21-JAN-2018	522	Canada: Yukon Territory, La Biche	primary	rbcL	60.046	-123.975	0
+Astragalus_cicer	KX678067.1	29-APR-2017	552	Canada: British Columbia, Kootenays Boundary Regional District, Remac, south shore of Pend d'Oreille River, due west-northwest of Nelway Customs Station, 150 m northwest of old bridge base, cleared gravel flat by old shed	primary	rbcL	49.016	-117.371	0
+Astragalus_cicer	KJ746227.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0

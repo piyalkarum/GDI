@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silybum_marianum	MH749278.1	30-OCT-2018	470	USA: United States National Arboretum Herb garden	primary	psbA-trnH	38.91160154	-76.96986322	0.00108932461873638
+Silybum_marianum	KY423873.1	31-MAR-2019	467	Italy: Sardinia	secondary	psbA-trnH	40.0912813	9.0305773	0.00435019418395377
+Silybum_marianum	HE966821.1	18-SEP-2012	471	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.1083110726321	14.6101514981039	0.00108695652173913
+Silybum_marianum	HE966820.1	18-SEP-2012	471	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.5525542318314	14.7990716595131	0.00108695652173913
+Silybum_marianum	HE966819.1	18-SEP-2012	471	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.4845439951749	13.7684735429701	0.00108695652173913

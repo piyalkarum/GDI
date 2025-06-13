@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pancratium_maritimum	OQ815715.1	05-AUG-2023	422	Egypt	primary	matK	31.3728	27.1903	0.0010155721056195
+Pancratium_maritimum	HM850507.1	23-JUL-2011	831	Portugal	secondary	matK	39.6621648	-8.1353519	0.00257864878803507
+Pancratium_maritimum	FN594919.1	26-AUG-2010	1326	Israel	secondary	matK	30.8124247	34.8594762	0.000667026043963823
+Pancratium_maritimum	FN594917.1	26-AUG-2010	1326	Italy:Pelagie Islands, Lampione	secondary	matK	36.0849476322045	13.2937170402205	0.000667026043963823
+Pancratium_maritimum	FN594916.1	26-AUG-2010	1326	Italy:Pelagie Islands, Lampedusa	secondary	matK	35.1309165442858	12.6321730428126	0.00117745999837266
+Pancratium_maritimum	FN594915.1	26-AUG-2010	1326	Italy:Ischitella	secondary	matK	41.904344	15.899453	0.00117745999837266
+Pancratium_maritimum	FN594914.1	26-AUG-2010	1326	Italy:Gallipoli	secondary	matK	40.05672	17.996423	0.00117745999837266
+Pancratium_maritimum	FN594913.1	26-AUG-2010	1326	Italy:Sicily, Catina, Foce Simeto	secondary	matK	37.4001607	15.0778379	0.000667026043963823

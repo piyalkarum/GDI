@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosotis_discolor	KX678000.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Delta, Reifel Bird Sanctuary	primary	rbcL	49.0995	-123.194	0.00260112481072896
+Myosotis_discolor	KX677811.1	29-APR-2017	553	Canada: British Columbia, Vancouver Island, Capital Regional District, Metchosin, Blinkhorn Mountain	primary	rbcL	48.3894	-123.572	0.00334052969765055
+Myosotis_discolor	JN893040.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.00265471797575119
+Myosotis_discolor	HM850187.1	23-JUL-2011	1325	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0109616204690832
+Myosotis_discolor	JN893106.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00265471797575119
+Myosotis_discolor	JN893105.1	07-MAR-2012	534	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00266024612092028

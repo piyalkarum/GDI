@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helichrysum_stoechas	KU670429.1	17-AUG-2016	854	Italy: Sicily, Licodia Eubea	secondary	trnL-trnF	37.3849721402915	14.4295062141214	5.74415532195991e-05
+Helichrysum_stoechas	KU670428.1	17-AUG-2016	854	Italy: Sicily, Licodia Eubea	secondary	trnL-trnF	37.1860832618144	15.7833479854485	5.74415532195991e-05
+Helichrysum_stoechas	KU670427.1	17-AUG-2016	854	Italy: Sicily, Licodia Eubea	secondary	trnL-trnF	36.7262049353277	15.6674254064862	5.74415532195991e-05
+Helichrysum_stoechas	KU670426.1	17-AUG-2016	854	Italy: Sicily, Licodia Eubea	secondary	trnL-trnF	36.9932205896316	14.3995769078689	5.74415532195991e-05
+Helichrysum_stoechas	KU670425.1	17-AUG-2016	854	Italy: Sicily, Licodia Eubea	secondary	trnL-trnF	37.2867593115872	15.6294913573759	5.74415532195991e-05
+Helichrysum_stoechas	KU670424.1	17-AUG-2016	854	Italy: Sicily, Plemmirio	secondary	trnL-trnF	37.8222106722863	15.7502648167859	5.74415532195991e-05
+Helichrysum_stoechas	KU670423.1	17-AUG-2016	854	Italy: Sicily, Plemmirio	secondary	trnL-trnF	37.1069478062207	14.8303715048608	5.74415532195991e-05
+Helichrysum_stoechas	KU670422.1	17-AUG-2016	854	Italy: Sicily, Plemmirio	secondary	trnL-trnF	36.939155473673	15.0168448501411	5.74415532195991e-05
+Helichrysum_stoechas	KU670421.1	17-AUG-2016	854	Italy: Sicily, Plemmirio	secondary	trnL-trnF	37.195903409224	14.3930650887319	5.74415532195991e-05
+Helichrysum_stoechas	KU670420.1	17-AUG-2016	854	Italy: Sicily, Plemmirio	secondary	trnL-trnF	37.5188944223041	15.907610759482	5.74415532195991e-05
+Helichrysum_stoechas	KU670419.1	17-AUG-2016	854	Italy: Sicily, Vendicari	secondary	trnL-trnF	36.6210491323334	15.9745548391134	5.74415532195991e-05
+Helichrysum_stoechas	KU670418.1	17-AUG-2016	854	Italy: Sicily, Vendicari	secondary	trnL-trnF	36.7660525395562	16.2249874152359	5.74415532195991e-05
+Helichrysum_stoechas	KU670417.1	17-AUG-2016	854	Italy: Sicily, Vendicari	secondary	trnL-trnF	37.4177643809723	15.2985539251479	5.74415532195991e-05
+Helichrysum_stoechas	KU670416.1	17-AUG-2016	854	Italy: Sicily, Vendicari	secondary	trnL-trnF	37.4981562138771	14.8193188611139	5.74415532195991e-05
+Helichrysum_stoechas	KU670415.1	17-AUG-2016	854	Italy: Sicily, Vendicari	secondary	trnL-trnF	37.1657962028033	15.2196161435493	5.74415532195991e-05
+Helichrysum_stoechas	KU670414.1	17-AUG-2016	854	Italy: Sicily, Cassaro	secondary	trnL-trnF	37.5512875418263	15.4073816186255	5.74415532195991e-05
+Helichrysum_stoechas	KU670413.1	17-AUG-2016	854	Italy: Sicily, Cassaro	secondary	trnL-trnF	36.6694737472573	14.7149576916067	5.74415532195991e-05
+Helichrysum_stoechas	KU670412.1	17-AUG-2016	854	Italy: Sicily, Cassaro	secondary	trnL-trnF	36.2536707369234	15.1932204764478	5.74415532195991e-05
+Helichrysum_stoechas	KU670411.1	17-AUG-2016	854	Italy: Sicily, Cassaro	secondary	trnL-trnF	37.2615695823941	15.3013467695737	5.74415532195991e-05
+Helichrysum_stoechas	KU670410.1	17-AUG-2016	854	Italy: Sicily, Cassaro	secondary	trnL-trnF	37.0844895033111	14.653503249343	5.74415532195991e-05
+Helichrysum_stoechas	GU818009.1	13-OCT-2010	907	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	5.74415532195991e-05
+Helichrysum_stoechas	FN645761.1	10-JAN-2011	829	Spain:Lleida	secondary	trnL-trnF	41.6147605	0.6267842	0.00120627261761158

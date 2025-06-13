@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sedum_album	MG246028.1	21-JAN-2018	552	Canada: Balm Beach, Georgian Bay, ON	primary	rbcL	45.5	-81	0.000479846449136276
+Sedum_album	JN891488.1	07-MAR-2012	542	United Kingdom: Cornwall, West with Scilly (1)	primary	rbcL	50.13	-5.49	0.000490196078431373
+Sedum_album	KJ204404.1	29-JAN-2015	521	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00146023860599902
+Sedum_album	HG417047.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0
+Sedum_album	JN891426.1	07-MAR-2012	542	United Kingdom: Radnorshire	secondary	rbcL	52.4627049	-3.2561628	0.000490196078431373

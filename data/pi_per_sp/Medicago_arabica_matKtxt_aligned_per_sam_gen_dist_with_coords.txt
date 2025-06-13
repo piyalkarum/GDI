@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Medicago_arabica	JN895591.1	07-MAR-2012	783	United Kingdom: Monmouthshire	primary	matK	51.58	-2.88	0.0113801891961129
+Medicago_arabica	HM851135.1	23-JUL-2011	731	Portugal	secondary	matK	39.6621648	-8.1353519	0.0101990239013004
+Medicago_arabica	JN893892.1	07-MAR-2012	916	United Kingdom: Carmarthenshire	secondary	matK	51.3383139357955	-3.5493284032758	0.0101137585068499
+Medicago_arabica	JN893888.1	07-MAR-2012	913	United Kingdom: Carmarthenshire	secondary	matK	52.2479788832928	-4.21249532214139	0.0204891597633365

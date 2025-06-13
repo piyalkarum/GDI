@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_cochleariifolia	MK556071.1	22-SEP-2019	329	Switzerland	secondary	rbcL	46.376442754996	9.00944295716137	0.633856333501804
+Campanula_cochleariifolia	MK555990.1	22-SEP-2019	337	Switzerland	secondary	rbcL	46.938706409896	7.83199872267665	0.539557388323236
+Campanula_cochleariifolia	MK555536.1	22-SEP-2019	357	Switzerland	secondary	rbcL	46.2771329234599	8.46562173790181	0.591439715329745
+Campanula_cochleariifolia	MK555346.1	22-SEP-2019	382	Switzerland	secondary	rbcL	46.8618045702687	7.6226802960401	0.36683146618466
+Campanula_cochleariifolia	MG221822.1	26-DEC-2017	553	Canada: Ontario, 2.5km SW of Bells Corners and about 200m S of Hwy 7, Stony Swamp, Carleton Co.	secondary	rbcL	43.72634945	-77.7101179040839	0.361071484891153
+Campanula_cochleariifolia	HG416976.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.364232724136072

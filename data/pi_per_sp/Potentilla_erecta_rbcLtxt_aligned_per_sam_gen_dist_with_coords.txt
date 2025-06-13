@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_erecta	MN954322.1	23-MAR-2022	586	United Kingdom: England, County Durham, Bishop Auckland Park	primary	rbcL	54.6719	-1.659	0.0110397059909534
+Potentilla_erecta	MN486520.1	15-MAY-2021	553	United Kingdom: England, Durham, Auckland Castle Park	primary	rbcL	54.6721	-1.6601	0.00208805541811948
+Potentilla_erecta	MK030047.1	16-OCT-2019	531	United Kingdom: England, County Durham, Auckland Castle Park	primary	rbcL	54.672	-1.66	0.00485505589845749
+Potentilla_erecta	MK030046.1	16-OCT-2019	550	United Kingdom: England, County Durham, Bishop Auckland	primary	rbcL	54.6719	-1.6597	0.00209650989312006
+Potentilla_erecta	JN893243.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.00211951272055093
+Potentilla_erecta	HM850285.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00212324840844754
+Potentilla_erecta	JN893738.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00211951272055093
+Potentilla_erecta	JN893501.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00211951272055093

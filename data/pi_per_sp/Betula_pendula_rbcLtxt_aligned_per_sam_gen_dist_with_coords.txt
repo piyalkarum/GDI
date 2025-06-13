@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Betula_pendula	OR738020.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.37333	83.89556	0
+Betula_pendula	OR505047.1	01-NOV-2023	508	Kazakhstan: Karaganda region	primary	rbcL	50.21977	74.36198	0
+Betula_pendula	OP948297.1	12-DEC-2022	610	USA: Washington, Omak, 116 West Apple	primary	rbcL	48.412769	-119.531494	0.000256838320277385
+Betula_pendula	KX677812.1	29-APR-2017	551	Canada: British Columbia, Metro Vancouver Regional District, Richmond, Lulu Island, in beat bog	primary	rbcL	49.167	-123.083	0
+Betula_pendula	JN892352.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	52.09	-3.89	0
+Betula_pendula	MT931501.1	03-MAR-2023	533	China	secondary	rbcL	35.000074	104.999927	0
+Betula_pendula	MN531406.1	09-MAR-2020	485	Germany: Grosshansdorf	secondary	rbcL	53.6635561	10.2835977	0
+Betula_pendula	GQ248556.1	24-JUN-2009	553	United Kingdom: Duddon Valley, Cumbria	secondary	rbcL	54.3498364	-3.2113982	0
+Betula_pendula	KX162897.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.3046914186344	-4.1415301294829	0.000128419160138693
+Betula_pendula	KX162896.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.722804463577	-1.96676359312607	0.000128419160138693
+Betula_pendula	KJ204305.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0
+Betula_pendula	JN893300.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Betula_pendula	JN892640.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0
+Betula_pendula	JN892378.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_vahliana	MG216959.1	24-JAN-2018	775	Canada: Nunavut, Ellesmere Island, Two Basin Lake, 23 km ESE ofEureka airstrip	primary	matK	79.93	-84.67	0.00118804611831799
+Puccinellia_vahliana	KC475637.1	25-OCT-2013	774	Canada: Nunavut, Ellesmere Island, Caledonian Bay, Along N side of Danish River. ~ 4 km from river mouth along streamlet in delta outwash plain below hills to W of Danish River	primary	matK	79.954	-81.199	0.00118941009567596
+Puccinellia_vahliana	KC475636.1	25-OCT-2013	687	Canada: Northwest Territories, Melville Island (Northwest Territories), Ibbett Bay, SE valley from. A raised river terrace composed of alkaline silty diamicton deposits from Weatherall formation	primary	matK	75.9	-114.5	0.00238501807879207
+Puccinellia_vahliana	KC475635.1	25-OCT-2013	774	Canada: Northwest Territories, Banks Island (Northwest Territories), NE part. Parker River Valley, N side c. 7 km from sea	primary	matK	73.617	-115.85	0.00118941009567596
+Puccinellia_vahliana	KC475634.1	25-OCT-2013	774	Canada: Nunavut, Bathurst Island, Polar Bear Pass	primary	matK	75.717	-98.383	0.00118941009567596
+Puccinellia_vahliana	KC475633.1	25-OCT-2013	773	Canada: Nunavut, Victoria Island, Cambridge Bay, at north edge of town	primary	matK	69.26	-105.1	0.00119077760208273
+Puccinellia_vahliana	KC475632.1	25-OCT-2013	773	Canada: Northwest Territories, Banks Island, Beside small creek flowing into Egg River, near Big River	primary	matK	72.44	-124.39	0.00119077760208273
+Puccinellia_vahliana	KC475631.1	25-OCT-2013	634	Canada: Nunavut, Axel Heiberg Island, Between McGill High Arctic Research camp and Ermine Camp	primary	matK	79.43	-90.72	0.00114711786636077
+Puccinellia_vahliana	KC475630.1	25-OCT-2013	774	Canada: Nunavut, Devon Island, Dundas Harbour, W of harbour mouth	primary	matK	74.52	-82.56	0.00118941009567596
+Puccinellia_vahliana	KC475629.1	25-OCT-2013	741	Canada: Nunavut, Bathurst Island, Goodsir Inlet, beside small creek 2 km N of inlet	primary	matK	75.77	-98.02	0.00123844126020912
+Puccinellia_vahliana	KM523915.1	12-JUL-2015	782	Canada: Nunavut	secondary	matK	65.0377727	-92.5540791	0.00117976183525943
+Puccinellia_vahliana	LR606971.1	25-JAN-2021	2165	Denmark	secondary	matK	55.670249	10.3333283	0.0118894421666287

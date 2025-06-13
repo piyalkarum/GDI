@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctium_minus	OR464928.1	26-SEP-2023	911	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.2972680161165	-86.0467364655051	0.000467100266447532
+Arctium_minus	OR464927.1	26-SEP-2023	852	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	43.0741744228984	-85.5441857223277	0.000475777157775331
+Arctium_minus	KX677187.1	09-AUG-2017	780	Canada: British Columbia, Squamish-Lillooet Regional District, near Whistler, Callagan Creek Forest Service Road	primary	matK	50.0722	-123.1	0.000216311646462439
+Arctium_minus	KX676794.1	09-AUG-2017	794	Canada: British Columbia, Squamish-Lillooet Regional District, Squamish Valley Rd., Riverside Forest Recreation Site	primary	matK	49.916	-123.296	0.000214468199542826
+Arctium_minus	MG224800.1	21-JAN-2018	781	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Halfway Log Dump Parking Lot, BPNP	primary	matK	45.227	-81.48	0.000403067524893853
+Arctium_minus	HQ593178.1	09-NOV-2011	875	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Edge of Echo Valley Driveway	primary	matK	44.025	-79.53	0.000467100266447532
+Arctium_minus	KP210360.1	28-NOV-2015	776	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. La Pre (the old orchard)	primary	matK	45.542	-73.161	0.00132925311501551
+Arctium_minus	KJ592856.1	17-MAR-2015	769	USA: Wisconsin, Laona	primary	matK	45.56	-88.798	0.000401152628153089
+Arctium_minus	KJ592855.1	17-MAR-2015	768	USA: Wisconsin, Laona	primary	matK	45.561	-88.791	0.00250909159573192
+Arctium_minus	JN895219.1	07-MAR-2012	760	United Kingdom: Glamorgan	primary	matK	51.51	-3.3	0.000275862068965517
+Arctium_minus	KT250114.1	09-AUG-2015	820	Romania	secondary	matK	45.9852129	24.6859225	0.000485038310643149
+Arctium_minus	HM850616.1	23-JUL-2011	552	Portugal	secondary	matK	39.6621648	-8.1353519	0.00197052437984858
+Arctium_minus	HE970670.1	18-SEP-2012	811	Italy:Trieste, Mt. Valerio	secondary	matK	46.4271742626256	14.1259655019362	0.000211663597298956
+Arctium_minus	HE970669.1	18-SEP-2012	811	Italy:Trieste, Mt. Valerio	secondary	matK	45.9659619938778	14.6163160342995	0.000211663597298956
+Arctium_minus	HE970668.1	18-SEP-2012	811	Italy:Trieste, Mt. Valerio	secondary	matK	45.6533805346605	13.3714311742122	0.000211663597298956
+Arctium_minus	JN894039.1	07-MAR-2012	900	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000414976522359073

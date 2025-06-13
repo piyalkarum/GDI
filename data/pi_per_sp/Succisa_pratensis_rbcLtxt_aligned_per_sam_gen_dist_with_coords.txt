@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Succisa_pratensis	MG224090.1	26-DEC-2017	552	Canada: Guelph Arbo.	primary	rbcL	43.5525306498117	-79.8166373524086	0.000924214417744917
+Succisa_pratensis	MG222424.1	26-DEC-2017	552	Canada: Guelph Arbo.	primary	rbcL	43.5252676854131	-79.9838643197364	0.000924214417744917
+Succisa_pratensis	JN893486.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.4	-4.09	0.00138546903029104
+Succisa_pratensis	JN892026.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000922509225092251
+Succisa_pratensis	JN892023.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00138546903029104

@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Withania_somnifera	MF694891.1	16-SEP-2018	803	Pakistan: Punjab, Cholistan Desert, Derawar fort	primary	matK	28.735	71.657	0.0192196095593045
+Withania_somnifera	KU556666.1	06-AUG-2016	824	Egypt	primary	matK	30.0303	31.1956	0.00286064943371227
+Withania_somnifera	MK125088.1	03-FEB-2019	778	Saudi Arabia: Makkah	secondary	matK	21.1697417176167	40.3475755390197	0.0057445087851848
+Withania_somnifera	MK125086.1	03-FEB-2019	778	Saudi Arabia: Makkah	secondary	matK	21.0515118470405	40.3343604664656	0.0057445087851848
+Withania_somnifera	MG947012.1	29-MAY-2018	836	Pakistan	secondary	matK	30.0692059875097	71.6969302679191	0.00287938498414592
+Withania_somnifera	KX790320.1	23-JUL-2017	583	India	secondary	matK	22.3511148	78.6677428	0.00636229655340758
+Withania_somnifera	KR734871.1	24-JUN-2015	742	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	matK	-1.0810592993217	35.6683298406957	0.00293886332407069
+Withania_somnifera	KR734827.1	24-JUN-2015	742	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	matK	0.354769820819619	35.8373862632816	0.00293745201981021
+Withania_somnifera	KR734402.1	24-JUN-2015	694	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	matK	0.204887272121101	35.7199769909139	0.00296376780661653
+Withania_somnifera	KR734370.1	24-JUN-2015	742	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	matK	-0.428595315350177	35.4555810266076	0.00293745201981021
+Withania_somnifera	JX996061.1	27-JAN-2013	811	Pakistan	secondary	matK	29.8326369772549	71.5327602441377	0.00652032122497896

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthoxanthum_gracile	KC897720.1	07-MAY-2014	851	Italy	secondary	trnL-trnF	42.8396432060976	12.2688124068151	0.00195848021934978
+Anthoxanthum_gracile	KC897719.1	07-MAY-2014	851	Italy	secondary	trnL-trnF	43.2379235293173	13.5567970609242	0.00195848021934978
+Anthoxanthum_gracile	KC897718.1	07-MAY-2014	851	Italy	secondary	trnL-trnF	42.9055126196087	12.0012892327871	0.00195848021934978
+Anthoxanthum_gracile	KC897717.1	07-MAY-2014	851	Greece	secondary	trnL-trnF	43.2097838	-77.6930602	0.0027418723070897

@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Onobrychis_montana	KM052681.1	30-JAN-2015	1071	Romania: Carpathians, Brasov	secondary	rpl16	44.8649897459743	24.4088252809613	0.000684718331777155
+Onobrychis_montana	KM052680.1	30-JAN-2015	1071	Romania: Carpathians, Ciucas Mountains, Zaganu Peak	secondary	rpl16	45.9794618919848	24.7400404857829	0.000684718331777155
+Onobrychis_montana	KM052679.1	30-JAN-2015	1071	Romania: Carpathians, Retezat Mountains, Piule Peak	secondary	rpl16	45.3735237628767	24.8297630070948	0.000435729847494553
+Onobrychis_montana	KM052678.1	30-JAN-2015	1071	Romania: Carpathians, Fagaras Mountains, Jgheabul Varos	secondary	rpl16	44.8600685225441	24.0430594444318	0.000684718331777155
+Onobrychis_montana	KM052677.1	30-JAN-2015	1071	Romania: Carpathians, Maramuresului Mountains, Cearcanu Peak	secondary	rpl16	46.1528621813735	24.3924414882559	0.000684718331777155
+Onobrychis_montana	KM052676.1	30-JAN-2015	1071	Romania: Carpathians, Bucegi Mountains, Caraiman	secondary	rpl16	45.5595921720182	23.784827349985	0.000435729847494553
+Onobrychis_montana	KM052675.1	30-JAN-2015	1071	Romania: Carpathians, Retezat Mountains, Piatra Iorgovanului	secondary	rpl16	45.6927017774733	24.4952812419724	0.000435729847494553
+Onobrychis_montana	KM052674.1	30-JAN-2015	1071	Romania: Carpathians, Piatra Craiului Mountains	secondary	rpl16	45.2815043549607	23.7817912281565	0.00155617802676626
+Onobrychis_montana	KM052673.1	30-JAN-2015	1071	Romania: Carpathians, Giurgeu-Hasmas Mountains, Ocsem Peak	secondary	rpl16	45.1592535051248	25.0738815292154	0.000435729847494553
+Onobrychis_montana	KM052672.1	30-JAN-2015	1071	Romania: Carpathians, Ceahlau Mountains, Toaca Peak	secondary	rpl16	44.4455721933297	23.9856864637555	0.000684718331777155
+Onobrychis_montana	KM052671.1	30-JAN-2015	1071	Serbia: Durmitor, Dinaric Alps	secondary	rpl16	43.6963	20.1401	0.000435729847494553
+Onobrychis_montana	KM052670.1	30-JAN-2015	1071	Poland: Tatry Wysokie	secondary	rpl16	49.2594711	19.9668922	0.000435729847494553
+Onobrychis_montana	KM052669.1	30-JAN-2015	1071	Slovakia: Belianske Tatry	secondary	rpl16	49.2416129	20.2248731	0.000435729847494553
+Onobrychis_montana	KM052668.1	30-JAN-2015	1071	France: Colomby de Gex, Jura	secondary	rpl16	46.3222851	5.9953533	0.000435729847494553
+Onobrychis_montana	KM052667.1	30-JAN-2015	1071	France: Col du Lautaret, SW Alps	secondary	rpl16	45.0352314	6.4051088	0.000435729847494553
+Onobrychis_montana	KM052666.1	30-JAN-2015	1071	France: Col d'Izoard, Alpes Cottiens	secondary	rpl16	44.8200267	6.7350408	0.000435729847494553

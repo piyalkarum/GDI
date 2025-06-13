@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Echinochloa_crus-galli	HQ600076.1	01-AUG-2012	654	South Korea	secondary	psbA-trnH	36.9229580957959	126.838730165012	0.00265306218023689
+Echinochloa_crus-galli	HQ600068.1	01-AUG-2012	654	South Korea	secondary	psbA-trnH	36.553229843524	128.198138302993	0.00244835644473168
+Echinochloa_crus-galli	HQ600067.1	01-AUG-2012	654	South Korea	secondary	psbA-trnH	36.2971396027914	128.706396527739	0.00265306218023689
+Echinochloa_crus-galli	FJ766206.1	18-JUN-2010	657	South Korea	secondary	psbA-trnH	36.775534993266	127.263040519048	0.00295654810484754
+Echinochloa_crus-galli	FJ766204.1	18-JUN-2010	657	South Korea	secondary	psbA-trnH	36.0186694575708	127.871569728025	0.0027527790014941
+Echinochloa_crus-galli	KP711184.1	31-MAR-2016	490	China	secondary	psbA-trnH	35.000074	104.999927	0.00244897959183674

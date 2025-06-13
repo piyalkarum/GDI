@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Acer_platanoides	KX677002.1	09-AUG-2017	814	Canada: British Columbia, Metro Vancouver Regional District, Point Grey, cliffs overlooking Strait of Georgia	primary	matK	49.267	-123.233	0
+Acer_platanoides	KX676856.1	09-AUG-2017	774	Canada: British Columbia, Greater Vancouver Regional District, Pacific Spirit Park	primary	matK	49.249	-123.207	0
+Acer_platanoides	MG221158.1	21-JAN-2018	779	Canada: Ontario, York R. M., King Tp., Jokers Hill East, 10 m S of Willow Ridge house.	primary	matK	44.024	-79.537	0
+Acer_platanoides	MG221016.1	21-JAN-2018	789	Canada: Quebec, Montreal, Island of Montreal, Parc Bernard-Belleau	primary	matK	45.474	-73.759	0
+Acer_platanoides	MG220615.1	21-JAN-2018	796	Canada: Ontario, Toronto, City of, Lambton Woods, SW Zone III	secondary	matK	43.72634945	-77.7101179040839	0

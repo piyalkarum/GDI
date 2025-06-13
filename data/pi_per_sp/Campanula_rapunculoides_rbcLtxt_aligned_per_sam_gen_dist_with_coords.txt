@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_rapunculoides	KP644083.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.7236502039868	-78.4303528285127	0.158815833212786
+Campanula_rapunculoides	KP644049.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.9572554946851	-79.0593027557915	0.158815833212786
+Campanula_rapunculoides	KP644017.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.5798831283877	-78.8026697032537	0.158815833212786
+Campanula_rapunculoides	MG224000.1	26-DEC-2017	553	Canada: Ontario, Chatham-Kent County, Ridgetown, Highway 17/21 (Hill Road), north-west of Morpeth	primary	rbcL	42.4406	-81.8842	0.152904148794609
+Campanula_rapunculoides	MG223620.1	26-DEC-2017	552	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Grindstone Creek	primary	rbcL	43.296	-79.872	0.153067796140985
+Campanula_rapunculoides	MG223068.1	26-DEC-2017	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Sassafras Point/South Shore trails, in ravine behind RBG Aviary	primary	rbcL	43.269	-79.909	0.153067796140985
+Campanula_rapunculoides	MG221559.1	26-DEC-2017	552	Canada: 143 Waterloo Avenue	primary	rbcL	43.5375	-80.2542	0.153067796140985
+Campanula_rapunculoides	KX679228.1	29-APR-2017	511	Canada: British Columbia, Thompson-Nicola Regional District, north of Cache Creek, dry roadside on road to Loon Lake	primary	rbcL	50.81	-121.32	0.162075420409249
+Campanula_rapunculoides	HQ589981.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., 200 m E of Dufferin on main trail to pond	primary	rbcL	44.031	-79.526	0.152904148794609
+Campanula_rapunculoides	OP711468.1	26-DEC-2022	545	Mexico: Puebla	secondary	rbcL	19.1710098	-98.4125121	0.153258714747923
+Campanula_rapunculoides	MK556091.1	22-SEP-2019	344	Romania	secondary	rbcL	46.4449866521612	25.2272143283934	0.601670472891005
+Campanula_rapunculoides	MK556009.1	22-SEP-2019	361	Romania	secondary	rbcL	45.9556084651406	23.5870655124198	0.606320087762067
+Campanula_rapunculoides	MK555564.1	22-SEP-2019	357	Romania	secondary	rbcL	45.1969004945548	24.9307232457796	0.580639494253915

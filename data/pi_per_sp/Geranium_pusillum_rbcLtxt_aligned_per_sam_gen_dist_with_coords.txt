@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geranium_pusillum	MG248273.1	21-JAN-2018	525	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0.00552681939499892
+Geranium_pusillum	MG248180.1	21-JAN-2018	524	Canada: Ontario, Norfolk County, Norfolk Township, Lee Brown Waterfowl Management Area parking lot	primary	rbcL	42.591	-80.501	0.00553753195395542
+Geranium_pusillum	MG247974.1	21-JAN-2018	551	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay, pres du boul. Gouin	primary	rbcL	45.515	-73.747	0.0117997822674429
+Geranium_pusillum	MG247952.1	21-JAN-2018	552	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	rbcL	43.529	-80.229	0.00525247084183785
+Geranium_pusillum	KX679225.1	29-APR-2017	552	Canada: British Columbia, North Okanagan Regional District, Kalamalka Lake	primary	rbcL	50.167	-119.333	0.00525247084183785
+Geranium_pusillum	JN893444.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.79	-2.98	0.0111994539565127
+Geranium_pusillum	JX913454.1	11-OCT-2013	1050	Spain	secondary	rbcL	39.3260685	-4.8379791	0.00523568180587885
+Geranium_pusillum	JN893648.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.0111994539565127

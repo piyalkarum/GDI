@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_collina	KF547609.1	09-SEP-2014	364	Italy: Abruzzo, Prov. L'Aquila,Gran Sasso, Vado di Corno	primary	trnL-trnF	42.45	13.6	0.00531098347517391
+Arabis_collina	KF547521.1	09-SEP-2014	329	Greece: Reg. Peloponnese, Per. Lakonia,Mt. Xerovouni, c. 10km S of Langadha pass	primary	trnL-trnF	37.09	22.31	0.00914640947669899
+Arabis_collina	KF547466.1	09-SEP-2014	362	Croatia: Zup. Primorje-Gorski kotar,Opatija	primary	trnL-trnF	45.3327	14.3025	0.00404480713670232
+Arabis_collina	HQ646724.1	31-DEC-2011	364	Italy: Abruzzo [ex cult. BG-Heidelberg]	primary	trnL-trnF	42.23	13.49	0.00531098347517391
+Arabis_collina	HQ646690.1	31-DEC-2011	344	Ireland: Connacht, Co. Mayo H. Knockglass House, Crossmolina	primary	trnL-trnF	54.11	-9.3	0.00416044378066994
+Arabis_collina	HQ646671.1	31-DEC-2011	328	Spain: Prov. Illes Balears, Mallorca, Almedra a Tossals Verds	primary	trnL-trnF	39.77	2.83	0.00426829268292683

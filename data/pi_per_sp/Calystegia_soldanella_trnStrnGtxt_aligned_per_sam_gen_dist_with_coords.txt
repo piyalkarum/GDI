@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calystegia_soldanella	AB478408.1	23-JUL-2009	446	Japan	secondary	trnS-trnG	35.8377073055088	138.918346226163	0.0039237668161435
+Calystegia_soldanella	AB478407.1	23-JUL-2009	446	Japan	secondary	trnS-trnG	37.2599930922714	139.886657737139	0.0039237668161435
+Calystegia_soldanella	AB478406.1	23-JUL-2009	446	Japan	secondary	trnS-trnG	36.039395683886	140.023715398646	0.0039237668161435
+Calystegia_soldanella	AB478405.1	23-JUL-2009	446	Japan:Shiga, Lake Biwa	secondary	trnS-trnG	35.9068536496843	135.622113120203	0.0039237668161435
+Calystegia_soldanella	AB478404.1	26-JAN-2010	446	Japan:Shiga, Lake Biwa	secondary	trnS-trnG	35.7536001460632	136.479024816658	0.00224215246636771

@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_amplexicaule	OL434812.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1174	-81.138	0.000280408708993632
+Lamium_amplexicaule	MW582612.1	09-MAR-2021	612	USA: North Carolina, Lexington, Campus of Davidson-Davie Community College	primary	rbcL	35.865	-80.1803	0.00710591839891502
+Lamium_amplexicaule	MG222811.1	26-DEC-2017	552	Canada: Yukon Territory, Whitehorse, International Airport	primary	rbcL	60.714	-135.076	0.000280786701941796
+Lamium_amplexicaule	MG222061.1	26-DEC-2017	510	Canada: Ontario, Norfolk County, Norfolk Township, Lee Brown Waterfowl Management Area parking lot	primary	rbcL	42.591	-80.501	0.000153272146603892
+Lamium_amplexicaule	KP402715.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, outside of Mathias by lamp post	primary	rbcL	38.889	-76.554	0.000280408708993632
+Lamium_amplexicaule	JN891870.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.51	-3.1	0.000215184569428112
+Lamium_amplexicaule	ON947740.1	20-MAR-2023	576	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00033779537456008
+Lamium_amplexicaule	MN204958.1	30-NOV-2021	724	China	secondary	rbcL	35.2359176608294	104.806640961202	0.00187595757518321
+Lamium_amplexicaule	MN192667.1	30-NOV-2021	715	China	secondary	rbcL	34.5604620285271	105.215685157147	0.000577259647203775
+Lamium_amplexicaule	MN185196.1	27-APR-2021	722	China	secondary	rbcL	35.2176910243432	104.000609240842	0.00211600730524631
+Lamium_amplexicaule	MN726043.1	24-JUL-2020	737	South Korea	secondary	rbcL	37.2937929326742	128.029935393022	0.00130845810221085
+Lamium_amplexicaule	MN726042.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.5421980227099	128.646989510742	0.00130845810221085
+Lamium_amplexicaule	MN726041.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.4895997803725	128.532493629668	0.00130845810221085
+Lamium_amplexicaule	MN726040.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.5705740962336	128.51314551767	0.00130845810221085
+Lamium_amplexicaule	MN726039.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.0666587343627	128.423333261149	0.00130845810221085
+Lamium_amplexicaule	MN726038.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.9607935293058	127.672024261691	0.00130845810221085
+Lamium_amplexicaule	MN726037.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.3679132769603	126.78399666425	0.00130845810221085
+Lamium_amplexicaule	MN726036.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.6568478628619	128.117183118096	0.00130845810221085
+Lamium_amplexicaule	MN726035.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.8611561683841	127.023703431188	0.00130845810221085
+Lamium_amplexicaule	MN726034.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.5407988837567	126.829168784869	0.00130845810221085
+Lamium_amplexicaule	MN726033.1	24-JUL-2020	737	South Korea	secondary	rbcL	37.198519369191	127.519676207843	0.00130845810221085
+Lamium_amplexicaule	MH215248.1	22-JAN-2019	553	China	secondary	rbcL	34.3157542662875	105.595938233648	0.000280408708993632
+Lamium_amplexicaule	KF055116.1	26-OCT-2013	1162	Poland	secondary	rbcL	52.215933	19.134422	0.000809590549653606
+Lamium_amplexicaule	HM850101.1	23-JUL-2011	673	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00298441199396013
+Lamium_amplexicaule	JN891017.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000215184569428112
+Lamium_amplexicaule	JN891014.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0.000215184569428112
+Lamium_amplexicaule	AB266225.1	25-JUL-2006	1323	Japan:Osaka, Katano, Kisaichi	secondary	rbcL	34.7677187	135.6866194	0.00859181011335847

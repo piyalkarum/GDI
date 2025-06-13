@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gentiana_verna	MK925202.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2916940879497	-3.83676000089546	0.184857251923734
+Gentiana_verna	MK924578.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2067525209059	-2.52393710630526	0.184857251923734
+Gentiana_verna	GU250984.1	17-JAN-2011	723	Switzerland: Gurnigel, 375 a 1720m, Bern	secondary	rbcL	46.7322475	7.4477528	0.5336192159001
+Gentiana_verna	DQ660644.1	22-DEC-2008	1292	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.200784144676746

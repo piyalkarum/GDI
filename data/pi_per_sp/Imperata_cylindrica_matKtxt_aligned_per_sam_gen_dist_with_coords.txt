@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Imperata_cylindrica	OQ859103.1	12-AUG-2023	524	Egypt	primary	matK	30.851451	29.377223	0.000636132315521629
+Imperata_cylindrica	MG968371.1	13-FEB-2019	660	Indonesia: Jambi, Bukit Duabelas National Park	primary	matK	-1.85	102.65	0.00281047322799324
+Imperata_cylindrica	MG772740.1	18-JUL-2018	616	South Africa	primary	matK	-29.7039	31.0514	0.00818022096648051
+Imperata_cylindrica	MH552170.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.6814498	-81.9683386867758	0.00136993837819959
+Imperata_cylindrica	MN492714.1	30-NOV-2021	786	China	secondary	matK	35.000074	104.999927	0.00135295154379124
+Imperata_cylindrica	MF998970.1	09-DEC-2017	2116	Madagascar	secondary	matK	-18.9249604	46.4416422	0.00142322424755574
+Imperata_cylindrica	KX299008.1	06-FEB-2017	890	Egypt	secondary	matK	26.2540493	29.2675469	0.00148033602584958
+Imperata_cylindrica	KF163738.1	28-OCT-2013	1029	South Korea	secondary	matK	37.155179383579	128.05096585911	0.00207434686823674
+Imperata_cylindrica	KF163737.1	28-OCT-2013	1029	South Korea	secondary	matK	36.7619307589074	126.631540069915	0.00207434686823674
+Imperata_cylindrica	HQ599950.1	02-AUG-2011	1362	South Korea	secondary	matK	35.9400183471798	127.620859505987	0.00128618546985894

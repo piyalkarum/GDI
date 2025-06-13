@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Avena_brevis	KT453221.1	17-FEB-2017	791	Germany: Lower Saxony	secondary	rps16	53.0653167349826	8.44707610545213	0
+Avena_brevis	KT453148.1	17-FEB-2017	791	Germany: Lower Saxony	secondary	rps16	52.1468456026023	8.57327012829997	0
+Avena_brevis	KT453147.1	17-FEB-2017	791	Russia: Leningrad	secondary	rps16	59.938732	30.316229	0
+Avena_brevis	KT453145.1	17-FEB-2017	741	Canada: Ontario	secondary	rps16	50.000678	-86.000977	0

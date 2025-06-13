@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_nivalis	KT960663.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.8053996544185	-19.545362602942	0.144015659955257
+Sagina_nivalis	KT960386.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.3086943633351	-22.2949467377401	0.144015659955257
+Sagina_nivalis	KC483900.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Rankin Inlet, Disturbed ground at the edge of a road below the graveyard	primary	rbcL	62.8	-92.1	0.144015659955257
+Sagina_nivalis	KC483899.1	25-OCT-2013	522	Canada: Yukon Territory, Ivvavik National Park, Stokes Point	primary	rbcL	69.33	-138.733	0.144015659955257
+Sagina_nivalis	KC483898.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Tanner Bay, Cape Hooper, Tanner Bay	primary	rbcL	68.4333	-66.8167	0.144015659955257
+Sagina_nivalis	KC483897.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake	primary	rbcL	62.85	-67.35	0.144015659955257
+Sagina_nivalis	MT534499.1	06-DEC-2021	812	Norway	secondary	rbcL	64.1500965638201	9.84125006200297	0.504868859942183
+Sagina_nivalis	MT534498.1	06-DEC-2021	811	Norway	secondary	rbcL	63.9624646495188	10.3931276636823	0.503191007593189
+Sagina_nivalis	MK925434.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.143348623853211

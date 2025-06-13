@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atriplex_longipes	JN891982.1	07-MAR-2012	458	United Kingdom: Cardiganshire	primary	rbcL	52.52	-4.04	0
+Atriplex_longipes	MK925523.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0900224172247	-3.60041869159258	0
+Atriplex_longipes	MK925502.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0517942044822	-4.13228710027258	0
+Atriplex_longipes	MK924664.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.489963926553	-2.5930728186261	0
+Atriplex_longipes	JN890999.1	07-MAR-2012	538	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

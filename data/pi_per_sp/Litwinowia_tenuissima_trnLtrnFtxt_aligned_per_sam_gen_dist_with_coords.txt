@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Litwinowia_tenuissima	KJ623434.1	10-JUN-2014	379	China	secondary	trnL-trnF	35.6497029083739	105.270290393877	0.111790873968524
+Litwinowia_tenuissima	KJ623433.1	10-JUN-2014	349	China	secondary	trnL-trnF	34.842604071557	104.015695000851	0.115892149436266
+Litwinowia_tenuissima	KJ623432.1	10-JUN-2014	356	China	secondary	trnL-trnF	34.2024171094731	104.524874561776	0.328416651946064
+Litwinowia_tenuissima	KJ623431.1	10-JUN-2014	351	China	secondary	trnL-trnF	35.0446843385297	106.008357794263	0.117936583892633

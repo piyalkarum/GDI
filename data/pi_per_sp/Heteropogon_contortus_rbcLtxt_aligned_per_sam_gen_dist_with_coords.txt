@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Heteropogon_contortus	LN907949.1	14-JAN-2016	1353	Madagascar:Mahajanga, Maevatanana	primary	rbcL	-16.9597	46.9213	0.00128090180042521
+Heteropogon_contortus	MN205117.1	30-NOV-2021	628	China	secondary	rbcL	34.2468691256032	105.459221966543	0.000912014792806276
+Heteropogon_contortus	MN185251.1	27-APR-2021	721	China	secondary	rbcL	34.7809286121265	105.788414198804	0.00106821879097551
+Heteropogon_contortus	MN167872.1	27-APR-2021	652	China	secondary	rbcL	34.695769306476	105.769920425645	0.00087926006430383
+Heteropogon_contortus	MH549875.1	05-JUN-2019	565	USA	secondary	rbcL	39.7837304	-100.445882	0.000898303995222966
+Heteropogon_contortus	KR737296.1	13-MAY-2016	553	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	rbcL	0.583696768223433	36.092218156419	0.00123729665044294
+Heteropogon_contortus	KR736624.1	13-MAY-2016	552	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	rbcL	0.160123463736863	36.7216409039702	0.00123959919244043

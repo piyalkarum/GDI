@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lactuca_serriola	OQ847538.1	15-AUG-2023	795	USA: American Prairie White Rock Unit	primary	matK	47.9867	-107.9798	0
+Lactuca_serriola	HQ593336.1	09-NOV-2011	875	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., SR19 ditch, 10 m W of Dufferin	primary	matK	44.026	-79.527	0
+Lactuca_serriola	JN895673.1	07-MAR-2012	789	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0
+Lactuca_serriola	MT917364.1	03-MAR-2023	786	China	secondary	matK	34.2599897800558	105.177801079976	0
+Lactuca_serriola	MT917363.1	03-MAR-2023	786	China	secondary	matK	35.2082581006379	104.246725104824	0
+Lactuca_serriola	MT917362.1	03-MAR-2023	791	China	secondary	matK	34.4598945428476	104.715440581394	0
+Lactuca_serriola	MT917360.1	03-MAR-2023	790	China	secondary	matK	34.538190350851	104.384599497487	0
+Lactuca_serriola	KU586768.1	06-FEB-2017	542	Spain: Sevilla, Alcala de Guadaira	secondary	matK	37.3397709	-5.8408396	0
+Lactuca_serriola	KT250113.1	09-AUG-2015	820	Greece	secondary	matK	43.2097838	-77.6930602	0
+Lactuca_serriola	KT250076.1	09-AUG-2015	820	Germany	secondary	matK	35.2482476532278	-82.8483986508784	0
+Lactuca_serriola	KT250073.1	09-AUG-2015	820	Germany	secondary	matK	34.4696805652816	-83.1243139386575	0
+Lactuca_serriola	KT250047.1	09-AUG-2015	820	Germany	secondary	matK	34.8596149733527	-82.6749547922113	0
+Lactuca_serriola	KT250009.1	09-AUG-2015	820	Germany	secondary	matK	35.6260496146458	-83.2074260165606	0
+Lactuca_serriola	KT250008.1	09-AUG-2015	820	Germany	secondary	matK	34.9619379550487	-83.1451501439122	0
+Lactuca_serriola	KT250007.1	09-AUG-2015	820	Germany	secondary	matK	34.4355101786082	-82.7100934463559	0
+Lactuca_serriola	KT250006.1	09-AUG-2015	820	Germany	secondary	matK	35.1740988881726	-82.4603247285293	0
+Lactuca_serriola	KT250005.1	09-AUG-2015	820	Germany	secondary	matK	35.4238531361914	-82.9593396269983	0
+Lactuca_serriola	KT250004.1	09-AUG-2015	820	Germany	secondary	matK	34.9245773118946	-82.4322250372482	0
+Lactuca_serriola	KT250003.1	09-AUG-2015	820	Germany	secondary	matK	34.455915170265	-84.0722824721092	0
+Lactuca_serriola	KT250002.1	09-AUG-2015	820	Germany	secondary	matK	35.5788585818732	-82.9571555605523	0
+Lactuca_serriola	KT250001.1	09-AUG-2015	820	Germany	secondary	matK	35.226269980099	-84.3755614658036	0
+Lactuca_serriola	KT250000.1	09-AUG-2015	820	Germany	secondary	matK	34.9169788124331	-84.2685942231851	0
+Lactuca_serriola	KT249999.1	09-AUG-2015	820	Germany	secondary	matK	34.745823236875	-84.3080072296031	0
+Lactuca_serriola	KT249998.1	09-AUG-2015	820	Germany	secondary	matK	34.8838157313479	-82.9543042207522	0
+Lactuca_serriola	KJ204496.1	29-JAN-2015	821	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0
+Lactuca_serriola	HM850642.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0
+Lactuca_serriola	JN896267.1	07-MAR-2012	915	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0
+Lactuca_serriola	JN896264.1	07-MAR-2012	941	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0

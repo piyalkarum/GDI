@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sibbaldia_procumbens	KC475877.1	25-OCT-2013	751	Canada: Yukon Territory, Ivvavik National Park, Middle Malcolm River, ridge crest	primary	matK	69.308	-140.491	0.000955253701252234
+Sibbaldia_procumbens	KC475876.1	25-OCT-2013	768	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour, Inner basin	primary	matK	63.8367	-67.3578	0.00112181407798019
+Sibbaldia_procumbens	KC475875.1	25-OCT-2013	768	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq, along bay west of hamlet	primary	matK	56.586	-79.253	0.00112181407798019
+Sibbaldia_procumbens	LC760003.1	12-SEP-2023	828	Japan:Yamanashi, Minami-alps	secondary	matK	35.6083617	138.4649893	0.00110933046783443
+Sibbaldia_procumbens	MN451029.1	30-NOV-2021	777	China	secondary	matK	35.000074	104.999927	0.00540668609327536
+Sibbaldia_procumbens	MK926295.1	14-JAN-2020	781	United Kingdom	secondary	matK	54.6343524948267	-4.40997445825607	0.00223098960158332
+Sibbaldia_procumbens	MK925888.1	14-JAN-2020	774	United Kingdom	secondary	matK	55.4192319064134	-3.24438170549426	0.00111434727059143
+Sibbaldia_procumbens	MK925589.1	14-JAN-2020	748	United Kingdom	secondary	matK	55.1617339385991	-2.94840657001688	0.00229725395936833

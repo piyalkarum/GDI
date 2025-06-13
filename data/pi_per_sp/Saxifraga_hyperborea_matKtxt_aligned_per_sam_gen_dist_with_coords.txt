@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_hyperborea	KC475856.1	25-OCT-2013	716	Canada: Nunavut, Ellesmere Island, RCMP Post, Alexandra Fiord. Ca. 4 km S of RCMP Post	primary	matK	78.8833	-75.75	0
+Saxifraga_hyperborea	KC475855.1	25-OCT-2013	743	Canada: Nunavut, Baffin Island, Cape Dorset, Near the Nascopie Building	primary	matK	64.2333	-76.5417	0
+Saxifraga_hyperborea	KC475854.1	25-OCT-2013	743	Canada: Yukon Territory, Ivvavik National Park, Mount Conybeare	primary	matK	69.464	-140.074	0
+Saxifraga_hyperborea	KC475853.1	25-OCT-2013	483	Canada: Northwest Territories, Banks Island, Parker River, Parker River Valley, N side c. 7 km from sea	primary	matK	73.6167	-115.85	0

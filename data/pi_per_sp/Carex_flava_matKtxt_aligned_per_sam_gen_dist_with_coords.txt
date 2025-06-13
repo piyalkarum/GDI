@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_flava	KX677564.1	09-AUG-2017	816	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, near small runoff/creek area	primary	matK	49.454	-120.996	0.00181022265421815
+Carex_flava	KX676524.1	09-AUG-2017	778	Canada: British Columbia, Vancouver Island, Strathcona Regional District, Strathcona Provincial Park, Buttle Lake	primary	matK	49.835	-125.627	0.00300854801504917
+Carex_flava	MN763787.1	28-JUL-2020	537	Norway: Troms	secondary	matK	69.5311071	19.5296839	0.0029816081852991
+Carex_flava	MK925855.1	14-JAN-2020	809	United Kingdom	secondary	matK	54.04750689968	-3.70604747595469	0.00119027109560703
+Carex_flava	MK925609.1	14-JAN-2020	816	United Kingdom	secondary	matK	54.4915566141413	-4.69597983967691	0.00118254141338424
+Carex_flava	KU939681.1	13-APR-2016	787	Norway	secondary	matK	64.5731537	11.5280364	0.00118903274224713

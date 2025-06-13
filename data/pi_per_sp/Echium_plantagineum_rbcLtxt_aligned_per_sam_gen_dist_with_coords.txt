@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Echium_plantagineum	MK925353.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8173152984344	-2.22398088653102	0
+Echium_plantagineum	MK925209.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7462131341104	-2.32483657597583	0
+Echium_plantagineum	MK924860.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1332940144504	-4.29042578328749	0
+Echium_plantagineum	EU599873.1	31-MAR-2009	1196	Turkey	secondary	rbcL	38.9597594	34.9249653	0.000947867298578199
+Echium_plantagineum	EU599872.1	31-MAR-2009	1196	Spain: Tenerife	secondary	rbcL	28.2935785	-16.6214471	0.000947867298578199
+Echium_plantagineum	HM849964.1	23-JUL-2011	701	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0018957345971564

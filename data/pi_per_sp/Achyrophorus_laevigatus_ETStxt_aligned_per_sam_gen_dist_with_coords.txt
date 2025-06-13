@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achyrophorus_laevigatus	HG518117.1	02-JAN-2014	635	Italy:Reggio Calabria, Aspromonte	secondary	ETS	38.263471	15.854796	0.202780043615056
+Achyrophorus_laevigatus	HG518116.1	02-JAN-2014	635	Italy:Reggio Calabria, Monte Sant Elia SW Palmi	secondary	ETS	38.1035389	15.6397556	0.202780043615056
+Achyrophorus_laevigatus	AJ627466.1	09-FEB-2005	825	Italy:Calabria, Bagnara	secondary	ETS	38.2827249	15.8003178	0.60676532769556
+Achyrophorus_laevigatus	AJ627265.1	11-FEB-2005	635	Italy:Calabria	secondary	ETS	39.0565974	16.5249864	0.203304977998258

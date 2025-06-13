@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Torilis_arvensis	MK932713.1	19-JUN-2019	504	China: Outside US, Jiangyong Hunan, Agriculture land	primary	rbcL	25	111	0.00158730158730159
+Torilis_arvensis	MK932709.1	19-JUN-2019	504	China: Outside US, Jiangyong Hunan, Agriculture land	primary	rbcL	27	111	0.00158730158730159
+Torilis_arvensis	MK932706.1	19-JUN-2019	485	China: Outside US, Jiangyong Hunan, Agriculture land	primary	rbcL	28	111	0.00164948453608247
+Torilis_arvensis	MK060103.1	26-MAY-2019	638	Bulgaria	primary	rbcL	42.0126	23.0963	0.000930343206061565
+Torilis_arvensis	KX678471.1	29-APR-2017	551	Canada: British Columbia, Metro Vancouver Regional District, South Vancouver, near Oak Street Bridge, along disused railroad siding in back of warehouse	primary	rbcL	49.2013	-123.128	0.000603010963835706
+Torilis_arvensis	KP149538.1	16-NOV-2015	552	South Africa: Western Cape, Mooiplass Renosterveld Conservancy	primary	rbcL	-33.9263	18.7491	0.000603010963835706
+Torilis_arvensis	JN890678.1	07-MAR-2012	542	France: Cher	primary	rbcL	47.01	2.19	0.000603010963835706
+Torilis_arvensis	KJ204412.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000603010963835706
+Torilis_arvensis	HM850403.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000930343206061565
+Torilis_arvensis	JN892719.1	07-MAR-2012	542	United Kingdom: Sussex,West	secondary	rbcL	50.94451385	-0.0622673284178475	0.000603010963835706
+Torilis_arvensis	JN892718.1	07-MAR-2012	542	United Kingdom: Oxfordshire	secondary	rbcL	51.833333	-1.25	0.000603010963835706

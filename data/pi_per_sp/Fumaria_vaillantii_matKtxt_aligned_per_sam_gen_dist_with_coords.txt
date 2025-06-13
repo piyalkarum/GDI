@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fumaria_vaillantii	OR738270.1	13-NOV-2023	777	Kazakhstan: Atyrau region	primary	matK	48.27201	52.27206	0.258649500817604
+Fumaria_vaillantii	MT930088.1	03-MAR-2023	767	China	secondary	matK	34.805474136143	104.285987463235	0.0576153946456665
+Fumaria_vaillantii	MT930087.1	03-MAR-2023	767	China	secondary	matK	35.3229166741532	104.158367840209	0.0581438139127242
+Fumaria_vaillantii	MT930057.1	03-MAR-2023	782	China	secondary	matK	34.3991341713888	105.628952629231	0.0581119452828331
+Fumaria_vaillantii	MK926184.1	14-JAN-2020	765	United Kingdom	secondary	matK	54.9976993644984	-1.94958950254619	0.0595660130718954
+Fumaria_vaillantii	MK925744.1	14-JAN-2020	779	United Kingdom	secondary	matK	54.0504451271127	-2.30750069163024	0.059630416227006

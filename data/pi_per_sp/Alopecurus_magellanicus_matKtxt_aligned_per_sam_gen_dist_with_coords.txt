@@ -1,0 +1,24 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alopecurus_magellanicus	KX873212.1	16-OCT-2017	829	Peru: Puno, ca. 7 km WNW of Santa Rosa on Hwy. 3 and 2 km W toward Quishuara, ca. 4 km E of Quishuara, near confluence of Rio Vilacota and Rio Santa Rosa	primary	matK	-14.6008	-70.8635	5.69605832763727e-05
+Alopecurus_magellanicus	KC473985.1	25-OCT-2013	774	Canada: Northwest Territories, Mainland Northwest Territories, Tuktoyaktuk, Polar Continental Shelf Project Base. Behind houses north of baseball diamond	primary	matK	69.5	-133	5.87268029128494e-05
+Alopecurus_magellanicus	KC473984.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Nikko Island, Koukdjuak River	primary	matK	66.35	-71.3	5.87268029128494e-05
+Alopecurus_magellanicus	KC473983.1	25-OCT-2013	656	Canada: Nunavut, Cornwallis Island, Cornwallis Island Resolute Bay	primary	matK	74.683	-94.9	6.9290465631929e-05
+Alopecurus_magellanicus	KC473982.1	25-OCT-2013	769	Canada: Nunavut, Qikiqtaaluk Region, Cornwallis Island, Cornwallis Island, west of P.C.S.P. base	primary	matK	74.667	-95.067	5.91086416834141e-05
+Alopecurus_magellanicus	KC473981.1	25-OCT-2013	777	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	matK	66.839	-108.035	5.85000585000585e-05
+Alopecurus_magellanicus	KC473980.1	25-OCT-2013	695	Canada: Nunavut, Kivalliq Region, East shore Meliadine River at 55 K/16 433725, 7.5 km NW of Rankin Inlet at Ijiralik Thule site in Meliadine River Park study area, Hudson Bay	primary	matK	62.875	-92.142	6.5402223675605e-05
+Alopecurus_magellanicus	KC473979.1	25-OCT-2013	774	Canada: Northwest Territories, Banks Island (Northwest Territories), Aulavik National Park, Shoran Lake Banks Island. Area #3	primary	matK	73.517	-120.3	5.87268029128494e-05
+Alopecurus_magellanicus	KC473978.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	matK	71.313	-116.916	5.85000585000585e-05
+Alopecurus_magellanicus	KC473977.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Region SW of camp, ca. 9 km north of Coronation Gulf coast, 12 km north of point	primary	matK	68.728	-112.678	5.85000585000585e-05
+Alopecurus_magellanicus	KC473976.1	25-OCT-2013	774	Canada: Nunavut, Ellesmere Island, Eureka	primary	matK	80	-85.95	5.87268029128494e-05
+Alopecurus_magellanicus	KC473975.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Cambridge Bay, Cambridge Bay. Vacant lot on west side of town	primary	matK	69.264	-105.1	5.85000585000585e-05
+Alopecurus_magellanicus	KC473974.1	25-OCT-2013	762	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, community of Bathurst Inlet	primary	matK	66.84	-108.03	5.96516344547841e-05
+Alopecurus_magellanicus	KC473973.1	25-OCT-2013	777	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	matK	74.913	-109.576	5.85000585000585e-05
+Alopecurus_magellanicus	JN966072.1	27-OCT-2012	779	Canada: Manitoba	primary	matK	59.148956677541	-93.2332839861561	5.83498657953087e-05
+Alopecurus_magellanicus	JN966071.1	27-OCT-2012	636	Canada: Manitoba	primary	matK	58.6870898010469	-95.3744906164973	7.14694110920526e-05
+Alopecurus_magellanicus	JN966070.1	27-OCT-2012	779	Canada: Manitoba, Churchill, Wapusk National Park, Cape Churchill, Fen bog, saturated peat	primary	matK	59.1870368455926	-93.5305028111238	5.83498657953087e-05
+Alopecurus_magellanicus	OK247784.1	27-OCT-2022	788	USA: Alaska	secondary	matK	64.4459613	-149.680909	5.93401376691194e-05
+Alopecurus_magellanicus	KM523830.1	12-JUL-2015	752	Argentina	secondary	matK	-34.9964963	-64.9672817	6.2266500622665e-05
+Alopecurus_magellanicus	MK926403.1	14-JAN-2020	774	United Kingdom	secondary	matK	55.2996252113561	-2.7339414204199	5.87268029128494e-05
+Alopecurus_magellanicus	MK926269.1	14-JAN-2020	817	United Kingdom	secondary	matK	55.0202796962578	-3.66903910707747	0.00132102219145806
+Alopecurus_magellanicus	MK925846.1	14-JAN-2020	813	United Kingdom	secondary	matK	54.7310113350127	-1.79979032002323	5.60475283040018e-05
+Alopecurus_magellanicus	MK925739.1	14-JAN-2020	775	United Kingdom	secondary	matK	54.3073247884268	-4.65649476326401	5.86510263929619e-05

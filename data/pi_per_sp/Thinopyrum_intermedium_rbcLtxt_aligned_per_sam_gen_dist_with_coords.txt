@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thinopyrum_intermedium	OQ832138.1	15-AUG-2023	553	USA: Bowdoin Wildlife Refuge	primary	rbcL	48.3769	-107.6879	0.000331180659049512
+Thinopyrum_intermedium	MF597054.1	28-FEB-2018	603	Canada: British Columbia, NE of Osoyoos ~2 km going up Anarchist Mountain, just before town lookout and just beyond the first switchback.	primary	rbcL	49.016	-119.411	0.000301522689582391
+Thinopyrum_intermedium	MF597053.1	28-FEB-2018	603	Canada: British Columbia, NE of Osoyoos ~2 km going up Anarchist Mountain, just before town lookout and just beyond the first switchback.	primary	rbcL	48.6194971818721	-119.479364002079	0.000301522689582391
+Thinopyrum_intermedium	MF597052.1	28-FEB-2018	603	Canada: Manitoba, Rural Municipality of Pembina, ~5 km E of Manitou. Moist ground between gravel road and canola field with Phleum, Taraxacum, Lolium.	primary	rbcL	49.5701441712926	-99.3945835856182	0.000301522689582391
+Thinopyrum_intermedium	MF597051.1	28-FEB-2018	603	Canada: British Columbia, North of Kamloops in Lac du Bois Grassland Provincial Park, with sage (and other Artemisia sp.) and bunch grass	primary	rbcL	50.6230441883196	-121.030924085068	0.00157317856175982
+Thinopyrum_intermedium	MG228022.1	23-JAN-2018	552	Canada: Yukon Territory, La Biche between La Biche and Liard rivers	primary	rbcL	60.052	-123.993	0.000331180659049512
+Thinopyrum_intermedium	MG227576.1	23-JAN-2018	603	Canada: Manitoba, Rural Municipality of Pembina, ~5 km E of Manitou. Moist ground between gravel road and canola field with Phleum, Taraxacum, Lolium.	primary	rbcL	49.2509658442592	-98.1555022904572	0.000301522689582391
+Thinopyrum_intermedium	MG227114.1	23-JAN-2018	603	Canada: British Columbia, NE of Osoyoos ~2 km going up Anarchist Mountain, just before town lookout and just beyond the first switchback.	primary	rbcL	48.9563815130781	-120.566712954799	0.000301522689582391
+Thinopyrum_intermedium	MG226348.1	23-JAN-2018	603	Canada: British Columbia, North of Kamloops in Lac du Bois Grassland Provincial Park, with sage (and other Artemisia sp.) and bunch grass	primary	rbcL	50.0921524138513	-120.19710138524	0.00157317856175982
+Thinopyrum_intermedium	KP211012.1	31-AUG-2017	1274	Germany	secondary	rbcL	31.4399019	-95.350778	0.00031402103940964
+Thinopyrum_intermedium	KF728572.1	28-DEC-2013	553	Poland	secondary	rbcL	52.215933	19.134422	0.000331180659049512
+Thinopyrum_intermedium	KF728571.1	28-DEC-2013	553	Romania	secondary	rbcL	45.9852129	24.6859225	0.000331180659049512

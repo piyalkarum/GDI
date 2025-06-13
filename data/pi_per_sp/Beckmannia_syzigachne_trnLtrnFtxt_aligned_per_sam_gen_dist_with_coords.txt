@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Beckmannia_syzigachne	KX872634.1	16-OCT-2017	978	Canada: British Columbia, Marquart Lake West Forest Recreation Site, justt off Hwy. 97C NE of Merritt. Grasslands Interpretive Area	primary	trnL-trnF	50.0769	-120.6514	0.000763118814564296
+Beckmannia_syzigachne	OK247937.1	28-OCT-2022	1785	Canada: Manitoba	secondary	trnL-trnF	55.001251	-97.001038	0
+Beckmannia_syzigachne	DQ353965.1	31-DEC-2007	1768	USA	secondary	trnL-trnF	39.7837304	-100.445882	0.000349040139616056
+Beckmannia_syzigachne	KP711130.1	31-MAR-2016	805	China	secondary	trnL-trnF	35.000074	104.999927	0.00041407867494824

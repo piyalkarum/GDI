@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achillea_setacea	HQ450999.1	27-FEB-2012	854	Turkey: Anatolia	secondary	rpl16	38.4401224134533	32.1416545602041	0.000292740046838407
+Achillea_setacea	HQ450998.1	27-FEB-2012	854	Turkey: Anatolia	secondary	rpl16	38.1994771986292	32.2308204163648	0.000292740046838407
+Achillea_setacea	HQ450995.1	27-FEB-2012	854	Ukraine: Kiev	secondary	rpl16	49.632755866675	30.9581203075258	0.000292740046838407
+Achillea_setacea	HQ450994.1	27-FEB-2012	854	Ukraine: Kiev	secondary	rpl16	50.5602580736167	30.3440840486494	0.000292740046838407
+Achillea_setacea	HQ450993.1	27-FEB-2012	854	Greece: NE Thessaloniki	secondary	rpl16	40.6403167	22.9352716	0.00117096018735363

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chrysosplenium_alternifolium	OK315346.1	31-OCT-2022	1530	China	secondary	matK	34.4041473087448	104.668889723227	0.00243366798210597
+Chrysosplenium_alternifolium	OK315343.1	31-OCT-2022	1530	China	secondary	matK	34.5449494788125	105.87875190847	0.00399587626922283
+Chrysosplenium_alternifolium	MK925892.1	14-JAN-2020	856	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00233644859813084
+Chrysosplenium_alternifolium	JN894079.1	07-MAR-2012	851	United Kingdom: Breconshire	secondary	matK	52.9875065	-1.1773256	0.00235017626321974

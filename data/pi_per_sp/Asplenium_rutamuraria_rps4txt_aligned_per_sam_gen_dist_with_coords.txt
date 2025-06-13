@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_ruta-muraria	MK827562.1	30-APR-2020	900	Germany: Freistaat Sachsen	secondary	rps4	50.9295798	13.4585052	0.00627338462805409
+Asplenium_ruta-muraria	MK827558.1	30-APR-2020	714	Switzerland: Fribourg	secondary	rps4	46.8055656	7.1612669	0.00945721907276234
+Asplenium_ruta-muraria	MK827557.1	30-APR-2020	895	USA: Virginia	secondary	rps4	37.1232245	-78.4927721	0.00720927731014043
+Asplenium_ruta-muraria	MK827551.1	30-APR-2020	895	Norway: Nordland	secondary	rps4	67.2756405	13.8623606	0.00629672802685662
+Asplenium_ruta-muraria	MK827230.1	30-APR-2020	949	China: Xingjiang	secondary	rps4	26.493227	115.773331	0.0148039548179613

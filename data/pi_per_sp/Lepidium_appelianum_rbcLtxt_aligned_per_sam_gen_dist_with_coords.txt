@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lepidium_appelianum	MT930742.1	03-MAR-2023	572	China	secondary	rbcL	34.1153628596111	105.066832418075	0
+Lepidium_appelianum	MT930741.1	03-MAR-2023	571	China	secondary	rbcL	34.60280124571	104.336984396348	0
+Lepidium_appelianum	MG249869.1	21-JAN-2018	552	Canada: British Columbia, South of Peace River	secondary	rbcL	49.25783145	-123.246241986222	0
+Lepidium_appelianum	MG247697.1	21-JAN-2018	552	Canada: British Columbia, Summerland	secondary	rbcL	49.6	-119.666667	0
+Lepidium_appelianum	MG247309.1	21-JAN-2018	552	Canada: British Columbia, 141 Mile House	secondary	rbcL	52.4889869	-121.2800874	0

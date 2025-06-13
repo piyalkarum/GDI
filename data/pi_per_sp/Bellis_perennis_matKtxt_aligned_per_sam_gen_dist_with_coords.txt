@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bellis_perennis	KX677777.1	09-AUG-2017	714	Canada: British Columbia, Vancouver Island, Capital Regional District, Fairy Lake Forest Recreation Site	primary	matK	48.587	-124.35	0.000700280112044818
+Bellis_perennis	KX677397.1	09-AUG-2017	739	Canada: British Columbia, Vancouver Island, Comox Valley Regional District, Courtenay, back yard of 2593 Kathy Crescent, near Meadow Brook Pond	primary	matK	49.726	-124.982	0.00081190798376184
+Bellis_perennis	KX677270.1	09-AUG-2017	780	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Kin Beach Provincial Park	primary	matK	49.73	-124.898	0.000769230769230769
+Bellis_perennis	JN895509.1	07-MAR-2012	750	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.14	0.00027063599458728
+Bellis_perennis	JN894128.1	07-MAR-2012	795	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.000267022696929239
+Bellis_perennis	KP175061.1	30-NOV-2016	2496	USA	secondary	matK	39.7837304	-100.445882	0.000738007380073801
+Bellis_perennis	KJ204445.1	29-JAN-2015	829	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.000739827373612824
+Bellis_perennis	HM850613.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00557232686178924
+Bellis_perennis	HE970679.1	18-SEP-2012	805	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.000746268656716418
+Bellis_perennis	JN895441.1	07-MAR-2012	794	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.000267022696929239
+Bellis_perennis	JN893935.1	07-MAR-2012	957	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000262123197903014

@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_ovata	KY951663.1	18-APR-2018	571	Kuwait	secondary	trnL-trnF	29.3995982081666	47.6314144446735	0.475541158633694
+Plantago_ovata	KY951662.1	18-APR-2018	522	Kuwait	secondary	trnL-trnF	29.9618116324013	48.2059672300486	0.474824413120544
+Plantago_ovata	EU036270.1	13-AUG-2007	355	Tunisia: Medenine	secondary	trnL-trnF	32.9819987	11.2870254	0.11893487130584
+Plantago_ovata	EU036268.1	13-AUG-2007	355	Mexico: Catavina, Baja California Norte	secondary	trnL-trnF	29.7321505	-114.7208517	0.11893487130584
+Plantago_ovata	EU036267.1	13-AUG-2007	355	USA: Desert Shores, CA	secondary	trnL-trnF	36.2078191	-115.2695035	0.11893487130584
+Plantago_ovata	EU036266.1	13-AUG-2007	355	USA: Zzyzx, CA	secondary	trnL-trnF	35.1427607	-116.104735	0.11893487130584
+Plantago_ovata	EU036265.1	13-AUG-2007	356	USA: Anacapa Island, CA	secondary	trnL-trnF	34.1638989	-119.0362145	0.118563738408346
+Plantago_ovata	EU036262.1	13-AUG-2007	356	USA: San Nicolas Island, CA	secondary	trnL-trnF	33.24999425	-119.509897948601	0.118563738408346
+Plantago_ovata	EU036258.1	13-AUG-2007	355	USA: Thousand Palms, CA	secondary	trnL-trnF	33.8217125	-116.39358	0.11893487130584
+Plantago_ovata	EU036263.1	13-AUG-2007	356	Mexico	secondary	trnL-trnF	18.96203905	-98.2919817126505	0.118563738408346

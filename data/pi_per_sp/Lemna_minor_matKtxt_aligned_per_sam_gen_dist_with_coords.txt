@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lemna_minor	OR464916.1	26-SEP-2023	840	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.173726	-85.600185	0.00309213728902848
+Lemna_minor	MG217145.1	24-JAN-2018	776	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Grindstone Marsh trails	primary	matK	43.295	-79.875	0.00312079784849843
+Lemna_minor	MG216939.1	24-JAN-2018	777	USA: North Dakota	primary	matK	48.897	-100.97	0.0125838455422548
+Lemna_minor	HQ593340.1	09-NOV-2011	841	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., S end of pond, 1 foot from dyke	primary	matK	44.035	-79.518	0.00290487355275698
+Lemna_minor	JN894636.1	07-MAR-2012	822	United Kingdom: Glamorgan	primary	matK	51.55	-3.73	0.00310733590733591
+Lemna_minor	HM850477.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00453260340319105

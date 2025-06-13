@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cicerbita_alpina	MK926213.1	14-JAN-2020	918	Austria	secondary	matK	36.9148511	-4.7534501	0.0046875
+Cicerbita_alpina	MK926159.1	14-JAN-2020	820	United Kingdom	secondary	matK	54.453679485058	-3.86949427365474	0.00473684210526316
+Cicerbita_alpina	MK926049.1	14-JAN-2020	953	Norway	secondary	matK	64.5731537	11.5280364	0.00485961123110151
+Cicerbita_alpina	MK925984.1	14-JAN-2020	983	United Kingdom	secondary	matK	55.2292280779658	-2.28435233133764	0.00462012320328542
+Cicerbita_alpina	AJ633233.1	10-OCT-2004	970	France:Auvergne	secondary	matK	45.7100132	3.1531803	0.0189040765396501

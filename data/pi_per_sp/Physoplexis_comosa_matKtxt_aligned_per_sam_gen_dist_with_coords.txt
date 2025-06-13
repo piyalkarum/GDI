@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Physoplexis_comosa	MH749027.1	30-OCT-2018	778	Germany: Munich Botanical Garden, nursery	primary	matK	48.16149211	11.50344788	0
+Physoplexis_comosa	KC455834.1	16-SEP-2013	2356	Italy	secondary	matK	42.6817540098508	12.3294285975474	0
+Physoplexis_comosa	KC455833.1	16-SEP-2013	2453	Italy	secondary	matK	42.6554352749613	12.4773580028835	0
+Physoplexis_comosa	KC455832.1	16-SEP-2013	2453	Italy	secondary	matK	43.249342871515	13.3882453816373	0

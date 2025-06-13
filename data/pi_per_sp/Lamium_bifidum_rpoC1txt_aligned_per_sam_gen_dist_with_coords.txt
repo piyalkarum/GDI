@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_bifidum	KF055178.1	26-OCT-2013	701	Italy: Sicilia	secondary	rpoC1	37.587794	14.155048	0
+Lamium_bifidum	KF055177.1	26-OCT-2013	701	France	secondary	rpoC1	46.6806437613029	1.34369401996837	0
+Lamium_bifidum	KC350751.1	18-OCT-2013	701	Greece	secondary	rpoC1	43.2097838	-77.6930602	0
+Lamium_bifidum	JX074013.1	18-OCT-2013	701	France	secondary	rpoC1	47.0294811033371	2.12404212734575	0
+Lamium_bifidum	JX074012.1	18-OCT-2013	701	Spain	secondary	rpoC1	39.3260685	-4.8379791	0

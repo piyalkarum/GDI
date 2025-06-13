@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_controversum	HM152898.1	24-AUG-2010	259	Spain: Valencia, Colom	secondary	psbA-trnH	39.179915	-0.3596484	0.00277502945651917
+Antirrhinum_controversum	HM152897.1	24-AUG-2010	259	Spain: Valencia, Chella	secondary	psbA-trnH	39.0419132	-0.6590644	0.00277502945651917
+Antirrhinum_controversum	HM152896.1	24-AUG-2010	257	Spain: Valencia, Carcagente	secondary	psbA-trnH	39.1209651	-0.4472814	0.00277932184546971
+Antirrhinum_controversum	HM152895.1	24-AUG-2010	259	Spain: Valencia, Bolomor	secondary	psbA-trnH	39.0596913	-0.2502812	0.00277502945651917
+Antirrhinum_controversum	HM152894.1	24-AUG-2010	258	Spain: Almeria, Berchules	secondary	psbA-trnH	36.7605981	-2.6205279	0.00722623679822123
+Antirrhinum_controversum	HM152893.1	24-AUG-2010	258	Spain: Almeria, Berja	secondary	psbA-trnH	36.8428832	-2.945818	0.00722623679822123
+Antirrhinum_controversum	HM152892.1	24-AUG-2010	259	Spain: Alicante, Jalon	secondary	psbA-trnH	38.7408285	-0.0116019	0.00277502945651917
+Antirrhinum_controversum	HM152891.1	24-AUG-2010	259	Spain: Albacete, Villa de Ves	secondary	psbA-trnH	39.2105199	-1.2589751	0.00609733850423122

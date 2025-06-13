@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Macrochloa_tenacissima	MT433224.1	31-MAY-2020	1236	Norway	secondary	matK	64.5731537	11.5280364	NA
+Macrochloa_tenacissima	GU254723.1	16-FEB-2011	555	Spain	secondary	matK	39.2981143091609	-3.93553085038426	NA
+Macrochloa_tenacissima	KJ529316.1	22-FEB-2015	969	Spain	secondary	matK	39.7563509889984	-4.32601535529965	NA
+Macrochloa_tenacissima	FN434345.1	14-JUL-2011	796	Algeria:Biskra	secondary	matK	34.7845635	5.8124353	NA

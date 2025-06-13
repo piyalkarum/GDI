@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bolboschoenus_planiculmis	MN192736.1	30-NOV-2021	660	China	secondary	rbcL	35.0063308642722	105.981070693666	0
+Bolboschoenus_planiculmis	MN192735.1	30-NOV-2021	723	China	secondary	rbcL	35.0987398457523	105.509031183382	0
+Bolboschoenus_planiculmis	MN726125.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.5331701284214	126.846781457879	0
+Bolboschoenus_planiculmis	MN726124.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.4720331150386	128.458623751547	0
+Bolboschoenus_planiculmis	GQ130359.1	15-JUN-2009	1293	South Korea	secondary	rbcL	36.5946823948602	127.588726074127	0

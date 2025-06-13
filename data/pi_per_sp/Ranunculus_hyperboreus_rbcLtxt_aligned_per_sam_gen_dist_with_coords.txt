@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_hyperboreus	MG247315.1	21-JAN-2018	552	Canada: Alberta, Cadomin area.	primary	rbcL	52.95	-117.367	0.000934579439252336
+Ranunculus_hyperboreus	MG246518.1	21-JAN-2018	552	Canada: Nunavut, Victoria Island, Cambridge Bay, One block west of the Northern Store (NE side of town)	primary	rbcL	69.5551074732299	-103.106016551758	0.000934579439252336
+Ranunculus_hyperboreus	KT960610.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1371196493485	-20.0117598735769	0.000934579439252336
+Ranunculus_hyperboreus	KT960499.1	13-DEC-2015	535	Greenland: NE, Zackenberg	primary	rbcL	74.8862671352226	-18.3870940861415	0.00934579439252336
+Ranunculus_hyperboreus	KT960465.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.053233724509	-20.6474887096794	0.000934579439252336
+Ranunculus_hyperboreus	KC483848.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay, Cambridge Bay, One block west of the Northern Store (NE side of town)	primary	rbcL	69.2691707548342	-106.082446895455	0.000934579439252336
+Ranunculus_hyperboreus	KC483847.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	rbcL	70.735	-117.761	0.000934579439252336
+Ranunculus_hyperboreus	KC483846.1	25-OCT-2013	552	Canada: Nunavut, Southhampton Island, Salliq	primary	rbcL	64.133	-83.017	0.000934579439252336
+Ranunculus_hyperboreus	KC483845.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit	primary	rbcL	63.75	-68.517	0.000934579439252336
+Ranunculus_hyperboreus	KC483844.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Rankin Inlet	primary	rbcL	62.8	-92.1	0.000934579439252336
+Ranunculus_hyperboreus	KC483843.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Egg River, Hills between Big River and Egg River, near junction of the two rivers, valley of small tributary of Egg River	primary	rbcL	72.4442	-124.407	0.000934579439252336

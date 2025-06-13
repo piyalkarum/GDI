@@ -1,0 +1,35 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_micropetala	OK505915.1	22-FEB-2022	776	Germany: Rheinland-Pfalz, Reitzenhain	primary	rbcL	50.157417	7.786806	7.81005935645111e-05
+Sagina_micropetala	OK505914.1	22-FEB-2022	777	Germany: Hessen, Wetzlar	primary	rbcL	50.555444	8.515167	7.8000078000078e-05
+Sagina_micropetala	OK505910.1	22-FEB-2022	776	Germany: Hessen, Hofheim-Diedenbergen	primary	rbcL	49.5115213330906	8.30048380597636	7.81005935645111e-05
+Sagina_micropetala	OK505909.1	22-FEB-2022	776	Germany: Hessen, Hofheim-Diedenbergen	primary	rbcL	49.6938432925229	9.65189984717096	7.81005935645111e-05
+Sagina_micropetala	OK505907.1	22-FEB-2022	777	Germany: Hessen, Nentershausen	primary	rbcL	51.014111	9.933139	0.00257701804093557
+Sagina_micropetala	OK505906.1	22-FEB-2022	776	Germany: Hessen, Hochheim-Massenheim	primary	rbcL	50.039306	8.388	7.81005935645111e-05
+Sagina_micropetala	OK505903.1	22-FEB-2022	776	Germany: Rheinland-Pfalz, Herrstein	primary	rbcL	50.2461326478413	7.25946586648179	7.81005935645111e-05
+Sagina_micropetala	OK505902.1	22-FEB-2022	776	Germany: Hessen, Schlitz-Fraurombach	primary	rbcL	49.9761270082862	9.73103728530909	7.81005935645111e-05
+Sagina_micropetala	OK505901.1	22-FEB-2022	776	Germany: Hessen, Schlitz-Fraurombach	primary	rbcL	50.5051419464292	10.5857538581842	7.81005935645111e-05
+Sagina_micropetala	OK505900.1	22-FEB-2022	776	Germany: Hessen, Weissenhasel	primary	rbcL	51.026722	9.935222	7.81005935645111e-05
+Sagina_micropetala	OK505899.1	22-FEB-2022	776	Germany: Schleswig-Holstein, Lauenburg	primary	rbcL	53.704472	10.559889	7.81005935645111e-05
+Sagina_micropetala	OK505898.1	22-FEB-2022	776	Germany: Schleswig-Holstein, Bad Schwartau	primary	rbcL	53.926222	10.685472	7.81005935645111e-05
+Sagina_micropetala	OK505897.1	22-FEB-2022	776	Germany: Niedersachsen, Northeim	primary	rbcL	51.708	10.008	7.81005935645111e-05
+Sagina_micropetala	OK505896.1	22-FEB-2022	776	Germany: Niedersachsen, Northeim	primary	rbcL	51.7015	10.0258	7.81005935645111e-05
+Sagina_micropetala	OK505895.1	22-FEB-2022	776	Germany: Schleswig-Holstein, Grossenbrode	primary	rbcL	54.375083	11.084722	7.81005935645111e-05
+Sagina_micropetala	OK505892.1	22-FEB-2022	776	Germany: Niedersachsen, Northeim	primary	rbcL	51.726	9.969	7.81005935645111e-05
+Sagina_micropetala	OK505888.1	22-FEB-2022	776	Germany: Niedersachsen, Northeim	primary	rbcL	51.3088634303712	8.81889874977892	7.81005935645111e-05
+Sagina_micropetala	OK505885.1	22-FEB-2022	776	Germany: Hessen, Nentershausen	primary	rbcL	51.014	9.933278	7.81005935645111e-05
+Sagina_micropetala	OK505884.1	22-FEB-2022	776	Germany: Hessen, Hattersheim am Main	primary	rbcL	50.075833	8.493917	7.81005935645111e-05
+Sagina_micropetala	OK505883.1	22-FEB-2022	776	Germany: Niedersachsen, Northeim	primary	rbcL	52.0994372963209	11.1834950880031	7.81005935645111e-05
+Sagina_micropetala	OK505882.1	22-FEB-2022	776	Germany: Rheinland-Pfalz, Herrstein	primary	rbcL	49.2562542118127	6.48775327198926	7.81005935645111e-05
+Sagina_micropetala	OK505913.1	22-FEB-2022	776	Belgium: Gent, Koopvaardijlaan	secondary	rbcL	51.058332	3.7396352	7.81005935645111e-05
+Sagina_micropetala	OK505912.1	22-FEB-2022	776	United Kingdom: Westmoreland, Gatebeck	secondary	rbcL	51.3788171	-2.3695986	7.81005935645111e-05
+Sagina_micropetala	OK505911.1	22-FEB-2022	777	Germany: Hessen, Schlitz	secondary	rbcL	50.6866279	9.5464764	7.8000078000078e-05
+Sagina_micropetala	OK505908.1	22-FEB-2022	777	United Kingdom: Cambridge	secondary	rbcL	52.8210396260714	-0.379845949024139	7.8000078000078e-05
+Sagina_micropetala	OK505905.1	22-FEB-2022	776	United Kingdom: Cambridge	secondary	rbcL	52.7969122220281	0.610734998046759	7.81005935645111e-05
+Sagina_micropetala	OK505904.1	22-FEB-2022	776	United Kingdom: Cambridge	secondary	rbcL	52.0745415814394	1.29684036655589	7.81005935645111e-05
+Sagina_micropetala	OK505894.1	22-FEB-2022	776	Germany: Hamburg, Hoheluftchaussee	secondary	rbcL	53.5861597	9.968679	7.81005935645111e-05
+Sagina_micropetala	OK505893.1	22-FEB-2022	776	United Kingdom: Cambridge	secondary	rbcL	52.3064873618121	-0.124066918791528	7.81005935645111e-05
+Sagina_micropetala	OK505891.1	22-FEB-2022	776	Germany: Hamburg, Landungsbruecken	secondary	rbcL	53.5452801	9.9674788	7.81005935645111e-05
+Sagina_micropetala	OK505890.1	22-FEB-2022	776	Germany: Rheinland-Pfalz, Mainz-Gonsenheim	secondary	rbcL	49.4822450353328	8.80542221554091	7.81005935645111e-05
+Sagina_micropetala	OK505889.1	22-FEB-2022	776	Germany: Rheinland-Pfalz, Mainz-Gonsenheim	secondary	rbcL	49.4995281263248	8.07881456269904	7.81005935645111e-05
+Sagina_micropetala	OK505887.1	22-FEB-2022	776	Germany: Rheinland-Pfalz, Boppard	secondary	rbcL	50.2312823	7.5885884	7.81005935645111e-05
+Sagina_micropetala	OK505886.1	22-FEB-2022	776	Germany: Rheinland-Pfalz, Schlossboeckelheim	secondary	rbcL	49.8093844	7.7452216	7.81005935645111e-05

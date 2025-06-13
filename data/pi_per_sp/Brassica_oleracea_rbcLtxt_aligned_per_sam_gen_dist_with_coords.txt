@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brassica_oleracea	OR454474.1	23-SEP-2023	513	China: Outside US, SIP, China, Jiangsu, Suzhou, SIP, Wuzhong, purchased from store	primary	rbcL	31.26	120.73	0
+Brassica_oleracea	KX783839.1	31-MAY-2017	552	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	rbcL	31.189	31.189	0
+Brassica_oleracea	KX783838.1	31-MAY-2017	537	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	30.805925322529	29.4522467748897	0
+Brassica_oleracea	KX783837.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	31.4776403865387	30.6864301957514	0
+Brassica_oleracea	KX783836.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	31.6355799191612	29.5292736115506	0
+Brassica_oleracea	KU878847.1	19-MAR-2016	602	USA: Colorado, Castle Pines, 4000 Red Cedar Drive Highlands Ranch 80126-8067	primary	rbcL	39.59	-105.01	0.000299760191846523
+Brassica_oleracea	OR381697.1	30-SEP-2023	553	Canada: Guelph, ON	secondary	rbcL	43.0242886415873	-79.3728210897927	0
+Brassica_oleracea	OR381696.1	30-SEP-2023	553	Canada: Guelph, ON	secondary	rbcL	43.5134793630348	-81.0451018923999	0
+Brassica_oleracea	HQ619736.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0
+Brassica_oleracea	MG249555.1	21-JAN-2018	547	USA: Oregon, Lane Co., Along U.S. Hwy 101, ca. 16.4 S of Waldport or 8.4 mi S of Yachats	secondary	rbcL	42.0147513	-89.3323279	0
+Brassica_oleracea	HM849824.1	23-JUL-2011	692	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000299760191846523
+Brassica_oleracea	JN891540.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.2599618230942	-3.44754715584516	0
+Brassica_oleracea	JN891282.1	07-MAR-2012	525	United Kingdom: Glamorgan	secondary	rbcL	51.8708496419447	-4.5546137698412	0

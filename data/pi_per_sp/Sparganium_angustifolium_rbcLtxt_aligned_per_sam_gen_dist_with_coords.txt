@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sparganium_angustifolium	MG227973.1	23-JAN-2018	552	Canada: Yukon Territory, Pine Creek, Haines Junction	primary	rbcL	60.794	-137.545	0.000231053604436229
+Sparganium_angustifolium	MG227189.1	23-JAN-2018	552	Canada: Yukon Territory, Nisutlin River Delta National Wildlife Area	primary	rbcL	60.242	-132.538	0.000231053604436229
+Sparganium_angustifolium	KC484139.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0.000231053604436229
+Sparganium_angustifolium	JN892542.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.36	-3.9	0.000230627306273063
+Sparganium_angustifolium	LC004550.1	04-DEC-2015	1332	Canada	secondary	rbcL	61.0666922	-107.991707	0.000230627306273063
+Sparganium_angustifolium	LC004549.1	04-DEC-2015	1332	USA	secondary	rbcL	39.7837304	-100.445882	0.000230627306273063
+Sparganium_angustifolium	KT215499.1	31-DEC-2015	1332	USA: Alaska	secondary	rbcL	64.4459613	-149.680909	0.000230627306273063
+Sparganium_angustifolium	JN893591.1	07-MAR-2012	442	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000282805429864253
+Sparganium_angustifolium	JN893590.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00189847546826519

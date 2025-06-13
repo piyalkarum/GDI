@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Petroselinum_crispum	KJ473946.1	01-MAR-2015	854	Morocco	secondary	rps16	27.9945769561695	-10.6359179807666	0
+Petroselinum_crispum	KJ473923.1	01-MAR-2015	829	Morocco	secondary	rps16	28.0498741540311	-10.1551612202898	0
+Petroselinum_crispum	KJ473922.1	01-MAR-2015	834	Morocco	secondary	rps16	29.1292289073215	-10.3427657302727	0
+Petroselinum_crispum	KJ473921.1	01-MAR-2015	833	Morocco	secondary	rps16	28.7991208899492	-9.72958615989642	0

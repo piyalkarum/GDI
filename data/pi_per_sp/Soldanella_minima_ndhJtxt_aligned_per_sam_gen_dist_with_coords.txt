@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Soldanella_minima	KJ365428.1	25-MAY-2014	519	Austria: Carinthia, Koschuta	primary	ndhJ	46.44	14.39	NA
+Soldanella_minima	KJ365427.1	25-MAY-2014	951	Italy: Trentino-Alto Adige, Wolkenstein, Dantercepies	primary	ndhJ	47.11	12.42	0.00163502975267896
+Soldanella_minima	KJ365426.1	25-MAY-2014	954	Austria: Carinthia, Nassfeldpass	primary	ndhJ	46.56	13.3	0.00240663469095056
+Soldanella_minima	KJ365425.1	25-MAY-2014	432	Slovenia: Triglavski Narodni Park, Vrsic Pass	primary	ndhJ	46.85	13.75	NA

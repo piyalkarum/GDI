@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sideritis_scardica	KT315771.1	14-NOV-2017	550	Greece	secondary	rbcL	43.5985732692202	-78.4166625916297	0
+Sideritis_scardica	KT315770.1	14-NOV-2017	532	Greece	secondary	rbcL	43.2034530806907	-78.2937318637606	0
+Sideritis_scardica	KT315769.1	14-NOV-2017	523	Greece	secondary	rbcL	42.4447914537525	-77.9799956023243	0
+Sideritis_scardica	KT315758.1	14-NOV-2017	544	Greece	secondary	rbcL	43.8367144338358	-77.1952545272388	0

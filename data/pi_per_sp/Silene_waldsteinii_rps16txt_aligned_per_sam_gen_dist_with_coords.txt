@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_waldsteinii	KX852500.1	30-SEP-2017	781	Bulgaria	secondary	rps16	47.1875763727158	23.9019627978794	0
+Silene_waldsteinii	KX852499.1	30-SEP-2017	781	Bulgaria	secondary	rps16	46.154050579542	23.0463795105251	0
+Silene_waldsteinii	KX852498.1	30-SEP-2017	781	Macedonia	secondary	rps16	40.5291582217483	-94.6750549353652	0
+Silene_waldsteinii	KX852497.1	30-SEP-2017	781	Macedonia	secondary	rps16	41.825022487688	-95.1580246808089	0
+Silene_waldsteinii	KX852496.1	30-SEP-2017	781	Greece	secondary	rps16	43.2097838	-77.6930602	0

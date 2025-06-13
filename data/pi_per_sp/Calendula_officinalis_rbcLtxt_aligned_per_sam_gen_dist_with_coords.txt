@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calendula_officinalis	MG221325.1	26-DEC-2017	552	Canada: Laval, Que	primary	rbcL	45.5708	-73.6901	0
+Calendula_officinalis	KX783841.1	31-MAY-2017	552	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	rbcL	31.189	31.189	0
+Calendula_officinalis	OR381699.1	30-SEP-2023	553	Canada: Guelph, ON	secondary	rbcL	43.7325467087117	-80.4907315896207	0
+Calendula_officinalis	OR381698.1	30-SEP-2023	553	Canada: Guelph, ON	secondary	rbcL	44.2790262462693	-80.7359394235187	0
+Calendula_officinalis	OQ383624.1	27-JUN-2023	569	India	secondary	rbcL	22.3511148	78.6677428	0
+Calendula_officinalis	HM849835.1	23-JUL-2011	1296	Portugal	secondary	rbcL	39.6621648	-8.1353519	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_auriculata	KF547514.1	09-SEP-2014	362	Armenia: Prov. Sjunik,c. 5km WSW of Meghri	primary	trnL-trnF	38.8736	46.2115	0.00368324125230203
+Arabis_auriculata	HQ646669.1	31-DEC-2011	362	Spain: Prov. Burgos, Villafranca de Montes de Oca	primary	trnL-trnF	42.36	-3.32	0.00184162062615101
+Arabis_auriculata	HQ646668.1	31-DEC-2011	362	Spain: Prov. Zaragoza, Anon, Macizo del Moncayo, Penas de Talamantes.	primary	trnL-trnF	41.72	-1.73	0.00368324125230203
+Arabis_auriculata	HQ646667.1	31-DEC-2011	362	Spain: Prov. Alava, Valdegobia, Mte. Vallegrull.	primary	trnL-trnF	42.84	-3.23	0.00184162062615101

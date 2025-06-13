@@ -1,0 +1,27 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cirsium_arvense	OR526556.1	25-OCT-2023	613	USA: Bishop's Bog Preserve, Portage, MI	primary	rbcL	42.18447216	-85.5914646	0.00119750070402072
+Cirsium_arvense	OR538517.1	17-OCT-2023	614	USA: Brother Rice High School Athletic Fields, Bloomfield Hills, MI	primary	rbcL	42.53497226	-83.25992407	0.00234187725676673
+Cirsium_arvense	OR464842.1	26-SEP-2023	611	USA: Bishop's Bog Preserve, Portage, MI	primary	rbcL	42.1835587	-85.59452073	0.00234950908955722
+Cirsium_arvense	MF694964.1	16-SEP-2018	519	Pakistan: Punjab, Cholistan Desert, Kanchi mor	primary	rbcL	29.189	71.984	0.00124477819546197
+Cirsium_arvense	MG224697.1	26-DEC-2017	552	Canada: Ontario, Kenora District, Dryden	primary	rbcL	49.7833	-92.8333	0.00234026470908595
+Cirsium_arvense	MG223820.1	26-DEC-2017	552	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Meadow Area (Rifle Range)	primary	rbcL	43.2938	-79.8762	0.00191399049667081
+Cirsium_arvense	MG223810.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	47.906	-101.306	0.00234026470908595
+Cirsium_arvense	MG222783.1	26-DEC-2017	552	Canada: Ontario, Norfolk County, Delhi Twp., Intersection of Charlotteville West Quarter Line Road and Charlotteville Road #5	primary	rbcL	42.737	-80.419	0.00191399049667081
+Cirsium_arvense	MG222627.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	48.248	-101.359	0.00191399049667081
+Cirsium_arvense	MG222303.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, Access Point	primary	rbcL	45.185	-81.602	0.00191399049667081
+Cirsium_arvense	MG221434.1	26-DEC-2017	552	Canada: Ontario, Cochrane District, Timmins, NEBIE Block#1, Intensive treatment	primary	rbcL	48.351	-81.301	0.00191399049667081
+Cirsium_arvense	KX678709.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Campbell Lake Forest Service Road	primary	rbcL	50.0463	-125.461	0.00191399049667081
+Cirsium_arvense	KX677810.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, near Whistler, Callagan Creek Forest Service Road	primary	rbcL	50.0722	-123.1	0.00191399049667081
+Cirsium_arvense	HQ590037.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 100 m S of Racing Barn	primary	rbcL	44.029	-79.533	0.00120134353133242
+Cirsium_arvense	KJ841240.1	04-NOV-2014	569	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	rbcL	45.535	-73.149	0.00204635847607475
+Cirsium_arvense	JN893242.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.0011914683474751
+Cirsium_arvense	JN892497.1	07-MAR-2012	542	United Kingdom: Monmouthshire (35)	primary	rbcL	51.5	-3.13	0.0011914683474751
+Cirsium_arvense	MW010948.1	27-JUL-2021	525	Finland	secondary	rbcL	63.2467777	25.9209164	0.00229991091909584
+Cirsium_arvense	MW010947.1	27-JUL-2021	553	Canada: Ontario	secondary	rbcL	50.000678	-86.000977	0.00116755436011428
+Cirsium_arvense	MN601440.1	15-DEC-2019	1428	USA	secondary	rbcL	39.7837304	-100.445882	0.0121995782952971
+Cirsium_arvense	JQ933247.1	30-SEP-2012	1375	Nepal: Sarda Khola	secondary	rbcL	28.2873527	82.2291309	0.0396102123993488
+Cirsium_arvense	KJ204318.1	29-JAN-2015	535	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.0012004300743693
+Cirsium_arvense	JX848406.1	06-AUG-2013	1391	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.0125161042502025
+Cirsium_arvense	HM849897.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0122555519963442
+Cirsium_arvense	JN892782.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0011914683474751
+Cirsium_arvense	JN891429.1	07-MAR-2012	536	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0.00120492998495108

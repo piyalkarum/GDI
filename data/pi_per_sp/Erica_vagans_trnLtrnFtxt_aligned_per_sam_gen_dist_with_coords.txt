@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erica_vagans	KP737493.1	04-MAY-2015	843	Spain	secondary	trnL-trnF	39.880469030846	-4.24353893423314	0
+Erica_vagans	KP737492.1	04-MAY-2015	891	Spain	secondary	trnL-trnF	39.2073599329625	-4.45005265081272	0
+Erica_vagans	KP737491.1	04-MAY-2015	1511	Spain	secondary	trnL-trnF	39.4857298093739	-3.83116943608314	0
+Erica_vagans	KP737490.1	04-MAY-2015	924	United Kingdom	secondary	trnL-trnF	54.7023545	-3.2765753	0

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_subvillosum	LN823669.1	19-APR-2017	832	Morocco:Province Al Hoseima	secondary	rps16	35.245114	-3.930186	0.000802247451343837
+Allium_subvillosum	LN823668.1	19-APR-2017	832	Morocco:Province Tetouan	secondary	rps16	35.4509168	-5.4524951	0.000802247451343837
+Allium_subvillosum	LN823667.1	19-APR-2017	832	Morocco:Province Tanger	secondary	rps16	35.8778315	-5.5144566	0.000802247451343837
+Allium_subvillosum	LN823666.1	19-APR-2017	832	Spain:Mallorca	secondary	rps16	39.613432	2.8829185	0.000802247451343837
+Allium_subvillosum	LN823665.1	19-APR-2017	832	Portugal:Algarve	secondary	rps16	37.298986346031	-9.06609224931864	0.000802247451343837
+Allium_subvillosum	LN823664.1	19-APR-2017	832	Portugal:Algarve	secondary	rps16	36.4869772759789	-8.18134649686683	0.00260561476675934
+Allium_subvillosum	HF934456.1	12-MAY-2015	831	Portugal:Algarve	secondary	rps16	37.1432211430431	-7.07957726336371	0.00261044176706827

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Petromarula_pinnata	MK555934.1	22-SEP-2019	235	Iraq	secondary	matK	33.7513113409426	44.5787433834003	NA
+Petromarula_pinnata	MK555842.1	22-SEP-2019	386	Iraq	secondary	matK	33.389891110427	44.8852717896542	NA
+Petromarula_pinnata	MK555706.1	22-SEP-2019	366	Iraq	secondary	matK	32.9179380327888	43.579806098906	NA
+Petromarula_pinnata	KC455774.1	16-SEP-2013	2458	Greece	secondary	matK	43.6978124070635	-76.9013860226298	0.00129533678756477
+Petromarula_pinnata	KC455773.1	16-SEP-2013	2457	Greece	secondary	matK	42.8098767979082	-77.917167817383	0.00129533678756477

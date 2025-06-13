@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_oppositifolia	MZ359344.1	07-DEC-2021	548	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.00268282301103389
+Saxifraga_oppositifolia	MG247174.1	21-JAN-2018	552	Canada: Yukon Territory, Friday Creek	primary	rbcL	60.417	-135.233	0.00300916022558528
+Saxifraga_oppositifolia	KT960745.1	13-DEC-2015	505	Greenland: NE, Zackenberg	primary	rbcL	75.2977291870015	-19.4547872271968	0.00301734798289717
+Saxifraga_oppositifolia	KT960550.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.0359871861346	-20.2814023647547	0.00276034786683801
+Saxifraga_oppositifolia	KT960485.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.0374525961772	-20.5557290984012	0.00276034786683801
+Saxifraga_oppositifolia	KC484071.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbour	primary	rbcL	61.82	-65.71	0.00276034786683801
+Saxifraga_oppositifolia	KC484070.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, D'Iberville	primary	rbcL	80.6	-79.58	0.00300916022558528
+Saxifraga_oppositifolia	KC484069.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.619	-115.493	0.00300916022558528
+Saxifraga_oppositifolia	KC484068.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Vendom Fiord	primary	rbcL	78.067	-83.3833	0.00300916022558528
+Saxifraga_oppositifolia	KC484067.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Caledonian Bay, along N side of Danish River	primary	rbcL	79.95	-81.2	0.00300916022558528
+Saxifraga_oppositifolia	KC484066.1	25-OCT-2013	551	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. The Bluff, approximately 6 km NW of Sanikiluaq, halfway up west peninsula	primary	rbcL	56.647	-79.364	0.00266882220948075
+Saxifraga_oppositifolia	KC484065.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vicinity of Holman Island Airport, Uluhaktok	primary	rbcL	70.758	-117.79	0.00300916022558528
+Saxifraga_oppositifolia	KC484064.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Camp 13 km north of Oterkvik Point, 10 km north of coast at Coronation gulf, lower camp area and vicinity to the south	primary	rbcL	68.739	-112.625	0.00300916022558528
+Saxifraga_oppositifolia	KC484063.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	rbcL	68.064	-121.603	0.00300916022558528
+Saxifraga_oppositifolia	KC484062.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.913	-109.587	0.00477552115876634
+Saxifraga_oppositifolia	KC484061.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk. Behind Northern Store/Hotel/Parks Canada building (Paulatuk Centre)	primary	rbcL	69.467	-124.211	0.00300916022558528
+Saxifraga_oppositifolia	JN965986.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 5 km E Churchill, Miss Piggy, Dryas heath	primary	rbcL	58.76	-94.088	0.00276034786683801
+Saxifraga_oppositifolia	JN891054.1	07-MAR-2012	542	United Kingdom: Sutherland, West (108)	primary	rbcL	58.51	-4.39	0.00212227577912342
+Saxifraga_oppositifolia	MK925276.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.908095905981	-3.51296482504332	0.00322466250651669
+Saxifraga_oppositifolia	MK925262.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8296842166382	-4.46741756399984	0.00322466250651669
+Saxifraga_oppositifolia	MK925136.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3599306524472	-3.12751632513177	0.00322466250651669
+Saxifraga_oppositifolia	MK925077.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1384787305731	-2.91191577646122	0.00212227577912342
+Saxifraga_oppositifolia	MK925060.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0219214847065	-3.55113186178046	0.00322466250651669
+Saxifraga_oppositifolia	MK924838.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1323231301249	-2.90413584660243	0.00322466250651669
+Saxifraga_oppositifolia	MK924773.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4562893651254	-4.14176309196092	0.00212227577912342
+Saxifraga_oppositifolia	MK924581.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.486031553085	-1.79726707866291	0.00322466250651669
+Saxifraga_oppositifolia	MK924537.1	14-JAN-2020	542	Svalbard	secondary	rbcL	78.7198519	20.3493328	0.00212227577912342
+Saxifraga_oppositifolia	MK924524.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0.00212227577912342

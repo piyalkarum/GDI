@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_acetosella	OR464948.1	26-SEP-2023	906	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	41.5828192959675	-86.3369813871348	0.00196362206980291
+Rumex_acetosella	OR464947.1	26-SEP-2023	846	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.5193363970746	-84.5091125351773	0.00208975004478938
+Rumex_acetosella	MG220895.1	21-JAN-2018	780	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #6 trail	primary	matK	43.097	-79.281	0.00230366078962081
+Rumex_acetosella	MG220877.1	21-JAN-2018	690	Canada: Ontario, Parry Sound District, French River	primary	matK	46.0251	-80.5779	0.00379664831064631
+Rumex_acetosella	JN895758.1	07-MAR-2012	753	United Kingdom: Sussex, West (13)	primary	matK	51	-0.7	0.00235293553702545
+Rumex_acetosella	OQ289923.1	16-MAY-2023	805	Mexico: Puebla	secondary	matK	19.1710098	-98.4125121	0.00446348582136092
+Rumex_acetosella	KX821282.1	02-SEP-2017	801	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.1333253976847	7.73921543527371	0.00217225570020782
+Rumex_acetosella	KX821283.1	02-SEP-2017	801	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	57.2435625064581	8.78505597920732	0.00217225570020782
+Rumex_acetosella	KJ746190.1	29-JUL-2014	702	Poland	secondary	matK	52.215933	19.134422	0.00472837347837348
+Rumex_acetosella	HM851080.1	23-JUL-2011	389	Portugal	secondary	matK	39.6621648	-8.1353519	0.0156007265829192
+Rumex_acetosella	JN893966.1	07-MAR-2012	774	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.00231024760271043

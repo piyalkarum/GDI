@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lythrum_salicaria	OQ418638.1	03-JUL-2023	617	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	rbcL	42.26589581	-85.63947564	0.000237726629713032
+Lythrum_salicaria	MG249698.1	21-JAN-2018	552	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Grindstone Creek	primary	rbcL	43.296	-79.872	0.000123762376237624
+Lythrum_salicaria	MG248976.1	21-JAN-2018	553	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., SE edge of pond.	primary	rbcL	43.9283	-79.5283	0.000123517786561265
+Lythrum_salicaria	MG247791.1	21-JAN-2018	552	Canada: Saskatchewan, South Saskatchewan River, Saskatoon, below Spadina Cres.	primary	rbcL	52.129	-106.654	0.000123762376237624
+Lythrum_salicaria	MG247047.1	21-JAN-2018	522	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.765	-80.303	0.000131578947368421
+Lythrum_salicaria	MG246659.1	21-JAN-2018	552	Canada: Manitoba, Winnipeg, near airport	primary	rbcL	49.901	-97.198	0.000123762376237624
+Lythrum_salicaria	MF349292.1	21-SEP-2017	553	USA: Virginia; Bike path along GW Pkwy- Daingerfield Island Marina along the bike path and picnic area	primary	rbcL	38.831	-77.043	0.000123517786561265
+Lythrum_salicaria	KX678272.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Pitt Lake boat launch	primary	rbcL	49.349	-122.616	0.000123762376237624
+Lythrum_salicaria	KT695529.1	29-SEP-2015	506	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.4188042698044	-79.5218505049489	0.001878500308077
+Lythrum_salicaria	KT695462.1	29-SEP-2015	549	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.5381062106583	-79.3566781399926	0.000123517786561265
+Lythrum_salicaria	KT695411.1	29-SEP-2015	512	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.6298154174152	-79.3711006406592	0.000123517786561265
+Lythrum_salicaria	KJ841404.1	04-NOV-2014	568	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Beside creek near end of hydroline	primary	rbcL	45.537	-73.155	0.000353129761300152
+Lythrum_salicaria	JN893193.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	52.04	-4.55	0.000123517786561265
+Lythrum_salicaria	MT931740.1	03-MAR-2023	565	China	secondary	rbcL	34.7539921549605	104.32874539658	0.000123517786561265
+Lythrum_salicaria	MK895584.1	30-JUN-2019	465	China	secondary	rbcL	35.0717860554555	104.952795531994	0.000134408602150538
+Lythrum_salicaria	LC413498.1	31-JUL-2018	262	Japan:Aichi, Chita	secondary	rbcL	34.970089	136.860738	0
+Lythrum_salicaria	KC584891.1	04-JUN-2013	685	Italy: Umbria	secondary	rbcL	42.965916	12.490236	0.000244724092704545

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_serotina	MT929909.1	03-MAR-2023	793	China	secondary	matK	35.000074	104.999927	0.0012701447247126
+Gagea_serotina	MK926005.1	14-JAN-2020	905	United Kingdom	secondary	matK	54.5880777851545	-3.13410468308485	0.00116451014816097
+Gagea_serotina	MK925774.1	14-JAN-2020	898	United Kingdom	secondary	matK	55.1044308239279	-1.92635943175638	0.00116789917076041
+Gagea_serotina	MK925639.1	14-JAN-2020	895	United Kingdom	secondary	matK	54.0710193676797	-4.01273542398908	0.00117238901581822

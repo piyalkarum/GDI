@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Echium_vulgare	MG224882.1	21-JAN-2018	775	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	matK	45.19	-81.42	0.0023719165085389
+Echium_vulgare	JN895098.1	07-MAR-2012	809	United Kingdom: Glamorgan	primary	matK	51.46	-3.16	0.00236294896030246
+Echium_vulgare	AY092893.1	29-JUN-2002	874	New Zealand	secondary	matK	-41.5000831	172.8344077	0.00924522711045046
+Echium_vulgare	KJ746184.1	29-JUL-2014	693	Poland	secondary	matK	52.215933	19.134422	0.00217391304347826
+Echium_vulgare	JN895549.1	07-MAR-2012	776	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00233644859813084

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sibbaldia_procumbens	MG247398.1	21-JAN-2018	523	Canada: Yukon Territory, Richardson Mountains, tributary of Fish Creek, S of Vunta Creek	primary	rbcL	67.895	-136.562	0.00226440670657844
+Sibbaldia_procumbens	MG246259.1	21-JAN-2018	552	Canada: Yukon Territory, Leaf Lake, Danthonia site	primary	rbcL	60.692	-131.919	0.000508754478911805
+Sibbaldia_procumbens	KT960032.1	06-DEC-2015	552	Greenland: NE, Ittoqqotoormiit	primary	rbcL	70.4833	-21.9667	0.000508754478911805
+Sibbaldia_procumbens	KC484096.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq, along bay west of hamlet	primary	rbcL	56.586	-79.253	0.000508754478911805
+Sibbaldia_procumbens	LC759971.1	12-SEP-2023	553	Japan:Yamanashi, Minami-alps	secondary	rbcL	35.6083617	138.4649893	0.000508456666285979
+Sibbaldia_procumbens	MN192858.1	30-NOV-2021	722	China	secondary	rbcL	35.000074	104.999927	0.00235168118911582
+Sibbaldia_procumbens	MK925418.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3711234101523	-3.2847723564565	0.000511793046846891
+Sibbaldia_procumbens	MK925289.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8279898643071	-3.84740648012693	0.000511793046846891
+Sibbaldia_procumbens	MK925073.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1216572181178	-3.60960140306543	0.000511793046846891
+Sibbaldia_procumbens	MK924843.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0.000511793046846891
+Sibbaldia_procumbens	MK924582.1	14-JAN-2020	538	United Kingdom	secondary	rbcL	54.0170839161183	-3.61833690308324	0.00239146452317785
+Sibbaldia_procumbens	MK924448.1	14-JAN-2020	542	Norway	secondary	rbcL	64.5731537	11.5280364	0.000511793046846891

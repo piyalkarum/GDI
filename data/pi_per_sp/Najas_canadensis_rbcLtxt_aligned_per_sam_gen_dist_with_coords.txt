@@ -1,0 +1,49 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Najas_canadensis	KM502112.1	27-OCT-2014	1138	USA: Wisconsin, Waukesha Co. Upper Genesee Lake	secondary	rbcL	43.0576152	-88.4657878	0.000280447219833227
+Najas_canadensis	KM502111.1	27-OCT-2014	1138	USA: Washington, Spokane Co. Newman Lake	secondary	rbcL	47.7241586	-117.0689244	0.000280447219833227
+Najas_canadensis	KM502110.1	27-OCT-2014	1138	USA: Washington, Grant Co. Burke Lake	secondary	rbcL	47.1337595	-119.9185687	0.000280447219833227
+Najas_canadensis	KM502109.1	27-OCT-2014	1138	USA: Vermont, Caledonia Co. Keiser Pond	secondary	rbcL	44.3865375	-72.1684408	0.000280447219833227
+Najas_canadensis	KM502108.1	27-OCT-2014	1138	USA: Rhode Island, Providence Co. Difonzo Recreation Area Pond	secondary	rbcL	41.5524601	-71.2704553408241	0.0006169838836331
+Najas_canadensis	KM502107.1	27-OCT-2014	1138	USA: Pennsylvania, Wayne Co. Bone Pond	secondary	rbcL	41.8278785	-75.4234954	0.0006169838836331
+Najas_canadensis	KM502106.1	27-OCT-2014	1138	USA: Pennsylvania, Pike Co. Wolf Lake	secondary	rbcL	41.5312213	-75.1071548	0.0006169838836331
+Najas_canadensis	KM502105.1	27-OCT-2014	1138	USA: Pennsylvania, Pike Co. Porters Lake	secondary	rbcL	41.2515924	-75.0593493	0.0006169838836331
+Najas_canadensis	KM502104.1	27-OCT-2014	1138	USA: Pennsylvania, Lackawanna Co. Mud Pond	secondary	rbcL	41.611126	-75.678033	0.000280447219833227
+Najas_canadensis	KM502103.1	27-OCT-2014	1138	USA: Pennsylvania, Lackawanna Co. Moosic Lake	secondary	rbcL	41.4205474	-75.5110894	0.000280447219833227
+Najas_canadensis	KM502102.1	27-OCT-2014	1138	USA: Pennsylvania, Berks Co. Scotts Run Lake	secondary	rbcL	40.2108973	-75.7995219	0.000280447219833227
+Najas_canadensis	KM502101.1	27-OCT-2014	1138	USA: Ohio, Portage Co. M. J. Kirwan Reservoir	secondary	rbcL	41.5575349	-89.4609276	0.000280447219833227
+Najas_canadensis	KM502100.1	27-OCT-2014	1138	USA: Ohio, Pike Co. Pike Lake	secondary	rbcL	39.1609155	-83.2198665	0.000280447219833227
+Najas_canadensis	KM502099.1	27-OCT-2014	1138	USA: New York, Westchester Co. Rippowam Lake	secondary	rbcL	41.2999637	-73.5607802	0.000280447219833227
+Najas_canadensis	KM502098.1	27-OCT-2014	1138	USA: New York, Westchester Co. Oscaleta Lake	secondary	rbcL	41.2965057	-73.5609862	0.000280447219833227
+Najas_canadensis	KM502097.1	27-OCT-2014	1138	USA: New York, Suffolk Co. Smithtown	secondary	rbcL	40.8559314	-73.2006687	0.0006169838836331
+Najas_canadensis	KM502096.1	27-OCT-2014	1138	USA: New York, St. Lawrence Co. Parishville	secondary	rbcL	44.62884	-74.813805	0.0006169838836331
+Najas_canadensis	KM502095.1	27-OCT-2014	1138	USA: New York, Madison Co. Lake Moraine	secondary	rbcL	42.8561069	-75.5187036	0.000280447219833227
+Najas_canadensis	KM502094.1	27-OCT-2014	1138	USA: New York, Greene Co. Catskill	secondary	rbcL	42.2173102	-73.8645734	0.000280447219833227
+Najas_canadensis	KM502093.1	27-OCT-2014	1138	USA: New York, Columbia Co. Hudson River	secondary	rbcL	42.3184292	-73.7789738	0.000280447219833227
+Najas_canadensis	KM502092.1	27-OCT-2014	1138	USA: New York, Clinton Co. Chateaugay Lake	secondary	rbcL	44.7406537	-73.9648274	0.000280447219833227
+Najas_canadensis	KM502091.1	27-OCT-2014	1138	USA: New York, Albany Co. Hudson River	secondary	rbcL	42.6499923	-73.749499	0.000280447219833227
+Najas_canadensis	KM502090.1	27-OCT-2014	1138	USA: New Hampshire, Carroll Co. Ossipee Lake	secondary	rbcL	44.3803445526048	-71.0081809813337	0.0006169838836331
+Najas_canadensis	KM502089.1	27-OCT-2014	1138	USA: New Hampshire, Carroll Co. Ossipee Lake	secondary	rbcL	43.3465429990175	-72.0138095179904	0.0006169838836331
+Najas_canadensis	KM502088.1	27-OCT-2014	1138	USA: New Hampshire, Carroll Co. Ossipee Lake	secondary	rbcL	44.0929417738527	-70.3899294459639	0.0006169838836331
+Najas_canadensis	KM502087.1	27-OCT-2014	1138	USA: New Hampshire, Carroll Co. Ossipee Lake	secondary	rbcL	44.4610546411867	-70.9425813135015	0.0006169838836331
+Najas_canadensis	KM502086.1	27-OCT-2014	1138	USA: New Hampshire, Carroll Co. Ossipee Lake	secondary	rbcL	43.3335646155404	-71.2955785015801	0.0006169838836331
+Najas_canadensis	KM502085.1	27-OCT-2014	1138	USA: Minnesota, Wright Co. Charlotte Lake	secondary	rbcL	45.1510999	-93.7479974	0.000280447219833227
+Najas_canadensis	KM502084.1	27-OCT-2014	1138	USA: Minnesota, St. Louis Co. Minister Lake	secondary	rbcL	47.9522703	-91.9172699	0.000280447219833227
+Najas_canadensis	KM502083.1	27-OCT-2014	1138	USA: Minnesota, Itasca Co. Sand Lake	secondary	rbcL	47.1410326	-93.3061579	0.000280447219833227
+Najas_canadensis	KM502082.1	27-OCT-2014	1138	USA: Minnesota, Hubbard Co. Wabisish Lake	secondary	rbcL	47.1235501	-95.1153631	0.000280447219833227
+Najas_canadensis	KM502081.1	27-OCT-2014	1138	USA: Minnesota, Hennepin Co. Rebecca Lake	secondary	rbcL	45.0713786	-93.7468316	0.000280447219833227
+Najas_canadensis	KM502080.1	27-OCT-2014	1138	USA: Minnesota, Cass Co. Three Island Lake	secondary	rbcL	46.9567878	-94.4786549	0.000280447219833227
+Najas_canadensis	KM502079.1	27-OCT-2014	1138	USA: Michigan, Van Buren Co. Maple Lake	secondary	rbcL	42.226534	-85.8912599	0.000280447219833227
+Najas_canadensis	KM502078.1	27-OCT-2014	1138	USA: Michigan, Oakland Co. Square Lake	secondary	rbcL	42.6095002	-83.3117351	0.000280447219833227
+Najas_canadensis	KM502077.1	27-OCT-2014	1138	USA: Maryland, Allegany Co. Lake Habeeb	secondary	rbcL	39.7061561	-78.6479358	0.000280447219833227
+Najas_canadensis	KM502076.1	27-OCT-2014	1138	USA: Maine, Penobscot Co. Pushaw Lake	secondary	rbcL	44.9374624	-68.7994795	0.0006169838836331
+Najas_canadensis	KM502075.1	27-OCT-2014	1138	USA: Maine, Cumberland Co. Forest Lake	secondary	rbcL	43.8230645	-70.3300939	0.0006169838836331
+Najas_canadensis	KM502074.1	27-OCT-2014	1138	USA: Maine, Aroostook Co. Little Black Lake	secondary	rbcL	47.0131189	-67.8928904	0.000280447219833227
+Najas_canadensis	KM502073.1	27-OCT-2014	1138	USA: Illinois, Lake Co. Druce Lake	secondary	rbcL	42.3716883	-88.0025784	0.000280447219833227
+Najas_canadensis	KM502072.1	27-OCT-2014	1138	USA: Illinois, DeKalb Co. Shabbona Lake	secondary	rbcL	41.7453108	-88.8573344	0.000280447219833227
+Najas_canadensis	KM502071.1	27-OCT-2014	1138	USA: Idaho, Valley Co. Payette Lake	secondary	rbcL	44.9527959	-116.0896816	0.000280447219833227
+Najas_canadensis	KM502070.1	27-OCT-2014	1138	USA: Idaho, Kootenai Co. Avondale Lake	secondary	rbcL	47.7734607	-116.7552575	0.000280447219833227
+Najas_canadensis	KM502069.1	27-OCT-2014	1138	USA: Connecticut, Windham Co. Knowlton Pond	secondary	rbcL	41.2348388834143	-72.9170188479289	0.0006169838836331
+Najas_canadensis	KM502068.1	27-OCT-2014	1138	USA: Connecticut, New London Co. Lantern Hill Pond	secondary	rbcL	42.1857270870763	-74.299538659885	0.0006169838836331
+Najas_canadensis	KM502066.1	27-OCT-2014	1138	United Kingdom: Scotland, Inner Hebrides, Islay. Glenastle Loch	secondary	rbcL	52.8609703	-0.5098637	0.000280447219833227
+Najas_canadensis	KM502065.1	27-OCT-2014	1138	Ireland: Munster, Co. Kerry. Lough Leane	secondary	rbcL	52.0374548	-9.5611428	0.000280447219833227
+Najas_canadensis	KM502064.1	27-OCT-2014	1138	Ireland: Connacht, Co. Galway. Lough Caragh	secondary	rbcL	54.1755525	-8.39007492011805	0.000280447219833227

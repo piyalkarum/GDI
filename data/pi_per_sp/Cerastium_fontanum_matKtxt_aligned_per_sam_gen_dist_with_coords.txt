@@ -1,0 +1,27 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_fontanum	MG220874.1	21-JAN-2018	774	Canada: Ontario, Kenora District, Dryden Township, Dryden, outside of NEBIE Block #1	primary	matK	49.639	-92.779	0.00279280762990454
+Cerastium_fontanum	MG220736.1	21-JAN-2018	773	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, South Point Trail, Rondeau Road trailhead parking lot	primary	matK	42.279	-81.861	0.00279344780105183
+Cerastium_fontanum	MG220687.1	21-JAN-2018	771	Canada: Ontario, Cochrane District, Timmins, NEBIE Block#1, Elite treatment	primary	matK	48.351	-81.302	0.00279473328814245
+Cerastium_fontanum	HQ593228.1	09-NOV-2011	776	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Edge of road to racing track	primary	matK	44.032	-79.534	0.00279247944896284
+Cerastium_fontanum	KP402332.1	06-JAN-2016	740	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, outside of Mathias by lamp post	primary	matK	38.889	-76.554	0.044165780603978
+Cerastium_fontanum	JN893959.1	07-MAR-2012	824	United Kingdom: Cardiganshire	primary	matK	52.52	-4.05	0.00277519473447305
+Cerastium_fontanum	OQ172333.1	18-JUN-2023	770	South Korea	secondary	matK	37.2261680553846	127.984838819799	0.00269554402298054
+Cerastium_fontanum	OQ172332.1	18-JUN-2023	770	South Korea	secondary	matK	36.2248805780637	128.592312070927	0.00269554402298054
+Cerastium_fontanum	OQ172331.1	18-JUN-2023	770	South Korea	secondary	matK	36.8145692483646	127.613912931486	0.00269554402298054
+Cerastium_fontanum	OQ172330.1	18-JUN-2023	770	South Korea	secondary	matK	37.2071325144377	127.749297832217	0.00269554402298054
+Cerastium_fontanum	OQ172329.1	18-JUN-2023	770	South Korea	secondary	matK	36.1676142343757	126.936545570667	0.00269554402298054
+Cerastium_fontanum	OQ172328.1	18-JUN-2023	770	South Korea	secondary	matK	36.8176154674607	126.659655975562	0.00269554402298054
+Cerastium_fontanum	OQ172327.1	18-JUN-2023	770	South Korea	secondary	matK	37.1203561529825	127.675456424017	0.00269554402298054
+Cerastium_fontanum	LC727812.1	09-MAR-2023	915	Japan:Nagano, Ooshikamura	secondary	matK	35.5782487	138.0340205	0.00273733530478876
+Cerastium_fontanum	LC727802.1	09-MAR-2023	831	Japan:Nagano, Matsumoto	secondary	matK	36.2382047	137.9687141	0.0026614702791088
+Cerastium_fontanum	OQ263168.1	23-AUG-2023	921	China: Kanas, Xinjiang	secondary	matK	49.1713511	87.7945375	0.00285174255794604
+Cerastium_fontanum	OQ172326.1	18-JUN-2023	770	South Korea	secondary	matK	37.2163799317723	127.285906428296	0.00269554402298054
+Cerastium_fontanum	OQ172325.1	18-JUN-2023	770	South Korea	secondary	matK	36.8484341473619	127.833326590961	0.00389807108586678
+Cerastium_fontanum	MN273644.1	30-NOV-2021	788	China	secondary	matK	34.9182663423265	105.172224317778	0.00268069586662801
+Cerastium_fontanum	MN273643.1	30-NOV-2021	781	China	secondary	matK	35.6282985156531	105.678864506195	0.00268174108386282
+Cerastium_fontanum	KX821261.1	02-SEP-2017	792	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	57.4113006768868	7.16653536594082	0.0027855884935186
+Cerastium_fontanum	KX821262.1	02-SEP-2017	792	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.7589613395585	7.75989938789233	0.0027855884935186
+Cerastium_fontanum	KX821263.1	02-SEP-2017	792	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	57.2136825281323	9.28400352301129	0.0027855884935186
+Cerastium_fontanum	KX821264.1	02-SEP-2017	792	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.4824032966774	8.36746777645038	0.0027855884935186
+Cerastium_fontanum	HM850786.1	23-JUL-2011	807	Portugal	secondary	matK	39.6621648	-8.1353519	0.00931167169801337
+Cerastium_fontanum	JN894934.1	07-MAR-2012	788	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00278750841740634

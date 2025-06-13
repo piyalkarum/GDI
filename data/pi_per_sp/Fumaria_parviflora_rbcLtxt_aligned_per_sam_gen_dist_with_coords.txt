@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fumaria_parviflora	OP711269.1	26-DEC-2022	570	Mexico: Puebla	secondary	rbcL	19.1705686	-98.4123106	0.000383141762452107
+Fumaria_parviflora	MK925296.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8797535926771	-4.27320682531516	0.000383141762452107
+Fumaria_parviflora	MK925033.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5185473325591	-3.60318006730129	0.000383141762452107
+Fumaria_parviflora	MK924882.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7590674320597	-4.2218189100118	0.000383141762452107
+Fumaria_parviflora	MK924476.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1722512139361	-3.31514959097236	0.000383141762452107
+Fumaria_parviflora	KX282754.1	28-MAY-2017	522	Kuwait	secondary	rbcL	29.3796532	47.9734174	0.00191570881226054

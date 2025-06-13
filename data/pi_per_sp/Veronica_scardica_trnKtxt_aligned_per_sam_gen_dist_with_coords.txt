@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_scardica	KJ829425.1	31-MAY-2015	853	Turkey	secondary	trnK	38.7502756986	35.7190206342099	0.15012350279665
+Veronica_scardica	KJ829424.1	31-MAY-2015	858	Egypt	secondary	trnK	26.2540493	29.2675469	0.0611337430148187
+Veronica_scardica	KJ829423.1	31-MAY-2015	890	Austria	secondary	trnK	36.9148511	-4.7534501	0.0536442739644798
+Veronica_scardica	KJ829422.1	31-MAY-2015	884	Turkey	secondary	trnK	39.1820018376457	35.9756107555894	0.0534763677103846

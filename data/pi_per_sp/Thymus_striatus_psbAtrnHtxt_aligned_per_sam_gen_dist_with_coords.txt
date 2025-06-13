@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_striatus	HE819450.1	22-MAY-2013	412	Italy:Toscana	primary	psbA-trnH	43.92	11.07	0.0169902912621359
+Thymus_striatus	HE819449.1	22-MAY-2013	412	Italy:Toscana	primary	psbA-trnH	43.64	12.04	0.0280910535853488
+Thymus_striatus	HE819448.1	22-MAY-2013	431	Italy:Toscana	primary	psbA-trnH	43.43	10.61	0.0218539403572357
+Thymus_striatus	HE819447.1	22-MAY-2013	413	Italy:Calabria	primary	psbA-trnH	39.91	16.15	0.022532313535949
+Thymus_striatus	HE819446.1	22-MAY-2013	411	Italy:Basilicata	primary	psbA-trnH	40.15	15.83	0.0170316301703163
+Thymus_striatus	HE819445.1	22-MAY-2013	413	Italy:Marche	primary	psbA-trnH	43.64	12.71	0.0190514291643131
+Thymus_striatus	HE819444.1	22-MAY-2013	418	Italy:Abruzzo	primary	psbA-trnH	42.29	13.47	0.0190783279508388
+Thymus_striatus	HE819443.1	22-MAY-2013	414	Italy:Lazio	primary	psbA-trnH	42.22	12.97	0.0211453428129821

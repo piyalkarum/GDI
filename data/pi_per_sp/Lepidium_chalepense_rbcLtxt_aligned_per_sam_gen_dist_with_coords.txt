@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lepidium_chalepense	OR738044.1	13-NOV-2023	542	Kazakhstan: Mangistau region	primary	rbcL	43.47008	52.03014	0
+Lepidium_chalepense	OR737988.1	13-NOV-2023	542	Kazakhstan: Atyrau region	primary	rbcL	46.31201	55.29419	0
+Lepidium_chalepense	KX678941.1	29-APR-2017	548	Canada: British Columbia, Okanagan-Similkameen Regional District, north of Osoyoos, Haynes Ranch Protected Area	primary	rbcL	49.089	-119.536	0
+Lepidium_chalepense	KX678221.1	29-APR-2017	552	Canada: British Columbia, Central Okanagan Regional District, Kelowna, Quail Ridge Blvd. at sharp bend in the road	primary	rbcL	49.962	-119.388	0
+Lepidium_chalepense	MT930734.1	03-MAR-2023	568	China	secondary	rbcL	35.000074	104.999927	0

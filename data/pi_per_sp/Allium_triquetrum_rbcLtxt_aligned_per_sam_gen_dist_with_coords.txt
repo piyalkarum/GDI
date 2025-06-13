@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_triquetrum	HF934238.1	12-MAY-2015	643	Tunisia	secondary	rbcL	36.8002068	10.1857757	0.143376413570275
+Allium_triquetrum	HF934237.1	12-MAY-2015	643	Spain	secondary	rbcL	40.0445678974885	-4.53997127884668	0.143376413570275
+Allium_triquetrum	HF934236.1	12-MAY-2015	643	Greece	secondary	rbcL	43.2097838	-77.6930602	0.143376413570275
+Allium_triquetrum	HF934235.1	12-MAY-2015	643	Spain	secondary	rbcL	39.7516069742725	-5.64971519445555	0.143376413570275
+Allium_triquetrum	HM849755.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.573505654281099

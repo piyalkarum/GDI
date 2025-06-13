@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_acetosella	OR464864.1	26-SEP-2023	611	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28834622	-85.61947067	0.000105988341282459
+Rumex_acetosella	MG249753.1	21-JAN-2018	552	Canada: British Columbia, Bennett	primary	rbcL	59.844	-134.997	0
+Rumex_acetosella	MG248169.1	21-JAN-2018	552	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #6 trail	primary	rbcL	43.097	-79.281	0
+Rumex_acetosella	MG248164.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Victoria, Fernwood	primary	rbcL	48.437	-123.343	0
+Rumex_acetosella	MG248028.1	21-JAN-2018	549	Canada: Ontario, Parry Sound District, French River	primary	rbcL	46.0251	-80.5779	0
+Rumex_acetosella	HQ590250.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., 100 m W ot Bathurst, edge of S-most trail	primary	rbcL	44.036	-79.518	0.000105042016806723
+Rumex_acetosella	KT960695.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.2336571852038	-21.6698560930363	0
+Rumex_acetosella	KT960582.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.7464993434909	-20.5278310044091	0
+Rumex_acetosella	KT960570.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.9765769207724	-19.0138910729383	0
+Rumex_acetosella	KJ841531.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0
+Rumex_acetosella	JN893152.1	07-MAR-2012	542	United Kingdom: Sussex, West (13)	primary	rbcL	51	-0.7	0
+Rumex_acetosella	OP711278.1	26-DEC-2022	571	Mexico: Puebla	secondary	rbcL	19.1710098	-98.4125121	0.000643032938531342
+Rumex_acetosella	KX821241.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.7272123427449	7.4539357494359	0.000106757766627522
+Rumex_acetosella	KX821240.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.4788587715695	8.99041424560449	0.000106757766627522
+Rumex_acetosella	KJ746306.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00011015642211941
+Rumex_acetosella	HM850316.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000108330625067707
+Rumex_acetosella	JN893332.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0
+Rumex_acetosella	JN893123.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

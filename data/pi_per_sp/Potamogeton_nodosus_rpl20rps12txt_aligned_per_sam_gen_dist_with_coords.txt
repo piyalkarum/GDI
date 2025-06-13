@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_nodosus	HQ263461.1	21-MAR-2011	773	USA: New York State	secondary	rpl20-rps12	43.1561681	-75.8449946	0
+Potamogeton_nodosus	HQ263460.1	21-MAR-2011	772	USA: Michigan	secondary	rpl20-rps12	43.6211955	-84.6824346	0
+Potamogeton_nodosus	FJ883548.1	03-MAY-2009	773	USA: Vermont	secondary	rpl20-rps12	44.5990718	-72.5002608	0
+Potamogeton_nodosus	FJ883547.1	03-MAY-2009	772	France	secondary	rpl20-rps12	46.603354	1.8883335	0
+Potamogeton_nodosus	FJ883546.1	03-MAY-2009	774	Czech Republic	secondary	rpl20-rps12	49.7439047	15.3381061	0
+Potamogeton_nodosus	FJ883611.1	26-APR-2009	745	Poland: S Poland, Wierzchoslawice	secondary	rpl20-rps12	50.3020842	18.9630335372171	0
+Potamogeton_nodosus	FJ883613.1	26-APR-2009	745	Poland	secondary	rpl20-rps12	50.7506372	17.5954374	0
+Potamogeton_nodosus	FJ883612.1	26-APR-2009	745	Poland	secondary	rpl20-rps12	50.4904352	22.2625676	0

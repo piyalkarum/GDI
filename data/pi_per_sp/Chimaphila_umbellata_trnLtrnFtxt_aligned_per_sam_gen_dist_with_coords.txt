@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chimaphila_umbellata	KR005228.1	16-SEP-2015	771	USA: South Dakota	secondary	trnL-trnF	45.4354038525139	-99.9707306265185	0.00415449660585847
+Chimaphila_umbellata	KR005227.1	16-SEP-2015	787	USA: South Dakota	secondary	trnL-trnF	45.4427594721209	-99.8871204560017	0.00408503743766931
+Chimaphila_umbellata	KR005226.1	16-SEP-2015	786	USA: South Dakota	secondary	trnL-trnF	44.8876666276874	-99.8602002819298	0.00255637501728715
+Chimaphila_umbellata	KR005225.1	16-SEP-2015	785	USA: Michigan	secondary	trnL-trnF	43.2901880476713	-84.8662867101933	0.0025676234593432
+Chimaphila_umbellata	KR005224.1	16-SEP-2015	785	USA: Michigan	secondary	trnL-trnF	42.897113115692	-85.0775837211658	0.0025676234593432
+Chimaphila_umbellata	KR005223.1	16-SEP-2015	785	USA: Michigan	secondary	trnL-trnF	43.3097755201607	-85.5821735476501	0.0025676234593432

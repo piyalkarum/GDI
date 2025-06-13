@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_spathacea	AM409347.1	02-NOV-2006	364	Italy	secondary	psbA-trnH	42.1127772001064	12.7715861863368	0
+Gagea_spathacea	FR691844.1	02-JUL-2012	267	Netherlands	secondary	psbA-trnH	52.2434979	5.6343227	0
+Gagea_spathacea	FR691843.1	02-JUL-2012	267	Germany:Thuringia	secondary	psbA-trnH	50.5654554146069	10.6034249991199	0
+Gagea_spathacea	FR691842.1	02-JUL-2012	267	Germany:Thuringia	secondary	psbA-trnH	51.4078763658013	10.2716479411424	0
+Gagea_spathacea	FR691841.1	02-JUL-2012	267	Germany:Schleswig-Holstein	secondary	psbA-trnH	54.3942094946221	9.52261160127287	0
+Gagea_spathacea	FR691840.1	02-JUL-2012	267	Germany:Schleswig-Holstein	secondary	psbA-trnH	53.6455944183927	9.33310503405935	0
+Gagea_spathacea	FR691839.1	02-JUL-2012	267	Germany:Lower Saxony	secondary	psbA-trnH	52.9918229700298	9.00831017663829	0
+Gagea_spathacea	FR691838.1	02-JUL-2012	267	Germany:Lower Saxony	secondary	psbA-trnH	52.7643896185434	7.88546425667769	0
+Gagea_spathacea	FR691837.1	02-JUL-2012	267	Germany:Lower Saxony	secondary	psbA-trnH	52.2441792058339	8.22078585908448	0
+Gagea_spathacea	FR691836.1	02-JUL-2012	267	Germany:Lower Saxony	secondary	psbA-trnH	52.2347678976806	9.93422054196053	0
+Gagea_spathacea	FR691835.1	02-JUL-2012	267	Germany:Mecklenburg-Western Pomerania	secondary	psbA-trnH	54.5931819271112	13.4835039709648	0
+Gagea_spathacea	FR691834.1	02-JUL-2012	267	Germany:Mecklenburg-Western Pomerania	secondary	psbA-trnH	53.8264541547589	14.2307347854719	0
+Gagea_spathacea	FR691833.1	02-JUL-2012	267	Germany:Hesse	secondary	psbA-trnH	50.6080651	9.0284647	0
+Gagea_spathacea	FR691832.1	02-JUL-2012	267	Germany:Brandenburg	secondary	psbA-trnH	52.8455492	13.2461296	0
+Gagea_spathacea	FR691831.1	02-JUL-2012	267	Germany:Bavaria	secondary	psbA-trnH	48.8449731550311	12.1370025194549	0
+Gagea_spathacea	FR691830.1	02-JUL-2012	267	Germany:Bavaria	secondary	psbA-trnH	49.3300686496035	12.3174284098584	0
+Gagea_spathacea	FR691829.1	02-JUL-2012	267	Germany:Mecklenburg-Western Pomerania	secondary	psbA-trnH	53.7380326375083	14.1221552135416	0
+Gagea_spathacea	FR691828.1	02-JUL-2012	267	Germany:Mecklenburg-Western Pomerania	secondary	psbA-trnH	53.3012103934298	12.4526918908186	0
+Gagea_spathacea	FR691827.1	02-JUL-2012	267	Germany:Mecklenburg-Western Pomerania	secondary	psbA-trnH	53.6898300806722	14.067257445088	0
+Gagea_spathacea	FR691826.1	02-JUL-2012	267	Russia:Caucasus	secondary	psbA-trnH	44.0788762544919	42.8675757568028	0
+Gagea_spathacea	FR874130.1	02-JUL-2012	267	Russia	secondary	psbA-trnH	64.6863136	97.7453061	0
+Gagea_spathacea	FR874129.1	02-JUL-2012	267	Russia:Caucasus	secondary	psbA-trnH	42.796509142501	42.7392373799819	0
+Gagea_spathacea	FR874128.1	02-JUL-2012	267	Germany:Mecklenburg-Western Pomerania	secondary	psbA-trnH	54.104246499567	13.4771393229377	0
+Gagea_spathacea	FR874127.1	02-JUL-2012	267	Germany:Mecklenburg-Western Pomerania	secondary	psbA-trnH	54.4437677992374	13.5733190009988	0
+Gagea_spathacea	FR874126.1	02-JUL-2012	267	Sweden	secondary	psbA-trnH	59.6749712	14.5208584	0
+Gagea_spathacea	FR874125.1	02-JUL-2012	267	Sweden:Oeland	secondary	psbA-trnH	56.7815961	16.6621561	0
+Gagea_spathacea	FR874124.1	02-JUL-2012	267	Italy	secondary	psbA-trnH	42.2220413375417	13.3319184761433	0
+Gagea_spathacea	FR874123.1	02-JUL-2012	267	Italy	secondary	psbA-trnH	42.3265148995976	13.1076427963725	0
+Gagea_spathacea	FR874122.1	02-JUL-2012	267	Belgium	secondary	psbA-trnH	50.6402809	4.6667145	0

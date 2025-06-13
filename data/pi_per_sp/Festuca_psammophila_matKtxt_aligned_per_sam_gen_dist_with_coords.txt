@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_psammophila	LR588343.1	30-JUL-2021	2789	Germany	primary	matK	52.5644	14.1253	0.0016449558643564
+Festuca_psammophila	LR588339.1	30-JUL-2021	2803	Germany	primary	matK	52.465	14.4967	0.00102344846945849
+Festuca_psammophila	LR588338.1	30-JUL-2021	2798	Germany	primary	matK	52.4647	14.4828	0.00163825652607832
+Festuca_psammophila	LR588337.1	30-JUL-2021	2808	Germany	primary	matK	51.8964	12.0392	0.00102289898156051
+Festuca_psammophila	LR588336.1	30-JUL-2021	2800	Germany	primary	matK	52.1886	11.7281	0.00102475551004911
+Festuca_psammophila	LR588335.1	30-JUL-2021	2785	Germany	primary	matK	52.3739	13.7086	0.00102793555332095
+Festuca_psammophila	LR588334.1	30-JUL-2021	2794	Germany	primary	matK	52.3667	13.7019	0.0013329787680351
+Festuca_psammophila	LR588333.1	30-JUL-2021	2796	Germany	primary	matK	52.4625	12.8011	0.00133219191671977

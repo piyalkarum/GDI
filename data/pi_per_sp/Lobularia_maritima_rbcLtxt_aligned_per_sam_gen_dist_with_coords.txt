@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lobularia_maritima	MG247365.1	21-JAN-2018	552	Canada: Ontario, Muskoka D. M., Muskoka Tp., Conc. IV, Lot 31, car parking spot for Loon Lake Bog, 4 km WSW of Gravenhurst P.O.	primary	rbcL	44.917	-79.433	0.00285451623868236
+Lobularia_maritima	MG246153.1	21-JAN-2018	552	Canada: Ontario, Simcoe Co., Vespra Tp., Conc. VII, Lot 22.	primary	rbcL	44.383	-79.733	0.00285451623868236
+Lobularia_maritima	OR381711.1	30-SEP-2023	553	Canada: Guelph, ON	secondary	rbcL	43.5449241	-80.2513158	0.00284983632599082
+Lobularia_maritima	MT930871.1	03-MAR-2023	572	China	secondary	rbcL	34.8393490885028	105.570344838586	0.00748452962038965
+Lobularia_maritima	MT930870.1	03-MAR-2023	569	China	secondary	rbcL	34.8036796592247	104.010787623687	0.00749111354612999
+Lobularia_maritima	KM892720.1	11-OCT-2018	577	China	secondary	rbcL	35.3507650882645	105.818572153704	0.00303026374500027
+Lobularia_maritima	MG247298.1	21-JAN-2018	552	Canada: Ontario, Wellington Co., Guelph.	secondary	rbcL	43.6060901	-80.2323472	0.00285451623868236
+Lobularia_maritima	HM850131.1	23-JUL-2011	668	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00371654518504323

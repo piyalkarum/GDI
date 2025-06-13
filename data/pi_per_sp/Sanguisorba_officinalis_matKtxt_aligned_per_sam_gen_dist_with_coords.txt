@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sanguisorba_officinalis	JN895621.1	07-MAR-2012	714	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.0016194160948837
+Sanguisorba_officinalis	MT930135.1	03-MAR-2023	771	China	secondary	matK	35.000074	104.999927	0.00215629302469249
+Sanguisorba_officinalis	LC633470.1	10-NOV-2021	828	Japan:Shizuoka, Atami	secondary	matK	35.08992	139.059891	0.00212952918469908
+Sanguisorba_officinalis	MH714218.1	01-SEP-2020	772	China: Hebei	secondary	matK	38.7359824296619	116.025458703941	0.00215557299312631
+Sanguisorba_officinalis	MH714157.1	01-SEP-2020	819	China: Hebei	secondary	matK	39.0991857346773	117.015788290101	0.00220520082505699
+Sanguisorba_officinalis	KJ746126.1	29-JUL-2014	690	Poland	secondary	matK	52.215933	19.134422	0.00248447204968944
+Sanguisorba_officinalis	JN896036.1	07-MAR-2012	740	United Kingdom: Breconshire (42)	secondary	matK	52.9875065	-1.1773256	0.00233268983268983
+Sanguisorba_officinalis	JN894458.1	07-MAR-2012	810	United Kingdom: Radnorshire	secondary	matK	52.4627049	-3.2561628	0.00221001805031189

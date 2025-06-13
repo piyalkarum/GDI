@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Noaea_mucronata	KP974355.1	07-APR-2017	685	Turkey	primary	rbcL	40.1669	34.3772	0.181274900398406
+Noaea_mucronata	KY884334.1	30-APR-2018	574	Jordan: Ma'an	secondary	rbcL	30.2	35.7333329	0.180817610062893
+Noaea_mucronata	KX808564.1	26-AUG-2017	511	Egypt	secondary	rbcL	26.2540493	29.2675469	0.54366971390729
+Noaea_mucronata	DQ340134.1	20-JAN-2007	703	Turkey: Corum, 16 km WSW of Sungurlu	secondary	rbcL	40.5491496	34.9602453	0.181577203445991

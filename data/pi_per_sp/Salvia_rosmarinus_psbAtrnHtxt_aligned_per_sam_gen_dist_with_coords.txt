@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salvia_rosmarinus	OL312128.1	04-JAN-2022	328	USA: Missouri Botanical Garden, Shoenberg Temperate House.	primary	psbA-trnH	38.61447222	-90.25908333	0.0136729283441903
+Salvia_rosmarinus	MF348754.1	21-SEP-2017	322	USA: District of Columbia; Butterfly Garden on grounds of NMNH, Washington	primary	psbA-trnH	38.89	-77.024	0.0380745227346379
+Salvia_rosmarinus	OQ320381.1	14-JUN-2023	240	Latvia	secondary	psbA-trnH	56.8406494	24.7537645	0.0250209205020921
+Salvia_rosmarinus	KP218942.1	26-APR-2015	339	Pakistan	secondary	psbA-trnH	30.3308401	71.247499	0.0168859978965009
+Salvia_rosmarinus	HE966779.1	18-SEP-2012	254	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0152362204724409
+Salvia_rosmarinus	FJ493283.1	22-DEC-2008	373	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.0136809879687735

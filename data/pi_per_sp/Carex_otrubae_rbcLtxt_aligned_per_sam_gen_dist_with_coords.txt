@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_otrubae	JN893832.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.5	-3.12	0
+Carex_otrubae	OQ354740.1	27-JUN-2023	542	Slovenia	secondary	rbcL	46.1199444	14.8153333	0
+Carex_otrubae	OQ354739.1	27-JUN-2023	542	Netherlands	secondary	rbcL	52.2434979	5.6343227	0
+Carex_otrubae	OQ354738.1	27-JUN-2023	542	Poland	secondary	rbcL	52.215933	19.134422	0
+Carex_otrubae	MF572170.1	31-JUL-2018	544	Italy: Aosta Valley, Quart, Teppe	secondary	rbcL	46.0947556441584	6.53132441274321	0
+Carex_otrubae	MF572169.1	31-JUL-2018	572	Italy: Aosta Valley, Quart, Teppe	secondary	rbcL	46.5331375126756	7.63837055400933	0.000204624514016779
+Carex_otrubae	MF572168.1	31-JUL-2018	543	Italy: Aosta Valley, Quart, Teppe	secondary	rbcL	45.2500404708439	8.38153087750806	0
+Carex_otrubae	HM849857.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000204624514016779
+Carex_otrubae	JN891909.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.2989902163426	-3.37307547754347	0
+Carex_otrubae	JN891907.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.0563157746123	-3.40187155773137	0

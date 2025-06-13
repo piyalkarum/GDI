@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stipa_pennata	JF698508.1	05-FEB-2012	702	Ukraine: Lugansk	secondary	rps16	49.012371536493	39.2026372520269	0.372139303482587
+Stipa_pennata	JF698356.1	05-FEB-2012	741	Ukraine: Lugansk	secondary	rps16	48.386846460098	40.1333176695654	0.372417434501632
+Stipa_pennata	JF754752.1	28-DEC-2011	741	France	secondary	rps16	46.3824069516847	2.53687049332676	0.372417434501632
+Stipa_pennata	JF754697.1	28-DEC-2011	701	France	secondary	rps16	46.9150044406789	1.16653642456491	0.372695565520678

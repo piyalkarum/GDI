@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_adiantum-nigrum	MK827932.1	30-APR-2020	852	South Africa: Western Cape	secondary	trnL-trnF	-32.746917202106	20.6556583122997	0.00274200760116253
+Asplenium_adiantum-nigrum	MK827931.1	30-APR-2020	840	South Africa: Western Cape	secondary	trnL-trnF	-33.4294770097558	21.511945601213	0.00563492063492064
+Asplenium_adiantum-nigrum	MK827691.1	30-APR-2020	311	China: Yunnan	secondary	trnL-trnF	24.5915675430075	101.331159528522	0.00390946735492654
+Asplenium_adiantum-nigrum	MK827689.1	30-APR-2020	344	China: Yunnan	secondary	trnL-trnF	24.3278561373868	101.543895383927	0.00392394673331128
+Asplenium_adiantum-nigrum	KP861407.1	19-AUG-2015	905	Spain: Cc, Losar de la Vera	secondary	trnL-trnF	40.121961	-5.6069115	0.00278466259921123
+Asplenium_adiantum-nigrum	KP861406.1	19-AUG-2015	905	Spain: Burgos, Crespos, Manzanedo, 30TVN35	secondary	trnL-trnF	42.343926	-3.696977	0.00278466259921123
+Asplenium_adiantum-nigrum	KP861396.1	19-AUG-2015	905	Spain: Asturias, Luarca, en la playa, 29TPJ92	secondary	trnL-trnF	37.56683545	-5.43181911956782	0.00412972366785486
+Asplenium_adiantum-nigrum	KR233942.1	04-OCT-2015	853	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.00273907218221403
+Asplenium_adiantum-nigrum	KR233941.1	04-OCT-2015	853	Germany	secondary	trnL-trnF	34.895926	-83.4665496	0.00273907218221403
+Asplenium_adiantum-nigrum	KR233939.1	04-OCT-2015	855	Armenia	secondary	trnL-trnF	4.536307	-75.6723751	0.00411595966293333
+Asplenium_adiantum-nigrum	JX068726.1	31-MAY-2013	863	Reunion	secondary	trnL-trnF	-21.1309332	55.5265771	0.00278824767760281
+Asplenium_adiantum-nigrum	JX068725.1	31-MAY-2013	888	Switzerland	secondary	trnL-trnF	46.7985624	8.2319736	0.0382937209497454
+Asplenium_adiantum-nigrum	JX068724.1	31-MAY-2013	863	Yemen	secondary	trnL-trnF	16.3471243	47.8915271	0.00278824767760281
+Asplenium_adiantum-nigrum	JX068723.1	31-MAY-2013	863	USA: Hawaii	secondary	trnL-trnF	19.5938015	-155.4283701	0.00278824767760281
+Asplenium_adiantum-nigrum	JX068722.1	31-MAY-2013	863	United Kingdom	secondary	trnL-trnF	55.2263392764238	-3.36731809752351	0.00278824767760281
+Asplenium_adiantum-nigrum	JX068721.1	31-MAY-2013	863	United Kingdom	secondary	trnL-trnF	54.1148656217791	-3.9345935980976	0.00278824767760281

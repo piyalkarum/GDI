@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Athyrium_filix-femina	OL674257.1	12-JAN-2022	754		primary	rbcL	42.978	-72.514	0.006096150130264
+Athyrium_filix-femina	MG215378.1	24-JAN-2018	552	Canada: Yukon Territory, East of Haines Highway at km 152	primary	rbcL	60.05	-136.883	0.00625844756701001
+Athyrium_filix-femina	MG215144.1	24-JAN-2018	552	Canada: Yukon Territory, Upper Gas well	primary	rbcL	60.124	-124.101	0.00625844756701001
+Athyrium_filix-femina	MF349772.1	21-SEP-2017	553	USA: District of Columbia; United States National Arboretum, 3501 New York Avenue NE.	primary	rbcL	38.908	-76.965	0.00733885238764345
+Athyrium_filix-femina	HQ589969.1	09-NOV-2011	592	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West.est, 20 m N of creek along W edge of property	primary	rbcL	44.025	-79.548	0.00617260136761492
+Athyrium_filix-femina	KJ593237.1	17-MAR-2015	553	USA: Wisconsin, Abrams	primary	rbcL	44.814	-88.035	0.00625740982349045
+Athyrium_filix-femina	KJ593236.1	17-MAR-2015	533	USA: Wisconsin, Laona	primary	rbcL	45.52	-88.717	0.00649150858976383
+Athyrium_filix-femina	KJ593235.1	17-MAR-2015	536	USA: Wisconsin, Laona	primary	rbcL	45.556	-88.797	0.00641683010293591
+Athyrium_filix-femina	KJ841122.1	04-NOV-2014	529	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Hemlock Bog	primary	rbcL	45.557	-73.141	0.00640003614609592
+Athyrium_filix-femina	OR670252.1	06-NOV-2023	436	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00663371400578561
+Athyrium_filix-femina	MG215453.1	24-JAN-2018	552	Canada: Ontario, Nipissing District, Mattawa	secondary	rbcL	46.317296	-78.703308	0.0861613382975596
+Athyrium_filix-femina	MG215042.1	24-JAN-2018	552	Canada: Ontario, Renfrew District, Petawawa, NEBIE field study site	secondary	rbcL	43.72634945	-77.7101179040839	0.00625844756701001
+Athyrium_filix-femina	MG183230.1	13-DEC-2017	1206	USA	secondary	rbcL	39.7837304	-100.445882	0.00892754426418855
+Athyrium_filix-femina	MG183229.1	13-DEC-2017	1206	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00709837125017246
+Athyrium_filix-femina	MG183228.1	13-DEC-2017	1206	Czech Republic	secondary	rbcL	49.7439047	15.3381061	0.00709837125017246
+Athyrium_filix-femina	KU753805.1	27-SEP-2016	1059	Spain: Asturias, Luarca	secondary	rbcL	43.5439003	-6.5357408	0.00562839085442995
+Athyrium_filix-femina	KF186509.1	23-SEP-2013	1309	Canada: Little Tract, Wellington County, ON	secondary	rbcL	44.2377412	-80.056752	0.00578637415595604
+Athyrium_filix-femina	JF832056.1	24-JAN-2012	1309	Sweden: Uppsala	secondary	rbcL	59.8586126	17.6387436	0.00686635536258791
+Athyrium_filix-femina	FJ821348.1	31-MAR-2012	1224	Canada	secondary	rbcL	61.0666922	-107.991707	0.00711645099683795

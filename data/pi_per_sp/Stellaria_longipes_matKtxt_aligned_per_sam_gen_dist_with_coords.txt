@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_longipes	KX677678.1	09-AUG-2017	798	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, campsite along Tulameen River	primary	matK	49.4343	-121.013	0.00224247465351287
+Stellaria_longipes	KC475951.1	25-OCT-2013	700	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Small cliff south of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	matK	68.703	-112.653	0.00385982133812307
+Stellaria_longipes	KC475950.1	25-OCT-2013	701	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk. Behind Northern Store/Hotel/Parks Canada building (Paulatuk Centre)	primary	matK	69.467	-124.211	0.00175769713987304
+Stellaria_longipes	KC475949.1	25-OCT-2013	773	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	matK	70.735	-117.761	0.00375939426336189
+Stellaria_longipes	KC475948.1	25-OCT-2013	671	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Small point into ocean, ~10 km SW of Sanikiluaq	primary	matK	56.478	-79.386	0.00177811395615755
+Stellaria_longipes	KC475947.1	25-OCT-2013	705	Canada: Nunavut, Keewatin, Kaminak Lake	primary	matK	62.283	-95.05	0.00175617504984223
+Stellaria_longipes	KC475946.1	25-OCT-2013	771	Canada: Northwest Territories, Banks Island, Near Sachs Harbour	primary	matK	71.983	-125.233	0.00175041025297181
+Stellaria_longipes	KC475945.1	25-OCT-2013	707	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	matK	76.56	-118.86	0.00391514784853892
+Stellaria_longipes	KC475944.1	25-OCT-2013	774	Canada: Yukon Territory, Ivvavik National Park, Sheep Creek	primary	matK	69.157	-140.221	0.00377560713873585
+Stellaria_longipes	KC475943.1	25-OCT-2013	774	Canada: Nunavut, Ellesmere Island, Scoresby Bay	primary	matK	79.867	-71.533	0.00377560713873585
+Stellaria_longipes	KC475942.1	25-OCT-2013	700	Canada: Northwest Territories, Cape Bathurst, Cape Bathurst E side, brook system N of river from Lake McKinlay, 0.7-1.5 km from sea	primary	matK	70.4833	-127.8	0.00385982133812307
+Stellaria_longipes	KC475941.1	25-OCT-2013	701	Canada: Nunavut, Hudson Bay, Rankin Inlet, Adjacent to graveyard	primary	matK	62.8	-92.1	0.00175769713987304
+Stellaria_longipes	KC475940.1	25-OCT-2013	706	Canada: Nunavut, Ellesmere Island, Hot Weather Creek, 25 km east of Eureka, Fosheim Peninsula, Site 67	primary	matK	80	-84.4	0.00529781672421659
+Stellaria_longipes	KC475939.1	25-OCT-2013	706	Canada: Nunavut, Baffin Island, Iqaluit, Below Igloo Church at sea beach, Frobisher Bay	primary	matK	63.7417	-68.525	0.00391915788872182
+Stellaria_longipes	KC475938.1	25-OCT-2013	774	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.619	-115.493	0.00375561443784146
+Stellaria_longipes	KC475937.1	25-OCT-2013	771	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	matK	62.85	-92.133	0.00175041025297181
+Stellaria_longipes	KC475936.1	25-OCT-2013	713	Canada: Nunavut, Coats Island, Cairn Cove	primary	matK	62.817	-81.933	0.00174882958578106
+Stellaria_longipes	KC475935.1	25-OCT-2013	703	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	matK	62.867	-92.133	0.00175961714149097
+Stellaria_longipes	KC475934.1	25-OCT-2013	710	Canada: Nunavut, Ellesmere Island, Tanquary Fiord	primary	matK	81.5	-76.05	0.00390782193975194
+Stellaria_longipes	KC475933.1	25-OCT-2013	681	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	matK	68.064	-121.611	0.00180729696148198
+Stellaria_longipes	KC475932.1	25-OCT-2013	707	Canada: Nunavut, Ellef Ringnes Island, Reindeer Peninsula, W side. Reindeer Penninsula, central part	primary	matK	78.9167	-104.633	0.00391514784853892
+Stellaria_longipes	KC475931.1	25-OCT-2013	773	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vincinity of Arctic Char Inn, Uluhaktok	primary	matK	70.736	-117.77	0.00174604895045935
+Stellaria_longipes	JN966696.1	27-OCT-2012	774	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	matK	58.772	-94.163	0.00301178303292024
+Stellaria_longipes	JN966695.1	27-OCT-2012	769	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	matK	59.2192230413513	-93.9556076503752	0.00174788467931643
+Stellaria_longipes	JN966694.1	27-OCT-2012	768	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	matK	58.5024912494404	-92.8638023088578	0.00307661926665447
+Stellaria_longipes	JN966693.1	27-OCT-2012	769	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	matK	58.626	-94.23	0.00174788467931643
+Stellaria_longipes	JN966692.1	27-OCT-2012	693	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Dry gravel ridge	primary	matK	58.75	-94.11	0.00178486039403512

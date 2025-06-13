@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_lathyroides	MG246272.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Victoria, Beacon Hill Park	primary	rbcL	48.416	-123.364	0
+Vicia_lathyroides	MG246239.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Victoria, Central Saanich, Dunsmuir Lodge	primary	rbcL	48.659	-123.411	0
+Vicia_lathyroides	KX678073.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Delta, Tsawwassen Ferry Causeway, west side of Highway 17, 1 km north of ferry dock, on sea dyke.	primary	rbcL	49.023	-123.108	0
+Vicia_lathyroides	JN891171.1	07-MAR-2012	542	United Kingdom: Caernarfonshire	primary	rbcL	52.91	-4.13	0
+Vicia_lathyroides	JN893461.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0

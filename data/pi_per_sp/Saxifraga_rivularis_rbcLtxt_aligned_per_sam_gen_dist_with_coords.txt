@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_rivularis	MG248803.1	21-JAN-2018	552	Canada: Yukon Territory, Shingle Point area, mainland opposite	primary	rbcL	68.985	-137.42	0
+Saxifraga_rivularis	MG247780.1	21-JAN-2018	553	Canada: Yukon Territory, Beaufort Coast, east of King Point	primary	rbcL	69.079	-137.888	0
+Saxifraga_rivularis	KC484077.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Murray Point, Murray Point, W side of Wilbank Bay	primary	rbcL	68.0882910302144	-109.679572497032	0
+Saxifraga_rivularis	KC484076.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Murray Point, Murray Point, W side of Wilbank Bay	primary	rbcL	68.8857571629011	-112.064284263626	0
+Saxifraga_rivularis	MK924944.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2320844505613	-2.09952260278377	0
+Saxifraga_rivularis	MK924723.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.807839419791	-18.1221133759753	0
+Saxifraga_rivularis	MK924702.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.450092335966	-3.44940117673184	0
+Saxifraga_rivularis	MK924642.1	14-JAN-2020	542	Iceland	secondary	rbcL	65.5743725624245	-16.8296678340901	0

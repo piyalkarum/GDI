@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_maritima	OK505880.1	22-FEB-2022	775	Greece: Island of Lesvos, Skala Kalloni	primary	rbcL	39.2	26.216667	0.106261103303391
+Sagina_maritima	OK505879.1	22-FEB-2022	775	Greece: Island of Lesvos, Parakila	primary	rbcL	39.2	26.166667	0.106261103303391
+Sagina_maritima	OK505878.1	22-FEB-2022	775	Greece: Anaxiatiko	primary	rbcL	39.0211195158893	21.084075804601	0.106261103303391
+Sagina_maritima	OK505877.1	22-FEB-2022	775	Greece: Anaxiatiko	primary	rbcL	38.7298565821942	21.4740339209776	0.107256748128737
+Sagina_maritima	OK505876.1	22-FEB-2022	775	Greece: Keramoti, Salines	primary	rbcL	40.883333	24.716667	0.106261103303391
+Sagina_maritima	MT534489.1	06-DEC-2021	688	Germany	primary	rbcL	54.6	8.5	0.105155017130399
+Sagina_maritima	JN892547.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.2	-4.4	0.499598920729626
+Sagina_maritima	OK505875.1	22-FEB-2022	775	Spain: A Coruna, Praia do Testal	secondary	rbcL	42.7903644	-8.9134689	0.106261103303391
+Sagina_maritima	OK505874.1	22-FEB-2022	775	Portugal: Azores, Ilha do Faial, Horta	secondary	rbcL	38.5300378	-28.6504756	0.106261103303391
+Sagina_maritima	OK505873.1	22-FEB-2022	775	United Kingdom: Cambridge	secondary	rbcL	52.2055314	0.1186637	0.106261103303391
+Sagina_maritima	OK505872.1	22-FEB-2022	775	United Kingdom: Cardiganshire, Aberystwyth	secondary	rbcL	51.7916999482193	-4.44000492456488	0.106261103303391
+Sagina_maritima	OK505871.1	22-FEB-2022	775	United Kingdom: Cardiganshire, Aberystwyth	secondary	rbcL	52.0366750979596	-3.95806532961803	0.106261103303391
+Sagina_maritima	MT671787.1	06-DEC-2021	709	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.105590331296219
+Sagina_maritima	MT534490.1	06-DEC-2021	688	Spain	secondary	rbcL	39.3260685	-4.8379791	0.105155017130399
+Sagina_maritima	HM850328.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.484893915763325
+Sagina_maritima	JN893172.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.499598920729626
+Sagina_maritima	OK505881.1	22-FEB-2022	775	Greece	secondary	rbcL	38.9753895	26.3684237	0.106261103303391

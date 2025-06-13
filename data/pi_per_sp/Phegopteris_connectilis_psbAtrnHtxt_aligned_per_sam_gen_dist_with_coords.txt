@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phegopteris_connectilis	AB575669.1	03-DEC-2010	486	Japan	secondary	psbA-trnH	36.5748441	139.2394179	0.0105633802816901
+Phegopteris_connectilis	HQ890382.1	31-JAN-2013	426	USA	secondary	psbA-trnH	39.7837304	-100.445882	0.022887323943662
+Phegopteris_connectilis	HQ890381.1	31-JAN-2013	426	China	secondary	psbA-trnH	35.000074	104.999927	0.022887323943662
+Phegopteris_connectilis	HQ890380.1	31-JAN-2013	426	Greenland	secondary	psbA-trnH	35.9948477	-94.1796014	0.0105633802816901
+Phegopteris_connectilis	HQ890379.1	31-JAN-2013	426	Czech Republic	secondary	psbA-trnH	49.7439047	15.3381061	0.0105633802816901

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_triflorum	KX677333.1	09-AUG-2017	776	Canada: British Columbia, East Kootenay Regional District, Dry Gulch Provincial Park	primary	matK	50.5862	-116.035	0.00376224480015233
+Galium_triflorum	KX677190.1	09-AUG-2017	796	Canada: British Columbia, Squamish-Lillooet Regional District, Ashlu Main Rd., near Squamish	primary	matK	49.933	-123.364	0.0025166432728522
+Galium_triflorum	KP643151.1	08-DEC-2015	720	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.1391481670122	-78.1150065548215	0.00914778705101773
+Galium_triflorum	KP643082.1	08-DEC-2015	759	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.7971640923068	-77.837843528966	0.00331074794878666
+Galium_triflorum	KP643032.1	08-DEC-2015	761	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.6762235188691	-78.875258966466	0.00260327448116592
+Galium_triflorum	MG225149.1	21-JAN-2018	797	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay, en bordure du sentier principal situe a l'est	primary	matK	45.519	-73.738	0.00419558930204247
+Galium_triflorum	KP402369.1	06-JAN-2016	684	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H12x1y2	primary	matK	38.889	-76.559	0.00394424737155424
+Galium_triflorum	KP402258.1	06-JAN-2016	696	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, DSCTRL	primary	matK	38.882	-76.552	0.00443864956705927
+Galium_triflorum	KJ592970.1	17-MAR-2015	663	USA: Wisconsin, Wolf River	primary	matK	45.301	-88.746	0.00331497062302403

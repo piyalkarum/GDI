@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rohrbachia_minima	MN205157.1	30-NOV-2021	688	China	secondary	rbcL	34.8050834239104	104.063830876286	0.0962549016369564
+Rohrbachia_minima	MN205156.1	30-NOV-2021	724	China	secondary	rbcL	34.7426493355635	104.0097748296	0.0977946152680191
+Rohrbachia_minima	MF572253.1	31-JUL-2018	537	Italy: Aosta Valley, Quart	secondary	rbcL	45.9931809555134	7.42557777903067	0.0965706235277963
+Rohrbachia_minima	MF572251.1	31-JUL-2018	572	Italy: Aosta Valley, Nus, Rovarey	secondary	rbcL	45.6076825945816	8.18548164442216	0.0962437767993324
+Rohrbachia_minima	MF572250.1	31-JUL-2018	537	Italy: Aosta Valley, Nus, Rovarey	secondary	rbcL	46.5220403487516	6.98409721299922	0.0970585290642959
+Rohrbachia_minima	FJ914230.1	19-MAY-2009	783	Russia: Kislovodsk	secondary	rbcL	43.9128743	42.7192186	0.557634052323384
+Rohrbachia_minima	MF572252.1	31-JUL-2018	574	Italy	secondary	rbcL	45.7458312402738	7.21966456523586	0.0958509453361513

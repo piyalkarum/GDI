@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_crassifolia	MK800850.1	04-FEB-2020	1278	USA: Idaho, Pioneer Mountians, Hyndman Peak	primary	Adh	43.74938	-114.1312	0.0224308815858112
+Draba_crassifolia	MK800849.1	04-FEB-2020	1278	USA: Idaho, White Cloud Mountains, Castle Peak	primary	Adh	44.04019	-114.58878	0.0219092331768388
+Draba_crassifolia	MK800848.1	04-FEB-2020	1278	USA: Idaho, Sawtooth Mountains, Horstmann Peak	primary	Adh	44.1117	-115.00318	0.0211267605633803
+Draba_crassifolia	MK800847.1	04-FEB-2020	1278	USA: Idaho, Sawtooth Mountains, Braxon Peak	primary	Adh	44.09333	-115.99681	0.0211267605633803

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_gallica	JN895459.1	07-MAR-2012	745	United Kingdom: Cardiganshire	primary	matK	52.19	-4.39	0.00475734479525672
+Silene_gallica	OQ172471.1	18-JUN-2023	779	South Korea	secondary	matK	37.4132785208955	128.150820491826	0.00135233984967906
+Silene_gallica	OQ172470.1	18-JUN-2023	779	South Korea	secondary	matK	37.3899593855575	127.10761416929	0.00135233984967906
+Silene_gallica	OQ172469.1	18-JUN-2023	779	South Korea	secondary	matK	36.6180828927709	128.202354224061	0.00135233984967906
+Silene_gallica	OQ172468.1	18-JUN-2023	779	South Korea	secondary	matK	36.8924026143254	128.205317635031	0.00135233984967906
+Silene_gallica	HM850773.1	23-JUL-2011	816	Portugal	secondary	matK	39.6621648	-8.1353519	0.00478634755634102
+Silene_gallica	JN894574.1	07-MAR-2012	739	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.00136808122397417

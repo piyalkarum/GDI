@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_polygonifolius	JN894239.1	07-MAR-2012	767	United Kingdom: Sutherland, West (108)	primary	matK	58.29	-4.44	0.000447427293064877
+Potamogeton_polygonifolius	HM851048.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00132233143959588
+Potamogeton_polygonifolius	JN896105.1	07-MAR-2012	851	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.000410004100041
+Potamogeton_polygonifolius	JN895368.1	07-MAR-2012	738	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.000464900046490005

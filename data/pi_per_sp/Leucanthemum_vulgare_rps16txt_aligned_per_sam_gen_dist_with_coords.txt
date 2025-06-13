@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_vulgare	KY778057.1	31-MAY-2017	415		primary	rps16	43.79	7	0.000481927710843374
+Leucanthemum_vulgare	KY778056.1	31-MAY-2017	415		primary	rps16	43.67	6.5	0.000481927710843374
+Leucanthemum_vulgare	KY778055.1	31-MAY-2017	415		primary	rps16	48.06	-4.66	0.000481927710843374
+Leucanthemum_vulgare	KY778054.1	31-MAY-2017	415		primary	rps16	43.89	3.25	0.000481927710843374
+Leucanthemum_vulgare	LN869204.1	17-SEP-2015	459	Spain	primary	rps16	40.1	-1.52	0.000871935382595542
+Leucanthemum_vulgare	LN869203.1	17-SEP-2015	458	France	primary	rps16	42.5	2.96	0.000873362445414847
+Leucanthemum_vulgare	LN869201.1	17-SEP-2015	459	Bosnia and Herzegovina	primary	rps16	43.24	18.34	0.000871935382595542
+Leucanthemum_vulgare	LN869200.1	17-SEP-2015	459	Germany	primary	rps16	49.03	11.88	0.000871935382595542
+Leucanthemum_vulgare	LN869199.1	17-SEP-2015	458	France	primary	rps16	43.13	2.61	0.00152838427947598
+Leucanthemum_vulgare	LN869196.1	17-SEP-2015	461	Spain	primary	rps16	42.5	-3.7	0.00292606679823154
+Leucanthemum_vulgare	LN869195.1	17-SEP-2015	459	Spain	primary	rps16	42.56	-3.8	0.00357966156947337

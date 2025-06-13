@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_mackenziei	KC482304.1	25-OCT-2013	552	Canada: Yukon Territory, Yukon Mainland, Blow River Delta east, Outer delta, west of Whitefish Station	primary	rbcL	68.904	-136.935	0
+Carex_mackenziei	JN965383.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, sandy bay, shallow pools	primary	rbcL	58.678	-93.145	0
+Carex_mackenziei	JN965382.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Brackish marsh.	primary	rbcL	58.467	-93.21	0
+Carex_mackenziei	JN965381.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, In very moist to wet soil, by standing water	primary	rbcL	57.003	-92.304	0
+Carex_mackenziei	MG226704.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Strait of Belle Isle Dist, L'Anse aux Meadows Nat'l Historic Pk, Pond Cove, saltmarsh on the N side	secondary	rbcL	49.7738268	-56.8821439113846	0
+Carex_mackenziei	MG226445.1	23-JAN-2018	552	USA: Alaska, Yakutat D5 Quad, Strawberry Island	secondary	rbcL	39.4703246	-86.6413912	0

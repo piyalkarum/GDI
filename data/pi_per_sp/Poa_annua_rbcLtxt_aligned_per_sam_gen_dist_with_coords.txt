@@ -1,0 +1,41 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_annua	OR738072.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.0148329436263479
+Poa_annua	OL434767.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.126	-81.14	0.00200354470228609
+Poa_annua	LC439230.1	02-NOV-2019	552	Japan:Ibaraki, Tsukuba, Tsukuba Botanical Garden	primary	rbcL	36.101	140.1109	0.000990504678887481
+Poa_annua	MF596935.1	28-FEB-2018	603	Canada: British Columbia, Rest area along Hwy. 3, 25 km W of Moyie, 8 km W of Rocky Mountain Forest District.	primary	rbcL	48.2856258953449	-115.804935453245	0.000975018753376276
+Poa_annua	MF596934.1	28-FEB-2018	603	Canada: Yukon Territory, 86 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy 6) just west of MacMillan Pass.	primary	rbcL	62.5038867843174	-130.838742487725	0.000975018753376276
+Poa_annua	MF596933.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Hadyn Turner Campground, S end of Queen Charlotte City.	primary	rbcL	53.6046432185792	-131.317912521465	0.00192155795325753
+Poa_annua	MF596932.1	28-FEB-2018	603	Canada: British Columbia, Francis Point Provincial Park - just south of Pender Harbour, Sunshine Coast	primary	rbcL	50.3751483512756	-123.788297707449	0.00192155795325753
+Poa_annua	MF596931.1	28-FEB-2018	603	Canada: British Columbia, Osoyoos, roadside near Main Street and Tamarack Street.	primary	rbcL	48.9966777642609	-118.486410046244	0.000975018753376276
+Poa_annua	MG227965.1	23-JAN-2018	603	Canada: Yukon Territory, 86 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy 6) just west of MacMillan Pass.	primary	rbcL	63.0489449321986	-129.63637797061	0.000975018753376276
+Poa_annua	MG227836.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	rbcL	51.273	-80.641	0.000990504678887481
+Poa_annua	MG227719.1	23-JAN-2018	552	USA: New Hampshire, Coos County, Mt. Washington, Lake of Clouds Hut	primary	rbcL	44.26	-71.32	0.00200500714908716
+Poa_annua	MG227410.1	23-JAN-2018	603	Canada: British Columbia, Rest area along Hwy. 3, 25 km W of Moyie, 8 km W of Rocky Mountain Forest District.	primary	rbcL	49.2404122593423	-116.623754844021	0.000975018753376276
+Poa_annua	MG226996.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Hadyn Turner Campground, S end of Queen Charlotte City.	primary	rbcL	52.7084055801475	-132.545611829534	0.00192155795325753
+Poa_annua	MG226660.1	23-JAN-2018	603	Canada: British Columbia, Osoyoos, roadside near Main Street and Tamarack Street.	primary	rbcL	49.8545015891558	-120.396793228578	0.000975018753376276
+Poa_annua	MG226321.1	23-JAN-2018	603	Canada: British Columbia, Francis Point Provincial Park - just south of Pender Harbour, Sunshine Coast	primary	rbcL	49.1046145863705	-124.167017409451	0.00192155795325753
+Poa_annua	MG225541.1	23-JAN-2018	552	Canada: Ontario, Nipissing District, Sproule Township, Canoe Dock, Wildlife Research Station, Algonquin Park	primary	rbcL	45.591	-78.521	0.000990504678887481
+Poa_annua	HQ590212.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West	primary	rbcL	44.1077545364806	-79.9407650970386	0.0009703105259326
+Poa_annua	HQ590211.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, Compost area north of Dufferin St. driveway	primary	rbcL	43.834291278234	-79.2536654461441	0.0009703105259326
+Poa_annua	KJ841478.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Next to observation lookout at Lac Hertel	primary	rbcL	45.544	-73.156	0.000990504678887481
+Poa_annua	JN893632.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000999092895682186
+Poa_annua	ON341362.1	30-APR-2023	553	USA: Georgia	secondary	rbcL	32.3293809	-83.1137366	0.000989458776906898
+Poa_annua	MN205140.1	30-NOV-2021	685	China	secondary	rbcL	34.3803496017149	104.205936844104	0.0009703105259326
+Poa_annua	HQ619772.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.000989458776906898
+Poa_annua	MH116308.1	17-AUG-2018	643	China	secondary	rbcL	35.4280698379191	105.547959149452	0.000959217632653961
+Poa_annua	MG227548.1	23-JAN-2018	552	Canada: Ontario, Ottawa-Carleton REGIONAL MUNICIPALITY, Greely, Hwy 16, Ottawa area, garden of Albert Dugal	secondary	rbcL	43.72634945	-77.7101179040839	0.000990504678887481
+Poa_annua	MG227486.1	23-JAN-2018	553	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, North Campground, Locust Section, Campsite #193	secondary	rbcL	45.3658443	15.6575209	0.000989458776906898
+Poa_annua	MG226883.1	23-JAN-2018	552	Canada: British Columbia, Vancouver, University of British Columbia, on grounds of Anthropology Museum	secondary	rbcL	49.25783145	-123.246241986222	0.000990504678887481
+Poa_annua	KP711247.1	31-MAR-2016	1096	China	secondary	rbcL	34.6277844277772	105.749622550791	0.00106520904452572
+Poa_annua	KJ204388.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00099417333861846
+Poa_annua	KJ599225.1	21-SEP-2014	559	Australia: Victoria	secondary	rbcL	-36.5986096	144.6780052	0.00199023245874218
+Poa_annua	KJ599224.1	21-SEP-2014	545	Australia: Lord Howe Island	secondary	rbcL	-31.5233816	159.0636715	0.00649194376943188
+Poa_annua	KF713046.1	15-DEC-2013	1096	South Korea: Jecheon-si, Choongcheongbuk-do	secondary	rbcL	37.1326042	128.1913508	0.00106520904452572
+Poa_annua	KF713045.1	15-DEC-2013	1096	South Korea: Taebaek-si, Gangwon-do	secondary	rbcL	37.1637943	128.9857176	0.00106520904452572
+Poa_annua	KF713043.1	15-DEC-2013	1096	South Korea: Yeoju-si, Gyeonggi-do	secondary	rbcL	37.2982901	127.637033	0.00106520904452572
+Poa_annua	KF713041.1	15-DEC-2013	1096	South Korea: Boryeong-si, Choongcheongnam-do	secondary	rbcL	36.33401	126.613165	0.00106520904452572
+Poa_annua	KF713040.1	15-DEC-2013	1096	South Korea: Anyang-si, Gyeonggi-do	secondary	rbcL	37.3938528	126.9570605	0.00106520904452572
+Poa_annua	FN870404.1	17-MAY-2012	1387	Portugal:Azores	secondary	rbcL	37.8085564	-25.4731374	0.0009703105259326
+Poa_annua	JN892192.1	07-MAR-2012	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00203706423501436
+Poa_annua	JN892191.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00203706423501436
+Poa_annua	JN891183.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00203706423501436

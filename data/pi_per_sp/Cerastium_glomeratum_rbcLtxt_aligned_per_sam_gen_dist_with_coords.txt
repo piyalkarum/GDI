@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_glomeratum	OR464866.1	26-SEP-2023	611	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.2883718	-85.61951565	0.00110611295279107
+Cerastium_glomeratum	OL434806.1	14-NOV-2022	489	USA: Georgia	primary	rbcL	32.1174	-81.138	0.00270353097199988
+Cerastium_glomeratum	MK936599.1	19-JUN-2019	503	China: Outside US, Jiangyong Hunan, Agriculture land	primary	rbcL	25.4797966545705	110.403608277806	0.000880516039830134
+Cerastium_glomeratum	MK932710.1	19-JUN-2019	487	China: Outside US, Jiangyong Hunan, Agriculture land	primary	rbcL	24.9306199558048	110.161974362128	0.000905009734744834
+Cerastium_glomeratum	MG249807.1	21-JAN-2018	553	Canada: Ontario, Wellington, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	0.00413785866018307
+Cerastium_glomeratum	MG247887.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Victoria, Fernwood	primary	rbcL	48.437	-123.343	0.00103725071187186
+Cerastium_glomeratum	JN892586.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.14	-4.58	0.00105405505194403
+Cerastium_glomeratum	OQ172539.1	18-JUN-2023	689	South Korea	secondary	rbcL	35.9242012882648	127.335476060336	0.00105805079767668
+Cerastium_glomeratum	OQ172538.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.2111858580956	128.247343565537	0.00105805079767668
+Cerastium_glomeratum	OQ172537.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.181975373202	126.826642061969	0.00105805079767668
+Cerastium_glomeratum	HQ619745.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00561082344085118
+Cerastium_glomeratum	MH215253.1	22-JAN-2019	553	China	secondary	rbcL	35.000074	104.999927	0.00103555557905896
+Cerastium_glomeratum	HM849882.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.002227620594625
+Cerastium_glomeratum	JN893546.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00105405505194403
+Cerastium_glomeratum	JN892006.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.00105405505194403
+Cerastium_glomeratum	OQ326793.1	23-AUG-2023	720	China	secondary	rbcL	35.6250478	111.2209922	0.00468096898462248
+Cerastium_glomeratum	MK044293.1	15-MAY-2019	748	South Korea	secondary	rbcL	33.241395	126.3134557	0.0011597232410199

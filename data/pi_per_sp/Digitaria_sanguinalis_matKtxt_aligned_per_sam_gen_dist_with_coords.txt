@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Digitaria_sanguinalis	OL434958.1	14-NOV-2022	773	USA: Georgia	primary	matK	32.1403	-81.1446	0.00511423463283789
+Digitaria_sanguinalis	MF597325.1	17-JUL-2018	815	Canada: British Columbia, Vancouver, Community Garden at corner of Malkin Avenue and Raymur Avenue, Strathcona Park, just E of Main Street	primary	matK	49.274	-123.083	0.00663652535222474
+Digitaria_sanguinalis	MF597324.1	17-JUL-2018	819	Canada: British Columbia, University of British Columbia, along edge of Neville Scarfe Building (Faculty of Education). With Vulpia.	primary	matK	50.55	-126.831	0.00856886115601855
+Digitaria_sanguinalis	MG217087.1	24-JAN-2018	683	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	matK	42.454	-81.884	0.00380673499267936
+Digitaria_sanguinalis	HQ593271.1	09-NOV-2011	839	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, Compost area north of Dufferin St. driveway	primary	matK	44.031	-79.53	0.00519557826288224
+Digitaria_sanguinalis	MT930010.1	03-MAR-2023	788	China	secondary	matK	34.5123046138863	105.619632712298	0.00793451683616209
+Digitaria_sanguinalis	MN450941.1	30-NOV-2021	779	China	secondary	matK	35.0990359303257	104.680440594987	0.00758684107248418
+Digitaria_sanguinalis	MN433983.1	30-NOV-2021	796	China	secondary	matK	35.4412747789618	105.079297933226	0.0154421415492449
+Digitaria_sanguinalis	MG217033.1	24-JAN-2018	794	Canada: Ontario, Rouge National Urban Park, Sector 7	secondary	matK	43.72634945	-77.7101179040839	0.00510750096392825
+Digitaria_sanguinalis	HM850571.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00602734608775197
+Digitaria_sanguinalis	HQ599961.1	02-AUG-2011	1310	South Korea	secondary	matK	36.638392	127.6961188	0.00790320087043029

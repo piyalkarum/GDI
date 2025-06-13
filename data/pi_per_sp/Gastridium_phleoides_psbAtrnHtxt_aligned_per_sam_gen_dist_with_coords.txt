@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gastridium_phleoides	LR606133.1	04-JUL-2019	606		primary	psbA-trnH	36.56	-5.58	0.00959158415841584
+Gastridium_phleoides	LR584554.1	11-JUN-2019	606	Spain:Andalusia	primary	psbA-trnH	37.5	4.36	0.00948844884488449
+Gastridium_phleoides	LR584548.1	11-JUN-2019	606	Spain:Andalusia	primary	psbA-trnH	37.91	4.86	0.00525990099009901
+Gastridium_phleoides	LR584547.1	11-JUN-2019	607	Italy:Latium	primary	psbA-trnH	42.26	12.06	0.00999410072802997
+Gastridium_phleoides	LR584546.1	11-JUN-2019	607	Italy:Latium	primary	psbA-trnH	42.52	11.59	0.00721233573110194
+Gastridium_phleoides	LR584545.1	11-JUN-2019	607	Italy:Latium	primary	psbA-trnH	42.1632038771524	11.3536125587955	0.00432760533054953
+Gastridium_phleoides	LR584544.1	11-JUN-2019	607	Italy:Latium	primary	psbA-trnH	42.5512094066159	12.9091424066216	0.00432760533054953
+Gastridium_phleoides	LR584543.1	11-JUN-2019	606	Spain:Andalusia	primary	psbA-trnH	37.79	6.2	0.00567244224422442
+Gastridium_phleoides	LR584542.1	11-JUN-2019	607	Italy:Campania	primary	psbA-trnH	41.1	14.33	0.010508418016431
+Gastridium_phleoides	LR584541.1	11-JUN-2019	607	Italy:Sicily	primary	psbA-trnH	38.56	14.83	0.00556386981367
+Gastridium_phleoides	LR584540.1	11-JUN-2019	607	Italy:Calabria	primary	psbA-trnH	39.56	16.76	0.00669665916344517
+Gastridium_phleoides	LR584539.1	11-JUN-2019	607	Italy:Calabria	primary	psbA-trnH	38.5000207158752	15.8283057113453	0.00401853920976941
+Gastridium_phleoides	LR584538.1	11-JUN-2019	607	Italy:Calabria	primary	psbA-trnH	38.8431417138595	15.3100151350266	0.00401853920976941
+Gastridium_phleoides	LR584537.1	11-JUN-2019	607	Italy:Latium	primary	psbA-trnH	42.5873070989878	11.5938599747343	0.00401853920976941
+Gastridium_phleoides	LR584536.1	11-JUN-2019	606	Spain:Andalusia	primary	psbA-trnH	38.47	3.31	0.00525990099009901
+Gastridium_phleoides	LR584535.1	11-JUN-2019	607	Italy:Apulia	primary	psbA-trnH	40.57	17.17	0.00432692569092165
+Gastridium_phleoides	LR584534.1	11-JUN-2019	607	Italy:Latium	primary	psbA-trnH	42.08	12.21	0.00587225629482223

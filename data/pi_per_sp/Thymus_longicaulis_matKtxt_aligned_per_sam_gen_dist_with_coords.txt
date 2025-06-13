@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_longicaulis	HE819419.1	22-MAY-2013	789	Italy:Puglia	primary	matK	41.7	15.65	0.00506970849176172
+Thymus_longicaulis	HE819418.1	22-MAY-2013	789	Italy:Abruzzo	primary	matK	42.17	13.6	0.00538656527249683
+Thymus_longicaulis	HE819417.1	22-MAY-2013	789	Italy:Lazio	primary	matK	42.21	12.42	0.0082382762991128
+Thymus_longicaulis	HE819416.1	22-MAY-2013	789	Italy:Calabria	primary	matK	39.05	16.64	0.0041191381495564
+Thymus_longicaulis	HE819415.1	22-MAY-2013	789	Italy:Campania	primary	matK	40.65	14.49	0.00506970849176172

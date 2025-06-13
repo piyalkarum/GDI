@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurium_quadrifolium	MK325711.1	30-APR-2019	370	Spain: Granada, Galera	primary	psbA-trnH	37.43	-2.33	0.00271599989710888
+Centaurium_quadrifolium	MK325710.1	30-APR-2019	366	Spain: Segovia, Hinojosas del Cerro	primary	psbA-trnH	41.21	-3.5	0.0015469970805202
+Centaurium_quadrifolium	MK325701.1	30-APR-2019	334	Spain: Madrid, Titulcia-Chinchon	primary	psbA-trnH	40.08	-3.29	0.00300634022972628
+Centaurium_quadrifolium	MK325692.1	30-APR-2019	379	Spain: Toledo, Quintanar	primary	psbA-trnH	39.38	-3.04	0.00265847432796142
+Centaurium_quadrifolium	MK325691.1	30-APR-2019	388	Spain: Cuenca, Zafra de Zancara	primary	psbA-trnH	39.52	-2.34	0.00151661533775355
+Centaurium_quadrifolium	MK325690.1	30-APR-2019	379	Spain: Segovia, Fuentiduenas	primary	psbA-trnH	41.18	-4.02	0.00392441092323933
+Centaurium_quadrifolium	MK325689.1	30-APR-2019	368	Spain: Granada, Frigiliana, Puerto de Los Umbrales	primary	psbA-trnH	36.5	-3.49	0.0012573636845809
+Centaurium_quadrifolium	MK325687.1	30-APR-2019	379	Spain: Tarragona, Montsia	primary	psbA-trnH	40.37	0.31	0.0015124757734525
+Centaurium_quadrifolium	MK325675.1	30-APR-2019	379	Spain: Castellon, Mosqueruela	primary	psbA-trnH	40.25	-0.19	0.0015124757734525
+Centaurium_quadrifolium	MK325674.1	30-APR-2019	379	Spain: Valencia, Els Corrals	primary	psbA-trnH	39	-0.19	0.00362247855608957

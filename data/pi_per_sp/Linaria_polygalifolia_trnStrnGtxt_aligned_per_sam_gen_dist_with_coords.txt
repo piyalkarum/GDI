@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_polygalifolia	JN663679.1	10-MAR-2012	553	Portugal: Algarve, Monte Gordo	secondary	trnS-trnG	37.2447167	-8.15053875890853	0.00361663652802893
+Linaria_polygalifolia	JN663678.1	10-MAR-2012	553	Spain: A Coruna, Punta Candelaria	secondary	trnS-trnG	43.3709703	-8.3959425	0.00482545797625599
+Linaria_polygalifolia	JQ814550.1	04-JUL-2012	552	Spain: Huelva. Isla Canela	secondary	trnS-trnG	37.1726952	-7.3735662	0.0036231884057971
+Linaria_polygalifolia	JN663680.1	10-MAR-2012	553	Portugal	secondary	trnS-trnG	37.3445713	-8.0770871	0.004825457976256

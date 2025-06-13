@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lysimachia_nummularia	MG224437.1	26-DEC-2017	553	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Brackenbrae Trail	primary	rbcL	43.3248	-79.8021	0
+Lysimachia_nummularia	MG222564.1	26-DEC-2017	552	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #6 trail	primary	rbcL	43.097	-79.281	0
+Lysimachia_nummularia	KJ841401.1	04-NOV-2014	563	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	rbcL	45.538	-73.158	0
+Lysimachia_nummularia	JN893418.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.15	0
+Lysimachia_nummularia	JN892753.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0
+Lysimachia_nummularia	JN892386.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

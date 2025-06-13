@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Boerhavia_diffusa	MH092630.1	23-APR-2018	528	India	primary	rbcL	27.4511652	94.8935577	0.00738808932146062
+Boerhavia_diffusa	MZ719015.1	23-AUG-2022	480	India	secondary	rbcL	22.7907335783828	78.8782942420146	0.00517725206024439
+Boerhavia_diffusa	MH598911.1	22-JAN-2019	490	Saudi Arabia: Makkah	secondary	rbcL	21.420847	39.826869	0.00464773739423202
+Boerhavia_diffusa	KJ174287.1	25-MAY-2014	560	India	secondary	rbcL	22.5866311364941	79.0943106943428	0.00533997177010277

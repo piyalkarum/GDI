@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypericum_humifusum	HE653508.1	03-DEC-2012	646	New Zealand	secondary	5.8S rRNA	-41.5000831	172.8344077	0.00412796697626419
+Hypericum_humifusum	HE653507.1	03-DEC-2012	646	Spain	secondary	5.8S rRNA	39.3260685	-4.8379791	0.00619195046439628
+Hypericum_humifusum	HE653506.1	03-DEC-2012	646	Australia	secondary	5.8S rRNA	-24.7761086	134.755	0.00412796697626419
+Hypericum_humifusum	HE653505.1	03-DEC-2012	646	Morocco	secondary	5.8S rRNA	28.3347722	-10.3713379	0.00412796697626419

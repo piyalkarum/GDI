@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dioscorea_communis	JN895566.1	07-MAR-2012	843	United Kingdom: Monmouthshire	primary	matK	51.56	-3.1	0.00235254850658711
+Dioscorea_communis	KU308795.1	11-JAN-2018	802	Indonesia	secondary	matK	-2.4833826	117.8902853	0.00703187535106455
+Dioscorea_communis	HM850486.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00366831483929377
+Dioscorea_communis	HE967011.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00558779969509476
+Dioscorea_communis	JN895738.1	07-MAR-2012	812	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00235871447429382
+Dioscorea_communis	JN895603.1	07-MAR-2012	804	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00241915752086071

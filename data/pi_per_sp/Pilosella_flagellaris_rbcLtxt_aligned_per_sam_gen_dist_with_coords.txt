@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pilosella_flagellaris	MK924828.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1544878413516	-1.9342477328318	0
+Pilosella_flagellaris	MK924810.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3275810194549	-4.57753540411317	0
+Pilosella_flagellaris	MK924715.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2429897684574	-4.42594246081546	0
+Pilosella_flagellaris	MG222793.1	26-DEC-2017	552	Canada: Quebec, Cte. Dorchester, Saint-Leon-de-Standon, sur le mont Orignal.	secondary	rbcL	46.8137431	-71.2084061	0

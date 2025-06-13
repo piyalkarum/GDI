@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sonchus_asper	OR465015.1	26-SEP-2023	453	USA: Brother Rice High School Athletic Fields, Bloomfield Hills, MI	primary	psbA-trnH	42.53501538	-83.2598711	0.0011037527593819
+Sonchus_asper	OQ309918.1	16-MAY-2023	473	Mexico: Puebla	secondary	psbA-trnH	19.1710098	-98.4125121	0.00176180408738548
+Sonchus_asper	MW602278.1	14-JUN-2022	367	Mexico	secondary	psbA-trnH	19.4326296	-99.1331785	0.00136239782016349
+Sonchus_asper	KP214522.1	30-NOV-2015	323	South Korea:Dokdo	secondary	psbA-trnH	37.2421201	131.8647159	0.00154798761609907
+Sonchus_asper	HE966831.1	18-SEP-2012	525	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.1338051489771	14.5732067739908	0.00824582382267892
+Sonchus_asper	HE966830.1	18-SEP-2012	525	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.3714474345739	12.8535376306223	0.00193966240477868
+Sonchus_asper	HE966829.1	18-SEP-2012	525	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	44.8195941900918	13.9129370573569	0.00193966240477868

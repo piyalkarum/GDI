@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_sherardii	JN894317.1	07-MAR-2012	834	United Kingdom: Carmarthenshire	primary	matK	51.76	-4.56	0
+Rosa_sherardii	JN895793.1	07-MAR-2012	821	United Kingdom: Glamorgan	secondary	matK	50.828181209928	-3.50684522639266	0
+Rosa_sherardii	JN895792.1	07-MAR-2012	829	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0
+Rosa_sherardii	JN894084.1	07-MAR-2012	843	United Kingdom: Glamorgan	secondary	matK	51.3421814072478	-2.8558090809741	0

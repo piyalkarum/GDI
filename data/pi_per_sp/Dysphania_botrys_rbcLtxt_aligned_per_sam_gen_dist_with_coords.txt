@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dysphania_botrys	MG247946.1	21-JAN-2018	552	Canada: British Columbia, Apex Mountain	primary	rbcL	49.3	-119.833	0.243304697146155
+Dysphania_botrys	KX679001.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, Vancouver, Southlands	primary	rbcL	49.221	-123.18	0.243304697146155
+Dysphania_botrys	MT931070.1	03-MAR-2023	569	China	secondary	rbcL	35.2790301457769	104.170779254751	0.243188401511341
+Dysphania_botrys	MT931069.1	03-MAR-2023	572	China	secondary	rbcL	35.4546496328247	104.214004449091	0.243188401511341
+Dysphania_botrys	MN204804.1	30-NOV-2021	721	China	secondary	rbcL	35.059682292357	105.698840836361	0.241900262527941
+Dysphania_botrys	MK635371.1	09-APR-2021	665	Kyrgyzstan: Jalal-Abad Region	secondary	rbcL	41.5107352	73.2283479	0.405074142570687
+Dysphania_botrys	MK635370.1	09-APR-2021	646	Kyrgyzstan: Jalal-Abad region. Kyzyl-Jar	secondary	rbcL	41.2738747	72.0044247	0.406712740000675
+Dysphania_botrys	KY884345.1	30-APR-2018	588	Portugal: Viseu District	secondary	rbcL	40.7686621	-7.9297048	0.404054811486585

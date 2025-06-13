@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_sterilis	MF596656.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, just S of Chemanus along Hwy. 1A.	primary	rbcL	49.3165582323431	-123.46654355523	0
+Bromus_sterilis	MF596655.1	28-FEB-2018	603	Canada: British Columbia, South end of Tsawassen Drive South, Tsawassen Indian Reserve #0. Beach head with Rubus.	primary	rbcL	49.6434374027575	-123.556917846781	0
+Bromus_sterilis	MF596654.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, just off Hwy. 19A along Crane Road, N of Qualicum Beach, at confluence of Nile Creek and the Straight of Georgia.	primary	rbcL	49.6853336337372	-124.836994211211	0
+Bromus_sterilis	MF596653.1	28-FEB-2018	603	Canada: British Columbia, University of British Columbia, Museum of Anthropology, edge of parking lot, with Dactylis glomerata, Rubus armenicus, and Cytisus scoparius.	primary	rbcL	49.0295688518909	-124.051289141485	0
+Bromus_sterilis	MG228221.1	23-JAN-2018	603	Canada: British Columbia, University of British Columbia, Museum of Anthropology, edge of parking lot, with Dactylis glomerata, Rubus armenicus, and Cytisus scoparius.	primary	rbcL	48.8675309453237	-122.256566456105	0
+Bromus_sterilis	MG227715.1	23-JAN-2018	603	Canada: British Columbia, South end of Tsawassen Drive South, Tsawassen Indian Reserve #0. Beach head with Rubus.	primary	rbcL	48.8262223279633	-124.156188859695	0
+Bromus_sterilis	MG227673.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, just S of Chemanus along Hwy. 1A.	primary	rbcL	48.8874039143647	-122.561063837779	0
+Bromus_sterilis	MG226463.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, just off Hwy. 19A along Crane Road, N of Qualicum Beach, at confluence of Nile Creek and the Straight of Georgia.	primary	rbcL	50.0346175347144	-124.03485139237	0
+Bromus_sterilis	JN892201.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.1	-4.69	0
+Bromus_sterilis	HQ619771.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0
+Bromus_sterilis	JN890709.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0
+Bromus_sterilis	JN890706.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

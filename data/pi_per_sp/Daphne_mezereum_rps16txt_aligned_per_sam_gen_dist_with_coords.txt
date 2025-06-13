@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daphne_mezereum	OQ791639.1	20-SEP-2023	842	Spain: Gerona. Tosses, pr. la Molina, pico Niu d liga	secondary	rps16	41.9793006	2.8199439	0.000942719371922407
+Daphne_mezereum	OQ791638.1	20-SEP-2023	840	Italy: L'Aquila, c. el Paso di Campanelle, nacimiento del rio Vomano	secondary	rps16	42.3489203	13.3979672	0.000747614066077293
+Daphne_mezereum	OQ791637.1	20-SEP-2023	778	Bulgaria: Popovi Livadi, S Pirin mts., Blagoevgrad district	secondary	rps16	41.5526318	23.6441415	0.000772615398904059
+Daphne_mezereum	OQ791636.1	20-SEP-2023	776	Spain: Ripolles, Serra de Sant Amanc, ladera norte	secondary	rps16	40.6441419	-0.0858066	0.000773031095611741
+Daphne_mezereum	OQ791635.1	20-SEP-2023	556	Spain: Huesca, Maladeta.	secondary	rps16	42.6310731	0.6566457	0.00135054118867069

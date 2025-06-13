@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_fastigiatum	KX697191.1	13-SEP-2017	737	Spain: Burgos, Canon del rio Ubierna	secondary	CHS	41.9275088067912	-2.68633745340513	0.00375743659325749
+Alyssum_fastigiatum	KX697190.1	13-SEP-2017	740	Spain: Burgos, Canon del rio Ubierna	secondary	CHS	41.7059519715156	-2.90126208842485	0.00749667839220078
+Alyssum_fastigiatum	KX697189.1	13-SEP-2017	737	Spain: Burgos, Canon del rio Ubierna	secondary	CHS	42.1752155835544	-3.93686071452815	0.00500991545767665
+Alyssum_fastigiatum	KX697183.1	13-SEP-2017	739	Spain: Huesca, El Turbon	secondary	CHS	42.6655930117533	-0.329009168389362	0.00385700781556415
+Alyssum_fastigiatum	KX697182.1	13-SEP-2017	740	Spain: Huesca, El Turbon	secondary	CHS	42.9600448838516	0.637831089235826	0.00697692787245026
+Alyssum_fastigiatum	KX697096.1	13-SEP-2017	743	Spain: Teruel, Sierra de Javalambre	secondary	CHS	39.9505751738127	-1.6121319647435	0.00353221218355234
+Alyssum_fastigiatum	KX697095.1	13-SEP-2017	741	Spain: Teruel, Sierra de Javalambre	secondary	CHS	39.769727056889	-0.978202718941186	0.00333318109412737
+Alyssum_fastigiatum	KX697088.1	13-SEP-2017	740	Spain: Palencia, Renedo de la Inera	secondary	CHS	42.761029	-4.2150644	0.00562049890408099
+Alyssum_fastigiatum	KX697084.1	13-SEP-2017	747	Spain: Huesca, Tozal de Guara	secondary	CHS	42.0165994421809	-1.07541985594319	0.00623284391163137
+Alyssum_fastigiatum	KX697083.1	13-SEP-2017	739	Spain: Huesca, Tozal de Guara	secondary	CHS	42.0972885822973	0.281448160177041	0.00448324724777374
+Alyssum_fastigiatum	KX697067.1	13-SEP-2017	741	Spain: Palencia, Dehesa de Montejo	secondary	CHS	43.5795631176989	-4.74878148243732	0.00718088643643058
+Alyssum_fastigiatum	KX697066.1	13-SEP-2017	740	Spain: Palencia, Dehesa de Montejo	secondary	CHS	42.6278394188537	-5.1541654950102	0.00634814963173172
+Alyssum_fastigiatum	KX697065.1	13-SEP-2017	739	Spain: Cuenca, Canamares	secondary	CHS	40.41105964677	-2.52043276753483	0.00323218074111779
+Alyssum_fastigiatum	KX697064.1	13-SEP-2017	744	Spain: Cuenca, Canamares	secondary	CHS	40.7146191571249	-2.1320055958152	0.0118516510174604

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_deltoides	MG247572.1	21-JAN-2018	552	Canada: Woodhouse Twp, ON	primary	rbcL	42.783	-80.2834	0
+Dianthus_deltoides	JN892040.1	07-MAR-2012	542	United Kingdom: Merionethshire	primary	rbcL	52.85	-4.23	0
+Dianthus_deltoides	KU722898.1	27-SEP-2016	553	Germany	secondary	rbcL	40.034398103468	-78.2036582367397	0
+Dianthus_deltoides	KU722897.1	27-SEP-2016	553	Germany	secondary	rbcL	40.9799617655388	-78.7761772261848	0
+Dianthus_deltoides	KU722856.1	27-SEP-2016	814	Germany	secondary	rbcL	39.9412375332762	-78.6652481154324	0
+Dianthus_deltoides	KU722855.1	27-SEP-2016	814	Germany	secondary	rbcL	39.9259745482786	-78.5211723215835	0
+Dianthus_deltoides	JN892692.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Dianthus_deltoides	JN892688.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0
+Dianthus_deltoides	HE574625.1	31-JUL-2011	558	Finland	secondary	rbcL	63.2467777	25.9209164	0

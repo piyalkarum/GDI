@@ -1,0 +1,26 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_capillaris	MZ359307.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.00046335549965314
+Carex_capillaris	MG228089.1	23-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, BPNP	primary	rbcL	45.185	-81.602	0.000462497556616682
+Carex_capillaris	MG227392.1	23-JAN-2018	671	Canada: Nunavut, Baffin Island, Frobisher Bay, Koojesse Bay trail from Frobisher Bay to Apex Hill	primary	rbcL	62.3	-66	0.000569515873220981
+Carex_capillaris	MG226945.1	23-JAN-2018	671	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour, inner basin, S slope approaching Stickleback Lake	primary	rbcL	62.5873104791139	-65.5212615483767	0.00235818898087701
+Carex_capillaris	MG226379.1	23-JAN-2018	671	Canada: Nunavut, Baffin Island, Iqaluit, run-off stream between Apex and Iqaluit	primary	rbcL	62.9894081482559	-68.3628083634759	0.000569515873220981
+Carex_capillaris	KX677885.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, near small runoff/creek area	primary	rbcL	49.454	-120.996	0.000462497556616682
+Carex_capillaris	FJ548255.1	25-AUG-2009	671	Canada: Nunuavut, Baffin Island, Ogac Lake, Ney Harbour, inner basin, S slope approaching Stickleback Lake	primary	rbcL	62.6130918022653	-67.7878266814306	0.00235818898087701
+Carex_capillaris	FJ548254.1	25-AUG-2009	671	Canada: Nunuavut, Baffin Island, Iqaluit, run-off stream between Apex and Iqaluit	primary	rbcL	64.1982044520273	-66.8533597544723	0.000569515873220981
+Carex_capillaris	FJ548253.1	25-AUG-2009	671	Canada: Nunuavut, Baffin Island, Frobisher Bay, Koojesse Bay trail from Frobisher Bay to Apex Hill	primary	rbcL	62.5	-66	0.000569515873220981
+Carex_capillaris	KT960496.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.4561852470869	-18.9860425464945	0.000462497556616682
+Carex_capillaris	KT960466.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1316778314491	-18.3304513416929	0.00224490237507017
+Carex_capillaris	KT960454.1	13-DEC-2015	534	Greenland: NE, Zackenberg	primary	rbcL	74.8214828244354	-18.1840837688483	0.000478443861340988
+Carex_capillaris	KC482258.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Hornaday River, ~1 km downstream of valley leading to Castle Butte	primary	rbcL	68.1833	-121.825	0.000462497556616682
+Carex_capillaris	JN965378.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	rbcL	58.772	-94.163	0.00194297000792041
+Carex_capillaris	JN965351.1	27-OCT-2012	522	Canada: Manitoba, Churchill, 16 km E Churchill, small creek near Launch Road, Tundra creek, in water	primary	rbcL	58.745	-93.895	0.000489700616631017
+Carex_capillaris	JN965350.1	27-OCT-2012	522	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	rbcL	58.769	-93.856	0.000479849991510346
+Carex_capillaris	JN965349.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.1611237081496	-90.9485590573441	0.000462497556616682
+Carex_capillaris	JN965348.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 31 km E Churchill, Fort Churchill, Spaceport project, churchill area. Site 12. Beach ridge. Flat gravel area, sparsely colonized. Damp sand and gravel area.	primary	rbcL	57.864595200836	-92.1876389914096	0.00194297000792041
+Carex_capillaris	JN965347.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.407	-93.062	0.000462497556616682
+Carex_capillaris	JN965346.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.767	-93.251	0.00194297000792041
+Carex_capillaris	JN965345.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Boggy ground.	primary	rbcL	58.76	-93.22	0.000462497556616682
+Carex_capillaris	JN893400.1	07-MAR-2012	542	United Kingdom: Caernarfonshire	primary	rbcL	53.14	-3.9	0.000472113467332295
+Carex_capillaris	MK925314.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1536565048389	-2.95252414616395	0.000472113467332295
+Carex_capillaris	MK925175.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7879774073647	-2.89154513879592	0.000472113467332295
+Carex_capillaris	JN892346.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.000472113467332295

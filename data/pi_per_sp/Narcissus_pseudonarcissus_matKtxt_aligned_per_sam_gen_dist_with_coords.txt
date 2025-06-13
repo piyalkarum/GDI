@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_pseudonarcissus	OR464963.1	26-SEP-2023	912	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	41.5473074472073	-85.1644020304019	0.00170864022674497
+Narcissus_pseudonarcissus	OR464962.1	26-SEP-2023	864	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.4390227358089	-85.3658722352936	0.00116356066236018
+Narcissus_pseudonarcissus	KX783722.1	31-MAY-2017	811	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	31.2	30.022	0.00124075357473279
+Narcissus_pseudonarcissus	KC608019.1	01-MAR-2014	894	Spain: Huesca	secondary	matK	42.1382539	-0.4080901	0.0015789174490029
+Narcissus_pseudonarcissus	KC238497.1	01-OCT-2014	1781	Spain: Granada	secondary	matK	37.1734995	-3.5995337	0.00477233044893052
+Narcissus_pseudonarcissus	MN070168.1	07-AUG-2019	833	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00240646065375957
+Narcissus_pseudonarcissus	KC238503.1	01-OCT-2014	1777	Andorra	secondary	matK	42.5407167	1.5732033	0.00129600040604239
+Narcissus_pseudonarcissus	KC238499.1	01-OCT-2014	1777	Portugal: Marao	secondary	matK	41.2484625	-7.8869794	0.00311248622949147

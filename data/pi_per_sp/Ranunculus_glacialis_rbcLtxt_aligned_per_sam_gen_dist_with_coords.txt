@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_glacialis	MG248812.1	21-JAN-2018	552	USA: Alaska, Southeast Fairbanks Census Area, Yukon-Charley Rivers, Upper Diamond Fork	primary	rbcL	64.877	-142.823	0.00186132423984086
+Ranunculus_glacialis	KT960563.1	13-DEC-2015	510	Greenland: NE, Zackenberg	primary	rbcL	74.4032878433165	-23.382202340059	0.00065359477124183
+Ranunculus_glacialis	KT960554.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.114745507328	-21.7573202059997	0.000603864734299517
+Ranunculus_glacialis	KT960514.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.866280158861	-21.3301521292935	0.000603864734299517

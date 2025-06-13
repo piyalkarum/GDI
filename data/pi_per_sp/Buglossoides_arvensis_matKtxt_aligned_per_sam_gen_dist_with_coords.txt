@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Buglossoides_arvensis	JN895435.1	07-MAR-2012	755	United Kingdom: Glamorgan	primary	matK	51.56	-3.02	0
+Buglossoides_arvensis	EU599676.1	31-MAR-2009	1580	Turkey	secondary	matK	38.9597594	34.9249653	0
+Buglossoides_arvensis	HM850865.1	23-JUL-2011	810	Portugal	secondary	matK	39.6621648	-8.1353519	0
+Buglossoides_arvensis	JN894519.1	07-MAR-2012	811	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

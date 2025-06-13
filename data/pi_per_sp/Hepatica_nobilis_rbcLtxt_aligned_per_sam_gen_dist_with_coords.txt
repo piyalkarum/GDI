@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hepatica_nobilis	MK551080.1	17-MAR-2019	918	Romania: Nucet	primary	rbcL	46.5	22.56	0.0104931300583474
+Hepatica_nobilis	KU662957.1	08-JUN-2016	1314	China	secondary	rbcL	35.000074	104.999927	0.00925960016199698
+Hepatica_nobilis	AM267294.1	25-MAY-2007	967	Austria	secondary	rbcL	36.9148511	-4.7534501	0.00823997607881928
+Hepatica_nobilis	AM267293.1	25-MAY-2007	971	Japan	secondary	rbcL	36.5396110632609	139.464218339784	0.00785942649242398
+Hepatica_nobilis	AM267292.1	25-MAY-2007	971	Japan	secondary	rbcL	36.0797078761968	139.785436526793	0.00785942649242398

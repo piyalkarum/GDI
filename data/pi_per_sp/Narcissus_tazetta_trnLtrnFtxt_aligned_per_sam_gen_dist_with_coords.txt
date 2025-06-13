@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_tazetta	JF973265.1	30-AUG-2011	416	Italy: Cagliari	secondary	trnL-trnF	38.4256142123338	9.46941425258242	0.0255370849085552
+Narcissus_tazetta	JF973264.1	30-AUG-2011	404	Cyprus: Kyrenia	secondary	trnL-trnF	35.3352654	33.3188405	0.0130913503107547
+Narcissus_tazetta	JF973263.1	30-AUG-2011	415	France: Lattes	secondary	trnL-trnF	43.5653993	3.9017114	0.0129594123733717
+Narcissus_tazetta	JF973262.1	30-AUG-2011	421	Greece: Corfu	secondary	trnL-trnF	39.591337	19.8596189	0.0194023706135122
+Narcissus_tazetta	JF973261.1	30-AUG-2011	419	Italy: Salerno	secondary	trnL-trnF	40.4194416	15.3107562	0.0180885395015928
+Narcissus_tazetta	JF973260.1	30-AUG-2011	419	Italy: Pisa	secondary	trnL-trnF	43.7159395	10.4018624	0.0216843378090106
+Narcissus_tazetta	JF973259.1	30-AUG-2011	417	France: Sommieres	secondary	trnL-trnF	43.7831093	4.0904546	0.0127855941019336
+Narcissus_tazetta	JF973258.1	30-AUG-2011	422	Greece: Olympia	secondary	trnL-trnF	37.6382503	21.630566	0.0157821016087237
+Narcissus_tazetta	JF973257.1	30-AUG-2011	406	Italy: Cagliari	secondary	trnL-trnF	38.345522675738	9.09483498265996	0.0153314169077571
+Narcissus_tazetta	JF973256.1	30-AUG-2011	419	Italy: Avellino	secondary	trnL-trnF	40.6916580668134	15.456656603056	0.0210360649647526
+Narcissus_tazetta	JF973255.1	30-AUG-2011	417	France: Aujargues	secondary	trnL-trnF	43.7898707	4.1222285	0.0292811694697599
+Narcissus_tazetta	JF973254.1	30-AUG-2011	412	Morocco: Boudinar	secondary	trnL-trnF	35.154017	-3.632216	0.0102460051605262
+Narcissus_tazetta	JF973253.1	30-AUG-2011	422	Israel: Ramat Aviv	secondary	trnL-trnF	32.1088611	34.7950946	0.0173370346694549
+Narcissus_tazetta	JF973252.1	30-AUG-2011	425	Israel: Dimona	secondary	trnL-trnF	31.0686612	35.0366482	0.0190467963316256
+Narcissus_tazetta	JF973251.1	30-AUG-2011	418	Italy: Avellino	secondary	trnL-trnF	40.9734514966552	15.7679804726976	0.0238235409531199

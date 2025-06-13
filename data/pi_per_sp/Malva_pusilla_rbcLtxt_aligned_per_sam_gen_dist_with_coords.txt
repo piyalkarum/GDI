@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Malva_pusilla	MG248680.1	21-JAN-2018	552	Canada: Guelph, W of Horse baran	primary	rbcL	43.7797488509986	-80.3200020447686	0.00181159420289855
+Malva_pusilla	MG248366.1	21-JAN-2018	552	Canada: Saskatchewan, Saskatoon City Limits, NE Swale	primary	rbcL	52.178	-106.57	0.00181159420289855
+Malva_pusilla	MG247743.1	21-JAN-2018	552	Canada: UofG campus	primary	rbcL	44.0347685789215	-80.3379631536274	0.00181159420289855
+Malva_pusilla	MG246936.1	21-JAN-2018	552	Canada: Saskatchewan, Leader Saskatchewan	primary	rbcL	50.884	-109.534	0.00181159420289855
+Malva_pusilla	MG246750.1	21-JAN-2018	552	Canada: Yukon Territory, North Klondike Highway, Dillabough's	primary	rbcL	60.917	-135.176	0.00181159420289855
+Malva_pusilla	MT931739.1	03-MAR-2023	569	China	secondary	rbcL	35.6614866930185	104.651620680769	0.00452898550724638
+Malva_pusilla	MT931738.1	03-MAR-2023	572	China	secondary	rbcL	35.802964010364	105.364008155907	0.00452898550724638

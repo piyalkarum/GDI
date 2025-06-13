@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_ochrus	KX431880.1	10-MAY-2017	512	Spain	secondary	rbcL	39.3260685	-4.8379791	0.00152979810431734
+Lathyrus_ochrus	KX431879.1	10-MAY-2017	517	Syria	secondary	rbcL	34.6401861	39.0494106	0.00282226355370984
+Lathyrus_ochrus	KX431878.1	10-MAY-2017	509	Algeria	secondary	rbcL	28.0000272	2.9999825	0.0103002410694718
+Lathyrus_ochrus	KX431877.1	10-MAY-2017	520	Tunisia: Gabes	secondary	rbcL	33.7765032	9.793063	0.0015243606487469
+Lathyrus_ochrus	KX431876.1	10-MAY-2017	521	Tunisia: Sfax	secondary	rbcL	34.7232387	10.3358474	0.00216374578909173
+Lathyrus_ochrus	KX431875.1	10-MAY-2017	530	Tunisia: Beja	secondary	rbcL	36.7462304	9.2032328	0.00407748541018758
+Lathyrus_ochrus	KX431874.1	10-MAY-2017	516	Tunisia: Ariana	secondary	rbcL	36.9685735	10.1219855	0.00152726978716523
+Lathyrus_ochrus	KX431873.1	10-MAY-2017	522	Tunisia: Bizerte	secondary	rbcL	37.2720905	9.8708565	0.00429190258223849
+Lathyrus_ochrus	HM850108.1	23-JUL-2011	690	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00253218158979565
+Lathyrus_ochrus	JN661184.1	09-JAN-2013	1352	Spain: Canary Islands, Gran Canaria	secondary	rbcL	27.9580004	-15.6062305	0.00253218158979565

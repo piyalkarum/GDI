@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ornithopus_perpusillus	JN890874.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.4	-4.08	0
+Ornithopus_perpusillus	HM850216.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Ornithopus_perpusillus	JN890831.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0
+Ornithopus_perpusillus	JN890830.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

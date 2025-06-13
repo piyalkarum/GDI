@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Urtica_membranacea	KX271443.1	07-JUN-2016	794	Spain	secondary	trnL-trnF	38.9722318396229	-4.82552709491817	0.0122417709811744
+Urtica_membranacea	KX271442.1	07-JUN-2016	795	Spain	secondary	trnL-trnF	39.1166789602571	-5.19688089374461	0.00631585220373758
+Urtica_membranacea	KF559038.1	21-DEC-2013	790	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.00718316880452188
+Urtica_membranacea	KF559033.1	21-DEC-2013	790	Spain: Mallorca	secondary	trnL-trnF	39.613432	2.8829185	0.0105645828757509

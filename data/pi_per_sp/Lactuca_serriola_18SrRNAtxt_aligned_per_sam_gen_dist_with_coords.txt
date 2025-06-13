@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lactuca_serriola	LS975401.1	03-OCT-2018	637	USA	secondary	18S rRNA	39.2765924642853	-101.098232760935	0.000392464678178964
+Lactuca_serriola	LS975400.1	03-OCT-2018	637	USA	secondary	18S rRNA	39.0563465265981	-100.113147202178	0.00156985871271586
+Lactuca_serriola	AB742457.1	28-DEC-2012	2577	Japan:Hiroshima, Hiroshima-shi, Minami-ku	secondary	18S rRNA	34.379352	132.485453	0.000392464678178964
+Lactuca_serriola	AB742456.1	28-DEC-2012	929	Japan:Hiroshima, Hatsukaichi-shi, Miyauchi	secondary	18S rRNA	34.3472906	132.3250867	0.000392464678178964
+Lactuca_serriola	AB742455.1	28-DEC-2012	929	Japan:Hiroshima, Hatsukaichi-shi, Miyajima-guchi	secondary	18S rRNA	34.3114086	132.3046296	0.000392464678178964

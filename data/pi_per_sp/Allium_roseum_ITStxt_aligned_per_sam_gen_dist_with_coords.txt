@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_roseum	HF934330.1	12-MAY-2015	648	Spain:Alicante	secondary	ITS	38.3436365	-0.4881708	0.00257201646090535
+Allium_roseum	HF934329.1	12-MAY-2015	648	Tunisia:Tabarka, Tell Atlas	secondary	ITS	36.9545614	8.7573829	0.00257201646090535
+Allium_roseum	HF934328.1	12-MAY-2015	648	Greece:Etolia-Akarnania	secondary	ITS	38.7033384	21.2490055	0.00360082304526749
+Allium_roseum	FR693745.1	22-SEP-2011	648	Spain:Malaga, Finca Los Picachones	secondary	ITS	36.7213028	-4.4216366	0.00668724279835391

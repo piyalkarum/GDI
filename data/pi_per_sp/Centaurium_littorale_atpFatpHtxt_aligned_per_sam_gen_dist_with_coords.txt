@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurium_littorale	MN122005.1	23-FEB-2020	501	Denmark: Jutland, Skallingen D27	primary	atpF-atpH	54.974636273208	7.08846647591101	0
+Centaurium_littorale	MN122000.1	23-FEB-2020	501	Sweden: Gotland, Herrvik prope Katthammarsvik	primary	atpF-atpH	56.7115181793801	17.8485543324411	0
+Centaurium_littorale	MN121989.1	23-FEB-2020	501	Denmark: Jutland, Skallingen D27	primary	atpF-atpH	55.3287980279173	7.31907695960587	0
+Centaurium_littorale	MN121988.1	23-FEB-2020	501	Denmark: Jutland, Faerfer Vig, Fur, Ile	primary	atpF-atpH	56.49	9.01	0
+Centaurium_littorale	MN121981.1	23-FEB-2020	501	Sweden: Gotland, Herrvik	primary	atpF-atpH	56.965548740489	19.7861188921055	0
+Centaurium_littorale	MN121976.1	23-FEB-2020	501	Denmark: Jutland, Grenen	primary	atpF-atpH	57.44	10.38	0

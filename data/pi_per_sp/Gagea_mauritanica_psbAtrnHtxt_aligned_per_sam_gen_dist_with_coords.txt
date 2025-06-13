@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_mauritanica	HE649751.1	04-FEB-2013	281	Spain:Baleares	secondary	psbA-trnH	40.3158706538051	3.54250657892095	0
+Gagea_mauritanica	HE649750.1	04-FEB-2013	281	Spain:Baleares	secondary	psbA-trnH	39.7647592599985	3.40929946068918	0
+Gagea_mauritanica	HE649749.1	04-FEB-2013	281	Algeria	secondary	psbA-trnH	28.0000272	2.9999825	0
+Gagea_mauritanica	AM409348.1	02-NOV-2006	378	Italy	secondary	psbA-trnH	42.6384261	12.674297	0

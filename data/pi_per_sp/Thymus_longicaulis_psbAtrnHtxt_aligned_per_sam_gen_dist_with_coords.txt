@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_longicaulis	HE819455.1	22-MAY-2013	411	Italy:Puglia	primary	psbA-trnH	41.7	15.66	0.0152186813838941
+Thymus_longicaulis	HE819454.1	22-MAY-2013	413	Italy:Abruzzo	primary	psbA-trnH	42.17	13.6	0.0358970514267541
+Thymus_longicaulis	HE819453.1	22-MAY-2013	418	Italy:Lazio	primary	psbA-trnH	42.21	12.42	0.0213118636040729
+Thymus_longicaulis	HE819452.1	22-MAY-2013	411	Italy:Calabria	primary	psbA-trnH	39.05	16.64	0.0152439024390244
+Thymus_longicaulis	HE819451.1	22-MAY-2013	411	Italy:Campania	primary	psbA-trnH	40.65	14.49	0.0170464660850988

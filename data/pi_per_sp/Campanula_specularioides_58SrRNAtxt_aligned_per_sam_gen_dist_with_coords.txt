@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_specularioides	FM212710.1	27-APR-2009	698	Spain:Malaga	primary	5.8S rRNA	36.43	-5.15	0.0037479876504725
+Campanula_specularioides	FM212709.1	27-APR-2009	672	Spain:Malaga	primary	5.8S rRNA	36.4523916266445	-4.66193363816798	0.00536246540344901
+Campanula_specularioides	FM212708.1	27-APR-2009	700	Spain:Malaga	primary	5.8S rRNA	36.3395637612492	-5.59883093334058	0.0092318817537714
+Campanula_specularioides	FM212707.1	27-APR-2009	698	Spain:Malaga	primary	5.8S rRNA	37.2022015874119	-5.47741961775097	0.00606331054449801
+Campanula_specularioides	FM212706.1	27-APR-2009	699	Spain:Malaga	primary	5.8S rRNA	35.7688883235985	-5.06497932110062	0.00777881898676716
+Campanula_specularioides	FM212705.1	27-APR-2009	698	Spain:Cadiz	primary	5.8S rRNA	36.45	-5.21	0.0037479876504725

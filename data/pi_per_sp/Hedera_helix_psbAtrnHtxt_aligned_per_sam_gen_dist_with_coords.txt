@@ -1,0 +1,37 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedera_helix	KY798799.1	20-APR-2018	357	France: Fontainebleau	secondary	psbA-trnH	48.4049375	2.7015872	0.00272108843537415
+Hedera_helix	KY798798.1	20-APR-2018	387	Spain: Castellon, Bellavista	secondary	psbA-trnH	40.3598771	0.3946039	0.00314377496255258
+Hedera_helix	KY798797.1	20-APR-2018	387	Turkey: Zonguldak	secondary	psbA-trnH	41.250324	31.8389738	0.00314377496255258
+Hedera_helix	KY798796.1	20-APR-2018	387	Czech Republic: Moravia, Temenice	secondary	psbA-trnH	49.9745808	16.9526875	0.00254074305211399
+Hedera_helix	KY798795.1	20-APR-2018	387	Hungary: Budapest, Pest	secondary	psbA-trnH	47.4942216	19.0529846	0.00254074305211399
+Hedera_helix	KY798792.1	20-APR-2018	387	Germany: Wiesbaden	secondary	psbA-trnH	50.0820384	8.2416556	0.00254074305211399
+Hedera_helix	KY798791.1	20-APR-2018	387	Belgium: Brussels	secondary	psbA-trnH	50.8550018	4.3512334	0.00254074305211399
+Hedera_helix	KY798790.1	20-APR-2018	387	Switzerland: Murten	secondary	psbA-trnH	46.9288643	7.1163909	0.00254074305211399
+Hedera_helix	KY798789.1	20-APR-2018	388	Austria: Baden	secondary	psbA-trnH	48.0085749	16.2334951	0.016134167495856
+Hedera_helix	KY798788.1	20-APR-2018	387	United Kingdom: Scotland, Great Britain, South west Hebrides	secondary	psbA-trnH	52.8609703	-0.5098637	0.00254074305211399
+Hedera_helix	KY798787.1	20-APR-2018	387	Ukraine: Crimea, Mountain-Forest Nature Reserve	secondary	psbA-trnH	44.4714258	34.0687099	0.00314377496255258
+Hedera_helix	KY798786.1	20-APR-2018	387	France: Pyrenees, Gabas	secondary	psbA-trnH	42.8894933	-0.4280869	0.00254074305211399
+Hedera_helix	KY798784.1	20-APR-2018	387	France: Corce	secondary	psbA-trnH	46.7771134	0.6039188	0.00254074305211399
+Hedera_helix	KY798783.1	20-APR-2018	387	Ukraine: Crimea, Yalta	secondary	psbA-trnH	44.4970713	34.1586871	0.00314377496255258
+Hedera_helix	KY798782.1	20-APR-2018	387	Greece: Crete, Strovles	secondary	psbA-trnH	35.3669911	23.6694418	0.00314377496255258
+Hedera_helix	KY798781.1	20-APR-2018	388	Italy: Sicily, Siracusa	secondary	psbA-trnH	37.0646139	15.2907196	0.00509389416822877
+Hedera_helix	KY798780.1	20-APR-2018	387	Italy: Ercolano	secondary	psbA-trnH	40.8053613	14.3471036	0.00254074305211399
+Hedera_helix	KY798779.1	20-APR-2018	357	Spain: Menorca	secondary	psbA-trnH	39.949286	4.0529485	0.00272108843537415
+Hedera_helix	KY798778.1	20-APR-2018	387	Spain: Soria	secondary	psbA-trnH	41.6012505	-2.721938	0.00254074305211399
+Hedera_helix	KY798777.1	20-APR-2018	387	Spain: Guadalajara	secondary	psbA-trnH	40.7399963	-2.50593	0.00675312310885209
+Hedera_helix	KY798776.1	20-APR-2018	387	Spain: Madrid, Valle del Paular	secondary	psbA-trnH	40.5550008	-3.7659044	0.00675312310885209
+Hedera_helix	KY798775.1	20-APR-2018	387	Spain: Jaen, Cazorla	secondary	psbA-trnH	37.9128927	-3.0038873	0.00675312310885209
+Hedera_helix	KY798774.1	20-APR-2018	387	Spain: Granada, Sierra Nevada	secondary	psbA-trnH	37.0913019	-3.0766216	0.00675312310885209
+Hedera_helix	KY798773.1	20-APR-2018	387	Spain: Almeria, Sierra de Gador	secondary	psbA-trnH	36.8937379	-2.7645385	0.00675312310885209
+Hedera_helix	KY798772.1	20-APR-2018	387	Greece: Peloponeso, Drakofto-Kalovryta	secondary	psbA-trnH	37.36332825	22.2395373439955	0.00314377496255258
+Hedera_helix	FJ493260.1	22-DEC-2008	527	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.00514336079620404
+Hedera_helix	HE966658.1	18-SEP-2012	524	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	44.9777854791884	13.7609084993744	0.00256758661829483
+Hedera_helix	HE966657.1	18-SEP-2012	524	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.5041819367729	14.104707885861	0.00256758661829483
+Hedera_helix	HE966656.1	18-SEP-2012	524	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.8900759965105	12.6407057782585	0.00256758661829483
+Hedera_helix	HQ220579.1	04-DEC-2011	532	USA: North Carolina	secondary	psbA-trnH	35.6729639	-79.0392919	0.00316280650263128
+Hedera_helix	HQ220577.1	04-DEC-2011	528	USA	secondary	psbA-trnH	39.0603823275588	-99.9769722897584	0.00914044744573125
+Hedera_helix	HQ220576.1	04-DEC-2011	532	USA	secondary	psbA-trnH	40.2864648524521	-99.6809454973386	0.00259773335364707
+Hedera_helix	HQ220575.1	04-DEC-2011	532	USA	secondary	psbA-trnH	39.1440412300312	-100.042978950104	0.00259773335364707
+Hedera_helix	HQ220570.1	04-DEC-2011	531	USA: California	secondary	psbA-trnH	36.7014631	-118.755997	0.00259834635644923
+Hedera_helix	HQ220569.1	04-DEC-2011	532	USA: Maryland	secondary	psbA-trnH	39.5162401	-76.9382069	0.00316280650263128
+Hedera_helix	FN687521.1	16-MAR-2010	525	Italy:Umbria	secondary	psbA-trnH	42.965916	12.490236	0.00256627476262633

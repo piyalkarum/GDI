@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stuckenia_filiformis	KC475956.1	25-OCT-2013	675	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Unnamed cove on west coast, 1/2 way down island, lake 1 km SE of camp at coast	primary	matK	56.25	-79.608	0.00296296296296296
+Stuckenia_filiformis	KC475955.1	25-OCT-2013	691	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Bill Storr Channel	primary	matK	68.86	-136.813	0.00732607846471173
+Stuckenia_filiformis	KC475954.1	25-OCT-2013	696	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Stokes Point	primary	matK	69.325	-138.717	0.0072972451009806
+Stuckenia_filiformis	KC475953.1	25-OCT-2013	662	Canada: Northwest Territories, Tuktoyaktuk, In pond between Airport runway and Polar Continental Shelf Project Base	primary	matK	69.5	-133	0.00302114803625378
+Stuckenia_filiformis	KC475952.1	25-OCT-2013	691	Canada: Nunavut, Meliadine River Park, 1.75 km NW of mouth of Meliadine River, 7 km N of Rankin Inlet, Meliadine River Park study area, Hudson Bay	primary	matK	62.8667	-92.1167	0.00289858137904346
+Stuckenia_filiformis	JN966699.1	27-OCT-2012	733	Canada: Manitoba	primary	matK	58.1505235096548	-93.5594378907214	0.00284885109031876
+Stuckenia_filiformis	JN966698.1	27-OCT-2012	725	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, Submerged in lake	primary	matK	58.8662754288762	-94.5243223718759	0.00272536138871974
+Stuckenia_filiformis	JN966697.1	27-OCT-2012	733	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, In channel	primary	matK	58.5042700872329	-93.374832688869	0.00269937876945658
+Stuckenia_filiformis	JN894222.1	07-MAR-2012	775	United Kingdom: Shetland (112)	primary	matK	59.94	-1.34	0.00397425006477976

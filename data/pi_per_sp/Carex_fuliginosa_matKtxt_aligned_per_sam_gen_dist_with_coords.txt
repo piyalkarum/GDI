@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_fuliginosa	MZ400463.1	07-DEC-2021	861	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.0122426507051505
+Carex_fuliginosa	FJ548094.1	25-AUG-2009	730	Canada: Nunavut, Baffin Island	primary	matK	71.32	-79.23	0.00115801377020083
+Carex_fuliginosa	FJ548093.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island	primary	matK	71.44	-80.21	0.00115942309428899
+Carex_fuliginosa	FJ548092.1	25-AUG-2009	730	Canada: Nunavut, Baffin Island	primary	matK	70.91	-79.57	0.0011586308560745
+Carex_fuliginosa	FJ548091.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	matK	62.86	-67.35	0.00115942309428899
+Carex_fuliginosa	FJ548090.1	25-AUG-2009	730	Canada: Nunavut, Scoresby Bay	primary	matK	72.88	-71.55	0.00115801377020083
+Carex_fuliginosa	FJ548089.1	25-AUG-2009	733	Canada: Nunavut, Baffin Island	primary	matK	71.87	-80.89	0.00115380887009057
+Carex_fuliginosa	FJ548088.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island	primary	matK	71.59	-79.99	0.00116024717321598
+Carex_fuliginosa	KC474319.1	25-OCT-2013	774	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Katapik. Area from coast up to top of rocky ridge behind	primary	matK	56.733	-79.383	0.00109281592314869
+Carex_fuliginosa	KC474318.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.644	-115.493	0.00108907464033764
+Carex_fuliginosa	KC474317.1	25-OCT-2013	734	Canada: Nunavut, Nunavut Mainland, Meliadine River Park, Between Sandy' and 'Calf' Lakes west of Meliadine esker at 55 K/16 415729, 10 km N of Rankin Inlet, Meliadine River Park study area, Hudson Bay'	primary	matK	62.883	-92.183	0.001153654905207
+Carex_fuliginosa	KC474316.1	25-OCT-2013	673	Canada: Nunavut, Lower Savage Is., V-shaped lake 1.5 km S of Savage Harbour	primary	matK	61.819	-65.71	0.00253461123156085
+Carex_fuliginosa	KC474315.1	25-OCT-2013	765	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vicinity of Holman Island Airport, Uluhaktok	primary	matK	70.758	-117.79	0.00110532968809713

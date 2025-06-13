@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Isatis_gymnocarpa	OR714770.1	13-NOV-2023	525	Kazakhstan: Qaragandy region	primary	rbcL	47.43832	74.81248	0
+Isatis_gymnocarpa	MT930947.1	03-MAR-2023	572	China	secondary	rbcL	34.4285318669498	104.919600387966	0
+Isatis_gymnocarpa	MT930946.1	03-MAR-2023	565	China	secondary	rbcL	34.9721685096838	105.68135699104	0
+Isatis_gymnocarpa	MT930945.1	03-MAR-2023	568	China	secondary	rbcL	35.5495095853992	105.091631772507	0
+Isatis_gymnocarpa	MT930944.1	03-MAR-2023	568	China	secondary	rbcL	34.4994200224241	104.487328491373	0
+Isatis_gymnocarpa	MT930943.1	03-MAR-2023	571	China	secondary	rbcL	34.6573072932931	104.543472380143	0

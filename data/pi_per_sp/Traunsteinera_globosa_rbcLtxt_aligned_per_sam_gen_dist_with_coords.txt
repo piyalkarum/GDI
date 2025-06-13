@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Traunsteinera_globosa	OK323218.1	08-DEC-2021	573	Poland: Stolowe Mountains National Park.	primary	rbcL	49.9590721305436	15.4737488258716	0
+Traunsteinera_globosa	OK323217.1	08-DEC-2021	573	Poland: Stolowe Mountains National Park.	primary	rbcL	50.5100414783108	16.8668141261134	0
+Traunsteinera_globosa	OK323216.1	08-DEC-2021	573	Poland: Stolowe Mountains National Park.	primary	rbcL	50.7818622701342	17.584319306116	0
+Traunsteinera_globosa	HG417055.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0

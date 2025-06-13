@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Woodsia_glabella	MG215016.1	24-JAN-2018	552	USA: Alaska, Southeast Fairbanks Census Area, Yukon-Charley National Preserve, VABM National Ridge	primary	rbcL	65.276	-141.129	0.00141229311379813
+Woodsia_glabella	KT960711.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.467	-20.567	0.00093146689525165
+Woodsia_glabella	KT960581.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	0.00093146689525165
+Woodsia_glabella	KC484333.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Base of Lookout Hill	primary	rbcL	68.803	-122.222	0.00141229311379813
+Woodsia_glabella	KC484334.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of cliffs on S shore of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.27	-116.46	0.00093146689525165
+Woodsia_glabella	KC484332.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Johan Peninsula, West end of Alexandra Fiord	primary	rbcL	78.817	-76.417	0.00093146689525165
+Woodsia_glabella	KC484331.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity, Region N of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	rbcL	68.764	-112.714	0.00141229311379813
+Woodsia_glabella	KC484330.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Dundas Harbour, W of harbour mouth	primary	rbcL	74.52	-82.55	0.00093146689525165
+Woodsia_glabella	MK695067.1	30-SEP-2022	1285	USA: Black river	secondary	rbcL	44.012571	-75.793991	0.00105416067331557
+Woodsia_glabella	MK695066.1	30-SEP-2022	1260	USA: Alaska	secondary	rbcL	64.4459613	-149.680909	0.00107044828288677
+Woodsia_glabella	KP226764.1	22-AUG-2015	1204	China	secondary	rbcL	34.77120052847	105.387528759635	0.00070073784295609
+Woodsia_glabella	KP226763.1	22-AUG-2015	1204	China	secondary	rbcL	34.363770029102	104.851507136058	0.00222330343081685
+Woodsia_glabella	AB574997.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.000700622965392597

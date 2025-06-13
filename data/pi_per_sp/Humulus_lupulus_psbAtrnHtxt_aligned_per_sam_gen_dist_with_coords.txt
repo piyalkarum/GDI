@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Humulus_lupulus	OR685109.1	11-NOV-2023	299	Kazakhstan: Qaragandy region	primary	psbA-trnH	49.43775	75.48958	0
+Humulus_lupulus	OR465042.1	26-SEP-2023	349	USA: Bishop's Bog Preserve, Portage, MI	primary	psbA-trnH	42.18445548	-85.59138933	0
+Humulus_lupulus	OQ303544.1	13-JUN-2023	380	Latvia	secondary	psbA-trnH	56.8406494	24.7537645	0
+Humulus_lupulus	FN687524.1	16-MAR-2010	416	Italy:Umbria	secondary	psbA-trnH	42.965916	12.490236	0

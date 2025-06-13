@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ficaria_verna	MZ676686.1	10-AUG-2022	585	United Kingdom: England, Durham	primary	rbcL	54.7553	-1.5763	0.0041237663732876
+Ficaria_verna	KP402634.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, Cumberstone Rd. - on left side of road near gate before going down the hill to the CO2 site	primary	rbcL	38.87	-76.551	0.00135623869801085
+Ficaria_verna	JN892285.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.41	-4.04	0.00138376383763838
+Ficaria_verna	JN892533.1	07-MAR-2012	531	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Ficaria_verna	JN892531.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00138376383763838

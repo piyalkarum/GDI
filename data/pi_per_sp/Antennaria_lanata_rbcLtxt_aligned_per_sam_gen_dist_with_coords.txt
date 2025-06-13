@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antennaria_lanata	MG222420.1	26-DEC-2017	552	Canada: Manning Provincial Park	primary	rbcL	48.3228005740659	-120.989976897733	0
+Antennaria_lanata	MG221234.1	26-DEC-2017	552	Canada: Manning Provincial Park	primary	rbcL	49.3233461103634	-120.103882424166	0
+Antennaria_lanata	KX679189.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Manning Park, Cascade Lookout Road & Sub-Alpine Meadow trails	primary	rbcL	49.1036	-120.759	0
+Antennaria_lanata	KX679102.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Manning Provincial Park, Sub-Alpine Meadows Loop	primary	rbcL	49.1027	-120.76	0

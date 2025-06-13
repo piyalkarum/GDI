@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_parviflora	MK926111.1	14-JAN-2020	753	Spain	secondary	matK	39.3260685	-4.8379791	0
+Vicia_parviflora	HM851170.1	23-JUL-2011	303	Portugal	secondary	matK	40.271773454669	-8.73399950460239	0
+Vicia_parviflora	JX505908.1	09-JAN-2013	903	Portugal	secondary	matK	39.1808059748855	-7.86811318437551	0
+Vicia_parviflora	JX505907.1	09-JAN-2013	946	Portugal	secondary	matK	39.4979868065254	-8.57206798482444	0
+Vicia_parviflora	JX505906.1	09-JAN-2013	982	Portugal	secondary	matK	38.8832127362806	-7.80791991616534	0

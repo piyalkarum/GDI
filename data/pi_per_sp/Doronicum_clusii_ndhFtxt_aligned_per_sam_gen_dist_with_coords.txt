@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Doronicum_clusii	KP133725.1	17-MAR-2015	1082	Switzerland	primary	ndhF	46.0161	7.445	0
+Doronicum_clusii	KP133724.1	17-MAR-2015	1082	Switzerland	primary	ndhF	46.5644	8.4319	0
+Doronicum_clusii	KP133723.1	17-MAR-2015	1067	Switzerland	primary	ndhF	46.9414	9.298	0
+Doronicum_clusii	KP133722.1	17-MAR-2015	1067	Italy	primary	ndhF	46.3319	9.9003	0
+Doronicum_clusii	KP133721.1	17-MAR-2015	1067	Switzerland	primary	ndhF	46.7303	9.9447	0
+Doronicum_clusii	KP133720.1	17-MAR-2015	1067	Austria	primary	ndhF	46.90972	10.10972	0
+Doronicum_clusii	KP133719.1	17-MAR-2015	1067	Italy	primary	ndhF	46.28805	10.57305	0
+Doronicum_clusii	KP133718.1	17-MAR-2015	1067	Austria	primary	ndhF	47.10277	10.72916	0
+Doronicum_clusii	KP133717.1	17-MAR-2015	1067	Austria	primary	ndhF	47.24722	11.05555	0
+Doronicum_clusii	KP133716.1	17-MAR-2015	1067	Austria	primary	ndhF	47.2125	11.475	0
+Doronicum_clusii	KP133715.1	17-MAR-2015	1067	Italy	primary	ndhF	46.17638	11.60777	0
+Doronicum_clusii	KP133714.1	17-MAR-2015	1067	Italy	primary	ndhF	46.70527	11.73222	0
+Doronicum_clusii	KP133713.1	17-MAR-2015	1067	Austria	primary	ndhF	47.11777	12.09222	0
+Doronicum_clusii	KP133712.1	17-MAR-2015	1067	Austria	primary	ndhF	46.77666	12.385	0
+Doronicum_clusii	KP133711.1	17-MAR-2015	1067	Austria	primary	ndhF	46.80916	12.93833	0

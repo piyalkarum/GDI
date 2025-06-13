@@ -1,0 +1,27 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stuckenia_filiformis	MF694545.1	04-SEP-2018	503	Canada: Yukon Territory, Leaf Lake	primary	rbcL	60.1333084957408	-132.276697169084	0.41738987713997
+Stuckenia_filiformis	MF694544.1	04-SEP-2018	508	Canada: Ontario, On the coastal marsh, approximately 1 kilometre north of the mouth of the Kapiskau River.	primary	rbcL	52.7616580716927	-82.6942559720253	0.411779230402717
+Stuckenia_filiformis	MF694529.1	04-SEP-2018	500	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, Submerged in lake	primary	rbcL	58.9277142685837	-95.5487266242137	0.416309484833895
+Stuckenia_filiformis	MF694516.1	04-SEP-2018	508	Canada: Yukon Territory, Takhini Salt Flats, north side of Alaska Highway 1520.6km	primary	rbcL	60.3329292954352	-137.095368015519	0.411232293309162
+Stuckenia_filiformis	MF694508.1	04-SEP-2018	501	Canada: Manitoba	primary	rbcL	58.1453342227384	-95.0585633131987	0.417514922906316
+Stuckenia_filiformis	MF694502.1	04-SEP-2018	503	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, In channel	primary	rbcL	57.7567146180874	-94.0494237279784	0.417937608827239
+Stuckenia_filiformis	MF694620.1	04-SEP-2018	552	Canada: Yukon Territory, Leaf Lake	primary	rbcL	60.140583342156	-132.954728716248	0.126184014027184
+Stuckenia_filiformis	MF694619.1	04-SEP-2018	553	Canada: Ontario, On the coastal marsh, approximately 1 kilometre north of the mouth of the Kapiskau River.	primary	rbcL	52.0921645013241	-81.9717240749129	0.126183877611772
+Stuckenia_filiformis	MF694594.1	04-SEP-2018	553	Canada: Yukon Territory, Takhini Salt Flats, north side of Alaska Highway 1520.6km	primary	rbcL	60.3288561355686	-135.796524982611	0.126183877611772
+Stuckenia_filiformis	KC484180.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Unnamed cove on west coast, 1/2 way down island, lake 1 km SE of camp at coast	primary	rbcL	56.25	-79.608	0.126184014027184
+Stuckenia_filiformis	KC484179.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Bill Storr Channel	primary	rbcL	68.86	-136.813	0.12927099656898
+Stuckenia_filiformis	KC484178.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Outer delta, west of Whitefish Station	primary	rbcL	68.904	-136.935	0.12912139157076
+Stuckenia_filiformis	KC484177.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, 1 km west of airport terminal southwest of runway	primary	rbcL	63.7514	-68.5681	0.126184014027184
+Stuckenia_filiformis	KC484176.1	25-OCT-2013	552	Canada: Nunavut, Meliadine River Park, 1.75 km NW of mouth of Meliadine River, 7 km N of Rankin Inlet, Meliadine River Park study area, Hudson Bay	primary	rbcL	62.8667	-92.1167	0.126184014027184
+Stuckenia_filiformis	JN966025.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.9222158115891	-94.0092554431638	0.126184014027184
+Stuckenia_filiformis	JN966023.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, Submerged in lake	primary	rbcL	59.0972149796067	-94.3083032353545	0.126184014027184
+Stuckenia_filiformis	JN966022.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, In channel	primary	rbcL	59.2079125045472	-95.2662181138805	0.126184014027184
+Stuckenia_filiformis	JN891033.1	07-MAR-2012	542	United Kingdom: Shetland (112)	primary	rbcL	59.94	-1.34	0.126279395076172
+Stuckenia_filiformis	MH170959.1	28-OCT-2018	682	Turkey	secondary	rbcL	38.6181689423308	35.5370311147885	0.127017032050225
+Stuckenia_filiformis	MH170958.1	28-OCT-2018	681	Turkey	secondary	rbcL	39.2231416207925	34.6828292825064	0.127017591709341
+Stuckenia_filiformis	MH170957.1	28-OCT-2018	690	Turkey	secondary	rbcL	39.09915446542	33.8425677702822	0.127012628969734
+Stuckenia_filiformis	MH170956.1	28-OCT-2018	645	Turkey	secondary	rbcL	39.050969431125	33.9900174432952	0.127644521598457
+Stuckenia_filiformis	FJ956863.1	30-DEC-2010	890	China: Jiuquan, Gansu	secondary	rbcL	40.0866389	94.6693328	0.12825563050528
+Stuckenia_filiformis	FJ956862.1	30-DEC-2010	890	China: Xining, Qinghai	secondary	rbcL	36.639628	101.7404562	0.12825563050528
+Stuckenia_filiformis	FJ956861.1	30-DEC-2010	890	China: Keluke Lake, Qinghai	secondary	rbcL	37.2855682	96.9039567619622	0.12825563050528
+Stuckenia_filiformis	JN891793.1	07-MAR-2012	542	United Kingdom: Ross,East	secondary	rbcL	55.8380097	-2.0625284	0.128444255157683

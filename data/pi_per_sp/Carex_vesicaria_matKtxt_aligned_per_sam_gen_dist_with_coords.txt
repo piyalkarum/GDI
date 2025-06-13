@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_vesicaria	MK926012.1	14-JAN-2020	806	United Kingdom	secondary	matK	54.2103242696532	-3.04231039274528	0
+Carex_vesicaria	MK925791.1	14-JAN-2020	790	United Kingdom	secondary	matK	54.1970370395845	-3.25285941032307	0
+Carex_vesicaria	KU496592.1	31-JAN-2017	813	Canada: Quebec, Schefferville region	secondary	matK	46.8137431	-71.2084061	0
+Carex_vesicaria	HG915885.1	07-MAR-2016	2500	Germany:Saxony	secondary	matK	50.9295798	13.4585052	0

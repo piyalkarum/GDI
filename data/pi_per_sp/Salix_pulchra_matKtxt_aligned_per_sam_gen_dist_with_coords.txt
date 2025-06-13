@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_pulchra	KC475784.1	25-OCT-2013	756	Canada: Northwest Territories, Atkinson Pt., Tuktoyaktuk Peninsula, west side of McKinley Bay, Atkinson Point	primary	matK	69.9	-131.333	0
+Salix_pulchra	KC475783.1	25-OCT-2013	788	Canada: Northwest Territories, Inuvialuit Region, Peel River, Blueberry Hill	primary	matK	68.4781	-135.621	0
+Salix_pulchra	KC475782.1	25-OCT-2013	789	USA: Alaska, Anchorage area, Glen Alps State Park, On branch of Power Line Trail that crosses bridge and runs along the base of XX Mountain	primary	matK	61.087	-149.612	0
+Salix_pulchra	HE612065.1	16-JAN-2012	835	Russia:Magadan region	secondary	matK	63.5515028	154.014726	0
+Salix_pulchra	FR695019.1	07-OCT-2010	835	Russia:Kamchatka	secondary	matK	57.1914882	160.0383819	0

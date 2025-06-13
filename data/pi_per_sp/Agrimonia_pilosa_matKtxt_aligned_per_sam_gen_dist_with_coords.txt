@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrimonia_pilosa	LC660062.1	20-APR-2022	894	Japan:Kanagawa, Hakonemachi	secondary	matK	34.9569551851215	138.633243277552	0.00431519416758604
+Agrimonia_pilosa	LC660061.1	20-APR-2022	894	Japan:Kanagawa, Hakonemachi	secondary	matK	35.397086314215	139.093225059431	0.00323514097320825
+Agrimonia_pilosa	LC660060.1	20-APR-2022	894	Japan:Kanagawa, Hakonemachi	secondary	matK	35.8917020763096	139.31754016607	0.00301468241941637
+Agrimonia_pilosa	LC660056.1	20-APR-2022	894	Japan:Toyama	secondary	matK	36.6468015	137.2183531	0.00399452776617353
+Agrimonia_pilosa	LC660053.1	20-APR-2022	852	Japan:Nagano, Shinanomachi	secondary	matK	36.8208348	138.1934138	0.00195618153364632
+Agrimonia_pilosa	LC660050.1	20-APR-2022	873	Japan:Nagano, Hirayamura	secondary	matK	35.3236732	137.6305497	0.00248656889792362
+Agrimonia_pilosa	MH714158.1	01-SEP-2020	756	China: Hebei	secondary	matK	39.0000001	116	0.000440917107583774

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eupatorium_cannabinum	MG224002.1	26-DEC-2017	552	Canada: British Columbia, North of Vernon, Swan Lake. UTM 11N 0339830 5575576	primary	rbcL	50.308	-119.25	0
+Eupatorium_cannabinum	MG222456.1	26-DEC-2017	552	Canada: British Columbia, North Okanagan, Vernon, Hwy 97 and Stickle Rd. Squires Four Pub	primary	rbcL	50.298	-119.254	0
+Eupatorium_cannabinum	MG222168.1	26-DEC-2017	552	Canada: British Columbia, Okanagan, Vernon, SE side of Swan Lake, Hwy 97, 1.5km N of Stickle Rd.	primary	rbcL	50.311	-119.249	0
+Eupatorium_cannabinum	JN891100.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.44	0
+Eupatorium_cannabinum	MG221609.1	26-DEC-2017	552	United Kingdom: Waldridge Fell, Chester-le-Street, V.C. 66	secondary	rbcL	54.84272735	-1.61729023357348	0
+Eupatorium_cannabinum	JN892438.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.6924911030893	-3.4320745017265	0
+Eupatorium_cannabinum	JN892437.1	07-MAR-2012	529	United Kingdom: Glamorgan	secondary	rbcL	50.8491149238945	-4.25809405456167	0

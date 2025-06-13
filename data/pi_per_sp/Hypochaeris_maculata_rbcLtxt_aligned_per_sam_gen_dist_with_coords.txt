@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypochaeris_maculata	MT930464.1	03-MAR-2023	585	China	secondary	rbcL	35.000074	104.999927	0.00615006150061501
+Hypochaeris_maculata	MK925396.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5396946358125	-2.93188023451933	0.00615006150061501
+Hypochaeris_maculata	MK925361.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0748778038761	-2.5247058047719	0.00615006150061501
+Hypochaeris_maculata	JN892419.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.018450184501845

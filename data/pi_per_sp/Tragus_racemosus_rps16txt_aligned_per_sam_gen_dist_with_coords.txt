@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragus_racemosus	KX582994.1	26-JUN-2017	721	South Africa	secondary	rps16	-28.8166236	24.991639	0.130084745762712
+Tragus_racemosus	KX582993.1	26-JUN-2017	721	Namibia	secondary	rps16	-23.3328182262111	17.0103984620414	0.130084745762712
+Tragus_racemosus	KX582992.1	26-JUN-2017	721	Namibia	secondary	rps16	-23.9765978467914	17.6754080326169	0.130084745762712
+Tragus_racemosus	KX582991.1	26-JUN-2017	721	Namibia	secondary	rps16	-22.9021563383611	16.883826349811	0.130084745762712
+Tragus_racemosus	KX582919.1	26-JUN-2017	713	Namibia	secondary	rps16	-22.6037109510662	17.0842342209489	0.520338983050847

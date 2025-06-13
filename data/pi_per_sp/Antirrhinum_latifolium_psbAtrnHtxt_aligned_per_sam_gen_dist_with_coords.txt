@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_latifolium	OL312254.1	04-JAN-2022	347	USA: Missouri Botanical Garden, Shoenberg Temperate House.	primary	psbA-trnH	38.61447222	-90.25908333	0.0593186819508968
+Antirrhinum_latifolium	HM152911.1	24-AUG-2010	252	Italy: Piamonte, Cuneo	secondary	psbA-trnH	44.4580703	7.5581367	0.0526070321887055
+Antirrhinum_latifolium	HM152909.1	24-AUG-2010	278	Spain: Lerida, Martinet	secondary	psbA-trnH	42.3229252	1.6931213	0.0632767123073073
+Antirrhinum_latifolium	HM152908.1	24-AUG-2010	278	Spain: Lerida, Baga	secondary	psbA-trnH	42.2590877	1.6790217	0.0632767123073073
+Antirrhinum_latifolium	HM152907.1	24-AUG-2010	278	Spain: Girona, Collada de Toses	secondary	psbA-trnH	42.3360286	1.9911225	0.0433705124605834

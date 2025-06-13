@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alopecurus_aequalis	MF596554.1	28-FEB-2018	603	Canada: Manitoba	primary	rbcL	49.5398418957074	-98.1984768684865	0.000646825551613798
+Alopecurus_aequalis	MF596553.1	28-FEB-2018	603	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	rbcL	48.5102404044592	-99.1275278957878	0.00141391373354682
+Alopecurus_aequalis	MF596552.1	28-FEB-2018	603	Canada: Alberta, E shore of Lesser Slave Lake	primary	rbcL	55.3068274705823	-115.974419491522	0.00141391373354682
+Alopecurus_aequalis	MF596551.1	28-FEB-2018	603	Canada: Saskatchewan, Cypress Hills, 18 mi E of Alberta border, E of Elk Water. Margin of small pond in standing water with Potamogeton, Eleocharis, and Ranunculus.	primary	rbcL	49.3767637272495	-110.42698217732	0.00141391373354682
+Alopecurus_aequalis	MG227310.1	23-JAN-2018	603	Canada: Alberta, E shore of Lesser Slave Lake	primary	rbcL	55.0475800136812	-115.307374259715	0.00141391373354682
+Alopecurus_aequalis	MG227245.1	23-JAN-2018	603	Canada: Manitoba	primary	rbcL	49.3225992862632	-99.1465262732879	0.000646825551613798
+Alopecurus_aequalis	MG226852.1	23-JAN-2018	603	Canada: Saskatchewan, Cypress Hills, 18 mi E of Alberta border, E of Elk Water. Margin of small pond in standing water with Potamogeton, Eleocharis, and Ranunculus.	primary	rbcL	49.7874779163736	-110.379407163797	0.00141391373354682
+Alopecurus_aequalis	MG225596.1	23-JAN-2018	603	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	rbcL	48.4985260968971	-99.4320120111172	0.00141391373354682
+Alopecurus_aequalis	HQ589946.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, west end of the pond, south Dufferin St. driveway	primary	rbcL	44.03	-79.529	0.000645733529056981
+Alopecurus_aequalis	KJ841092.1	04-NOV-2014	570	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. South edge of Lac Hertel at Botany Bay	primary	rbcL	45.544	-73.146	0.00218526874972885
+Alopecurus_aequalis	JN965219.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, Riverbank	primary	rbcL	58.4948087083604	-95.1144242236442	0.000606693140549163
+Alopecurus_aequalis	JN965218.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, Shallow pools	primary	rbcL	59.0661919444958	-93.592142260845	0.00142602377808541
+Alopecurus_aequalis	JN890790.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.7	-2.96	0.000619087866303198
+Alopecurus_aequalis	MN205078.1	30-NOV-2021	716	China	secondary	rbcL	34.2320760589538	105.083807359901	0.00112421567345883
+Alopecurus_aequalis	MH215236.1	22-JAN-2019	553	China	secondary	rbcL	35.1874651483459	105.158424504823	0.000606693140549163
+Alopecurus_aequalis	KP711244.1	31-MAR-2016	1096	China	secondary	rbcL	34.7368226569745	105.246922521624	0.00114052893586383
+Alopecurus_aequalis	KF712935.1	15-DEC-2013	1096	South Korea: Icheon	secondary	rbcL	37.2808823	127.4429132	0.00114052893586383
+Alopecurus_aequalis	KF712934.1	15-DEC-2013	1096	South Korea: Andong-si, Gyeongsangbuk-do	secondary	rbcL	36.5759169	128.5060124	0.00114052893586383
+Alopecurus_aequalis	KF712933.1	15-DEC-2013	1096	South Korea: Wonju-si, Gangwon-do	secondary	rbcL	37.3420996	127.9197603	0.00114052893586383
+Alopecurus_aequalis	KF712931.1	15-DEC-2013	1096	South Korea: Suwon-si, Gyeonggi-do	secondary	rbcL	37.267483	126.934611	0.00114052893586383
+Alopecurus_aequalis	HQ600469.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.00199214515088258
+Alopecurus_aequalis	JN893322.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0.000619087866303198

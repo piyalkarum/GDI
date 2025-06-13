@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_rigida	LT985719.1	14-JUN-2019	287	Greece	secondary	psbA-trnH	42.7570906441957	-77.5788771546325	0
+Gagea_rigida	LT985718.1	14-JUN-2019	287	Greece	secondary	psbA-trnH	43.1890554735573	-78.1859862418	0
+Gagea_rigida	LT985717.1	14-JUN-2019	287	Greece	secondary	psbA-trnH	42.7895896784158	-77.9759513595908	0
+Gagea_rigida	LT985716.1	14-JUN-2019	287	Greece	secondary	psbA-trnH	43.7897749060006	-77.1325275892778	0
+Gagea_rigida	LT985715.1	14-JUN-2019	287	Greece	secondary	psbA-trnH	43.063766212698	-78.3599409694501	0

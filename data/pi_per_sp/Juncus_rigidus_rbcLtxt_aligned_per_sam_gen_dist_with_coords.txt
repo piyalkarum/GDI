@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_rigidus	OQ791303.1	02-AUG-2023	584	Egypt	primary	rbcL	29.2062	25.5352	0.00328473792261116
+Juncus_rigidus	KY656716.1	23-JAN-2018	716	Egypt	secondary	rbcL	26.2540493	29.2675469	0.0040711427879853
+Juncus_rigidus	KX282825.1	28-MAY-2017	577	Kuwait	secondary	rbcL	29.1856010251288	48.4053575397228	0.00471611208506476
+Juncus_rigidus	KX282824.1	28-MAY-2017	580	Kuwait	secondary	rbcL	30.1156117913557	48.3072417941155	0.00841677613564145

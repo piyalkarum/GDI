@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_hedraeanthus	KC145300.1	31-JAN-2014	894	Spain: Nerpio	secondary	trnL-trnF	38.6405914700497	-1.73111407990663	0
+Narcissus_hedraeanthus	KC145299.1	31-JAN-2014	894	Spain: Nerpio	secondary	trnL-trnF	37.8870403728431	-1.83747720566887	0
+Narcissus_hedraeanthus	KC145298.1	31-JAN-2014	894	Spain: Cazorla	secondary	trnL-trnF	38.6787110046734	-2.49049854895539	0
+Narcissus_hedraeanthus	KC145297.1	31-JAN-2014	894	Spain: Cazorla	secondary	trnL-trnF	37.7564923685719	-2.0242231792659	0

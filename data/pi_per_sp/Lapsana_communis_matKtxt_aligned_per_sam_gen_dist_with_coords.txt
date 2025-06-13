@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lapsana_communis	KP642966.1	08-DEC-2015	764	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	39.0272650250202	-79.0245011726003	0.00899038650799677
+Lapsana_communis	KP642881.1	08-DEC-2015	764	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	39.1039226705703	-78.5788869499013	0.00899038650799677
+Lapsana_communis	KP642792.1	08-DEC-2015	750	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.2968080229496	-78.4033260736403	0.00612355865580477
+Lapsana_communis	MG225144.1	21-JAN-2018	783	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Brackenbrae Trail	primary	matK	43.295	-79.8693	0.00547089809213259
+Lapsana_communis	HQ593338.1	09-NOV-2011	787	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, Compost area north of Dufferin St. driveway	primary	matK	44.031	-79.53	0.00543810257897705
+Lapsana_communis	JN895964.1	07-MAR-2012	783	United Kingdom: Glamorgan (41)	primary	matK	51.52	-3.21	0.00537366115585955
+Lapsana_communis	KT250075.1	09-AUG-2015	820	Germany	secondary	matK	30.7377983519591	-94.9353567611073	0.00543257623944063
+Lapsana_communis	KT250014.1	09-AUG-2015	820	Germany	secondary	matK	31.1162448273476	-95.4952848416273	0.00543257623944063
+Lapsana_communis	KT250013.1	09-AUG-2015	820	Germany	secondary	matK	31.5362274927155	-94.3359562809558	0.00543257623944063
+Lapsana_communis	KT250012.1	09-AUG-2015	820	Germany	secondary	matK	30.6349285210978	-95.4299193212092	0.00543257623944063
+Lapsana_communis	KT250011.1	09-AUG-2015	820	Germany	secondary	matK	31.301004035471	-94.6039382410614	0.00543257623944063
+Lapsana_communis	KT250010.1	09-AUG-2015	820	Germany	secondary	matK	30.6817215566553	-95.6341430665752	0.00543257623944063
+Lapsana_communis	KJ204497.1	29-JAN-2015	864	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.0677979594792928
+Lapsana_communis	HM850644.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00672224141886238
+Lapsana_communis	JN894979.1	07-MAR-2012	805	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00542658876101162
+Lapsana_communis	JN894012.1	07-MAR-2012	777	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00555043283622897

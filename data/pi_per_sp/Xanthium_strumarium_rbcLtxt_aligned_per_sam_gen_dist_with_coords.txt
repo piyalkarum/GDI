@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Xanthium_strumarium	OQ832134.1	15-AUG-2023	553	USA: American Prairie Blue Ridge Unit	primary	rbcL	47.747	-107.5706	0.00147940146007413
+Xanthium_strumarium	MH049964.1	10-OCT-2018	717	China	primary	rbcL	23.57	113.64	0.000409844770322122
+Xanthium_strumarium	MH049963.1	10-OCT-2018	717	China	primary	rbcL	22.44	114.33	0.000409844770322122
+Xanthium_strumarium	MH049962.1	10-OCT-2018	717	China	primary	rbcL	24.1	114.28	0.000409844770322122
+Xanthium_strumarium	MF695023.1	16-SEP-2018	553	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	35.2095161751266	72.7627752308643	0.000504935639708472
+Xanthium_strumarium	MF694808.1	15-SEP-2018	552	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	34.6480946368191	72.8703247575901	0.000505187635007248
+Xanthium_strumarium	MG221792.1	26-DEC-2017	552	Canada: Manitoba, Winnipeg, Red River, Pembrina Drive, near boat launch	primary	rbcL	49.824	-97.147	0.000505187635007248
+Xanthium_strumarium	KJ841670.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	rbcL	45.535	-73.149	0.000503376421597608
+Xanthium_strumarium	ON950772.1	17-OCT-2022	487	Kenya	secondary	rbcL	1.4419683	38.4313975	0.00237395089098476
+Xanthium_strumarium	KX272481.1	08-FEB-2017	682	China: Liao Ning	secondary	rbcL	41.7549737889705	122.340177964765	0.00166468411208778
+Xanthium_strumarium	KX272480.1	08-FEB-2017	682	China: Liao Ning	secondary	rbcL	41.7198185814698	123.442691192622	0.000270743365397933
+Xanthium_strumarium	KX272479.1	08-FEB-2017	681	China: Liao Ning	secondary	rbcL	41.8729889564458	123.631514971187	0.000270908990119476
+Xanthium_strumarium	KX214126.1	04-FEB-2017	710	China	secondary	rbcL	35.000074	104.999927	0.000409844770322122
+Xanthium_strumarium	HM850473.1	23-JUL-2011	691	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000270743365397933

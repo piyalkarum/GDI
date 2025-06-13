@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_papyraceus	JF973271.1	30-AUG-2011	419	Morocco: Melilla	secondary	trnL-trnF	34.2192103	-4.01086	0.0282438243589994
+Narcissus_papyraceus	KC145380.1	31-JAN-2014	909	Morocco	secondary	trnL-trnF	28.3347722	-10.3713379	0.0207064870966857
+Narcissus_papyraceus	JF973278.1	30-AUG-2011	418	Spain: Cadiz	secondary	trnL-trnF	36.5262463	-5.9008367	0.0183788989374302
+Narcissus_papyraceus	JF973277.1	30-AUG-2011	414	Morocco: El Hajeb	secondary	trnL-trnF	33.6987515	-5.4928593	0.02236163259417
+Narcissus_papyraceus	JF973273.1	30-AUG-2011	421	Morocco: Azrou	secondary	trnL-trnF	33.4415843	-5.2269528	0.0252543464560746
+Narcissus_papyraceus	DQ490224.1	30-JUN-2006	354	Spain: Aznalcazar	secondary	trnL-trnF	37.3035085	-6.2508499	0.0193360134607563

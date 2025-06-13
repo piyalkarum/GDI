@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Muscari_comosum	OP096405.1	01-MAR-2023	2354	Morocco	secondary	trnK	28.9824704974458	-10.7944950618873	0.000708014726706316
+Muscari_comosum	OP096404.1	01-MAR-2023	2744	Portugal	secondary	trnK	39.6621648	-8.1353519	0.0021668039316662
+Muscari_comosum	OP096391.1	01-MAR-2023	2836	Morocco	secondary	trnK	27.6877190197411	-10.6549876543824	0.000729394602479942
+Muscari_comosum	OP096379.1	01-MAR-2023	2836	Greece	secondary	trnK	43.2097838	-77.6930602	0.000729394602479942

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostis_mertensii	MG225913.1	23-JAN-2018	552	USA: New Hampshire, Coos County, Mt. Washington, summit area	primary	rbcL	44.27	-71.3	0.000680720245937637
+Agrostis_mertensii	KJ841085.1	04-NOV-2014	440	Canada: Newfoundland and Labrador, Labrador, Mont Irony, S-w slope near summit, on Davies' 'E5' transect	primary	rbcL	54.902	-67.166	0.00265151515151515
+Agrostis_mertensii	KC481892.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	rbcL	62.834	-67.354	0.00226723759332455
+Agrostis_mertensii	KC481891.1	25-OCT-2013	552	Canada: Nunavut, Arctic Mainland, Keewatin, Kaminak Lake	primary	rbcL	62.17	-95.3	0.000680720245937637
+Agrostis_mertensii	KC481890.1	25-OCT-2013	552	Canada: Nunavut, Canadian Arctic Archipelago, Baffin Island, Iqaluit	primary	rbcL	62.27	-67.15	0.000680720245937637
+Agrostis_mertensii	KC481889.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Rapid River, Gravel bar alogn river	primary	rbcL	68.33	-136.5	0.000680720245937637
+Agrostis_mertensii	KC481888.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. The Hill 2 km southwest of Sanikiluaq airport	primary	rbcL	56.558	-79.325	0.000680720245937637

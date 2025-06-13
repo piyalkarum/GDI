@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lycopodium_oellgaardii	MH064691.1	25-NOV-2018	674	Germany: Bavaria, Bavarian Forest	secondary	rbcL	48.9436637835859	12.9921451422182	0.00370919881305638
+Lycopodium_oellgaardii	MH064690.1	25-NOV-2018	694	Germany: Bavaria, Bavarian Forest	secondary	rbcL	49.1583118098391	14.1638569552946	0.00152924133741443
+Lycopodium_oellgaardii	MH064689.1	25-NOV-2018	694	Germany: Bavaria, Bavarian Forest	secondary	rbcL	49.1759802759873	13.5247861825998	0.00152924133741443
+Lycopodium_oellgaardii	MH064688.1	25-NOV-2018	635	Germany: Bavaria, Bavarian Forest	secondary	rbcL	49.2940858472237	12.0564706585392	0.00393700787401575
+Lycopodium_oellgaardii	MH064687.1	25-NOV-2018	694	Germany: Bavaria, Bavarian Forest	secondary	rbcL	48.3137712530504	13.0208002503482	0.00152924133741443
+Lycopodium_oellgaardii	MH064686.1	25-NOV-2018	694	Germany: Bavaria, Bavarian Forest	secondary	rbcL	49.3066724203151	13.607905812777	0.00152924133741443
+Lycopodium_oellgaardii	MH064685.1	25-NOV-2018	694	Germany: Thuringia, Thuringian Forest	secondary	rbcL	50.7472642	10.6564961	0.00152924133741443

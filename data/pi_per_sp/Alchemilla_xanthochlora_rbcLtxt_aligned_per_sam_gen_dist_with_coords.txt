@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alchemilla_xanthochlora	JN893333.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.55	-3.25	0.00336344742757772
+Alchemilla_xanthochlora	JN890788.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.28	-3.91	0.00708176047277714
+Alchemilla_xanthochlora	MK925557.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2064905477612	-3.44515692477266	0.00336344742757772
+Alchemilla_xanthochlora	MK925461.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2557307987285	-2.02161699775263	0.00336344742757772
+Alchemilla_xanthochlora	JN892116.1	07-MAR-2012	522	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0.00651340996168582
+Alchemilla_xanthochlora	JN892106.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00410145480765152

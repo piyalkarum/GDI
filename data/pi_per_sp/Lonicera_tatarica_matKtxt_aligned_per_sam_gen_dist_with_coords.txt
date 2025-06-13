@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lonicera_tatarica	OR738259.1	13-NOV-2023	594	Kazakhstan: East Kazakhstan region	primary	matK	48.93444	83.71778	0.204939595682332
+Lonicera_tatarica	OR738253.1	13-NOV-2023	616	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.200398699187066
+Lonicera_tatarica	OQ847540.1	15-AUG-2023	789	USA: Bowdoin Wildlife Refuge	primary	matK	48.3936	-107.7271	0.0246680039150125
+Lonicera_tatarica	OR464955.1	26-SEP-2023	906	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.28860361	-85.61999601	0.0246680039150125
+Lonicera_tatarica	OR464951.1	26-SEP-2023	899	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.28786	-85.620089	0.0246680039150125
+Lonicera_tatarica	KX677258.1	09-AUG-2017	814	Canada: British Columbia, Cariboo Regional District, 108 Mile Ranch, undeveloped section of private property	primary	matK	51.743	-121.344	0.0243879701871882
+Lonicera_tatarica	MG225361.1	21-JAN-2018	751	USA: North Dakota	primary	matK	47.16	-100.741	0.0259187674323649
+Lonicera_tatarica	MG225259.1	21-JAN-2018	763	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, South Point Trail, Rondeau Road trailhead parking lot	primary	matK	42.279	-81.861	0.0248034247627958
+Lonicera_tatarica	MG225190.1	21-JAN-2018	777	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Horse Lake, BPNP	primary	matK	45.237	-81.527	0.0362287573498058
+Lonicera_tatarica	MG225021.1	21-JAN-2018	777	Canada: Ontario, Hamilton-Wentworth, Dundas, Rock Chapel West	primary	matK	43.276	-79.95	0.0246680039150125
+Lonicera_tatarica	MG224970.1	21-JAN-2018	737	USA: North Dakota	primary	matK	48.249	-101.294	0.0244026775230858
+Lonicera_tatarica	MG224958.1	21-JAN-2018	640	USA: North Dakota	primary	matK	46.662	-100.895	0.0257544971457597
+Lonicera_tatarica	HQ593351.1	09-NOV-2011	869	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., W side of trail 20 m from road above North Barn	primary	matK	44.032	-79.534	0.0246714474301041
+Lonicera_tatarica	KJ840933.1	23-SEP-2014	814	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Parking lot by maintenance shed, by edge of road	primary	matK	45.538	-73.156	0.0243761402742194
+Lonicera_tatarica	MT946435.1	03-MAR-2023	771	China	secondary	matK	35.507328502567	104.675272925213	0.0246772207211043
+Lonicera_tatarica	MT157369.1	12-MAY-2021	354	China	secondary	matK	35.2452805006122	105.315013131714	NA
+Lonicera_tatarica	MT157361.1	12-MAY-2021	310	China	secondary	matK	34.2313673367878	105.150108149565	NA
+Lonicera_tatarica	KP089139.1	15-MAR-2015	742	China	secondary	matK	40.4067380783	116.091126586071	0.024835185354326
+Lonicera_tatarica	KP089138.1	15-MAR-2015	742	China	secondary	matK	39.5691419682552	116.881062377452	0.024835185354326

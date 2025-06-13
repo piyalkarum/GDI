@@ -1,0 +1,53 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erica_australis	ON684574.1	21-AUG-2022	1521	Portugal: Vila Nova de Mil Fontes, Odemira, Beja	primary	matK	37.715	-8.78361	0.00523267777875768
+Erica_australis	KU747491.1	16-SEP-2017	667	Morocco: Amegadi, Tangier	secondary	matK	35.114488	-5.5898128	0.000823117852838287
+Erica_australis	KU747484.1	16-SEP-2017	667	Morocco: Cap Espartel, Tangier	secondary	matK	35.7915279	-5.9256665	0.000823117852838287
+Erica_australis	KU747481.1	16-SEP-2017	667	Morocco: Bab Berred	secondary	matK	34.998897	-4.890298	0.000999500249875062
+Erica_australis	KU747476.1	16-SEP-2017	667	Spain: Sierra de la Plata, Tarifa, Cadiz	secondary	matK	36.1093784	-5.78889	0.000999500249875062
+Erica_australis	KU747474.1	16-SEP-2017	667	Spain: El Cuervo, Los Alcornocales Natural Park, Cadiz	secondary	matK	40.1510523	-1.3258089	0.000823117852838287
+Erica_australis	KU747473.1	16-SEP-2017	667	Spain: Pago del humo, Chiclana, Cadiz	secondary	matK	36.4087001	-6.131968	0.000823117852838287
+Erica_australis	KU747472.1	16-SEP-2017	667	Spain: La Peguera, Alcala de los Gazules, Cadiz	secondary	matK	42.2732272	0.8417836	0.000999500249875062
+Erica_australis	KU747471.1	16-SEP-2017	667	Spain: Cruz del Romero, Los Barrios, Cadiz	secondary	matK	41.4927154	-2.6775277	0.000823117852838287
+Erica_australis	KU747469.1	16-SEP-2017	667	Spain: Puerto Galiz, Cadiz	secondary	matK	36.5595883	-5.6012296	0.000999500249875062
+Erica_australis	KU747468.1	16-SEP-2017	667	Spain: El Picacho, Los Alcornocales Natural Park, Cadiz	secondary	matK	41.9169414	-3.4584486	0.000823117852838287
+Erica_australis	KU747467.1	16-SEP-2017	667	Spain: Sierra Carbonera, La Linea de la Concepcion, Cadiz	secondary	matK	36.2052937	-5.3591566	0.000823117852838287
+Erica_australis	KU747466.1	16-SEP-2017	667	Spain: Sierra de la Palma, Algeciras, Cadiz	secondary	matK	36.1434237	-5.5321848	0.00241055942616927
+Erica_australis	KU747464.1	16-SEP-2017	667	Portugal: Zimbreira, Caceres	secondary	matK	37.2401351	-8.3067553	0.000999500249875062
+Erica_australis	KU747463.1	16-SEP-2017	667	Spain: Aliseda, Caceres	secondary	matK	39.4224611	-6.6918971	0.000823117852838287
+Erica_australis	KU747462.1	16-SEP-2017	667	Spain: Mirabel, Caceres	secondary	matK	39.8616602	-6.2337011	0.000999500249875062
+Erica_australis	KU747461.1	16-SEP-2017	667	Spain: Jerte, El Piornal, Caceres	secondary	matK	40.2226297	-5.7509566	0.000823117852838287
+Erica_australis	KU747460.1	16-SEP-2017	667	Spain: Sierra de Ayllon, Riofrio de Riaza, Segovia	secondary	matK	40.37854495	-3.62335150416027	0.000999500249875062
+Erica_australis	KU747459.1	16-SEP-2017	667	Spain: Sierra Demanda, Pineda de la Sierra, Burgos	secondary	matK	42.10642705	-3.1269842951205	0.000999500249875062
+Erica_australis	KU747458.1	16-SEP-2017	667	Spain: Puerto de Piqueras,Lumbreras, La Rioja	secondary	matK	42.0555711	-2.5375796	0.000999500249875062
+Erica_australis	KU747457.1	16-SEP-2017	667	Spain: Moncayo,Cueva de Agreda, Soria	secondary	matK	41.7871633	-1.8397104	0.000823117852838287
+Erica_australis	KU747456.1	16-SEP-2017	667	Spain: Quintos de Mora, Los Yebenes	secondary	matK	39.4097931	-4.0631246	0.000999500249875062
+Erica_australis	KU747455.1	16-SEP-2017	667	Spain: Despenaperros, La Carolina, Jaen	secondary	matK	38.3933618	-3.5086076	0.000823117852838287
+Erica_australis	KU747454.1	16-SEP-2017	667	Spain: Sierra Madrona, Fuencaliente, Ciudad Real	secondary	matK	38.466923	-4.2061063	0.000823117852838287
+Erica_australis	KU747452.1	16-SEP-2017	667	Spain: Castillo de las Guardas, Sevilla	secondary	matK	37.6821557	-6.261838	0.000823117852838287
+Erica_australis	KU747451.1	16-SEP-2017	667	Spain: Jabugo, Huelva	secondary	matK	37.9024867	-6.7253442	0.000823117852838287
+Erica_australis	KU747450.1	16-SEP-2017	667	Portugal: Barranco do Velho, Distrito de Faro	secondary	matK	37.2374064	-7.9373032	0.000823117852838287
+Erica_australis	KU747449.1	16-SEP-2017	667	Portugal: Monchique, Distrito de Faro	secondary	matK	37.3179725	-8.5558655	0.000823117852838287
+Erica_australis	KU747448.1	16-SEP-2017	667	Portugal: Serra Lousa, Distrito de Coimbra	secondary	matK	40.0814879	-8.1830735	0.000999500249875062
+Erica_australis	KU747447.1	16-SEP-2017	667	Portugal: Serra Marao, Distrito de Oporto	secondary	matK	41.2484625	-7.8869794	0.000999500249875062
+Erica_australis	KU747445.1	16-SEP-2017	667	Spain: Tabuyo, Zamora	secondary	matK	42.3137131	-6.2031109	0.000999500249875062
+Erica_australis	KU747444.1	16-SEP-2017	667	Spain: Faramontanos de Tabara, Zamora	secondary	matK	41.8358287	-5.8877477	0.000999500249875062
+Erica_australis	KU747443.1	16-SEP-2017	667	Spain: El Portillo, Salamanca	secondary	matK	41.2732766	-3.0619826	0.000999500249875062
+Erica_australis	KU747442.1	16-SEP-2017	667	Spain: Puerto Perales, Caceres	secondary	matK	40.1546159	-6.6824217	0.000999500249875062
+Erica_australis	KU747441.1	16-SEP-2017	667	Spain: Puerto de San Vicente, Toledo	secondary	matK	39.5047549	-5.1113143	0.000823117852838287
+Erica_australis	KU747492.1	16-SEP-2017	667	Morocco	secondary	matK	35.2211448783758	-5.92657630091189	0.000823117852838287
+Erica_australis	KU747490.1	16-SEP-2017	667	Morocco	secondary	matK	35.4951190200422	-5.79884159603758	0.000823117852838287
+Erica_australis	KU747489.1	16-SEP-2017	667	Morocco	secondary	matK	35.7663022132448	-5.2323379158595	0.000823117852838287
+Erica_australis	KU747488.1	16-SEP-2017	667	Morocco	secondary	matK	35.8522517224135	-5.4890582358608	0.000999500249875062
+Erica_australis	KU747487.1	16-SEP-2017	667	Morocco	secondary	matK	36.4454561723842	-6.42271761619145	0.000823117852838287
+Erica_australis	KU747486.1	16-SEP-2017	667	Morocco	secondary	matK	36.2880198367869	-6.28880143671503	0.000823117852838287
+Erica_australis	KU747485.1	16-SEP-2017	667	Spain	secondary	matK	35.888361	-5.304138	0.000823117852838287
+Erica_australis	KU747483.1	16-SEP-2017	667	Morocco	secondary	matK	36.4926946944511	-5.21501044966705	0.000823117852838287
+Erica_australis	KU747482.1	16-SEP-2017	667	Morocco	secondary	matK	36.0554237052026	-5.20151484767771	0.000999500249875062
+Erica_australis	KU747480.1	16-SEP-2017	667	Morocco	secondary	matK	35.4779123681485	-5.05425958906653	0.000999500249875062
+Erica_australis	KU747479.1	16-SEP-2017	667	Morocco	secondary	matK	36.1492882736579	-6.33724371554601	0.000999500249875062
+Erica_australis	KU747478.1	16-SEP-2017	667	Morocco	secondary	matK	36.3809508624745	-5.37666038688801	0.000823117852838287
+Erica_australis	KU747477.1	16-SEP-2017	667	Morocco	secondary	matK	35.5236478196221	-5.15852530361549	0.00241055942616927
+Erica_australis	KU747475.1	16-SEP-2017	667	Spain	secondary	matK	36.3449297	-5.8137236	0.000823117852838287
+Erica_australis	KU747470.1	16-SEP-2017	667	Spain	secondary	matK	36.6170845	-5.3426714	0.000823117852838287
+Erica_australis	KU747465.1	16-SEP-2017	667	Spain	secondary	matK	36.0129082	-5.6050213	0.000999500249875062
+Erica_australis	KU747453.1	16-SEP-2017	667	Spain	secondary	matK	37.8845813	-4.7760138	0.000823117852838287

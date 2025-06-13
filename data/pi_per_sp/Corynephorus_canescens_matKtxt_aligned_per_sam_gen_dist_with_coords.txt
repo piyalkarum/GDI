@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Corynephorus_canescens	LR606869.1	25-JAN-2021	2072	Portugal	secondary	matK	39.6621648	-8.1353519	0.00137598899208806
+Corynephorus_canescens	MK925822.1	14-JAN-2020	789	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.000903342366757001
+Corynephorus_canescens	KJ529351.1	22-FEB-2015	969	Spain	secondary	matK	39.6048959164916	-4.6263731050547	0.00365532035093313
+Corynephorus_canescens	JX438082.1	31-MAR-2013	1233	Spain	secondary	matK	39.9565754117482	-4.53222325293343	0.00137598899208806

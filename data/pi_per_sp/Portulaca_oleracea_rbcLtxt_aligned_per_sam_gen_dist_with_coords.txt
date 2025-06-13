@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Portulaca_oleracea	OM039320.1	19-JUN-2022	551	United Arab Emirates: Sharjah	primary	rbcL	25.233875	55.917013	0.00572613752636442
+Portulaca_oleracea	OM039319.1	19-JUN-2022	523	United Arab Emirates: Sharjah	primary	rbcL	25.278	55.8277	0.0361032996714346
+Portulaca_oleracea	MG248230.1	21-JAN-2018	552	Canada: In Front of Torrence School, Waterloo Ave.	primary	rbcL	43.537	-80.254	0.0057259026813809
+Portulaca_oleracea	HQ590219.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., NW end of plowed area N of E-pond	primary	rbcL	44.031	-79.536	0.00563839627943081
+Portulaca_oleracea	KR737452.1	13-MAY-2016	491	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.556339686276653	36.050512519837	0.00541150670183356
+Portulaca_oleracea	KR737274.1	13-MAY-2016	502	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	-0.354195730025652	36.7047190279788	0.00558498884281468
+Portulaca_oleracea	KR736942.1	13-MAY-2016	473	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.457173570540982	37.089853605107	0.00547262549492559
+Portulaca_oleracea	KR736832.1	13-MAY-2016	476	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.00119673567132456	37.2866544984775	0.00557507771320449
+Portulaca_oleracea	OQ391684.1	10-MAY-2023	526	Peru	secondary	rbcL	-6.8699697	-75.0458515	0.0371683441995242
+Portulaca_oleracea	MT931224.1	03-MAR-2023	571	China	secondary	rbcL	35.000074	104.999927	0.00571926974198762
+Portulaca_oleracea	MK990634.1	24-DEC-2019	636	India: Mizoram	secondary	rbcL	23.2146169	92.8687612	0.0108426246744351
+Portulaca_oleracea	KY794571.1	23-JAN-2018	629	Egypt	secondary	rbcL	26.2540493	29.2675469	0.0054769236780306
+Portulaca_oleracea	MG246729.1	21-JAN-2018	553	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	secondary	rbcL	43.2357531871732	-76.9525262556533	0.00737327615170208
+Portulaca_oleracea	MG246471.1	21-JAN-2018	552	Canada: Ontario, Rouge National Urban Park, Sector 7	secondary	rbcL	43.1078038356794	-78.1619676874547	0.0057259026813809
+Portulaca_oleracea	HM850279.1	23-JUL-2011	1252	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00798721556950307

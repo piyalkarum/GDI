@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phyteuma_orbiculare	MK925197.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1604239329596	-3.05036833531098	0.140483383685801
+Phyteuma_orbiculare	MK925115.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9759797367439	-2.07242680136982	0.140483383685801
+Phyteuma_orbiculare	MK924617.1	14-JAN-2020	542	France	secondary	rbcL	46.603354	1.8883335	0.140483383685801
+Phyteuma_orbiculare	MK555598.1	22-SEP-2019	357	Switzerland	secondary	rbcL	46.584544921043	8.34944385656696	0.561909515014999
+Phyteuma_orbiculare	MK555389.1	22-SEP-2019	382	Switzerland	secondary	rbcL	46.6019591593768	9.20207300881563	0.140459363957597

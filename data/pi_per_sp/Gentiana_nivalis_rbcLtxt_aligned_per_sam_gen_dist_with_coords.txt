@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gentiana_nivalis	MG224360.1	26-DEC-2017	552	Canada: OAC,On	primary	rbcL	43.5485	-80.2503	0.18232044198895
+Gentiana_nivalis	MK925496.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.184659090909091
+Gentiana_nivalis	MK924541.1	14-JAN-2020	542	Slovenia	secondary	rbcL	46.1199444	14.8153333	0.184659090909091
+Gentiana_nivalis	KT907556.1	03-SEP-2016	722	Switzerland: Valais	secondary	rbcL	46.2303063	7.6605757	0.551638623807132

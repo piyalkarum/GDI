@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_csikhegyensis	LR588298.1	30-JUL-2021	2805	Germany	primary	trnK	9.8615	49.8697	0.000926967077843976
+Festuca_csikhegyensis	LR588296.1	30-JUL-2021	2815	Germany	primary	trnK	9.8507	50.6807	0.0013537586780949
+Festuca_csikhegyensis	LR588291.1	30-JUL-2021	2808	Germany	primary	trnK	51.4869	11.7619	0.000641431771173138
+Festuca_csikhegyensis	LR588287.1	30-JUL-2021	2808	Germany	primary	trnK	51.8119	11.0525	0.00135393635098317
+Festuca_csikhegyensis	LR588275.1	30-JUL-2021	2818	Germany	primary	trnK	51.3942	10.0375	0.000783678902835332
+Festuca_csikhegyensis	LR588255.1	30-JUL-2021	2809	Germany	primary	trnK	51.3653	11.0806	0.000783831256006289

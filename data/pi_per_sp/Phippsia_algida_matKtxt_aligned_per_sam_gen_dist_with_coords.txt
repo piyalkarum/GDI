@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phippsia_algida	KC475265.1	25-OCT-2013	777	Canada: Nunavut, Ellesmere Island, Scoresby Bay	primary	matK	79.882	-71.547	0.001323008303064
+Phippsia_algida	KC475264.1	25-OCT-2013	700	Canada: Nunavut, Ellef Ringnes Island, Reindeer Peninsula, W side. Reindeer Peninsula, central part	primary	matK	78.917	-104.633	0.000439717650018079
+Phippsia_algida	KC475263.1	25-OCT-2013	701	Canada: Nunavut, Devon Island, Dundas Harbour, W of harbour mouth	primary	matK	74.52	-82.56	0.000439090153783449
+Phippsia_algida	MG217148.1	24-JAN-2018	778	Canada: Nunavut, Baffin Island, Nanisivik Airport	primary	matK	85	-73	0.00172228586615232
+Phippsia_algida	KC475262.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, ~ 100m E of large waterfall, S of Minto Inlet	primary	matK	71.507	-115.284	0.000498781277703508
+Phippsia_algida	KC475261.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Rocky cliffs above south shore of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.235	-116.455	0.000498781277703508
+Phippsia_algida	KC475260.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Johansen Bay, West end of Johansen Bay at mouth of Mackenzie Creek	primary	matK	68.611	-111.369	0.000498781277703508
+Phippsia_algida	KC475259.1	25-OCT-2013	773	Canada: Northwest Territories, Banks Island, Worth Point	primary	matK	72.26	-125.66	0.00132711174558866
+Phippsia_algida	OK247819.1	27-OCT-2022	788	Norway: Svalbard	secondary	matK	78.7198519	20.3493328	0.00050515866932033
+Phippsia_algida	LR606953.1	25-JAN-2021	2037	Russia	secondary	matK	65.0608972530614	97.9132434010755	0.00128677983053037
+Phippsia_algida	OK247818.1	27-OCT-2022	788	USA: Alaska	secondary	matK	64.4459613	-149.680909	0.00050515866932033
+Phippsia_algida	KM523880.1	12-JUL-2015	755	Norway	secondary	matK	64.5731537	11.5280364	0.0015288135547415
+Phippsia_algida	KM523879.1	12-JUL-2015	788	Canada: Nunavut	secondary	matK	65.0377727	-92.5540791	0.00050515866932033
+Phippsia_algida	LR606952.1	25-JAN-2021	2095	Russia	secondary	matK	64.8688552236587	99.4827226949712	0.000475056490587714

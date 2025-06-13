@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aubrieta_deltoidea	KF547486.1	09-SEP-2014	394	Greece: Reg. West Greece, Per. Achaia,Megaspilaeon	primary	trnL-trnF	38.0894	22.1752	0.0147954743255004
+Aubrieta_deltoidea	KF547485.1	09-SEP-2014	383	Albania: Quarqe Gjirokastra,Mali i Lunxherise	primary	trnL-trnF	40.1384	20.2324	0.0161009573542211
+Aubrieta_deltoidea	KF547480.1	09-SEP-2014	383	Italy: Sicily, Prov. Messina,c. 7km S of Novara di Sicilia	primary	trnL-trnF	37.9419	15.1333	0.0130548302872063
+Aubrieta_deltoidea	KF547478.1	09-SEP-2014	383	Greece: Reg. Attica, Per. West Attica,Mt. Parnes	primary	trnL-trnF	38.1333	23.6833	0.010443864229765
+Aubrieta_deltoidea	KF547477.1	09-SEP-2014	383	Greece: Reg. Crete, Per. Chania,Lefka Ori, Mt. Psilafi	primary	trnL-trnF	35.312	23.906	0.010443864229765
+Aubrieta_deltoidea	KF547476.1	09-SEP-2014	383	Italy: Sicily, Prov. Palermo,c. 45km S of Cefalu, SE of Rifugia Marini	primary	trnL-trnF	37.8619	14.0353	0.0130548302872063
+Aubrieta_deltoidea	KC412344.1	31-DEC-2013	383	Greece: Reg. Kendriki Makedonia, Per. Pieria,Hagios Dionysios	primary	trnL-trnF	40.0944	22.4332	0.0126196692776327

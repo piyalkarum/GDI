@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fritillaria_tubiformis	KC409117.1	21-MAY-2013	1853	Italy: Vallone di Serpentera, CN	primary	trnK	44.13	7.41	0.0518135292492412
+Fritillaria_tubiformis	KC409116.1	21-MAY-2013	1842	Italy: Vallone del Marguareis, CN	primary	trnK	44.11	7.4	0.0466152864285567
+Fritillaria_tubiformis	KC409115.1	21-MAY-2013	1871	Italy: M.te Fronte, IM	primary	trnK	44.03	7.45	0.0448720020693765
+Fritillaria_tubiformis	KC409114.1	21-MAY-2013	1866	Italy: Vallone di Cravina, CN	primary	trnK	44.14	7.38	0.0498525419010432
+Fritillaria_tubiformis	KC409118.1	21-MAY-2013	1452	United Kingdom	secondary	trnK	54.7023545	-3.2765753	0.0721097444222076

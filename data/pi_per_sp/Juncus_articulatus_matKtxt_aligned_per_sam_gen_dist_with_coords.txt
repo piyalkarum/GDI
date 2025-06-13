@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_articulatus	OR738243.1	13-NOV-2023	670	Kazakhstan: Kostanay region	primary	matK	53.53504	64.22153	0.223070863196886
+Juncus_articulatus	KX677745.1	09-AUG-2017	810	Canada: British Columbia, Greater Vancouver Regional District, Grant Narrows Regional Park, mouth of Pitt River	primary	matK	49.3486	-122.618	0.0677260408967726
+Juncus_articulatus	JN894759.1	07-MAR-2012	916	United Kingdom: Glamorgan	primary	matK	51.75	-3.43	0.0689870246821197
+Juncus_articulatus	ON341292.1	30-APR-2023	830	USA: Georgia	secondary	matK	32.3293809	-83.1137366	0.0756621254544988
+Juncus_articulatus	HM850945.1	23-JUL-2011	370	Portugal	secondary	matK	39.6621648	-8.1353519	0.0763733245440563

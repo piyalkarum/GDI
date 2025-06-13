@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_ovata	EU036256.1	13-AUG-2007	401	Mexico: Catavina, Baja California Norte	secondary	psbA-trnH	29.7321505	-114.7208517	0.00045341192473362
+Plantago_ovata	EU036255.1	13-AUG-2007	401	USA: Zzyzx, CA	secondary	psbA-trnH	35.1427607	-116.104735	0.00045341192473362
+Plantago_ovata	EU036254.1	13-AUG-2007	401	USA: Anacapa Island, CA	secondary	psbA-trnH	34.1638989	-119.0362145	0.00045341192473362
+Plantago_ovata	EU036253.1	13-AUG-2007	401	Tunisia: Medenine	secondary	psbA-trnH	32.9819987	11.2870254	0.00045341192473362
+Plantago_ovata	EU036251.1	13-AUG-2007	401	Iraq: Badra	secondary	psbA-trnH	33.1146199	45.932346	0.00498753117206983
+Plantago_ovata	EU036248.1	13-AUG-2007	401	USA: Desert Shores, CA	secondary	psbA-trnH	36.2078191	-115.2695035	0.00045341192473362
+Plantago_ovata	EU036247.1	13-AUG-2007	401	USA: Thousand Palms, CA	secondary	psbA-trnH	33.8217125	-116.39358	0.00045341192473362
+Plantago_ovata	EU036246.1	13-AUG-2007	401	USA: Santa Catalina Island, CA	secondary	psbA-trnH	33.38890375	-118.423928753353	0.00045341192473362
+Plantago_ovata	EU036245.1	13-AUG-2007	401	USA: San Nicolas Island, CA	secondary	psbA-trnH	33.24999425	-119.509897948601	0.00045341192473362
+Plantago_ovata	EU036244.1	13-AUG-2007	401	Morocco: Tan-Tan	secondary	psbA-trnH	28.437553	-11.098664	0.00045341192473362
+Plantago_ovata	GQ248371.1	02-JUL-2009	408	USA: Arizona	secondary	psbA-trnH	34.395342	-111.763275	0.00045341192473362
+Plantago_ovata	EU036249.1	13-AUG-2007	401	Mexico	secondary	psbA-trnH	18.96203905	-98.2919817126505	0.00045341192473362

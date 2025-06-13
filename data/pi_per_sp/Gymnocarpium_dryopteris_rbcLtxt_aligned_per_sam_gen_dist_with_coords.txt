@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gymnocarpium_dryopteris	MG215287.1	24-JAN-2018	552	Canada: Quebec, Monteregie, Mont Saint-Hilaire, Right of wooden footbridge.	primary	rbcL	47.4133	-74.4111	0.000646997929606625
+Gymnocarpium_dryopteris	HQ590127.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, NW of John's house on W side of trail	primary	rbcL	44.033	-79.53	0.00215066120156815
+Gymnocarpium_dryopteris	KJ593453.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.559	-88.796	0.000646763933972048
+Gymnocarpium_dryopteris	KJ593452.1	17-MAR-2015	553	USA: Wisconsin, Florence	primary	rbcL	45.916	-88.544	0.000646763933972048
+Gymnocarpium_dryopteris	KJ593451.1	17-MAR-2015	542	USA: Wisconsin, Abrams	primary	rbcL	44.845	-88.076	0.000527878925475286
+Gymnocarpium_dryopteris	KM212128.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Mont Saint-Hilaire, At base of steep slope along North Creek	primary	rbcL	45.554	-73.153	0.000646997929606625
+Gymnocarpium_dryopteris	KF977475.1	05-APR-2014	577	USA: Dairymen's Club near Boulder Junction, Wisconsin	primary	rbcL	46.15	-89.68	0.00155893279450005
+Gymnocarpium_dryopteris	KC482934.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Tulugag River	primary	rbcL	68.936	-140.013	0.00706438179739511
+Gymnocarpium_dryopteris	MG215238.1	24-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0.000646997929606625
+Gymnocarpium_dryopteris	AB574993.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.9894089117473	139.762529912386	0.000561350524009225
+Gymnocarpium_dryopteris	AB574992.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.9542757785496	138.311000767635	0.000561350524009225
+Gymnocarpium_dryopteris	JX874064.1	07-MAY-2013	1309	USA: Alaska. Kenai Peninsula Borough.	secondary	rbcL	60.0968272	-151.788033	0.000762596747420016
+Gymnocarpium_dryopteris	JF832068.1	24-JAN-2012	1309	Sweden: Uppsala	secondary	rbcL	59.8586126	17.6387436	0.000762596747420016
+Gymnocarpium_dryopteris	KF186524.1	23-SEP-2013	1309	Canada	secondary	rbcL	45.7563115	-82.2146050237431	0.000762596747420016
+Gymnocarpium_dryopteris	JX874065.1	07-MAY-2013	1309	Finland	secondary	rbcL	60.5260223	21.0752791639907	0.000762596747420016

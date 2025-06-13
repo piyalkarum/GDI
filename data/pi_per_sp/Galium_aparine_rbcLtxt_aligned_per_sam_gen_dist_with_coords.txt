@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_aparine	OL434779.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1174	-81.138	0.00322425443792808
+Galium_aparine	KP643966.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.6220786483805	-78.3946713943263	0.00322425443792808
+Galium_aparine	KP643731.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.7176263283496	-78.7810960427681	0.00322425443792808
+Galium_aparine	MG222997.1	26-DEC-2017	527	Canada: Ontario, Niagara County, ca. 3.5 km west of Welland Canal at Port Colborne, just north of CN railway line at Humberstone - Wainfleet Twp. Boundary	primary	rbcL	42.886	-79.293	0.003215144122165
+Galium_aparine	MG222002.1	26-DEC-2017	545	USA: Alaska, Haines Borough, Haines Alaska, harbour	primary	rbcL	59.234	-135.445	0.00302620828528261
+Galium_aparine	HQ590108.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., 20 m S of main trail to pond, 3 m W of fence (400 m E of Dufferin)	primary	rbcL	44.036	-79.518	0.014258907463166
+Galium_aparine	HQ590107.1	09-NOV-2011	605	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., NE facing hill between classroom and Willow Ridge House	primary	rbcL	44.032	-79.534	0.00300114997938071
+Galium_aparine	KP402706.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H13x10y2	primary	rbcL	38.889	-76.559	0.00322425443792808
+Galium_aparine	KT695443.1	29-SEP-2015	551	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.0157481953007736
+Galium_aparine	KJ841334.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Burned Hill on Mont St. Hilaire	primary	rbcL	45.542	-73.166	0.00348948450337392
+Galium_aparine	JN893711.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.15	0.0032726810026721
+Galium_aparine	JN892355.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.7934270838719	-4.36303765878469	0.0032726810026721
+Galium_aparine	JN891877.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.9791522364151	-5.51564569710016	0.0032726810026721
+Galium_aparine	MT931545.1	03-MAR-2023	565	China	secondary	rbcL	35.1788384918787	105.178092422496	0.00535848900127732
+Galium_aparine	MT931544.1	03-MAR-2023	569	China	secondary	rbcL	35.2165619786951	104.163185355613	0.0154938465041799
+Galium_aparine	MK028051.1	17-DEC-2018	730	France: Corsica, Pietrabugno	secondary	rbcL	42.7127571	9.4321598	0.016473961847742
+Galium_aparine	MG222320.1	26-DEC-2017	553	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, End of Group Camping Area	secondary	rbcL	43.72634945	-77.7101179040839	0.00322425443792808
+Galium_aparine	KT178140.1	19-AUG-2015	1449	USA	secondary	rbcL	39.7837304	-100.445882	0.00311588880416189
+Galium_aparine	HM850018.1	23-JUL-2011	670	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00314601255095789
+Galium_aparine	JN893413.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0032726810026721
+Galium_aparine	JN890943.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.0032726810026721

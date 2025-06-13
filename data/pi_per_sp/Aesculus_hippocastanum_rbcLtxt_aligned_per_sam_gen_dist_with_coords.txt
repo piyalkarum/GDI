@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aesculus_hippocastanum	MZ676701.1	10-AUG-2022	601	United Kingdom: England	primary	rbcL	54.7633	-1.5561	0.0116340181557573
+Aesculus_hippocastanum	MG248585.1	21-JAN-2018	553	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay	primary	rbcL	45.514	-73.747	0
+Aesculus_hippocastanum	KX679097.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, North side of Pacific Spirit Park, trails along North side of Chancellor Blvd.	primary	rbcL	49.271	-123.229	0
+Aesculus_hippocastanum	KX678443.1	29-APR-2017	551	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, Pacific Spirit Park, St. George's trail	primary	rbcL	49.24	-123.198	0
+Aesculus_hippocastanum	MG248536.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Toronto.	secondary	rbcL	43.6534817	-79.3839347	0
+Aesculus_hippocastanum	MG247412.1	21-JAN-2018	552	Canada: Ontario, Niagara R. M., North Grimsby Tp., Niagara Section Escarpment ANSI, Along escarpment from just W of Fifty Rd. to just W of Rd. 12 in Grimsby including Beamer Valley	secondary	rbcL	44.0862304207581	-78.6632059088951	0
+Aesculus_hippocastanum	MG247295.1	21-JAN-2018	553	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Brackenbrae Trail	secondary	rbcL	44.1450639963827	-76.714628786396	0
+Aesculus_hippocastanum	KX162890.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.0680942166657	-1.88777376047892	0.00250085563488108
+Aesculus_hippocastanum	KX162889.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.9360731991732	-4.3535872867353	0.00250085563488108
+Aesculus_hippocastanum	KX162888.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.3384517635247	-2.83753392987551	0.00250085563488108
+Aesculus_hippocastanum	KX162887.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.6506891741555	-1.94766174209827	0.00250085563488108
+Aesculus_hippocastanum	HG765033.1	18-NOV-2013	688	Greece	secondary	rbcL	43.2097838	-77.6930602	0.00275317142462564
+Aesculus_hippocastanum	HG765032.1	18-NOV-2013	688	Italy	secondary	rbcL	43.4488895906647	12.8984735107202	0.00275317142462564
+Aesculus_hippocastanum	HG765031.1	18-NOV-2013	688	Italy	secondary	rbcL	43.0262307147769	13.0842453016481	0.00275317142462564

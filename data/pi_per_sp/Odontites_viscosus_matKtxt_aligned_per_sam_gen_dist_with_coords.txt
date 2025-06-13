@@ -1,0 +1,35 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_viscosus	KX959212.1	02-NOV-2017	1038	Spain: Zamora, Corrales del Vino	primary	matK	40.7328305261941	-6.23128210307659	0.000527729672047917
+Odontites_viscosus	KX959211.1	02-NOV-2017	1038	Spain: Zamora, Corrales del Vino	primary	matK	41.3885305381268	-5.91883036591857	0.000527729672047917
+Odontites_viscosus	KX959210.1	02-NOV-2017	1038	France: Bouches-du-Rhone, Palama	primary	matK	43.410292153377	5.77502013207043	0.000527729672047917
+Odontites_viscosus	KX959209.1	02-NOV-2017	1038	France: Bouches-du-Rhone, Palama	primary	matK	43.8680599731561	4.51531524803173	0.000527729672047917
+Odontites_viscosus	KX959143.1	02-NOV-2017	1031	Spain: Oviedo, Lena, Tuizia de Arriba, Pena Cerreos	primary	matK	43.0164	-5.9372	0.000941373003700561
+Odontites_viscosus	KX959141.1	02-NOV-2017	1026	Spain: Huesca, Broto, Asin de Broto	primary	matK	42.53	-0.15	0.00053180533707364
+Odontites_viscosus	KX959114.1	02-NOV-2017	1031	Spain: Granada, Sierra Nevada, Cerro Canadillas	primary	matK	36.876919913156	-4.2207039077288	0.000941373003700561
+Odontites_viscosus	KX959113.1	02-NOV-2017	1031	Spain: Granada, Sierra Nevada, Cerro Canadillas	primary	matK	37.8695356253081	-3.61046057822975	0.000941373003700561
+Odontites_viscosus	KX959087.1	02-NOV-2017	1031	Spain: Lerida, Sarroca de Bellera	primary	matK	41.8295307179097	0.465906855530539	0.000529513572398225
+Odontites_viscosus	KX959086.1	02-NOV-2017	1038	Spain: Lerida, Sarroca de Bellera	primary	matK	42.018891717733	0.593176772023665	0.000527729672047917
+Odontites_viscosus	KX959085.1	02-NOV-2017	1031	Spain: Leon, Puebla de Lillo, Isoba	primary	matK	43.8076776584347	-5.31183094021355	0.000529513572398225
+Odontites_viscosus	KX959084.1	02-NOV-2017	1038	Spain: Leon, Puebla de Lillo, Isoba	primary	matK	42.7220902220839	-5.84249956239292	0.000527729672047917
+Odontites_viscosus	KX959083.1	02-NOV-2017	1031	Portugal: Setubal, Sesimbra, Cabo Espichel	primary	matK	37.7417328074509	-9.2496422923369	0.00176471878247373
+Odontites_viscosus	KX959082.1	02-NOV-2017	1038	Portugal: Setubal, Sesimbra, Cabo Espichel	primary	matK	38.8900412783696	-8.94053452836498	0.00175698854762239
+Odontites_viscosus	KX959059.1	02-NOV-2017	1031	Spain: Granada, Sierra Nevada, barranco de Rio Seco	primary	matK	37.6987393277901	-3.49611984133604	0.000529513572398225
+Odontites_viscosus	KX959058.1	02-NOV-2017	1038	Spain: Granada, Sierra Nevada, barranco de Rio Seco	primary	matK	36.4062019648856	-3.58870930229149	0.000527729672047917
+Odontites_viscosus	KX959045.1	02-NOV-2017	1038	Spain: Granada, Sierra Navada, barranco del Guarnon	primary	matK	36.5733198870184	-3.12136253620269	0.000527729672047917
+Odontites_viscosus	KX959044.1	02-NOV-2017	1038	Spain: Granada, Sierra Navada, barranco del Guarnon	primary	matK	36.4832734115276	-4.18148442592131	0.000527729672047917
+Odontites_viscosus	KX959043.1	02-NOV-2017	1038	Spain: Leon, Carmenes, Genicera	primary	matK	42.93688	-5.47687	0.000527729672047917
+Odontites_viscosus	KX959042.1	02-NOV-2017	1038	Spain: Palencia, La Pernia, Piedrasluengas	primary	matK	43.02225	-4.44626	0.000527729672047917
+Odontites_viscosus	KX959041.1	02-NOV-2017	1038	Spain: Jaen, Cazorla, near Vadillo Castril	primary	matK	37.92067	-2.94506	0.000937210569549844
+Odontites_viscosus	KX959040.1	02-NOV-2017	1038	Spain: Barcelona, Vilada	primary	matK	42.1298	1.94764	0.000527729672047917
+Odontites_viscosus	KX959039.1	02-NOV-2017	1038	Spain: Leon, Puebla de Lillo, Isoba	primary	matK	42.7404245843205	-4.84906664539458	0.000527729672047917
+Odontites_viscosus	KX959038.1	02-NOV-2017	1038	Portugal: Setubal, Sesimbra, Cabo Espichel	primary	matK	38.4141	-9.2094	0.00175698854762239
+Odontites_viscosus	KX959037.1	02-NOV-2017	1038	Spain: Toledo, Orgaz, between Marjaliza and Arisgotas	primary	matK	39.58057	-3.92741	0.000527729672047917
+Odontites_viscosus	KX959036.1	02-NOV-2017	1038	Morocco: Tanger-Tetouan, Jbel L'akraa	primary	matK	35.13683	-5.14364	0.000527729672047917
+Odontites_viscosus	KX959021.1	02-NOV-2017	1038	Spain: Granada, Sierra Nevada, Collado de Las Sabinas	primary	matK	36.7576538081181	-4.17619816379193	0.000527729672047917
+Odontites_viscosus	KX959020.1	02-NOV-2017	1038	Spain: Granada, Sierra Nevada, Collado de Las Sabinas	primary	matK	36.5268393413044	-2.94193019140716	0.000527729672047917
+Odontites_viscosus	KX959019.1	02-NOV-2017	1031	Spain: Granada, Guejar Sierra, Canales	primary	matK	37.0927479245288	-3.76277740177174	0.000529513572398225
+Odontites_viscosus	KX959018.1	02-NOV-2017	1031	Spain: Granada, Guejar Sierra, Canales	primary	matK	36.6370864858425	-2.95493878378463	0.000529513572398225
+Odontites_viscosus	KX959234.1	02-NOV-2017	1038	Spain: Oviedo, Lena, east of Pena Vera	secondary	matK	43.3618625	-5.8483581	0.000937210569549844
+Odontites_viscosus	KX959220.1	02-NOV-2017	1038	Switzerland: Valais, Bratsch	secondary	matK	46.3206475	7.7072693	0.00272270324236652
+Odontites_viscosus	KX959140.1	02-NOV-2017	1031	France: Hautes-Alpes, Villar-Saint-Pancrace, Le Melezin	secondary	matK	44.8577702	6.6399995	0.00182350254639813
+Odontites_viscosus	JF900588.1	05-MAR-2013	1037	France	secondary	matK	46.603354	1.8883335	0.00239936017062117

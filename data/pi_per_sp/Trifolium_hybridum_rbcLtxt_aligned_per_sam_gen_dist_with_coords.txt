@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_hybridum	OR464847.1	26-SEP-2023	605	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28856534	-85.61766392	0
+Trifolium_hybridum	MG249084.1	21-JAN-2018	552	Canada: Yukon Territory, La Biche Airstrip	primary	rbcL	60.128	-133.729	0
+Trifolium_hybridum	MG249019.1	21-JAN-2018	552	Canada: Guelph	primary	rbcL	42.8190880292186	-79.8966340218568	0
+Trifolium_hybridum	MG248462.1	21-JAN-2018	552	Canada: Yukon Territory, Dezadeash trail near Haines Junction	primary	rbcL	60.733	-137.517	0
+Trifolium_hybridum	MG246622.1	21-JAN-2018	552	Canada: Guelph	primary	rbcL	44.3007357006846	-80.5733650137596	0
+Trifolium_hybridum	KX678891.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.045	-125.501	0
+Trifolium_hybridum	KX678608.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Just west of Kettle River Forest Service Road, north of Christian Valley	primary	rbcL	49.698	-118.778	0
+Trifolium_hybridum	KX678394.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	rbcL	49.376	-122.862	0
+Trifolium_hybridum	KX678369.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail, near Link Lake Forest Recreation Site	primary	rbcL	49.711	-120.231	0
+Trifolium_hybridum	KX677971.1	29-APR-2017	552	Canada: British Columbia, Capital Regional District, Victoria, Lochside Drive	primary	rbcL	48.433	-123.367	0
+Trifolium_hybridum	KT695575.1	29-SEP-2015	549	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0
+Trifolium_hybridum	KJ593728.1	17-MAR-2015	553	USA: Wisconsin, Doty	primary	rbcL	45.156	-88.558	0
+Trifolium_hybridum	KJ593727.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.552	-88.794	0
+Trifolium_hybridum	KJ841632.1	04-NOV-2014	570	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.000116959064327485
+Trifolium_hybridum	MN601501.1	15-DEC-2019	601	USA	secondary	rbcL	39.7837304	-100.445882	0.000116959064327485
+Trifolium_hybridum	MG246475.1	21-JAN-2018	552	Canada: Ontario, RBG Pinetum	secondary	rbcL	43.72634945	-77.7101179040839	0

@@ -1,0 +1,34 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chamaenerion_angustifolium	OR738134.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.000304367352884055
+Chamaenerion_angustifolium	MG249702.1	21-JAN-2018	552	Canada: Ontario, Algoma District, Laronde Twp., Lake Superior Provincial Park, Gravelly ditch along Hwy 17 just northwest of the entrance to the Old Woman Bay parking area	primary	rbcL	47.793	-84.899	0.000303322845156369
+Chamaenerion_angustifolium	MG248297.1	21-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	rbcL	51.273	-80.641	0.000303322845156369
+Chamaenerion_angustifolium	MG247604.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, Access Point	primary	rbcL	45.185	-81.602	0.000303322845156369
+Chamaenerion_angustifolium	MF786735.1	06-DEC-2017	553	China: Xizang, 4427 km marker on Rte 318.	primary	rbcL	29.9013	92.7432	0.000303220472066242
+Chamaenerion_angustifolium	KX679149.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Squamish Valley Rd., Riverside Forest Recreation Site	primary	rbcL	49.916	-123.296	0.000303322845156369
+Chamaenerion_angustifolium	KJ593303.1	17-MAR-2015	553	USA: Wisconsin, Wabeno	primary	rbcL	45.604	-88.675	0.000303220472066242
+Chamaenerion_angustifolium	KJ593302.1	17-MAR-2015	553	USA: Wisconsin, Breed	primary	rbcL	45.096	-88.457	0.000303220472066242
+Chamaenerion_angustifolium	KC482434.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0.000303322845156369
+Chamaenerion_angustifolium	KC482433.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Along River in middle of town, leading from school to ocean	primary	rbcL	56.617	-79.311	0.000303322845156369
+Chamaenerion_angustifolium	KC482432.1	25-OCT-2013	522	Canada: Northwest Territories, Mainland Northwest Territoires, Inuvik	primary	rbcL	68.35	-133.717	0.000306576426698931
+Chamaenerion_angustifolium	KC482431.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	rbcL	66.839	-108.035	0.000303322845156369
+Chamaenerion_angustifolium	JN965439.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	rbcL	58.9424199110953	-93.6465682704753	0.000303322845156369
+Chamaenerion_angustifolium	JN965438.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	rbcL	58.6175813163589	-93.662370359626	0.000303322845156369
+Chamaenerion_angustifolium	JN965437.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	rbcL	58.789	-94.227	0.000303322845156369
+Chamaenerion_angustifolium	JN965436.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	rbcL	58.626	-94.23	0.000303322845156369
+Chamaenerion_angustifolium	JN965435.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Salt marsh	primary	rbcL	58.771	-93.843	0.000303322845156369
+Chamaenerion_angustifolium	JN965434.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, Road side	primary	rbcL	58.616	-93.808	0.000303322845156369
+Chamaenerion_angustifolium	JN965433.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Intersection of Launch Rd and road to Miss Piggy, Dryas heath	primary	rbcL	58.758	-94.068	0.000303322845156369
+Chamaenerion_angustifolium	JN892461.1	07-MAR-2012	372	United Kingdom: Glamorgan	primary	rbcL	51.68	-3.95	0
+Chamaenerion_angustifolium	JN890984.1	07-MAR-2012	524	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000306347930895942
+Chamaenerion_angustifolium	JN890601.1	07-MAR-2012	524	United Kingdom: Glamorgan (41)	primary	rbcL	51.56	-3.21	0.000306347930895942
+Chamaenerion_angustifolium	OR670255.1	06-NOV-2023	380	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00773026315789473
+Chamaenerion_angustifolium	MT931744.1	03-MAR-2023	572	China	secondary	rbcL	34.7588057403186	103.95877731368	0.000301631440199796
+Chamaenerion_angustifolium	MT931743.1	03-MAR-2023	569	China	secondary	rbcL	34.4024559583354	105.662681453949	0.000301631440199796
+Chamaenerion_angustifolium	MT931742.1	03-MAR-2023	569	China	secondary	rbcL	34.6783763406082	104.238302637884	0.00205113333616935
+Chamaenerion_angustifolium	JN892124.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.000304367352884055
+Chamaenerion_angustifolium	JF941478.1	13-DEC-2011	606	China	secondary	rbcL	35.3108253910353	104.777515524299	0.000306008439029262
+Chamaenerion_angustifolium	JF941477.1	13-DEC-2011	606	China	secondary	rbcL	35.4921735932311	105.801986845532	0.000306008439029262
+Chamaenerion_angustifolium	JF941476.1	13-DEC-2011	606	China	secondary	rbcL	34.4236030312647	104.572799868902	0.000306008439029262
+Chamaenerion_angustifolium	JF941475.1	13-DEC-2011	606	China	secondary	rbcL	34.5771132604328	105.245100725063	0.000306008439029262
+Chamaenerion_angustifolium	JF941474.1	13-DEC-2011	606	China	secondary	rbcL	34.6589576195467	105.270696579073	0.000306008439029262
+Chamaenerion_angustifolium	JF941473.1	13-DEC-2011	606	China	secondary	rbcL	35.3742747124727	105.119900441548	0.000306008439029262

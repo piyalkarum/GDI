@@ -1,0 +1,32 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Empetrum_nigrum	LC690786.1	03-MAY-2022	646	Japan: Nagano	primary	rbcL	35.8734	137.5014	0.000400196798425613
+Empetrum_nigrum	MZ359351.1	07-DEC-2021	557	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.00042781084745154
+Empetrum_nigrum	LC377004.1	18-APR-2018	262	Japan: Toyama, Mt.Taro	primary	rbcL	36.44	137.51	0
+Empetrum_nigrum	MG224701.1	26-DEC-2017	552	Canada: New Brunswick, Albert County, Riverside, New Horton Tidal Salt Marsh	primary	rbcL	45.7	-64.69	0.00042994092276467
+Empetrum_nigrum	MG223004.1	26-DEC-2017	552	Canada: Yukon Territory, Blow River Delta east, Danny C. Gordon's goose camp	primary	rbcL	68.896	-136.961	0.00042994092276467
+Empetrum_nigrum	KX679030.1	29-APR-2017	552	Canada: British Columbia, Thompson-Nicola Regional District, Upper Stein Valley, Tundra Lake	primary	rbcL	50	-121	0.00042994092276467
+Empetrum_nigrum	KT307944.1	20-MAR-2016	512	Canada: Newfoundland and Labrador, Labrador, Mont Irony, In the depression of the northen slope.	primary	rbcL	55.8847	-68.805	0.000459862764550265
+Empetrum_nigrum	KT960689.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.0652264598376	-19.6963074584737	0.00042994092276467
+Empetrum_nigrum	KT960589.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.6183935725873	-21.4124340672747	0.00042994092276467
+Empetrum_nigrum	KT960568.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.8847007683123	-21.8797252291364	0.00042994092276467
+Empetrum_nigrum	KC482698.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit	primary	rbcL	63.583	-68.7333	0.00042994092276467
+Empetrum_nigrum	KC482697.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0.00042994092276467
+Empetrum_nigrum	KC482696.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Rocky hills south of large unnamed lake ca. 18 km ENE of Johansen Bay airstrip	primary	rbcL	68.753	-110.692	0.00042994092276467
+Empetrum_nigrum	KC482695.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Brock lagoon, N of Brock River Delta	primary	rbcL	68.239	-121.761	0.00042994092276467
+Empetrum_nigrum	KC482694.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, community of Bathurst Inlet	primary	rbcL	66.84	-108.03	0.00042994092276467
+Empetrum_nigrum	KC482693.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Adjacent [to] the One Way Street in Iqaluit near Happy Valley	primary	rbcL	63.7333	-68.4667	0.00042994092276467
+Empetrum_nigrum	KC482692.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Near cabin on terraces above coastal area	primary	rbcL	56.331	-79.514	0.00042994092276467
+Empetrum_nigrum	KC482691.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territoires, Tuktoyaktuk	primary	rbcL	69.45	-133.033	0.00042994092276467
+Empetrum_nigrum	KC482690.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Rankin Inlet	primary	rbcL	62.867	-92.1333	0.00042994092276467
+Empetrum_nigrum	JN965516.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 3 km SE Churchill, pipeline, Forest along the pipe	primary	rbcL	58.747	-94.115	0.00042994092276467
+Empetrum_nigrum	JN965515.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	rbcL	58.769	-93.856	0.00042994092276467
+Empetrum_nigrum	JN965514.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	rbcL	58.633	-93.79	0.00042994092276467
+Empetrum_nigrum	JN965513.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Bank of small stream near Goose Creek Rd	primary	rbcL	58.739	-94.112	0.00042994092276467
+Empetrum_nigrum	JN891889.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.73	-2.71	0.00142337647569333
+Empetrum_nigrum	LC694371.1	03-MAY-2022	599	Japan: Hokkaido	secondary	rbcL	43.4519831	142.8197834	0.000410490545583422
+Empetrum_nigrum	KX821229.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.1460921842048	7.74547035652533	0.00139927726536489
+Empetrum_nigrum	KX821228.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.5908442537156	9.49689688725579	0.00139927726536489
+Empetrum_nigrum	KX821227.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.4237208570966	9.23630792894307	0.00139927726536489
+Empetrum_nigrum	KX821226.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.7299797015719	9.879832928205	0.00139927726536489
+Empetrum_nigrum	JN893298.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.2566890573679	-3.80160460828495	0.00142337647569333
+Empetrum_nigrum	JN893297.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.168490216862	-5.21507795022135	0.00142337647569333

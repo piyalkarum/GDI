@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hippophae_rhamnoides	JN044903.1	13-DEC-2011	333	China: Shanxi	secondary	psbA-trnH	37.5789023996904	112.382119089272	0.0156823490156823
+Hippophae_rhamnoides	JN044902.1	13-DEC-2011	333	China: Liaoning	secondary	psbA-trnH	41.3750103941624	123.916268258328	0.0173506840173507
+Hippophae_rhamnoides	JN044901.1	13-DEC-2011	333	China: Liaoning	secondary	psbA-trnH	41.2582553030416	122.897716150997	0.0146813480146814
+Hippophae_rhamnoides	JN044900.1	13-DEC-2011	333	China: Shanxi	secondary	psbA-trnH	36.9164420606583	112.374414465621	0.0146813480146814
+Hippophae_rhamnoides	JN044899.1	13-DEC-2011	333	China: Shanxi	secondary	psbA-trnH	37.6948259159582	111.866250958849	0.0146813480146814
+Hippophae_rhamnoides	JN044898.1	13-DEC-2011	334	China: Tibet	secondary	psbA-trnH	30.0033788038906	91.0778614538473	0.0153306999614385
+Hippophae_rhamnoides	JN044897.1	13-DEC-2011	334	China: Sichuan	secondary	psbA-trnH	53.2780787	-6.2107338	0.0203387019754285
+Hippophae_rhamnoides	JN044896.1	13-DEC-2011	334	China: Yunnan	secondary	psbA-trnH	25.5239368558142	101.837091153157	0.0200060339780899
+Hippophae_rhamnoides	JN044895.1	13-DEC-2011	333	China: Yunnan	secondary	psbA-trnH	25.5996109524998	102.216329981374	0.0153486820153487
+Hippophae_rhamnoides	JN044894.1	13-DEC-2011	344	China: Tibet	secondary	psbA-trnH	30.0887371459716	91.2501123739224	0.030666394937852

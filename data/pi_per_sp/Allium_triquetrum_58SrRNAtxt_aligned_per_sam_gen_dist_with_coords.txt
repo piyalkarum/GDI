@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_triquetrum	HF934354.1	12-MAY-2015	661	Spain:Andalusia, Sotogrande	secondary	5.8S rRNA	36.2820648	-5.2970604	0.000504286434694907
+Allium_triquetrum	HF934351.1	12-MAY-2015	661	Spain:Hort	secondary	5.8S rRNA	41.6761092	2.6187937	0.00151285930408472
+Allium_triquetrum	HE962507.1	10-APR-2013	661	Tunisia:Tabarka,ca. 45 km nordwest of Beja,Kroumrie, Tell Atlas	secondary	5.8S rRNA	36.9545614	8.7573829	0.000504286434694907
+Allium_triquetrum	HF934353.1	12-MAY-2015	661	Spain	secondary	5.8S rRNA	36.8781793	-4.8468061	0.000504286434694907

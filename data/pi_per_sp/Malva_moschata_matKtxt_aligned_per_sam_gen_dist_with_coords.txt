@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Malva_moschata	MG220686.1	21-JAN-2018	768	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	matK	45.19	-81.421	0.00120663650075415
+Malva_moschata	KJ840941.1	23-SEP-2014	663	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 60-70 metres east-south-east of Interpretive Centre and 2 metres south-west of direction sign, growing next to rock	primary	matK	45.538	-73.156	0.00603318250377074
+Malva_moschata	JN895782.1	07-MAR-2012	822	United Kingdom: Glamorgan	primary	matK	51.76	-3.79	0.00120663650075415
+Malva_moschata	KJ204506.1	29-JAN-2015	821	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.00120663650075415
+Malva_moschata	JN894568.1	07-MAR-2012	820	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00120663650075415
+Malva_moschata	JN894565.1	07-MAR-2012	797	United Kingdom: Breconshire	secondary	matK	52.9877138	-1.1775355	0.00120663650075415

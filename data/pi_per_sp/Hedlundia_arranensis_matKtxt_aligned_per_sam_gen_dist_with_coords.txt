@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedlundia_arranensis	MK926329.1	14-JAN-2020	813	United Kingdom	secondary	matK	53.9758103850847	-2.68503973157979	0
+Hedlundia_arranensis	MK926290.1	14-JAN-2020	815	United Kingdom	secondary	matK	54.8477984334393	-2.04654444311481	0
+Hedlundia_arranensis	MK926009.1	14-JAN-2020	810	United Kingdom	secondary	matK	55.0073808888899	-4.50517174645431	0
+Hedlundia_arranensis	MK925711.1	14-JAN-2020	783	United Kingdom	secondary	matK	54.8502065333776	-3.45039961693303	0

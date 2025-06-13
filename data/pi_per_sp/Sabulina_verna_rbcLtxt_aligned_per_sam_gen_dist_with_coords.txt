@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sabulina_verna	MT671784.1	06-DEC-2021	817	France	primary	rbcL	44.07	7.52	0.398051051250451
+Sabulina_verna	JN893437.1	07-MAR-2012	541	United Kingdom: Flintshire	primary	rbcL	53.22	-3.35	0.25356672908678
+Sabulina_verna	MT931002.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.255322261229634
+Sabulina_verna	MT671783.1	06-DEC-2021	818	Morocco	secondary	rbcL	28.3347722	-10.3713379	0.399517656327703
+Sabulina_verna	MT671782.1	06-DEC-2021	775	Germany	secondary	rbcL	40.4203479	-79.1166983	0.39986619240084
+Sabulina_verna	JQ933411.1	30-SEP-2012	1383	United Kingdom: Conrwall	secondary	rbcL	52.6268043	1.3069336	0.305821841742031
+Sabulina_verna	JN892471.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.253078416343722
+Sabulina_verna	JN892470.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0.253078416343722

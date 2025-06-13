@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leonurus_cardiaca	OQ404740.1	03-JUL-2023	770	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	42.5604369767283	-86.4115222071744	0.00927562111813065
+Leonurus_cardiaca	OQ404739.1	03-JUL-2023	844	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	42.2450468590773	-85.6464195900224	0.00776495171176947
+Leonurus_cardiaca	OQ434034.1	02-JUL-2023	770	USA: South Westnudge Park, Portage, MI	primary	matK	42.8277030649489	-85.8903461173571	0.00927562111813065
+Leonurus_cardiaca	OQ434033.1	02-JUL-2023	850	USA: South Westnudge Park, Portage, MI	primary	matK	42.7129045133383	-86.5403906285382	0.00837551860507409
+Leonurus_cardiaca	KP643049.1	08-DEC-2015	627	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.9826990037505	-79.0236616323012	0.0127163028082773
+Leonurus_cardiaca	KP642878.1	08-DEC-2015	629	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.5329698853775	-77.5547525860726	0.00968203103970787
+Leonurus_cardiaca	MG225055.1	21-JAN-2018	787	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #6 trail	primary	matK	43.097	-79.281	0.00794918616168627
+Leonurus_cardiaca	MG224845.1	21-JAN-2018	632	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	matK	42.454	-81.884	0.00821912831830277
+Leonurus_cardiaca	MG224786.1	21-JAN-2018	552	Canada: Quebec, Montreal, Island of Montreal, Parc Graham, pres de la bordure du boise	primary	matK	45.479	-73.848	0.0113767481963305
+Leonurus_cardiaca	OQ303566.1	13-JUN-2023	738	Latvia	secondary	matK	56.8406494	24.7537645	0.00808399218563698

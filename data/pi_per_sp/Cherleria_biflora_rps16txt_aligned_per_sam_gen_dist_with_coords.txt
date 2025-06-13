@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cherleria_biflora	MT094062.1	11-DEC-2021	562	Canada: Newfoundland	secondary	rps16	49.1212094	-56.6403111	0.362436279696066
+Cherleria_biflora	KY249966.1	18-DEC-2017	562	Russia	secondary	rps16	64.6863136	97.7453061	0.368558201258319
+Cherleria_biflora	KY249952.1	18-DEC-2017	579	USA	secondary	rps16	39.7837304	-100.445882	0.369661194260908
+Cherleria_biflora	AM085706.1	07-JAN-2006	799	Russia:Altai, Zhumaly	secondary	rps16	49.7995174	86.5788193	0.270247749375408
+Cherleria_biflora	AM085705.1	07-JAN-2006	799	Russia:Taymyr, Ary-Mas	secondary	rps16	75.2406942842596	100.808974147588	0.270247749375408
+Cherleria_biflora	AM085704.1	07-JAN-2006	799	Russia:Taymyr, Khatanga	secondary	rps16	74.9729224436509	100.743165962002	0.270247749375408
+Cherleria_biflora	AM085703.1	07-JAN-2006	799	Norway:Roros	secondary	rps16	62.5695151	11.6604365	0.270247749375408

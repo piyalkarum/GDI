@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bidens_tripartita	MG224232.1	26-DEC-2017	552	Canada: Kent Co	primary	rbcL	42.377	-82.189	0.000364309603440038
+Bidens_tripartita	MG223835.1	26-DEC-2017	552	Canada: Norfolk twp	primary	rbcL	42.8033	-80.4086	0.000364309603440038
+Bidens_tripartita	MG222753.1	26-DEC-2017	552	Canada: Ontario, Simcoe co	primary	rbcL	44.48	-79.808	0.000364309603440038
+Bidens_tripartita	JN893066.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.68	-3.4	0.000186915887850467
+Bidens_tripartita	MT930387.1	03-MAR-2023	566	China	secondary	rbcL	35.000074	104.999927	0.00127584075509975
+Bidens_tripartita	LC722547.1	10-FEB-2023	553	Japan:Aichi, Minamichitacho	secondary	rbcL	35.1219442	137.081740723195	0.00036398200955163
+Bidens_tripartita	JN891149.1	07-MAR-2012	542	United Kingdom: Radnorshire	secondary	rbcL	52.4627049	-3.2561628	0.000186915887850467
+Bidens_tripartita	JN891148.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.0287326592388	-3.17134927228836	0.000186915887850467
+Bidens_tripartita	JN890576.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.5317519913827	-3.01669772213268	0.000186915887850467
+Bidens_tripartita	HE574604.1	31-JUL-2011	554	Finland	secondary	rbcL	63.939567382243	27.094272543597	0.000367072579341559
+Bidens_tripartita	HE574582.1	31-JUL-2011	566	Finland	secondary	rbcL	64.0632735806654	25.3172022205913	0.00202573320281469

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_hirsuta	OQ310354.1	16-MAY-2023	497	Mexico: Puebla	secondary	psbA-trnH	19.1705686	-98.4123106	0.0487403793582033
+Vicia_hirsuta	KP896981.1	13-OCT-2015	376	Nepal	secondary	psbA-trnH	28.1083929	84.0917139	0.0938688312443397
+Vicia_hirsuta	KP896969.1	13-OCT-2015	376	South Korea	secondary	psbA-trnH	36.1407989390522	127.464982794283	0.096750690118755
+Vicia_hirsuta	KP896965.1	13-OCT-2015	403	South Korea	secondary	psbA-trnH	37.3946560345376	128.14472757269	0.0502479464668945
+Vicia_hirsuta	JX506011.1	09-JAN-2013	468	Portugal	secondary	psbA-trnH	39.6621648	-8.1353519	0.0455466551867284
+Vicia_hirsuta	JX506010.1	09-JAN-2013	468	USA	secondary	psbA-trnH	39.7837304	-100.445882	0.0455466551867284

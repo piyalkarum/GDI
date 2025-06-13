@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dryas_octopetala	AB685704.1	04-DEC-2013	658	China:Mt. Changbai	secondary	atpB-rbcL	41.5687467	127.8415521	0.00151975683890578
+Dryas_octopetala	AB685702.1	04-DEC-2013	658	Japan:Hokkaido, Taisetsu mountains	secondary	atpB-rbcL	43.4603175	143.330715792837	0.00151975683890578
+Dryas_octopetala	AB933339.1	16-MAY-2015	658	Sweden: Hemavan	secondary	atpB-rbcL	65.7912421445671	15.9244186366797	0.000911854103343465
+Dryas_octopetala	AB933337.1	16-MAY-2015	658	Sweden: Hemavan	secondary	atpB-rbcL	65.041728181875	15.7491425960449	0.000911854103343465
+Dryas_octopetala	AB933335.1	16-MAY-2015	658	Sweden: Hemavan	secondary	atpB-rbcL	65.5026167648603	14.9206495385756	0.00212765957446809
+Dryas_octopetala	AB933333.1	16-MAY-2015	658	Sweden: Hemavan	secondary	atpB-rbcL	65.1530514701522	15.9851928935106	0.000911854103343465

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glyceria_declinata	JN893453.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.55	-3.19	0
+Glyceria_declinata	HM850032.1	23-JUL-2011	692	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Glyceria_declinata	JN891384.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0
+Glyceria_declinata	JN891219.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Glyceria_declinata	JN891218.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

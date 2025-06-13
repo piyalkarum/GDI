@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sparganium_emersum	MG226622.1	23-JAN-2018	552	Canada: British Columbia, Lower Fraser Valley, Surrey, golf course on Fraser Highway	primary	rbcL	49.117	-122.75	0.00113879259407091
+Sparganium_emersum	MG226394.1	23-JAN-2018	552	Canada: Yukon Territory, Whitehorse, Mary Lake	primary	rbcL	60.67	-133.98	0.00113879259407091
+Sparganium_emersum	HQ590285.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., E edge of pond	primary	rbcL	44.035	-79.518	0.000552795031055901
+Sparganium_emersum	KJ841591.1	04-NOV-2014	523	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	rbcL	45.548	-73.152	0.000575459370870461
+Sparganium_emersum	JN892540.1	07-MAR-2012	525	United Kingdom: Cardiganshire	primary	rbcL	52.2	-4.07	0.00116931885264394
+Sparganium_emersum	LC004552.1	04-DEC-2015	794	Russia	secondary	rbcL	64.8564302221336	99.5302675768075	0
+Sparganium_emersum	LC004551.1	04-DEC-2015	794	Russia	secondary	rbcL	64.694625044855	99.2722755049265	0
+Sparganium_emersum	KT215500.1	31-DEC-2015	1329	Germany	secondary	rbcL	34.895926	-83.4665496	0.000552795031055901
+Sparganium_emersum	JN890963.1	07-MAR-2012	532	United Kingdom: Glamorgan	secondary	rbcL	51.414174419487	-2.56385040511848	0.000567124024751143
+Sparganium_emersum	JN890962.1	07-MAR-2012	473	United Kingdom: Glamorgan	secondary	rbcL	51.281988133324	-2.27305011978595	0.000634249471458774
+Sparganium_emersum	HE574620.1	31-JUL-2011	559	Finland	secondary	rbcL	63.2467777	25.9209164	0.000564481111593574

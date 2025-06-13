@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Valeriana_tripteris	HM162397.1	08-MAY-2011	887	France: Gard, Mt. Aigoual	secondary	trnL-trnF	44.1216253	3.5813643	0.00375798571965427
+Valeriana_tripteris	HM162396.1	08-MAY-2011	887	Spain: Catalonia, Girona, Setcases	secondary	trnL-trnF	42.375331	2.3016103	0.00375798571965427
+Valeriana_tripteris	HM162395.1	08-MAY-2011	887	Spain: Catalonia, Espot, road to Espot Sky	secondary	trnL-trnF	41.8761986	1.9767727400896	0.00676437429537768
+Valeriana_tripteris	HM162394.1	08-MAY-2011	887	France: Vaucluse, Mt. Ventoux	secondary	trnL-trnF	44.1739649	5.2783976	0.00375798571965427

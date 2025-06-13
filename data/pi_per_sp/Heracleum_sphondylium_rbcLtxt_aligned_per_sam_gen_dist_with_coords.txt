@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Heracleum_sphondylium	MG222618.1	26-DEC-2017	552	Canada: Yukon Territory, Klondike Highway, Rock Creek Bluff, Henderson Corner, 25 km E of Dawson City	primary	rbcL	64.056	-139.044	0
+Heracleum_sphondylium	MZ676699.1	10-AUG-2022	576	United Kingdom: England, County Durham	primary	rbcL	54.7635	-1.5557	0.000218914185639229
+Heracleum_sphondylium	MK060099.1	26-MAY-2019	638	Poland	primary	rbcL	49.4437	20.7133	0.000910796104458418
+Heracleum_sphondylium	MG224459.1	26-DEC-2017	552	Canada: British Columbia, Spinel Lake, top of mountain and its slopes north of camp at bay in SW corner of lake. Toodoggone River map 94E 654/6416 Z-9	primary	rbcL	57.867	-126.4	0
+Heracleum_sphondylium	JN893491.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000230627306273063
+Heracleum_sphondylium	MG224439.1	26-DEC-2017	552	Canada: Newfoundland and Labrador, St. John's (Winter Avenue near King's Bridge)	secondary	rbcL	49.7738268	-56.8821439113846	0
+Heracleum_sphondylium	MG222583.1	26-DEC-2017	552	Canada: Ontario, Hanover, Bruce Co.	secondary	rbcL	43.72634945	-77.7101179040839	0
+Heracleum_sphondylium	JN892744.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000230627306273063
+Heracleum_sphondylium	JN891367.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000230627306273063

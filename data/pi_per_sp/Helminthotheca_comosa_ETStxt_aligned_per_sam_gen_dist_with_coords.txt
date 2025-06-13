@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helminthotheca_comosa	LN830872.1	07-MAR-2016	1013	Spain:Huelva Province, Between Gibraleon and San Bartolome de la Torre	primary	ETS	37.3032343218577	-7.55681242990892	0.555417152491499
+Helminthotheca_comosa	LN830828.1	07-MAR-2016	775	Spain:Huelva Province, Between Gibraleon and San Bartolome de la Torre	primary	ETS	37.3980027910526	-7.55444303805713	0.372523756150319
+Helminthotheca_comosa	LN830827.1	07-MAR-2016	768	Spain:Huelva Province, Between Gibraleon and San Bartolome de la Torre	primary	ETS	38.151194733703	-6.71043182765604	0.372957655139334
+Helminthotheca_comosa	LN830826.1	07-MAR-2016	775	Spain:Huelva Province, Between Gibraleon and San Bartolome de la Torre	primary	ETS	36.9883668491854	-6.78505209111434	0.372263339483653
+Helminthotheca_comosa	LN830777.1	07-MAR-2016	637	Spain:Huelva Province, Between Gibraleon and San Bartolome de la Torre	primary	ETS	37.0705659785665	-7.38782141426824	0.524200918512189
+Helminthotheca_comosa	LN830776.1	07-MAR-2016	637	Spain:Huelva Province, Between Gibraleon and San Bartolome de la Torre	primary	ETS	36.867604970175	-7.05420983265675	0.523068086431988

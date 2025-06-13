@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_longicaulis	HE819491.1	22-MAY-2013	599	Italy:Puglia	primary	rbcL	41.7	15.65	0
+Thymus_longicaulis	HE819490.1	22-MAY-2013	599	Italy:Abruzzo	primary	rbcL	42.17	13.6	0
+Thymus_longicaulis	HE819489.1	22-MAY-2013	599	Italy:Lazio	primary	rbcL	42.21	12.42	0
+Thymus_longicaulis	HE819488.1	22-MAY-2013	599	Italy:Calabria	primary	rbcL	39.05	16.64	0
+Thymus_longicaulis	HE819487.1	22-MAY-2013	599	Italy:Campania	primary	rbcL	40.65	14.49	0

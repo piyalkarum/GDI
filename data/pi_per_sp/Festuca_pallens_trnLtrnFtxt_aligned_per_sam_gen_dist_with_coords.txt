@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_pallens	LR218001.1	30-JUL-2021	953	Germany	primary	trnL-trnF	51.325	11.5983	0.000396549294683107
+Festuca_pallens	LR217994.1	30-JUL-2021	953	Germany	primary	trnL-trnF	49.775	11.3406	0.00039613156879057
+Festuca_pallens	LR217987.1	30-JUL-2021	946	Germany	primary	trnL-trnF	49.8181	11.3642	0.00134136757188115
+Festuca_pallens	LR217975.1	30-JUL-2021	953	Germany	primary	trnL-trnF	47.6611	7.53	0.00133842263378513
+Festuca_pallens	LR217970.1	30-JUL-2021	943	Germany	primary	trnL-trnF	50.5136	6.9894	0.00134449562706722
+Festuca_pallens	LR217969.1	30-JUL-2021	950	Germany	primary	trnL-trnF	50.5814	7.2467	0.000396966112211864
+Festuca_pallens	LR217966.1	30-JUL-2021	947	Germany	primary	trnL-trnF	51.3633	11.0828	0.000398090070169897
+Festuca_pallens	EF592990.1	28-MAR-2008	841	Germany: Bayern	secondary	trnL-trnF	48.9467562	11.4038717	0.000447497002640447
+Festuca_pallens	AY461510.1	07-DEC-2003	985	Slovakia	secondary	trnL-trnF	48.7411522	19.4528646	0.000396690311038748

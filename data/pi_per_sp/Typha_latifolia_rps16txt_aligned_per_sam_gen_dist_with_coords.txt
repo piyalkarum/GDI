@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Typha_latifolia	MZ302917.1	08-OCT-2021	533	Russia: Magadan region	secondary	rps16	63.5515028	154.014726	0
+Typha_latifolia	MZ302916.1	08-OCT-2021	533	Russia: Sakhalin region	secondary	rps16	47.0101883694885	142.357827941317	0
+Typha_latifolia	MZ302915.1	08-OCT-2021	533	Russia: Sakhalin region	secondary	rps16	47.6433185859023	142.921861657638	0
+Typha_latifolia	MZ302912.1	08-OCT-2021	533	Russia: Yaroslavl region	secondary	rps16	57.1356730923851	38.7440405048907	0
+Typha_latifolia	MZ302908.1	08-OCT-2021	533	Russia: Tver region	secondary	rps16	56.8398114	35.8930262	0
+Typha_latifolia	MZ302902.1	08-OCT-2021	533	Russia: Yakutia	secondary	rps16	66.4418656483168	128.202441791986	0
+Typha_latifolia	MZ302901.1	08-OCT-2021	533	Russia: Yakutia	secondary	rps16	66.3960683952832	129.396097004582	0
+Typha_latifolia	MZ302900.1	08-OCT-2021	533	Russia: Yakutia	secondary	rps16	67.2124893303516	128.766276677335	0
+Typha_latifolia	MZ302899.1	08-OCT-2021	533	Russia: Yakutia	secondary	rps16	67.5730825254905	128.374223044656	0
+Typha_latifolia	MZ302898.1	08-OCT-2021	533	Russia: Sakhalin region	secondary	rps16	46.6593501508487	142.022901508432	0
+Typha_latifolia	MZ302896.1	08-OCT-2021	533	Russia: Yaroslavl region	secondary	rps16	57.1048929614278	39.0313312144839	0
+Typha_latifolia	MZ302895.1	08-OCT-2021	533	Russia: Yaroslavl region	secondary	rps16	57.2998484824955	38.682080978299	0
+Typha_latifolia	MZ302891.1	08-OCT-2021	533	Russia: Kurgan region	secondary	rps16	55.4104074	65.4247999	0
+Typha_latifolia	MZ302890.1	08-OCT-2021	533	Russia: Omsk region	secondary	rps16	55.8645722494941	73.0179027674209	0
+Typha_latifolia	MZ302889.1	08-OCT-2021	533	Russia: Omsk region	secondary	rps16	54.5522606316977	73.3760463593076	0
+Typha_latifolia	MZ302885.1	08-OCT-2021	533	Russia: Omsk region	secondary	rps16	55.1361952684153	71.8127021691835	0

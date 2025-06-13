@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salvia_rosmarinus	OL690144.1	08-DEC-2021	822	USA: Missouri, Missouri Botanical Garden, Shoenberg Temperate House. Source, Unknown (Unknown). MOBOT LCMS Accesion # 2015-1535-1	primary	matK	38.6145	-90.2591	0.0116463933340836
+Salvia_rosmarinus	MF694874.1	16-SEP-2018	802	Pakistan: Baluchistan, Quetta	primary	matK	30.209	67.018	0.011475390718904
+Salvia_rosmarinus	KX783771.1	31-MAY-2017	787	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	31.2	30.022	0.0119216255595064
+Salvia_rosmarinus	KX783770.1	31-MAY-2017	783	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	matK	31.189	31.189	0.0120903147316932
+Salvia_rosmarinus	MT929821.1	03-MAR-2023	787	China	secondary	matK	34.2358106265015	105.136985265985	0.0607686906141424
+Salvia_rosmarinus	MT929816.1	03-MAR-2023	775	China	secondary	matK	35.0595218810495	104.721047517622	0.0578867975562727
+Salvia_rosmarinus	MH552339.1	11-MAR-2019	741	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.70257735	-81.983441193043	0.0124900869386592
+Salvia_rosmarinus	KP172065.1	04-FEB-2015	729	Pakistan	secondary	matK	30.3308401	71.247499	0.0121775538701175
+Salvia_rosmarinus	FR719114.1	30-MAR-2011	804	Italy	secondary	matK	41.9122031639087	12.7550504389656	0.0118884510853113
+Salvia_rosmarinus	FR719113.1	30-MAR-2011	804	Italy	secondary	matK	43.360494320706	12.580810793607	0.0118884510853113
+Salvia_rosmarinus	FR719112.1	30-MAR-2011	804	Italy	secondary	matK	41.9839510195738	12.4073015201944	0.0118884510853113
+Salvia_rosmarinus	MF349943.1	21-SEP-2017	799	USA	secondary	matK	38.8950368	-77.0365427	0.0115398872245293

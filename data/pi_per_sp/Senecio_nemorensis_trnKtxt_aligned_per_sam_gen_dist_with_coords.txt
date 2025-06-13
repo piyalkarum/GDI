@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_nemorensis	JX895024.1	19-DEC-2012	440	Romania: Prahova, pr. Sinaia, m. Paduchiosul	secondary	trnK	45.0174108085154	25.7346657013488	0.350617283950617
+Senecio_nemorensis	JX895023.1	19-DEC-2012	440	Romania: Arges, muntii Fagarasului	secondary	trnK	44.9806765092875	25.8546995592437	0.350617283950617
+Senecio_nemorensis	JX894952.1	19-DEC-2012	478	Romania: Prahova, pr. Sinaia, m. Paduchiosul	secondary	trnK	44.176761586727	26.291909104855	0.350617283950617
+Senecio_nemorensis	JX894951.1	19-DEC-2012	478	Romania: Arges, muntii Fagarasului	secondary	trnK	44.4700773752087	24.4426058335063	0.350617283950617

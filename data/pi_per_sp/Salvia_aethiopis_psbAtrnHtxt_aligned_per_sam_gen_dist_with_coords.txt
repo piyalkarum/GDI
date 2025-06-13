@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salvia_aethiopis	MF543690.1	25-JUL-2018	414	Italy: Aosta Valley, Aymavilles, Ozein	secondary	psbA-trnH	45.9733935287077	7.14795637480318	0
+Salvia_aethiopis	MF543689.1	25-JUL-2018	414	Italy: Aosta Valley, Aymavilles, Ozein	secondary	psbA-trnH	45.9577992433885	7.75572701870137	0
+Salvia_aethiopis	MF543688.1	25-JUL-2018	437	Italy: Aosta Valley, Aymavilles, Ozein	secondary	psbA-trnH	46.4232377403625	7.14282773174727	0
+Salvia_aethiopis	MF543687.1	25-JUL-2018	415	Italy: Aosta Valley, Aymavilles, Ozein	secondary	psbA-trnH	45.7176558858917	7.91215461268434	0
+Salvia_aethiopis	MF543686.1	25-JUL-2018	414	Italy: Aosta Valley, Aymavilles, Ozein	secondary	psbA-trnH	46.4708890089167	7.48859936290939	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stachys_arvensis	MG224452.1	26-DEC-2017	552	Canada: OAC garden, Guelph	primary	rbcL	43.5485	-80.2503	0.00122783518305906
+Stachys_arvensis	JN891833.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.67	-4.17	0.00123565323565324
+Stachys_arvensis	OQ392075.1	10-MAY-2023	525	Peru	secondary	rbcL	-6.8699697	-75.0458515	0.00123565323565324
+Stachys_arvensis	HM850384.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00279804275326663
+Stachys_arvensis	JN892763.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00123565323565324
+Stachys_arvensis	JN892399.1	07-MAR-2012	468	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.0047008547008547

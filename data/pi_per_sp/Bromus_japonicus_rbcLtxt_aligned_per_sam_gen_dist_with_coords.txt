@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_japonicus	OR738038.1	13-NOV-2023	542	Kazakhstan: Mangistau region	primary	rbcL	43.53385	51.55197	0.0404959800145015
+Bromus_japonicus	MF596625.1	28-FEB-2018	603	Canada: British Columbia, 5.6 km S of Hwy. 3 on Mount Kreger Road, South Okanagan Grasslands Protected Area.	primary	rbcL	48.5739001270866	-118.419900659378	0.0406155928365045
+Bromus_japonicus	MG227430.1	23-JAN-2018	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	rbcL	43.274	-79.899	0.0406258586292991
+Bromus_japonicus	MG226580.1	23-JAN-2018	603	Canada: British Columbia, 5.6 km S of Hwy. 3 on Mount Kreger Road, South Okanagan Grasslands Protected Area.	primary	rbcL	48.9329818788924	-119.536853773165	0.0406155928365045
+Bromus_japonicus	MT931770.1	03-MAR-2023	569	China	secondary	rbcL	35.2862579971522	105.449631906245	0.0405329450585421
+Bromus_japonicus	MT931769.1	03-MAR-2023	572	China	secondary	rbcL	34.3901307465723	104.714495025022	0.0405329450585421
+Bromus_japonicus	MN185242.1	27-APR-2021	717	China	secondary	rbcL	35.1107587788818	104.39583044351	0.0421368359429544
+Bromus_japonicus	LC413426.1	31-JUL-2018	262	Japan:Aichi, Chita	secondary	rbcL	34.970089	136.860738	0.0464555418191765
+Bromus_japonicus	MG227364.1	23-JAN-2018	528	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	secondary	rbcL	43.72634945	-77.7101179040839	0.0404768908301346
+Bromus_japonicus	FJ898510.1	03-FEB-2011	1524	Serbia	secondary	rbcL	44.0243229	21.0765743	0.575905350501181
+Bromus_japonicus	KP711251.1	31-MAR-2016	1096	China	secondary	rbcL	35.2669852969127	105.339398564038	0.0436790465464386
+Bromus_japonicus	KF712963.1	15-DEC-2013	1096	South Korea: Wonju-si, Gangwon-do	secondary	rbcL	37.3420996	127.9197603	0.0477885866179004
+Bromus_japonicus	KF712962.1	15-DEC-2013	1096	South Korea: Icheon	secondary	rbcL	37.2808823	127.4429132	0.0436790465464386
+Bromus_japonicus	KF712960.1	15-DEC-2013	1096	South Korea: Andong-si, Gyeongsangbuk-do	secondary	rbcL	36.5759169	128.5060124	0.0454457186337513
+Bromus_japonicus	KF712959.1	15-DEC-2013	1096	South Korea: Gwangyang-si, Jeollanam-do	secondary	rbcL	34.9406452	127.6959512	0.0436790465464386

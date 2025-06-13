@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_pusillus	MF694542.1	04-SEP-2018	466	Canada: Ontario, Muskoka D.M. Morrison Township, south end of Morrison Lake and central Morrison Creek, Grid-216685 (31 D/14)	primary	atpB-rbcL	44.8667	-79.4667	0
+Potamogeton_pusillus	MF694539.1	04-SEP-2018	466	Canada: Ontario, Kaladar Township.	primary	atpB-rbcL	44.5931	-77.1597	0
+Potamogeton_pusillus	MF694537.1	04-SEP-2018	464	Canada: Yukon Territory, LaBiche, Lower Valley	primary	atpB-rbcL	60.044	-123.97	0
+Potamogeton_pusillus	MF694510.1	04-SEP-2018	467	Canada: British Columbia, Surrey, golf course on Fraser Highway	primary	atpB-rbcL	49.117	-122.75	0
+Potamogeton_pusillus	MF694504.1	04-SEP-2018	464	Canada: British Columbia, Mission, Errock Lake, slough along Malcolm Road, S of lake	primary	atpB-rbcL	49.217	-122.017	0

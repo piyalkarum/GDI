@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_tortuosum	EU718042.1	31-MAY-2009	1255	Morocco: Taza-Al Hoceima, Taza	secondary	trnK	35.0886627	-5.200103	0.00207362549800797
+Antirrhinum_tortuosum	EU718039.1	31-MAY-2009	1255	Italy: Sardinia, Cagliari	secondary	trnK	39.2171994	9.113311	0.00111553784860558
+Antirrhinum_tortuosum	HM152973.1	24-AUG-2010	1255	Italy: Latina, Norma	secondary	trnK	41.588015	12.969392	0.00111553784860558
+Antirrhinum_tortuosum	KJ911399.1	22-JUL-2014	1250	Italy: Ancona, Sirolo	secondary	trnK	43.5246892	13.6178462	0.00112
+Antirrhinum_tortuosum	EU718045.1	31-MAY-2009	1255	Turkey	secondary	trnK	40.4301652	29.1570698	0.00111553784860558
+Antirrhinum_tortuosum	EU718044.1	31-MAY-2009	1255	Morocco	secondary	trnK	30.1035585	-7.398044	0.00271171314741036

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_subtrigona	HE649782.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	39.1346546352014	-5.11397980375499	0
+Gagea_subtrigona	HE649781.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	39.464536973711	-3.83893547114707	0
+Gagea_subtrigona	HE649780.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	39.988800680156	-5.14112298594137	0
+Gagea_subtrigona	HE649779.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	39.3191036115012	-3.91820699176108	0
+Gagea_subtrigona	HE649778.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	38.7422223206216	-4.01248847888305	0
+Gagea_subtrigona	HE649777.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	38.7231176277775	-4.74180919412007	0
+Gagea_subtrigona	HE649776.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	39.6266808790499	-4.20808361859785	0
+Gagea_subtrigona	HE649775.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	39.1339640764843	-4.9177994092392	0
+Gagea_subtrigona	HE649774.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	38.9882064013716	-4.36295903027947	0
+Gagea_subtrigona	HE649773.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	38.9466641546272	-5.19161704412928	0
+Gagea_subtrigona	HE649772.1	04-FEB-2013	281	Morocco	secondary	psbA-trnH	28.0914522186116	-9.98236697401513	0
+Gagea_subtrigona	HE649771.1	04-FEB-2013	281	Morocco	secondary	psbA-trnH	28.1084890645492	-9.97080175903835	0

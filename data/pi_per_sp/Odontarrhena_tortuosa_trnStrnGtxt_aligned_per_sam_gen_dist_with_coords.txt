@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontarrhena_tortuosa	OK329980.1	16-NOV-2021	496	Russia: Orenburg region, Gaiskiy district, Novokievka village	primary	trnS-trnG	51.3969263220745	56.8013517447084	0.00672043010752688
+Odontarrhena_tortuosa	OK329979.1	16-NOV-2021	579	Russia: Orenburg region, Gaiskiy district, Novokievka village	primary	trnS-trnG	51.1522467895948	58.2314750723854	0.00825254888851747
+Odontarrhena_tortuosa	OK329978.1	16-NOV-2021	584	Russia: Orenburg region, Gaiskiy district, Novokievka village	primary	trnS-trnG	51.1473012343889	58.2059471330841	0.0120625575101041
+Odontarrhena_tortuosa	OK329973.1	16-NOV-2021	585	Russia: Orenburg region, Novotroitsk district, Akkermanovka village	primary	trnS-trnG	51.19	58.14	0.00707156451142265

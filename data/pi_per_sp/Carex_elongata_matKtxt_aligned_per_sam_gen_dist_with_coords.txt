@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_elongata	JN895742.1	07-MAR-2012	837	United Kingdom: Montgomeryshire	primary	matK	52.68	-3.3	0
+Carex_elongata	KP980131.1	21-SEP-2015	785	Finland	secondary	matK	63.8679162094224	26.820797892653	0
+Carex_elongata	KP980128.1	21-SEP-2015	785	Russia: Moscow oblast	secondary	matK	55.5043158	38.0353929	0
+Carex_elongata	KP980044.1	21-SEP-2015	785	Germany	secondary	matK	34.895926	-83.4665496	0
+Carex_elongata	KP980021.1	21-SEP-2015	785	Slovenia	secondary	matK	46.1199444	14.8153333	0
+Carex_elongata	KP980013.1	21-SEP-2015	785	Sweden	secondary	matK	59.559914542967	14.7848901347834	0
+Carex_elongata	KP980007.1	21-SEP-2015	785	Sweden	secondary	matK	59.4243308804503	14.3797414703633	0
+Carex_elongata	KP980000.1	21-SEP-2015	785	Finland	secondary	matK	62.8255683085036	25.5394345063977	0
+Carex_elongata	KP979992.1	21-SEP-2015	785	Switzerland	secondary	matK	46.7985624	8.2319736	0

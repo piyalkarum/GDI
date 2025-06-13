@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Najas_minor	MZ313264.1	24-SEP-2022	456	Russia: Novosibirsk region	secondary	trnL-trnF	55.0717359	82.9491284	0.00112994494550729
+Najas_minor	MZ313263.1	24-SEP-2022	445	Russia: Astrakhan region	secondary	trnL-trnF	46.2819013	47.970466	0.00394147004252202
+Najas_minor	MZ313262.1	24-SEP-2022	602	Russia: Krasnodar	secondary	trnL-trnF	45.0351532	38.9772396	0.00459997900152239
+Najas_minor	MN013338.1	07-DEC-2019	1055	USA: Iowa, Mahaska Co., Lake Keomah	secondary	trnL-trnF	41.289983	-92.5384669	0.00503697732597654
+Najas_minor	KT596673.1	11-APR-2016	1055	USA: Louisiana, Parish, Claiborne	secondary	trnL-trnF	32.54126	-92.1959082	0.00462169493394996

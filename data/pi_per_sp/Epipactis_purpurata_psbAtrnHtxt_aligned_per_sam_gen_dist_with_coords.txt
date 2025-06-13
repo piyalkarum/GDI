@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epipactis_purpurata	JN847399.1	31-OCT-2012	891	Poland	secondary	psbA-trnH	52.3149581456535	19.6588774477256	0
+Epipactis_purpurata	JN847398.1	31-OCT-2012	891	Poland	secondary	psbA-trnH	51.9626241898994	18.1370967349761	0
+Epipactis_purpurata	JN847397.1	31-OCT-2012	891	Poland	secondary	psbA-trnH	52.2494214251094	20.5481415992076	0
+Epipactis_purpurata	JN847396.1	31-OCT-2012	891	Poland	secondary	psbA-trnH	51.7142899923781	19.6817870768685	0
+Epipactis_purpurata	JN847395.1	31-OCT-2012	891	Poland	secondary	psbA-trnH	52.3350033932905	17.833161737113	0
+Epipactis_purpurata	JN847394.1	31-OCT-2012	891	Poland	secondary	psbA-trnH	52.0898796842807	18.3361913078894	0
+Epipactis_purpurata	JN847393.1	31-OCT-2012	891	Poland	secondary	psbA-trnH	52.0778531694917	19.1476820097611	0
+Epipactis_purpurata	JN847392.1	31-OCT-2012	891	Poland	secondary	psbA-trnH	51.7194911321674	19.8452747563642	0
+Epipactis_purpurata	JN847391.1	31-OCT-2012	891	Poland	secondary	psbA-trnH	52.6188930252492	20.364990284911	0

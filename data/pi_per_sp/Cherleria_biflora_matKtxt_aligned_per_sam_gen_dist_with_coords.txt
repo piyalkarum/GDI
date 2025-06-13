@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cherleria_biflora	KJ840945.1	23-SEP-2014	734	Canada: Newfoundland and Labrador, Labrador, Mont Irony, S-w slope near Davies' site 'TSC3.2a'	primary	matK	54.903	-67.1678	0
+Cherleria_biflora	KC475008.1	25-OCT-2013	777	Canada: Nunavut, Baffin Island, Ogac Lake	primary	matK	62.85	-67.35	0
+Cherleria_biflora	KC475007.1	25-OCT-2013	777	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. The Hill 2 km southwest of Sanikiluaq airport	primary	matK	56.558	-79.325	0
+Cherleria_biflora	KC475006.1	25-OCT-2013	773	Canada: Nunavut, Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbour	primary	matK	61.82	-65.71	0
+Cherleria_biflora	KC475005.1	25-OCT-2013	776	Canada: Nunavut, Baffin Island, Cape Hooper	primary	matK	68.433	-66.817	0
+Cherleria_biflora	KC475004.1	25-OCT-2013	774	Canada: Yukon Territory, Ivvavik National Park, Buckland Hills	primary	matK	69.317	-139.583	0
+Cherleria_biflora	MT917883.1	03-MAR-2023	772	China	secondary	matK	35.2470477820342	104.470772072699	0
+Cherleria_biflora	MT917882.1	03-MAR-2023	784	China	secondary	matK	35.1797476833308	104.066086369501	0

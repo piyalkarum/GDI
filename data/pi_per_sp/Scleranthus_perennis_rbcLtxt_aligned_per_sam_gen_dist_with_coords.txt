@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scleranthus_perennis	MG248725.1	21-JAN-2018	552	Canada: Quebec, Count Charlevoix, St-Paul Bay, Perou Road, at the bend where the old school becomes the private homes	secondary	rbcL	46.8137431	-71.2084061	0.000616142945163278
+Scleranthus_perennis	JN892918.1	07-MAR-2012	542	United Kingdom: Radnorshire	secondary	rbcL	51.9373402012049	-3.71723929550259	0.00184615524528628
+Scleranthus_perennis	JN892917.1	07-MAR-2012	542	United Kingdom: Radnorshire	secondary	rbcL	52.1590894203989	-4.05851245290568	0.000615006150061501
+Scleranthus_perennis	JN892916.1	07-MAR-2012	542	United Kingdom: Radnorshire	secondary	rbcL	52.0396949292853	-4.44614982960996	0.000615006150061501

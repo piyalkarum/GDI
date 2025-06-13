@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Comastoma_tenellum	MG223940.1	26-DEC-2017	552	Canada: Northwest Territories, District of Keewatin. Rankin Inlet. Kudlulik Peninsula. Above the uppermost of the two ponds at the SE end of the airstrip.	primary	rbcL	62.8	-92.1	0
+Comastoma_tenellum	MG222578.1	26-DEC-2017	552	Canada: Northwest Territories, Edge of Baker Lake immediately west of town	primary	rbcL	64.3	-96.05	0
+Comastoma_tenellum	MG221565.1	26-DEC-2017	552	Canada: Northwest Territories, Baker Lake, southwest of settlement, south of the road to the airport	primary	rbcL	64	-96	0
+Comastoma_tenellum	MT931515.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0

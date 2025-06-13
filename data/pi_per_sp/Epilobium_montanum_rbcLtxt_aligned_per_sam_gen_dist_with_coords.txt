@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_montanum	MG248559.1	21-JAN-2018	552	Canada: Guelph Arbo	primary	rbcL	43.5485	-80.2503	0.00617443373534087
+Epilobium_montanum	JN892980.1	07-MAR-2012	428	United Kingdom: Glamorgan (41)	primary	rbcL	51.52	-3.22	0.014419067069632
+Epilobium_montanum	JN890838.1	07-MAR-2012	421	United Kingdom: Cardiganshire	primary	rbcL	52.38	-3.8	0.00237529691211401
+Epilobium_montanum	MK925003.1	14-JAN-2020	507	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00231773829435076
+Epilobium_montanum	JN892702.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00279485401360779
+Epilobium_montanum	JN892695.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00279485401360779
+Epilobium_montanum	JN892123.1	07-MAR-2012	511	United Kingdom: Breconshire (42)	secondary	rbcL	52.8954539386834	-0.458915289547969	0.00284300636142307
+Epilobium_montanum	JN892119.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.2319276566473	-1.70641413262762	0.00279485401360779

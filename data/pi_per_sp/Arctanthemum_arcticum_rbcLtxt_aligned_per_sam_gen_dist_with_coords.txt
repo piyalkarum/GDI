@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctanthemum_arcticum	MG221983.1	26-DEC-2017	552	Canada: Yukon Territory, Blow River Delta east, Danny C. Gordon's goose camp	primary	rbcL	68.896	-136.961	0
+Arctanthemum_arcticum	KC482002.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Sanikiluaq, east side of hamlet along coast	primary	rbcL	56.594	-79.253	0
+Arctanthemum_arcticum	KC482001.1	25-OCT-2013	552	Canada: Northwest Territories, Tuktoyaktuk, PCSP Base	primary	rbcL	69.05	-133	0
+Arctanthemum_arcticum	KC482000.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Rankin Inlet	primary	rbcL	62.8	-92.0833	0
+Arctanthemum_arcticum	KC481999.1	25-OCT-2013	546	Canada: Northwest Territories, Tuktoyaktuk, Between the airstrip and the coast	primary	rbcL	69.5	-133	0
+Arctanthemum_arcticum	JN965259.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	rbcL	58.789	-94.227	0
+Arctanthemum_arcticum	JN965258.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock bluff	primary	rbcL	58.764	-93.897	0

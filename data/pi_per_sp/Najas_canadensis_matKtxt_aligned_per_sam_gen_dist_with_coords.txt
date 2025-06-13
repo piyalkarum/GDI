@@ -1,0 +1,65 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Najas_canadensis	KM501911.1	27-OCT-2014	1128	USA: Wisconsin, Waukesha Co. Upper Genesee Lake	secondary	matK	43.0576152	-88.4657878	0.00253392559559975
+Najas_canadensis	KM501910.1	27-OCT-2014	1128	USA: Wisconsin, Sawyer Co. Tiger Cat Flowage	secondary	matK	46.0346767	-91.24726	0.00253392559559975
+Najas_canadensis	KM501909.1	27-OCT-2014	1128	USA: Washington, Spokane Co. Newman Lake	secondary	matK	47.7241586	-117.0689244	0.00327399142244103
+Najas_canadensis	KM501908.1	27-OCT-2014	1128	USA: Washington, Skagit Co. Clear Lake	secondary	matK	48.4551255	-122.2403588	0.00590448878509883
+Najas_canadensis	KM501907.1	27-OCT-2014	1128	USA: Washington, Grant Co. Burke Lake	secondary	matK	47.1337595	-119.9185687	0.00253392559559975
+Najas_canadensis	KM501906.1	27-OCT-2014	1128	USA: Rhode Island, Providence Co. Difonzo Recreation Area Pond	secondary	matK	41.5524601	-71.2704553408241	0.00253392559559975
+Najas_canadensis	KM501905.1	27-OCT-2014	1128	USA: Pennsylvania, Wayne Co. Bone Pond	secondary	matK	41.8278785	-75.4234954	0.0223957637603158
+Najas_canadensis	KM501904.1	27-OCT-2014	1128	USA: Pennsylvania, Pike Co. Porters Lake	secondary	matK	41.2515924	-75.0593493	0.00253392559559975
+Najas_canadensis	KM501903.1	27-OCT-2014	1128	USA: Pennsylvania, Mercer Co. Lake Wilhelm	secondary	matK	41.4141711	-80.1315293	0.00253392559559975
+Najas_canadensis	KM501902.1	27-OCT-2014	1128	USA: Pennsylvania, Lackawanna Co. Mud Pond	secondary	matK	41.611126	-75.678033	0.00253392559559975
+Najas_canadensis	KM501901.1	27-OCT-2014	1128	USA: Pennsylvania, Lackawanna Co. Moosic Lake	secondary	matK	41.4205474	-75.5110894	0.00253392559559975
+Najas_canadensis	KM501900.1	27-OCT-2014	1128	USA: Pennsylvania, Indiana Co. Yellow Creek Lake	secondary	matK	40.5798126	-79.0220781	0.00253392559559975
+Najas_canadensis	KM501899.1	27-OCT-2014	1128	USA: Pennsylvania, Butler Co. Lake Arthur	secondary	matK	40.945871	-80.0843882	0.00253392559559975
+Najas_canadensis	KM501898.1	27-OCT-2014	1128	USA: Pennsylvania, Berks Co. Scotts Run Lake	secondary	matK	40.2108973	-75.7995219	0.00253392559559975
+Najas_canadensis	KM501897.1	27-OCT-2014	1128	USA: Oregon, Tillamook Co. Lake Lytle	secondary	matK	45.6234963	-123.9399959	0.00327399142244103
+Najas_canadensis	KM501896.1	27-OCT-2014	1128	USA: Oregon, Lane Co. Sutton Lake	secondary	matK	44.059135	-124.0900663	0.00327399142244103
+Najas_canadensis	KM501895.1	27-OCT-2014	1124	USA: Oregon, Douglas Co. Tahkenitch Lake	secondary	matK	43.8006507	-124.1243708	0.00328231265860755
+Najas_canadensis	KM501894.1	27-OCT-2014	1134	USA: Ohio, Portage Co. M. J. Kirwan Reservoir	secondary	matK	41.5575349	-89.4609276	0.00253392559559975
+Najas_canadensis	KM501893.1	27-OCT-2014	1134	USA: Ohio, Pike Co. Pike Lake	secondary	matK	39.1609155	-83.2198665	0.00253392559559975
+Najas_canadensis	KM501892.1	27-OCT-2014	1134	USA: Ohio, Ashtabula Co. Roaming Rock Lake	secondary	matK	41.6547409	-80.8396378	0.00253392559559975
+Najas_canadensis	KM501891.1	27-OCT-2014	1132	USA: New York, Westchester Co. Rippowam Lake	secondary	matK	41.43905579417	-72.9532913503924	0.00332377205284518
+Najas_canadensis	KM501890.1	27-OCT-2014	1132	USA: New York, Westchester Co. Rippowam Lake	secondary	matK	40.5572581154859	-73.7559462425781	0.00332377205284518
+Najas_canadensis	KM501889.1	27-OCT-2014	1128	USA: New York, Westchester Co. Oscaleta Lake	secondary	matK	41.2965057	-73.5609862	0.00253392559559975
+Najas_canadensis	KM501888.1	27-OCT-2014	1128	USA: New York, Suffolk Co. Smithtown	secondary	matK	40.8559314	-73.2006687	0.029220395011418
+Najas_canadensis	KM501887.1	27-OCT-2014	1128	USA: New York, St. Lawrence Co. Parishville	secondary	matK	44.62884	-74.813805	0.0033941686906177
+Najas_canadensis	KM501886.1	27-OCT-2014	1128	USA: New York, St. Lawrence Co. Allen Falls Reservoir	secondary	matK	44.8303945624884	-74.5634132582747	0.00253392559559975
+Najas_canadensis	KM501885.1	27-OCT-2014	1107	USA: New York, St. Lawrence Co. Allen Falls Reservoir	secondary	matK	44.4074594846668	-74.6532468489055	0.00230701541354104
+Najas_canadensis	KM501884.1	27-OCT-2014	769	USA: New York, St. Lawrence Co. Allen Falls Reservoir	secondary	matK	44.4136343839235	-73.832373001132	0.00219058099433609
+Najas_canadensis	KM501883.1	27-OCT-2014	1132	USA: New York, Madison Co. Lake Moraine	secondary	matK	42.8561069	-75.5187036	0.00332377205284518
+Najas_canadensis	KM501882.1	27-OCT-2014	1128	USA: New York, Greene Co. Catskill	secondary	matK	42.2173102	-73.8645734	0.00421859040323331
+Najas_canadensis	KM501881.1	27-OCT-2014	1125	USA: New York, Columbia Co. Hudson River	secondary	matK	42.3184292	-73.7789738	0.00671595790426087
+Najas_canadensis	KM501880.1	27-OCT-2014	1128	USA: New York, Clinton Co. Chateaugay Lake	secondary	matK	44.7406537	-73.9648274	0.00253392559559975
+Najas_canadensis	KM501879.1	27-OCT-2014	1128	USA: New York, Chautauqua Co. Chautauqua Lake	secondary	matK	42.1796116	-79.4306242	0.00253392559559975
+Najas_canadensis	KM501878.1	27-OCT-2014	1124	USA: New York, Albany Co. Hudson River	secondary	matK	42.6499923	-73.749499	0.0310312011324079
+Najas_canadensis	KM501877.1	27-OCT-2014	1128	USA: New Hampshire, Carroll Co. Ossipee Lake	secondary	matK	43.8759491497818	-71.6828327916154	0.005055800211184
+Najas_canadensis	KM501876.1	27-OCT-2014	1053	USA: New Hampshire, Carroll Co. Ossipee Lake	secondary	matK	44.1890097825822	-71.7003317305144	0.0113148956576409
+Najas_canadensis	KM501875.1	27-OCT-2014	1114	USA: New Hampshire, Carroll Co. Ossipee Lake	secondary	matK	43.6893644805413	-69.9807833720087	0.0171040515460155
+Najas_canadensis	KM501874.1	27-OCT-2014	1126	USA: New Hampshire, Carroll Co. Ossipee Lake	secondary	matK	44.2392971003375	-70.6851729743425	0.00499188049745958
+Najas_canadensis	KM501873.1	27-OCT-2014	1128	USA: Minnesota, Wright Co. Charlotte Lake	secondary	matK	45.1510999	-93.7479974	0.00253392559559975
+Najas_canadensis	KM501872.1	27-OCT-2014	1128	USA: Minnesota, St. Louis Co. Minister Lake	secondary	matK	47.9522703	-91.9172699	0.00253392559559975
+Najas_canadensis	KM501871.1	27-OCT-2014	1128	USA: Minnesota, Kandiyohi Co. Norway Lake	secondary	matK	45.2835743	-95.1350173	0.00253392559559975
+Najas_canadensis	KM501870.1	27-OCT-2014	1128	USA: Minnesota, Itasca Co. Sand Lake	secondary	matK	47.1410326	-93.3061579	0.00253392559559975
+Najas_canadensis	KM501869.1	27-OCT-2014	1128	USA: Minnesota, Hubbard Co. Wabisish Lake	secondary	matK	47.1235501	-95.1153631	0.00253392559559975
+Najas_canadensis	KM501868.1	27-OCT-2014	1128	USA: Minnesota, Hennepin Co. Rebecca Lake	secondary	matK	45.064877	-93.7418287	0.00253392559559975
+Najas_canadensis	KM501867.1	27-OCT-2014	1128	USA: Minnesota, Hennepin Co. Parkers Lake	secondary	matK	44.9936586	-93.4724425	0.00253392559559975
+Najas_canadensis	KM501866.1	27-OCT-2014	1128	USA: Minnesota, Crow Wing Co. Serpent Lake	secondary	matK	46.4807979	-93.9219968	0.00253392559559975
+Najas_canadensis	KM501865.1	27-OCT-2014	1128	USA: Minnesota, Cass Co. Town Line Lake	secondary	matK	47.0683615	-94.2047455	0.00253392559559975
+Najas_canadensis	KM501864.1	27-OCT-2014	1128	USA: Minnesota, Cass Co. Three Island Lake	secondary	matK	47.038729	-94.2693992	0.00253392559559975
+Najas_canadensis	KM501863.1	27-OCT-2014	1126	USA: Michigan, Van Buren Co. Maple Lake	secondary	matK	42.226534	-85.8912599	0.00338534371145455
+Najas_canadensis	KM501862.1	27-OCT-2014	1128	USA: Michigan, Newaygo Co. Hardy Dam Pond	secondary	matK	43.527615	-85.5762552	0.00253392559559975
+Najas_canadensis	KM501861.1	27-OCT-2014	1128	USA: Maryland, Allegany Co. Lake Habeeb	secondary	matK	39.7061561	-78.6479358	0.00253392559559975
+Najas_canadensis	KM501860.1	27-OCT-2014	1128	USA: Maine, Penobscot Co. Pushaw Lake	secondary	matK	44.9374624	-68.7994795	0.0299140228335521
+Najas_canadensis	KM501859.1	27-OCT-2014	1110	USA: Illinois, Lake Co. Druce Lake	secondary	matK	42.3716883	-88.0025784	0.00235500848723563
+Najas_canadensis	KM501858.1	27-OCT-2014	1128	USA: Illinois, DeKalb Co. Shabbona Lake	secondary	matK	41.7453108	-88.8573344	0.00253392559559975
+Najas_canadensis	KM501857.1	27-OCT-2014	1128	USA: Idaho, Valley Co. Payette Lake	secondary	matK	44.9527959	-116.0896816	0.00327399142244103
+Najas_canadensis	KM501856.1	27-OCT-2014	1128	USA: Idaho, Kootenai Co. Avondale Lake	secondary	matK	47.7734607	-116.7552575	0.00327399142244103
+Najas_canadensis	KM501855.1	27-OCT-2014	1128	USA: Connecticut, Windham Co. Hale Marsh	secondary	matK	42.6061699581128	-73.3225511164934	0.00253392559559975
+Najas_canadensis	KM501854.1	27-OCT-2014	1128	USA: Connecticut, New London Co. Lantern Hill Pond	secondary	matK	41.3101391691931	-72.4542036607785	0.00253392559559975
+Najas_canadensis	KM501853.1	27-OCT-2014	1128	USA: Connecticut, Litchfield Co. Wononskopomuc Lake	secondary	matK	42.0757602219437	-73.7243788560954	0.00253392559559975
+Najas_canadensis	KM501852.1	27-OCT-2014	1128	USA: Connecticut, Litchfield Co. West Hill Pond	secondary	matK	41.6848114474007	-73.7495818787639	0.00253392559559975
+Najas_canadensis	KM501850.1	27-OCT-2014	1128	United Kingdom: Scotland, Inner Hebrides, Islay. Glenastle Loch	secondary	matK	53.6084599724539	0.00244531040477591	0.00341480980358651
+Najas_canadensis	KM501849.1	27-OCT-2014	1128	United Kingdom: Scotland, Outer Hebrides, South Uist. Loch an Eilean	secondary	matK	52.437964954781	0.0334833644740454	0.00253392559559975
+Najas_canadensis	KM501847.1	27-OCT-2014	1128	Ireland: Munster, Co. Kerry. Lough Leane	secondary	matK	52.0374548	-9.5611428	0.00253392559559975
+Najas_canadensis	KM501846.1	27-OCT-2014	1128	Ireland: Connacht, Co. Galway. Lough Caragh	secondary	matK	54.1755525	-8.39007492011805	0.00253392559559975

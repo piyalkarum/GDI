@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_abbreviata	MG227363.1	23-JAN-2018	552	Canada: Nunavut, Cornwallis Island, Resolute	primary	rbcL	74.2412884324389	-91.9786748818	0
+Poa_abbreviata	MG226907.1	23-JAN-2018	552	Canada: Nunavut, Cornwallis Island, Resolute	primary	rbcL	74.8699653674127	-94.3559885578132	0
+Poa_abbreviata	KT960627.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.467	-20.567	0
+Poa_abbreviata	KC483479.1	25-OCT-2013	552	Canada: Nunavut, Stefansson Island, Northeast point	primary	rbcL	73.283	-106.75	0
+Poa_abbreviata	KC483478.1	25-OCT-2013	524	Canada: Nunavut, Cornwallis Island, Resolute. On terrace near shore 2-3 km W of village	primary	rbcL	74.1701209643906	-94.2489248660337	0
+Poa_abbreviata	KC483477.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Eureka, near shore on north side of Station Creek	primary	rbcL	80	-85.95	0
+Poa_abbreviata	KC483476.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island, McCormick Inlet, ~10 km SW of head of inlet at river delta	primary	rbcL	75.78	-112.37	0
+Poa_abbreviata	KC483475.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	rbcL	76.56	-118.88	0
+Poa_abbreviata	KC483474.1	25-OCT-2013	552	Canada: Nunavut, Bathurst Island, Polar Bear Pass, Research Station	primary	rbcL	75.73	-98.42	0
+Poa_abbreviata	KC483473.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Expedition Fiord, N side of valley near foot of glacier at head of fiord	primary	rbcL	79.4	-90.8	0
+Poa_abbreviata	KC483472.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Hazen Camp, N shore of Lake Hazen, Ellesmere Island National Park Reserve. Blister Creek, ~3 km from mouth, S bank	primary	rbcL	81.82	-71.33	0
+Poa_abbreviata	KC483471.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Arctic Bay	primary	rbcL	73.03	-85.17	0
+Poa_abbreviata	KC483470.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Summit of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.514	-116.439	0
+Poa_abbreviata	KC483469.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Tanquary Camp, Ellesmere Island National Park Reserve	primary	rbcL	81.4	-76.87	0
+Poa_abbreviata	KC483468.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Colville Mountains, eastern most slopes	primary	rbcL	69.606	-112.694	0

@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_auricula	JX895178.1	19-DEC-2012	251	Spain: Borox, arroyo de la Fuente de Sese a	secondary	cob	40.8195961124396	-3.8840800413579	0.540495530173007
+Jacobaea_auricula	JX895176.1	19-DEC-2012	251	Spain: Colmenar de Oreja, laguna de las Esteras	secondary	cob	40.0618775474868	-4.22488121376382	0.540495530173007
+Jacobaea_auricula	JX895175.1	19-DEC-2012	251	Spain: Albarca, Pla de la Devesa	secondary	cob	41.0683989475906	1.45699374420452	0.540495530173007
+Jacobaea_auricula	JX895111.1	19-DEC-2012	419	Spain: Borox, arroyo de la Fuente de Sese a	secondary	cob	40.4162517074088	-4.63047889890048	0.521763993946871
+Jacobaea_auricula	JX895109.1	19-DEC-2012	419	Spain: Colmenar de Oreja, laguna de las Esteras	secondary	cob	39.4514678486793	-3.45177416918797	0.521763993946871
+Jacobaea_auricula	JX895108.1	19-DEC-2012	419	Spain: Albarca, Pla de la Devesa	secondary	cob	40.5592197118961	0.61238800219943	0.521763993946871
+Jacobaea_auricula	JX895038.1	19-DEC-2012	431	Spain: Borox, arroyo de la Fuente de Sese a	secondary	cob	39.7389624567255	-3.3036484182308	0.559936359655803
+Jacobaea_auricula	JX895036.1	19-DEC-2012	431	Spain: Colmenar de Oreja, laguna de las Esteras	secondary	cob	40.9347873365423	-3.33281729599916	0.559936359655803
+Jacobaea_auricula	JX895035.1	19-DEC-2012	431	Spain: Albarca, Pla de la Devesa	secondary	cob	42.1429497292117	0.49512742540471	0.559936359655803
+Jacobaea_auricula	JX894966.1	19-DEC-2012	465	Spain: Borox, arroyo de la Fuente de Sese a	secondary	cob	39.8118106880161	-3.4342391521337	0.530829733305833
+Jacobaea_auricula	JX894964.1	19-DEC-2012	465	Spain: Colmenar de Oreja, laguna de las Esteras	secondary	cob	40.717743351617	-3.40633054638563	0.530829733305833
+Jacobaea_auricula	JX894963.1	19-DEC-2012	465	Spain: Albarca, Pla de la Devesa	secondary	cob	40.9327285001588	1.12014143912638	0.530829733305833
+Jacobaea_auricula	JX895193.1	17-DEC-2012	755	Spain: Albarca, Pla de la Devesa	secondary	cob	41.4629074870628	1.64095539079618	0.273550514156695
+Jacobaea_auricula	JX895192.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	42.0010814084396	0.86349761334087	0.273187731670164
+Jacobaea_auricula	JX895191.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	40.6130074071782	1.20352749901752	0.273187731670164
+Jacobaea_auricula	JX895190.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	40.7019171962084	1.10069796576255	0.273187731670164
+Jacobaea_auricula	JX895189.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	41.8556222697364	1.63029295789795	0.273187731670164
+Jacobaea_auricula	JX895188.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	41.0264531931304	1.09267504483193	0.273187731670164
+Jacobaea_auricula	JX895187.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	42.0290520983298	1.16138294473927	0.273187731670164
+Jacobaea_auricula	JX895186.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	41.4959598464159	1.22653781946879	0.273806251457899
+Jacobaea_auricula	JX895185.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	40.7441570410643	-0.0118992640428865	0.273849174715713
+Jacobaea_auricula	JX895184.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	40.9474699032384	1.4152584768436	0.273540659701316
+Jacobaea_auricula	JX895183.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	41.0576854634116	1.08544036983164	0.273849174715713
+Jacobaea_auricula	JX895182.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	40.8308144526969	0.268710386648599	0.273252848026798
+Jacobaea_auricula	JX895181.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	40.8305570752138	1.48332710570125	0.273540659701316
+Jacobaea_auricula	JX895180.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	40.8903269907219	1.28436586817342	0.273572473000163
+Jacobaea_auricula	JX895179.1	17-DEC-2012	756	Spain: Albarca, Pla de la Devesa	secondary	cob	40.8715225588012	0.974803081007331	0.279659329694479

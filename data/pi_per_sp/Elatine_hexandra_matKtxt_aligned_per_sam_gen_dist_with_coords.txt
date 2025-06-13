@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elatine_hexandra	KU604766.1	31-OCT-2017	767	Austria: Lower Austria	secondary	matK	48.2817813	15.7632457	0.263930665351432
+Elatine_hexandra	KU604765.1	31-OCT-2017	767	Austria: Steiermark	secondary	matK	47.2500001	15.1666665	0.263930665351432
+Elatine_hexandra	KU604764.1	31-OCT-2017	767	Ireland: Galway	secondary	matK	53.2744122	-9.0490601	0.263930665351432
+Elatine_hexandra	KR131968.1	23-MAR-2016	842	Austria: Osterreich	secondary	matK	47.59397	14.12456	0.416246544404403
+Elatine_hexandra	HM850928.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.39017311122436

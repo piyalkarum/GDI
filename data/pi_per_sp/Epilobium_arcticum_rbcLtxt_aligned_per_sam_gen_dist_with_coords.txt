@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_arcticum	KT960667.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.8102951717422	-21.6657359650162	0
+Epilobium_arcticum	KT960527.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.9845941971462	-19.3674684066051	0
+Epilobium_arcticum	KC482703.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Slidre Fiord Quad., Fosheim Penin, Hot Weather Cr., base camp and vicinity, 'Picnic Lake'	primary	rbcL	79.95	-84.4833	0
+Epilobium_arcticum	KC482702.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, De Salis Bay, ~2km N of Sandhill River, ~3 km E of Windrum Lagoon, SE shore of small lake	primary	rbcL	71.4672	-121.901	0
+Epilobium_arcticum	KC482701.1	25-OCT-2013	552	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park, NW part	primary	rbcL	69.4167	-139.633	0
+Epilobium_arcticum	KC482700.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, NE edge of unnamed lake 8 km NE of Minto Inlet on escarpment above valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.747	-115.556	0
+Epilobium_arcticum	KC482699.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Coast opposite Richardson Islands, ca. 18 km E of Johansen Bay airstrip	primary	rbcL	68.733	-110.719	0

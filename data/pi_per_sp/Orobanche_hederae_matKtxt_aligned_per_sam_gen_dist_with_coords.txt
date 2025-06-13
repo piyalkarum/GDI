@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Orobanche_hederae	JN893919.1	07-MAR-2012	797	United Kingdom: Glamorgan	primary	matK	51.42	-3.3	0.000421407501053519
+Orobanche_hederae	JN895238.1	07-MAR-2012	759	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0013531799729364
+Orobanche_hederae	JN895234.1	07-MAR-2012	779	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.00132450331125828
+Orobanche_hederae	HM854939.1	01-AUG-2011	826	Portugal	secondary	matK	39.6621648	-8.1353519	0.0030990907852482

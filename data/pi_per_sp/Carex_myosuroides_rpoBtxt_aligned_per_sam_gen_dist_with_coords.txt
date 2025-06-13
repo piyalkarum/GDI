@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_myosuroides	FJ548368.1	30-AUG-2009	515	Canada: Nunuavut, Victoria Island, Franklin District, Mount Bumpus	primary	rpoB	69.48	-112.05	0
+Carex_myosuroides	FJ548367.1	30-AUG-2009	480	Canada: Nunuavut, Baffin Island, Iqaluit, between Graveyard and Apex beside the upper trail and near Upper Tundra Valley	primary	rpoB	63.75	-68.52	0
+Carex_myosuroides	FJ548366.1	30-AUG-2009	506	Canada: Nunuavut, Ellesmere Island, Vendom Fiord	primary	rpoB	78.07	-82.8	0
+Carex_myosuroides	FJ548365.1	30-AUG-2009	512	Canada: Nunuavut, Baffin Island, Iortoq Fiord 25 km from coast	primary	rpoB	69.92	-77	0
+Carex_myosuroides	FJ548364.1	30-AUG-2009	483	Canada: Nunuavut, Baffin Island	primary	rpoB	71.89	-80.85	0

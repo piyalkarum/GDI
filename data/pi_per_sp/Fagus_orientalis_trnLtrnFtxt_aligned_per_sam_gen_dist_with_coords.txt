@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fagus_orientalis	DQ875532.1	01-AUG-2007	718	Turkey: Zorkun, Ammanus	secondary	trnL-trnF	38.2366886	35.9439611	0.0010223566486378
+Fagus_orientalis	DQ875531.1	01-AUG-2007	715	Turkey: Dortyol, Ammanus	secondary	trnL-trnF	36.8371017	36.2274002	0.0010223566486378
+Fagus_orientalis	DQ875529.1	01-AUG-2007	715	Iran: Neka	secondary	trnL-trnF	36.6055829302375	54.0380452607269	0.00349786045178022
+Fagus_orientalis	DQ875528.1	01-AUG-2007	715	Georgia: Nichbisi	secondary	trnL-trnF	41.8238771	44.5110279	0.00215252382723967
+Fagus_orientalis	DQ875527.1	01-AUG-2007	715	Georgia: Bakuriani	secondary	trnL-trnF	41.7510862	43.5280065	0.00215252382723967
+Fagus_orientalis	DQ875526.1	01-AUG-2007	715	Georgia: Shilda	secondary	trnL-trnF	42.0002135	45.7174587	0.00215252382723967
+Fagus_orientalis	DQ875525.1	01-AUG-2007	715	Iran: Neka	secondary	trnL-trnF	37.032353586675	53.5001429288745	0.0010223566486378
+Fagus_orientalis	DQ875524.1	01-AUG-2007	714	Iran: Asalem	secondary	trnL-trnF	37.720567	48.9583895	0.00102378894513726
+Fagus_orientalis	DQ875523.1	01-AUG-2007	715	Georgia: Batumi,Keda	secondary	trnL-trnF	41.6391629	41.6498884	0.00505836652225945
+Fagus_orientalis	DQ875522.1	01-AUG-2007	715	Russia: Sochi, West Caucasus	secondary	trnL-trnF	43.5854823	39.723109	0.0010223566486378
+Fagus_orientalis	DQ875521.1	01-AUG-2007	718	Bulgaria: Kondolovo	secondary	trnL-trnF	42.0926993	27.6823261	0.00618740676591402
+Fagus_orientalis	DQ875519.1	01-AUG-2007	715	Iran: Gorgan	secondary	trnL-trnF	36.8392776	54.4320858	0.00215252382723967
+Fagus_orientalis	DQ875518.1	01-AUG-2007	715	Armenia: Vanadzor	secondary	trnL-trnF	41.1816820352412	45.3596770979144	0.0010223566486378
+Fagus_orientalis	DQ875515.1	01-AUG-2007	717	Turkey: Karabuk	secondary	trnL-trnF	41.1110349	32.6193901	0.00360446807690449
+Fagus_orientalis	DQ875514.1	01-AUG-2007	715	Turkey: Izmit	secondary	trnL-trnF	40.7718611	29.9498078	0.00102348674026563
+Fagus_orientalis	DQ875513.1	01-AUG-2007	716	Turkey: Inegoel	secondary	trnL-trnF	40.0800359	29.5096528	0.0022595826472336
+Fagus_orientalis	DQ875511.1	01-AUG-2007	715	Turkey: Eregli	secondary	trnL-trnF	37.5140718	34.0473423	0.0010223566486378
+Fagus_orientalis	DQ875510.1	01-AUG-2007	716	Turkey: Duzce	secondary	trnL-trnF	40.8774545	31.2009618	0.00102220639064483
+Fagus_orientalis	DQ875509.1	01-AUG-2007	713	Russia: Digora, Northern Osetia	secondary	trnL-trnF	43.16	44.15847	0.00361434938983515
+Fagus_orientalis	DQ875508.1	01-AUG-2007	715	Turkey: Devrek	secondary	trnL-trnF	41.2188823	31.9558348	0.0010223566486378
+Fagus_orientalis	DQ875507.1	01-AUG-2007	714	Russia: Sovetskoe, Cherek river	secondary	trnL-trnF	43.3263308	43.6247402	0.00102363741914934
+Fagus_orientalis	DQ875506.1	01-AUG-2007	714	Turkey: Catalca	secondary	trnL-trnF	41.1436804	28.4605154	0.00102363741914934
+Fagus_orientalis	DQ875505.1	01-AUG-2007	715	Armenia: Vanadzor	secondary	trnL-trnF	40.1791996606833	44.6472789999785	0.0010223566486378
+Fagus_orientalis	DQ875504.1	01-AUG-2007	715	Armenia: Vanadzor	secondary	trnL-trnF	40.644071400816	44.7343764253917	0.00225980676977993
+Fagus_orientalis	DQ875503.1	01-AUG-2007	716	Turkey: Akkus	secondary	trnL-trnF	40.7924952	37.0177445	0.00102183074566239
+Fagus_orientalis	AF533691.1	01-AUG-2005	715	Armenia	secondary	trnL-trnF	4.536307	-75.6723751	0.0010223566486378
+Fagus_orientalis	DQ875516.1	01-AUG-2007	714	Italy	secondary	trnL-trnF	43.28671315	11.9178484943482	0.00102363741914934

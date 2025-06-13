@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthemis_pedunculata	AJ312821.1	21-OCT-2001	202	Morocco: Beni Snassen	secondary	ITS	34.0445494706636	-2.37057438703478	0.351084812623274
+Anthemis_pedunculata	AJ312820.1	21-OCT-2001	202	Morocco: Taza	secondary	ITS	34.063083250738	-4.14640330246337	0.351084812623274
+Anthemis_pedunculata	AJ312792.1	21-OCT-2001	253	Morocco: Beni Snassen	secondary	ITS	34.8396310376295	-1.61880853321249	0.351084812623274
+Anthemis_pedunculata	AJ312791.1	21-OCT-2001	253	Morocco: Taza	secondary	ITS	33.9267122603313	-3.05983513641795	0.351084812623274

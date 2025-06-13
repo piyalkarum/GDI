@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Utricularia_gibba	LC682660.1	10-AUG-2022	777	Japan:Aichi, Nissin	secondary	5.8S rRNA	35.2994336484575	137.701027771636	0.00836973794720274
+Utricularia_gibba	LC682659.1	10-AUG-2022	777	Japan:Aichi, Nissin	secondary	5.8S rRNA	35.4339424759901	136.82069535852	0.00836973794720274
+Utricularia_gibba	LC682655.1	10-AUG-2022	720	Japan:Aichi, Nagakute	secondary	5.8S rRNA	35.174318	137.070047	0.0201994576152568
+Utricularia_gibba	LC682652.1	10-AUG-2022	652	Japan:Aichi, Nissin	secondary	5.8S rRNA	35.0843966862738	137.521846816798	0.005175983436853

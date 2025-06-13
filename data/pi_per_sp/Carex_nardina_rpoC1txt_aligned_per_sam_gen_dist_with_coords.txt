@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_nardina	FJ548218.1	30-AUG-2009	597	Canada: Nunuavut, Baffin Island, Cape Dorset, near the airport	primary	rpoC1	64.23	-76.54	0.00107334525939177
+Carex_nardina	FJ548217.1	30-AUG-2009	544	Canada: Nunuavut, Franklin District, Ellesmere Island, Alexandra Fjord	primary	rpoC1	78.88	-75.83	0.00110294117647059
+Carex_nardina	FJ548216.1	30-AUG-2009	543	Canada: Nunuavut, SW Baffin Island, Mallik Island, S side of Mallik Island	primary	rpoC1	64.25	-76.62	0.00110497237569061
+Carex_nardina	FJ548215.1	30-AUG-2009	559	Canada: Nunuavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rpoC1	62.85	-67.34	0.00107334525939177
+Carex_nardina	FJ548214.1	30-AUG-2009	559	Canada: Nunuavut, Baffin Island, Franklin District, Nettilling Lake, Burwash Bay	primary	rpoC1	65.95	-71.3	0.00542794933033651
+Carex_nardina	FJ548213.1	30-AUG-2009	590	Canada: Nunuavut, Baffin Island	primary	rpoC1	71.31	-79.29	0.00107334525939177

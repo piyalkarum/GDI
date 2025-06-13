@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_esula	OP270629.1	19-AUG-2023	583	Antigua and Barbuda: Antigua	primary	rbcL	17.0343	-61.8263	0.0209137356966887
+Euphorbia_esula	MT447195.1	01-MAY-2022	702	South Korea	primary	rbcL	33.22	126.3	0.00329464061383502
+Euphorbia_esula	MT447194.1	01-MAY-2022	702	South Korea	primary	rbcL	36.4	129.38	0.00329464061383502
+Euphorbia_esula	KX678745.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, 3 km east of Agassiz, an island in Fraser River, 600 m southeast of east foot of Cuthbert Road, rivershore, 2 m above highwater bank, washed mossy sand	primary	rbcL	49.235	-121.722	0.00414114595969305
+Euphorbia_esula	HQ590097.1	09-NOV-2011	603	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 200 m E of gazebo	primary	rbcL	44.032	-79.534	0.00284160449361999
+Euphorbia_esula	KT695478.1	29-SEP-2015	554	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00247307676190818
+Euphorbia_esula	OR670287.1	06-NOV-2023	490	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00272874269257633
+Euphorbia_esula	MN163315.1	27-APR-2021	643	China	secondary	rbcL	30.047992	-94.3357433	0.0030618745221806
+Euphorbia_esula	MN601495.1	15-DEC-2019	1428	USA	secondary	rbcL	50.362174	8.6428355	0.00334312364360495
+Euphorbia_esula	KJ746287.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.0031045754137276

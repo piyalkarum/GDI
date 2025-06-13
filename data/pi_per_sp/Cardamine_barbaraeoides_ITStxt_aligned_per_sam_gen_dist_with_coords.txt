@@ -1,0 +1,65 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_barbaraeoides	MW480862.1	26-APR-2021	562	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	38.9782126254668	20.3427099902236	0.0191931001055533
+Cardamine_barbaraeoides	MW480861.1	26-APR-2021	564	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	40.1633565429569	21.081937705715	0.0471214706757964
+Cardamine_barbaraeoides	MW476384.1	26-APR-2021	620	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	40.0672831036085	20.4908057670496	0.0631479857656547
+Cardamine_barbaraeoides	MW476383.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	40.0831102658525	21.4907884461022	0.0128204925634362
+Cardamine_barbaraeoides	MW476382.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	40.307345657021	21.1621435172849	0.0128769801644077
+Cardamine_barbaraeoides	MW476381.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	39.2566403333757	20.8620815645053	0.0141891325415802
+Cardamine_barbaraeoides	MW476380.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	39.8052415842934	21.2220721773042	0.0112813254967826
+Cardamine_barbaraeoides	MW476379.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	39.9450025382182	21.1133282992278	0.0273355740199664
+Cardamine_barbaraeoides	MW476378.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	39.1252685829219	21.9468370157762	0.0573061659781767
+Cardamine_barbaraeoides	MW476377.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	40.2965535869481	20.6664192023846	0.0112813254967826
+Cardamine_barbaraeoides	MW476376.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	40.2401016674666	20.4523780639158	0.0109986653409171
+Cardamine_barbaraeoides	MW476375.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	39.9967570041268	21.9659396755481	0.0112813254967826
+Cardamine_barbaraeoides	MW476374.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	40.2147349005539	20.4688666349512	0.0112041474065963
+Cardamine_barbaraeoides	MW476373.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	40.2951785689663	21.0016494446532	0.0112293693374821
+Cardamine_barbaraeoides	MW476372.1	26-APR-2021	621	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	39.6614045595924	21.4867951802662	0.0665517122383556
+Cardamine_barbaraeoides	MW476371.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NE of Matsouki	primary	ITS	39.9250022028123	20.8455347539328	0.0109467091816165
+Cardamine_barbaraeoides	MW476370.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, between Syrrako and Kalarites, Chrousias river	primary	ITS	38.9776808268129	20.6574275662007	0.0109214872507308
+Cardamine_barbaraeoides	MW476369.1	26-APR-2021	621	Greece: S Pindhos, Lakmos Mts., E of Syrrako, between Syrrako and Kalarites, Chrousias river	primary	ITS	39.0138702346572	20.6041787449479	0.0162693261799284
+Cardamine_barbaraeoides	MW476368.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, between Syrrako and Kalarites, Chrousias river	primary	ITS	39.8775081549674	22.1784148157474	0.0125423638492417
+Cardamine_barbaraeoides	MW476367.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, between Syrrako and Kalarites, Chrousias river	primary	ITS	39.1058495268143	22.0316657259415	0.0173293278521171
+Cardamine_barbaraeoides	MW476366.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, between Syrrako and Kalarites, Chrousias river	primary	ITS	39.7838825212591	20.5073930957409	0.0112813254967826
+Cardamine_barbaraeoides	MW476365.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, between Syrrako and Kalarites, Chrousias river	primary	ITS	40.2272864027662	20.7039571968714	0.0109467091816165
+Cardamine_barbaraeoides	MW476364.1	26-APR-2021	618	Greece: S Pindhos, Lakmos Mts., E of Syrrako, between Syrrako and Kalarites, Chrousias river	primary	ITS	40.1458223949817	20.2740242148873	0.0422281519256717
+Cardamine_barbaraeoides	MW476363.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, between Syrrako and Kalarites, Chrousias river	primary	ITS	40.079424345881	20.1841146783259	0.0124909116097829
+Cardamine_barbaraeoides	MW476362.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, between Syrrako and Kalarites, Chrousias river	primary	ITS	38.9339098708699	21.556252994719	0.0124858762482701
+Cardamine_barbaraeoides	MW476361.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, between Syrrako and Kalarites, Chrousias river	primary	ITS	39.7120948883053	20.9651936041534	0.0113065474276684
+Cardamine_barbaraeoides	MW476360.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, between Syrrako and Kalarites, Chrousias river	primary	ITS	40.4382286858727	21.4311542997344	0.0109986653409171
+Cardamine_barbaraeoides	MW476359.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, between Syrrako and Kalarites, Chrousias river	primary	ITS	39.5513401030708	22.0903025996432	0.0109467091816165
+Cardamine_barbaraeoides	MW476358.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, between Syrrako and Kalarites, Chrousias river	primary	ITS	39.9153926526154	21.1110518059571	0.0112813254967826
+Cardamine_barbaraeoides	MW476357.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, tourist path from Syrrako to Kalarites	primary	ITS	38.8531360648797	21.6881558245207	0.0110238872718028
+Cardamine_barbaraeoides	MW476356.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, tourist path from Syrrako to Kalarites	primary	ITS	40.1092386666689	20.3724866950641	0.0109467091816165
+Cardamine_barbaraeoides	MW476355.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, tourist path from Syrrako to Kalarites	primary	ITS	40.2114906153733	21.5621713004897	0.0128000511698697
+Cardamine_barbaraeoides	MW476354.1	26-APR-2021	609	Greece: S Pindhos, Lakmos Mts., E of Syrrako, tourist path from Syrrako to Kalarites	primary	ITS	39.1385409815181	21.8073974642631	0.0318992616894561
+Cardamine_barbaraeoides	MW476353.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, tourist path from Syrrako to Kalarites	primary	ITS	39.895233150166	22.0737857683407	0.0109986653409171
+Cardamine_barbaraeoides	MW476352.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, tourist path from Syrrako to Kalarites	primary	ITS	38.8316388176936	21.654160781569	0.0488339790545283
+Cardamine_barbaraeoides	MW476351.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, tourist path from Syrrako to Kalarites	primary	ITS	38.839364028168	21.4775855728931	0.0112813254967826
+Cardamine_barbaraeoides	MW476350.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, tourist path from Syrrako to Kalarites	primary	ITS	40.0238905623936	21.0573699847237	0.0109467091816165
+Cardamine_barbaraeoides	MW476349.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, tourist path from Syrrako to Kalarites	primary	ITS	39.6677306127081	21.5513156192038	0.019170406763368
+Cardamine_barbaraeoides	MW476348.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., E of Syrrako, tourist path from Syrrako to Kalarites	primary	ITS	39.4158029746795	21.6474985775995	0.0112813254967826
+Cardamine_barbaraeoides	MW476347.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	39.9954568096704	21.6109314268464	0.0112293693374821
+Cardamine_barbaraeoides	MW476346.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	39.6444635583836	21.7607268798818	0.0128256111809999
+Cardamine_barbaraeoides	MW476345.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	40.0230131874686	20.4024493371284	0.0143900831655884
+Cardamine_barbaraeoides	MW476344.1	26-APR-2021	621	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	39.56083222977	20.2550630467104	0.048342967045979
+Cardamine_barbaraeoides	MW476343.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	39.4131610875607	22.0744397448875	0.0128000511698697
+Cardamine_barbaraeoides	MW476342.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	38.801765299242	21.6001163615656	0.0109467091816165
+Cardamine_barbaraeoides	MW476341.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	39.4429027044905	22.0349447925081	0.0112813254967826
+Cardamine_barbaraeoides	MW476340.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	40.4459655929432	20.7887829539082	0.0109467091816165
+Cardamine_barbaraeoides	MW476339.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	38.7801453985769	20.9126835115516	0.0110238872718028
+Cardamine_barbaraeoides	MW476338.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	38.9391315840403	21.5767644773633	0.0125423638492417
+Cardamine_barbaraeoides	MW476337.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	39.8830501523614	21.4535712761549	0.0318303818353805
+Cardamine_barbaraeoides	MW476336.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	40.2130907663262	21.496050594032	0.0112813254967826
+Cardamine_barbaraeoides	MW476335.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., NW edge of Syrrako	primary	ITS	39.6581370571165	20.1413037945083	0.0109467091816165
+Cardamine_barbaraeoides	MW476334.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., ca. 6 km N of Kalarites (close to Mparos pass)	primary	ITS	39.446201664843	20.8731657867634	0.0112293693374821
+Cardamine_barbaraeoides	MW476333.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., ca. 6 km N of Kalarites (close to Mparos pass)	primary	ITS	40.1057242844728	20.9101744590313	0.0125686770103629
+Cardamine_barbaraeoides	MW476332.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., ca. 6 km N of Kalarites (close to Mparos pass)	primary	ITS	39.7799951544468	22.1169241552748	0.0128769801644077
+Cardamine_barbaraeoides	MW476331.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., ca. 6 km N of Kalarites (close to Mparos pass)	primary	ITS	40.0401216718504	20.2993861359772	0.0109467091816165
+Cardamine_barbaraeoides	MW476330.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., ca. 6 km N of Kalarites (close to Mparos pass)	primary	ITS	39.7240490288843	20.4678224805402	0.0112813254967826
+Cardamine_barbaraeoides	MW476329.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., ca. 6 km N of Kalarites (close to Mparos pass)	primary	ITS	39.9029943250887	21.8427863813958	0.0141380185168668
+Cardamine_barbaraeoides	MW476328.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., ca. 6 km N of Kalarites (close to Mparos pass)	primary	ITS	40.4581558024555	21.562855461243	0.0112041474065963
+Cardamine_barbaraeoides	MW476327.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., ca. 6 km N of Kalarites (close to Mparos pass)	primary	ITS	39.2795751442729	22.2150428123082	0.0109986653409171
+Cardamine_barbaraeoides	MW476326.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., ca. 6 km N of Kalarites (close to Mparos pass)	primary	ITS	39.6266551587239	21.8662424057822	0.0125430340121835
+Cardamine_barbaraeoides	MW476325.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., ca. 6 km N of Kalarites (close to Mparos pass)	primary	ITS	40.1710865876457	20.5733607268178	0.0236444530489775
+Cardamine_barbaraeoides	MW476324.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., ca. 6 km N of Kalarites (close to Mparos pass)	primary	ITS	39.2819709761017	21.0215061430793	0.0109467091816165
+Cardamine_barbaraeoides	MW476323.1	26-APR-2021	619	Greece: S Pindhos, Lakmos Mts., ca. 6 km N of Kalarites (close to Mparos pass)	primary	ITS	40.2993104680329	21.1367221011095	0.0112813254967826

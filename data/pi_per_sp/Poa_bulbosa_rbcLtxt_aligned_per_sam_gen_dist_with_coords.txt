@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_bulbosa	OR738052.1	13-NOV-2023	542	Kazakhstan: Atyrau region	primary	rbcL	48.27201	52.27206	0.00427882719656066
+Poa_bulbosa	MF596941.1	28-FEB-2018	603	Canada: British Columbia, Along Hwy. 3 at Kettle River, vacant lot beside river across from 'Gold Pan Cafe and Store'	primary	rbcL	48.5042239123675	-118.447956207995	0.00305282837753845
+Poa_bulbosa	MF596940.1	28-FEB-2018	603	Canada: British Columbia, Summerland, Sun-Oka Beach Provincial Park.	primary	rbcL	49.0839094614554	-118.764530362567	0.00305282837753845
+Poa_bulbosa	MF596939.1	28-FEB-2018	603	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	rbcL	49.2291794628408	-123.86929553168	0.00356309754452404
+Poa_bulbosa	MG227417.1	23-JAN-2018	552	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, North Campground, Locust Section, Campsite #193	primary	rbcL	42.321	-81.843	0.00420564263161918
+Poa_bulbosa	MG226970.1	23-JAN-2018	603	Canada: British Columbia, Summerland, Sun-Oka Beach Provincial Park.	primary	rbcL	50.122419426443	-119.174371669756	0.00305282837753845
+Poa_bulbosa	MG226498.1	23-JAN-2018	603	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	rbcL	49.0232089543779	-124.283692863384	0.00356309754452404
+Poa_bulbosa	MG226194.1	23-JAN-2018	603	Canada: British Columbia, Along Hwy. 3 at Kettle River, vacant lot beside river across from 'Gold Pan Cafe and Store'	primary	rbcL	49.7858669678744	-118.41870966664	0.00305282837753845
+Poa_bulbosa	MG225589.1	23-JAN-2018	552	Canada: Ontario, City of Toronto, City of Toronto, Lawn at Gerrard St and Ladykirk, The Beaches	primary	rbcL	43.68	-79.313	0.00253386210349965
+Poa_bulbosa	MG228162.1	23-JAN-2018	552	USA	secondary	rbcL	39.7837304	-100.445882	0.00420564263161918
+Poa_bulbosa	MG226611.1	23-JAN-2018	552	USA: Oregon, Josephine, Oregon Caves Hwy. Cave Cr. Camp Ground, S bank Cave Cr., across from mouth of Grayback Cr.	secondary	rbcL	42.0147513	-89.3323279	0.00253386210349965
+Poa_bulbosa	KJ599226.1	21-SEP-2014	559	Australia: Victoria	secondary	rbcL	-36.5986096	144.6780052	0.00416822310918382
+Poa_bulbosa	JN892190.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00427935187122302
+Poa_bulbosa	JN891940.1	07-MAR-2012	542	United Kingdom: Hampshire,South	secondary	rbcL	51.04483545	-1.24340935971731	0.00427935187122302

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cistus_albidus	DQ092975.1	07-AUG-2005	1304	Morocco: Tetuan	secondary	matK	35.570175	-5.3742776	0.000127811860940695
+Cistus_albidus	DQ092974.1	07-AUG-2005	1304	Spain: M, Aldea del Fresno	secondary	matK	40.3215212	-4.19936	0.000127811860940695
+Cistus_albidus	GQ926990.1	11-NOV-2009	1304	Morocco: Beni-Hadifa	secondary	matK	34.951068	-4.138968	0.000769573530754116
+Cistus_albidus	GQ926989.1	11-NOV-2009	1304	Morocco: Ketama	secondary	matK	34.8810201	-4.6794744	0.000127811860940695
+Cistus_albidus	GQ926988.1	11-NOV-2009	1304	Portugal: Sagres	secondary	matK	37.0078288	-8.941924	0.000127811860940695
+Cistus_albidus	GQ926985.1	11-NOV-2009	1277	Spain: Cadiz, Grazalema	secondary	matK	36.7583892	-5.366074	0.00013051422605064
+Cistus_albidus	GQ926984.1	11-NOV-2009	1304	Morocco: Talamagait	secondary	matK	34.8904369	-3.7491274	0.000127811860940695

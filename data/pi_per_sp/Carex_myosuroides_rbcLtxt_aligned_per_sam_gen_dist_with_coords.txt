@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_myosuroides	MZ359301.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.000989935654182478
+Carex_myosuroides	KT960672.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.8007480879312	-20.5516035343668	0.000988142292490119
+Carex_myosuroides	KT960384.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.3635615322855	-23.0670475917782	0.000988142292490119
+Carex_myosuroides	KC483053.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.644	-115.493	0.00494160814329677
+Carex_myosuroides	KC483057.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Castle Butte, slopes approaching from west side of Hornaday River	primary	rbcL	68.2361	-121.781	0.000988142292490119
+Carex_myosuroides	KC483056.1	25-OCT-2013	552	Canada: Nunavut, Nunavut Mainland, Rankin Inlet, Meliadine River Park	primary	rbcL	62.52	-92.08	0.000988142292490119
+Carex_myosuroides	KC483055.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island (Northwest Territories), Sachs Harbour, around Upper Air Station	primary	rbcL	72	-125	0.000988142292490119
+Carex_myosuroides	KC483054.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve. Head of Tanquary Fiord Quad., Air Force R	primary	rbcL	81.417	-76.917	0.000988142292490119
+Carex_myosuroides	KC483052.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	70.735	-117.761	0.000988142292490119
+Carex_myosuroides	KC483051.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk	primary	rbcL	69.3583	-124.228	0.000988142292490119
+Carex_myosuroides	JN965618.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	rbcL	58.769	-93.856	0.00494160814329677
+Carex_myosuroides	JN965617.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 30 km E Churchill, Fort Churchill, Spaceport project, churchill area. Site 12. Beach ridge, flat gravel area, sparesely colonized. Damp.	primary	rbcL	57.003	-92.304	0.000988142292490119

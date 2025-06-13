@@ -1,0 +1,43 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Halenia_corniculata	LC760290.1	15-SEP-2023	415	Japan:Yamanashi	secondary	psbA-trnH	35.6399328	138.6380495	0.0538041499817983
+Halenia_corniculata	MW827550.1	13-MAR-2022	346	Mongolia	secondary	psbA-trnH	43.9382593	-79.2235563	0.0167345046907106
+Halenia_corniculata	MW827549.1	13-MAR-2022	344	China: Shanxi prov.	secondary	psbA-trnH	37	112	0.0167449056475986
+Halenia_corniculata	MW827548.1	13-MAR-2022	336	Japan: Honshu, Yamanashi Pref.	secondary	psbA-trnH	37.6196772348495	140.215716034677	0.0562743772427063
+Halenia_corniculata	MW827547.1	13-MAR-2022	344	Japan: Honshu, Aomori Pref.	secondary	psbA-trnH	38.0318532404725	140.408429031707	0.0524021977463787
+Halenia_corniculata	MW827546.1	13-MAR-2022	344	Japan: Aomori	secondary	psbA-trnH	40.6704578929983	141.702744491812	0.0524021977463787
+Halenia_corniculata	MW827545.1	13-MAR-2022	344	Japan: Aomori	secondary	psbA-trnH	40.7789195995686	140.58949111746	0.0524021977463787
+Halenia_corniculata	MW827544.1	13-MAR-2022	344	Japan: Aomori	secondary	psbA-trnH	41.5367125320573	140.627950953417	0.0524021977463787
+Halenia_corniculata	MW827543.1	13-MAR-2022	335	Japan: Honshu, Shizuoka Pref.	secondary	psbA-trnH	37.0374129818601	139.261740365847	0.0538041499817983
+Halenia_corniculata	MW827542.1	13-MAR-2022	345	Japan: Nagano-ken	secondary	psbA-trnH	36.1143945	138.0319015	0.0167345046907106
+Halenia_corniculata	MW827541.1	13-MAR-2022	344	Japan: Iwate Pref.	secondary	psbA-trnH	39.0943397	141.7067349	0.0524021977463787
+Halenia_corniculata	MW827540.1	13-MAR-2022	335	Japan: Honshu, Gumma Pref.	secondary	psbA-trnH	37.1226228680162	140.191869152597	0.0564251911175828
+Halenia_corniculata	MW827537.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.6058661598569	127.375347600166	0.0167345046907106
+Halenia_corniculata	MW827536.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.3893852746946	127.128295764757	0.0167345046907106
+Halenia_corniculata	MW827535.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.2915061638793	126.383946030282	0.0167345046907106
+Halenia_corniculata	MW827534.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.9272085445851	125.107512485614	0.0167345046907106
+Halenia_corniculata	MW827533.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	44.4907736478568	125.797669720514	0.0167345046907106
+Halenia_corniculata	MW827532.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.1492750812163	127.090107509929	0.0167345046907106
+Halenia_corniculata	MW827531.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.7576225226248	127.031451069512	0.0167345046907106
+Halenia_corniculata	MW827530.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	44.0662313745133	127.309204956447	0.0167345046907106
+Halenia_corniculata	MW827529.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.4505472786675	126.879321630926	0.0167345046907106
+Halenia_corniculata	MW827528.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.3244790202378	126.505572510268	0.0167345046907106
+Halenia_corniculata	MW827527.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.1162891355723	126.708457293053	0.0167345046907106
+Halenia_corniculata	MW827526.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.6536714378975	126.932648040072	0.0167345046907106
+Halenia_corniculata	MW827525.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	44.2982794297498	125.598645371153	0.0167345046907106
+Halenia_corniculata	MW827524.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.8157633664223	126.282472211084	0.0167345046907106
+Halenia_corniculata	MW827523.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.8003755174745	126.643819562538	0.0167345046907106
+Halenia_corniculata	MW827522.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.4428069234047	125.62489819045	0.0167345046907106
+Halenia_corniculata	MW827521.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.712480071293	125.108920796767	0.0167345046907106
+Halenia_corniculata	MW827520.1	13-MAR-2022	345	China: Jilin-province	secondary	psbA-trnH	43.2705943732443	125.467174555274	0.0167345046907106
+Halenia_corniculata	MW827519.1	13-MAR-2022	346	Mongolia: NeiMenggu-Zizhiqu	secondary	psbA-trnH	42.9977703154381	113.747285066453	0.0167345046907106
+Halenia_corniculata	MW827518.1	13-MAR-2022	346	Mongolia: NeiMenggu-Zizhiqu	secondary	psbA-trnH	43.6215474735709	113.364628625463	0.0167345046907106
+Halenia_corniculata	MW827517.1	13-MAR-2022	344	China: hebei, Weichang JizieLinchang Zongchang	secondary	psbA-trnH	39.1468568	117.1904076	0.0167449056475986
+Halenia_corniculata	MW827504.1	13-MAR-2022	336	Japan: Yamanashi, Mitomimura	secondary	psbA-trnH	35.6928452	138.6871263	0.0562743772427063
+Halenia_corniculata	MW827503.1	13-MAR-2022	345	China: jilin	secondary	psbA-trnH	43.511324373408	126.001941098257	0.0167345046907106
+Halenia_corniculata	MW827499.1	13-MAR-2022	346	Japan: Hokkaido Yufutsu	secondary	psbA-trnH	42.632583	141.7279395	0.0167345046907106
+Halenia_corniculata	MW827498.1	13-MAR-2022	345	China: jilin Yanbian	secondary	psbA-trnH	42.906993	129.463588	0.0167345046907106
+Halenia_corniculata	MW827497.1	13-MAR-2022	345	Russia: Vladivostok	secondary	psbA-trnH	43.1150678	131.8855768	0.0167345046907106
+Halenia_corniculata	MW827496.1	13-MAR-2022	345	Russia: Sakhalin Makarovsky	secondary	psbA-trnH	48.4795459	142.751113	0.0167345046907106
+Halenia_corniculata	MW827495.1	13-MAR-2022	344	Russia: Sakhalin Yuzno	secondary	psbA-trnH	46.9981839	142.7425587	0.0167449056475986
+Halenia_corniculata	MW827494.1	13-MAR-2022	345	China: Jilin, Baishan, Changbai	secondary	psbA-trnH	41.4989240485333	127.563730122634	0.0167345046907106
+Halenia_corniculata	MW827493.1	13-MAR-2022	345	China: Jilin, Baishan, Changbai	secondary	psbA-trnH	41.0776670806631	127.248627373313	0.0167345046907106

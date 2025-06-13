@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stuckenia_pectinata	OP136240.1	17-OCT-2022	783	USA: Utah	secondary	rpl20-rps12	39.4225192	-111.714358	4.74833808167141e-05
+Stuckenia_pectinata	OP136239.1	17-OCT-2022	783	Turkey: prov. Antalya	secondary	rpl20-rps12	36.8864752	30.7029585	4.74833808167141e-05
+Stuckenia_pectinata	OP136238.1	17-OCT-2022	784	USA: Vermont	secondary	rpl20-rps12	45.2246682585034	-73.1149755597873	4.74833808167141e-05
+Stuckenia_pectinata	OP136237.1	17-OCT-2022	780	China: prov. Inner Mongolia	secondary	rpl20-rps12	51.5441375	125.4371179	4.74833808167141e-05
+Stuckenia_pectinata	OP136236.1	17-OCT-2022	785	China: prov. Sichuan	secondary	rpl20-rps12	30.5000001	102.4999999	4.74833808167141e-05
+Stuckenia_pectinata	OP136233.1	17-OCT-2022	783	India: Kashmir, distr. Anantnag	secondary	rpl20-rps12	26.8666793837312	71.3112879966853	4.74833808167141e-05
+Stuckenia_pectinata	OP136232.1	17-OCT-2022	785	India: Kashmir, distr. Srinagar	secondary	rpl20-rps12	26.3874891676094	71.1975193737848	4.74833808167141e-05
+Stuckenia_pectinata	OP136231.1	17-OCT-2022	785	Denmark: Jutland	secondary	rpl20-rps12	55.3900802993005	9.76644881323423	4.74833808167141e-05
+Stuckenia_pectinata	OP136229.1	17-OCT-2022	775	Russia: Far East, prov. Magadan	secondary	rpl20-rps12	42.64237475	131.358872921296	4.77897252090801e-05
+Stuckenia_pectinata	OP136226.1	17-OCT-2022	775	USA: Texas	secondary	rpl20-rps12	31.2638905	-98.5456116	4.77897252090801e-05
+Stuckenia_pectinata	OP136225.1	17-OCT-2022	780	USA: New York	secondary	rpl20-rps12	40.7127281	-74.0060152	0.0012882241749943
+Stuckenia_pectinata	OP136224.1	17-OCT-2022	776	Switzerland: canton Thurgau	secondary	rpl20-rps12	47.5870166224536	9.80361244924241	4.77281405116457e-05
+Stuckenia_pectinata	OP136223.1	17-OCT-2022	775	Finland: Uusimaa	secondary	rpl20-rps12	60.2246684	25.1272631	4.77897252090801e-05
+Stuckenia_pectinata	OP136222.1	17-OCT-2022	780	Finland: North Ostrobothnia	secondary	rpl20-rps12	64.9521512	25.6970523	4.74833808167141e-05
+Stuckenia_pectinata	OP136220.1	17-OCT-2022	783	Russia: Siberia, prov. Irkutsk	secondary	rpl20-rps12	60.7058745429438	100.250502947378	4.74833808167141e-05
+Stuckenia_pectinata	OP136219.1	17-OCT-2022	781	Malawi: Lake Malawi	secondary	rpl20-rps12	-9.7428082	33.9287545	4.74833808167141e-05
+Stuckenia_pectinata	OP136218.1	17-OCT-2022	800	India: Kashmir, distr. Bandipora	secondary	rpl20-rps12	26.2529114734744	70.9312014668599	4.74833808167141e-05
+Stuckenia_pectinata	OP136216.1	17-OCT-2022	774	USA: Michigan	secondary	rpl20-rps12	43.6211955	-84.6824346	4.78514690400995e-05
+Stuckenia_pectinata	OP136215.1	17-OCT-2022	780	Russia: Siberia, prov. Irkutsk	secondary	rpl20-rps12	59.5229101650647	100.268936691916	4.74833808167141e-05
+Stuckenia_pectinata	OP136214.1	17-OCT-2022	780	Russia: Siberia, prov. Irkutsk	secondary	rpl20-rps12	59.8338737033989	98.6119523870512	4.74833808167141e-05
+Stuckenia_pectinata	OP136213.1	17-OCT-2022	780	USA: Maine	secondary	rpl20-rps12	45.709097	-68.8590201	4.74833808167141e-05
+Stuckenia_pectinata	OP136212.1	17-OCT-2022	801	USA: Vermont	secondary	rpl20-rps12	44.6102752852792	-72.4617302690989	4.74833808167141e-05
+Stuckenia_pectinata	OP136211.1	17-OCT-2022	752	USA: Vermont	secondary	rpl20-rps12	44.2767222277484	-72.6884446299261	4.92513790386131e-05
+Stuckenia_pectinata	OP136210.1	17-OCT-2022	780	Denmark: Jutland	secondary	rpl20-rps12	56.4538233805982	9.34725251868393	4.74833808167141e-05
+Stuckenia_pectinata	OP136209.1	17-OCT-2022	740	Sweden: prov. Sodermanland	secondary	rpl20-rps12	58.9597833	17.5333912	5.00500500500501e-05
+Stuckenia_pectinata	OP136208.1	17-OCT-2022	780	Switzerland: canton Thurgau	secondary	rpl20-rps12	47.512080704346	9.80104589888532	4.74833808167141e-05
+Stuckenia_pectinata	OP136207.1	17-OCT-2022	775	Switzerland: canton Sankt Gallen	secondary	rpl20-rps12	47.425618	9.3762397	4.77897252090801e-05
+Stuckenia_pectinata	OP136206.1	17-OCT-2022	780	Italy: Friuli-Venezia Giulia	secondary	rpl20-rps12	46.151042	13.055904	4.74833808167141e-05

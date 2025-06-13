@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_ledifolium	KX498680.1	18-SEP-2017	381	Spain	primary	trnL-trnF	36.98	-4.01	0.272127638391079
+Helianthemum_ledifolium	KX498679.1	18-SEP-2017	381	Spain	primary	trnL-trnF	37.34	-5.88	0.272127638391079
+Helianthemum_ledifolium	KY951641.1	18-APR-2018	386	Kuwait	secondary	trnL-trnF	29.6168776860451	48.879513981468	0.407207913109319
+Helianthemum_ledifolium	KY951640.1	18-APR-2018	535	Kuwait	secondary	trnL-trnF	30.1561456502378	48.0904041398467	0.413363644221512
+Helianthemum_ledifolium	FJ491995.1	08-APR-2009	387	Spain: Madrid, Tres Cantos	secondary	trnL-trnF	40.3995202	-3.5414834	0.275020943761108

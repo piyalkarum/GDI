@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxyria_digyna	MZ400456.1	07-DEC-2021	766	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.0854873488639507
+Oxyria_digyna	MK800580.1	04-FEB-2020	693	USA: Idaho, Pioneer Mountians, Salzburger Spitzl	primary	matK	43.77446	-114.15942	0.294805194805195
+Oxyria_digyna	MK800579.1	04-FEB-2020	693	USA: Idaho, Sawtooth Mountains, Mount Cramer	primary	matK	44.01108	-114.98117	0.289321789321789
+Oxyria_digyna	KC475055.1	25-OCT-2013	774	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	matK	74.906	-109.597	0.0341589615649337
+Oxyria_digyna	KC475054.1	25-OCT-2013	774	Canada: Nunavut, Victoria Island, Oterkvik Point, Camp 13 km north of Oterkvik Point, 10 km north of coast at Coronation Gulf, upper camp area	primary	matK	68.739	-112.625	0.0341589615649337
+Oxyria_digyna	KC475053.1	25-OCT-2013	774	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	matK	70.738	-117.762	0.0341589615649337
+Oxyria_digyna	KC475052.1	25-OCT-2013	774	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	matK	76.56	-118.88	0.0341589615649337
+Oxyria_digyna	KC475051.1	25-OCT-2013	774	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.619	-115.493	0.0341589615649337
+Oxyria_digyna	KC475050.1	25-OCT-2013	758	Canada: Nunavut, Baffin Island, Savage Hbr., Lower Savage Islands, V-shaped lake 1.5 km S of Savage harbour	primary	matK	61.8192	-65.7103	0.0341657265229155
+Oxyria_digyna	KC475049.1	25-OCT-2013	758	Canada: Nunavut, Ellesmere Island, RCMP Post, Alexandra Fiord, ca. 3 km south of RCMP Post	primary	matK	78.8833	-75.75	0.0341657265229155
+Oxyria_digyna	KC475048.1	25-OCT-2013	755	Canada: Northwest Territories, Banks Island, De Salis Bay, W side of Windrum Lagoon	primary	matK	71.48	-121.81	0.0341802609044177
+Oxyria_digyna	MT918077.1	03-MAR-2023	764	China	secondary	matK	35.5550236869805	105.435816621949	0.0341077349910288
+Oxyria_digyna	MT918076.1	03-MAR-2023	782	China	secondary	matK	35.3093541060021	104.749568827753	0.0365971308747931
+Oxyria_digyna	MN273659.1	30-NOV-2021	787	China	secondary	matK	35.5072527178844	105.543159466357	0.0340531271652892
+Oxyria_digyna	MK926225.1	14-JAN-2020	782	Iceland	secondary	matK	64.9841821	-18.1059013	0.0341214528208916
+Oxyria_digyna	JF954852.1	13-DEC-2011	732	China	secondary	matK	34.9637478283744	105.539979232791	0.0340893421816167
+Oxyria_digyna	JF954851.1	13-DEC-2011	732	China	secondary	matK	34.3348048040062	105.654200776109	0.0340893421816167
+Oxyria_digyna	JF954850.1	13-DEC-2011	732	China	secondary	matK	34.8486662800483	104.332962373445	0.0340893421816167
+Oxyria_digyna	JF954849.1	13-DEC-2011	732	China	secondary	matK	35.0501105331895	104.829233502144	0.0340893421816167
+Oxyria_digyna	JF954848.1	13-DEC-2011	732	China	secondary	matK	34.5420599691045	104.411573990055	0.0341645992368935
+Oxyria_digyna	JF954847.1	13-DEC-2011	731	China	secondary	matK	34.4370828522502	104.602370345874	0.034093599981388

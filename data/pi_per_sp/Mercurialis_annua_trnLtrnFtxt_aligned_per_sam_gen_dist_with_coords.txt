@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mercurialis_annua	DQ536116.1	13-JUN-2006	333	Spain	primary	trnL-trnF	37.37	-5.98	0.0435822318484576
+Mercurialis_annua	DQ536115.1	13-JUN-2006	333	Spain	primary	trnL-trnF	40.87507	0.48903	0.0435822318484576
+Mercurialis_annua	AY918207.1	01-MAR-2005	375	Morocco	primary	trnL-trnF	33.1324	-8.6131	0.0482389120228512
+Mercurialis_annua	AY918206.1	01-MAR-2005	369	Morocco	primary	trnL-trnF	33.6095	-7.6025	0.0510442600253097
+Mercurialis_annua	AY918205.1	01-MAR-2005	383	Morocco	primary	trnL-trnF	32.8439	-8.9051	0.0486272794514185
+Mercurialis_annua	AY918204.1	01-MAR-2005	379	Spain	primary	trnL-trnF	40.71933	0.50248	0.0509205889402916
+Mercurialis_annua	AY918203.1	01-MAR-2005	359	Morocco	primary	trnL-trnF	33.7	-5.37	0.0301748026747962
+Mercurialis_annua	AY918202.1	01-MAR-2005	333	Spain	primary	trnL-trnF	41.1153	1.20962	0.0400096068968912
+Mercurialis_annua	AY918201.1	01-MAR-2005	334	Israel	primary	trnL-trnF	32.8	34.98	0.03931437935138
+Mercurialis_annua	AY918200.1	01-MAR-2005	334	Turkey	primary	trnL-trnF	40.78	29.92	0.0398777463238022
+Mercurialis_annua	AY918199.1	01-MAR-2005	333	Italy	primary	trnL-trnF	43.22	11.4	0.0400096068968912

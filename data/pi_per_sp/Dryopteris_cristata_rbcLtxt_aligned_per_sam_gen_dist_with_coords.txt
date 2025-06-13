@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dryopteris_cristata	KP643970.1	08-DEC-2015	542	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	39.0868741666387	-77.182212429702	0.0769339260391044
+Dryopteris_cristata	KP643861.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	39.3844771672922	-77.2356177146855	0.0769859636365567
+Dryopteris_cristata	KP643807.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.2910103011085	-78.6940900061564	0.0777900246359947
+Dryopteris_cristata	KP643786.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.5874844773933	-77.6071434526791	0.0769859636365567
+Dryopteris_cristata	MG215404.1	24-JAN-2018	553	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay	primary	rbcL	45.519	-73.738	0.0935960506112162
+Dryopteris_cristata	MG215030.1	24-JAN-2018	552	Canada: Ontario, Cochrane Dist., Lamarche Tp., ca. 3 mi SE of Cochrane, just W of C.N. railway.	primary	rbcL	49.042	-80.983	0.0963272764328071
+Dryopteris_cristata	KJ593379.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.557	-88.793	0.0769859636365567
+Dryopteris_cristata	KJ593378.1	17-MAR-2015	553	USA: Wisconsin, Suamico	primary	rbcL	44.66	-88.095	0.0769859636365567
+Dryopteris_cristata	KJ593377.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.521	-88.69	0.0769859636365567
+Dryopteris_cristata	JQ947946.1	24-JUN-2012	788	USA	secondary	rbcL	40.1608005601287	-101.392844112996	0.450757440568773
+Dryopteris_cristata	JQ947940.1	24-JUN-2012	925	USA	secondary	rbcL	38.9920440554079	-100.553226431778	0.428154845710548
+Dryopteris_cristata	JQ947928.1	24-JUN-2012	793	USA	secondary	rbcL	39.9081893529554	-100.880536026459	0.434097954936236
+Dryopteris_cristata	JQ935267.1	28-MAY-2012	930	USA	secondary	rbcL	40.1584702780782	-99.8154137769252	0.093834564068377
+Dryopteris_cristata	JQ935263.1	28-MAY-2012	1229	USA	secondary	rbcL	38.8996479217375	-100.313580746559	0.0935162970489366
+Dryopteris_cristata	JQ935257.1	28-MAY-2012	1124	USA	secondary	rbcL	39.6258979975234	-99.5698872797227	0.0940433534337344
+Dryopteris_cristata	JQ935256.1	28-MAY-2012	1225	USA	secondary	rbcL	39.8667037787899	-99.7148087425007	0.093547655025515
+Dryopteris_cristata	JQ935251.1	28-MAY-2012	1223	USA	secondary	rbcL	40.0598756281465	-101.433544290527	0.093640288588714
+Dryopteris_cristata	JQ935245.1	28-MAY-2012	1319	USA	secondary	rbcL	39.7372168226841	-99.414272832105	0.0933612908883031
+Dryopteris_cristata	KF186503.1	23-SEP-2013	1309	Canada	secondary	rbcL	43.5460516	-80.2493276	0.0932993697725357

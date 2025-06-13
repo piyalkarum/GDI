@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cicerbita_alpina	MW011036.1	27-JUL-2021	553	Finland	secondary	rbcL	63.2467777	25.9209164	0
+Cicerbita_alpina	MK925227.1	14-JAN-2020	542	Norway	secondary	rbcL	64.5731537	11.5280364	0
+Cicerbita_alpina	MK925120.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Cicerbita_alpina	MK924869.1	14-JAN-2020	519	Italy	secondary	rbcL	42.6384261	12.674297	0
+Cicerbita_alpina	MK924640.1	14-JAN-2020	542	Austria	secondary	rbcL	36.9148511	-4.7534501	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aegonychon_purpurocaeruleum	JN892705.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.38	-3.38	0
+Aegonychon_purpurocaeruleum	EU599854.1	31-MAR-2009	1195	Turkey	secondary	rbcL	38.9597594	34.9249653	0
+Aegonychon_purpurocaeruleum	JN892813.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Aegonychon_purpurocaeruleum	JN892759.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0

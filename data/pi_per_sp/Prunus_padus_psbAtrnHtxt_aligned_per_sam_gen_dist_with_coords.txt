@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Prunus_padus	LC626449.1	15-OCT-2021	321	Japan:Hokkaido, Shimamakimura	secondary	psbA-trnH	42.7009654	140.0616404	0.0118213323065075
+Prunus_padus	MK170836.1	06-DEC-2019	320	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0.00340296495956873
+Prunus_padus	MK170834.1	06-DEC-2019	321	Russia: Buryatia republic	secondary	psbA-trnH	52.7182426	109.492143	0.00339132209696471
+Prunus_padus	MK170831.1	06-DEC-2019	321	Mongolia	secondary	psbA-trnH	43.9382593	-79.2235563	0.00339132209696471
+Prunus_padus	MK170830.1	06-DEC-2019	321	Russia: Yakutia republic	secondary	psbA-trnH	66.941626	129.642371	0.00339132209696471
+Prunus_padus	MK170829.1	06-DEC-2019	325	Russia: Dagestan republic	secondary	psbA-trnH	43	47	0.0100710617498352
+Prunus_padus	MK170827.1	06-DEC-2019	321	Russia: Chuvashia republic	secondary	psbA-trnH	55.4259922	47.0849429	0.00339132209696471
+Prunus_padus	MK170826.1	06-DEC-2019	321	Russia: Chelyabinsk region	secondary	psbA-trnH	55.1369164	61.3490814	0.00615495890928924

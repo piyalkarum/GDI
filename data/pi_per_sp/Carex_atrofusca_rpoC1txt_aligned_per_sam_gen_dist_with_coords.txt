@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_atrofusca	FJ548166.1	30-AUG-2009	544	Canada: Nunuavut, Baffin Island	primary	rpoC1	71.86	-80.88	0.000478011472275335
+Carex_atrofusca	FJ548165.1	30-AUG-2009	593	Canada: Nunuavut, Victoria Island, Cambridge Bay	primary	rpoC1	69.12	-105.05	0.000475285171102662
+Carex_atrofusca	FJ548164.1	30-AUG-2009	595	Canada: Nunuavut, Baffin Island, Franklin District, E side of Sylvia Grinnel River 2.0 km S of main rapids in Sylvia Grinnel Park at 25 N/10 222668, Iqaluit, Frobisher Bay	primary	rpoC1	63.74	-68.56	0.000475285171102662
+Carex_atrofusca	FJ548163.1	30-AUG-2009	526	Canada: Nunuavut, Baffin Island	primary	rpoC1	71.89	-80.9	0.00191974095004058
+Carex_atrofusca	FJ548162.1	30-AUG-2009	546	Canada: Nunuavut, Baffin Island	primary	rpoC1	70.71	-79	0.000491159135559921

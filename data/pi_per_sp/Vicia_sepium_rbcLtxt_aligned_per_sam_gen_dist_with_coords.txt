@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_sepium	MZ676682.1	10-AUG-2022	576	United Kingdom: England	primary	rbcL	54.7643	-1.5671	0.00943136482740515
+Vicia_sepium	MN447799.1	21-FEB-2022	553	United Kingdom: England, Durham, Bishop Auckland, Auckland Castle Park	primary	rbcL	54.6716	-1.6599	0.0111682070454597
+Vicia_sepium	MG246920.1	21-JAN-2018	552	Canada: Quebec, Co. Louis-Hebert, Ste-Foy, Cite Universitaire, Campus, plantation le long de la Station experimentale aux limites NW du Campus.	primary	rbcL	46.783	-71.275	0.00966183574879227
+Vicia_sepium	MG246297.1	21-JAN-2018	552	Canada: Ontario, Cochrane Dist., Moose Tp., Moose River, W shoreline between Ship Sands Island and Moosonee.	primary	rbcL	51	-80	0.02337972492935
+Vicia_sepium	JN891169.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.51	-3.3	0.00968918885122308
+Vicia_sepium	MH714045.1	01-SEP-2020	570	China: Hebei	secondary	rbcL	39.0000001	116	0.085527212263255
+Vicia_sepium	MK924714.1	14-JAN-2020	539	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.0095856524427953
+Vicia_sepium	MH215244.1	22-JAN-2019	553	China	secondary	rbcL	35.000074	104.999927	0.0168687578424926
+Vicia_sepium	MG246697.1	21-JAN-2018	552	Canada: Quebec, Co. Charlevoix-Ouest, Baie St-Paul.	secondary	rbcL	47.1870579817497	-71.93010911387	0.00966183574879227
+Vicia_sepium	MG246214.1	21-JAN-2018	552	Canada: Quebec, Near Levis.	secondary	rbcL	47.4297548735069	-71.2976132681964	0.00966183574879227
+Vicia_sepium	JN661205.1	09-JAN-2013	496	Germany	secondary	rbcL	34.895926	-83.4665496	0.00890456989247312
+Vicia_sepium	JN893681.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00968918885122308
+Vicia_sepium	JN893678.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00968918885122308

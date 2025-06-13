@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_desertorum	KJ623465.1	10-JUN-2014	329	China	secondary	trnL-trnF	34.710751643496	104.850617794924	0.000759878419452888
+Alyssum_desertorum	KJ623464.1	10-JUN-2014	331	China	secondary	trnL-trnF	34.1429392642758	105.068545877986	0.000755287009063444
+Alyssum_desertorum	KJ623463.1	10-JUN-2014	338	China	secondary	trnL-trnF	34.7672161926293	105.451835328058	0.0029673590504451
+Alyssum_desertorum	KJ623462.1	10-JUN-2014	331	China	secondary	trnL-trnF	35.1407143703828	105.053571728267	0
+Alyssum_desertorum	KF022737.1	27-JUL-2013	378	Austria: Helmahof	secondary	trnL-trnF	48.3162834	16.5890307	0.00448252447896144

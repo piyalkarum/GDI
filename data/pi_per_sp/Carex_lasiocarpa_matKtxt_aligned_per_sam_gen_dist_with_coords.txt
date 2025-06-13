@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_lasiocarpa	MG217037.1	24-JAN-2018	755	USA: North Dakota	primary	matK	48.999	-100.426	0.00457348280242209
+Carex_lasiocarpa	JN895750.1	07-MAR-2012	797	United Kingdom: Cardiganshire	primary	matK	52.25	-3.76	0.0117552335857517
+Carex_lasiocarpa	MN763708.1	28-JUL-2020	537	Spain: Lleida	secondary	matK	41.6147605	0.6267842	0.00558659217877095
+Carex_lasiocarpa	MK397936.1	18-AUG-2019	790	Poland	secondary	matK	52.215933	19.134422	0.00333797123703659
+Carex_lasiocarpa	HG915858.1	07-MAR-2016	2484	Germany:Mecklenburg-Western Pomerania	secondary	matK	53.8471035	13.3513501	0.00330608546462767

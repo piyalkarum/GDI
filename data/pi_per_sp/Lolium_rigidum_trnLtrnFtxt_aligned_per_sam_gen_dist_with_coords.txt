@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lolium_rigidum	EF378984.1	31-JAN-2008	847	Spain: Huesca, San Jorge	secondary	trnL-trnF	41.9974712	-0.6466525	0.0137903861308117
+Lolium_rigidum	EF378983.1	31-JAN-2008	850	France	secondary	trnL-trnF	47.2240300491242	2.08909465485215	0.00512121414871314
+Lolium_rigidum	EF378982.1	31-JAN-2008	849	France	secondary	trnL-trnF	47.0028034039444	0.76316954929195	0.00512121414871314
+Lolium_rigidum	EF378981.1	31-JAN-2008	848	Iran	secondary	trnL-trnF	2.9368696	115.4443356	0.00512028487741053

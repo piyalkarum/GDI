@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_tilesii	JX073892.1	06-FEB-2013	388	USA: Kenai Peninsula, Alaska	secondary	psbA-trnH	60.0997929	-149.4410741	0
+Artemisia_tilesii	JN862099.1	04-SEP-2012	387	USA: Alaska	secondary	psbA-trnH	65.2146240870409	-149.585716440735	0
+Artemisia_tilesii	JN862098.1	04-SEP-2012	387	Russia: Chukotka	secondary	psbA-trnH	66.0006475	169.4900869	0
+Artemisia_tilesii	JN862097.1	04-SEP-2012	387	USA: Alaska	secondary	psbA-trnH	64.8360913332151	-148.277453577577	0

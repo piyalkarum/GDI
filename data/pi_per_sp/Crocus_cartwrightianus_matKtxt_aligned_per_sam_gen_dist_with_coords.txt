@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_cartwrightianus	LS398304.1	01-SEP-2018	615	Greece	secondary	matK	43.9022406617052	-77.8219167888972	0
+Crocus_cartwrightianus	LS398303.1	01-SEP-2018	615	Greece	secondary	matK	43.7383874562908	-77.9682003052259	0
+Crocus_cartwrightianus	LS398302.1	01-SEP-2018	615	Greece	secondary	matK	43.7336672318867	-76.7029661930224	0
+Crocus_cartwrightianus	LS398301.1	01-SEP-2018	615	Greece	secondary	matK	43.516442202563	-78.8119610837644	0
+Crocus_cartwrightianus	LS398300.1	01-SEP-2018	614	Greece	secondary	matK	42.5706097075616	-78.3206252930859	0
+Crocus_cartwrightianus	LS398299.1	01-SEP-2018	614	Greece	secondary	matK	42.6676994240832	-78.4177713827042	0

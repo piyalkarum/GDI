@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_adiantum-nigrum	MK827434.1	30-APR-2020	851	South Africa: Western Cape	secondary	rps4	-34.0999796587495	21.0949362225778	0
+Asplenium_adiantum-nigrum	MK827433.1	30-APR-2020	897	South Africa: Western Cape	secondary	rps4	-33.9260547720687	21.3678402014544	0
+Asplenium_adiantum-nigrum	MK827139.1	30-APR-2020	950	China: Yunnan	secondary	rps4	25	102	0
+Asplenium_adiantum-nigrum	KR233955.1	04-OCT-2015	490	Italy	secondary	rps4	42.6384261	12.674297	0
+Asplenium_adiantum-nigrum	KR233954.1	04-OCT-2015	485	Germany	secondary	rps4	34.895926	-83.4665496	0
+Asplenium_adiantum-nigrum	KR233953.1	04-OCT-2015	486	Armenia	secondary	rps4	4.536307	-75.6723751	0

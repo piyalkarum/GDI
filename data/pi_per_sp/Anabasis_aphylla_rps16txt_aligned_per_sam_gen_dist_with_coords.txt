@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anabasis_aphylla	OQ077157.1	28-JUN-2023	525	Kazakhstan	secondary	rps16	48.1012954	66.7780818	0
+Anabasis_aphylla	MF580547.1	30-MAY-2018	592	Russia: Kalmykia, at road P221 between Wolgograd and Elista	secondary	rps16	47.5683779	46.7974541856897	0
+Anabasis_aphylla	MF580507.1	30-MAY-2018	471	Iran: Khorasan, near Bojnurd (EG2)	secondary	rps16	35.7131	47.2656	0
+Anabasis_aphylla	MF580506.1	30-MAY-2018	588	Kazakhstan: Mangystau prov., Beyneu	secondary	rps16	45.4865845	54.7700279	0
+Anabasis_aphylla	KX262472.1	11-APR-2017	533	Russia	secondary	rps16	64.6863136	97.7453061	0

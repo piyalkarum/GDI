@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nerium_oleander	KP347988.1	16-JUN-2015	805	Algeria: Djanet (Tassili N'ajjer)	primary	rps16	24.96	9.01	0.269436997319035
+Nerium_oleander	KP347987.1	16-JUN-2015	805	Algeria: Illizi (Iherir)	primary	rps16	26.2458625002153	8.6584810058902	0.269798657718121
+Nerium_oleander	KP347986.1	16-JUN-2015	806	Algeria: Bejaia (Kefrida)	primary	rps16	36.026479805886	5.80528832696813	0.269798657718121
+Nerium_oleander	KP347985.1	16-JUN-2015	1211	Algeria: Illizi (Iherir)	primary	rps16	25.0998798264	8.35253060668779	0.404517156377638
+Nerium_oleander	KP347984.1	16-JUN-2015	1211	Algeria: Bejaia (Kefrida)	primary	rps16	36.9219632097241	4.61767492895908	0.404517156377638

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_aquatica	KX914749.2	07-MAR-2017	442	India	primary	atpF-atpH	21.25	81.68	0
+Mentha_aquatica	KX914748.2	07-MAR-2017	442	India	primary	atpF-atpH	22.67	81.75	0
+Mentha_aquatica	KX914747.2	07-MAR-2017	442	India	primary	atpF-atpH	28.97	79.4	0
+Mentha_aquatica	KX914746.2	07-MAR-2017	442	India	primary	atpF-atpH	26.92	80.98	0
+Mentha_aquatica	KM009039.1	22-SEP-2014	472	Cyprus	secondary	atpF-atpH	34.9174159	32.8899027	0

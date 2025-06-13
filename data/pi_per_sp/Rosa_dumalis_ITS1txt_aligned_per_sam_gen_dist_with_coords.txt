@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_dumalis	FM164950.1	12-JUN-2008	1025	Sweden	secondary	ITS1	60.0475601141949	15.7365232410364	0.0364986021401716
+Rosa_dumalis	FM164949.1	12-JUN-2008	1027	Sweden	secondary	ITS1	59.6763754274576	15.648486230234	0.0460420336383127
+Rosa_dumalis	FM164948.1	12-JUN-2008	1027	Sweden	secondary	ITS1	59.5128310452695	16.1673660605473	0.0397963316556012
+Rosa_dumalis	AJ811537.1	11-APR-2005	256	Germany:Schleswig-Holstein,Fehmarn, North of Bisdorf	secondary	ITS1	51.038284	7.0119166	0.108036890645586

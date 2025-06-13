@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxybasis_glauca	MG249300.1	21-JAN-2018	553	Canada: Prince Edward Island, Queens County, Stanley Bridge. Gardens behind resort. UTM 20 464292E 5145589N Map 11L/06	primary	rbcL	46.463	-63.465	0.0351900774181703
+Oxybasis_glauca	MG248202.1	21-JAN-2018	552	Canada: Ontario, Thunder bay County, Neebing Railway Yard, between Broadway Avenue and Rosslyn Road, west of Hwy 61	primary	rbcL	48.358	-89.348	0.0351908482273195
+Oxybasis_glauca	MG247989.1	21-JAN-2018	552	Canada: Manitoba, Winnipeg, Airport	primary	rbcL	49.904	-97.226	0.0351908482273195
+Oxybasis_glauca	MG247125.1	21-JAN-2018	553	Canada: Quebec, West of Laprarire, on Highway 15, opposite Goodfellow lumber just west of CNR overpass, south side. UTM 18T XF 159 237	primary	rbcL	45.358	-73.52	0.0351900774181703
+Oxybasis_glauca	MG246120.1	21-JAN-2018	553	Canada: Prince Edward Island, Site, Summerside. Prince County. East edge of town on North side of Confederation Trail, just East of King Street. UTM 20 439919E 5137924N Map 11L/05	primary	rbcL	46.392	-63.781	0.0351900774181703
+Oxybasis_glauca	KX678739.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, Vancouver, 100 m south-south-east of Kent Avenue NE and Kinross Street, large soil pile for landfill	primary	rbcL	49.205	-123.036	0.0351908482273195
+Oxybasis_glauca	JN892466.1	07-MAR-2012	471	United Kingdom: Monmouthshire	primary	rbcL	51.57	-2.95	0.0349405808379207
+Oxybasis_glauca	ON757125.1	26-AUG-2023	1524	Australia	secondary	rbcL	-24.9924371005637	135.400225496912	0.037075424906242
+Oxybasis_glauca	ON757046.1	26-AUG-2023	1524	Australia	secondary	rbcL	-24.4374252630676	134.870696009587	0.037075424906242
+Oxybasis_glauca	MK924947.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7335339585643	-3.53623939920641	0.0354929455176905
+Oxybasis_glauca	MK924795.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8551701589786	-3.07332293584446	0.0354929455176905
+Oxybasis_glauca	KY884340.1	30-APR-2018	593	Denmark	secondary	rbcL	55.670249	10.3333283	0.589201452112276
+Oxybasis_glauca	JN891250.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	50.9591608498489	-3.45831102168336	0.0354929455176905
+Oxybasis_glauca	JN891249.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.492821021961	-4.19159806190127	0.0354929455176905
+Oxybasis_glauca	JF941276.1	13-DEC-2011	615	China	secondary	rbcL	35.090834264406	104.934552309636	0.0347848005980591
+Oxybasis_glauca	JF941275.1	13-DEC-2011	615	China	secondary	rbcL	34.6865729753609	104.123280578886	0.0347848005980591
+Oxybasis_glauca	JF941274.1	13-DEC-2011	615	China	secondary	rbcL	34.8228272511417	104.913620582374	0.0347848005980591
+Oxybasis_glauca	JF941273.1	13-DEC-2011	615	China	secondary	rbcL	35.778084085576	104.947627861706	0.0347848005980591

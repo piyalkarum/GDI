@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salvia_nemorosa	MG224667.1	26-DEC-2017	552	Canada: North Canal Rd, Holland Marsh	primary	rbcL	44.1333	-79.515	0
+Salvia_nemorosa	MG222410.1	26-DEC-2017	552	Canada: Guelph	primary	rbcL	43.5485	-80.2503	0
+Salvia_nemorosa	MW469562.1	31-JAN-2023	1059	China	secondary	rbcL	34.357304643106	104.895799790043	0.000236071765816808
+Salvia_nemorosa	MW469561.1	31-JAN-2023	1059	China	secondary	rbcL	35.3844058526543	104.943145408713	0.000236071765816808
+Salvia_nemorosa	KT178126.1	19-AUG-2015	1434	USA	secondary	rbcL	39.7837304	-100.445882	0.000472143531633617

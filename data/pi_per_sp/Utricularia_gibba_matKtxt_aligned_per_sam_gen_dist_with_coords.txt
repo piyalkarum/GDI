@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Utricularia_gibba	MH552396.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.113923217348	-82.4835093457769	0.000535475234270415
+Utricularia_gibba	MH551716.1	11-MAR-2019	723	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.8692119986727	-82.5975005837417	0.000276625172890733
+Utricularia_gibba	LC682648.1	10-AUG-2022	837	Japan:Aichi, Nissin	secondary	matK	35.0780813067038	136.733982748097	0.0004778972520908
+Utricularia_gibba	LC682647.1	10-AUG-2022	837	Japan:Aichi, Nissin	secondary	matK	34.9137254273865	136.465190497761	0.0004778972520908
+Utricularia_gibba	LC682643.1	10-AUG-2022	837	Japan:Aichi, Nagakute	secondary	matK	35.174318	137.070047	0.00226540734915369
+Utricularia_gibba	LC682640.1	10-AUG-2022	804	Japan:Aichi, Nissin	secondary	matK	35.9616630587033	137.037763625468	0.000497512437810945

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_amplexicaule	KC350795.1	18-OCT-2013	1269	Poland	secondary	rpoB	51.4192511276178	18.8211322046097	0
+Lamium_amplexicaule	KC350794.1	18-OCT-2013	1269	Poland	secondary	rpoB	52.4971879825867	19.0951058166376	0
+Lamium_amplexicaule	KC350793.1	18-OCT-2013	1269	Poland	secondary	rpoB	52.4219860196147	19.3389468227149	0
+Lamium_amplexicaule	KC350792.1	18-OCT-2013	1269	Poland	secondary	rpoB	51.9165015940766	20.3768770074176	0

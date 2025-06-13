@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_pratensis	MG223005.1	26-DEC-2017	552	Canada: 143 Waterloo Avenue	primary	rbcL	43.5375	-80.2542	0.000339673913043478
+Tragopogon_pratensis	MG222999.1	26-DEC-2017	545	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	rbcL	45.188	-81.416	0.000344036697247706
+Tragopogon_pratensis	MG222613.1	26-DEC-2017	552	Canada: R.R.Tracks between Glasgow St. & Yorkshire St.	primary	rbcL	43.54	-80.254	0.000339673913043478
+Tragopogon_pratensis	MG222299.1	26-DEC-2017	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	rbcL	44.9454	-81.2769	0.000339059674502712
+Tragopogon_pratensis	KT695589.1	29-SEP-2015	536	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.000349813432835821
+Tragopogon_pratensis	KJ841627.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. La Pre (the old orchard)	primary	rbcL	45.542	-73.161	0.00594167292011749
+Tragopogon_pratensis	JN890681.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.2	0.000345940959409594
+Tragopogon_pratensis	MT930581.1	03-MAR-2023	569	China	secondary	rbcL	34.6830658291815	104.303655216714	0.000329525483304042
+Tragopogon_pratensis	MT930580.1	03-MAR-2023	572	China	secondary	rbcL	35.3262575089705	105.808656761116	0.00043859649122807
+Tragopogon_pratensis	MT930579.1	03-MAR-2023	569	China	secondary	rbcL	34.6704820365499	105.859896712367	0.000329525483304042
+Tragopogon_pratensis	MT930578.1	03-MAR-2023	569	China	secondary	rbcL	34.3042233899073	105.570650781791	0.000329525483304042
+Tragopogon_pratensis	MW010873.1	27-JUL-2021	553	Canada: Ontario	secondary	rbcL	50.000678	-86.000977	0.000339059674502712
+Tragopogon_pratensis	MG222007.1	26-DEC-2017	526	Canada: Ontario, Bidwell Rd. just W. of Pike Lake rd., W. of Sheguiandah, Manitoulin Is.	secondary	rbcL	43.72634945	-77.7101179040839	0.000356463878326996
+Tragopogon_pratensis	KT897491.1	16-DEC-2015	1377	USA: Moscow, Idaho	secondary	rbcL	46.7237978	-117.020439	0.000470809792843691
+Tragopogon_pratensis	HG417054.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.000598086124401914
+Tragopogon_pratensis	JN891882.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000345940959409594
+Tragopogon_pratensis	JN891865.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000345940959409594

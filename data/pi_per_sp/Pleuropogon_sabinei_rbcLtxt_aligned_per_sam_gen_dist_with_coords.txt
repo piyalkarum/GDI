@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pleuropogon_sabinei	KT960577.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.6199988672296	-21.3022891361928	0.00025879917184265
+Pleuropogon_sabinei	KT960420.1	13-DEC-2015	538	Greenland: NE, Zackenberg	primary	rbcL	75.0208564335254	-23.1203924331879	0.000265533722782793
+Pleuropogon_sabinei	KT960388.1	13-DEC-2015	536	Greenland: NE, Zackenberg	primary	rbcL	75.2757878200221	-19.856378874627	0.000266524520255864
+Pleuropogon_sabinei	KC483467.1	25-OCT-2013	552	Canada: Nunavut, Bathurst Island, Polar Bear Pass, Research Station	primary	rbcL	75.73	-98.42	0.00025879917184265
+Pleuropogon_sabinei	KC483466.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, Mould Bay Peninsula, east side, ca 10 km E of Mould Bay	primary	rbcL	76.23	-118.95	0.00025879917184265
+Pleuropogon_sabinei	KC483465.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, Floodplain of river valley at head of Minto Inlet	primary	rbcL	71.699	-115.454	0.00182605410225191
+Pleuropogon_sabinei	KC483464.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Sverdrup Pass	primary	rbcL	79.133	-79.833	0.00025879917184265
+Pleuropogon_sabinei	KC483463.1	25-OCT-2013	552	Canada: Nunavut, Melville Island (Nunavut), Beverley Inlet, NE of head of Beverley Inlet, E of river, 0.5 - 2.5 km from sea	primary	rbcL	75.1	-107.633	0.00025879917184265

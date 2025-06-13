@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_patula	JN893008.1	07-MAR-2012	501	United Kingdom: Montgomeryshire	primary	rbcL	52.3	-3.03	0.153796089408506
+Campanula_patula	JN893007.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	primary	rbcL	51.96	-3.02	0.152369667166872
+Campanula_patula	JN893006.1	07-MAR-2012	518	United Kingdom: Shropshire	primary	rbcL	51.7827221788477	-3.61759904427559	0.153594411625312
+Campanula_patula	JN893005.1	07-MAR-2012	524	United Kingdom: Shropshire	primary	rbcL	51.9104710279747	-3.44124069923292	0.152544816596552
+Campanula_patula	JN892767.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	primary	rbcL	52.4695601865251	-3.48588250796047	0.152369667166872
+Campanula_patula	JN892766.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	primary	rbcL	52.8588217853639	-2.44225534886693	0.152369667166872
+Campanula_patula	JN892765.1	07-MAR-2012	542	United Kingdom: Shropshire	primary	rbcL	52.38	-3	0.152369667166872
+Campanula_patula	JN891481.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.81	-2.68	0.152369667166872
+Campanula_patula	MK556088.1	22-SEP-2019	346	Germany	secondary	rbcL	40.1205725721174	-78.6897240761371	0.620220529960554
+Campanula_patula	MK556006.1	22-SEP-2019	338	Germany	secondary	rbcL	39.9251234640037	-79.2132324552885	0.570042104618164
+Campanula_patula	MK555558.1	22-SEP-2019	357	Germany	secondary	rbcL	39.7680887915658	-79.6704554228595	0.624780493143496
+Campanula_patula	MK555365.1	22-SEP-2019	382	Germany	secondary	rbcL	41.0150614509477	-78.7382008453159	0.151124531580696
+Campanula_patula	JN891766.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0.153143706395814

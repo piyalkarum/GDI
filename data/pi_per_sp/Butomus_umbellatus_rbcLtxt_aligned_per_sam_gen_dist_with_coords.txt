@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Butomus_umbellatus	MG227230.1	23-JAN-2018	552	Canada: Manitoba, Winnipeg, Assiniboine River	primary	rbcL	49.874	-97.221	0
+Butomus_umbellatus	MG226894.1	23-JAN-2018	553	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay	primary	rbcL	45.513	-73.744	0
+Butomus_umbellatus	KX678719.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, Hatzic Lake, north of bridge to island on Shock Avenue	primary	rbcL	49.154	-122.234	0
+Butomus_umbellatus	JN890979.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.66	-3.84	0
+Butomus_umbellatus	MN038398.1	13-JAN-2021	724	China	secondary	rbcL	35.1905870929029	105.896437061131	0.000238435860753457
+Butomus_umbellatus	MN038397.1	13-JAN-2021	699	China	secondary	rbcL	35.3212456421048	104.017580622	0.000238435860753457
+Butomus_umbellatus	JN891257.1	07-MAR-2012	524	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0

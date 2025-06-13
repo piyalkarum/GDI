@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spergularia_media	KX374556.1	07-MAR-2017	780	Egypt	primary	matK	28.39	28.8814	0.00559364183217394
+Spergularia_media	JN894807.1	07-MAR-2012	804	United Kingdom: Cardiganshire	primary	matK	52.55	-3.98	0.0021239954075775
+Spergularia_media	JN895335.1	07-MAR-2012	782	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.00217374544552564
+Spergularia_media	JN894902.1	07-MAR-2012	831	United Kingdom: Flintshire	secondary	matK	53.2165096	-3.1402189	0.00297760329443347

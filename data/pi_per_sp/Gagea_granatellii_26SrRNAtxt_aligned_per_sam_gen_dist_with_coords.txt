@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_granatellii	AM409344.1	02-NOV-2006	675	Italy	secondary	26S rRNA	42.6384261	12.674297	0.0114014101220406
+Gagea_granatellii	AM409343.1	02-NOV-2006	675	Italy:Sicily	secondary	26S rRNA	37.587794	14.155048	0.0114014101220406
+Gagea_granatellii	AM409342.1	02-NOV-2006	674	Italy:Abruzzo	secondary	26S rRNA	42.227681	13.854983	0.011377087506873
+Gagea_granatellii	AM409333.1	02-NOV-2006	671	France	secondary	26S rRNA	46.603354	1.8883335	0.0124192747143567

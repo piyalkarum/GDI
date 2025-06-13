@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_repens	OR644018.1	05-NOV-2023	717	Kazakhstan: Qaragandy region	primary	matK	49.43775	75.48958	0.069025889472937
+Trifolium_repens	KX677240.1	09-AUG-2017	726	Canada: British Columbia, Squamish-Lillooet Regional District, Garibaldi Park, Cheakamus Lake Rd.	primary	matK	50.059	-123.03	0.00448892452642012
+Trifolium_repens	KX676603.1	09-AUG-2017	687	Canada: British Columbia, Kootenay Boundary Regional District, Mt. Baldy Ski Area	primary	matK	49.153	-119.236	0.00465727401821322
+Trifolium_repens	KX676585.1	09-AUG-2017	811	Canada: British Columbia, Central Kootenay Regional District, 20 kilometers west of Castlegar and 1 kilometer east of Lower Arrow Lake, Tulip Creek, on old logging road	primary	matK	49.4	-117.983	0.00458640007697858
+Trifolium_repens	MG221073.1	21-JAN-2018	794	Canada: Quebec, Montreal, Ile Bizard, Parc-nature du Bois-de-l'Ile-Bizard, pres d'un marais	primary	matK	45.513	-73.888	0.00459324659867106
+Trifolium_repens	KP402360.1	06-JAN-2016	720	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, hill towards tower	primary	matK	38.889	-76.556	0.0114125862411362
+Trifolium_repens	KJ593139.1	17-MAR-2015	667	USA: Wisconsin, Doty	primary	matK	45.156	-88.558	0.00473411536688319
+Trifolium_repens	KJ841029.1	23-SEP-2014	675	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	matK	45.538	-73.158	0.00480133073529138
+Trifolium_repens	JN894845.1	07-MAR-2012	765	United Kingdom: Carmarthenshire	primary	matK	52.6196193677896	-3.70998496196736	0.0045004002115359
+Trifolium_repens	JN894453.1	07-MAR-2012	933	United Kingdom: Carmarthenshire	primary	matK	51.643506657533	-5.48182446315029	0.00449669383774781
+Trifolium_repens	OQ391152.1	24-MAY-2023	756	Peru	secondary	matK	-6.52601583965935	-74.5379903211688	0.0111269388125408
+Trifolium_repens	OQ391151.1	24-MAY-2023	758	Peru	secondary	matK	-6.6739445947105	-74.9988654002829	0.0110585234355059
+Trifolium_repens	OQ391150.1	24-MAY-2023	747	Peru	secondary	matK	-6.8492074018578	-75.6328522651795	0.0111661004270181
+Trifolium_repens	OQ391149.1	24-MAY-2023	774	Peru	secondary	matK	-6.35707934071614	-75.4103747234339	0.0109930151578476
+Trifolium_repens	OQ290300.1	16-MAY-2023	788	Mexico: Puebla	secondary	matK	19.5047578934871	-99.1957480112881	0.00453918896128685
+Trifolium_repens	OQ289601.1	16-MAY-2023	806	Mexico: Puebla	secondary	matK	19.2137206338709	-98.1605667758186	0.00462113796601991
+Trifolium_repens	OQ289365.1	16-MAY-2023	787	Mexico: Puebla	secondary	matK	18.9014485792033	-97.9671466628327	0.00936509962507889
+Trifolium_repens	MT918285.1	03-MAR-2023	780	China	secondary	matK	34.3381637176305	105.279085535565	0.00449610559489223
+Trifolium_repens	MT946463.1	03-MAR-2023	767	China	secondary	matK	34.4296273604091	104.981793975674	0.00578372238689195
+Trifolium_repens	MH552318.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.6814498	-81.9683386867758	0.00465778395614734
+Trifolium_repens	MN433374.1	30-NOV-2021	797	China	secondary	matK	34.617582807093	105.890384450432	0.00453048491605554
+Trifolium_repens	MN433373.1	30-NOV-2021	790	China	secondary	matK	35.4464625597893	104.613032434651	0.00453167609182543
+Trifolium_repens	MT928681.1	12-DEC-2020	774	China	secondary	matK	35.3383633291222	105.594393556272	0.00573347332020532
+Trifolium_repens	KP338602.1	21-APR-2015	771	China	secondary	matK	34.5742574629895	104.423850268871	0.00454485373686821
+Trifolium_repens	KJ204551.1	29-JAN-2015	705	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00460019164482019
+Trifolium_repens	HM851158.1	23-JUL-2011	705	Portugal	secondary	matK	39.6621648	-8.1353519	0.00545886147080328
+Trifolium_repens	HE967014.1	18-SEP-2012	762	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00455347447118281
+Trifolium_repens	JN895611.1	07-MAR-2012	931	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00724068787436716
+Trifolium_repens	JN894761.1	07-MAR-2012	757	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00447569081279386

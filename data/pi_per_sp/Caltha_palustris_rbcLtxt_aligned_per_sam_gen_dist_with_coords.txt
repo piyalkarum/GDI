@@ -1,0 +1,31 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Caltha_palustris	OR738023.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.32694	83.54556	0.000772726918987421
+Caltha_palustris	MZ676691.1	10-AUG-2022	607	United Kingdom: England, Durham, Upper Mountjoy Site	primary	rbcL	54.7633	-1.5728	0.00203374847054451
+Caltha_palustris	MG322252.1	11-NOV-2018	592	United Kingdom: England, Cumbria, Foresheild Burn	primary	rbcL	54.8142	-2.3486	0.0155270881591865
+Caltha_palustris	KP643967.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.8152045288611	-78.5778942387481	0.000760038687175932
+Caltha_palustris	KP643907.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	39.2635926151975	-77.9367860397212	0.000760038687175932
+Caltha_palustris	MG249457.1	21-JAN-2018	509	Canada: Yukon Territory, Old Crow	primary	rbcL	67.568	-139.843	0.000476849502757542
+Caltha_palustris	MG249447.1	21-JAN-2018	514	Canada: Yukon Territory, Mount Klotz camp	primary	rbcL	65.363	-140.182	0.00027409134028703
+Caltha_palustris	MG248758.1	21-JAN-2018	551	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, BPNP	primary	rbcL	45.185	-81.601	0.000762191599993172
+Caltha_palustris	MG248665.1	21-JAN-2018	552	Canada: Ontario, Cochrane District, Timmins, Scout Rock Trail - off Brousseau St.	primary	rbcL	48.49	-81.318	0.000761055357864096
+Caltha_palustris	MG248303.1	21-JAN-2018	490	USA: Alaska, Skagway-Hoonah-Angoon Census Area, Skagway	primary	rbcL	59.455	-135.313	0.00225280764913546
+Caltha_palustris	HQ589979.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., S side of creek 15 m S of trail between Willow Ridge and classroom	primary	rbcL	44.032	-79.534	0.00128456209030455
+Caltha_palustris	KT695415.1	29-SEP-2015	528	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.00236623564615067
+Caltha_palustris	KJ593260.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.558	-88.794	0.000760038687175932
+Caltha_palustris	KJ841143.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Botany Bay on south side of Lac Hertel	primary	rbcL	45.544	-73.145	0.000761055357864096
+Caltha_palustris	KC482190.1	25-OCT-2013	552	Canada: Northwest Territories, Tuktoyaktuk, Near the road from town to Reindeer Point	primary	rbcL	69.4144	-133.029	0.000761055357864096
+Caltha_palustris	KC482189.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Thomsen River, Aulavik National Park, Below the archaeological site on the banks of the Thomsen River	primary	rbcL	73.5333	-120.083	0.000761055357864096
+Caltha_palustris	KC482188.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Ferguson Lake, North shore of lake near mouth of Ekalluk River. Site 66	primary	rbcL	69.4833	-104.467	0.000761055357864096
+Caltha_palustris	KC482187.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Vicinity of Paulatuk, adjacent to Rat Lake	primary	rbcL	69.4278	-123.942	0.000761055357864096
+Caltha_palustris	KC482186.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	rbcL	69.583	-140.733	0.000761055357864096
+Caltha_palustris	KC482185.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Masik River, Masik River Valley, flat valley bottom, on S side of large oblong lake, ~100m S of lake	primary	rbcL	71.5939	-123.149	0.000761055357864096
+Caltha_palustris	KC482184.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Inuvik, Inuvik, across the street from taiga woods on N edge of town	primary	rbcL	68.3722	-133.794	0.000761055357864096
+Caltha_palustris	JN965325.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, small creek near Launch Road, Tundra creek, in water	primary	rbcL	58.745	-93.895	0.000761055357864096
+Caltha_palustris	JN965324.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 47 km NW Churchill, Seal River, Goose Camp	primary	rbcL	59.067	-94.8	0.000761055357864096
+Caltha_palustris	JN893147.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.14	0.000772726918987421
+Caltha_palustris	JN890942.1	07-MAR-2012	542	United Kingdom	primary	rbcL	51.84	-3.93	0.000772726918987421
+Caltha_palustris	MG247076.1	21-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0.000761055357864096
+Caltha_palustris	FJ626581.1	10-MAY-2009	1395	China	secondary	rbcL	35.000074	104.999927	0.00301774428285041
+Caltha_palustris	KJ593259.1	17-MAR-2015	553	USA: Wisconsin, Pelican Lake	secondary	rbcL	45.4994047	-89.1667763	0.000760038687175932
+Caltha_palustris	JN892741.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.7577269285743	-3.41480708655711	0.000772726918987421
+Caltha_palustris	JN892094.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.2258313659261	-3.6024435402343	0.000772726918987421

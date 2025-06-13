@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Valeriana_officinalis	OR575192.1	25-OCT-2023	764	Kazakhstan: Qaragandy region	primary	matK	49.756	73.11774	0.00170603964239387
+Valeriana_officinalis	ON684599.1	21-AUG-2022	1467	Portugal: Meiral, Canidelo, Vila Nova de Gaia	primary	matK	41.12447	-8.64486	0.000486609981465698
+Valeriana_officinalis	MG224872.1	21-JAN-2018	785	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay, lisiere entre le boise et la rue	primary	matK	45.518	-73.742	0.000501450403282864
+Valeriana_officinalis	KP210446.1	28-NOV-2015	801	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Under powerline by Research Station	primary	matK	45.535	-73.15	0.00049237410978761
+Valeriana_officinalis	JN896022.1	07-MAR-2012	832	United Kingdom: Monmouthshire	primary	matK	51.64	-2.83	0.000489886601601446
+Valeriana_officinalis	MT918129.1	03-MAR-2023	774	China	secondary	matK	35.1417159638423	105.212180958646	0.00215138522097477
+Valeriana_officinalis	MT918128.1	03-MAR-2023	771	China	secondary	matK	35.8770112356479	104.995528209563	0.000174581005586592
+Valeriana_officinalis	JN895893.1	07-MAR-2012	758	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.000176803394625177
+Valeriana_officinalis	JN895710.1	07-MAR-2012	820	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000492603928910767

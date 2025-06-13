@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Acer_tataricum	OR738013.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.5476365616059	83.6589974848061	0
+Acer_tataricum	OR738012.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	51.1522123968117	83.2086930586805	0
+Acer_tataricum	OR464872.1	26-SEP-2023	617	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28864627	-85.61995888	0
+Acer_tataricum	LC694822.1	03-MAY-2022	599	Japan: Nagano	primary	rbcL	36.545	137.855	0
+Acer_tataricum	MG247921.1	21-JAN-2018	552	Canada: British Columbia, Vancouver, University of BC campus, in lawn area south of institute of animal resource ecology	primary	rbcL	49.25	-123.25	0
+Acer_tataricum	MG245953.1	21-JAN-2018	552	Canada: Manitoba, Wasagaming, riding Mountain National Park	primary	rbcL	50.662	-99.983	0
+Acer_tataricum	HQ589930.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 100 m N of driveway N of North Barn	primary	rbcL	44.031	-79.533	0
+Acer_tataricum	KJ841078.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 30 metres to south of research building, along edge of forest, about 4 metres to west of steel structure	primary	rbcL	45.535	-73.1494	0
+Acer_tataricum	LC652805.1	05-APR-2022	553	Japan:Nagano, Kisomachi	secondary	rbcL	35.899967	137.651902	0
+Acer_tataricum	MG249866.1	21-JAN-2018	552	Canada: Ontario, exhibition grounds, Toronto	secondary	rbcL	43.72634945	-77.7101179040839	0
+Acer_tataricum	JF940635.1	13-DEC-2011	598	China	secondary	rbcL	34.3498498667455	105.692823873273	0
+Acer_tataricum	JF940634.1	13-DEC-2011	598	China	secondary	rbcL	34.3926246764754	105.046952497318	0
+Acer_tataricum	JF940633.1	13-DEC-2011	598	China	secondary	rbcL	34.7848085426968	105.175840283931	0
+Acer_tataricum	KP088452.1	15-MAR-2015	785	China	secondary	rbcL	40.2149370003589	117.32320767424	0
+Acer_tataricum	KP088449.1	15-MAR-2015	785	China	secondary	rbcL	39.5410770315336	116.097892285453	0

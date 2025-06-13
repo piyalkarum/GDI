@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chorispora_tenella	OR738283.1	13-NOV-2023	772	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.0163041806781031
+Chorispora_tenella	KX677412.1	09-AUG-2017	796	Canada: British Columbia, Okanagan-Similkameen Regional District, South Okanagan Grassland Provincial Protected Area, roadside & just beyond fence on Nighthawk Rd.	primary	matK	49.014	-119.675	0.017307518759447
+Chorispora_tenella	MT917816.1	03-MAR-2023	770	China	secondary	matK	34.2655975903098	105.065389250947	0.0164590457817233
+Chorispora_tenella	MT917815.1	03-MAR-2023	768	China	secondary	matK	35.4792476280934	105.545851631402	0.0164729966745804
+Chorispora_tenella	MT917814.1	03-MAR-2023	767	China	secondary	matK	34.9817852555322	106.038209669655	0.0164799994043718
+Chorispora_tenella	MT917718.1	03-MAR-2023	771	China	secondary	matK	35.3050946560473	105.247406068174	0.0364028744173543
+Chorispora_tenella	MT917717.1	03-MAR-2023	741	China	secondary	matK	35.4202876184055	104.161812615138	0.0365367850885106
+Chorispora_tenella	KM892776.1	11-OCT-2018	747	China	secondary	matK	35.1068271885765	105.104785568645	0.0458653972756535
+Chorispora_tenella	KT456903.1	07-FEB-2016	1515	USA	secondary	matK	39.7837304	-100.445882	0.0170748236175143

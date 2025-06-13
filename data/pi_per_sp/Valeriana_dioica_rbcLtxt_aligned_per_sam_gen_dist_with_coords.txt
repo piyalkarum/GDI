@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Valeriana_dioica	MG222278.1	26-DEC-2017	552	Canada: Yukon Territory, Larsen Hotsprings	primary	rbcL	60.194	-125.512	0.00369685767097967
+Valeriana_dioica	JN890925.1	07-MAR-2012	542	United Kingdom: Breconshire	primary	rbcL	51.83	-3.55	0.000924214417744917
+Valeriana_dioica	JN892724.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000924214417744917
+Valeriana_dioica	JN892723.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000924214417744917
+Valeriana_dioica	JN892701.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.000924214417744917

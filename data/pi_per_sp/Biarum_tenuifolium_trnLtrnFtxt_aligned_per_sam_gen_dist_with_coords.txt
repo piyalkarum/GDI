@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Biarum_tenuifolium	EU193343.1	12-AUG-2008	396	Greece: Crete	secondary	trnL-trnF	34.5478655337817	24.0581343764421	0.00126262626262626
+Biarum_tenuifolium	EU193342.1	12-AUG-2008	396	Greece: Crete	secondary	trnL-trnF	35.0183502356293	23.4707650034351	0.00126262626262626
+Biarum_tenuifolium	EU193341.1	12-AUG-2008	396	Greece: Crete	secondary	trnL-trnF	35.2546432189061	25.0844455914569	0.00126262626262626
+Biarum_tenuifolium	EU193340.1	12-AUG-2008	396	Greece	secondary	trnL-trnF	43.2308055250867	-76.7845156267727	0.00189393939393939
+Biarum_tenuifolium	EU193339.1	12-AUG-2008	396	Greece	secondary	trnL-trnF	42.8111898792296	-77.228537029829	0.00189393939393939

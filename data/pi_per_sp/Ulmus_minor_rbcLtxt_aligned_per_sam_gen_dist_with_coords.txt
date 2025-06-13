@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ulmus_minor	MG249196.1	21-JAN-2018	553	Canada: Ontario, Niagara County, Queen Elizabeth Way Highway just east of Lake Street (Highway 44), St. Catherines. UTM 17 E642518 N4781885	primary	rbcL	43.176	-79.246	0.00117638929268605
+Ulmus_minor	MH589269.1	12-MAR-2019	602	United Kingdom: Norfolk	secondary	rbcL	52.666667	1	0.000927410869717704
+Ulmus_minor	MG246790.1	21-JAN-2018	553	Canada: Ontario, Regional Municipality of Haldmiand-Norfolk, Waterford. Alice Street. By old Railroad station	secondary	rbcL	43.72634945	-77.7101179040839	0.00117638929268605
+Ulmus_minor	MG246500.1	21-JAN-2018	534	Canada: Ontario, Union Street, Kingston	secondary	rbcL	44.2258635	-76.5111864	0.00119954184632247
+Ulmus_minor	KJ204421.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.000917142506293363
+Ulmus_minor	JN893364.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000930887654956855
+Ulmus_minor	JN893158.1	07-MAR-2012	505	United Kingdom: Carmarthenshire	secondary	rbcL	51.6128714179586	-4.35313734319143	0.00099009900990099
+Ulmus_minor	JN893087.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.7285891821079	-3.06501426783316	0.000930887654956855
+Ulmus_minor	FN689364.1	19-MAR-2010	670	Italy:Umbria	secondary	rbcL	42.965916	12.490236	0.0011441072641312

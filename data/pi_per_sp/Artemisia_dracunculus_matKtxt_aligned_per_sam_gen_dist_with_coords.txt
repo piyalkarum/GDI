@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_dracunculus	OR515594.1	10-SEP-2023	788	Kazakhstan: Qaragandy region	primary	matK	49.49998	73.26456	0.0222855140756568
+Artemisia_dracunculus	MK800537.1	04-FEB-2020	702	USA: Idaho, White Cloud Mountains, Castle Peak	primary	matK	44.04019	-114.58878	0.30006105006105
+Artemisia_dracunculus	MG225350.1	21-JAN-2018	787	Canada: Yukon Territory, Aishihik Valley, Giltana Slough	primary	matK	61.234	-136.956	0.0220247389984575
+Artemisia_dracunculus	MG225292.1	21-JAN-2018	781	USA: North Dakota	primary	matK	48.335	-103.566	0.0220256698715688
+Artemisia_dracunculus	MG225256.1	21-JAN-2018	787	USA: Alaska, Wrangell-St.Elias National Preserve, Euchre Mountain	primary	matK	62.117	-142.188	0.0220247389984575
+Artemisia_dracunculus	MG225073.1	21-JAN-2018	787	Canada: Yukon Territory, Christmas Creek, gravel pit east of	primary	matK	61.008	-138.197	0.0220247389984575
+Artemisia_dracunculus	HQ593182.1	01-NOV-2011	779	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, in mowed lawn west of Echo Valley cottage	primary	matK	44.025	-79.53	0.0220281026037083
+Artemisia_dracunculus	MT917311.1	03-MAR-2023	786	China	secondary	matK	35.000074	104.999927	0.0231316085754247
+Artemisia_dracunculus	KX581904.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	44.312500534355	82.0011701855741	0.0222914402297543
+Artemisia_dracunculus	KX581903.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	44.0884139666432	82.2446128536875	0.0220163984640088
+Artemisia_dracunculus	KX581902.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	43.6683786355908	82.0198197959864	0.0222914402297543
+Artemisia_dracunculus	KX581901.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	43.9790685567077	82.5033166683516	0.0222914402297543
+Artemisia_dracunculus	KX581900.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	43.2073356325701	81.7841258680956	0.0222914402297543
+Artemisia_dracunculus	KX581899.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	44.2562512944735	81.9959846953111	0.0220163984640088
+Artemisia_dracunculus	KX581898.1	24-SEP-2016	792	China: Xinjiang, Yili	secondary	matK	43.7329396160516	80.1701643661064	0.0220163984640088

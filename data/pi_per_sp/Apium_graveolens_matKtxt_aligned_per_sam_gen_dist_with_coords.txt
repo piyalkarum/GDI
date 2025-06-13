@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Apium_graveolens	JN895217.1	07-MAR-2012	881	United Kingdom: Carmarthenshire	primary	matK	51.67	-4.13	0.000909681611435997
+Apium_graveolens	MH360737.1	27-JUN-2018	877	Pakistan	secondary	matK	30.9486254433718	70.5489344034114	0.000891062837983504
+Apium_graveolens	KP900771.1	19-SEP-2015	867	Pakistan	secondary	matK	29.8105259299445	71.5982370745031	0.000907307152473432
+Apium_graveolens	HM850719.1	23-JUL-2011	810	Portugal	secondary	matK	39.6621648	-8.1353519	0.00189384101258809
+Apium_graveolens	JN896156.1	07-MAR-2012	730	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.000350631136044881

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Borago_officinalis	LT992831.1	04-JUN-2018	491	Italy:Liguria, Genova	secondary	rbcL	45.0482426220753	8.10386492774451	0.000339443312966735
+Borago_officinalis	LT992830.1	04-JUN-2018	491	Italy:Liguria, Genova	secondary	rbcL	44.612825311398	8.53240936364085	0.000339443312966735
+Borago_officinalis	LT992829.1	04-JUN-2018	491	Italy:Liguria, Genova	secondary	rbcL	44.2600380801708	9.35938025216013	0.000339443312966735
+Borago_officinalis	LT992828.1	04-JUN-2018	491	Italy:Liguria, Genova	secondary	rbcL	43.9920620733423	9.16605836851137	0.000339443312966735
+Borago_officinalis	LT992827.1	04-JUN-2018	491	Italy:Sicilia, Agrigento	secondary	rbcL	37.3122991	13.57465	0.000339443312966735
+Borago_officinalis	KT740813.1	24-NOV-2015	1425	USA	secondary	rbcL	39.7837304	-100.445882	0.0012227928588897
+Borago_officinalis	HM849818.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00292000942372338

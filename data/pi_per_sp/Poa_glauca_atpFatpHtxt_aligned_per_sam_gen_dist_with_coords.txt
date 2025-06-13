@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_glauca	KC476203.1	25-OCT-2013	364	Canada: Nunavut, Victoria Island, Cambridge Bay, vicinity of picnic area along Freshwater Creek, ~3 km NE of village, growing at edge of small lake	primary	atpF-atpH	69.12	-105.05	0
+Poa_glauca	KC476202.1	25-OCT-2013	364	Canada: Nunavut, Baffin Island, Iqaluit. Disturbed site along road near Iqaluit Town Office, bank of road beside wet ditch	primary	atpF-atpH	63.75	-68.52	0
+Poa_glauca	KC476201.1	25-OCT-2013	364	Canada: Nunavut, Ellesmere Island, Tanquary Camp, Ellesmere Island National Park Reserve. Steep silt-loose gravel slope ~2.5 km SSE of Camp	primary	atpF-atpH	81.4	-76.87	0
+Poa_glauca	KC476200.1	25-OCT-2013	364	Canada: Nunavut, Ellesmere Island, Hazen Camp, N shore of Lake Hazen, Ellesmere Island National Park Reserve. Erosion gully on sandy slope, ~2.5 km N of Camp	primary	atpF-atpH	81.82	-71.33	0

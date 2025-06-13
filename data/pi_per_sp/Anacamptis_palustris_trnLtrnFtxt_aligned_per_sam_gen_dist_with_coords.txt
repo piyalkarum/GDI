@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anacamptis_palustris	KU931753.1	14-FEB-2017	792	Iran	secondary	trnL-trnF	32.3137526785804	53.6127425031727	0
+Anacamptis_palustris	KU931752.1	14-FEB-2017	783	Iran	secondary	trnL-trnF	32.3676320629719	54.1922712770025	0
+Anacamptis_palustris	KU931751.1	14-FEB-2017	792	Iran	secondary	trnL-trnF	32.6635536627115	53.9752205002065	0
+Anacamptis_palustris	KU931750.1	14-FEB-2017	789	Iran	secondary	trnL-trnF	33.0826484492165	55.1189822028989	0
+Anacamptis_palustris	KU931749.1	14-FEB-2017	782	Iran	secondary	trnL-trnF	33.0595885825103	53.8611510856812	0
+Anacamptis_palustris	KU931748.1	14-FEB-2017	783	Iran	secondary	trnL-trnF	32.5708620220381	55.0554519238061	0

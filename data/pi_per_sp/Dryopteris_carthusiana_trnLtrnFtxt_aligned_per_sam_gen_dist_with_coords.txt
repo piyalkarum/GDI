@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dryopteris_carthusiana	JQ683006.1	15-JUL-2012	279	USA	secondary	trnL-trnF	40.3504368241141	-100.637310453197	0
+Dryopteris_carthusiana	JQ682991.1	15-JUL-2012	243	USA	secondary	trnL-trnF	39.9271079213079	-99.5719805894074	0
+Dryopteris_carthusiana	JQ682990.1	15-JUL-2012	276	USA	secondary	trnL-trnF	39.7762433173756	-101.526036918901	0
+Dryopteris_carthusiana	JN105312.1	18-SEP-2011	237	USA	secondary	trnL-trnF	39.8889461031384	-101.17560893437	0

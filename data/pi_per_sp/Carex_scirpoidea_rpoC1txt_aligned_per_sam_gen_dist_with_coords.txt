@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_scirpoidea	FJ548234.1	30-AUG-2009	586	Canada: Northwest Territories, Banks Island, Aulavik National Park, site of Muskox exclosure about 2.5 km from confluence of Thomsen and Muskox Rivers	primary	rpoC1	73.84	-119.06	0.000612745098039216
+Carex_scirpoidea	FJ548233.1	30-AUG-2009	597	Canada: Nunuavut, Southampton Island, Salliq (Coral Harbour), low lying area S of the old graveyard	primary	rpoC1	64.13	-83.17	0.000612745098039216
+Carex_scirpoidea	FJ548232.1	30-AUG-2009	544	Canada: Nunuavut, Baffin Island, Iqaluit, between Apex and Iqaluit	primary	rpoC1	63.74	-68.48	0.00215399530285652
+Carex_scirpoidea	FJ548231.1	30-AUG-2009	412	Canada: Nunuavut, Baffin Island	primary	rpoC1	71.31	-79.23	0.000928505106778087

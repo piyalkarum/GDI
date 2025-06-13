@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_arcticus	MG247161.1	21-JAN-2018	552	Canada: Yukon Territory, Mount Klotz camp	primary	rbcL	65.363	-140.182	0
+Rumex_arcticus	MG246040.1	21-JAN-2018	552	Canada: Yukon Territory, Blow River Delta east, Danny C. Gordon's goose camp	primary	rbcL	68.896	-136.961	0
+Rumex_arcticus	KC483890.1	25-OCT-2013	552	Canada: Northwest Territories, Tuktoyaktuk, Southern outskirts of town	primary	rbcL	69.4008	-132.997	0
+Rumex_arcticus	KC483889.1	25-OCT-2013	552	Canada: Northwest Territories, Cape Bathurst, Anderson River area: Cape Bathurst E side, brook system N of river from Lake McKinlay, 0.7-1.5 km from sea	primary	rbcL	70.4833	-127.8	0
+Rumex_arcticus	KC483888.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Hornaday River, ~1 km downstream of valley leading to Castle Butte	primary	rbcL	68.2056	-121.844	0
+Rumex_arcticus	KC483887.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk. Approximately 6 km E of town, several km from coast	primary	rbcL	69.4278	-123.944	0
+Rumex_arcticus	KC483886.1	25-OCT-2013	552	Canada: Northwest Territories, Anderson River, Anderson River Delta, at seashore, about 5 km SE of Krekovick Landing	primary	rbcL	69.6717	-128.873	0

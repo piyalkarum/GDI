@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fontanesia_philliraeoides	MT931640.1	03-MAR-2023	572	China	secondary	rbcL	35.4657435265375	104.431069784638	0
+Fontanesia_philliraeoides	MN185203.1	27-APR-2021	722	China	secondary	rbcL	34.4563733487327	104.535846623478	0.00182149362477231
+Fontanesia_philliraeoides	KP088602.1	15-MAR-2015	785	China	secondary	rbcL	40.2170382177296	115.296352186948	0.00133537526249231
+Fontanesia_philliraeoides	KP088601.1	15-MAR-2015	785	China	secondary	rbcL	40.5018094154157	115.973462361208	0.00133537526249231

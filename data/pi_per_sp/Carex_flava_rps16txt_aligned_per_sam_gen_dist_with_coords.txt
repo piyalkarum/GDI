@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_flava	MK582251.1	13-MAY-2020	857	Canada: Newfoundland and Labrador, Roberts Arm	secondary	rps16	47.5852191	-53.2815267	0.00131005315500542
+Carex_flava	MF804346.1	09-JAN-2018	763	Austria: Tirol, Bezirk Reutte, Allgauter Alpen	secondary	rps16	47.0213211382625	15.6008691675822	0.000436871996505024
+Carex_flava	MF804345.1	09-JAN-2018	761	Germany: Bayern, Karwendelgebirge	secondary	rps16	47.7944864	12.533646	0.000438020148926851
+Carex_flava	MF804344.1	09-JAN-2018	766	Austria: Tirol, Kufstein, SE Kaiser, Hintersteiner Tal Wegrans	secondary	rps16	48.2664275150204	15.8996416847802	0.000435161009573542

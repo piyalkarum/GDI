@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aethionema_thomasianum	MF572144.1	31-JUL-2018	540	Italy: Aosta Valley, Aymavilles, Pointe du Drinc	secondary	rbcL	45.6596755	7.2891701	0
+Aethionema_thomasianum	MF572142.1	31-JUL-2018	574	Italy: Aosta Valley, Cogne, Arpisson	secondary	rbcL	45.641559	7.3441927	0
+Aethionema_thomasianum	MF572141.1	31-JUL-2018	573	Italy: Aosta Valley, Cogne, Grauson vieux	secondary	rbcL	45.6385943	7.3989811	0
+Aethionema_thomasianum	MF572147.1	31-JUL-2018	550	Italy	secondary	rbcL	46.387134051763	7.9966512684077	0
+Aethionema_thomasianum	MF572146.1	31-JUL-2018	574	Italy	secondary	rbcL	45.6890094844346	6.41272649518863	0
+Aethionema_thomasianum	MF572145.1	31-JUL-2018	575	Italy	secondary	rbcL	45.6040760627641	8.54909980067221	0
+Aethionema_thomasianum	MF572143.1	31-JUL-2018	577	Italy	secondary	rbcL	45.1488336986334	7.36758238725121	0

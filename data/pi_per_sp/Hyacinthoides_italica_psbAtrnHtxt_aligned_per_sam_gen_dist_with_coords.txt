@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hyacinthoides_italica	FJ423292.1	31-OCT-2009	654	France: Alps Haute de Provence	secondary	psbA-trnH	44.1640832	6.1878515	0
+Hyacinthoides_italica	FJ423291.1	31-OCT-2009	654	France: Provence-Alpes-Cote d'Azur	secondary	psbA-trnH	44.0580563	6.0638506	0
+Hyacinthoides_italica	FJ423290.1	31-OCT-2009	654	Italy: Piedmont	secondary	psbA-trnH	45.060735	7.923549	0
+Hyacinthoides_italica	FJ423289.1	31-OCT-2009	654	Italy: Liguria	secondary	psbA-trnH	44.4777617	8.7026296	0

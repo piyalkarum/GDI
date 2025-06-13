@@ -1,0 +1,46 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_ircutianum	OP451263.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Podhale-Magura Area (Spis-Gubalowka Piedmont)	primary	psbA-trnH	49.34475	20.18985	0.0073498588471526
+Leucanthemum_ircutianum	MH669061.1	18-SEP-2019	344	Italy	primary	psbA-trnH	42.77	11.65	0.0168754340670058
+Leucanthemum_ircutianum	MH669059.1	18-SEP-2019	345	Italy	primary	psbA-trnH	42.24	13.97	0.0168511790108989
+Leucanthemum_ircutianum	MH669039.1	18-SEP-2019	345	France	primary	psbA-trnH	43.92	7.48	0.0168511790108989
+Leucanthemum_ircutianum	MH669037.1	18-SEP-2019	345	Montenegro	primary	psbA-trnH	42.47	18.47	0.0168511790108989
+Leucanthemum_ircutianum	HF912071.1	21-APR-2013	337	Spain:Lugo	primary	psbA-trnH	43.09	-7	0.0141893917003001
+Leucanthemum_ircutianum	HF912070.1	21-APR-2013	338	Spain:Lugo	primary	psbA-trnH	42.82	-6.88	0.0141857418283102
+Leucanthemum_ircutianum	HF912069.1	21-APR-2013	341	Spain:A Coruna	primary	psbA-trnH	43.39	-8.09	0.0135407911034743
+Leucanthemum_ircutianum	HF912068.1	21-APR-2013	329	Portugal:Porto	primary	psbA-trnH	41.18	-7.93	0.0117331786287548
+Leucanthemum_ircutianum	HF912067.1	21-APR-2013	329	Portugal:Porto	primary	psbA-trnH	41.17	-7.94	0.0117331786287548
+Leucanthemum_ircutianum	HF912066.1	21-APR-2013	329	Portugal:Viseu	primary	psbA-trnH	40.93	-7.92	0.0117331786287548
+Leucanthemum_ircutianum	HF912065.1	21-APR-2013	329	Portugal:Lisbon	primary	psbA-trnH	38.79	-9.43	0.0117331786287548
+Leucanthemum_ircutianum	HF912064.1	21-APR-2013	329	Portugal:Lisbon	primary	psbA-trnH	38.79	-9.42	0.0117331786287548
+Leucanthemum_ircutianum	HF912063.1	21-APR-2013	329	Spain:Salamanca	primary	psbA-trnH	41.28	-6.37	0.0117331786287548
+Leucanthemum_ircutianum	HF912062.1	21-APR-2013	329	Portugal:Braganca	primary	psbA-trnH	41.55	-6.67	0.0117331786287548
+Leucanthemum_ircutianum	HF912061.1	21-APR-2013	329	Portugal:Braganca	primary	psbA-trnH	41.75	-6.75	0.0117331786287548
+Leucanthemum_ircutianum	HF912060.1	21-APR-2013	329	Portugal:Braganca	primary	psbA-trnH	41.84	-6.94	0.0117331786287548
+Leucanthemum_ircutianum	HF912059.1	21-APR-2013	329	Spain:Zamora	primary	psbA-trnH	42.13	-6.7	0.0117331786287548
+Leucanthemum_ircutianum	HF912058.1	21-APR-2013	338	Spain:Ourense	primary	psbA-trnH	42.46	-6.89	0.0141857418283102
+Leucanthemum_ircutianum	HF912057.1	21-APR-2013	338	Spain:Lugo	primary	psbA-trnH	42.87	-7.07	0.0141857418283102
+Leucanthemum_ircutianum	HF912056.1	21-APR-2013	338	Spain:Lugo	primary	psbA-trnH	42.72	-7.02	0.0141857418283102
+Leucanthemum_ircutianum	HE680973.1	22-APR-2013	356	Croatia:Istarska	secondary	psbA-trnH	45.9904058163179	16.5256347713823	0.0103399228707195
+Leucanthemum_ircutianum	HE680971.1	22-APR-2013	338	Croatia:Istarska	secondary	psbA-trnH	45.4207146081695	16.291481807272	0.00743614385917778
+Leucanthemum_ircutianum	HE680968.1	22-APR-2013	338	Italy:Calabria	secondary	psbA-trnH	39.0565974	16.5249864	0.00743614385917778
+Leucanthemum_ircutianum	HE680936.1	22-APR-2013	343	Spain:Castilia y Leon	secondary	psbA-trnH	41.55005	-5.1387401	0.0115208420208565
+Leucanthemum_ircutianum	HE680935.1	22-APR-2013	343	Portugal:Lisboa	secondary	psbA-trnH	38.7077507	-9.1365919	0.0115208420208565
+Leucanthemum_ircutianum	HE680933.1	22-APR-2013	339	Croatia:Primorsko-Goranska	secondary	psbA-trnH	45.4225937	14.6172032	0.0101867357152738
+Leucanthemum_ircutianum	HE680932.1	22-APR-2013	356	Slovenia:Goriska	secondary	psbA-trnH	46.1041101	13.8123375	0.0103399228707195
+Leucanthemum_ircutianum	HE680931.1	22-APR-2013	338	France:Aquitaine	secondary	psbA-trnH	45.4039367	0.3756199	0.00743614385917778
+Leucanthemum_ircutianum	HE680930.1	22-APR-2013	338	Spain:Pais Vasco	secondary	psbA-trnH	42.7286531	-1.9738375	0.00743614385917778
+Leucanthemum_ircutianum	HE680929.1	22-APR-2013	339	Spain:Navarra	secondary	psbA-trnH	42.6125488	-1.8307877	0.0101867357152738
+Leucanthemum_ircutianum	HE680920.1	22-APR-2013	338	Germany:Bayern	secondary	psbA-trnH	49.2577253933005	10.8447167481245	0.00743614385917778
+Leucanthemum_ircutianum	HE680917.1	22-APR-2013	338	Austria:Vorarlberg	secondary	psbA-trnH	46.745909077741	10.3438632548741	0.00743614385917778
+Leucanthemum_ircutianum	HE680914.1	22-APR-2013	338	Austria:Vorarlberg	secondary	psbA-trnH	46.9023946569262	9.29894557272679	0.00743614385917778
+Leucanthemum_ircutianum	HE680912.1	22-APR-2013	338	Austria:Tirol	secondary	psbA-trnH	47.5738048887208	10.9767071365057	0.00743614385917778
+Leucanthemum_ircutianum	HE680911.1	22-APR-2013	356	Germany:Bayern	secondary	psbA-trnH	49.6044052813202	12.1281315001816	0.0103399228707195
+Leucanthemum_ircutianum	HE680909.1	22-APR-2013	338	Germany:Bayern	secondary	psbA-trnH	48.4493826405264	11.7870968207559	0.00743614385917778
+Leucanthemum_ircutianum	HE680908.1	22-APR-2013	356	Germany:Bayern	secondary	psbA-trnH	48.5722403620435	12.410497535197	0.0103399228707195
+Leucanthemum_ircutianum	HE680885.1	22-APR-2013	338	France:Provence-Alpes	secondary	psbA-trnH	44.0580563	6.0638506	0.00743614385917778
+Leucanthemum_ircutianum	HE680884.1	22-APR-2013	356	Austria:Kaernten	secondary	psbA-trnH	46.7500001	13.8333333	0.0103399228707195
+Leucanthemum_ircutianum	HE680883.1	22-APR-2013	338	Germany:Bayern	secondary	psbA-trnH	48.433929259867	12.368675300419	0.00743614385917778
+Leucanthemum_ircutianum	HE680882.1	22-APR-2013	338	Austria:Tirol	secondary	psbA-trnH	46.5914042261711	12.2018218685916	0.0102766273615021
+Leucanthemum_ircutianum	HE680881.1	22-APR-2013	356	Germany:Bayern	secondary	psbA-trnH	48.958501231793	11.2698720084869	0.0103399228707195
+Leucanthemum_ircutianum	HE680880.1	22-APR-2013	338	Germany:Bayern	secondary	psbA-trnH	48.8687318012896	10.1346640351336	0.0102766273615021
+Leucanthemum_ircutianum	HE680879.1	22-APR-2013	338	Germany:Bayern	secondary	psbA-trnH	49.3469889059268	11.2568951425477	0.00743614385917778

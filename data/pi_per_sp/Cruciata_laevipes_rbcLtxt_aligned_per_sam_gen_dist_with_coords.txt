@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cruciata_laevipes	JN891586.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.43	-3.78	0.00437078508716122
+Cruciata_laevipes	MK028072.1	17-DEC-2018	723	France: Corsica, Radicale	secondary	rbcL	41.9256857	8.9622742	0.0137931034482759
+Cruciata_laevipes	JN893414.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.0234957928321	-4.18605446657907	0.00621580353734572
+Cruciata_laevipes	JN893411.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.0739270264317	-3.39474460658524	0.00437078508716122
+Cruciata_laevipes	JN892115.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.00437078508716122

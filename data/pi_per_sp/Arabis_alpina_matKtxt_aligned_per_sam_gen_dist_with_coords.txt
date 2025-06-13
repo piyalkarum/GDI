@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_alpina	KC474054.1	25-OCT-2013	762	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Camp on Harp Seal Lake, 35 km SW of Sanikiluaq	primary	matK	56.317	-79.444	0.00139500534271161
+Arabis_alpina	KC474053.1	25-OCT-2013	762	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	matK	62.8525	-67.3564	0.00229864516074956
+Arabis_alpina	KC474052.1	25-OCT-2013	762	Canada: Nunavut, Baffin Island, Ogac Lake, Ogac Lake, S. shore of Frobisher Bay	primary	matK	62.8339	-67.3567	0.00139500534271161
+Arabis_alpina	KC474051.1	25-OCT-2013	762	Canada: Nunavut, Coats Island, Hudson Bay between Cape Pembroke and Cairn Cove	primary	matK	62.8833	-81.9167	0.00139500534271161
+Arabis_alpina	JN966102.1	27-OCT-2012	762	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, Open stony ground on gravel ridge	primary	matK	58.6452399508945	-95.2927653770454	0.00550169059911539
+Arabis_alpina	JN966101.1	27-OCT-2012	762	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, in sand	primary	matK	59.2511157352826	-92.7278911021103	0.00550169059911539
+Arabis_alpina	MK926402.1	14-JAN-2020	759	Switzerland	secondary	matK	46.7985624	8.2319736	0.00263548237921978
+Arabis_alpina	MK925871.1	14-JAN-2020	759	Norway	secondary	matK	64.5731537	11.5280364	0.00263548237921978
+Arabis_alpina	MK925863.1	14-JAN-2020	772	United Kingdom	secondary	matK	55.4075674746417	-2.52519275730315	0.00139371705479472
+Arabis_alpina	MK925766.1	14-JAN-2020	766	United Kingdom	secondary	matK	55.2497030717331	-3.04607959088611	0.00139243549422987
+Arabis_alpina	MK925625.1	14-JAN-2020	755	Iceland	secondary	matK	64.9841821	-18.1059013	0.00140728476821192
+Arabis_alpina	MN276187.1	14-JAN-2020	775	Saudi Arabia: Abha	secondary	matK	18.0300522774497	42.9233587590854	0.00180587615376449
+Arabis_alpina	MN276186.1	14-JAN-2020	775	Saudi Arabia: Abha	secondary	matK	17.7618935242329	42.6325265960881	0.00180587615376449
+Arabis_alpina	MN276185.1	14-JAN-2020	775	Saudi Arabia: Abha	secondary	matK	18.7170176532126	41.8549300939142	0.00180587615376449
+Arabis_alpina	MN276184.1	14-JAN-2020	775	Saudi Arabia: Abha	secondary	matK	18.8463902025748	42.3992558962382	0.00180587615376449
+Arabis_alpina	MN276183.1	14-JAN-2020	771	Saudi Arabia: Abha	secondary	matK	17.5386516390086	42.0386557172336	0.00180587615376449
+Arabis_alpina	MN276182.1	14-JAN-2020	771	Saudi Arabia: Abha	secondary	matK	17.8613290428128	42.2879238602681	0.00180587615376449

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_perfoliatus	LC638907.1	25-DEC-2021	830	Japan:Ehime	secondary	ITS1	33.6013646	132.8185275	0.00549619019289294
+Potamogeton_perfoliatus	LC349931.1	02-JUL-2020	685	Japan: Shiga	secondary	ITS1	35.247154	136.109385	0.010054143154026
+Potamogeton_perfoliatus	AB937782.1	09-MAY-2015	638	Australia	secondary	ITS1	-24.7761086	134.755	0.00742121940355887
+Potamogeton_perfoliatus	AB744008.1	19-FEB-2013	712	Japan	secondary	ITS1	36.5748441	139.2394179	0.00549619019289294

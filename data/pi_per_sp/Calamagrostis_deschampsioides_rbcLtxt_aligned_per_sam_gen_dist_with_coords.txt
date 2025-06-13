@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_deschampsioides	KC482157.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Polar Continental Shelf Project Base north of the baseball diamond	primary	rbcL	69.5	-133	0
+Calamagrostis_deschampsioides	KC482156.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Danny C. Gordon's goose camp	primary	rbcL	68.895	-136.961	0
+Calamagrostis_deschampsioides	JN965320.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality, Esker. High marsh	primary	rbcL	58.6341418337185	-94.5809508594006	0
+Calamagrostis_deschampsioides	JN965317.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 11 km S Churchill, Goose Creek, Wet meadow	primary	rbcL	59.1664200102981	-94.1832139580356	0
+Calamagrostis_deschampsioides	JN965316.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality, Sand spit, meadow	primary	rbcL	59.1520448117658	-94.8394896967087	0
+Calamagrostis_deschampsioides	JN965315.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality, Sand spit, wet meadow	primary	rbcL	58.4906474519754	-92.862524560028	0
+Calamagrostis_deschampsioides	JN965314.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality, Sand spit, meadow	primary	rbcL	58.6891355025046	-92.5226721138637	0
+Calamagrostis_deschampsioides	JN965313.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality, Upper salt marsh	primary	rbcL	58.3726249149559	-94.551615018956	0
+Calamagrostis_deschampsioides	JN965307.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.734	-94.112	0
+Calamagrostis_deschampsioides	JN965306.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km NW Churchill, Cape Merry, Organic matter and sand substrate in crevices between large, smooth and rounded quartzite rock outcrops.	primary	rbcL	58.3103075254073	-95.5011652452881	0

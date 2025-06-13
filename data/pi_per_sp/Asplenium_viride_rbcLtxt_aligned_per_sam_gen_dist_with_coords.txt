@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_viride	MG215420.1	24-JAN-2018	551	Canada: Feversham Gorge, Osprey Twp., Grey Co., ON	primary	rbcL	44.3333	-80.75	0.00015124016938899
+Asplenium_viride	MG215406.1	24-JAN-2018	551	Canada: Port au Port Pen., NFLD	primary	rbcL	48.57	-59.05	0.00015124016938899
+Asplenium_viride	MG215332.1	24-JAN-2018	552	USA: Alaska, Southeast Fairbanks Census Area, Yukon-Charley National Preserve, VABM National Ridge	primary	rbcL	65.276	-141.129	0.000150966183574879
+Asplenium_viride	MG215285.1	24-JAN-2018	552	USA: Alaska, Haines Borough, Haines Alaska, Takhin Ridge, bump	primary	rbcL	59.286	-136.114	0.000150966183574879
+Asplenium_viride	MK826971.1	30-APR-2020	1239	China	secondary	rbcL	35.000074	104.999927	0
+Asplenium_viride	MK826885.1	30-APR-2020	890	China: Taiwan Island	secondary	rbcL	-0.5514987	166.9348568	0
+Asplenium_viride	MG215451.1	24-JAN-2018	552	Canada: Ontario, Algoma Dist., W side of Tribag Mining Rd., 4.3 mi N of Hwy 17, Batchawana Falls area.	secondary	rbcL	44.05090642514	-77.1115911234446	0.000150966183574879
+Asplenium_viride	MG215175.1	24-JAN-2018	552	Canada: Ontario, Bruce Co., Bruce Peninsula, Barrow Bay	secondary	rbcL	44.9738418	-81.1860817	0.00105731125665238
+Asplenium_viride	MG215084.1	24-JAN-2018	552	Canada: Ontario, Grey Co., Sydenham Tp. Woodford South Escarpment & Bognor Marsh ANSI, Niagara Escarpment plain+E to SE-facing slopes+wetlands escarp.base, 12kmE of Owen Sound	secondary	rbcL	43.1819821281179	-77.623427569703	0.000150966183574879
+Asplenium_viride	KP899657.1	01-SEP-2015	1234	Spain: O,Teverga, puerto de Ventana	secondary	rbcL	43.5743718132996	-5.14128959983786	0
+Asplenium_viride	KP899656.1	01-SEP-2015	1234	Spain: O,Teverga, puerto de Ventana	secondary	rbcL	43.6701389994417	-6.17941703709352	0
+Asplenium_viride	AB574882.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0
+Asplenium_viride	KF186528.1	23-SEP-2013	1309	Canada	secondary	rbcL	45.7563115	-82.2146050237431	0.000150966183574879

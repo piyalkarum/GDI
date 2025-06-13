@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tephroseris_papposa	MW796307.1	14-SEP-2021	1118	Greece: Western Macedonia	secondary	ndhF	40.0174995742983	22.09465803235	0.00691363515459799
+Tephroseris_papposa	MW796306.1	14-SEP-2021	681	Greece: Central Macedonia	secondary	ndhF	40.6186482	22.9179536	0.0117474302496329
+Tephroseris_papposa	MW796305.1	14-SEP-2021	1046	Greece: Western Macedonia	secondary	ndhF	40.2681094895518	20.6076230181233	0.00725042560101227
+Tephroseris_papposa	MW796304.1	14-SEP-2021	1118	Kosovo: Prizren	secondary	ndhF	42.2130151	20.7363339	0.00642415889419662

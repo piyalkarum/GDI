@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_witasekiana	MK556121.1	22-SEP-2019	346	Austria	secondary	rbcL	37.3472700448391	-3.93365027360862	0.55051425283633
+Campanula_witasekiana	MK556040.1	22-SEP-2019	337	Austria	secondary	rbcL	36.2025012652676	-5.08035405997152	0.550115615013212
+Campanula_witasekiana	MK555627.1	22-SEP-2019	357	Austria	secondary	rbcL	36.9845409011244	-5.09775227623361	0.569134294069352
+Campanula_witasekiana	MK555484.1	22-SEP-2019	381	Austria	secondary	rbcL	36.5660373407239	-4.353830748812	0.59301011546797
+Campanula_witasekiana	MK555411.1	22-SEP-2019	382	Austria	secondary	rbcL	37.6270582504749	-5.36348010475284	0.60700083678403

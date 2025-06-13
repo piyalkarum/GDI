@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_grandiflorum	MW601350.1	28-JUN-2022	2170	Croatia	primary	ndhJ	44.0626	16.3833	0.0299354922643668
+Cerastium_grandiflorum	MW601349.1	28-JUN-2022	2188	Croatia	primary	ndhJ	44.3662	15.4666	0.0297166220754943
+Cerastium_grandiflorum	MW601348.1	28-JUN-2022	2209	Montenegro	primary	ndhJ	42.5542	19.4892	0.0371921596681046
+Cerastium_grandiflorum	MH487947.1	20-JAN-2022	2083	Croatia	secondary	ndhJ	44.9989048899534	16.5206974663526	0.0302323306850339
+Cerastium_grandiflorum	MH487946.1	20-JAN-2022	2085	Montenegro	secondary	ndhJ	-29.0734479009803	-51.1423990915657	0.0297781083825071
+Cerastium_grandiflorum	MH487945.1	20-JAN-2022	2093	Bosnia and Herzegovina	secondary	ndhJ	44.8446544461827	18.1182882103256	0.0638076671575355
+Cerastium_grandiflorum	MH487944.1	20-JAN-2022	2086	Croatia	secondary	ndhJ	46.2435215020718	15.5102041567171	0.0301248911387136
+Cerastium_grandiflorum	MH487943.1	20-JAN-2022	2085	Montenegro	secondary	ndhJ	-29.5503558540201	-50.9404522331445	0.0297781083825071
+Cerastium_grandiflorum	MH487942.1	20-JAN-2022	2136	Bosnia and Herzegovina	secondary	ndhJ	44.9884741037893	17.0084251875326	0.170902233131712

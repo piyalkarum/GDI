@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_acris	MW476485.1	26-APR-2021	621	Serbia: Kopaonik Mts., near the path to Metode	primary	ITS	43.2340765121088	19.9772646107212	0.00577999300053269
+Cardamine_acris	MW476484.1	26-APR-2021	619	Serbia: Kopaonik Mts., near the path to Metode	primary	ITS	43.4819920089259	21.3838013470633	0.00427634704932054
+Cardamine_acris	MW476483.1	26-APR-2021	621	Serbia: Kopaonik Mts., near the path to Metode	primary	ITS	43.5352625871129	21.812876901986	0.00976329282854534
+Cardamine_acris	MW476482.1	26-APR-2021	619	Serbia: Kopaonik Mts., near the path to Metode	primary	ITS	43.9121027254469	21.1682615769072	0.00579682600019006
+Cardamine_acris	MW476481.1	26-APR-2021	619	Serbia: Kopaonik Mts., near the path to Metode	primary	ITS	43.2582616224226	20.0651143816427	0.00427634704932054
+Cardamine_acris	MW476480.1	26-APR-2021	621	Serbia: Kopaonik Mts., near the path to Metode	primary	ITS	43.4796638935124	20.5905146348465	0.0095726208506082
+Cardamine_acris	MW476479.1	26-APR-2021	619	Serbia: Kopaonik Mts., near the path to Metode	primary	ITS	42.6366237776057	21.4251688067722	0.00570179606576071
+Cardamine_acris	MW476478.1	26-APR-2021	621	North Macedonia: Mavrovo, from Strezimir to Korab peak	primary	ITS	41.6294166014473	21.4070986428572	0.00938439730898486
+Cardamine_acris	MW476477.1	26-APR-2021	621	North Macedonia: Mavrovo, from Strezimir to Korab peak	primary	ITS	42.1629573071876	20.9294497441084	0.0109012036053837
+Cardamine_acris	MW476476.1	26-APR-2021	621	Greece: East Central, E of Volos	primary	ITS	40.1399682175715	23.6061153461651	0.00710735153715127
+Cardamine_acris	MW476475.1	26-APR-2021	621	Greece: East Central, E of Volos	primary	ITS	38.9788751757922	22.4346217324208	0.00691912799552793
+Cardamine_acris	MW476474.1	26-APR-2021	621	Greece: East Central, E of Volos	primary	ITS	39.6813424194716	23.8681522280602	0.00871979987705789
+Cardamine_acris	MW476473.1	26-APR-2021	621	Greece: East Central, E of Volos	primary	ITS	39.3282072833223	23.5789850838218	0.00540232169912911
+Cardamine_acris	MW476472.1	26-APR-2021	621	Greece: North Central, Voras Mts., Voras ski resort	primary	ITS	41.1650472193172	22.6158950114377	0.00426318670413386
+Cardamine_acris	MW476471.1	26-APR-2021	621	Greece: North Central, Voras Mts., Voras ski resort	primary	ITS	41.3106674864673	22.3820082519932	0.00577999300053269
+Cardamine_acris	MW476470.1	26-APR-2021	621	Bulgaria: Osogovska planina, above Osogovo chalet	primary	ITS	42.199947	22.614689	0.00540232169912911
+Cardamine_acris	MW476469.1	26-APR-2021	621	Greece: Sterea Ellas, Vardousia Mts., W of Athanasios Diakos	primary	ITS	38.69886	22.142021	0.00577999300053269
+Cardamine_acris	MW476468.1	26-APR-2021	621	Greece: N Pindhos, Vasilitsa ski resort	primary	ITS	40.05725	21.081888	0.0129863531811232

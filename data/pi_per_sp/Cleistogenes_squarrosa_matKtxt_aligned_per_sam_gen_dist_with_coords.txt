@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cleistogenes_squarrosa	OR194053.1	19-SEP-2023	638	China	primary	matK	42.322306174566	120.115995314238	0.284557010203537
+Cleistogenes_squarrosa	OR194052.1	19-SEP-2023	644	China	primary	matK	42.8865346976769	120.926092069907	0.285531898822922
+Cleistogenes_squarrosa	OR194051.1	19-SEP-2023	627	China	primary	matK	43.0862492912972	121.495640778511	0.285555090653775
+Cleistogenes_squarrosa	MN433981.1	30-NOV-2021	791	China	secondary	matK	35.592091667777	104.324233915701	0.419067467631222
+Cleistogenes_squarrosa	JF729096.1	12-SEP-2011	817	China	secondary	matK	34.6584331276746	104.636954958008	0.419067467631222

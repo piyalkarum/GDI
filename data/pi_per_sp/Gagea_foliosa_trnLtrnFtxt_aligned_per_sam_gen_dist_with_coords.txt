@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_foliosa	HE649624.1	04-FEB-2013	205	Italy:Sicily	secondary	trnL-trnF	37.142258520926	14.6845582157062	0
+Gagea_foliosa	HE649623.1	04-FEB-2013	205	Italy:Sardinia	secondary	trnL-trnF	39.3363666410827	9.30364525848809	0
+Gagea_foliosa	HE649622.1	04-FEB-2013	205	Italy:Sardinia	secondary	trnL-trnF	40.6338984240248	8.89650898304862	0
+Gagea_foliosa	HE649621.1	04-FEB-2013	205	Algeria	secondary	trnL-trnF	28.0000272	2.9999825	0
+Gagea_foliosa	AM903066.1	30-OCT-2007	254	Italy:Sardinia	secondary	trnL-trnF	39.4473430446532	9.80664933706732	0
+Gagea_foliosa	AM265603.1	23-MAY-2006	294	Italy:Sicily	secondary	trnL-trnF	37.9983867053006	14.862421011761	0
+Gagea_foliosa	AM265523.1	23-MAY-2006	294	Italy:Sardegna	secondary	trnL-trnF	40.7795289368781	8.86356704841051	0

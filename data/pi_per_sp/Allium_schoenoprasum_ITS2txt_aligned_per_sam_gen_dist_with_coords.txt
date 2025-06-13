@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_schoenoprasum	HE663088.1	06-FEB-2014	632	Germany:Sachsen Anhalt, Magdeburg, Elbauenpark	secondary	ITS2	52.1379473	11.6783775	0.00994575045207957
+Allium_schoenoprasum	HE663087.1	06-FEB-2014	632	Russia:Altai, valley of the river Bannaja, ca. 210km southwest of Gorno-Altajsk	secondary	ITS2	49.7995174	86.5788193	0.00994575045207957
+Allium_schoenoprasum	AJ411836.1	27-JUN-2002	632	Russia:Far East, peninsula Chukotka	secondary	ITS2	42.64237475	131.358872921296	0.0221518987341772
+Allium_schoenoprasum	AB477112.1	16-JUL-2009	639	Japan	secondary	ITS2	36.3543392258103	139.774567796342	0.0139822762170774
+Allium_schoenoprasum	AB477111.1	16-JUL-2009	639	Japan	secondary	ITS2	36.9213693959969	138.29364612153	0.0126309898773796
+Allium_schoenoprasum	AB477110.1	16-JUL-2009	639	Japan	secondary	ITS2	36.7229046153332	139.065348126475	0.0108226716133651
+Allium_schoenoprasum	AB477109.1	16-JUL-2009	639	Japan	secondary	ITS2	36.6079635838226	138.763536961996	0.0153137531235231
+Allium_schoenoprasum	AB477108.1	16-JUL-2009	632	Japan	secondary	ITS2	37.0081908118768	139.06160134786	0.00994575045207957

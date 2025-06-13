@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_adustum	OP451257.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Mala Fatra Mts)	primary	psbA-trnH	49.19165	19.0394	0.000494559841740851
+Leucanthemum_adustum	HE680921.1	22-APR-2013	338	Germany:Bayern	secondary	psbA-trnH	48.2999555284501	11.7512555176746	0.000493096646942801
+Leucanthemum_adustum	HE680918.1	22-APR-2013	338	Austria:Vorarlberg	secondary	psbA-trnH	46.4044749550141	10.1859112704734	0.000493096646942801
+Leucanthemum_adustum	HE680915.1	22-APR-2013	338	Austria:Vorarlberg	secondary	psbA-trnH	46.5907709172111	10.5175070704792	0.00271571583011702
+Leucanthemum_adustum	HE680913.1	22-APR-2013	338	Germany:Bayern	secondary	psbA-trnH	49.0245920973965	10.2032584949401	0.000493096646942801
+Leucanthemum_adustum	HE680910.1	22-APR-2013	338	Germany:Bayern	secondary	psbA-trnH	48.3386782660721	11.6904173146206	0.000493096646942801
+Leucanthemum_adustum	HE680905.1	22-APR-2013	334	Germany:Bayern	secondary	psbA-trnH	48.8976518020869	11.7380863799528	0.000499001996007984
+Leucanthemum_adustum	HE680902.1	22-APR-2013	338	Germany:Bayern	secondary	psbA-trnH	48.8298463571626	11.0099552829913	0.000493096646942801
+Leucanthemum_adustum	HE680901.1	22-APR-2013	338	Germany:Bayern	secondary	psbA-trnH	48.7932727261083	10.8119408825873	0.000493096646942801
+Leucanthemum_adustum	HE680878.1	22-APR-2013	338	Austria:Niederoesterreich	secondary	psbA-trnH	48.2817813	15.7632457	0.000493096646942801
+Leucanthemum_adustum	HE680877.1	22-APR-2013	338	Germany:Bayern	secondary	psbA-trnH	49.6481023030601	11.6148057631916	0.00271571583011702
+Leucanthemum_adustum	HE680876.1	22-APR-2013	338	Austria:Tirol	secondary	psbA-trnH	47.223193	11.5261028	0.000493096646942801
+Leucanthemum_adustum	HE680875.1	22-APR-2013	338	Germany:Bayern	secondary	psbA-trnH	48.9021517468691	10.525161210382	0.000493096646942801

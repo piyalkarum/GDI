@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_monspeliense	KY778050.1	31-MAY-2017	415		primary	rps16	44.03	3.37	0.000805152979066023
+Leucanthemum_monspeliense	KY778049.1	31-MAY-2017	415		primary	rps16	44.58	2.18	0.000805152979066023
+Leucanthemum_monspeliense	LN869169.1	17-SEP-2015	458	France	primary	rps16	44.09	3.58	0.00233810799597775
+Leucanthemum_monspeliense	LN869168.1	17-SEP-2015	458	France	primary	rps16	44.14	3.73	0.000727802037845706

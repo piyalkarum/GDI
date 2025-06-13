@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_polaris	MZ359339.1	07-DEC-2021	544	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Salix_polaris	MG247924.1	21-JAN-2018	552	Canada: Yukon Territory, Kay Point	primary	rbcL	69.281	-138.366	0
+Salix_polaris	MG246280.1	21-JAN-2018	552	Canada: Yukon Territory, Vuntut National Park, Dog Creek crest of Mountain west of camp	primary	rbcL	68.462	-138.701	0
+Salix_polaris	KC483975.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Egg Riv., Hills between Big River and Egg River, near junction of the two rivers, valley of small tributary of Egg River	primary	rbcL	72.4442	-124.407	0
+Salix_polaris	KC483974.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Back slope of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.514	-116.439	0
+Salix_polaris	KC483973.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Upper Malcolm River	primary	rbcL	69.21	-140.46	0
+Salix_polaris	KC483972.1	25-OCT-2013	519	Canada: Yukon Territory, Ivvavik National Park, Ptarmigan Bay	primary	rbcL	69.483	-139.081	0
+Salix_polaris	KC483971.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Armstrong Point S.E. of Armstrong Point N.W. Victoria Island on till plateau. Site # 211, Loc. # 211	primary	rbcL	72.6667	-117.167	0
+Salix_polaris	FR694863.1	04-OCT-2010	597	Russia:Kamchatka	secondary	rbcL	57.3882607705558	159.86194733575	0
+Salix_polaris	FR694862.1	04-OCT-2010	597	Russia:Kamchatka	secondary	rbcL	57.293901497734	160.998710471867	0

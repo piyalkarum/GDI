@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_scoparius	OM048595.1	08-AUG-2022	1106	Greece: Kerkyra (Island)	secondary	matK	39.591337	19.8596189	0
+Bromus_scoparius	OM048594.1	08-AUG-2022	1068	Iran: Mazandaran, W of Ramsar, W of Javaher Deh	secondary	matK	36.734586	50.9736236	0
+Bromus_scoparius	OM048593.1	08-AUG-2022	1212	Iran: Kermanshah, Sarpol-e Zahab, Sarab-e Garm village	secondary	matK	34.429361	45.8460661	0
+Bromus_scoparius	OM048592.1	08-AUG-2022	1232	Iran: West Azerbaijan, SW of Rezaiyeh (Urmia), Silvana valley, along the road SE of Dizeh	secondary	matK	36.7194505	46.5154803	0
+Bromus_scoparius	OM048591.1	08-AUG-2022	1425	Iran: Chaharmahal and Bakhtiari, Nghan, road Naghan to Izeh, river side	secondary	matK	31.749786	50.5509398	0
+Bromus_scoparius	OM048590.1	08-AUG-2022	1225	Iran: Khuzestan, near to Shatt-e Izeh (wetland)	secondary	matK	30.8259721	50.2026843	0

@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_riviniana	MN486519.1	15-MAY-2021	469	United Kingdom: England, County Durham, Aukland Castle Park	primary	rbcL	54.6723	-1.6608	0.00218185210654059
+Viola_riviniana	MK030057.1	16-OCT-2019	553	United Kingdom: England, County Durham, Auckland Park	primary	rbcL	54.6719	-1.6606	0.00160445495148397
+Viola_riviniana	MK030050.1	16-OCT-2019	510	United Kingdom: England, County Durham, Auckland Castle Park	primary	rbcL	54.672	-1.661	0.000164015089388224
+Viola_riviniana	MK030040.1	16-OCT-2019	553	United Kingdom: England, County Durham, Auckland Castle Park	primary	rbcL	54.6725	-1.6589	0.000303116494312413
+Viola_riviniana	JN891165.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.79	-3.37	0.000305939585556262
+Viola_riviniana	KJ595802.1	15-JUL-2014	561	Portugal	secondary	rbcL	39.7202931874843	-9.07233088046	0.000461475853771092
+Viola_riviniana	KJ595801.1	15-JUL-2014	561	Portugal	secondary	rbcL	39.5322688010703	-8.80611843274479	0.000461475853771092
+Viola_riviniana	KJ595800.1	15-JUL-2014	561	Spain	secondary	rbcL	40.0908516626822	-4.22822675777872	0.000461475853771092
+Viola_riviniana	KJ595799.1	15-JUL-2014	561	Spain	secondary	rbcL	38.760975465837	-4.15783476902088	0.000735711422124308
+Viola_riviniana	JN893557.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000305939585556262
+Viola_riviniana	JN892436.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9352369171262	0.0929980049705637	0.000305939585556262
+Viola_riviniana	JN892435.1	07-MAR-2012	512	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000164015089388224
+Viola_riviniana	JN892170.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.5756172279213	-0.623020533347623	0.000305939585556262
+Viola_riviniana	JN891361.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.5564770520617	-1.5506085331285	0.000305939585556262

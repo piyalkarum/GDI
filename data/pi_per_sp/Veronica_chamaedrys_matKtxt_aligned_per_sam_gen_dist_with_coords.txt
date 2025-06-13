@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_chamaedrys	MG225283.1	21-JAN-2018	800	Canada: Quebec, Montreal, Island of Montreal, Parc Beausejour	primary	matK	45.527	-73.732	0.00210243040955344
+Veronica_chamaedrys	JN894843.1	07-MAR-2012	794	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.0027321533314678
+Veronica_chamaedrys	KJ746160.1	29-JUL-2014	705	Poland	secondary	matK	52.215933	19.134422	0.00709219858156028
+Veronica_chamaedrys	JN894514.1	07-MAR-2012	801	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00208791110634725
+Veronica_chamaedrys	JN894416.1	07-MAR-2012	835	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00208791110634725

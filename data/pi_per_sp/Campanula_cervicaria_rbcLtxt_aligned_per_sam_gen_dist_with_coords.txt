@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_cervicaria	MK556068.1	22-SEP-2019	346	Hungary	secondary	rbcL	42.2948973788474	-72.1315297366923	0.573963686097462
+Campanula_cervicaria	MK555988.1	22-SEP-2019	359	Hungary	secondary	rbcL	42.2047483047753	-73.5773830303591	0.585873320279426
+Campanula_cervicaria	MK555532.1	22-SEP-2019	357	Hungary	secondary	rbcL	41.3232698493181	-73.0962398760196	0.602614164648326
+Campanula_cervicaria	MK555451.1	22-SEP-2019	381	Hungary	secondary	rbcL	42.4751494667204	-72.099241067313	0.599787472095795
+Campanula_cervicaria	MK555343.1	22-SEP-2019	382	Hungary	secondary	rbcL	42.7052959696886	-72.1209092899962	0.612550030779593

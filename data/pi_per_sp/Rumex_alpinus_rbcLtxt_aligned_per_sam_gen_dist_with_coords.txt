@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_alpinus	MK925036.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0280669215081	-3.68121736328634	0.00030750307503075
+Rumex_alpinus	MK924989.1	14-JAN-2020	542	Austria	secondary	rbcL	36.1251237189582	-5.20832547144772	0.00030750307503075
+Rumex_alpinus	MK924576.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3517367001109	-2.57099905882075	0.00030750307503075
+Rumex_alpinus	MK924528.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.32018534233	-3.62708878834491	0.00030750307503075
+Rumex_alpinus	MK924497.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4852509281952	-3.64417756915217	0.00030750307503075
+Rumex_alpinus	MK924473.1	14-JAN-2020	542	Austria	secondary	rbcL	37.5751060497647	-5.32544801450318	0.00030750307503075
+Rumex_alpinus	MG249548.1	21-JAN-2018	553	Canada: Ontario, Nursery plots, Central Experimental Farm, Ottawa. Seed from Botanic Gardens, Sophia, Bulgaria.	secondary	rbcL	43.72634945	-77.7101179040839	0.0018450184501845

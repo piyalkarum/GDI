@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lysimachia_nummularia	MG225006.1	21-JAN-2018	771	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #6 trail	primary	matK	43.097	-79.281	0
+Lysimachia_nummularia	MG224835.1	21-JAN-2018	692	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Brackenbrae Trail	primary	matK	43.2959	-79.8701	0
+Lysimachia_nummularia	JN895958.1	07-MAR-2012	842	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.15	0
+Lysimachia_nummularia	JN895465.1	07-MAR-2012	785	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0
+Lysimachia_nummularia	JN895200.1	07-MAR-2012	774	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

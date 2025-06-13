@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Prunus_padus	MK170825.1	06-DEC-2019	680	Spain	secondary	rpl16	39.3260685	-4.8379791	0.000735294117647059
+Prunus_padus	MK170823.1	06-DEC-2019	680	Russia: Buryatia republic	secondary	rpl16	52.7182426	109.492143	0.000735294117647059
+Prunus_padus	MK170820.1	06-DEC-2019	680	Mongolia	secondary	rpl16	43.9382593	-79.2235563	0.00196078431372549
+Prunus_padus	MK170819.1	06-DEC-2019	680	Russia: Yakutia republic	secondary	rpl16	66.941626	129.642371	0.00147058823529412
+Prunus_padus	MK170818.1	06-DEC-2019	680	Russia: Dagestan republic	secondary	rpl16	43	47	0.00147058823529412
+Prunus_padus	MK170816.1	06-DEC-2019	680	Russia: Chuvashia republic	secondary	rpl16	55.4259922	47.0849429	0.000735294117647059
+Prunus_padus	MK170815.1	06-DEC-2019	680	Russia: Chelyabinsk region	secondary	rpl16	55.1369164	61.3490814	0.000735294117647059

@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_nardina	FJ548124.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island, Cape Dorset, near the airport	primary	matK	64.23	-76.54	0.000411522633744856
+Carex_nardina	FJ548123.1	25-AUG-2009	716	Canada: Nunavut, Franklin District, Ellesmere Island, Alexandra Fjord	primary	matK	78.88	-75.83	0.000418994413407821
+Carex_nardina	FJ548122.1	25-AUG-2009	733	Canada: Nunavut, SW Baffin Island, Mallik Island, S side of Mallik Island	primary	matK	64.25	-76.62	0.000409276944065484
+Carex_nardina	FJ548121.1	25-AUG-2009	712	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	matK	62.85	-67.34	0.000421348314606742
+Carex_nardina	FJ548120.1	25-AUG-2009	733	Canada: Nunavut, Baffin Island, Franklin District, Nettilling Lake, Burwash Bay	primary	matK	65.95	-71.3	0.000409276944065484
+Carex_nardina	FJ548119.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island	primary	matK	71.31	-79.29	0.000411522633744856
+Carex_nardina	KC474363.1	25-OCT-2013	776	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.644	-115.493	0.00108689889484156
+Carex_nardina	KC474362.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Near base of Elm Hill	primary	matK	68.9639	-122.694	0.00108656239278394
+Carex_nardina	KC474361.1	25-OCT-2013	764	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, 2-3 km SE of Paulatuk (within sight of hamlet)	primary	matK	69.3556	-124.167	0.00109100613840177
+Carex_nardina	KC474360.1	25-OCT-2013	777	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq. Plot 3. By the large antenna (known locally as the Big Pole) at east end of town	primary	matK	56.6	-79.358	0.000388456160437593
+Carex_nardina	KU496581.1	31-JAN-2017	770	USA: Alaska, Juneau	secondary	matK	58.3019496	-134.419734	0.000394069381954426

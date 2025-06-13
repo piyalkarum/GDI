@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cakile_maritima	OQ815716.1	05-AUG-2023	422	Egypt	primary	matK	31.3728	27.1903	0.0110584518167457
+Cakile_maritima	KX676912.1	09-AUG-2017	802	Canada: British Columbia, Vancouver Island, Alberni-Clayoquot Regional District, Beach at Pachena Bay	primary	matK	48.7929	-125.117	0.00487007343893927
+Cakile_maritima	JN894053.1	07-MAR-2012	793	United Kingdom: Shetland (112)	primary	matK	60.3	-1.66	0.00480196199642025
+Cakile_maritima	JN894403.1	07-MAR-2012	791	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00480744793541002

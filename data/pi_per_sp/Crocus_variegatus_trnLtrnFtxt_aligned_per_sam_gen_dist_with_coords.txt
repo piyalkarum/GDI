@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_variegatus	LM993638.1	23-JUL-2016	672	Italy	secondary	trnL-trnF	42.4631894377854	13.278552812642	0
+Crocus_variegatus	LM993637.1	23-JUL-2016	672	Italy	secondary	trnL-trnF	43.0131991348493	12.7547723540225	0
+Crocus_variegatus	LM993636.1	23-JUL-2016	672	Italy	secondary	trnL-trnF	41.9432670971107	12.943430716331	0
+Crocus_variegatus	LM993635.1	23-JUL-2016	672	Italy	secondary	trnL-trnF	41.9093723074826	12.2983552841525	0
+Crocus_variegatus	LM993634.1	23-JUL-2016	672	Italy	secondary	trnL-trnF	43.2195168203314	13.5012043292766	0
+Crocus_variegatus	LM993621.1	23-JUL-2016	672	Slovenia	secondary	trnL-trnF	46.1363400390964	14.464098616761	0
+Crocus_variegatus	LM993620.1	23-JUL-2016	672	Slovenia	secondary	trnL-trnF	46.0384925278794	14.7674895950873	0
+Crocus_variegatus	LM993619.1	23-JUL-2016	672	Slovenia	secondary	trnL-trnF	46.6571294184227	15.4637002229058	0
+Crocus_variegatus	LM993618.1	23-JUL-2016	672	Slovenia	secondary	trnL-trnF	46.3425116776198	14.6474548771089	0
+Crocus_variegatus	LM993617.1	23-JUL-2016	672	Italy	secondary	trnL-trnF	43.1815480540021	13.5046310807815	0
+Crocus_variegatus	LM993616.1	23-JUL-2016	672	Italy	secondary	trnL-trnF	42.6808540482273	13.5709155655452	0
+Crocus_variegatus	LM993615.1	23-JUL-2016	672	Italy	secondary	trnL-trnF	42.4541292016214	13.3931493721352	0

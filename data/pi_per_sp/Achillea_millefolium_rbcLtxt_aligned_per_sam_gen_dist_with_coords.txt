@@ -1,0 +1,70 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achillea_millefolium	OR738029.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.55889	81.65889	0.00016585443607816
+Achillea_millefolium	OR678666.1	06-NOV-2023	502	Kazakhstan: Qaragandy region	primary	rbcL	49.756	73.11774	5.85891727208812e-05
+Achillea_millefolium	OR237400.1	17-SEP-2023	504	Kazakhstan: Buiratau National Park	primary	rbcL	51.1626	73.196	8.75350140056022e-05
+Achillea_millefolium	OQ404760.1	03-JUL-2023	613	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	rbcL	42.2611843	-85.63715192	0.000203949850563203
+Achillea_millefolium	OL537525.1	10-JAN-2022	553	USA: Texas, Fort Worth Botanic Gardens	primary	rbcL	32.735	-97.365	0.000162493619813137
+Achillea_millefolium	OL537524.1	10-JAN-2022	553	USA: Texas, Texas, Jeff Davis County	primary	rbcL	30.641	-104.165	0.000162493619813137
+Achillea_millefolium	KP644096.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.892	-78.146	0.000162493619813137
+Achillea_millefolium	MG224381.1	26-DEC-2017	552	Canada: Ontario, Cochrane Dist., Mammamattawa, abandoned Hudson Bay Company Post, Kenogami River.	primary	rbcL	50.417	-84.383	0.000162589970956786
+Achillea_millefolium	MG224344.1	26-DEC-2017	552	Canada: Nunavut, Akimiski Island, camp.	primary	rbcL	53.108	-80.963	0.000162589970956786
+Achillea_millefolium	MG223865.1	26-DEC-2017	553	Canada: Ontario, Wellington, Wellington, Guelph	primary	rbcL	43.3872524811345	-79.3848940037293	0.000162493619813137
+Achillea_millefolium	MG223805.1	26-DEC-2017	553	Canada: Ontario, Wellington County, City of Guelph, University of Guelph Arboretum	primary	rbcL	44.2850010485846	-80.0458188926777	0.000162493619813137
+Achillea_millefolium	MG223740.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	48.454	-101.592	0.000162589970956786
+Achillea_millefolium	MG223542.1	26-DEC-2017	549	Canada: Ontario, Algoma, Lake Superior P.P.	primary	rbcL	47.75	-84.8333	0.000163494025064095
+Achillea_millefolium	MG223438.1	26-DEC-2017	552	Canada: Yukon Territory, Shingle Point area, DEW Line Station DEWSEEP	primary	rbcL	68.937	-137.239	0.000162589970956786
+Achillea_millefolium	MG223079.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	48.113	-101.795	0.000162589970956786
+Achillea_millefolium	MG222330.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	47.906	-101.306	0.000162589970956786
+Achillea_millefolium	MG221847.1	26-DEC-2017	552	Canada: Yukon Territory, La Biche River	primary	rbcL	60.156	-124.069	0.000162589970956786
+Achillea_millefolium	MG221536.1	26-DEC-2017	552	Canada: Ontario, Thunder Bay Dist., Sleeping Giant Provincial Park, top of Thunder Cape near foot of Sleeping Giant.	primary	rbcL	48.317	-88.933	0.000162589970956786
+Achillea_millefolium	MG221369.1	26-DEC-2017	552	Canada: Ontario, Renfrew District, Petawawa, NEBIE field study site	primary	rbcL	45.9	-77.2833	0.000162589970956786
+Achillea_millefolium	MG221339.1	26-DEC-2017	549	Canada: Ontario, Parry Sound District, French River	primary	rbcL	46.0251	-80.5779	0.000163494025064095
+Achillea_millefolium	MG221242.1	26-DEC-2017	552	Canada: Ontario, Kenora, English River Forest	primary	rbcL	49.7667	-94.4667	0.000162589970956786
+Achillea_millefolium	MF349338.1	21-SEP-2017	539	USA: District of Columbia; Smithsonian Gardens, Butterfly Habitat Garden. Center aisle	primary	rbcL	38.869	-76.914	0.000166795294602177
+Achillea_millefolium	KX679015.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Campbell Lake Forest Service Road	primary	rbcL	50.046	-125.461	0.000162589970956786
+Achillea_millefolium	KX678518.1	29-APR-2017	548	Canada: British Columbia, East Kootenay Regional District, Dry Gulch Provincial Park	primary	rbcL	50.5862	-116.035	0.000163797615363201
+Achillea_millefolium	KX678429.1	29-APR-2017	542	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	rbcL	49.182	-119.091	0.000165643107626149
+Achillea_millefolium	KX678220.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, near Link Lake Forest Recreation Site, Kettle Valley Rail Trail	primary	rbcL	49.711	-120.231	0.000162589970956786
+Achillea_millefolium	HQ589934.1	09-NOV-2011	591	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., S of path, NE of pond towards red pine plantation	primary	rbcL	44.038	-79.513	0.000153870353937695
+Achillea_millefolium	KT695526.1	29-SEP-2015	549	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.000163699853790381
+Achillea_millefolium	KJ593180.1	17-MAR-2015	540	USA: Wisconsin, Mountain	primary	rbcL	45.147	-88.319	0.000109807478710675
+Achillea_millefolium	KJ593179.1	17-MAR-2015	535	USA: Wisconsin, Abrams	primary	rbcL	44.844	-88.072	0.000110367791799193
+Achillea_millefolium	KJ841079.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	rbcL	45.538	-73.158	0.000162589970956786
+Achillea_millefolium	KC481884.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, South Quadjuk Island, sandstone heads area	primary	rbcL	66.861	-107.91	0.000162589970956786
+Achillea_millefolium	KC481883.1	25-OCT-2013	552	Canada: Northwest Territories, Cape Bathurst Peninsula, 9 km SSW of Cape Bathurst along shores of the Arctic Ocean	primary	rbcL	70.497	-128.149	0.000162589970956786
+Achillea_millefolium	KC481882.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territoires, Tuktoyaktuk	primary	rbcL	69.45	-133.033	0.000162589970956786
+Achillea_millefolium	KC481881.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0.000162589970956786
+Achillea_millefolium	KC481880.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Middle Malcolm River, ridge crest	primary	rbcL	69.306	-140.492	0.000162589970956786
+Achillea_millefolium	KC481879.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Growing between Bethen High School and the Brown Building	primary	rbcL	63.733	-68.467	0.000162589970956786
+Achillea_millefolium	JN965215.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 5 km SE Churchill, Intersection of Goose Creek Rd and Canadian National Railway, Side of the railway	primary	rbcL	58.718	-94.124	0.000162589970956786
+Achillea_millefolium	JN965214.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	rbcL	58.626	-94.23	0.000162589970956786
+Achillea_millefolium	JN965213.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes burn site, Burn site 5 years after fire	primary	rbcL	58.617	-93.812	0.000162589970956786
+Achillea_millefolium	JN892238.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.00016585443607816
+Achillea_millefolium	OR670309.1	06-NOV-2023	568	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.000187116689856907
+Achillea_millefolium	OR381688.1	30-SEP-2023	538	Canada: Guelph, ON	secondary	rbcL	43.9725913911574	-80.986345055818	0.000110009955405607
+Achillea_millefolium	OR381687.1	30-SEP-2023	553	Canada: Guelph, ON	secondary	rbcL	43.0709419660366	-79.3300353810357	0.000162493619813137
+Achillea_millefolium	OQ446842.1	03-JUL-2023	538	Pakistan	secondary	rbcL	30.9819702282794	70.9375818304703	0.000137032108960191
+Achillea_millefolium	OQ189694.1	13-JUN-2023	772	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0.000220208448233864
+Achillea_millefolium	MT930346.1	03-MAR-2023	571	China	secondary	rbcL	34.5785996586806	105.755461969292	0.000186776920451644
+Achillea_millefolium	MT930345.1	03-MAR-2023	579	China	secondary	rbcL	34.4548099602618	104.231174244948	0.000761828277720093
+Achillea_millefolium	MT930344.1	03-MAR-2023	569	China	secondary	rbcL	35.8536727896512	104.705497050823	0.000186536862111616
+Achillea_millefolium	OP711641.1	26-DEC-2022	224	Mexico: Puebla	secondary	rbcL	19.1705686	-98.4123106	0
+Achillea_millefolium	MW459319.1	08-MAR-2021	698	Pakistan	secondary	rbcL	29.8299410895851	71.1084264459878	0.000318145734424406
+Achillea_millefolium	MN601429.1	15-DEC-2019	1425	USA	secondary	rbcL	39.7837304	-100.445882	0.000286061078600762
+Achillea_millefolium	MH360736.1	27-JUN-2018	1485	Pakistan	secondary	rbcL	29.9015242400523	71.801545076138	0.00398068189359242
+Achillea_millefolium	MG224044.1	26-DEC-2017	553	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Princess Point	secondary	rbcL	43.5265153016478	-78.8063948412432	0.000162493619813137
+Achillea_millefolium	MG223744.1	26-DEC-2017	552	Canada: Nova Scotia, Sable Island, Old Station.	secondary	rbcL	43.9353451	-59.929851	0.000162589970956786
+Achillea_millefolium	MG222156.1	26-DEC-2017	552	Canada: Ontario, Algoma Dist., S shore of Old Woman Bay, Lake Superior, ca. 16 mi S of Wawa.	secondary	rbcL	44.1343803178957	-78.1004975250711	0.000162589970956786
+Achillea_millefolium	MG222102.1	26-DEC-2017	553	Canada: Ontario, Norfolk County, Norfolk Twp., Carr Tract and Nursery Tract (St. Williams Forest), North Walsingham/South Walsingham Townline Road	secondary	rbcL	43.5322480046341	-76.9722476576904	0.000162493619813137
+Achillea_millefolium	MG221388.1	26-DEC-2017	552	Canada: Ontario, Bruce Co., Lindsay Tp, Cabot Head ANSI (Lindsay Twp portion), G.Bay shore, Niagara Escarp. Slope+plain, incl. 4 major promontories, ca. 27km ESE of Tobermory.	secondary	rbcL	43.7986543569674	-78.8102031986051	0.000162589970956786
+Achillea_millefolium	MG221282.1	26-DEC-2017	552	Canada: Ontario, Norfolk Co., Long Point, Lake Erie.	secondary	rbcL	43.3470242804287	-78.6199698888634	0.000162589970956786
+Achillea_millefolium	KJ746261.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00206031711801889
+Achillea_millefolium	KJ204288.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	45.8428477589597	6.54689645345602	0.000162881130423662
+Achillea_millefolium	KJ204287.1	29-JAN-2015	544	Switzerland: Geneva	secondary	rbcL	45.8673698426826	5.06470656830296	0.00016439885699374
+Achillea_millefolium	HG416958.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.000129269130701122
+Achillea_millefolium	JX848399.1	06-AUG-2013	1382	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.000289341875242546
+Achillea_millefolium	HM849740.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00198772019989324
+Achillea_millefolium	JN892863.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.00016585443607816
+Achillea_millefolium	JN892857.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00016585443607816
+Achillea_millefolium	JN890717.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00016585443607816
+Achillea_millefolium	HE574579.1	31-JUL-2011	546	Finland	secondary	rbcL	63.2467777	25.9209164	0.00311349079168513

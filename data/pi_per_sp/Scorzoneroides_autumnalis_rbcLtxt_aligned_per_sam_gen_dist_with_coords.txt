@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scorzoneroides_autumnalis	MG223828.1	26-DEC-2017	552	Canada: Guelph	primary	rbcL	43.5485	-80.2503	0.000228937728937729
+Scorzoneroides_autumnalis	MG222254.1	26-DEC-2017	552	Canada: Quebec, Lac Nicolet, Quebec	primary	rbcL	45.828	-71.565	0.000228937728937729
+Scorzoneroides_autumnalis	MG222172.1	26-DEC-2017	551	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay, pres du chemin de fer	primary	rbcL	45.514	-73.735	0.000229357798165138
+Scorzoneroides_autumnalis	MG221866.1	26-DEC-2017	552	Canada: Port Perry, On	primary	rbcL	44.1019	-78.9468	0.000228937728937729
+Scorzoneroides_autumnalis	KJ841562.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Edge of road between Gault House and park entrance	primary	rbcL	45.54	-73.154	0.000228102189781022
+Scorzoneroides_autumnalis	JN893525.1	07-MAR-2012	513	United Kingdom: Shetland (112)	primary	rbcL	60.4	-1.38	0.000243664717348928
+Scorzoneroides_autumnalis	JN891885.1	07-MAR-2012	503	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000252016129032258
+Scorzoneroides_autumnalis	JN890754.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000233644859813084
+Scorzoneroides_autumnalis	HE574613.1	31-JUL-2011	554	Finland	secondary	rbcL	63.2467777	25.9209164	0.00187359888095362

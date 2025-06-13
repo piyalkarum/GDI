@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Malva_parviflora	JQ412263.1	16-JAN-2013	756	South Africa: Western Cape, Cape Town, Robben Island	primary	matK	-33.81	18.379	0.00290313248571521
+Malva_parviflora	OQ390721.1	24-MAY-2023	739	Peru	secondary	matK	-6.98385459031793	-74.9090626112823	0.00280211024774703
+Malva_parviflora	OQ390720.1	24-MAY-2023	806	Peru	secondary	matK	-6.68613814919153	-75.8668450490234	0.00264119701459855
+Malva_parviflora	ON981843.1	17-OCT-2022	848	Kenya	secondary	matK	1.4419683	38.4313975	0.00786104053067636
+Malva_parviflora	HM850995.1	23-JUL-2011	804	Portugal	secondary	matK	39.6621648	-8.1353519	0.00359583214605301

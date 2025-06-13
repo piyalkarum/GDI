@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viburnum_lantana	MG224256.1	26-DEC-2017	553	Canada: Ontario, Wellington County, City of Guelph, Stone Road and Eramosa River, Old Jail Quarry	primary	rbcL	43.5485	-80.2503	0
+Viburnum_lantana	MG221397.1	26-DEC-2017	553	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay (Ile-aux-Chats)	primary	rbcL	45.516	-73.757	0
+Viburnum_lantana	JN891679.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.24	0
+Viburnum_lantana	HQ619743.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0
+Viburnum_lantana	KX163064.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Viburnum_lantana	KJ204424.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0
+Viburnum_lantana	JN891150.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Viburnum_lantana	JN890844.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0

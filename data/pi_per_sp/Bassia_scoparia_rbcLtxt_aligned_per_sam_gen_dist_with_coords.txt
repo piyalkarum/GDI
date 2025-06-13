@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bassia_scoparia	OQ832176.1	15-AUG-2023	553	USA: American Prairie Sun Prairie Unit	primary	rbcL	47.7986	-107.7881	0.170056207992545
+Bassia_scoparia	MG249426.1	21-JAN-2018	552	Canada: Northwest Territories, Frontier Trail, Highway 3, about 26 km W of Yellowknife	primary	rbcL	62.515	-114.858	0.169976357829806
+Bassia_scoparia	MG248876.1	21-JAN-2018	552	Canada: British Columbia, Thompson-Okanagan, Hat Creek, road 46 at kilometre 2, bridge crossing roadside	primary	rbcL	50.787	-121.608	0.169812819148031
+Bassia_scoparia	MG245886.1	21-JAN-2018	552	Canada: Saskatchewan, Saskatoon, Kiwanis Park, South Saskatchewan River	primary	rbcL	52.124	-106.659	0.169812819148031
+Bassia_scoparia	KX678668.1	29-APR-2017	552	Canada: British Columbia, Thompson-Nicola Regional District, Spence's Bridge, weed along roadsides, railroads and waste ground	primary	rbcL	50.414	-121.36	0.169812819148031
+Bassia_scoparia	OR670304.1	06-NOV-2023	577	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.168671200732949
+Bassia_scoparia	MT931111.1	03-MAR-2023	567	China	secondary	rbcL	35.000074	104.999927	0.16972867485254
+Bassia_scoparia	MG246223.1	21-JAN-2018	552	Canada: Saskatchewan, Caron, 3.4 km N of Highway 1 opposite Besant Campground at old Spearman farm.	secondary	rbcL	53.1869562	-105.7210493	0.169812819148031
+Bassia_scoparia	KF785932.1	21-AUG-2014	673	USA: New Mexico, Dona Ana	secondary	rbcL	32.32817	-106.849423	0.450637151443984
+Bassia_scoparia	KF785931.1	21-AUG-2014	673	Austria: Vienna, Prater, Hafenstrasse	secondary	rbcL	48.2083537	16.3725042	0.450637151443984
+Bassia_scoparia	HM629993.1	03-APR-2011	684	USA: Colorado, Fort Collins, foothill	secondary	rbcL	39.1183446	-108.6853496	0.453854890288577

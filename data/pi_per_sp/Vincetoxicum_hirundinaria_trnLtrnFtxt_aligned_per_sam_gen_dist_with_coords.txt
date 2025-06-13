@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vincetoxicum_hirundinaria	MF578989.1	01-JUL-2018	827	Germany	secondary	trnL-trnF	34.895926	-83.4665496	0.00090689238210399
+Vincetoxicum_hirundinaria	AJ410276.1	04-JAN-2002	371	Germany: Bavaria	secondary	trnL-trnF	48.9467562	11.4038717	0
+Vincetoxicum_hirundinaria	OP776178.1	13-MAY-2023	867	Romania	secondary	trnL-trnF	46.2246329	24.5761141	0.00030229746070133
+Vincetoxicum_hirundinaria	OP776176.1	13-MAY-2023	867	Romania	secondary	trnL-trnF	44.9654851	28.4346997	0.00030229746070133
+Vincetoxicum_hirundinaria	OP776173.1	13-MAY-2023	867	Romania	secondary	trnL-trnF	47.1659243	27.1737967	0.00030229746070133

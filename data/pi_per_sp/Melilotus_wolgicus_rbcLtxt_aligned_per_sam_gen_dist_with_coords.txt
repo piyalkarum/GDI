@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melilotus_wolgicus	MN533485.1	28-OCT-2019	754	China	secondary	rbcL	35.1146144895551	105.385535376372	0
+Melilotus_wolgicus	MN533484.1	28-OCT-2019	754	China	secondary	rbcL	34.4128005494223	104.489371603977	0
+Melilotus_wolgicus	MN533483.1	28-OCT-2019	754	China	secondary	rbcL	35.0626761638281	104.336666377788	0
+Melilotus_wolgicus	MN533482.1	28-OCT-2019	754	China	secondary	rbcL	35.2566149903224	104.851374866524	0
+Melilotus_wolgicus	MN533481.1	28-OCT-2019	754	USA	secondary	rbcL	40.0913793712342	-101.230813191327	0
+Melilotus_wolgicus	MN533480.1	28-OCT-2019	678	China	secondary	rbcL	35.2720773029368	105.239197638236	0
+Melilotus_wolgicus	MN533479.1	28-OCT-2019	754	China	secondary	rbcL	35.3658169286455	104.683448451694	0
+Melilotus_wolgicus	MN532728.1	28-OCT-2019	754	USA	secondary	rbcL	39.8604804874413	-100.919888769925	0
+Melilotus_wolgicus	MN532727.1	28-OCT-2019	754	USA	secondary	rbcL	39.8695949677385	-100.986994479963	0
+Melilotus_wolgicus	MG249746.1	21-JAN-2018	552	Canada: Saskatchewan, LSD 14 in 17-3605 W 3rd. Along S. Sask. R. composed of fill, 1/4-3/8 mi downstream from Grand Trunk bridge	secondary	rbcL	53.1869562	-105.7210493	0

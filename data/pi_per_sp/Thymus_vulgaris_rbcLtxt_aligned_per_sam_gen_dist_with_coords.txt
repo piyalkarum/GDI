@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_vulgaris	ON684525.1	21-AUG-2022	1434	Portugal: Carreco, Viana do Castelo	primary	rbcL	41.74094	-8.86552	0.0105472544619245
+Thymus_vulgaris	ON684504.1	21-AUG-2022	1434	Portugal: Utopia, Pedreira, Povoa do Lanhoso	primary	rbcL	41.61855	-8.32338	0.0105472544619245
+Thymus_vulgaris	HE819504.1	22-MAY-2013	599	France	primary	rbcL	43.93	7.31	0.0110177080929211
+Thymus_vulgaris	HE819503.1	22-MAY-2013	599	Italy:Liguria	primary	rbcL	44.22	9.5	0.0110177080929211
+Thymus_vulgaris	HE819502.1	22-MAY-2013	599	Italy:Lazio	primary	rbcL	41.29	13.25	0.0110177080929211
+Thymus_vulgaris	ON755113.1	14-MAR-2023	654	Egypt	secondary	rbcL	26.1283068022666	29.8942377638112	0.0657470737583948
+Thymus_vulgaris	ON755087.1	14-MAR-2023	651	Egypt	secondary	rbcL	25.9320602134812	29.7242663711222	0.0139142988785769
+Thymus_vulgaris	MN972464.1	03-JUN-2020	577	Egypt	secondary	rbcL	30.0443879	31.2357257	0.0121838084996471

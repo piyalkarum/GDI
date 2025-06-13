@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_humilis	ON569772.1	14-JAN-2023	854	Russia: Altai Republic, Kosh-Agach District, mouth of Tydtugem River	primary	trnL-trnF	50.1873	88.124	0.000152733937480908
+Iris_humilis	ON569771.1	14-JAN-2023	854	Russia: Altai Republic, Kosh-Agach District, between Kurai and Chagan-Uzun	primary	trnL-trnF	50.1694	88.2086	0.000152733937480908
+Iris_humilis	ON569770.1	14-JAN-2023	854	Russia: Altai Republic, Ongudaysky District, Ak-Boom Rock	primary	trnL-trnF	50.3536	87.0569	0.000152733937480908
+Iris_humilis	ON569769.1	14-JAN-2023	854	Russia: Altai Republic, Ongudaysky District, confluence of Chuya and Katun Rivers	primary	trnL-trnF	50.397	86.674	0.000152733937480908
+Iris_humilis	ON569768.1	14-JAN-2023	854	Russia: Altai Republic, Ongudaysky District, Ak-Boom Rock	primary	trnL-trnF	50.2143	87.3249	0.000152733937480908
+Iris_humilis	ON569767.1	14-JAN-2023	855	Hungary: Bugac	primary	trnL-trnF	46.6594	19.5988	0.00106919724737514
+Iris_humilis	ON569766.1	14-JAN-2023	854	Hungary: Csakvar	primary	trnL-trnF	47.3933	18.4605	0.00106919724737514
+Iris_humilis	ON569765.1	14-JAN-2023	854	Hungary: Gyorszentivan	primary	trnL-trnF	47.6978	17.7364	0.00106919724737514
+Iris_humilis	ON569764.1	14-JAN-2023	854	Mongolia: Khuvsgul Aimag, near Khuvsgul Lake	primary	trnL-trnF	50.567	100.467	0.000152733937480908
+Iris_humilis	ON569763.1	14-JAN-2023	853	Mongolia: Khuvsgul Aimag, Khatgal Sum	primary	trnL-trnF	50.6192	100.512	0.000152912992507263
+Iris_humilis	ON569762.1	14-JAN-2023	854	Russia: Tuva, near Dus-Khol Lake	primary	trnL-trnF	51.356	94.4469	0.000152733937480908
+Iris_humilis	ON569761.1	14-JAN-2023	854	Russia: Tuva, Tandinsky District	primary	trnL-trnF	51.3556	94.454	0.000152733937480908
+Iris_humilis	ON569760.1	14-JAN-2023	854	Russia: Altai Krai, Bayevsky District	primary	trnL-trnF	53.5	80.45	0.000152733937480908
+Iris_humilis	ON569759.1	14-JAN-2023	854	Russia: Amur Oblast, Novotroitskoe	primary	trnL-trnF	50.4994	127.5533	0.000152733937480908
+Iris_humilis	ON569758.1	14-JAN-2023	854	Russia: Buryatia, Kyakhtinsky District, Chikoy River	primary	trnL-trnF	50.4494	106.91	0.000152733937480908
+Iris_humilis	ON569757.1	14-JAN-2023	854	Russia: Buryatia, Tunkinsky District, Mondy	primary	trnL-trnF	51.6976	100.8677	0.000152733937480908
+Iris_humilis	ON569756.1	14-JAN-2023	854	Russia: Buryatia, Bichursky District, Bichura	primary	trnL-trnF	50.6289	107.6647	0.000152733937480908
+Iris_humilis	ON569755.1	14-JAN-2023	854	Russia: Buryatia, Tarbagataysky District	primary	trnL-trnF	51.5383	107.3461	0.000152733937480908
+Iris_humilis	ON569754.1	14-JAN-2023	854	Russia: Zabaykalsky Krai,Lesnoi Gorodok	primary	trnL-trnF	51.667	112.9817	0.000152733937480908
+Iris_humilis	ON569753.1	14-JAN-2023	854	Russia: Zabaykalsky Krai, Ingoda	primary	trnL-trnF	51.8306	113.0864	0.000152733937480908
+Iris_humilis	ON569752.1	14-JAN-2023	854	Russia: Zabaykalsky Krai, Ingoda River	primary	trnL-trnF	51.7472	113.8464	0.000152733937480908
+Iris_humilis	ON569751.1	14-JAN-2023	854	Russia: Belgorod Oblast, Urazovo	primary	trnL-trnF	50.0786	38.048	0.000152733937480908
+Iris_humilis	ON569750.1	14-JAN-2023	854	Ukraine: Cherkasy Oblast, Irdyn	primary	trnL-trnF	49.3692	31.6792	0.000152733937480908
+Iris_humilis	ON569749.1	14-JAN-2023	854	Ukraine: Poltava Oblast, Deimanivka	primary	trnL-trnF	50.2167	32.6339	0.000152733937480908

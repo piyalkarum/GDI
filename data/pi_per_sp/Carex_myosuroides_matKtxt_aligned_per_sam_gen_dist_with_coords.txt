@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_myosuroides	MZ400465.1	07-DEC-2021	733	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00454802146722784
+Carex_myosuroides	FJ548149.1	25-AUG-2009	732	Canada: Nunavut, Victoria Island, Franklin District, Mount Bumpus	primary	matK	69.48	-112.05	0.00276465684912476
+Carex_myosuroides	FJ548148.1	25-AUG-2009	732	Canada: Nunavut, Baffin Island, Iqaluit, between Graveyard and Apex beside the upper trail and near Upper Tundra Valley	primary	matK	63.75	-68.52	0.002766055294054
+Carex_myosuroides	FJ548147.1	25-AUG-2009	733	Canada: Nunavut, Ellesmere Island, Vendom Fiord	primary	matK	78.07	-82.8	0.00948385290339077
+Carex_myosuroides	FJ548146.1	25-AUG-2009	728	Canada: Nunavut, Baffin Island	primary	matK	71.89	-80.85	0.00278144686039423
+Carex_myosuroides	KC474929.1	25-OCT-2013	774	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Castle Butte, slopes approaching from west side of Hornaday River	primary	matK	68.2361	-121.781	0.00284699113948698
+Carex_myosuroides	KC474928.1	25-OCT-2013	775	Canada: Nunavut, Nunavut Mainland, Rankin Inlet, Meliadine River Park	primary	matK	62.52	-92.08	0.00284599088942447
+Carex_myosuroides	KC474927.1	25-OCT-2013	776	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.644	-115.493	0.00818837842731898
+Carex_myosuroides	KC474926.1	25-OCT-2013	774	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	matK	70.735	-117.761	0.00284699113948698
+Carex_myosuroides	JN966345.1	27-OCT-2012	714	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	matK	58.769	-93.856	0.0114040056338617
+Carex_myosuroides	KJ513622.1	06-SEP-2014	1289	Canada	secondary	matK	61.0666922	-107.991707	0.00284499321732603

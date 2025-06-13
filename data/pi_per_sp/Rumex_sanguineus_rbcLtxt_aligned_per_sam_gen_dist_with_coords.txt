@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_sanguineus	MG246738.1	21-JAN-2018	522	Canada: British Columbia, Vancouver Island, Dist of N Saanich, Swartz Bay, 1.3 km SW of, N side Marina Way, 300 m E of McDonald Park Road	primary	rbcL	48.676	-123.421	0.000326157860404436
+Rumex_sanguineus	MG246503.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, District of North Saanich, vacant lot west of 1839 Marina Way	primary	rbcL	48.675	-123.422	0.000308071472581639
+Rumex_sanguineus	MG246104.1	21-JAN-2018	521	Canada: British Columbia, Salt Spring Island, Ganges, Japanese Garden between Seaview Avenue and McPhillips Avenue	primary	rbcL	48.852	-123.502	0.000326797385620915
+Rumex_sanguineus	JN892149.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.76	-3.39	0.00030750307503075
+Rumex_sanguineus	JN892660.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00030750307503075
+Rumex_sanguineus	JN892658.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00188353594369924
+Rumex_sanguineus	JN891138.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00030750307503075

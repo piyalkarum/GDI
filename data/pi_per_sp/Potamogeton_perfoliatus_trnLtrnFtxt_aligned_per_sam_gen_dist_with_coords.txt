@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_perfoliatus	MN481447.1	10-MAR-2020	987	Switzerland:Cartigny, Moulin de Vert	secondary	trnL-trnF	46.1785081	6.0268252	0.00496277915632754
+Potamogeton_perfoliatus	AB744020.1	19-FEB-2013	404	Japan	secondary	trnL-trnF	36.5748441	139.2394179	0.00496277915632754
+Potamogeton_perfoliatus	EF432109.1	28-FEB-2008	403	China	secondary	trnL-trnF	34.364500624381	104.654883308251	0.0198511166253102
+Potamogeton_perfoliatus	EF432095.1	28-FEB-2008	404	China	secondary	trnL-trnF	34.9076376861015	105.178744778304	0.00496277915632754
+Potamogeton_perfoliatus	EF432073.1	28-FEB-2008	404	China	secondary	trnL-trnF	35.1502569739351	105.479251093987	0.00496277915632754

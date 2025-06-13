@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spiraea_salicifolia	KP088381.1	15-MAR-2015	912	China	secondary	ycf1	40.1362823775815	115.814142011986	0.00475146198830409
+Spiraea_salicifolia	KP088131.1	15-MAR-2015	912	China	secondary	ycf1	40.6898950047136	115.858530646674	0.00255847953216374
+Spiraea_salicifolia	KP088130.1	15-MAR-2015	912	China	secondary	ycf1	40.6563949795484	115.752412185309	0.00255847953216374
+Spiraea_salicifolia	KP088129.1	15-MAR-2015	912	China	secondary	ycf1	40.5437726241553	117.08760265023	0.00255847953216374

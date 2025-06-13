@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_lupinaster	OR738284.1	13-NOV-2023	795	Kazakhstan: Kostanay region	primary	matK	53.1109	63.55593	0.0245381094256572
+Trifolium_lupinaster	OR644017.1	05-NOV-2023	681	Kazakhstan: Qaragandy region	primary	matK	49.43775	75.48958	0.0193145159530714
+Trifolium_lupinaster	MT946462.1	03-MAR-2023	769	China	secondary	matK	35.1188977623288	104.622161999757	0.0182122345036844
+Trifolium_lupinaster	MT946461.1	03-MAR-2023	769	China	secondary	matK	35.088121437512	104.654259798207	0.0182122345036844
+Trifolium_lupinaster	MT946460.1	03-MAR-2023	770	China	secondary	matK	35.1319450863816	105.911426666559	0.0291987110326186

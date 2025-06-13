@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_aparine	LR997859.1	06-JAN-2022	346	Estonia:Parnu maakond, Laelatu	primary	18S rRNA	58.690455043288	22.4116225598365	0.01252408477842
+Galium_aparine	LR997858.1	06-JAN-2022	346	Estonia:Parnu maakond, Laelatu	primary	18S rRNA	58.4242170893744	24.3575084591852	0.00867052023121387
+Galium_aparine	LR996261.1	06-JAN-2022	346	Estonia:Parnu maakond, Laelatu	primary	18S rRNA	59.0809489559273	23.0907071159373	0.0183044315992293
+Galium_aparine	LR996260.1	06-JAN-2022	346	Estonia:Parnu maakond, Laelatu	primary	18S rRNA	58.5828410598553	24.8008326800911	0.00867052023121387

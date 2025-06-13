@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_norvegica	GU202846.1	28-DEC-2009	319	United Kingdom: Scotland, Ben Lawers, Mid-rutin	primary	trnL-trnF	56.5438	-4.22107	0.00210970464135021
+Draba_norvegica	GU202845.1	28-DEC-2009	319	United Kingdom: Scotland, Ben Lawers, Perthshire, 3600ft Rocky ground	primary	trnL-trnF	56.5461	-4.21722	0.00210970464135021
+Draba_norvegica	GU202844.1	28-DEC-2009	319	Norway: Jan Mayen, Guinea Bay, edge of small freshwater lagoon	primary	trnL-trnF	70.896	9.02208	0.00210970464135021
+Draba_norvegica	GU202634.1	28-DEC-2009	322	Iceland	primary	trnL-trnF	64.8254	-14.5322	0.00632911392405063

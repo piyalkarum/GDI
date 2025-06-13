@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Serratula_tinctoria	AJ868086.1	31-OCT-2005	218	Spain:Cantabria	secondary	ITS	43.2060316319487	-3.69042340386185	0.39528710473618
+Serratula_tinctoria	AJ868085.1	31-OCT-2005	254	Spain:Cantabria	secondary	ITS	42.9718907202103	-4.4957456601542	0.393487616078447
+Serratula_tinctoria	AJ868083.1	31-OCT-2005	218	Portugal	secondary	ITS	39.1964549868123	-8.3028014448795	0.398671199490833
+Serratula_tinctoria	AJ868082.1	31-OCT-2005	254	Portugal	secondary	ITS	39.4896220543906	-8.34538992182467	0.393487616078447

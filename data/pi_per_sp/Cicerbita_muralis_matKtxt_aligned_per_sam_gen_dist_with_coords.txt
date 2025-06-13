@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cicerbita_muralis	KX677649.1	09-AUG-2017	786	Canada: British Columbia, Squamish-Lillooet Regional District, near Whistler, Madeley Lake Forest Service Road	primary	matK	50.175	-123.124	0.000669406616004997
+Cicerbita_muralis	KX677311.1	09-AUG-2017	824	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road	primary	matK	49.489	-120.95	0.000655416755967255
+Cicerbita_muralis	KX677151.1	09-AUG-2017	786	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	matK	49.376	-122.862	0.000669406616004997
+Cicerbita_muralis	KX677059.1	09-AUG-2017	786	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	matK	50.045	-125.501	0.000669406616004997
+Cicerbita_muralis	KX676561.1	09-AUG-2017	766	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Baden Powell trail	primary	matK	49.334	-122.954	0.00167588826300811
+Cicerbita_muralis	MG225273.1	21-JAN-2018	783	Canada: Ontario, City of Toronto, City of Toronto, The Beaches, in a small wooded ravine	primary	matK	43.679	-79.317	0.000484977208205205
+Cicerbita_muralis	KP210401.1	28-NOV-2015	731	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Near maintenance parking lot	primary	matK	45.538	-73.155	0.00171427667221273
+Cicerbita_muralis	JN895973.1	07-MAR-2012	956	United Kingdom: Monmouthshire	primary	matK	51.65	-2.89	0.000442867352938462
+Cicerbita_muralis	HE970719.1	18-SEP-2012	734	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.000502846941492922
+Cicerbita_muralis	JN895949.1	07-MAR-2012	748	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000376030907269013
+Cicerbita_muralis	JN894231.1	07-MAR-2012	939	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00273016583384796
+Cicerbita_muralis	AJ633236.1	10-OCT-2004	970	Germany:Saxonia	secondary	matK	50.9295798	13.4585052	0.00128628547415547

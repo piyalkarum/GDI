@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_diffusa	MG224346.1	26-DEC-2017	552	Canada: British Columbia, Spence's Bridge	primary	rbcL	50.403	-121.378	0
+Centaurea_diffusa	MG223651.1	26-DEC-2017	552	Canada: British Columbia, Gilpin	primary	rbcL	49.007	-118.272	0
+Centaurea_diffusa	MG221443.1	26-DEC-2017	552	Canada: Ontario, Niagara County, Fort Erie railway yard	primary	rbcL	42.928	-78.923	0
+Centaurea_diffusa	KX678050.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	rbcL	49.1818	-119.091	0

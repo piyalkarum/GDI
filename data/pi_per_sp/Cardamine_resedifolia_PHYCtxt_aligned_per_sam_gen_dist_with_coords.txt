@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_resedifolia	LC080775.1	31-OCT-2017	3581	Switzerland	secondary	PHYC	46.6485773	6.4552338	0.00667779632721202
+Cardamine_resedifolia	LC080774.1	31-OCT-2017	3581	France	secondary	PHYC	45.5851382	2.7436629	0.00667779632721202
+Cardamine_resedifolia	AB607797.1	21-DEC-2011	599	Spain	secondary	PHYC	42.5762878	1.0884847	0.00667779632721202
+Cardamine_resedifolia	AB607796.1	21-DEC-2011	599	France	secondary	PHYC	42.2616766	9.0821424	0.00667779632721202

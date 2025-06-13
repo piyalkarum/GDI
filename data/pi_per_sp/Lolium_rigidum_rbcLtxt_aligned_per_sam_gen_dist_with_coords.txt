@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lolium_rigidum	MG227117.1	23-JAN-2018	505	Canada: Manitoba, Growing on cultivated land at Experimental Farm, Brandon. Seed introduced with sweet clover seed from Victoria, N.S.W.	secondary	rbcL	50.9959116	-98.7987473049144	0.00115737522523969
+Lolium_rigidum	KX282860.1	28-MAY-2017	569	Kuwait	secondary	rbcL	-0.115509413242491	36.2998180652703	0.00131639720654403
+Lolium_rigidum	KX282859.1	28-MAY-2017	576	Kuwait	secondary	rbcL	-0.476528087049086	34.9940877445618	0.00236010940389294
+Lolium_rigidum	KX282858.1	28-MAY-2017	576	Kuwait	secondary	rbcL	0.507266321828062	35.5817744148686	0.00258691572155273
+Lolium_rigidum	KT438980.1	23-SEP-2016	632	Morocco	secondary	rbcL	28.3347722	-10.3713379	0.00159851414892264
+Lolium_rigidum	KT438979.1	23-SEP-2016	632	Spain	secondary	rbcL	39.3260685	-4.8379791	0.00152977380159259
+Lolium_rigidum	KJ599221.1	21-SEP-2014	559	Australia: Victoria	secondary	rbcL	-36.5986096	144.6780052	0.0015584313361029
+Lolium_rigidum	HM850133.1	23-JUL-2011	655	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00157259068365515

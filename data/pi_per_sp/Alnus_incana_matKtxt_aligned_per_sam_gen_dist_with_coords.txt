@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alnus_incana	KX677650.1	09-AUG-2017	803	Canada: British Columbia, Okanagan-Similkameen Regional District, Fairview Rd., travelling from Cawston to Oliver	primary	matK	49.218	-119.682	0.00669373055058887
+Alnus_incana	KX677393.1	09-AUG-2017	778	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail near Link Lake Forest Recreation Site	primary	matK	49.7109	-120.231	0.00622030042734753
+Alnus_incana	KX676920.1	09-AUG-2017	781	Canada: British Columbia, East Kootenay Regional District, near Invermere, Panorama Rd, campsite pulloff near river	primary	matK	50.4437	-116.259	0.00674383347929693
+Alnus_incana	KJ592842.1	17-MAR-2015	762	USA: Wisconsin, Blackwell	primary	matK	45.552	-88.577	0.00841152363670021
+Alnus_incana	MN531432.1	09-MAR-2020	691	Germany: Grosshansdorf	secondary	matK	53.6635561	10.2835977	0.0162235748409786
+Alnus_incana	HQ600561.1	23-JUL-2011	742	France: Savoie, Beaufort, Areches	secondary	matK	45.6878948	6.5647529	0.0115725039874007
+Alnus_incana	KJ204437.1	29-JAN-2015	657	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0124150958527665
+Alnus_incana	HM850705.1	23-JUL-2011	614	Portugal	secondary	matK	39.6621648	-8.1353519	0.00993820299711365
+Alnus_incana	FJ844600.1	12-APR-2010	679	USA: Arnold Arboretum	secondary	matK	42.299438	-71.1226049	0.0135301607346032

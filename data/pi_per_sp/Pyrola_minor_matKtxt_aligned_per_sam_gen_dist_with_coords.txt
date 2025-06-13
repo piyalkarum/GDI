@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pyrola_minor	MZ400442.1	07-DEC-2021	831	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00328297206733161
+Pyrola_minor	KX676776.1	09-AUG-2017	768	Canada: British Columbia, Okanagan-Similkameen Regional District, Manning Park, Road to Sub-Alpine Meadows	primary	matK	49.0792	-120.769	0.0101120989642529
+Pyrola_minor	JN894990.1	07-MAR-2012	831	United Kingdom: Monmouthshire	primary	matK	51.69	-2.71	0.00328297206733161
+Pyrola_minor	JN894852.1	07-MAR-2012	816	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00423003377590548
+Pyrola_minor	JN894288.1	07-MAR-2012	806	United Kingdom: Anglesey	secondary	matK	53.2782257	-4.331344	0.00300779623492293

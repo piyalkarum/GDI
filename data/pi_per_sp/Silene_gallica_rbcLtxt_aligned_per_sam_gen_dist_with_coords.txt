@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_gallica	MG249637.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Victoria, Oak Bay, Trial Island, west side near landing	primary	rbcL	48.4	-123.3	0.000231053604436229
+Silene_gallica	JN892746.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.19	-4.39	0.00185333897833301
+Silene_gallica	OQ172686.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.5325169327551	127.782068209084	0.000230627306273063
+Silene_gallica	OQ172685.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.5280255512288	127.823782141304	0.000230627306273063
+Silene_gallica	OQ172684.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.0044915150071	128.011796740216	0.000230627306273063
+Silene_gallica	OQ172683.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.0684315709374	128.65996228395	0.000230627306273063
+Silene_gallica	HM850354.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000238095238095238
+Silene_gallica	JN891514.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000230627306273063
+Silene_gallica	JN891513.1	07-MAR-2012	541	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.000231053604436229

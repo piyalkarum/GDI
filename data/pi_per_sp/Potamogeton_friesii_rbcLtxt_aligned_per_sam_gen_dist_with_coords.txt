@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_friesii	MF694555.1	04-SEP-2018	513	Canada: Ontario, 200 metres east of water purification plant along south shore of Ottawa River, Britannia Conservation Area, Regional Municipality of Ottawa-Carleton	primary	rbcL	45.0607625595535	-76.5774628129921	0.49529539295393
+Potamogeton_friesii	MF694629.1	04-SEP-2018	553	Canada: Ontario, 200 metres east of water purification plant along south shore of Ottawa River, Britannia Conservation Area, Regional Municipality of Ottawa-Carleton	primary	rbcL	44.7279609472481	-76.2171532114832	0.100353997611122
+Potamogeton_friesii	MF694612.1	04-SEP-2018	552	Canada: Yukon Territory, Nordenskiold River wetland pond #33	primary	rbcL	61.892	-136.133	0.101676810701242
+Potamogeton_friesii	MG226952.1	23-JAN-2018	552	Canada: Yukon Territory, Larsen Creek, Lee's Lake	primary	rbcL	60.175	-125.125	0.10019806763285
+Potamogeton_friesii	JN891637.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	primary	rbcL	52.69	-3.11	0.100199284315142
+Potamogeton_friesii	JN891792.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0.100199284315142

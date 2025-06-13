@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthriscus_sylvestris	KY710828.1	25-FEB-2018	313	Turkey: Kutahya	secondary	trnL-trnF	39.2522508	29.4937732	0.00490812423083219
+Anthriscus_sylvestris	KY710827.1	25-FEB-2018	313	Turkey: Amasya	secondary	trnL-trnF	40.6503248	35.8329148	0.00906451006662585
+Anthriscus_sylvestris	KY710826.1	25-FEB-2018	313	Turkey: Konya	secondary	trnL-trnF	37.872734	32.4924376	0.00906451006662585
+Anthriscus_sylvestris	KY710825.1	25-FEB-2018	313	Turkey: Ankara	secondary	trnL-trnF	39.9207759	32.8540497	0.00642251335245012
+Anthriscus_sylvestris	KY710824.1	25-FEB-2018	313	Turkey: Bilecik	secondary	trnL-trnF	40.1435101	29.9752911	0.00642251335245012
+Anthriscus_sylvestris	KY710823.1	25-FEB-2018	313	Turkey: Bayburt	secondary	trnL-trnF	40.2023027	40.2121599	0.00887657546786622
+Anthriscus_sylvestris	KY710822.1	25-FEB-2018	313	Turkey: Ardahan	secondary	trnL-trnF	41.2412883246184	42.3367221246331	0.00490812423083219
+Anthriscus_sylvestris	KY710821.1	25-FEB-2018	313	Turkey: Erzincan	secondary	trnL-trnF	39.6073429	39.2013209	0.0196215845917879
+Anthriscus_sylvestris	KY710820.1	25-FEB-2018	313	Turkey: Artvin	secondary	trnL-trnF	40.9514356447672	40.9111709040811	0.00490812423083219
+Anthriscus_sylvestris	KY710819.1	25-FEB-2018	313	Turkey: Artvin	secondary	trnL-trnF	41.9358195070514	41.4190422138663	0.00490812423083219
+Anthriscus_sylvestris	KY710818.1	25-FEB-2018	313	Turkey: Sivas	secondary	trnL-trnF	39.4191717	37.1012388	0.00490812423083219
+Anthriscus_sylvestris	KY710817.1	25-FEB-2018	313	Turkey: Artvin	secondary	trnL-trnF	42.0043147465545	41.4768140728968	0.00736218634624828
+Anthriscus_sylvestris	KY710802.1	25-FEB-2018	310	Turkey: Bolu	secondary	trnL-trnF	40.6212099	31.6460259	0.0079696394686907
+Anthriscus_sylvestris	KY710801.1	25-FEB-2018	310	Turkey: Ardahan	secondary	trnL-trnF	41.6715068708113	42.4441779521512	0.0079696394686907
+Anthriscus_sylvestris	KY710800.1	25-FEB-2018	310	Turkey: Artvin	secondary	trnL-trnF	41.1293349298501	41.6685688389225	0.00759013282732448
+Anthriscus_sylvestris	KY710799.1	25-FEB-2018	310	Turkey: Kars	secondary	trnL-trnF	41.0143880205744	42.1309436216961	0.00759013282732448
+Anthriscus_sylvestris	KY710798.1	25-FEB-2018	310	Turkey: Igdir	secondary	trnL-trnF	41.2260175	33.1373214	0.00759013282732448
+Anthriscus_sylvestris	KY710797.1	25-FEB-2018	310	Turkey: Kars	secondary	trnL-trnF	40.068351170933	42.6359677095151	0.00759013282732448

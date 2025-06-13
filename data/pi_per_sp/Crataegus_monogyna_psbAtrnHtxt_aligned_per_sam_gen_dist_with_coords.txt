@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crataegus_monogyna	MF348670.1	21-SEP-2017	349	USA: Maryland; USDA South Farm, S of I-95 &38; W of Cherry Hill Road	primary	psbA-trnH	39.014	-76.941	0.00470510909120056
+Crataegus_monogyna	HE966585.1	18-SEP-2012	239	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00697350069735007
+Crataegus_monogyna	FJ493304.1	22-DEC-2008	401	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.00500676179312156
+Crataegus_monogyna	FN687519.1	16-MAR-2010	394	Italy:Umbria	secondary	psbA-trnH	42.965916	12.490236	0.00448575312033104

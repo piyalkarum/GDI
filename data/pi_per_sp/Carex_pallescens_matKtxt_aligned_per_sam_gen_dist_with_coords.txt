@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_pallescens	KJ840884.1	23-SEP-2014	758	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. La Pre (the old orchard)	primary	matK	45.542	-73.161	0.00208850610386923
+Carex_pallescens	JN896250.1	07-MAR-2012	834	United Kingdom: Glamorgan	primary	matK	51.64	-3.36	0.00235928430802008
+Carex_pallescens	MN763726.1	28-JUL-2020	537	Spain: Lleida	secondary	matK	41.6147605	0.6267842	0.0037243947858473
+Carex_pallescens	JN894858.1	07-MAR-2012	704	United Kingdom: Merionethshire	secondary	matK	52.79398	-3.8749545	0.00462227579416425
+Carex_pallescens	JN894856.1	07-MAR-2012	689	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00276237218013328

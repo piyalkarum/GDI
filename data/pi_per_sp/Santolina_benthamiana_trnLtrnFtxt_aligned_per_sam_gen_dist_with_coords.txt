@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Santolina_benthamiana	LC720525.1	09-DEC-2022	381	France	secondary	trnL-trnF	46.316148152903	2.15987097638526	0.0015748031496063
+Santolina_benthamiana	LC720524.1	09-DEC-2022	381	France	secondary	trnL-trnF	46.7868348947467	3.06735264151465	0.0015748031496063
+Santolina_benthamiana	LC720523.1	09-DEC-2022	381	France	secondary	trnL-trnF	45.9501097196818	2.51027522743629	0.0015748031496063
+Santolina_benthamiana	LC720522.1	09-DEC-2022	381	France	secondary	trnL-trnF	46.5529881672814	1.50875221173964	0.0015748031496063
+Santolina_benthamiana	LC720521.1	09-DEC-2022	381	France	secondary	trnL-trnF	45.8924031066708	1.34132559076403	0.0015748031496063
+Santolina_benthamiana	LC720520.1	09-DEC-2022	381	France	secondary	trnL-trnF	46.1203539677745	0.810209840231817	0.0015748031496063

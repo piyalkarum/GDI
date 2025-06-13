@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nymphaea_tetragona	HG518081.1	04-NOV-2014	686	Canada:British Columbia, Hansard	secondary	ITS	54.0937257	-121.8841444	0.0010932944606414
+Nymphaea_tetragona	HG518080.1	04-NOV-2014	686	Canada:Manitoba, Hill Lake	secondary	ITS	51.55031	-101.1953344	0.0010932944606414
+Nymphaea_tetragona	HG518079.1	04-NOV-2014	686	Canada:Manitoba, Tramping Lake	secondary	ITS	54.2301296493153	-100.978937804309	0.0010932944606414
+Nymphaea_tetragona	HG518078.1	04-NOV-2014	686	Canada:Manitoba, Tramping Lake	secondary	ITS	55.3471181020473	-99.4463307887738	0.0010932944606414
+Nymphaea_tetragona	HG518077.1	04-NOV-2014	686	Finland:Tavastia Proper	secondary	ITS	60.937696	24.153192	0.0043731778425656

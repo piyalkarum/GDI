@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_aureum	MG247768.1	21-JAN-2018	552	Canada: Ontario, Kenora, English River Forest	primary	rbcL	49.7667	-94.4667	0
+Trifolium_aureum	MG246912.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, South Cameron Lake Road, BPNP	primary	rbcL	45.206	-81.567	0
+Trifolium_aureum	KX679002.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Callagan Creek Forest Service Road, near Whistler	primary	rbcL	50.072	-123.1	0
+Trifolium_aureum	KX678855.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Just west of Kettle River Forest Service Road, north of Christian Valley	primary	rbcL	49.698	-118.778	0
+Trifolium_aureum	KX678358.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Mt. Baldy Ski Area	primary	rbcL	49.153	-119.236	0
+Trifolium_aureum	KX678325.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Burnaby, Southridge Drive, 100 m west of Byrnepark Drive	primary	rbcL	49.206	-122.97	0
+Trifolium_aureum	KX677989.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Pasayten Forest Service Road, East of Manning Park	primary	rbcL	49.132	-120.585	0
+Trifolium_aureum	HQ590307.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 150 m S of Western pond at fence line	primary	rbcL	44.029	-79.537	0.000149880095923261
+Trifolium_aureum	KJ593726.1	17-MAR-2015	513	USA: Wisconsin, Goodman	primary	rbcL	45.635	-88.342	0
+Trifolium_aureum	KJ593725.1	17-MAR-2015	524	USA: Wisconsin, Laona	primary	rbcL	45.566	-88.799	0
+Trifolium_aureum	KJ841630.1	04-NOV-2014	570	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.000149880095923261
+Trifolium_aureum	MG249151.1	21-JAN-2018	553	Canada: Ontario, Renfrew County, Laurentian Hills Twp., Petawawa, NEBIE Block#4, Extensive treatment	secondary	rbcL	45.3658443	15.6575209	0
+Trifolium_aureum	MG247059.1	21-JAN-2018	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, South Cameron Lake Road, BPNP	secondary	rbcL	43.72634945	-77.7101179040839	0

@@ -1,0 +1,26 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_sagittata	KF547656.1	09-SEP-2014	365	Czech Republic: South Moravian Kraj, Okres Breclav,Mikulov, Svaty kopecek u Mikulova	primary	trnL-trnF	48.8046	16.6468	0.00896673998314749
+Arabis_sagittata	KF547654.1	09-SEP-2014	374	Turkey: Prov. Mersin,between Findikpinarikoey and Akarca	primary	trnL-trnF	36.902	34.401	0.00272560273763595
+Arabis_sagittata	KF547649.1	09-SEP-2014	376	Spain: Basque Country, Prov. Vizcaya,Zeanuri, Macizo de Gorbeia	primary	trnL-trnF	43.0735	-2.8035	0.00677173286411192
+Arabis_sagittata	KF547648.1	09-SEP-2014	370	Italy: Sardinia,Correboi pass	primary	trnL-trnF	40.0756	9.3603	0.0040127303316663
+Arabis_sagittata	KF547614.1	09-SEP-2014	360		primary	trnL-trnF	40.8898	41.7397	0.00476568149222722
+Arabis_sagittata	KF547613.1	09-SEP-2014	376	Austria: Tyrol,Lienzer Dolomiten	primary	trnL-trnF	46.7333	12.7	0.00677173286411192
+Arabis_sagittata	KF547612.1	09-SEP-2014	373	Croatia: Zup. Istria,1.5 km N of Krsan	primary	trnL-trnF	45.1903	14.1567	0.00397985909567565
+Arabis_sagittata	KF547611.1	09-SEP-2014	353		primary	trnL-trnF	39.4013	23.0362	0.0048606038223119
+Arabis_sagittata	KF547567.1	09-SEP-2014	374		primary	trnL-trnF	40.8859	41.7549	0.00272560273763595
+Arabis_sagittata	KF547566.1	09-SEP-2014	374	Macedonia: North slope of Mt. Vodno near Skopje	primary	trnL-trnF	41.9779	21.3921	0.00272560273763595
+Arabis_sagittata	KF547565.1	09-SEP-2014	376	Italy: Trentino-Alto Adige, Prov. Trient,6km S of Trento	primary	trnL-trnF	46.0063	11.1072	0.00440721577886729
+Arabis_sagittata	KF547564.1	09-SEP-2014	380	Italy: Umbria, Prov. Perugia,Lisciano Niccone	primary	trnL-trnF	43.2318	12.1406	0.00396397401411386
+Arabis_sagittata	KF547563.1	09-SEP-2014	375	Greece: Reg. Epirus, Per. Thesprotia,0.4km SE of Kerassochori	primary	trnL-trnF	39.675	20.3083	0.00272351991912675
+Arabis_sagittata	KF547562.1	09-SEP-2014	374		primary	trnL-trnF	41.07	26.17	0.00272560273763595
+Arabis_sagittata	KF547560.1	09-SEP-2014	374	Bulgaria: Obl. Burgas,10km NE of Malko Tarnovo	primary	trnL-trnF	42.0012	27.6064	0.00272560273763595
+Arabis_sagittata	KF547559.1	09-SEP-2014	374	Bulgaria: Obl. Burgas,20km of Micurin near Sinemorets	primary	trnL-trnF	42.0532	27.9863	0.00272560273763595
+Arabis_sagittata	KF547546.1	09-SEP-2014	362	Turkey: Prov. Sinop,Garze district, before Diranaz tunnel	primary	trnL-trnF	41.6543	34.9029	0.0047392380527091
+Arabis_sagittata	KF547541.1	09-SEP-2014	353	Turkey: Prov. Trabzon,Macka district	primary	trnL-trnF	40.7832	39.6445	0.012417251454355
+Arabis_sagittata	KF547463.1	09-SEP-2014	374	Greece: Reg. West Greece, Per. Achaia,E of Kalavrita	primary	trnL-trnF	37.9913	22.1765	0.00272560273763595
+Arabis_sagittata	KC412332.1	31-DEC-2013	374	Italy: Prov. Grosseto, Massa Marittima	primary	trnL-trnF	43.0846	10.9874	0.0039690214351805
+Arabis_sagittata	HQ646727.1	31-DEC-2011	378	Germany: Hesse, Hoerne [ex cult. BG-Heidelberg]	primary	trnL-trnF	51.24	10.07	0.00532318008123081
+Arabis_sagittata	HQ646718.1	31-DEC-2011	379	Austria: Lower Austria, Eichkogel [ex cult. BG-Heidelberg]	primary	trnL-trnF	48.13	16.22	0.00272412513338801
+Arabis_sagittata	HQ646717.1	31-DEC-2011	374	Germany: Rhineland-Palatinate, Leiwen [ex cult. BG-Heidelberg]	primary	trnL-trnF	49.82	6.88	0.0039690214351805
+Arabis_sagittata	HQ646715.1	31-DEC-2011	373	Italy: Tuscany, Vescovado di Muro [ex cult. BG-Heidelberg]	primary	trnL-trnF	43.17	11.4	0.00442672921922826
+Arabis_sagittata	HQ646713.1	31-DEC-2011	374	France: Dept. Gard, Sauve [ex cult. BG-Heidelberg]	primary	trnL-trnF	43.93	3.95	0.0065578388203821

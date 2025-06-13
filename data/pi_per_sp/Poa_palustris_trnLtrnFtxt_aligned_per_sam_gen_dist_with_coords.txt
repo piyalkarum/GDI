@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_palustris	MW274729.1	10-APR-2022	1794	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0
+Poa_palustris	DQ354000.1	31-DEC-2007	1847	Canada	secondary	trnL-trnF	61.0666922	-107.991707	0
+Poa_palustris	MT273368.1	31-MAR-2021	1794	Russia	secondary	trnL-trnF	64.6863136	97.7453061	0
+Poa_palustris	AY504654.1	13-SEP-2004	960	Poland	secondary	trnL-trnF	52.215933	19.134422	0

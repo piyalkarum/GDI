@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_lachenalii	MZ400466.1	07-DEC-2021	855	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.000368557533313079
+Carex_lachenalii	FJ548105.1	25-AUG-2009	733	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour, growing at the margin of the lake near the campsite	primary	matK	62.86	-67.35	0.000244087013899739
+Carex_lachenalii	FJ548104.1	25-AUG-2009	733	Canada: Nunavut, Baffin Island, Cape Dorset, between Nascopie Building and secondary water supply lake	primary	matK	64.23	-76.54	0.00121835348706149
+Carex_lachenalii	FJ548103.1	25-AUG-2009	726	Canada: Nunavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	matK	62.83	-67.35	0.00122983077528532
+Carex_lachenalii	FJ548102.1	25-AUG-2009	733	Canada: Nunavut, Baffin Island, Sylvia Grinnell Park, near the entrance to the park	primary	matK	63.58	-68.73	0.000244087013899739
+Carex_lachenalii	FJ548100.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island, between Apex and Iqaluit	primary	matK	63.72	-68.45	0.000245156389937535
+Carex_lachenalii	KC474342.1	25-OCT-2013	768	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park, Buckland Hills, NW part	primary	matK	69.417	-139.633	0.000286149051027004
+Carex_lachenalii	KC474341.1	25-OCT-2013	773	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Mainland south of delta	primary	matK	68.87	-136.97	0.000285306512068751
+Carex_lachenalii	KC474340.1	25-OCT-2013	775	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	matK	62.852	-67.356	0.00121131245685607
+Carex_lachenalii	KC474339.1	25-OCT-2013	777	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Rocky ledges above fresh lake in lowlands 1 km W of Kihlbay	primary	matK	56.472	-79.042	0.00120899887449906
+Carex_lachenalii	MK926260.1	14-JAN-2020	812	United Kingdom	secondary	matK	54.4718518795121	-2.90878984713583	0.000373120097474137
+Carex_lachenalii	MK926131.1	14-JAN-2020	825	Sweden	secondary	matK	59.6749712	14.5208584	0.0014589625394802
+Carex_lachenalii	MK925767.1	14-JAN-2020	815	United Kingdom	secondary	matK	55.5732951492072	-3.43204501203612	0.00037261597487152
+Carex_lachenalii	FJ548101.1	25-AUG-2009	733	Canada	secondary	matK	61.0666922	-107.991707	0.00136499360951706
+Carex_lachenalii	KP980168.1	21-SEP-2015	785	New Zealand	secondary	matK	-41.1484788529175	172.426521989091	0.000284183308811466
+Carex_lachenalii	KP980157.1	21-SEP-2015	785	New Zealand	secondary	matK	-41.8397519885906	173.588531626181	0.000284183308811466
+Carex_lachenalii	KP980152.1	21-SEP-2015	785	Slovakia	secondary	matK	48.7411522	19.4528646	0.000284183308811466
+Carex_lachenalii	KP980150.1	21-SEP-2015	785	Greenland	secondary	matK	35.8790156674683	-93.4219913209305	0.000284183308811466
+Carex_lachenalii	KP980148.1	21-SEP-2015	785	Spain	secondary	matK	39.3260685	-4.8379791	0.000284183308811466
+Carex_lachenalii	KP980144.1	21-SEP-2015	785	Finland	secondary	matK	63.2467777	25.9209164	0.000284183308811466
+Carex_lachenalii	KP980135.1	21-SEP-2015	785	Norway	secondary	matK	64.5731537	11.5280364	0.000284183308811466
+Carex_lachenalii	KP980124.1	21-SEP-2015	785	Greenland	secondary	matK	36.1081086777383	-93.4435324639299	0.000284183308811466
+Carex_lachenalii	KP980076.1	21-SEP-2015	783	USA: Alaska	secondary	matK	65.1920626126899	-148.81064245732	0.000284299518020581
+Carex_lachenalii	KP980075.1	21-SEP-2015	783	USA: Alaska	secondary	matK	64.4849828058319	-151.379630630839	0.000284299518020581
+Carex_lachenalii	KP980073.1	21-SEP-2015	783	USA: Alaska	secondary	matK	63.9989794455865	-151.204287471796	0.000284299518020581
+Carex_lachenalii	KP980024.1	21-SEP-2015	785	Canada: Labrador	secondary	matK	55.9114861	-61.7019148	0.000284183308811466
+Carex_lachenalii	KP980002.1	21-SEP-2015	749	USA: Colorado	secondary	matK	38.7251776	-105.607716	0.000242260700003864
+Carex_lachenalii	KP979994.1	21-SEP-2015	785	USA: Alaska	secondary	matK	64.5848613279834	-150.173086700659	0.000284183308811466
+Carex_lachenalii	KP979990.1	21-SEP-2015	785	Switzerland	secondary	matK	46.7985624	8.2319736	0.000284183308811466

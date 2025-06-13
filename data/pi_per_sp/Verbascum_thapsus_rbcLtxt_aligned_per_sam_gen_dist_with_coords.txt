@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Verbascum_thapsus	OQ434018.1	02-JUL-2023	609	USA: West Lake Nature Preserve, Portage, MI	primary	rbcL	42.18451659	-85.58677258	0.00018249147485081
+Verbascum_thapsus	MG223847.1	26-DEC-2017	553	Canada: Ontario, Hamilton-Wentworth, Dundas, North Shore Cootes Paradise, Captain Cootes Trail	primary	rbcL	43.2628	-79.9597	9.14076782449726e-05
+Verbascum_thapsus	MG223180.1	26-DEC-2017	552	Canada: 1 Yorkshire Ave. S. Guelph	primary	rbcL	43.539	-80.255	9.14076782449726e-05
+Verbascum_thapsus	MG222354.1	26-DEC-2017	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Alvar, Emmett Lake Road, Bruce Peninsula National Park	primary	rbcL	44.9454	-81.2769	9.14076782449726e-05
+Verbascum_thapsus	MF349640.1	21-SEP-2017	553	USA: District of Columbia; United States National Arboretum, 3501 New York Ave NE; parking lot at Beechwood Lane across from Fern Valley	primary	rbcL	38.91	-76.966	9.14076782449726e-05
+Verbascum_thapsus	KX678435.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	rbcL	49.182	-119.091	9.14076782449726e-05
+Verbascum_thapsus	KX678420.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail, near Link Lake Forest Recreation Site	primary	rbcL	49.711	-120.231	9.14076782449726e-05
+Verbascum_thapsus	KX677995.1	29-APR-2017	547	Canada: British Columbia, Squamish-Lillooet Regional District, near Whistler, Madeley Lake Forest Service Road	primary	rbcL	50.1749	-123.124	0.00176049309524345
+Verbascum_thapsus	KX677959.1	29-APR-2017	510	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Strathcona Provincial Park, Buttle Lake	primary	rbcL	49.8347	-125.627	0
+Verbascum_thapsus	KU556623.1	06-AUG-2016	654	Egypt	primary	rbcL	30.0303	31.1956	0.000187627828058281
+Verbascum_thapsus	HQ590317.1	09-NOV-2011	593	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., hilltop approx. 400 m N of North Barn	primary	rbcL	44.032	-79.533	0.000185883881310723
+Verbascum_thapsus	KT695431.1	29-SEP-2015	552	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	9.14076782449726e-05
+Verbascum_thapsus	KJ841648.1	04-NOV-2014	568	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.000826030059956246
+Verbascum_thapsus	JN893755.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.58	-3.14	9.24214417744917e-05
+Verbascum_thapsus	MT931684.1	03-MAR-2023	569	China	secondary	rbcL	35.423951966961	105.706039855389	0.000179281140459384
+Verbascum_thapsus	MN192700.1	30-NOV-2021	723	China	secondary	rbcL	34.4702158716556	104.220955980819	0.000493650064932919
+Verbascum_thapsus	MN192699.1	30-NOV-2021	509	China	secondary	rbcL	34.7322678376242	104.235796161625	0.00020535266262708
+Verbascum_thapsus	KT178130.1	19-AUG-2015	1434	USA	secondary	rbcL	39.7837304	-100.445882	0.000317748433704424
+Verbascum_thapsus	HM850441.1	23-JUL-2011	688	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000186926337047402
+Verbascum_thapsus	JN893726.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	9.24214417744917e-05
+Verbascum_thapsus	JN893571.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	9.24214417744917e-05

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_rectus	MW498367.1	16-FEB-2021	860	France: Corse, Haute-Corse, Corsica, St.-Florent	secondary	rps16	42.681295	9.3024991	0.00503875968992248
+Lotus_rectus	MW498366.1	16-FEB-2021	861	Italy: Liguria, Imperia, Vermiglia	secondary	rps16	44.6259983	10.7496543	0.00406864201532381
+Lotus_rectus	MW498365.1	16-FEB-2021	865	Spain: Castello, Burriana	secondary	rps16	39.8876912	-0.0846321	0.00425480425800276
+Lotus_rectus	MW498364.1	16-FEB-2021	861	Spain: Alicante, Rio Guadalest	secondary	rps16	38.6466014	-0.1337512	0.00406864201532381
+Lotus_rectus	MW498362.1	16-FEB-2021	862	Spain: Huelva, Hinojos	secondary	rps16	37.2922174	-6.3794314	0.00367812370726092
+Lotus_rectus	MW498358.1	16-FEB-2021	864	Morocco: Prov. de Beni-Mellal, Cascades d'Ouzoud	secondary	rps16	32.0154874	-6.7194697	0.00909864268297464
+Lotus_rectus	KT262915.1	27-FEB-2017	861	Greece: Crete	secondary	rps16	35.3084952	24.4633423	0.00503538341031251

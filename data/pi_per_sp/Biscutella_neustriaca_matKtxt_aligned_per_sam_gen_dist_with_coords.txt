@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Biscutella_neustriaca	JN987160.1	07-MAR-2012	2460	France: Eure (27)	secondary	matK	48.6709009467166	0.671082154832623	0.00243956165669831
+Biscutella_neustriaca	JN987159.1	07-MAR-2012	2494	France: Eure (27)	secondary	matK	49.3403641384964	2.096265852734	0.00121156815745505
+Biscutella_neustriaca	JN987158.1	07-MAR-2012	2495	France: Eure (27)	secondary	matK	48.3850042477362	0.725485954658814	0.00121115938529121
+Biscutella_neustriaca	JN987157.1	07-MAR-2012	2494	France: Eure (27)	secondary	matK	48.7103747520649	0.451069836593642	0.00151371665667546
+Biscutella_neustriaca	JN987156.1	07-MAR-2012	2495	France: Eure (27)	secondary	matK	49.0232970903304	2.08975754383214	0.000909052214259594

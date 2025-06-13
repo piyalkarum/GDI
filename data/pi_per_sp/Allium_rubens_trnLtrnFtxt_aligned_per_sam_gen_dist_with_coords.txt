@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_rubens	AM940990.1	05-FEB-2009	302	Russia:Altai, Chuja-Katun river	primary	trnL-trnF	50.39	86.68	0.321875
+Allium_rubens	AM940996.1	06-FEB-2009	302	Russia:Altai Republic, Bugusun	primary	trnL-trnF	50.19	89.41	0.321875
+Allium_rubens	AM940993.1	06-FEB-2009	302	Russia:Tuva, Mogen-Buren river	primary	trnL-trnF	50.17	89.75	0.321875
+Allium_rubens	MT225413.1	01-MAR-2021	365	Russia: Altai	secondary	trnL-trnF	50.4834722626038	85.9995133068557	0.327821061643836
+Allium_rubens	MT225410.1	01-MAR-2021	367	Russia: Altai	secondary	trnL-trnF	50.1149652494554	86.5645755325579	0.323285530821918
+Allium_rubens	MT225408.1	01-MAR-2021	366	Russia: Altai	secondary	trnL-trnF	51.4356432292311	87.1365914176995	0.323285530821918

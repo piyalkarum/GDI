@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pyrola_rotundifolia	OR575214.1	25-OCT-2023	515	Kazakhstan: Qaragandy region	primary	rbcL	49.41064	75.43456	0
+Pyrola_rotundifolia	JN893276.1	07-MAR-2012	542	United Kingdom: Anglesey	primary	rbcL	53.15	-4.34	0
+Pyrola_rotundifolia	JN892809.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Pyrola_rotundifolia	JN892808.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_alsine	JN893489.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.55	-3.21	0.00345940959409594
+Stellaria_alsine	OQ172722.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.487116706847	127.888718113075	0.00720184427047262
+Stellaria_alsine	OQ172721.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.4088954186012	128.490059133697	0.00720184427047262
+Stellaria_alsine	OQ172720.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.8904986733405	127.321881093998	0.00720184427047262
+Stellaria_alsine	MG249751.1	21-JAN-2018	552	Canada: New Brunswick, Northumberland Co., Near Blackville.	secondary	rbcL	47.43950925	-68.3926909826309	0.00339673913043478
+Stellaria_alsine	MG247731.1	21-JAN-2018	552	Canada: Nova Scotia, Victoria Co., N of Briton Cove.	secondary	rbcL	45.2131736991591	-62.9372258406717	0.00339673913043478
+Stellaria_alsine	MG247590.1	21-JAN-2018	552	Canada: Nova Scotia, Inverness Co., Cranton Section, Margaree.	secondary	rbcL	44.8786505470608	-64.7788118527954	0.00339673913043478
+Stellaria_alsine	HM850385.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00446428571428571
+Stellaria_alsine	JN890782.1	07-MAR-2012	537	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00349162011173184

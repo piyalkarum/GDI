@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_flos-cuculi	MG322250.1	11-NOV-2018	578	United Kingdom: England, Foreshield Burn	primary	rbcL	54.8159	-2.39	0.00217654015419314
+Silene_flos-cuculi	KJ841570.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	rbcL	45.538	-73.158	0.000700525394045534
+Silene_flos-cuculi	JN893480.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.15	0.0003690036900369
+Silene_flos-cuculi	JN891656.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.0003690036900369
+Silene_flos-cuculi	JN892693.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0003690036900369
+Silene_flos-cuculi	JN892691.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0003690036900369

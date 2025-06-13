@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_longifolia	LC125245.1	03-AUG-2016	410	Japan	secondary	psbA-trnH	36.5748441	139.2394179	0.0343485467576049
+Mentha_longifolia	KP218933.1	26-APR-2015	309	Pakistan	secondary	psbA-trnH	30.3308401	71.247499	0.011866235167206
+Mentha_longifolia	KM009035.1	22-SEP-2014	411	Cyprus	secondary	psbA-trnH	34.9174159	32.8899027	0.0351495709952532
+Mentha_longifolia	HE966712.1	18-SEP-2012	416	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0278028479022484

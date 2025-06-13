@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scirpus_sylvaticus	OR738247.1	13-NOV-2023	716	Kazakhstan: Kostanay region	primary	matK	53.1109	63.55593	0.000349162011173184
+Scirpus_sylvaticus	JN895496.1	07-MAR-2012	834	United Kingdom: Monmouthshire	primary	matK	51.77	-2.87	0.000618811881188119
+Scirpus_sylvaticus	KJ513654.1	06-SEP-2014	1234	South Korea	secondary	matK	36.638392	127.6961188	0.00190870505634877
+Scirpus_sylvaticus	JN896215.1	07-MAR-2012	786	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000318066157760814
+Scirpus_sylvaticus	JN896214.1	07-MAR-2012	810	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00062266500622665

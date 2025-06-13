@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arum_maculatum	GU371087.1	21-JUL-2010	1067	United Kingdom	secondary	Adh	51.3987120256445	-0.88429084000735	0
+Arum_maculatum	GU371042.1	21-JUL-2010	1067	United Kingdom	secondary	Adh	53.3411904	-1.2847542	0
+Arum_maculatum	GU371041.1	21-JUL-2010	1067	United Kingdom	secondary	Adh	51.5274719040134	-1.26381233211182	0
+Arum_maculatum	GU371040.1	21-JUL-2010	1067	United Kingdom	secondary	Adh	51.5672890207113	-0.357286342709724	0

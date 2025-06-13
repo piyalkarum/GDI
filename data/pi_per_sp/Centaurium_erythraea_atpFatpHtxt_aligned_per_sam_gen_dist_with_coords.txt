@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurium_erythraea	MN122006.1	23-FEB-2020	499	Italy: Sicilia, Mitello & San Fratello	primary	atpF-atpH	38.02	14.36	0.000365831351746845
+Centaurium_erythraea	MN121990.1	23-FEB-2020	501	France: Herault, Languedoc, Lac des Reves	primary	atpF-atpH	43.33	3.56	0.000365831351746845
+Centaurium_erythraea	MN121987.1	23-FEB-2020	497	Ireland: Galway, Carraroe, Connemara	primary	atpF-atpH	53.14	-9.37	0.00402414486921529
+Centaurium_erythraea	MN121982.1	23-FEB-2020	501	Spain: Orense, Larouco	primary	atpF-atpH	42.19	-7.13	0.000365831351746845
+Centaurium_erythraea	MN121971.1	23-FEB-2020	503	Bulgaria: Fargovo	primary	atpF-atpH	41.34	24	0.000365831351746845
+Centaurium_erythraea	MN121966.1	23-FEB-2020	501	Italy: Cerdena, Nuoro	primary	atpF-atpH	39.41	9.27	0.000365831351746845
+Centaurium_erythraea	MN121959.1	23-FEB-2020	499	Spain: Menorca, La Mola de Fornells	primary	atpF-atpH	40.03	4.08	0.000365831351746845
+Centaurium_erythraea	MN121946.1	23-FEB-2020	501	Spain: Madrid, Reduena	primary	atpF-atpH	40.49	-3.36	0.000365831351746845
+Centaurium_erythraea	MN121945.1	23-FEB-2020	501	Spain: Huelva, Aroche	primary	atpF-atpH	37.56	-6.58	0.000365831351746845
+Centaurium_erythraea	MN121944.1	23-FEB-2020	501	Portugal: Baixo Alentejo, Brejos da Cima	primary	atpF-atpH	38.19	-8.45	0.000365831351746845
+Centaurium_erythraea	MN121939.1	23-FEB-2020	501	Spain: Los Molinos, Sierra de Guara	primary	atpF-atpH	42.24	-0.07	0.000365831351746845
+Centaurium_erythraea	MN121938.1	23-FEB-2020	499	Montenegro	secondary	atpF-atpH	42.37136985	18.8557126959817	0.000365831351746845

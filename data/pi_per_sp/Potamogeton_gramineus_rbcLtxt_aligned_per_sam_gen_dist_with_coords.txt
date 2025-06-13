@@ -1,0 +1,27 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_gramineus	MF694563.1	04-SEP-2018	497	Canada: Yukon Territory, Nordenskiold River	primary	rbcL	61.0650740269442	-135.570915344326	0.432134685143625
+Potamogeton_gramineus	MF694522.1	04-SEP-2018	493	Canada: Yukon Territory, Nordenskiold River	primary	rbcL	61.8024573879141	-135.775931199615	0.434375427461243
+Potamogeton_gramineus	MF694598.1	04-SEP-2018	552	Canada: Yukon Territory, Nordenskiold River	primary	rbcL	61.6104011761475	-135.336215120511	0.0793324061950431
+Potamogeton_gramineus	KX678487.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Alberni-Clayoquot Regional District, Flora Lake Forest Recreation Site	primary	rbcL	48.8619	-124.72	0.0803435878466626
+Potamogeton_gramineus	JN890803.1	07-MAR-2012	542	United Kingdom: Shetland (112)	primary	rbcL	59.94	-1.34	0.0793459522877679
+Potamogeton_gramineus	MK924749.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4040714403292	-3.68887766929251	0.0793459522877679
+Potamogeton_gramineus	MK924638.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.58978025977	-3.50100546929513	0.0806676423458529
+Potamogeton_gramineus	MH170932.1	28-OCT-2018	683	Turkey	secondary	rbcL	38.5040655532032	34.5005546209614	0.0785239229145814
+Potamogeton_gramineus	MH170931.1	28-OCT-2018	681	Turkey	secondary	rbcL	38.4970052435471	35.6253198164169	0.0785276652356127
+Potamogeton_gramineus	MH170930.1	28-OCT-2018	599	Turkey	secondary	rbcL	38.374463355758	34.2645884443783	0.0803101444061982
+Potamogeton_gramineus	MH170929.1	28-OCT-2018	690	Turkey	secondary	rbcL	38.1251053169575	35.1768368608057	0.0785842990174239
+Potamogeton_gramineus	MH170928.1	28-OCT-2018	703	Turkey	secondary	rbcL	38.6701104270952	34.3449592168649	0.0785712043433423
+Potamogeton_gramineus	MH170927.1	28-OCT-2018	557	Turkey	secondary	rbcL	39.3762174097583	34.6765271917669	0.0794768785196744
+Potamogeton_gramineus	MF694552.1	04-SEP-2018	500	Canada: Ontario, Marmora Township, north shore of Crowe Lake, 2-3 miles northwest of Marmora	secondary	rbcL	44.3418040417264	-77.3719353472727	0.428792261901847
+Potamogeton_gramineus	MF694528.1	04-SEP-2018	500	Canada: Ontario, Waterloo County, North Dumfries Township, McCrone's Lake, 1.5 kilometres northeast of Ayr. Westernmost lake. UTM 466934 40P/8 17NT49.	secondary	rbcL	44.3857467547811	-77.1394146439601	0.428792261901847
+Potamogeton_gramineus	MF694627.1	04-SEP-2018	536	Canada: Ontario, Marmora Township, north shore of Crowe Lake, 2-3 miles northwest of Marmora	secondary	rbcL	43.6325130542337	-76.8369420891314	0.0803044725534156
+Potamogeton_gramineus	MF694604.1	04-SEP-2018	553	Canada: Ontario, Waterloo County, North Dumfries Township, McCrone's Lake, 1.5 kilometres northeast of Ayr. Westernmost lake. UTM 466934 40P/8 17NT49.	secondary	rbcL	43.9060199797938	-77.9107034396498	0.0811534044710457
+Potamogeton_gramineus	KX024603.1	14-DEC-2016	881	China	secondary	rbcL	34.940367566719	104.20256152782	0.0799380651554565
+Potamogeton_gramineus	KX024602.1	14-DEC-2016	881	China	secondary	rbcL	35.1102763063549	105.787864487233	0.0799380651554565
+Potamogeton_gramineus	FJ956828.1	30-DEC-2010	890	China: Zhongdian, Yunnan	secondary	rbcL	27.8136833	99.7058056	0.0799380651554565
+Potamogeton_gramineus	EF174582.1	15-JAN-2007	508	Czech Republic	secondary	rbcL	49.7439047	15.3381061	0.0799440717266515
+Potamogeton_gramineus	EF174581.1	15-JAN-2007	516	France	secondary	rbcL	46.603354	1.8883335	0.0808400131887288
+Potamogeton_gramineus	JN893420.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.0793459522877679
+Potamogeton_gramineus	JN893419.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0793459522877679
+Potamogeton_gramineus	JN891795.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0.0793459522877679
+Potamogeton_gramineus	AB196943.1	01-MAY-2009	1349	Japan:Aomori, Towadako	secondary	rbcL	40.4586551	140.8711305	0.0807138425822247

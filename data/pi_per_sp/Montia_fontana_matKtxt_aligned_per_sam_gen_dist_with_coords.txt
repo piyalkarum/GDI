@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Montia_fontana	KX676573.1	09-AUG-2017	774	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, Spanish Banks Beach Park	primary	matK	49.2758	-123.214	0.00257923894287531
+Montia_fontana	KC475033.1	25-OCT-2013	783	Canada: Yukon Territory, Blow River Delta east, Whitefish Station	primary	matK	68.887	-136.894	0.0040238108564503
+Montia_fontana	KC475032.1	25-OCT-2013	785	Canada: Yukon Territory, Ivvavik National Park, Stokes Point	primary	matK	69.322	-138.711	0.00402099310111683
+Montia_fontana	JN895972.1	07-MAR-2012	801	United Kingdom: Monmouthshire	primary	matK	52.58	-3.18	0.00247160822098376
+Montia_fontana	JN894372.1	07-MAR-2012	759	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00250482129556348
+Montia_fontana	JN894185.1	07-MAR-2012	786	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.00247724367607395
+Montia_fontana	MN854677.1	12-OCT-2020	727	South Africa	secondary	matK	-46.4940504168161	37.9667806429692	0.00531875277404851
+Montia_fontana	MN854676.1	12-OCT-2020	727	South Africa	secondary	matK	-46.2048173391832	37.4565189293603	0.00413644127536837

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myriophyllum_sibiricum	KC475040.1	25-OCT-2013	738	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	matK	68.719	-110.783	0
+Myriophyllum_sibiricum	KC475039.1	25-OCT-2013	709	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. East shore of Kihlbay, tundra west of cabins	primary	matK	56.442	-78.956	0
+Myriophyllum_sibiricum	JN966387.1	27-OCT-2012	655	Canada: Manitoba, Churchill, 10 km SE Churchill, Farnworth Lake, Lake shore	primary	matK	58.705	-94.052	0
+Myriophyllum_sibiricum	JN966386.1	27-OCT-2012	717	Canada: Manitoba, Churchill, Wapusk National Park, Thompson Point, Beach ridges in sand amongst Leymus mollis and Dryas integrifolia	primary	matK	58.335	-93.018	0

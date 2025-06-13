@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achillea_apiculata	HQ450939.1	27-FEB-2012	854	Russia: Karelia, Kiev bay, near Medvezhij peninsula	secondary	rpl16	60.8291028156934	29.4530157849341	0
+Achillea_apiculata	HQ450938.1	27-FEB-2012	859	Russia: Karelia, opposite island Prjaostrov	secondary	rpl16	61.2009381798611	29.4081277845537	0
+Achillea_apiculata	HQ450937.1	27-FEB-2012	854	Russia: Karelia, island Korzhnichikha	secondary	rpl16	60.2348893608548	28.4441597590178	0
+Achillea_apiculata	HQ450936.1	27-FEB-2012	859	Russia: Karelia, island Korzhnichikha	secondary	rpl16	60.2488108002341	28.2458406774153	0
+Achillea_apiculata	HQ450935.1	27-FEB-2012	859	Russia: Karelia, island Korzhnichikha	secondary	rpl16	60.3653883886506	28.9415102302645	0

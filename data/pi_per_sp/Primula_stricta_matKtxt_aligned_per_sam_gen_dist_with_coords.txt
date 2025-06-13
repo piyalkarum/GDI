@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Primula_stricta	KC475527.1	25-OCT-2013	774	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	matK	62.867	-92.117	0.00317101143281469
+Primula_stricta	KC475526.1	25-OCT-2013	752	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East side of Hornaday River	primary	matK	68.414	-121.892	0.0036142496616842
+Primula_stricta	KC475525.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Low rocky hills at coast	primary	matK	68.606	-113.144	0.00428000566078905
+Primula_stricta	KC475524.1	25-OCT-2013	777	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. East shore of Kihlbay, tundra west of cabins	primary	matK	56.442	-78.956	0.00239934128284469
+Primula_stricta	KC475523.1	25-OCT-2013	776	Canada: Northwest Territories, Cape Bathurst Peninsula, 10 km SSW of Cape Bathurst	primary	matK	70.494	-128.083	0.00875733470575812
+Primula_stricta	JN966476.1	27-OCT-2012	766	Canada: Manitoba, Churchill, 16 km E Churchill, small creek near Launch Road, Tundra creek, in water	primary	matK	58.745	-93.895	0.00242972546054888
+Primula_stricta	JN966475.1	27-OCT-2012	755	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	matK	58.626	-94.23	0.00246155519140219
+Primula_stricta	JN966473.1	27-OCT-2012	776	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Bank of small stream near Goose Creek Rd	primary	matK	58.739	-94.112	0.00240196781384206

@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trientalis_europaea	LC767980.1	27-MAY-2023	262	Japan:Niigata, Mt.Hiuchi	primary	rbcL	-36.9227	138.0681	0
+Trientalis_europaea	MG224180.1	26-DEC-2017	552	Canada: Yukon Territory, Dezadeash Lake, east shore	primary	rbcL	60.424	-136.993	0
+Trientalis_europaea	MG223318.1	26-DEC-2017	481	Canada: Yukon Territory, La Biche River	primary	rbcL	60.05	-123.991	0
+Trientalis_europaea	LC621244.1	02-OCT-2021	553	Japan:Gifu, Shirakawamura	secondary	rbcL	36.2712122	136.898667	0
+Trientalis_europaea	MK925263.1	14-JAN-2020	542	Norway	secondary	rbcL	64.5731537	11.5280364	0
+Trientalis_europaea	MK925259.1	14-JAN-2020	542	Finland	secondary	rbcL	63.2467777	25.9209164	0
+Trientalis_europaea	MK924965.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7368418870155	-3.77387760562552	0
+Trientalis_europaea	MK924812.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3396161344547	-3.73832813734093	0
+Trientalis_europaea	MK924712.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1374927397327	-4.15794775827621	0
+Trientalis_europaea	MK924548.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8089979291168	-4.30840169776393	0

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubus_chamaemorus	MZ400434.1	07-DEC-2021	852	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.000468990711310704
+Rubus_chamaemorus	KC475694.1	25-OCT-2013	645	Canada: Nunavut, Rankin Inet, Meliadine River Park	primary	matK	62.917	-92.2333	0.000422832980972516
+Rubus_chamaemorus	KC475693.1	25-OCT-2013	753	Canada: Northwest Territories, Mainland Northwest Territories, Inuvik, Inuvik, N edge of town, along small trail through woods	primary	matK	68.372	-133.794	0.000365108481031884
+Rubus_chamaemorus	KC475692.1	25-OCT-2013	643	Canada: Nunavut, Baffin Island, Cape Tanfield, Archeological site	primary	matK	62.6167	-69.65	0.000424148169093737
+Rubus_chamaemorus	KC475691.1	25-OCT-2013	670	Canada: Northwest Territories, Inuvik, Ski area at rec complex	primary	matK	68.38	-133.57	0.000407055630936228
+Rubus_chamaemorus	KC475690.1	25-OCT-2013	674	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. 14 km SE of Sanikiluaq, between large lake and ocean	primary	matK	56.556	-79.236	0.000404639870515241
+Rubus_chamaemorus	JN966514.1	27-OCT-2012	776	Canada: Manitoba, Churchill, 22 km E Churchill, CNSC, Disturbed tundra	primary	matK	58.734	-93.801	0.000362289900384541
+Rubus_chamaemorus	JN966513.1	27-OCT-2012	771	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Salt marsh	primary	matK	58.771	-93.843	0.0016340224698306
+Rubus_chamaemorus	JN894241.1	07-MAR-2012	778	United Kingdom: Sutherland, West (108)	primary	matK	58.42	-4.42	0.000362289900384541
+Rubus_chamaemorus	LC624458.1	13-APR-2021	744	Japan	secondary	matK	36.3367263612129	140.161448874056	0.00140821968540327
+Rubus_chamaemorus	LC624457.1	13-APR-2021	744	Japan	secondary	matK	35.8879326588176	139.743239756085	0.00140821968540327
+Rubus_chamaemorus	AY366358.1	08-SEP-2003	2493	USA: Maine	secondary	matK	45.709097	-68.8590201	0.000468990711310704

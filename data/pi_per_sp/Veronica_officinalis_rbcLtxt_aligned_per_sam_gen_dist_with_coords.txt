@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_officinalis	MN447801.1	21-FEB-2022	571	United Kingdom: England, Durham, Bishop Auckland Park	primary	rbcL	54.6721	-1.6603	0.00401145975595488
+Veronica_officinalis	MG224641.1	26-DEC-2017	552	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #6 trail	primary	rbcL	43.097	-79.281	0.000282866603437661
+Veronica_officinalis	MG223592.1	26-DEC-2017	553	Canada: Ontario, Wellington County, Puslinch Township, Little Tract, 500m north of South entrance (County Road 34)	primary	rbcL	43.4329	-80.097	0.000282614608138885
+Veronica_officinalis	MG222506.1	26-DEC-2017	552	Canada: Yukon Territory, North Klondike Highway, Minto, 1.6 km E of	primary	rbcL	62.571	-136.818	0.000282866603437661
+Veronica_officinalis	MG221203.1	26-DEC-2017	553	Canada: Ontario, Nipissing District, Sproule Township, Canoe Dock, Wildlife Research Station, Algonquin Park	primary	rbcL	45.6167	-78.4	0.000282614608138885
+Veronica_officinalis	HQ590322.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., N-most trail, approx. 150 m W of creek	primary	rbcL	44.036	-79.518	0.00134282589386629
+Veronica_officinalis	KP402754.1	06-JAN-2016	488	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, STVNF1 SWNE41	primary	rbcL	38.907	-76.542	0.000157629255989912
+Veronica_officinalis	KJ593748.1	17-MAR-2015	524	USA: Wisconsin, Laona	primary	rbcL	45.548	-88.675	0.000293599530240752
+Veronica_officinalis	JN891392.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000288444642688185
+Veronica_officinalis	MG222171.1	26-DEC-2017	553	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #6 trail	secondary	rbcL	45.3658443	15.6575209	0.000282614608138885
+Veronica_officinalis	HM850450.1	23-JUL-2011	1306	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00312695691330149
+Veronica_officinalis	JN893748.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000288444642688185
+Veronica_officinalis	JN891649.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000288444642688185
+Veronica_officinalis	JN891028.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000288444642688185

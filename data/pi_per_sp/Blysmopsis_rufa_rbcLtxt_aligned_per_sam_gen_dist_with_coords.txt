@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Blysmopsis_rufa	MG226799.1	23-JAN-2018	552	Canada: Yukon Territory, Fox Creek km 227 Saline Flat, 600 m south of Fox Creek km 227 on east side of North Klondike Highway	primary	rbcL	61.091	-135.28	0.00501207729468599
+Blysmopsis_rufa	MG227453.1	23-JAN-2018	552	Canada: Ontario, Cochrane Dist., East Point, James Bay coast, SE side of James, Bay, 50 km ENE of the mouth of the Moose River, 11 km W of the Quebec border, East Point Important Bird Area (IBA 147)	secondary	rbcL	43.5920256343222	-76.4893601562129	0.00501207729468599
+Blysmopsis_rufa	MG227289.1	23-JAN-2018	552	Canada: Ontario, Cochrane Dist., Netitishi Point, E side of Netitishi Point on, James Bay coast, 38 km E of Moosonee, 22 km SE of mouth of Moose River, Important Bird Area 137	secondary	rbcL	44.051412602446	-78.0354265923109	0.0128019323671498
+Blysmopsis_rufa	JN892567.1	07-MAR-2012	481	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.00833333333333333

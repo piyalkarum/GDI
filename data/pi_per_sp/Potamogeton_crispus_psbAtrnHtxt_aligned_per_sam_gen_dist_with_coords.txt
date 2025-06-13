@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_crispus	MF070557.1	09-MAY-2018	410	Iran	secondary	psbA-trnH	32.9600634826999	53.8822216273036	0
+Potamogeton_crispus	MF070556.1	09-MAY-2018	410	Iran	secondary	psbA-trnH	33.414604519911	54.5090637194542	0
+Potamogeton_crispus	MF070555.1	09-MAY-2018	410	Iran	secondary	psbA-trnH	32.0355827652423	54.1966826104477	0
+Potamogeton_crispus	MF070554.1	09-MAY-2018	410	Iran	secondary	psbA-trnH	32.0253459414011	53.9428877791378	0
+Potamogeton_crispus	MF070553.1	09-MAY-2018	410	Iran	secondary	psbA-trnH	32.637910556807	53.5987742745379	0
+Potamogeton_crispus	MF070552.1	09-MAY-2018	410	Iran	secondary	psbA-trnH	32.5778071555845	54.7999191338212	0

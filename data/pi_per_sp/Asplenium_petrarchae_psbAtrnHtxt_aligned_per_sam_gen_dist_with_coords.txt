@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_petrarchae	KU842438.1	27-SEP-2016	544	Spain: Valencia, Benifaro de Valdigna	secondary	psbA-trnH	38.6629780269677	-0.587332413008141	0.000919117647058823
+Asplenium_petrarchae	KU842437.1	27-SEP-2016	544	Spain: Malaga, Grazalema	secondary	psbA-trnH	36.7310478	-4.4029371	0.00245098039215686
+Asplenium_petrarchae	KU842436.1	27-SEP-2016	544	Spain: Zamora, Savinan	secondary	psbA-trnH	41.5056574	-5.7448039	0.00245098039215686
+Asplenium_petrarchae	KU842435.1	27-SEP-2016	544	Spain: Valencia, Benifaro de Valdigna	secondary	psbA-trnH	40.0591980434287	-0.72575716027978	0.000919117647058823
+Asplenium_petrarchae	KU842434.1	27-SEP-2016	544	Spain: Valencia, Benifaro de Valdigna	secondary	psbA-trnH	39.9447161619573	-0.737763946418123	0.00245098039215686
+Asplenium_petrarchae	KU842433.1	27-SEP-2016	544	Spain: Valencia, Benifaro de Valdigna	secondary	psbA-trnH	38.8686833765603	0.0731192919057207	0.000919117647058823
+Asplenium_petrarchae	KU842432.1	27-SEP-2016	544	Spain: Valencia, Benifaro de Valdigna	secondary	psbA-trnH	39.217641071327	0.290457095476572	0.000919117647058823

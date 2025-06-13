@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sesleria_skipetarum	KY910642.1	02-MAY-2018	1782	Albania	secondary	ndhF	1.09358118031855	-75.6244584148034	0
+Sesleria_skipetarum	KY910641.1	02-MAY-2018	1782	Albania	secondary	ndhF	0.519660458354822	-76.219096079306	0
+Sesleria_skipetarum	KY910640.1	02-MAY-2018	1782	Albania	secondary	ndhF	0.928404070210341	-76.5067879375318	0
+Sesleria_skipetarum	KY910639.1	02-MAY-2018	1782	Albania	secondary	ndhF	1.30876230497005	-76.2398860993666	0

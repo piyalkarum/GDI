@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scabiosa_columbaria	JN894429.1	07-MAR-2012	888	United Kingdom: Glamorgan	primary	matK	51.62	-4.25	0.000608272506082725
+Scabiosa_columbaria	KJ204535.1	29-JAN-2015	802	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.000608272506082725
+Scabiosa_columbaria	JN894881.1	07-MAR-2012	822	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000608272506082725
+Scabiosa_columbaria	JN894880.1	07-MAR-2012	548	United Kingdom: Flintshire	secondary	matK	53.2165096	-3.1402189	0.00182481751824818

@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gastridium_phleoides	LR606134.1	04-JUL-2019	915	Spain	primary	ITS	36.56	-5.58	0.00556572014051522
+Gastridium_phleoides	LR588243.1	11-JUN-2019	915	Spain:Andalusia	primary	ITS	37.5	4.36	0.00728312841530055
+Gastridium_phleoides	LR588240.1	11-JUN-2019	915	Spain:Andalusia	primary	ITS	37.91	4.86	0.00481720010408535
+Gastridium_phleoides	LR588239.1	11-JUN-2019	915	Italy:Latium	primary	ITS	42.5918239590308	11.8370154676759	0.00603410421545667
+Gastridium_phleoides	LR588238.1	11-JUN-2019	915	Italy:Latium	primary	ITS	42.52	11.59	0.0048493201925579
+Gastridium_phleoides	LR588237.1	11-JUN-2019	915	Italy:Latium	primary	ITS	42.2396506457627	12.8770117599755	0.00803164845173042
+Gastridium_phleoides	LR588236.1	11-JUN-2019	915	Italy:Latium	primary	ITS	41.8521701754936	11.9964368227884	0.00391255204267499
+Gastridium_phleoides	LR588235.1	11-JUN-2019	915	Spain:Andalusia	primary	ITS	37.79	6.2	0.0165820973198022
+Gastridium_phleoides	LR588234.1	11-JUN-2019	915	Italy:Campania	primary	ITS	41.1	14.33	0.00684686442883164
+Gastridium_phleoides	LR588233.1	11-JUN-2019	915	Italy:Calabria	primary	ITS	39.56	16.76	0.0048493201925579
+Gastridium_phleoides	LR588232.1	11-JUN-2019	915	Italy:Latium	primary	ITS	42.2939594465797	12.360732443181	0.00391255204267499
+Gastridium_phleoides	LR588231.1	11-JUN-2019	915	Spain:Andalusia	primary	ITS	38.47	3.31	0.00647036820192558
+Gastridium_phleoides	LR588230.1	11-JUN-2019	915	Italy:Apulia	primary	ITS	40.57	17.17	0.0048493201925579
+Gastridium_phleoides	LR588229.1	11-JUN-2019	915	Italy:Latium	primary	ITS	42.08	12.21	0.00391255204267499
+Gastridium_phleoides	LR606569.1	25-JAN-2021	576	Lebanon	secondary	ITS	40.375713	-76.4626118	0.0150049603174603

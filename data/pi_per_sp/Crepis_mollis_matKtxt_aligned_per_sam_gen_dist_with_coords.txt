@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crepis_mollis	JN894642.1	07-MAR-2012	913	United Kingdom: Yorkshire	primary	matK	54.01	-2.28	0
+Crepis_mollis	MK925987.1	14-JAN-2020	787	United Kingdom	secondary	matK	54.434669593355	-4.21119199857133	0
+Crepis_mollis	MK925776.1	14-JAN-2020	771	United Kingdom	secondary	matK	54.3009300460077	-3.5953378143269	0
+Crepis_mollis	KT249990.1	09-AUG-2015	820	Germany	secondary	matK	34.895926	-83.4665496	0
+Crepis_mollis	JN895405.1	07-MAR-2012	786	United Kingdom: Yorkshire,Mid-west	secondary	matK	53.9825271	-1.3852499932685	0

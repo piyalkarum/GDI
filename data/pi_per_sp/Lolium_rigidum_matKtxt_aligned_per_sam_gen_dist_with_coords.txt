@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lolium_rigidum	XM_047208390.1	27-MAR-2022	2567	Australia	secondary	matK	-24.7761086	134.755	0.0732519771043896
+Lolium_rigidum	KJ529381.1	22-FEB-2015	969	Spain	secondary	matK	39.3260685	-4.8379791	0.0330597355221158
+Lolium_rigidum	KJ599336.1	21-SEP-2014	769	Australia: Victoria	secondary	matK	-36.5986096	144.6780052	0.0509091577958149
+Lolium_rigidum	HM850534.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0275389455717325

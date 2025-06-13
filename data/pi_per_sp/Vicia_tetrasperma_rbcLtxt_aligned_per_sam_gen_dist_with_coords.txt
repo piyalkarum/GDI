@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_tetrasperma	MW373052.1	01-MAY-2022	542	South Korea	primary	rbcL	35.83	127.08	0.00449116413278276
+Vicia_tetrasperma	MW373051.1	01-MAY-2022	542	South Korea	primary	rbcL	37.58	128.94	0.00449116413278276
+Vicia_tetrasperma	KP643850.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	39.0067936409389	-77.5806503665523	0.0170255290407744
+Vicia_tetrasperma	KP643819.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	39.0879436326887	-77.5616607634443	0.0170255290407744
+Vicia_tetrasperma	HQ590329.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., N-most trail, 100 m W of creek and 20 m S of fence line, N of hill	primary	rbcL	44.038	-79.524	0.00431623683938156
+Vicia_tetrasperma	JN891172.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.56	-3.04	0.00467961728080831
+Vicia_tetrasperma	MN192646.1	30-NOV-2021	723	China	secondary	rbcL	34.600410677768	104.341769104006	0.00508179960775349
+Vicia_tetrasperma	MN192645.1	30-NOV-2021	718	China	secondary	rbcL	35.1447604697294	104.14007285917	0.00416373470046451
+Vicia_tetrasperma	MN726208.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.8702106796918	127.221564148681	0.00402345268916917
+Vicia_tetrasperma	MN726207.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.5114765145891	128.167376785131	0.0143366992874542
+Vicia_tetrasperma	MN726206.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.1544384969962	128.221416786287	0.00402345268916917
+Vicia_tetrasperma	MN726205.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.245360732227	127.784231628715	0.00402345268916917
+Vicia_tetrasperma	MN726204.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.7044680602206	126.893474526085	0.00402345268916917
+Vicia_tetrasperma	MN726203.1	24-JUL-2020	737	South Korea	secondary	rbcL	36.595995292344	126.807422064225	0.00402345268916917
+Vicia_tetrasperma	MN726202.1	24-JUL-2020	737	South Korea	secondary	rbcL	37.222245590136	126.973037399956	0.00402345268916917
+Vicia_tetrasperma	KP896751.1	13-OCT-2015	545	South Korea	secondary	rbcL	36.2945146213055	128.072660740537	0.016002130265321
+Vicia_tetrasperma	KP896750.1	13-OCT-2015	545	South Korea	secondary	rbcL	36.3156799801793	128.176947723917	0.020506515796247
+Vicia_tetrasperma	KP896749.1	13-OCT-2015	545	South Korea	secondary	rbcL	36.0532450303668	128.089197504996	0.020506515796247
+Vicia_tetrasperma	KP896747.1	13-OCT-2015	545	South Korea	secondary	rbcL	36.5492857029395	128.104708507573	0.00412696611940144
+Vicia_tetrasperma	KJ204425.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00456513387950818
+Vicia_tetrasperma	HM850463.1	23-JUL-2011	1253	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00593332332825955
+Vicia_tetrasperma	JN661207.1	09-JAN-2013	497	USA: South Carolina	secondary	rbcL	33.6874388	-80.4363743	0.00478943983401767
+Vicia_tetrasperma	JN893684.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00467961728080831
+Vicia_tetrasperma	JN893677.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00467961728080831

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aira_caryophyllea	MF597146.1	17-JUL-2018	819	Canada: British Columbia, Francis Point Provincial Park - just south of Pender Harbour, Sunshine Coast	primary	matK	49.613	-124.055	0.00129952802505851
+Aira_caryophyllea	MF597145.1	17-JUL-2018	767	Canada: British Columbia, Roadside pullout on W side of Hwy. 1 (TransCanada) at Hells Gate. With Pseudotsuga and Achillea.	primary	matK	49.778	-121.442	0.000336473755047106
+Aira_caryophyllea	MF597144.1	17-JUL-2018	816	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	matK	48.843	-123.305	0.00130008914694316
+Aira_caryophyllea	JN894585.1	07-MAR-2012	805	United Kingdom: Monmouthshire	primary	matK	51.58	-2.96	0.00034106412005457
+Aira_caryophyllea	MF999131.1	09-DEC-2017	1847	Tanzania	secondary	matK	-6.5247123	35.7878438	0.00166095361102469
+Aira_caryophyllea	HM850557.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00449920775832869
+Aira_caryophyllea	JN895687.1	07-MAR-2012	798	United Kingdom: Cardiganshire	secondary	matK	51.8379513757149	-3.72635339002175	0.0011212910910036
+Aira_caryophyllea	JN895358.1	07-MAR-2012	819	United Kingdom: Cardiganshire	secondary	matK	52.587138723669	-4.98213821200772	0.000947812580735875
+Aira_caryophyllea	HQ600039.1	02-AUG-2011	1333	South Korea	secondary	matK	36.638392	127.6961188	0.00108231628520679

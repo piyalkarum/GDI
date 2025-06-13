@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Wulfenia_baldaccii	KC237878.1	30-NOV-2013	840	Albania: Prokletije, Shtegue Dhenvet	secondary	ndhF	42.0169258793234	20.6464353610201	8.51353652307168e-05
+Wulfenia_baldaccii	KC237877.1	30-NOV-2013	822	Albania: Prokletije, Shtegue Dhenvet	secondary	ndhF	42.4454792323824	20.92806810759	8.68960722975322e-05
+Wulfenia_baldaccii	KC237876.1	30-NOV-2013	835	Albania: Prokletije, Shtegue Dhenvet	secondary	ndhF	42.2465954335687	19.5441053853962	8.55431993156544e-05
+Wulfenia_baldaccii	KC237875.1	30-NOV-2013	802	Albania: Prokletije, Shtegue Dhenvet	secondary	ndhF	43.2846409993248	19.9857331528498	0
+Wulfenia_baldaccii	KC237874.1	30-NOV-2013	834	Albania: Prokletije, Shtegue Dhenvet	secondary	ndhF	42.2585405503131	19.3852506045904	8.56457690990065e-05
+Wulfenia_baldaccii	KC237873.1	30-NOV-2013	844	Albania: Prokletije, Parun, Prijevora Mshitel	secondary	ndhF	42.611504281323	20.9308219482388	8.46310088016249e-05
+Wulfenia_baldaccii	KC237872.1	30-NOV-2013	844	Albania: Prokletije, Parun, Prijevora Mshitel	secondary	ndhF	42.2932983320255	20.9375479661446	8.46310088016249e-05
+Wulfenia_baldaccii	KC237871.1	30-NOV-2013	844	Albania: Prokletije, Parun, Prijevora Mshitel	secondary	ndhF	41.969344198764	19.6707888662247	8.46310088016249e-05
+Wulfenia_baldaccii	KC237870.1	30-NOV-2013	843	Albania: Prokletije, Parun, Prijevora Mshitel	secondary	ndhF	42.8495439631668	19.1921174088229	8.47314014573801e-05
+Wulfenia_baldaccii	KC237869.1	30-NOV-2013	852	Albania: Prokletije, Parun, Prijevora Mshitel	secondary	ndhF	42.0273192387031	18.989309541474	0.00110482341588802
+Wulfenia_baldaccii	KC237863.1	30-NOV-2013	849	Albania: Prokletije, Parun, Qafa Shtogut	secondary	ndhF	42.9080721896587	20.4173149742057	8.41325929665152e-05
+Wulfenia_baldaccii	KC237862.1	30-NOV-2013	834	Albania: Prokletije, Parun, Qafa Shtogut	secondary	ndhF	42.6599158724049	18.6561121593915	8.56457690990065e-05
+Wulfenia_baldaccii	KC237861.1	30-NOV-2013	840	Albania: Prokletije, Parun, Qafa Shtogut	secondary	ndhF	42.6050766700696	19.3622434871959	8.50340136054422e-05
+Wulfenia_baldaccii	KC237860.1	30-NOV-2013	849	Albania: Prokletije, Parun, Qafa Shtogut	secondary	ndhF	42.1381590566332	19.6917178585021	8.41325929665152e-05
+Wulfenia_baldaccii	KC237859.1	30-NOV-2013	851	Albania: Prokletije, Parun, Qafa Shtogut	secondary	ndhF	42.5949155621875	19.9263751328309	8.40336134453781e-05

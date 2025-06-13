@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Panicum_capillare	MF597469.1	17-JUL-2018	746	Canada: British Columbia, Vancouver, Jericho Beach Park, corner of NW Marine Drive and Discovery, by Jericho Arts Centre.	primary	matK	49.272	-123.203	0.00498011705257071
+Panicum_capillare	MF597468.1	17-JUL-2018	692	USA: California, Shasta Co., Along hwy 89, 0.6 mi N of Clark Creek Road (FS-50).	primary	matK	41.005	-121.633	0.0214354527938343
+Panicum_capillare	MF597467.1	17-JUL-2018	819	Canada: Ontario, Ottawa, Sandy Hill area, corner of Marleborough Avenue and Osgoode Street, just W of Rideau River. Growing cracks in the sidewalk.	primary	matK	45.425	-75.673	0.00614575763767195
+Panicum_capillare	MF597466.1	17-JUL-2018	767	Canada: British Columbia, Vancouver, Jericho Beach Park, corner of NW Marine Drive and Discovery, by Jericho Arts Centre.	primary	matK	49.274	-123.094	0.00553890001676194
+Panicum_capillare	HQ593378.1	09-NOV-2011	848	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, Echo Valley Parking Lot	primary	matK	44.025	-79.53	0.00524165381404152
+Panicum_capillare	AF164423.1	30-APR-2000	1542	Afghanistan	secondary	matK	33.7680065	66.2385139	0.00522617851339512
+Panicum_capillare	HM850545.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0119104569566546

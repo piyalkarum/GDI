@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erigeron_humilis	MG223170.1	26-DEC-2017	552	Canada: Yukon Territory, Vuntut National Park, Dog Creek camp	primary	rbcL	68.465	-138.746	0.00658761528326746
+Erigeron_humilis	MG222686.1	26-DEC-2017	552	Canada: British Columbia, Atlin, Monarch Mountain trail	primary	rbcL	59.553	-133.608	0.00658761528326746
+Erigeron_humilis	MG221260.1	26-DEC-2017	552	Canada: Yukon Territory, Richardson Mountains, Fish Creek	primary	rbcL	67.899	-136.503	0.00658761528326746
+Erigeron_humilis	KT960645.1	13-DEC-2015	530	Greenland: NE, Zackenberg	primary	rbcL	74.9896861537985	-22.2131681193166	0.0065180102915952
+Erigeron_humilis	KT960471.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.7928014965321	-18.7661166984663	0.00658761528326746
+Erigeron_humilis	KT960437.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	0.0723941631242698
+Erigeron_humilis	KC482780.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq. Seashore, on airport side under sideways rocks	primary	rbcL	56.594	-79.25	0.00658761528326746
+Erigeron_humilis	KC482779.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake	primary	rbcL	62.85	-67.033	0.00658761528326746
+Erigeron_humilis	KC482778.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk	primary	rbcL	69.453	-124.197	0.00658761528326746
+Erigeron_humilis	KC482777.1	25-OCT-2013	552	Canada: Nunavut, Southampton Island, Between Sixteen Mile Brook and Kirchoffer River	primary	rbcL	64.1	-83.383	0.00658761528326746
+Erigeron_humilis	KC482776.1	25-OCT-2013	552	Canada: Northwest Territories, Anderson River, Cape Bathurst E side, brook system N of river from Lake Mc kinlay, 0.7 - 1.5 km from sea	primary	rbcL	70.483	-127.8	0.00658761528326746
+Erigeron_humilis	KC482775.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	rbcL	62.83	-67.35	0.00658761528326746

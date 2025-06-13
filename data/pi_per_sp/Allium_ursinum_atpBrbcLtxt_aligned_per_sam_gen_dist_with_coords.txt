@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_ursinum	HF934242.1	12-MAY-2015	463	Poland	secondary	atpB-rbcL	52.5791781557132	19.4209204438065	0
+Allium_ursinum	HF934241.1	12-MAY-2015	463	Poland	secondary	atpB-rbcL	52.4784789890802	18.0343801044456	0
+Allium_ursinum	HF934240.1	12-MAY-2015	463	Ireland	secondary	atpB-rbcL	52.865196	-7.9794599	0
+Allium_ursinum	HF934239.1	12-MAY-2015	463	Germany	secondary	atpB-rbcL	34.895926	-83.4665496	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sparganium_erectum	MG225901.1	23-JAN-2018	552	Canada: Nova Scotia, Queens County, Cameron Lake Provincial Park	primary	rbcL	44.335	-64.955	0.00104725034742903
+Sparganium_erectum	JN891616.1	07-MAR-2012	534	United Kingdom: Glamorgan	primary	rbcL	51.76	-3.39	0
+Sparganium_erectum	LC576383.1	23-FEB-2021	553	Japan:Aichi, Nagoya	secondary	rbcL	35.1851045	136.8998438	0.00036231884057971
+Sparganium_erectum	LC004543.1	04-DEC-2015	794	Russia	secondary	rbcL	64.6863136	97.7453061	0.000684931506849315
+Sparganium_erectum	JN893201.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.2824144316058	-2.56385505694686	0
+Sparganium_erectum	JN890965.1	07-MAR-2012	443	United Kingdom: Glamorgan	secondary	rbcL	51.6140603917354	-2.18512096420921	0

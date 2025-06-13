@@ -1,0 +1,44 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cirsium_arvense	OR526558.1	25-OCT-2023	900	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.0523764772186	-85.6585800588413	0.00608309277192914
+Cirsium_arvense	OR526557.1	25-OCT-2023	856	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	41.6414760924075	-85.9455940844687	0.0058867151930844
+Cirsium_arvense	OR538519.1	17-OCT-2023	900	USA: Brother Rice High School Athletic Fields, Bloomfield Hills, MI	primary	matK	41.7983515630282	-83.6436709219993	0.00327384252397895
+Cirsium_arvense	OR538518.1	17-OCT-2023	855	USA: Brother Rice High School Athletic Fields, Bloomfield Hills, MI	primary	matK	42.0783736950974	-83.0025365614597	0.00316867654242413
+Cirsium_arvense	OR464915.1	26-SEP-2023	899	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.551557961053	-86.5010664530747	0.00243056146282278
+Cirsium_arvense	OR464914.1	26-SEP-2023	853	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.3371185540384	-84.4010290024218	0.00245664431499069
+Cirsium_arvense	KX677300.1	09-AUG-2017	796	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Campbell Lake Forest Service Road	primary	matK	50.0463	-125.461	0.00428974918252796
+Cirsium_arvense	KX676525.1	09-AUG-2017	796	Canada: British Columbia, Squamish-Lillooet Regional District, near Whistler, Callagan Creek Forest Service Road	primary	matK	50.0722	-123.1	0.00524686708900654
+Cirsium_arvense	MF694840.1	16-SEP-2018	815	Pakistan: Punjab, Cholistan Desert, Kanchi mor	primary	matK	29.189	71.984	0.0024122330125455
+Cirsium_arvense	MG225227.1	21-JAN-2018	783	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Meadow Area (Rifle Range)	primary	matK	43.2938	-79.8762	0.00495672817742247
+Cirsium_arvense	MG225225.1	21-JAN-2018	781	USA: North Dakota	primary	matK	47.906	-101.306	0.0036224571167876
+Cirsium_arvense	MG225143.1	21-JAN-2018	714	USA: North Dakota	primary	matK	48.968	-99.848	0.00395689746822933
+Cirsium_arvense	MG225044.1	21-JAN-2018	785	Canada: Ontario, Norfolk County, Delhi Twp., Intersection of Charlotteville West Quarter Line Road and Charlotteville Road #5	primary	matK	42.737	-80.419	0.00400558918918944
+Cirsium_arvense	MG225017.1	21-JAN-2018	781	USA: North Dakota	primary	matK	48.248	-101.359	0.00496622826786801
+Cirsium_arvense	MG224962.1	21-JAN-2018	784	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, Access Point	primary	matK	45.185	-81.602	0.00401054597675151
+Cirsium_arvense	MG224828.1	21-JAN-2018	786	Canada: Ontario, Cochrane District, Timmins, NEBIE Block#1, Intensive treatment	primary	matK	48.351	-81.301	0.00400130465055474
+Cirsium_arvense	HQ593238.1	09-NOV-2011	875	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 100 m S of Racing Barn	primary	matK	44.029	-79.533	0.00245112756289294
+Cirsium_arvense	KP210373.1	28-NOV-2015	696	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	matK	45.535	-73.149	0.00694106287622893
+Cirsium_arvense	JN895823.1	07-MAR-2012	828	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.00567181295637923
+Cirsium_arvense	JN895286.1	07-MAR-2012	790	United Kingdom: Monmouthshire (35)	primary	matK	51.5	-3.13	0.00364524338319586
+Cirsium_arvense	KT249976.1	09-AUG-2015	820	Germany	secondary	matK	32.2698443584177	-95.0685581883306	0.00313380642262911
+Cirsium_arvense	KT249975.1	09-AUG-2015	820	Germany	secondary	matK	32.0545449963141	-95.5301958631272	0.00490380150097759
+Cirsium_arvense	KT249974.1	09-AUG-2015	820	Germany	secondary	matK	30.7165367831111	-95.1036831428584	0.00401345153888913
+Cirsium_arvense	KT249973.1	09-AUG-2015	820	Germany	secondary	matK	31.8581049386391	-94.514090512295	0.00462548751329905
+Cirsium_arvense	KT249972.1	09-AUG-2015	820	Germany	secondary	matK	31.2317914626742	-95.4830004437243	0.00313380642262911
+Cirsium_arvense	KT249971.1	09-AUG-2015	820	Germany	secondary	matK	30.6261397000651	-94.9185926286248	0.00313380642262911
+Cirsium_arvense	KT249970.1	09-AUG-2015	820	Germany	secondary	matK	31.9250074035467	-95.6012286235326	0.00241326545189037
+Cirsium_arvense	KT249969.1	09-AUG-2015	820	Germany	secondary	matK	31.235383636899	-95.184663841826	0.00462548751329905
+Cirsium_arvense	KT249968.1	09-AUG-2015	820	Germany	secondary	matK	31.1984162643001	-95.645082233214	0.003606484496532
+Cirsium_arvense	KT249967.1	09-AUG-2015	820	Germany	secondary	matK	31.3842475620653	-94.6807138105876	0.00438509747656226
+Cirsium_arvense	KT249966.1	09-AUG-2015	820	Germany	secondary	matK	31.0194676913028	-94.8191919901235	0.00313380642262911
+Cirsium_arvense	KT249965.1	09-AUG-2015	820	Germany	secondary	matK	31.1210449083942	-95.4676474800628	0.00241326545189037
+Cirsium_arvense	KT249964.1	09-AUG-2015	820	Germany	secondary	matK	31.4027705461915	-95.4630911782604	0.00604237326039402
+Cirsium_arvense	KT249963.1	09-AUG-2015	820	Germany	secondary	matK	31.910400810815	-95.7803556792566	0.00401345153888913
+Cirsium_arvense	KT249962.1	09-AUG-2015	820	Germany	secondary	matK	31.1448091257282	-94.81144516324	0.00401345153888913
+Cirsium_arvense	KT249961.1	09-AUG-2015	820	Germany	secondary	matK	31.3163637786452	-95.9640478317604	0.0107984262245288
+Cirsium_arvense	KT249960.1	09-AUG-2015	820	Germany	secondary	matK	31.3691851868442	-95.517879344806	0.00462548751329905
+Cirsium_arvense	KT249959.1	09-AUG-2015	820	Germany	secondary	matK	31.0317945932573	-94.6648779404663	0.00490380150097759
+Cirsium_arvense	KJ204457.1	29-JAN-2015	845	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.0025319463243137
+Cirsium_arvense	KC969499.1	30-NOV-2013	981	USA	secondary	matK	39.7837304	-100.445882	0.00238697180049402
+Cirsium_arvense	HM850621.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00694144223186485
+Cirsium_arvense	JN895726.1	07-MAR-2012	772	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00365532628226027
+Cirsium_arvense	JN895542.1	07-MAR-2012	755	United Kingdom: Montgomeryshire	secondary	matK	52.615273	-3.4649973	0.00707776021282096

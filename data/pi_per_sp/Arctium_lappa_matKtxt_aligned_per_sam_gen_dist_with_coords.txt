@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctium_lappa	MG225123.1	21-JAN-2018	783	Canada: Quebec, Montreal, Island of Montreal, Parc de la Merci	primary	matK	45.547	-73.699	0
+Arctium_lappa	MG225064.1	21-JAN-2018	781	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	matK	43.274	-79.899	0
+Arctium_lappa	JN895220.1	07-MAR-2012	1029	United Kingdom: Cardiganshire	primary	matK	52.08	-4.65	0
+Arctium_lappa	MT917327.1	03-MAR-2023	783	China	secondary	matK	35.000074	104.999927	0
+Arctium_lappa	KT249928.1	09-AUG-2015	820	Germany	secondary	matK	35.2153475362996	-82.4756452850871	0
+Arctium_lappa	KT249927.1	09-AUG-2015	820	Germany	secondary	matK	35.1692590630165	-83.7715861299274	0
+Arctium_lappa	KT249926.1	09-AUG-2015	820	Germany	secondary	matK	34.4487961944142	-82.6746684097765	0
+Arctium_lappa	KT249925.1	09-AUG-2015	820	Germany	secondary	matK	35.1005155956158	-83.8800037542681	0
+Arctium_lappa	KT249924.1	09-AUG-2015	820	Germany	secondary	matK	34.0852743719303	-83.3025872989767	0
+Arctium_lappa	KT249923.1	09-AUG-2015	820	Germany	secondary	matK	35.5544081041861	-83.4588611634572	0
+Arctium_lappa	JN894992.1	07-MAR-2012	897	United Kingdom: Clwyd	secondary	matK	51.443132	-3.166204	0
+Arctium_lappa	JN894040.1	07-MAR-2012	953	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0

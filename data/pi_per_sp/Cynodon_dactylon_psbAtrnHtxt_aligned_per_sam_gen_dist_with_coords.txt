@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cynodon_dactylon	MT263956.1	26-MAR-2022	591	Brazil: Rio Grande do Sul, Rio Grande	primary	psbA-trnH	-32.536237	-52.533691	0.00613478688826837
+Cynodon_dactylon	MH621855.1	03-MAY-2019	569	USA	secondary	psbA-trnH	39.7837304	-100.445882	0.0238521360253323
+Cynodon_dactylon	HQ600101.1	01-AUG-2012	647	South Korea	secondary	psbA-trnH	36.638392	127.6961188	0.00654460541632189
+Cynodon_dactylon	KP711189.1	31-MAR-2016	483	China	secondary	psbA-trnH	35.000074	104.999927	0.00675460458069154
+Cynodon_dactylon	HE966594.1	18-SEP-2012	642	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00788414556996709

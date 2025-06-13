@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_pumpellianus	MF597241.1	17-JUL-2018	788	Canada: Yukon Territory, '7 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy 6) towards Dragon Lake.	primary	matK	62.044	-132.342	0.00320753139309824
+Bromus_pumpellianus	MF597240.1	17-JUL-2018	798	Canada: Yukon Territory, 69 mi Se of Ross River (Pelly River Crossing) on Robert Campbell, Hwy (4) towards Watson Lake.	primary	matK	61.8611718489076	-132.265729842228	0.00320753139309824
+Bromus_pumpellianus	MF597239.1	17-JUL-2018	781	Canada: Yukon Territory, 69 mi Se of Ross River (Pelly River Crossing) on Robert Campbell, Hwy (4) towards Watson Lake.	primary	matK	61.1121571673193	-130.223100903643	0.00320753139309824
+Bromus_pumpellianus	KC474223.1	25-OCT-2013	751	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	matK	66.839	-108.035	0.00304965621526184
+Bromus_pumpellianus	KC474222.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, between road and Darnley Bay	primary	matK	69.3861	-124.031	0.00299508630405981
+Bromus_pumpellianus	KC474221.1	25-OCT-2013	772	Canada: Yukon Territory, Arctic Mainland, Malcolm River, Shore	primary	matK	69.31	-138.5	0.00206922888860226
+Bromus_pumpellianus	KC474220.1	25-OCT-2013	773	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 3 km ESE of junction with Little Hornaday River, NE bank	primary	matK	68.3889	-121.939	0.00206898949906473
+Bromus_pumpellianus	KC474219.1	25-OCT-2013	771	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	matK	68.064	-121.603	0.00207170367249596

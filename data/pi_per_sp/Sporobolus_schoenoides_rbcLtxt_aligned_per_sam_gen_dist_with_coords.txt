@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sporobolus_schoenoides	MG227441.1	23-JAN-2018	553	Canada: Ontario, Essex County, Canada Salt Factory along Detroit River, Windsor	primary	rbcL	42.283	-83.083	0
+Sporobolus_schoenoides	MG226358.1	23-JAN-2018	553	Canada: Ontario, Essex County, South of Windsor Salt Factory near Prospect Avenue and Sandwich Avenue, City of Windsor	primary	rbcL	42.283	-83.1	0
+Sporobolus_schoenoides	MG227697.1	23-JAN-2018	553	Canada: Ontario, Monroe County, Northwest 1/4 section 33, T8S R8E, East side of I-75, just south of Stearns Rd, ca. 3mi South of Erie	secondary	rbcL	43.2455995515068	-77.7372324971402	0
+Sporobolus_schoenoides	MG227275.1	23-JAN-2018	553	Canada: Ontario, Middlesex county. Highway 401, 1km west of Highway 100 to London, Westminster Township	secondary	rbcL	43.7299569964503	-77.757928345968	0

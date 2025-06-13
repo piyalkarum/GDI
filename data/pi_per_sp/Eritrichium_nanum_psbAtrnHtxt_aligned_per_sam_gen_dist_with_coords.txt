@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eritrichium_nanum	OP717009.1	03-MAY-2023	325	Austria: Reitereck	secondary	psbA-trnH	47.0195628	13.5041866	0.00123076923076923
+Eritrichium_nanum	OP717007.1	03-MAY-2023	325	France: Mercantour, Col du Fer	secondary	psbA-trnH	44.166965	6.93032807146882	0.00615384615384615
+Eritrichium_nanum	JX161615.1	30-JUN-2014	432	Switzerland: Alps	secondary	psbA-trnH	46.3400988	6.1722939	0.00123076923076923
+Eritrichium_nanum	JX161614.1	30-JUN-2014	432	Romania: Piatra Craiului Mountains	secondary	psbA-trnH	45.7792596566542	26.3646582921702	0.00123076923076923
+Eritrichium_nanum	JX161613.1	30-JUN-2014	449	Romania: Bucegi Mountains	secondary	psbA-trnH	44.6719729105339	25.0048331748473	0.00123076923076923
+Eritrichium_nanum	JX161609.1	30-JUN-2014	449	Romania: Bucegi Mountains	secondary	psbA-trnH	45.2437076550356	25.434645300165	0.00123076923076923

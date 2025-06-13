@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_psammitis	MN334937.1	16-OCT-2019	1548	Spain	secondary	atp1	40.1557248	-5.2409617	0.0129198966408269
+Silene_psammitis	MN334936.1	16-OCT-2019	1548	Spain	secondary	atp1	36.5645156	-4.8565007	0.0129198966408269
+Silene_psammitis	MN334935.1	16-OCT-2019	1548	Spain	secondary	atp1	36.5222736	-5.0441068	0.0118432385874246
+Silene_psammitis	MN334934.1	16-OCT-2019	1548	Spain	secondary	atp1	36.9342472	-3.9092739	0.00882859603789836

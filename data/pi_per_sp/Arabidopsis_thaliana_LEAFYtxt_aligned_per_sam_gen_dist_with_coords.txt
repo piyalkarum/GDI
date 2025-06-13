@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabidopsis_thaliana	AF466797.1	14-MAY-2002	3936	Netherlands	secondary	LEAFY	52.2663504	4.5440895	0.00136158662527615
+Arabidopsis_thaliana	AF466796.1	14-MAY-2002	3922	United Kingdom	secondary	LEAFY	50.7191523118457	-0.393104198183609	0.00119088860534088
+Arabidopsis_thaliana	AF466795.1	14-MAY-2002	3923	United Kingdom	secondary	LEAFY	51.4985751181559	0.109884470473337	0.00068035896682494
+Arabidopsis_thaliana	AF466794.1	14-MAY-2002	3920	United Kingdom	secondary	LEAFY	50.7852902877935	0.637010227991808	0.000851230658452886

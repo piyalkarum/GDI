@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pulmonaria_obscura	MK925341.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0051234455378	-4.33628776381995	0
+Pulmonaria_obscura	MK925028.1	14-JAN-2020	522	Poland	secondary	rbcL	52.215933	19.134422	0
+Pulmonaria_obscura	MK924488.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3785536958432	-2.15612722800999	0
+Pulmonaria_obscura	EU599876.1	31-MAR-2009	1196	Switzerland	secondary	rbcL	46.7985624	8.2319736	0

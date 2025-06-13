@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_pulverulentum	EU718028.1	31-MAY-2009	1255	Spain: Zaragoza, Nuevalos	secondary	trnK	41.2119305	-1.7904307	0.00199203187250996
+Antirrhinum_pulverulentum	EU718027.1	31-MAY-2009	1255	Spain: Guadalajara, Alcorlo	secondary	trnK	41.036875	-3.0232187	0.00199203187250996
+Antirrhinum_pulverulentum	EU718026.1	31-MAY-2009	1255	Spain: Teruel, Tramacastilla	secondary	trnK	40.4305279	-1.5741925	0.00305444887118194
+Antirrhinum_pulverulentum	EU718025.1	31-MAY-2009	1255	Spain: Guadalajara, Peralejos Truchas	secondary	trnK	40.5935628	-1.9079385	0.00225763612217796
+Antirrhinum_pulverulentum	EU718024.1	31-MAY-2009	1255	Spain: Guadalajara, La Peregrina	secondary	trnK	40.6326979	-3.1646067	0.00265604249667995
+Antirrhinum_pulverulentum	EU718023.1	31-MAY-2009	1255	Spain: Guadalajara, Duron	secondary	trnK	40.6256801	-2.726315	0.00265604249667995
+Antirrhinum_pulverulentum	EU718022.1	31-MAY-2009	1255	Spain: Cuenca, Hoz de Beteta	secondary	trnK	40.5574179	-2.1281559	0.00239043824701195

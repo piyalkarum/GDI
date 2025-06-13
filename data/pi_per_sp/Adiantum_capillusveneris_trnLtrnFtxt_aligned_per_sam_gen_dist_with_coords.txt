@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Adiantum_capillus-veneris	MW011719.1	21-JUN-2021	490	India	secondary	trnL-trnF	22.3511148	78.6677428	0.0030633129244859
+Adiantum_capillus-veneris	KY934377.1	09-APR-2018	837	Cuba	secondary	trnL-trnF	22.3670064501391	-81.0057439203729	0.00182372600480746
+Adiantum_capillus-veneris	KY934376.1	09-APR-2018	839	Cuba	secondary	trnL-trnF	23.7875048866926	-80.4217743684523	0.00453371098954823
+Adiantum_capillus-veneris	JF980690.1	20-AUG-2011	775	Russia	secondary	trnL-trnF	40.2338211	-84.4096729	0.0042920272858533
+Adiantum_capillus-veneris	JF980678.1	20-AUG-2011	787	Philippines: Luzon	secondary	trnL-trnF	15.5919971	120.7396746	0.00326403828076785
+Adiantum_capillus-veneris	JF980676.1	20-AUG-2011	840	China: Chongqing	secondary	trnL-trnF	30.01453859737	107.055768676231	0.00297244739233217
+Adiantum_capillus-veneris	JF980667.1	20-AUG-2011	897	China: Chongqing	secondary	trnL-trnF	29.1901357830204	107.906551345983	0.00191244308771279
+Adiantum_capillus-veneris	JF980666.1	20-AUG-2011	899	China: Guangxi	secondary	trnL-trnF	-8.82596170770946	12.4157144546765	0.00191031627390918
+Adiantum_capillus-veneris	JF980665.1	20-AUG-2011	897	China: Guangxi	secondary	trnL-trnF	-9.22190758605312	14.0246852986914	0.00307555980030607
+Adiantum_capillus-veneris	LC004377.1	03-OCT-2014	814	Indonesia	secondary	trnL-trnF	-2.4833826	117.8902853	0.00423742191431175
+Adiantum_capillus-veneris	DQ432689.1	31-OCT-2006	956	China	secondary	trnL-trnF	30.047992	-94.3357433	0.00213328171426592

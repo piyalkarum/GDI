@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_marina	FJ548330.1	30-AUG-2009	515	Canada: Northwest Territories, Banks Island, NE part, Parker River Valley, N side c. 7 km from sea	primary	rpoB	73.62	-115.85	0.000487329434697856
+Carex_marina	FJ548329.1	30-AUG-2009	513	Canada: Nunuavut, Victoria Island, Cambridge Bay, wet area among willows 1 mi W	primary	rpoB	69.12	-105.05	0.000975610684697856
+Carex_marina	FJ548328.1	30-AUG-2009	512	Canada: Northwest Territories, Banks Island, Bernard River	primary	rpoB	73.37	-121.78	0.00048828125
+Carex_marina	FJ548327.1	30-AUG-2009	439	Canada: Nunuavut, Baffin Island	primary	rpoB	71.81	-80.69	0
+Carex_marina	FJ548326.1	30-AUG-2009	504	Canada: Nunuavut, Baffin Island	primary	rpoB	71.79	-80.61	0

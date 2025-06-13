@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glyceria_notata	JN892963.1	07-MAR-2012	536	United Kingdom: Monmouthshire	primary	rbcL	51.58	-2.94	0.00189808678614649
+Glyceria_notata	KJ599188.1	21-SEP-2014	559	Italy: Bolzano	secondary	rbcL	46.6559455	11.2302129	0.00187841289102736
+Glyceria_notata	JN892265.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00187670769837469
+Glyceria_notata	JN891331.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00468795641029758
+Glyceria_notata	JN891213.1	07-MAR-2012	524	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.00478204485838074

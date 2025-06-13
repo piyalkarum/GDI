@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_pumpellianus	MF596644.1	28-FEB-2018	603	Canada: Yukon Territory, '7 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy 6) towards Dragon Lake.	primary	rbcL	62.4288666105946	-131.517655148308	0
+Bromus_pumpellianus	MF596643.1	28-FEB-2018	603	Canada: Yukon Territory, 69 mi Se of Ross River (Pelly River Crossing) on Robert Campbell, Hwy (4) towards Watson Lake.	primary	rbcL	61.8500513791566	-132.227847507392	0
+Bromus_pumpellianus	MF596642.1	28-FEB-2018	603	Canada: Yukon Territory, 69 mi Se of Ross River (Pelly River Crossing) on Robert Campbell, Hwy (4) towards Watson Lake.	primary	rbcL	62.3985673397084	-130.621806956984	0
+Bromus_pumpellianus	MG227623.1	23-JAN-2018	603	Canada: Yukon Territory, 69 mi Se of Ross River (Pelly River Crossing) on Robert Campbell, Hwy (4) towards Watson Lake.	primary	rbcL	61.6686935092861	-130.625547334169	0
+Bromus_pumpellianus	MG227049.1	23-JAN-2018	603	Canada: Yukon Territory, 69 mi Se of Ross River (Pelly River Crossing) on Robert Campbell, Hwy (4) towards Watson Lake.	primary	rbcL	61.2030087745354	-132.122410393739	0
+Bromus_pumpellianus	MG226131.1	23-JAN-2018	603	Canada: Yukon Territory, '7 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy 6) towards Dragon Lake.	primary	rbcL	61.603917538235	-133.658902456169	0
+Bromus_pumpellianus	KC482148.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	rbcL	66.839	-108.035	0
+Bromus_pumpellianus	KC482147.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, between road and Darnley Bay	primary	rbcL	69.3861	-124.031	0
+Bromus_pumpellianus	KC482146.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Malcolm River, Shore	primary	rbcL	69.31	-138.5	0
+Bromus_pumpellianus	KC482145.1	25-OCT-2013	424	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 3 km ESE of junction with Little Hornaday River, NE bank	primary	rbcL	68.3889	-121.939	0
+Bromus_pumpellianus	KC482144.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	rbcL	68.064	-121.603	0

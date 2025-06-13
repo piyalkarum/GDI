@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_filicaulis	KX955110.1	16-JUL-2017	1770	Iran	secondary	matK	32.890774085139	53.7332747592916	0.00567281687022974
+Astragalus_filicaulis	KX955109.1	16-JUL-2017	1770	Iran	secondary	matK	32.8066343566836	55.5538118720486	0.00605138965084682
+Astragalus_filicaulis	KX955108.1	16-JUL-2017	1772	Iran	secondary	matK	32.9165961845134	55.1590390633711	0.00567474181657186
+Astragalus_filicaulis	KX955107.1	16-JUL-2017	1762	Iran	secondary	matK	32.0263578972645	54.6759434446045	0.0143857656634488

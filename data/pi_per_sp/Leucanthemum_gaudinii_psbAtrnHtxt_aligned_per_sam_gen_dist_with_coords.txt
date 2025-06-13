@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_gaudinii	OP451259.1	16-OCT-2022	429	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.250467	19.934267	0.00265940033331918
+Leucanthemum_gaudinii	OP451258.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.22600797	19.89817201	0.00265940033331918
+Leucanthemum_gaudinii	LN868976.1	17-SEP-2015	462	Austria	primary	psbA-trnH	46.86	13.82	0.00491839062497097
+Leucanthemum_gaudinii	LN868975.1	17-SEP-2015	428	Slovakia	primary	psbA-trnH	49.25	20.23	0.00205313033259821
+Leucanthemum_gaudinii	LN868974.1	17-SEP-2015	459	Spain	primary	psbA-trnH	42.83	-6.86	0.00295168795396149
+Leucanthemum_gaudinii	LN868973.1	17-SEP-2015	390	Spain	primary	psbA-trnH	43.13	-4.75	0.0015067906322903
+Leucanthemum_gaudinii	LN868972.1	17-SEP-2015	454	Spain	primary	psbA-trnH	42.78	-0.23	0.00296461549545928
+Leucanthemum_gaudinii	LN868971.1	17-SEP-2015	385	Spain	primary	psbA-trnH	42.58	1	0.00345356061821843
+Leucanthemum_gaudinii	HF912044.1	21-APR-2013	329	Spain:Cantabria	primary	psbA-trnH	43.15	-4.8	0.000780675529238748
+Leucanthemum_gaudinii	HF912043.1	21-APR-2013	324	Spain:Asturias	primary	psbA-trnH	43.27	-4.63	0.000780675529238748
+Leucanthemum_gaudinii	HF912042.1	21-APR-2013	324	Spain:Lugo	primary	psbA-trnH	42.92	-6.86	0.000780675529238748
+Leucanthemum_gaudinii	HF912041.1	21-APR-2013	324	Spain:Lugo	primary	psbA-trnH	42.83	-6.85	0.000780675529238748
+Leucanthemum_gaudinii	HE680926.1	22-APR-2013	339	Spain:Aragon	secondary	psbA-trnH	40.9178965404899	-0.841412073981946	0.0028150051352069
+Leucanthemum_gaudinii	HE680897.1	22-APR-2013	344	Spain:Cantabria	secondary	psbA-trnH	43.1595664	-4.0878382	0.000737463126843658
+Leucanthemum_gaudinii	HE680896.1	22-APR-2013	339	Spain:Cataluna	secondary	psbA-trnH	41.8523094	1.5745043	0.0028150051352069
+Leucanthemum_gaudinii	HE680895.1	22-APR-2013	339	Spain:Aragon	secondary	psbA-trnH	40.6449067155292	-1.12535285678314	0.000737463126843658
+Leucanthemum_gaudinii	HE680894.1	22-APR-2013	339	Slovakia:Presov	secondary	psbA-trnH	49.0000074	21.2392122	0.000737463126843658

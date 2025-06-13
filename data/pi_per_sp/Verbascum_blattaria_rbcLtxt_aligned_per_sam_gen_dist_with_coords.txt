@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Verbascum_blattaria	MK505457.1	02-MAR-2019	498	USA: New York, New York, Jamaica Bay Wildlife Refuge	primary	rbcL	40.62	-73.83	0.000401606425702811
+Verbascum_blattaria	MG224200.1	26-DEC-2017	552	Canada: Guelph lake	primary	rbcL	42.7269001691751	-79.8903103820112	0.00036231884057971
+Verbascum_blattaria	MG222648.1	26-DEC-2017	552	Canada: Waterloo	primary	rbcL	43.4706	-80.5361	0.00036231884057971
+Verbascum_blattaria	MG222293.1	26-DEC-2017	552	Canada: Guelph	primary	rbcL	43.5028151750466	-79.4390110213703	0.00036231884057971
+Verbascum_blattaria	MG221883.1	26-DEC-2017	552	Canada: Ontario, Niagara	primary	rbcL	43.104	-79.087	0.00036231884057971
+Verbascum_blattaria	MT931682.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.00185088178802165

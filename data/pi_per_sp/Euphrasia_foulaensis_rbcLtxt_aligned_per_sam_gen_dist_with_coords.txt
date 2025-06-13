@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphrasia_foulaensis	MK924928.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1670430624606	-2.34996458991638	0.19106529209622
+Euphrasia_foulaensis	MK924814.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1434747713585	-4.50598802553858	0.19106529209622
+Euphrasia_foulaensis	MK924716.1	14-JAN-2020	510	United Kingdom	secondary	rbcL	54.8928650521125	-2.29399538280962	0.190575190575191
+Euphrasia_foulaensis	EU040297.1	31-JUL-2008	793	United Kingdom: Scotland	secondary	rbcL	56.7861112	-4.1140518	0.57270577476763

@@ -1,0 +1,26 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_reticulata	MZ359338.1	07-DEC-2021	548	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Salix_reticulata	MG246052.1	21-JAN-2018	552	Canada: Yukon Territory, Mount Klotz camp	primary	rbcL	65.363	-140.182	0
+Salix_reticulata	KC483983.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	rbcL	69.45	-124.197	0
+Salix_reticulata	KC483982.1	25-OCT-2013	552	USA: Alaska, Aleutian Islands, Attu Island, West Mountains just west of Casco Cove and near the old east-west runway at Coast Guard Station. Lower shoulder of mountain	primary	rbcL	52.6884667454957	-174.004613186533	0
+Salix_reticulata	KC483981.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Hornaday River, ~1 km downstream of valley leading to Castle Butte	primary	rbcL	68.1833	-121.825	0
+Salix_reticulata	KC483980.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, community of Bathurst Inlet	primary	rbcL	66.84	-108.03	0
+Salix_reticulata	KC483979.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Tukarak Island, slightly east facing slope below large rock hills, 50 m from shore	primary	rbcL	56.386	-78.872	0
+Salix_reticulata	KC483978.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Camp 13 km north of Oterkvik Point, 10 km north of coast at Coronation gulf, lower camp area and vicinity to the south	primary	rbcL	68.739	-112.625	0
+Salix_reticulata	KC483977.1	25-OCT-2013	552	USA: Alaska, Aleutian Islands, Attu Island, West Mountains just west of Casco Cove and near the old east-west runway at Coast Guard Station. Mid-shoulder of mountain	primary	rbcL	52.9847436427067	-172.880250521506	0
+Salix_reticulata	KC483976.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Lower Savage Island, Savage Harbour	primary	rbcL	61.817	-65.7	0
+Salix_reticulata	JN965972.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas heath	primary	rbcL	58.769	-93.862	0
+Salix_reticulata	JN965971.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.83	-92.808	0
+Salix_reticulata	JN965970.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.767	-93.251	0
+Salix_reticulata	JN965969.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Bog	primary	rbcL	58.75	-94.11	0
+Salix_reticulata	JN965968.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality, Tundra	primary	rbcL	58.74	-93.82	0
+Salix_reticulata	JN965967.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 46 km E Churchill, Fort Churchill, Spaceport project. Churchill area. Site T-16 C-1. Flat, open beach ridge. Dry. Sand and gravelly sand.	primary	rbcL	58.733	-93.808	0
+Salix_reticulata	JN965966.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.467	-93.21	0
+Salix_reticulata	JN965965.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.383	-93.225	0
+Salix_reticulata	JN965964.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.666	-93.188	0
+Salix_reticulata	JN965963.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.856	-92.753	0
+Salix_reticulata	JN965962.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, Skidmore Lake, unnamed lake ca. 1 km W of the S end of Skidmore lake. Sandy shoreline of small lake, amongst Myrica gale, Potentilla fruticosa, Betula glandulosa	primary	rbcL	57.793	-93.384	0
+Salix_reticulata	MK924679.1	14-JAN-2020	542	Russia	secondary	rbcL	64.6863136	97.7453061	0
+Salix_reticulata	MK924603.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9211784867146	-3.84120869650016	0
+Salix_reticulata	MK924481.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5147133230395	-2.1959926428553	0
+Salix_reticulata	FR694859.1	04-OCT-2010	597	Russia:Kamchatka	secondary	rbcL	57.1914882	160.0383819	0

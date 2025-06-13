@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Equisetum_hyemale	OR738016.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.32694	83.54556	NA
+Equisetum_hyemale	MK030065.1	16-OCT-2019	553	USA: Maine, Yarmouth, Royall Point Road	primary	rbcL	43.789	-70.151	NA
+Equisetum_hyemale	MK393449.1	03-FEB-2019	538	USA: Ohio, Westerville, university greenhouse	primary	rbcL	40.1257	-82.9375	NA
+Equisetum_hyemale	MG215412.1	24-JAN-2018	552	USA: North Dakota	primary	rbcL	48.11	-100.377	NA
+Equisetum_hyemale	MG215059.1	24-JAN-2018	552	USA: North Dakota	primary	rbcL	47.672	-100.11	NA
+Equisetum_hyemale	KJ841303.1	04-NOV-2014	535	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. On side of Lac Hertel, between North and West Creeks	primary	rbcL	45.546	-73.155	NA
+Equisetum_hyemale	MG215514.1	24-JAN-2018	552	Canada: Ontario, Halton R. M., Halton Forest South ANSI, Town of Milton, Ext, ensive escarpment bedrock plain and escarpment slope 4 km SE of Campbellville	secondary	rbcL	43.4873112090034	-77.4017704659205	NA
+Equisetum_hyemale	MG215026.1	24-JAN-2018	552	Canada: Ontario, Bruce Co., Lindsay,Eastnor Tp. Hope Bay Forest ANSI, Georgian Bay shore, incl. shroeline terrace/shingle spit+Niagara Escarpment slope+plain, 20 km N of Wiarton	secondary	rbcL	44.2589572755202	-76.9813415318836	NA
+Equisetum_hyemale	AB574685.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.00267602136398662
+Equisetum_hyemale	AB817909.1	17-APR-2014	732	South Korea: Gyeongsangbuk-do	secondary	rbcL	36.5754	128.5058	NA
+Equisetum_hyemale	AB817908.1	17-APR-2014	732	South Korea: Gangwon-do	secondary	rbcL	37.0830723659608	127.85060884562	NA
+Equisetum_hyemale	AB817907.1	17-APR-2014	732	South Korea: Gangwon-do	secondary	rbcL	38.0091626295755	127.188579626457	NA
+Equisetum_hyemale	AB817906.1	17-APR-2014	732	South Korea: Gangwon-do	secondary	rbcL	37.6003145854867	126.822709094083	NA
+Equisetum_hyemale	AB817905.1	17-APR-2014	732	South Korea: Gangwon-do	secondary	rbcL	37.65260249243	127.547210218427	NA
+Equisetum_hyemale	AB817904.1	17-APR-2014	732	South Korea: Gangwon-do, Jeongseon-gun, Jeongseon-eup	secondary	rbcL	37.3796216	128.6618047	NA
+Equisetum_hyemale	AB817903.1	17-APR-2014	732	South Korea: Gangwon-do, Pyeongchang-gun, Jinbu-myeon	secondary	rbcL	37.6230237	128.5555834	NA
+Equisetum_hyemale	AB817902.1	17-APR-2014	732	South Korea: Gangwon-do, Inje-gun, Girin-myeon, Bangdong-ri	secondary	rbcL	37.92512	128.40756	NA
+Equisetum_hyemale	AB817900.1	17-APR-2014	732	South Korea: Gangwon-do, jeombongsan	secondary	rbcL	38.04874	128.425643	NA
+Equisetum_hyemale	KF186500.1	23-SEP-2013	1309	Canada: Aurora, ON	secondary	rbcL	43.99973	-79.467545	0.00277825675453016

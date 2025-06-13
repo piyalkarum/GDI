@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cystopteris_montana	MG215586.1	24-JAN-2018	552	Canada: Yukon Territory, Keele Range	primary	rbcL	66.98	-140.834	0.00234741784037559
+Cystopteris_montana	MG215198.1	24-JAN-2018	552	Canada: Yukon Territory, Kusawa Park	primary	rbcL	60.604	-136.171	0.00234741784037559
+Cystopteris_montana	KT307940.1	20-MAR-2016	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On the SW slope, 15 m above E600A1.	primary	rbcL	55.1636	-68.2322	0.00234741784037559
+Cystopteris_montana	JX874047.1	07-MAY-2013	1149	China: Tibet. S Tibet.	secondary	rbcL	26.8787129	100.2334604	0.00878289755942093
+Cystopteris_montana	JF832063.1	24-JAN-2012	1309	Canada: Newfoundland	secondary	rbcL	49.1212094	-56.6403111	0.00174064403829417

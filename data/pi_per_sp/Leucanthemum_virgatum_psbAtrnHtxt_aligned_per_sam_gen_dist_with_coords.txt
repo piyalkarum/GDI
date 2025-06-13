@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_virgatum	LN868999.1	17-SEP-2015	461	Italy	primary	psbA-trnH	44.06	8.06	0.00415579270130832
+Leucanthemum_virgatum	LN868998.1	17-SEP-2015	458	France	primary	psbA-trnH	43.98	7.27	0.00218340611353712
+Leucanthemum_virgatum	HE680958.1	22-APR-2013	338	France:Provence-Alpes	secondary	psbA-trnH	44.5128938651853	5.53991331017283	0.000986193293885602
+Leucanthemum_virgatum	HE680900.1	22-APR-2013	338	France:Provence-Alpes	secondary	psbA-trnH	44.2096897906413	6.23732752603806	0.000986193293885602

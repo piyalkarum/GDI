@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurium_pulchellum	MK325301.1	30-APR-2019	845	Portugal: Aveiro, Ponte da Barra	primary	matK	40.38	-8.44	0.082962962962963
+Centaurium_pulchellum	MK325291.1	30-APR-2019	845	Spain: Huesca, Ibeca	primary	matK	42.09	-0.14	0.082962962962963
+Centaurium_pulchellum	JN895503.1	07-MAR-2012	824	United Kingdom: Carmarthenshire	primary	matK	51.68	-4.23	0.082962962962963
+Centaurium_pulchellum	KX758476.1	29-AUG-2017	450	Egypt	secondary	matK	26.2540493	29.2675469	0.248888888888889

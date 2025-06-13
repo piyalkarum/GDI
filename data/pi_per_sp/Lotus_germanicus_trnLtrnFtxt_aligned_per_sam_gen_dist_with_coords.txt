@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_germanicus	OL697831.1	08-MAR-2022	828	Croatia: Istarskaya Zhupanya	primary	trnL-trnF	45.322222	14.151667	0.00837835818372162
+Lotus_germanicus	OL697830.1	08-MAR-2022	834	Switzerland: Vaud, Reserve de Pupplinge (Boriere) [Boriere, Pas de la Boriere, Alpes Friburgeoises, commune probable, Grandvillard (8 km E)]	primary	trnL-trnF	46.5362239	7.14805559	0.0186785046097961
+Lotus_germanicus	OL697829.1	08-MAR-2022	840	Croatia: Kneza	primary	trnL-trnF	42.9712193	17.051827	0.00522566754136897
+Lotus_germanicus	OL697828.1	08-MAR-2022	847	Slovenia: Polhograjsko hribovje, In pratis prope Govejek supra vicum Medvode. Solo dolom. 800m	primary	trnL-trnF	46.116229	14.345723	0.00360535415976398
+Lotus_germanicus	OL697827.1	08-MAR-2022	847	Italy: Collines au Nord de Rupingrande 350-400m	primary	trnL-trnF	45.72153	13.787471	0.00360535415976398
+Lotus_germanicus	OL697826.1	08-MAR-2022	839	Slovakia: austro-orientalis, distr. Roznava, in declivi cartiensi australi infra arcem Turnansky hrad prope vicum Turna n. Bodvou, c.350 m	primary	trnL-trnF	48.601585	20.876532	0.00442903557989642
+Lotus_germanicus	OL697825.1	08-MAR-2022	840	Hungary: Budapest, Sas-hegy, steppefied meadow on the slope	primary	trnL-trnF	47.482002	19.018889	0.00522566754136897
+Lotus_germanicus	MK751667.1	20-DEC-2020	847	Germany: Bayern, Oberbayerische Hochebene, n.Munchen	secondary	trnL-trnF	47.7944864	12.533646	0.00360535415976398
+Lotus_germanicus	MK751666.1	20-DEC-2020	847	Slovenia: Polhograjsko Hribovje, prope Govejek, supra vicum Medvode	secondary	trnL-trnF	46.0938914	14.300201647062	0.00360535415976398
+Lotus_germanicus	MK751668.1	20-DEC-2020	847	Montenegro	secondary	trnL-trnF	43.1550532	19.1208669	0.00360535415976398

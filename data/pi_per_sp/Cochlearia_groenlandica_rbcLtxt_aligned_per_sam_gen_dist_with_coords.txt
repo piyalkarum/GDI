@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cochlearia_groenlandica	MG249863.1	21-JAN-2018	552	Canada: Yukon Territory, King Point	primary	rbcL	69.094	-137.968	0
+Cochlearia_groenlandica	MG246784.1	21-JAN-2018	552	Canada: Manitoba, Wapusk National Park, La Peruse Bay, east of	primary	rbcL	58.722	-93.428	0
+Cochlearia_groenlandica	KT960703.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.0023938942514	-18.602107168853	0
+Cochlearia_groenlandica	KT960684.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	0
+Cochlearia_groenlandica	KT960378.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1129998297491	-17.6089185743915	0
+Cochlearia_groenlandica	KT960035.1	06-DEC-2015	552	Greenland: NE, Constable Point	primary	rbcL	70.7333	-22.65	0
+Cochlearia_groenlandica	KC482459.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, 200 m west of the Causeway, at the inlet along west shore of Koojessi Inlet, 2 km south of Iqaluit	primary	rbcL	63.7286	-68.5333	0
+Cochlearia_groenlandica	KC482458.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Coast opposite Richardson Islands, ca. 18 km E of Johansen Bay airstrip	primary	rbcL	68.733	-110.719	0
+Cochlearia_groenlandica	KC482457.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Vendom Fiord, River bed near the head of the fiord	primary	rbcL	78.0667	-82.8	0
+Cochlearia_groenlandica	KC482456.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Tanquary Camp, Quttinirpaaq National Park Reserve. Tanquary Fiord, near Tanquary camp	primary	rbcL	81.417	-79.75	0
+Cochlearia_groenlandica	KC482455.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Boot Inlet, Shoreline at NE corner of Boot Inlet	primary	rbcL	71.455	-117.463	0
+Cochlearia_groenlandica	KC482454.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	rbcL	74.5333	-82.7833	0
+Cochlearia_groenlandica	KC482453.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Aulavik National Park, Archaeological site beside Sharon Lake	primary	rbcL	73.5069	-120.351	0
+Cochlearia_groenlandica	KC482452.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	rbcL	70.735	-117.761	0
+Cochlearia_groenlandica	KC482451.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Expedition River, McGill University Field Camp on N side of Expedition River. Moist saline slope along river ~1.5 km S of camp	primary	rbcL	79.4	-90.8	0
+Cochlearia_groenlandica	KC482450.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.8553	-67.3469	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tephroseris_helenitis	MW796282.1	14-SEP-2021	1118	Austria: Salzburg	secondary	ndhF	47.7981346	13.0464806	0.0181195138528222
+Tephroseris_helenitis	MW796281.1	14-SEP-2021	1121	Spain: Navarre	secondary	ndhF	42.6125488	-1.8307877	0.0268476674457076
+Tephroseris_helenitis	MW796280.1	14-SEP-2021	1118	France: Languedoc-Roussillon	secondary	ndhF	43.654203	3.6746699	0.0268456537211226
+Tephroseris_helenitis	MW796279.1	14-SEP-2021	1132	France: Pyrenees-Atlantiques	secondary	ndhF	43.1871865	-0.7282474	0.0282258064516129
+Tephroseris_helenitis	MW796278.1	14-SEP-2021	1121	Germany: Bavaria	secondary	ndhF	48.9467562	11.4038717	0.0225970054212271

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_album	MK028062.1	17-DEC-2018	732	France: Corsica, St. Florent	secondary	rbcL	42.681295	9.3024991	0.0113352345493965
+Galium_album	MK028015.1	17-DEC-2018	724	France: Corsica, Solenzara	secondary	rbcL	41.9238896	9.4011262	0.0113352345493965
+Galium_album	KJ204345.1	29-JAN-2015	506	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.0117994100294985
+Galium_album	HE574630.1	31-JUL-2011	562	Finland	secondary	rbcL	63.2467777	25.9209164	0.00995024875621891

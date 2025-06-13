@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dactylorhiza_viridis	DQ022914.1	24-MAY-2005	1188	China	secondary	rpl16	35.3196446317459	104.8738791718	0.00280583613916947
+Dactylorhiza_viridis	DQ022913.1	24-MAY-2005	1188	China	secondary	rpl16	34.3340822227511	105.380317781151	0.00336700336700337
+Dactylorhiza_viridis	DQ022912.1	24-MAY-2005	1189	Austria	secondary	rpl16	36.9148511	-4.7534501	0.00336676738414894
+Dactylorhiza_viridis	DQ022911.1	24-MAY-2005	1189	United Kingdom	secondary	rpl16	54.7023545	-3.2765753	0.00280560015631504

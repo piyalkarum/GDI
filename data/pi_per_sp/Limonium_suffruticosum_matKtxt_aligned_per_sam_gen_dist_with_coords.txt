@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Limonium_suffruticosum	MT918044.1	03-MAR-2023	780	China	secondary	matK	35.5596469497067	104.884259895259	0.00352564102564103
+Limonium_suffruticosum	MT918043.1	03-MAR-2023	780	China	secondary	matK	34.8160558485823	105.864735602935	0.00384615384615385
+Limonium_suffruticosum	MF190464.1	07-MAR-2018	2798	Uzbekistan	secondary	matK	41.32373	63.9528098	0.00367449302878003
+Limonium_suffruticosum	MF190461.1	07-MAR-2018	2796	Iran	secondary	matK	32.6475314	54.5643516	0.00383982247801883
+Limonium_suffruticosum	MF190385.1	07-MAR-2018	2794	Russia	secondary	matK	64.6863136	97.7453061	0.00294597612086291

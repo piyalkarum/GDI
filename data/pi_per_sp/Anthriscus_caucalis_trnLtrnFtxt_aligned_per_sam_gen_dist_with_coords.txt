@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthriscus_caucalis	KY710793.1	25-FEB-2018	314	Turkey: Edirne	secondary	trnL-trnF	41.6763707	26.5566834	0.00353857041755131
+Anthriscus_caucalis	KY710792.1	25-FEB-2018	314	Turkey: Afyon	secondary	trnL-trnF	39.0445281527849	31.2292826537791	0.000707714083510262
+Anthriscus_caucalis	KY710791.1	25-FEB-2018	314	Turkey: Bursa	secondary	trnL-trnF	39.9895878	28.8944669	0.000707714083510262
+Anthriscus_caucalis	KY710790.1	25-FEB-2018	314	Turkey: Isparta	secondary	trnL-trnF	37.9465412	30.9602093	0.000707714083510262
+Anthriscus_caucalis	KY710789.1	25-FEB-2018	314	Turkey: Tekirdag	secondary	trnL-trnF	40.9913019	27.3676293	0.000707714083510262
+Anthriscus_caucalis	KY710788.1	25-FEB-2018	314	Turkey: Afyon	secondary	trnL-trnF	39.2542574155608	30.3227857586225	0.000707714083510262
+Anthriscus_caucalis	KY710787.1	25-FEB-2018	314	Turkey: Kocaeli	secondary	trnL-trnF	40.8216536	29.9507184	0.000707714083510262
+Anthriscus_caucalis	KY710786.1	25-FEB-2018	314	Turkey: Bolu	secondary	trnL-trnF	40.6212099	31.6460259	0.000707714083510262
+Anthriscus_caucalis	KY710785.1	25-FEB-2018	314	Turkey: Eskisehir	secondary	trnL-trnF	39.7743941	30.519116	0.000707714083510262
+Anthriscus_caucalis	KY710784.1	25-FEB-2018	314	Turkey: Aksaray	secondary	trnL-trnF	38.4326291	33.8976963	0.00353857041755131

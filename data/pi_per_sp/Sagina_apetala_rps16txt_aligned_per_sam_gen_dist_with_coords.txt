@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_apetala	OK505808.1	22-FEB-2022	736	Greece: Island of Samothraki, Akr. Kipos	primary	rps16	40.416667	25.683333	0.00111166007905138
+Sagina_apetala	OK505807.1	22-FEB-2022	736	Greece: Island of Samothraki, Loutra (Therma)	primary	rps16	40.466667	25.666667	0.00111166007905138
+Sagina_apetala	OK505806.1	22-FEB-2022	736	Greece: Island of Lesvos, Megalochorion	primary	rps16	39.016667	26.366667	0.00111166007905138
+Sagina_apetala	OK505805.1	22-FEB-2022	736	Greece: Mitikas	primary	rps16	37.066667	22.366667	0.00111166007905138
+Sagina_apetala	OK505804.1	22-FEB-2022	736	Greece: Mitikas	primary	rps16	38.683333	20.933333	0.00234683794466403
+Sagina_apetala	OK505803.1	22-FEB-2022	736	New Zealand: Canterbury Land District, Leeston	primary	rps16	-43.816667	172.25	0.00111166007905138
+Sagina_apetala	OK505801.1	22-FEB-2022	762	Germany: Hessen, Leun-Biskirchen	primary	rps16	50.3930017481611	8.80516419986726	0.00134605209921882
+Sagina_apetala	OK505800.1	22-FEB-2022	762	Germany: Hessen, Frankfurt-Schwanheim	primary	rps16	50.722336411192	8.55965907118089	0.00209137333623811
+Sagina_apetala	OK505799.1	22-FEB-2022	736	Germany: Hessen, Hochheim-Massenheim	primary	rps16	50.038028	8.390194	0.00111166007905138
+Sagina_apetala	OK505797.1	22-FEB-2022	762	Germany: Hessen, Frankfurt-Schwanheim	primary	rps16	50.4557296590899	7.58810375987051	0.00134605209921882
+Sagina_apetala	OK505796.1	22-FEB-2022	762	Germany: Hessen, Leun-Biskirchen	primary	rps16	51.1049896836316	8.04045683662511	0.00209137333623811
+Sagina_apetala	OK505798.1	22-FEB-2022	762	Germany: Hamburg, Hoheluftchausee	secondary	rps16	53.550341	10.000654	0.00209137333623811

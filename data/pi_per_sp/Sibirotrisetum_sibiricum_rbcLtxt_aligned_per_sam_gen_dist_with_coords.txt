@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sibirotrisetum_sibiricum	MG226779.1	23-JAN-2018	552	Canada: Yukon Territory, Babbage River	primary	rbcL	69.167	-138.327	0.00452898550724638
+Sibirotrisetum_sibiricum	MN192792.1	30-NOV-2021	723	China	secondary	rbcL	34.2732937898596	105.428229872091	0.00883913646922489
+Sibirotrisetum_sibiricum	MN185266.1	27-APR-2021	721	China	secondary	rbcL	35.2076586598641	105.117732985898	0.0049605268447607
+Sibirotrisetum_sibiricum	KM538835.1	20-JUN-2015	743	South Korea	secondary	rbcL	36.7739510445624	126.810744665377	0.00471322991625429
+Sibirotrisetum_sibiricum	HQ600422.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.6828135624992	127.367538724878	0.00471322991625429

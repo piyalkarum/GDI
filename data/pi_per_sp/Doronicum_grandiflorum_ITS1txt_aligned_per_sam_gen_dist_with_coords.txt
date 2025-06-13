@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Doronicum_grandiflorum	AJ400021.1	11-MAR-2001	257	Spain:Pyrenees	secondary	ITS1	42.3220534867728	1.65834154879238	0.0012970168612192
+Doronicum_grandiflorum	AJ400020.1	11-MAR-2001	257	Andorra:Pyrenees	secondary	ITS1	42.5074629	1.5196458	0.0012970168612192
+Doronicum_grandiflorum	AJ400019.1	11-MAR-2001	257	Spain:Pyrenees	secondary	ITS1	41.7756540887746	0.100763517691743	0.00389105058365759
+Doronicum_grandiflorum	AJ400018.1	11-MAR-2001	257	France:Pyrenees	secondary	ITS1	48.8738565	2.3852638	0.0012970168612192

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phyteuma_spicatum	MK925000.1	14-JAN-2020	542	Germany	secondary	rbcL	40.4203479	-79.1166983	0.183333333333333
+Phyteuma_spicatum	MK924958.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3608841057992	-2.60504071577135	0.183333333333333
+Phyteuma_spicatum	MK924637.1	14-JAN-2020	499	United Kingdom	secondary	rbcL	54.4074534326011	-3.53698875259951	0.181998021760633
+Phyteuma_spicatum	MK555601.1	22-SEP-2019	357	Poland	secondary	rbcL	52.215933	19.134422	0.5486646884273

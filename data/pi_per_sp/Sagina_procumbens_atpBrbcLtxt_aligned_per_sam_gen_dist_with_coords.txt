@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_procumbens	OK505918.1	22-FEB-2022	888	Germany: Nordrhein-Westfalen, Borken	primary	atpB-rbcL	51.843611	6.861111	0.00141224278018674
+Sagina_procumbens	OK505916.1	22-FEB-2022	888	Germany: Schleswig-Holstein, Hallig Langeness	primary	atpB-rbcL	54.6	8.5	0.00141224278018674
+Sagina_procumbens	MT534509.1	06-DEC-2021	810	Greece	primary	atpB-rbcL	40.2	22.18	0.00176831245206648
+Sagina_procumbens	MT534508.1	06-DEC-2021	809	Germany	primary	atpB-rbcL	50.06	8.42	0.00618380570151111
+Sagina_procumbens	MT534507.1	06-DEC-2021	810	Germany	primary	atpB-rbcL	49.99	8.24	0.00141224278018674
+Sagina_procumbens	MT534506.1	06-DEC-2021	810	Bulgaria	primary	atpB-rbcL	42.13	23.18	0.00176831245206648
+Sagina_procumbens	OK505917.1	22-FEB-2022	888	United Kingdom: Middlesex, Ruislip	secondary	atpB-rbcL	51.5460558	-0.253779138934072	0.00141224278018674
+Sagina_procumbens	MT534510.1	06-DEC-2021	794	Germany	secondary	atpB-rbcL	31.4399019	-95.350778	0.000539762504498021

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Boerhavia_diffusa	MH552316.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.70257735	-81.983441193043	0.00536036569644686
+Boerhavia_diffusa	MK947217.1	21-DEC-2019	558	India	secondary	matK	21.7550371555053	78.5367612886269	0.00241574435122822
+Boerhavia_diffusa	MK309366.1	10-AUG-2019	809	India	secondary	matK	22.9988753553069	78.276404580065	0.0053006907301505
+Boerhavia_diffusa	MK125121.1	03-FEB-2019	723	Saudi Arabia: Makkah	secondary	matK	21.420847	39.826869	0.002890559732665

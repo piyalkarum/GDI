@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_corsicus	KX958955.1	02-NOV-2017	804	France: Corsica, Olmeta-di-Capocorso, Bocca di San Ghjacintu	primary	rps16	43.1913478949617	10.155752349422	0.000527422859626249
+Odontites_corsicus	KX958954.1	02-NOV-2017	713	France: Corsica, Olmeta-di-Capocorso, Bocca di San Ghjacintu	primary	rps16	42.8748411263928	8.89456591563854	0.000567826903469426
+Odontites_corsicus	KX958802.1	02-NOV-2017	819	France: Corsica, Olmeta-di-Capocorso, Bocca di San Ghjacintu	primary	rps16	43.0790247667777	8.38750149535872	0.000522014506078251
+Odontites_corsicus	KX958801.1	02-NOV-2017	806	France: Corsica, Olmeta-di-Capocorso, Bocca di San Ghjacintu	primary	rps16	42.6683037730878	9.60139152751692	0.000525344509408254
+Odontites_corsicus	KX958979.1	02-NOV-2017	780	France: Corsica, Col de Vergio	secondary	rps16	42.2903223	8.8783989	0.00105820066129013
+Odontites_corsicus	JF900557.1	05-MAR-2013	753	France	secondary	rps16	46.603354	1.8883335	0.00108440811729205

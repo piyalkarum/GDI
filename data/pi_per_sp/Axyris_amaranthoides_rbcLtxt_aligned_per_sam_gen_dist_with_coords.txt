@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Axyris_amaranthoides	MG246749.1	21-JAN-2018	552	Canada: Saskatchewan, Saskatoon City Limits, NE Swale	primary	rbcL	52.178	-106.57	0.239077074128621
+Axyris_amaranthoides	KX678411.1	29-APR-2017	521	Canada: British Columbia, Metro Vancouver Regional Distrct, Surrey, near Barnston Island, along railroad tracks in sand	primary	rbcL	49.204	-122.708	0.239077074128621
+Axyris_amaranthoides	ON783764.1	26-NOV-2022	559	Russia	secondary	rbcL	65.1555395883128	99.3169832569436	0.39314413509637
+Axyris_amaranthoides	ON783763.1	26-NOV-2022	559	Russia	secondary	rbcL	64.9699409936439	97.1911280458902	0.390435625487575
+Axyris_amaranthoides	ON783749.1	26-NOV-2022	462	Russia	secondary	rbcL	64.3895781734234	99.4019852415206	0.238295318127251
+Axyris_amaranthoides	ON783748.1	26-NOV-2022	462	Russia	secondary	rbcL	64.334705973284	98.009012239954	0.238295318127251
+Axyris_amaranthoides	MK635354.1	09-APR-2021	540	Mongolia: North	secondary	rbcL	51.6188274	7.3194901	0.399581336567431
+Axyris_amaranthoides	JX848450.1	06-AUG-2013	1380	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.223143291087542

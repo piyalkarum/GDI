@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achillea_ptarmica	AJ312834.1	21-OCT-2001	202	Germany: HB Jena	secondary	ITS	51.67735431419	11.7493000526306	0.340996168582375
+Achillea_ptarmica	AJ312805.1	21-OCT-2001	257	Germany: HB Jena	secondary	ITS	50.2074577783154	11.4604723291079	0.340996168582375
+Achillea_ptarmica	AJ296415.1	03-DEC-2000	202	Czech Republic:Sumava	secondary	ITS	49.6419025497701	12.6639444972653	0.340996168582375
+Achillea_ptarmica	AJ296380.1	03-DEC-2000	257	Czech Republic:Sumava	secondary	ITS	49.231308975766	12.8734115057922	0.340996168582375

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Luzula_forsteri	JN892503.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.79	-2.68	0
+Luzula_forsteri	JN893716.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0
+Luzula_forsteri	JN892302.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Luzula_forsteri	JN891495.1	07-MAR-2012	542	United Kingdom: West Sussex (13)	secondary	rbcL	51.0152144	-0.0779587	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_pinea	OL537052.1	10-JAN-2022	553	USA: Missouri	primary	rbcL	38.6145	-90.2591	0
+Pinus_pinea	FR831910.1	25-MAR-2011	701	Italy:Sardinia	secondary	rbcL	40.0912813	9.0305773	0.000356633380884451
+Pinus_pinea	FR831909.1	25-MAR-2011	701	Italy:Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.000356633380884451
+Pinus_pinea	FR831908.1	25-MAR-2011	701	Turkey:Isparta	secondary	rbcL	37.9465412	30.9602093	0.000356633380884451
+Pinus_pinea	FN689374.1	19-MAR-2010	743	Italy:Tuscany	secondary	rbcL	43.4586541	11.1389204	0.00106990014265335

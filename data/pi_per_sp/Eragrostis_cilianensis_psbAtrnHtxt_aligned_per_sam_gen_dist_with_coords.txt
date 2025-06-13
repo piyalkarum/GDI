@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eragrostis_cilianensis	OQ832247.1	15-AUG-2023	617	USA: American Prairie Dry Fork Unit	primary	psbA-trnH	47.8993	-108.1995	0.00902622421078797
+Eragrostis_cilianensis	MK261046.1	09-MAR-2019	458	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	psbA-trnH	0.4826	36.8688	0.00908682384416019
+Eragrostis_cilianensis	MK260795.1	09-MAR-2019	451	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	psbA-trnH	0.4749	36.8256	0.0259818648583287
+Eragrostis_cilianensis	MK260745.1	09-MAR-2019	434	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	psbA-trnH	0.4748	36.8256	0.0127314814814815
+Eragrostis_cilianensis	KP711176.1	31-MAR-2016	483	China	secondary	psbA-trnH	35.000074	104.999927	0.00902622421078797

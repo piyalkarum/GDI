@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedysarum_hedysaroides	MG905938.1	06-OCT-2018	572	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.014342510780083
+Hedysarum_hedysaroides	MG905928.1	06-OCT-2018	564	Russia	secondary	trnL-trnF	64.3384174632295	97.6091958077702	0.0393382317265573
+Hedysarum_hedysaroides	KP338288.1	21-APR-2015	535	Russia	secondary	trnL-trnF	64.6569322091164	97.2197387729891	0.0143558869170546
+Hedysarum_hedysaroides	KP338273.1	21-APR-2015	534	Russia	secondary	trnL-trnF	63.8012864478638	97.7512109590337	0.0156312583004827

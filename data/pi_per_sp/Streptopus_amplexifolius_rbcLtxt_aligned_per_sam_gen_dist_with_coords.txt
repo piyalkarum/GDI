@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Streptopus_amplexifolius	LC767957.1	27-MAY-2023	262	Japan:Niigata, Mt.Hiuchi	primary	rbcL	-36.9227	138.0681	0.00413486005089058
+Streptopus_amplexifolius	MG227939.1	23-JAN-2018	552	Canada: British Columbia, Burnett Bay, north end on rock outcrop	primary	rbcL	51.138	-127.71	0.00197123660392026
+Streptopus_amplexifolius	MG226696.1	23-JAN-2018	552	USA: Alaska, Skagway-Hoonah-Angoon Census Area, Skagway, downtown, east of White Pass Railway between 9th and 12th streets	primary	rbcL	59.45	-135.3	0.00197123660392026
+Streptopus_amplexifolius	KX679240.1	29-APR-2017	522	Canada: British Columbia, East Kootenay Regional District, Kootenay National Park, Cobb Lake trail	primary	rbcL	50.6679	-115.889	0.00207413256899964
+Streptopus_amplexifolius	KX679188.1	29-APR-2017	552	Canada: British Columbia, Columbia Shuswap Regional District, Glacier National Park, Rockgarden trailhead	primary	rbcL	51.2478	-117.621	0.00197924314502476
+Streptopus_amplexifolius	KX679171.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Alberni-Clayoquot Regional District, Giant Cedar trail just off Highway 4	primary	rbcL	49.1735	-125.408	0.00197123660392026
+Streptopus_amplexifolius	KX678996.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Strathcona Provincial Park, Paradise Meadow trail	primary	rbcL	49.7384	-125.315	0.00444542003421915
+Streptopus_amplexifolius	KX678895.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Flower Lake loop	primary	rbcL	49.3683	-122.942	0.00444542003421915
+Streptopus_amplexifolius	KX678800.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Manning Provincial Park, Rein Orchid trail	primary	rbcL	49.0631	-120.801	0.00197924314502476
+Streptopus_amplexifolius	KX678405.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Cypress Provincial Park, Hollyburn Lake	primary	rbcL	49.3761	-123.185	0.00444542003421915
+Streptopus_amplexifolius	KX678398.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Burrell Creek Forest Service Road	primary	rbcL	49.622	-118.314	0.00197924314502476
+Streptopus_amplexifolius	KX678157.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Cypress Provincial Park, on gravel trail leading from pullout with wooden fish sign	primary	rbcL	49.3644	-123.191	0.00197123660392026
+Streptopus_amplexifolius	KX371923.1	31-JUL-2016	550	USA	primary	rbcL	47	-120	0.00197782421920353

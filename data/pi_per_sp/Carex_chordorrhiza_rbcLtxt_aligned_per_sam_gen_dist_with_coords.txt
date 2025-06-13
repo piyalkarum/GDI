@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_chordorrhiza	MG227761.1	23-JAN-2018	552	USA: Michigan, Montgomery Co, 3 mi NE of Vienna, 0.2 mi S of Old State rd	primary	rbcL	45.0042	-84.338	0.000704355270887962
+Carex_chordorrhiza	MG227755.1	23-JAN-2018	668	Canada: Nunavut, Victoria Island, Cambridge Bay, near lake edge one mile northeast	primary	rbcL	68.7312401782121	-104.166999472045	0.00233785517871339
+Carex_chordorrhiza	MG227620.1	23-JAN-2018	552	Canada: British Columbia, Okaloosa Co, just W of Bednesti Lk, along the Lloyd Rd which heads S from hwy 16	primary	rbcL	53.8667	-123.45	0.000704355270887962
+Carex_chordorrhiza	FJ548256.1	25-AUG-2009	668	Canada: Nunuavut, Victoria Island, Cambridge Bay, near lake edge one mile northeast	primary	rbcL	69.13139389231	-105.163632796019	0.00233785517871339
+Carex_chordorrhiza	KC482261.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Pond Inlet, Cote E s'un lac loge entre deux collines de till gneissique a ca. 1,5 km au SE du village, du cote E de route vers prise d'eau municipale	primary	rbcL	72.685	-77.941	0.000704355270887962
+Carex_chordorrhiza	KC482260.1	25-OCT-2013	552	Canada: Nunavut, Arctic Mainland, West Hudson Bay, South of Thlewiaza River system	primary	rbcL	60.22	-94.55	0.000704355270887962
+Carex_chordorrhiza	KC482259.1	25-OCT-2013	552	Canada: Nunavut, Nunavut Mainland, Rankin Inlet, South side of along esker ridge at 55 k/16 409739, 10 km NW of Rankin Inlet in Meliadine River Park study area, Hudson Bay	primary	rbcL	62.892	-92.2	0.000704355270887962
+Carex_chordorrhiza	JN965355.1	27-OCT-2012	522	Canada: Manitoba, Churchill, 24 km E Churchill, Gordon Point, Tundra between Gordon Point and Polar Bear Point	primary	rbcL	58.787	-93.72	0.000736128849155669
+Carex_chordorrhiza	JN965354.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	rbcL	58.178	-93.637	0.000704355270887962
+Carex_chordorrhiza	MK925389.1	14-JAN-2020	542	Finland	secondary	rbcL	63.2467777	25.9209164	0.000708779365021373
+Carex_chordorrhiza	MK925294.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2751031753038	-2.55749969775274	0.000708779365021373
+Carex_chordorrhiza	MK925177.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7515423775668	-3.19941158090615	0.000708779365021373
+Carex_chordorrhiza	MK925030.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.817027522222	-2.31005057014975	0.000708779365021373
+Carex_chordorrhiza	MK924873.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7575802573797	-4.40556893228335	0.00375254962137723
+Carex_chordorrhiza	MK924797.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.59665307358	-3.64849014278705	0.00375254962137723
+Carex_chordorrhiza	MK924740.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3856886630233	-4.40999077389428	0.000708779365021373
+Carex_chordorrhiza	MG227961.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, st Barbe North, S of Flowers Cove, Rock Marsh	secondary	rbcL	49.7738268	-56.8821439113846	0.000704355270887962

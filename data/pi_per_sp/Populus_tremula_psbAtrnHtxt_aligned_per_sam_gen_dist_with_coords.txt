@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Populus_tremula	KC485143.1	03-SEP-2013	285	China: Xinjiang	secondary	psbA-trnH	43.3758534643108	85.4219607367311	0.0495017621623886
+Populus_tremula	KC485142.1	03-SEP-2013	291	China: Xinjiang	secondary	psbA-trnH	42.3211594221641	85.9407561154001	0.0398619788908892
+Populus_tremula	LC365347.1	27-JUN-2019	153	Japan:Nagano	secondary	psbA-trnH	36.1143945	138.0319015	0.0161416551250695
+Populus_tremula	KC485166.1	03-SEP-2013	293	China: Xinjiang	secondary	psbA-trnH	42.9209875216804	85.7818051140939	0.040363349580364
+Populus_tremula	HE966753.1	18-SEP-2012	282	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.139190947928443
+Populus_tremula	GQ248376.1	02-JUL-2009	273	Austria	secondary	psbA-trnH	36.9148511	-4.7534501	0.0398911516853933

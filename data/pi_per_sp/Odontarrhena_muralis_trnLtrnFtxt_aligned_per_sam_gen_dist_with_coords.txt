@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontarrhena_muralis	MK779762.1	03-MAY-2020	532	Bulgaria	secondary	trnL-trnF	46.7889169	23.6184909	0.00619834710743802
+Odontarrhena_muralis	MK779761.1	03-MAY-2020	558	Romania	secondary	trnL-trnF	45.9852129	24.6859225	0.00619834710743802
+Odontarrhena_muralis	KF022766.1	27-JUL-2013	323	Georgia: Caucasus, Dzume Valley	secondary	trnL-trnF	42.4913744	44.9961252	0.00731165141676505
+Odontarrhena_muralis	KF022765.1	27-JUL-2013	281	Serbia: Deliblatska pescara	secondary	trnL-trnF	44.9014298	21.1083119	0.0163258708263613
+Odontarrhena_muralis	KF022764.1	27-JUL-2013	322	Croatia: Mosor	secondary	trnL-trnF	43.5287661	16.63335	0.00644448800463761

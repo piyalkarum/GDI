@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lythrum_salicaria	OQ418643.1	03-JUL-2023	887	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	42.3001989578389	-85.9190059598976	0.000387596899224806
+Lythrum_salicaria	OQ418642.1	03-JUL-2023	846	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	42.6488866761108	-86.0711396297999	0.000407055630936228
+Lythrum_salicaria	KX676925.1	09-AUG-2017	814	Canada: British Columbia, Greater Vancouver Regional District, Pitt Lake boat launch	primary	matK	49.349	-122.616	0.000392670157068063
+Lythrum_salicaria	MG221120.1	21-JAN-2018	527	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Grindstone Creek	primary	matK	43.296	-79.872	0.000569259962049336
+Lythrum_salicaria	MG220749.1	21-JAN-2018	780	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	matK	42.765	-80.303	0.000435413642960813
+Lythrum_salicaria	HQ593354.1	09-NOV-2011	858	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., SE edge of pond	primary	matK	44.035	-79.518	0.000387596899224806
+Lythrum_salicaria	KP210399.1	28-NOV-2015	751	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Beside creek near end of hydroline	primary	matK	45.537	-73.155	0.000422535211267606
+Lythrum_salicaria	JN895784.1	07-MAR-2012	774	United Kingdom: Carmarthenshire	primary	matK	52.04	-4.55	0.00445739682456509
+Lythrum_salicaria	MT929946.1	03-MAR-2023	788	China	secondary	matK	35.3531331008293	105.779266619059	0.000433526011560694
+Lythrum_salicaria	MK898794.1	30-JUN-2019	493	China	secondary	matK	35.4771770320236	104.681121544849	0.000608519269776876
+Lythrum_salicaria	KC584933.1	04-JUN-2013	821	Italy: Umbria	secondary	matK	42.965916	12.490236	0.000413223140495868

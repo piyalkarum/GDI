@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sedum_dasyphyllum	LM993279.1	19-SEP-2015	598	Spain:Barcelona	secondary	ITS2	41.3828939	2.1774322	0.017337807606264
+Sedum_dasyphyllum	HE999684.1	26-NOV-2013	596	Italy:South Tyrol Merano	secondary	ITS2	46.6695547	11.1594185	0.0190353993946572
+Sedum_dasyphyllum	HE999682.1	26-NOV-2013	597	Spain:Asturias Las Agueras	secondary	ITS2	43.1969066	-6.0030044	0.0190353993946572
+Sedum_dasyphyllum	HE999650.1	26-NOV-2013	597	France:Corsica	secondary	ITS2	42.1880896	9.0684138	0.0319186735096723

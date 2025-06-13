@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_purpurea	KX873341.1	16-OCT-2017	709	Sweden: Vaesterbotten Co., Vilhelmina kommun, W of lake Malgoviken, W of Skansholm, near the river Kvarnbaecken	primary	matK	64.6939	16.2258	0
+Calamagrostis_purpurea	KX873340.1	16-OCT-2017	664	Sweden: Norbotten Co., Oeverkalix kommun, SW of Jock, W of lake Vallsjaerv, Bjoerkhultet	primary	matK	65.9761029600917	21.0514966406912	0
+Calamagrostis_purpurea	KX873339.1	16-OCT-2017	664	Sweden: Norbotten Co., Oeverkalix kommun, SW of Jock, W of lake Vallsjaerv, Bjoerkhultet	primary	matK	67.2554656242873	21.6361487335972	0
+Calamagrostis_purpurea	KX873338.1	16-OCT-2017	692	Sweden: Norrbotten Co., Jokkmokk kommun, 17 km N of Jokkmokk	primary	matK	66.7578	19.8639	0
+Calamagrostis_purpurea	MK925904.1	14-JAN-2020	816	Norway	secondary	matK	64.5731537	11.5280364	0
+Calamagrostis_purpurea	MK925705.1	14-JAN-2020	800	Finland	secondary	matK	63.2467777	25.9209164	0

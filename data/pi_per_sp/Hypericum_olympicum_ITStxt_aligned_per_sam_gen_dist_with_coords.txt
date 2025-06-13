@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypericum_olympicum	HE653564.1	03-DEC-2012	647	Greece	secondary	ITS	43.487026552964	-77.5626462770688	0.00824317362184441
+Hypericum_olympicum	HE653563.1	03-DEC-2012	647	Greece	secondary	ITS	43.3106871396315	-77.3378818025976	0.00515198351365276
+Hypericum_olympicum	HE653562.1	03-DEC-2012	647	Greece	secondary	ITS	42.7110537930322	-77.8346894892023	0.00618238021638331
+Hypericum_olympicum	HE653561.1	03-DEC-2012	647	Bulgaria	secondary	ITS	46.7889169	23.6184909	0.00721277691911386

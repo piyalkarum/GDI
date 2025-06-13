@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elymus_nodosus	KP210726.1	31-AUG-2017	574	Ukraine: Krym	secondary	trnK	46.094740423789	33.7347199080332	0.329928563473502
+Elymus_nodosus	KP210725.1	31-AUG-2017	574	Ukraine	secondary	trnK	49.0468232231532	30.739530450267	0.329928563473502
+Elymus_nodosus	KP210514.1	31-AUG-2017	221	Ukraine: Krym	secondary	trnK	45.2286576149502	34.391085671189	0.328767123287671
+Elymus_nodosus	KP210513.1	31-AUG-2017	221	Ukraine	secondary	trnK	49.3493431673958	31.4058969239372	0.328767123287671

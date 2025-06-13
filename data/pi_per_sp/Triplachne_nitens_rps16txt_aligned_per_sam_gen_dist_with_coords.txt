@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Triplachne_nitens	MT410017.1	14-DEC-2020	815	Spain	secondary	rps16	38.7859883628083	-5.18297523442623	0
+Triplachne_nitens	MT410016.1	14-DEC-2020	815	Spain	secondary	rps16	39.1397796744477	-5.90813231895671	0
+Triplachne_nitens	MT410015.1	14-DEC-2020	814	Morocco	secondary	rps16	28.3347722	-10.3713379	0
+Triplachne_nitens	MT410014.1	14-DEC-2020	815	Spain	secondary	rps16	39.7838574341624	-4.01734688752591	0

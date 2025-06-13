@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_obesus	KC145307.1	31-JAN-2014	896	Portugal: Sintra	secondary	trnL-trnF	39.4346774634867	-9.50783433474502	0
+Narcissus_obesus	KC145306.1	31-JAN-2014	896	Portugal: Sintra	secondary	trnL-trnF	39.4230447087666	-9.82465201322873	0
+Narcissus_obesus	KC145305.1	31-JAN-2014	896	Portugal: Loule	secondary	trnL-trnF	36.809205635437	-7.28045225480788	0
+Narcissus_obesus	KC145304.1	31-JAN-2014	896	Portugal: Loule	secondary	trnL-trnF	37.8956692447699	-7.80498223101345	0
+Narcissus_obesus	KC145303.1	31-JAN-2014	896	Portugal: Alcobertas	secondary	trnL-trnF	39.8602037987509	-7.90012335837121	0
+Narcissus_obesus	KC145302.1	31-JAN-2014	896	Portugal: Alcobertas	secondary	trnL-trnF	38.9560238747251	-8.55707392007626	0

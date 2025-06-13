@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gentiana_prostrata	MG224396.1	26-DEC-2017	552	Canada: Yukon Territory, Bonnet Plume Drainage, Quartet Lake	primary	rbcL	65.111	-134.424	0.145183918788323
+Gentiana_prostrata	MG221204.1	26-DEC-2017	552	Canada: Yukon Territory, Tincup Lake, north of Kluane Lake, SW Yukon, near Kluane National Park and Reserve.	primary	rbcL	61.767	-139.233	0.145183918788323
+Gentiana_prostrata	KX678485.1	29-APR-2017	552	Canada: British Columbia, Cariboo Regional District, Two Lakes Basin, NW side at headwaters of Relay Creek	primary	rbcL	51.2	-123.083	0.145183918788323
+Gentiana_prostrata	MT931524.1	03-MAR-2023	572	China	secondary	rbcL	34.6427941256315	105.972538120953	0.142264400004359
+Gentiana_prostrata	MT931523.1	03-MAR-2023	572	China	secondary	rbcL	35.6050350521568	105.649506362953	0.142264400004359
+Gentiana_prostrata	MT931519.1	03-MAR-2023	569	China	secondary	rbcL	34.943456597266	105.503410322029	0.142109583172477
+Gentiana_prostrata	MT931518.1	03-MAR-2023	575	China	secondary	rbcL	35.6968979737653	104.756566435424	0.141476727918033
+Gentiana_prostrata	KY684964.1	31-DEC-2018	729	USA: Alaska	secondary	rbcL	64.4459613	-149.680909	0.497054054257978
+Gentiana_prostrata	KT907546.1	03-SEP-2016	708	China: Xizang	secondary	rbcL	29.8556443	90.8749807	0.499788455498709

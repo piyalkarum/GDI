@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_rubra	LR218015.1	30-JUL-2021	955	Germany	primary	trnL-trnF	51.2203	11.7161	0.0814911337214714
+Festuca_rubra	LR217976.1	30-JUL-2021	942	Germany	primary	trnL-trnF	53.6758	6.9858	0.0221608141329581
+Festuca_rubra	LR218063.1	30-JUL-2021	964	Germany	secondary	trnL-trnF	34.895926	-83.4665496	0.0218261403259963
+Festuca_rubra	EF593001.1	28-MAR-2008	838	Finland	secondary	trnL-trnF	63.2467777	25.9209164	0.0236981942265954
+Festuca_rubra	EF592995.1	28-MAR-2008	836	Spain: Pontevedra, Cangas de Morrazo, Donon	secondary	trnL-trnF	42.2713717	-8.8592429	0.0237561231811865
+Festuca_rubra	EF592956.1	28-MAR-2008	838	Canada: Northwest Territories, Banks Island	secondary	trnL-trnF	73.622445	-120.4848087	0.0236981942265954
+Festuca_rubra	AY528950.1	31-JAN-2005	427	New Zealand	secondary	trnL-trnF	-41.5000831	172.8344077	0.080679737079402

@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Struthiopteris_spicant	MG215376.1	24-JAN-2018	552	USA: Alaska, Kenai Peninsula Borough, Kenai Fjords National Park, Harris Bay, Crater Bay	primary	rbcL	59.716	-149.783	0.000213128729752771
+Struthiopteris_spicant	MG215191.1	24-JAN-2018	551	Canada: Cowichan Lake, Vancouver Island, BC	primary	rbcL	49	-124	0.000213515533255044
+Struthiopteris_spicant	MG215122.1	24-JAN-2018	551	Canada: Pacific Rim National Park, BC	primary	rbcL	48.6361	-124.769	0.000213515533255044
+Struthiopteris_spicant	KX678686.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail near Link Lake Forest Recreation Site	primary	rbcL	49.7109	-120.231	0.000213128729752771
+Struthiopteris_spicant	KX678563.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Baden Powell trail	primary	rbcL	49.3341	-122.954	0.000213128729752771
+Struthiopteris_spicant	KX678505.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	rbcL	49.3764	-122.862	0.000213128729752771
+Struthiopteris_spicant	KX678077.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, Gowlland Tod Provincial Park	primary	rbcL	48.5484	-123.497	0.00371577131177207
+Struthiopteris_spicant	MH644126.1	31-JUL-2022	1231	Spain: Galicia, Pontevedra	secondary	rbcL	42.6075172	-8.4714942	0.000226244343891403
+Struthiopteris_spicant	MH644125.1	31-JUL-2022	1231	Spain: Burgos, Sierra de San Millan	secondary	rbcL	42.1608671	-3.3674654	0.000226244343891403
+Struthiopteris_spicant	MH644124.1	31-JUL-2022	1231	Spain: Asturias, Valdes, Luarca	secondary	rbcL	43.5439003	-6.5357408	0.000226244343891403
+Struthiopteris_spicant	MH644123.1	31-JUL-2022	1231	Spain: Asturias, Valdes, Paladeperre	secondary	rbcL	42.7115927703609	-6.46108396044163	0.000226244343891403
+Struthiopteris_spicant	MH644121.1	31-JUL-2022	1231	Spain: Asturias, Valdes, Paladeperre	secondary	rbcL	43.458019586305	-6.10154916938495	0.000226244343891403
+Struthiopteris_spicant	MH644120.1	31-JUL-2022	1231	Spain: Salamanca, Batuecas	secondary	rbcL	40.4421687209264	-5.33225797361193	0.000226244343891403
+Struthiopteris_spicant	MH644119.1	31-JUL-2022	1231	Spain: Salamanca, Batuecas	secondary	rbcL	39.6580057336576	-6.00016221342052	0.000226244343891403
+Struthiopteris_spicant	MG215496.1	24-JAN-2018	552	Canada: British Columbia, Valdez Island, Deep Water Bay.	secondary	rbcL	49.1386696500227	-121.928880348678	0.000213128729752771
+Struthiopteris_spicant	MG215369.1	24-JAN-2018	552	Canada: British Columbia, Vancouver Island, Mill Bay.	secondary	rbcL	48.3858261533866	-123.362281150372	0.000213128729752771
+Struthiopteris_spicant	MG215218.1	24-JAN-2018	552	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Masset Inlet, yakoun River delta.	secondary	rbcL	49.0355962719787	-122.912258787721	0.000213128729752771
+Struthiopteris_spicant	JF832059.1	24-JAN-2012	1295	Canada: British Columbia	secondary	rbcL	55.001251	-125.002441	0.000213128729752771

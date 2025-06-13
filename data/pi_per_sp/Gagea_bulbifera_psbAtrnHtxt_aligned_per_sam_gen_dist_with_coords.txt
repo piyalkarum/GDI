@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_bulbifera	LT985401.1	14-JUN-2019	285	Kazakhstan	secondary	psbA-trnH	48.1883405472065	67.5173237964903	0
+Gagea_bulbifera	LT985400.1	14-JUN-2019	285	Kazakhstan	secondary	psbA-trnH	48.2638156343914	67.0052444321398	0
+Gagea_bulbifera	LT985399.1	14-JUN-2019	285	Kazakhstan	secondary	psbA-trnH	48.0002638570785	67.263952373468	0
+Gagea_bulbifera	LT985398.1	14-JUN-2019	285	Kazakhstan	secondary	psbA-trnH	47.9490623794444	67.3098169100853	0
+Gagea_bulbifera	LT985397.1	14-JUN-2019	285	Kazakhstan	secondary	psbA-trnH	47.8078405938245	67.9154063075841	0
+Gagea_bulbifera	LT985396.1	14-JUN-2019	285	Kazakhstan	secondary	psbA-trnH	48.2433151101105	67.3464472956484	0
+Gagea_bulbifera	FR690830.1	21-NOV-2011	372	China:Xinjiang, Urumqi	secondary	psbA-trnH	43.3817913038886	86.4847618612331	0
+Gagea_bulbifera	FR690829.1	21-NOV-2011	372	China:Xinjiang, Urumqi	secondary	psbA-trnH	43.5275924879748	86.1409525204869	0

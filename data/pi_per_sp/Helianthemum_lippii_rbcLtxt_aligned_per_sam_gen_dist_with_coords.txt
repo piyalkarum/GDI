@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_lippii	MK097160.1	21-MAY-2019	553	Bahrain	primary	rbcL	25.978749	50.614963	0
+Helianthemum_lippii	KY951688.1	18-APR-2018	552	Kuwait	secondary	rbcL	28.6370743684732	48.5130701921525	0
+Helianthemum_lippii	KY951687.1	18-APR-2018	554	Kuwait	secondary	rbcL	29.395129722009	46.979680803036	0
+Helianthemum_lippii	KX282785.1	28-MAY-2017	576	Kuwait	secondary	rbcL	29.5216596816906	48.9039449219422	0
+Helianthemum_lippii	KX282784.1	28-MAY-2017	535	Kuwait	secondary	rbcL	29.6280097055552	47.6277846707657	0
+Helianthemum_lippii	KX282783.1	28-MAY-2017	539	Kuwait	secondary	rbcL	28.9654149759234	47.4218583144969	0

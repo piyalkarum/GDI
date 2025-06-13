@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Picea_obovata	KP698160.1	14-JUL-2015	724	Russia: Western Sayan, Aradan	primary	Adh	52.57	93.44	0.19460095708552
+Picea_obovata	KM588358.1	21-DEC-2014	649	Russia: Sverdlovskaja, Tavda	primary	Adh	58.067	65.3	0.195185766614338
+Picea_obovata	JX508411.1	09-AUG-2013	1167	Kazakhstan	secondary	Adh	47.8133651425143	67.0548826644531	0.580993429842064
+Picea_obovata	JX508367.1	09-AUG-2013	1913	Kazakhstan	secondary	Adh	47.9392799580483	66.3931880101621	0.192222966304808

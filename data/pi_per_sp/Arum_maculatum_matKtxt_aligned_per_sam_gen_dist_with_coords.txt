@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arum_maculatum	JN895373.1	07-MAR-2012	805	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.00034106412005457
+Arum_maculatum	JN895101.1	07-MAR-2012	805	United Kingdom: Glamorgan (41)	primary	matK	51.54	-3.26	0.000345781466113416
+Arum_maculatum	JN894754.1	07-MAR-2012	805	United Kingdom: Glamorgan	primary	matK	51.48	-3.19	0.00034106412005457
+Arum_maculatum	JN894020.1	07-MAR-2012	787	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00134557171384644
+Arum_maculatum	FN668802.1	27-APR-2010	795	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.000317662007623888

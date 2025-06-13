@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_ornithopodioides	JN894135.1	07-MAR-2012	637	United Kingdom: Monmouthshire	primary	matK	51.54	-2.9	0.0109541451234241
+Trifolium_ornithopodioides	HM851156.1	23-JUL-2011	701	Portugal	secondary	matK	39.6621648	-8.1353519	0.0163182859590589
+Trifolium_ornithopodioides	JN894447.1	07-MAR-2012	837	United Kingdom: Carmarthenshire	secondary	matK	51.6184273647799	-5.55137594260655	0.0351282521231596
+Trifolium_ornithopodioides	JN894445.1	07-MAR-2012	925	United Kingdom: Carmarthenshire	secondary	matK	52.1148351635374	-4.56962110192426	0.0138637671860887

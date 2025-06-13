@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brachypodium_phoenicoides	KP709853.1	28-FEB-2016	763	Spain	secondary	trnL-trnF	38.509157439404	-4.7405795568058	0.00139102240918465
+Brachypodium_phoenicoides	KP709852.1	28-FEB-2016	765	Spain	secondary	trnL-trnF	39.0863333938351	-4.73387732780367	0.00139053227605469
+Brachypodium_phoenicoides	KP709851.1	28-FEB-2016	700	Spain	secondary	trnL-trnF	39.5468408847974	-3.98412765187642	0.0053346393859516
+Brachypodium_phoenicoides	KP709850.1	28-FEB-2016	765	Spain	secondary	trnL-trnF	38.8957879059127	-4.11912302993602	0.00139053227605469
+Brachypodium_phoenicoides	KP709849.1	28-FEB-2016	757	Portugal	secondary	trnL-trnF	39.4690775335727	-7.03290419677623	0.00215033380526151
+Brachypodium_phoenicoides	KP709848.1	28-FEB-2016	763	Portugal	secondary	trnL-trnF	38.9810964106009	-7.39163346305711	0.00213994583176469
+Brachypodium_phoenicoides	KP709847.1	28-FEB-2016	764	France	secondary	trnL-trnF	45.904305818681	2.67460907278244	0.00254121874749387
+Brachypodium_phoenicoides	JN187670.1	27-FEB-2012	842	France	secondary	trnL-trnF	45.8980265102791	1.42411531228516	0.00296447654044952

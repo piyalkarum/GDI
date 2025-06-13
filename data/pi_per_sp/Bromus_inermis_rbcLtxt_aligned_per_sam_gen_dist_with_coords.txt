@@ -1,0 +1,39 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_inermis	OQ832180.1	15-AUG-2023	553	USA: American Prairie Sun Prairie Unit	primary	rbcL	47.7986	-107.7881	0.000195493866379942
+Bromus_inermis	MF596624.1	28-FEB-2018	603	Canada: British Columbia, ~2 km E of Erickson along Hwy. 3. Ditch and gravel along roadside.	primary	rbcL	49.1541358325785	-115.660546163753	0.000187743612182218
+Bromus_inermis	MF596623.1	28-FEB-2018	603	Canada: Yukon Territory, W side of Yukon River at Ferry Crossing to Dawson on Hwy 9. Sandy shore beneath Populus trichocarpa	primary	rbcL	64.0213925842799	-138.058070788258	0.000187743612182218
+Bromus_inermis	MF596622.1	28-FEB-2018	603	Canada: British Columbia, 1 mi S of Iskut on Hwy 37 towards Meziadin Junction, along Coyote Creek.	primary	rbcL	57.9220830457149	-129.818616828357	0.000187743612182218
+Bromus_inermis	MF596621.1	28-FEB-2018	603	USA: Alaska, Southeast Fairbanks, 1 mi E of Chicken on Hwy towards Boundary. Gentle slopes with Populus tremuloides, Picea glauca, and Salix	primary	rbcL	63.8115720496946	-143.024236007764	0.000187743612182218
+Bromus_inermis	MF596620.1	28-FEB-2018	603	Canada: Yukon Territory, 42 mi NW of Haines Junction and 24 mi SE of Destruction Bay on Hwy 1.	primary	rbcL	61.102893272718	-137.349206316893	0.000187743612182218
+Bromus_inermis	MF596619.1	28-FEB-2018	603	Canada: Saskatchewan, Grasslands National Park, West block, just over bridge that crosses Frenchman River along edge of road.	primary	rbcL	48.9577589688971	-106.911786818386	0.000187743612182218
+Bromus_inermis	MF596618.1	28-FEB-2018	603	Canada: Alberta, Jasper National Park, 9 mi NW of Bubbling Springs on Hwy 93 along Sunwapta River.	primary	rbcL	53.0378939967524	-117.418392137757	0.000187743612182218
+Bromus_inermis	MF596617.1	28-FEB-2018	603	Canada: Alberta, Jasper National Park, 9 mi NW of Bubbling Springs on Hwy 93 along Sunwapta River.	primary	rbcL	52.4237914821424	-116.855315624856	0.000187743612182218
+Bromus_inermis	MF596616.1	28-FEB-2018	603	Canada: Yukon Territory, '7 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy 6) towards Dragon Lake.	primary	rbcL	62.7967600505934	-132.658778899583	0.000187743612182218
+Bromus_inermis	MG228203.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	rbcL	51.273	-80.641	0.000195848021934978
+Bromus_inermis	MG228025.1	23-JAN-2018	603	Canada: Saskatchewan, Grasslands National Park, West block, just over bridge that crosses Frenchman River along edge of road.	primary	rbcL	48.99658316015	-106.775800100855	0.000187743612182218
+Bromus_inermis	MG228021.1	23-JAN-2018	603	Canada: Yukon Territory, '7 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy 6) towards Dragon Lake.	primary	rbcL	61.825356141484	-133.710162609709	0.000187743612182218
+Bromus_inermis	MG227666.1	23-JAN-2018	603	Canada: Alberta, Jasper National Park, 9 mi NW of Bubbling Springs on Hwy 93 along Sunwapta River.	primary	rbcL	53.3685489864381	-117.321710259302	0.000187743612182218
+Bromus_inermis	MG227016.1	23-JAN-2018	552	Canada: University of Guelph Campus, Parking Lot west of Biodiversity Center	primary	rbcL	43.528	-80.23	0.000195848021934978
+Bromus_inermis	MG226874.1	23-JAN-2018	603	Canada: Yukon Territory, 42 mi NW of Haines Junction and 24 mi SE of Destruction Bay on Hwy 1.	primary	rbcL	60.7422397330079	-139.871222507051	0.000187743612182218
+Bromus_inermis	MG226604.1	23-JAN-2018	603	Canada: Alberta, Jasper National Park, 9 mi NW of Bubbling Springs on Hwy 93 along Sunwapta River.	primary	rbcL	52.2889980303289	-117.259558578923	0.000187743612182218
+Bromus_inermis	MG226150.1	23-JAN-2018	603	USA: Alaska, Southeast Fairbanks, 1 mi E of Chicken on Hwy towards Boundary. Gentle slopes with Populus tremuloides, Picea glauca, and Salix	primary	rbcL	64.1766461682217	-139.940422902396	0.000187743612182218
+Bromus_inermis	MG225768.1	23-JAN-2018	603	Canada: British Columbia, 1 mi S of Iskut on Hwy 37 towards Meziadin Junction, along Coyote Creek.	primary	rbcL	57.9699733769457	-129.312836130149	0.000187743612182218
+Bromus_inermis	MG225750.1	23-JAN-2018	603	Canada: British Columbia, ~2 km E of Erickson along Hwy. 3. Ditch and gravel along roadside.	primary	rbcL	49.4385773835624	-115.9086891714	0.000187743612182218
+Bromus_inermis	MG225583.1	23-JAN-2018	603	Canada: Yukon Territory, W side of Yukon River at Ferry Crossing to Dawson on Hwy 9. Sandy shore beneath Populus trichocarpa	primary	rbcL	64.7189475203977	-139.692952539783	0.000187743612182218
+Bromus_inermis	HQ589978.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, centre of the south half of the racetrack	primary	rbcL	44.032	-79.54	0.000186445851880644
+Bromus_inermis	HQ589977.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., S facing slope between classroom and Willow Ridge, 300 m N of creek	primary	rbcL	44.027	-79.536	0.000186445851880644
+Bromus_inermis	KT695423.1	29-SEP-2015	533	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.000202829471122154
+Bromus_inermis	KJ593258.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.548	-88.675	0.000195493866379942
+Bromus_inermis	KJ841141.1	04-NOV-2014	511	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, south-east edge of maintenance shed parking lot, approximately 20 metres north-west of stream and 5 metres from road	primary	rbcL	45.538	-73.1557	0.000211561855397472
+Bromus_inermis	JN965305.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality	primary	rbcL	58.63	-93.819	0.000195848021934978
+Bromus_inermis	MT931768.1	03-MAR-2023	568	China	secondary	rbcL	34.9611181447105	104.705119585065	0.000380662352493338
+Bromus_inermis	MT931767.1	03-MAR-2023	569	China	secondary	rbcL	35.7538119890288	105.31778853532	0.00377032063075449
+Bromus_inermis	MN205088.1	30-NOV-2021	724	China	secondary	rbcL	34.8605623666066	105.974916586268	0.000637888032600281
+Bromus_inermis	MN185241.1	27-APR-2021	722	China	secondary	rbcL	35.4479631664382	104.753013843066	0.000618293626322519
+Bromus_inermis	MG228201.1	23-JAN-2018	553	Canada: Ontario, Wellington County, City of Guelph, Stone Road and Eramosa River, Old Jail Quarry	secondary	rbcL	44.1690287066379	-77.3969260175903	0.000195493866379942
+Bromus_inermis	MG227090.1	23-JAN-2018	553	Canada: Ontario, Norfolk County, Delhi Twp., Entrance to Smith Forest Tract	secondary	rbcL	43.0700774735892	-77.672206443587	0.000195493866379942
+Bromus_inermis	KF712956.1	15-DEC-2013	1096	South Korea: Yeongju-si, Gyeongsangbuk-do	secondary	rbcL	36.805685	128.624054	0.00076800605490023
+Bromus_inermis	KF712955.1	15-DEC-2013	1096	South Korea: Ansan-si, Gyeonggi-do	secondary	rbcL	37.290145	126.8294505	0.00076800605490023
+Bromus_inermis	JX848491.1	06-AUG-2013	1391	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.000848165479352848
+Bromus_inermis	HQ652722.1	14-AUG-2011	743	China	secondary	rbcL	35.2535473308171	104.567983197077	0.000959750050828606
+Bromus_inermis	HQ600445.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.00396603143041529

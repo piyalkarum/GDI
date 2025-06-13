@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_pulegium	ON684524.1	21-AUG-2022	1434	Portugal: Carreco, Viana do Castelo	primary	rbcL	41.74094	-8.86552	0.0521641428320965
+Mentha_pulegium	ON684516.1	21-AUG-2022	1434	Portugal: Meiral, Canidelo, Vila Nova de Gaia	primary	rbcL	41.12447	-8.64486	0.0521641428320965
+Mentha_pulegium	KU556625.1	06-AUG-2016	645	Egypt	primary	rbcL	30.0303	31.1956	0.112894771945609
+Mentha_pulegium	JN893657.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.79	-4.12	0.0570426679461347
+Mentha_pulegium	KY656718.1	23-JAN-2018	721	Egypt	secondary	rbcL	26.2540493	29.2675469	0.0563834064808804
+Mentha_pulegium	MG222967.1	26-DEC-2017	524	Canada: Ontario, Elgin Co., 3 mi SE St. Thomas.	secondary	rbcL	42.7269522	-81.3660384	0.0568278201865988
+Mentha_pulegium	KP172041.1	04-FEB-2015	760	Pakistan	secondary	rbcL	30.3308401	71.247499	0.276927590166726
+Mentha_pulegium	HM850171.1	23-JUL-2011	1163	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.152389710931949
+Mentha_pulegium	JN891036.1	07-MAR-2012	500	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0619025423728814

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Luzula_wahlenbergii	KT960636.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1742774605972	-21.7831683097497	0
+Luzula_wahlenbergii	KT960599.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	0
+Luzula_wahlenbergii	KT960492.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.0844375344524	-18.6684316417433	0
+Luzula_wahlenbergii	KC483140.1	25-OCT-2013	552	Canada: Nunavut, Nunavut Mainland, Rankin Inlet, Esker between the Char and Meliadine Rivers, 8 mi west of Rankin	primary	rbcL	62.817	-92.083	0
+Luzula_wahlenbergii	KC483139.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Growing in a zone in Sylvia Grinnell Park between the main entrance and the entrance from Crystal II Road	primary	rbcL	63.742	-68.562	0
+Luzula_wahlenbergii	KC483138.1	25-OCT-2013	552	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk, Illisarvik, 60 km west of Tuktoyaktuk	primary	rbcL	69.483	-134.583	0
+Luzula_wahlenbergii	KC483137.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Blow River Delta, Moose Channel, YT/NT Border	primary	rbcL	68.788	-136.529	0

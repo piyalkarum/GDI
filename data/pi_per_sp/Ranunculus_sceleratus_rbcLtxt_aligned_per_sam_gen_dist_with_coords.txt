@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_sceleratus	MG248126.1	21-JAN-2018	552	Canada: Yukon Territory, La Biche River	primary	rbcL	60.072	-124.052	0.00304700753267839
+Ranunculus_sceleratus	MG247406.1	21-JAN-2018	552	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.765	-80.303	0.00140901771336554
+Ranunculus_sceleratus	HQ590234.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, E of trail junction NW of John's house, close to Dufferin	primary	rbcL	44.033	-79.53	0.0108298850365125
+Ranunculus_sceleratus	JN892284.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.59	-3.02	0.00123039123182359
+Ranunculus_sceleratus	AB517148.1	18-AUG-2009	789	Japan:Shiga, Nagahama	primary	rbcL	35.21	136.17	0.00187584261559152
+Ranunculus_sceleratus	MN205191.1	30-NOV-2021	724	China	secondary	rbcL	34.3682751367855	105.251738525476	0.00179947489494301
+Ranunculus_sceleratus	MN192821.1	30-NOV-2021	723	China	secondary	rbcL	35.7386302026206	104.696442904128	0.00179947489494301
+Ranunculus_sceleratus	MH215246.1	22-JAN-2019	553	China	secondary	rbcL	34.922341866849	104.398399511676	0.00140683375410948
+Ranunculus_sceleratus	JN892104.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.2843110400466	-3.73681643999472	0.00123039123182359
+Ranunculus_sceleratus	JN892103.1	07-MAR-2012	526	United Kingdom: Glamorgan	secondary	rbcL	51.0924074263781	-3.47436457608557	0.00126742712294043

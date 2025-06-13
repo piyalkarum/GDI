@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_latifolium	EU717997.1	31-MAY-2009	1255	Spain: Lerida, Martinet	secondary	trnK	42.3229252	1.6931213	0.00259800796812749
+Antirrhinum_latifolium	EU717996.1	31-MAY-2009	1255	Spain: Lerida, Bapa	secondary	trnK	41.6147605	0.6267842	0.00259800796812749
+Antirrhinum_latifolium	EU717995.1	31-MAY-2009	1255	Spain: Girona, Collada de Toses	secondary	trnK	42.3360286	1.9911225	0.00259800796812749
+Antirrhinum_latifolium	HM152976.1	24-AUG-2010	1255	Italy: Piamonte, Cuneo	secondary	trnK	44.1409500725077	7.62018199921839	0.00209402390438247
+Antirrhinum_latifolium	KJ911398.1	22-JUL-2014	1250	France: St Martin d'Entraunes	secondary	trnK	44.1427858	6.7622026	0.0021
+Antirrhinum_latifolium	KJ911397.1	22-JUL-2014	1251	France: Lourmarin	secondary	trnK	43.7755825	5.3515561	0.0028
+Antirrhinum_latifolium	KJ911396.1	22-JUL-2014	1250	France: Col de l'Espigoulier	secondary	trnK	43.3162935	5.6591747	0.0021
+Antirrhinum_latifolium	KJ911395.1	22-JUL-2014	1250	France: Auriol	secondary	trnK	43.3688436	5.6298611	0.0021
+Antirrhinum_latifolium	KJ911394.1	22-JUL-2014	1250	Italy: Piamonte, Cuneo	secondary	trnK	43.6186627492149	7.549864159626	0.0026

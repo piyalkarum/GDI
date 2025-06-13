@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxytropis_glabra	LR898458.1	25-JAN-2021	1109	Russia:Krasnoyarsk Region	secondary	trnS-trnG	63.3233807	97.0979974	0.0767038498984259
+Oxytropis_glabra	LR898457.1	25-JAN-2021	1108	Russia:Buryatia	secondary	trnS-trnG	52.2872981701118	108.807067510138	0.0767873605676646
+Oxytropis_glabra	LR898456.1	25-JAN-2021	1108	Russia:Buryatia	secondary	trnS-trnG	52.9174786493268	109.725863250054	0.0767873605676646
+Oxytropis_glabra	LN898629.1	23-DEC-2015	1079	Russia	secondary	trnS-trnG	64.6863136	97.7453061	0.0785911616131912
+Oxytropis_glabra	KP176434.1	09-FEB-2015	1056	China: Akesu, Xinjiang	secondary	trnS-trnG	42.1067272	83.0570039	0.207956757030327
+Oxytropis_glabra	KP176432.1	09-FEB-2015	1146	China: Tenggeli, Inner Mongolia	secondary	trnS-trnG	38.7303503	104.449610377401	0.111338159195018
+Oxytropis_glabra	KP176431.1	09-FEB-2015	977	China: Jilantai, Inner Mongolia	secondary	trnS-trnG	39.7557109	105.7567181	0.188837864054311

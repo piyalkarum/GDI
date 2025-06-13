@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Equisetum_sylvaticum	MG215477.1	24-JAN-2018	553	Canada: Quebec, Montreal, Island of Montreal, Parc de la Pointe-aux-Prairies sect. du Bois-de-l'Heritage, pres d'un marais	primary	rbcL	45.68	-73.509	0
+Equisetum_sylvaticum	KT307945.1	20-MAR-2016	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Down the SW slope, 15 meter to the right of E600I9.	primary	rbcL	57.0933	-69.5528	0
+Equisetum_sylvaticum	KJ593398.1	17-MAR-2015	553	USA: Wisconsin, Abrams	primary	rbcL	44.814	-88.035	0
+Equisetum_sylvaticum	KJ593397.1	17-MAR-2015	536	USA: Wisconsin, Wabeno	primary	rbcL	45.485	-88.497	0
+Equisetum_sylvaticum	KJ593396.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.549	-88.675	0
+Equisetum_sylvaticum	KJ593395.1	17-MAR-2015	553	USA: Wisconsin, Phelps	primary	rbcL	46.045	-88.94	0
+Equisetum_sylvaticum	KJ841305.1	04-NOV-2014	569	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Botany Bay on south side of Lac Hertel	primary	rbcL	45.544	-73.145	0
+Equisetum_sylvaticum	KC482740.1	25-OCT-2013	552	Canada: Northwest Territories, Yellowknife, Prelude Lake, Ingrahan Trail 20 miles east of Yellowknife	primary	rbcL	62.5667	-113.917	0
+Equisetum_sylvaticum	KC482739.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Inuvik, Inuvik, N edge of town, ditch at edge of woods	primary	rbcL	68.3722	-133.794	0
+Equisetum_sylvaticum	MG215447.1	24-JAN-2018	552	Canada: Ontario, Renfrew District, Petawawa, NEBIE field study site	secondary	rbcL	43.3485237451979	-77.3202726156361	0
+Equisetum_sylvaticum	MG215215.1	24-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.4844921767778	-77.3410660674393	0
+Equisetum_sylvaticum	AB574690.1	03-DEC-2010	1205	USA	secondary	rbcL	39.7837304	-100.445882	0.000158127767235927
+Equisetum_sylvaticum	HE574610.1	31-JUL-2011	562	Finland	secondary	rbcL	63.2467777	25.9209164	0.000158127767235927

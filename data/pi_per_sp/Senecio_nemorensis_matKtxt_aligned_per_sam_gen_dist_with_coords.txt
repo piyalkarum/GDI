@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_nemorensis	MT917456.1	03-MAR-2023	807	China	secondary	matK	35.113534951099	104.014966375574	0
+Senecio_nemorensis	MT917451.1	03-MAR-2023	789	China	secondary	matK	35.622532776276	105.478653067025	0
+Senecio_nemorensis	MH659268.1	01-AUG-2020	786	China: Hebei	secondary	matK	39.0000001	116	0
+Senecio_nemorensis	JX894952.1	19-DEC-2012	478	Romania: Prahova, pr. Sinaia, m. Paduchiosul	secondary	matK	44.8519311	25.9345737	0
+Senecio_nemorensis	JX894951.1	19-DEC-2012	478	Romania: Arges, muntii Fagarasului	secondary	matK	44.6128063	25.4943901	0

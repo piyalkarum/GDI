@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Luzula_campestris	KX676773.1	09-AUG-2017	795	Canada: British Columbia, Capital Regional District, Prevost Island, James Bay meadow, 750 km east of O'Reilly Beach Campground	primary	matK	48.836	-123.39	0.000666666666666667
+Luzula_campestris	JN895289.1	07-MAR-2012	897	United Kingdom: Cardiganshire	primary	matK	52.38	-3.77	0.000982961992136304
+Luzula_campestris	LT900083.1	12-AUG-2019	1292	Germany	secondary	matK	40.4203479	-79.1166983	0.000982961992136304
+Luzula_campestris	HM850953.1	23-JUL-2011	763	Portugal	secondary	matK	39.6621648	-8.1353519	0.00361555264307558
+Luzula_campestris	JN895446.1	07-MAR-2012	815	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.000982961992136304

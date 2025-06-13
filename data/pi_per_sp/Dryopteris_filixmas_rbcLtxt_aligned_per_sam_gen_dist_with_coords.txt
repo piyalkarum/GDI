@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dryopteris_filix-mas	MF694705.1	15-SEP-2018	498	Pakistan: Baluchistan	primary	rbcL	30.166	66.991	0.0600650723177164
+Dryopteris_filix-mas	MG215585.1	24-JAN-2018	552	Canada: Ontario, Manitoulin County,Bidwell township, Lake Huron, Manitoulin Island, White Rock Corner, Green Bay Road, between Bass and Pike Lakes, 4 km	primary	rbcL	45.531	-81.584	0.0636545961598942
+Dryopteris_filix-mas	MG215419.1	24-JAN-2018	553	Canada: Meat Cove, Inverness Co., Nova Scotia	primary	rbcL	47.0231	-60.5628	0.052755603090483
+Dryopteris_filix-mas	MG215383.1	24-JAN-2018	552	Canada: Ontario, Bruce Co., Albemarle Tp., Cape Croker Indian Reserve, S face of King's Point Bluff.	primary	rbcL	44.867	-81.033	0.0528498618145877
+Dryopteris_filix-mas	MG215356.1	24-JAN-2018	552	Canada: Ontario, Grey Co., Amabel Tp., along the Bruce Trail, near the Escarpment edge, 5 km E of Oxenden.	primary	rbcL	44.788	-81.042	0.0528498618145877
+Dryopteris_filix-mas	MG215266.1	24-JAN-2018	553	Canada: Meager Creek Hotsprings, BC	primary	rbcL	50.6139	-123.392	0.052755603090483
+Dryopteris_filix-mas	MG215181.1	24-JAN-2018	553	Canada: Lake Mindemoya, Manitoulin Island, ON	primary	rbcL	45.8131	-82.4056	0.052755603090483
+Dryopteris_filix-mas	MG215053.1	24-JAN-2018	553	Canada: Quebec, Montreal, Island of Montreal, Jardin Botanique de Montreal, Jardin alpin	primary	rbcL	45.559	-73.561	0.052755603090483
+Dryopteris_filix-mas	KJ841286.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, slope of East Hill	primary	rbcL	45.552	-73.1423	0.0528498618145877
+Dryopteris_filix-mas	JF832067.1	24-JAN-2012	1309	Sweden: Uppsala	secondary	rbcL	59.8586126	17.6387436	0.0512794585047978
+Dryopteris_filix-mas	JQ947932.1	24-JUN-2012	1338	USA	secondary	rbcL	39.887889302098	-100.5349983505	0.605860364269737
+Dryopteris_filix-mas	JQ935265.1	28-MAY-2012	1252	USA	secondary	rbcL	39.2222963834283	-99.6435459453057	0.0516793960137172
+Dryopteris_filix-mas	HE574628.1	31-JUL-2011	566	Finland	secondary	rbcL	63.2467777	25.9209164	0.0530943617061512

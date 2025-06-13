@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_bulbosa	MF597510.1	17-JUL-2018	818	Canada: British Columbia, Along Hwy. 3 at Kettle River, vacant lot beside river across from 'Gold Pan Cafe and Store'	primary	matK	49.057	-119	0.0135584244501682
+Poa_bulbosa	MF597509.1	17-JUL-2018	776	Canada: British Columbia, Summerland, Sun-Oka Beach Provincial Park.	primary	matK	49.556	-119.632	0.0130218873920222
+Poa_bulbosa	MF597508.1	17-JUL-2018	819	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	matK	48.843	-123.305	0.0135539922193811
+Poa_bulbosa	MG216937.1	24-JAN-2018	773	Canada: Ontario, City of Toronto, City of Toronto, Lawn at Gerrard St and Ladykirk, The Beaches	primary	matK	43.68	-79.313	0.013643152096184
+Poa_bulbosa	LR606959.1	25-JAN-2021	2035	Austria	secondary	matK	36.9148511	-4.7534501	0.00947909782267945
+Poa_bulbosa	MH921345.1	16-DEC-2018	754	USA	secondary	matK	40.2547595478856	-100.103464978461	0.008701618461333
+Poa_bulbosa	KJ529342.1	22-FEB-2015	957	Spain	secondary	matK	38.6747724538103	-5.09604350253894	0.00928877692422538
+Poa_bulbosa	KY378863.1	25-FEB-2018	788	Spain	secondary	matK	39.4268614819408	-5.09608754212895	0.00877545080761128
+Poa_bulbosa	MG217144.1	24-JAN-2018	778	USA	secondary	matK	39.0433406233901	-99.8179475953783	0.00854548777129185
+Poa_bulbosa	MG217022.1	24-JAN-2018	634	USA: Oregon, Josephine, Oregon Caves Hwy. Cave Cr. Camp Ground, S bank Cave Cr., across from mouth of Grayback Cr.	secondary	matK	42.0147513	-89.3323279	0.0123490159353101
+Poa_bulbosa	KJ599341.1	21-SEP-2014	769	Australia: Victoria	secondary	matK	-36.5986096	144.6780052	0.0090005137198474
+Poa_bulbosa	HE966970.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00850973031023849
+Poa_bulbosa	JN895061.1	07-MAR-2012	557	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00848415035939238

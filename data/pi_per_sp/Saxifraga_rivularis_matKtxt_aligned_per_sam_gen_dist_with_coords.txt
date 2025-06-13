@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_rivularis	MK926292.1	14-JAN-2020	870	Iceland	secondary	matK	65.2851294276273	-19.4752629213005	0
+Saxifraga_rivularis	MK926071.1	14-JAN-2020	749	United Kingdom	secondary	matK	54.6036320367805	-4.3216357536258	0
+Saxifraga_rivularis	MK925883.1	14-JAN-2020	866	Iceland	secondary	matK	64.3424260837955	-18.4857152504897	0
+Saxifraga_rivularis	MK925785.1	14-JAN-2020	924	United Kingdom	secondary	matK	55.4485298888753	-3.26782003871368	0
+Saxifraga_rivularis	KU524296.1	04-JAN-2017	500	Norway: Finnmark, Nesseby	secondary	matK	70.127256	28.7628093	0

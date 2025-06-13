@@ -1,0 +1,35 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_fontanum	MG322258.1	11-NOV-2018	578	United Kingdom: England, Cumbria, Foreshield Burn	primary	rbcL	54.8159	-2.39	0.000610501320660939
+Cerastium_fontanum	MG249098.1	21-JAN-2018	553	Canada: Ontario, Nipissing District, Sproule Township, Canoe Dock, Wildlife Research Station, Algonquin Park	primary	rbcL	45.6167	-78.4	0.000505464820477126
+Cerastium_fontanum	MG248784.1	21-JAN-2018	552	Canada: Yukon Territory, Larsen Creek, near Beaver River	primary	rbcL	60.3801050000727	-125.661247071789	0.00216361203746715
+Cerastium_fontanum	MG248717.1	21-JAN-2018	552	Canada: Yukon Territory, Larsen Creek, near Beaver River	primary	rbcL	60.9716346233872	-125.44010996121	0.00216361203746715
+Cerastium_fontanum	MG247991.1	21-JAN-2018	552	Canada: Ontario, Kenora District, Dryden Township, Dryden, outside of NEBIE Block #1	primary	rbcL	49.639	-92.779	0.000506005231903153
+Cerastium_fontanum	MG246931.1	21-JAN-2018	552	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, South Point Trail, Rondeau Road trailhead parking lot	primary	rbcL	42.279	-81.861	0.000506005231903153
+Cerastium_fontanum	MG246601.1	21-JAN-2018	552	Canada: Ontario, Cochrane District, Timmins, NEBIE Block#1, Elite treatment	primary	rbcL	48.351	-81.302	0.000506005231903153
+Cerastium_fontanum	MG246217.1	21-JAN-2018	551	Canada: Quebec, Montreal, Island of Montreal, Parc Beausejour, bord de sentier pedestre	primary	rbcL	45.527	-73.731	0.000506403756723677
+Cerastium_fontanum	HQ590026.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., edge of road to racing track	primary	rbcL	44.032	-79.534	0.000505464820477126
+Cerastium_fontanum	KP402691.1	06-JAN-2016	530	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, outside of Mathias by lamp post	primary	rbcL	38.889	-76.554	0.0096966470700159
+Cerastium_fontanum	KJ841227.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 10 metres south-west of small reservoir pond along Boundary Trail, about 10 metres north of small inflow creek	primary	rbcL	45.555	-73.1305	0.000506005231903153
+Cerastium_fontanum	KJ841226.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Next to observation lookout at Lac Hertel	primary	rbcL	45.544	-73.156	0.00404080601914007
+Cerastium_fontanum	JN893675.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.52	-4.05	0.000509929624427584
+Cerastium_fontanum	OQ172548.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.2727121435973	128.454049717888	0.00121852793311665
+Cerastium_fontanum	OQ172547.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.4508352115353	127.163551666021	0.00121852793311665
+Cerastium_fontanum	OQ172546.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.2430376550418	127.359436922193	0.00121852793311665
+Cerastium_fontanum	OQ172545.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.4120973513816	127.283493251792	0.00121852793311665
+Cerastium_fontanum	OQ172544.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.3275488453683	127.201012615872	0.00121852793311665
+Cerastium_fontanum	OQ172543.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.2666530151341	128.422500696255	0.00121852793311665
+Cerastium_fontanum	OQ172542.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.81125678626	128.072186033787	0.00121852793311665
+Cerastium_fontanum	LC727686.1	08-MAR-2023	673	Japan:Nagano, Ooshikamura	secondary	rbcL	35.5782487	138.0340205	0.00123339213420016
+Cerastium_fontanum	LC727677.1	08-MAR-2023	553	Japan:Nagano, Matsumoto	secondary	rbcL	36.2382047	137.9687141	0.000505464820477126
+Cerastium_fontanum	OQ326792.1	23-AUG-2023	720	China: Kanas, Xinjiang	secondary	rbcL	49.1713511	87.7945375	0.00166056623991199
+Cerastium_fontanum	OQ172541.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.0219226730287	127.573940956107	0.00121852793311665
+Cerastium_fontanum	OQ172540.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.3996540723876	128.535997447902	0.00121852793311665
+Cerastium_fontanum	MN204805.1	30-NOV-2021	724	China	secondary	rbcL	34.5415445238168	105.533679563927	0.00147135465555309
+Cerastium_fontanum	MN185104.1	27-APR-2021	722	China	secondary	rbcL	35.1905047351607	105.529164362124	0.00147135465555309
+Cerastium_fontanum	KX821222.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.0776337329442	8.85040131461721	0.00140704565415943
+Cerastium_fontanum	KX821221.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.1612653405222	9.59206137272713	0.00140704565415943
+Cerastium_fontanum	KX821220.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.7601239513293	7.88673042429629	0.00140704565415943
+Cerastium_fontanum	KX821219.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.2602664454535	7.23962095579785	0.00140704565415943
+Cerastium_fontanum	HM849881.1	23-JUL-2011	654	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00144819136413554
+Cerastium_fontanum	JN892007.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.0568249695061	-3.32760666503479	0.000509929624427584
+Cerastium_fontanum	JN892001.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	51.7050432423136	-4.29079304785207	0.000509929624427584

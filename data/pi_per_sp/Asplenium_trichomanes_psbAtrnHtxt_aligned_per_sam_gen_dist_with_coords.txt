@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_trichomanes	KU842447.1	27-SEP-2016	524	Spain: Salamanca, Montemayor	secondary	psbA-trnH	40.3478223	-5.8948548	0.00273416077810906
+Asplenium_trichomanes	KU842446.1	27-SEP-2016	524	Spain: Luarca	secondary	psbA-trnH	43.5439003	-6.5357408	0.00109576549147656
+Asplenium_trichomanes	KU842445.1	27-SEP-2016	524	Spain: Burgos, Crespos	secondary	psbA-trnH	42.8969226	-3.7835331	0.00109576549147656
+Asplenium_trichomanes	KU842444.1	27-SEP-2016	524	Spain: Granada, Iznallor	secondary	psbA-trnH	37.1734995	-3.5995337	0.00273416077810906
+Asplenium_trichomanes	KU842443.1	27-SEP-2016	524	Spain: Mallorca, Gorg Blau	secondary	psbA-trnH	40.0041163990343	2.52643709995679	0.00109576549147656
+Asplenium_trichomanes	KU842442.1	27-SEP-2016	524	Spain: Mallorca, Gorg Blau	secondary	psbA-trnH	39.8490685317192	3.53855775333395	0.00109576549147656
+Asplenium_trichomanes	AB575525.1	03-DEC-2010	520	Japan	secondary	psbA-trnH	36.5748441	139.2394179	0.00440301509665672
+Asplenium_trichomanes	HE966499.1	18-SEP-2012	543	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00109470681989766

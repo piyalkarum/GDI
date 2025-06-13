@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_dubia	HE649668.1	04-FEB-2013	209	Greece	secondary	trnL-trnF	43.2097838	-77.6930602	0.0135547113174804
+Gagea_dubia	HE649667.1	04-FEB-2013	210	Turkey	secondary	trnL-trnF	39.0566543978385	34.2657093473568	0.0331360370235051
+Gagea_dubia	HE649664.1	04-FEB-2013	210	Turkey	secondary	trnL-trnF	38.2501813156005	34.9538413290928	0.0175065968416352
+Gagea_dubia	AM903064.1	30-OCT-2007	278	Italy:Sardinia	secondary	trnL-trnF	40.0912813	9.0305773	0.0137064534551685
+Gagea_dubia	AM409360.1	02-NOV-2006	295	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.0137064534551685
+Gagea_dubia	AM903065.1	30-OCT-2007	260	Italy:Sicily	secondary	trnL-trnF	37.587794	14.155048	0.0137064534551685

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Luzula_pilosa	JN892575.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.53	-3.22	0
+Luzula_pilosa	MW010926.1	27-JUL-2021	513	Latvia	secondary	rbcL	56.8406494	24.7537645	0
+Luzula_pilosa	MW010925.1	27-JUL-2021	511	Poland	secondary	rbcL	52.215933	19.134422	0
+Luzula_pilosa	JN893584.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.5014828692633	-4.25613247008059	0
+Luzula_pilosa	JN893049.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0
+Luzula_pilosa	JN892314.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.0727921777375	-3.83534219022522	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_depauperata	JN895941.1	07-MAR-2012	834	United Kingdom: Somerset	primary	matK	51.36	-0.34	0.0012187690432663
+Carex_depauperata	MN763570.1	28-JUL-2020	547	Serbia	secondary	matK	44.0243229	21.0765743	0.0036563071297989
+Carex_depauperata	JN895025.1	07-MAR-2012	716	United Kingdom: Surrey	secondary	matK	51.2715316	-0.3414524	0.0012187690432663
+Carex_depauperata	JN895024.1	07-MAR-2012	837	Ireland: Cork,East	secondary	matK	51.9151442	-8.1736735	0.0012187690432663

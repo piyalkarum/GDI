@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedera_helix	MZ676694.1	10-AUG-2022	588	United Kingdom: England, County Durham	primary	rbcL	54.7635	-1.5556	0.0202868147862618
+Hedera_helix	MN514829.1	07-OCT-2019	477	USA: New York, Oyster Bay, Massapequa Preserve	primary	rbcL	40.69	-73.45	0.00878506538883897
+Hedera_helix	MH587770.1	14-JUL-2018	450	USA: New York, North Massapequa, By the Massapequa Creek in the Massapequa Preserve	primary	rbcL	40.69	-73.46	0.00772486772486772
+Hedera_helix	MG222770.1	26-DEC-2017	512	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Sassafrass Point/South Shore trails, in ravine behind RBG Aviary	primary	rbcL	43.269	-79.909	0.00794239396421051
+Hedera_helix	KX678065.1	29-APR-2017	551	Canada: British Columbia, Metro Vancouver Regional District, Surrey, 170 m westnorthwest of 196th Street and 20th Avenue, shaded mixed woods at top of small ravine	primary	rbcL	49.039	-122.682	0.00945915829847572
+Hedera_helix	JQ412372.1	16-JAN-2013	552	South Africa: Western Cape, Cape Town, Robben Island	primary	rbcL	-33.812	18.38	0.00952853070865493
+Hedera_helix	JN893032.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.53	-3.18	0.00928103598021977
+Hedera_helix	OQ929529.1	04-JUL-2023	719	Switzerland	secondary	rbcL	46.1791712073462	9.01844689553267	0.011310486872931
+Hedera_helix	OQ929522.1	04-JUL-2023	743	Switzerland	secondary	rbcL	46.6526235734192	8.67608425547495	0.0114415999066485
+Hedera_helix	MN662640.1	13-OCT-2020	1115	Lebanon	secondary	rbcL	40.375713	-76.4626118	0.0135667760135871
+Hedera_helix	HQ619729.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.0095282187144755
+Hedera_helix	KX162956.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	53.9128619895775	-3.39775631312146	0.0109894743606424
+Hedera_helix	KX162955.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.8432009251861	-3.98481062093909	0.0109894743606424
+Hedera_helix	KX162954.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.2129288248175	-2.52726453706275	0.0109894743606424
+Hedera_helix	KX162953.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.8475605079412	-4.25211383529936	0.0109894743606424
+Hedera_helix	KX162952.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.9850947928692	-2.71858565390047	0.0109894743606424
+Hedera_helix	KM527348.1	15-SEP-2015	560	Croatia	secondary	rbcL	45.3658443	15.6575209	0.191408643991301
+Hedera_helix	KJ204352.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.0095463479538421
+Hedera_helix	AB817810.1	17-APR-2014	682	South Korea	secondary	rbcL	36.638392	127.6961188	0.0113389919897667
+Hedera_helix	JN892511.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00928103598021977
+Hedera_helix	JN892510.1	07-MAR-2012	526	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00847304649859204
+Hedera_helix	FN689376.1	19-MAR-2010	670	Italy:Umbria	secondary	rbcL	42.965916	12.490236	0.014136592083816

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anacyclus_pyrethrum	LC733550.1	05-APR-2023	707	Japan	secondary	ITS	36.5748441	139.2394179	0.00435685406892512
+Anacyclus_pyrethrum	HE602382.1	14-OCT-2011	631	Morocco	secondary	ITS	28.3347722	-10.3713379	0.0071346318467029
+Anacyclus_pyrethrum	AJ748773.1	21-NOV-2004	202	Morocco:Azrou	secondary	ITS	32.982808201244	-4.63902687593177	NA
+Anacyclus_pyrethrum	AJ748772.1	21-NOV-2004	252	Morocco:Azrou	secondary	ITS	33.2961429070323	-5.27664879751808	NA

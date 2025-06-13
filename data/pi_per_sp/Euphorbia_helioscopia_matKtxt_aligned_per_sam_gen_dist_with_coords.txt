@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_helioscopia	OR067101.1	21-AUG-2023	852	India	primary	matK	31.71	76.93	0.00373754186789312
+Euphorbia_helioscopia	MT447282.1	01-MAY-2022	780	South Korea	primary	matK	33.43	126.82	0.00101339093874802
+Euphorbia_helioscopia	MT447281.1	01-MAY-2022	780	South Korea	primary	matK	36.17	129.22	0.00101339093874802
+Euphorbia_helioscopia	MT447280.1	01-MAY-2022	780	South Korea	primary	matK	37.02	129.23	0.00101339093874802
+Euphorbia_helioscopia	MT447279.1	01-MAY-2022	780	South Korea	primary	matK	36.63	129.42	0.00101339093874802
+Euphorbia_helioscopia	KX676625.1	09-AUG-2017	814	Canada: British Columbia, Greater Vancouver Regional District, Richmond, 300 m east of No. 3 Rd, opposite 8751 Finn Road, along ditch by mowed oat field margin	primary	matK	49.119	-123.132	0.000950686102306876
+Euphorbia_helioscopia	MF694847.1	16-SEP-2018	777	Pakistan: Khyber Pakhtunkhwa, Swat	primary	matK	35.223	72.426	0.00100784066859628
+Euphorbia_helioscopia	MG220848.1	21-JAN-2018	779	Canada: Ontario, Bruce County, North Bruce Peninsula Township, BPNP Visitor Centre entrance road	primary	matK	45.257	-81.656	0.000975067080426719
+Euphorbia_helioscopia	MG220730.1	21-JAN-2018	749	Canada: Ontario, Niagara County, Thorold Township, Field at Eller and Cataract Road	primary	matK	43.093	-79.262	0.000978333866656019
+Euphorbia_helioscopia	KJ840913.1	23-SEP-2014	724	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	matK	45.535	-73.149	0.00102504788159479
+Euphorbia_helioscopia	ON016640.1	18-JAN-2023	877	Pakistan	secondary	matK	29.5514432252438	70.9799939007124	0.00093870290306058
+Euphorbia_helioscopia	MN311900.1	30-NOV-2021	806	China	secondary	matK	34.9005865228667	104.053594426825	0.00103954867158061
+Euphorbia_helioscopia	MN433438.1	30-NOV-2021	798	China	secondary	matK	35.1533108246395	104.761138154505	0.00103330388394487
+Euphorbia_helioscopia	MG947000.1	29-MAY-2018	1215	Pakistan	secondary	matK	30.8621994262939	70.7019971612276	0.00106518788373731
+Euphorbia_helioscopia	HM850920.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00311832883033749
+Euphorbia_helioscopia	HE966922.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0126891162394691
+Euphorbia_helioscopia	JN894467.1	07-MAR-2012	847	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000942618799376607
+Euphorbia_helioscopia	JN893977.1	07-MAR-2012	810	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00101616085523776
+Euphorbia_helioscopia	EU659776.1	06-JUL-2008	2138	South Korea	secondary	matK	37.3334160577122	127.413621915712	0.00102610629131798
+Euphorbia_helioscopia	EU659775.1	06-JUL-2008	2128	South Korea	secondary	matK	36.1996339688851	127.1583138825	0.00219619981442394

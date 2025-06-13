@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Samolus_valerandi	JN896170.1	07-MAR-2012	642	United Kingdom: Glamorgan	primary	matK	51.62	-4.25	0.00768049155145929
+Samolus_valerandi	HM850729.1	23-JUL-2011	434	Portugal	secondary	matK	39.6621648	-8.1353519	0.0190215338800641
+Samolus_valerandi	JN896008.1	07-MAR-2012	789	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00563607085346216
+Samolus_valerandi	JN895196.1	07-MAR-2012	812	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00570497147514262

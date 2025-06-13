@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calendula_officinalis	KX783644.1	31-MAY-2017	795	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	matK	31.189	31.189	0.256021338434837
+Calendula_officinalis	OQ290527.1	16-MAY-2023	738	Mexico: Puebla	secondary	matK	19.1710098	-98.4125121	0.255512634396603
+Calendula_officinalis	OP535463.1	23-APR-2023	570	Iraq	secondary	matK	32.8917319130062	43.4988040813099	0.381902423140586
+Calendula_officinalis	OP535462.1	23-APR-2023	570	Iraq	secondary	matK	32.8445488394527	44.2541075714688	0.381902423140586
+Calendula_officinalis	HM850609.1	23-JUL-2011	747	Portugal	secondary	matK	39.6621648	-8.1353519	0.260039998854581

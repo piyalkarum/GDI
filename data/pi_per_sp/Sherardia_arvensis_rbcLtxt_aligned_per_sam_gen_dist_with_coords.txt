@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sherardia_arvensis	MG222781.1	26-DEC-2017	552	Canada: Guelph, Arb	primary	rbcL	43.2825124107265	-79.1719609108015	0.00491258789849635
+Sherardia_arvensis	MG221544.1	26-DEC-2017	552	Canada: Guelph, Arb	primary	rbcL	43.9277373196922	-80.1964954837917	0.00491258789849635
+Sherardia_arvensis	HQ644069.1	01-NOV-2011	607	USA: Georgia, Muscogee County, Columbus, Columbus State University	primary	rbcL	32.4996	-84.9367	0.00482922096724389
+Sherardia_arvensis	JN891397.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.51	-3.21	0.00489947367435239
+Sherardia_arvensis	OP711706.1	26-DEC-2022	547	Mexico: Puebla	secondary	rbcL	19.1710098	-98.4125121	0.00670429233757542
+Sherardia_arvensis	MK028017.1	17-DEC-2018	723	Switzerland: Geneva, Bot. Garden	secondary	rbcL	46.2047169	6.14231062909393	0.0193191382346678
+Sherardia_arvensis	MK028014.1	17-DEC-2018	731	France: Corsica, St Petrone	secondary	rbcL	42.6812711	9.3004065	0.0193191382346678
+Sherardia_arvensis	HM850351.1	23-JUL-2011	1315	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00934820150823226
+Sherardia_arvensis	JN892895.1	07-MAR-2012	529	United Kingdom: Glamorgan	secondary	rbcL	51.3253400778409	-2.59731933407472	0.0049188003083619
+Sherardia_arvensis	JN892894.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.1172263439782	-3.99139429398142	0.00489947367435239
+Sherardia_arvensis	JN890719.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00489947367435239

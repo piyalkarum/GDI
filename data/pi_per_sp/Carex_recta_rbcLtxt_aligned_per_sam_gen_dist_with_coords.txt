@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_recta	MG227803.1	23-JAN-2018	552	Canada: Ontario, Cochrane Dist., Arnold Point Area, Moose River side.	primary	rbcL	51.333	-80.383	0
+Carex_recta	MG227190.1	23-JAN-2018	552	Canada: Ontario, Cochrane Dist., James Bay, North Point, ca. 8 mi. N of Moose River	primary	rbcL	51.467	-80.45	0
+Carex_recta	MW011003.1	27-JUL-2021	553	Canada: Quebec	secondary	rbcL	52.4760892	-71.8258668	0
+Carex_recta	MK925290.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6638934765562	-3.4037976591542	0
+Carex_recta	MK925252.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6205618884746	-1.89515780838449	0
+Carex_recta	MK924995.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8667312435542	-3.28480249910408	0
+Carex_recta	MK924754.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3461117218291	-2.44912204438346	0
+Carex_recta	MK924618.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.551547039412	-3.26690614786231	0

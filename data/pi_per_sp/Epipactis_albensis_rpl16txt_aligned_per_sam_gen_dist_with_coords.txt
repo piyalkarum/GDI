@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epipactis_albensis	OM287144.1	06-DEC-2022	957	Poland	secondary	rpl16	52.2160369501155	19.0462476930107	0
+Epipactis_albensis	OM287140.1	06-DEC-2022	617	Poland	secondary	rpl16	51.9779666069584	19.0142878647816	0
+Epipactis_albensis	OM287139.1	06-DEC-2022	617	Poland	secondary	rpl16	52.6272487758787	19.1628859529087	0
+Epipactis_albensis	JN811743.1	31-OCT-2012	1051	Poland	secondary	rpl16	52.0472015969707	19.1762813787622	0

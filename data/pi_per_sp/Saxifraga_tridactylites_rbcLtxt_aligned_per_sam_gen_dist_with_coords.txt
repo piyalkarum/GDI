@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_tridactylites	JN891618.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.31	0
+Saxifraga_tridactylites	MG247985.1	21-JAN-2018	553	Canada: British Columbia, Vancouver Island. Fort Rodd Hill, Esquimalt, Victoria	secondary	rbcL	49.25783145	-123.246241986222	0
+Saxifraga_tridactylites	JN892110.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Saxifraga_tridactylites	JN892109.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_glomeratum	KX677330.1	09-AUG-2017	797	Canada: British Columbia, Capital Regional District, Greater Victoria, Saanich, Cadboro Bay, Hobbs Street at Penrhyn Street	primary	matK	48.463	-123.298	0.00878451227278173
+Trifolium_glomeratum	MK926192.1	14-JAN-2020	813	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00824926111060328
+Trifolium_glomeratum	HM851153.1	23-JUL-2011	813	Portugal	secondary	matK	39.2278716151056	-7.71703550084682	0.00950554251763846
+Trifolium_glomeratum	JX505831.1	09-JAN-2013	1387	Portugal	secondary	matK	39.0929604577269	-7.83511699781353	0.0222883784672226

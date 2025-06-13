@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_giganteus	OU877875.1	17-JUN-2022	2413	Greece:Thrace, Nomos Evrou, Esparchia Didimotichou	secondary	trnK	40.5180920295981	24.3300231819211	0.251819708713311
+Dianthus_giganteus	OU877778.1	17-JUN-2022	2414	Greece:Macedonia, Veria, Panagia, Sumela, no further locality data	secondary	trnK	41.4786117569786	25.954537200163	0.251819267982756
+Dianthus_giganteus	OU860364.1	17-JUN-2022	243	Greece:Macedonia, Veria, Panagia, Sumela, no further locality data	secondary	trnK	41.5260423111004	25.4021626004411	0.377593360995851
+Dianthus_giganteus	OU860252.1	17-JUN-2022	243	Greece:Thrace, Nomos Evrou, Esparchia Didimotichou	secondary	trnK	40.711149096871	24.3987136219153	0.377593360995851
+Dianthus_giganteus	OU877910.1	17-JUN-2022	1306	Romania	secondary	trnK	45.055384	22.5888847855817	0.254261899212932

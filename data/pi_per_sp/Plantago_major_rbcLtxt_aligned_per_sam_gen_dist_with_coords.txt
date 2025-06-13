@@ -1,0 +1,41 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_major	OR738065.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.00207915479249982
+Plantago_major	OR575208.1	25-OCT-2023	514	Kazakhstan: Qaragandy region	primary	rbcL	46.77978	74.70621	0.00231703365254474
+Plantago_major	OL434765.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.126	-81.14	0.000299702670961369
+Plantago_major	ON684496.1	21-AUG-2022	1434	Portugal: Estacao Agronomica Nacional, Oeiras, Lisboa	primary	rbcL	38.69611	-9.31805	0.000430193726900922
+Plantago_major	MG224710.1	26-DEC-2017	552	Canada: British Columbia, Osoyoos, Mica Spit	primary	rbcL	49.054	-119.464	0.000299790116738429
+Plantago_major	MG224039.1	26-DEC-2017	552	Canada: Manitoba, York Factory, Hay Island in the Hayes River	primary	rbcL	57.013	-92.292	0.000299790116738429
+Plantago_major	MG223841.1	26-DEC-2017	553	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	rbcL	43.5485	-80.2503	0.000299702670961369
+Plantago_major	MG223680.1	26-DEC-2017	552	Canada: Eramosa river	primary	rbcL	43.6333	-80.2167	0.000299790116738429
+Plantago_major	MG223487.1	26-DEC-2017	552	Canada: Nova Scotia, Shelburne County, Western Head	primary	rbcL	43.661	-65.129	0.000299790116738429
+Plantago_major	MG223316.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	48.943	-100.508	0.000299790116738429
+Plantago_major	MG223293.1	26-DEC-2017	522	Canada: British Columbia, Alaksen National Wildlife Area, Field No.9	primary	rbcL	49.083	-123.15	0.000304072194972789
+Plantago_major	MG223154.1	26-DEC-2017	552	Canada: Yukon Territory, Yukon River, confluence of 12 Mile River	primary	rbcL	64.253	-139.722	0.000299790116738429
+Plantago_major	MG223124.1	26-DEC-2017	552	Canada: Kilkenny, ON	primary	rbcL	48.4066	-89.2467	0.000299790116738429
+Plantago_major	MG222638.1	26-DEC-2017	552	Canada: Ontario, Kenora District, Dryden Township, Dryden, NEBIE Block#1, Elite treatment	primary	rbcL	49.639	-92.777	0.000299790116738429
+Plantago_major	MG222499.1	26-DEC-2017	552	Canada: Northwest Territories, Nahanni National Park, Kraus Hot Springs	primary	rbcL	61.255	-124.06	0.000299790116738429
+Plantago_major	MG222403.1	26-DEC-2017	552	Canada: Yukon Territory, La Biche, camp near bridge	primary	rbcL	60.079	-124.036	0.000299790116738429
+Plantago_major	MG222357.1	26-DEC-2017	552	Canada: Yukon Territory, Stewart Crossing, Ferry Hill	primary	rbcL	63.384	-136.688	0.000299790116738429
+Plantago_major	MG222328.1	26-DEC-2017	552	Canada: Yukon Territory, Yukon River	primary	rbcL	64.372	-140.447	0.000299790116738429
+Plantago_major	MG222152.1	26-DEC-2017	552	Canada: Bruce Co., ON	primary	rbcL	44.5	-81.25	0.000299790116738429
+Plantago_major	MG221653.1	26-DEC-2017	552	Canada: Yukon Territory, Mayo, on banks of Stewart River	primary	rbcL	63.592	-136.9	0.000299790116738429
+Plantago_major	MG221300.1	26-DEC-2017	552	Canada: Yukon Territory, Nisutlin Delta	primary	rbcL	60.227	-132.549	0.000299790116738429
+Plantago_major	MG221179.1	26-DEC-2017	552	Canada: Northwest Territories, Mackenzie River Ferry	primary	rbcL	67.457	-133.757	0.000299790116738429
+Plantago_major	KX677957.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Ashlu Main Rd., near Squamish	primary	rbcL	49.933	-123.364	0.000299790116738429
+Plantago_major	KJ593615.1	17-MAR-2015	553	USA: Wisconsin, Abrams	primary	rbcL	44.814	-88.03	0.000299702670961369
+Plantago_major	KJ593614.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.51	-88.714	0.000299702670961369
+Plantago_major	KJ841475.1	04-NOV-2014	517	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, west side of Blue Trail, n-w of Sunrise summit	primary	rbcL	45.557	-73.1646	0.000305563171101659
+Plantago_major	JN965732.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	rbcL	58.78	-94.195	0.000299790116738429
+Plantago_major	JN892027.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000304201263936553
+Plantago_major	MN192691.1	30-NOV-2021	669	China	secondary	rbcL	35.000074	104.999927	0.0019584805677038
+Plantago_major	HQ619769.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.000299702670961369
+Plantago_major	MH113377.1	30-SEP-2019	495	Myanmar	secondary	rbcL	17.1750495	95.9999652	0.00389851248027707
+Plantago_major	MG428477.1	02-APR-2018	491	Austria	secondary	rbcL	36.9148511	-4.7534501	0.000522410660205936
+Plantago_major	MG222514.1	26-DEC-2017	553	Canada: New Brunswick, Albert County, Hillsborough, 4757 Salem Road, Steeves Family Home and Surroundings	secondary	rbcL	47.43950925	-68.3926909826309	0.000299702670961369
+Plantago_major	MG221664.1	26-DEC-2017	553	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	secondary	rbcL	43.72634945	-77.7101179040839	0.000299702670961369
+Plantago_major	MG221344.1	26-DEC-2017	552	USA: North Dakota	secondary	rbcL	47.6201461	-100.540737	0.000299790116738429
+Plantago_major	KX298979.1	06-FEB-2017	696	Egypt	secondary	rbcL	26.2540493	29.2675469	0.000677370922186864
+Plantago_major	KJ204386.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000300054404533037
+Plantago_major	HM850266.1	23-JUL-2011	699	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000319814351830087
+Plantago_major	JN893616.1	07-MAR-2012	541	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000304707609259053
+Plantago_major	MH069823.1	30-APR-2019	605	Malaysia	secondary	rbcL	3.3314558	101.2513058	0.00190750267331554

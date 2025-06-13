@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crataegus_laevigata	KC251075.1	03-DEC-2013	750	USA: Washington, San Juan Co., Crane Island, E end	primary	matK	48.5983	-122.995	0
+Crataegus_laevigata	KC251074.1	03-DEC-2013	751	USA: Washington, San Juan Co., Crane Island, E end	primary	matK	48.5967	-122.992	0
+Crataegus_laevigata	KC251073.1	03-DEC-2013	766	USA: Washington, San Juan Co., Crane Island, E end	primary	matK	48.6	-123	0
+Crataegus_laevigata	JN894643.1	07-MAR-2012	787	United Kingdom: Monmouthshire	primary	matK	51.63	-2.7	0
+Crataegus_laevigata	JN893930.1	07-MAR-2012	823	United Kingdom: Radnorshire	secondary	matK	52.4627049	-3.2561628	0
+Crataegus_laevigata	JN893929.1	07-MAR-2012	817	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0

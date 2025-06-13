@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Primula_matthioli	AY622989.1	08-JUN-2004	992	Switzerland	secondary	trnL-trnF	46.7985624	8.2319736	0.00989971857892771
+Primula_matthioli	AY622988.1	08-JUN-2004	975	Romania	secondary	trnL-trnF	45.9852129	24.6859225	0.0215605749486653
+Primula_matthioli	AY622987.1	08-JUN-2004	986	Austria	secondary	trnL-trnF	36.9148511	-4.7534501	0.00921525588214469
+Primula_matthioli	AY622985.1	08-JUN-2004	986	Slovakia	secondary	trnL-trnF	48.7411522	19.4528646	0.00920692570733597

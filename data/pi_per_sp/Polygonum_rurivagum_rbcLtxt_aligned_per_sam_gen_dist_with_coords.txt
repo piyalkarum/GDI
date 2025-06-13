@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygonum_rurivagum	JN891126.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.14	-4.61	0
+Polygonum_rurivagum	JN893393.1	07-MAR-2012	535	United Kingdom: Cardiganshire	secondary	rbcL	53.1302497536578	-4.21159391522185	0
+Polygonum_rurivagum	JN893390.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	51.7387868732281	-4.57623921017074	0
+Polygonum_rurivagum	FM883642.1	14-DEC-2008	1364	Italy	secondary	rbcL	42.6384261	12.674297	0

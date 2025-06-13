@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_sylvestris	HG800520.1	03-FEB-2014	745	Italy:Lombardy, Grigna settentrionale	secondary	psbA-trnH	45.9533979	9.3876756	0
+Dianthus_sylvestris	HE966602.1	18-SEP-2012	745	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.3123992042532	13.8745118055163	0
+Dianthus_sylvestris	HE966601.1	18-SEP-2012	745	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.1323531902952	14.7182958067205	0
+Dianthus_sylvestris	HE966600.1	18-SEP-2012	745	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.2732154843614	14.0692301494177	0

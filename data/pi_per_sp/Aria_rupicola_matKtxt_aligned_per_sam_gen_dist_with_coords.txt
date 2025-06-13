@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aria_rupicola	JN895177.1	07-MAR-2012	737	United Kingdom: Glamorgan	primary	matK	51.78	-3.43	0
+Aria_rupicola	JN894463.1	07-MAR-2012	798	United Kingdom: Breconshire	primary	matK	51.84	-3.18	0
+Aria_rupicola	MK925741.1	14-JAN-2020	805	United Kingdom	secondary	matK	54.7023545	-3.2765753	0
+Aria_rupicola	GQ248203.1	02-JUL-2009	750	United Kingdom: Gloucestershire	secondary	matK	51.7643786	-2.1880662	0
+Aria_rupicola	JN894653.1	07-MAR-2012	818	United Kingdom: Breconshire	secondary	matK	52.9877138	-1.1775355	0
+Aria_rupicola	JN894647.1	07-MAR-2012	805	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

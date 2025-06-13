@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Callianthemum_coriandrifolium	MH105668.1	31-MAR-2019	1158	Bosnia and Herzegovina	secondary	matK	44.3053476	17.5961467	0
+Callianthemum_coriandrifolium	MH105667.1	31-MAR-2019	1158	Switzerland	secondary	matK	46.9983224888611	8.66426019879751	0
+Callianthemum_coriandrifolium	MH105666.1	31-MAR-2019	1158	Switzerland	secondary	matK	46.8214121985315	8.99936200614285	0
+Callianthemum_coriandrifolium	MH105665.1	31-MAR-2019	1158	France	secondary	matK	46.2209638446729	2.87920356056988	0
+Callianthemum_coriandrifolium	MH105664.1	31-MAR-2019	1158	Slovakia	secondary	matK	48.7411522	19.4528646	0
+Callianthemum_coriandrifolium	MH105663.1	31-MAR-2019	1158	Austria	secondary	matK	37.3165601755205	-4.99248518461449	0
+Callianthemum_coriandrifolium	MH105662.1	31-MAR-2019	1158	Austria	secondary	matK	37.4577104521058	-4.37214604121	0
+Callianthemum_coriandrifolium	MH105661.1	31-MAR-2019	1158	Italy	secondary	matK	42.6384261	12.674297	0
+Callianthemum_coriandrifolium	MH105660.1	31-MAR-2019	1158	France	secondary	matK	46.9748922476346	0.966917259713118	0
+Callianthemum_coriandrifolium	MH105659.1	31-MAR-2019	1158	Spain	secondary	matK	39.3638862744235	-5.44794993452616	0
+Callianthemum_coriandrifolium	MH105658.1	31-MAR-2019	1158	Spain	secondary	matK	39.5029717384802	-4.3100195711921	0

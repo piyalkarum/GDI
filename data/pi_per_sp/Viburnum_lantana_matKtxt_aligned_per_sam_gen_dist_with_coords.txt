@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viburnum_lantana	MG224822.1	21-JAN-2018	794	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay (Ile-aux-Chats)	primary	matK	45.516	-73.757	0
+Viburnum_lantana	JN894704.1	07-MAR-2012	822	United Kingdom: Glamorgan	primary	matK	51.52	-3.24	0
+Viburnum_lantana	HQ619808.1	26-DEC-2010	837	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0
+Viburnum_lantana	KJ204557.1	29-JAN-2015	837	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0
+Viburnum_lantana	JN895395.1	07-MAR-2012	786	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Viburnum_lantana	JN895394.1	07-MAR-2012	824	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0

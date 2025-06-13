@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxytropis_mertensiana	LR742965.1	10-FEB-2020	752	Russia:Chukotka, Lipchikvygytyn Lake and Small Anyui River	secondary	trnL-trnF	67.6576811710323	177.36392332124	0
+Oxytropis_mertensiana	LR742964.1	10-FEB-2020	751	Russia:Chukotka, Wrangel Island and Lipchikvygytyn Lake	secondary	trnL-trnF	67.8617523352904	177.354084026537	0
+Oxytropis_mertensiana	LR742963.1	10-FEB-2020	751	Russia:Chukotka, Wrangel Island and Magadan Region	secondary	trnL-trnF	67.8635016851649	178.471814185884	0
+Oxytropis_mertensiana	LN898534.1	23-DEC-2015	691	Russia	secondary	trnL-trnF	64.6863136	97.7453061	0

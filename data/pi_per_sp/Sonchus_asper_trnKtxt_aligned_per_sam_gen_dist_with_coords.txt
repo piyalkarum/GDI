@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sonchus_asper	KU586785.1	06-FEB-2017	542	Spain: Sevilla, Alcala de Guadaira	secondary	trnK	37.3397709	-5.8408396	0
+Sonchus_asper	DQ840426.1	13-AUG-2006	2802	Australia	secondary	trnK	-24.7761086	134.755	0.000237925291458482
+Sonchus_asper	DQ508004.1	01-JUL-2006	2802	South Korea	secondary	trnK	36.638392	127.6961188	0.000118962645729241
+Sonchus_asper	DQ508003.1	01-JUL-2006	2802	Spain	secondary	trnK	39.3260685	-4.8379791	0.000118962645729241

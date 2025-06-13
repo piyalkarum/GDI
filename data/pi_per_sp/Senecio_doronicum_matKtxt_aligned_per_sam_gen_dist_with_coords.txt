@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_doronicum	JX894937.1	19-DEC-2012	478	France: Hautes Alpes, col de Gleize	secondary	matK	44.6226027	6.0479763	0.000627615062761506
+Senecio_doronicum	JX894928.1	19-DEC-2012	478	Italy: Rieti, NE Monte Terminillo	secondary	matK	42.4026569	12.860813	0.000627615062761506
+Senecio_doronicum	JX894924.1	19-DEC-2012	478	France: Savoie, pr. col du Galibier, cara norte, alrededor de Les Granges	secondary	matK	48.2160016	4.0846576	0.000627615062761506
+Senecio_doronicum	JX894923.1	19-DEC-2012	478	France: Jura, Massif du Jura, La Dole	secondary	matK	46.5635644	5.78354017642857	0.000627615062761506
+Senecio_doronicum	JX894922.1	19-DEC-2012	478	Andorra: Ordino, port de Siguer, estanyons de Banyell	secondary	matK	42.600955	1.52983878624568	0.000627615062761506
+Senecio_doronicum	JX894921.1	19-DEC-2012	478	Spain: Lena, Tuiza de Arriba, pe a Ubi a, ladera este	secondary	matK	43.7440272887578	-6.45906137144045	0.00167364016736402
+Senecio_doronicum	JX894920.1	19-DEC-2012	478	Spain: Lena, Tuiza de Arriba, pe a Cerreos, ladera este	secondary	matK	43.6676598306533	-5.52378476911675	0.00167364016736402
+Senecio_doronicum	JX894919.1	19-DEC-2012	478	Spain: Lena, Tuiza de Arriba, pe a Cerreos, ladera este	secondary	matK	43.1586139195837	-5.80740683298043	0.00167364016736402
+Senecio_doronicum	JX894918.1	19-DEC-2012	478	Switzerland: Valais, Valsorey, Grand Combin	secondary	matK	46.3720663	6.86228766957416	0.000627615062761506
+Senecio_doronicum	JX894936.1	19-DEC-2012	478	Italy	secondary	matK	44.1732638	7.5571374	0.000627615062761506
+Senecio_doronicum	JX894925.1	19-DEC-2012	478	France	secondary	matK	45.0641651	6.407878	0.000627615062761506

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Buglossoides_arvensis	MG223094.1	26-DEC-2017	518	Canada: Ontario, Toronto, City of, Etobicoke, 1 mi S of Weston	primary	rbcL	43.683	-79.517	0.00172544162928778
+Buglossoides_arvensis	KX678454.1	29-APR-2017	553	Canada: British Columbia, Okanagan-Similkameen Regional District, near Osoyoos, Kruger Mountain Rd.	primary	rbcL	49.0634	-119.56	0.000506143249787318
+Buglossoides_arvensis	KX678318.1	29-APR-2017	552	Canada: British Columbia, North Okanagan Regional District, Kalamalka Lake Provincial Park, Cosens Bay Rd.	primary	rbcL	50.1883	-119.267	0.000506143249787318
+Buglossoides_arvensis	JN892707.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.56	-3.02	0.000517697998091791
+Buglossoides_arvensis	MH215242.1	22-JAN-2019	553	China	secondary	rbcL	35.000074	104.999927	0.000506143249787318
+Buglossoides_arvensis	MG222901.1	26-DEC-2017	472	Canada: Ontario, Essex Co., Anderson Tp., Conc. VIII, Lot 4-5, 8 mi NW of Harrow, near McGregor.	secondary	rbcL	43.72634945	-77.7101179040839	0.0018687154002331
+Buglossoides_arvensis	EU599852.1	31-MAR-2009	1195	Turkey	secondary	rbcL	38.9597594	34.9249653	0.000534188034188034
+Buglossoides_arvensis	HM849830.1	23-JUL-2011	1264	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000506143249787318
+Buglossoides_arvensis	JN892862.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000517697998091791

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Soldanella_pusilla	KJ365434.1	25-MAY-2014	519	Italy: Trentino-Alto Adige, Dolomiti, Parco Regionale Paneveggio, Passo di Rolle	primary	ndhJ	46.55	11.8	NA
+Soldanella_pusilla	KJ365433.1	25-MAY-2014	951	Austria: Lungau, Obertauern, Gruenwaldkopf	primary	ndhJ	47.26	13.54	0
+Soldanella_pusilla	KJ365432.1	25-MAY-2014	955	Italy: Trentino-Alto Adige, Passo di Tonale, La Presanella, Passo di Paradiso	primary	ndhJ	46.23	10.57	0
+Soldanella_pusilla	KJ365431.1	25-MAY-2014	432	Austria: Tyrol, Hohe Tauern, Innergschloess	primary	ndhJ	47.12	12.47	NA

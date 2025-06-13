@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stachys_byzantina	MG224316.1	26-DEC-2017	552	Canada: Ontario, Bruce Co., Bruce County Rd. 13.	secondary	rbcL	45.6289677672241	-80.5593547028339	0.000905797101449275
+Stachys_byzantina	MG223806.1	26-DEC-2017	552	Canada: Ontario, Bruce Co., Bruce County Rd. 13.	secondary	rbcL	45.593765413433	-80.4862897485142	0.000905797101449275
+Stachys_byzantina	MG223496.1	26-DEC-2017	552	Canada: Ontario, Grey Co., Keppel Tp., Skinner Bluff ANSI, Niagara Escarpment plain, slope and terrace just E of Oxenden	secondary	rbcL	43.72634945	-77.7101179040839	0.000905797101449275
+Stachys_byzantina	MG222452.1	26-DEC-2017	536	Canada: Ontario, Toronto, City of, Mount Pleasant Cemetery	secondary	rbcL	43.697204	-79.3791189	0.000932835820895522
+Stachys_byzantina	KP172077.1	04-FEB-2015	1403	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00365022712524335

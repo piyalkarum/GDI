@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_multicaulis	JF694226.1	21-AUG-2011	1222	Tunisia: Tabarka	secondary	matK	36.9545614	8.7573829	0.00177304964539007
+Linaria_multicaulis	JF694225.1	21-AUG-2011	1222	Morocco: Jbel Tazekka	secondary	matK	34.0911192	-4.1831946	0.0021822149481724
+Linaria_multicaulis	JF694224.1	21-AUG-2011	1222	Morocco: Beni-Hadifa	secondary	matK	34.951068	-4.138968	0.00177304964539007
+Linaria_multicaulis	JF694223.1	21-AUG-2011	1222	Morocco: Azrou	secondary	matK	33.436117	-5.221913	0.00313693398799782
+Linaria_multicaulis	JF694222.1	21-AUG-2011	1222	Algeria: Tikjda	secondary	matK	36.4492798	4.1276464	0.00559192580469176
+Linaria_multicaulis	JF694219.1	21-AUG-2011	1222	Tunisia: El Kesra	secondary	matK	35.8137299	9.3653433	0.00218221494817239
+Linaria_multicaulis	JF694218.1	21-AUG-2011	1222	Italy: Sicily, Etna	secondary	matK	37.7510251	14.9940321	0.00354609929078014

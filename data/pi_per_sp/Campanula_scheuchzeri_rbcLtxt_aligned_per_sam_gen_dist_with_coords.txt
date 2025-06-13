@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_scheuchzeri	MK556094.1	22-SEP-2019	329	Switzerland	secondary	rbcL	46.4036562161091	7.51699178703637	0.564422173091971
+Campanula_scheuchzeri	MK556013.1	22-SEP-2019	337	Switzerland	secondary	rbcL	47.4121540988305	8.21907842309887	0.548305367885582
+Campanula_scheuchzeri	MK555569.1	22-SEP-2019	357	Switzerland	secondary	rbcL	46.5598446898374	9.46460329363297	0.623018665830888
+Campanula_scheuchzeri	MK555373.1	22-SEP-2019	382	Switzerland	secondary	rbcL	46.7747885196874	7.66769800945457	0.43104314329244
+Campanula_scheuchzeri	HG416980.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.452278570825429

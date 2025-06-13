@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_latifolia	LR701420.1	21-OCT-2021	2830	Georgia	primary	matK	43.7513	42.6897	0
+Campanula_latifolia	JN894554.1	07-MAR-2012	465	United Kingdom: Monmouthshire	primary	matK	51.69	-2.68	0
+Campanula_latifolia	LR701362.1	21-OCT-2021	2829	Georgia	secondary	matK	32.3293809	-83.1137366	0
+Campanula_latifolia	JN895912.1	07-MAR-2012	804	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0

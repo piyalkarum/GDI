@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_hayekiana	KX852536.1	30-SEP-2017	754	Slovenia	secondary	rps16	46.3518556200106	14.6344425766812	0
+Silene_hayekiana	KX852535.1	30-SEP-2017	754	Italy	secondary	rps16	43.0874933403587	11.9130942038524	0
+Silene_hayekiana	KX852534.1	30-SEP-2017	754	Italy	secondary	rps16	42.6418570443654	13.189214470747	0
+Silene_hayekiana	KX852533.1	30-SEP-2017	754	Croatia	secondary	rps16	46.0116691735384	14.8439049903604	0
+Silene_hayekiana	KX852532.1	30-SEP-2017	754	Croatia	secondary	rps16	45.4059537198544	15.4128703341118	0
+Silene_hayekiana	KX852531.1	30-SEP-2017	754	Slovenia	secondary	rps16	46.7400646404002	13.9361930376548	0
+Silene_hayekiana	KX852530.1	30-SEP-2017	754	Slovenia	secondary	rps16	45.5190494597685	15.1462901461402	0
+Silene_hayekiana	KX852529.1	30-SEP-2017	754	Croatia	secondary	rps16	46.0403686847218	15.0028722272932	0
+Silene_hayekiana	KX852528.1	30-SEP-2017	754	Austria	secondary	rps16	36.9148511	-4.7534501	0
+Silene_hayekiana	KX852527.1	30-SEP-2017	754	Slovenia	secondary	rps16	46.0698840703222	14.8416568980213	0

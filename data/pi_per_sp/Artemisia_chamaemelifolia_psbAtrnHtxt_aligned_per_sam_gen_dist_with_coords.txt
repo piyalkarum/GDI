@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_chamaemelifolia	MT758515.1	27-DEC-2021	465	Turkey: Kars	primary	psbA-trnH	40.54	43.02	0.00113895216400911
+Artemisia_chamaemelifolia	MT758514.1	27-DEC-2021	465	Turkey: Agri	primary	psbA-trnH	40.1417244689385	44.1625951314536	0.00113895216400911
+Artemisia_chamaemelifolia	MT758513.1	27-DEC-2021	465	Turkey: Agri	primary	psbA-trnH	38.7739662348206	43.6427623735383	0.00113895216400911
+Artemisia_chamaemelifolia	MT758512.1	27-DEC-2021	465	Turkey: Agri	primary	psbA-trnH	39.7663920529574	43.4221420170569	0.00113895216400911
+Artemisia_chamaemelifolia	MH330180.1	24-DEC-2018	489	Pakistan	secondary	psbA-trnH	30.3308401	71.247499	0.00455580865603645

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_campestris	MG225314.1	21-JAN-2018	787	Canada: Yukon Territory, Yukon River, 1 mile upstream of Big Salmon	primary	matK	61.857	-134.917	0.000810516019568489
+Artemisia_campestris	MG225228.1	21-JAN-2018	795	Canada: Ontario, Algoma District, Sault Ste. Marie, Sault Ste. Marie	primary	matK	46.501	-84.441	0.00184536835038132
+Artemisia_campestris	MG225161.1	21-JAN-2018	793	Canada: Ontario, Algoma District, Michipicoten Twp., Michipicoten Bay	primary	matK	47.93	-84.843	0.00184565456667856
+Artemisia_campestris	MG225037.1	21-JAN-2018	779	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, Beach Access #11, Dog Beach	primary	matK	42.267	-81.844	0.000817498891953321
+Artemisia_campestris	MG224936.1	21-JAN-2018	787	Canada: Yukon Territory, Kusawa Dunes, Takhini River, 13 km S of Alaska Highway	primary	matK	60.667	-136.081	0.000810516019568489
+Artemisia_campestris	MG224929.1	21-JAN-2018	785	Canada: Yukon Territory, Yukon River 6 km S of Cassiar Bar, upstream of Big Salmon	primary	matK	61.85	-134.933	0.000811840564892752
+Artemisia_campestris	MG224910.1	21-JAN-2018	781	USA: North Dakota	primary	matK	48.335	-103.566	0.00314402235016832
+Artemisia_campestris	MG224837.1	21-JAN-2018	788	Canada: Ontario, Thunder Bay District, Neebing Twp., Thunder Bay	primary	matK	48.297	-89.239	0.00150552536783768
+Artemisia_campestris	MT917294.1	03-MAR-2023	789	China	secondary	matK	35.000074	104.999927	0.00219655830406677
+Artemisia_campestris	MK926386.1	14-JAN-2020	944	Poland	secondary	matK	52.215933	19.134422	0.0023301406731283
+Artemisia_campestris	MK925653.1	14-JAN-2020	949	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00222756175405151
+Artemisia_campestris	JN894047.1	07-MAR-2012	837	United Kingdom: Suffolk,West	secondary	matK	52.271975	1.06294542677469	0.00113624784477909

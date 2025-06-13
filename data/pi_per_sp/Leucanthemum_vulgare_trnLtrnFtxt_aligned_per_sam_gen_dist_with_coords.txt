@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_vulgare	KY778076.1	31-MAY-2017	378		primary	trnL-trnF	43.79	7	0.0273881472976496
+Leucanthemum_vulgare	KY778075.1	31-MAY-2017	378		primary	trnL-trnF	43.67	6.5	0.0273881472976496
+Leucanthemum_vulgare	KY778074.1	31-MAY-2017	378		primary	trnL-trnF	48.06	-4.66	0.0273881472976496
+Leucanthemum_vulgare	KY778073.1	31-MAY-2017	378		primary	trnL-trnF	43.89	3.25	0.0273881472976496
+Leucanthemum_vulgare	KM385493.1	01-DEC-2014	456	Switzerland	secondary	trnL-trnF	46.7985624	8.2319736	0.575881132442218
+Leucanthemum_vulgare	HE681067.1	22-APR-2013	342	Spain:Cataluna	secondary	trnL-trnF	41.8523094	1.5745043	0.0276117644538697
+Leucanthemum_vulgare	HE681066.1	22-APR-2013	342	Spain:Aragon	secondary	trnL-trnF	41.3787291	-0.7639373	0.0276117644538697
+Leucanthemum_vulgare	HE681065.1	22-APR-2013	342	Spain:Castilia y Leon	secondary	trnL-trnF	42.0692474651122	-5.4649340725287	0.0276117644538697
+Leucanthemum_vulgare	HE681064.1	22-APR-2013	342	Spain:Cantabria	secondary	trnL-trnF	43.1595664	-4.0878382	0.0276117644538697
+Leucanthemum_vulgare	HE681024.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	48.9584883021491	11.2831735073268	0.0276117644538697
+Leucanthemum_vulgare	HE681012.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	48.1813907947369	11.2341866214347	0.0276117644538697
+Leucanthemum_vulgare	HE681011.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	49.5819608382288	11.7073806996432	0.0276117644538697
+Leucanthemum_vulgare	HE681009.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	49.3356780006837	12.035240959132	0.0276117644538697
+Leucanthemum_vulgare	HE681008.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	49.494261755182	11.7950305579292	0.0276117644538697
+Leucanthemum_vulgare	HE680998.1	22-APR-2013	342	France:Midi-Pyrenees	secondary	trnL-trnF	43.8099068	1.4344926	0.0276117644538697
+Leucanthemum_vulgare	HE680997.1	22-APR-2013	342	Spain:Castilia y Leon	secondary	trnL-trnF	42.3520000816378	-5.26308005902375	0.0301229734428115
+Leucanthemum_vulgare	HE680996.1	22-APR-2013	342	Italy:Toscana	secondary	trnL-trnF	43.4586541	11.1389204	0.0276117644538697
+Leucanthemum_vulgare	HE680995.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	48.7322203654005	10.5128230022734	0.0276117644538697
+Leucanthemum_vulgare	HE680994.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	49.076582894628	12.0572493032587	0.0276117644538697
+Leucanthemum_vulgare	HE680993.1	22-APR-2013	342	Austria:Salzburg	secondary	trnL-trnF	47.7981346	13.0464806	0.0276117644538697
+Leucanthemum_vulgare	HE680992.1	22-APR-2013	342	Germany:Bayern	secondary	trnL-trnF	48.8980132416526	12.1576552563224	0.0276117644538697
+Leucanthemum_vulgare	HE680991.1	22-APR-2013	342	Austria:Tirol	secondary	trnL-trnF	47.223193	11.5261028	0.0276117644538697

@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_apetala	OK505870.1	22-FEB-2022	775	Greece: Island of Samothraki, Akr. Kipos	primary	atpB-rbcL	40.416667	25.683333	0.00010752688172043
+Sagina_apetala	OK505869.1	22-FEB-2022	775	Greece: Island of Samothraki, Loutra (Therma)	primary	atpB-rbcL	40.466667	25.666667	0.00010752688172043
+Sagina_apetala	OK505868.1	22-FEB-2022	775	Greece: Island of Lesvos, Megalochorion	primary	atpB-rbcL	39.016667	26.366667	0.00010752688172043
+Sagina_apetala	OK505867.1	22-FEB-2022	775	Greece: Mitikas	primary	atpB-rbcL	37.066667	22.366667	0.00010752688172043
+Sagina_apetala	OK505866.1	22-FEB-2022	775	Greece: Mitikas	primary	atpB-rbcL	38.683333	20.933333	0.00010752688172043
+Sagina_apetala	OK505865.1	22-FEB-2022	775	New Zealand: Canterbury Land District, Leeston	primary	atpB-rbcL	-43.816667	172.25	0.00130391972993248
+Sagina_apetala	OK505863.1	22-FEB-2022	775	Germany: Hessen, Leun-Biskirchen	primary	atpB-rbcL	50.4042109148348	9.02997232468701	0.00010752688172043
+Sagina_apetala	OK505862.1	22-FEB-2022	775	Germany: Hessen, Frankfurt-Schwanheim	primary	atpB-rbcL	50.7358530820645	8.50586048155911	0.00010752688172043
+Sagina_apetala	OK505861.1	22-FEB-2022	775	Germany: Hessen, Hochheim-Massenheim	primary	atpB-rbcL	50.038028	8.390194	0.00010752688172043
+Sagina_apetala	OK505859.1	22-FEB-2022	775	Germany: Hessen, Frankfurt-Schwanheim	primary	atpB-rbcL	50.0499344302452	7.75755392744917	0.00010752688172043
+Sagina_apetala	OK505858.1	22-FEB-2022	775	Germany: Hessen, Leun-Biskirchen	primary	atpB-rbcL	50.0903553844043	7.20473594416688	0.00010752688172043
+Sagina_apetala	MT534495.1	06-DEC-2021	689	Germany	primary	atpB-rbcL	49.99	8.24	0.000121124031007752
+Sagina_apetala	OK505860.1	22-FEB-2022	775	Germany: Hamburg, Hoheluftchausee	secondary	atpB-rbcL	53.550341	10.000654	0.00010752688172043

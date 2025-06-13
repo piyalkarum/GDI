@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sporobolus_aculeatus	GU360599.1	01-MAY-2010	715	China	secondary	rps16	35.5763788873366	105.636457403527	0.350409777333463
+Sporobolus_aculeatus	JQ345275.1	27-OCT-2012	716	Russia	secondary	rps16	64.9449952654977	96.1640356853586	0.346311625947393
+Sporobolus_aculeatus	JQ345233.1	27-OCT-2012	713	Russia	secondary	rps16	64.4697816062084	95.9264196287753	0.352038799737088
+Sporobolus_aculeatus	GU360402.1	01-MAY-2010	708	China	secondary	rps16	34.8483862881529	105.437311697867	0.34765573826023

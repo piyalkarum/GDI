@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Luzula_multiflora	MZ400470.1	07-DEC-2021	701	Sweden: Latnjavagge	primary	matK	68.35	18.49	0
+Luzula_multiflora	JN894646.1	07-MAR-2012	765	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0
+Luzula_multiflora	HM850955.1	23-JUL-2011	701	Portugal	secondary	matK	39.6621648	-8.1353519	0
+Luzula_multiflora	HE966950.1	18-SEP-2012	684	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0
+Luzula_multiflora	JN895525.1	07-MAR-2012	814	United Kingdom: Breconshire (42)	secondary	matK	52.9875065	-1.1773256	0

@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_vulgare	KX677606.1	09-AUG-2017	794	Canada: British Columbia, Squamish-Lillooet Regional District, Ashlu Main Rd., near Squamish	primary	matK	49.933	-123.364	0.00181602774800293
+Leucanthemum_vulgare	KX677329.1	09-AUG-2017	787	Canada: British Columbia, East Kootenay Regional District, near Invermere, Panorama Rd, campsite pulloff near river	primary	matK	50.4437	-116.259	0.00175463824738175
+Leucanthemum_vulgare	KX677056.1	09-AUG-2017	830	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, marshy area just off Nitnat Rd.	primary	matK	48.9126	-124.488	0.00180570868988547
+Leucanthemum_vulgare	KX676771.1	09-AUG-2017	764	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	matK	49.182	-119.091	0.00178200233573965
+Leucanthemum_vulgare	KX676565.1	09-AUG-2017	767	Canada: British Columbia, Okanagan-Similkameen Regional District, near Link Lake Forest Recreation Site, Kettle Valley Rail Trail	primary	matK	49.711	-120.231	0.001774341827602
+Leucanthemum_vulgare	MG225202.1	21-JAN-2018	783	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Head of Trails Parking Lot, BPNP	primary	matK	45.236	-81.523	0.00122233623224142
+Leucanthemum_vulgare	MG225130.1	21-JAN-2018	648	USA: Alaska, Haines Airport	primary	matK	59.244	-135.513	0.00217340974790623
+Leucanthemum_vulgare	MG225117.1	21-JAN-2018	648	Canada: Yukon Territory, Dawson City, Dome Road	primary	matK	64.069	-139.383	0.00319771809402046
+Leucanthemum_vulgare	MG224944.1	21-JAN-2018	785	Canada: Ontario, Kenora District, Dryden Township, Dryden, NEBIE Block#3, Basic treatment	primary	matK	49.636	-92.767	0.00195505850138259
+Leucanthemum_vulgare	MG224908.1	21-JAN-2018	783	Canada: Ontario, Nipissing District, Pentland Twp., Algonquin Park, ~10km in from Kiosk stop-gate, portage trail @ 2nd bridge	primary	matK	46.05	-78.922	0.00296547783003879
+Leucanthemum_vulgare	MG224891.1	21-JAN-2018	776	Canada: Ontario, Parry Sound District, French River	primary	matK	46.0251	-80.5779	0.00196424881814021
+Leucanthemum_vulgare	HQ593344.1	09-NOV-2011	875	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., S of path, NE of pond towards red pine plantation	primary	matK	44.038	-79.513	0.00179385268118641
+Leucanthemum_vulgare	KP210395.1	28-NOV-2015	805	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	matK	45.535	-73.149	0.00108427795401452
+Leucanthemum_vulgare	KJ593009.1	17-MAR-2015	787	USA: Wisconsin, Laona	primary	matK	45.561	-88.791	0.00107587698492405
+Leucanthemum_vulgare	KJ593008.1	17-MAR-2015	787	USA: Wisconsin, Caswell	primary	matK	45.665	-88.651	0.00180371928500266
+Leucanthemum_vulgare	JN895677.1	07-MAR-2012	790	United Kingdom: Carmarthenshire	primary	matK	51.6482093922495	-2.91836535593709	0.00121784648355971
+Leucanthemum_vulgare	JN894683.1	07-MAR-2012	784	United Kingdom: Carmarthenshire	primary	matK	51.5584673337584	-4.13818404315364	0.00279504897470405
+Leucanthemum_vulgare	OQ290109.1	16-MAY-2023	735	Mexico: Puebla	secondary	matK	19.1705686	-98.4123106	0.00112579457321889
+Leucanthemum_vulgare	HM850667.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00348552899833106
+Leucanthemum_vulgare	JN895954.1	07-MAR-2012	708	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00116457238906461
+Leucanthemum_vulgare	JN895953.1	07-MAR-2012	831	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00121312103350017

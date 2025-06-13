@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_csikhegyensis	LR217910.1	30-JUL-2021	872	Germany	primary	rpl16	9.8615	49.8697	0.00255481477601811
+Festuca_csikhegyensis	LR217908.1	30-JUL-2021	892	Germany	primary	rpl16	9.8507	50.6807	0.00254272956227958
+Festuca_csikhegyensis	LR217903.1	30-JUL-2021	874	Germany	primary	rpl16	51.4869	11.7619	0.00162165283426346
+Festuca_csikhegyensis	LR217899.1	30-JUL-2021	866	Germany	primary	rpl16	51.8119	11.0525	0.00257645202415138
+Festuca_csikhegyensis	LR217887.1	30-JUL-2021	856	Germany	primary	rpl16	51.3942	10.0375	0.00210280373831776
+Festuca_csikhegyensis	LR217867.1	30-JUL-2021	862	Germany	primary	rpl16	51.3653	11.0806	0.00211764314511244

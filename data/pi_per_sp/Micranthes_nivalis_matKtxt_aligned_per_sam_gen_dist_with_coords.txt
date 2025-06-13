@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Micranthes_nivalis	KC474993.1	25-OCT-2013	716	Canada: Nunavut, Victoria Island, Burns Lake	primary	matK	69.983	-110	0.00132216081388186
+Micranthes_nivalis	KC474992.1	25-OCT-2013	677	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	matK	70.717	-117.717	0
+Micranthes_nivalis	KC474991.1	25-OCT-2013	779	Canada: Northwest Territories, Banks Island, Nelson Head, southernmost tip of Banks Island	primary	matK	71.09	-122.78	8.74125874125874e-05
+Micranthes_nivalis	KC474990.1	25-OCT-2013	783	Canada: Nunavut, Bathurst Island, Polar Bear Pass, Research Station	primary	matK	75.73	-98.42	8.72905027932961e-05
+Micranthes_nivalis	KC474989.1	25-OCT-2013	745	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, abandoned weather station	primary	matK	76.24	-119.35	9.21828908554572e-05
+Micranthes_nivalis	KC474988.1	25-OCT-2013	783	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	matK	68.719	-110.783	8.72905027932961e-05
+Micranthes_nivalis	KC474987.1	25-OCT-2013	783	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	matK	74.913	-109.591	8.72905027932961e-05
+Micranthes_nivalis	KC474986.1	25-OCT-2013	780	Canada: Nunavut, Ellesmere Island, Hazen Camp, N shore of Lake Hazen, Ellesmere Island National Park Reserve	primary	matK	81.82	-71.33	8.72905027932961e-05
+Micranthes_nivalis	MK926338.1	14-JAN-2020	875	United Kingdom	secondary	matK	54.8051873921652	-2.65321268550231	8.96700143472023e-05
+Micranthes_nivalis	MK926025.1	14-JAN-2020	871	United Kingdom	secondary	matK	54.0594004730628	-3.84051304515482	8.72905027932961e-05
+Micranthes_nivalis	MK926008.1	14-JAN-2020	856	United Kingdom	secondary	matK	54.2880837525105	-2.98726719619226	8.74125874125874e-05
+Micranthes_nivalis	MK925909.1	14-JAN-2020	857	United Kingdom	secondary	matK	54.6850236172789	-2.15642256789461	8.74125874125874e-05
+Micranthes_nivalis	MK925896.1	14-JAN-2020	930	United Kingdom	secondary	matK	54.7127214120053	-1.73159243906306	8.72905027932961e-05
+Micranthes_nivalis	MK925840.1	14-JAN-2020	876	United Kingdom	secondary	matK	54.8930360455775	-2.74768469506427	8.72905027932961e-05
+Micranthes_nivalis	MK925817.1	14-JAN-2020	866	United Kingdom	secondary	matK	54.0521935119793	-3.09850801625923	8.72905027932961e-05
+Micranthes_nivalis	MK925796.1	14-JAN-2020	876	United Kingdom	secondary	matK	55.2678823764391	-3.49082545599417	8.72905027932961e-05
+Micranthes_nivalis	JN895150.1	07-MAR-2012	818	United Kingdom: Perthshire,Mid	secondary	matK	56.42429525	-3.22021700661112	9.24556213017751e-05

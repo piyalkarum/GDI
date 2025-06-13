@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_jaubertianus	KU234897.1	18-JAN-2016	424	France	secondary	trnL-trnF	46.2798446649435	2.24393375876535	0
+Odontites_jaubertianus	KU234896.1	18-JAN-2016	424	France	secondary	trnL-trnF	46.7206784165338	2.52976715327715	0
+Odontites_jaubertianus	KU234870.1	18-JAN-2016	424	France	secondary	trnL-trnF	46.4502402313369	2.83258152535804	0
+Odontites_jaubertianus	KU234869.1	18-JAN-2016	425	France	secondary	trnL-trnF	47.4205900281942	2.06066962435998	0

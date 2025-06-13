@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eriophorum_latifolium	KJ513606.1	06-SEP-2014	1289	Finland	secondary	matK	63.2467777	25.9209164	0.000877371870870217
+Eriophorum_latifolium	JN895202.1	07-MAR-2012	797	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.000877371870870217
+Eriophorum_latifolium	JN895198.1	07-MAR-2012	770	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000459136822773186
+Eriophorum_latifolium	JN893944.1	07-MAR-2012	726	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.00137741046831956

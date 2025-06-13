@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nelumbo_nucifera	LC757772.1	08-MAR-2023	421	Japan: Tochigi, Moka city	secondary	28S rRNA	36.4375582	140.0164674	0.602335502332891
+Nelumbo_nucifera	XM_010277973.2	13-NOV-2014	2436	China: Wuhan	secondary	28S rRNA	30.518476184256	115.253024875031	0.514710719156352
+Nelumbo_nucifera	XM_010275666.2	13-NOV-2014	1858	China: Wuhan	secondary	28S rRNA	31.2941800846889	113.90226583158	0.389319686960223
+Nelumbo_nucifera	XM_010275665.2	13-NOV-2014	1939	China: Wuhan	secondary	28S rRNA	30.6318238703768	113.545099479698	0.386836526132714

@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_sylvatica	KX426315.1	19-APR-2017	634	Spain: Navarra	secondary	trnK	42.9565787639185	-1.8317618420572	0.00267235611567961
+Carex_sylvatica	KX426314.1	19-APR-2017	634	Spain: Jaen	secondary	trnK	37.9557275	-3.4920556	0.00267235611567961
+Carex_sylvatica	KX426313.1	19-APR-2017	634	Spain: Navarra	secondary	trnK	42.5452425048411	-2.49783947706494	0.000727978645959719
+Carex_sylvatica	KX426312.1	19-APR-2017	634	Spain: Huesca	secondary	trnK	42.1363786	-0.4365837	0.000727978645959719
+Carex_sylvatica	KX426311.1	19-APR-2017	634	Spain: Girona	secondary	trnK	41.9793006	2.8199439	0.000727978645959719
+Carex_sylvatica	KX426310.1	19-APR-2017	634	Spain: Lleida	secondary	trnK	41.6147605	0.6267842	0.000727978645959719
+Carex_sylvatica	KX426309.1	19-APR-2017	634	France: Atlantic Pyrenees	secondary	trnK	47.232268	-2.1683246	0.000727978645959719
+Carex_sylvatica	KU242715.1	03-JUL-2016	626	Sweden: Vastergotland	secondary	trnK	58.1025615	13.2194127	0.000737281887441632
+Carex_sylvatica	KU242714.1	03-JUL-2016	634	Spain: Huesca (National Park Ordesa)	secondary	trnK	42.6095684	0.0765595	0.000727978645959719
+Carex_sylvatica	KU242712.1	03-JUL-2016	634	Russia: Moscow	secondary	trnK	55.625578	37.6063916	0.000727978645959719
+Carex_sylvatica	KU242705.1	03-JUL-2016	634	Germany: Munich	secondary	trnK	48.1371079	11.5753822	0.000727978645959719
+Carex_sylvatica	KU242704.1	03-JUL-2016	634	Bulgaria: Central Balkans	secondary	trnK	42.7388486	24.8749076	0.000727978645959719
+Carex_sylvatica	KC122387.1	09-FEB-2013	687	Norway: Asker, Konglungen, north side of Peninsula	secondary	trnK	59.68126025	10.4748359884598	0.000709258185874389
+Carex_sylvatica	KC122386.1	09-FEB-2013	687	France: Haute-Normandie, between Sainte-genevieve-les-Gasny and Gommecourt	secondary	trnK	49.37112695	1.02605497177592	0.00265363565559428

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Isolepis_cernua	AB983314.1	12-MAY-2015	636	Australia	secondary	rps16	-24.7761086	134.755	0.00472193334323776
+Isolepis_cernua	AB983313.1	12-MAY-2015	816	Tanzania	secondary	rps16	-6.5247123	35.7878438	0.00443724414626729
+Isolepis_cernua	AB983312.1	12-MAY-2015	703	United Kingdom: Falkland islands	secondary	rps16	52.7284091	-1.7291593	0.00626936360137287
+Isolepis_cernua	GU012374.1	19-NOV-2010	814	South Africa	secondary	rps16	-28.8166236	24.991639	0.00943893678945633

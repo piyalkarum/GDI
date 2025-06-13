@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Utricularia_vulgaris	MW835199.1	30-NOV-2021	790	Russia: Ivanovo region	secondary	rps16	56.9321078	41.094025	0
+Utricularia_vulgaris	MW835198.1	30-NOV-2021	790	Russia: Kurgan region	secondary	rps16	55.4104074	65.4247999	0
+Utricularia_vulgaris	MW835197.1	30-NOV-2021	790	Russia: Altai	secondary	rps16	50.7114101	86.8572186	0
+Utricularia_vulgaris	MT155870.1	05-APR-2021	790	Russia: Tver region	secondary	rps16	56.8398114	35.8930262	0
+Utricularia_vulgaris	MT155869.1	05-APR-2021	790	Russia: Novosibirsk region	secondary	rps16	54.9474534	82.9274431	0
+Utricularia_vulgaris	MH051616.1	19-DEC-2018	824	Russia	secondary	rps16	64.2548509954801	98.224441894525	0
+Utricularia_vulgaris	MH051615.1	19-DEC-2018	824	Russia	secondary	rps16	65.5571997165134	97.4750440628314	0
+Utricularia_vulgaris	MH051614.1	19-DEC-2018	824	Russia	secondary	rps16	64.7128409715378	95.9318294257018	0
+Utricularia_vulgaris	MH051613.1	19-DEC-2018	824	Russia	secondary	rps16	65.0468891035925	99.3859979725228	0
+Utricularia_vulgaris	MH051612.1	19-DEC-2018	824	Russia	secondary	rps16	64.3976703308426	99.1274347454321	0
+Utricularia_vulgaris	MH051611.1	19-DEC-2018	824	Russia	secondary	rps16	65.0481552704423	97.8198692168136	0
+Utricularia_vulgaris	MH051610.1	19-DEC-2018	824	Czech Republic	secondary	rps16	49.7439047	15.3381061	0

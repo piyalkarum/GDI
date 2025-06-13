@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Betula_pubescens	MZ293203.1	28-AUG-2022	1872	Ireland	primary	trnL-trnF	52.869309	-7.500134	0.0124478799481329
+Betula_pubescens	MZ293202.1	28-AUG-2022	1866	Ireland	primary	trnL-trnF	55.115676	-7.902888	0.015399717529297
+Betula_pubescens	MZ293201.1	28-AUG-2022	1749	Ireland	primary	trnL-trnF	53.592067	-7.383476	0.019256076659064
+Betula_pubescens	MZ293200.1	28-AUG-2022	1883	Ireland	primary	trnL-trnF	55.029213	-7.711667	0.017475136682608

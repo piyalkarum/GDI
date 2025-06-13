@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Persicaria_minor	MG248220.1	21-JAN-2018	552	Canada: British Columbia, Fraser Valley, Harrison River, 200 m northeast of Highway 7 bridge	primary	rbcL	49.25	-121.946	0.00212445914686036
+Persicaria_minor	MG247020.1	21-JAN-2018	552	Canada: New Brunswick, York County, N.E. corner of Mitchell's Island, Mouth of Keswick	primary	rbcL	45.967	-66.817	0.00212445914686036
+Persicaria_minor	MG246220.1	21-JAN-2018	552	Canada: British Columbia, Fraser Valley, Hatzic Lake, E shore, mud flat ca. 1.4 km N of Hwy 7, 58km E of Vancouver	primary	rbcL	49.164	-122.227	0.00212445914686036
+Persicaria_minor	JN893742.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.48	-3.19	0.00216883263598544
+Persicaria_minor	JN893818.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00216883263598544
+Persicaria_minor	JN893817.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.00216883263598544
+Persicaria_minor	FM883633.1	14-DEC-2008	1360	Italy	secondary	rbcL	42.6384261	12.674297	0.00790074623822534
+Persicaria_minor	MH069831.1	30-APR-2019	605	Malaysia	secondary	rbcL	5.8721367	102.1796107	0.00497912911031205

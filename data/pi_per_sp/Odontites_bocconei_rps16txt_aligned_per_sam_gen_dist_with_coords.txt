@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_bocconei	KX958984.1	02-NOV-2017	816	Italy: Sicily, 9 km N of Polizzi Generosa	primary	rps16	37.84	14.01	0
+Odontites_bocconei	KX958978.1	02-NOV-2017	840	Italy: Sicily, Chiusa Sclafani	primary	rps16	37.9915429236029	14.1163425074703	0
+Odontites_bocconei	KX958959.1	02-NOV-2017	840	Italy: Sicily, Le Madonie National Park, near Monte Scalone	primary	rps16	37.0115946236322	13.7077255406477	0
+Odontites_bocconei	KX958958.1	02-NOV-2017	839	Italy: Sicily, Le Madonie National Park, near Monte Scalone	primary	rps16	37.9866567825454	13.9185202510447	0
+Odontites_bocconei	KX958929.1	02-NOV-2017	841	Italy: Sicily, Chiusa Sclafani	primary	rps16	37.4927448024612	12.7611827063322	0
+Odontites_bocconei	KX958862.1	02-NOV-2017	841	Italy: Sicily, San Martino delle Scale	primary	rps16	38.3922396682609	14.0148614276522	0
+Odontites_bocconei	KX958861.1	02-NOV-2017	841	Italy: Sicily, San Martino delle Scale	primary	rps16	38.5775200581831	14.028845235174	0
+Odontites_bocconei	JF900560.1	05-MAR-2013	796	Italy	secondary	rps16	42.6384261	12.674297	0

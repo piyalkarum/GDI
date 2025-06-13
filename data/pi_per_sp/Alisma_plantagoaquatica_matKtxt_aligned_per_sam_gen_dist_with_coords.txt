@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alisma_plantago-aquatica	KX677216.1	09-AUG-2017	817	Canada: British Columbia, Fraser Valley Regional District, 5 km northeast of Chilliwack, Jesperson Road & Kitchen Hall Road, wet sites in old gravel pit	primary	matK	49.211	-121.881	0
+Alisma_plantago-aquatica	JN895274.1	07-MAR-2012	831	United Kingdom: Monmouthshire (35)	primary	matK	51.5	-3.1	0
+Alisma_plantago-aquatica	JN894190.1	07-MAR-2012	687	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Alisma_plantago-aquatica	JN894189.1	07-MAR-2012	822	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0
+Alisma_plantago-aquatica	JF953060.1	13-DEC-2011	731	China: Neimenggu	secondary	matK	43.2443242	114.3251664	0
+Alisma_plantago-aquatica	JF953059.1	13-DEC-2011	731	China: Jilin	secondary	matK	44.2005023159359	127.029522881275	0
+Alisma_plantago-aquatica	JF953058.1	13-DEC-2011	731	China: Jilin	secondary	matK	43.202876098074	126.386518104822	0

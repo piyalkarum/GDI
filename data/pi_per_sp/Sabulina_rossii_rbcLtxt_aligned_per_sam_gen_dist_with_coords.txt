@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sabulina_rossii	MG249013.1	21-JAN-2018	552	Canada: Yukon Territory, Vuntut National Park, vicinity of Snowdrift camp	primary	rbcL	68.357	-139.218	0.143984220907298
+Sabulina_rossii	KC483186.1	25-OCT-2013	552	Canada: Nunavut, Beechey Island, Off SW coast of Devon Island	primary	rbcL	74.7167	-91.85	0.143984220907298
+Sabulina_rossii	KC483185.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Aulavik National Park	primary	rbcL	73.817	-119.867	0.143984220907298
+Sabulina_rossii	KC483184.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Croker Bay, side near entrance	primary	rbcL	74.5333	-82.7833	0.143984220907298
+Sabulina_rossii	MT671770.1	06-DEC-2021	812	Canada	secondary	rbcL	61.0666922	-107.991707	0.575936883629191

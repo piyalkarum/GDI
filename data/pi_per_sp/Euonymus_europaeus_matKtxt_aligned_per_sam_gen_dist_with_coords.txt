@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euonymus_europaeus	MG220742.1	21-JAN-2018	776	Canada: Quebec, Plantation Lemieux.	primary	matK	46.783	-71.275	0.00136523637152367
+Euonymus_europaeus	JN894770.1	07-MAR-2012	820	United Kingdom: Glamorgan	primary	matK	51.55	-3.2	0.00018796992481203
+Euonymus_europaeus	MG221043.1	21-JAN-2018	700	Canada: Ontario, Waterloo R. M., Waterloo, Lexington Rd.	secondary	matK	43.0651504008333	-77.1489194459755	0.000204081632653061
+Euonymus_europaeus	MG220824.1	21-JAN-2018	738	Canada: Ontario, Niagara R. M., Louth Tp., Fifteen Mile Creek ANSI, Fifteen Mile Creek Valley system, from 0.6 km N of Regional Rd. 81 S to Regional Rd. 69	secondary	matK	42.9427142862426	-77.7880410908574	0.000196772924045651
+Euonymus_europaeus	MG220651.1	21-JAN-2018	785	Canada: Ontario, Toronto, City of, Humber Marshes, near river bank in marsh #5	secondary	matK	45.3658443	15.6575209	0.000184094256259205
+Euonymus_europaeus	KJ204475.1	29-JAN-2015	746	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.000204081632653061
+Euonymus_europaeus	HE966915.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00019952114924182
+Euonymus_europaeus	JN895303.1	07-MAR-2012	821	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000188714851858841

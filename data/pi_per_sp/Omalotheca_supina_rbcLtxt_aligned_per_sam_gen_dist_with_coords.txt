@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Omalotheca_supina	MK925367.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.945801849775	-4.02336602776805	0
+Omalotheca_supina	MK925059.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2681571481716	-2.54549896569655	0
+Omalotheca_supina	MK925015.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0
+Omalotheca_supina	MK924776.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.345756194748	-2.95352514472702	0
+Omalotheca_supina	MK924584.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3116838400148	-3.2616921785818	0
+Omalotheca_supina	MK924570.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3736459586417	-3.69486938385784	0

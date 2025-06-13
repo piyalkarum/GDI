@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_cyparissias	MG249694.1	21-JAN-2018	553	Canada: Ontario, Regional Municipality of York, Regional Municipality of York, Jokers Hill West., Hillside E of driveway to Side Road 19.	primary	rbcL	43.857	-79.423	0
+Euphorbia_cyparissias	MG248201.1	21-JAN-2018	552	Canada: Ontario, York R. M., King Tp., Jokers Hill West, Hillside E of driveway to Side Road 19.	primary	rbcL	44.017	-79.517	0
+Euphorbia_cyparissias	MG246315.1	21-JAN-2018	553	Canada: Ontario, Wellington, Wellington, 7379 Wellington Road 17, SW of 1st Line West, Alma	primary	rbcL	43.5485	-80.2503	0
+Euphorbia_cyparissias	KX679066.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Burnaby, cleared landfill area near Stride Avenue	primary	rbcL	49.267	-122.967	0
+Euphorbia_cyparissias	HQ590096.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., hillside E of driveway to Side Road 19	primary	rbcL	44.032	-79.534	0
+Euphorbia_cyparissias	MG246615.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Valleys of the Rouge, Section XVI	secondary	rbcL	43.72634945	-77.7101179040839	0
+Euphorbia_cyparissias	KJ746288.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0
+Euphorbia_cyparissias	KJ204338.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0

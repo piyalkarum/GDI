@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Petroselinum_crispum	KU499899.1	05-JUL-2016	838	Egypt	primary	matK	30.0303	31.1956	0
+Petroselinum_crispum	JN893933.1	07-MAR-2012	911	United Kingdom: Pembrokeshire	primary	matK	51.68	-4.92	0
+Petroselinum_crispum	OR290937.1	19-SEP-2023	667	Egypt	secondary	matK	26.2540493	29.2675469	0
+Petroselinum_crispum	HM850712.1	23-JUL-2011	810	Portugal	secondary	matK	39.6621648	-8.1353519	0
+Petroselinum_crispum	JN895119.1	07-MAR-2012	834	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0

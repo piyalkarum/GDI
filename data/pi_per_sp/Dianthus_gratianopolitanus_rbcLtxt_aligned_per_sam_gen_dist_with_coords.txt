@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_gratianopolitanus	MF349394.1	21-SEP-2017	553	USA: District of Columbia; Ripley Garden next to the Smithsonian Castle, Washington	primary	rbcL	38.888	-77.023	0.000603864734299517
+Dianthus_gratianopolitanus	MG247664.1	21-JAN-2018	552	Canada: Ontario, Simcoe Co., Nr. jct. of Patterson Rd. and rail tracks, 2 mi. SW of Barrie	secondary	rbcL	43.72634945	-77.7101179040839	0.0025908553330527
+Dianthus_gratianopolitanus	KU722899.1	27-SEP-2016	553	Germany	secondary	rbcL	41.2153071863191	-79.0397651265747	0.000603864734299517
+Dianthus_gratianopolitanus	KU722857.1	27-SEP-2016	814	Germany	secondary	rbcL	40.6382218897308	-78.5634608815197	0.00138312586445367

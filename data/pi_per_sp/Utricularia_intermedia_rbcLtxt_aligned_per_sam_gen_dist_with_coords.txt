@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Utricularia_intermedia	MG223575.1	26-DEC-2017	553	Canada: Yukon Territory, Shingle Point area, mainland opposite SHIUTR2	primary	rbcL	69.001	-137.514	0
+Utricularia_intermedia	MG223144.1	26-DEC-2017	553	Canada: Northwest Territories, Nahanni National Park, Fish Trap Creek, between Granger Gap and Wolverine Gap, Silent Hills	primary	rbcL	61.375	-123.633	0
+Utricularia_intermedia	MG222643.1	26-DEC-2017	553	Canada: Yukon Territory, Scobie Creek, 80 km east of Watson Lake	primary	rbcL	60.002	-127.618	0
+Utricularia_intermedia	MG222361.1	26-DEC-2017	553	Canada: Yukon Territory, Vuntut National Park, Thomas Creek drainage	primary	rbcL	68.447	-140.695	0
+Utricularia_intermedia	KX678226.1	29-APR-2017	510	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.0449	-125.501	0
+Utricularia_intermedia	JN966055.1	27-OCT-2012	525	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	rbcL	58.178	-93.637	0
+Utricularia_intermedia	JN890779.1	07-MAR-2012	542	United Kingdom: Kintyre	secondary	rbcL	54.7304283	-6.2151611	0

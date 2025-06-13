@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sedum_hispanicum	MG248440.1	21-JAN-2018	552	Canada: Ontario, Muskoka D. M., Morrison Twp. GRW-33 31D/14W 304710, 3.5 km N of Kilworthy Station	primary	rbcL	45.3277205336157	-79.9957649206664	0.00603864734299517
+Sedum_hispanicum	MG247349.1	21-JAN-2018	552	Canada: Ontario, Ottawa, City of, Nepean, N side Corkstown Rd. E of campground entrance., Site of Can. Field Nat. 81,273-274(1967) stand	primary	rbcL	45.333	-75.867	0.00603864734299517
+Sedum_hispanicum	MG247070.1	21-JAN-2018	552	Canada: Ontario, Hastings Co., Hungerford Tp., Tweed, 1.5 km E of Hwy 37 on S side Marlbank Rd. at S end Stoco Lake	primary	rbcL	44.283	-77.467	0.0181159420289855
+Sedum_hispanicum	MG246968.1	21-JAN-2018	552	Canada: Ontario, Muskoka D. M., Morrison Tp., GRW Lot 33, 2.5 mi N of Kilworthy Station	primary	rbcL	44.0600933001371	-79.7116118543164	0.00603864734299517

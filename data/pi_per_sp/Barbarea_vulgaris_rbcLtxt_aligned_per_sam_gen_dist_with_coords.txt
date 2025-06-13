@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Barbarea_vulgaris	OR464862.1	26-SEP-2023	614	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28833279	-85.61955311	0.000961260539873276
+Barbarea_vulgaris	KP643917.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.8753186894618	-78.1538282101145	0.000641711229946524
+Barbarea_vulgaris	KP643806.1	08-DEC-2015	525	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	39.4533376055338	-77.6929330427335	0.000672268907563025
+Barbarea_vulgaris	KP643628.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	39.1866119165431	-77.101563224642	0.000641711229946524
+Barbarea_vulgaris	MG247960.1	21-JAN-2018	553	Canada: Ontario, Wellington County, City of Guelph, University of Guelph, Pathway and lawn near Dairy Barn	primary	rbcL	43.5485	-80.2503	0.000641711229946524
+Barbarea_vulgaris	MG247856.1	21-JAN-2018	552	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #6 trail	primary	rbcL	43.097	-79.281	0.000642880102860816
+Barbarea_vulgaris	HQ589972.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, edge of gravel pad at NW end of SR 19 driveway	primary	rbcL	44.035	-79.518	0.000958161435620299
+Barbarea_vulgaris	KP402648.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, fox pt.	primary	rbcL	38.887	-76.554	0.000641711229946524
+Barbarea_vulgaris	KJ593238.1	17-MAR-2015	553	USA: Wisconsin, Blackwell	primary	rbcL	45.579	-88.534	0.000641711229946524
+Barbarea_vulgaris	KJ841125.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	rbcL	45.535	-73.149	0.000946894161448082
+Barbarea_vulgaris	JN893072.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.61	-2.72	0.000651182982418059
+Barbarea_vulgaris	MT930717.1	03-MAR-2023	564	China	secondary	rbcL	34.6604895014147	104.61385728672	0.0109699396123398
+Barbarea_vulgaris	MT930716.1	03-MAR-2023	575	China	secondary	rbcL	34.9604755454747	105.944976779212	0.000943998419200407
+Barbarea_vulgaris	MG248604.1	21-JAN-2018	553	Canada: Ontario, Chatham-Kent County, Wheatley Provincial Park, Trail south of group camping area, at small creek	secondary	rbcL	43.72634945	-77.7101179040839	0.000641711229946524
+Barbarea_vulgaris	KJ593239.1	17-MAR-2015	553	USA: Wisconsin, Laona	secondary	rbcL	45.560864	-88.672457	0.000641711229946524
+Barbarea_vulgaris	JN891539.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.000651182982418059
+Barbarea_vulgaris	JN891534.1	07-MAR-2012	534	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000660938532716457
+Barbarea_vulgaris	HE574603.1	31-JUL-2011	556	Finland	secondary	rbcL	63.2467777	25.9209164	0.0010910400478311

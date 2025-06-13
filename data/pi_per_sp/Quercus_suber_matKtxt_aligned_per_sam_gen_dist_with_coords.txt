@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_suber	MT457089.1	28-SEP-2020	779	Italy	secondary	matK	42.6384261	12.674297	NA
+Quercus_suber	HE583654.1	04-SEP-2011	693	Algeria	secondary	matK	28.0000272	2.9999825	NA
+Quercus_suber	HE583653.1	04-SEP-2011	693	France	secondary	matK	46.603354	1.8883335	NA
+Quercus_suber	HE583613.1	04-SEP-2011	693	Italy:Apulia	secondary	matK	41.1541139389438	16.3870271090142	NA
+Quercus_suber	HE583612.1	04-SEP-2011	693	Italy:Liguria	secondary	matK	43.9157481852225	9.03475604167645	NA
+Quercus_suber	HE583611.1	04-SEP-2011	693	Italy:Latium	secondary	matK	42.0788572194268	12.6885221419355	NA
+Quercus_suber	FN675337.1	08-MAR-2010	828	Italy:Apulia	secondary	matK	40.1021825813882	16.4292205873621	NA
+Quercus_suber	FN675336.1	08-MAR-2010	828	Italy:Liguria	secondary	matK	44.6917791311677	8.52418723803732	NA
+Quercus_suber	FN675332.1	08-MAR-2010	828	Italy:Latium	secondary	matK	41.4454496511414	12.5556325714554	NA
+Quercus_suber	FN674509.1	08-MAR-2010	693	Italy:Liguria	secondary	matK	43.775695145994	8.17654300870579	NA
+Quercus_suber	FN674508.1	08-MAR-2010	693	Italy:Apulia	secondary	matK	41.0836581307241	16.3435356230672	NA
+Quercus_suber	FN674507.1	08-MAR-2010	693	Italy:Latium	secondary	matK	41.2308810696559	13.0858246987097	NA
+Quercus_suber	AB125044.1	01-APR-2004	2100	Malaysia:Fraser's Hill	secondary	matK	3.7130484	101.7365565	0.00182576943140323

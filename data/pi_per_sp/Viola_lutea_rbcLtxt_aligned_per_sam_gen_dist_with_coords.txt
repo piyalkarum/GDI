@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_lutea	MK030034.1	16-OCT-2019	575	United Kingdom: England, Cumbria, Nenthead	primary	rbcL	54.7842	-2.3486	0
+Viola_lutea	JN891417.1	07-MAR-2012	536	United Kingdom: Carmarthenshire	primary	rbcL	52.1	-3.93	0
+Viola_lutea	JN892428.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0
+Viola_lutea	JN892427.1	07-MAR-2012	535	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0

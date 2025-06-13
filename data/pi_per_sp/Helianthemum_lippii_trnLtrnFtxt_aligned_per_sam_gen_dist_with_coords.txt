@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_lippii	KX498682.1	18-SEP-2017	396	Morocco	primary	trnL-trnF	29.55	-9.2	0.222422414896367
+Helianthemum_lippii	KX498681.1	18-SEP-2017	401	Tunisia	primary	trnL-trnF	33.89	10.02	0.226152588152588
+Helianthemum_lippii	MN622906.1	18-NOV-2020	361	Israel	secondary	trnL-trnF	30.8124247	34.8594762	0.224672302056917
+Helianthemum_lippii	MN622902.1	18-NOV-2020	339	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.224020802194877
+Helianthemum_lippii	KY951643.1	18-APR-2018	528	Kuwait	secondary	trnL-trnF	29.9746827958285	47.56098645109	0.445420313180712
+Helianthemum_lippii	KY951642.1	18-APR-2018	536	Kuwait	secondary	trnL-trnF	29.0777766419302	47.4123291288188	0.445420313180712

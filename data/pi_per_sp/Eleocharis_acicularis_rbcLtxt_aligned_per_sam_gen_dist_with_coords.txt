@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eleocharis_acicularis	MG226609.1	23-JAN-2018	551	Canada: Quebec, Montreal, Island of Montreal, Parc de la Pointe-aux-Prairies sect. du Fleuve	primary	rbcL	45.682	-73.498	0
+Eleocharis_acicularis	KC482673.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Northeast side of runway 1km west of airport terminal	primary	rbcL	63.758	-68.567	0
+Eleocharis_acicularis	KC482672.1	25-OCT-2013	552	Canada: Nunavut, Nunavut Mainland, Rankin Inlet, 1 km NW of mouth of Meliadine River, 6 km N of Rankin Inlet, Hudson Bay	primary	rbcL	62.867	-92.117	0
+Eleocharis_acicularis	JN965501.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, Sandy flats.	primary	rbcL	58.1945263938506	-93.3213070329376	0
+Eleocharis_acicularis	JN965500.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.8736125509252	-93.0391496568546	0
+Eleocharis_acicularis	JN890620.1	07-MAR-2012	542	United Kingdom: Breconshire	primary	rbcL	51.78	-3.45	0
+Eleocharis_acicularis	AB369953.1	03-APR-2014	1408	Japan:Nagano, Karuizawa	secondary	rbcL	36.3482938	138.5969968	0
+Eleocharis_acicularis	JX644671.1	13-NOV-2012	1295	South Korea: Gyeongsangbuk-do	secondary	rbcL	36.5754	128.5058	0
+Eleocharis_acicularis	JN892607.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0

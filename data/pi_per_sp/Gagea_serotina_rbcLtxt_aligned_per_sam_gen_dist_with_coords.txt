@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_serotina	MG226953.1	23-JAN-2018	552	Canada: Yukon Territory, Richardson Mountains, Vunta Creek	primary	rbcL	67.911	-136.546	0.000462107208872458
+Gagea_serotina	MT931703.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.000461254612546125
+Gagea_serotina	MK925431.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4558766762545	-2.74517992908678	0.000461254612546125
+Gagea_serotina	MK925385.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5809781034546	-1.85799954969686	0.00184587104651083
+Gagea_serotina	MK924452.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6130200793613	-2.37516981025804	0.000461254612546125

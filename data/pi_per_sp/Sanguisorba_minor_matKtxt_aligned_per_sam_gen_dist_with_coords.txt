@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sanguisorba_minor	JN896207.1	07-MAR-2012	783	United Kingdom: 0	primary	matK	53.33	-3.85	0.00232487469091059
+Sanguisorba_minor	JN895106.1	07-MAR-2012	814	United Kingdom: Somerset, North (6)	primary	matK	51.26	-2.73	0.00250583916261688
+Sanguisorba_minor	KJ746127.1	29-JUL-2014	690	Poland	secondary	matK	52.215933	19.134422	0.00243032329988852
+Sanguisorba_minor	FR865067.1	09-JUN-2011	785	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00264146952968814
+Sanguisorba_minor	HM850691.1	23-JUL-2011	804	Portugal	secondary	matK	39.6621648	-8.1353519	0.0113558095602176
+Sanguisorba_minor	HE966988.1	18-SEP-2012	742	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00280042319765065
+Sanguisorba_minor	JN895160.1	07-MAR-2012	775	United Kingdom: Breconshire (42)	secondary	matK	52.9875065	-1.1773256	0.00253707019266739

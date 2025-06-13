@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_stenocarpa	KF547651.1	09-SEP-2014	374	Spain: Castile-La Mancha, Prov. Ciudad Real,Fuencaliente, Sierra Madrona, Rinoncillos	primary	trnL-trnF	38.4629	-4.3181	0.0342452591000948
+Arabis_stenocarpa	KF547622.1	09-SEP-2014	376	Spain: Reg. Castile and Leon, Prov. Salamanca,Linares de Riofrio	primary	trnL-trnF	40.5694	-5.9252	0.0188022284122563
+Arabis_stenocarpa	KF547621.1	09-SEP-2014	369	Portugal: Distr. Guarda,Pinzio	primary	trnL-trnF	40.6	-7.0613	0.0191761363636364
+Arabis_stenocarpa	KF547461.1	09-SEP-2014	376	Spain: Castile and Leon, Prov. Valladolid,Montemayor de Pililla	primary	trnL-trnF	41.5081	-4.4543	0.0279246004555279
+Arabis_stenocarpa	HQ646687.1	31-DEC-2011	374	Portugal: Distr. Guarda, Beira Alta, Souto de Bispo	primary	trnL-trnF	40.36	-6.97	0.0175070028011204

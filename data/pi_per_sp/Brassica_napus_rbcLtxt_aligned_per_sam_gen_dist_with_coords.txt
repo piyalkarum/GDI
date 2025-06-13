@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brassica_napus	MT930723.1	03-MAR-2023	569	China	secondary	rbcL	34.6939512978255	105.480282708717	0.00135694987666658
+Brassica_napus	HQ619737.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00137139602717602
+Brassica_napus	KM892692.1	11-OCT-2018	577	China	secondary	rbcL	35.5452782924372	105.367917027726	0.00135185203361343
+Brassica_napus	MG246772.1	21-JAN-2018	552	Canada: Quebec, Timiskaming Co., Lake Timiskaming, E shore Baie de Peres, Ville Marie, near town.	secondary	rbcL	46.8137431	-71.2084061	0.000905797101449275
+Brassica_napus	HM849821.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0013915070818554

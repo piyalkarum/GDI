@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_ligusticum	KY778044.1	31-MAY-2017	415		primary	rps16	44.34	9.46	0
+Leucanthemum_ligusticum	KY778043.1	31-MAY-2017	415		primary	rps16	44.36	9.51	0
+Leucanthemum_ligusticum	KY778042.1	31-MAY-2017	415		primary	rps16	44.4234111165201	9.99293696974197	0
+Leucanthemum_ligusticum	LN869202.1	17-SEP-2015	459	Italy	primary	rps16	44.2183005041359	10.788946139689	0

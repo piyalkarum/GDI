@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_secundiflora	KC180999.1	28-OCT-2013	351	Serbia: Lim Gostun	primary	psbA-trnH	43.1663	19.7704	0.00525802911265134
+Campanula_secundiflora	KC180998.1	28-OCT-2013	350	Serbia: Prijepolje Milesevka	primary	psbA-trnH	42.62310888229	20.0939240642403	0.00255682185406209
+Campanula_secundiflora	KC180997.1	28-OCT-2013	351	Serbia: Prijepolje Milesevka	primary	psbA-trnH	44.0722840998259	20.4758610565565	0.00254996465522781
+Campanula_secundiflora	KC180996.1	28-OCT-2013	351	Serbia: Prijepolje Milesevka	primary	psbA-trnH	43.3642	19.7299	0.00254996465522781
+Campanula_secundiflora	KC180995.1	28-OCT-2013	351	Serbia: Panjica Stene	primary	psbA-trnH	43.6618	20.0812	0.00165156480945955
+Campanula_secundiflora	KC180994.1	28-OCT-2013	352	Montenegro: Sinjanjevina	primary	psbA-trnH	42.8631	19.3822	0.00164943000469316
+Campanula_secundiflora	KC180993.1	28-OCT-2013	351	Montenegro: Prokletije Djebeza	primary	psbA-trnH	42.6036	19.5344	0.00165156480945955
+Campanula_secundiflora	KC180992.1	28-OCT-2013	351	Montenegro: Moraca Platije	primary	psbA-trnH	42.6908	19.3745	0.00165156480945955
+Campanula_secundiflora	KC180991.1	28-OCT-2013	352	Montenegro: Moraca Crkvina	primary	psbA-trnH	42.7994	19.4173	0.00164943000469316
+Campanula_secundiflora	KC180990.1	28-OCT-2013	351	Montenegro: Moraca Platije	primary	psbA-trnH	42.6943	19.3734	0.00165156480945955
+Campanula_secundiflora	KC180989.1	28-OCT-2013	352	Montenegro: Bioc Mala Rijeka	primary	psbA-trnH	42.5461	19.3778	0.00974534724534724
+Campanula_secundiflora	KC180988.1	28-OCT-2013	352	Montenegro: Kucke Prokletije	primary	psbA-trnH	42.5969	19.5745	0.00164943000469316
+Campanula_secundiflora	KC180938.1	28-OCT-2013	350	Serbia: Jadovnik	primary	psbA-trnH	43.247	19.7342	0.00255682185406209
+Campanula_secundiflora	KC180937.1	28-OCT-2013	350	Serbia: Jadovnik	primary	psbA-trnH	43.2653	19.795	0.00255682185406209
+Campanula_secundiflora	KC180936.1	28-OCT-2013	351	Serbia: Lim Kumanicka Klisura	primary	psbA-trnH	43.1561	19.779	0.00254996465522781
+Campanula_secundiflora	KC180935.1	28-OCT-2013	350	Montenegro: Kucke Prokletije	primary	psbA-trnH	42.582	19.576	0.00165499709158283
+Campanula_secundiflora	KC180934.1	28-OCT-2013	352	Montenegro: Sinjanjevina Semolj	primary	psbA-trnH	42.8996	19.274	0.00164943000469316
+Campanula_secundiflora	KC180933.1	28-OCT-2013	352	Montenegro: Moraca	primary	psbA-trnH	42.8014	19.4237	0.00164943000469316
+Campanula_secundiflora	KC180932.1	28-OCT-2013	351	Montenegro: Moraca	primary	psbA-trnH	42.0086189713738	19.5189363369488	0.00165156480945955
+Campanula_secundiflora	KC180931.1	28-OCT-2013	353	Montenegro: Moraca	primary	psbA-trnH	42.4042254202476	18.8089574249776	0.00164943000469316

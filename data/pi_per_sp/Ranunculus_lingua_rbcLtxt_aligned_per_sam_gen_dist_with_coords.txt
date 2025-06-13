@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_lingua	JN891076.1	07-MAR-2012	542	United Kingdom: Shropshire (40)	primary	rbcL	52.72	-2.84	0
+Ranunculus_lingua	JN892742.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Ranunculus_lingua	JN892740.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0
+Ranunculus_lingua	JN892739.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Ranunculus_lingua	JN892595.1	07-MAR-2012	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0

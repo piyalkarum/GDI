@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_purpurea	MG249765.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	45.3850608121467	-72.4221171366834	0.040973544973545
+Salix_purpurea	MG248357.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	45.7131612924624	-73.6209634893166	0.040973544973545
+Salix_purpurea	MG247814.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	45.686590994983	-72.6237438283921	0.040973544973545
+Salix_purpurea	MG247594.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	45.8700856888401	-72.4525711006572	0.040973544973545
+Salix_purpurea	MG247215.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	46.0076225967151	-72.6003265365786	0.040973544973545
+Salix_purpurea	MG246681.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	46.2916919619141	-73.1058998533494	0.040973544973545
+Salix_purpurea	MG246638.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	45.6329298517838	-72.6319930295945	0.040973544973545
+Salix_purpurea	MG246625.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	45.0415897465855	-73.2345945173698	0.040973544973545
+Salix_purpurea	MG246083.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Delhi Township, Fisher's Glen Road and Front Road intersection	primary	rbcL	42.8526	-80.4991	0.040973544973545
+Salix_purpurea	MG246075.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	45.9344792748675	-73.4138053788755	0.040973544973545
+Salix_purpurea	MG246033.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	45.7379590640148	-72.755768717639	0.040973544973545
+Salix_purpurea	KU556626.1	06-AUG-2016	645	Egypt	primary	rbcL	30.0303	31.1956	0.105588346634178
+Salix_purpurea	JN890628.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.49	-3.27	0.0413972919233371
+Salix_purpurea	LC757946.1	08-MAR-2023	701	Japan:Miyagi, Botanical Gardens of Tohoku University	secondary	rbcL	34.9803071	139.838919	0.545536712635388
+Salix_purpurea	JN891726.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0413972919233371
+Salix_purpurea	JN891725.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0.0413972919233371

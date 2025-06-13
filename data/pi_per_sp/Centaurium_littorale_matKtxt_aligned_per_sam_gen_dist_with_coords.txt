@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurium_littorale	MK325341.1	30-APR-2019	851	Denmark: Jutland, Skallingen D27	primary	matK	55.3	8.15	0.00120740225011357
+Centaurium_littorale	MK325327.1	30-APR-2019	851	Denmark: Jutland, Faerfer Vig, Fur, Ile	primary	matK	56.49	9.01	0.00202310845635719
+Centaurium_littorale	MK325318.1	30-APR-2019	850	Denmark: Jutland, Grenen	primary	matK	57.44	10.38	0.00117647058823529
+Centaurium_littorale	JN895504.1	07-MAR-2012	830	United Kingdom: Carmarthenshire	primary	matK	51.72	-4.37	0.00127064803049555

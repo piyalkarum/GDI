@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_saginoides	JX517537.1	22-AUG-2013	759	South Africa: Western Cape, Robben Island	primary	matK	-33.809	18.361	0.139512226095244
+Sagina_saginoides	MT917885.1	03-MAR-2023	773	China	secondary	matK	35.587244097229	104.880966577577	0.0757295363356311
+Sagina_saginoides	MN273649.1	30-NOV-2021	801	China	secondary	matK	35.6341082979152	104.880546736713	0.0453261145669247
+Sagina_saginoides	MK926389.1	14-JAN-2020	759	Iceland	secondary	matK	64.9841821	-18.1059013	0.044842534744358
+Sagina_saginoides	MK925982.1	14-JAN-2020	774	United Kingdom	secondary	matK	54.3474080300577	-3.89998066078513	0.0428876572983344
+Sagina_saginoides	MK925748.1	14-JAN-2020	764	United Kingdom	secondary	matK	55.2844624452094	-3.74935399627221	0.0435711155086723

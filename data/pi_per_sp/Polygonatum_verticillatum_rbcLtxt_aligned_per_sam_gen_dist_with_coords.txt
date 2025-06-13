@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygonatum_verticillatum	OK148450.1	02-NOV-2021	579	India: Bhaderwah, J&K	primary	rbcL	33.52656	75.43596	0.00157637000383688
+Polygonatum_verticillatum	OK148447.1	02-NOV-2021	575	India: Seoz Dhar, Bhaderwah, J&K	primary	rbcL	32.54228	75.36346	0.00157909712208355
+Polygonatum_verticillatum	OK257843.1	02-NOV-2021	510	India: Chopta, Chamoli district, Uttrakhand	primary	rbcL	30.28536	79.12034	0.00210031022841724
+Polygonatum_verticillatum	MN204642.1	30-NOV-2021	1077	China	secondary	rbcL	34.7486610693094	104.059816410492	0.00859324112953859
+Polygonatum_verticillatum	MK925279.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9780706064142	-1.9825803331892	0.0014325981786157
+Polygonatum_verticillatum	MK925153.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1461844106584	-4.32959138542999	0.0014325981786157
+Polygonatum_verticillatum	MK924780.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0274366167481	-3.94604686626694	0.0014325981786157
+Polygonatum_verticillatum	JF943498.1	13-DEC-2011	630	China	secondary	rbcL	34.15553301867	104.767503191679	0.00149355491637371
+Polygonatum_verticillatum	JF943497.1	13-DEC-2011	630	China	secondary	rbcL	34.1812028657152	104.65651042525	0.00212737832224781
+Polygonatum_verticillatum	JF943496.1	13-DEC-2011	630	China	secondary	rbcL	34.7462327148867	104.578732083288	0.00149355491637371
+Polygonatum_verticillatum	JF943495.1	13-DEC-2011	630	China	secondary	rbcL	34.9923820162408	105.925149549847	0.00212737832224781

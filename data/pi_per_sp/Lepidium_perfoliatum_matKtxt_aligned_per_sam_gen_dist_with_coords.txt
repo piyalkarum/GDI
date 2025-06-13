@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lepidium_perfoliatum	KX677723.1	09-AUG-2017	796	Canada: British Columbia, Central Okanagan Regional District, Kelowna, Quail Ridge Blvd. at sharp bend in the road	primary	matK	49.962	-119.388	0.00329809284699811
+Lepidium_perfoliatum	KX677006.1	09-AUG-2017	774	Canada: British Columbia, Okanagan-Similkameen Regional District, Fairview Rd., travelling from Cawston to Oliver	primary	matK	49.218	-119.682	0.00340098709663927
+Lepidium_perfoliatum	MT917623.1	03-MAR-2023	743	China	secondary	matK	34.5415031379491	104.917219516346	0.00694714754301955
+Lepidium_perfoliatum	MT917622.1	03-MAR-2023	768	China	secondary	matK	35.1175270027482	105.668781646757	0.00619540244468136
+Lepidium_perfoliatum	MT917621.1	03-MAR-2023	769	China	secondary	matK	34.7614390004205	105.614599373384	0.00577825376241639
+Lepidium_perfoliatum	MT951403.1	03-MAR-2023	768	China	secondary	matK	35.7535823189351	104.585392233169	0.00586440515049114
+Lepidium_perfoliatum	JF954304.1	13-DEC-2011	711	China	secondary	matK	34.94520574	105.45630966089	0.00334409044315717
+Lepidium_perfoliatum	JF954303.1	13-DEC-2011	711	China	secondary	matK	35.2139840895502	104.164654394333	0.00334409044315717
+Lepidium_perfoliatum	JF954302.1	13-DEC-2011	711	China	secondary	matK	34.9533724110394	104.602484651207	0.00352372067132848

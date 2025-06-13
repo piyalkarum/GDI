@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_hirta	JN896155.1	07-MAR-2012	817	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.00037243947858473
+Carex_hirta	MN763711.1	28-JUL-2020	537	Serbia	secondary	matK	44.0243229	21.0765743	0.00186219739292365
+Carex_hirta	MK397942.1	18-AUG-2019	790	Poland	secondary	matK	52.2152414816072	19.3987302044251	0.00037243947858473
+Carex_hirta	MK397935.1	18-AUG-2019	790	Poland	secondary	matK	52.9510009201998	19.2669445183723	0.00037243947858473
+Carex_hirta	HG915853.1	07-MAR-2016	2511	Germany:Saxony	secondary	matK	50.9295798	13.4585052	0.00037243947858473
+Carex_hirta	JN895308.1	07-MAR-2012	763	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00037243947858473

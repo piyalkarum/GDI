@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_foliosum	MW070324.1	19-APR-2021	906	Greece: Crete, Mt. Limnakaro	secondary	rpoB	35.241703246317	24.9604392290151	0.00198821850645787
+Alyssum_foliosum	MW070323.1	19-APR-2021	906	Greece: Crete, Mt. Limnakaro	secondary	rpoB	35.9639316797377	24.7379816080655	0.00110472845242887
+Alyssum_foliosum	MW070234.1	19-APR-2021	922	Greece: Kato Zachlorou	secondary	rpoB	38.0589161609587	21.7859704211487	0.00198895027624309
+Alyssum_foliosum	MW070233.1	19-APR-2021	922	Greece: Kato Zachlorou	secondary	rpoB	38.7060013112387	21.3556711316499	0.00198895027624309
+Alyssum_foliosum	MW070302.1	19-APR-2021	906	Greece	secondary	rpoB	40.4989200650201	24.8039567883066	0.00110472845242887
+Alyssum_foliosum	MW070301.1	19-APR-2021	906	Greece	secondary	rpoB	40.2562691337079	23.8548450086297	0.00110472845242887

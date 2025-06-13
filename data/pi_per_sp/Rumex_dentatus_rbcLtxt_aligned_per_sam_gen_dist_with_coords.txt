@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_dentatus	LC637258.1	16-DEC-2021	553	Japan:Aichi, Inuyama	secondary	rbcL	35.3609734	136.9845491	0
+Rumex_dentatus	MN185119.1	27-APR-2021	722	China	secondary	rbcL	35.000074	104.999927	0.000390625
+Rumex_dentatus	MG766137.1	30-OCT-2018	640	India: West Bengal, Siliguri	secondary	rbcL	26.7164127	88.4309916	0.000390625
+Rumex_dentatus	MG247163.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Toronto.	secondary	rbcL	43.6534817	-79.3839347	0
+Rumex_dentatus	KX709604.1	20-AUG-2017	486	Egypt	secondary	rbcL	26.2540493	29.2675469	0

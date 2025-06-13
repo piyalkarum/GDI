@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_heuffelii	FN821287.1	07-DEC-2010	810	Greece	secondary	rps16	43.2097838	-77.6930602	0
+Silene_heuffelii	FN821286.1	07-DEC-2010	818	Romania	secondary	rps16	45.4947445381056	24.4312790890305	0
+Silene_heuffelii	FN821285.1	07-DEC-2010	848	Romania	secondary	rps16	45.7055618550448	25.7200631153333	0
+Silene_heuffelii	FN821284.1	07-DEC-2010	848	Romania	secondary	rps16	46.7789900648233	24.6076075828647	0
+Silene_heuffelii	FN821283.1	07-DEC-2010	842	Romania	secondary	rps16	45.4899662578833	23.7218648764409	0

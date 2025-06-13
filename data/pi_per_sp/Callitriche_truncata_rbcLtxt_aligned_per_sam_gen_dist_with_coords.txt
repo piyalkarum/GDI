@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Callitriche_truncata	JN890762.1	07-MAR-2012	542	United Kingdom: Anglesey	primary	rbcL	53.2	-4.42	0.000664010624169987
+Callitriche_truncata	JN893352.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.5859328589602	-4.29296091118842	0.000664010624169987
+Callitriche_truncata	JN893351.1	07-MAR-2012	535	United Kingdom: Anglesey	secondary	rbcL	53.707307352252	-4.20531314537368	0.000664010624169987
+Callitriche_truncata	LC177702.1	01-APR-2017	1248	Malta	secondary	rbcL	35.8269478	14.5274189	0.00199203187250996

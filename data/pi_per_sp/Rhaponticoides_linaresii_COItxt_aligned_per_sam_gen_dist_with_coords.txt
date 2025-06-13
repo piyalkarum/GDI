@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhaponticoides_linaresii	HF571565.1	01-MAY-2014	348	Spain:Palencia, provincia, Palencia	secondary	COI	41.4722857035717	-4.96812773888063	0.176468729084554
+Rhaponticoides_linaresii	HF571564.1	01-MAY-2014	348	Spain:Palencia, provincia, Palencia	secondary	COI	42.015264335796	-3.96920286949199	0.106597992214915
+Rhaponticoides_linaresii	HF571563.1	01-MAY-2014	348	Spain:Palencia, provincia, Palencia	secondary	COI	42.2335568506635	-5.68245648695849	0.0672990141965777
+Rhaponticoides_linaresii	HF571562.1	01-MAY-2014	348	Spain:Palencia, provincia, Palencia	secondary	COI	42.5597336488241	-4.85323955643191	0.073792345266922
+Rhaponticoides_linaresii	HF571561.1	01-MAY-2014	348	Spain:Palencia, provincia, Palencia	secondary	COI	41.5964201246997	-5.4875931038635	0.0713907842101071
+Rhaponticoides_linaresii	HF571560.1	01-MAY-2014	348	Spain:Palencia, provincia, Palencia	secondary	COI	41.5509352555018	-4.26965318863071	0.0709104768133732
+Rhaponticoides_linaresii	HF571559.1	01-MAY-2014	348	Spain:Palencia, provincia, Palencia	secondary	COI	41.8976299535385	-5.29166806738684	0.0709104768133732
+Rhaponticoides_linaresii	HF571558.1	01-MAY-2014	350	Spain:Palencia, provincia, Palencia	secondary	COI	41.8673562806299	-3.79090142370707	0.0983657745438911
+Rhaponticoides_linaresii	HF571557.1	01-MAY-2014	348	Spain:Palencia, provincia, Palencia	secondary	COI	42.658180283207	-5.28600166215466	0.102275719889418
+Rhaponticoides_linaresii	HF571556.1	01-MAY-2014	348	Spain:Palencia, provincia, Palencia	secondary	COI	42.0697977828701	-4.77438068803202	0.101499217874677
+Rhaponticoides_linaresii	HF571555.1	01-MAY-2014	348	Spain:Palencia, provincia, Palencia	secondary	COI	41.2466912539099	-5.15911879293347	0.0762164661635586
+Rhaponticoides_linaresii	HF571554.1	01-MAY-2014	348	Spain:Palencia, provincia, Palencia	secondary	COI	41.4445530136643	-4.94172563012495	0.0752657818608824
+Rhaponticoides_linaresii	HF571553.1	01-MAY-2014	345	Spain:Palencia, provincia, Palencia	secondary	COI	42.1606339553639	-5.3399097617189	0.0875544681977948

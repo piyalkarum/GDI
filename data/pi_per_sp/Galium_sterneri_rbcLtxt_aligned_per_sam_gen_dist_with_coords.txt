@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_sterneri	JN890590.1	07-MAR-2012	376	United Kingdom: Caernarfonshire	primary	rbcL	52.94	-4.23	0.00106382978723404
+Galium_sterneri	JN893532.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.4326807954074	-1.64718232597703	0.000738007380073801
+Galium_sterneri	JN893143.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	53.6912943432826	-1.08203332841969	0.00405910192745544
+Galium_sterneri	JN893142.1	07-MAR-2012	512	United Kingdom: Breconshire	secondary	rbcL	52.75653073358	-0.255422930821653	0.00078125
+Galium_sterneri	JN893141.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.6688031045938	-2.41938870701363	0.000738007380073801
+Galium_sterneri	JN891489.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.2442642780227	-1.29901002572245	0.000738007380073801

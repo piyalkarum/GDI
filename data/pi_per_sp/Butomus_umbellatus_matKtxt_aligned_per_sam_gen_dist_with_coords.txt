@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Butomus_umbellatus	KX677308.1	09-AUG-2017	813	Canada: British Columbia, Fraser Valley Regional District, Hatzic Lake, north of bridge to island on Shock Avenue	primary	matK	49.154	-122.234	0
+Butomus_umbellatus	MG217042.1	24-JAN-2018	794	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay	primary	matK	45.513	-73.744	0
+Butomus_umbellatus	MN273523.1	30-NOV-2021	791	China	secondary	matK	35.000074	104.999927	0
+Butomus_umbellatus	JN894389.1	07-MAR-2012	800	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0

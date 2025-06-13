@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_hornemannii	MG248290.1	21-JAN-2018	552	Canada: Yukon Territory, Kotaneelee Range	primary	rbcL	60.242	-124.122	0
+Epilobium_hornemannii	MG248194.1	21-JAN-2018	552	Canada: Yukon Territory, Bonnet Plume Drainage, Gillespie Lake	primary	rbcL	64.722	-133.969	0
+Epilobium_hornemannii	MG247847.1	21-JAN-2018	552	Canada: Yukon Territory, Bonnet Plume Drainage, Quartet Lake	primary	rbcL	65.121	-134.455	0
+Epilobium_hornemannii	KJ841298.1	04-NOV-2014	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, At base of s-w slope of mountain	primary	rbcL	54.899	-67.171	0

@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_phryganodes	KC475604.1	25-OCT-2013	774	Canada: Nunavut, Mainland Nunavut, Rankin Inlet, NE shore Melvin Bay below town dump, Rankin Inlet, Hudson Bay	primary	matK	62.8	-92.083	0.000659616983286008
+Puccinellia_phryganodes	KC475603.1	25-OCT-2013	773	Canada: Nunavut, Victoria Island, Long Point beach, between Long Point and Flagstaff Point, ca 8 km east of Cambridge Bay	primary	matK	69.17	-105.39	0.000588227534399602
+Puccinellia_phryganodes	KC475602.1	25-OCT-2013	634	Canada: Nunavut, Baffin Island, Tarr Inlet, rocky ground within reach of salt spray from coast	primary	matK	63.73	-68.41	0.000790449035717174
+Puccinellia_phryganodes	KC475601.1	25-OCT-2013	773	Canada: Nunavut, Victoria Island, Coast opposite Richardson Islands, ca. 18 km E of Johansen Bay airstrip	primary	matK	68.73	-110.72	0.000588227534399602
+Puccinellia_phryganodes	KC475600.1	25-OCT-2013	740	Canada: Nunavut, Baffin Island, Tarr Inlet, reddish sand, gravel, and rock, boulders, some covered with black lichen. 20 m from high tide line. Heathless zone, 30% ground cover	primary	matK	63.73	-68.43	0.000683156879774945
+Puccinellia_phryganodes	KC475599.1	25-OCT-2013	773	Canada: Nunavut, Canadian Arctic Archipelago, Baffin Island, Iqaluit	primary	matK	63.445	-68.315	0.000659975139725876
+Puccinellia_phryganodes	KC475598.1	25-OCT-2013	671	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island, Itiliapik, ~35 km SE of Sanikiluaq, 1.5 km S of camp, about 20 m from high tide line	primary	matK	56.406	-78.989	0
+Puccinellia_phryganodes	KC475597.1	25-OCT-2013	742	Canada: Nunavut, Baffin Island, Tarr Inlet, sand at coast, area affected by high tide	primary	matK	64.3364337771853	-69.725096065758	0.000681591587899281
+Puccinellia_phryganodes	KC475596.1	25-OCT-2013	738	Canada: Nunavut, Baffin Island, Tarr Inlet, sand at coast, area affected by high tide	primary	matK	63.2755601058763	-67.9470544868617	0.000684730667222748
+Puccinellia_phryganodes	KC475595.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Coast on S side of river delta at head of N arm of Minto Inlet	primary	matK	70.8140407758813	-115.996632584473	0.000586929399106884
+Puccinellia_phryganodes	KC475594.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Coast on S side of river delta at head of N arm of Minto Inlet	primary	matK	70.9017885022354	-115.714679436488	0.000586929399106884
+Puccinellia_phryganodes	KC475593.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	matK	71.313	-116.916	0.000586929399106884
+Puccinellia_phryganodes	JN966482.1	27-OCT-2012	692	Canada: Manitoba, Churchill, 18 km E Churchill, Halfway Point, Raised beach ridge sloping down to shore. Prostrate in wet sand.	primary	matK	58.751	-93.823	0.000630571259183976
+Puccinellia_phryganodes	JN966481.1	27-OCT-2012	623	Canada: Manitoba, Churchill, unspecified locality, sand spit, river flats	primary	matK	58.75	-93.847	0
+Puccinellia_phryganodes	KM523927.1	04-JUL-2015	788	Canada	secondary	matK	61.0666922	-107.991707	0.000591705768322201

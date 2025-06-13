@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_spicata	MT929883.1	03-MAR-2023	789	China	secondary	matK	34.8940461936058	105.869906302969	0.000916075650118203
+Veronica_spicata	MT946468.1	03-MAR-2023	775	China	secondary	matK	35.2190921180227	104.831707762338	0.000924484422149186
+Veronica_spicata	KJ746161.1	29-JUL-2014	705	Poland	secondary	matK	52.215933	19.134422	0.000945626477541371
+Veronica_spicata	JN894225.1	07-MAR-2012	831	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.000894933594726018

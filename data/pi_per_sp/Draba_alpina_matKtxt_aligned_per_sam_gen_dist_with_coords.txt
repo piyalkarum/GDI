@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_alpina	KC474551.1	25-OCT-2013	636	Canada: Northwest Territories, Banks Island, Nelson Head, Southernmost tip of Banks Island	primary	matK	71.0939	-122.779	0.00629026811699252
+Draba_alpina	KC474550.1	25-OCT-2013	636	Canada: Northwest Territories, Cape Bathurst, Anderson River, Cape Bathurst E side, brook system N of river from Lake McKinlay, 0.7-1.5 km from sea	primary	matK	70.4833	-127.8	0.00687989075850196
+Draba_alpina	KC474549.1	25-OCT-2013	636	Canada: Nunavut, Baffin Island, Savage Harbour, Lower Savage Islands, V-shaped lake 1.5 km S of Savage harbour	primary	matK	61.8192	-65.7103	0.00687989075850196
+Draba_alpina	JN966258.1	27-OCT-2012	765	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Wet lichen heath	primary	matK	58.747	-93.863	0.0110560055354861
+Draba_alpina	JN966257.1	27-OCT-2012	551	Canada: Manitoba, Churchill, Wapusk National Park, Thompson Point, Beach ridges in sand amongst Leymus mollis and Dryas integrifolia	primary	matK	58.335	-93.018	0.00848742197228032
+Draba_alpina	MT917839.1	03-MAR-2023	767	China	secondary	matK	34.9461172054956	105.506326304317	0.00990238021231647
+Draba_alpina	MT917835.1	03-MAR-2023	765	China	secondary	matK	34.7745995447958	104.019038194772	0.00599923602597647
+Draba_alpina	MT917834.1	03-MAR-2023	765	China	secondary	matK	34.3929103072451	105.582433037665	0.00599923602597647
+Draba_alpina	MT946456.1	03-MAR-2023	746	China	secondary	matK	34.4266433520636	104.836484272871	0.0194388664823448

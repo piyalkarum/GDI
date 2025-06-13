@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dryopteris_cristata	KP643481.1	08-DEC-2015	476	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.2082435726399	-77.3576059070188	0.00294985250737463
+Dryopteris_cristata	KP643345.1	08-DEC-2015	503	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.2821010580205	-77.3073210836227	0.00294985250737463
+Dryopteris_cristata	KP643327.1	08-DEC-2015	503	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.4542840118392	-77.6603755590422	0.00294985250737463
+Dryopteris_cristata	JQ936669.1	28-MAY-2012	341	USA	secondary	psbA-trnH	40.3369072414727	-99.7516704598243	0.0206489675516224
+Dryopteris_cristata	JQ936665.1	28-MAY-2012	438	USA	secondary	psbA-trnH	39.2506535655553	-100.042213533581	0.00294985250737463
+Dryopteris_cristata	JQ936662.1	28-MAY-2012	496	USA	secondary	psbA-trnH	40.2309488297529	-100.973658837983	0.00294985250737463
+Dryopteris_cristata	JQ936659.1	28-MAY-2012	516	USA	secondary	psbA-trnH	39.0921999113463	-101.050660281941	0.00294985250737463
+Dryopteris_cristata	JQ936654.1	28-MAY-2012	517	USA	secondary	psbA-trnH	40.3746489829454	-101.001391348541	0.00294985250737463

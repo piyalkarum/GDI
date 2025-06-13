@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Persicaria_maculosa	MG221087.1	21-JAN-2018	761	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island West, stranded pond, FFNMP	primary	matK	45.264	-81.703	0.0082902593439346
+Persicaria_maculosa	MG221079.1	21-JAN-2018	761	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Boat passage	primary	matK	45.292	-81.713	0.0082902593439346
+Persicaria_maculosa	MG220928.1	21-JAN-2018	773	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Meadow Area (Rifle Range)	primary	matK	43.2923	-79.8781	0.00827055451400649
+Persicaria_maculosa	MG220709.1	21-JAN-2018	698	Canada: Ontario, Nipissing District, Mattawan Twp., Mattawa, NEBIE Block#2, Intensive treatment	primary	matK	46.381	-79.006	0.00935624178531039
+Persicaria_maculosa	KJ593044.1	17-MAR-2015	730	USA: Wisconsin, Dunbar	primary	matK	45.709	-88.232	0.00954068345513715
+Persicaria_maculosa	JN896185.1	07-MAR-2012	764	United Kingdom: Glamorgan	primary	matK	51.49	-3.18	0.00880983511911694
+Persicaria_maculosa	MT918084.1	03-MAR-2023	773	China	secondary	matK	35.000074	104.999927	0.0883189040440661
+Persicaria_maculosa	KJ593043.1	17-MAR-2015	742	USA: Wisconsin, Baileys Harbor	secondary	matK	45.064993	-87.124274	0.00833825023182436
+Persicaria_maculosa	HM851077.1	23-JUL-2011	801	Portugal	secondary	matK	39.6621648	-8.1353519	0.00870630417929686
+Persicaria_maculosa	JN896149.1	07-MAR-2012	441	United Kingdom: Cardiganshire	secondary	matK	52.1438930931293	-4.01014624285557	0.0126984126984127
+Persicaria_maculosa	JN894780.1	07-MAR-2012	797	United Kingdom: Cardiganshire	secondary	matK	52.003006617959	-4.36335435158764	0.00825524995324739
+Persicaria_maculosa	MK578027.1	15-MAY-2019	813	South Korea	secondary	matK	35.847408102963	129.474685174836	0.0102222344172186
+Persicaria_maculosa	MK578026.1	15-MAY-2019	813	South Korea	secondary	matK	35.8850792815914	128.993789317103	0.0102222344172186
+Persicaria_maculosa	MK578023.1	15-MAY-2019	813	South Korea	secondary	matK	34.7546257	127.659859	0.0102222344172186
+Persicaria_maculosa	MK578022.1	15-MAY-2019	813	South Korea	secondary	matK	37.2982901	127.637033	0.0102222344172186
+Persicaria_maculosa	MK044316.1	15-MAY-2019	813	South Korea	secondary	matK	33.4930566	126.5130589	0.0102222344172186

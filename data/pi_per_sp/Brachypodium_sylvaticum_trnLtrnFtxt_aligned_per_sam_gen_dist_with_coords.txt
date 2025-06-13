@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brachypodium_sylvaticum	KP709841.1	28-FEB-2016	765	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.00228801000522533
+Brachypodium_sylvaticum	KP709896.1	28-FEB-2016	765	Papua New Guinea: New Guinea	secondary	trnL-trnF	-6.25559010894063	142.330451502649	0.00302373242875132
+Brachypodium_sylvaticum	KP709895.1	28-FEB-2016	765	Papua New Guinea: New Guinea	secondary	trnL-trnF	-5.70530657910972	141.667756598099	0.00302373242875132
+Brachypodium_sylvaticum	KP709894.1	28-FEB-2016	765	Papua New Guinea: New Guinea	secondary	trnL-trnF	-5.37291402399952	142.310233923516	0.00302373242875132
+Brachypodium_sylvaticum	KP709893.1	28-FEB-2016	765	Papua New Guinea: New Guinea	secondary	trnL-trnF	-5.58373693015925	141.681082085113	0.00302373242875132
+Brachypodium_sylvaticum	KP709892.1	28-FEB-2016	771	China	secondary	trnL-trnF	35.000074	104.999927	0.00229357798165138
+Brachypodium_sylvaticum	KP709891.1	28-FEB-2016	766	Iran	secondary	trnL-trnF	32.0901930727268	54.9361339224975	0.00147080322695266
+Brachypodium_sylvaticum	KP709890.1	28-FEB-2016	766	Iran	secondary	trnL-trnF	33.2442886333974	53.8324105472631	0.00147080322695266
+Brachypodium_sylvaticum	KP709889.1	28-FEB-2016	765	Spain	secondary	trnL-trnF	38.7815608631835	-4.62800756567886	0.00147101654117304
+Brachypodium_sylvaticum	KP709888.1	28-FEB-2016	766	Australia	secondary	trnL-trnF	-24.7761086	134.755	0.00147080322695266
+Brachypodium_sylvaticum	KP709887.1	28-FEB-2016	766	Spain	secondary	trnL-trnF	39.6753294079022	-4.33026918489366	0.00147080322695266
+Brachypodium_sylvaticum	KP709886.1	28-FEB-2016	767	Spain	secondary	trnL-trnF	39.5448252971753	-4.98506209924641	0.00147059046896233
+Brachypodium_sylvaticum	KP709885.1	28-FEB-2016	767	Spain	secondary	trnL-trnF	39.4490301611659	-5.3805449174157	0.00147059046896233
+Brachypodium_sylvaticum	KP709884.1	28-FEB-2016	766	United Kingdom: England	secondary	trnL-trnF	52.7376835313178	0.105423803257576	0.00147080322695266
+Brachypodium_sylvaticum	KP709883.1	28-FEB-2016	766	United Kingdom: England	secondary	trnL-trnF	53.4028298617055	-1.1620929750228	0.00147080322695266
+Brachypodium_sylvaticum	KP709882.1	28-FEB-2016	763	Spain	secondary	trnL-trnF	38.6019997891264	-4.93332106911537	0.00147444298820446
+Brachypodium_sylvaticum	JN187674.1	27-FEB-2012	845	Hungary	secondary	trnL-trnF	41.9767629	-72.7789842	0.00392072151534405

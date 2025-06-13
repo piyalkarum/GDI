@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carlina_gummifera	HE687494.1	04-MAY-2012	417	Morocco:Marrakech	secondary	psbA-trnH	32.0651519049976	-7.1061693013848	0
+Carlina_gummifera	HE687471.1	04-MAY-2012	396	Morocco:Marrakech	secondary	psbA-trnH	31.4496926067544	-8.13543940338997	0
+Carlina_gummifera	HE687462.1	04-MAY-2012	399	Morocco:Marrakech	secondary	psbA-trnH	31.8261039615089	-8.31781305130961	0
+Carlina_gummifera	HE687458.1	04-MAY-2012	411	Morocco:Marrakech	secondary	psbA-trnH	30.9678036983011	-8.27885624616713	0
+Carlina_gummifera	HE659555.1	03-FEB-2012	384	Morocco	secondary	psbA-trnH	28.3347722	-10.3713379	0

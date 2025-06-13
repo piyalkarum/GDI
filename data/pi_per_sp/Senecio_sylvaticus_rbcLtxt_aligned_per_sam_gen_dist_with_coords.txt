@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_sylvaticus	MG222264.1	26-DEC-2017	528	Canada: British Columbia, Gulf Islands, Blunden Inlet	primary	rbcL	48.75	-123.167	0
+Senecio_sylvaticus	KX678144.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.0449	-125.501	0
+Senecio_sylvaticus	JN892979.1	07-MAR-2012	458	United Kingdom: Carmarthenshire	primary	rbcL	51.68	-4.15	0
+Senecio_sylvaticus	HM850346.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Senecio_sylvaticus	JN890971.1	07-MAR-2012	497	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

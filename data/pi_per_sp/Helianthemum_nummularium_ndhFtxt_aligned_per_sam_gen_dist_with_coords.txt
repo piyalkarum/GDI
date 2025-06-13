@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_nummularium	KY651308.1	30-JUN-2018	474	Italy	primary	ndhF	44.08	7.87	0
+Helianthemum_nummularium	KY651307.1	30-JUN-2018	434	Turkey	primary	ndhF	36.76	35.63	0
+Helianthemum_nummularium	KX498442.1	18-SEP-2017	454	Austria	primary	ndhF	48.03	16.25	0
+Helianthemum_nummularium	KX498441.1	18-SEP-2017	454	Italy	primary	ndhF	37.89	14.65	0
+Helianthemum_nummularium	KX498440.1	18-SEP-2017	475	Turkey	primary	ndhF	38.14	30.94	0
+Helianthemum_nummularium	KX498439.1	18-SEP-2017	454	Austria	primary	ndhF	47.26	14.38	0

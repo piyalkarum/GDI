@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_hyperborea	MG249381.1	21-JAN-2018	553	Canada: Yukon Territory, Blow River Delta, mainland sites S of E delta, rich bluffs	primary	rbcL	68.872	-136.98	0
+Saxifraga_hyperborea	MG249035.1	21-JAN-2018	553	Canada: Yukon Territory, Syenite Range	primary	rbcL	63.949	-137.273	0
+Saxifraga_hyperborea	MG248965.1	21-JAN-2018	553	USA: Alaska, Valdez-Cordova Census Area, Wrangell-St. Elias National Preserve, Euchre Mountain, late snowmelt meadow n-facing slope	primary	rbcL	62.094	-142.18	0
+Saxifraga_hyperborea	MG248306.1	21-JAN-2018	553	Canada: Yukon Territory, Kusawa and JoJo Lakes, mountain between, Thandlat	primary	rbcL	60.596	-136.255	0
+Saxifraga_hyperborea	MG247094.1	21-JAN-2018	552	Canada: Northwest Territories, North Canol Road, 212 mile W of Norman Wells, Dechen la' formerly Oldsquaw Lodge	primary	rbcL	63.412	-129.614	0
+Saxifraga_hyperborea	MG245948.1	21-JAN-2018	552	Canada: Yukon Territory, Printer's Pass	primary	rbcL	61.194	-138.325	0
+Saxifraga_hyperborea	KT960705.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.7590468383703	-18.4372103910218	0
+Saxifraga_hyperborea	KT960486.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1885613960338	-20.5896516309253	0
+Saxifraga_hyperborea	KT960391.1	13-DEC-2015	491	Greenland: NE, Zackenberg	primary	rbcL	74.513788759191	-19.6654886099799	0
+Saxifraga_hyperborea	KC484060.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Rocky cliffs above south shore of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.235	-116.455	0
+Saxifraga_hyperborea	KC484059.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, RCMP Post, Alexandra Fiord. Ca. 4 km S of RCMP Post	primary	rbcL	78.8833	-75.75	0
+Saxifraga_hyperborea	KC484058.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Apex, Coastal cliffs ~0.5 km W of Apex	primary	rbcL	63.75	-68.5167	0
+Saxifraga_hyperborea	KC484057.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Cape Dorset, Near the Nascopie Building	primary	rbcL	64.2333	-76.5417	0
+Saxifraga_hyperborea	KC484056.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Mount Conybeare	primary	rbcL	69.464	-140.074	0
+Saxifraga_hyperborea	KC484055.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Parker River, Parker River Valley, N side c. 7 km from sea	primary	rbcL	73.6167	-115.85	0

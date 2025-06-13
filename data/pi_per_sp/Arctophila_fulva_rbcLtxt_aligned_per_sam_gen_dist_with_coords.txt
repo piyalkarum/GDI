@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctophila_fulva	MF596578.1	28-FEB-2018	603	Canada: Northwest Territories, 128 mi SW of Inuvik on Dempster Hwy (5) towards Eagle Plains. Margin of small pond with Eriophorum, Carex aquatilis, and Arctophila	primary	rbcL	67.8246436129861	-136.702456703556	0
+Arctophila_fulva	MF596577.1	28-FEB-2018	603	Canada: Northwest Territories, Disturbed ground in yard of transportation company in Inuvik with Carex aquatilis, Beckmannia, and Hordeum	primary	rbcL	68.5196418938121	-134.948351967608	0
+Arctophila_fulva	MG227733.1	23-JAN-2018	603	Canada: Northwest Territories, Disturbed ground in yard of transportation company in Inuvik with Carex aquatilis, Beckmannia, and Hordeum	primary	rbcL	69.0243902507659	-134.66821175972	0
+Arctophila_fulva	MG226708.1	23-JAN-2018	603	Canada: Northwest Territories, 128 mi SW of Inuvik on Dempster Hwy (5) towards Eagle Plains. Margin of small pond with Eriophorum, Carex aquatilis, and Arctophila	primary	rbcL	68.0527012165622	-135.329444888232	0
+Arctophila_fulva	MG226025.1	23-JAN-2018	552	Canada: Northwest Territories, Banks Island, beside Thompson River	primary	rbcL	73	-119	0
+Arctophila_fulva	KC482005.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 3 km ESE of junction with Little Hornaday River, NE bank, between willow grove and sand hills to east	primary	rbcL	68.4333	-121.964	0
+Arctophila_fulva	KC482004.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay, 0.5-1.0 km northeast of Cambridge Bay, along road to Mt. Pelly	primary	rbcL	69.172	-105.075	0
+Arctophila_fulva	KC482003.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Nettilling Lake Burwash Bay	primary	rbcL	66.033	-71.2	0
+Arctophila_fulva	JN965263.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.9200622205488	-95.2763141500519	0
+Arctophila_fulva	JN965262.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	59.1811745503178	-95.0001071965694	0
+Arctophila_fulva	JN965261.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, Shallow muddy shore	primary	rbcL	59.026142779396	-93.4341120375757	0
+Arctophila_fulva	JN965260.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 18 km E Churchill, Halfway Point, Raised beach ridge sloping down to shore, grassy area above the beach	primary	rbcL	58.63	-93.819	0

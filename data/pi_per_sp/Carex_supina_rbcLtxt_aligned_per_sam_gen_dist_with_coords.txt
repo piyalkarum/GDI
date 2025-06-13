@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_supina	MG226262.1	23-JAN-2018	477	Canada: Yukon Territory, MacMillan River	primary	rbcL	63.044	-134.294	0
+Carex_supina	KT960644.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.0134867725576	-19.4393880741441	0
+Carex_supina	KT960622.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.8661119869048	-17.9727846205443	0
+Carex_supina	KT960603.1	13-DEC-2015	539	Greenland: NE, Zackenberg	primary	rbcL	74.2485291720416	-22.8250526450066	0
+Carex_supina	KT960553.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.4747278802029	-23.4214646270967	0
+Carex_supina	KT960551.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.0012418837749	-19.0824974625679	0
+Carex_supina	KT960396.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.8509765190131	-18.507868236188	0
+Carex_supina	KC482373.1	25-OCT-2013	552	Canada: Nunavut, Northwest Territories Mainland, Rankin Inlet, Top of Meliadine esker at 55 K/16 405740, 11 km of Rankin Inlet in Meliadine River Park study area, Hudson Bay	primary	rbcL	62.892	-92.2	0
+Carex_supina	KC482372.1	25-OCT-2013	552	Canada: Nunavut, Arctic Mainland, West Hudson Bay, McConnell River System	primary	rbcL	60.59	-94.47	0

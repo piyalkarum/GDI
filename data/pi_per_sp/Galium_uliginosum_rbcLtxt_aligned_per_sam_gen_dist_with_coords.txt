@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_uliginosum	JN893031.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.1	-4.63	0.00037593984962406
+Galium_uliginosum	MK027961.1	17-DEC-2018	696	Austria: Kaernten, St. Georgen	secondary	rbcL	46.3292187801927	14.6648298516303	0
+Galium_uliginosum	MK027960.1	17-DEC-2018	696	Austria: Kaernten, St. Georgen	secondary	rbcL	46.9652316150535	14.6463121629622	0
+Galium_uliginosum	MK027933.1	17-DEC-2018	696	Slovakia	secondary	rbcL	48.7411522	19.4528646	0
+Galium_uliginosum	JN892893.1	07-MAR-2012	532	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0.00075187969924812
+Galium_uliginosum	JN892892.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00037593984962406

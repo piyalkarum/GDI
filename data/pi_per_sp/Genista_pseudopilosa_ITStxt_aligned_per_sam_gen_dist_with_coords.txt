@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_pseudopilosa	AJ971616.1	24-MAR-2006	224	Morocco:Middle Atlas, Azrou	secondary	ITS	33.4378310413454	-4.22846014728382	0.368724171282863
+Genista_pseudopilosa	AJ971615.1	24-MAR-2006	236	Morocco:Middle Atlas, Azrou	secondary	ITS	33.8507923961353	-4.74866915792791	0.364157527417747
+Genista_pseudopilosa	AJ971614.1	24-MAR-2006	223	Spain	secondary	ITS	37.1622406193047	-2.59638878775056	0.368724171282863
+Genista_pseudopilosa	AJ971613.1	24-MAR-2006	236	Spain	secondary	ITS	38.0494882131249	-3.58983739239041	0.364157527417747

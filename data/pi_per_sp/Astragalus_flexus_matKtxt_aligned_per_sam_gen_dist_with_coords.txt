@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_flexus	MT918242.1	03-MAR-2023	760	China	secondary	matK	35.3089535608926	104.020876090984	0
+Astragalus_flexus	MT918240.1	03-MAR-2023	781	China	secondary	matK	35.8349012669727	105.244936902932	0
+Astragalus_flexus	MT918239.1	03-MAR-2023	788	China	secondary	matK	35.3457251779535	105.651748626822	0
+Astragalus_flexus	MT918238.1	03-MAR-2023	787	China	secondary	matK	35.3940729707877	105.862715314385	0

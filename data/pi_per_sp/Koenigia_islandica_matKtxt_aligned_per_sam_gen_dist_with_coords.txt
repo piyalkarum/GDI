@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Koenigia_islandica	KC474941.1	25-OCT-2013	719	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park. NW part	primary	matK	69.4167	-139.633	0
+Koenigia_islandica	KC474940.1	25-OCT-2013	743	Canada: Nunavut, Lower Savage Is., Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbour. Along side of small pond, east of lake, ~500 m from ocean	primary	matK	61.819	-65.71	0
+Koenigia_islandica	KC474939.1	25-OCT-2013	743	Canada: Nunavut, Baffin Island, Frobisher Bay, At the head of Frobisher Bay	primary	matK	63.7333	-68.45	0
+Koenigia_islandica	MK926322.1	14-JAN-2020	808	United Kingdom	secondary	matK	54.9886494769056	-4.56930821053391	0
+Koenigia_islandica	MK925753.1	14-JAN-2020	784	United Kingdom	secondary	matK	55.3858202439191	-3.38703830175953	0
+Koenigia_islandica	MK925710.1	14-JAN-2020	794	United Kingdom	secondary	matK	54.7696885859475	-4.78325207119868	0

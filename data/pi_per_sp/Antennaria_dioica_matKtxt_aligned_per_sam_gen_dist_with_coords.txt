@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antennaria_dioica	JN894433.1	07-MAR-2012	618	United Kingdom: Caernarfonshire	primary	matK	53.14	-4.06	0.0177993527508091
+Antennaria_dioica	HM445620.1	11-OCT-2010	2473	Spain: Huesca, Aisa	secondary	matK	42.6787796	-0.6209437	0.0421556022053207
+Antennaria_dioica	JN895747.1	07-MAR-2012	835	United Kingdom: Anglesey	secondary	matK	53.2782257	-4.331344	0.0125154222299737
+Antennaria_dioica	JN895746.1	07-MAR-2012	743	United Kingdom: Flintshire	secondary	matK	53.2165096	-3.1402189	0.0139983245276663

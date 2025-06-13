@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spinulum_annotinum	MF953533.1	01-AUG-2018	786	Iceland: Adalvik	secondary	matK	66.0227716696428	-21.2473224036686	0.00487701441899915
+Spinulum_annotinum	MF953532.1	01-AUG-2018	786	Iceland: Adalvik	secondary	matK	66.7080842820798	-24.8076059399578	0.00593723494486853
+Spinulum_annotinum	MF953531.1	01-AUG-2018	786	Iceland: Akureyri	secondary	matK	65.6839035	-18.1121756	0.00487701441899915
+Spinulum_annotinum	MF953530.1	01-AUG-2018	786	Iceland: Snaefellsnes	secondary	matK	64.9532537464266	-23.4934368843517	0.00487701441899915
+Spinulum_annotinum	MF953529.1	01-AUG-2018	786	Iceland: Snaefellsnes	secondary	matK	64.8580652336633	-23.1245257676752	0.00487701441899915
+Spinulum_annotinum	MF953528.1	01-AUG-2018	786	Iceland: Adalvik	secondary	matK	66.3141133302528	-23.7225503268608	0.00487701441899915
+Spinulum_annotinum	KT821303.1	17-SEP-2016	952	South Korea	secondary	matK	36.638392	127.6961188	0.0282018659881255

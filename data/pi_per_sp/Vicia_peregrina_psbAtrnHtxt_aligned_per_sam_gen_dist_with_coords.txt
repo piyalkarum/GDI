@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_peregrina	KP897004.1	13-OCT-2015	364	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0.0192611256147168
+Vicia_peregrina	KP897003.1	13-OCT-2015	362	Turkey	secondary	psbA-trnH	38.9597594	34.9249653	0.0165745856353591
+Vicia_peregrina	KP897002.1	13-OCT-2015	364	Uzbekistan	secondary	psbA-trnH	41.32373	63.9528098	0.0155930625543885
+Vicia_peregrina	KP897001.1	13-OCT-2015	365	Iran	secondary	psbA-trnH	32.6475314	54.5643516	0.0183504340962905

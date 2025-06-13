@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elymus_caninus	KP211011.1	31-AUG-2017	1274	China	secondary	rbcL	35.000074	104.999927	0
+Elymus_caninus	KF728575.1	28-DEC-2013	553	Poland	secondary	rbcL	52.215933	19.134422	0
+Elymus_caninus	JN892154.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Elymus_caninus	JN892153.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

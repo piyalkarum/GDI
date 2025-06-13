@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ceratophyllum_muricatum	MG837735.1	18-JUL-2018	832	India: Bhawar, Sonipat district, Hiryana	secondary	matK	21.37112445	76.8152519087727	0.0062099358974359
+Ceratophyllum_muricatum	MG837734.1	18-JUL-2018	832	Australia: Tipperary, Northern Territory	secondary	matK	-32.0594444	152.1677778	0.00721153846153846
+Ceratophyllum_muricatum	MG837728.1	18-JUL-2018	1125	Ecuador: La Tembladera, Oro Province	secondary	matK	-3.49315075	-79.9918043290208	0.0141422483404315
+Ceratophyllum_muricatum	MG837727.1	18-JUL-2018	1125	USA: St. Vincent Island, Florida	secondary	matK	39.6689941	-76.3794052	0.0141422483404315
+Ceratophyllum_muricatum	KP842566.1	18-AUG-2015	941	Senegal: Niayes	secondary	matK	14.7073664	-17.4490029	0.00586804987874329
+Ceratophyllum_muricatum	KM582622.1	24-DEC-2014	1106	Russia: Sergievka, Astrakhan	secondary	matK	59.8866218	29.8466607	0.00533317075436641
+Ceratophyllum_muricatum	KM582623.1	24-DEC-2014	1121	Russia	secondary	matK	46.3498308	48.0326203	0.005264365791343

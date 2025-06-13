@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chamaenerion_latifolium	KX676891.1	09-AUG-2017	774	Canada: British Columbia, East Kootenay Regional District, near Invermere, Panorama Rd, campsite pulloff near river	primary	matK	50.4437	-116.259	0.00287659854567396
+Chamaenerion_latifolium	KC474466.1	25-OCT-2013	757	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, between road and Darnley Bay	primary	matK	69.3861	-124.078	0.00250079520240546
+Chamaenerion_latifolium	KC474465.1	25-OCT-2013	762	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vincinity of Arctic Char Inn, Uluhaktok	primary	matK	70.736	-117.77	0.00287794295016652
+Chamaenerion_latifolium	KC474464.1	25-OCT-2013	707	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Along River in middle of town, leading from school to ocean	primary	matK	56.617	-79.311	0.0030253539051878
+Chamaenerion_latifolium	KC474463.1	25-OCT-2013	774	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	matK	68.531	-112.703	0.00161300028473028
+Chamaenerion_latifolium	KC474462.1	25-OCT-2013	771	Canada: Northwest Territories, Victoria Island, Minto Inlet, River valley at base of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.317	-116.418	0.002471821083125
+Chamaenerion_latifolium	KC474461.1	25-OCT-2013	636	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 3 km ESE of junction with Little Hornaday River, NE bank, between willow grove and sand hills to east	primary	matK	68.4333	-121.964	0.00113432718328505
+Chamaenerion_latifolium	KC474460.1	25-OCT-2013	774	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Oldsquaw Bay	primary	matK	66.898	-107.839	0.0014894532900413
+Chamaenerion_latifolium	JN966237.1	27-OCT-2012	760	Canada: Manitoba, Churchill, 5 km SE Churchill, Intersection of Goose Creek Rd and Canadian National Railway, Side of the railway	primary	matK	58.718	-94.124	0.00246189273019316
+Chamaenerion_latifolium	JN966236.1	27-OCT-2012	734	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	matK	58.772	-94.163	0.0016700804096675
+Chamaenerion_latifolium	JN966235.1	27-OCT-2012	684	Canada: Manitoba, Churchill, Wapusk National Park, Broad River, Rocky river edge	primary	matK	58.128	-92.856	0.00209233123334058

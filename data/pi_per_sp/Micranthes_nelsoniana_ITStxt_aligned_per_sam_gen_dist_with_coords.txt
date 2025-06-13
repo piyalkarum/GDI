@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Micranthes_nelsoniana	LM654393.1	21-APR-2015	706	Russia:Kamchatka	secondary	ITS	57.1914882	160.0383819	0.0144810166154471
+Micranthes_nelsoniana	LM654381.1	21-APR-2015	708	Russia:Far East	secondary	ITS	42.6423748	131.3588729	0.0247075613581689
+Micranthes_nelsoniana	LM654380.1	21-APR-2015	708	Russia:Altai	secondary	ITS	50.7114101	86.8572186	0.0124666210907226
+Micranthes_nelsoniana	LM654379.1	21-APR-2015	708	USA:Alaska	secondary	ITS	64.4459613	-149.680909	0.00934725576304403
+Micranthes_nelsoniana	LM654377.1	21-APR-2015	705	Russia:W Taymyr	secondary	ITS	56.5257713	84.9729839	0.00966718578423502
+Micranthes_nelsoniana	LM654376.1	21-APR-2015	704	Russia:Chukotka	secondary	ITS	66.0006475	169.4900869	0.00882381277610837

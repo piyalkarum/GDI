@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Danthonia_decumbens	JN894794.1	07-MAR-2012	1064	United Kingdom: Cardiganshire	primary	matK	52.43	-3.79	0.00080394127902177
+Danthonia_decumbens	KJ529309.1	22-FEB-2015	969	USA	secondary	matK	39.7837304	-100.445882	0.00167747126942637
+Danthonia_decumbens	JX438057.1	31-MAR-2013	1121	Spain	secondary	matK	39.3260685	-4.8379791	0.00356397875000475
+Danthonia_decumbens	FN908050.1	17-MAY-2012	1595	Portugal:Azores	secondary	matK	37.8085564	-25.4731374	0.000777493835960508
+Danthonia_decumbens	JN896063.1	07-MAR-2012	787	United Kingdom: Cardiganshire	secondary	matK	51.6462753452736	-3.21288170105581	0.000872317430909372
+Danthonia_decumbens	JN895035.1	07-MAR-2012	775	United Kingdom: Cardiganshire	secondary	matK	51.7130242820618	-4.00386536065248	0.000898172735319438
+Danthonia_decumbens	EU400729.1	14-SEP-2008	1800	Australia	secondary	matK	-24.7761086	134.755	0.000722522162014936

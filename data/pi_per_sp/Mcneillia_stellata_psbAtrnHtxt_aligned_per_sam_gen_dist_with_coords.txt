@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mcneillia_stellata	LC714967.1	08-SEP-2022	356	Greece	secondary	psbA-trnH	43.7632908450743	-77.845201129796	0.00280898876404494
+Mcneillia_stellata	LC714966.1	08-SEP-2022	357	Greece	secondary	psbA-trnH	43.4512146492288	-78.5854863357761	0.000936329588014981
+Mcneillia_stellata	LC714965.1	08-SEP-2022	357	Greece	secondary	psbA-trnH	42.9114210983886	-76.5741385090478	0.000936329588014981
+Mcneillia_stellata	LC714964.1	08-SEP-2022	358	Greece	secondary	psbA-trnH	43.217569279753	-77.1864055456702	0.000936329588014981

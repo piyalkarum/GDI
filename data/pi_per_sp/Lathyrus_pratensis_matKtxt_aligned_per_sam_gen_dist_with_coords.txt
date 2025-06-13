@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_pratensis	OR738251.1	13-NOV-2023	596	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.298514918005399
+Lathyrus_pratensis	KX677550.1	09-AUG-2017	821	Canada: British Columbia, Capital Regional District, North Saanich, Ocean Avenue and Sterling Way, southeast lot	primary	matK	48.644	-123.407	0.0433610108740762
+Lathyrus_pratensis	JN894452.1	07-MAR-2012	935	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.0428633914461731
+Lathyrus_pratensis	LC579630.1	03-MAR-2021	837	Japan:Shiga, Maibara	secondary	matK	35.3149074	136.2901179	0.0432593523971625
+Lathyrus_pratensis	KT280226.1	01-AUG-2016	738	China: Maqu Gansu	secondary	matK	34.6137382	102.4654149	0.0548581374645001
+Lathyrus_pratensis	KJ204498.1	29-JAN-2015	719	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0442818653386781
+Lathyrus_pratensis	JX505811.1	09-JAN-2013	1521	Denmark	secondary	matK	55.670249	10.3333283	0.0608239882887788
+Lathyrus_pratensis	JX505810.1	09-JAN-2013	1014	Germany	secondary	matK	40.4203479	-79.1166983	0.0445720400712217
+Lathyrus_pratensis	JN894102.1	07-MAR-2012	910	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.0459398691288034

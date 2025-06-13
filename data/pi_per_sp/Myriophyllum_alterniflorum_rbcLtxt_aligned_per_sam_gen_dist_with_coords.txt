@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myriophyllum_alterniflorum	MG248160.1	21-JAN-2018	552	Canada: Sparrow Lake, Simcoe County, ON	primary	rbcL	42.6899756111484	-81.2734776173464	0.112718204488778
+Myriophyllum_alterniflorum	MG246189.1	21-JAN-2018	552	Canada: Sparrow Lake, Simcoe County, ON	primary	rbcL	42.1470499892932	-79.6440561822987	0.112718204488778
+Myriophyllum_alterniflorum	MK924846.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.528694073751	-2.24562394577841	0.112437810945274
+Myriophyllum_alterniflorum	MK924764.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6086994685253	-3.00840434171486	0.112437810945274
+Myriophyllum_alterniflorum	HM850192.1	23-JUL-2011	756	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.562749841813377
+Myriophyllum_alterniflorum	JX100776.1	23-OCT-2012	553	Netherlands: Bijloop	secondary	rbcL	51.5335663	4.6975356	0.112437810945274

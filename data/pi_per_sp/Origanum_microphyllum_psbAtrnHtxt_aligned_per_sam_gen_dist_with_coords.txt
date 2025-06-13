@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Origanum_microphyllum	OL598221.1	27-MAY-2022	392	Greece: Crete, Lagou	secondary	psbA-trnH	35.1998042	25.4705172	0
+Origanum_microphyllum	OL598220.1	27-MAY-2022	392	Greece: Crete, Karfi	secondary	psbA-trnH	35.2174376	25.4707062	0
+Origanum_microphyllum	OL598219.1	27-MAY-2022	392	Greece: Crete, Lassithi	secondary	psbA-trnH	35.1241318	25.9060167	0
+Origanum_microphyllum	OL598218.1	27-MAY-2022	392	Greece: Crete, Samaria	secondary	psbA-trnH	35.1534649754626	23.3587947929286	0
+Origanum_microphyllum	OL598217.1	27-MAY-2022	392	Greece: Crete, Samaria	secondary	psbA-trnH	35.3653924248288	24.0498269932914	0
+Origanum_microphyllum	KC138331.1	31-OCT-2014	463	Greece: Crete	secondary	psbA-trnH	35.4101859853464	23.99826508362	0
+Origanum_microphyllum	KC138260.1	31-OCT-2014	463	Greece: Crete	secondary	psbA-trnH	35.1445691939088	25.3345793812016	0

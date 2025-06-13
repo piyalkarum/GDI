@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurium_quadrifolium	MK325332.1	30-APR-2019	851	Spain: Granada, Galera	primary	matK	37.43	-2.33	0.00250540610072383
+Centaurium_quadrifolium	MK325331.1	30-APR-2019	845	Spain: Segovia, Hinojosas del Cerro	primary	matK	41.21	-3.5	0.00547337278106509
+Centaurium_quadrifolium	MK325322.1	30-APR-2019	851	Spain: Madrid, Titulcia-Chinchon	primary	matK	40.08	-3.29	0.00206683400663334
+Centaurium_quadrifolium	MK325313.1	30-APR-2019	851	Spain: Toledo, Quintanar	primary	matK	39.38	-3.04	0.00309712207705519
+Centaurium_quadrifolium	MK325312.1	30-APR-2019	851	Spain: Cuenca, Zafra de Zancara	primary	matK	39.52	-2.34	0.00206683400663334
+Centaurium_quadrifolium	MK325311.1	30-APR-2019	845	Spain: Segovia, Fuentiduenas	primary	matK	41.18	-4.02	0.00547337278106509
+Centaurium_quadrifolium	MK325310.1	30-APR-2019	851	Spain: Granada, Frigiliana, Puerto de Los Umbrales	primary	matK	36.5	-3.49	0.00206683400663334
+Centaurium_quadrifolium	MK325308.1	30-APR-2019	851	Spain: Tarragona, Montsia	primary	matK	40.37	0.31	0.00412741014747704
+Centaurium_quadrifolium	MK325294.1	30-APR-2019	851	Spain: Castellon, Mosqueruela	primary	matK	40.25	-0.19	0.00206683400663334

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linum_catharticum	JN895439.1	07-MAR-2012	822	United Kingdom: Carmarthenshire	primary	matK	51.67	-4.14	0.184336198662846
+Linum_catharticum	HM544103.1	19-DEC-2010	1110	Estonia	secondary	matK	58.7523778	25.3319078	0.182736455463728
+Linum_catharticum	FJ160835.1	10-JAN-2009	377	Germany	secondary	matK	34.895926	-83.4665496	0.552579900503386
+Linum_catharticum	JN895775.1	07-MAR-2012	752	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.185507246376812

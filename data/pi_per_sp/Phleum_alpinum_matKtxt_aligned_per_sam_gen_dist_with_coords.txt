@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phleum_alpinum	MF597480.1	17-JUL-2018	819	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Slatechuck Mountain. Rocky mountain ridge and associated grass/ sedge meadow, accessible only by hiking trail.	primary	matK	53.261	-132.238	0.00206438646668637
+Phleum_alpinum	MF597479.1	17-JUL-2018	813	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Mount Raymond peak (accessible only by hiking trail).	primary	matK	53.27	-132.235	0.00300541861496073
+Phleum_alpinum	MF597478.1	17-JUL-2018	819	Canada: British Columbia, McBride Peak, with alpine vegetation	primary	matK	53.339	-120.111	0.00206438646668637
+Phleum_alpinum	MF597477.1	17-JUL-2018	799	Canada: Alberta, Banff National Park, 11 mi NW of Mosquito Creek at Bow summit. Forest with Picea, Abies, Cassiope, Phyllodoce, Kalmia, and Salix.	primary	matK	51.721	-116.494	0.00288929926056621
+Phleum_alpinum	MF597476.1	17-JUL-2018	819	Canada: British Columbia, End of Hudson Bay Mountain Road at alpine ski area, W of Smithers. Parking lot edge with Lupinus, Poa alpinum, Abies lasiocarpa.	primary	matK	54.768	-127.28	0.00206438646668637
+Phleum_alpinum	OK247820.1	27-OCT-2022	788	USA: Alaska	secondary	matK	64.4459613	-149.680909	0.00186873547967364
+Phleum_alpinum	KM523881.1	12-JUL-2015	752	Canada	secondary	matK	61.0666922	-107.991707	0.00268845065981093
+Phleum_alpinum	MN492728.1	30-NOV-2021	612	China	secondary	matK	35.000074	104.999927	0.00757575757575758
+Phleum_alpinum	MK926300.1	14-JAN-2020	769	United Kingdom	secondary	matK	55.3766842985825	-2.46116376659562	0.00202291564353572
+Phleum_alpinum	MK925928.1	14-JAN-2020	816	United Kingdom	secondary	matK	54.5780765545545	-3.71460888480607	0.00198941345406611
+Phleum_alpinum	MK925665.1	14-JAN-2020	790	United Kingdom	secondary	matK	54.0000660686308	-4.18268620242098	0.00198955893421607
+Phleum_alpinum	MF963464.1	10-OCT-2017	894	USA: Plumas Co, CA	secondary	matK	39.933515	-120.9057229	0.0123443396640421

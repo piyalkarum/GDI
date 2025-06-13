@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_striatus	HE819414.1	22-MAY-2013	789	Italy:Toscana	primary	matK	43.92	11.07	0.00235379322831794
+Thymus_striatus	HE819413.1	22-MAY-2013	795	Italy:Toscana	primary	matK	43.64	12.04	0.00344015933369546
+Thymus_striatus	HE819412.1	22-MAY-2013	789	Italy:Toscana	primary	matK	43.43	10.61	0.00126742712294043
+Thymus_striatus	HE819411.1	22-MAY-2013	789	Italy:Calabria	primary	matK	39.91	16.15	0.00344015933369546
+Thymus_striatus	HE819410.1	22-MAY-2013	789	Italy:Basilicata	primary	matK	40.15	15.83	0.00126742712294043
+Thymus_striatus	HE819409.1	22-MAY-2013	789	Italy:Marche	primary	matK	43.54	12.71	0.00126742712294043
+Thymus_striatus	HE819408.1	22-MAY-2013	789	Italy:Abruzzo	primary	matK	42.29	13.47	0.00235379322831794
+Thymus_striatus	HE819407.1	22-MAY-2013	789	Italy:Lazio	primary	matK	42.22	12.97	0.00235379322831794

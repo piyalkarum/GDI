@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_triandrus	KC607989.1	01-MAR-2014	898	Portugal: Serra da Falperra	secondary	trnL-trnF	40.6989978344733	-7.99888216243253	0.00216763005780347
+Narcissus_triandrus	KC607988.1	01-MAR-2014	898	Portugal: Serra da Falperra	secondary	trnL-trnF	41.3482710746244	-6.74745920296927	0.00216763005780347
+Narcissus_triandrus	KC607987.1	01-MAR-2014	898	Spain: Lovios	secondary	trnL-trnF	42.1130157050564	-7.91619413040911	0.00216763005780347
+Narcissus_triandrus	KC607986.1	01-MAR-2014	898	Spain: Lovios	secondary	trnL-trnF	41.3598063505619	-8.8417806291991	0.00216763005780347
+Narcissus_triandrus	KC607985.1	01-MAR-2014	898	Portugal: Moncao	secondary	trnL-trnF	41.6554784007475	-9.31708667023577	0.00216763005780347
+Narcissus_triandrus	KC607984.1	01-MAR-2014	898	Portugal: Moncao	secondary	trnL-trnF	41.8075634285316	-7.54727506706777	0.00216763005780347
+Narcissus_triandrus	KC607983.1	01-MAR-2014	898	Spain: Asturias	secondary	trnL-trnF	43.5973758776486	-4.86101788511686	0.00216763005780347
+Narcissus_triandrus	KC607982.1	01-MAR-2014	898	Spain: Asturias	secondary	trnL-trnF	43.7518751707225	-5.57044411389832	0.00216763005780347
+Narcissus_triandrus	AY490199.1	16-DEC-2003	346	Spain: Zamora, Mah de, B. Hernandez	secondary	trnL-trnF	41.5056574	-5.7448039	0.0173410404624277

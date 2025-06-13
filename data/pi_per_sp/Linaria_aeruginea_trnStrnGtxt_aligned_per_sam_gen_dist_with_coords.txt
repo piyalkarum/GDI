@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_aeruginea	JN663620.1	10-MAR-2012	553	Spain: Granada, Sierra Nevada, Pico del Veleta	secondary	trnS-trnG	36.706234472476	-4.55274510165333	0.00301386377335744
+Linaria_aeruginea	JN663619.1	10-MAR-2012	553	Spain: Almera, Sierra Nevada, Abrucena	secondary	trnS-trnG	41.597201	-4.5866653	0.00301386377335744
+Linaria_aeruginea	JN663618.1	10-MAR-2012	553	Spain: Albacete, Yeste	secondary	trnS-trnG	38.3606842	-2.3289649	0.00301386377335744
+Linaria_aeruginea	JN663617.1	10-MAR-2012	553	Spain: Jaen, Sierra de Cazorla	secondary	trnS-trnG	38.0751762	-2.8776975	0.00301386377335744
+Linaria_aeruginea	JN663616.1	10-MAR-2012	553	Spain: Granada, Sierra Nevada, Abrucena	secondary	trnS-trnG	37.2303668437162	-2.56405651796839	0.00301386377335744
+Linaria_aeruginea	JN663615.1	10-MAR-2012	553	Spain: Ciudad Real, Villanueva de la Fuente	secondary	trnS-trnG	38.6926503	-2.693727	0.00301386377335744
+Linaria_aeruginea	JN663614.1	10-MAR-2012	553	Spain: Madrid, San Lorenzo del Escorial	secondary	trnS-trnG	40.5022845	-4.064756	0.00301386377335744
+Linaria_aeruginea	JN663613.1	10-MAR-2012	553	Spain: Guadalajara, Poveda	secondary	trnS-trnG	40.6468434	-2.9475351	0.00301386377335744
+Linaria_aeruginea	JN663612.1	10-MAR-2012	553	Spain: Cuenca, El Tobar	secondary	trnS-trnG	40.5519023	-2.0630467	0.00301386377335744
+Linaria_aeruginea	JN663611.1	10-MAR-2012	553	Spain: vila, Mengamunoz	secondary	trnS-trnG	39.613432	2.88291845294396	0.00301386377335744

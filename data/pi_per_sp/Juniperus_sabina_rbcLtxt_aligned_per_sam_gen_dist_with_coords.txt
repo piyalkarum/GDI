@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juniperus_sabina	OR738098.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	49.63556	84.12472	0
+Juniperus_sabina	OR505052.1	01-NOV-2023	573	Kazakhstan: Qaragandy region	primary	rbcL	50.21977	74.36198	0.00122101355347489
+Juniperus_sabina	MT931251.1	03-MAR-2023	559	China	secondary	rbcL	35.000074	104.999927	0
+Juniperus_sabina	HM024333.1	28-SEP-2010	1280	Mongolia	secondary	rbcL	43.9382593	-79.2235563	0.000780203435329176
+Juniperus_sabina	HM024332.1	28-SEP-2010	1280	China: Heilongjiang	secondary	rbcL	48.0000047	127.999992	0.000780203435329176
+Juniperus_sabina	HM024331.1	28-SEP-2010	1280	China: Qinghai	secondary	rbcL	35.4070952	95.9521157	0.000780203435329176
+Juniperus_sabina	FR831945.1	25-MAR-2011	701	Italy:Trentino	secondary	rbcL	46.1029536	11.1297425	0.00173347029456297

@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Digitalis_purpurea	MG223815.1	26-DEC-2017	552	Canada: Muskoka	primary	rbcL	45.1891	-79.4051	0.000621658930672522
+Digitalis_purpurea	KX678543.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Loveland Bay Forest Service Road	primary	rbcL	50.054	-125.382	0.000621658930672522
+Digitalis_purpurea	KX678472.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	rbcL	49.376	-122.862	0.000621658930672522
+Digitalis_purpurea	KX678122.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, South Shore Rd., along Cowichan Lake	primary	rbcL	48.8718	-124.319	0.000621658930672522
+Digitalis_purpurea	JN891875.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.6100897393282	-4.71416298077096	0.000634679220230551
+Digitalis_purpurea	JN891490.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	52.3175487561132	-5.03053704445041	0.000634679220230551
+Digitalis_purpurea	OQ189678.1	13-JUN-2023	739	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0.000502691964414246
+Digitalis_purpurea	OP711462.1	26-DEC-2022	553	Mexico: Puebla	secondary	rbcL	19.1705686	-98.4123106	0.00223101567015301
+Digitalis_purpurea	MK895579.1	30-JUN-2019	417	Germany	secondary	rbcL	34.895926	-83.4665496	0.000799360511590727
+Digitalis_purpurea	LT992834.1	04-JUN-2018	491	Italy:Liguria, Genova	secondary	rbcL	44.3076862779152	10.0339487880969	0.000688669708315916
+Digitalis_purpurea	LT992833.1	04-JUN-2018	491	Italy:Liguria, Genova	secondary	rbcL	44.364857077711	8.96342709523935	0.000688669708315916
+Digitalis_purpurea	LT992832.1	04-JUN-2018	491	Italy:Sicilia, Agrigento	secondary	rbcL	37.3122991	13.57465	0.000688669708315916
+Digitalis_purpurea	HM849951.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00752171543580198
+Digitalis_purpurea	JN893547.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000634679220230551
+Digitalis_purpurea	JN893292.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0.000634679220230551
+Digitalis_purpurea	JN892636.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000634679220230551

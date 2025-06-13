@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_uralensis	MT742207.1	29-SEP-2021	819	Russia: Chukotka, the upper river Palyavaam	secondary	rps16	67.7961577	178.3528846	0.00110360183348729
+Silene_uralensis	JF970847.1	13-SEP-2011	845	Mongolia	secondary	rps16	44.2329534022437	-79.9929059352381	0.00168819574275194
+Silene_uralensis	AJ831769.1	16-SEP-2004	725	Mongolia	secondary	rps16	43.4792210314354	-78.8669465640523	0.00173161859911758
+Silene_uralensis	AJ831768.1	16-SEP-2004	685	Denmark:Greenland	secondary	rps16	71.7608613328633	-37.5079002635584	0.00119152506570267
+Silene_uralensis	AJ831767.1	16-SEP-2004	712	Denmark:Greenland	secondary	rps16	71.3494093360127	-39.0175376187759	0.00115242028950231
+Silene_uralensis	AJ831765.1	16-SEP-2004	689	USA:Alaska	secondary	rps16	64.4459613	-149.680909	0.00351104199050925

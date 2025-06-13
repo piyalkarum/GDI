@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Raphanus_raphanistrum	KX677345.1	09-AUG-2017	813	Canada: British Columbia, Vancouver Island, Alberni-Clayoquot Regional District, Beach at Pachena Bay	primary	matK	48.7929	-125.117	0.0153343082061604
+Raphanus_raphanistrum	JQ412282.1	16-JAN-2013	706	South Africa: Western Cape, Robben Island	primary	matK	-33.801	18.369	0.293441708332489
+Raphanus_raphanistrum	JN895134.1	07-MAR-2012	814	United Kingdom: Denbighshire	primary	matK	53.31	-3.52	0.015334224257737
+Raphanus_raphanistrum	JN895133.1	07-MAR-2012	893	United Kingdom: Glamorgan	primary	matK	51.63	-3.91	0.0154526109942648
+Raphanus_raphanistrum	OQ290435.1	16-MAY-2023	780	Mexico: Puebla	secondary	matK	18.6005197175494	-97.7221843409782	0.0158023982650848
+Raphanus_raphanistrum	OQ289939.1	16-MAY-2023	777	Mexico: Puebla	secondary	matK	18.7537696001762	-98.7946798061035	0.0158733374625429
+Raphanus_raphanistrum	MG458345.1	17-OCT-2018	820	Pakistan	secondary	matK	30.3308401	71.247499	0.0153338075906537
+Raphanus_raphanistrum	GQ248192.1	02-JUL-2009	779	India	secondary	matK	22.3511148	78.6677428	0.0153372906921257
+Raphanus_raphanistrum	HM850755.1	23-JUL-2011	640	Portugal	secondary	matK	39.6621648	-8.1353519	0.0166380659922929
+Raphanus_raphanistrum	JN896042.1	07-MAR-2012	793	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0153360316365936
+Raphanus_raphanistrum	AB354269.1	14-AUG-2007	2202	Italy	secondary	matK	42.6234592209251	12.5575551978398	0.0160971915907744
+Raphanus_raphanistrum	AB354268.1	14-AUG-2007	2209	Italy	secondary	matK	42.7776060082706	11.6736561261489	0.0160959923572423
+Raphanus_raphanistrum	AB354267.1	14-AUG-2007	2209	Italy	secondary	matK	42.2555588763664	12.5589005344646	0.0154924808505325
+Raphanus_raphanistrum	AB354266.1	14-AUG-2007	2209	France	secondary	matK	46.603354	1.8883335	0.0154924808505325
+Raphanus_raphanistrum	AB354265.1	14-AUG-2007	2211	Russia	secondary	matK	65.0265882514107	99.4713812815386	0.0170812171980489
+Raphanus_raphanistrum	AB354264.1	14-AUG-2007	2209	Poland	secondary	matK	52.215933	19.134422	0.0154924808505325
+Raphanus_raphanistrum	AB354263.1	14-AUG-2007	2209	Russia	secondary	matK	64.5728677464742	97.1855439381956	0.0154924808505325
+Raphanus_raphanistrum	AB182355.1	25-JUN-2004	690	Poland: Pulawy	secondary	matK	51.4171713	21.9720582	0.0240014783136665
+Raphanus_raphanistrum	AB182350.1	25-JUN-2004	690	Italy: Rome	secondary	matK	41.8933203	12.4829321	0.0240014783136665

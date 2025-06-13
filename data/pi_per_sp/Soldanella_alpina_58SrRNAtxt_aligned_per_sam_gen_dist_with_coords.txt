@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Soldanella_alpina	AJ306325.1	08-JAN-2002	644	Spain:Cantabria	secondary	5.8S rRNA	43.1595664	-4.0878382	0.010351966873706
+Soldanella_alpina	AJ306324.1	08-JAN-2002	644	Yugoslavia:Montenegro	secondary	5.8S rRNA	42.7742077	18.9534039	0.0217391304347826
+Soldanella_alpina	AJ306323.1	08-JAN-2002	644	Austria:Carinthia	secondary	5.8S rRNA	46.7500001	13.8333333	0.0093167701863354
+Soldanella_alpina	AJ306321.1	08-JAN-2002	644	Switzerland:Waadt	secondary	5.8S rRNA	46.6356963	6.5320717	0.0082815734989648

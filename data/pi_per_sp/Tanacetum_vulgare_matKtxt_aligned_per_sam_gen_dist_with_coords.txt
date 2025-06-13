@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tanacetum_vulgare	MG224857.1	21-JAN-2018	754	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, Access Point	primary	matK	45.185	-81.602	0
+Tanacetum_vulgare	JN895343.1	07-MAR-2012	830	United Kingdom: Cardiganshire	primary	matK	52.4	-4.06	0
+Tanacetum_vulgare	OQ303558.1	13-JUN-2023	593	Latvia	secondary	matK	56.8406494	24.7537645	0
+Tanacetum_vulgare	JN894898.1	07-MAR-2012	972	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

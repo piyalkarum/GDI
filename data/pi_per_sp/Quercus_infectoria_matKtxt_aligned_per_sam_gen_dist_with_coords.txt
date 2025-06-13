@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_infectoria	MT457087.1	28-SEP-2020	776	Greece	secondary	matK	43.2097838	-77.6930602	0.580847723704867
+Quercus_infectoria	HE583663.1	04-SEP-2011	693	Lebanon	secondary	matK	40.375713	-76.4626118	0.193615907901622
+Quercus_infectoria	HE583662.1	04-SEP-2011	693	Turkey	secondary	matK	38.9597594	34.9249653	0.193615907901622
+Quercus_infectoria	HE583661.1	04-SEP-2011	693	Cyprus	secondary	matK	34.9174159	32.8899027	0.193615907901622

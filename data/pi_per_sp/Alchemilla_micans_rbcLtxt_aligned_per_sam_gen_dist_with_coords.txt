@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alchemilla_micans	MG249654.1	21-JAN-2018	552	Canada: Quebec, Creek on the outside border south-east of station 3 on Lake Notre- Dame	primary	rbcL	47.557	-68.786	0.00431300061614295
+Alchemilla_micans	MK924856.1	14-JAN-2020	542	Sweden	secondary	rbcL	59.6749712	14.5208584	0.00862145405187878
+Alchemilla_micans	MK924546.1	14-JAN-2020	542	Poland	secondary	rbcL	52.215933	19.134422	0.00492459638089911
+Alchemilla_micans	MG246532.1	21-JAN-2018	552	Canada: Quebec, Route 112. North east of East Angus, Dudswell township, Wolfe coast	secondary	rbcL	46.8137431	-71.2084061	0.00431300061614295

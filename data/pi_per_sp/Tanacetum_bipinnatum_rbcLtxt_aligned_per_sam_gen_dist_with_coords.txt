@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tanacetum_bipinnatum	MG224339.1	26-DEC-2017	552	Canada: Manitoba, York Factory, Hay Island in the Hayes River	primary	rbcL	57.013	-92.292	0
+Tanacetum_bipinnatum	MG224135.1	26-DEC-2017	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	rbcL	51.273	-80.641	0
+Tanacetum_bipinnatum	MG223055.1	26-DEC-2017	552	Canada: Yukon Territory, Old Crow	primary	rbcL	67.568	-139.843	0
+Tanacetum_bipinnatum	MG222535.1	26-DEC-2017	552	Canada: Yukon Territory, Dawson City, Mary McLeod Road	primary	rbcL	64.052	-139.418	0
+Tanacetum_bipinnatum	MG222205.1	26-DEC-2017	552	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Rose Spit	primary	rbcL	54.161	-131.66	0
+Tanacetum_bipinnatum	KC484190.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Tukarak Island, slightly east facing slope below large rock hills, 50 m from shore	primary	rbcL	56.386	-78.872	0

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthyllis_vulneraria	JN892206.1	07-MAR-2012	542	United Kingdom: Anglesey	primary	rbcL	53.26	-4.61	0
+Anthyllis_vulneraria	MG246192.1	21-JAN-2018	552	Canada: Ontario, Wellington Co., Fergus.	secondary	rbcL	43.7059439	-80.3779366	0
+Anthyllis_vulneraria	KJ746221.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0
+Anthyllis_vulneraria	HG416964.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0
+Anthyllis_vulneraria	JN892998.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0
+Anthyllis_vulneraria	JN891852.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Anthyllis_vulneraria	JN891849.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0

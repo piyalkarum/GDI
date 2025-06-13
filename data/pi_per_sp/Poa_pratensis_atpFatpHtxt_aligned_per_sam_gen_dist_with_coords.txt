@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_pratensis	KC476212.1	25-OCT-2013	364	Canada: Nunavut, Ellesmere Island, Two Basin Lake, 23 km ESE of Eureka airstrip. Ridge Lake drainage gully	primary	atpF-atpH	79.93	-84.67	0.00353218210361068
+Poa_pratensis	KC476211.1	25-OCT-2013	364	Canada: Northwest Territories, NWT mainland, Nicolson Island, Liverpool Bay	primary	atpF-atpH	69.6476257606002	-126.54424278687	0.00353218210361068
+Poa_pratensis	KC476210.1	25-OCT-2013	364	Canada: Northwest Territories, NWT mainland, Nicolson Island, Liverpool Bay	primary	atpF-atpH	69.201288421617	-130.661614918701	0.00353218210361068
+Poa_pratensis	KC476213.1	25-OCT-2013	364	Canada: Nunavut, Ellesmere Island, Tanquary Camp, Ellesmere Island National Park Reserve, sandy gravel floodplain along MacDonald River	primary	atpF-atpH	81.4	-76.87	0.00353218210361068
+Poa_pratensis	KX872209.1	16-OCT-2017	419	USA: Utah, Daggett Co., 19 mi from Manila, Ashley National Forest, Uinta Mountains, Greens Draw	secondary	atpF-atpH	35.5903318	-88.0583569	0.00306853051483123
+Poa_pratensis	HQ599907.1	01-AUG-2012	452	South Korea	secondary	atpF-atpH	37.238105469387	128.328405573421	0.00831702031868721
+Poa_pratensis	HQ599902.1	01-AUG-2012	452	South Korea	secondary	atpF-atpH	36.514981313855	128.557610830491	0.0038445774152878
+Poa_pratensis	FJ766129.1	29-JUL-2010	450	South Korea	secondary	atpF-atpH	36.1268583166137	127.83405027605	0.0128081817785116

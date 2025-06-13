@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bothriochloa_insculpta	KR737308.1	13-MAY-2016	482	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	-0.029838379022623	36.1518202231794	0
+Bothriochloa_insculpta	KR736973.1	13-MAY-2016	468	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.850855843845729	37.4383711665194	0
+Bothriochloa_insculpta	KR736793.1	13-MAY-2016	408	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	-0.171531895246888	37.4639246839078	0
+Bothriochloa_insculpta	KR736492.1	13-MAY-2016	403	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.0938378304599457	36.3207849172576	0
+Bothriochloa_insculpta	LN907891.1	14-JAN-2016	1353	Tanzania:Arusha, Hanang	primary	rbcL	-4.4975	35.3959	0

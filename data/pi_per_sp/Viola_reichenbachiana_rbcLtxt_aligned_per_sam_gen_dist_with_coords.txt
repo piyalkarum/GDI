@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_reichenbachiana	JN891131.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.49	-3.39	0
+Viola_reichenbachiana	FR865134.1	09-JUN-2011	402	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0
+Viola_reichenbachiana	JN893278.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0
+Viola_reichenbachiana	JN892422.1	07-MAR-2012	541	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Viola_reichenbachiana	JN892421.1	07-MAR-2012	535	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0

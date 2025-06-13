@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypochaeris_glabra	OL434830.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1174	-81.138	0.00705736515649705
+Hypochaeris_glabra	JQ412374.1	16-JAN-2013	551	South Africa: Western Cape, Robben Island	primary	rbcL	-33.806	18.372	0.0299451999659207
+Hypochaeris_glabra	JN893034.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.1	-4.68	0.00719403473034315
+Hypochaeris_glabra	MG223799.1	26-DEC-2017	552	Canada: British Columbia, Cedar Hill, Vancouver Island.	secondary	rbcL	49.25783145	-123.246241986222	0.00942552288970909
+Hypochaeris_glabra	MG222615.1	26-DEC-2017	552	USA: Oregon, Douglas Co., Along Cow Creek Rd., ca. 6.7 mi SW of Riddle.	secondary	rbcL	42.0147513	-89.3323279	0.00705736515649705
+Hypochaeris_glabra	HM850068.1	23-JUL-2011	646	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0158938675695346
+Hypochaeris_glabra	JN893263.1	07-MAR-2012	535	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00728921996979782
+Hypochaeris_glabra	JN891899.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00719403473034315

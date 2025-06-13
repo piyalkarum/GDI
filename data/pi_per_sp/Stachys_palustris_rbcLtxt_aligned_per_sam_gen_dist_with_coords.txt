@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stachys_palustris	MG223797.1	26-DEC-2017	552	Canada: Northwest Territories, Mackenzie River Ferry	primary	rbcL	67.457	-133.757	0
+Stachys_palustris	JN966013.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 3 km SE Churchill, pipeline, Forest along the pipe	primary	rbcL	58.747	-94.115	0
+Stachys_palustris	JN891835.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.74	-3.41	0
+Stachys_palustris	MN601476.1	15-DEC-2019	1430	USA	secondary	rbcL	39.7837304	-100.445882	0
+Stachys_palustris	JN892405.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.0635223703551	-3.89123518312776	0
+Stachys_palustris	JN892404.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.7823378121126	-3.90235807860826	0
+Stachys_palustris	HE574636.1	31-JUL-2011	556	Finland	secondary	rbcL	63.2467777	25.9209164	0

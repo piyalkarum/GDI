@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_suber	HE583654.1	04-SEP-2011	693	Algeria	secondary	trnK	28.0000272	2.9999825	0.00108225108225108
+Quercus_suber	HE583653.1	04-SEP-2011	693	France	secondary	trnK	46.603354	1.8883335	0.00108225108225108
+Quercus_suber	HE583613.1	04-SEP-2011	693	Italy:Apulia	secondary	trnK	40.9842539	16.6210027	0.000721500721500722
+Quercus_suber	HE583612.1	04-SEP-2011	693	Italy:Liguria	secondary	trnK	44.4777617	8.7026296	0.000721500721500722
+Quercus_suber	HE583611.1	04-SEP-2011	693	Italy:Latium	secondary	trnK	41.9808038	12.7662312	0.000721500721500722

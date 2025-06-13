@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scilla_verna	JN893558.1	07-MAR-2012	542	United Kingdom	primary	rbcL	53.29	-4.68	0.000776699029126214
+Scilla_verna	JN891029.1	07-MAR-2012	542	United Kingdom: Shetland (112)	primary	rbcL	60.38	-1.38	0.000776699029126214
+Scilla_verna	MK925450.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5658251625306	-2.39877827966365	0.000776699029126214
+Scilla_verna	MK925206.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.4102114461107	-3.06519188163338	0.000776699029126214
+Scilla_verna	MK925081.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7129338257649	-2.02163144218818	0.000776699029126214
+Scilla_verna	JX090482.1	31-MAY-2013	1263	United Kingdom	secondary	rbcL	55.1999579725674	-3.78924820419643	0.00388349514563107

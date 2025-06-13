@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Verbena_officinalis	JN896193.1	07-MAR-2012	816	United Kingdom: Flintshire	primary	matK	53.22	-3.5	0.00153580628878271
+Verbena_officinalis	MH552280.1	11-MAR-2019	753	USA: Ordway-Swisher Biological Station, FL	secondary	matK	28.9255745890048	-82.2609716883212	0.0035571811672469
+Verbena_officinalis	MH551979.1	11-MAR-2019	753	USA: Ordway-Swisher Biological Station, FL	secondary	matK	28.8366205469538	-81.9380095453812	0.0035571811672469
+Verbena_officinalis	KJ204556.1	29-JAN-2015	849	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00236799285994046
+Verbena_officinalis	HM850974.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00261249492839558
+Verbena_officinalis	JN894906.1	07-MAR-2012	883	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00192414021901725
+Verbena_officinalis	JN894308.1	07-MAR-2012	779	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00202103958396382

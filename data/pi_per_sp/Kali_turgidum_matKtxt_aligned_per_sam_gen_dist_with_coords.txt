@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kali_turgidum	OM809122.1	08-AUG-2022	652	Egypt	primary	matK	31.3728	27.1903	0.00635407537248028
+Kali_turgidum	KP149513.1	16-NOV-2015	834	South Africa: Northern Cape, Douglas opposite spar and caltex garage	primary	matK	-29.061	23.78	0.0041191554653459
+Kali_turgidum	JN896118.1	07-MAR-2012	791	United Kingdom: Glamorgan (41)	primary	matK	51.56	-4.15	0.00734848942502568
+Kali_turgidum	MK125126.1	03-FEB-2019	835	Saudi Arabia: Makkah	secondary	matK	22.105364966322	40.0561685443493	0.00415694039798894
+Kali_turgidum	MK125124.1	03-FEB-2019	768	Saudi Arabia: Makkah	secondary	matK	21.4020957314473	39.263417730477	0.00497940911364445
+Kali_turgidum	KX789380.1	26-AUG-2017	803	Egypt	secondary	matK	26.2540493	29.2675469	0.00555386036312925
+Kali_turgidum	HM850761.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0105489238692408
+Kali_turgidum	JN895765.1	07-MAR-2012	826	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00724546357239818

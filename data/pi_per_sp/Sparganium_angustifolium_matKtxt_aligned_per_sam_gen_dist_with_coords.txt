@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sparganium_angustifolium	LC004531.1	04-DEC-2015	787	Canada	secondary	matK	60.4677160710901	-108.834230554977	0
+Sparganium_angustifolium	LC004530.1	04-DEC-2015	772	Canada	secondary	matK	60.9553670572909	-107.543162136702	0
+Sparganium_angustifolium	LC004529.1	04-DEC-2015	787	USA	secondary	matK	39.7837304	-100.445882	0
+Sparganium_angustifolium	KT215495.1	31-DEC-2015	787	USA: Nebraska	secondary	matK	41.7370229	-99.5873816	0
+Sparganium_angustifolium	KT215494.1	31-DEC-2015	787	USA: Wyoming	secondary	matK	43.1700264	-107.568534	0
+Sparganium_angustifolium	KT215493.1	31-DEC-2015	787	USA: Alaska	secondary	matK	64.4459613	-149.680909	0
+Sparganium_angustifolium	JN895154.1	07-MAR-2012	779	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

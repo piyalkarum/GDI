@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Schizachne_purpurascens	MF597607.1	17-JUL-2018	812	Canada: British Columbia, Seely Lake Provincial Park, W of Hazelton along Hwy. 16.	primary	matK	55.197	-127.689	0.00109110347767155
+Schizachne_purpurascens	MF597606.1	17-JUL-2018	772	Canada: Manitoba, Mary Jane Reservoir, ~ 10 km W of Manitou	primary	matK	49.288	-98.621	0.00352462807971322
+Schizachne_purpurascens	MF597605.1	17-JUL-2018	782	Canada: Manitoba, 3 miles South of Spruce Woods Provincial Park southern boundary on Hwy 5 towards Glenboro.	primary	matK	49.609	-99.282	0.00110676784313614
+Schizachne_purpurascens	MF597604.1	17-JUL-2018	785	Canada: Saskatchewan, Cypress Hills Provincial Park, near overlook (East Park).	primary	matK	49.678	-109.551	0.0011032058367351
+Schizachne_purpurascens	MF597603.1	17-JUL-2018	788	Canada: Alberta, 30 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	matK	51.227	-114.682	0.000736435127955603
+Schizachne_purpurascens	HQ593434.1	09-NOV-2011	835	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., Sugar bush with sap lines	primary	matK	44.036	-79.518	0.00128506173434395
+Schizachne_purpurascens	KJ841007.1	23-SEP-2014	667	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Burned Hill on Mont St. Hilaire	primary	matK	45.542	-73.166	0
+Schizachne_purpurascens	LN554451.1	02-APR-2015	2012	Russia	secondary	matK	64.6863136	97.7453061	0.00217376530264792

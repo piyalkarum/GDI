@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lasiopogon_muscoides	FR821724.1	31-AUG-2011	231	South Africa:Northern Cape	secondary	COI	-29.5151729796933	20.844160602718	0.613765191230788
+Lasiopogon_muscoides	FR821624.1	31-AUG-2011	455	South Africa:Northern Cape	secondary	COI	-29.5101922175964	21.8886914081153	0.486314381310411
+Lasiopogon_muscoides	FN649334.1	10-JAN-2011	855	Spain:Almeria, Cuevas de Almanzora	secondary	COI	37.7696201079513	-1.96884907695685	0.556249758771121
+Lasiopogon_muscoides	FN645831.1	10-JAN-2011	644	Spain:Almeria, Cuevas de Almanzora	secondary	COI	37.8777916933688	-2.02294983760873	0.608156944484644
+Lasiopogon_muscoides	FN645759.1	10-JAN-2011	826	Spain:Almeria, Cuevas de Almanzora	secondary	COI	36.836315686404	-2.41138421015073	0.587838881576088
+Lasiopogon_muscoides	FN645629.1	10-JAN-2011	418	Spain	secondary	COI	37.31907645	-1.89555485064551	0.485516861610333

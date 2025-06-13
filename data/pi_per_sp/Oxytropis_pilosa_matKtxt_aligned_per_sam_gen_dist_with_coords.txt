@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxytropis_pilosa	OR644019.1	05-NOV-2023	680	Kazakhstan: Qaragandy region	primary	matK	49.41064	75.43456	0
+Oxytropis_pilosa	KX955052.1	16-JUL-2017	1773	Armenia	secondary	matK	4.536307	-75.6723751	0.000279876854184159
+Oxytropis_pilosa	KM387611.1	02-NOV-2014	1191	Turkey	secondary	matK	38.9597594	34.9249653	0.000279876854184159
+Oxytropis_pilosa	KJ746135.1	29-JUL-2014	699	Poland	secondary	matK	52.215933	19.134422	0

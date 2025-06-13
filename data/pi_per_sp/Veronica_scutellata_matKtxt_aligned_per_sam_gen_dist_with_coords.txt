@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_scutellata	KX676798.1	09-AUG-2017	801	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, marshy area just off Nitnat Rd.	primary	matK	48.9126	-124.488	0.0197918399817822
+Veronica_scutellata	KJ841040.1	23-SEP-2014	755	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	matK	45.548	-73.152	0.0720598465889071
+Veronica_scutellata	JN894705.1	07-MAR-2012	848	United Kingdom: Glamorgan	primary	matK	51.47	-3.47	0.0185050144273301
+Veronica_scutellata	JN894219.1	07-MAR-2012	806	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0185097255195968
+Veronica_scutellata	JN894218.1	07-MAR-2012	862	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0190753572197889

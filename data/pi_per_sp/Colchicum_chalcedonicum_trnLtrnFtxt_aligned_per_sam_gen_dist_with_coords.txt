@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colchicum_chalcedonicum	KT897857.1	01-NOV-2017	1038	Turkey	secondary	trnL-trnF	38.601780752314	35.8782874319852	0.00678867748585809
+Colchicum_chalcedonicum	KT897853.1	01-NOV-2017	1061	Turkey	secondary	trnL-trnF	39.0485035038776	34.6693038114731	0.00732348173979154
+Colchicum_chalcedonicum	KT897822.1	01-NOV-2017	1062	Turkey	secondary	trnL-trnF	38.2620507202012	34.8674948758354	0.0182862534595174
+Colchicum_chalcedonicum	KT897766.1	01-NOV-2017	1061	Turkey	secondary	trnL-trnF	39.4895216724392	35.3272202726386	0.0105270882525496

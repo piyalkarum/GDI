@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_recta	OR538537.1	17-OCT-2023	880	USA: South Westnedge Park, Portage, MI	primary	matK	41.9264996701665	-84.9876336279184	0
+Potentilla_recta	OR538536.1	17-OCT-2023	837	USA: South Westnedge Park, Portage, MI	primary	matK	42.3940816068402	-85.0069538761793	0
+Potentilla_recta	OR464977.1	26-SEP-2023	890	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.1813005854811	-84.6142270412466	0
+Potentilla_recta	OR464976.1	26-SEP-2023	839	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.6636648470181	-86.3552647533552	0
+Potentilla_recta	MG221001.1	21-JAN-2018	762	Canada: Ontario, Wellington County, Puslinch Township, Little Tract, 500m north of South entrance (County Road 34)	primary	matK	43.449	-80.247	0
+Potentilla_recta	MG220755.1	21-JAN-2018	765	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	matK	45.188	-81.416	0
+Potentilla_recta	MG220652.1	21-JAN-2018	765	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	matK	42.765	-80.303	0
+Potentilla_recta	HQ593398.1	09-NOV-2011	783	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Approx. 250 m W of Dufferin, N edge of poperty	primary	matK	44.04	-79.53	0
+Potentilla_recta	KJ840974.1	23-SEP-2014	665	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	matK	45.538	-73.158	0

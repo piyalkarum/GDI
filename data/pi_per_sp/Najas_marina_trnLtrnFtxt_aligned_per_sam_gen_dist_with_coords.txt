@@ -1,0 +1,106 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Najas_marina	MZ313261.1	24-SEP-2022	836	Russia: Astrakhan region	secondary	trnL-trnF	46.2819013	47.970466	0.0165170044457999
+Najas_marina	MZ313260.1	24-SEP-2022	805	Russia: Smolensk region	secondary	trnL-trnF	54.7712736	31.9854955	0.0274641382381626
+Najas_marina	MZ313259.1	24-SEP-2022	837	Russia: Irkutsk	secondary	trnL-trnF	56.6370122	104.719221	0.0165170044457999
+Najas_marina	MZ313258.1	24-SEP-2022	720	Russia: Tuva	secondary	trnL-trnF	51.4017149	93.8582593	0.0166514760734587
+Najas_marina	MZ313257.1	24-SEP-2022	532	Russia: Krasnodar region	secondary	trnL-trnF	45.7684014	39.0261044	0.0210332157191109
+Najas_marina	MZ313256.1	24-SEP-2022	815	North Macedonia	secondary	trnL-trnF	41.6171214	21.7168387	0.0245651495026612
+Najas_marina	MH513924.1	05-MAR-2019	481	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.3763730679534	10.1546172329033	0.0133135862386553
+Najas_marina	MH513923.1	05-MAR-2019	394	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.0684387494824	10.8837961359517	0.0129507423829315
+Najas_marina	MH513922.1	05-MAR-2019	530	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	46.8292231127669	10.8308871392642	0.0129056637117815
+Najas_marina	MH513921.1	05-MAR-2019	920	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.2423333033594	12.0592124172961	0.0142138189003005
+Najas_marina	MH513920.1	05-MAR-2019	917	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.580764130916	10.8526317228308	0.0142532671108875
+Najas_marina	MH513919.1	05-MAR-2019	912	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.8943409035195	11.7931372719347	0.0143196334175797
+Najas_marina	MH513918.1	05-MAR-2019	932	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	46.9391621840947	10.4728134506925	0.014058772927495
+Najas_marina	MH513917.1	05-MAR-2019	914	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.5392197016219	12.0931957130391	0.0142929830014896
+Najas_marina	MH513916.1	05-MAR-2019	913	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.6335578525663	11.8788275691828	0.0143062815877092
+Najas_marina	MH513915.1	05-MAR-2019	911	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.5882740011148	11.4691437026322	0.0143334463705969
+Najas_marina	MH513914.1	05-MAR-2019	931	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.1477892793269	11.4523382175637	0.014071534783694
+Najas_marina	MH513913.1	05-MAR-2019	853	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.4946664060471	12.2077336016138	0.0139599543330558
+Najas_marina	MH513912.1	05-MAR-2019	911	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.1603135042389	10.8895284044947	0.0143334463705969
+Najas_marina	MH513911.1	05-MAR-2019	913	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.4181871625802	11.5737481332601	0.0143062815877092
+Najas_marina	MH513910.1	05-MAR-2019	912	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.5198213896459	11.9976222068453	0.0143196334175797
+Najas_marina	MH513909.1	05-MAR-2019	926	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.7006224551316	11.3647160524424	0.014135771258677
+Najas_marina	MH513908.1	05-MAR-2019	917	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.6724820690195	10.4938481796011	0.0142532671108875
+Najas_marina	MH513907.1	05-MAR-2019	911	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.7078676812928	10.1105584848806	0.0143334463705969
+Najas_marina	MH513906.1	05-MAR-2019	971	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	48.0937966514442	11.66323145195	0.0167674310116812
+Najas_marina	MH513905.1	05-MAR-2019	912	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.8066595127259	10.1510886450776	0.0143196334175797
+Najas_marina	MH513904.1	05-MAR-2019	912	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.6221329082673	10.2007134677443	0.0165622212549251
+Najas_marina	MH513903.1	05-MAR-2019	915	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.435804991211	12.1980294660916	0.0142797144610275
+Najas_marina	MH513902.1	05-MAR-2019	913	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	48.2561643625371	11.4215011496506	0.0143062815877092
+Najas_marina	MH513901.1	05-MAR-2019	912	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	46.9634928146943	10.7762883635782	0.0143196334175797
+Najas_marina	MH513900.1	05-MAR-2019	911	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.7722606684619	10.8675243005259	0.0143334463705969
+Najas_marina	MH513899.1	05-MAR-2019	914	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	46.9813882530101	11.3532080718522	0.0142929830014896
+Najas_marina	MH513898.1	05-MAR-2019	912	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.6006640197614	10.4598443653379	0.0143196334175797
+Najas_marina	MH513897.1	05-MAR-2019	915	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	48.12800127182	10.8183144682932	0.0142797144610275
+Najas_marina	MH513896.1	05-MAR-2019	911	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.9603230638564	11.8871210319427	0.0143334463705969
+Najas_marina	MH513895.1	05-MAR-2019	944	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.4777880810369	12.2625200574982	0.0139154942523339
+Najas_marina	MH513894.1	05-MAR-2019	944	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	48.2996565564263	11.8219508362891	0.0139154942523339
+Najas_marina	MH513893.1	05-MAR-2019	944	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.6201374979904	10.2958903774825	0.0139154942523339
+Najas_marina	MH513892.1	05-MAR-2019	526	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.4177260929759	10.1731143457478	0.0167492257435341
+Najas_marina	MH513891.1	05-MAR-2019	912	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	46.8902300108368	10.7146769909916	0.0143196334175797
+Najas_marina	MH513890.1	05-MAR-2019	775	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	48.2559971815864	11.3630916729347	0.0161436089197536
+Najas_marina	MH513889.1	05-MAR-2019	365	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	48.5810800474218	11.0920848810215	0.0119841748182377
+Najas_marina	MH513888.1	05-MAR-2019	910	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	46.9585621740617	10.8555946554334	0.0143475550712445
+Najas_marina	MH513887.1	05-MAR-2019	892	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.5394136851634	10.6349269086005	0.0156883245453863
+Najas_marina	MH513886.1	05-MAR-2019	908	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.3272170521703	11.362944189144	0.015428034034777
+Najas_marina	MH513885.1	05-MAR-2019	907	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	48.2373804788529	11.5427882603629	0.0154431682660158
+Najas_marina	MH513884.1	05-MAR-2019	908	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	48.5718193781954	11.0185739002255	0.0164036734530239
+Najas_marina	MH513883.1	05-MAR-2019	908	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.3312024730325	11.7468740337931	0.015428034034777
+Najas_marina	MH513882.1	05-MAR-2019	830	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.6713482750334	10.825888373092	0.0162020077742469
+Najas_marina	MH513881.1	05-MAR-2019	901	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.4047317343842	10.8366726494484	0.0165217531733101
+Najas_marina	MH513880.1	05-MAR-2019	907	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.9387314994441	10.0202387890115	0.0154431682660158
+Najas_marina	MH513879.1	05-MAR-2019	949	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.2856278732428	12.0672255190963	0.0150164890907718
+Najas_marina	MH513878.1	05-MAR-2019	949	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	46.8253829076115	11.1593174435043	0.0150164890907718
+Najas_marina	MH513877.1	05-MAR-2019	945	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.4555679758578	10.6116361712203	0.0159882176002724
+Najas_marina	MH513876.1	05-MAR-2019	945	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.6671368745932	12.3692294303167	0.0159882176002724
+Najas_marina	MH513875.1	05-MAR-2019	940	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.9333108180445	10.9694222282293	0.015048312163195
+Najas_marina	KT596671.1	11-APR-2016	970	Luxembourg: Remerschen, Gravel pit near river Mosel, remnant of meander	secondary	trnL-trnF	49.4885953	6.3518205	0.646132585568071
+Najas_marina	KT596670.1	11-APR-2016	956	France: Seltz, Gravel pit near river Rhine	secondary	trnL-trnF	48.8920496	8.1067978	0.0138603459586766
+Najas_marina	KT596669.1	11-APR-2016	963	Italy: Suedtirol, Kalterer See	secondary	trnL-trnF	46.378725	11.2641297	0.0138695025769506
+Najas_marina	KT596668.1	11-APR-2016	946	Netherlands: Slikkendam, Pond, Nieuwekoopse plassen	secondary	trnL-trnF	52.1542966	4.8639671	0.0151262320210255
+Najas_marina	KT596667.1	11-APR-2016	901	Germany: Baden-Wuerttemberg, Reichenau, Gnadensee	secondary	trnL-trnF	47.7051702	9.0721496	0.0155247373450071
+Najas_marina	KT596666.1	11-APR-2016	994	USA: New York, Seneca County, Canoga Marshes, Cayuga Lake	secondary	trnL-trnF	40.7127281	-74.0060152	0.082868276173648
+Najas_marina	KT596662.1	11-APR-2016	958	Italy: Piemonte, Torino, Lago di Candia Canavese	secondary	trnL-trnF	42.7740801	12.5487676	0.132946327008952
+Najas_marina	KT596660.1	11-APR-2016	950	Germany: Brandenburg, Wei er See	secondary	trnL-trnF	47.9842000099303	8.92845388187675	0.0151286549613475
+Najas_marina	KT596659.1	11-APR-2016	950	Germany: Brandenburg, Sabinensee	secondary	trnL-trnF	53.141019	12.8591296	0.0151286549613475
+Najas_marina	KT596658.1	11-APR-2016	946	Germany: Brandenburg, Pinnower See	secondary	trnL-trnF	53.2086326	13.7892432	0.0151262320210255
+Najas_marina	KT596657.1	11-APR-2016	564	Germany: Brandenburg, Luetzlower See	secondary	trnL-trnF	53.2460693	14.0317239	0.0155549810605307
+Najas_marina	KT596656.1	11-APR-2016	950	Germany: Brandenburg, Lehstsee	secondary	trnL-trnF	53.221828	13.3415497	0.0151286549613475
+Najas_marina	KT596655.1	11-APR-2016	949	Germany: Brandenburg, Jakobsdorfer See	secondary	trnL-trnF	53.132615	13.8935724	0.0151210884016033
+Najas_marina	KT596654.1	11-APR-2016	949	Germany: Brandenburg, Gro er Peetzigsee	secondary	trnL-trnF	48.9313149192077	10.2255437716695	0.0151210884016033
+Najas_marina	KT596653.1	11-APR-2016	952	Germany: Brandenburg, Gro er Kelpinsee	secondary	trnL-trnF	48.3859441501916	10.2493126830926	0.0151443451603074
+Najas_marina	KT596652.1	11-APR-2016	907	Germany: Brandenburg, Kreis Eberswalde, Parsteiner See	secondary	trnL-trnF	48.073372631859	10.7884016468384	0.0142629051819094
+Najas_marina	KT596651.1	11-APR-2016	946	Germany: Brandenburg, Brodowinsee	secondary	trnL-trnF	52.9040655	13.9671226	0.0151262320210255
+Najas_marina	KT596650.1	11-APR-2016	698	Germany: Bavaria, Woerthsee	secondary	trnL-trnF	48.0727885	11.2005513	0.0161256121427903
+Najas_marina	KT596649.1	11-APR-2016	941	Germany: Bavaria, Waginger See	secondary	trnL-trnF	47.9537727	12.7500256	0.0137833619354154
+Najas_marina	KT596648.1	11-APR-2016	866	Germany: Bavaria, Tachinger See	secondary	trnL-trnF	47.9711533	12.7440403	0.0161522160480791
+Najas_marina	KT596647.1	11-APR-2016	946	Germany: Bavaria, Starnberger See	secondary	trnL-trnF	47.9092703	11.3083626	0.0151262320210255
+Najas_marina	KT596646.1	11-APR-2016	948	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.3324048474985	12.3233492336762	0.0139206754552721
+Najas_marina	KT596645.1	11-APR-2016	955	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.4739477754284	10.7093651335851	0.0139002920529997
+Najas_marina	KT596644.1	11-APR-2016	954	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.1595930538453	10.5958627308819	0.0140514614164041
+Najas_marina	KT596643.1	11-APR-2016	986	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.6681012133915	10.9590967734939	0.0150901907883049
+Najas_marina	KT596642.1	11-APR-2016	952	Germany: Bavaria, Staffelsee	secondary	trnL-trnF	47.5401098543163	10.5592875084758	0.0151443451603074
+Najas_marina	KT596641.1	11-APR-2016	953	Germany: Bavaria, Soyensee	secondary	trnL-trnF	48.1046276	12.2021949	0.0138360397139853
+Najas_marina	KT596640.1	11-APR-2016	944	Germany: Bavaria, Simssee	secondary	trnL-trnF	47.8729508	12.2361504	0.0150235560164079
+Najas_marina	KT596639.1	11-APR-2016	956	Germany: Bavaria, Riegsee	secondary	trnL-trnF	47.6996784	11.2328533	0.0140678732991103
+Najas_marina	KT596638.1	11-APR-2016	949	Germany: Bavaria, private grounds, 'Wueffertsee'	secondary	trnL-trnF	49.2856324562915	10.1728450963965	0.0137159361782492
+Najas_marina	KT596637.1	11-APR-2016	952	Germany: Bavaria, Klostersee bei Seeon	secondary	trnL-trnF	49.9538439776481	10.4533750417398	0.0151443451603074
+Najas_marina	KT596636.1	11-APR-2016	940	Germany: Bavaria, Gro welzheimer Badesee	secondary	trnL-trnF	49.5568678685516	11.2893022555272	0.0137546820419499
+Najas_marina	KT596635.1	11-APR-2016	956	Germany: Bavaria, Gro er Brombachsee	secondary	trnL-trnF	49.5235686873501	11.1657708538263	0.0138603459586766
+Najas_marina	KT596634.1	11-APR-2016	950	Germany: Bavaria	secondary	trnL-trnF	48.9467562	11.4038717	0.0138314274635585
+Najas_marina	KT596633.1	11-APR-2016	945	Germany: Bavaria, Eggstaett-Hemhofer Seenplatte, Schlo see	secondary	trnL-trnF	50.1749283648266	10.1476250930346	0.0150651258905428
+Najas_marina	KT596632.1	11-APR-2016	940	Germany: Bavaria, Eggstaett-Hemhofer Seenplatte, Pelhamersee	secondary	trnL-trnF	49.7784054399585	9.78186724868975	0.0150726721764247
+Najas_marina	KT596631.1	11-APR-2016	952	Germany: Bavaria, Eggstaett-Hemhofer Seenplatte, Kesselsee	secondary	trnL-trnF	49.6786372989788	9.86345440042433	0.0151443451603074
+Najas_marina	KT596630.1	11-APR-2016	937	Germany: Bavaria, Eggstaett-Hemhofer Seenplatte, Langbuergner See	secondary	trnL-trnF	50.3221403380988	10.1556085996935	0.0151250530021027
+Najas_marina	KT596629.1	11-APR-2016	883	Germany: Bavaria, Donaustauf	secondary	trnL-trnF	49.0298076	12.2076091	0.0144606325763795
+Najas_marina	KT596628.1	11-APR-2016	939	Germany: Bavaria, Eggstaett-Hemhofer Seenplatte, Hartsee	secondary	trnL-trnF	49.8671411797019	9.31496140006326	0.0137470319209217
+Najas_marina	KT596627.1	11-APR-2016	950	Germany: Bavaria,Chiemsee	secondary	trnL-trnF	47.8811147	12.4744366	0.0151286549613475
+Najas_marina	KT596626.1	11-APR-2016	952	Germany: Bavaria, Ammersee	secondary	trnL-trnF	48.0070894	11.1200464	0.0151317907352762
+Najas_marina	KT596625.1	11-APR-2016	946	Germany: Bavaria, Abtsdorfer See	secondary	trnL-trnF	47.9104631	12.909758	0.0137304643930841
+Najas_marina	KT596624.1	11-APR-2016	593	Germany: Bavaria, See Emma Nord	secondary	trnL-trnF	50.0746905	8.9965741	0.013858537597625
+Najas_marina	KT596623.1	11-APR-2016	873	Germany: Baden-Wuerttemberg,Bodensee	secondary	trnL-trnF	47.6477691	9.3471796	0.015955935157442
+Najas_marina	KT596622.1	11-APR-2016	868	France: Mareuil-Caubert	secondary	trnL-trnF	50.0685176	1.8294946	0.0146622832265659
+Najas_marina	KT596665.1	11-APR-2016	957	Spain	secondary	trnL-trnF	42.9215057	-2.5762511	0.0138695025769506
+Najas_marina	KT596621.1	11-APR-2016	935	Austria	secondary	trnL-trnF	47.9619001	13.0850432542737	0.0150623336285108
+Najas_marina	KT596620.1	11-APR-2016	923	Austria	secondary	trnL-trnF	47.9699824	13.1026633	0.0140065271722633

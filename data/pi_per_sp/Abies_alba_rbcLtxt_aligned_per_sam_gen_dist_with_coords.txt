@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Abies_alba	HQ619762.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0
+Abies_alba	FR831929.1	25-MAR-2011	701	Italy:Tuscany	secondary	rbcL	43.4586541	11.1389204	0
+Abies_alba	FR831928.1	25-MAR-2011	701	Italy:Calabria	secondary	rbcL	39.0565974	16.5249864	0
+Abies_alba	FR831927.1	25-MAR-2011	701	Italy:Friuli Venezia Giulia	secondary	rbcL	46.151042	13.055904	0

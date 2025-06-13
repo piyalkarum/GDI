@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melampyrum_pratense	JN891575.1	07-MAR-2012	542	United Kingdom: Aberdeenshire, South (92)	primary	rbcL	56.97	-3.5	0.00418994413407821
+Melampyrum_pratense	JN893481.1	07-MAR-2012	537	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0169302975185137
+Melampyrum_pratense	JN893475.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00418994413407821
+Melampyrum_pratense	JN891059.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00418994413407821
+Melampyrum_pratense	AM503852.2	31-AUG-2007	976	Italy:South Tirol	secondary	rbcL	46.6559455	11.2302129	0.00436046511627907

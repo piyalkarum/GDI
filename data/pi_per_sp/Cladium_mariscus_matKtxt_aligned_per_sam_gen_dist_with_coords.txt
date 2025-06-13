@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cladium_mariscus	JN895569.1	07-MAR-2012	817	United Kingdom: Breconshire	primary	matK	51.93	-3.5	0.00501824597061367
+Cladium_mariscus	ON982144.1	17-OCT-2022	438	Kenya	secondary	matK	1.4419683	38.4313975	0.0203451694304254
+Cladium_mariscus	LT900074.1	12-AUG-2019	1538	Switzerland	secondary	matK	46.7985624	8.2319736	0.00513216799348977
+Cladium_mariscus	MF543497.1	31-JUL-2018	818	Italy: Aosta Valley, Arvier, Lolair	secondary	matK	46.0163421034139	7.21299595875321	0.00496736688053444
+Cladium_mariscus	MF543496.1	31-JUL-2018	783	Italy: Aosta Valley, Arvier, Lolair	secondary	matK	45.0843876015754	7.93169308112757	0.004820349803171
+Cladium_mariscus	MF543495.1	31-JUL-2018	749	Italy: Aosta Valley, Arvier, Lolair	secondary	matK	45.6237033898666	7.37776922192894	0.00500302507750475
+Cladium_mariscus	MF543494.1	31-JUL-2018	738	Italy: Aosta Valley, Arvier, Lolair	secondary	matK	45.0643898185378	6.77717502495736	0.00483817046710251
+Cladium_mariscus	HM850838.1	23-JUL-2011	567	Portugal	secondary	matK	39.6621648	-8.1353519	0.0204483949234789
+Cladium_mariscus	JN895377.1	07-MAR-2012	781	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.00503440491373093

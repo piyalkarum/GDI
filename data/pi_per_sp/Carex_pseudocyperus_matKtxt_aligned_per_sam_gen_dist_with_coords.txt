@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_pseudocyperus	MG216997.1	24-JAN-2018	731	USA: North Dakota	primary	matK	48.999	-100.426	0
+Carex_pseudocyperus	JN894260.1	07-MAR-2012	792	United Kingdom: Shropshire (40)	primary	matK	52.72	-2.84	0
+Carex_pseudocyperus	MK397939.1	18-AUG-2019	790	Netherlands	secondary	matK	52.2434979	5.6343227	0
+Carex_pseudocyperus	MG217096.1	24-JAN-2018	790	Canada: Ontario, Rouge National Urban Park, Sector 6	secondary	matK	43.72634945	-77.7101179040839	0
+Carex_pseudocyperus	HG915871.1	07-MAR-2016	2544	Germany:Mecklenburg-Western Pomerania	secondary	matK	53.8471035	13.3513501	0.000112796796570977
+Carex_pseudocyperus	HG915851.1	07-MAR-2016	2533	New Zealand:North Island, Waltemata, Lake Pupuke	secondary	matK	-38.00353045	175.957852608357	0.000112796796570977
+Carex_pseudocyperus	JN894711.1	07-MAR-2012	813	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0
+Carex_pseudocyperus	JN894709.1	07-MAR-2012	776	United Kingdom: Breconshire	secondary	matK	52.9877138	-1.1775355	0

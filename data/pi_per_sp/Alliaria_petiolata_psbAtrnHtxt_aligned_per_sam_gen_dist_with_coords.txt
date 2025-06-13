@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alliaria_petiolata	OR465026.1	26-SEP-2023	362	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	psbA-trnH	42.28796604	-85.62082532	0.00481728237453124
+Alliaria_petiolata	KP643517.1	08-DEC-2015	379	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.6828629128221	-77.7570781114304	0.00666384199751653
+Alliaria_petiolata	KP643451.1	08-DEC-2015	360	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	38.6613123867498	-78.5442795148898	0.00657117467507847
+Alliaria_petiolata	KP643375.1	08-DEC-2015	376	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.1489532260627	-77.4670041731462	0.00519214975743157
+Alliaria_petiolata	HE966465.1	18-SEP-2012	434	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0146613699711182

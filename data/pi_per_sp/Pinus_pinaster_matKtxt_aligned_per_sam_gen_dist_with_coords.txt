@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_pinaster	MT247319.1	28-SEP-2020	779	Morocco	secondary	matK	28.587039128363	-9.97396316161093	0
+Pinus_pinaster	MT247318.1	28-SEP-2020	779	France	secondary	matK	46.8308516032071	2.9310886456627	0
+Pinus_pinaster	MT247317.1	28-SEP-2020	779	Morocco	secondary	matK	28.5904478260211	-10.0186451135133	0
+Pinus_pinaster	MT247316.1	28-SEP-2020	814	France	secondary	matK	46.9277061820682	1.4054784765615	0
+Pinus_pinaster	MT247315.1	28-SEP-2020	779	Spain	secondary	matK	38.7943892239916	-4.48068584988641	0
+Pinus_pinaster	MT247314.1	28-SEP-2020	779	Spain	secondary	matK	38.8689191073215	-4.47213231128684	0
+Pinus_pinaster	MT247313.1	28-SEP-2020	779	Spain	secondary	matK	40.1202905176785	-4.99931828365207	0

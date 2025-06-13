@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scutellaria_minor	JN892795.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.76	-3.43	0.0019047619047619
+Scutellaria_minor	HM850345.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00571428571428571
+Scutellaria_minor	JN893465.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	53.0602948254142	-4.31646253932215	0.0019047619047619
+Scutellaria_minor	JN892673.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	51.9713223576939	-5.30469621905056	0.0019047619047619

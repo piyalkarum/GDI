@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stachys_arvensis	JN894810.1	07-MAR-2012	831	United Kingdom: Carmarthenshire	primary	matK	51.67	-4.17	0.001230012300123
+Stachys_arvensis	OQ391109.1	24-MAY-2023	739	Peru	secondary	matK	-6.8699697	-75.0458515	0.00142857142857143
+Stachys_arvensis	HM850806.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00387958494969565
+Stachys_arvensis	JN895212.1	07-MAR-2012	868	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00122100122100122

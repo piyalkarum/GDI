@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_purpurascens	KX872708.1	16-OCT-2017	796	Canada: Yukon, 42 mi NW of Haines Junction and 24 mi SE of Destruction Bay on Hwy. 1	primary	trnL-trnF	60.9933	-138.4981	0.000944188330719389
+Calamagrostis_purpurascens	KX872707.1	16-OCT-2017	875	Canada: Yukon, 12 mi S of Beaver Creek and 19 mi NE up Snag Creek Road	primary	trnL-trnF	62.4026	-140.3638	0.00175465759673005
+Calamagrostis_purpurascens	KX872706.1	16-OCT-2017	829	Canada: Alberta, Banff National Park, 7 mi SE of border to Jasper National Park along Hwy. 93	primary	trnL-trnF	52.1719	-117.0667	0.000905432888702412
+Calamagrostis_purpurascens	KX872705.1	16-OCT-2017	875	USA: Alaska, Southeast Fairbanks, 1 mi E of Chicken on Hwy. towards Boundary	primary	trnL-trnF	64.0628	-141.9244	0.000867915147497514
+Calamagrostis_purpurascens	KX872704.1	16-OCT-2017	873	Canada: Northwest Territories, 11 mi S of Inuvik on Dempster Hwy. (5) towards Eagle Plains	primary	trnL-trnF	68.3764	-133.3303	0.000868242426175308
+Calamagrostis_purpurascens	MK800998.1	04-FEB-2020	537	USA: Idaho, Sawtooth Mountains, Thompson Peak	primary	trnL-trnF	44.14139	-115.01	0.000465549348230912
+Calamagrostis_purpurascens	FJ394570.1	31-OCT-2010	865	Canada: Yukon	secondary	trnL-trnF	63.1663078346473	-135.947274181309	0.00086873041846142
+Calamagrostis_purpurascens	FJ394569.1	31-OCT-2010	868	Canada: Yukon	secondary	trnL-trnF	63.0730317155242	-137.110322280134	0.00160927312457928
+Calamagrostis_purpurascens	FJ394568.1	31-OCT-2010	868	Canada: Yukon	secondary	trnL-trnF	62.3126522710404	-135.635118362624	0.00473969278895625

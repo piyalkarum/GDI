@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geranium_sibiricum	MN185185.1	27-APR-2021	698	China	secondary	rbcL	34.9380090386902	104.445235636503	0.00226757369614512
+Geranium_sibiricum	JX913498.1	11-OCT-2013	1050	South Korea	secondary	rbcL	36.638392	127.6961188	0.00267737617135207
+Geranium_sibiricum	JF941760.1	13-DEC-2011	588	China	secondary	rbcL	35.5504162196033	105.758948724662	0.00226757369614512
+Geranium_sibiricum	JF941759.1	13-DEC-2011	588	China	secondary	rbcL	34.8864399004291	106.065060819275	0.00721252356364232

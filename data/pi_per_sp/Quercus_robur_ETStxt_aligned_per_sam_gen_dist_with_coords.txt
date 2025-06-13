@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_robur	LT718136.1	12-FEB-2017	693	Georgia:Samegrelo, Etseri	secondary	ETS	41.74229903396	41.8976209383906	0.346551972380243
+Quercus_robur	LT718135.1	12-FEB-2017	693	Georgia:Samegrelo, Etseri	secondary	ETS	41.5262927558574	42.1738058556797	0.346551972380243
+Quercus_robur	LT718043.1	12-FEB-2017	529	Georgia:Samegrelo, Etseri	secondary	ETS	41.9479121103586	42.8205422780906	0.347469109259515
+Quercus_robur	LT718042.1	12-FEB-2017	530	Georgia:Samegrelo, Etseri	secondary	ETS	41.9658122128483	43.2490527749442	0.348155314391962

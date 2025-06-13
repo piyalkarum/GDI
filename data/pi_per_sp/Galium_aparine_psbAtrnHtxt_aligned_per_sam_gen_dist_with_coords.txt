@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_aparine	OR568524.1	24-OCT-2023	368	Kazakhstan: Qaragandy region	primary	psbA-trnH	49.42895	75.48023	0.0188021519543259
+Galium_aparine	KP643477.1	08-DEC-2015	317	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	38.892	-78.146	0.0139949109414758
+Galium_aparine	MG947176.1	29-MAY-2018	276	Pakistan	secondary	psbA-trnH	30.3308401	71.247499	0.0442851186356822
+Galium_aparine	HE966646.1	18-SEP-2012	352	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0152759345277593

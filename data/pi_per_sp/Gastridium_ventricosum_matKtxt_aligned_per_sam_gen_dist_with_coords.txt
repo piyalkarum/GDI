@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gastridium_ventricosum	LR606900.1	25-JAN-2021	2047	France	secondary	matK	46.603354	1.8883335	0.00205361115685054
+Gastridium_ventricosum	FN908056.1	17-MAY-2012	2275	Portugal:Azores	secondary	matK	37.8085564	-25.4731374	0.00205361115685054
+Gastridium_ventricosum	JN895408.1	07-MAR-2012	780	United Kingdom: Essex,South	secondary	matK	51.5395684	0.7105271	0.00128205128205128
+Gastridium_ventricosum	JN894879.1	07-MAR-2012	820	United Kingdom: Glamorgan	secondary	matK	51.8625466788242	-3.60445506507488	0.00121951219512195
+Gastridium_ventricosum	JN894538.1	07-MAR-2012	771	United Kingdom: Glamorgan	secondary	matK	51.7510208242999	-3.16746457419229	0.0012970168612192

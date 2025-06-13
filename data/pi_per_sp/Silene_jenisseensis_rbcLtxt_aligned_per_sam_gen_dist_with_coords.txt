@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_jenisseensis	OQ172691.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.1953818455091	126.92294645647	0
+Silene_jenisseensis	OQ172690.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.1867977465846	127.278841441534	0
+Silene_jenisseensis	OQ172689.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.9913167410334	128.208311731591	0
+Silene_jenisseensis	OQ172688.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.8030156607218	128.744832278784	0
+Silene_jenisseensis	OQ172687.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.1837345756837	127.83830717167	0
+Silene_jenisseensis	MH713910.1	01-SEP-2020	570	China: Hebei	secondary	rbcL	39.0000001	116	0

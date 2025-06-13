@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alchemilla_alpina	MK926296.1	14-JAN-2020	803	United Kingdom	secondary	matK	55.1690120385103	-3.27867896857949	0
+Alchemilla_alpina	MK926135.1	14-JAN-2020	806	United Kingdom	secondary	matK	55.3186054961156	-2.35633188823554	0
+Alchemilla_alpina	MK926124.1	14-JAN-2020	796	United Kingdom	secondary	matK	54.8031802289292	-3.30388996037177	0
+Alchemilla_alpina	MK925964.1	14-JAN-2020	803	United Kingdom	secondary	matK	55.2358898657027	-2.17322743612649	0

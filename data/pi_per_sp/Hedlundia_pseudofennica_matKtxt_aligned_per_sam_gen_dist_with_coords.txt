@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedlundia_pseudofennica	MK926354.1	14-JAN-2020	812	United Kingdom	secondary	matK	54.8015244435478	-2.49267275922735	0
+Hedlundia_pseudofennica	MK926318.1	14-JAN-2020	815	United Kingdom	secondary	matK	55.1745891590411	-4.18768222061731	0
+Hedlundia_pseudofennica	MK926294.1	14-JAN-2020	781	United Kingdom	secondary	matK	55.2964765826803	-3.80478790784288	0
+Hedlundia_pseudofennica	MK926255.1	14-JAN-2020	769	United Kingdom	secondary	matK	55.5192348236596	-3.34925387005574	0
+Hedlundia_pseudofennica	MK925873.1	14-JAN-2020	770	United Kingdom	secondary	matK	55.292007466732	-4.43373296829226	0
+Hedlundia_pseudofennica	MK925675.1	14-JAN-2020	781	United Kingdom	secondary	matK	54.7622036957819	-2.39415366112481	0

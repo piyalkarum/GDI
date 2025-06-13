@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Androsace_chamaejasme	KC473998.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk. Behind Northern Store/Hotel/Parks Canada building (Paulatuk Centre)	primary	matK	69.467	-124.211	0.0104390104390104
+Androsace_chamaejasme	KC473997.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	matK	68.064	-121.611	0.0104390104390104
+Androsace_chamaejasme	KC473996.1	25-OCT-2013	777	Canada: Northwest Territories, Anderson River Delta, Cape Bathurst	primary	matK	71.2461346921423	-126.7797982679	0.0104390104390104
+Androsace_chamaejasme	KC473995.1	25-OCT-2013	777	Canada: Northwest Territories, Anderson River Delta, Cape Bathurst	primary	matK	70.483	-128.133	0.0104390104390104
+Androsace_chamaejasme	KC473994.1	25-OCT-2013	776	Canada: Northwest Territories, Victoria Island, Minto Inlet, Plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.283	-116.481	0.0104524627720504
+Androsace_chamaejasme	KC473993.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	matK	70.735	-117.761	0.0104390104390104
+Androsace_chamaejasme	KC473992.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	matK	68.628	-112.714	0.0104390104390104
+Androsace_chamaejasme	KC473991.1	25-OCT-2013	777	Canada: Northwest Territories, Anderson River Delta, Cape Bathurst	primary	matK	69.7769085161122	-126.155857907871	0.0104390104390104
+Androsace_chamaejasme	KC473990.1	25-OCT-2013	777	Canada: Northwest Territories, Banks Island, De Salis Bay	primary	matK	71.608	-122.017	0.0104390104390104
+Androsace_chamaejasme	MT918139.1	03-MAR-2023	791	China	secondary	matK	35.000074	104.999927	0.0939645462841339

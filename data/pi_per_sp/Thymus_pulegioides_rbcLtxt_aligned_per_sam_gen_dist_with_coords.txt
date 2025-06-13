@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_pulegioides	ON684522.1	21-AUG-2022	1434	Portugal: Meiral, Canidelo, Vila Nova de Gaia	primary	rbcL	41.12447	-8.64486	0.000278241513633834
+Thymus_pulegioides	MG224311.1	26-DEC-2017	552	Canada: Ontario, Bruce Co, Little Red Bay, West shore of Bruce Peninsula, Alberbarle Township	primary	rbcL	44.767	-81.283	0.000317460317460317
+Thymus_pulegioides	HE819496.1	22-MAY-2013	599	Switzerland	primary	rbcL	46.59	6.24	0.000278241513633834
+Thymus_pulegioides	HE819495.1	22-MAY-2013	599	Italy:Liguria	primary	rbcL	44.26	9.81	0.000278241513633834
+Thymus_pulegioides	HE819494.1	22-MAY-2013	599	Slovenia	primary	rbcL	45.79	14.22	0.000278241513633834
+Thymus_pulegioides	HE819493.1	22-MAY-2013	599	Italy:Toscana	primary	rbcL	43.48	10.44	0.00358970242735351
+Thymus_pulegioides	HE819492.1	22-MAY-2013	599	Spain	primary	rbcL	42.61	0.53	0.000278241513633834
+Thymus_pulegioides	MG222332.1	26-DEC-2017	552	Canada: Quebec, St. Stainlass	secondary	rbcL	46.8137431	-71.2084061	0.000317460317460317
+Thymus_pulegioides	MG221709.1	26-DEC-2017	552	Canada: Ontario, Queenston Heights, Near Brock's Monument	secondary	rbcL	43.72634945	-77.7101179040839	0.000317460317460317
+Thymus_pulegioides	KJ746270.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.000278241513633834
+Thymus_pulegioides	KJ204411.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000317460317460317
+Thymus_pulegioides	JN892334.1	07-MAR-2012	539	United Kingdom: Breconshire	secondary	rbcL	52.9875065	-1.1773256	0.000326157860404436
+Thymus_pulegioides	JN892333.1	07-MAR-2012	541	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000324254215304799

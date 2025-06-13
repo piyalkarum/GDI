@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_longifolia	HQ593458.1	09-NOV-2011	779	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 200 m N of Side Road 19 and 100 m W of driveway	primary	matK	44.026	-79.532	0.0259474100253594
+Stellaria_longifolia	JN966691.1	27-OCT-2012	708	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	matK	58.769	-93.856	0.0254189311537078
+Stellaria_longifolia	JN966690.1	27-OCT-2012	700	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, grounds of MREM cabin	primary	matK	57.002	-92.306	0.0223806009080638
+Stellaria_longifolia	JN966689.1	27-OCT-2012	564	Canada: Manitoba, Churchill, Wapusk National Park, York Factory	primary	matK	57.003	-92.304	0.0227535914151828
+Stellaria_longifolia	OQ172516.1	18-JUN-2023	776	China	secondary	matK	34.6752623176087	104.523702225731	0.0262373236105273
+Stellaria_longifolia	OQ172515.1	18-JUN-2023	776	China	secondary	matK	35.0558664118474	105.944521036288	0.0262373236105273
+Stellaria_longifolia	MT917916.1	03-MAR-2023	772	China	secondary	matK	34.8537459979619	105.767227613592	0.130615747947828

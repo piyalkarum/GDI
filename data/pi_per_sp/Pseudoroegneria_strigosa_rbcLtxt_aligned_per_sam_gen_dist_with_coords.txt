@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pseudoroegneria_strigosa	KP211027.1	31-AUG-2017	1274	China: Xinjiang	secondary	rbcL	42.4804953	85.4633464	0.116919818288231
+Pseudoroegneria_strigosa	GQ373402.1	27-OCT-2009	816	China	secondary	rbcL	35.1120650606653	104.923428804102	0.562381282061291
+Pseudoroegneria_strigosa	KC237129.1	06-MAR-2013	743	China	secondary	rbcL	35.8802279547772	104.927923854821	0.113518309488847
+Pseudoroegneria_strigosa	KC237128.1	06-MAR-2013	743	China	secondary	rbcL	35.2268821125263	104.334164403604	0.114068779142067
+Pseudoroegneria_strigosa	KC237127.1	06-MAR-2013	743	China	secondary	rbcL	35.8286052521921	105.010411807362	0.113518309488847
+Pseudoroegneria_strigosa	HQ652778.1	14-AUG-2011	743	Estonia	secondary	rbcL	58.7523778	25.3319078	0.113518309488847

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosoton_aquaticum	JN894058.1	07-MAR-2012	783	United Kingdom: Monmouthshire	primary	matK	51.59	-3.08	0.0062872599026181
+Myosoton_aquaticum	OQ172510.1	18-JUN-2023	773	South Korea	secondary	matK	35.9757873814654	126.974794302757	0.00589494463375386
+Myosoton_aquaticum	OQ172509.1	18-JUN-2023	773	South Korea	secondary	matK	36.3620270225418	127.234026924496	0.00589494463375386
+Myosoton_aquaticum	OQ172508.1	18-JUN-2023	773	South Korea	secondary	matK	37.1001471933934	128.32146139426	0.00589494463375386
+Myosoton_aquaticum	LC727797.1	09-MAR-2023	834	Japan:Aichi, Owariasahi	secondary	matK	35.208148	137.03722	0.00588771847183737
+Myosoton_aquaticum	JN895772.1	07-MAR-2012	730	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.0292237442922374
+Myosoton_aquaticum	JN895771.1	07-MAR-2012	759	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00632638836089182

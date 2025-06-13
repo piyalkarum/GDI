@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rostraria_pumila	MK097170.1	21-MAY-2019	553	Bahrain	primary	rbcL	26.016623	50.495085	0.000602772754671489
+Rostraria_pumila	KX282986.1	28-MAY-2017	572	Kuwait	secondary	rbcL	29.1947273719502	47.1327140317777	0.00293581624358188
+Rostraria_pumila	KX282985.1	28-MAY-2017	580	Kuwait	secondary	rbcL	29.3758245383947	47.9008447555049	0.00116550116550117
+Rostraria_pumila	KX282984.1	28-MAY-2017	575	Kuwait	secondary	rbcL	28.8463140702475	48.1996152285052	0.00116754232340922

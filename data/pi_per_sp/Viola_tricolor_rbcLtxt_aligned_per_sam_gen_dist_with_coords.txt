@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_tricolor	MG246341.1	21-JAN-2018	552	Canada: Yukon Territory, Whitehorse, Yukon Government Building	primary	rbcL	60.717	-135.048	0
+Viola_tricolor	KX784021.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	30.5152771975603	30.4443632884542	0
+Viola_tricolor	KX784020.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	30.547338406192	30.3015096827127	0
+Viola_tricolor	KX784019.1	31-MAY-2017	552	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	rbcL	31.189	31.189	0
+Viola_tricolor	KX784018.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	30.5811840409131	30.0545289634319	0
+Viola_tricolor	KX784017.1	31-MAY-2017	546	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	31.6771725014181	30.4364920803184	0
+Viola_tricolor	KX784016.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	31.7379357519004	29.9078526936793	0
+Viola_tricolor	KX784015.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	30.9429178767686	30.4711036751999	0
+Viola_tricolor	KX784014.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	31.334468102748	29.8218980233612	0
+Viola_tricolor	KX784013.1	31-MAY-2017	524	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	32.0535847343031	30.0555284666683	0
+Viola_tricolor	JN891420.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.7	-4.29	0
+Viola_tricolor	HG417060.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0
+Viola_tricolor	KC699617.1	18-JUN-2013	1300	USA	secondary	rbcL	39.7837304	-100.445882	0
+Viola_tricolor	JN892057.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_pulcher	JN892347.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.61	-2.87	0
+Rumex_pulcher	MK925433.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.232940991954	-3.97286146452053	0
+Rumex_pulcher	MK925423.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3483565372039	-2.89070145543849	0
+Rumex_pulcher	HM850323.1	23-JUL-2011	676	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Rumex_pulcher	JN892874.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

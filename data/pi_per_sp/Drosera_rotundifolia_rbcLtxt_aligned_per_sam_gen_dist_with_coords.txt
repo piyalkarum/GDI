@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Drosera_rotundifolia	LC377035.1	18-APR-2018	262	Japan: Toyama, Mt.Taro	primary	rbcL	36.44	137.51	0
+Drosera_rotundifolia	KX679109.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Alberni-Clayoquot Regional District, Flora Lake Forest Recreation Site	primary	rbcL	48.8619	-124.72	0.00106164697099359
+Drosera_rotundifolia	KX678995.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Small pond just off west side of Hwy 104	primary	rbcL	50.069	-123.097	0.00077639751552795
+Drosera_rotundifolia	JN965494.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, South of Hoot Creek	primary	rbcL	57.351	-93.523	0.00106164697099359
+Drosera_rotundifolia	JN893776.1	07-MAR-2012	520	United Kingdom: Caernarfonshire	primary	rbcL	53.19	-4.46	0.000824175824175824
+Drosera_rotundifolia	AB298089.1	17-MAR-2007	1348	Japan:Aichi, owariasahi	primary	rbcL	35.23	137.03	0.00106067257519207
+Drosera_rotundifolia	JN892827.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.0970363141663	-1.67411555175367	0.000791696588737739
+Drosera_rotundifolia	JN892825.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.0536604769112	-0.53139063783808	0.000791696588737739

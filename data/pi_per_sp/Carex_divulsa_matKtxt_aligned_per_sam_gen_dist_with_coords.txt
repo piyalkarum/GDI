@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_divulsa	JN895562.1	07-MAR-2012	817	United Kingdom: Denbighshire	primary	matK	52.95	-2.87	0.00165143816567286
+Carex_divulsa	MN763426.1	28-JUL-2020	593	Spain: Leon	secondary	matK	42.6341451	-5.9714151	0.00168634064080944
+Carex_divulsa	MN763425.1	28-JUL-2020	593	France: Garonne	secondary	matK	44.2154209	0.522328	0.00168634064080944
+Carex_divulsa	MN763422.1	28-JUL-2020	593	Netherlands	secondary	matK	52.2434979	5.6343227	0.00168634064080944
+Carex_divulsa	MN763279.1	28-JUL-2020	612	Argentina: Capital Federal	secondary	matK	-35.1891556838055	-57.9975610086281	0.00913967097611166
+Carex_divulsa	MN763278.1	28-JUL-2020	563	Argentina: Capital Federal	secondary	matK	-34.8675741446625	-58.1009647786637	0.000986777185711466
+Carex_divulsa	MN763277.1	28-JUL-2020	564	Argentina: Entre Rios	secondary	matK	-31.6252842	-59.3539578	0.000985027580772262
+Carex_divulsa	HM850840.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00165143816567286
+Carex_divulsa	JN895661.1	07-MAR-2012	815	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.00165143816567286
+Carex_divulsa	JN895349.1	07-MAR-2012	720	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00165143816567286

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Briza_media	JN894030.1	07-MAR-2012	1039	United Kingdom: Carmarthenshire	primary	matK	51.77	-4.03	0.000902933172973046
+Briza_media	MW719274.1	04-SEP-2021	892	Austria	secondary	matK	36.9148511	-4.7534501	0.00094825098028173
+Briza_media	MT433185.1	31-MAY-2020	1421	Norway	secondary	matK	64.5731537	11.5280364	0.000961340205043149
+Briza_media	FR865056.1	09-JUN-2011	460	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	NA
+Briza_media	LN554427.1	02-APR-2015	2023	Germany	secondary	matK	39.9291558555083	-79.7500786223717	0.000961340205043149
+Briza_media	HG797418.1	26-SEP-2014	773	Germany	secondary	matK	40.6298466318058	-78.4339395820476	NA
+Briza_media	JN894146.1	07-MAR-2012	821	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000975951141254778
+Briza_media	JN894143.1	07-MAR-2012	813	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000979375570835771

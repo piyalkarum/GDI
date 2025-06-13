@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_deusta	MH627686.1	19-FEB-2020	855	Italy: Toscana, Monte Amiata	secondary	rpl16	43.163514644316	12.5191201533091	0.00087890691950666
+Centaurea_deusta	MH627685.1	19-FEB-2020	855	Italy: Toscana, Monte Amiata	secondary	rpl16	43.5507271314184	11.9382318416952	0.00087890691950666
+Centaurea_deusta	MH627684.1	19-FEB-2020	855	Italy: Toscana, Monte Amiata	secondary	rpl16	42.4885007035711	11.5825590485976	0.00190366988201257
+Centaurea_deusta	MH627683.1	19-FEB-2020	853	Italy: Umbria, Norcia	secondary	rpl16	42.8490062007807	12.1699258300511	0.00102579132473623
+Centaurea_deusta	MH627682.1	19-FEB-2020	853	Italy: Umbria, Norcia	secondary	rpl16	42.642212311656	12.8324408590952	0.00102579132473623
+Centaurea_deusta	MH627681.1	19-FEB-2020	853	Italy: Umbria, Norcia	secondary	rpl16	42.9332009805609	14.1812126798124	0.00102579132473623
+Centaurea_deusta	MH627680.1	19-FEB-2020	855	Italy: Campania, San Gregorio Matese	secondary	rpl16	40.7401507708093	13.620974178344	0.00087890691950666
+Centaurea_deusta	MH627679.1	19-FEB-2020	853	Italy: Campania, San Gregorio Matese	secondary	rpl16	40.6305968320966	14.0049632991253	0.00205158264947245
+Centaurea_deusta	MH627678.1	19-FEB-2020	855	Italy: Campania, San Gregorio Matese	secondary	rpl16	41.4921622314014	14.0516450103676	0.00087890691950666

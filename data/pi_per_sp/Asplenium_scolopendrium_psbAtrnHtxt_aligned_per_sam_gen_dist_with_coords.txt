@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_scolopendrium	OQ320385.1	14-JUN-2023	423	Latvia	secondary	psbA-trnH	56.8406494	24.7537645	0.00236406619385343
+Asplenium_scolopendrium	KU724304.1	04-SEP-2016	530	Spain: Leon, Villasecino	secondary	psbA-trnH	42.9518341	-6.019243	0.000788022064617809
+Asplenium_scolopendrium	KU724303.1	04-SEP-2016	530	Spain: Asturias, Luarca	secondary	psbA-trnH	43.5439003	-6.5357408	0.000788022064617809
+Asplenium_scolopendrium	AB575521.1	03-DEC-2010	542	Japan	secondary	psbA-trnH	36.5748441	139.2394179	0.000788022064617809

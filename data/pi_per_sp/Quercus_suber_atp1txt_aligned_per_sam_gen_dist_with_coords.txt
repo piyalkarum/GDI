@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_suber	XM_024068316.1	15-FEB-2018	1657	Portugal	secondary	atp1	36.7830760406989	-7.00658063849896	0
+Quercus_suber	XM_024068315.1	15-FEB-2018	1361	Portugal	secondary	atp1	36.6672430511035	-7.37333026105702	0
+Quercus_suber	XM_024068314.1	15-FEB-2018	1743	Portugal	secondary	atp1	37.6015030245453	-7.03411588357537	0
+Quercus_suber	XM_024068313.1	15-FEB-2018	1683	Portugal	secondary	atp1	37.9331845239041	-7.08720905959179	0

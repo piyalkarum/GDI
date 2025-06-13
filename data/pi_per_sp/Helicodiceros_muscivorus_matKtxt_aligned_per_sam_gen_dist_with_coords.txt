@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helicodiceros_muscivorus	EU193601.1	12-AUG-2008	1725	Spain: Mallorca	secondary	matK	39.613432	2.8829185	0
+Helicodiceros_muscivorus	EU193600.1	12-AUG-2008	1725	Spain: Menorca	secondary	matK	39.949401	4.0593888	0
+Helicodiceros_muscivorus	EU193599.1	12-AUG-2008	1725	France: Corsica	secondary	matK	41.3611933045256	8.81286958680725	0
+Helicodiceros_muscivorus	EU193598.1	12-AUG-2008	1725	Italy: Sardinia	secondary	matK	40.7756162285205	9.02686967478044	0
+Helicodiceros_muscivorus	EU193597.1	12-AUG-2008	1725	Italy: Sardinia	secondary	matK	39.5290657337254	8.47493336637877	0
+Helicodiceros_muscivorus	EU193596.1	12-AUG-2008	1725	Italy: Sardinia	secondary	matK	40.5027415285471	9.08165399193309	0
+Helicodiceros_muscivorus	EU193595.1	12-AUG-2008	1724	France: Corsica	secondary	matK	41.9549178786484	8.05403906605798	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Micranthes_foliolosa	KC474981.1	25-OCT-2013	783	Canada: Northwest Territories, Prince Patrick Island, Central Plateau	primary	matK	76.75	-119.5	0.00051349235776377
+Micranthes_foliolosa	KC474980.1	25-OCT-2013	783	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	matK	74.911	-109.596	0.00051349235776377
+Micranthes_foliolosa	KC474979.1	25-OCT-2013	783	Canada: Nunavut, Baffin Island, Apex, Iqaluit, ditch behind school	primary	matK	63.75	-68.5167	0.00102269378131447
+Micranthes_foliolosa	KC474978.1	25-OCT-2013	780	Canada: Nunavut, Victoria Island, Natkusiak Peninsula	primary	matK	72.45	-108.783	0.00051514246857067
+Micranthes_foliolosa	KC474977.1	25-OCT-2013	783	Canada: Nunavut, Baffin Island, Pond Inlet, Red Hills', 11-12 km SE of town. Sirmilik National Park'	primary	matK	72.7833	-77	0.00051349235776377
+Micranthes_foliolosa	KC474976.1	25-OCT-2013	775	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	matK	62.85	-92.1333	0.00103292576054751

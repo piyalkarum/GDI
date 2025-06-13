@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Beta_vulgaris	JN895701.1	07-MAR-2012	787	United Kingdom: Glamorgan	primary	matK	51.61	-3.95	0.0654121863799283
+Beta_vulgaris	XM_057396052.1	13-JUN-2023	1486	USA	secondary	matK	39.7837304	-100.445882	0.0618231046931408
+Beta_vulgaris	MW386984.1	05-FEB-2022	895	India: Gujarat, Anand	secondary	matK	22.5586555	72.9627227	0.0674153683125215
+Beta_vulgaris	MN273638.1	30-NOV-2021	803	China	secondary	matK	35.000074	104.999927	0.0661016949152542
+Beta_vulgaris	KY941433.1	30-APR-2018	329	Jordan: Shuna	secondary	matK	31.9009913	35.6266454	0.522368868018981
+Beta_vulgaris	KX789379.1	26-AUG-2017	803	Egypt	secondary	matK	26.2540493	29.2675469	0.0660299003322259
+Beta_vulgaris	HM850762.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0660299003322259
+Beta_vulgaris	JN895142.1	07-MAR-2012	804	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0660299003322259
+Beta_vulgaris	JN894325.1	07-MAR-2012	812	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.0662977486820499

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_tortuosum	HM152958.1	24-AUG-2010	278	Italy: Latina, Norma	secondary	psbA-trnH	41.588015	12.969392	0
+Antirrhinum_tortuosum	HM152957.1	24-AUG-2010	299	Morocco: Taza-Al Hoceima, Taza	secondary	psbA-trnH	35.0886627	-5.200103	0
+Antirrhinum_tortuosum	HM152954.1	24-AUG-2010	278	Italy: Sardinia, Cagliari	secondary	psbA-trnH	39.2171994	9.113311	0
+Antirrhinum_tortuosum	HM152960.1	24-AUG-2010	278	Morocco	secondary	psbA-trnH	30.1035585	-7.398044	0
+Antirrhinum_tortuosum	HM152910.1	24-AUG-2010	278	Turkey	secondary	psbA-trnH	40.4301652	29.1570698	0

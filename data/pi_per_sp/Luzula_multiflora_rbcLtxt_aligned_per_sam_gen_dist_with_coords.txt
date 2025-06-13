@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Luzula_multiflora	MZ359320.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.0121586910537285
+Luzula_multiflora	MG226975.1	23-JAN-2018	552	Canada: Ontario, Chatham-Kent County, Wheatley Provincial Park, Beach and Marsh area, north bank of marsh, near eastern bridge across marsh	primary	rbcL	42.088	-82.442	0.0104578277662788
+Luzula_multiflora	MG225716.1	23-JAN-2018	552	USA: Washington, Kittitas Co., Ca. 6 mi W of Cle Elum on Hwy 10 near a truck weighing station.	primary	rbcL	47.217	-120.917	0.087163402453486
+Luzula_multiflora	KX679191.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, campsite along Tulameen River	primary	rbcL	49.4343	-121.013	0.0104578277662788
+Luzula_multiflora	KC483120.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. The Hill 2 km southwest of Sanikiluaq airport	primary	rbcL	56.558	-79.325	0.0104578277662788
+Luzula_multiflora	KC483119.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Outer delta, west of Whitefish Station	primary	rbcL	68.886	-136.9	0.0115881485041593
+Luzula_multiflora	JN891594.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.0106637501751102
+Luzula_multiflora	MN205073.1	30-NOV-2021	724	China	secondary	rbcL	34.4128855208946	104.932633049914	0.0108939191508088
+Luzula_multiflora	MN185235.1	27-APR-2021	721	China	secondary	rbcL	35.148827961572	105.778927990166	0.0108942427581243
+Luzula_multiflora	MG227261.1	23-JAN-2018	551	USA: Massachusetts, Woods Hole.	secondary	rbcL	41.5238207	-70.669259	0.0452928152460287
+Luzula_multiflora	HM850148.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0103548352363363
+Luzula_multiflora	JN893585.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2228632558101	-3.37974804982442	0.0106637501751102
+Luzula_multiflora	JN893582.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.5685137640025	-4.22674712048847	0.0106637501751102
+Luzula_multiflora	JN892828.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9875065	-1.1773256	0.0106637501751102

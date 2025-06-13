@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_involucrata	KT960656.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.8132544846975	-20.7936684928902	0.000552660254067057
+Silene_involucrata	KT960431.1	13-DEC-2015	531	Greenland: NE, Zackenberg	primary	rbcL	74.9605021388222	-23.3137880812836	0.000573159747809711
+Silene_involucrata	KT960390.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.8793562366164	-20.8753459090546	0.000552660254067057
+Silene_involucrata	KC484118.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	70.717	-117.717	0.000552660254067057
+Silene_involucrata	KC484117.1	25-OCT-2013	552	Canada: Northwest Territories, Tuktoyaktuk, On Beaufort Sea	primary	rbcL	29.45	-133.033	0.000552660254067057
+Silene_involucrata	KC484116.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.277	-116.516	0.000552660254067057
+Silene_involucrata	KC484115.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Joe Creek	primary	rbcL	69.021	-140.611	0.000552660254067057
+Silene_involucrata	KC484114.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Near cabin on terraces above coastal area	primary	rbcL	56.331	-79.514	0.00151078298255595
+Silene_involucrata	KC484113.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit	primary	rbcL	63.75	-68.5167	0.00151078298255595
+Silene_involucrata	KC484112.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity, Region N of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	rbcL	68.764	-112.714	0.000552660254067057
+Silene_involucrata	KC484111.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake	primary	rbcL	62.85	-67.35	0.00151078298255595
+Silene_involucrata	KC484110.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Nelson Head, southernmost tip of Banks Island	primary	rbcL	71.083	-122.767	0.000552660254067057
+Silene_involucrata	KC484109.1	25-OCT-2013	552	Canada: Nunavut, Rankin Inlet, NE shore Melvin Bay below town dump, Hudson Bay	primary	rbcL	62.8	-92.0833	0.00151078298255595
+Silene_involucrata	KC484108.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, At mouth of creek southeast of airport by sea beach, Frobisher Bay	primary	rbcL	63.7417	-68.525	0.00151078298255595
+Silene_involucrata	KC484107.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq, in town, gravelly soil	primary	rbcL	56.65	-79.256	0.00151078298255595
+Silene_involucrata	KC484106.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	70.735	-117.761	0.000552660254067057
+Silene_involucrata	JN966002.1	27-OCT-2012	545	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	rbcL	58.789	-94.227	0.000559775911031202
+Silene_involucrata	JN966001.1	27-OCT-2012	535	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	rbcL	58.626	-94.23	0.000568874441284031
+Silene_involucrata	JN966000.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Salt marsh	primary	rbcL	58.771	-93.843	0.000552660254067057
+Silene_involucrata	JN965999.1	27-OCT-2012	543	Canada: Manitoba, Churchill, unspecified locality	primary	rbcL	58.74	-93.82	0.00232979859213256
+Silene_involucrata	JN965998.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh	primary	rbcL	58.75	-94.11	0.000552660254067057
+Silene_involucrata	JN965997.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 22 km E Churchill, CNSC	primary	rbcL	59.1283141511444	-92.4307876652727	0.000552660254067057
+Silene_involucrata	JN965996.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 22 km E Churchill, CNSC	primary	rbcL	58.7450301495305	-93.0758440801849	0.000552660254067057
+Silene_involucrata	JN965995.1	27-OCT-2012	519	Canada: Manitoba, Churchill, Wapusk National Park, Owl River	primary	rbcL	57.846	-92.75	0.000586411996313982

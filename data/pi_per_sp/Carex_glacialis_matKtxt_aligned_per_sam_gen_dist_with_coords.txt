@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_glacialis	FJ548097.1	25-AUG-2009	729	Canada: Nunavut, Baffin Island, Iqaluit, causeway to Inuit Head	primary	matK	63.75	-68.52	0.000457247370827618
+Carex_glacialis	FJ548096.1	25-AUG-2009	732	Canada: Northwest Territories, SW Baffin Island, Dorset Island, SW part of Cape Dorset Island	primary	matK	64.2	-76.53	0.000455373406193078
+Carex_glacialis	FJ548095.1	25-AUG-2009	429	Canada: Nunavut, Baffin Island	primary	matK	71.38	-79.73	0.000194250194250194
+Carex_glacialis	KC474325.1	25-OCT-2013	775	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park, Buckland Hills, NW part	primary	matK	69.417	-139.633	0.000454132606721163
+Carex_glacialis	KC474324.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	matK	68.064	-121.603	0.000454132606721163
+Carex_glacialis	KC474323.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Sand dunes E of Kuujua River, 2 km S of on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.244	-116.528	0.000454132606721163
+Carex_glacialis	KC474322.1	25-OCT-2013	620	Canada: Nunavut, Arctic Mainland, West Hudson Bay, McConnell River System	primary	matK	61	-94.46	0.000537634408602151
+Carex_glacialis	KC474321.1	25-OCT-2013	774	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Katapik. Area from coast up to top of rocky ridge behind	primary	matK	56.733	-79.383	0.000454132606721163
+Carex_glacialis	JN966183.1	27-OCT-2012	734	Canada: Manitoba, Churchill, 5 km E Churchill, Miss Piggy, Dryas heath with willow	primary	matK	58.757	-94.074	0.00541725677788301
+Carex_glacialis	JN966182.1	27-OCT-2012	745	Canada: Manitoba	primary	matK	57.7917188424133	-93.0019068296905	0.000455996352029184
+Carex_glacialis	JN966181.1	27-OCT-2012	735	Canada: Manitoba	primary	matK	56.9017532046665	-92.4298392206466	0.000462320850670365
+Carex_glacialis	KU496574.1	31-JAN-2017	813	Canada: Quebec, 25 km N of Schefferville	secondary	matK	46.8137431	-71.2084061	0.000454132606721163
+Carex_glacialis	OP189350.1	03-OCT-2022	591	Russia	secondary	matK	68.0865	92.6025	0.000583771161704612

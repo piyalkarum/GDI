@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Callitriche_palustris	MG223686.1	26-DEC-2017	512	Canada: Yukon Territory, Wolf River, Lower	primary	rbcL	60.562	-132.168	0
+Callitriche_palustris	MG221689.1	26-DEC-2017	552	Canada: Yukon Territory, Whitehorse, Hidden Lakes	primary	rbcL	60.698	-135.002	0
+Callitriche_palustris	MG221669.1	26-DEC-2017	552	Canada: Yukon Territory, Southeast Yukon, Pelly River drainage, on west side of Pelly River, ~7 km North of Traffic Mountain	primary	rbcL	62.177	-130.498	0
+Callitriche_palustris	KX677940.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, Sumas Mountain, Chadsey Creek mouth at Fraser River, tidal mud shore, low water	primary	rbcL	49.134	-122.181	0
+Callitriche_palustris	LC655233.1	20-APR-2022	553	Japan:Aichi, Nagoya	secondary	rbcL	35.1851045	136.8998438	0
+Callitriche_palustris	LC177706.1	01-APR-2017	1296	Canada:Alberta, Central Alberta	secondary	rbcL	52.8820447	-113.2971736	0
+Callitriche_palustris	LC177693.1	01-APR-2017	1322	Japan:Toyama	secondary	rbcL	36.6468015	137.2183531	0
+Callitriche_palustris	LC177692.1	01-APR-2017	1322	Japan:Ehime	secondary	rbcL	33.6013646	132.8185275	0
+Callitriche_palustris	LC177691.1	01-APR-2017	1322	Russia:Yaroslavl	secondary	rbcL	57.6263877	39.8933705	0

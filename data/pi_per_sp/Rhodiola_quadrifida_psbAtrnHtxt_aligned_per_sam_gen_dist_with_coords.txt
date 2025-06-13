@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhodiola_quadrifida	KP114966.1	25-MAR-2015	306	China: Qinghai, Yushu Xian	secondary	psbA-trnH	32.1757859902833	96.2983289689996	0.0295293177222928
+Rhodiola_quadrifida	KP114965.1	25-MAR-2015	307	China: Qinghai, Yushu Xian	secondary	psbA-trnH	32.2506821907119	97.2274962056495	0.0268020877415714
+Rhodiola_quadrifida	KP114964.1	25-MAR-2015	338	China: Qinghai, Yushu Xian	secondary	psbA-trnH	32.1884021244711	97.1629365513592	0.0302209772798008
+Rhodiola_quadrifida	KF113767.1	27-MAY-2014	289	China: Qinghai	secondary	psbA-trnH	35.4070952	95.9521157	0.0299075025693731

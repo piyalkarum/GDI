@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achillea_aspleniifolia	FJ434259.1	24-APR-2010	895	Czech Republic	secondary	ncpGS	49.591576	17.9975578540951	0.0253751400576838
+Achillea_aspleniifolia	FJ434258.1	24-APR-2010	913	Austria	secondary	ncpGS	47.3905457008739	16.080780319391	0.0258072294375312
+Achillea_aspleniifolia	FJ434257.1	24-APR-2010	895	Austria	secondary	ncpGS	48.3223768732109	15.7158137973759	0.0244525728178492
+Achillea_aspleniifolia	FJ434256.1	24-APR-2010	913	Austria	secondary	ncpGS	48.6082969650249	17.0540894580078	0.0258072294375312
+Achillea_aspleniifolia	FJ434255.1	24-APR-2010	911	Austria	secondary	ncpGS	47.1090079823407	16.5595992048989	0.0258493303377919
+Achillea_aspleniifolia	FJ434254.1	24-APR-2010	919	Austria	secondary	ncpGS	47.7546866333863	16.9944867398276	0.0313448311536547

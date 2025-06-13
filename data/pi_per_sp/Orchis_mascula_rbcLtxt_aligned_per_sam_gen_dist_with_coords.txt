@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Orchis_mascula	JN892565.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.88	-3.98	0.00412541254125413
+Orchis_mascula	MK925129.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00412541254125413
+Orchis_mascula	HG417017.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.0123762376237624
+Orchis_mascula	JN893527.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9875065	-1.1773256	0.00412541254125413

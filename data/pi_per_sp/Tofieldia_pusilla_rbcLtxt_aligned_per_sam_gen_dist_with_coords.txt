@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tofieldia_pusilla	MZ359313.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Tofieldia_pusilla	MG227825.1	23-JAN-2018	552	Canada: Yukon Territory, McKinnon Lk, near Watson Lk	primary	rbcL	60.039	-129.333	0
+Tofieldia_pusilla	MG225669.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Top of Mt. Irony.	primary	rbcL	55.1358	-68.7733	0
+Tofieldia_pusilla	KC484269.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Cape Dorset, Near the airport	primary	rbcL	64.2333	-76.5417	0
+Tofieldia_pusilla	KC484268.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, 2-3 km SE of Paulatuk	primary	rbcL	69.4056	-124.081	0
+Tofieldia_pusilla	KC484267.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Flood plain beside creek flowing into Hornaday River	primary	rbcL	68.0833	-121.633	0
+Tofieldia_pusilla	KC484266.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Site NE of camp, about 21 km north of coast at Coronation Gulf, 24 km NNE of point	primary	rbcL	68.847	-112.497	0
+Tofieldia_pusilla	KC484265.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.619	-115.493	0
+Tofieldia_pusilla	KC484264.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq, shoreline of lake beside school	primary	rbcL	56.608	-79.269	0
+Tofieldia_pusilla	JN966041.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0
+Tofieldia_pusilla	JN966040.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Wet lichen heath	primary	rbcL	58.747	-93.863	0
+Tofieldia_pusilla	JN966039.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	rbcL	58.629	-93.798	0
+Tofieldia_pusilla	MK925029.1	14-JAN-2020	542	Sweden	secondary	rbcL	59.6749712	14.5208584	0
+Tofieldia_pusilla	MK925017.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.4691716071013	-3.62310358363052	0
+Tofieldia_pusilla	MK924917.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7904583019899	-2.99819040919945	0
+Tofieldia_pusilla	MK924875.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0
+Tofieldia_pusilla	MK924674.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2938746023408	-2.48098828980394	0
+Tofieldia_pusilla	MK924447.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6482617726445	-2.91559612283899	0

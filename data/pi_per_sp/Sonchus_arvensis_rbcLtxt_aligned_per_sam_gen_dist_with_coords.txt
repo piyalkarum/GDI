@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sonchus_arvensis	OQ832147.1	15-AUG-2023	553	USA: CMR Wildlife Refuge	primary	rbcL	47.6705	-107.6634	NA
+Sonchus_arvensis	MF694778.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan Desert, Kanchi mor	primary	rbcL	29.168	71.144	NA
+Sonchus_arvensis	MF688952.1	30-JUN-2018	873	India	primary	rbcL	23.44	92.39	0.00289561524025711
+Sonchus_arvensis	MG224234.1	26-DEC-2017	553	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.4406	-81.8842	NA
+Sonchus_arvensis	MG224139.1	26-DEC-2017	553	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., E edge of road between two ponds.	primary	rbcL	44.05	-79.4833	NA
+Sonchus_arvensis	MG223074.1	26-DEC-2017	551	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay, pres des clotures	primary	rbcL	45.513	-73.748	NA
+Sonchus_arvensis	MG222103.1	26-DEC-2017	534	Canada: Ontario, Nipissing District, Pentland Twp., Algonquin Park, ~10km in from Kiosk stop-gate, portage trail @ 2nd bridge	primary	rbcL	45.5842	-78.3583	NA
+Sonchus_arvensis	KT695509.1	29-SEP-2015	505	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.5920152121886	-80.5109223610872	NA
+Sonchus_arvensis	KT695418.1	29-SEP-2015	553	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.6159298045128	-79.7692972082178	NA
+Sonchus_arvensis	KJ593690.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.536	-88.651	NA
+Sonchus_arvensis	KJ841588.1	04-NOV-2014	569	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	rbcL	45.542	-73.154	NA
+Sonchus_arvensis	JN893247.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.42	-4.08	NA
+Sonchus_arvensis	OP328934.1	05-APR-2023	916	Bangladesh	secondary	rbcL	-0.2864982	36.0514231	0.0015418078064229
+Sonchus_arvensis	MT930567.1	03-MAR-2023	580	China	secondary	rbcL	35.5459913044553	105.046748642216	NA
+Sonchus_arvensis	MT930566.1	03-MAR-2023	569	China	secondary	rbcL	35.2622377598772	105.741965161377	NA
+Sonchus_arvensis	MN601474.1	15-DEC-2019	1428	USA	secondary	rbcL	39.7837304	-100.445882	0.00295954415974876
+Sonchus_arvensis	MN206020.1	01-SEP-2019	433	Indonesia	secondary	rbcL	-2.4833826	117.8902853	NA
+Sonchus_arvensis	MG222027.1	26-DEC-2017	530	Canada: Ontario, Rouge National Urban Park, Sector 2	secondary	rbcL	43.1740928591896	-77.4672484278697	NA
+Sonchus_arvensis	MG221597.1	26-DEC-2017	553	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	secondary	rbcL	43.1205523663235	-78.0735302659065	NA
+Sonchus_arvensis	JX848427.1	06-AUG-2013	1339	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.00294614253666553
+Sonchus_arvensis	JN891244.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	NA
+Sonchus_arvensis	JN891243.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	NA

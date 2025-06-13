@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_nemoralis	MF596975.1	28-FEB-2018	549	Canada: British Columbia, 3.2 km W of Gray Creek along Hwy. 3A	primary	rbcL	49.0304927497434	-116.098403739167	0.000890089599867753
+Poa_nemoralis	MF596974.1	28-FEB-2018	603	Canada: Ontario, Ottawa, walking/bike path along Rideau River near Vincent Massey Park. Edge of woods with Aralia nudicaulis, Taxus.	primary	rbcL	46.0277254956929	-75.3941457269887	0.00139176193014815
+Poa_nemoralis	MF596973.1	28-FEB-2018	549	Canada: British Columbia, Vancouver Island, 13.3 km down from Mt. Washington alpine resort/ski area, W of Courtenay	primary	rbcL	50.1323844090835	-125.480527527226	0.000890089599867753
+Poa_nemoralis	MF596972.1	28-FEB-2018	549	Canada: British Columbia, Kokanee Creek Provincial Park, along Hwy. 3A 13.3 km from ferry at Kooteny Lake.	primary	rbcL	48.8650993763907	-117.669872162385	0.000890089599867753
+Poa_nemoralis	MF596971.1	28-FEB-2018	603	Canada: Saskatchewan, Cypress Hills Provincial Park, near overlook (East Park).	primary	rbcL	48.9584636899811	-109.025205645797	0.00106757939321152
+Poa_nemoralis	MG227591.1	23-JAN-2018	549	Canada: British Columbia, Kokanee Creek Provincial Park, along Hwy. 3A 13.3 km from ferry at Kooteny Lake.	primary	rbcL	50.3928303636738	-117.709196538555	0.000890089599867753
+Poa_nemoralis	MG227549.1	23-JAN-2018	553	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	rbcL	43.2565	-79.8675	0.000888519399653211
+Poa_nemoralis	MG226383.1	23-JAN-2018	603	Canada: Saskatchewan, Cypress Hills Provincial Park, near overlook (East Park).	primary	rbcL	49.5884416689149	-108.677317389497	0.00106757939321152
+Poa_nemoralis	MG226086.1	23-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Halfway Log Dump Parking Lot, BPNP	primary	rbcL	45.227	-81.48	0.00339988331355683
+Poa_nemoralis	MG225896.1	23-JAN-2018	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Sassafras Point	primary	rbcL	43.2727	-79.9041	0.000888675396742929
+Poa_nemoralis	MG225874.1	23-JAN-2018	549	Canada: British Columbia, 3.2 km W of Gray Creek along Hwy. 3A	primary	rbcL	49.946947215776	-115.937917895335	0.000890089599867753
+Poa_nemoralis	MG225709.1	23-JAN-2018	603	Canada: Ontario, Ottawa, walking/bike path along Rideau River near Vincent Massey Park. Edge of woods with Aralia nudicaulis, Taxus.	primary	rbcL	45.452310069985	-76.6829380771524	0.00139176193014815
+Poa_nemoralis	MG225558.1	23-JAN-2018	549	Canada: British Columbia, Vancouver Island, 13.3 km down from Mt. Washington alpine resort/ski area, W of Courtenay	primary	rbcL	50.3131041329476	-124.988537146942	0.000890089599867753
+Poa_nemoralis	KJ841479.1	04-NOV-2014	575	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, south of Green Trail, near Dieppe peak	primary	rbcL	45.56	-73.1757	0.00156913380222799
+Poa_nemoralis	JN891128.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.7	-2.9	0.000727903074400659
+Poa_nemoralis	MN205145.1	30-NOV-2021	724	China	secondary	rbcL	35.433221336582	105.862268273215	0.00267198494507872
+Poa_nemoralis	MN192779.1	30-NOV-2021	652	China	secondary	rbcL	35.2788553825766	105.841438293255	0.00527322647293229
+Poa_nemoralis	MH116310.1	17-AUG-2018	636	China	secondary	rbcL	35.4787480583246	104.147492955489	0.00394933620915688
+Poa_nemoralis	MH116309.1	17-AUG-2018	668	China	secondary	rbcL	35.1309662124426	105.869364890808	0.003836656811462
+Poa_nemoralis	KJ204389.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.000890089599867753
+Poa_nemoralis	JN892397.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000727903074400659
+Poa_nemoralis	JN892396.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000727903074400659

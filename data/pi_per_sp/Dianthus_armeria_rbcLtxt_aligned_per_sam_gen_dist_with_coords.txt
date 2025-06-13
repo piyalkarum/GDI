@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_armeria	OQ404759.1	03-JUL-2023	611	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	rbcL	42.26086232	-85.63742016	0.000196850393700787
+Dianthus_armeria	MG249427.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Mary Hill, old cart trail (ca 10 m N of road) parallel to gravel rd. on S side of hill & 54 m W of split road.	primary	rbcL	48.35	-123.55	0.000196850393700787
+Dianthus_armeria	KT695582.1	29-SEP-2015	508	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.00197437422707847
+Dianthus_armeria	KJ841265.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.000196850393700787
+Dianthus_armeria	JN892039.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.62	-3.5	0.000198807157057654
+Dianthus_armeria	OQ172550.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.3293957025312	127.876156337582	0.000196850393700787
+Dianthus_armeria	OQ172549.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.3170560666611	127.051904051106	0.000196850393700787
+Dianthus_armeria	MG246513.1	21-JAN-2018	553	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Bridle Trail	secondary	rbcL	43.72634945	-77.7101179040839	0.000196850393700787
+Dianthus_armeria	KJ204329.1	29-JAN-2015	546	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000196850393700787
+Dianthus_armeria	JN892689.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000198807157057654
+Dianthus_armeria	JN892687.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000198807157057654

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chenopodium_ficifolium	KX678912.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, Delta, 1/2 way between Ladner and Tsawwassen, 70 m south of Deltaport Way, 480 m east of 53 Street, ploughed fallow field	primary	rbcL	49.059	-123.07	0
+Chenopodium_ficifolium	JN892463.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.49	-3.18	0
+Chenopodium_ficifolium	JN891437.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0
+Chenopodium_ficifolium	JN891252.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Chenopodium_ficifolium	JN891251.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Chenopodium_ficifolium	MK044284.1	15-MAY-2019	748	South Korea	secondary	rbcL	33.4930566	126.5130589	0

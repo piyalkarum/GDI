@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_odoratum	MG221817.1	26-DEC-2017	552	Canada: British Columbia, Vancouver Island, Victoria, Fernwood	primary	rbcL	48.437	-123.343	0.0049060382008626
+Galium_odoratum	JN890591.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.67	-2.69	0.00487593841455656
+Galium_odoratum	MK028099.1	17-DEC-2018	723	Switzerland: Geneva, Versoix	secondary	rbcL	46.2773064	6.168962	0.0207183908045977
+Galium_odoratum	JN893409.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00709132470890009
+Galium_odoratum	JN893406.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00487593841455656
+Galium_odoratum	JN893085.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00487593841455656

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melica_uniflora	JN892933.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.62	-2.91	0.00193997721590153
+Melica_uniflora	MZ224338.1	03-FEB-2022	1256	Germany	secondary	rbcL	40.9880166338349	-80.0152720648369	0.00205207389300895
+Melica_uniflora	MZ224337.1	03-FEB-2022	1262	Germany	secondary	rbcL	40.7042420743956	-79.4543051861115	0.00202982065242974
+Melica_uniflora	KJ204376.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00193510930446565
+Melica_uniflora	JN893344.1	07-MAR-2012	514	United Kingdom: Glamorgan	secondary	rbcL	52.0226655250949	-3.46586709619308	0.013700188063456
+Melica_uniflora	JN893056.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.2233682228302	-2.9218403674863	0.00193997721590153
+Melica_uniflora	JN893022.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.00193997721590153
+Melica_uniflora	JN893019.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00193997721590153
+Melica_uniflora	AJ746294.1	07-JAN-2005	1295	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00348139391075488

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spergularia_bocconei	OQ172496.1	18-JUN-2023	770	South Korea	secondary	matK	36.8997735800798	126.866943409951	0.00227909345556404
+Spergularia_bocconei	OQ172495.1	18-JUN-2023	770	South Korea	secondary	matK	36.3803767244383	128.384371784049	0.00233638910109498
+Spergularia_bocconei	OQ172494.1	18-JUN-2023	770	South Korea	secondary	matK	37.0995615763885	127.493186583566	0.00325948561242679
+Spergularia_bocconei	HM850776.1	23-JUL-2011	762	Portugal	secondary	matK	39.6621648	-8.1353519	0.00441176470588235

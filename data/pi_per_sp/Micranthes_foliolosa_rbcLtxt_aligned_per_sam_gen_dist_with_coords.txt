@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Micranthes_foliolosa	MG246982.1	21-JAN-2018	552	Canada: Yukon Territory, Kusawa Park ridge	primary	rbcL	60.634	-136.211	0
+Micranthes_foliolosa	MG246360.1	21-JAN-2018	552	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	rbcL	69.617	-140.769	0
+Micranthes_foliolosa	KT960666.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.208451871521	-20.8143870006199	0
+Micranthes_foliolosa	KT960660.1	13-DEC-2015	542	Greenland: NE, Zackenberg	primary	rbcL	75.1182845015576	-22.7187490828075	0
+Micranthes_foliolosa	KT960641.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.6622902113629	-22.9855230159818	0
+Micranthes_foliolosa	KC483154.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Central Plateau	primary	rbcL	76.75	-119.5	0
+Micranthes_foliolosa	KC483153.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.911	-109.596	0
+Micranthes_foliolosa	KC483152.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Apex, Iqaluit, ditch behind school	primary	rbcL	63.75	-68.5167	0
+Micranthes_foliolosa	KC483151.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Natkusiak Peninsula	primary	rbcL	72.45	-108.783	0
+Micranthes_foliolosa	KC483150.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Pond Inlet, Red Hills', 11-12 km SE of town. Sirmilik National Park'	primary	rbcL	72.7833	-77	0
+Micranthes_foliolosa	KC483149.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	rbcL	62.85	-92.1333	0

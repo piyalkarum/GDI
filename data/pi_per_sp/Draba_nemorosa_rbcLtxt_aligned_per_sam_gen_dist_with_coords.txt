@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_nemorosa	OR738141.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.1109	63.55593	0.000653640276691335
+Draba_nemorosa	KX679043.1	29-APR-2017	548	Canada: British Columbia, Okanagan-Similkameen Regional District, Along Ashnola Rd.	primary	rbcL	49.132	-120.066	0.000646252057892031
+Draba_nemorosa	JN965488.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes burn site, Burn site 5 years after fire	primary	rbcL	58.617	-93.812	0.000641552932351917
+Draba_nemorosa	JN965487.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Dry gravel ridge	primary	rbcL	58.75	-94.11	0.000641552932351917
+Draba_nemorosa	JN965486.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality	primary	rbcL	58.74	-93.82	0.000641552932351917
+Draba_nemorosa	JN965485.1	27-OCT-2012	541	Canada: Manitoba, Churchill, Gillam, Abundantly fruiting in sand of railroad embankment	primary	rbcL	56.353	-94.714	0.00185763843445624
+Draba_nemorosa	MT930794.1	03-MAR-2023	569	China	secondary	rbcL	35.0012082507669	105.391090064791	0.000625633826878292
+Draba_nemorosa	MT930793.1	03-MAR-2023	568	China	secondary	rbcL	35.8272953181914	104.907356400889	0.00062654386687637
+Draba_nemorosa	MT930792.1	03-MAR-2023	579	China	secondary	rbcL	35.7889533943186	105.421459330763	0.0014130770271904
+Draba_nemorosa	MT930791.1	03-MAR-2023	569	China	secondary	rbcL	34.6330967794139	104.914898451573	0.00318635235792705
+Draba_nemorosa	MT930790.1	03-MAR-2023	569	China	secondary	rbcL	34.9377654070132	104.152231113195	0.00318635235792705
+Draba_nemorosa	MT930789.1	03-MAR-2023	572	China	secondary	rbcL	34.5349309525873	105.067027405407	0.00258886682546365
+Draba_nemorosa	KM892698.1	11-OCT-2018	577	China	secondary	rbcL	34.5873185119105	104.136405566627	0.00141727935332123
+Draba_nemorosa	JX848440.1	06-AUG-2013	1379	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.00113501442639518
+Draba_nemorosa	JF941446.1	13-DEC-2011	612	China	secondary	rbcL	34.9983438407168	105.711594044377	0.000880864124829753
+Draba_nemorosa	JF941445.1	13-DEC-2011	612	China	secondary	rbcL	35.0389324299423	105.108435935082	0.000880864124829753
+Draba_nemorosa	JF941444.1	13-DEC-2011	612	China	secondary	rbcL	35.2591494893823	104.299950596865	0.000880864124829753
+Draba_nemorosa	MK044299.1	15-MAY-2019	748	South Korea	secondary	rbcL	35.68162	128.66447	0.000784448855951218

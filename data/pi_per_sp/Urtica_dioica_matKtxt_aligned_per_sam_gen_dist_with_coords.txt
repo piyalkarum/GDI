@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Urtica_dioica	KX676905.1	09-AUG-2017	787	Canada: British Columbia, Fraser Valley Regional District, East side of Harrison Lake, East Harrison Forest Service Road	primary	matK	49.4178	-121.759	0.0257103043185806
+Urtica_dioica	KX676820.1	09-AUG-2017	786	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail near Link Lake Forest Recreation Site	primary	matK	49.7109	-120.231	0.0257119670621116
+Urtica_dioica	KX676569.1	09-AUG-2017	767	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	matK	49.182	-119.091	0.0305696222144556
+Urtica_dioica	MG221125.1	21-JAN-2018	800	Canada: Quebec, Montreal, Island of Montreal, Parc du Mont-Royal	primary	matK	45.511	-73.593	0.0268994549901051
+Urtica_dioica	MG220685.1	21-JAN-2018	791	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	matK	51.273	-80.641	0.0257148884035236
+Urtica_dioica	HQ593482.1	09-NOV-2011	794	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 10 m N of creek along W edge of property	primary	matK	44.025	-79.548	0.0255673623985545
+Urtica_dioica	JN966727.1	27-OCT-2012	788	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	matK	58.769	-93.856	0.0264226007903402
+Urtica_dioica	JN894960.1	07-MAR-2012	787	United Kingdom: Glamorgan (41)	primary	matK	51.53	-3.22	0.0289570990716149
+Urtica_dioica	MG220979.1	21-JAN-2018	718	Canada: Ontario, Rouge National Urban Park, Sector 1	secondary	matK	43.72634945	-77.7101179040839	0.0253436417282113
+Urtica_dioica	HE967017.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.262968418041442
+Urtica_dioica	JN895919.1	07-MAR-2012	789	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0272927090194634
+Urtica_dioica	JN895914.1	07-MAR-2012	789	United Kingdom: Flintshire	secondary	matK	53.2165096	-3.1402189	0.0261547044696744

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_aurita	JN890630.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.16	-3.77	0.139622641509434
+Salix_aurita	LC757959.1	08-MAR-2023	702	Japan:Miyagi, Botanical Gardens of Tohoku University	secondary	rbcL	34.9803071	139.838919	0.558490566037736
+Salix_aurita	JN892179.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.9747028293236	-3.84207374822126	0.139622641509434
+Salix_aurita	JN892174.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.5136352568125	-4.29895340777679	0.139622641509434
+Salix_aurita	JN890891.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.139622641509434

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurium_erythraea	MK325717.1	30-APR-2019	208	Italy: Sicilia, Mitello & San Fratello	primary	psbA-trnH	38.02	14.36	0.00894639603385943
+Centaurium_erythraea	MK325706.1	30-APR-2019	374	Ireland: Galway, Carraroe, Connemara	primary	psbA-trnH	53.14	-9.37	0.0105457295964277
+Centaurium_erythraea	MK325703.1	30-APR-2019	364	Spain: Orense, Larouco	primary	psbA-trnH	42.19	-7.13	0.00532853748628235
+Centaurium_erythraea	MK325688.1	30-APR-2019	379	Italy: Cerdena, Nuoro	primary	psbA-trnH	39.41	9.27	0.00546141236991963
+Centaurium_erythraea	MK325667.1	30-APR-2019	378	Spain: Los Molinos, Sierra de Guara	primary	psbA-trnH	42.24	-0.07	0.00546753893748429
+Centaurium_erythraea	MK325693.1	30-APR-2019	379	Bulgaria: Fargovo	secondary	psbA-trnH	41.5766389	23.9969168	0.00841690164466413
+Centaurium_erythraea	MK325666.1	30-APR-2019	208	Montenegro	secondary	psbA-trnH	42.37136985	18.8557126959817	0.00894639603385943

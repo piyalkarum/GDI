@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Omalotheca_sylvatica	MG224209.1	26-DEC-2017	552	Canada: Ontario, Parry Sound Dist., Proudfoot Tp., 2 km along access road from Lower Raven L.	primary	rbcL	45.667	-78.15	0
+Omalotheca_sylvatica	MG223255.1	26-DEC-2017	552	Canada: Ontario, Haliburton Co., Dysart Tp., At lookout overlooking Haliburton, S of Hwy 519	primary	rbcL	45.05	-78.5	0
+Omalotheca_sylvatica	MG222020.1	26-DEC-2017	552	Canada: Quebec, Quebec Co., Sec. 4, T.20N., R 21E., on Ellensburg-Wenatchee Rd., ca. 5 mi N of Colochum Pass.	primary	rbcL	46.783	-71.267	0
+Omalotheca_sylvatica	MK924959.1	14-JAN-2020	542	Finland	secondary	rbcL	62.3883310330342	26.2541079402247	0
+Omalotheca_sylvatica	MK924602.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Omalotheca_sylvatica	MG224450.1	26-DEC-2017	552	Canada: Quebec, Wolfe Co., Shore of the St-Laurence, Les Boules.	secondary	rbcL	46.8137431	-71.2084061	0
+Omalotheca_sylvatica	MG224440.1	26-DEC-2017	552	Canada: Newfoundland and Labrador, Humber District, Reidville	secondary	rbcL	49.7738268	-56.8821439113846	0
+Omalotheca_sylvatica	HE574612.1	31-JUL-2011	554	Finland	secondary	rbcL	63.9243943705518	25.5935982892206	0

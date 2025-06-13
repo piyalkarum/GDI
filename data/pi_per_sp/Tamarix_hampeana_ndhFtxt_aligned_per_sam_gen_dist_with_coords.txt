@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_hampeana	MH626237.1	14-AUG-2019	705	Montenegro	secondary	ndhF	-29.0599576664227	-50.912003787301	0
+Tamarix_hampeana	KP244444.1	23-JUN-2015	743	Montenegro	secondary	ndhF	-29.5297246319028	-52.4775808720049	0
+Tamarix_hampeana	KP244443.1	23-JUN-2015	743	Greece	secondary	ndhF	42.4885791120264	-77.2398351912028	0
+Tamarix_hampeana	KP244442.1	23-JUN-2015	743	Greece	secondary	ndhF	42.9751538610146	-78.8511507287114	0

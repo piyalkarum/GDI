@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_glomerata	KY785150.1	25-FEB-2018	374	Serbia	primary	psbA-trnH	43.29	20.23	0.00221365155223997
+Campanula_glomerata	KY785149.1	25-FEB-2018	374	Macedonia	primary	psbA-trnH	41.8	20.61	0.00113651545785719
+Campanula_glomerata	KY785148.1	25-FEB-2018	374	Bosnia and Herzegovina	primary	psbA-trnH	43.51	17.94	0.00113651545785719
+Campanula_glomerata	KY785147.1	25-FEB-2018	373	Serbia	primary	psbA-trnH	43.31	20.86	0.00221365155223997
+Campanula_glomerata	KY785146.1	25-FEB-2018	374	Bosnia and Herzegovina	primary	psbA-trnH	43.95	17.76	0.00113651545785719
+Campanula_glomerata	KY785145.1	25-FEB-2018	374	Bosnia and Herzegovina	primary	psbA-trnH	43.78	17.16	0.00113651545785719
+Campanula_glomerata	KY785144.1	25-FEB-2018	374	Bosnia and Herzegovina	primary	psbA-trnH	44.026478820899	16.9156694939292	0.00113651545785719
+Campanula_glomerata	KY785143.1	25-FEB-2018	373	Montenegro	primary	psbA-trnH	42.93	20.23	0.00221365155223997
+Campanula_glomerata	KY785142.1	25-FEB-2018	374	Bosnia and Herzegovina	primary	psbA-trnH	44.5668325484637	17.2571774442355	0.00113651545785719
+Campanula_glomerata	OL943798.1	03-SEP-2022	393	Belgium	secondary	psbA-trnH	50.6402809	4.6667145	0.00114744330492561
+Campanula_glomerata	HG800508.1	03-FEB-2014	301	Italy:Lombardy, Grigna settentrionale	secondary	psbA-trnH	45.9533979	9.3876756	0.00332558139534884

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosotis_stricta	KX679241.1	29-APR-2017	553	Canada: British Columbia, Okanagan-Similkameen Regional District, Red Bridge Forest Recreation Site	primary	rbcL	49.1822	-120.003	0.00162514327531355
+Myosotis_stricta	KX679051.1	29-APR-2017	527	Canada: British Columbia, Central Okanagan Regional District, Kelowna, Quail Ridge Linear Park, just off main trail	primary	rbcL	49.9657	-119.406	0.00303266467877474
+Myosotis_stricta	KP402741.1	06-JAN-2016	522	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, grass area outside Mathias	primary	rbcL	38.889	-76.554	0.0055349164743266
+Myosotis_stricta	MG223288.1	26-DEC-2017	553	Canada: Ontario, Manitoulin Dist., Manitoulin Is., Gordon Twp., Foxey Prairie	secondary	rbcL	43.6160358717247	-76.5199734793801	0.00162514327531355
+Myosotis_stricta	MG223109.1	26-DEC-2017	553	Canada: Ontario, Middlesex Co., London Tp., London, Western Fair Fairgrounds	secondary	rbcL	44.2407168234931	-76.9351266083991	0.00162514327531355
+Myosotis_stricta	MG222898.1	26-DEC-2017	553	Canada: Ontario, Manitoulin Dist., Manitoulin Is., Tehkummah Twp., South Baymouth	secondary	rbcL	44.1722754248233	-77.5846124069	0.00162514327531355
+Myosotis_stricta	MG222164.1	26-DEC-2017	553	Canada: Ontario, Haliburton Co., Silent Lake Provincial Park, walk-in campsite parking area	secondary	rbcL	43.4705823703936	-78.608876675068	0.00162514327531355
+Myosotis_stricta	HM850191.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00404424458257254

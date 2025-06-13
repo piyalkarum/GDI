@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_caesia	JN891923.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	52	-4.51	0.116949152542373
+Rosa_caesia	JN891075.1	07-MAR-2012	542	United Kingdom: Shetland (112)	primary	rbcL	60.27	-1.21	0.116949152542373
+Rosa_caesia	JN892951.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.116949152542373
+Rosa_caesia	JN892950.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.116949152542373
+Rosa_caesia	JN892949.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.116949152542373
+Rosa_caesia	AJ628791.1	11-APR-2005	569	Germany:Schleswig-Holstein, Fehmarn	secondary	rbcL	54.4687375	11.1340848	0.584745762711864

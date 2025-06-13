@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sisymbrium_officinale	HQ593442.1	09-NOV-2011	782	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, Compost area north of Dufferin St. driveway	primary	matK	44.031	-79.53	0.0730843750814945
+Sisymbrium_officinale	JN895634.1	07-MAR-2012	1002	United Kingdom: Glamorgan	primary	matK	51.57	-4.1	0.0702953217057565
+Sisymbrium_officinale	OQ289920.1	16-MAY-2023	771	Mexico: Puebla	secondary	matK	19.1705686	-98.4123106	0.0760198480322218
+Sisymbrium_officinale	MW188528.1	18-JAN-2021	683	South Korea	secondary	matK	35.9238736885715	127.986253923154	0.0720808243348636
+Sisymbrium_officinale	MW188527.1	18-JAN-2021	683	South Korea	secondary	matK	37.2449053985942	127.926428643933	0.0720808243348636
+Sisymbrium_officinale	MW188526.1	18-JAN-2021	683	South Korea	secondary	matK	36.2827131471434	127.471241802877	0.0720808243348636
+Sisymbrium_officinale	MG458348.1	17-OCT-2018	843	Pakistan	secondary	matK	30.3308401	71.247499	0.0704743136897325
+Sisymbrium_officinale	HM850740.1	23-JUL-2011	625	Portugal	secondary	matK	39.6621648	-8.1353519	0.0829289907359608
+Sisymbrium_officinale	HE967001.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.9433684909877	13.3965108714667	0.22856050412352
+Sisymbrium_officinale	HE967000.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	46.1079564867175	13.753043332204	0.22856050412352
+Sisymbrium_officinale	HE966999.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	46.3057182070157	14.4305062838805	0.22856050412352
+Sisymbrium_officinale	JN896235.1	07-MAR-2012	800	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0715026129897797
+Sisymbrium_officinale	JN894303.1	07-MAR-2012	797	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.070983149213979

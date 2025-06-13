@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nerium_oleander	KU556611.1	06-AUG-2016	556	Egypt	primary	rbcL	30.0303	31.1956	0.000954059777589189
+Nerium_oleander	KP149528.1	16-NOV-2015	552	South Africa: Gauteng, Brixton, Cnr, Symonds rd, & Beverley rd	primary	rbcL	-26.192	28.007	0.00076673734174454
+Nerium_oleander	JQ412398.1	16-JAN-2013	552	South Africa: Western Cape, Cape Town, Robben Island	primary	rbcL	-33.81	18.377	0.00267647010230671
+Nerium_oleander	OQ189674.1	13-JUN-2023	700	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0.000780394697873728
+Nerium_oleander	MN056220.1	01-JAN-2021	713	China	secondary	rbcL	35.1239249683603	105.433066299527	0.00105282644463635
+Nerium_oleander	MN056219.1	01-JAN-2021	714	China	secondary	rbcL	34.8454720829008	104.485248982863	0.00105282644463635
+Nerium_oleander	HQ619727.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00076673734174454
+Nerium_oleander	MK895586.1	30-JUN-2019	474	Nepal	secondary	rbcL	28.1083929	84.0917139	0.000855361337667537
+Nerium_oleander	MK672875.1	26-MAR-2019	481	India	secondary	rbcL	22.3511148	78.6677428	0.00756975311875104
+Nerium_oleander	LC413466.1	31-JUL-2018	262	Japan:Aichi, Chita	secondary	rbcL	34.970089	136.860738	0.000693962526023595
+Nerium_oleander	HM850198.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00143555577098866
+Nerium_oleander	KP088700.1	15-MAR-2015	785	China	secondary	rbcL	39.9057136	116.3912972	0.00130219998324793

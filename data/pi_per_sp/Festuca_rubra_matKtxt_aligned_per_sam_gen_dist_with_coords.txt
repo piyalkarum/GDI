@@ -1,0 +1,38 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_rubra	LR588306.1	30-JUL-2021	2805	Germany	primary	matK	51.2203	11.7161	0.00445195080152717
+Festuca_rubra	LR588267.1	30-JUL-2021	2810	Germany	primary	matK	53.6758	6.9858	0.00192585402239873
+Festuca_rubra	MF597388.1	17-JUL-2018	780	Canada: Alberta, 29 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	matK	51.5370337115436	-114.023396710617	0.00303192157732615
+Festuca_rubra	MF597387.1	17-JUL-2018	819	Canada: Yukon Territory, 80 mi N of Hwy 2 on the Dempster Hwy (5) towards Eagle Plains. Gravelly drainage and open flats with Carex, Salix, Equisetum, and Eriophorum.	primary	matK	64.945	-138.273	0.00329665236017508
+Festuca_rubra	MF597386.1	17-JUL-2018	810	Canada: British Columbia, Mayne Island, Edith Point. Coastal. East facing rocks above shore line, with Pinus and Pseudotsuga menziesii	primary	matK	48.861	-123.257	0.00208136983891823
+Festuca_rubra	MF597385.1	17-JUL-2018	806	Canada: British Columbia, Vancouver Island, 15.7 km up Forbidden Plateau Road, W of Hwy. 19 near Cumberland/ Courtenay. Gravel parking lot edge with Pinus, Populus balsamifera.	primary	matK	49.662	-125.164	0.00495897616114189
+Festuca_rubra	MF597384.1	17-JUL-2018	802	Canada: British Columbia, Francis Point Provincial Park - just south of Pender Harbour, Sunshine Coast	primary	matK	49.613	-124.055	0.00206159153480495
+Festuca_rubra	MF597383.1	17-JUL-2018	791	Canada: Alberta, Banff National Park, 32 mi NW of Exshaw on Hwy 1 towards Lake Louise.	primary	matK	51.171	-115.661	0.00434047487740808
+Festuca_rubra	MF597382.1	17-JUL-2018	798	Canada: Alberta, 27 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	matK	50.4538204041678	-114.44372712014	0.00597610754144513
+Festuca_rubra	MF597381.1	17-JUL-2018	819	Canada: British Columbia, 13 mi NW of Pink Mountain on Hwy 97 towards Ft. Nelson. Forest with Picea, Alnus, Equisetum arvensis, and Populus trichocarpa	primary	matK	58.654	-124.254	0.00453572876796536
+Festuca_rubra	KC474855.1	25-OCT-2013	735	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk	primary	matK	69.1733020343871	-134.279592131941	0.00176475016790047
+Festuca_rubra	KC474854.1	25-OCT-2013	773	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Danny C. Gordon's goose camp	primary	matK	68.89	-136.96	0.00171196754176242
+Festuca_rubra	KC474853.1	25-OCT-2013	663	Canada: Northwest Territories, Northwest Territories Mainland, Nicholson Island, Liverpool Bay	primary	matK	69.883	-129.033	0.00191532956764607
+Festuca_rubra	KC474852.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Iqaluit, Hills just NE of settlement	primary	matK	68.75	-68.5	0.00171034136759982
+Festuca_rubra	KC474851.1	25-OCT-2013	773	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 3 km ESE of junction with Little Hornaday River, NE bank	primary	matK	68.3889	-121.939	0.00296731470514834
+Festuca_rubra	KC474850.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	matK	68.628	-112.714	0.00170377747929119
+Festuca_rubra	KC474849.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Sand dunes E of Kuujua River, 2 km S of on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.296	-116.57	0.00170377747929119
+Festuca_rubra	KC474848.1	25-OCT-2013	774	Canada: Nunavut, Victoria Island (Nunavut), Kitikmeot Region, Namaycush Lake East of Site 35. Low centre polygon network with large berms between ponds developed on a bluff on the S side of a major river	primary	matK	70.725580586409	-107.461237534915	0.00171034136759982
+Festuca_rubra	KC474847.1	25-OCT-2013	774	Canada: Northwest Territories, Banks Island (Northwest Territories), Aulavik National Park, Banks of the Thomsen River	primary	matK	73.717	-119.925	0.00171034136759982
+Festuca_rubra	KC474846.1	25-OCT-2013	775	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk, North of the baseball diamond	primary	matK	69.2759954525808	-133.575899307065	0.0017081476648038
+Festuca_rubra	KC474845.1	25-OCT-2013	434	Canada: Nunavut	primary	matK	70.446887855321	-106.078293706886	0.00153698725607328
+Festuca_rubra	KC474844.1	25-OCT-2013	773	Canada: Northwest Territories, Banks Island, De Salis Bay, ~2km N of Sandhill River, ~3km E of Windrum Lagoon, SE shore of small lake	primary	matK	71.47	-121.9	0.00171196754176242
+Festuca_rubra	KC474843.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, 2-3 km S of Paulatuk	primary	matK	69.4222	-124.022	0.00170377747929119
+Festuca_rubra	KC474842.1	25-OCT-2013	755	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	matK	70.735	-117.761	0.00171540650275027
+Festuca_rubra	KC474841.1	25-OCT-2013	773	Canada: Northwest Territories, Banks Island, 25 km ESE of Sachs Harbour, sand hills along tributary of Sachs River	primary	matK	71.88	-124.59	0.00171196754176242
+Festuca_rubra	JN966304.1	27-OCT-2012	613	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, Gravel-cobble beach and floodplain of Hay island in Silurian Formation, opposite Hudson`s Bay post.	primary	matK	57.83	-92.808	0.00154829393616034
+Festuca_rubra	JN966303.1	27-OCT-2012	737	Canada: Manitoba, Churchill, North side of the Owl river, about 4km inland, near cabin, 130km SE of Churchill. SE of the cabin near riverbank. Map sheet 54 F/15 elevation, just below the 10 a.s.l. Site 4., Hummocks near pond below raised beach ridge, E of cabin. Moist to wet peat.	primary	matK	58.66	-93.19	0.0045972416593546
+Festuca_rubra	HQ593297.1	01-NOV-2011	777	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill West, in lawn on dry hill east of tennis court parking lot	primary	matK	44.029	-79.538	0.00414090287716984
+Festuca_rubra	MT433199.1	31-MAY-2020	1532	Norway	secondary	matK	64.5731537	11.5280364	0.00583174978107382
+Festuca_rubra	KT280206.1	01-AUG-2016	738	China: Maqu Gansu	secondary	matK	34.6137382	102.4654149	0.00133048570133164
+Festuca_rubra	KM538794.1	20-JUN-2015	1091	South Korea	secondary	matK	36.638392	127.6961188	0.0042711234676116
+Festuca_rubra	KJ599333.1	21-SEP-2014	622	Australia: Victoria	secondary	matK	-36.5986096	144.6780052	0.0011169023499176
+Festuca_rubra	JX438106.1	31-MAR-2013	1223	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00181720741553432
+Festuca_rubra	HE966928.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00294728392100779
+Festuca_rubra	JN895913.1	07-MAR-2012	837	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00431716389385046
+Festuca_rubra	JN894543.1	07-MAR-2012	853	United Kingdom: Cardiganshire	secondary	matK	52.1635306554144	-2.88450392580205	0.00163398057763398
+Festuca_rubra	JN894542.1	07-MAR-2012	766	United Kingdom: Cardiganshire	secondary	matK	52.0405171678111	-4.40981785805855	0.00165299588256192

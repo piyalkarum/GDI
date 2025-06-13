@@ -1,0 +1,27 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubus_ulmifolius	OL954199.1	23-NOV-2022	990	South Africa: M, Graskop, pastures at elEastern Capetric transformer station	primary	matK	-24.93527777	30.84277777	0.000345679012345679
+Rubus_ulmifolius	OL954165.1	23-NOV-2022	990	South Africa: M, Volksrust, behing houses in the 1st Ave, at a wall	primary	matK	-27.37305555	29.86722222	0.000345679012345679
+Rubus_ulmifolius	OL954163.1	23-NOV-2022	982	South Africa: KwaZulu Natal, in pass 5 km S of Charlestown (near Volksrust), in a small ravine at margin of pine plantation	primary	matK	-27.46111111	29.8725	0.000345679012345679
+Rubus_ulmifolius	KM036823.1	28-SEP-2014	993	Germany: Hessen, near Wiesbaden	secondary	matK	52.02267415	10.7894913857692	0.000345679012345679
+Rubus_ulmifolius	KM036822.1	28-SEP-2014	979	France: Languedoc-Roussillon, near Le Boulou	secondary	matK	43.65420305	3.67466994020661	0.000248756218905473
+Rubus_ulmifolius	KM036821.1	28-SEP-2014	993	Spain: Catalunya, near Sant Celoni	secondary	matK	41.3801571966943	1.52015055188251	0.000345679012345679
+Rubus_ulmifolius	KM036820.1	28-SEP-2014	990	Spain: Catalunya, near Barcelona	secondary	matK	41.9790821063316	2.38097654757021	0.000345679012345679
+Rubus_ulmifolius	KM036816.1	28-SEP-2014	989	France: Alpes-Maritimes, near Cannes	secondary	matK	43.654029894002	8.12770520357625	0.000345679012345679
+Rubus_ulmifolius	KM036814.1	28-SEP-2014	882	Spain: Andalusia, near Punta Umbr a	secondary	matK	37.4645318	-5.3443621	0.000113636363636364
+Rubus_ulmifolius	KM036813.1	28-SEP-2014	989	France: Nord-Pas-de-Calais, near Dunkerk	secondary	matK	50.4966158817985	3.1551962925599	0.000345679012345679
+Rubus_ulmifolius	KM036812.1	28-SEP-2014	985	France: Nord-Pas-de-Calais, near Calais	secondary	matK	51.2515428299441	2.33918020959132	0.000345679012345679
+Rubus_ulmifolius	KM036811.1	28-SEP-2014	993	France: Picardie, near Abbeville	secondary	matK	50.257429447584	2.07044359158365	0.000345679012345679
+Rubus_ulmifolius	KM036810.1	28-SEP-2014	993	France: Picardie, near Abbeville	secondary	matK	49.5525318287713	4.2202769335498	0.000345679012345679
+Rubus_ulmifolius	KM036800.1	28-SEP-2014	990	Slovenia: Postojna, near Pivka	secondary	matK	45.7752847	14.2139937	0.000345679012345679
+Rubus_ulmifolius	KM036796.1	28-SEP-2014	993	Croatia: Istria, near Pore	secondary	matK	45.1934345	13.9150535873553	0.000345679012345679
+Rubus_ulmifolius	KM036707.1	28-SEP-2014	993	France: Alpes-Maritimes, near Monaco	secondary	matK	43.773813193509	7.3673967611424	0.000345679012345679
+Rubus_ulmifolius	KM036705.1	28-SEP-2014	993	France: Alpes-Maritimes, near Cannes	secondary	matK	44.5521819109595	7.51403073602651	0.000345679012345679
+Rubus_ulmifolius	KM036704.1	28-SEP-2014	993	France: Corsica, Bonifacio	secondary	matK	41.3878259	9.1606179	0.000345679012345679
+Rubus_ulmifolius	KM036703.1	28-SEP-2014	993	Spain: Canary Islands, La Gomera	secondary	matK	28.1192355	-17.2257471	0.000345679012345679
+Rubus_ulmifolius	KM036671.1	28-SEP-2014	993	Portugal: Madeira, near Funchal	secondary	matK	32.7517501	-16.9817486572606	0.000345679012345679
+Rubus_ulmifolius	KJ747803.1	27-JUL-2014	733	Spain	secondary	matK	39.3260685	-4.8379791	0.000109140518417462
+Rubus_ulmifolius	KC584941.1	04-JUN-2013	815	Italy: Umbria	secondary	matK	42.965916	12.490236	0.000155844155844156
+Rubus_ulmifolius	HM850696.1	23-JUL-2011	810	Portugal	secondary	matK	39.6621648	-8.1353519	0.00788663651606271
+Rubus_ulmifolius	KM036824.1	28-SEP-2014	966	Germany	secondary	matK	51.78395815	8.92005740155727	0.000345679012345679
+Rubus_ulmifolius	KM036819.1	28-SEP-2014	967	France	secondary	matK	43.8313632669764	6.40486778548949	0.000345679012345679
+Rubus_ulmifolius	KM036817.1	28-SEP-2014	921	France	secondary	matK	42.9404093468594	7.07171897818603	0.000345679012345679

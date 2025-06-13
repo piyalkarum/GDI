@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Valeriana_capitata	MG222630.1	26-DEC-2017	552	Canada: Yukon Territory, Blow River Delta east, Outer Delta west of Whitefish Station	primary	rbcL	68.902	-136.958	0
+Valeriana_capitata	KC484323.1	25-OCT-2013	552	Canada: Yukon Territory, Shingle Point, Coastline	primary	rbcL	68.967	-137.25	0
+Valeriana_capitata	KC484322.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Stokes Point	primary	rbcL	69.033	-138.733	0
+Valeriana_capitata	KC484321.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Craig Creek, below International Marker	primary	rbcL	69.45	-140.983	0

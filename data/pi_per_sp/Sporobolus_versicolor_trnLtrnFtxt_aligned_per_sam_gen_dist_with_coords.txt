@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sporobolus_versicolor	KT957631.1	07-NOV-2016	555	Italy: Pantano, Sicily	secondary	trnL-trnF	44.4851601	10.5126698	0
+Sporobolus_versicolor	KT957629.1	07-NOV-2016	555	Spain: Roche, Andalusia	secondary	trnL-trnF	37.6293078	-0.917777228427205	0
+Sporobolus_versicolor	KT957640.1	07-NOV-2016	555	France	secondary	trnL-trnF	42.18808965	9.06841377142769	0
+Sporobolus_versicolor	KT957630.1	07-NOV-2016	555	Spain	secondary	trnL-trnF	37.4645318	-5.3443621	0

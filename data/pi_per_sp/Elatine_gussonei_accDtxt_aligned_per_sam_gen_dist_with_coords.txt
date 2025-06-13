@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elatine_gussonei	KX818169.1	01-DEC-2016	1131	Malta: Gozo, Ta Sannat	primary	accD	36.01	14.25	0.00819054375004899
+Elatine_gussonei	KX818168.1	01-DEC-2016	1131	Italy: Lampedusa	primary	accD	35.51	12.56	0.00819054375004899
+Elatine_gussonei	KX818164.1	01-DEC-2016	1131	Morocco: Ben Slimane	primary	accD	33.61	-7.1	0.00619469026548673
+Elatine_gussonei	KX818163.1	01-DEC-2016	1130	Italy: Sicily, Modica	primary	accD	36.76	14.77	0.00553567649341182
+Elatine_gussonei	KX818162.1	01-DEC-2016	1130	Spain: Casar de Caceres	primary	accD	39.33	-6.25	0.00553567649341182

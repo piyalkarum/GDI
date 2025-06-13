@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_dracunculus	OR515597.1	10-SEP-2023	504	Kazakhstan: Qaragandy region	primary	rbcL	49.49998	73.26456	0
+Artemisia_dracunculus	MG224512.1	26-DEC-2017	552	Canada: Yukon Territory, Aishihik Valley, Giltana Slough	primary	rbcL	61.234	-136.956	0.000164690382081686
+Artemisia_dracunculus	MG224134.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	48.335	-103.566	0.000164690382081686
+Artemisia_dracunculus	MG222966.1	26-DEC-2017	552	Canada: Yukon Territory, Christmas Creek, gravel pit east of	primary	rbcL	61.008	-138.197	0.000164690382081686
+Artemisia_dracunculus	MT930367.1	03-MAR-2023	571	China	secondary	rbcL	35.000074	104.999927	0.000164392569455861
+Artemisia_dracunculus	KX582009.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	44.1488075247392	81.701428437561	0.00012950012950013
+Artemisia_dracunculus	KX582008.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	44.33281189505	82.3546073673897	0.00012950012950013
+Artemisia_dracunculus	KX582007.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	43.2939467656949	81.2746141586033	0.0014354644927017
+Artemisia_dracunculus	KX582006.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	43.5625434508432	80.4762967314852	0.00012950012950013
+Artemisia_dracunculus	KX582005.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	43.6243365539238	82.0416442361924	0.00012950012950013
+Artemisia_dracunculus	KX582004.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	44.1136121790129	82.3184565134563	0.00012950012950013
+Artemisia_dracunculus	KX582003.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	43.7586138975047	80.4818005616798	0.00012950012950013

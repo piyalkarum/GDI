@@ -1,0 +1,48 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhodiola_rosea	MG938151.1	31-JAN-2019	338	Russia: Yakutia	secondary	psbA-trnH	66.941626	129.642371	0.0301839706035583
+Rhodiola_rosea	MG938148.1	31-JAN-2019	346	Kyrgyzstan: Ala archa	secondary	psbA-trnH	42.7210443	74.5468714	0.0475972838562553
+Rhodiola_rosea	MG938147.1	31-JAN-2019	334	Ireland: Sligo	secondary	psbA-trnH	54.1929861	-8.7305427	0.0239205933353649
+Rhodiola_rosea	MG938145.1	31-JAN-2019	334	Finland: Halti	secondary	psbA-trnH	69.2714884	21.2460887	0.0239205933353649
+Rhodiola_rosea	MG938144.1	31-JAN-2019	336	Russia: Novaya Zemlya	secondary	psbA-trnH	75.1168773	58.6929262	0.0316225180160168
+Rhodiola_rosea	MG938143.1	31-JAN-2019	330	Italy: Passo Gavia	secondary	psbA-trnH	44.51918	7.06967	0.0216216139449605
+Rhodiola_rosea	MG938142.1	31-JAN-2019	330	Italy: Col Bricon	secondary	psbA-trnH	45.5049905	12.2688605	0.0216216139449605
+Rhodiola_rosea	MG938141.1	31-JAN-2019	330	Austria: Zirbitzkogel	secondary	psbA-trnH	47.0636156	14.5672214	0.0216216139449605
+Rhodiola_rosea	MG938140.1	31-JAN-2019	330	Slovakia: Mengusovska dolina	secondary	psbA-trnH	49.1462889	20.072751	0.0245672506222375
+Rhodiola_rosea	MG938139.1	31-JAN-2019	330	Slovakia: Lomnicky stit	secondary	psbA-trnH	49.1951431	20.2130329	0.0256228906801752
+Rhodiola_rosea	MG938138.1	31-JAN-2019	336	Slovakia: Chopok	secondary	psbA-trnH	48.9430096	19.5927162	0.0207093771760158
+Rhodiola_rosea	MG938137.1	31-JAN-2019	334	United Kingdom: Cadair Idris	secondary	psbA-trnH	52.6995951	-3.9088003	0.0242526319490497
+Rhodiola_rosea	MG938136.1	31-JAN-2019	334	Ireland: Inishmore	secondary	psbA-trnH	53.1204199	-9.7056821	0.0242526319490497
+Rhodiola_rosea	MG938135.1	31-JAN-2019	336	Russia: North Ural	secondary	psbA-trnH	62.000044	59.4497613	0.0218123484483152
+Rhodiola_rosea	MG938133.1	31-JAN-2019	330	Switzerland: Unteralp	secondary	psbA-trnH	46.6936617	9.7837909	0.0216216139449605
+Rhodiola_rosea	MG938132.1	31-JAN-2019	330	Switzerland: Binntal	secondary	psbA-trnH	46.3636082	8.1825814	0.0216216139449605
+Rhodiola_rosea	MG938131.1	31-JAN-2019	330	Italy: Val Fredda	secondary	psbA-trnH	46.2444511	11.5119552	0.0216216139449605
+Rhodiola_rosea	MG938130.1	31-JAN-2019	336	Italy: Tonale	secondary	psbA-trnH	45.6187867	10.2335459	0.0216216139449605
+Rhodiola_rosea	MG938129.1	31-JAN-2019	330	Austria: Prabichl	secondary	psbA-trnH	47.5242441	14.9472379	0.0216216139449605
+Rhodiola_rosea	MG938126.1	31-JAN-2019	330	Switzerland: Mattmark	secondary	psbA-trnH	46.0481606	7.9547644	0.0216216139449605
+Rhodiola_rosea	MG938125.1	31-JAN-2019	330	Slovenia: Triglav	secondary	psbA-trnH	46.3782982	13.8365822	0.0216216139449605
+Rhodiola_rosea	MG938124.1	31-JAN-2019	330	Italy: Fedaia	secondary	psbA-trnH	46.4552441	11.8838596	0.0216216139449605
+Rhodiola_rosea	MG938123.1	31-JAN-2019	330	Italy: Erdemolo	secondary	psbA-trnH	46.110603	11.3771829	0.0216216139449605
+Rhodiola_rosea	MG938121.1	31-JAN-2019	320	Bulgaria: Rila	secondary	psbA-trnH	42.110495	23.5155922	0.0206699140156547
+Rhodiola_rosea	MG938120.1	31-JAN-2019	336	Romania: Cindrel	secondary	psbA-trnH	45.5786137	23.8018644	0.0254038566724623
+Rhodiola_rosea	MG938119.1	31-JAN-2019	336	Russia: Anadir	secondary	psbA-trnH	64.7316875	177.5060925	0.0207093771760158
+Rhodiola_rosea	MG938118.1	31-JAN-2019	334	Iceland: Akureyri	secondary	psbA-trnH	65.6839035	-18.1121756	0.0239205933353649
+Rhodiola_rosea	MG938117.1	31-JAN-2019	334	Romania: Fagaras	secondary	psbA-trnH	45.8449433	24.9703224	0.0237763546120529
+Rhodiola_rosea	MG938116.1	31-JAN-2019	334	Andorra: Juclar	secondary	psbA-trnH	42.6163861	1.709919	0.0265567112595401
+Rhodiola_rosea	MG938115.1	31-JAN-2019	334	Norway: Kvaloya	secondary	psbA-trnH	69.7021472	18.8014262	0.0239205933353649
+Rhodiola_rosea	MG938114.1	31-JAN-2019	334	Andorra: Grau Roig	secondary	psbA-trnH	42.5368991	1.7017913	0.0265567112595401
+Rhodiola_rosea	MG938112.1	31-JAN-2019	334	Finland: Kilpisjarvi	secondary	psbA-trnH	69.0454638	20.8004	0.0239205933353649
+Rhodiola_rosea	MG938111.1	31-JAN-2019	330	Romania: Calimani	secondary	psbA-trnH	45.72131	21.3100312	0.0205984103855857
+Rhodiola_rosea	MG938109.1	31-JAN-2019	330	Austria: Hochkar	secondary	psbA-trnH	47.7108251	14.9012107	0.0240650247274391
+Rhodiola_rosea	MG938108.1	31-JAN-2019	330	Austria: Durrenstein	secondary	psbA-trnH	47.7857304	15.0594299	0.0240650247274391
+Rhodiola_rosea	KP114967.1	25-MAR-2015	316	China: Beijing, Dongling Mt.	secondary	psbA-trnH	40.1849145503474	116.338139197062	0.0207299843720642
+Rhodiola_rosea	KJ570085.1	09-AUG-2014	299	China: Beijing, Wutai Mt	secondary	psbA-trnH	39.3369391716499	116.460823534251	0.0213710615424239
+Rhodiola_rosea	KJ570084.1	09-AUG-2014	296	China: Beijing, Wuling Mt	secondary	psbA-trnH	40.0258043508908	115.635077184603	0.0373690855072622
+Rhodiola_rosea	KJ570083.1	09-AUG-2014	293	China: Jilin, Changbai Mt	secondary	psbA-trnH	41.5687467	127.8415521	0.0354031962738107
+Rhodiola_rosea	KJ570082.1	09-AUG-2014	301	Iceland	secondary	psbA-trnH	64.9841821	-18.1059013	0.0235427217100565
+Rhodiola_rosea	KJ570081.1	09-AUG-2014	268	Greenland	secondary	psbA-trnH	36.6982865282693	-93.8842384910734	0.0867404619214983
+Rhodiola_rosea	KJ570080.1	09-AUG-2014	278	Greenland	secondary	psbA-trnH	35.8242826731164	-94.2662564174107	0.084275997773479
+Rhodiola_rosea	KJ570079.1	09-AUG-2014	299	Russia: Chukotka	secondary	psbA-trnH	66.0006475	169.4900869	0.0214703292277507
+Rhodiola_rosea	KJ570078.1	09-AUG-2014	301	Canada: New Brunswick, Cap Enrag	secondary	psbA-trnH	47.43950925	-68.3926909826309	0.0258215479921745
+Rhodiola_rosea	KF113770.1	27-MAY-2014	302	China: Beijing	secondary	psbA-trnH	39.4834622748187	-105.355080341229	0.0281143543674609
+Rhodiola_rosea	KF113769.1	27-MAY-2014	319	Canada: New Brunswick	secondary	psbA-trnH	46.500283	-66.750183	0.0247808408725709
+Rhodiola_rosea	FJ974029.1	10-JUN-2009	308	China: Beijing	secondary	psbA-trnH	39.9964002532599	-105.264392265821	0.0233124682799877

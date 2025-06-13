@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Matricaria_chamomilla	KX783708.1	31-MAY-2017	799	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	31.2	30.022	0
+Matricaria_chamomilla	JN895173.1	07-MAR-2012	894	United Kingdom: Cardiganshire	primary	matK	52.34	-4.09	0
+Matricaria_chamomilla	KJ751044.1	19-JUL-2014	649	Brazil	secondary	matK	-10.6662081564097	-53.1951521015434	0
+Matricaria_chamomilla	KJ751043.1	19-JUL-2014	649	Brazil	secondary	matK	-10.983663797188	-53.7722526637257	0
+Matricaria_chamomilla	KJ751042.1	19-JUL-2014	649	Brazil	secondary	matK	-9.84473409165143	-53.4182680897171	0
+Matricaria_chamomilla	KJ751041.1	19-JUL-2014	649	Brazil	secondary	matK	-10.1688500200391	-52.9104955354773	0
+Matricaria_chamomilla	KJ751040.1	19-JUL-2014	649	Brazil	secondary	matK	-11.1620452002409	-53.3849365998516	0
+Matricaria_chamomilla	KJ751031.1	19-JUL-2014	649	Brazil	secondary	matK	-9.72343288605623	-53.5359007519312	0
+Matricaria_chamomilla	KJ751025.1	19-JUL-2014	649	Brazil	secondary	matK	-10.1928394153037	-53.4522666817549	0
+Matricaria_chamomilla	KJ751023.1	19-JUL-2014	649	Brazil	secondary	matK	-11.0063808445061	-52.8090680395414	0
+Matricaria_chamomilla	KJ751021.1	19-JUL-2014	649	Brazil	secondary	matK	-10.6204289686382	-53.7424720832683	0
+Matricaria_chamomilla	KJ751019.1	19-JUL-2014	649	Brazil	secondary	matK	-10.9960916400473	-52.5991714550433	0
+Matricaria_chamomilla	KJ751018.1	19-JUL-2014	649	Brazil	secondary	matK	-10.839627926463	-52.9458830091501	0
+Matricaria_chamomilla	JN895952.1	07-MAR-2012	921	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0
+Matricaria_chamomilla	JN894233.1	07-MAR-2012	963	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0

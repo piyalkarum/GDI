@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lonicera_alpigena	AB937463.1	04-OCT-2014	1278	Japan: Niigata, Tsunan	secondary	rpoB	37.0143055	138.6524515	0.00105447499813697
+Lonicera_alpigena	AB937454.1	04-OCT-2014	1278	Japan: Hokkaido, Botanical Garden Hokkaido University	secondary	rpoB	43.0637749	141.3423348	0.00131529920262315
+Lonicera_alpigena	AB937442.1	04-OCT-2014	1278	Japan: Nagano, Ina	secondary	rpoB	35.830452	137.954916	0.00105447499813697
+Lonicera_alpigena	GU076463.1	06-OCT-2010	420	Austria: Lower Austria, Payerbach-Reichenau an der Rax	secondary	rpoB	47.6923394	15.8558314	0.00238095238095238

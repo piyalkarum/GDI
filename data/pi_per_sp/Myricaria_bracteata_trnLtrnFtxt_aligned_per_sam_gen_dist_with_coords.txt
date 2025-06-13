@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myricaria_bracteata	OQ617272.1	19-JUL-2023	802	Georgia: Mtskheta-Mtianeti	secondary	trnL-trnF	42.2290312	44.8569963	0.0209629071072466
+Myricaria_bracteata	OQ617256.1	19-JUL-2023	803	Russia: Altai	secondary	trnL-trnF	50.3308920136145	87.4569337977212	0.0151245783928269
+Myricaria_bracteata	OQ617255.1	19-JUL-2023	803	Russia: Altai	secondary	trnL-trnF	50.2186567680275	87.6369084914131	0.0237687752153873
+Myricaria_bracteata	OQ617254.1	19-JUL-2023	790	Kazakhstan: Almaty	secondary	trnL-trnF	43.2363924	76.9457275	0.0147738225277903
+Myricaria_bracteata	OQ617253.1	19-JUL-2023	801	Armenia: Stepanavan	secondary	trnL-trnF	41.0089932	44.3887499	0.0123791755160316
+Myricaria_bracteata	OQ617242.1	19-JUL-2023	801	Georgia: Svaneti	secondary	trnL-trnF	42.9170364	43.014221	0.0125906668143138
+Myricaria_bracteata	OQ617241.1	19-JUL-2023	799	Armenia: Stepanavan	secondary	trnL-trnF	41.0112004	44.3845119	0.0159777123054905

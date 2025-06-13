@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Secale_sylvestre	OR738255.1	13-NOV-2023	618	Kazakhstan: Mangistau region	primary	matK	43.34537	51.43346	0.0172105184241107
+Secale_sylvestre	OR738232.1	13-NOV-2023	518	Kazakhstan: Atyrau region	primary	matK	47.24122	54.28072	0.00386100386100386
+Secale_sylvestre	LR606979.1	25-JAN-2021	2081	Hungary	secondary	matK	42.2123197568361	-72.1628076238057	0.00616216695482555
+Secale_sylvestre	MG905747.1	04-AUG-2018	876	Poland	secondary	matK	52.215933	19.134422	0.00787449572194884
+Secale_sylvestre	LN554452.1	02-APR-2015	2018	Hungary	secondary	matK	41.364016366845	-73.4032187506916	0.00616216695482555

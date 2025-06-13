@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_sylvaticum	MH488033.1	20-JAN-2022	1955	Slovenia	secondary	trnL-trnF	46.2155740391656	15.4222349799506	0
+Cerastium_sylvaticum	MH488032.1	20-JAN-2022	1955	Croatia	secondary	trnL-trnF	45.3658443	15.6575209	0
+Cerastium_sylvaticum	MH488031.1	20-JAN-2022	1955	Slovenia	secondary	trnL-trnF	45.529439417191	14.4697689941942	0
+Cerastium_sylvaticum	MH488030.1	20-JAN-2022	1955	Slovenia	secondary	trnL-trnF	46.0648264444806	15.1339603709341	0
+Cerastium_sylvaticum	MH488029.1	20-JAN-2022	1955	Slovenia	secondary	trnL-trnF	46.5146744556746	14.8085056083189	0
+Cerastium_sylvaticum	MH488026.1	20-JAN-2022	1955	Slovenia	secondary	trnL-trnF	46.2618086082992	15.2113854537519	0

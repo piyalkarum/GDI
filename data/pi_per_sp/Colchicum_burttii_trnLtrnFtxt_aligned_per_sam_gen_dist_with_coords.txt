@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colchicum_burttii	KT897858.1	01-NOV-2017	1043	Turkey	secondary	trnL-trnF	39.3376470156252	35.3038585046559	0.008309364014062
+Colchicum_burttii	KT897850.1	01-NOV-2017	1045	Turkey	secondary	trnL-trnF	38.5133854113648	34.44205957489	0.0044715201799941
+Colchicum_burttii	KT897785.1	01-NOV-2017	1044	Turkey	secondary	trnL-trnF	38.6810466610863	35.6778337812118	0.00383386659711584
+Colchicum_burttii	KT897784.1	01-NOV-2017	1047	Turkey	secondary	trnL-trnF	38.9400903464828	34.3359850469027	0.00511008978408094

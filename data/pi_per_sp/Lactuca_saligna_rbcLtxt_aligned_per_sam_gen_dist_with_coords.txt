@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lactuca_saligna	MG224238.1	26-DEC-2017	552	Canada: Ontario, Niagara County, Niagara Falls Railway yard, off Whirlpool Road	primary	rbcL	43.126	-79.083	0
+Lactuca_saligna	MK925455.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3036662678291	-3.82313663469715	0
+Lactuca_saligna	MK924954.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9013781008624	-3.3034629699261	0
+Lactuca_saligna	MK924632.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.91952687845	-3.4934392250277	0

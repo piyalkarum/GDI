@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_longiflorus	KU234827.1	18-JAN-2016	420	Spain	secondary	trnL-trnF	39.6451822448874	-4.0716775210189	0
+Odontites_longiflorus	KU234826.1	18-JAN-2016	430	Spain	secondary	trnL-trnF	39.0905605505525	-4.52457076975195	0
+Odontites_longiflorus	KU234825.1	18-JAN-2016	430	Spain	secondary	trnL-trnF	38.8324424839395	-4.45034076412563	0
+Odontites_longiflorus	KU234824.1	18-JAN-2016	430	Spain	secondary	trnL-trnF	40.1060206513982	-4.37361762132752	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_membranaceus	OU877740.1	17-JUN-2022	2415	Romania:Constanta, Rezervatia naturala Padurea Hagieni	secondary	trnK	44.6410459890159	29.3110632540851	0.326379160976756
+Dianthus_membranaceus	OU877739.1	17-JUN-2022	2415	Romania:Constanta, Rezervatia naturala Padurea Hagieni	secondary	trnK	44.4181801584972	28.1763696309357	0.326379160976756
+Dianthus_membranaceus	OU860241.1	17-JUN-2022	243	Romania:Constanta, Rezervatia naturala Padurea Hagieni	secondary	trnK	44.5609306917833	29.512456684175	0.326241134751773
+Dianthus_membranaceus	OU860237.1	17-JUN-2022	243	Romania:Constanta, Rezervatia naturala Padurea Hagieni	secondary	trnK	44.0132701627534	27.393386953964	0.326241134751773

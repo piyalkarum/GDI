@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erigeron_humilis	MG225116.1	21-JAN-2018	780	Canada: Yukon Territory, Vuntut National Park, Dog Creek camp	primary	matK	68.465	-138.746	0
+Erigeron_humilis	MG225030.1	21-JAN-2018	780	Canada: British Columbia, Atlin, Monarch Mountain trail	primary	matK	59.553	-133.608	0
+Erigeron_humilis	KC474731.1	25-OCT-2013	777	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq. Seashore, on airport side under sideways rocks	primary	matK	56.594	-79.25	0
+Erigeron_humilis	KC474730.1	25-OCT-2013	777	Canada: Nunavut, Baffin Island, Ogac Lake	primary	matK	62.85	-67.033	0
+Erigeron_humilis	KC474729.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk	primary	matK	69.453	-124.197	0
+Erigeron_humilis	KC474728.1	25-OCT-2013	766	Canada: Nunavut, Southampton Island, Between Sixteen Mile Brook and Kirchoffer River	primary	matK	64.1	-83.383	0
+Erigeron_humilis	KC474727.1	25-OCT-2013	773	Canada: Northwest Territories, Anderson River, Cape Bathurst E side, brook system N of river from Lake Mc kinlay, 0.7 - 1.5 km from sea	primary	matK	70.483	-127.8	0
+Erigeron_humilis	KC474726.1	25-OCT-2013	773	Canada: Nunavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	matK	62.83	-67.35	0

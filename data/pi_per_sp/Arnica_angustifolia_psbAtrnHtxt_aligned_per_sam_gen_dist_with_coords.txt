@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arnica_angustifolia	OP004992.1	12-APR-2023	401	Norway: Svalbard, Ringhorndalen	primary	psbA-trnH	78.5650023131794	17.1686662034404	0
+Arnica_angustifolia	OP004991.1	12-APR-2023	401	Norway: Svalbard, Ringhorndalen	primary	psbA-trnH	80.1538014667363	16.7901193930245	0
+Arnica_angustifolia	OP004990.1	12-APR-2023	401	Canada: Victoria Island, Minto inlet	primary	psbA-trnH	71.205	-116.383	0
+Arnica_angustifolia	OP004989.1	12-APR-2023	401	USA: Alaska, Noatak Quad	primary	psbA-trnH	67.334	-163.724	0
+Arnica_angustifolia	OP004988.1	12-APR-2023	401	Norway: Svalbard, Lomfjorden	primary	psbA-trnH	79.363	17.667	0
+Arnica_angustifolia	OP004987.1	12-APR-2023	401	Greenland: Hurry Fjord	primary	psbA-trnH	70.54	-22.275	0
+Arnica_angustifolia	OP004986.1	12-APR-2023	401	Norway: Svalbard, Litledalen	primary	psbA-trnH	77.868	15.722	0
+Arnica_angustifolia	OP004985.1	12-APR-2023	401	Norway: Svalbard, Ringhorndalen	primary	psbA-trnH	79.1556014959232	13.741139028492	0
+Arnica_angustifolia	OP004984.1	12-APR-2023	401	Norway: Svalbard, Hemsedalen	primary	psbA-trnH	78.637	14.501	0
+Arnica_angustifolia	OP004983.1	12-APR-2023	401	Greenland: Disko	primary	psbA-trnH	69.25	-53.54	0
+Arnica_angustifolia	OP004982.1	12-APR-2023	401	Norway: Svalbard, Ossian Sars	primary	psbA-trnH	78.943	12.474	0
+Arnica_angustifolia	OP004981.1	12-APR-2023	401	Norway: Svalbard, Kapp Thordsen	primary	psbA-trnH	78.465	15.557	0

@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_dorycnium	OL697844.1	08-MAR-2022	846	Syria: Mont Amanus, region d'Hasan	primary	trnL-trnF	32.643488	36.172298	0.00524043431651158
+Lotus_dorycnium	OL697843.1	08-MAR-2022	849	Turkey: C3 Antalya, Turkbas Yaylasi-Mahmut Seydi Koyu arasi, maki	primary	trnL-trnF	36.634431	32.024155	0.00971563454085753
+Lotus_dorycnium	OL697842.1	08-MAR-2022	846	Turkey: C5 Adana, Pozanti, 1570 m	primary	trnL-trnF	37.42762	34.876847	0.00519171087078949
+Lotus_dorycnium	OL697841.1	08-MAR-2022	850	Turkey: C3 Antalya, Manavgat-Akseki 10 km	primary	trnL-trnF	37.046541	31.790341	0.00971563454085753
+Lotus_dorycnium	OL697840.1	08-MAR-2022	733	Turkey: C6 Kahramanmaras, Engizeh Dagi, Aksu mahallesi sevresi, 1100 m	primary	trnL-trnF	37.571828	36.91983	0.00353813605716259
+Lotus_dorycnium	OL697834.1	08-MAR-2022	846	Croatia: island Krk, in the port BaSka nova	primary	trnL-trnF	44.97085	14.76279	0.00559534744322392
+Lotus_dorycnium	OL697833.1	08-MAR-2022	847	Austria: Northern Burgenland, W-shore of Lake Neusiedl	primary	trnL-trnF	47.950642	16.8389509	0.00414242027212861
+Lotus_dorycnium	OL697832.1	08-MAR-2022	847	Austria: Tirol, Inntal, Zirler Berg NW Zirl, 820 m; Hange nape der Strasse	primary	trnL-trnF	47.284813	11.224935	0.00414242027212861
+Lotus_dorycnium	OL697824.1	08-MAR-2022	844	France: Haute Garonne, Observation Point at St.Felix on N622 to Revel	primary	trnL-trnF	43.4482836	1.89054149	0.00371606457928677
+Lotus_dorycnium	OL697823.1	08-MAR-2022	846	France: MIDI-Pyrenees, Haute-Garonne, road between Peguikhan and Mondilhan, near Busquet-Bas	primary	trnL-trnF	43.3	0.7	0.0047931435344746
+Lotus_dorycnium	OL697822.1	08-MAR-2022	846	France: Arles, Camargue, bord de canal entre Gageron et Villeneuve	primary	trnL-trnF	43.593205	4.59448	0.00305748487594297
+Lotus_dorycnium	OL697821.1	08-MAR-2022	846	Spain: Burgos, on the road from Lerma to Barriosuso, 18 km from Lerma	primary	trnL-trnF	41.968704	-3.574179	0.00472986535873244
+Lotus_dorycnium	OL697820.1	08-MAR-2022	846	Algeria: Saharan Atlas, W of Djelfa	primary	trnL-trnF	34.6728756	3.18510295	0.00482203125734995
+Lotus_dorycnium	OL697819.1	08-MAR-2022	854	Algeria: Saharan Atlas, near the village Zenina, road to Charet	primary	trnL-trnF	34.458508	2.53000385	0.00525920064769165
+Lotus_dorycnium	OL697818.1	08-MAR-2022	846	France: MIDI-Pyrenees, Haute-Garonne, Puymarium	primary	trnL-trnF	43.366667	0.75	0.0047931435344746
+Lotus_dorycnium	OL697817.1	08-MAR-2022	848	Spain: Cantabria, Valle de Bedoya, Cillorigo	primary	trnL-trnF	43.179506	-4.565919	0.0052289430175656
+Lotus_dorycnium	OL697816.1	08-MAR-2022	839	Spain: Cantabria, Brazomar, en Castro Urdiales	primary	trnL-trnF	43.374452	-3.212339	0.00527869938430654
+Lotus_dorycnium	OL697815.1	08-MAR-2022	846	Turkey: A4 Kirikkale, Kocubaba kasabasi, baglar yoresi, bozkir	primary	trnL-trnF	40.08354	33.878893	0.00407005002495772
+Lotus_dorycnium	OL697814.1	08-MAR-2022	846	Turkey: A4 Ankara, Kizilcahamam	primary	trnL-trnF	40.470334	32.650911	0.00407005002495772
+Lotus_dorycnium	OL697813.1	08-MAR-2022	846	Turkey: A4 Cankiri, Atkaracalar, Dumanli Dagi	primary	trnL-trnF	40.75887	33.122179	0.00407005002495772
+Lotus_dorycnium	OL697812.1	08-MAR-2022	846	Turkey: A4 Ankara, Kizilcahamam, Soguksu Milli Parki, Kaya Tepe civari	primary	trnL-trnF	40.468559	32.630159	0.00407005002495772
+Lotus_dorycnium	OL697811.1	08-MAR-2022	846	Turkey: A4 Ankara, Cubuk, Ovucik-Saraycik Koyleri Hallayik pinaiimuk	primary	trnL-trnF	40.30474	32.96163	0.00407005002495772
+Lotus_dorycnium	OL697810.1	08-MAR-2022	846	Turkey: Cubuk II Baraji	primary	trnL-trnF	40.004494	32.932925	0.00407005002495772
+Lotus_dorycnium	MK751662.1	20-DEC-2020	848	Spain: Valencia, Algar	secondary	trnL-trnF	39.7810953	-0.367464	0.00370654224325528
+Lotus_dorycnium	MK751660.1	20-DEC-2020	848	France: Alpes-Maritimes, Blausasc	secondary	trnL-trnF	43.8059426	7.3639617	0.00656646815977163
+Lotus_dorycnium	GQ483305.1	01-SEP-2010	643	Spain: Minorca	secondary	trnL-trnF	39.9740236684584	3.52250266517204	0.00441592128930505
+Lotus_dorycnium	GQ483304.1	01-SEP-2010	775	Spain: Minorca	secondary	trnL-trnF	40.4783107137782	4.21846922091521	0.00400453944004277
+Lotus_dorycnium	GQ483303.1	01-SEP-2010	775	Spain: Minorca	secondary	trnL-trnF	40.420593367856	4.64287344146865	0.00400453944004277
+Lotus_dorycnium	MK751661.1	20-DEC-2020	848	Portugal	secondary	trnL-trnF	41.3418708	-6.7121674	0.0052289430175656

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Buxus_sempervirens	HQ619741.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0
+Buxus_sempervirens	MK924792.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.131038820245	-4.10335009754439	0
+Buxus_sempervirens	MK924771.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.493487713906	-3.40684868808471	0
+Buxus_sempervirens	HM849831.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0

@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_serpyllifolia	OR464867.1	26-SEP-2023	593	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28814155	-85.61992175	0.00395723462200059
+Veronica_serpyllifolia	MZ676702.1	10-AUG-2022	602	United Kingdom: England, Durham	primary	rbcL	54.7531	-1.5806	0.00963252547843264
+Veronica_serpyllifolia	MN342323.1	21-FEB-2022	589	United Kingdom: England, County Durham, Bishop Auckland Castle Park	primary	rbcL	54.6722	-1.6602	0.0114904877031847
+Veronica_serpyllifolia	MG221918.1	26-DEC-2017	552	USA: Alaska, Haines Borough, Chilkoot Lake	primary	rbcL	59.383	-135.633	0.00227063185905507
+Veronica_serpyllifolia	HQ590325.1	09-NOV-2011	542	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, in scrubby woods on edge of cultivated fields, east of old gravel pits	primary	rbcL	44.028	-79.543	0.00230627306273063
+Veronica_serpyllifolia	HQ590324.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., N half of racing track	primary	rbcL	44.032	-79.534	0.00389625067375477
+Veronica_serpyllifolia	KJ841654.1	04-NOV-2014	507	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	rbcL	45.538	-73.158	0.000986193293885602
+Veronica_serpyllifolia	JN892042.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.53	-3.22	0.00230627306273063
+Veronica_serpyllifolia	MN205002.1	30-NOV-2021	724	China	secondary	rbcL	35.000074	104.999927	0.0159801185130515
+Veronica_serpyllifolia	HM850454.1	23-JUL-2011	696	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00409236681366803
+Veronica_serpyllifolia	JN893497.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.8950173525471	-3.22919488462941	0.00230627306273063
+Veronica_serpyllifolia	JN891024.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.1503443669426	-3.6794888552752	0.00539585285773861
+Veronica_serpyllifolia	JN891023.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00230627306273063

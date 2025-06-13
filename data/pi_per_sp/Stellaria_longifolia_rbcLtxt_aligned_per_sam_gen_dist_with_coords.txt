@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_longifolia	MG249536.1	21-JAN-2018	552	Canada: Yukon Territory, Old Crow Flats	primary	rbcL	68.01	-140.467	0.00503220611916264
+Stellaria_longifolia	HQ590287.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 200 m N of Side Road 19 and 100 m W of driveway	primary	rbcL	44.026	-79.532	0.00651254772014716
+Stellaria_longifolia	JN966016.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	rbcL	58.769	-93.856	0.00503220611916264
+Stellaria_longifolia	JN966015.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, grounds of MREM cabin	primary	rbcL	57.002	-92.306	0.0066443520064059
+Stellaria_longifolia	JN966014.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, York Factory	primary	rbcL	57.003	-92.304	0.00503220611916264
+Stellaria_longifolia	OQ172731.1	18-JUN-2023	689	China	secondary	rbcL	34.4062146970014	105.814011914747	0.00612466321302483
+Stellaria_longifolia	OQ172730.1	18-JUN-2023	689	China	secondary	rbcL	35.3627792933218	104.049919399997	0.00612466321302483
+Stellaria_longifolia	MT931036.1	03-MAR-2023	572	China	secondary	rbcL	35.5532053105188	104.543195048004	0.0378394190760548
+Stellaria_longifolia	JX848448.1	06-AUG-2013	1377	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.005565857250109
+Stellaria_longifolia	HE574594.1	31-JUL-2011	568	Finland	secondary	rbcL	63.2467777	25.9209164	0.00660507965202407

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scleranthus_annuus	MG249891.1	21-JAN-2018	552	Canada: Ontario, Renfrew County, Driftwood Provincial Park campground	primary	rbcL	46.195	-77.845	0
+Scleranthus_annuus	JN892793.1	07-MAR-2012	458	United Kingdom: Monmouthshire	primary	rbcL	51.79	-2.91	0
+Scleranthus_annuus	OQ172651.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.6619978681241	127.213381448775	0
+Scleranthus_annuus	OQ172650.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.3194105072252	127.253208249227	0
+Scleranthus_annuus	OQ172649.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.0583899227327	127.504029381741	0
+Scleranthus_annuus	JN892920.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0
+Scleranthus_annuus	JN892919.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0

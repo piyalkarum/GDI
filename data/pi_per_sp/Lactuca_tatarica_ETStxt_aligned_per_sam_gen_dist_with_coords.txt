@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lactuca_tatarica	LS975421.1	03-OCT-2018	421	Germany:Brandenburg	secondary	ETS	52.8455492	13.2461296	0.00870942201108472
+Lactuca_tatarica	LS975420.1	03-OCT-2018	421	Germany:n.l.	secondary	ETS	47.6230522	8.2118469	0.0150435471100554
+Lactuca_tatarica	LS975419.1	03-OCT-2018	421	Russia:N Caucasus, Krasnodarskiy Kray, Temryuksky rayon, Taman peninsula, S coast of Tamanskiy Zaliv between Primorskiy and Sennoy. Gravel on coastline	secondary	ETS	45.6965875	40.7361817876912	0.00950118764845606
+Lactuca_tatarica	LS975418.1	03-OCT-2018	421	Russia:Siberia, Republik Altai. Distr. Ulagan	secondary	ETS	50.6317434	87.9561929	0.0142517814726841

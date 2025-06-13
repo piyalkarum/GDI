@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tilia_platyphyllos	JN894341.1	07-MAR-2012	823	United Kingdom: Cardiganshire	secondary	matK	51.6382018828587	-4.40398113736399	0
+Tilia_platyphyllos	JN894338.1	07-MAR-2012	824	United Kingdom: Cardiganshire	secondary	matK	51.8706866358124	-3.69496981950626	0
+Tilia_platyphyllos	KP089346.1	15-MAR-2015	733	China	secondary	matK	39.5783683407713	115.438703537852	0
+Tilia_platyphyllos	KP089345.1	15-MAR-2015	733	China	secondary	matK	39.7946821601843	115.254851040594	0

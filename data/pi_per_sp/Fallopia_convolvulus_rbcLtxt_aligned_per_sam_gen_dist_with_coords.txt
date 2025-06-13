@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fallopia_convolvulus	MG249090.1	21-JAN-2018	552	Canada: Yukon Territory, Whitehorse, Cowley Creek Subdivision	primary	rbcL	60.591	-134.895	0.00103164063055083
+Fallopia_convolvulus	MG248642.1	21-JAN-2018	552	Canada: Manitoba, Gillam	primary	rbcL	56.348	-94.698	0.00286740854690419
+Fallopia_convolvulus	MG248456.1	21-JAN-2018	553	Canada: Ontario, Huron, Huron, Grand Bend	primary	rbcL	43.3167	-81.75	0.00103123113819032
+Fallopia_convolvulus	MG247391.1	21-JAN-2018	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	rbcL	43.274	-79.899	0.00103164063055083
+Fallopia_convolvulus	MG246969.1	21-JAN-2018	547	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0.00104119000545473
+Fallopia_convolvulus	MG246163.1	21-JAN-2018	553	Canada: Ontario, Haldimand, Haldimand, Cayuga	primary	rbcL	42.6087	-80.2826	0.00103123113819032
+Fallopia_convolvulus	KJ841323.1	04-NOV-2014	568	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	rbcL	45.542	-73.154	0.00102271716227788
+Fallopia_convolvulus	JN891659.1	07-MAR-2012	540	United Kingdom: Glamorgan	primary	rbcL	51.51	-3.24	0.00105352709053826
+Fallopia_convolvulus	JN890617.1	07-MAR-2012	542	United Kingdom: Cornwall, West with Scilly (1)	primary	rbcL	50.39	-5.11	0.00105245897680722
+Fallopia_convolvulus	MT931212.1	03-MAR-2023	569	China	secondary	rbcL	35.1314442973495	104.556612586806	0.00375779580733442
+Fallopia_convolvulus	MT931204.1	03-MAR-2023	569	China	secondary	rbcL	34.8202137956773	104.673710435508	0.00102233039527869
+Fallopia_convolvulus	MG247388.1	21-JAN-2018	552	Canada: British Columbia	secondary	rbcL	55.001251	-125.002441	0.00103164063055083
+Fallopia_convolvulus	KJ204342.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00103349677215216
+Fallopia_convolvulus	JX848509.1	06-AUG-2013	905	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.000887856283039082
+Fallopia_convolvulus	HM850000.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00598605020121509
+Fallopia_convolvulus	JN890960.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00105245897680722
+Fallopia_convolvulus	FM883612.1	14-DEC-2008	1357	Italy	secondary	rbcL	42.6384261	12.674297	0.00564804527820247

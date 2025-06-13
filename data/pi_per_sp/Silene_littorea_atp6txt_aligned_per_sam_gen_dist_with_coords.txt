@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_littorea	MN334829.1	16-OCT-2019	894	Spain: Pontevedra, Barra	secondary	atp6	42.4660087	-8.6610972	0.0238590020469215
+Silene_littorea	MN334828.1	16-OCT-2019	894	Portugal: Faro, Monte Clerigo	secondary	atp6	37.3389161	-8.8534287	0.00471929263875573
+Silene_littorea	MN334827.1	16-OCT-2019	756	Portugal: Lisboa, Cascais	secondary	atp6	38.6968919	-9.4204495	0.00714285714285714
+Silene_littorea	MN334826.1	16-OCT-2019	858	Portugal: Setubal, Alcacer do Sal	secondary	atp6	38.3729735	-8.5122705	0.00415140415140415
+Silene_littorea	MN334825.1	16-OCT-2019	756	Spain: Malaga, Aldea Beach	secondary	atp6	36.3323487	-5.2402277	0.00714285714285714
+Silene_littorea	MN334824.1	16-OCT-2019	894	Spain: Huelva, Odiel	secondary	atp6	37.2319391	-7.0081229	0.00471929263875573
+Silene_littorea	MN334823.1	16-OCT-2019	894	Spain: A Coruna, Furnas	secondary	atp6	43.5339399	-7.8444241	0.00471929263875573
+Silene_littorea	MN334822.1	16-OCT-2019	894	Spain: Cadiz, Trafalgar	secondary	atp6	36.1822339	-6.0332217	0.00471929263875573
+Silene_littorea	MN334821.1	16-OCT-2019	894	Spain: Cadiz, Brena	secondary	atp6	36.7851833	-5.4554915	0.00471929263875573
+Silene_littorea	MN334820.1	16-OCT-2019	894	Spain: Almeria, Punta Entinas	secondary	atp6	36.705762	-2.6627621	0.00471929263875573
+Silene_littorea	MN334819.1	16-OCT-2019	894	Spain: Almeria, Carboneras	secondary	atp6	36.9968699	-1.8946552	0.0067119184568849

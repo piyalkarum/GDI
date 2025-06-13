@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_resupinata	LC762138.1	04-OCT-2023	1104	Japan:Kumamoto, Aso	secondary	matK	32.2718280525336	131.581514539118	0.002151496373173
+Pedicularis_resupinata	LC762130.1	04-OCT-2023	837	Japan:Hokkaido, Kushiro	secondary	matK	42.9906837	144.3820381	0.00218934910829264
+Pedicularis_resupinata	LC762122.1	04-OCT-2023	837	Japan:Shiga, Maibara	secondary	matK	35.7853187609687	137.095663445729	0.00094038506651759
+Pedicularis_resupinata	LC762137.1	04-OCT-2023	837	Japan:Kumamoto, Takamorimachi	secondary	matK	32.9720490026859	131.430421655401	0.00094038506651759
+Pedicularis_resupinata	LC762136.1	04-OCT-2023	837	Japan:Kumamoto, Takamorimachi	secondary	matK	33.1722499724717	130.980341965406	0.00094038506651759
+Pedicularis_resupinata	LC762135.1	04-OCT-2023	837	Japan:Kumamoto, Takamorimachi	secondary	matK	32.3250889502115	131.905795118268	0.00094038506651759
+Pedicularis_resupinata	LC762128.1	04-OCT-2023	837	Japan:Kumamoto, Aso	secondary	matK	33.1023570707205	130.570334580579	0.00094038506651759
+Pedicularis_resupinata	LC762126.1	04-OCT-2023	837	Japan:Shiga, Maibara	secondary	matK	34.8026918537347	135.389866587186	0.00094038506651759
+Pedicularis_resupinata	LC762125.1	04-OCT-2023	843	Japan:Yamanashi, Minami-alps	secondary	matK	35.6083617	138.4649893	0.00690621840038027
+Pedicularis_resupinata	LC762121.1	04-OCT-2023	837	Japan:Shiga, Maibara	secondary	matK	35.2572292237714	135.233182161023	0.00094038506651759
+Pedicularis_resupinata	LC762120.1	04-OCT-2023	837	Japan:Yamanashi, Narusawamura	secondary	matK	35.8353605338295	139.120208749866	0.00094038506651759
+Pedicularis_resupinata	LC762119.1	04-OCT-2023	837	Japan:Yamanashi, Narusawamura	secondary	matK	36.1086269692227	138.790736472536	0.00094038506651759
+Pedicularis_resupinata	MN433419.1	30-NOV-2021	704	China	secondary	matK	35.000074	104.999927	0.00291727416473294
+Pedicularis_resupinata	LC547774.1	10-DEC-2020	838	Japan: Shiga	secondary	matK	35.247154	136.109385	0.00094021806296327
+Pedicularis_resupinata	MH659274.1	01-AUG-2020	780	China: Hebei	secondary	matK	39.0000001	116	0.000975030790397446
+Pedicularis_resupinata	JF955270.1	13-DEC-2011	749	China: Chongqing	secondary	matK	29.5656729	106.5479189	0.00282584444344587
+Pedicularis_resupinata	JF955269.1	13-DEC-2011	749	China: Jilin	secondary	matK	43.7289674	126.1997366	0.00177127271245854
+Pedicularis_resupinata	JF955268.1	13-DEC-2011	749	China: Gansu	secondary	matK	38.0000001	101.9999999	0.00177127271245854
+Pedicularis_resupinata	AB280527.1	26-APR-2007	2425	Japan: Yamagata, Mt. Gassan	secondary	matK	38.5486934	140.0268363	0.0020584500658726
+Pedicularis_resupinata	KY088028.1	22-OCT-2017	565	Russia	secondary	matK	50.6444313	86.3127243	0.000673038093956118

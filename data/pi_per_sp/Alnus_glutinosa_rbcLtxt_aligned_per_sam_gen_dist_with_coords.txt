@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alnus_glutinosa	MZ676689.1	10-AUG-2022	581	United Kingdom: England, County Durham, Durham University Mountjoy	primary	rbcL	54.7639	-1.5723	0.00321120281303012
+Alnus_glutinosa	KT695533.1	29-SEP-2015	555	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00273829733129333
+Alnus_glutinosa	JN893730.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000719427427460682
+Alnus_glutinosa	MG249731.1	21-JAN-2018	552	Canada: Ontario, Elgin Co., St. Thomas, Dalewood Conservation Area, Kettle Creek, St. Thomas Waterworks Reservoir	secondary	rbcL	43.2780219355604	-77.9685276436555	0.000705988917306053
+Alnus_glutinosa	MG247551.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Scarborough, Dentonia Park, Victoria Park Ave., to W along bicycle path	secondary	rbcL	43.8468464503047	-78.1469725772801	0.000705988917306053
+Alnus_glutinosa	MG246198.1	21-JAN-2018	552	Canada: Ontario, Oxford Co., Blenheim Tp., Conc. V, Lot 2, along Nith River, ca. 3 mi N of Canning	secondary	rbcL	43.2295580469224	-77.7967489796344	0.00214084620326236
+Alnus_glutinosa	KX966385.1	01-NOV-2017	435	India	secondary	rbcL	22.6825413070323	78.8985913463466	0.00219606973482541
+Alnus_glutinosa	KX966376.1	01-NOV-2017	534	India	secondary	rbcL	22.5874485151619	77.9494033825805	0.00219606973482541
+Alnus_glutinosa	KX966375.1	01-NOV-2017	528	India	secondary	rbcL	22.1259279944366	78.5812810587131	0.00219606973482541
+Alnus_glutinosa	FJ844574.1	12-APR-2010	1357	Netherlands: Holland	secondary	rbcL	52.2434979	5.6343227	0.00128102267383309
+Alnus_glutinosa	KX162893.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.1619797708654	-2.34711505332309	0.00190625752422246
+Alnus_glutinosa	KX162892.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.7287192941933	-2.49919784519933	0.00190625752422246
+Alnus_glutinosa	KX162891.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.5407237611955	-2.42572885729971	0.00190625752422246
+Alnus_glutinosa	JN893291.1	07-MAR-2012	510	United Kingdom: Glamorgan	secondary	rbcL	51.4854763411591	-4.23166521552821	0.000762527233115468
+Alnus_glutinosa	JN893290.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.8659041267365	-2.42654208086935	0.000719427427460682
+Alnus_glutinosa	JN890945.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.000719427427460682
+Alnus_glutinosa	HE574601.1	31-JUL-2011	562	Finland	secondary	rbcL	62.405439108468	25.9888595091635	0.00165954749664088
+Alnus_glutinosa	HE574600.1	31-JUL-2011	564	Finland	secondary	rbcL	63.3879967701785	27.7547434901485	0.00364012585428302
+Alnus_glutinosa	FN689372.1	19-MAR-2010	743	Italy:Umbria	secondary	rbcL	42.965916	12.490236	0.00830157099865162

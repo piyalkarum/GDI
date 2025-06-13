@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthyllis_vulneraria	AJ514405.1	24-FEB-2003	228	Norway	secondary	ITS1	64.5731537	11.5280364	0.0346455201331362
+Anthyllis_vulneraria	AJ512893.1	21-FEB-2003	230	Spain:Sierra de Cazorla	secondary	ITS1	38.0751762	-2.8776975	0.0283469695877462
+Anthyllis_vulneraria	AJ512892.1	21-FEB-2003	222	Italy:Gran Sasso d'Italia	secondary	ITS1	42.4728013	13.5742466	0.0578179989944696
+Anthyllis_vulneraria	AJ512891.1	21-FEB-2003	230	Croatia:Krasno	secondary	ITS1	44.8222949	15.0498482	0.0323841182612735
+Anthyllis_vulneraria	AJ512889.1	21-FEB-2003	228	Spain:Sierra de Estepona	secondary	ITS1	36.5290963	-4.9220676	0.0657573803858634
+Anthyllis_vulneraria	AJ512888.1	21-FEB-2003	228	Switzerland:Wasserauen	secondary	ITS1	47.2853248	9.4282224	0.0338501605916467
+Anthyllis_vulneraria	AJ512887.1	21-FEB-2003	230	United Kingdom:Norfolk	secondary	ITS1	52.666667	1	0.0283469695877462
+Anthyllis_vulneraria	AJ512886.1	21-FEB-2003	230	Spain	secondary	ITS1	39.3260685	-4.8379791	0.0646907452045216
+Anthyllis_vulneraria	AJ512885.1	21-FEB-2003	228	Croatia	secondary	ITS1	45.3658443	15.6575209	0.0346455201331362
+Anthyllis_vulneraria	AJ512884.1	21-FEB-2003	228	Italy:Monte Bove	secondary	ITS1	44.2644559	8.1067185	0.0584491373965058
+Anthyllis_vulneraria	AJ512883.1	21-FEB-2003	228	Sweden	secondary	ITS1	59.6749712	14.5208584	0.0338501605916467
+Anthyllis_vulneraria	AJ512610.1	18-FEB-2003	228	Poland	secondary	ITS1	52.215933	19.134422	0.0386874430992078
+Anthyllis_vulneraria	AJ512609.1	18-FEB-2003	221	Portugal	secondary	ITS1	39.6621648	-8.1353519	0.056184012066365

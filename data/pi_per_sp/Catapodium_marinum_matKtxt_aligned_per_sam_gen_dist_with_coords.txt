@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Catapodium_marinum	JN895498.1	07-MAR-2012	1004	United Kingdom: Cardiganshire	primary	matK	52.4	-4.09	0.0002460024600246
+Catapodium_marinum	LR606856.1	25-JAN-2021	2133	Spain	secondary	matK	39.3875361808191	-3.75595276669805	0.0002460024600246
+Catapodium_marinum	KJ529348.1	22-FEB-2015	966	Spain	secondary	matK	38.6937451257563	-4.28993321969774	0
+Catapodium_marinum	HM850565.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.000757962366857711
+Catapodium_marinum	JN895184.1	07-MAR-2012	768	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.000265957446808511
+Catapodium_marinum	JN895183.1	07-MAR-2012	743	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

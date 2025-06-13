@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_angustissimus	MF158223.1	17-AUG-2018	850	Russia	primary	trnL-trnF	50.1289874207089	46.8802757900647	0.00313725490196078
+Lotus_angustissimus	MF158222.1	17-AUG-2018	850	Russia	primary	trnL-trnF	49.6974421787031	46.6387649612702	0.00274509803921569
+Lotus_angustissimus	MF158221.1	17-AUG-2018	850	Russia	primary	trnL-trnF	48.72	44.93	0.00274509803921569
+Lotus_angustissimus	MF158220.1	17-AUG-2018	852	Kazakhstan	primary	trnL-trnF	51.2	51.58	0.00313725490196078
+Lotus_angustissimus	MF158219.1	17-AUG-2018	850	Bulgaria	primary	trnL-trnF	41.38	25.1	0.00490196078431373
+Lotus_angustissimus	MF158218.1	17-AUG-2018	850	Ukraine	primary	trnL-trnF	46.57	33.47	0.00274509803921569
+Lotus_angustissimus	MF158217.1	17-AUG-2018	850	Norfolk Island	primary	trnL-trnF	-29.05	167.97	0.00490196078431373

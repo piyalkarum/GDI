@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Empetrum_nigrum	LC678463.1	03-MAY-2022	781	Japan: Nagano	primary	matK	35.8734	137.5014	9.92735752116625e-05
+Empetrum_nigrum	MZ400441.1	07-DEC-2021	748	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00010129102751909
+Empetrum_nigrum	KX677577.1	09-AUG-2017	808	Canada: British Columbia, Thompson-Nicola Regional District, Upper Stein Valley, Tundra Lake	primary	matK	50	-121	9.77455048996011e-05
+Empetrum_nigrum	MG225379.1	21-JAN-2018	775	Canada: New Brunswick, Albert County, Riverside, New Horton Tidal Salt Marsh	primary	matK	45.7	-64.69	9.96276055520627e-05
+Empetrum_nigrum	KT307920.1	20-MAR-2016	759	Canada: Newfoundland and Labrador, Labrador, Mont Irony, In the depression of the northen slope.	primary	matK	55.8847	-68.805	0.000100679448505535
+Empetrum_nigrum	KC474704.1	25-OCT-2013	771	Canada: Nunavut, Baffin Island, Iqaluit	primary	matK	63.583	-68.7333	9.98666870011353e-05
+Empetrum_nigrum	KC474703.1	25-OCT-2013	771	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Oldsquaw Bay	primary	matK	66.898	-107.839	9.98666870011353e-05
+Empetrum_nigrum	KC474702.1	25-OCT-2013	771	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	matK	62.533	-114.356	9.98666870011353e-05
+Empetrum_nigrum	KC474701.1	25-OCT-2013	758	Canada: Nunavut, Victoria Island, Johansen Bay, Rocky hills south of large unnamed lake ca. 18 km ENE of Johansen Bay airstrip	primary	matK	68.753	-110.692	0.00010114716135018
+Empetrum_nigrum	KC474700.1	25-OCT-2013	771	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Brock lagoon, N of Brock River Delta	primary	matK	68.239	-121.761	9.98666870011353e-05
+Empetrum_nigrum	KC474699.1	25-OCT-2013	771	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, community of Bathurst Inlet	primary	matK	66.84	-108.03	9.98666870011353e-05
+Empetrum_nigrum	KC474698.1	25-OCT-2013	711	Canada: Nunavut, Baffin Island, Iqaluit, Adjacent [to] the One Way Street in Iqaluit near Happy Valley	primary	matK	63.7333	-68.4667	5.02310628892907e-05
+Empetrum_nigrum	KC474697.1	25-OCT-2013	771	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Near cabin on terraces above coastal area	primary	matK	56.331	-79.514	9.98666870011353e-05
+Empetrum_nigrum	KC474696.1	25-OCT-2013	771	Canada: Northwest Territories, Mainland Northwest Territoires, Tuktoyaktuk	primary	matK	69.45	-133.033	9.98666870011353e-05
+Empetrum_nigrum	KC474695.1	25-OCT-2013	667	Canada: Nunavut, West Hudson Bay, Rankin Inlet	primary	matK	62.867	-92.1333	0.00150696884260866
+Empetrum_nigrum	JN966284.1	27-OCT-2012	774	Canada: Manitoba, Churchill, 3 km SE Churchill, pipeline, Forest along the pipe	primary	matK	58.747	-94.115	9.968714424626e-05
+Empetrum_nigrum	JN966283.1	27-OCT-2012	773	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	matK	58.769	-93.856	9.98272343679847e-05
+Empetrum_nigrum	JN966282.1	27-OCT-2012	759	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	matK	58.633	-93.79	0.000101331424841402
+Empetrum_nigrum	JN966281.1	27-OCT-2012	772	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Bank of small stream near Goose Creek Rd	primary	matK	58.739	-94.112	9.99677209307503e-05
+Empetrum_nigrum	JN895431.1	07-MAR-2012	621	United Kingdom: Monmouthshire	primary	matK	51.73	-2.71	0.000117233812885987
+Empetrum_nigrum	LC680451.1	03-MAY-2022	761	Japan: Hokkaido	secondary	matK	43.4519831	142.8197834	0.000100475386485469
+Empetrum_nigrum	KX821268.1	02-SEP-2017	792	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.4519187297196	8.6301511620619	9.8638451337102e-05
+Empetrum_nigrum	KX821269.1	02-SEP-2017	792	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	57.2595327699646	7.00145431901823	9.8638451337102e-05
+Empetrum_nigrum	KX821270.1	02-SEP-2017	792	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.763656398179	7.79802519610769	9.8638451337102e-05
+Empetrum_nigrum	KX821271.1	02-SEP-2017	792	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	57.2101032308641	8.57828946199676	9.8638451337102e-05
+Empetrum_nigrum	HQ115642.1	07-MAR-2011	1521	Canada: Newfoundland	secondary	matK	49.1212094	-56.6403111	0.000123987034377993
+Empetrum_nigrum	HQ115639.1	07-MAR-2011	1521	USA: Alaska	secondary	matK	64.4459613	-149.680909	0.00138765496182383
+Empetrum_nigrum	JN895867.1	07-MAR-2012	830	United Kingdom: Carmarthenshire	secondary	matK	51.1647303910555	-4.83395768626861	9.65739161400367e-05
+Empetrum_nigrum	JN895866.1	07-MAR-2012	808	United Kingdom: Carmarthenshire	secondary	matK	51.5899660807899	-4.58568748355196	9.77455048996011e-05

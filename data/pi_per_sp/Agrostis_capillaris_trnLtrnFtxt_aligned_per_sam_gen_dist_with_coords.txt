@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostis_capillaris	KX872593.1	16-OCT-2017	803	Canada: British Columbia, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Rd. Beta Avenue ditch	primary	trnL-trnF	49.2608	-122.9892	0.00754008973507654
+Agrostis_capillaris	KX872592.1	16-OCT-2017	787	USA: Oregon, Hood River Co., along Hwy. 35 15 km S of Mt. Hood	primary	trnL-trnF	45.4281	-121.5739	0.00190597204574333
+Agrostis_capillaris	KX872591.1	16-OCT-2017	794	USA: California, Siskiyou Co., 2.4 mi W of Scott Mountain summit (from Hwy. 3)	primary	trnL-trnF	41.2717	-122.7194	0.00188916876574307
+Agrostis_capillaris	MW240868.1	04-SEP-2021	802	Brazil	secondary	trnL-trnF	-10.3333333	-53.2	0.00188205771643664
+Agrostis_capillaris	JQ972966.1	31-MAR-2013	671	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.0018628912071535

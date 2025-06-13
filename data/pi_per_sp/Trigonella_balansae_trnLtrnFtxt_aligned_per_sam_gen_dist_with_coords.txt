@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trigonella_balansae	JX274189.1	28-JUN-2013	643	Afghanistan	secondary	trnL-trnF	33.7680065	66.2385139	0.00116640746500778
+Trigonella_balansae	JX274188.1	28-JUN-2013	643	India	secondary	trnL-trnF	22.3511148	78.6677428	0.00116640746500778
+Trigonella_balansae	JX274139.1	28-JUN-2013	643	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.000777604976671851
+Trigonella_balansae	JX274138.1	28-JUN-2013	643	United Kingdom: Great Britain	secondary	trnL-trnF	54.3151594	-1.9181532	0.000777604976671851
+Trigonella_balansae	JX274137.1	28-JUN-2013	643	Pakistan	secondary	trnL-trnF	30.3308401	71.247499	0.000777604976671851

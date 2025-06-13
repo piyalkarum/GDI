@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_simulans	MW070326.1	19-APR-2021	922	Greece: Crete, Mt. Limnakaro	secondary	rpoB	35.8577036527879	24.5011071605095	0.00799797699623453
+Alyssum_simulans	MW070325.1	19-APR-2021	922	Greece: Crete, Mt. Limnakaro	secondary	rpoB	35.9552325654358	24.0863762570336	0.00799797699623453
+Alyssum_simulans	MW070320.1	19-APR-2021	922	Greece: Crete, Mt. Dikti	secondary	rpoB	35.5758621140939	23.8211627766764	0.0167577413479053
+Alyssum_simulans	MW070319.1	19-APR-2021	922	Greece: Crete, Mt. Dikti	secondary	rpoB	35.5414664182534	23.8275158851734	0.00654631374733789

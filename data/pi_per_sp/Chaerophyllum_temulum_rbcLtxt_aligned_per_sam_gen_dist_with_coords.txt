@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chaerophyllum_temulum	JN892460.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.83	-4.44	0.14157196969697
+Chaerophyllum_temulum	JN893230.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.14157196969697
+Chaerophyllum_temulum	JN893229.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0.14157196969697
+Chaerophyllum_temulum	JN891193.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.14157196969697
+Chaerophyllum_temulum	DQ829736.1	30-JUN-2007	733	Sweden: Stockholm	secondary	rbcL	59.3251172	18.0710935	0.566287878787879

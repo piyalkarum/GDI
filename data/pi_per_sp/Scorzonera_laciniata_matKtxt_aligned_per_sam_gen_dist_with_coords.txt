@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scorzonera_laciniata	MN726391.1	19-FEB-2020	786	Russia: Tambov region	secondary	matK	52.7566019	41.391334	0
+Scorzonera_laciniata	MN726390.1	19-FEB-2020	786	USA: Colorado	secondary	matK	38.7251776	-105.607716	0
+Scorzonera_laciniata	KU586777.1	06-FEB-2017	542	Spain	secondary	matK	39.3260685	-4.8379791	NA
+Scorzonera_laciniata	AJ633265.1	10-OCT-2004	970	France:Savoia	secondary	matK	45.4948952	6.3846604	NA

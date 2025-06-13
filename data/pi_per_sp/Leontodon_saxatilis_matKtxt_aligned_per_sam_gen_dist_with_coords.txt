@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leontodon_saxatilis	JN895283.1	07-MAR-2012	827	United Kingdom: Sussex, West (13)	primary	matK	50.99	-0.75	0.00185185185185185
+Leontodon_saxatilis	JN894634.1	07-MAR-2012	960	United Kingdom: Cardiganshire	primary	matK	52.52	-4.06	0.00186170212765957
+Leontodon_saxatilis	HM850649.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00900332690267126
+Leontodon_saxatilis	JN894855.1	07-MAR-2012	780	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00161507402422611
+Leontodon_saxatilis	JN894017.1	07-MAR-2012	792	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00184940554821664
+Leontodon_saxatilis	JN894008.1	07-MAR-2012	963	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00182529335071708

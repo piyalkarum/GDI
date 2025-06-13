@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ornithopus_pinnatus	MK925370.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Ornithopus_pinnatus	MK924956.1	14-JAN-2020	542	France	secondary	rbcL	46.603354	1.8883335	0
+Ornithopus_pinnatus	MK924798.1	14-JAN-2020	542	Portugal	secondary	rbcL	40.4510947302543	-7.87114392833508	0
+Ornithopus_pinnatus	HM850217.1	23-JUL-2011	1363	Portugal	secondary	rbcL	38.9836065874029	-8.83836071310271	0

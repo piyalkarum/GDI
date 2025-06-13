@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Heliotropium_europaeum	MF694985.1	16-SEP-2018	553	Pakistan: Punjab, Cholistan Desert, Chananpir	primary	rbcL	28.3729638623012	71.8399157811391	0.00721248281705489
+Heliotropium_europaeum	MF694728.1	15-SEP-2018	519	Pakistan: Punjab, Cholistan Desert, Chananpir	primary	rbcL	28.1175342907463	71.610613386637	0.00759905637073267
+Heliotropium_europaeum	MT930638.1	03-MAR-2023	569	China	secondary	rbcL	35.0886123972654	105.885073469774	0.00651598119090634
+Heliotropium_europaeum	MT930637.1	03-MAR-2023	569	China	secondary	rbcL	34.4654702536249	105.633488015339	0.00651598119090634
+Heliotropium_europaeum	ON960091.1	28-FEB-2023	891	Iraq	secondary	rbcL	33.0955793	44.1749775	0.00715245345464737
+Heliotropium_europaeum	MH598900.1	22-JAN-2019	582	Saudi Arabia: Makkah (Coast Road)	secondary	rbcL	22.6363744	39.0386503	0.00650713211608105
+Heliotropium_europaeum	HM850049.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00625878688151733

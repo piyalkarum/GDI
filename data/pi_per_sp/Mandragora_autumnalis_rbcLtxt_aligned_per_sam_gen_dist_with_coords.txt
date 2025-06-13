@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mandragora_autumnalis	LT992824.1	04-JUN-2018	491	Italy:Liguria, Genova	secondary	rbcL	44.7086618594731	9.48598955617252	0
+Mandragora_autumnalis	LT992823.1	04-JUN-2018	491	Italy:Sicilia, Favignana	secondary	rbcL	37.6233816532021	13.2735927864712	0
+Mandragora_autumnalis	LT992822.1	04-JUN-2018	491	Italy:Sicilia, Favignana	secondary	rbcL	37.1216122821108	12.6179622362136	0
+Mandragora_autumnalis	LT992821.1	04-JUN-2018	491	Italy:Liguria, Genova	secondary	rbcL	44.3812824353218	9.40446526018731	0
+Mandragora_autumnalis	LT992820.1	04-JUN-2018	491	Italy:Sicilia, Trapani	secondary	rbcL	38.0174321	12.515992	0
+Mandragora_autumnalis	LT992819.1	04-JUN-2018	491	Italy:Sicilia, Agrigento	secondary	rbcL	37.3122991	13.57465	0
+Mandragora_autumnalis	JX067456.1	31-JUL-2012	1392	Israel	secondary	rbcL	30.8124247	34.8594762	0

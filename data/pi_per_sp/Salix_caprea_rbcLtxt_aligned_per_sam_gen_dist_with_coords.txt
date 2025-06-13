@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_caprea	LC689337.1	03-MAY-2022	617	Japan: Ehime	primary	rbcL	33.5629	132.898	0.180795263260469
+Salix_caprea	LC694780.1	03-MAY-2022	635	Japan: Fukushima	primary	rbcL	37.3275	139.563	0.180852824727722
+Salix_caprea	LC693959.1	03-MAY-2022	599	Japan: Hiroshima	primary	rbcL	35.0644	133.217	0.179850136749792
+Salix_caprea	LC693046.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	44.9959	142.0084	0.179850136749792
+Salix_caprea	LC693020.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	44.8195	142.1223	0.179850136749792
+Salix_caprea	LC692313.1	03-MAY-2022	661	Japan: Iwate	primary	rbcL	40.0417	141.5584	0.180907610200711
+Salix_caprea	LC691270.1	03-MAY-2022	630	Japan: Nagano	primary	rbcL	35.7567	137.6554	0.180854904650994
+Salix_caprea	LC691103.1	03-MAY-2022	661	Japan: Ibaraki	primary	rbcL	36.9006	140.6003	0.180907610200711
+Salix_caprea	LC690657.1	03-MAY-2022	661	Japan: Iwate	primary	rbcL	39.445	140.7106	0.181879578786909
+Salix_caprea	LC690459.1	03-MAY-2022	661	Japan: Iwate	primary	rbcL	39.5206	140.9184	0.180907610200711
+Salix_caprea	LC690433.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	41.8273	140.4196	0.179850136749792
+Salix_caprea	LC689784.1	03-MAY-2022	599	Japan: Yamanashi	primary	rbcL	35.781	138.8249	0.179850136749792
+Salix_caprea	JN891099.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.25	0.177538071940684
+Salix_caprea	LC757953.1	08-MAR-2023	703	Japan:Miyagi, Botanical Gardens of Tohoku University	secondary	rbcL	34.9803071	139.838919	0.398194519822343
+Salix_caprea	LC757905.1	08-MAR-2023	702	Japan:Hokkaido, Forestry and Forest Products Research Institute, Arboretum of Hokkaido Research Center	secondary	rbcL	43.3974799105179	142.575278055247	0.398194519822343
+Salix_caprea	LC757869.1	08-MAR-2023	702	Japan:Hiroshima, Taishakukyo Gorge	secondary	rbcL	34.3917241	132.4517589	0.397891824391854
+Salix_caprea	LC757857.1	08-MAR-2023	702	Japan:Hokkaido, Nakagawa Experiment Forest of Hokkaido university	secondary	rbcL	43.4736205905056	142.323981778585	0.397891969541785
+Salix_caprea	LC757856.1	08-MAR-2023	702	Japan:Hokkaido, Teshio Experiment Forest of Hokkaido University	secondary	rbcL	44.0847492539261	142.762120519231	0.397891969541785
+Salix_caprea	LC757855.1	08-MAR-2023	700	Japan:Fukushima	secondary	rbcL	37.75454	140.4592144	0.398194519822343
+Salix_caprea	LC757850.1	08-MAR-2023	702	Japan:Hokkaido, Hiyama, Assabu-cho, Tomisato	secondary	rbcL	41.8733223	140.3711414	0.397891824391854
+Salix_caprea	LC757847.1	08-MAR-2023	702	Japan:Ibaraki, Kitaibaraki City, Sekimoto-cho, Mt. Osho	secondary	rbcL	34.834009	135.5539509	0.398248530969775
+Salix_caprea	LC757841.1	08-MAR-2023	702	South Korea:Gyeongsangnam-do, Hamyang-gun, Jirisan National Park	secondary	rbcL	35.3315131	127.6543914	0.398248530969775
+Salix_caprea	MG248841.1	21-JAN-2018	552	Canada: Ontario, Rouge Valley, (Block M), Sewell's Nursery.	secondary	rbcL	43.72634945	-77.7101179040839	0.175168759198934
+Salix_caprea	KX163028.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.179066617360588
+Salix_caprea	KJ204400.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.176084203373744
+Salix_caprea	JN892173.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.177538071940684
+Salix_caprea	JN891946.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.177538071940684
+Salix_caprea	HE612047.1	16-NOV-2011	597	Russia:Primorye	secondary	rbcL	43.1102126	131.878969	0.18009445077801
+Salix_caprea	FR694871.1	04-OCT-2010	597	Russia:Kamchatka	secondary	rbcL	57.1914882	160.0383819	0.18009445077801

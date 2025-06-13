@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_dasycarpum	KJ623468.1	10-JUN-2014	303	China	secondary	trnL-trnF	35.3516093056783	104.392859902138	0
+Alyssum_dasycarpum	KJ623467.1	10-JUN-2014	305	China	secondary	trnL-trnF	35.7667999991035	105.26750922314	0.00163934426229508
+Alyssum_dasycarpum	KJ623466.1	10-JUN-2014	305	China	secondary	trnL-trnF	34.1392738148276	105.086299881473	0
+Alyssum_dasycarpum	KF022735.1	27-JUL-2013	349	Jordan: Shaubak	secondary	trnL-trnF	30.520021	35.538415	0.000819672131147541
+Alyssum_dasycarpum	KF022734.1	27-JUL-2013	349	Turkey: Eskisehir	secondary	trnL-trnF	39.7743941	30.519116	0.000819672131147541

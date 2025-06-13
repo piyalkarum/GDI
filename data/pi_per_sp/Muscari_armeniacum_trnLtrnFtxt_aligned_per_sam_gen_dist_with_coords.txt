@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Muscari_armeniacum	OP096367.1	01-MAR-2023	965	Turkey	secondary	trnL-trnF	38.6941864322908	35.9235231575807	0.0158251633506437
+Muscari_armeniacum	OP096325.1	01-MAR-2023	970	Georgia	secondary	trnL-trnF	32.3293809	-83.1137366	0.0161582620502127
+Muscari_armeniacum	MH152644.1	22-MAY-2019	1538	Turkey	secondary	trnL-trnF	38.7618977847914	34.451256300111	0.00238893978742018
+Muscari_armeniacum	JX090561.1	31-MAY-2013	889	Turkey	secondary	trnL-trnF	39.5360492248506	34.1137486968492	0.0315009147005352

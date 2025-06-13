@@ -1,0 +1,46 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_arctica	MZ400479.1	07-DEC-2021	859	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00190834608488618
+Poa_arctica	MF597505.1	17-JUL-2018	819	Canada: Yukon Territory, Richardson Mountains, the Dempster Hwy (5) towards Inuvik.	primary	matK	67.009	-136.211	0.00280028151538431
+Poa_arctica	MF597504.1	17-JUL-2018	789	Canada: Northwest Territories, Richardson Mountains, 62 mi NE of Eagle Plains on Dempster Hwy (5) towards Inuvik.	primary	matK	67.063	-136.179	0.00220737243339234
+Poa_arctica	MF597503.1	17-JUL-2018	777	Canada: Northwest Territories, 151 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy 5) just E of MacMillan Pass.	primary	matK	63.296	-129.832	0.00315793114792612
+Poa_arctica	MF597502.1	17-JUL-2018	807	Canada: Northwest Territories, Richardson Mountains, 152 mi SW of Inuvik on Dempster Hwy (5) towards Eagle Plains.	primary	matK	67.181	-135.81	0.00277480342509864
+Poa_arctica	MG217069.1	24-JAN-2018	757	Canada: Nunavut, Baffin Island, Iqaluit	primary	matK	63.9675284018863	-68.660982728364	0.00280995376253204
+Poa_arctica	KC475361.1	25-OCT-2013	774	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park,NW part	primary	matK	69.417	-139.633	0.00278711305382508
+Poa_arctica	KC475360.1	25-OCT-2013	774	Canada: Northwest Territories, Richards Island, Sven Lake, 4 km west of the east channel, Mackenzie River, drained lake basin.'	primary	matK	69.233	-134.333	0.00190442231542216
+Poa_arctica	KC475359.1	25-OCT-2013	774	Canada: Nunavut, Devon Island, Dundas Harbour, W of harbour mouth	primary	matK	74.824275100626	-83.8681442798576	0.00261079858919994
+Poa_arctica	KC475358.1	25-OCT-2013	760	Canada: Nunavut, Victoria Island (Nunavut), Cambridge Bay, On ridge above Freshwater Creek, between bridge and picnic area, 2.5-3 km NE of village	primary	matK	69.117	-105.05	0.00263844185427074
+Poa_arctica	KC475357.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Pond Inlet	primary	matK	72.78	-77	0.00190442231542216
+Poa_arctica	KC475356.1	25-OCT-2013	773	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, abandoned weather station	primary	matK	76.24	-119.35	0.00190559053370624
+Poa_arctica	KC475355.1	25-OCT-2013	753	Canada: Nunavut, Baffin Island, Iqaluit. Disturbed road bank behind the Iqaluit Town Office	primary	matK	63.9901110322974	-66.7558530697002	0.00316785139207132
+Poa_arctica	KC475354.1	25-OCT-2013	774	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	matK	74.533	-82.783	0.00261079858919994
+Poa_arctica	KC475353.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Arctic Bay	primary	matK	73.7332823653236	-85.5407948401492	0.00206657804287508
+Poa_arctica	KC475352.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Nettilling Lake On west central side of Burwash Bay	primary	matK	66.033	-71.283	0.00261079858919994
+Poa_arctica	KC475351.1	25-OCT-2013	682	Canada: Nunavut, Baffin Island, Iqaluit. Flat meadow above beach just south east of Iqaluit along trail to Apex	primary	matK	63.0403277440364	-68.9761427066916	0.00210610427638846
+Poa_arctica	KC475350.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of cliffs on S shore of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.27	-116.439	0.00260562017650392
+Poa_arctica	KC475349.1	25-OCT-2013	774	Canada: Northwest Territories, NWT mainland, Tuktoyuktuk, near end of road to sewage pond ~ 5 km S of town	primary	matK	69.43	-133.05	0.00190442231542216
+Poa_arctica	KC475348.1	25-OCT-2013	774	Canada: Northwest Territories, NWT mainland, Richards Island, Illisarvik, Mackenzie Delta	primary	matK	69.48	-134.59	0.00190442231542216
+Poa_arctica	KC475347.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Region SW of camp, ca. 5 km north of Coronation Gulf coast, 8 km north of point	primary	matK	68.711	-112.697	0.00260562017650392
+Poa_arctica	KC475346.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vincinity of Arctic Char Inn, Uluhaktok	primary	matK	70.736	-117.77	0.00219981681854698
+Poa_arctica	KC475345.1	25-OCT-2013	777	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island, ~10 km SE of Sanikiluaq, along ATV trail heading to east coast of island	primary	matK	56.475	-79.219	0.00278361824753967
+Poa_arctica	KC475344.1	25-OCT-2013	692	Canada: Nunavut, Baffin Island, Iqaluit, Flat meadow above beach just south east of Iqaluit along trail to Apex	primary	matK	63.75	-68.6833	0.00307207285804474
+Poa_arctica	KC475343.1	25-OCT-2013	747	Canada: Nunavut, Axel Heiberg Island, Expedition Fiord, McGill Univ. Field Camp on N side of Expedition River	primary	matK	79.4	-90.8	0.00196313548865837
+Poa_arctica	KC475342.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	matK	70.735	-117.761	0.00260562017650392
+Poa_arctica	KC475341.1	25-OCT-2013	774	Canada: Nunavut, Ellesmere Island, Alexandra Fiord, RCMP Post on S side of fiord	primary	matK	78.88	-75.75	0.00190442231542216
+Poa_arctica	KC475340.1	25-OCT-2013	774	Canada: Nunavut, Ellesmere Island, Sawtooth Range, W side	primary	matK	79.73	-83.16	0.00190442231542216
+Poa_arctica	KC475339.1	25-OCT-2013	773	Canada: Northwest Territories, Melville Island, McCormick Inlet, ~10 km SW of head of inlet at river delta	primary	matK	75.78	-112.37	0.00190559053370624
+Poa_arctica	KC475338.1	25-OCT-2013	741	Canada: Nunavut, Baffin Island, Iqaluit. Disturbed road bank behind the Iqaluit Town Office	primary	matK	64.3252167257288	-67.55372419506	0.00324155553511692
+Poa_arctica	KC475337.1	25-OCT-2013	774	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq. Plot 3. By the large antenna (known locally as the Big Pole) at east end of town	primary	matK	56.6	-79.358	0.00220293919275168
+Poa_arctica	KC475336.1	25-OCT-2013	773	Canada: Northwest Territories, Banks Island, Masik River Valley, flat valley bottom, ~100m **from river	primary	matK	71.4628241600986	-122.530535574815	0.00220492961804811
+Poa_arctica	KC475335.1	25-OCT-2013	774	Canada: Nunavut, Devon Island, Dundas Harbour, W of harbour mouth	primary	matK	74.4004581009436	-80.9726180119611	0.00261079858919994
+Poa_arctica	KC475334.1	25-OCT-2013	773	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	matK	76.56	-118.86	0.00190559053370624
+Poa_arctica	KC475333.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Arctic Bay	primary	matK	72.7134077366147	-85.7925000492629	0.00261079858919994
+Poa_arctica	KC475332.1	25-OCT-2013	671	Canada: Nunavut, Baffin Island, Iqaluit. Disturbed road bank behind the Iqaluit Town Office	primary	matK	63.1329987087702	-67.3784789917987	0.00360158437885344
+Poa_arctica	KC475331.1	25-OCT-2013	775	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East side of Hornaday River	primary	matK	68.3	-121.858	0.00260906791092257
+Poa_arctica	KC475330.1	25-OCT-2013	603	Canada: Nunavut, Ellesmere Island, Hazen Camp, on N shore of Lake Hazen, Ellesmere Island National Park Reserve, slopes of Omingmak Mt	primary	matK	71.098991557696	-123.128664364607	0.00120609075832956
+Poa_arctica	JN966435.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0.00260562017650392
+Poa_arctica	JN966434.1	27-OCT-2012	737	Canada: Manitoba, Churchill, unspecified locality	primary	matK	58.732	-93.822	0.00199250115928797
+Poa_arctica	JN966433.1	27-OCT-2012	737	Canada: Manitoba, Churchill, unspecified locality	primary	matK	58.733	-93.808	0.00181516460907092
+Poa_arctica	MT273308.1	31-MAR-2021	788	Russia	secondary	matK	64.68663498642	96.0583951613774	0.0028069216542464
+Poa_arctica	MT273307.1	31-MAR-2021	788	Russia	secondary	matK	64.8896699904636	99.1101414324411	0.00263380899182316
+Poa_arctica	MT273298.1	31-MAR-2021	788	Russia	secondary	matK	64.4278174704301	96.5089802320382	0.00188024851565702
+Poa_arctica	KY378860.1	25-FEB-2018	783	Canada	secondary	matK	61.0666922	-107.991707	0.00280821087529757

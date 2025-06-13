@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phyteuma_scorzonerifolium	KC455823.1	16-SEP-2013	2443	Switzerland	secondary	trnK	47.1432934950419	7.95998099839798	0.00049119934506754
+Phyteuma_scorzonerifolium	KC455822.1	16-SEP-2013	2443	Switzerland	secondary	trnK	45.9386624022744	8.47285841893385	0.00049119934506754
+Phyteuma_scorzonerifolium	KC455821.1	16-SEP-2013	2443	Switzerland	secondary	trnK	46.456932595358	9.38107876990203	0.00049119934506754
+Phyteuma_scorzonerifolium	KC455817.1	16-SEP-2013	2472	France	secondary	trnK	46.938083324193	1.22536167314254	0.00179146017880822
+Phyteuma_scorzonerifolium	KC455805.1	16-SEP-2013	2472	Italy	secondary	trnK	42.6384261	12.674297	0.00113844853600605
+Phyteuma_scorzonerifolium	KC455804.1	16-SEP-2013	2472	France	secondary	trnK	45.9248204588812	1.81575384090002	0.000485436893203884

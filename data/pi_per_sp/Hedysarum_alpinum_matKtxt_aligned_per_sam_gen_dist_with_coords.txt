@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedysarum_alpinum	KX676876.1	09-AUG-2017	805	Canada: British Columbia, East Kootenay Regional District, 12 km south of Sparwood, Flathead River, on road to Corbin	primary	matK	49.5	-114.5	0
+Hedysarum_alpinum	KC474878.1	25-OCT-2013	768	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	matK	68.719	-110.783	0
+Hedysarum_alpinum	KC474877.1	25-OCT-2013	768	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, South Quadjuk Island, sandstone heads area	primary	matK	66.861	-107.91	0
+Hedysarum_alpinum	KC474876.1	25-OCT-2013	767	Canada: Nunavut, Arctic Mainland, West Hudson Bay, Rankin Inlet	primary	matK	62.55	-92.44	0
+Hedysarum_alpinum	KC474875.1	25-OCT-2013	767	Canada: Northwest Territories, Canadian Arctic Archipelago, Victoria Island, Uluhaktok	primary	matK	70.764	-117.888	0
+Hedysarum_alpinum	KC474874.1	25-OCT-2013	768	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	matK	70.738	-117.762	0
+Hedysarum_alpinum	KC474873.1	25-OCT-2013	768	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Castle Butte, near summit	primary	matK	68.406	-121.989	0
+Hedysarum_alpinum	KC474872.1	25-OCT-2013	768	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.619	-115.493	0
+Hedysarum_alpinum	JQ669599.1	01-JUN-2012	1512	USA: Alaska	secondary	matK	64.4459613	-149.680909	0
+Hedysarum_alpinum	JQ619948.1	01-JUN-2012	1512	Canada: Northwest Territories	secondary	matK	65.0000004	-118	0

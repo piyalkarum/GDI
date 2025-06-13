@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anchusa_arvensis	MT917523.1	03-MAR-2023	781	China	secondary	matK	35.0180358637795	104.296824899228	0
+Anchusa_arvensis	MT917522.1	03-MAR-2023	789	China	secondary	matK	34.7605012905432	104.507740015542	0
+Anchusa_arvensis	MK926113.1	14-JAN-2020	767	United Kingdom	secondary	matK	54.7023545	-3.2765753	0
+Anchusa_arvensis	EU599718.1	31-MAR-2009	1593	Italy	secondary	matK	42.6384261	12.674297	0

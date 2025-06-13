@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_baffinensis	MF596774.1	28-FEB-2018	527	Canada: British Columbia, McBride Peak, with alpine vegetation	primary	rbcL	52.886358118119	-120.172934180432	0
+Festuca_baffinensis	MG227233.1	23-JAN-2018	552	Canada: Northwest Territories, Melville Island, McCormick Inlet, ~10 km SW of head of inlet at river delta	primary	rbcL	74.9590342890433	-113.238420926224	0
+Festuca_baffinensis	MG225881.1	23-JAN-2018	527	Canada: British Columbia, McBride Peak, with alpine vegetation	primary	rbcL	53.154896485283	-118.954365761178	0
+Festuca_baffinensis	KT960606.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.2296981361229	-22.8656140753086	0
+Festuca_baffinensis	KT960504.1	13-DEC-2015	512	Greenland: NE, Zackenberg	primary	rbcL	74.1274393760031	-20.0815209723404	0
+Festuca_baffinensis	KT960381.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1966591027845	-20.7373695134656	0
+Festuca_baffinensis	KC482873.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.249	-116.524	0
+Festuca_baffinensis	KC482872.1	25-OCT-2013	552	Canada: Nunavut, Bathurst Island, Polar Bear Pass, Polar Bear Pass, High Arctic Station	primary	rbcL	75.7167	-98.2	0
+Festuca_baffinensis	KC482871.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Dundas Harbour, W of harbour mouth. Coastal lowland W of harbour mouth	primary	rbcL	74.522	-82.558	0
+Festuca_baffinensis	KC482870.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Region SE of camp, ca. 9 km north of Coronation Gulf coast, 12 km north of point	primary	rbcL	68.647	-112.661	0
+Festuca_baffinensis	KC482869.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	rbcL	70.738	-117.762	0
+Festuca_baffinensis	KC482868.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vincinity of Arctic Char Inn, Uluhaktok	primary	rbcL	70.736	-117.77	0
+Festuca_baffinensis	KC482867.1	25-OCT-2013	545	Canada: Northwest Territories, Melville Island, McCormick Inlet, ca. 10 km SW of head of inlet at river delta	primary	rbcL	76.3780851606494	-114.189734884148	0
+Festuca_baffinensis	KC482866.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Clarence Lagoon	primary	rbcL	69.63	-140.87	0
+Festuca_baffinensis	KC482865.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Qikiqtaaluk Region, Baffin Island, Nikko Island in the Koukdjuak River	primary	rbcL	66.598	-71.526	0
+Festuca_baffinensis	KC482864.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, De Salis Bay, ~4km W of Windrum Lagoon, ~2km N of Sandhill River, W end of lake at base of hill	primary	rbcL	71.47	-121.92	0
+Festuca_baffinensis	KC482863.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, DEW Line station	primary	rbcL	69.597	-140.178	0

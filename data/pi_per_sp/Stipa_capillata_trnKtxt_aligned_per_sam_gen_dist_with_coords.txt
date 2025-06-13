@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stipa_capillata	JF698635.1	10-MAR-2012	565	Kazakhstan	secondary	trnK	47.7893545442434	66.4496403409767	0.526610278432909
+Stipa_capillata	FN434260.1	14-JUL-2011	795	Italy:Aosta	secondary	trnK	45.7370885	7.3196649	0.358689505894787
+Stipa_capillata	JF698505.1	05-FEB-2012	700	Kazakhstan	secondary	trnK	48.7988235330962	67.1944578078113	0.561227756331795
+Stipa_capillata	FN434259.1	14-JUL-2011	795	Russia	secondary	trnK	52.597919	58.30756	0.358172710029154

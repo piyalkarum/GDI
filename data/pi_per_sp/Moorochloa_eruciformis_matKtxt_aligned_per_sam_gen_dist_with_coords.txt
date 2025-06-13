@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Moorochloa_eruciformis	KR735116.1	24-JUN-2015	243	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.897030017524907	37.1682551471361	0
+Moorochloa_eruciformis	KR734915.1	24-JUN-2015	275	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.830772729388538	36.9197751428247	0
+Moorochloa_eruciformis	KR734639.1	24-JUN-2015	388	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.837967166676066	36.9012269322567	0
+Moorochloa_eruciformis	KR734403.1	24-JUN-2015	350	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.102824931899315	37.692097762085	0

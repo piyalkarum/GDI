@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Clematis_vitalba	JN895963.1	07-MAR-2012	808	United Kingdom: Glamorgan (41)	primary	matK	51.52	-3.21	0.179576941648405
+Clematis_vitalba	JN895570.1	07-MAR-2012	436	United Kingdom: Glamorgan	primary	matK	51.5	-3.27	0.179381759487778
+Clematis_vitalba	FR865061.1	09-JUN-2011	565	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.534469603205351
+Clematis_vitalba	JN895558.1	07-MAR-2012	777	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.178608581507917

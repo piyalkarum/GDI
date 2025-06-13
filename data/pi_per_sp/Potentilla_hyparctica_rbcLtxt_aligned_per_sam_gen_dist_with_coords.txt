@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_hyparctica	MG246081.1	21-JAN-2018	552	Canada: Nunavut, Ellesmere Island, Alexandra Fjiord	primary	rbcL	78.883	-75.917	0
+Potentilla_hyparctica	MG245952.1	21-JAN-2018	552	Canada: Yukon Territory, Richardson Mountains, tributary of Fish Creek, S of Vunta Creek	primary	rbcL	67.89	-136.551	0
+Potentilla_hyparctica	KT960723.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.4504017887304	-22.011555734302	0
+Potentilla_hyparctica	KT960701.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1176994105861	-20.5294238254426	0
+Potentilla_hyparctica	KT960385.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.0825280937721	-21.1754619968029	0
+Potentilla_hyparctica	KC483640.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Apex	primary	rbcL	63.717	-68.433	0
+Potentilla_hyparctica	KC483639.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, RCMP Post, Alexandra Fiord	primary	rbcL	78.883	-75.75	0
+Potentilla_hyparctica	KC483638.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Bukken River	primary	rbcL	80.517	-92.35	0
+Potentilla_hyparctica	KC483637.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Buckland Hills	primary	rbcL	69.417	-139.633	0
+Potentilla_hyparctica	KC483636.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Mould Bay	primary	rbcL	76.35	-119.05	0
+Potentilla_hyparctica	KC483635.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. The Bluff, approximately 6 km NW of Sanikiluaq, halfway up west peninsula	primary	rbcL	56.647	-79.364	0
+Potentilla_hyparctica	KC483634.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Green Bay	primary	rbcL	76.567	-118.883	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helictotrichon_setaceum	LR606911.1	25-JAN-2021	2049	Austria	secondary	matK	37.0013170541231	-5.67612074689278	0.000666666666666667
+Helictotrichon_setaceum	LT159682.1	15-MAR-2018	773	Austria	secondary	matK	36.7094874104913	-4.02843617908291	0.000666666666666667
+Helictotrichon_setaceum	FM957010.1	08-FEB-2009	2049	Austria	secondary	matK	37.2312593386991	-4.93624131930683	0.000666666666666667
+Helictotrichon_setaceum	HG797447.1	26-SEP-2014	750	France	secondary	matK	46.603354	1.8883335	0.00266666666666667
+Helictotrichon_setaceum	HG797446.1	26-SEP-2014	773	Austria	secondary	matK	37.1372114019534	-3.75110338527913	0.000666666666666667

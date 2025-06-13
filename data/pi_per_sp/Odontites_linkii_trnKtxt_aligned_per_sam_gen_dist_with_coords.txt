@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_linkii	KX959109.1	02-NOV-2017	1030	Greece: Lakonia, Lagadha gorge	primary	trnK	37.4159757215402	22.8977860985708	0
+Odontites_linkii	KX959108.1	02-NOV-2017	1030	Greece: Lakonia, Lagadha gorge	primary	trnK	36.9855687330627	23.1020679004137	0
+Odontites_linkii	KX959107.1	02-NOV-2017	1030	Greece: Achaea, between Kalavrita and Kalivitis	primary	trnK	38.0807	22.1708	0
+Odontites_linkii	KX959057.1	02-NOV-2017	1030	Greece: Corinthia, Trikala	primary	trnK	38.0551822619531	21.5291172971147	0
+Odontites_linkii	KX959056.1	02-NOV-2017	1037	Greece: Corinthia, Trikala	primary	trnK	38.1324798971366	21.610520692365	0

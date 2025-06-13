@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Typha_laxmannii	MZ302909.1	08-OCT-2021	533	Russia: Astrakhan region	secondary	rps16	46.2819013	47.970466	0
+Typha_laxmannii	MZ302906.1	08-OCT-2021	533	Russia: Chita region	secondary	rps16	52.0351045	113.4705221	0
+Typha_laxmannii	MZ302904.1	08-OCT-2021	533	Russia: Zabaikalie	secondary	rps16	52.248521	115.956325	0
+Typha_laxmannii	MZ302887.1	08-OCT-2021	533	Uzbekistan	secondary	rps16	41.32373	63.9528098	0

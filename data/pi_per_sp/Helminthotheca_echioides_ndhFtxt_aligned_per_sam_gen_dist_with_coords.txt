@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helminthotheca_echioides	LN830857.1	07-MAR-2016	1032	Algeria:Annaba Province, El Kerma on the road AnnabaGuelma	primary	ndhF	36.7	7.62	0.00242295054850036
+Helminthotheca_echioides	LN830856.1	07-MAR-2016	1032	Spain:Cadiz Province, Conil de la Frontera	primary	ndhF	36.32	-6.08	0.000968992248062015
+Helminthotheca_echioides	LN830855.1	07-MAR-2016	1032	Spain:Huelva Province, Between Gibraleon and Cartaya	primary	ndhF	37.33	-7.03	0.000968992248062015
+Helminthotheca_echioides	LN830854.1	07-MAR-2016	1032	Portugal:Coimbra District, Figueira da Foz. Cabo Mondego	primary	ndhF	40.18	-8.9	0.00242295054850036
+Helminthotheca_echioides	GQ494950.1	28-NOV-2009	1053	Spain: Lugo	secondary	ndhF	43.0462247	-7.4739921	0.000969932104752667

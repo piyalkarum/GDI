@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elymus_sibiricus	MN450946.1	30-NOV-2021	813	China	secondary	matK	35.5107277844653	104.449241216247	0.00101548946868549
+Elymus_sibiricus	MN433984.1	30-NOV-2021	760	China	secondary	matK	35.4242167421009	105.725284220705	0.000263157894736842
+Elymus_sibiricus	MT433194.1	31-MAY-2020	1356	Norway	secondary	matK	64.5731537	11.5280364	0.0002460024600246
+Elymus_sibiricus	KP210658.1	31-AUG-2017	891	China: Qinghai	secondary	matK	35.0542372716071	96.6553125272475	NA
+Elymus_sibiricus	KP210603.1	31-AUG-2017	321	China: Qinghai	secondary	matK	35.6518002589523	94.9132902406949	NA
+Elymus_sibiricus	KP210552.1	31-AUG-2017	321	China: Qinghai	secondary	matK	35.1265119836212	95.0898080317342	NA

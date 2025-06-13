@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Utricularia_vulgaris	MG224009.1	26-DEC-2017	551	Canada: Quebec, Montreal, Island of Montreal, Parc-nature du Bois-d'Anjou, pres d'un marecage	primary	rbcL	45.633	-73.564	0.0753532182103611
+Utricularia_vulgaris	MG223356.1	26-DEC-2017	553	Canada: Yukon Territory, Whitehorse, Cowley Creek Subdivision	primary	rbcL	60.591	-134.895	0.075187969924812
+Utricularia_vulgaris	MG222998.1	26-DEC-2017	553	Canada: Manitoba, York Factory	primary	rbcL	57	-92.307	0.075187969924812
+Utricularia_vulgaris	JN890809.1	07-MAR-2012	524	United Kingdom: Shetland (112)	primary	rbcL	60.25	-1.56	0.0760834670947031
+Utricularia_vulgaris	MN204976.1	30-NOV-2021	724	China	secondary	rbcL	35.2646402886594	104.391549418659	0.0758782201405152
+Utricularia_vulgaris	MN204975.1	30-NOV-2021	649	China	secondary	rbcL	34.9331013582316	105.067522626047	0.0745559169377033
+Utricularia_vulgaris	JN890555.1	07-MAR-2012	542	United Kingdom: Lincolnshire,South	secondary	rbcL	52.9579254	-0.5636356	0.0760834670947031
+Utricularia_vulgaris	EF529723.1	30-APR-2007	843	USA: Virginia, VA Bio Center	secondary	rbcL	47.52326	-92.536571	0.52833022932761

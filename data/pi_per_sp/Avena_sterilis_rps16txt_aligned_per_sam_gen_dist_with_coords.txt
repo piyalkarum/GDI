@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Avena_sterilis	KT453168.1	17-FEB-2017	788	Australia	secondary	rps16	-25.3198373539617	134.528387664908	0.0100659753564378
+Avena_sterilis	KT453167.1	17-FEB-2017	784	Australia	secondary	rps16	-24.5397525635175	134.680071777309	0.00788507427572763
+Avena_sterilis	KT453137.1	17-FEB-2017	791	Peru	secondary	rps16	-6.8699697	-75.0458515	0.00878467482206995
+Avena_sterilis	KT453136.1	17-FEB-2017	766	Jordan	secondary	rps16	44.6663146	-93.6261918	0.0310747230732337
+Avena_sterilis	KT453132.1	17-FEB-2017	791	Palestine	secondary	rps16	31.7621153	-95.6307891	0.00878467482206995

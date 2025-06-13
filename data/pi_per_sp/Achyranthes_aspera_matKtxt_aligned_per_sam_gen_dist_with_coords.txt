@@ -1,0 +1,37 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achyranthes_aspera	OM039372.1	19-JUN-2022	831	United Arab Emirates: Ras Al-Khaimah	primary	matK	25.913869	56.130692	0.00518806108643967
+Achyranthes_aspera	OM039371.1	19-JUN-2022	831	United Arab Emirates: Abu Dhabi	primary	matK	24.7272082183032	55.1513653546133	0.00609105218502766
+Achyranthes_aspera	OM039370.1	19-JUN-2022	831	United Arab Emirates: Abu Dhabi	primary	matK	24.3063605818971	56.4747311503917	0.00518806108643967
+Achyranthes_aspera	MF694819.1	16-SEP-2018	803	Pakistan: Punjab, Cholistan Desert, Dingarh	primary	matK	28.919	71.426	NA
+Achyranthes_aspera	KR735080.1	24-JUN-2015	691	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.0953286019540809	36.3025897902771	NA
+Achyranthes_aspera	KR735063.1	24-JUN-2015	708	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	-0.349366614812454	36.4183336505521	NA
+Achyranthes_aspera	KR735037.1	24-JUN-2015	643	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.668004857027416	36.9874961108659	NA
+Achyranthes_aspera	KR734737.1	24-JUN-2015	710	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.136605072976977	36.1874006407787	NA
+Achyranthes_aspera	JQ586441.1	24-APR-2012	766	Costa Rica: Area de Conservacion Guanacaste, Sector Santa Maria, Camino a Santa Maria	primary	matK	10.6193781974042	-85.6959921591114	NA
+Achyranthes_aspera	JQ586440.1	24-APR-2012	766	Costa Rica: Area de Conservacion Guanacaste, Sector Santa Maria, Camino a Santa Maria	primary	matK	11.3306658811459	-85.5923395601237	NA
+Achyranthes_aspera	JQ586439.1	24-APR-2012	759	Costa Rica: Area de Conservacion Guanacaste, Sector Cacao, Sendero al Bananal Gongora	primary	matK	11.5701075736404	-85.9531402210702	NA
+Achyranthes_aspera	JQ586438.1	24-APR-2012	760	Costa Rica: Area de Conservacion Guanacaste, Sector Cacao, Sendero al Bananal Gongora	primary	matK	10.7144232732038	-85.105755305746	NA
+Achyranthes_aspera	JQ586437.1	24-APR-2012	759	Costa Rica: Area de Conservacion Guanacaste, Sector Cacao, Sendero al Bananal Gongora	primary	matK	11.0076172629024	-85.627547830763	NA
+Achyranthes_aspera	JQ586356.1	24-APR-2012	766	Costa Rica: Area de Conservacion Guanacaste, Rincon Rainforest, San Lucas	primary	matK	10.5621339638273	-84.5525097676761	NA
+Achyranthes_aspera	JQ586355.1	24-APR-2012	766	Costa Rica: Area de Conservacion Guanacaste, Rincon Rainforest, San Lucas	primary	matK	10.5653671899528	-86.0591737735274	NA
+Achyranthes_aspera	JQ586354.1	24-APR-2012	766	Costa Rica: Area de Conservacion Guanacaste, Rincon Rainforest, San Lucas	primary	matK	10.156859622106	-85.5371022278725	NA
+Achyranthes_aspera	MT122155.1	19-MAY-2020	897	India	secondary	matK	22.7390044094316	78.3077310404841	NA
+Achyranthes_aspera	MT122152.1	19-MAY-2020	897	India	secondary	matK	22.037550709319	77.9946522045636	NA
+Achyranthes_aspera	MT122151.1	19-MAY-2020	897	India	secondary	matK	21.9202205191662	78.8917165422067	NA
+Achyranthes_aspera	MT122150.1	19-MAY-2020	897	India	secondary	matK	21.8636612903172	78.1456568974241	NA
+Achyranthes_aspera	LT992607.1	26-MAY-2018	2828	Ethiopia	secondary	matK	7.18333593339469	35.8041588070982	0.0106802855342941
+Achyranthes_aspera	LT992602.1	26-MAY-2018	2815	Ethiopia	secondary	matK	6.74727644557332	35.6062086965359	0.00816756878059887
+Achyranthes_aspera	LT992598.1	26-MAY-2018	2811	Kenya	secondary	matK	1.43228077051348	38.9351069405864	0.0070951668692973
+Achyranthes_aspera	LT992597.1	26-MAY-2018	2832	Kenya	secondary	matK	2.05415784869338	38.3124487156539	0.0138484315172259
+Achyranthes_aspera	LT992596.1	26-MAY-2018	2810	Kenya	secondary	matK	1.12623014861798	38.1007181139588	0.00744259072446285
+Achyranthes_aspera	LT992595.1	26-MAY-2018	2765	Kenya	secondary	matK	1.99119389125538	37.7424749572957	0.00585968072353274
+Achyranthes_aspera	LT992592.1	26-MAY-2018	2435	Ethiopia	secondary	matK	6.92087759817625	34.7718387968744	0.00815201254637197
+Achyranthes_aspera	MH287272.1	18-JUN-2018	897	Pakistan	secondary	matK	30.8573475590362	70.8571158141373	NA
+Achyranthes_aspera	KP875780.1	05-OCT-2015	611	Australia	secondary	matK	-24.7761086	134.755	0.00910834412243455
+Achyranthes_aspera	MG946994.1	29-MAY-2018	876	Pakistan	secondary	matK	31.0244977903846	71.3764155310588	NA
+Achyranthes_aspera	KY941419.1	30-APR-2018	446	Oman: Dhofar	secondary	matK	18.2356054	54.2667349	NA
+Achyranthes_aspera	MF582383.1	22-NOV-2017	589	India	secondary	matK	22.8896124105512	78.4549859834739	NA
+Achyranthes_aspera	KR734855.1	24-JUN-2015	623	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	matK	-0.342789391458399	35.9128833061347	NA
+Achyranthes_aspera	KR734649.1	24-JUN-2015	624	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	matK	-0.244610384697077	35.2316586578546	NA
+Achyranthes_aspera	KR734479.1	24-JUN-2015	673	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	matK	-0.449364497176004	35.4033310554594	NA
+Achyranthes_aspera	HM850676.1	23-JUL-2011	807	Portugal	secondary	matK	39.6621648	-8.1353519	NA

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stipa_sareptana	OR738300.1	13-NOV-2023	800	Kazakhstan: East Kazakhstan region	primary	matK	48.2746	83.5516	0.321357679774262
+Stipa_sareptana	MF169113.1	23-JAN-2018	1190	China	primary	matK	49.42	95.44	0.329444036133827
+Stipa_sareptana	FN434336.1	14-JUL-2011	809	Kazakhstan	secondary	matK	48.1012954	66.7780818	0.324426671706103
+Stipa_sareptana	FN434335.1	14-JUL-2011	805	Mongolia	secondary	matK	43.9382593	-79.2235563	0.325460664814375

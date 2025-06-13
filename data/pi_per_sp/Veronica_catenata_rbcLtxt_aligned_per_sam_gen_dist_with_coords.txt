@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_catenata	JN891681.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.48	-3.61	0
+Veronica_catenata	HM850448.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Veronica_catenata	JN891294.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9514433536434	-1.10638973421265	0
+Veronica_catenata	JN891293.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.6328008666931	-2.48446741541498	0

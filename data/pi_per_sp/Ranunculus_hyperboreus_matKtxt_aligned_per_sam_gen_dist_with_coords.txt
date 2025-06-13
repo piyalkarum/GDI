@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_hyperboreus	KC475666.1	25-OCT-2013	780	Canada: Nunavut, Victoria Island, Cambridge Bay, Cambridge Bay, One block west of the Northern Store (NE side of town)	primary	matK	69.264	-105.1	0.00646370833115055
+Ranunculus_hyperboreus	KC475665.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	matK	70.735	-117.761	0.00220910267596323
+Ranunculus_hyperboreus	KC475664.1	25-OCT-2013	658	Canada: Nunavut, Southhampton Island, Salliq	primary	matK	64.133	-83.017	0.00227963525835866
+Ranunculus_hyperboreus	KC475663.1	25-OCT-2013	695	Canada: Nunavut, West Hudson Bay, Rankin Inlet	primary	matK	62.8	-92.1	0.00215827338129496
+Ranunculus_hyperboreus	KC475662.1	25-OCT-2013	780	Canada: Northwest Territories, Banks Island, Egg River, Hills between Big River and Egg River, near junction of the two rivers, valley of small tributary of Egg River	primary	matK	72.4442	-124.407	0.00220250266936322
+Ranunculus_hyperboreus	FM242750.1	23-SEP-2009	1795	Russia:Taymyr, Fomich river	secondary	matK	74.4787053	101.65750856266	0.00174712883626533
+Ranunculus_hyperboreus	FM242740.1	23-SEP-2009	1795	Russia:Chukotka	secondary	matK	66.0006475	169.4900869	0.00429563278535094

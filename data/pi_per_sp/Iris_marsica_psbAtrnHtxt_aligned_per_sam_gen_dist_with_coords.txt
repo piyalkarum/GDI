@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_marsica	MT294658.1	24-MAR-2021	519	Italy: Terranera, Rocca di Mezzo, L'Aquila	secondary	psbA-trnH	42.2349095	13.5346202	0
+Iris_marsica	MT294653.1	24-MAR-2021	519	Italy: Val di Rose, Civitella Alfedena, L'Aquila	secondary	psbA-trnH	43.820611	11.1968176	0
+Iris_marsica	MT294652.1	24-MAR-2021	519	Italy: La Difesa, Pescasseroli, L'Aquila	secondary	psbA-trnH	41.9527163	13.1167102	0
+Iris_marsica	MT294659.1	24-MAR-2021	519	Italy	secondary	psbA-trnH	41.1531994751879	14.2228726011672	0
+Iris_marsica	MT294657.1	24-MAR-2021	519	Italy	secondary	psbA-trnH	42.4023501764138	14.0944917973798	0
+Iris_marsica	MT294654.1	24-MAR-2021	519	Italy	secondary	psbA-trnH	41.9833669	14.137946	0
+Iris_marsica	MT294650.1	24-MAR-2021	519	Italy	secondary	psbA-trnH	42.091529	13.363794	0

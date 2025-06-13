@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostis_clavata	MN492689.1	30-NOV-2021	825	China	secondary	matK	35.0969808066745	104.774247663945	0.00372101294636506
+Agrostis_clavata	MN433968.1	30-NOV-2021	781	China	secondary	matK	34.1756153068561	104.583992104915	0.00448307560983617
+Agrostis_clavata	KF713155.1	15-DEC-2013	1014	South Korea: Suwon-si, Gyeonggi-do	secondary	matK	37.267483	126.934611	0.00550325742633435
+Agrostis_clavata	HQ600049.1	02-AUG-2011	1333	South Korea	secondary	matK	36.563210742872	128.530263420473	0.00385633746775495
+Agrostis_clavata	HQ600045.1	02-AUG-2011	1333	South Korea	secondary	matK	36.0573289735967	128.410363403198	0.00385633746775495

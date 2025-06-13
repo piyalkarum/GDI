@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Buglossoides_arvensis	MK374016.1	07-OCT-2019	663	Germany: Bavaria, Mantel	secondary	trnL-trnF	49.6538716	12.0434814	0.0425209314824612
+Buglossoides_arvensis	HG939439.1	09-APR-2015	654	Italy:Tuscany, Marina di Grosseto	secondary	trnL-trnF	42.71785	10.9810013	0.0306840481925348
+Buglossoides_arvensis	EU599940.1	31-MAR-2009	347	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.0550435415614118
+Buglossoides_arvensis	MK374017.1	07-OCT-2019	815	Syria	secondary	trnL-trnF	33.9665336	36.6609885	0.0226592330258188

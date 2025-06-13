@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sonchus_oleraceus	OR182517.1	19-SEP-2023	891	China	primary	trnL-trnF	42.1254496709248	121.147174319721	0.101450597883709
+Sonchus_oleraceus	OR182516.1	19-SEP-2023	887	China	primary	trnL-trnF	43.4043134773898	120.879135212579	0.101957163747597
+Sonchus_oleraceus	OR182515.1	19-SEP-2023	1031	China	primary	trnL-trnF	42.7128790081157	120.349685486727	0.312332589122999
+Sonchus_oleraceus	KF196068.1	20-JAN-2014	841	China: Yunnan, Zhongdian	secondary	trnL-trnF	27.8717021	99.8365499	0.101697643154701
+Sonchus_oleraceus	KF196067.1	20-JAN-2014	841	China: Sichuan, Jiulong	secondary	trnL-trnF	29.0033649	101.5055715	0.101697643154701

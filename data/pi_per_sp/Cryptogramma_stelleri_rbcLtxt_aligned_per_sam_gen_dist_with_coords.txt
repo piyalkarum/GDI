@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cryptogramma_stelleri	MG215513.1	24-JAN-2018	553	Canada: Val-Jalbert, Lac St-Jean, Quebec	primary	rbcL	48.6	-72.0833	0.000642260757867694
+Cryptogramma_stelleri	MG215431.1	24-JAN-2018	552	Canada: Ontario, Thunder Bay Dist., Left bank of Wolf River at Red Rock Falls, 22 km NW of Dorion P.O. on Wolfpup Lake Rd., 2.2 km E of Wolf River Bridge.	primary	rbcL	48.917	-88.767	0.000642260757867694
+Cryptogramma_stelleri	MG215362.1	24-JAN-2018	553	Canada: Hillsboro, Nova Scotia	primary	rbcL	46.0667	-61.3492	0.000642260757867694
+Cryptogramma_stelleri	MG215217.1	24-JAN-2018	553	Canada: Lake Kagawong, Manitoulin Island, ON	primary	rbcL	45.8291	-82.3	0.000642260757867694
+Cryptogramma_stelleri	MG215100.1	24-JAN-2018	552	Canada: Ontario, Cochrane Dist., McMillan Tp. Conc. I, Nagagami River, Jackpine Rapids.	primary	rbcL	49.717	-84.6	0.000642260757867694
+Cryptogramma_stelleri	DQ432660.1	31-OCT-2006	1220	China	secondary	rbcL	35.000074	104.999927	0.0034879289622292
+Cryptogramma_stelleri	AB574815.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.000276625172890733

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arrhenatherum_palaestinum	AJ632242.1	08-JAN-2007	625	Bulgaria	secondary	26S rRNA	46.3667598418475	24.4305219656414	0.00982133068081344
+Arrhenatherum_palaestinum	AJ632241.1	08-JAN-2007	529	Bulgaria	secondary	26S rRNA	46.9939299774393	24.2072725051849	0.0349095555766943
+Arrhenatherum_palaestinum	AJ632240.1	08-JAN-2007	627	Greece	secondary	26S rRNA	43.2097838	-77.6930602	0.0101404844968357
+Arrhenatherum_palaestinum	AJ632239.1	08-JAN-2007	627	Turkey	secondary	26S rRNA	38.9552299170039	34.8860148451533	0.0102655265218242
+Arrhenatherum_palaestinum	AJ632238.1	08-JAN-2007	628	Turkey	secondary	26S rRNA	38.793023213698	34.4056528410076	0.0102809400179598

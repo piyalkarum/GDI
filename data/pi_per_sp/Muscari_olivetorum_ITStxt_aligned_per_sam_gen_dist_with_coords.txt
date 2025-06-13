@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Muscari_olivetorum	AM260549.1	10-JAN-2009	616	Spain:Jaen,Torredelcampo	secondary	ITS	38.3080077412773	-3.9816376089029	0.0606077252213002
+Muscari_olivetorum	AM260548.1	10-JAN-2009	596	Spain:Jaen,Torredelcampo	secondary	ITS	37.863012720233	-3.39694690300258	0.0570384487383953
+Muscari_olivetorum	AM260547.1	10-JAN-2009	615	Spain:Jaen,Torredelcampo	secondary	ITS	38.1721670685475	-3.17479276390684	0.0551746488002142
+Muscari_olivetorum	AM260546.1	10-JAN-2009	633	Spain:Jaen,Torredelcampo	secondary	ITS	38.1248464370784	-3.61563938036755	0.0584307281670983
+Muscari_olivetorum	AM260545.1	10-JAN-2009	596	Spain:Jaen,Torredelcampo	secondary	ITS	37.0504585298297	-3.69326055651139	0.0578918923688804

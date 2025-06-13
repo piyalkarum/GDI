@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_alpina	MT758534.1	27-DEC-2021	448	Turkey: Nigde	primary	psbA-trnH	37.006287747678	35.675817250388	0
+Artemisia_alpina	MT758533.1	27-DEC-2021	448	Turkey: Nigde	primary	psbA-trnH	38.1163463483915	34.6458031249004	0
+Artemisia_alpina	MT758532.1	27-DEC-2021	448	Turkey: Sivas	primary	psbA-trnH	39.9817561074618	37.1010618991651	0
+Artemisia_alpina	MT758531.1	27-DEC-2021	448	Turkey: Sivas	primary	psbA-trnH	39.1423787810798	38.1384621292339	0

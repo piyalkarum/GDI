@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_crispus	GU814257.1	11-APR-2010	756	India	secondary	rpl20-rps12	22.3511148	78.6677428	0
+Potamogeton_crispus	GU814256.1	11-APR-2010	761	Czech Republic	secondary	rpl20-rps12	49.135540517905	15.1142456166238	0
+Potamogeton_crispus	GU814255.1	11-APR-2010	762	Germany	secondary	rpl20-rps12	40.4203479	-79.1166983	0
+Potamogeton_crispus	GU814254.1	11-APR-2010	744	Czech Republic	secondary	rpl20-rps12	50.290091117082	15.1567485865238	0
+Potamogeton_crispus	GU814253.1	11-APR-2010	744	Czech Republic	secondary	rpl20-rps12	49.8691364839561	14.2601664834897	0
+Potamogeton_crispus	HM852142.1	22-DEC-2010	756	Australia	secondary	rpl20-rps12	-24.7761086	134.755	0
+Potamogeton_crispus	FJ883608.1	26-APR-2009	734	Poland	secondary	rpl20-rps12	54.0272222	18.0180556	0

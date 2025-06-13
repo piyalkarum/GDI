@@ -1,0 +1,34 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cynodon_dactylon	OL434711.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1158	-81.1432	0.00442955691300528
+Cynodon_dactylon	MF596694.1	28-FEB-2018	603	USA: California, Humboldt Co., 8.2 mi NW of Honeydew on Lost Coast Highway and 7.7 mi SE of Petrolia at bridge crossing Mattole River.	primary	rbcL	40.27	-124.227	0.00437405882582464
+Cynodon_dactylon	MG227921.1	23-JAN-2018	553	Canada: Ontario, Essex County, Point Pelee National park	primary	rbcL	41.932	-82.513	0.00442955691300528
+Cynodon_dactylon	LC219080.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3475	119.9378	0.00443844929330258
+Cynodon_dactylon	LC219065.1	16-MAR-2017	552	China:Zhejiang, East Tiaoxi River	primary	rbcL	30.3418	119.9271	0.00443844929330258
+Cynodon_dactylon	KP149534.1	16-NOV-2015	534	South Africa: Mpumalanga, Kruger National Park, Kruger National Park, Marula Region, Skukuza section	primary	rbcL	-25.006	31.573	0.00433408712646456
+Cynodon_dactylon	JQ412349.1	16-JAN-2013	552	South Africa: Western Cape, Cape Town, Robben Island	primary	rbcL	-33.811	18.364	0.00443611719367478
+Cynodon_dactylon	OQ392287.1	10-MAY-2023	522	Peru	secondary	rbcL	-6.73851844265538	-75.5107495974275	0.00437608256376923
+Cynodon_dactylon	OQ392008.1	10-MAY-2023	525	Peru	secondary	rbcL	-6.69007621416189	-74.5942026176932	0.00435250972376802
+Cynodon_dactylon	OQ391375.1	10-MAY-2023	522	Peru	secondary	rbcL	-7.28683473133991	-75.5440227512422	0.00551855838296919
+Cynodon_dactylon	OQ391255.1	10-MAY-2023	528	Peru	secondary	rbcL	-7.50712820040972	-75.1091610753433	0.00432920659739308
+Cynodon_dactylon	MT931782.1	03-MAR-2023	568	China	secondary	rbcL	34.8741702166429	105.48600623399	0.0419288604833255
+Cynodon_dactylon	OP102130.1	06-NOV-2022	603	India	secondary	rbcL	22.9969741870403	78.463579441556	0.00437405882582464
+Cynodon_dactylon	MN205096.1	30-NOV-2021	685	China	secondary	rbcL	35.1795880858159	104.058724113922	0.00506169895110974
+Cynodon_dactylon	MN192761.1	30-NOV-2021	723	China	secondary	rbcL	35.5039748923497	105.699536516697	0.00545758258521641
+Cynodon_dactylon	MK924907.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00538472088408234
+Cynodon_dactylon	MH549802.1	05-JUN-2019	569	USA	secondary	rbcL	39.7837304	-100.445882	0.0400164844935574
+Cynodon_dactylon	MK074724.1	21-MAY-2019	603	India	secondary	rbcL	22.5176650167489	77.7172668598285	0.00663541685010856
+Cynodon_dactylon	MH598935.1	22-JAN-2019	580	Saudi Arabia: Taif	secondary	rbcL	20.4203532058795	40.573484679915	0.00650537941553687
+Cynodon_dactylon	MH598918.1	22-JAN-2019	590	Saudi Arabia: Taif	secondary	rbcL	21.2399273708424	39.9544625323006	0.00880242655219431
+Cynodon_dactylon	MF998366.1	09-DEC-2017	1353	Tanzania	secondary	rbcL	-6.5247123	35.7878438	0.00653804210142209
+Cynodon_dactylon	MG227922.1	23-JAN-2018	552	Canada: Ontario, Ottawa, City of, Experimental farm.	secondary	rbcL	45.3832225	-75.7146034	0.00443611719367478
+Cynodon_dactylon	MG227597.1	23-JAN-2018	553	Canada: British Columbia, Victoria	secondary	rbcL	48.4283182	-123.3649533	0.00442955691300528
+Cynodon_dactylon	KX282689.1	28-MAY-2017	528	Kuwait	secondary	rbcL	30.1457958830919	47.8159086647924	0.00643491511487265
+Cynodon_dactylon	KX282688.1	28-MAY-2017	526	Kuwait	secondary	rbcL	28.9346198465166	47.1948823049828	0.00651813991074363
+Cynodon_dactylon	KX282687.1	28-MAY-2017	526	Kuwait	secondary	rbcL	29.0186565363085	48.8165910169095	0.00651813991074363
+Cynodon_dactylon	KP711265.1	31-MAR-2016	1096	China	secondary	rbcL	35.6826632848942	105.467233701554	0.00563955056404647
+Cynodon_dactylon	KP056840.1	28-FEB-2015	1096	South Korea: Gyeongju-si, Gyeongsangbuk-do	secondary	rbcL	35.8556705	129.2248811	0.0049484722095721
+Cynodon_dactylon	KP056839.1	28-FEB-2015	1096	South Korea: Icheon-si, Gyeonggi-do	secondary	rbcL	37.2808823	127.4429132	0.0049484722095721
+Cynodon_dactylon	KP056838.1	28-FEB-2015	1096	South Korea: Yangyang-gun, Gangwon-do	secondary	rbcL	38.1335651	128.6211991	0.00429412104337918
+Cynodon_dactylon	KP056837.1	28-FEB-2015	1096	South Korea: Jeju-si, Jeju-do	secondary	rbcL	33.3939924	126.5626653	0.00429412104337918
+Cynodon_dactylon	HM849930.1	23-JUL-2011	1327	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00737700283985713
+Cynodon_dactylon	HQ600408.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.00582721809039006

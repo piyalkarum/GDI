@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_sylvatica	JN894333.1	07-MAR-2012	643	United Kingdom: Monmouthshire	primary	matK	51.65	-2.7	0.0037817396002161
+Vicia_sylvatica	JX505904.1	09-JAN-2013	995	Romania	secondary	matK	45.9852129	24.6859225	0.0101522842639594
+Vicia_sylvatica	JN896141.1	07-MAR-2012	933	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00963855421686747
+Vicia_sylvatica	JN896139.1	07-MAR-2012	830	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.023572578081043

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brachypodium_sylvaticum	MG227444.1	23-JAN-2018	553	Canada: Ontario, Grey County. Nordin Property, between Priceville and Flesherton in Grey County south of Grey Road 4; Acc. +/-8m	primary	rbcL	44.216	-80.587	0.00460884111858369
+Brachypodium_sylvaticum	MG227249.1	23-JAN-2018	553	Canada: Ontario, Grey County. Nordin Property (Niagara Escarpment Conservancy). Acc. +/-10m	primary	rbcL	44.216	-80.597	0.00460884111858369
+Brachypodium_sylvaticum	MG226146.1	23-JAN-2018	552	Canada: British Columbia, Vancouver Island, Cowichan Lake, northwest end, 11.5 km due WNW of Youbou	primary	rbcL	48.914	-124.343	0.00461688205948098
+Brachypodium_sylvaticum	JN893340.1	07-MAR-2012	542	United Kingdom: Breconshire	primary	rbcL	51.8	-3.79	0.00470250400400754
+Brachypodium_sylvaticum	MN205087.1	30-NOV-2021	722	China	secondary	rbcL	34.6514720464926	105.362264093505	0.00727017560284408
+Brachypodium_sylvaticum	MN205086.1	30-NOV-2021	722	China	secondary	rbcL	34.6175383577353	104.958673445479	0.00766431523114986
+Brachypodium_sylvaticum	MH116085.1	17-AUG-2018	668	China	secondary	rbcL	34.9452901276699	104.131679734664	0.00596563490475111
+Brachypodium_sylvaticum	KJ204307.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00464118064044386
+Brachypodium_sylvaticum	HM849820.1	23-JUL-2011	698	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00575939493523962
+Brachypodium_sylvaticum	HQ600454.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.0430450606887116
+Brachypodium_sylvaticum	JN890935.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00470250400400754
+Brachypodium_sylvaticum	JN890932.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00470250400400754

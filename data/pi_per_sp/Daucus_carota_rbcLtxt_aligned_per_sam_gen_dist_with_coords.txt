@@ -1,0 +1,32 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daucus_carota	OR454476.1	23-SEP-2023	489	China: Outside US, SIP, China, Jiangsu, Suzhou, SIP, Wuzhong, purchased from store	primary	rbcL	31.6902269836623	120.898556081245	0.0184907630314169
+Daucus_carota	OR454468.1	23-SEP-2023	545	China: Outside US, SIP, China, Jiangsu, Suzhou, SIP, Wuzhong, purchased from store	primary	rbcL	31.4924958978354	121.037164977641	0.0181726386244302
+Daucus_carota	OR449997.1	20-SEP-2023	545	China: Outside US, SIP, China, Jiangsu, Suzhou, SIP, Wuzhong, purchased from store	primary	rbcL	30.6593198900029	121.510676385331	0.0181726386244302
+Daucus_carota	OQ404757.1	03-JUL-2023	612	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	rbcL	42.26058902	-85.6372308	0.0181900795303125
+Daucus_carota	MK060095.1	26-MAY-2019	638	Poland	primary	rbcL	50.2717	16.8881	0.0181837927809705
+Daucus_carota	MG223358.1	26-DEC-2017	552	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0.0181221240061142
+Daucus_carota	MG222257.1	26-DEC-2017	552	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.765	-80.303	0.0181221240061142
+Daucus_carota	MG222059.1	26-DEC-2017	553	Canada: Ontario, Norfolk County, Norfolk Twp., Carr Tract and Nursery Tract (St. Williams Forest), North Walsingham/South Walsingham Townline Road	primary	rbcL	42.8033	-80.4086	0.0180885552515251
+Daucus_carota	MG221309.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Halfway Log Dump Parking Lot, BPNP	primary	rbcL	45.227	-81.48	0.0181221240061142
+Daucus_carota	MG221227.1	26-DEC-2017	552	Canada: University of Guelph Campus, Parking Lot west of Biodiversity Center	primary	rbcL	43.528	-80.23	0.0181221240061142
+Daucus_carota	KX678482.1	29-APR-2017	551	Canada: British Columbia, Nanaimo Regional District, Gabriola Island, southern end of island, next to Silva Bay	primary	rbcL	49.149	-123.705	0.0197526746311455
+Daucus_carota	KT695541.1	29-SEP-2015	551	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.0181559279990084
+Daucus_carota	KJ593351.1	17-MAR-2015	553	USA: Wisconsin, Green Bay	primary	rbcL	44.53	-87.91	0.0180885552515251
+Daucus_carota	KJ593350.1	17-MAR-2015	537	USA: Wisconsin, Abrams	primary	rbcL	44.814	-88.03	0.0183234960176323
+Daucus_carota	KJ593349.1	17-MAR-2015	535	USA: Wisconsin, Oconto	primary	rbcL	44.858	-87.855	0.0182657529095101
+Daucus_carota	KJ841260.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.0181221240061142
+Daucus_carota	JN892036.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.14	-4.5	0.0182129314813125
+Daucus_carota	OQ446841.1	03-JUL-2023	534	Pakistan	secondary	rbcL	-3.65427161595023	-78.6927825962333	0.0182077993630179
+Daucus_carota	OQ446837.1	03-JUL-2023	565	Pakistan	secondary	rbcL	-3.90494760759827	-79.8535493040577	0.0182299815641197
+Daucus_carota	MT930269.1	03-MAR-2023	559	China	secondary	rbcL	30.4316993622573	-95.0586562884115	0.0183167116684407
+Daucus_carota	MN204660.1	30-NOV-2021	724	China	secondary	rbcL	29.3963095254126	-94.6926646981115	0.018342236806124
+Daucus_carota	HQ619726.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.0180885552515251
+Daucus_carota	KU165723.1	01-MAY-2016	786	Germany	secondary	rbcL	40.4203479	-79.1166983	0.540698859689016
+Daucus_carota	MG222515.1	26-DEC-2017	553	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Princess Point	secondary	rbcL	43.3859461893946	-78.6708913151263	0.0180885552515251
+Daucus_carota	MG222454.1	26-DEC-2017	553	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Front lawn of Willow Ridge.	secondary	rbcL	43.9679784132183	-77.8394052190659	0.0196821808245834
+Daucus_carota	KP974254.1	08-SEP-2015	1368	Pakistan	secondary	rbcL	-4.18376232376531	-79.7022687638184	0.0181581763588531
+Daucus_carota	KJ204327.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.0182239157397237
+Daucus_carota	HM849948.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0183405402070737
+Daucus_carota	JN891381.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.0182129314813125
+Daucus_carota	JN891086.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.0182129314813125
+Daucus_carota	JN891084.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0182129314813125

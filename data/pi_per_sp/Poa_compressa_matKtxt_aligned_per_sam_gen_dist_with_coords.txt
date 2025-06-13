@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_compressa	MF597516.1	17-JUL-2018	815	Canada: British Columbia, Mayne Island, Bennett Bay, Gulf Islands National Park Reserve of Canada, Wilkes Road off Bennett Bay Road. Along trail through woods along coast.	primary	matK	48.804	-123.322	0.000850751189964216
+Poa_compressa	MF597515.1	17-JUL-2018	807	Canada: Manitoba	primary	matK	49.281	-98.635	0.000847421900053479
+Poa_compressa	MF597514.1	17-JUL-2018	777	Canada: British Columbia, Fort Steele Road, coner of Hwy. 3 and Wardner, 12 km W of Jaffray. Sandy slope on roadside.	primary	matK	49.432	-115.417	0.00146640176916015
+Poa_compressa	MF597513.1	17-JUL-2018	777	Canada: British Columbia, Port Coquitlam, gravel lot along Oxford connector that parallels CPR railway along Lougheed Highway, just SE of Shaughnessy Street	primary	matK	49.265	-122.772	0.00146640176916015
+Poa_compressa	MF597512.1	17-JUL-2018	808	Canada: Manitoba, Rural Municipality of Pembina, 15.9 km S of Manitou, just NE of the Pembina Valley.	primary	matK	49.119	-98.533	0.000847421900053479
+Poa_compressa	MF597511.1	17-JUL-2018	806	Canada: British Columbia, Vancouver Island, just off Hwy. 19, along road to Courtenay before turnoff to Forbidden Plateau Road.	primary	matK	49.697	-125.077	0.000847421900053479
+Poa_compressa	MT273300.1	31-MAR-2021	767	Turkey	secondary	matK	38.9597594	34.9249653	0.000654964631909877
+Poa_compressa	KJ529347.1	22-FEB-2015	969	Spain	secondary	matK	39.3260685	-4.8379791	0.00714490227087829
+Poa_compressa	KY378865.1	25-FEB-2018	754	Canada	secondary	matK	61.0666922	-107.991707	0.000635727908455181
+Poa_compressa	MG216945.1	24-JAN-2018	772	Canada: Quebec, Reg. adm. GaspesieIles-de-la-Madeleine, MRC La Haute-Gaspesie, Municipalite Sainte-Anne-des-Monts, Riviere Sainte-Anne, by bridge near road junction to lac Cascapedia, Gaspe	secondary	matK	46.8137431	-71.2084061	0.000859666228581672
+Poa_compressa	KJ599232.1	21-SEP-2014	733	Australia: New South Wales	secondary	matK	-31.8759835	147.2869493	0.000638406537282942
+Poa_compressa	JN895057.1	07-MAR-2012	760	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.000865620582541232

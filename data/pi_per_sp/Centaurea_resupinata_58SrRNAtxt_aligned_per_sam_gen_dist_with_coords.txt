@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_resupinata	AM114294.1	08-JAN-2007	634	Algeria:Oran	secondary	5.8S rRNA	35.7044415	-0.6502981	0.00236593059936909
+Centaurea_resupinata	AM114293.1	08-JAN-2007	634	Morocco:Targuist	secondary	5.8S rRNA	34.939869	-4.320451	0.0102523659305994
+Centaurea_resupinata	AM114291.1	08-JAN-2007	634	Spain:Alicante	secondary	5.8S rRNA	38.9552267899376	-0.33746487627959	0.00368033648790747
+Centaurea_resupinata	AM114290.1	08-JAN-2007	634	Spain:Valencia	secondary	5.8S rRNA	39.4697065	-0.3763353	0.00236593059936909
+Centaurea_resupinata	AM114289.1	08-JAN-2007	634	Spain:Alicante	secondary	5.8S rRNA	38.8846974541202	-1.36042835241183	0.00315457413249211
+Centaurea_resupinata	AM114288.1	08-JAN-2007	634	Spain:Albacete	secondary	5.8S rRNA	39.2843684378026	-2.17309208172897	0.00315457413249211
+Centaurea_resupinata	AM114282.1	08-JAN-2007	634	Spain:Albacete	secondary	5.8S rRNA	38.7462871264514	-2.56544263380311	0.00236593059936909

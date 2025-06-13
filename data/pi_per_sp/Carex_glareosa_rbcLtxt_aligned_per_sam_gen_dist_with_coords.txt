@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_glareosa	MG227934.1	23-JAN-2018	552	Canada: Manitoba, Cape Merry, 2 km NW of the town of Churchill, E side of the Churchill Riv	primary	rbcL	58.7881	-94.201	0
+Carex_glareosa	KT960592.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.9457655174146	-20.2157701948	0
+Carex_glareosa	KT960531.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.0845951166611	-21.6261067600109	0
+Carex_glareosa	KT960484.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.2129557340709	-19.9555000260532	0
+Carex_glareosa	KC482280.1	25-OCT-2013	552	Canada: Northwest Territories, Tuktoyaktuk, On Beaufort Sea	primary	rbcL	69.45	-133.033	0
+Carex_glareosa	JN965373.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	rbcL	58.769	-93.856	0
+Carex_glareosa	JN965372.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	rbcL	58.789	-94.227	0
+Carex_glareosa	JN965371.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Bank of small stream near Goose Creek Rd	primary	rbcL	58.739	-94.112	0
+Carex_glareosa	JN965370.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Upper reaches of 4.5m tide.	primary	rbcL	57.558694313368	-92.2615286846437	0
+Carex_glareosa	JN965369.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality, Upper salt marsh.	primary	rbcL	56.3344197491976	-91.2382669581456	0

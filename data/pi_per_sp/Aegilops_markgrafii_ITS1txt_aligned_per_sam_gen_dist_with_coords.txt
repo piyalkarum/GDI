@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aegilops_markgrafii	FR716108.1	23-DEC-2010	611	Turkey	secondary	ITS1	38.9597594	34.9249653	0
+Aegilops_markgrafii	FR716107.1	23-DEC-2010	611	Iran	secondary	ITS1	32.6475314	54.5643516	0
+Aegilops_markgrafii	FR716106.1	23-DEC-2010	611	Greece	secondary	ITS1	43.9308976124643	-77.9759099879665	0
+Aegilops_markgrafii	FR716105.1	23-DEC-2010	611	Greece	secondary	ITS1	43.5468938539421	-76.712714881387	0

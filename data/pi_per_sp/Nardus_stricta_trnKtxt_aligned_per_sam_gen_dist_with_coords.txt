@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nardus_stricta	KJ913006.1	20-JUL-2015	599	Russia: Kostroma Oblast, Soligalichsky District	secondary	trnK	59.0801161	42.3374239	0.367612267638067
+Nardus_stricta	JX438062.1	31-MAR-2013	1208	Spain	secondary	trnK	39.3260685	-4.8379791	0.552033289436929
+Nardus_stricta	JF698448.1	05-FEB-2012	720	Kyrgyzstan	secondary	trnK	42.7079330660449	74.694988088853	0.365428742820139
+Nardus_stricta	EU489432.1	19-NOV-2008	559	Kyrgyzstan	secondary	trnK	41.9218475470031	74.5484313738138	0.52366393851493

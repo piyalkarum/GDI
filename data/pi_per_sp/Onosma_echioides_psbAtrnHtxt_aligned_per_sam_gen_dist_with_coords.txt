@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Onosma_echioides	OK085493.1	29-OCT-2022	282	Italy	primary	psbA-trnH	41.662558	15.87347	0.0106761565836299
+Onosma_echioides	OK085500.1	29-OCT-2022	281	Italy	secondary	psbA-trnH	43.3926767060047	12.3805095358949	0.00355871886120996
+Onosma_echioides	OK085499.1	29-OCT-2022	281	Italy	secondary	psbA-trnH	42.7923895498003	13.6463092845813	0.00355871886120996
+Onosma_echioides	OK085492.1	29-OCT-2022	281	Italy	secondary	psbA-trnH	42.4578439609107	13.8141558228956	0.00355871886120996

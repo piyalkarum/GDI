@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_pyrenaicus	JX894978.1	19-DEC-2012	440	Spain: Lena, Tuiza de Arriba, pr. refugio del Meic n	secondary	trnK	42.3419235098455	-6.30089767501824	0.349794238683128
+Senecio_pyrenaicus	JX894977.1	19-DEC-2012	440	Spain: San Ildefonso, puerto de Navacerrada, vertiente norte del Alto de las Guarramillas	secondary	trnK	41.0528818408255	-3.98207917706079	0.349794238683128
+Senecio_pyrenaicus	JX894906.1	19-DEC-2012	478	Spain: Lena, Tuiza de Arriba, pr. refugio del Meic n	secondary	trnK	42.6497434359445	-5.40759716336657	0.350365893555108
+Senecio_pyrenaicus	JX894905.1	19-DEC-2012	478	Spain: San Ildefonso, puerto de Navacerrada, vertiente norte del Alto de las Guarramillas	secondary	trnK	41.0093302035541	-4.01626804276071	0.352011984090087

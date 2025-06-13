@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_doria	JX894988.1	19-DEC-2012	440	Spain: Barrios de Luna, Vega de Caballeros, orilla r o Luna	secondary	trnK	42.9786772397222	-5.36641655599578	0.349728769173214
+Senecio_doria	JX894916.1	19-DEC-2012	478	Spain: Barrios de Luna, Vega de Caballeros, orilla r o Luna	secondary	trnK	43.2180265053854	-6.59852229516856	0.349794238683128
+Senecio_doria	JX894986.1	19-DEC-2012	440	Spain	secondary	trnK	43.5140460000566	-3.52240264848985	0.351374859708193
+Senecio_doria	JX894914.1	19-DEC-2012	478	Spain	secondary	trnK	42.239271026774	-3.54277795747127	0.349794238683128

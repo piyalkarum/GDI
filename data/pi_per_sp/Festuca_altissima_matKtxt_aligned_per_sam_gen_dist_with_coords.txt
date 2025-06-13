@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_altissima	LR588270.1	30-JUL-2021	2828	Germany	primary	matK	51.4192	11.0708	0.00183284457478006
+Festuca_altissima	JN894686.1	07-MAR-2012	960	United Kingdom: Monmouthshire	primary	matK	51.83	-2.66	0.00159744408945687
+Festuca_altissima	MT433195.1	31-MAY-2020	1364	Norway	secondary	matK	64.9019620315426	9.80476157066835	0.00719678036518742
+Festuca_altissima	KJ529372.1	22-FEB-2015	906	Norway	secondary	matK	64.1062831080022	9.87011479396393	0.0018796992481203
+Festuca_altissima	JN894874.1	07-MAR-2012	795	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.00188679245283019

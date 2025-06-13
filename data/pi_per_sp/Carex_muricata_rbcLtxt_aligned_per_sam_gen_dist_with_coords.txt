@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_muricata	MG226460.1	23-JAN-2018	510	Canada: British Columbia, UBC Research Forest, UBC Research Forest, Maple Ridge, Marion Lk	primary	rbcL	49.2667	-122.5	0.0240196078431373
+Carex_muricata	JN893831.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.69	-4.14	0.0230916720931915
+Carex_muricata	JN891205.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.2100006357401	-4.68136679930381	0.0230916720931915
+Carex_muricata	JN891204.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.0822302773371	-4.63843760727398	0.0230916720931915
+Carex_muricata	GQ248561.2	24-JUN-2009	563	United Kingdom: Windsor Hill	secondary	rbcL	54.3097405	-7.2032943	0.0903534476521236

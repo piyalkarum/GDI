@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daphne_mezereum	MG247962.1	21-JAN-2018	552	Canada: Rockwood Conservation	primary	rbcL	43.6125	-80.148	0
+Daphne_mezereum	MG246832.1	21-JAN-2018	552	Canada: North of Guelph	primary	rbcL	43.5485	-80.2503	0
+Daphne_mezereum	JN891807.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.79	-4.22	0
+Daphne_mezereum	JN892066.1	07-MAR-2012	542	United Kingdom: Wiltshire,North	secondary	rbcL	51.324162	-1.90324866990022	0
+Daphne_mezereum	JN892065.1	07-MAR-2012	542	United Kingdom: Yorkshire,Mid-west	secondary	rbcL	53.9825271	-1.3852499932685	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_castaneus	KX676831.1	09-AUG-2017	793	Canada: British Columbia, Thompson-Nicola Regional District, Merritt area, Roth and Edna Lake area, southwest of Merritt, south of Iron Mountain	primary	matK	50.0242	-120.708	0.0850537340888036
+Juncus_castaneus	MK926348.1	14-JAN-2020	809	United Kingdom	secondary	matK	55.3177589254385	-4.01343512283536	0.0335366971123631
+Juncus_castaneus	MK926178.1	14-JAN-2020	832	United Kingdom	secondary	matK	55.0055921024042	-3.21130137715235	0.0323000336171829
+Juncus_castaneus	MK926114.1	14-JAN-2020	809	United Kingdom	secondary	matK	54.5054197082254	-2.48161535585264	0.0324183437119299

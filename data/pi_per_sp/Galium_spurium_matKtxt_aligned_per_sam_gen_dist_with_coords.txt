@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_spurium	LC439237.1	02-NOV-2019	838	Japan:Ibaraki, Tsukuba, Tsukuba Botanical Garden	primary	matK	36.101	140.1109	0.0154145280759854
+Galium_spurium	ON982111.1	17-OCT-2022	792	Kenya	secondary	matK	1.4419683	38.4313975	0.0201752095872441
+Galium_spurium	MN433394.1	30-NOV-2021	800	China	secondary	matK	35.0335513063364	105.408003227171	0.015100132651322
+Galium_spurium	MN433393.1	30-NOV-2021	787	China	secondary	matK	35.1096230641791	104.060626217795	0.0303212858357944

@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Primula_stricta	KC483692.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	rbcL	69.419	-124.094	0.000805152979066023
+Primula_stricta	KC483691.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	rbcL	62.867	-92.117	0.000805152979066023
+Primula_stricta	KC483690.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East side of Hornaday River	primary	rbcL	68.414	-121.892	0.000805152979066023
+Primula_stricta	KC483689.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Low rocky hills at coast	primary	rbcL	68.606	-113.144	0.000805152979066023
+Primula_stricta	KC483688.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. East shore of Kihlbay, tundra west of cabins	primary	rbcL	56.442	-78.956	0.000805152979066023
+Primula_stricta	KC483687.1	25-OCT-2013	552	Canada: Northwest Territories, Cape Bathurst Peninsula, 10 km SSW of Cape Bathurst	primary	rbcL	70.494	-128.083	0.0072463768115942
+Primula_stricta	JN965783.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, small creek near Launch Road, Tundra creek, in water	primary	rbcL	58.745	-93.895	0.000805152979066023
+Primula_stricta	JN965782.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	rbcL	58.626	-94.23	0.000805152979066023
+Primula_stricta	JN965781.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Bank of small stream near Goose Creek Rd	primary	rbcL	59.2782149987843	-94.4788675875807	0.000805152979066023
+Primula_stricta	JN965780.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Bank of small stream near Goose Creek Rd	primary	rbcL	58.5938223138384	-94.2340782424314	0.000805152979066023

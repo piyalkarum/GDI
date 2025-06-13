@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fumaria_densiflora	JN894065.1	07-MAR-2012	811	United Kingdom: Cornwall	primary	matK	50.5	-5.02	0.00041101520756268
+Fumaria_densiflora	LN610946.1	20-MAY-2015	1519	Spain	secondary	matK	39.3260685	-4.8379791	0.00127378078980109
+Fumaria_densiflora	JN895482.1	07-MAR-2012	758	United Kingdom: Kent,West	secondary	matK	51.20707485	0.721036181340144	0.000439753737906772
+Fumaria_densiflora	JN895305.1	07-MAR-2012	788	United Kingdom: Hertfordshire	secondary	matK	51.8400523	-0.0978552	0.000423011844331641

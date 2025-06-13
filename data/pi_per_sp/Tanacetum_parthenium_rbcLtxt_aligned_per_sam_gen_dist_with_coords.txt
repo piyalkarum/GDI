@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tanacetum_parthenium	MG224716.1	26-DEC-2017	552	Canada: OAC garden, Guelph	primary	rbcL	43.1974087956522	-79.8615358176557	0
+Tanacetum_parthenium	MG224319.1	26-DEC-2017	552	Canada: OAC garden, Guelph	primary	rbcL	43.1549425667108	-81.1636341839184	0
+Tanacetum_parthenium	JN892559.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.76	-3.8	0
+Tanacetum_parthenium	HM850390.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Tanacetum_parthenium	JN891958.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mercurialis_annua	AY918216.1	01-MAR-2005	582	Morocco	primary	matK	33.1324	-8.6131	0.0269260753294509
+Mercurialis_annua	AY918215.1	01-MAR-2005	581	Morocco	primary	matK	32.8439	-8.9051	0.0309316255552128
+Mercurialis_annua	AY918214.1	01-MAR-2005	580	Morocco	primary	matK	33.6095	-7.6025	0.0270654243654051
+Mercurialis_annua	AY918213.1	01-MAR-2005	669	Morocco	primary	matK	33.7	-5.37	0.0234715294896186
+Mercurialis_annua	AY918212.1	01-MAR-2005	669	Spain	primary	matK	40.71933	0.50248	0.0234715294896186
+Mercurialis_annua	AY918211.1	01-MAR-2005	652	Spain	primary	matK	41.1153	1.20962	0.0180738594490345
+Mercurialis_annua	AY918210.1	01-MAR-2005	704	Turkey	primary	matK	40.78	29.92	0.0183792331448096
+Mercurialis_annua	AY918209.1	01-MAR-2005	704	Italy	primary	matK	43.22	11.4	0.0216562091594147
+Mercurialis_annua	AY918208.1	01-MAR-2005	704	Israel	primary	matK	32.8	34.98	0.021534949429594
+Mercurialis_annua	DQ536104.1	12-JUN-2006	615	Spain	primary	matK	37.37	-5.98	0.0233552583080324
+Mercurialis_annua	DQ536103.1	12-JUN-2006	615	Spain	primary	matK	40.87507	0.48903	0.0223861531616411
+Mercurialis_annua	JN896126.1	07-MAR-2012	789	United Kingdom: Glamorgan	primary	matK	51.47	-3.21	0.0142024899585218
+Mercurialis_annua	HM850922.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.0309350255493939
+Mercurialis_annua	JN894827.1	07-MAR-2012	807	United Kingdom: Glamorgan	secondary	matK	51.277655483804	-4.64299860894368	0.0201038552716175
+Mercurialis_annua	JN894825.1	07-MAR-2012	856	United Kingdom: Glamorgan	secondary	matK	51.1122409776772	-4.45748689579368	0.0180141755336833

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elymus_caninus	JN893902.1	07-MAR-2012	768	United Kingdom: Glamorgan	primary	matK	51.5	-3.22	0.124620427881297
+Elymus_caninus	MW148214.1	19-MAR-2022	480	United Kingdom: England, Thorpe in the Fallows, N Lincolnshire; SK903728	secondary	matK	51.4510191	-0.993491440497516	0.155844155844156
+Elymus_caninus	KP210664.1	31-AUG-2017	891	China	secondary	matK	35.3908511236057	104.992329578921	0.150121552276045
+Elymus_caninus	KP210609.1	31-AUG-2017	321	China	secondary	matK	34.749096395283	104.798149554411	0.400632321439775
+Elymus_caninus	KP210558.1	31-AUG-2017	321	China	secondary	matK	34.6812641885186	105.209511172639	0.400632321439775
+Elymus_caninus	KF277160.1	30-SEP-2013	741	Poland	secondary	matK	52.215933	19.134422	0.124588033971353
+Elymus_caninus	JN895033.1	07-MAR-2012	736	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.124642538387279
+Elymus_caninus	JN895032.1	07-MAR-2012	745	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.124638884876499

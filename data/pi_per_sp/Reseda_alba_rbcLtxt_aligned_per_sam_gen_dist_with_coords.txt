@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Reseda_alba	MG248008.1	21-JAN-2018	552	Canada: British Columbia, in front yard of a home in New Westminster	secondary	rbcL	49.5750569537508	-122.627434549382	0
+Reseda_alba	MG247838.1	21-JAN-2018	552	Canada: Ontario, Kingston	secondary	rbcL	44.3054151	-76.4283781	0
+Reseda_alba	MG246289.1	21-JAN-2018	552	Canada: British Columbia, waste ground near Columbia St. old B.C. Pen site, New Westminster	secondary	rbcL	49.5026393335289	-123.80048652637	0
+Reseda_alba	GQ891228.1	30-SEP-2010	1385	Greece: Crete, Iraklio	secondary	rbcL	35.33908	25.1332843	0

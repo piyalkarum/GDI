@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thalictrum_alpinum	MZ400422.1	07-DEC-2021	853	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00397673182027121
+Thalictrum_alpinum	JN894947.1	07-MAR-2012	784	United Kingdom: Sutherland, East (107)	primary	matK	58.29	-4.74	0.00405145188979775
+Thalictrum_alpinum	MT930052.1	03-MAR-2023	787	China	secondary	matK	34.3750678198	104.891105030161	0.0105853416698445
+Thalictrum_alpinum	MN492779.1	30-NOV-2021	810	China	secondary	matK	34.5267423186719	105.8267774583	0.012616384932691
+Thalictrum_alpinum	MN434017.1	30-NOV-2021	799	China	secondary	matK	34.8195071989964	105.750212184263	0.00400505941082936
+Thalictrum_alpinum	KT280266.1	01-AUG-2016	741	China: Maqu Gansu	secondary	matK	34.6137382	102.4654149	0.00540118755973029
+Thalictrum_alpinum	JN895143.1	07-MAR-2012	829	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.00418442519126514

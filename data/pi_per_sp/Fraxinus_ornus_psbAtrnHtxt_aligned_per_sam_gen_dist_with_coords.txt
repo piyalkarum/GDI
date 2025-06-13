@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fraxinus_ornus	MT311758.1	28-SEP-2020	411	France	secondary	psbA-trnH	46.4647469407643	2.27763278649347	0.00188857412653447
+Fraxinus_ornus	MT311757.1	28-SEP-2020	411	France	secondary	psbA-trnH	47.1061825344933	1.36509053038556	0.00188857412653447
+Fraxinus_ornus	GU120317.1	11-NOV-2009	512	Italy: Sardinia Island	secondary	psbA-trnH	40.0615028	9.0975894	0.00188857412653447
+Fraxinus_ornus	HE966641.1	18-SEP-2012	354	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0056657223796034

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_articulata	KP896932.1	13-OCT-2015	395	Turkey	secondary	psbA-trnH	38.9597594	34.9249653	0.00508044759604414
+Vicia_articulata	KP896931.1	13-OCT-2015	394	Russia	secondary	psbA-trnH	64.6863136	97.7453061	0.00423657663941308
+Vicia_articulata	KP896930.1	13-OCT-2015	393	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0.00508905852417303
+Vicia_articulata	KP896929.1	13-OCT-2015	394	Belgium	secondary	psbA-trnH	50.6402809	4.6667145	0.00593292948080409

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cochlearia_officinalis	JN893155.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	primary	rbcL	51.91	-5.09	0
+Cochlearia_officinalis	MK925514.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3076622444208	-3.95084611605909	0
+Cochlearia_officinalis	MK925302.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4429772974495	-2.23092125203215	0
+Cochlearia_officinalis	MK924796.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4717091992741	-2.23651458863924	0
+Cochlearia_officinalis	JN891759.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0
+Cochlearia_officinalis	JN891758.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

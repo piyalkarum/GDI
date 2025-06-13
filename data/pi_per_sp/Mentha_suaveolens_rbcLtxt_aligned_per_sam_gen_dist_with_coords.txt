@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_suaveolens	ON684511.1	21-AUG-2022	1434	Portugal: Utopia, Pedreira, Povoa do Lanhoso	primary	rbcL	41.61855	-8.32338	0.0107206873500158
+Mentha_suaveolens	MG222720.1	26-DEC-2017	552	Canada: British Columbia, Vancouver Island, Coombs, Schidler Road and Alberni Highway	primary	rbcL	49.304	-124.431	0.000287026406429392
+Mentha_suaveolens	KX783923.1	31-MAY-2017	552	Egypt: Alexandria, Mariot, Mostafa Kamel Village	primary	rbcL	30.926	29.776	0.000287026406429392
+Mentha_suaveolens	JN893656.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.56	-3.04	0.000293040293040293
+Mentha_suaveolens	MG223550.1	26-DEC-2017	552	Canada: Ontario, Bruce Co., just S of Hepworth	secondary	rbcL	44.4045582168717	-78.0781520002771	0.000287026406429392
+Mentha_suaveolens	MG223352.1	26-DEC-2017	552	Canada: British Columbia, Queensborough, New Westminster	secondary	rbcL	49.1943673	-122.9291145	0.000287026406429392
+Mentha_suaveolens	MG223012.1	26-DEC-2017	516	Canada: British Columbia, old log sorting grounds, town of Lake Cowichan	secondary	rbcL	49.25783145	-123.246241986222	0.000298151460942159
+Mentha_suaveolens	MG222929.1	26-DEC-2017	552	Canada: Ontario, Just S. of Hepworth, Bruce Co.	secondary	rbcL	43.9411424812972	-77.0047704255315	0.000287026406429392
+Mentha_suaveolens	MG222754.1	26-DEC-2017	552	Canada	secondary	rbcL	61.0666922	-107.991707	0.000287026406429392
+Mentha_suaveolens	MG222281.1	26-DEC-2017	552	USA: California, Ventura Co., W side of Ojai	secondary	rbcL	38.628683	-92.5659635	0.000287026406429392
+Mentha_suaveolens	KP172040.1	04-FEB-2015	1457	Pakistan	secondary	rbcL	30.3308401	71.247499	0.0107206873500158
+Mentha_suaveolens	HM850172.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0245194895232369
+Mentha_suaveolens	JN891661.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000293040293040293
+Mentha_suaveolens	JN891660.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000293040293040293

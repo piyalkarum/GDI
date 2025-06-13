@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nasturtium_officinale	HQ593417.1	09-NOV-2011	768	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, open area near stream channel north of Echo Valley Cottage	primary	matK	44.026	-79.532	0.00554521780861214
+Nasturtium_officinale	OQ289949.1	16-MAY-2023	783	Mexico: Puebla	secondary	matK	19.1710098	-98.4125121	0.00647130730624279
+Nasturtium_officinale	MG458343.1	17-OCT-2018	848	Pakistan	secondary	matK	30.3308401	71.247499	0.00896930156278381
+Nasturtium_officinale	KM892733.1	11-OCT-2018	747	China	secondary	matK	35.000074	104.999927	0.036312279681707
+Nasturtium_officinale	HM850754.1	23-JUL-2011	798	Portugal	secondary	matK	39.6621648	-8.1353519	0.00761931041563834
+Nasturtium_officinale	JN896234.1	07-MAR-2012	735	United Kingdom: Cardiganshire	secondary	matK	52.6156723344123	-4.14701766729817	0.0057098666540896
+Nasturtium_officinale	JN896233.1	07-MAR-2012	762	United Kingdom: Cardiganshire	secondary	matK	52.2523233769583	-3.2958234371715	0.00564280023522842
+Nasturtium_officinale	JN894326.1	07-MAR-2012	800	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.00553831495526848

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arnoseris_minima	MK926155.1	14-JAN-2020	970	Poland	secondary	matK	52.215933	19.134422	0.00242263590871947
+Arnoseris_minima	MK925698.1	14-JAN-2020	961	France	secondary	matK	46.603354	1.8883335	0.00389404640281911
+Arnoseris_minima	AJ633163.1	10-OCT-2004	970	Germany:Saxonia	secondary	matK	50.9295798	13.4585052	0.00731706651109155
+Arnoseris_minima	AJ633162.1	10-OCT-2004	970	Portugal	secondary	matK	39.6621648	-8.1353519	0.00311471813994297

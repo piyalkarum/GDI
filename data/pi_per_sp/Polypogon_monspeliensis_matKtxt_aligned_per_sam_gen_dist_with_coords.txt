@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polypogon_monspeliensis	KX873510.1	16-OCT-2017	700	USA: California, Mendocino Co., @ 20 mi E of Covelo on Mendocino Pass Road (M-4)	primary	matK	39.8214	-122.9833	0.000909090909090909
+Polypogon_monspeliensis	MF597582.1	17-JUL-2018	802	Canada: British Columbia, Spotted Lake. ~ 5km W of Osoyoos, S of Hwy. 3. Alkaline pond.	primary	matK	49.27	-119.74	0.00300026663721364
+Polypogon_monspeliensis	MH552072.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.6814498	-81.9683386867758	0.00159091054942919
+Polypogon_monspeliensis	MN492730.1	30-NOV-2021	784	China	secondary	matK	35.616199716403	104.342421231734	0.00177985100308255
+Polypogon_monspeliensis	MN450971.1	30-NOV-2021	771	China	secondary	matK	35.2317187757718	104.867518025886	0.00155200284796938
+Polypogon_monspeliensis	OK001649.1	02-NOV-2021	883	India: J&K,Srinagar	secondary	matK	28.2563272869112	77.9818231217008	0.00162412361337849
+Polypogon_monspeliensis	OK001648.1	02-NOV-2021	960	India: J&K,Srinagar	secondary	matK	29.1421458776575	77.0995239850722	0.00161586578023391
+Polypogon_monspeliensis	LR606807.1	25-JAN-2021	2137	Germany	secondary	matK	34.895926	-83.4665496	0.00136300483655379
+Polypogon_monspeliensis	MK926368.1	14-JAN-2020	814	United Kingdom	secondary	matK	54.6272567111919	-2.24473762058618	0.00104712175520077
+Polypogon_monspeliensis	MK926078.1	14-JAN-2020	790	United Kingdom	secondary	matK	55.3125331751931	-3.96226469496367	0.00106193899272865
+Polypogon_monspeliensis	MF999103.1	09-DEC-2017	2092	Cyprus	secondary	matK	34.9174159	32.8899027	0.00187907861726564
+Polypogon_monspeliensis	HM850519.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0014491218628437

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Equisetum_palustre	MZ359290.1	07-DEC-2021	506	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Equisetum_palustre	KC482732.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 3 km ESE of junction with Little Hornaday River, NE bank	primary	rbcL	68.3889	-121.939	0
+Equisetum_palustre	KC482731.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk. Approximately 6 km E of town, several km from coast	primary	rbcL	69.4028	-124.053	0
+Equisetum_palustre	KC482730.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, West side of Hornaday River, east of Castle Butte	primary	rbcL	68.2528	-121.811	0
+Equisetum_palustre	GQ248601.1	24-JUN-2009	553	United Kingdom: Richmond Park, Surrey	secondary	rbcL	50.9129869	-1.4302889	0
+Equisetum_palustre	AB574686.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0

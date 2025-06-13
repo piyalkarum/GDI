@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_persicifolia	MG223127.1	26-DEC-2017	552	Canada: Saugeen River north	primary	rbcL	44	-81	0.195770281576216
+Campanula_persicifolia	MG222654.1	26-DEC-2017	552	Canada: Jardin Pedagogique, Quebec	primary	rbcL	46	-71	0.195770281576216
+Campanula_persicifolia	MG221343.1	26-DEC-2017	552	Canada: Vineland, ON	primary	rbcL	43.1539	-79.3922	0.195770281576216
+Campanula_persicifolia	KX679019.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, New Wesminster, grassy roadisde by Brunette River	primary	rbcL	49.2	-122.9	0.195770281576216
+Campanula_persicifolia	MK556032.1	22-SEP-2019	337	Poland	secondary	rbcL	52.1991567625895	19.0088247461778	0.591284798613384
+Campanula_persicifolia	MK555614.1	22-SEP-2019	357	Poland	secondary	rbcL	52.2444881772026	20.2601648882975	0.577632418436616
+Campanula_persicifolia	MK555400.1	22-SEP-2019	382	Poland	secondary	rbcL	52.3325350466061	20.0799553937491	0.197644208826317

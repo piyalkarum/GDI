@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygonum_humifusum	MG248045.1	21-JAN-2018	522	Canada: Northwest Territories, Anderson R. Delta	primary	rbcL	69.7	-129	0
+Polygonum_humifusum	MG247606.1	21-JAN-2018	552	Canada: Northwest Territories, Yellowknife, School Draw Avenue, adjacent to Great Slave Lake	primary	rbcL	62.457	-114.355	0
+Polygonum_humifusum	MG247341.1	21-JAN-2018	552	Canada: Yukon Territory, Bonnet Plume Drainage, Quartet Lake, camp	primary	rbcL	65.12	-134.453	0
+Polygonum_humifusum	MG249569.1	21-JAN-2018	552	Canada: British Columbia, Atlin Lake, Logger Bay	secondary	rbcL	49.8963362154092	-122.443984890291	0
+Polygonum_humifusum	MG248893.1	21-JAN-2018	553	USA: Alaska, Naknek	secondary	rbcL	58.791139	-156.8947347	0
+Polygonum_humifusum	MG247212.1	21-JAN-2018	552	Canada: British Columbia, Atlin Lake, Telegraph Cove	secondary	rbcL	49.8543527706595	-123.528570622544	0

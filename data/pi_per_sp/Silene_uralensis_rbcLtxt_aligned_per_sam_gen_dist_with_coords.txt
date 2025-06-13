@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_uralensis	MG249268.1	21-JAN-2018	509	Canada: Yukon Territory, Richardson Mountains	primary	rbcL	66.267	-135.8	0.000310205769827319
+Silene_uralensis	MG248853.1	21-JAN-2018	552	Canada: Northwest Territories, Bluenose Lake Area, Site 23, Lower Brock Lagoon	primary	rbcL	69.517	-123.217	0.000292891367295402
+Silene_uralensis	MG248824.1	21-JAN-2018	552	Canada: Yukon Territory, Mackenzie Mountains, Mile 44E Canol Road	primary	rbcL	60.771	-133.071	0.000292891367295402
+Silene_uralensis	MG248130.1	21-JAN-2018	552	Canada: Yukon Territory, British Mountains, Firth River	primary	rbcL	64.8	-140.65	0.000292891367295402
+Silene_uralensis	MG248117.1	21-JAN-2018	515	USA: Alaska, Central Noatak River valley, Sekuiak Bluff, vicinity of upstream end of bluff and VABM Windy, N banl of river	primary	rbcL	67.967	-161.617	0.00215366821557042
+Silene_uralensis	MG248003.1	21-JAN-2018	552	Canada: Yukon Territory, Ogilvie Mountains, Patrol Range, Middle of Seela Pass	primary	rbcL	64.71	-139.838	0.000292891367295402
+Silene_uralensis	MG246820.1	21-JAN-2018	552	USA: Alaska, Central Noatak River valley, 5 km downstream from Sisiak Creek, S side of the river	primary	rbcL	68	-161.492	0.000292891367295402
+Silene_uralensis	KT960707.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.8065342227519	-18.3930556850574	0.000292891367295402
+Silene_uralensis	KT960646.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.2112344559586	-21.3525586541621	0.000292891367295402
+Silene_uralensis	KT960579.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.2430663425011	-21.1485243298303	0.000292891367295402
+Silene_uralensis	KC484134.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	rbcL	62.867	-92.133	0.000292891367295402
+Silene_uralensis	KC484133.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, along Darnley Bay	primary	rbcL	69.419	-124.022	0.000292891367295402
+Silene_uralensis	KC484132.1	25-OCT-2013	552	Canada: Yukon Territory, Bonnet Plum Draingage, Quartet Lake	primary	rbcL	65.113	-134.423	0.000292891367295402
+Silene_uralensis	KC484131.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Base of Lookout Hill	primary	rbcL	68.803	-122.222	0.000292891367295402
+Silene_uralensis	KC484130.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.644	-115.493	0.000292891367295402
+Silene_uralensis	KC484129.1	25-OCT-2013	522	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	rbcL	68.531	-112.703	0.00031017227866443
+Silene_uralensis	KC484128.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.907	-109.59	0.000292891367295402
+Silene_uralensis	KC484127.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, John Richardson Bay, Near John Richardson Bay	primary	rbcL	80.3458	-71.3431	0.000292891367295402
+Silene_uralensis	KC484126.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay, East of DEW Line Station along road to village	primary	rbcL	69.1167	-105.083	0.000292891367295402
+Silene_uralensis	LC727666.1	08-MAR-2023	553	Japan:Yamanashi, Minami-alps	secondary	rbcL	35.6083617	138.4649893	0.00376615515369477

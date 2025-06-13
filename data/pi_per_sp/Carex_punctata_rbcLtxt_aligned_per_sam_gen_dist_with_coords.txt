@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_punctata	JN893599.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.74	-4.63	0.00126984126984127
+Carex_punctata	HM849864.1	23-JUL-2011	667	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00380952380952381
+Carex_punctata	JN893760.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.8014266284367	-4.28331403348175	0.00126984126984127
+Carex_punctata	JN893759.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2785540324833	-3.97432598936519	0.00126984126984127

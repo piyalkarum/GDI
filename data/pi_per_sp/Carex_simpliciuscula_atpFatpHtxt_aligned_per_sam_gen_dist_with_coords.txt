@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_simpliciuscula	FJ548471.1	30-AUG-2009	390	Canada: Northwest Territories, Banks Island, NE part, Parker River Valley, N side ca. 7 km from sea	primary	atpF-atpH	73.62	-115.85	0.00421052631578947
+Carex_simpliciuscula	FJ548470.1	30-AUG-2009	417	Canada: Nunuavut, Victoria Island, Cambridge Bay, on hillside near Sixteen Mile Brook	primary	atpF-atpH	63.98	-83.65	0.0200203308853922
+Carex_simpliciuscula	FJ548469.1	30-AUG-2009	418	Canada: Nunuavut, Southampton Island, Coral Harbour, Hudson Bay region	primary	atpF-atpH	64.13	-83.17	0.00543933211639643
+Carex_simpliciuscula	FJ548468.1	30-AUG-2009	431	Canada: Nunuavut, Franklin District, Victoria Island, Holman	primary	atpF-atpH	70.72	-117.72	0.00465584415584416
+Carex_simpliciuscula	FJ548467.1	30-AUG-2009	496	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.89	-80.9	0.00431654676258993
+Carex_simpliciuscula	FJ548466.1	30-AUG-2009	465	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.84	-80.8	0.00431654676258993

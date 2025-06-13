@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tripodion_tetraphyllum	AJ512924.1	21-FEB-2003	214	Tunisia	secondary	ITS	36.5262846381604	9.66067343183537	0.36928991950018
+Tripodion_tetraphyllum	AJ512923.1	21-FEB-2003	214	Portugal	secondary	ITS	39.2293077450055	-9.07396671859444	0.36928991950018
+Tripodion_tetraphyllum	AJ512899.1	21-FEB-2003	232	Tunisia	secondary	ITS	37.3125288443672	10.6017217885574	0.368928950159067
+Tripodion_tetraphyllum	AJ512898.1	21-FEB-2003	230	Portugal	secondary	ITS	39.5046204121366	-8.73463978428108	0.372549439565931

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phyteuma_betonicifolium	MK556561.1	22-SEP-2019	350	USA	secondary	trnL-trnF	39.7837304	-100.445882	0.00285714285714286
+Phyteuma_betonicifolium	KC455686.1	16-SEP-2013	882	Austria	secondary	trnL-trnF	36.9148511	-4.7534501	0.00133030990173847
+Phyteuma_betonicifolium	KC455685.1	16-SEP-2013	882	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.00173631883393498
+Phyteuma_betonicifolium	KC455669.1	16-SEP-2013	821	Switzerland	secondary	trnL-trnF	46.7985624	8.2319736	0.00135838988457746

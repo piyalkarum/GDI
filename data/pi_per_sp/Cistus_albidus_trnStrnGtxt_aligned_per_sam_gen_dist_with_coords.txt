@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cistus_albidus	GQ927049.1	11-NOV-2009	577	Morocco: Beni-Hadifa	secondary	trnS-trnG	34.951068	-4.138968	0.00747329941327466
+Cistus_albidus	GQ927048.1	11-NOV-2009	576	Morocco: Ketama	secondary	trnS-trnG	34.8810201	-4.6794744	0.00449841859185919
+Cistus_albidus	GQ927047.1	11-NOV-2009	576	Portugal: Sagres	secondary	trnS-trnG	37.0078288	-8.941924	0.00449841859185919
+Cistus_albidus	GQ927044.1	11-NOV-2009	576	Spain: Cadiz, Grazalema	secondary	trnS-trnG	36.7583892	-5.366074	0.00449841859185919
+Cistus_albidus	GQ927043.1	11-NOV-2009	576	Morocco: Talamagait	secondary	trnS-trnG	34.8904369	-3.7491274	0.00565582599926659
+Cistus_albidus	GQ927042.1	11-NOV-2009	576	Morocco: Tetuan	secondary	trnS-trnG	35.570175	-5.3742776	0.00449841859185919
+Cistus_albidus	FJ228730.1	14-OCT-2008	603	Spain: Madrid, Aldea del Fresno	secondary	trnS-trnG	40.3215212	-4.19936	0.0224422442244224

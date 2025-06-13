@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_subcapitata	KC474657.1	25-OCT-2013	636	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve. Head of Tanquary Fiord Quad., Omega Lakes	primary	matK	81.4167	-76.9167	0.00220125786163522
+Draba_subcapitata	KC474656.1	25-OCT-2013	636	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	matK	74.5333	-82.7833	0.000943396226415094
+Draba_subcapitata	KC474655.1	25-OCT-2013	636	Canada: Stefansson Island, Base camp Site 71. N-S trending drumlin ridges and ponds & glaciolacustrine deposits in the swales	primary	matK	73.4	-104.867	0.000943396226415094
+Draba_subcapitata	KC474654.1	25-OCT-2013	636	Canada: Northwest Territories, Banks Island, Aulavik National Park, (Aulavik National Park). Green cabin beside the Thomsen River	primary	matK	73.2247	-119.535	0.00157232704402516
+Draba_subcapitata	KC474653.1	25-OCT-2013	636	Canada: Nunavut, Bathurst Island, Polar Bear Pass	primary	matK	75.7167	-98.3833	0.00157232704402516
+Draba_subcapitata	KC474652.1	25-OCT-2013	762	Canada: Northwest Territories, Victoria Island, Minto Inlet, 9 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.739	-115.4	0.000943396226415094

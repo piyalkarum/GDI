@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Commelina_communis	MG226725.1	23-JAN-2018	553	Canada: Ontario, Essex County. Middle Island (part of Point Pelee National Park), Lake Erie, South of Pelee Island	primary	rbcL	41.682	-82.685	0.00345779565755824
+Commelina_communis	MG226465.1	23-JAN-2018	553	Canada: Ontario, NAD 84, South shore of Ottawa River at Kempster Street stormwater outfall structure, Britannia, City of Ottawa	primary	rbcL	45.36	-75.58	0.00345779565755824
+Commelina_communis	MF349606.1	21-SEP-2017	553	USA: Virginia; Daingerfield Island Marina along the abandoned greenhouse and marshy field	primary	rbcL	38.826	-77.04	0.00345779565755824
+Commelina_communis	MF349575.1	21-SEP-2017	553	USA: District of Columbia; 3501 New York Avenue NE; U. S. National Arboretum, Stop 4, Azalea collection hilltop footpaths	primary	rbcL	38.907	-76.958	0.00345779565755824
+Commelina_communis	KP402622.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H14x8y7	primary	rbcL	38.889	-76.559	0.00345779565755824
+Commelina_communis	LC540610.1	05-APR-2022	1137	Japan	secondary	rbcL	35.9973496128416	138.576449182946	0.00482756754060754
+Commelina_communis	LC540602.1	05-APR-2022	1137	Japan	secondary	rbcL	36.3756620508023	139.61073614204	0.00329458080505729
+Commelina_communis	LC413418.1	31-JUL-2018	262	Japan:Aichi, Chita	secondary	rbcL	34.970089	136.860738	0.00159033078880407
+Commelina_communis	MG227945.1	23-JAN-2018	553	Canada: Ontario, Carelton County. Ottawa, 62 Carlyle Avenue encroaching into 60 Carlyle Avenue.	secondary	rbcL	43.72634945	-77.7101179040839	0.00345779565755824
+Commelina_communis	JF941292.1	13-DEC-2011	612	China	secondary	rbcL	35.2946279079281	104.584690483373	0.0225673352534182
+Commelina_communis	JF941291.1	13-DEC-2011	612	China	secondary	rbcL	34.7007164072449	104.423765730475	0.00327186430127607
+Commelina_communis	JF941290.1	13-DEC-2011	612	China	secondary	rbcL	34.8794160133009	104.666540170195	0.00327186430127607
+Commelina_communis	JF941289.1	13-DEC-2011	612	China	secondary	rbcL	34.783702432304	104.236787774952	0.0147789551697104

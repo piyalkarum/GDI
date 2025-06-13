@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_phryganodes	KM524025.1	04-JUL-2015	1062	Canada	secondary	rpoB	61.0666922	-107.991707	0.000313873195229127
+Puccinellia_phryganodes	GQ283289.1	28-FEB-2010	1182	Canada: Nunavut, Cornwallis Island	secondary	rpoB	75.1358244	-94.9808396	0.00169515485209624
+Puccinellia_phryganodes	GQ283288.1	28-FEB-2010	1180	Canada: Nunavut, Axel Heiberg Island	secondary	rpoB	74.08295045	-94.3110795713201	0.00169515485209624
+Puccinellia_phryganodes	GQ283287.1	28-FEB-2010	1186	Canada: Nunavut, Baffin Island	secondary	rpoB	68.6104434	-73.2472788	0.00313873195229127

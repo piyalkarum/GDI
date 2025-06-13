@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_major	OR607733.1	01-NOV-2023	318	Kazakhstan: Qaragandy region	primary	psbA-trnH	46.77978	74.70621	0.00161290322580645
+Plantago_major	FJ493298.1	22-DEC-2008	385	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.00140449438202247
+Plantago_major	HG963732.1	03-MAR-2015	340	Nicaragua	secondary	psbA-trnH	12.6090157	-85.2936911	0.00147058823529412
+Plantago_major	HE966743.1	18-SEP-2012	364	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00140449438202247
+Plantago_major	MH069974.1	30-APR-2019	356	Malaysia	secondary	psbA-trnH	3.3314558	101.2513058	0.00589248022514551

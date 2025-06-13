@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Santolina_villosa	LC720646.1	09-DEC-2022	420	Spain	secondary	trnS-trnG	39.7223106409447	-5.07776325951858	0
+Santolina_villosa	LC720645.1	09-DEC-2022	420	Spain	secondary	trnS-trnG	39.886268956594	-4.2254118639417	0
+Santolina_villosa	LC720644.1	09-DEC-2022	420	Spain	secondary	trnS-trnG	39.4564307245286	-5.91912760376654	0
+Santolina_villosa	LC720643.1	09-DEC-2022	420	Spain	secondary	trnS-trnG	40.1315055523395	-4.87431682933134	0
+Santolina_villosa	LC720642.1	09-DEC-2022	420	Spain	secondary	trnS-trnG	39.1292380842096	-4.65263448045237	0
+Santolina_villosa	LC720641.1	09-DEC-2022	420	Spain	secondary	trnS-trnG	39.3240764402015	-4.22026536776856	0

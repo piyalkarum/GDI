@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_resupinata	LC762296.1	04-OCT-2023	1004	Japan:Shiga, Maibara	secondary	rps16	36.0715227727116	136.169760996011	0.00199900847658918
+Pedicularis_resupinata	LC762303.1	04-OCT-2023	1002	Japan:Hokkaido, Kushiro	secondary	rps16	42.9906837	144.3820381	0.00262664240225667
+Pedicularis_resupinata	LC762301.1	04-OCT-2023	1005	Japan:Kumamoto, Aso	secondary	rps16	32.9524903	131.1214674	0.00174950772634886
+Pedicularis_resupinata	LC762300.1	04-OCT-2023	1005	Japan:Shiga, Maibara	secondary	rps16	35.6286535265569	135.336838874202	0.00174950772634886
+Pedicularis_resupinata	LC762299.1	04-OCT-2023	999	Japan:Yamanashi, Minami-alps	secondary	rps16	35.6083617	138.4649893	0.010140403688533
+Pedicularis_resupinata	LC762295.1	04-OCT-2023	1004	Japan:Shiga, Maibara	secondary	rps16	34.9067678338922	135.352735947668	0.00199900847658918
+Pedicularis_resupinata	LC762294.1	04-OCT-2023	1003	Japan:Yamanashi, Narusawamura	secondary	rps16	35.8686661002934	138.685716577989	0.00175113387392732
+Pedicularis_resupinata	LC762293.1	04-OCT-2023	1003	Japan:Yamanashi, Narusawamura	secondary	rps16	35.1130007675507	137.737856794703	0.00175113387392732
+Pedicularis_resupinata	LC554461.1	10-DEC-2020	1004	Japan: Shiga	secondary	rps16	35.247154	136.109385	0.00199900847658918

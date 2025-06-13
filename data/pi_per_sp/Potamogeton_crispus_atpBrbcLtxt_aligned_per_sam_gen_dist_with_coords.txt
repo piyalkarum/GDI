@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_crispus	MF694551.1	04-SEP-2018	500	Canada: Ontario, Middlesex County, Thames River, downstream (south) of Thorndale Road Bridge	primary	atpB-rbcL	43.092	-81.171	0.000275330396475771
+Potamogeton_crispus	MF694550.1	04-SEP-2018	492	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	atpB-rbcL	43.383	-80.369	0.000278396436525612
+Potamogeton_crispus	MF694547.1	04-SEP-2018	454	Canada: Ontario, 1.5 miles southwest of Prescott. Genville County. In St. Lawrence River	secondary	atpB-rbcL	43.5440921387919	-76.8349291454732	0.00220754067790795
+Potamogeton_crispus	MF694495.1	04-SEP-2018	497	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Boat passage	secondary	atpB-rbcL	43.3524965869954	-77.4314169079628	0.000277161862527716
+Potamogeton_crispus	EF529727.1	30-APR-2007	928	USA: Connecticut, Rogers Pond	secondary	atpB-rbcL	41.3819338	-72.4426421	0.00182724913236742
+Potamogeton_crispus	EF529708.1	30-APR-2007	920	USA: Connecticut, Crystal Lake	secondary	atpB-rbcL	41.9361265	-72.3628906	0.00210117309310498
+Potamogeton_crispus	EF529707.1	30-APR-2007	920	USA: Connecticut, Grannis Lake	secondary	atpB-rbcL	41.2874526109966	-73.6995184617604	0.00210117309310498
+Potamogeton_crispus	EF529706.1	30-APR-2007	921	USA: Connecticut, Grannis Lake	secondary	atpB-rbcL	41.6076690668835	-73.8501855566681	0.00210117309310498
+Potamogeton_crispus	EF529705.1	30-APR-2007	896	USA: Connecticut	secondary	atpB-rbcL	41.6500201	-72.7342163	0.00730477722225506

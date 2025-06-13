@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_schoenoprasum	MG226274.1	23-JAN-2018	552	Canada: Yukon Territory, Illytd Creek, confluence with Wind River	primary	rbcL	65.501	-135.381	0
+Allium_schoenoprasum	JN890785.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.21	-4.32	0
+Allium_schoenoprasum	LC707886.1	28-OCT-2022	553	Japan:Shizuoka, Shimoda	secondary	rbcL	34.679545	138.945379	0
+Allium_schoenoprasum	LC707885.1	28-OCT-2022	553	Japan:Nagasaki, Tsushima	secondary	rbcL	34.3952765	129.315449	0
+Allium_schoenoprasum	MK925515.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0

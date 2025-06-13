@@ -1,0 +1,24 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myricaria_germanica	OQ617289.1	19-JUL-2023	803	Georgia	secondary	trnL-trnF	32.3293809	-83.1137366	0.00966095209881084
+Myricaria_germanica	OQ617288.1	19-JUL-2023	802	Georgia: Kazbegi	secondary	trnL-trnF	42.6969414	44.5181108	0.0113211138066762
+Myricaria_germanica	OQ617287.1	19-JUL-2023	801	Russia: Ullu Tau	secondary	trnL-trnF	43.1967547	42.8240385	0.0120788220541914
+Myricaria_germanica	OQ617286.1	19-JUL-2023	803	Austria: Reutte	secondary	trnL-trnF	47.3612353	10.5456804	0.0133140130800254
+Myricaria_germanica	OQ617280.1	19-JUL-2023	796	Afghanistan: Badakhshan	secondary	trnL-trnF	36.8040254	71.367658	0.0185828061111825
+Myricaria_germanica	OQ617279.1	19-JUL-2023	796	Afghanistan: Maidan	secondary	trnL-trnF	34.3191345	68.3360426	0.0322981809457821
+Myricaria_germanica	OQ617278.1	19-JUL-2023	797	Turkey: Agri, Diyadin	secondary	trnL-trnF	39.5397685	43.671203	0.0243715446259439
+Myricaria_germanica	OQ617276.1	19-JUL-2023	798	Iran: Azerbaijan Province	secondary	trnL-trnF	37.7416484	45.0207638	0.0214447584415727
+Myricaria_germanica	OQ617275.1	19-JUL-2023	798	India: Ladakh	secondary	trnL-trnF	33.9456407	77.6568576	0.0403527325695284
+Myricaria_germanica	OQ617271.1	19-JUL-2023	803	France	secondary	trnL-trnF	46.603354	1.8883335	0.0138235967253733
+Myricaria_germanica	OQ617270.1	19-JUL-2023	803	Italy: Sudtirol, Vinschgau	secondary	trnL-trnF	46.6598224	10.6729423	0.0117745301330333
+Myricaria_germanica	OQ617269.1	19-JUL-2023	802	Italy: Udine, Alpi Carniche	secondary	trnL-trnF	46.0634632	13.2358377	0.0136011064674008
+Myricaria_germanica	OQ617268.1	19-JUL-2023	803	Norway: Troms fylke	secondary	trnL-trnF	69.5311071	19.5296839	0.0117745301330333
+Myricaria_germanica	OQ617266.1	19-JUL-2023	801	Norway: Sor-Trondelag	secondary	trnL-trnF	63.433196	10.401583	0.0104739046459559
+Myricaria_germanica	OQ617264.1	19-JUL-2023	801	Slovakia: Cergov	secondary	trnL-trnF	49.2176678	21.0817718	0.00967829837924007
+Myricaria_germanica	OQ617262.1	19-JUL-2023	801	Romania: Alba	secondary	trnL-trnF	46.0159362	23.5468497	0.0117277933635962
+Myricaria_germanica	OQ617261.1	19-JUL-2023	799	Georgia: Caucasus	secondary	trnL-trnF	42.4913744	44.9961252	0.0140030653046893
+Myricaria_germanica	OQ617260.1	19-JUL-2023	802	Serbia: Vranje	secondary	trnL-trnF	42.5558337	21.8976673	0.0140572597439513
+Myricaria_germanica	OQ617259.1	19-JUL-2023	802	Serbia: Pcinja	secondary	trnL-trnF	42.3422417	21.91401	0.0114915269981041
+Myricaria_germanica	OQ617258.1	19-JUL-2023	802	Montenegro: Andrijevica	secondary	trnL-trnF	42.7339619	19.7917886	0.0142832484953685
+Myricaria_germanica	OQ617252.1	19-JUL-2023	802	Germany: Allgau	secondary	trnL-trnF	47.5926009	10.209156	0.0176496536062938
+Myricaria_germanica	OQ617247.1	19-JUL-2023	796	India: Choglamsar	secondary	trnL-trnF	34.109134	77.5905091	0.0199015843461315
+Myricaria_germanica	OQ617246.1	19-JUL-2023	797	India: Kumaon	secondary	trnL-trnF	29.4183016	79.5521468	0.0180550095973076

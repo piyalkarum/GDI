@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_graminea	JN893905.1	07-MAR-2012	787	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.13	0.00512820512820513
+Stellaria_graminea	MT917914.1	03-MAR-2023	782	China	secondary	matK	34.7854480984948	104.044776492743	0.00777584885561404
+Stellaria_graminea	MT917913.1	03-MAR-2023	782	China	secondary	matK	35.4970126353919	105.07341133424	0.00777584885561404
+Stellaria_graminea	JN895064.1	07-MAR-2012	769	United Kingdom: Glamorgan	secondary	matK	51.4486708806676	-3.00464387076678	0.00520156046814044
+Stellaria_graminea	JN894151.1	07-MAR-2012	766	United Kingdom: Glamorgan	secondary	matK	51.5626104199983	-3.35481922666008	0.00522193211488251

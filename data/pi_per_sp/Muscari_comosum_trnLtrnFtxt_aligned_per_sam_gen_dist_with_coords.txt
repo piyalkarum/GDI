@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Muscari_comosum	OP096360.1	01-MAR-2023	949	Morocco	secondary	trnL-trnF	29.0705551081034	-10.8820514249134	0.00148741469812268
+Muscari_comosum	OP096359.1	01-MAR-2023	947	Portugal	secondary	trnL-trnF	39.6621648	-8.1353519	0.00278457815807293
+Muscari_comosum	OP096346.1	01-MAR-2023	949	Morocco	secondary	trnL-trnF	27.976581818519	-10.4759971165058	0.00234768253386614
+Muscari_comosum	OP096334.1	01-MAR-2023	949	Greece	secondary	trnL-trnF	43.2097838	-77.6930602	0.00148741469812268
+Muscari_comosum	MH152634.1	22-MAY-2019	1525	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.00157998120404926
+Muscari_comosum	FJ423215.1	31-OCT-2009	933	Portugal: Faro	secondary	trnL-trnF	37.0162727	-7.9351771	0.00282699402080632

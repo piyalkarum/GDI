@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_longiflorus	KX959135.1	02-NOV-2017	1028	Spain: Murcia, Moratalla, pico Revolcadores	primary	trnK	38.07	-2.27	0.00151318633808906
+Odontites_longiflorus	KX959077.1	02-NOV-2017	1030	Spain: Segovia, Ayllon, Grado del Pico	primary	trnK	41.7733294071935	-2.72023290473016	0.00064766893749554
+Odontites_longiflorus	KX959076.1	02-NOV-2017	1028	Spain: Segovia, Ayllon, Grado del Pico	primary	trnK	41.7685390416564	-3.39911239526708	0.000648508430609598
+Odontites_longiflorus	KX959075.1	02-NOV-2017	1030	Spain: Soria, Aldehuela de Perianez	primary	trnK	41.5558641270939	-1.29206641347412	0.00064766893749554
+Odontites_longiflorus	KX959074.1	02-NOV-2017	1030	Spain: Soria, Aldehuela de Perianez	primary	trnK	42.0371703188984	-2.5135959749587	0.00064766893749554
+Odontites_longiflorus	KX959073.1	02-NOV-2017	1030	Morocco: Tanger-Tetouan, Jbel L'akraa	primary	trnK	35.0028665000322	-4.93027313819377	0.00151066785874689
+Odontites_longiflorus	KX959072.1	02-NOV-2017	1037	Morocco: Tanger-Tetouan, Jbel L'akraa	primary	trnK	35.0246008152403	-6.09492151285103	0.00150921149605432
+Odontites_longiflorus	KX959007.1	02-NOV-2017	1030	Spain: Burgos, Castrillo de la Vega	primary	trnK	41.62688	-3.77922	0.00064766893749554
+Odontites_longiflorus	KX959134.1	02-NOV-2017	1030	Spain: Soria, between Renieblas and Torretartajo	secondary	trnK	41.1532364199496	-2.2586847471193	0.00064766893749554
+Odontites_longiflorus	KX959133.1	02-NOV-2017	1037	Spain: Soria, between Renieblas and Torretartajo	secondary	trnK	41.862985174959	-1.75393650387038	0.000646212574802975

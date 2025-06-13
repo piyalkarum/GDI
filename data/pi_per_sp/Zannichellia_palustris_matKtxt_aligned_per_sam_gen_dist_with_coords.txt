@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Zannichellia_palustris	JN894330.1	07-MAR-2012	782	United Kingdom: Monmouthshire	primary	matK	51.58	-2.96	0.000772897537722932
+Zannichellia_palustris	KT302147.1	11-JUL-2016	692	Austria	secondary	matK	36.9148511	-4.7534501	0.000926209340381197
+Zannichellia_palustris	KT302146.1	11-JUL-2016	689	Hungary: Szombathely	secondary	matK	47.2291184	16.6187625	0.000936659869069709
+Zannichellia_palustris	AB906843.1	09-MAY-2015	706	Denmark:Copenhagen	secondary	matK	55.6867243	12.5700724	0.000911881285230466
+Zannichellia_palustris	AB906842.1	09-MAY-2015	706	USA:Utah	secondary	matK	39.4225192	-111.714358	0.000911881285230466
+Zannichellia_palustris	AB818880.1	15-APR-2014	2553	Japan:Akita prefecture, Ogata-mura	secondary	matK	40.3667739091731	140.833414752669	0.00112051440454536
+Zannichellia_palustris	AB818879.1	15-APR-2014	2571	Japan:Akita prefecture, Ogata-mura	secondary	matK	39.9544003028066	139.742066939533	0.00112051440454536
+Zannichellia_palustris	AB818878.1	15-APR-2014	2571	Japan:Akita prefecture, Ogata-mura	secondary	matK	40.8406071429141	139.595530247471	0.00112051440454536
+Zannichellia_palustris	AB818877.1	15-APR-2014	2553	Japan:Akita prefecture, Ogata-mura	secondary	matK	39.4871207705322	140.657507972676	0.00215083230739752
+Zannichellia_palustris	JN893853.1	07-MAR-2012	773	United Kingdom: Carmarthenshire	secondary	matK	51.3857694032981	-3.05214249602113	0.00224914083674183
+Zannichellia_palustris	JN893852.1	07-MAR-2012	821	United Kingdom: Carmarthenshire	secondary	matK	51.8986741673819	-2.86609648788926	0.000738379504374969

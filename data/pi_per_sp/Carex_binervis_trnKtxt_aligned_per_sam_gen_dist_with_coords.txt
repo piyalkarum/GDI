@@ -1,0 +1,26 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_binervis	OP629991.1	08-MAR-2023	694	Spain: Avila	secondary	trnK	40.656478	-4.7002172	0.0124071315424755
+Carex_binervis	OP629990.1	08-MAR-2023	695	United Kingdom: Scotland, Highlands	secondary	trnK	56.8	-5	0.0122847840351478
+Carex_binervis	OP629989.1	08-MAR-2023	700	Portugal: Braga	secondary	trnK	41.5510583	-8.4280045	0.0123413482366798
+Carex_binervis	OP629983.1	08-MAR-2023	700	Spain: Toledo	secondary	trnK	39.8560679	-4.0239568	0.0133640872336906
+Carex_binervis	KC508329.1	12-MAY-2013	635	Spain: Cordoba, Vacar-Villaviciosa de Cordoba	secondary	trnK	37.5663751067854	-5.78355643258801	0.00295275590551181
+Carex_binervis	KC508328.1	12-MAY-2013	635	Spain: Cordoba, Vacar-Villaviciosa de Cordoba	secondary	trnK	37.4145253657496	-3.86708496005692	0.00295275590551181
+Carex_binervis	KC508327.1	12-MAY-2013	635	Spain: Cordoba, Vacar-Villaviciosa de Cordoba	secondary	trnK	37.3398600932883	-4.76617216184414	0.00295275590551181
+Carex_binervis	KC508326.1	12-MAY-2013	635	Spain: Cordoba, Vacar-Villaviciosa de Cordoba	secondary	trnK	37.3931619263495	-4.53981588015263	0.00295275590551181
+Carex_binervis	KC508325.1	12-MAY-2013	635	Portugal: Tras os Montes, Petrarouca	secondary	trnK	41.3187339588463	-6.69840324634503	0.00288713910761155
+Carex_binervis	KC508324.1	12-MAY-2013	635	Portugal: Tras os Montes, Petrarouca	secondary	trnK	41.8330754764244	-6.70124114606986	0.00288713910761155
+Carex_binervis	KC508323.1	12-MAY-2013	635	Spain: Ciudad Real, Sierra Madrona	secondary	trnK	38.1392854587428	-3.35660916978822	0.00288713910761155
+Carex_binervis	KC508322.1	12-MAY-2013	635	Spain: Ciudad Real, Sierra Madrona	secondary	trnK	38.5612081727942	-3.44886741844931	0.00288713910761155
+Carex_binervis	KC508321.1	12-MAY-2013	635	Spain: Ciudad Real, Sierra Madrona	secondary	trnK	37.805804349748	-4.77295800103216	0.00288713910761155
+Carex_binervis	KC508320.1	12-MAY-2013	635	Spain: Ciudad Real, Sierra Madrona	secondary	trnK	38.1050364678976	-4.28856441980267	0.00288713910761155
+Carex_binervis	KC508319.1	12-MAY-2013	635	Spain: Ciudad Real, Sierra Madrona	secondary	trnK	38.1161836477439	-4.7955163220194	0.00288713910761155
+Carex_binervis	KC508318.1	12-MAY-2013	635	Spain: Ciudad Real, Sierra Madrona	secondary	trnK	38.5816186352861	-4.21600721322305	0.00288713910761155
+Carex_binervis	KC508317.1	12-MAY-2013	635	Spain: Ciudad Real, Sierra Madrona	secondary	trnK	38.1603769193407	-5.05248805295176	0.00288713910761155
+Carex_binervis	KC508316.1	12-MAY-2013	640	Spain: Cantabria, Puerto del Escudo	secondary	trnK	43.0486469	-3.8668135	0.00287893700787402
+Carex_binervis	KC508315.1	12-MAY-2013	635	Spain: Avila, Plataforma de Gredos	secondary	trnK	41.0327545688163	-4.8085979758266	0.00295275590551181
+Carex_binervis	KC508314.1	12-MAY-2013	635	Spain: Avila, Plataforma de Gredos	secondary	trnK	39.6756955623156	-4.35635545707221	0.00295275590551181
+Carex_binervis	KC508313.1	12-MAY-2013	635	Spain: Avila, Plataforma de Gredos	secondary	trnK	39.693263614652	-5.61701304249261	0.00295275590551181
+Carex_binervis	KC508312.1	12-MAY-2013	635	Spain: Avila, Hoyocasero	secondary	trnK	40.1586469310979	-6.1008051443532	0.00295275590551181
+Carex_binervis	KC508311.1	12-MAY-2013	635	Spain: Avila, Hoyocasero	secondary	trnK	40.2673330378481	-5.11015003367209	0.00295275590551181
+Carex_binervis	KC508310.1	12-MAY-2013	635	Spain: Avila, Hoyocasero	secondary	trnK	40.2222416737426	-5.49827451717063	0.00295275590551181
+Carex_binervis	KC508309.1	12-MAY-2013	635	Spain: Avila, Hoyocasero	secondary	trnK	40.9941030355385	-5.23783998978372	0.00295275590551181

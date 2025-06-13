@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hippuris_tetraphylla	MG224685.1	26-DEC-2017	553	Canada: Manitoba, Wapusk National Park, Nelson River, mouth of 10 km N of Fort Nelson	primary	rbcL	57.164	-92.506	0
+Hippuris_tetraphylla	MG223891.1	26-DEC-2017	553	Canada: Yukon Territory, Blow River Delta east, Danny C. Gordon's goose camp	primary	rbcL	68.896	-136.961	0
+Hippuris_tetraphylla	MG222993.1	26-DEC-2017	553	Canada: Yukon Territory, Mackenzie Delta, northwest of Bird Camp, near derelict barge	primary	rbcL	68.863	-136.683	0
+Hippuris_tetraphylla	KX679037.1	29-APR-2017	552	Canada: British Columbia, Central Coast Regional District, Bella Coola, eastuary, 600 m west of eastern border of estuary, west of elementary school	primary	rbcL	52.38	-126.75	0
+Hippuris_tetraphylla	KC482976.1	25-OCT-2013	552	Canada: Northwest Territories, Inuvialuit Region, Tuktoyaktuk, Flat expanse of marine and local gravel derived from weakly alkaline materials. Some leaching of soil surfaces and organic accumulation	primary	rbcL	69.3156092069592	-132.973986864915	0
+Hippuris_tetraphylla	KC482975.1	25-OCT-2013	552	Canada: Northwest Territories, Mackenzie, Tuktoyaktuk	primary	rbcL	69.5687412798527	-135.226727221542	0
+Hippuris_tetraphylla	KC482974.1	25-OCT-2013	552	Canada: Quebec, Mistassini Territory, Cabbage Willows Bay	primary	rbcL	51.583	-79.0167	0
+Hippuris_tetraphylla	KC482973.1	25-OCT-2013	552	Canada: Northwest Territories, Tuktoyaktuk, Tuktoyaktuk. Near Barge dock	primary	rbcL	69.0329054134504	-133.076126559908	0
+Hippuris_tetraphylla	KC482972.1	25-OCT-2013	552	Canada: Nunavut, Bathurst Inlet, West side of inlet	primary	rbcL	66.87	-108	0
+Hippuris_tetraphylla	KC482971.1	25-OCT-2013	552	Canada: Newfoundland and Labrador, Northwest River Area	primary	rbcL	53.5254	-60.1449	0
+Hippuris_tetraphylla	KC482970.1	25-OCT-2013	552	Canada: Northwest Territories, Inuvialuit Region, Tuktoyaktuk, Township area. Near P.C.S.P. base	primary	rbcL	69.7061682520866	-133.779017218113	0
+Hippuris_tetraphylla	JN965585.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	rbcL	59.1986780263533	-94.1252746087443	0
+Hippuris_tetraphylla	JN965584.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	rbcL	58.0009354310278	-94.1059195044151	0
+Hippuris_tetraphylla	JN965583.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, Thompson Point, Beach ridges in sand amongst Leymus mollis and Dryas integrifolia	primary	rbcL	58.335	-93.018	0
+Hippuris_tetraphylla	JN965582.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, Laperousse Bay, Mast River, Dryas integrifolia/Shepherdia canadensis moraine with Saxifraga tricuspidata and S. oppositifolia.	primary	rbcL	58.722	-93.428	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxybasis_rubra	HE855626.1	07-JAN-2013	2426	Germany	secondary	trnK	35.563292188726	-83.5210753298893	0.00164880461665293
+Oxybasis_rubra	HE855625.1	07-JAN-2013	2426	Poland	secondary	trnK	52.215933	19.134422	0.000549601538884309
+Oxybasis_rubra	HE855624.1	07-JAN-2013	2426	Germany	secondary	trnK	35.4023838378433	-82.6202521129269	0.000549601538884309
+Oxybasis_rubra	HE855623.1	07-JAN-2013	2426	USA	secondary	trnK	39.7837304	-100.445882	0.000549601538884309

@@ -1,0 +1,47 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cistus_ladanifer	FJ189448.1	01-OCT-2008	646	Portugal: Sagres	secondary	trnS-trnG	37.0078288	-8.941924	0.00459591561277585
+Cistus_ladanifer	FJ189446.1	01-OCT-2008	577	Portugal: Cabo Sardao	secondary	trnS-trnG	37.5986309	-8.8161381	0.00514834687165689
+Cistus_ladanifer	FJ189445.1	01-OCT-2008	646	Portugal: Ourique	secondary	trnS-trnG	37.651112	-8.2237262	0.00459591561277585
+Cistus_ladanifer	FJ189444.1	01-OCT-2008	646	Portugal: Raposeira	secondary	trnS-trnG	37.0832857	-8.8895991	0.00459591561277585
+Cistus_ladanifer	FJ189442.1	01-OCT-2008	646	Portugal: Aljezur	secondary	trnS-trnG	37.3151549	-8.8040533	0.00459591561277585
+Cistus_ladanifer	FJ189441.1	01-OCT-2008	646	Spain: Zamora	secondary	trnS-trnG	41.6857693	-5.942315	0.00459591561277585
+Cistus_ladanifer	FJ189440.1	01-OCT-2008	646	Spain: Sevilla, Sierra Norte	secondary	trnS-trnG	37.2849111	-5.9294468	0.00459591561277585
+Cistus_ladanifer	FJ189439.1	01-OCT-2008	646	Spain: Salamanca	secondary	trnS-trnG	40.9651572	-5.6640182	0.00459591561277585
+Cistus_ladanifer	FJ189438.1	01-OCT-2008	646	Spain: Madrid, El Pardo	secondary	trnS-trnG	40.5205538	-3.7780738	0.00459591561277585
+Cistus_ladanifer	FJ189437.1	01-OCT-2008	646	Spain: Madrid, La Barranca	secondary	trnS-trnG	40.4096666	-3.9723887	0.00459591561277585
+Cistus_ladanifer	FJ189436.1	01-OCT-2008	646	Spain: Guadalajara, Hiendelaencina	secondary	trnS-trnG	41.0835841	-3.0036605	0.00459591561277585
+Cistus_ladanifer	FJ189435.1	01-OCT-2008	646	Spain: Cordoba, Posadas	secondary	trnS-trnG	37.8017289	-5.107031	0.00605424094438969
+Cistus_ladanifer	FJ189434.1	01-OCT-2008	646	Portugal: Aljustrel	secondary	trnS-trnG	37.8903251	-8.1963521	0.00459591561277585
+Cistus_ladanifer	FJ189433.1	01-OCT-2008	646	Spain: Orense, Laroca	secondary	trnS-trnG	42.3436415	-7.8674242	0.00459591561277585
+Cistus_ladanifer	FJ189432.1	01-OCT-2008	646	Spain: Toledo, Hinojosade SanVicente	secondary	trnS-trnG	39.8560679	-4.0239568	0.00459591561277585
+Cistus_ladanifer	FJ189431.1	01-OCT-2008	646	Spain: Caceres, Granadilla	secondary	trnS-trnG	40.2680974	-6.1060574	0.00459591561277585
+Cistus_ladanifer	FJ189430.1	01-OCT-2008	646	Spain: Madrid, Manzanares	secondary	trnS-trnG	40.4005339	-3.7221868	0.00459591561277585
+Cistus_ladanifer	FJ189429.1	01-OCT-2008	646	Spain: Jaen, Bailen	secondary	trnS-trnG	38.096787	-3.7765601	0.00459591561277585
+Cistus_ladanifer	FJ189428.1	01-OCT-2008	646	France: Saint Chinian	secondary	trnS-trnG	43.4215	2.94677	0.00459591561277585
+Cistus_ladanifer	FJ189427.1	01-OCT-2008	646	Spain: Madrid, El Atazar	secondary	trnS-trnG	40.9343489	-3.4710919	0.00459591561277585
+Cistus_ladanifer	FJ189426.1	01-OCT-2008	646	Morocco: Chaouen	secondary	trnS-trnG	34.9011819672187	-4.90094367341161	0.00459591561277585
+Cistus_ladanifer	FJ189425.1	01-OCT-2008	646	Morocco: Chaouen	secondary	trnS-trnG	35.8065079585446	-4.81695884219856	0.00459591561277585
+Cistus_ladanifer	FJ189424.1	01-OCT-2008	646	Morocco: Chaouen	secondary	trnS-trnG	35.828724774837	-5.64827499354293	0.00459591561277585
+Cistus_ladanifer	FJ189423.1	01-OCT-2008	644	Spain: Madrid, Chapinerea	secondary	trnS-trnG	40.4411193549673	-3.02361758536854	0.00461025442724652
+Cistus_ladanifer	FJ189422.1	01-OCT-2008	646	Spain: Madrid, La Cabrera	secondary	trnS-trnG	40.8651738	-3.6125468	0.00459591561277585
+Cistus_ladanifer	FJ189421.1	01-OCT-2008	646	Spain: Madrid, Boadilladel Monte	secondary	trnS-trnG	39.8273064154359	-3.41356459200291	0.00459591561277585
+Cistus_ladanifer	FJ189420.1	01-OCT-2008	646	Spain: Madrid, El Escorial	secondary	trnS-trnG	40.5836411	-4.1281427	0.00459591561277585
+Cistus_ladanifer	FJ189419.1	01-OCT-2008	646	Spain: Huelva, Hinojos	secondary	trnS-trnG	37.2922174	-6.3794314	0.00459591561277585
+Cistus_ladanifer	FJ189417.1	01-OCT-2008	646	Morocco: Bab-Taza	secondary	trnS-trnG	35.0445555	-5.2611595	0.00459591561277585
+Cistus_ladanifer	FJ189414.1	01-OCT-2008	636	Spain: Granada, Lanjaron	secondary	trnS-trnG	36.9181138	-3.4801561	0.00563465805035394
+Cistus_ladanifer	FJ189413.1	01-OCT-2008	636	Spain: Almeria, Torre Paraiso	secondary	trnS-trnG	37.5517548438762	-1.84239542399727	0.00563465805035394
+Cistus_ladanifer	FJ189412.1	01-OCT-2008	636	Spain: Cadiz, Almoraima	secondary	trnS-trnG	36.2773141	-5.428536	0.00563465805035394
+Cistus_ladanifer	FJ189411.1	01-OCT-2008	636	Spain: Almeria, Sierradela Alhamilla	secondary	trnS-trnG	36.4573889429226	-3.47804980050628	0.00563465805035394
+Cistus_ladanifer	FJ189410.1	01-OCT-2008	636	Spain: Malaga, Casabermeja	secondary	trnS-trnG	36.893528	-4.4287903	0.00563465805035394
+Cistus_ladanifer	FJ189409.1	01-OCT-2008	636	Spain: Malaga, Sierra Bermeja	secondary	trnS-trnG	36.5219286	-5.1767863	0.00563465805035394
+Cistus_ladanifer	FJ189407.1	01-OCT-2008	636	Morocco: Asilah	secondary	trnS-trnG	35.9077193632842	-5.85809360712598	0.00563465805035394
+Cistus_ladanifer	FJ189406.1	01-OCT-2008	636	Morocco: Asilah	secondary	trnS-trnG	35.6552250308331	-6.69698155311129	0.00563465805035394
+Cistus_ladanifer	FJ189405.1	01-OCT-2008	636	Morocco: Asilah	secondary	trnS-trnG	35.4452980871833	-6.86341851874861	0.00563465805035394
+Cistus_ladanifer	FJ189404.1	01-OCT-2008	633	Morocco: M'Diq	secondary	trnS-trnG	35.6833598	-5.3232161	0.00566090995244091
+Cistus_ladanifer	FJ189403.1	01-OCT-2008	633	Morocco: Tetuan	secondary	trnS-trnG	36.4381382091721	-5.26402899559115	0.00706956398079407
+Cistus_ladanifer	FJ189402.1	01-OCT-2008	633	Morocco: Tetuan	secondary	trnS-trnG	35.3720505084827	-5.85399097856068	0.00706956398079407
+Cistus_ladanifer	FJ189401.1	01-OCT-2008	633	Morocco: Tetuan	secondary	trnS-trnG	34.8804852564958	-5.5986943728218	0.00706956398079407
+Cistus_ladanifer	FJ189400.1	01-OCT-2008	636	Morocco: Targuist	secondary	trnS-trnG	34.939869	-4.320451	0.00563465805035394
+Cistus_ladanifer	FJ189399.1	01-OCT-2008	636	Morocco: Taforalt	secondary	trnS-trnG	34.8062766	-2.4105376	0.00563465805035394
+Cistus_ladanifer	FJ189394.1	01-OCT-2008	636	Morocco: Beni-Hadifa	secondary	trnS-trnG	34.951068	-4.138968	0.00563465805035394
+Cistus_ladanifer	FJ189418.1	01-OCT-2008	646	Spain	secondary	trnS-trnG	38.466923	-4.2061063	0.152658219941342

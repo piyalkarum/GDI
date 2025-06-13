@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ifloga_spicata	OP597803.1	12-MAR-2023	217	Egypt	secondary	rbcL	26.2540493	29.2675469	0
+Ifloga_spicata	KX282820.1	28-MAY-2017	568	Kuwait	secondary	rbcL	29.0661561553063	47.6615931606549	0
+Ifloga_spicata	KX282819.1	28-MAY-2017	567	Kuwait	secondary	rbcL	29.0039362691917	47.6177820435	0
+Ifloga_spicata	KX282818.1	28-MAY-2017	576	Kuwait	secondary	rbcL	30.1279082970733	47.8356010494212	0

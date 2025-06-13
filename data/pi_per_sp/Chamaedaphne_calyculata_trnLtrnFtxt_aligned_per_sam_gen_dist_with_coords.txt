@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chamaedaphne_calyculata	KT182417.1	24-NOV-2015	338	Canada	secondary	trnL-trnF	61.1821049186503	-106.852022160695	0.00493096646942801
+Chamaedaphne_calyculata	KT182416.1	24-NOV-2015	338	Canada	secondary	trnL-trnF	61.1211073995064	-109.364197146597	0.00493096646942801
+Chamaedaphne_calyculata	KT182415.1	24-NOV-2015	338	Canada	secondary	trnL-trnF	60.2422402406025	-108.128067948994	0.0029585798816568
+Chamaedaphne_calyculata	KT182414.1	24-NOV-2015	338	USA	secondary	trnL-trnF	39.7837304	-100.445882	0.00493096646942801

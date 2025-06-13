@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Securigera_varia	OR464883.1	26-SEP-2023	616	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.287647	-85.616186	0
+Securigera_varia	MG248846.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, Access Point	primary	rbcL	45.185	-81.602	0
+Securigera_varia	MG248542.1	21-JAN-2018	552	Canada: Ontario, Wellington County, City of Guelph, Stone Road and Eramosa River, Old Jail Quarry	primary	rbcL	43.549	-80.199	0
+Securigera_varia	MG248515.1	21-JAN-2018	552	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0
+Securigera_varia	KX678474.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Burnaby, west of Stride Avenue, south of Sky Train tracks, in landfill, vegetation dump	primary	rbcL	49.207	-122.961	0
+Securigera_varia	KJ746222.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0
+Securigera_varia	KJ204403.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0

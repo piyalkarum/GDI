@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anchusa_crispa	EU599997.1	31-MAR-2009	351	France: Corsica	secondary	trnL-trnF	42.1880896	9.0684138	0
+Anchusa_crispa	EU599993.1	31-MAR-2009	351	Italy: Sardinia	secondary	trnL-trnF	40.6123048160882	8.17552842739538	0
+Anchusa_crispa	EU599992.1	31-MAR-2009	351	Italy: Sardinia	secondary	trnL-trnF	40.3459093870416	9.23193058367625	0
+Anchusa_crispa	EU599991.1	31-MAR-2009	351	Italy: Sardinia	secondary	trnL-trnF	39.7844669818482	8.35925204747344	0
+Anchusa_crispa	EU599990.1	31-MAR-2009	351	Italy: Sardinia	secondary	trnL-trnF	39.9067803116265	9.12116625683454	0
+Anchusa_crispa	EU599989.1	31-MAR-2009	351	Italy: Sardinia	secondary	trnL-trnF	39.9627983652234	8.83155310055089	0

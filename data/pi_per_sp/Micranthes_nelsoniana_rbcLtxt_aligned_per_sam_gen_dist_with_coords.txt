@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Micranthes_nelsoniana	MG249873.1	21-JAN-2018	552	USA: Alaska, Southeast Fairbanks Census Area, Yukon-Charley National Preserve, 'Mt. Frosty' camp pass at upper Good Pasture Creek and Upper Charley River	primary	rbcL	64.544	-143.7	0.0036231884057971
+Micranthes_nelsoniana	MG249297.1	21-JAN-2018	552	Canada: Yukon Territory, Blow River Delta, mainland sites S of E delta, rich bluffs	primary	rbcL	68.872	-136.98	0.00420144280538302
+Micranthes_nelsoniana	MG248344.1	21-JAN-2018	552	Canada: Yukon Territory, Shingle Point area, mainland opposite SHILIME	primary	rbcL	68.985	-137.42	0.00420144280538302
+Micranthes_nelsoniana	MG246597.1	21-JAN-2018	512	Canada: Yukon Territory, Asi Keyi SMA, Boundary Lake	primary	rbcL	61.654	-140.845	0.00390625
+Micranthes_nelsoniana	MG246437.1	21-JAN-2018	552	Canada: Yukon Territory, LaBiche Range	primary	rbcL	60.448	-124.423	0.0036231884057971
+Micranthes_nelsoniana	MG246080.1	21-JAN-2018	552	Canada: Yukon Territory, Bonnet Plume Drainage, Quartet Lake	primary	rbcL	65.119	-134.418	0.0036231884057971
+Micranthes_nelsoniana	MG245994.1	21-JAN-2018	552	USA: Alaska, Kenai Peninsula Borough, Kenai Fjords National Park, Paguna Bay, north end	primary	rbcL	59.693	-150.134	0.00838266692546584
+Micranthes_nelsoniana	MG245914.1	21-JAN-2018	552	Canada: Yukon Territory, Kluane National Park, Fisher Glacier near Alsek, W-facing slope above valley glacier leading into Fisher Glacier	primary	rbcL	60.14	-138.222	0.00420144280538302

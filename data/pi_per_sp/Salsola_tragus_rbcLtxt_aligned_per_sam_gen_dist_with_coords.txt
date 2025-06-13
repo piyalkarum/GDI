@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salsola_tragus	MG247141.1	21-JAN-2018	552	Canada: Ontario, Ottawa, City of, South March Highlands, Kanata, 0.5 km E of Go, ulbourn Forced Rd. along railway track by Shirleys Brook	primary	rbcL	45.3333	-75.9333	0.000301932367149758
+Salsola_tragus	KX678275.1	29-APR-2017	552	Canada: British Columbia, Thompson-Nicola Regional District, Clearwater, Clearwater Railyard, weed transect at edge of tracks	primary	rbcL	52.633	-120.033	0.000301932367149758
+Salsola_tragus	MT931137.1	03-MAR-2023	568	China	secondary	rbcL	34.9026156472358	105.809600539516	0.00180308906579574
+Salsola_tragus	MT931136.1	03-MAR-2023	568	China	secondary	rbcL	34.6507752286518	104.775669978222	0.000293427230046948
+Salsola_tragus	MG249622.1	21-JAN-2018	552	Canada: Ontario, Bruce Co., Bruce Peninsula, Cape Croker.	secondary	rbcL	45.1836064	-81.4730735	0.000301932367149758
+Salsola_tragus	MG247915.1	21-JAN-2018	552	Canada: Ontario, Bruce Co., Bruce Peninsula, Tobermory	secondary	rbcL	45.2533621	-81.6650097	0.000301932367149758
+Salsola_tragus	MG247468.1	21-JAN-2018	552	Canada: Ontario, Rainy River Dist., Atwood Tp., 0.5 mi W of Rainy River Town, CNR tracks.	secondary	rbcL	43.72634945	-77.7101179040839	0.000301932367149758

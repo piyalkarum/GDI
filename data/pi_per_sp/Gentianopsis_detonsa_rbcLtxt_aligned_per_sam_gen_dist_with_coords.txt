@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gentianopsis_detonsa	MG223391.1	26-DEC-2017	552	Canada: Yukon Territory, Takhini Salt Flats	primary	rbcL	60.856	-135.715	0.000270562770562771
+Gentianopsis_detonsa	MG222894.1	26-DEC-2017	552	Canada: Northwest Territories, Inuvik, near Mackenzie River	primary	rbcL	68.344	-133.751	0.000270562770562771
+Gentianopsis_detonsa	MG221499.1	26-DEC-2017	552	Canada: Yukon Territory, Alaska Highway, Duke River Bridge	primary	rbcL	61.35	-139.167	0.000270562770562771
+Gentianopsis_detonsa	MG221451.1	26-DEC-2017	528	Canada: Yukon Territory, Aishihik Lake, four miles south	primary	rbcL	61.667	-137.417	0.00189393939393939
+Gentianopsis_detonsa	KC482931.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territoires, Tuktoyaktuk	primary	rbcL	69.617	-132.117	0.000270562770562771
+Gentianopsis_detonsa	MG224681.1	26-DEC-2017	552	Canada: Northwest Territories, Mackenzie Dist., Salt Plain, 20 mi W of Fort Smith.	secondary	rbcL	61.706199010406	-113.4032489497	0.000270562770562771
+Gentianopsis_detonsa	MG224110.1	26-DEC-2017	552	Canada: Northwest Territories, Mackenzie Dist., Salt Plain, 20 mi W of Fort Smith.	secondary	rbcL	62.705918120801	-114.676166919295	0.000270562770562771
+Gentianopsis_detonsa	MG223656.1	26-DEC-2017	552	Canada: Northwest Territories, Mackenzie Dist., Norman Wells, Mackenzie River.	secondary	rbcL	62.9622961778288	-115.511546634909	0.000270562770562771

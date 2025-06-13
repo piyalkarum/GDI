@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aconitum_napellus	JN894398.1	07-MAR-2012	765	United Kingdom: Cardiganshire	primary	matK	52.39	-3.89	0.000459770114942529
+Aconitum_napellus	JN895414.1	07-MAR-2012	775	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000461041954817888
+Aconitum_napellus	JN895413.1	07-MAR-2012	863	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000420875420875421
+Aconitum_napellus	FN668831.1	27-APR-2010	792	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00134168749063584

@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colchicum_szovitsii	KX139882.1	26-APR-2017	859	Turkey: Kahraman Maras	secondary	matK	37.2951672	37.1659986	0.00630401805387426
+Colchicum_szovitsii	KX139881.1	26-APR-2017	836	Turkey: Ankara	secondary	matK	39.9207759	32.8540497	0.00285479995013262
+Colchicum_szovitsii	KX139880.1	26-APR-2017	798	Turkey: Kutahya	secondary	matK	39.2522508	29.4937732	0.00511126758368785
+Colchicum_szovitsii	KX139879.1	26-APR-2017	836	Turkey: Konya	secondary	matK	37.872734	32.4924376	0.00285479995013262
+Colchicum_szovitsii	KX139878.1	26-APR-2017	837	Turkey: Van	secondary	matK	38.3249599	43.6589825	0.00388563080631231
+Colchicum_szovitsii	KX139877.1	26-APR-2017	837	Turkey: Mus	secondary	matK	41.6297544	33.2513894	0.00388563080631231
+Colchicum_szovitsii	KX139876.1	26-APR-2017	841	Turkey: Adiyaman	secondary	matK	37.7602379	38.2772662	0.00284569344673577
+Colchicum_szovitsii	KX139875.1	26-APR-2017	867	Turkey: Trabzon	secondary	matK	41.0054605	39.7301463	0.00395195140226468
+Colchicum_szovitsii	KX139874.1	26-APR-2017	798	Turkey: Isparta	secondary	matK	37.9465412	30.9602093	0.00511126758368785
+Colchicum_szovitsii	KX139873.1	26-APR-2017	841	Turkey: Bitlis	secondary	matK	38.4950867	42.1678372	0.00284569344673577
+Colchicum_szovitsii	KX139872.1	26-APR-2017	837	Turkey: Sanliurfa	secondary	matK	37.1596239	38.791929	0.00388563080631231
+Colchicum_szovitsii	KX139871.1	26-APR-2017	841	Turkey: Gaziantep	secondary	matK	37.0628317	37.3792617	0.0084303752705079
+Colchicum_szovitsii	KX139870.1	26-APR-2017	836	Turkey: Bursa	secondary	matK	39.9895878	28.8944669	0.00509388823688724
+Colchicum_szovitsii	KX139869.1	26-APR-2017	836	Turkey: Eskisehir	secondary	matK	39.7743941	30.519116	0.00521189336978811
+Colchicum_szovitsii	KX139868.1	26-APR-2017	837	Turkey: Erzurum	secondary	matK	39.7581897	41.4032241	0.00388563080631231

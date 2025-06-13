@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_ochroleuca	GU202640.1	28-DEC-2009	336	Russia: Buryatskaya ASSR, upper reaches of Barguzin river, South-West of Ozero Balan-Tomur (lake). Golzovy zone	primary	trnL-trnF	55.2607	111.703	0.0313779425423488
+Draba_ochroleuca	GU202849.1	28-DEC-2009	318	Russia: Chukotskiy national okrug (region), South-east seacoast of Chukotskiy Poluostrov (peninsula). On clay gullies, in flood-lands on pebbles	primary	trnL-trnF	64.391174	-172.488251	0.0340788072417465
+Draba_ochroleuca	GU202848.1	28-DEC-2009	322	Russia: Sayan, Buryatiya, Buryatskaya ASSR, Kary in the source of the Bargusin river	primary	trnL-trnF	53.815659	109.714088	0.032645718874698
+Draba_ochroleuca	GU202639.1	28-DEC-2009	332	Russia: Yakutskaya oblast (region), lower reaches of Lena river delta, in 3 km to the north from the Ogonyur-Yurege river, the western spurs of Khrebet Tuora-Sis. Valley of a stream	primary	trnL-trnF	71.399307	127.799133	0.0284697815792386

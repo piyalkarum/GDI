@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fraxinus_excelsior	JN890837.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.14	0
+Fraxinus_excelsior	MG224068.1	26-DEC-2017	552	Canada: Ontario, Middlesex Co., London	secondary	rbcL	43.0766721	-81.3077098	0
+Fraxinus_excelsior	MG222662.1	26-DEC-2017	552	Canada: Ontario, Durham R. M., Oshawa, Pioneer Cemetery, N of harbour	secondary	rbcL	44.0334495598102	-78.8171157690173	0
+Fraxinus_excelsior	MG222614.1	26-DEC-2017	552	Canada: Ontario, Niagara R. M., Niagara Gorge, woods on slopes down to Whirlpool, N edge of Niagara Falls	secondary	rbcL	44.4598668272947	-77.8928473134144	0
+Fraxinus_excelsior	MG221962.1	26-DEC-2017	552	Canada: Ontario, Niagara R. M., Niagara Falls Park	secondary	rbcL	43.9010208773481	-78.6066613899364	0
+Fraxinus_excelsior	KX162950.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.5268092825002	-3.26540411762359	0
+Fraxinus_excelsior	KX162949.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.3061255325391	-2.44939332028913	0
+Fraxinus_excelsior	KX162948.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.2723819659442	-4.2889719508256	0
+Fraxinus_excelsior	KX162947.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.2592068357647	-2.96566207677024	0
+Fraxinus_excelsior	KX162946.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.321026422662	-4.32892163010516	0
+Fraxinus_excelsior	KX162945.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.5147690975196	-2.41293727253176	0
+Fraxinus_excelsior	KX162944.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.5599732352472	-2.8965339928732	0
+Fraxinus_excelsior	KX162943.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.5680029485081	-3.6065404358189	0
+Fraxinus_excelsior	KX162942.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.9620046688774	-1.89982032868149	0
+Fraxinus_excelsior	KX162941.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.5904948683184	-2.71042958805961	0
+Fraxinus_excelsior	KJ204344.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0
+Fraxinus_excelsior	HG765064.1	18-NOV-2013	688	Italy	secondary	rbcL	42.675387675187	12.918362231473	0
+Fraxinus_excelsior	HG765063.1	18-NOV-2013	688	Italy	secondary	rbcL	43.1031870059075	12.9214760265663	0
+Fraxinus_excelsior	JN891186.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0
+Fraxinus_excelsior	JN890557.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Fraxinus_excelsior	JN890554.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Fraxinus_excelsior	KP088611.1	15-MAR-2015	785	China	secondary	rbcL	39.9057136	116.3912972	0

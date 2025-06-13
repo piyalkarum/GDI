@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elaeagnus_angustifolia	OQ847521.1	15-AUG-2023	792	USA: Bowdoin Wildlife Refuge	primary	matK	48.3768	-107.6889	0.000395178818415333
+Elaeagnus_angustifolia	KX677315.1	09-AUG-2017	811	Canada: British Columbia, East Kootenay Regional District, Windermere Lake, southeast shore of Lake, 1.3 km northwest of Lakeshore Resort and Campground, lakeshore saline meadow below eroding silt bank	primary	matK	50.436	-115.959	0.000383509108341323
+Elaeagnus_angustifolia	MG221042.1	21-JAN-2018	780	USA: North Dakota	primary	matK	48.045	-100.911	0.000396825396825397
+Elaeagnus_angustifolia	MG220766.1	21-JAN-2018	780	USA: North Dakota	primary	matK	47.814	-102.091	0.000396825396825397
+Elaeagnus_angustifolia	MT930140.1	03-MAR-2023	787	China	secondary	matK	34.6158041973176	105.205500466119	0.000395178818415333
+Elaeagnus_angustifolia	MT930139.1	03-MAR-2023	786	China	secondary	matK	35.6197579943698	105.630665276434	0.000395178818415333
+Elaeagnus_angustifolia	MT683141.1	29-JUL-2020	807	Pakistan	secondary	matK	30.3308401	71.247499	0.000383509108341323
+Elaeagnus_angustifolia	KP089052.1	15-MAR-2015	745	China	secondary	matK	39.9057136	116.3912972	0.00274620546557944

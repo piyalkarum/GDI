@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_durieui	HE649714.1	04-FEB-2013	281	Algeria	secondary	psbA-trnH	28.0000272	2.9999825	0
+Gagea_durieui	HE649713.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	38.7560130567969	-5.31024886522156	0
+Gagea_durieui	HE649712.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	39.77106635013	-5.30539472195438	0
+Gagea_durieui	HE649711.1	04-FEB-2013	281	Morocco	secondary	psbA-trnH	28.3347722	-10.3713379	0

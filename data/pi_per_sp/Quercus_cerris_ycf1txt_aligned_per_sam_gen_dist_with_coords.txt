@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_cerris	MN751850.1	24-NOV-2021	536	Lebanon: Mount Lebanon, Jabal Moussa-Cross/Yahchouche	primary	ycf1	33.7012533226691	36.2174060523685	0
+Quercus_cerris	MN751849.1	24-NOV-2021	536	Lebanon: Mount Lebanon, Hasbaya Al Metn	primary	ycf1	34.3695850739595	36.2490849506219	0
+Quercus_cerris	MN751848.1	24-NOV-2021	536	Lebanon: Mount Lebanon, Hasbaya Al Metn	primary	ycf1	33.4234958751207	34.8774000171943	0
+Quercus_cerris	MN751847.1	24-NOV-2021	536	Lebanon: North, Jayroun	primary	ycf1	34.7728667308298	35.2721204267402	0
+Quercus_cerris	MN751846.1	24-NOV-2021	536	Lebanon: North, Jayroun	primary	ycf1	34.5233956658272	36.9841884596846	0
+Quercus_cerris	MN751845.1	24-NOV-2021	536	Lebanon: South, Bekassine	primary	ycf1	34.0807781938928	35.7609724443194	0
+Quercus_cerris	MN751844.1	24-NOV-2021	536	Lebanon: South, Bekassine	primary	ycf1	33.7261038612399	36.3304171966023	0
+Quercus_cerris	MN751843.1	24-NOV-2021	536	Syria: Al Ladhiqiyah, Slenfah	primary	ycf1	35.5834	36.2002	0
+Quercus_cerris	MN751842.1	24-NOV-2021	536	Lebanon: Mount Lebanon, Jabal Moussa-Cross/Yahchouche	primary	ycf1	34.671420392451	34.9695328729888	0

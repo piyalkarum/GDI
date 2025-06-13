@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_nilotica	MZ563279.1	24-APR-2022	818	Greece: Crete, Chania, Paleochora beach	primary	ycf1	35.223	23.67	0
+Tamarix_nilotica	MZ563278.1	24-APR-2022	818	Greece: Crete, Heraklion, near Dermatos	primary	ycf1	34.979	25.335	0
+Tamarix_nilotica	MZ563277.1	24-APR-2022	818	Greece: Crete, Lassithi, Kalo Nero	primary	ycf1	35.014	26.046	0
+Tamarix_nilotica	MZ563276.1	24-APR-2022	818	Greece: Crete, Heraklion, Aposelemis	primary	ycf1	35.33	25.327	0
+Tamarix_nilotica	MZ563275.1	24-APR-2022	818	Greece: Crete, Heraklion, near Dermatos	primary	ycf1	34.979	25.324	0
+Tamarix_nilotica	MZ563274.1	24-APR-2022	818	Greece: Crete, Lassithi, Xerokambos	primary	ycf1	35.051	26.232	0

@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sonchus_asper	KX677178.1	09-AUG-2017	786	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Campbell Lake Forest Service Road	primary	matK	50.046	-125.461	6.11284308331805e-05
+Sonchus_asper	MG225333.1	21-JAN-2018	779	Canada: Ontario, Bruce County, North Bruce Peninsula Township, South Cameron Lake Road	primary	matK	45.204	-81.563	6.55007532586625e-05
+Sonchus_asper	MG225210.1	21-JAN-2018	792	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Sassafras Point, Sassafras Point Trail	primary	matK	43.272	-79.904	6.47878198898607e-05
+Sonchus_asper	MG224994.1	21-JAN-2018	800	Canada: Quebec, Montreal, Island of Montreal, Parc Senneville, entre le boise et la caserne de pompiers	primary	matK	45.419	-73.952	6.11284308331805e-05
+Sonchus_asper	JN895676.1	07-MAR-2012	789	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	6.48760866744518e-05
+Sonchus_asper	OQ289639.1	16-MAY-2023	797	Mexico: Puebla	secondary	matK	19.1710098	-98.4125121	0.00144756090180349
+Sonchus_asper	KU586785.1	06-FEB-2017	542	Spain: Sevilla, Alcala de Guadaira	secondary	matK	37.3397709	-5.8408396	0.000194363459669582
+Sonchus_asper	DQ840426.1	13-AUG-2006	2802	Australia	secondary	matK	-24.7761086	134.755	9.37371913650732e-05
+Sonchus_asper	DQ508004.1	01-JUL-2006	2802	South Korea	secondary	matK	36.638392	127.6961188	7.67425276894674e-05
+Sonchus_asper	DQ508003.1	01-JUL-2006	2802	Spain	secondary	matK	39.3260685	-4.8379791	7.67425276894674e-05
+Sonchus_asper	KT250056.1	09-AUG-2015	820	Germany	secondary	matK	40.5003119251874	-79.5529004346358	6.46120049105124e-05
+Sonchus_asper	KT250055.1	09-AUG-2015	820	Germany	secondary	matK	40.021885096753	-79.2777904788917	6.46120049105124e-05
+Sonchus_asper	KT250054.1	09-AUG-2015	820	Germany	secondary	matK	40.5776633595356	-78.4424714305617	6.46120049105124e-05
+Sonchus_asper	KT250053.1	09-AUG-2015	820	Germany	secondary	matK	41.0810108669882	-79.6657841657021	6.46120049105124e-05
+Sonchus_asper	KT250051.1	09-AUG-2015	820	Germany	secondary	matK	40.9942783370963	-78.3920793836545	6.46120049105124e-05
+Sonchus_asper	KT250050.1	09-AUG-2015	820	Germany	secondary	matK	39.7931233999023	-78.5013943252763	6.46120049105124e-05
+Sonchus_asper	HM850661.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	5.97478640138615e-05
+Sonchus_asper	HE970745.1	18-SEP-2012	810	Italy:Trieste, Mt. Valerio	secondary	matK	45.0878915930355	13.1839901207545	5.97478640138615e-05
+Sonchus_asper	HE970744.1	18-SEP-2012	811	Italy:Trieste, Mt. Valerio	secondary	matK	46.2821070999153	13.4793178076747	5.97478640138615e-05
+Sonchus_asper	HE970743.1	18-SEP-2012	811	Italy:Trieste, Mt. Valerio	secondary	matK	46.3483862062952	14.4620089898444	5.97478640138615e-05
+Sonchus_asper	JN894980.1	07-MAR-2012	765	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	6.68806848582129e-05
+Sonchus_asper	JN894382.1	07-MAR-2012	954	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	6.29881582262535e-05

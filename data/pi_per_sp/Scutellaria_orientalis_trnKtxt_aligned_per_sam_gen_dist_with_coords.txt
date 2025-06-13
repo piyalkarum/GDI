@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scutellaria_orientalis	OV140616.1	06-JAN-2022	1547	Iran:East Azerbaijan	secondary	trnK	37.9160365	46.6781589	0.00535838866960789
+Scutellaria_orientalis	OV140602.1	06-JAN-2022	2812	Georgia:Kvemo Kartli	secondary	trnK	41.5124578	44.5495369	0.00338690276013984
+Scutellaria_orientalis	OV140601.1	06-JAN-2022	2772	Georgia:Tsagveri-Borjomi	secondary	trnK	41.7992252	43.4755218	0.00303887348573731
+Scutellaria_orientalis	OV140599.1	06-JAN-2022	2771	Armenia:Ararat	secondary	trnK	40.0053589	44.7315157	0.00298788699056782
+Scutellaria_orientalis	OV140598.1	06-JAN-2022	2812	Armenia:Vayots Dzor	secondary	trnK	39.8019849	45.4557591	0.00323209039722047
+Scutellaria_orientalis	OV140597.1	06-JAN-2022	2763	Armenia:Gegharkunik	secondary	trnK	40.5783678883339	44.5396590229149	0.00299760137465149
+Scutellaria_orientalis	OV140596.1	06-JAN-2022	2772	Armenia:Gegharkunik	secondary	trnK	40.3793680457871	46.1317310459519	0.00323428964754003
+Scutellaria_orientalis	OV140592.1	06-JAN-2022	2771	Azerbaijan:Ganja	secondary	trnK	40.6798083	46.3597178	0.00298788699056782

@@ -1,0 +1,43 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Deschampsia_cespitosa	KX873393.1	16-OCT-2017	892	Chile: Region II, 7 km NW of Estacion de Cebollar on Hwy. 21 towards Ollaguee along Salar de Ascotan	primary	matK	-21.4998	-68.3947	0.0027347088235567
+Deschampsia_cespitosa	KX873392.1	16-OCT-2017	881	USA: California, Siskiyou Co., Southern end of Taylor Lake, Russian Wilderness	primary	matK	41.3583	-122.9669	0.00134817561600125
+Deschampsia_cespitosa	MF597316.1	17-JUL-2018	780	Canada: British Columbia, Queen Charlotte Islands, Graham Island, along Tlell River adjacent to Naikoon Provincial Park along Hwy. 16.	primary	matK	53.582	-131.944	0.0025746431787191
+Deschampsia_cespitosa	MF597315.1	17-JUL-2018	819	Canada: British Columbia, Queen Charlotte Island, Graham Island, 28 km N/ NW of Queen Charlotte City along Rennell Sound Forest Service Road.	primary	matK	53.355	-132.329	0.00142852381353703
+Deschampsia_cespitosa	MF597314.1	17-JUL-2018	777	Canada: British Columbia, Grant Narrows Regional Park, mouth of Pitt River, tidal flat along edge of river with Equisetum, Phalaris arundinaceae, Juncus sp., Scirpus sp	primary	matK	49.349	-122.618	0.00708160958005547
+Deschampsia_cespitosa	MF597313.1	17-JUL-2018	819	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Slatechuck Mountain. Rocky mountain ridge and associated grass/ sedge meadow, accessible only by hiking trail.	primary	matK	53.261	-132.238	0.00142852381353703
+Deschampsia_cespitosa	MF597312.1	17-JUL-2018	791	Canada: Saskatchewan, Cypress Hills, 18 mi E of Alberta border, E of Elk Water. Margin of small pond in standing water with Potamogeton, Eleocharis, and Ranunculus.	primary	matK	49.623	-109.68	0.00253359570998617
+Deschampsia_cespitosa	MG217010.1	24-JAN-2018	781	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Alvar, Emmett Lake Road, Bruce Peninsula National Park	primary	matK	45.199	-81.506	0.00126891949466896
+Deschampsia_cespitosa	KC474527.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Iqaluit, Roadside ditch near Nunavut Science Institute	primary	matK	63.75	-68.5167	0.00127410902071722
+Deschampsia_cespitosa	KC474526.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Koukdjuak Riv., Nikko Island in the Koukdjuak River. Abandoned fishing camp	primary	matK	66.3793225692686	-70.0360915042526	0.00127410902071722
+Deschampsia_cespitosa	KC474525.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Koukdjuak Riv., Nikko Island	primary	matK	66.8920480459834	-70.8907214921872	0.00127410902071722
+Deschampsia_cespitosa	KC474524.1	25-OCT-2013	774	Canada: Northwest Territories, Mainland Northwest Territories, Nettilling Lake Burwash Bay	primary	matK	65.95	-71.3	0.00127410902071722
+Deschampsia_cespitosa	KC474523.1	25-OCT-2013	764	Canada: Nunavut, Baffin Island, Apex, Plant growing at back of Iqaluit lab	primary	matK	62.9747391234735	-67.7713679212432	0.00128125744905273
+Deschampsia_cespitosa	KC474522.1	25-OCT-2013	774	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq. Between Plots 3 and 4. On east side of N-S road, to east of north shore of lake	primary	matK	56.597	-79.217	0.00127410902071722
+Deschampsia_cespitosa	KC474521.1	25-OCT-2013	774	Canada: Northwest Territories, Anderson River, Cape Bathurst E side, brook system N of river from Lake Mc kinlay, 0.7 - 1.5 km from sea	primary	matK	70.4833	-127.8	0.00127410902071722
+Deschampsia_cespitosa	KC474520.1	25-OCT-2013	681	Canada: Yukon Territory, Ivvavik National Park, Sheep Creek Beside air strip North Yukon National Park	primary	matK	69.1667	-140.083	0.00114941872977265
+Deschampsia_cespitosa	KC474519.1	25-OCT-2013	774	Canada: Nunavut, Victoria Island, WASHBURN LAKE Northwestern end of lake. Site 80	primary	matK	70.0833	-107.933	0.00127410902071722
+Deschampsia_cespitosa	KC474518.1	25-OCT-2013	765	Canada: Nunavut, Baffin Island, Iqaluit, Frobisher Bay. Behind large diesel oil storage tank	primary	matK	64.1985210503736	-67.0295041207731	0.00128052546908463
+Deschampsia_cespitosa	KC474517.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Cape Dorset, Near the Nascopie Building	primary	matK	64.2333	-76.5417	0.00127410902071722
+Deschampsia_cespitosa	KC474516.1	25-OCT-2013	774	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, Mould Bay Peninsula, East side, ~11 km E of Mould Bay	primary	matK	76.2333	-118.95	0.00127410902071722
+Deschampsia_cespitosa	KC474515.1	25-OCT-2013	774	Canada: Northwest Territories, Pelly Island, Pelly Island	primary	matK	69.5667	-135.567	0.00127410902071722
+Deschampsia_cespitosa	KC474514.1	25-OCT-2013	773	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Danny C. Gordon's goose camp	primary	matK	68.895	-136.961	0.00127538899709568
+Deschampsia_cespitosa	KC474513.1	25-OCT-2013	774	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. South shore of island, South Camp	primary	matK	55.989	-79.733	0.00127410902071722
+Deschampsia_cespitosa	KC474512.1	25-OCT-2013	777	Canada: Yukon Territory, Ivvavik National Park, Buckland Hills	primary	matK	69.25	-139.38	0.00127210241958297
+Deschampsia_cespitosa	KC474511.1	25-OCT-2013	757	Canada: Northwest Territories, Mackenzie River Delta, Oniak Channel	primary	matK	68.4	-134.16	0.00259846864298127
+Deschampsia_cespitosa	KC474510.1	25-OCT-2013	774	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. East shore of Kihlbay, tundra west of cabins	primary	matK	56.442	-78.956	0.00127410902071722
+Deschampsia_cespitosa	KC474509.1	25-OCT-2013	777	Canada: Nunavut, Hudsons Bay, Belcher Islands, Sanikiluaq, east side of hamlet along coast	primary	matK	56.594	-79.253	0.00127210241958297
+Deschampsia_cespitosa	KC474508.1	25-OCT-2013	713	Canada: Northwest Territories, Inuvialuit Region, Illisarvik Drained thermocast lake, Experimental Lake	primary	matK	69.4833	-134.617	0.00134388431113837
+Deschampsia_cespitosa	KC474507.1	25-OCT-2013	774	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. South shore of island, 1/2 km E of Upingavialuq	primary	matK	55.889	-79.9	0.00127410902071722
+Deschampsia_cespitosa	JN966256.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	matK	58.626	-94.23	0.00127210241958297
+Deschampsia_cespitosa	JN966255.1	27-OCT-2012	737	Canada: Manitoba	primary	matK	58.734	-94.112	0.00113441494647813
+Deschampsia_cespitosa	JN966254.1	27-OCT-2012	737	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Roadside	primary	matK	58.75	-94.11	0.00113441494647813
+Deschampsia_cespitosa	JN894900.1	07-MAR-2012	829	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.15	0.00233916573205611
+Deschampsia_cespitosa	MN450938.1	30-NOV-2021	785	China	secondary	matK	34.6874772955926	105.334244375757	0.00119296202113921
+Deschampsia_cespitosa	MN450937.1	30-NOV-2021	785	China	secondary	matK	34.2697492545784	104.902969603619	0.00119296202113921
+Deschampsia_cespitosa	MW719312.1	04-SEP-2021	892	Brazil	secondary	matK	-10.3333333	-53.2	0.00139800975235516
+Deschampsia_cespitosa	LR606876.1	25-JAN-2021	2041	Germany	secondary	matK	31.4399019	-95.350778	0.00620024366451467
+Deschampsia_cespitosa	MT433192.1	31-MAY-2020	1134	Norway	secondary	matK	64.5731537	11.5280364	0.0024370869458396
+Deschampsia_cespitosa	KJ529352.1	22-FEB-2015	969	Spain	secondary	matK	39.3260685	-4.8379791	0.0308617367299426
+Deschampsia_cespitosa	KT280197.1	01-AUG-2016	738	China: Maqu Gansu	secondary	matK	34.6137382	102.4654149	0.00128329024977248
+Deschampsia_cespitosa	KJ204467.1	29-JAN-2015	830	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.0022979525674037
+Deschampsia_cespitosa	JN895034.1	07-MAR-2012	793	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00231024056719115

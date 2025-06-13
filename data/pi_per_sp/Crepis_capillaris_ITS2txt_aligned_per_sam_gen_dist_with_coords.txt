@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crepis_capillaris	AJ876604.1	20-JAN-2005	242	Switzerland	secondary	ITS2	46.1413356742848	7.85863735818315	0.0797689622555239
+Crepis_capillaris	AJ876603.1	20-JAN-2005	245	Switzerland	secondary	ITS2	46.6488016640818	7.91124080691107	0.032906160390873
+Crepis_capillaris	AJ876602.1	20-JAN-2005	245	Switzerland	secondary	ITS2	46.9590689008164	7.12659331411048	0.0659138379480864
+Crepis_capillaris	AJ633381.1	13-DEC-2004	643	Austria:Tirol	secondary	ITS2	47.223193	11.5261028	0.0362559217098974
+Crepis_capillaris	AJ633353.1	13-DEC-2004	644	France:Pyrenees	secondary	ITS2	48.8738565	2.3852638	0.0349665394683266

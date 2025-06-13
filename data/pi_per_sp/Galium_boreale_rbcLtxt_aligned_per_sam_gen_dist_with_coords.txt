@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_boreale	OR738001.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.00101727151572786
+Galium_boreale	OR508843.1	17-OCT-2023	570	Kazakhstan: Qaragandy region	primary	rbcL	49.43775	75.48958	0.000934389562708259
+Galium_boreale	MG224558.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	47.906	-101.306	0.00101897400685136
+Galium_boreale	MG224501.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	48.454	-101.592	0.00101897400685136
+Galium_boreale	MG222440.1	26-DEC-2017	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Sassafras Point	primary	rbcL	43.271	-79.9058	0.00101897400685136
+Galium_boreale	KX677820.1	29-APR-2017	547	Canada: British Columbia, East Kootenay Regional District, Dry Gulch Provincial Park	primary	rbcL	50.5862	-116.035	0.0010260091035613
+Galium_boreale	HQ590109.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Fence line 100 N of Willow Ridge	primary	rbcL	44.024	-79.537	0.00324889143916756
+Galium_boreale	KJ841335.1	04-NOV-2014	513	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 100 m west of Yellow Trail	primary	rbcL	45.543	-73.16	0.0010387811634349
+Galium_boreale	JN890592.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.88	-3.75	0.00101727151572786
+Galium_boreale	MT931547.1	03-MAR-2023	568	China	secondary	rbcL	34.7157820254463	104.519077536411	0.000946802754436421
+Galium_boreale	MT931546.1	03-MAR-2023	579	China	secondary	rbcL	34.4036332675409	105.638861990178	0.00292210637888078
+Galium_boreale	MN204935.1	30-NOV-2021	648	China	secondary	rbcL	34.5162806930701	104.078491976274	0.00115194438044246
+Galium_boreale	MN192657.1	30-NOV-2021	723	China	secondary	rbcL	35.3199352244565	105.14323296587	0.00101973856679361
+Galium_boreale	MN601450.1	15-DEC-2019	1430	USA	secondary	rbcL	39.7837304	-100.445882	0.00101930082821322
+Galium_boreale	MK028113.1	17-DEC-2018	731	India: Kashmir, Chhachos Pass	secondary	rbcL	26.2644203	71.6027498	0.00168469327200679
+Galium_boreale	MK028098.1	17-DEC-2018	723	Switzerland: Geneva, Bot. Garden	secondary	rbcL	46.2047169	6.14231062909393	0.0143803545188012
+Galium_boreale	MG222166.1	26-DEC-2017	552	Canada: Yukon Territory	secondary	rbcL	63.000147	-136.002502	0.00101897400685136
+Galium_boreale	JX848534.1	06-AUG-2013	1389	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.00334403847847432
+Galium_boreale	JN893405.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00258164666874576
+Galium_boreale	JN893136.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0.00101727151572786

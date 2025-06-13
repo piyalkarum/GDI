@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eriophorum_vaginatum	MZ400468.1	07-DEC-2021	814	Sweden: Latnjavagge	primary	matK	68.35	18.49	0
+Eriophorum_vaginatum	KC474774.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of small round lake NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.299	-116.487	0
+Eriophorum_vaginatum	KC474773.1	25-OCT-2013	736	Canada: Nunavut, Victoria Island, Johansen Bay, Large unnamed lake, ca. 18 km ENE of Johansen Bay airstrip	primary	matK	68.767	-110.819	0
+Eriophorum_vaginatum	JN895096.1	07-MAR-2012	814	United Kingdom: Glamorgan	primary	matK	51.71	-3.56	0
+Eriophorum_vaginatum	MK191069.1	11-DEC-2019	1288	Canada: Northwest Territories	secondary	matK	65.0000004	-118	7.7639751552795e-05
+Eriophorum_vaginatum	KU496598.1	31-JAN-2017	813	Canada: Quebec, Schefferville region	secondary	matK	46.8137431	-71.2084061	0
+Eriophorum_vaginatum	KJ513615.1	06-SEP-2014	1289	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.000155219270559777
+Eriophorum_vaginatum	KJ513614.1	06-SEP-2014	1289	Canada	secondary	matK	61.0666922	-107.991707	7.75795190069822e-05
+Eriophorum_vaginatum	KJ513613.1	06-SEP-2014	766	USA	secondary	matK	39.7837304	-100.445882	0
+Eriophorum_vaginatum	JN895199.1	07-MAR-2012	771	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Eriophorum_vaginatum	JN895041.1	07-MAR-2012	764	United Kingdom: Breconshire (42)	secondary	matK	52.9875065	-1.1773256	0

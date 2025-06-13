@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_durieui	HE649526.1	04-FEB-2013	616	Algeria	secondary	5.8S rRNA	28.0000272	2.9999825	0
+Gagea_durieui	HE649525.1	04-FEB-2013	616	Spain	secondary	5.8S rRNA	38.8406305308873	-5.21009339118445	0
+Gagea_durieui	HE649524.1	04-FEB-2013	616	Spain	secondary	5.8S rRNA	39.9281022745484	-4.62339730862927	0
+Gagea_durieui	HE649523.1	04-FEB-2013	616	Morocco	secondary	5.8S rRNA	28.3347722	-10.3713379	0

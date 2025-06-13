@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Capsella_bursa-pastoris	HE575230.1	27-FEB-2012	703	Bulgaria:Tracian Plain, Kurtova Konare	primary	trnL-trnF	42.05	24.3	0.0423738547308341
+Capsella_bursa-pastoris	HE575229.1	27-FEB-2012	703	Bulgaria:Sozopol	primary	trnL-trnF	42.26	27.42	0.0423738547308341
+Capsella_bursa-pastoris	HE575228.1	27-FEB-2012	703	Bulgaria:Sozopol	primary	trnL-trnF	42.25	27.42	0.0423738547308341
+Capsella_bursa-pastoris	FR822343.1	12-FEB-2012	703	Turkey:Prov. Antalya, Taurus Mts., Bey Daglari massif	primary	trnL-trnF	36.52	30.15	0.0423738547308341
+Capsella_bursa-pastoris	FR822342.1	12-FEB-2012	703	Russia:Novosibirskaya Oblast, near Novosibirsk	primary	trnL-trnF	52.2	82.54	0.0423738547308341
+Capsella_bursa-pastoris	FR822341.1	12-FEB-2012	703	Germany:North Rhine-Westphalia, north of Muenster	primary	trnL-trnF	52.19	7.56	0.0423738547308341
+Capsella_bursa-pastoris	KJ623454.1	10-JUN-2014	588	China	secondary	trnL-trnF	34.9777580146595	104.990828181032	0.294623348045253
+Capsella_bursa-pastoris	KJ623453.1	10-JUN-2014	760	China	secondary	trnL-trnF	34.9096406770745	104.712119143129	0.0428187484145664

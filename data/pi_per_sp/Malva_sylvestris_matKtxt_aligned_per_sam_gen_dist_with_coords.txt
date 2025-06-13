@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Malva_sylvestris	MH078524.1	29-MAY-2018	798	Ecuador	primary	matK	-1.60781	-78.6448	0
+Malva_sylvestris	JN895788.1	07-MAR-2012	828	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.31	0.000291970802919708
+Malva_sylvestris	MH997995.1	08-MAY-2019	694	Pakistan	secondary	matK	30.3308401	71.247499	0.000874706050974781
+Malva_sylvestris	KJ204507.1	29-JAN-2015	819	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.000288184438040346
+Malva_sylvestris	JN894572.1	07-MAR-2012	822	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000294550810014728
+Malva_sylvestris	JN894339.1	07-MAR-2012	807	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0

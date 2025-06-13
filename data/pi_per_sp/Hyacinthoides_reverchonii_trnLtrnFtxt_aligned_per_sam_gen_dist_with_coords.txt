@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hyacinthoides_reverchonii	FJ423237.1	31-OCT-2009	957	Spain: Jaen	secondary	trnL-trnF	38.3775320265346	-2.64420658529625	0
+Hyacinthoides_reverchonii	FJ423236.1	31-OCT-2009	957	Spain: Jaen	secondary	trnL-trnF	37.2945398059987	-2.92553390967774	0
+Hyacinthoides_reverchonii	FJ423235.1	31-OCT-2009	957	Spain: Jaen	secondary	trnL-trnF	37.9963325610413	-2.57627095173775	0
+Hyacinthoides_reverchonii	FJ423234.1	31-OCT-2009	957	Spain: Jaen	secondary	trnL-trnF	38.4204528315726	-4.30349717078601	0

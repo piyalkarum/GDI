@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Medicago_arabica	KX678917.1	29-APR-2017	552	Canada: British Columbia, Capital Regional District, Metchosin, Pedder Bay, old RV site above boat harbour	primary	rbcL	48.348	-123.573	0.00186387101896509
+Medicago_arabica	AB851490.1	07-SEP-2013	763	Japan:Shiga, Nagahama	primary	rbcL	35.36	136.29	0.000970781009342432
+Medicago_arabica	JN892937.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.58	-2.88	0.000369685767097967
+Medicago_arabica	HM850163.1	23-JUL-2011	691	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000962235948387664
+Medicago_arabica	JN890608.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.6561050255011	-4.09492131617261	0.000369685767097967
+Medicago_arabica	JN890602.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.448502263688	-3.56911811952631	0.000369685767097967

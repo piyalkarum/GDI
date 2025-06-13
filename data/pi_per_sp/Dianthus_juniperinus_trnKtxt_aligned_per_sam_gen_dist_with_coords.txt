@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_juniperinus	OU877909.1	17-JUN-2022	1299	Greece:Crete, Nomos Irakliou, Esparchia Pirgiotissis, Kamares, Majiros-Schlucht	secondary	trnK	34.7586856284342	24.652243462	0.204567074015721
+Dianthus_juniperinus	OU877872.1	17-JUN-2022	2361	Greece:Crete, Nomos Chanion, Eparchia Kidonias, Kakiskala	secondary	trnK	34.7588756141825	24.4241530611386	0.223348841942547
+Dianthus_juniperinus	OU877871.1	17-JUN-2022	2417	Greece:Kreta, Ostkreta, nahe Adrianos (westl. Ag. Nikolaos)	secondary	trnK	35.4029523524221	23.6838062354782	0.22178724710704
+Dianthus_juniperinus	OU877854.1	17-JUN-2022	2413	Greece:Crete, Temenos (Eparchia), summit of Mount Giouhtas W. of Arhanes	secondary	trnK	35.715352793926	23.6664632311088	0.220871137796802
+Dianthus_juniperinus	OU877750.1	17-JUN-2022	2415	Greece:Ep. Pedhias, Dhikti Oros, Schlucht von Xeniakos W des Berges Majerefta	secondary	trnK	36.8266574002562	23.3681937135397	0.223089064665502
+Dianthus_juniperinus	OU860251.1	17-JUN-2022	255	Greece:Ep. Pedhias, Dhikti Oros, Schlucht von Xeniakos W des Berges Majerefta.	secondary	trnK	37.3811534636287	23.1310046485603	0.362355597123633
+Dianthus_juniperinus	OU860250.1	17-JUN-2022	249	Greece:Kreta, Ostkreta, nahe Adrianos (westl. Ag. Nikolaos)	secondary	trnK	34.6661572319365	23.8637054839256	0.362929320588923
+Dianthus_juniperinus	OU860223.1	17-JUN-2022	255	Greece:Crete, Temenos (Eparchia), summit of Mount Giouhtas W. of Arhanes	secondary	trnK	35.3687835325926	23.4010822674655	0.362355597123633

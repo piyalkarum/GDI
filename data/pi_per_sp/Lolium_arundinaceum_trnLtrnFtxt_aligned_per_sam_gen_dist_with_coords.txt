@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lolium_arundinaceum	LR217981.1	30-JUL-2021	954	Germany	primary	trnL-trnF	51.3394	11.1756	0.00430677800346047
+Lolium_arundinaceum	GU573744.1	13-JAN-2012	822	Spain: Ferrol, Ponzos	secondary	trnL-trnF	43.5565424	-8.2626443	0.0043158382574441
+Lolium_arundinaceum	EF378959.1	31-JAN-2008	844	France	secondary	trnL-trnF	46.603354	1.8883335	0.00608804691291985
+Lolium_arundinaceum	EF378958.1	31-JAN-2008	844	Spain: Huesca, Benabarre	secondary	trnL-trnF	42.1063137	0.4820182	0.00430677800346047
+Lolium_arundinaceum	EF378954.1	31-JAN-2008	844	Spain: La Coruna, A Torre	secondary	trnL-trnF	42.9338368	-8.4620816	0.00430677800346047
+Lolium_arundinaceum	EF378953.1	31-JAN-2008	685	Venezuela	secondary	trnL-trnF	8.0018709	-66.1109318	0.0273463863443179
+Lolium_arundinaceum	KF591221.1	27-OCT-2013	584	New Zealand	secondary	trnL-trnF	-41.5000831	172.8344077	0.00311915159076731
+Lolium_arundinaceum	JQ972973.1	31-MAR-2013	843	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.00430717957408349

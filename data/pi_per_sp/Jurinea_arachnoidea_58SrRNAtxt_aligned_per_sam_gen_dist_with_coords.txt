@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jurinea_arachnoidea	LS992569.1	30-NOV-2018	585	Russia:Dagestan	secondary	5.8S rRNA	43	47	0.00686506062037474
+Jurinea_arachnoidea	LT855180.1	10-JAN-2018	593	Russia	secondary	5.8S rRNA	64.6863136	97.7453061	0.00567869076137095
+Jurinea_arachnoidea	LT855145.1	10-JAN-2018	589	Macedonia	secondary	5.8S rRNA	41.1927739	-95.4256198	0.00909002205179244
+Jurinea_arachnoidea	LT855144.1	10-JAN-2018	593	Ukraine	secondary	5.8S rRNA	49.4871968	31.2718321	0.00567869076137095

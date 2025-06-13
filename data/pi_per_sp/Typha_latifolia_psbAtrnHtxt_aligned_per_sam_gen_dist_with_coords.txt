@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Typha_latifolia	MF348341.1	21-SEP-2017	706	USA: Virginia; Daingerfield Island Marina along the abandoned greenhouse and marshy field	primary	psbA-trnH	38.826	-77.04	0.00249361409364044
+Typha_latifolia	MZ905385.1	19-JUN-2022	646	Mexico	secondary	psbA-trnH	19.4326296	-99.1331785	0.00567995456036352
+Typha_latifolia	LC577847.1	03-MAR-2021	705	Japan:Aichi, Nisshin	secondary	psbA-trnH	35.139303	137.053708	0.00447523228324812
+Typha_latifolia	KC584959.1	04-JUN-2013	751	Italy: Umbria	secondary	psbA-trnH	42.965916	12.490236	0.00249361409364044

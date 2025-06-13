@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arenaria_norvegica	MK925354.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3136196614621	-2.8927290841864	0
+Arenaria_norvegica	MK924787.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0
+Arenaria_norvegica	MK924720.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3776547646766	-4.72628998701631	0
+Arenaria_norvegica	MK924461.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7376108046014	-2.40866303129021	0
+Arenaria_norvegica	MK924425.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0490976077546	-3.53631368013098	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stuckenia_pectinata	KX676640.1	09-AUG-2017	766	Canada: British Columbia, Thompson-Nicola Regional District, Shea Lake Forest Recreation Site	primary	matK	49.9024	-120.736	0.00584751418084751
+Stuckenia_pectinata	KC475957.1	25-OCT-2013	592	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Bill Storr Channel	primary	matK	68.86	-136.813	0.0140013183915623
+Stuckenia_pectinata	JN894668.1	07-MAR-2012	800	United Kingdom: Glamorgan	primary	matK	51.49	-3.27	0.00596140420863668
+Stuckenia_pectinata	MK353610.1	27-JAN-2021	555	Russia	secondary	matK	64.6863136	97.7453061	0.0106505007304011
+Stuckenia_pectinata	MG217014.1	24-JAN-2018	787	Canada: Ontario, Rouge National Urban Park, Sector 7	secondary	matK	43.72634945	-77.7101179040839	0.00583236610843973
+Stuckenia_pectinata	JN894268.1	07-MAR-2012	755	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00603492486794195

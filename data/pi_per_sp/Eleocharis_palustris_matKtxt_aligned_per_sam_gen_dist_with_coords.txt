@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eleocharis_palustris	KX676809.1	09-AUG-2017	740	Canada: British Columbia, Greater Vancouver Regional District, Pitt Lake boat launch	primary	matK	49.349	-122.616	0.00212314027800884
+Eleocharis_palustris	JN966276.1	27-OCT-2012	659	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	matK	58.772	-94.163	0.00272137278950922
+Eleocharis_palustris	MW575604.1	24-MAR-2021	1006	Pakistan	secondary	matK	30.3308401	71.247499	0.00214839160803104
+Eleocharis_palustris	LT900076.1	12-AUG-2019	1290	Germany	secondary	matK	40.4203479	-79.1166983	0.00209309376956734
+Eleocharis_palustris	HM850943.1	23-JUL-2011	740	Portugal	secondary	matK	39.6621648	-8.1353519	0.00506591431103794
+Eleocharis_palustris	JN896106.1	07-MAR-2012	613	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00601336709600448

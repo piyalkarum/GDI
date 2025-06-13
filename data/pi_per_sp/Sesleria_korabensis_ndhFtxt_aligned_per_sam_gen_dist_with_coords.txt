@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sesleria_korabensis	KY910563.1	02-MAY-2018	1784	Kosovo	secondary	ndhF	43.2215051718623	20.2086118968196	0
+Sesleria_korabensis	KY910562.1	02-MAY-2018	1784	Kosovo	secondary	ndhF	42.2661948385673	21.8173077282764	0
+Sesleria_korabensis	KY910561.1	02-MAY-2018	1784	Kosovo	secondary	ndhF	42.8886142832602	21.8812458318399	0
+Sesleria_korabensis	KY910560.1	02-MAY-2018	1784	Macedonia	secondary	ndhF	40.7920224181511	-94.9316863187306	0
+Sesleria_korabensis	KY910559.1	02-MAY-2018	1785	Macedonia	secondary	ndhF	40.8463012166123	-96.14048568345	0

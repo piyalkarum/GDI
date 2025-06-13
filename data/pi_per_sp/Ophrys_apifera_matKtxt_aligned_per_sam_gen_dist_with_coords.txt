@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ophrys_apifera	JN893962.1	07-MAR-2012	805	United Kingdom	primary	matK	53.19	-4.46	0
+Ophrys_apifera	HE858505.1	07-JAN-2013	865	United Kingdom:N. Somerset	secondary	matK	50.6170249649459	-2.72961533783371	0
+Ophrys_apifera	HE858504.1	07-JAN-2013	865	United Kingdom:N. Somerset	secondary	matK	51.719997459685	-3.48302910192886	0
+Ophrys_apifera	HE858503.1	07-JAN-2013	865	United Kingdom:N. Somerset	secondary	matK	51.4771642235021	-1.60926782724391	0
+Ophrys_apifera	HE858502.1	07-JAN-2013	865	United Kingdom:N. Somerset	secondary	matK	50.8152475823919	-2.76171480477831	0
+Ophrys_apifera	HE858501.1	07-JAN-2013	865	United Kingdom:N. Somerset	secondary	matK	51.1736304991963	-1.72892998863688	0

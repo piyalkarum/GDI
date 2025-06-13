@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agropyron_cristatum	OR626659.1	05-NOV-2023	679	Kazakhstan: Qaragandy region	primary	psbA-trnH	49.48573	75.41885	0.00913790323235148
+Agropyron_cristatum	OQ832219.1	15-AUG-2023	626	USA: American Prairie, near Enrico	primary	psbA-trnH	47.7449	-107.7757	0.00196441656652109
+Agropyron_cristatum	KJ529132.1	22-FEB-2015	545	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0.00367310763178086
+Agropyron_cristatum	HQ652837.1	14-AUG-2011	680	China	secondary	psbA-trnH	35.8241449711641	104.579500543219	0.0021421204060583
+Agropyron_cristatum	HQ652793.1	14-AUG-2011	676	China	secondary	psbA-trnH	34.5662515912457	105.56760465735	0.00215206461128504
+Agropyron_cristatum	HQ652792.1	14-AUG-2011	677	China	secondary	psbA-trnH	34.2678901362632	104.622164222104	0.00214873955549727

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_pusillus	KX273125.2	04-FEB-2017	401	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.000831255195344971
+Potamogeton_pusillus	EF432099.1	28-FEB-2008	406	China	secondary	trnL-trnF	34.521987630998	104.339007412022	0.00247329132013972
+Potamogeton_pusillus	EF432096.1	28-FEB-2008	406	China	secondary	trnL-trnF	35.4366583837482	105.279626494309	0.000821018062397373
+Potamogeton_pusillus	EF432075.1	28-FEB-2008	406	China	secondary	trnL-trnF	34.4445372762297	104.889823679158	0.000821018062397373

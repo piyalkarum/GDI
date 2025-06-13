@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Prunella_vulgaris	OR738262.1	13-NOV-2023	698	Kazakhstan: East Kazakhstan region	primary	matK	50.26611	83.22889	0.221560736661368
+Prunella_vulgaris	KX676737.1	09-AUG-2017	783	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, near small runoff/creek area	primary	matK	49.454	-120.996	0.012496575128713
+Prunella_vulgaris	KP643181.1	08-DEC-2015	722	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.7370784579489	-77.2808885154887	0.0125011381596493
+Prunella_vulgaris	KP643177.1	08-DEC-2015	713	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	39.4959110098888	-77.3972838588146	0.0164577836168075
+Prunella_vulgaris	MG225013.1	21-JAN-2018	800	Canada: Ontario, Nipissing District, Mattawa	primary	matK	46.3178	-78.7057	0.110761686696776
+Prunella_vulgaris	MG224888.1	21-JAN-2018	788	Canada: Quebec, Montreal, Island of Montreal, Parc Beausejour	primary	matK	45.527	-73.734	0.0126699634157858
+Prunella_vulgaris	KP402374.1	06-JAN-2016	704	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H8	primary	matK	38.6401422630961	-76.7171169232079	0.0134820063414468
+Prunella_vulgaris	KP402285.1	06-JAN-2016	679	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H8	primary	matK	39.4936176825967	-76.3761661306141	0.0128175070585654
+Prunella_vulgaris	KJ593074.1	17-MAR-2015	773	USA: Wisconsin, Laona	primary	matK	45.553	-88.795	0.0128591209868447
+Prunella_vulgaris	KJ593073.1	17-MAR-2015	752	USA: Wisconsin, Laona	primary	matK	45.564	-88.799	0.0128809899455346
+Prunella_vulgaris	OQ290359.1	16-MAY-2023	783	Mexico: Puebla	secondary	matK	18.9388157781888	-98.1525888181639	0.0124892400678808
+Prunella_vulgaris	OQ290240.1	16-MAY-2023	789	Mexico: Puebla	secondary	matK	19.3651528546328	-99.0980751227436	0.0125057340629586
+Prunella_vulgaris	OQ289609.1	16-MAY-2023	799	Mexico: Puebla	secondary	matK	18.622220174458	-98.431304978282	0.0124999752023915
+Prunella_vulgaris	MN433403.1	30-NOV-2021	780	China	secondary	matK	35.7550345943027	105.532022336092	0.0128863573663776
+Prunella_vulgaris	MH116792.1	17-AUG-2018	698	China	secondary	matK	34.9537141991658	104.516135900006	0.0124588488773801
+Prunella_vulgaris	MH116791.1	17-AUG-2018	649	China	secondary	matK	35.3270129185345	105.502010342112	0.012614282035186
+Prunella_vulgaris	MH116790.1	17-AUG-2018	698	China	secondary	matK	34.724744872965	104.210016990152	0.0124588488773801
+Prunella_vulgaris	AB817865.1	17-APR-2014	542	South Korea: Incheon, Ongjin-gun, Bukdo-myeon, Jangbong-ri	secondary	matK	37.456	126.7052	0.012436791034577
+Prunella_vulgaris	AB817863.1	17-APR-2014	542	South Korea: Gangwon-do, Taebaek-si, Changjuk-dong	secondary	matK	37.2624434	128.9609235	0.012436791034577
+Prunella_vulgaris	AB817862.1	17-APR-2014	542	South Korea: Jeollanam-do, Sinan-gun, Heuksan-myeon	secondary	matK	34.69409	125.42259	0.012436791034577
+Prunella_vulgaris	AB817859.1	17-APR-2014	542	South Korea: Gangwon-do, Yanggu-gun	secondary	matK	38.1096812	127.9900596	0.012436791034577
+Prunella_vulgaris	AB817858.1	17-APR-2014	542	South Korea: Gangwon-do, Hoengseong-gun	secondary	matK	37.4916	127.985	0.012436791034577
+Prunella_vulgaris	AB817856.1	17-APR-2014	542	South Korea: Jeollanam-do, Gwangyang-si, Ongnyong-myeon	secondary	matK	35.02819	127.61481	0.012436791034577
+Prunella_vulgaris	AB817854.1	17-APR-2014	542	South Korea: Gangwon-do, Jeongseon-gun, Nam-myeon	secondary	matK	37.2835	128.72975	0.012436791034577
+Prunella_vulgaris	HM850805.1	23-JUL-2011	807	Portugal	secondary	matK	39.6621648	-8.1353519	0.0151092916978091
+Prunella_vulgaris	AB817866.1	17-APR-2014	542	South Korea	secondary	matK	37.7525313	128.8759523	0.012436791034577
+Prunella_vulgaris	AB817857.1	17-APR-2014	542	South Korea	secondary	matK	33.4930566	126.5130589	0.012436791034577
+Prunella_vulgaris	AB817855.1	17-APR-2014	542	South Korea	secondary	matK	36.805685	128.624054	0.012436791034577

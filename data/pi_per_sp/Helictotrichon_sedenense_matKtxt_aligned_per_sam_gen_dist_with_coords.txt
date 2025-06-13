@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helictotrichon_sedenense	LR606910.1	25-JAN-2021	2093	France	secondary	matK	46.9157861174448	3.03948500447371	0.0101578676654841
+Helictotrichon_sedenense	MF999108.1	09-DEC-2017	1808	France	secondary	matK	45.7668180799452	1.72132795733145	NA
+Helictotrichon_sedenense	LT159681.1	16-FEB-2018	773	Spain	secondary	matK	39.3260685	-4.8379791	NA
+Helictotrichon_sedenense	KM095630.1	29-OCT-2014	671	Spain: Asturias	secondary	matK	43.3133868	-5.94192	NA
+Helictotrichon_sedenense	HG797444.1	26-SEP-2014	773	France	secondary	matK	46.2804032812912	2.91126702194135	NA
+Helictotrichon_sedenense	FM957004.1	08-FEB-2009	2052	France	secondary	matK	46.6089427759802	1.53731007779977	0.0101682914873918

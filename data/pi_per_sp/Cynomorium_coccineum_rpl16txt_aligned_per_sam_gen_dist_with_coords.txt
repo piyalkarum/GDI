@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cynomorium_coccineum	MH594837.1	30-APR-2019	320	Italy: Sicily	secondary	rpl16	37.587794	14.155048	0.00647054831704669
+Cynomorium_coccineum	MH594832.1	30-APR-2019	320	Iran: Mazandaran	secondary	rpl16	35.4560808231866	52.066012065998	0.00862470071549876
+Cynomorium_coccineum	MH594831.1	30-APR-2019	307	Iran: Mazandaran	secondary	rpl16	36.4999204866386	52.3796758856032	0.0174806381911904
+Cynomorium_coccineum	MH594830.1	30-APR-2019	312	Iran: Mazandaran	secondary	rpl16	36.9932417304424	51.284506950026	0.00660547462873044

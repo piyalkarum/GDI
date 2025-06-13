@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chelidonium_majus	OR738022.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.25278	83.335	0.0234920634920635
+Chelidonium_majus	OR737998.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.0234920634920635
+Chelidonium_majus	MG249465.1	21-JAN-2018	552	Canada: Ontario, Hamilton-Wentworth, Dundas, Rock Chapel West	primary	rbcL	43.2755	-79.9653	0.0247201492537313
+Chelidonium_majus	HQ590028.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., N side of driveway to Dufferin, W of flower bed	primary	rbcL	44.036	-79.518	0.0302346258586351
+Chelidonium_majus	KJ841230.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Rock outcrops near staff parking lot	primary	rbcL	45.538	-73.156	0.0253480534205603
+Chelidonium_majus	JN892464.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.2	0.0234920634920635
+Chelidonium_majus	MT931853.1	03-MAR-2023	569	China	secondary	rbcL	34.3830379108748	105.175826693912	0.0249380421313507
+Chelidonium_majus	MH713902.1	01-SEP-2020	571	China: Hebei	secondary	rbcL	39.2772675262654	115.561115100138	0.0249380421313507
+Chelidonium_majus	MH657734.1	01-AUG-2020	568	China: Hebei	secondary	rbcL	38.5607833007917	116.396005137776	0.0249380421313507
+Chelidonium_majus	JX087694.1	04-JUL-2013	1395	China	secondary	rbcL	35.4913294068496	105.507450699405	0.0175154497316315
+Chelidonium_majus	HM849887.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.289489379656286
+Chelidonium_majus	JN892811.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0234920634920635
+Chelidonium_majus	JN892769.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0234920634920635

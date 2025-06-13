@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scorzoneroides_autumnalis	MG224939.1	21-JAN-2018	800	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay, pres du chemin de fer	primary	matK	45.514	-73.735	0.00308716450766235
+Scorzoneroides_autumnalis	KJ841008.1	23-SEP-2014	769	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Edge of road between Gault House and park entrance	primary	matK	45.54	-73.154	0.00436817950969978
+Scorzoneroides_autumnalis	JN894632.1	07-MAR-2012	957	United Kingdom: Cardiganshire	primary	matK	52.41	-3.84	0.00300528607599836
+Scorzoneroides_autumnalis	JN894224.1	07-MAR-2012	791	United Kingdom: Shetland (112)	primary	matK	60.4	-1.38	0.00293176314963455
+Scorzoneroides_autumnalis	KT250017.1	09-AUG-2015	820	Germany	secondary	matK	40.4780813632506	-79.365482999262	0.00291973858251896
+Scorzoneroides_autumnalis	KT250016.1	09-AUG-2015	820	Germany	secondary	matK	40.6735127668647	-79.2825258474806	0.00291973858251896
+Scorzoneroides_autumnalis	KT250015.1	09-AUG-2015	820	Germany	secondary	matK	40.4814447973033	-80.085644254914	0.00291973858251896
+Scorzoneroides_autumnalis	JN894011.1	07-MAR-2012	915	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00304710400715961
+Scorzoneroides_autumnalis	JN894009.1	07-MAR-2012	742	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00300470994092465
+Scorzoneroides_autumnalis	AJ633220.1	10-OCT-2004	970	Germany	secondary	matK	40.2350992417274	-79.6571966860536	0.0140093605103701
+Scorzoneroides_autumnalis	AJ633222.1	10-OCT-2004	970	Germany	secondary	matK	52.1014143	8.0865168	0.0120824778824971

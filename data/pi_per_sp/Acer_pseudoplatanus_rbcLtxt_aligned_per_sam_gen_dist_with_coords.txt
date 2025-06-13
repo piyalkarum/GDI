@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Acer_pseudoplatanus	MZ676698.1	10-AUG-2022	577	United Kingdom: England, Durham, Houghall	primary	rbcL	54.7554	-1.5752	0.00139994572865019
+Acer_pseudoplatanus	MZ676687.1	10-AUG-2022	582	United Kingdom: England, Durham County	primary	rbcL	54.6939	-1.6109	0.00328312884063601
+Acer_pseudoplatanus	MK840581.1	13-MAY-2019	562	USA: New York, Oyster Bay, Theodore Roosevelt Memorial Park	primary	rbcL	41.0560115121752	-73.9444497243122	0.000362779773065619
+Acer_pseudoplatanus	MH193956.1	05-MAY-2018	444	USA: New York, Manorville, In the Robert Cushman Park in a stream in an inlet of the Peconic River in the Pine Barrens	primary	rbcL	40.88	-72.81	0.000112612612612613
+Acer_pseudoplatanus	MH231172.1	05-MAY-2018	544	USA: New York, Roslyn, At Theodore Roosevelt Memorial Park from the beach leading into the water	primary	rbcL	41.4175355557239	-73.7193182274096	9.43396226415094e-05
+Acer_pseudoplatanus	KX678132.1	29-APR-2017	551	Canada: British Columbia, Metro Vancouver Regional District, New Westminster, railroad tracks 100 m east of Bruenette Avenue, 200 m of Braid Street	primary	rbcL	49.229	-122.883	9.34579439252337e-05
+Acer_pseudoplatanus	MG247344.1	21-JAN-2018	519	Canada: Ontario, Toronto, City of, Queen's Park	secondary	rbcL	43.6596838	-79.3901923	9.63391136801541e-05
+Acer_pseudoplatanus	MG246865.1	21-JAN-2018	552	Canada: Ontario, Hamilton, City of, Hamilton, Town of Dundas, b/w Canadian National Railway and Hamilton Harbour below Harvey Park (Burlington Heights), W of Stuart St. railway yards	secondary	rbcL	43.72634945	-77.7101179040839	9.32835820895522e-05
+Acer_pseudoplatanus	KX162886.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.241842053689	-2.8854163928619	0.000781116152256704
+Acer_pseudoplatanus	KX162885.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.4823242215632	-2.30601085585785	0.000781116152256704
+Acer_pseudoplatanus	KX162884.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.5952630841382	-3.16380559630938	0.000781116152256704
+Acer_pseudoplatanus	KX162883.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.1575830637491	-4.14311619420479	0.000781116152256704
+Acer_pseudoplatanus	KX162882.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.2303160462681	-2.45932450649213	0.000781116152256704
+Acer_pseudoplatanus	KX162881.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.3857960312125	-2.85260770419719	0.000781116152256704
+Acer_pseudoplatanus	KX162880.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.2254114462113	-3.37340720487406	0.000781116152256704
+Acer_pseudoplatanus	KX162879.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.3345110185524	-2.8179396442607	0.000781116152256704
+Acer_pseudoplatanus	KX162878.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.3698998124212	-2.90308358159673	0.000781116152256704
+Acer_pseudoplatanus	KX162877.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.1985218197386	-4.16576371106754	0.000781116152256704
+Acer_pseudoplatanus	KJ204286.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	9.32835820895522e-05
+Acer_pseudoplatanus	HM849739.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00430191976294774
+Acer_pseudoplatanus	FN689357.1	19-MAR-2010	670	Italy:Latium	secondary	rbcL	41.9808038	12.7662312	0.00265870498197764

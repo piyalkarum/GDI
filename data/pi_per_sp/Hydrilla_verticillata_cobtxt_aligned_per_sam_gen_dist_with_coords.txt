@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hydrilla_verticillata	MN013325.1	07-DEC-2019	1147	Australia: Northern Territory, Katherine River	secondary	cob	-13.873328	132.790625	0.244674381676815
+Hydrilla_verticillata	MN013324.1	07-DEC-2019	1116	Australia: New South Wales, Mullumbimby, Yankee Creek	secondary	cob	-28.82345785	153.299685955468	0.24494617643389
+Hydrilla_verticillata	MN013323.1	07-DEC-2019	1094	Australia: New South Wales, Lismore, Rocky Creek Dam	secondary	cob	-28.6376199	153.3474737	0.245396723492005
+Hydrilla_verticillata	MN013322.1	07-DEC-2019	1144	Australia: New South Wales, Alstonville, Maguires Creek	secondary	cob	-28.8421515	153.4307025	0.244674381676815
+Hydrilla_verticillata	MN013320.1	07-DEC-2019	1083	Australia: Queensland, Kelso	secondary	cob	-19.3887125	146.7169015	0.244942420403814
+Hydrilla_verticillata	MN013317.1	07-DEC-2019	1081	Australia: Western Australia, Lake Argyle, Ord River Dam	secondary	cob	-16.1213584	128.7386173	0.244945745900128
+Hydrilla_verticillata	MN013316.1	07-DEC-2019	1060	Australia: Western Australia, Wyndham, Marlgu Billabong	secondary	cob	-15.5489578	128.2594604	0.244738368518674
+Hydrilla_verticillata	MN013319.1	07-DEC-2019	1117	Australia	secondary	cob	-11.798414308286	132.41980187434	0.245006398452328
+Hydrilla_verticillata	MN013217.1	07-DEC-2019	703	Australia	secondary	cob	-19.3887125	146.716901488577	0.328821251042065
+Hydrilla_verticillata	MN013216.1	07-DEC-2019	704	Australia	secondary	cob	-12.6050729532093	131.946223083334	0.327292318563279
+Hydrilla_verticillata	MN013214.1	07-DEC-2019	709	Australia	secondary	cob	-16.25423105	128.755862169566	0.328523632885123
+Hydrilla_verticillata	MN013213.1	07-DEC-2019	689	Australia	secondary	cob	-28.292316720157	154.077595491806	0.329437895502379
+Hydrilla_verticillata	MN013206.1	07-DEC-2019	697	Australia	secondary	cob	-28.841625938062	153.860194802125	0.330439775609377
+Hydrilla_verticillata	MN013205.1	07-DEC-2019	674	Australia	secondary	cob	-28.8412757	153.4405813	0.330759492992772

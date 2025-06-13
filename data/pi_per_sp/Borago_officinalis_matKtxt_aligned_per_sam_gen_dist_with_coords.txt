@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Borago_officinalis	LT992719.1	04-JUN-2018	530	Italy:Liguria, Genova	secondary	matK	44.9382412785061	9.10126863625195	0.0098399319517476
+Borago_officinalis	LT992718.1	04-JUN-2018	530	Italy:Liguria, Genova	secondary	matK	43.7184094536172	9.41223200767285	0.0098399319517476
+Borago_officinalis	LT992717.1	04-JUN-2018	530	Italy:Liguria, Genova	secondary	matK	43.7914637942061	8.84838220667365	0.0098399319517476
+Borago_officinalis	LT992716.1	04-JUN-2018	530	Italy:Sicilia, Agrigento	secondary	matK	37.3122991	13.57465	0.0098399319517476
+Borago_officinalis	LT992715.1	04-JUN-2018	530	Italy:Liguria, Genova	secondary	matK	44.6607341093598	9.42678124464542	0.0098399319517476
+Borago_officinalis	AY092892.1	29-JUN-2002	906	New Zealand	secondary	matK	-41.5000831	172.8344077	0.00977672803683874
+Borago_officinalis	KT738333.1	24-NOV-2015	1260	USA	secondary	matK	39.7837304	-100.445882	0.0100734874807351
+Borago_officinalis	HM850864.1	23-JUL-2011	565	Portugal	secondary	matK	39.6621648	-8.1353519	0.0329682886708096
+Borago_officinalis	HE966880.1	18-SEP-2012	503	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0357259678288309

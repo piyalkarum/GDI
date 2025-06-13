@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cynoglossum_officinale	MG222016.1	26-DEC-2017	553	Canada: Ontario, Wellington, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	0.0005635814858238
+Cynoglossum_officinale	KX678433.1	29-APR-2017	553	Canada: British Columbia, Kootenay Boundary Regional District, Granby-Burrell Forest Recreation Site	primary	rbcL	49.3676	-118.461	0.0005635814858238
+Cynoglossum_officinale	KX677803.1	29-APR-2017	553	Canada: British Columbia, Okanagan-Similkameen Regional District, near Link Lake Forest Recreation Site, Kettle Valley Rail Trail	primary	rbcL	49.7109	-120.231	0.0005635814858238
+Cynoglossum_officinale	JN892263.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.63	-4.24	0.00057617175108919
+Cynoglossum_officinale	MT930629.1	03-MAR-2023	568	China	secondary	rbcL	35.100133401087	105.463865774076	0.000559701492537313
+Cynoglossum_officinale	KX254471.1	01-OCT-2018	1347	China	secondary	rbcL	35.273960400581	105.282428573155	0.00203502679763969
+Cynoglossum_officinale	EU599840.1	31-MAR-2009	1196	Turkey	secondary	rbcL	38.9597594	34.9249653	0.00232332882750488
+Cynoglossum_officinale	JN892865.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00057617175108919

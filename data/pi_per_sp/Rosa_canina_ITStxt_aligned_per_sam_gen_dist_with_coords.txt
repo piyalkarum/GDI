@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_canina	LS973926.1	29-AUG-2018	439	Czech Republic	secondary	ITS	49.7439047	15.3381061	NA
+Rosa_canina	FR725973.1	22-MAR-2011	253	Germany:Thuringia, Jena, Himmelreich	secondary	ITS	51.81160784138	11.8211338273032	NA
+Rosa_canina	FR725972.1	22-MAR-2011	253	Germany:Thuringia, Jena, Himmelreich	secondary	ITS	51.0031098421596	12.7687911790316	NA
+Rosa_canina	FR725971.1	22-MAR-2011	254	Germany:Thuringia, Jena, Himmelreich	secondary	ITS	51.1251529627469	11.7875984530234	NA
+Rosa_canina	FM164424.1	05-JUN-2008	1026	Sweden	secondary	ITS	60.0292359357708	13.1647100027431	0.0120629568464604
+Rosa_canina	FM164423.1	05-JUN-2008	1026	Sweden	secondary	ITS	59.1924332614881	13.3532675283432	0.0130853252965675

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_obtusifolius	OR465013.1	26-SEP-2023	293	USA: Bishop's Bog Preserve, Portage, MI	primary	psbA-trnH	42.17817585	-85.6074188	0.000510204081632653
+Rumex_obtusifolius	KP643523.1	08-DEC-2015	313	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	38.3194504512614	-77.7024318010593	0.000456412596987677
+Rumex_obtusifolius	KP643457.1	08-DEC-2015	299	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.4660314924479	-77.2578659011712	0.000477783086478739
+Rumex_obtusifolius	MF348629.1	21-SEP-2017	313	USA: Maryland; Smithsonian's Museum Support Ctr; 4210 Suitland Pkwy. Along service road between SI gardens Greenhouses and National Museum of American Indian; 25 m from greenhouses in drainage sump	primary	psbA-trnH	38.844	-76.938	0.00327005015304978
+Rumex_obtusifolius	OQ310688.1	16-MAY-2023	350	Mexico: Puebla	secondary	psbA-trnH	19.1710098	-98.4125121	0.00290539218882441
+Rumex_obtusifolius	HE966785.1	18-SEP-2012	359	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.7540652828616	13.6065914875719	0.00127273912759992
+Rumex_obtusifolius	HE966784.1	18-SEP-2012	359	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.9102329360124	13.4252151668023	0.00127273912759992
+Rumex_obtusifolius	HE966783.1	18-SEP-2012	359	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.3871393345981	14.7124393892449	0.00127273912759992

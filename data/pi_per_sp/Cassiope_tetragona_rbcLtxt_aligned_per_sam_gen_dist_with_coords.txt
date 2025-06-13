@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cassiope_tetragona	MZ359349.1	07-DEC-2021	518	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.00842400842400842
+Cassiope_tetragona	KX678897.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, Cascade Mountains, Mount Cheam, rocky outcrop ca. near summit	primary	rbcL	49.185	-121.678	0.00136257201474593
+Cassiope_tetragona	KT960625.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.7452651419221	-18.7710623185431	0.00203033355207268
+Cassiope_tetragona	KT960541.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5989197667251	-18.1347030863585	0.00203033355207268
+Cassiope_tetragona	KT960456.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.3330158467848	-20.221421158748	0.00203033355207268
+Cassiope_tetragona	KC482397.1	25-OCT-2013	546	Canada: Nunavut, Baffin Island, Iqaluit	primary	rbcL	63.583	-68.7333	0.00204300204300204
+Cassiope_tetragona	KC482396.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territoires, Paulatuk	primary	rbcL	69.34	-124.06	0.00136257201474593
+Cassiope_tetragona	KC482395.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	rbcL	70.738	-117.762	0.00136257201474593
+Cassiope_tetragona	KC482392.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	rbcL	66.839	-108.035	0.00136257201474593
+Cassiope_tetragona	KC482391.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.644	-115.493	0.00136257201474593
+Cassiope_tetragona	KC482390.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	68.719	-110.783	0.00136257201474593
+Cassiope_tetragona	KC482389.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Aulavik National Park	primary	rbcL	73.717	-119.917	0.00136257201474593

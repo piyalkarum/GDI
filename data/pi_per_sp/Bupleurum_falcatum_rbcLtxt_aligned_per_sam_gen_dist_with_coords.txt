@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bupleurum_falcatum	MF694954.1	16-SEP-2018	553	Pakistan: Baluchistan	primary	rbcL	27.9953388733267	65.6193218371004	0.00284492232258831
+Bupleurum_falcatum	MF694671.1	15-SEP-2018	552	Pakistan: Baluchistan	primary	rbcL	27.779407402867	65.4789555167043	0.00284773027020324
+Bupleurum_falcatum	JQ934525.1	01-JAN-2014	932	China: Anguo County, Hebei Province	primary	rbcL	38.471	115.301	0.00279436099175879
+Bupleurum_falcatum	JQ934506.1	01-JAN-2014	933	Japan	primary	rbcL	36.205	138.253	0.00392144958669967
+Bupleurum_falcatum	JN817970.1	30-SEP-2020	712	China	secondary	rbcL	34.6348267230475	104.178880546403	0.00276112785256716
+Bupleurum_falcatum	JN817969.1	30-SEP-2020	712	China	secondary	rbcL	35.4428482171806	104.685484443261	0.00276112785256716
+Bupleurum_falcatum	JN817968.1	30-SEP-2020	712	China	secondary	rbcL	34.6122048940837	105.79355880643	0.00276112785256716
+Bupleurum_falcatum	KP974251.1	08-SEP-2015	1316	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00563132038194244

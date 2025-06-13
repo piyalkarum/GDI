@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chrysosplenium_tetrandrum	MG247191.1	21-JAN-2018	552	Canada: Yukon Territory, Kay Point, camp	primary	rbcL	69.292	-138.393	0
+Chrysosplenium_tetrandrum	MG247177.1	21-JAN-2018	552	Canada: Yukon Territory, Shingle Point area, mainland opposite	primary	rbcL	68.983	-137.446	0
+Chrysosplenium_tetrandrum	MG246516.1	21-JAN-2018	552	Canada: Yukon Territory, Richardson Mountains, tributary of Fish Creek, S of Vunta Creek	primary	rbcL	67.892	-136.512	0
+Chrysosplenium_tetrandrum	KC482447.1	25-OCT-2013	552	Canada: Nunavut, Southhampton Island, Salliq	primary	rbcL	64.133	-83.0167	0
+Chrysosplenium_tetrandrum	KC482446.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay	primary	rbcL	69.133	-105.017	0
+Chrysosplenium_tetrandrum	KC482445.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Nikko Island	primary	rbcL	66.583	-71.05	0
+Chrysosplenium_tetrandrum	JN965449.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, Thompson Point, Beach ridges in sand amongst Leymus mollis and Dryas integrifolia	primary	rbcL	58.335	-93.018	0

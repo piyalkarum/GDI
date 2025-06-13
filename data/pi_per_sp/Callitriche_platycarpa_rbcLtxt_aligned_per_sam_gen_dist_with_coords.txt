@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Callitriche_platycarpa	JN893694.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.49	-3.27	0.000615006150061501
+Callitriche_platycarpa	JN890764.1	07-MAR-2012	530	United Kingdom: Glamorgan	primary	rbcL	51.55	-3.2	0.000628930817610063
+Callitriche_platycarpa	JN893581.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00185894311773306
+Callitriche_platycarpa	JN893580.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000615006150061501

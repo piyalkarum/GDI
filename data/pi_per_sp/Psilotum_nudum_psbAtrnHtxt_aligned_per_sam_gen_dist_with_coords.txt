@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Psilotum_nudum	OL312221.1	04-JAN-2022	366	USA: Missouri Botanical Garden, Climatron.	primary	psbA-trnH	38.61411111	-90.25888888	0.0589191860482003
+Psilotum_nudum	MT363065.1	16-MAR-2021	368	French Polynesia: Marquesas Islands, Ua Pou. Main drainage of Aneou River. Secondary forest.	primary	psbA-trnH	-9.3752	-140.077	0.0526303402585329
+Psilotum_nudum	OQ310218.1	16-MAY-2023	571	Mexico: Puebla	secondary	psbA-trnH	18.9603139304434	-98.329591745524	0.0898900631820581
+Psilotum_nudum	OQ309786.1	16-MAY-2023	409	Mexico: Puebla	secondary	psbA-trnH	19.5406819718927	-99.1775931936833	0.0899755338294654
+Psilotum_nudum	MH622039.1	03-MAY-2019	324	USA	secondary	psbA-trnH	39.7837304	-100.445882	0.0540053761640355
+Psilotum_nudum	KY099983.1	21-NOV-2017	355	French Polynesia: Moorea	secondary	psbA-trnH	-17.533306	-149.8386006	0.0545972620184655
+Psilotum_nudum	AB575345.1	03-DEC-2010	391	Japan	secondary	psbA-trnH	36.5748441	139.2394179	0.0566163999752983

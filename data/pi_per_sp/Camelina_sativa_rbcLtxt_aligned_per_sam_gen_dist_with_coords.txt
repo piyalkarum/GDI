@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Camelina_sativa	MG249045.1	21-JAN-2018	552	Canada: Yukon Territory, Whitehorse, Takhini Hot Springs Road, Gunnar Nilsson and Mickey Lammers Research Forest	primary	rbcL	60.856	-135.208	0.00135869565217391
+Camelina_sativa	MT930726.1	03-MAR-2023	572	China	secondary	rbcL	35.000074	104.999927	0.00550998716508904
+Camelina_sativa	MK925330.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.4093920094284	-2.77492999082779	0.00138376383763838
+Camelina_sativa	MK925322.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2197536699274	-2.58834917635722	0.00138376383763838
+Camelina_sativa	MK924449.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2798077450279	-3.74887444505782	0.00138376383763838

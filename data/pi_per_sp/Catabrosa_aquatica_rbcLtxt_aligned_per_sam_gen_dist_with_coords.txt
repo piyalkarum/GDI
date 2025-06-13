@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Catabrosa_aquatica	MF596690.1	28-FEB-2018	603	Canada: Alberta, 31 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	rbcL	51.3931117535612	-113.724289493655	0.000464684014869888
+Catabrosa_aquatica	MG227256.1	23-JAN-2018	603	Canada: Alberta, 31 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	rbcL	50.7969479404133	-113.63826237786	0.000464684014869888
+Catabrosa_aquatica	JN893604.1	07-MAR-2012	458	United Kingdom: Monmouthshire	primary	rbcL	51.58	-2.86	0.000545851528384279
+Catabrosa_aquatica	JN892646.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00193647417067018
+Catabrosa_aquatica	JN892360.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000461254612546125

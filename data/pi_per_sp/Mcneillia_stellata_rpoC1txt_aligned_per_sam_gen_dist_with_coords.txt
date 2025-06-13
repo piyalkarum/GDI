@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mcneillia_stellata	LC715089.1	08-SEP-2022	461	Greece	secondary	rpoC1	42.8531018022718	-76.8391033689019	0.00144613159797542
+Mcneillia_stellata	LC715088.1	08-SEP-2022	461	Greece	secondary	rpoC1	43.4493245495163	-78.0553175780464	0.00144613159797542
+Mcneillia_stellata	LC715087.1	08-SEP-2022	461	Greece	secondary	rpoC1	43.7795193433281	-78.4026820723413	0.00144613159797542
+Mcneillia_stellata	LC715086.1	08-SEP-2022	461	Greece	secondary	rpoC1	42.3768711015731	-77.8833333797707	0.00144613159797542

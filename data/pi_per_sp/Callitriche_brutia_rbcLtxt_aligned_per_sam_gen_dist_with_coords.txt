@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Callitriche_brutia	JN890757.1	07-MAR-2012	458	United Kingdom: Pembrokeshire	primary	rbcL	51.7	-5.27	0.000890195961936448
+Callitriche_brutia	MK925464.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9659416960631	-2.51400190688986	0.000749956070989281
+Callitriche_brutia	MK925436.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3762856543969	-3.85544078281878	0.00192464467377051
+Callitriche_brutia	MK924927.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.577142765754	-3.27159905448336	0.000749956070989281
+Callitriche_brutia	HM849837.1	23-JUL-2011	1331	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00197732426303855
+Callitriche_brutia	JN893576.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0.000749956070989281

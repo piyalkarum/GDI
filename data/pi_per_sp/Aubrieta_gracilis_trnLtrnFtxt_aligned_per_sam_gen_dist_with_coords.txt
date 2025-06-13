@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aubrieta_gracilis	KF547497.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per. Fthiotida,Oeta	primary	trnL-trnF	38.2503546348478	22.625198832197	0.00113244918190395
+Aubrieta_gracilis	KF547496.1	09-SEP-2014	383	Greece: Mt. Lakmos	primary	trnL-trnF	39.6842	21.1225	0.00113244918190395
+Aubrieta_gracilis	KF547487.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per. Fthiotida,Oeta	primary	trnL-trnF	38.3380208079404	22.8354560585466	0.00113244918190395
+Aubrieta_gracilis	KF547479.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per. Fthiotida,Ypati, Oeta	primary	trnL-trnF	38.866	22.236	0.00113244918190395
+Aubrieta_gracilis	KF547449.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per. Erythania,Mt. Timfrestos, c. 4km NE of Karpenisi	primary	trnL-trnF	38.9346	21.8369	0.00113244918190395
+Aubrieta_gracilis	KF547448.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per. Erythania,Mt. Velouchi	primary	trnL-trnF	38.9391	21.7981	0.00113244918190395
+Aubrieta_gracilis	KF547447.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per. Fthiotida,Mt. Iti, c. 8km NW of Pavliani	primary	trnL-trnF	38.5319559235519	21.3142990248778	0.00113244918190395
+Aubrieta_gracilis	KF547446.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per. Erythania,Mt. Kaliakouda, c. 4km SE of Megalo Chorio	primary	trnL-trnF	38.8031	21.7764	0.00113244918190395
+Aubrieta_gracilis	KF547445.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per. Erythania,Mt. Oxia, 7km SSW of Gardiki	primary	trnL-trnF	38.7792	21.9445	0.00113244918190395
+Aubrieta_gracilis	KF547444.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per. Fthiotida,Mt. Iti, c. 8km NW of Pavliani	primary	trnL-trnF	39.3191282963916	23.1702466756757	0.00113244918190395
+Aubrieta_gracilis	KF547443.1	09-SEP-2014	374	Greece: Reg. Central Greece, Per. Fokida,Mt. Vardousia, c. 5.5km NNE of Dafnos	primary	trnL-trnF	38.6875	22.1161	0.00859434682964095
+Aubrieta_gracilis	KF547442.1	09-SEP-2014	383	Greece: Reg. Thessaly, Per. Karditsa,Mt. Karava, 3km ESE of Vlasio	primary	trnL-trnF	39.2824	21.6162	0.008419318356348
+Aubrieta_gracilis	KF547436.1	09-SEP-2014	383		primary	trnL-trnF	38.9299	21.8073	0.00113244918190395
+Aubrieta_gracilis	KF547435.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per.. Eurytania,Mt. Vardousia, 3.5km W of Athanasios Diakos	primary	trnL-trnF	38.697	22.1356	0.00113244918190395
+Aubrieta_gracilis	KC412347.1	31-DEC-2013	383	Greece: Reg. Sterea Ellada, Per. Erythania,c. 10km SSW of Metsovon	primary	trnL-trnF	39.6861	21.1404	0.00113244918190395

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atriplex_halimus	OQ791300.1	02-AUG-2023	584	Egypt	primary	rbcL	31.3728	27.1903	0.391688110528501
+Atriplex_halimus	KY884358.1	30-APR-2018	558	Morocco: Layoune	secondary	rbcL	31.5153339	-9.7638449	0.38787108756676
+Atriplex_halimus	KX789405.1	26-AUG-2017	420	Egypt	secondary	rbcL	26.2540493	29.2675469	0.386290904547682
+Atriplex_halimus	HM587630.1	29-APR-2011	639	Spain: Almeria, Sierra de Alhamilla	secondary	rbcL	37.0029343	-2.3371046	0.391373750294233

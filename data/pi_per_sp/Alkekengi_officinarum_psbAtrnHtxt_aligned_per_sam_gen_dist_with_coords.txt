@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alkekengi_officinarum	KY263854.1	04-OCT-2017	501	China	secondary	psbA-trnH	34.4287212193015	105.659431645743	0
+Alkekengi_officinarum	KY263853.1	04-OCT-2017	501	China	secondary	psbA-trnH	35.0423432400053	104.678966738672	0
+Alkekengi_officinarum	KY263852.1	04-OCT-2017	501	China	secondary	psbA-trnH	34.2362054115957	105.457561137106	0
+Alkekengi_officinarum	KY263851.1	04-OCT-2017	501	China	secondary	psbA-trnH	35.5125866780907	105.77811664771	0
+Alkekengi_officinarum	KY263850.1	04-OCT-2017	501	China	secondary	psbA-trnH	35.4412207693473	105.44161093459	0
+Alkekengi_officinarum	KY263849.1	04-OCT-2017	501	China	secondary	psbA-trnH	35.3705304168394	104.022324660198	0

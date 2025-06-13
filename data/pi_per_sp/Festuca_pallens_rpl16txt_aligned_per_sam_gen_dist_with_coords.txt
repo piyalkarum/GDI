@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_pallens	LR217904.1	30-JUL-2021	856	Germany	primary	rpl16	51.325	11.5983	0.00332193812749749
+Festuca_pallens	LR217897.1	30-JUL-2021	865	Germany	primary	rpl16	49.775	11.3406	0.00407019775970613
+Festuca_pallens	LR217890.1	30-JUL-2021	847	Germany	primary	rpl16	49.8181	11.3642	0.00217010427216392
+Festuca_pallens	LR217878.1	30-JUL-2021	876	Germany	primary	rpl16	47.6611	7.53	0.00211071911972145
+Festuca_pallens	LR217873.1	30-JUL-2021	890	Germany	primary	rpl16	50.5136	6.9894	0.00597216969731378
+Festuca_pallens	LR217872.1	30-JUL-2021	867	Germany	primary	rpl16	50.5814	7.2467	0.00212851832174245
+Festuca_pallens	LR217869.1	30-JUL-2021	888	Germany	primary	rpl16	51.3633	11.0828	0.00421481121891643

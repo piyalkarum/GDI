@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Neottia_cordata	MG227235.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Bottom of SW slope of Mont Irony, 20 to the right of E600D4.	primary	rbcL	56.0111	-67.4722	0
+Neottia_cordata	MG225797.1	23-JAN-2018	552	Canada: Yukon Territory, Kotaneelee Range	primary	rbcL	60.247	-124.136	0
+Neottia_cordata	KX679242.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Road to Garibaldi Lake & Black Tusk Trailhead	primary	rbcL	49.966	-123.126	0
+Neottia_cordata	KX679127.1	29-APR-2017	537	Canada: British Columbia, Vancouver Island, Capital Regional District, Metchosin, Blinkhorn Mountain	primary	rbcL	48.389	-123.572	0
+Neottia_cordata	KX678384.1	29-APR-2017	552	Canada: British Columbia, Central Okanagan Regional District, between Kelowna & Vernon, Beaver Lake Rd., at trailhead for High Ridge Trail	primary	rbcL	50.032	-119.287	0
+Neottia_cordata	JN965648.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 23 km E Churchill, Ramsay Creek, Tundra, creek bank	primary	rbcL	58.731	-93.78	0
+Neottia_cordata	JN891315.1	07-MAR-2012	542	United Kingdom: Sutherland, East (107)	primary	rbcL	57.97	-2.32	0
+Neottia_cordata	LC617135.1	10-SEP-2021	553	Japan:Nagano, Kisomachi	secondary	rbcL	35.899967	137.651902	0
+Neottia_cordata	MK925476.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4458062049227	-3.64784623662412	0
+Neottia_cordata	MK925399.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7386396220739	-3.615676190163	0

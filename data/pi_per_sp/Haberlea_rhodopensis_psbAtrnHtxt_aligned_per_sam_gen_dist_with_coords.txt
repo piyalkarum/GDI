@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Haberlea_rhodopensis	KP773270.1	28-FEB-2017	358	Bulgaria	secondary	psbA-trnH	46.3488480816093	22.8657045027647	0.0122905027932961
+Haberlea_rhodopensis	KP773269.1	28-FEB-2017	358	Bulgaria	secondary	psbA-trnH	46.499649833213	23.2344282023713	0.0111731843575419
+Haberlea_rhodopensis	KP773268.1	28-FEB-2017	358	Bulgaria	secondary	psbA-trnH	47.169971555835	22.4860018374785	0.0212290502793296
+Haberlea_rhodopensis	KP773267.1	28-FEB-2017	358	Greece	secondary	psbA-trnH	42.8700436440601	-77.9674626952777	0.0122905027932961
+Haberlea_rhodopensis	KP773266.1	28-FEB-2017	358	Greece	secondary	psbA-trnH	43.6716571387642	-78.2623291180921	0.0111731843575419
+Haberlea_rhodopensis	KP773265.1	28-FEB-2017	358	Bulgaria	secondary	psbA-trnH	47.2253264711366	22.8133535249867	0.0212290502793296

@@ -1,0 +1,21 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_horrida	KF630479.1	31-DEC-2014	858	Italy: Sardinia, Tavolara, Cala del Faro	secondary	rps4	39.2304619573023	9.54286486129991	0.000371517027863777
+Centaurea_horrida	KF630478.1	31-DEC-2014	858	Italy: Sardinia, Tavolara, Cala del Faro	secondary	rps4	40.4643275995992	10.1187663761369	0.000371517027863777
+Centaurea_horrida	KF630477.1	31-DEC-2014	858	Italy: Sardinia, Tavolara, Cala del Faro	secondary	rps4	40.0259757177722	8.88423549161856	0.000371517027863777
+Centaurea_horrida	KF630476.1	31-DEC-2014	852	Italy: Sardinia, Alghero, Marina di lioneddu	secondary	rps4	40.4752751545816	8.96892695704644	0.000371517027863777
+Centaurea_horrida	KF630475.1	31-DEC-2014	852	Italy: Sardinia, Alghero, Marina di lioneddu	secondary	rps4	40.6750384483383	9.69214605875146	0.000371517027863777
+Centaurea_horrida	KF630474.1	31-DEC-2014	852	Italy: Sardinia, Alghero, Marina di lioneddu	secondary	rps4	39.4783926744478	9.3461751063697	0.000371517027863777
+Centaurea_horrida	KF630473.1	31-DEC-2014	852	Italy: Sardinia, Alghero, Cala barca	secondary	rps4	40.9826925930447	8.55786637452539	0.000371517027863777
+Centaurea_horrida	KF630472.1	31-DEC-2014	852	Italy: Sardinia, Alghero, Cala barca	secondary	rps4	41.1843204711914	7.39703467226263	0.000371517027863777
+Centaurea_horrida	KF630471.1	31-DEC-2014	852	Italy: Sardinia, Alghero, Cala barca	secondary	rps4	40.5676616510752	6.97155555707914	0.000371517027863777
+Centaurea_horrida	KF630470.1	31-DEC-2014	852	Italy: Sardinia, Stintino, Coscia di donna	secondary	rps4	40.2831800059669	7.83459808585346	0.000371517027863777
+Centaurea_horrida	KF630469.1	31-DEC-2014	852	Italy: Sardinia, Stintino, Coscia di donna	secondary	rps4	41.1381903188517	8.68405510285379	0.000371517027863777
+Centaurea_horrida	KF630468.1	31-DEC-2014	852	Italy: Sardinia, Stintino, Coscia di donna	secondary	rps4	40.0671889058595	8.08176753666828	0.000371517027863777
+Centaurea_horrida	KF630467.1	31-DEC-2014	852	Italy: Sardinia, Stintino, Capo Falcone	secondary	rps4	41.7664969521611	8.18528261253325	0.000371517027863777
+Centaurea_horrida	KF630466.1	31-DEC-2014	852	Italy: Sardinia, Stintino, Capo Falcone	secondary	rps4	40.4165429584043	7.38166879359002	0.000371517027863777
+Centaurea_horrida	KF630465.1	31-DEC-2014	852	Italy: Sardinia, Asinara, Fornelli	secondary	rps4	40.7512814757539	9.65090661355653	0.000371517027863777
+Centaurea_horrida	KF630464.1	31-DEC-2014	852	Italy: Sardinia, Asinara, Fornelli	secondary	rps4	39.8992836096057	9.35871829803422	0.000371517027863777
+Centaurea_horrida	KF630463.1	31-DEC-2014	850	Italy: Sardinia, Asinara, Fornelli	secondary	rps4	39.6892033154074	8.32410051142479	0.00705882352941177
+Centaurea_horrida	KF630462.1	31-DEC-2014	852	Italy: Sardinia, Asinara, Piano degli Stretti	secondary	rps4	39.9755045140204	9.93008009069286	0.000371517027863777
+Centaurea_horrida	KF630461.1	31-DEC-2014	852	Italy: Sardinia, Asinara, Piano degli Stretti	secondary	rps4	39.8105422619001	9.00486536424912	0.000371517027863777
+Centaurea_horrida	KF630460.1	31-DEC-2014	852	Italy: Sardinia, Asinara, Piano degli Stretti	secondary	rps4	40.2705409496779	8.66033145562771	0.000371517027863777

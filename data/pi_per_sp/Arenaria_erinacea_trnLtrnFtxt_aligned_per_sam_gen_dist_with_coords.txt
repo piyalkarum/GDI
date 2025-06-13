@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arenaria_erinacea	AY692403.1	01-DEC-2005	330	Spain: Palencia, Santibanez	secondary	trnL-trnF	42.8026206	-4.7393486	0
+Arenaria_erinacea	AY692378.1	01-DEC-2005	333	Spain: Cadiz, Grazalema, Las Palomas Pass	secondary	trnL-trnF	36.7876041	-5.3766804	0
+Arenaria_erinacea	AY692374.1	01-DEC-2005	334	Spain: Leon, Luna Reservoir	secondary	trnL-trnF	42.5989995	-5.5682413	0
+Arenaria_erinacea	AY692373.1	01-DEC-2005	333	Spain: Guadalajara, Sacecorbo - Ocentejo	secondary	trnL-trnF	40.8015392	-2.3663701	0

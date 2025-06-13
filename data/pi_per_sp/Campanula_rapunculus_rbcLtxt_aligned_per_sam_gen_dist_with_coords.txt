@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_rapunculus	JN891486.1	07-MAR-2012	542	United Kingdom: WestSussex	primary	rbcL	50.96	-0.5	0.262075404190612
+Campanula_rapunculus	MK556128.1	22-SEP-2019	327	Italy	secondary	rbcL	43.2898683078057	12.81471992092	0.507994508739693
+Campanula_rapunculus	MK556046.1	22-SEP-2019	337	Italy	secondary	rbcL	42.5872628156842	12.8309161845331	0.529515429137526
+Campanula_rapunculus	MK555635.1	22-SEP-2019	357	Italy	secondary	rbcL	42.8423363505367	13.4252672523792	0.547109086003013
+Campanula_rapunculus	MK555492.1	22-SEP-2019	381	Italy	secondary	rbcL	41.9861625423685	13.2411622399084	0.255874639391555
+Campanula_rapunculus	MK555418.1	22-SEP-2019	382	Italy	secondary	rbcL	42.6249265091669	13.0064817719062	0.260213454640889
+Campanula_rapunculus	JN890722.1	07-MAR-2012	542	United Kingdom: Essex,South	secondary	rbcL	51.5395684	0.7105271	0.262075404190612

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_hirta	OR738158.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.34222	83.55111	0.00138376383763838
+Viola_hirta	JN893310.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.33	-3.58	0.000956304117496621
+Viola_hirta	FR865127.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.00148514851485149
+Viola_hirta	JN893574.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000956304117496621
+Viola_hirta	JN893572.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.000956304117496621

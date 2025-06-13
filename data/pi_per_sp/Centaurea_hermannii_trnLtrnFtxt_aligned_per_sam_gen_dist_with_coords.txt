@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_hermannii	OQ559046.1	18-JUL-2023	412	Turkey	secondary	trnL-trnF	38.6144675675781	34.7875851238802	0.00323624595469256
+Centaurea_hermannii	OQ559045.1	18-JUL-2023	412	Turkey	secondary	trnL-trnF	38.3866747976994	34.3370996634248	0.00323624595469256
+Centaurea_hermannii	OQ559044.1	18-JUL-2023	412	Turkey	secondary	trnL-trnF	38.3321502317029	35.0183522775552	0.00323624595469256
+Centaurea_hermannii	OQ559043.1	18-JUL-2023	412	Turkey	secondary	trnL-trnF	39.3198078193676	34.3947548483921	0.00323624595469256

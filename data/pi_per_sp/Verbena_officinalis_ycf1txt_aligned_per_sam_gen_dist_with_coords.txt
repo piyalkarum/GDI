@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Verbena_officinalis	OR487241.1	16-OCT-2023	135	China	secondary	ycf1	34.2063336879021	104.602406169959	0
+Verbena_officinalis	OR487240.1	16-OCT-2023	135	China	secondary	ycf1	35.0247778737359	104.767795196122	0
+Verbena_officinalis	OR487239.1	16-OCT-2023	135	China	secondary	ycf1	35.7198254044705	105.273617367479	0
+Verbena_officinalis	OR487238.1	16-OCT-2023	135	China	secondary	ycf1	34.9591093397052	104.003701609036	0
+Verbena_officinalis	OR487237.1	16-OCT-2023	135	China	secondary	ycf1	34.8482407299878	105.360555939218	0
+Verbena_officinalis	OR487236.1	16-OCT-2023	135	China	secondary	ycf1	35.2697569443319	104.212593125983	0
+Verbena_officinalis	OR487235.1	16-OCT-2023	135	China	secondary	ycf1	34.5765643530369	104.382760311479	0
+Verbena_officinalis	OR487234.1	16-OCT-2023	135	China	secondary	ycf1	34.3949188390062	105.558832918155	0
+Verbena_officinalis	OR487233.1	16-OCT-2023	135	China	secondary	ycf1	34.9451059690642	104.647448222319	0
+Verbena_officinalis	OR487232.1	16-OCT-2023	135	China	secondary	ycf1	34.6596806726541	104.633598878877	0
+Verbena_officinalis	OR487231.1	16-OCT-2023	135	China	secondary	ycf1	35.243308539052	104.190756430216	0
+Verbena_officinalis	OR487230.1	16-OCT-2023	135	China	secondary	ycf1	34.1349883062164	105.044924684482	0

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lipandra_polysperma	KX676629.1	09-AUG-2017	816	Canada: British Columbia, Metro Vancouver Regional Distrct, New Wesminster	primary	matK	49	-122	0.0834245079502129
+Lipandra_polysperma	KP210396.1	28-NOV-2015	808	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Between chalets and hydroline	primary	matK	45.536	-73.154	0.0836236358407245
+Lipandra_polysperma	JN895423.1	07-MAR-2012	744	United Kingdom: Monmouthshire	primary	matK	51.56	-3.02	0.0832002814834977
+Lipandra_polysperma	KY941441.1	30-APR-2018	427	United Kingdom: England, Greater London	secondary	matK	51.4893335	-0.1440551	0.496813948941887
+Lipandra_polysperma	HE855631.1	07-JAN-2013	2442	Germany	secondary	matK	31.4399019	-95.350778	0.083404625766261
+Lipandra_polysperma	JN895579.1	07-MAR-2012	722	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0854480474975672
+Lipandra_polysperma	JN895578.1	07-MAR-2012	755	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0831983551391983

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cistus_ladanifer	ON684493.1	21-AUG-2022	1428	Portugal: Vila Nova de Mil Fontes, Odemira, Beja	primary	rbcL	37.715	-8.78361	0
+Cistus_ladanifer	ON684487.1	21-AUG-2022	1428	Portugal: Sao Lourenco, Parque Natural da Arrabida, Setubal	primary	rbcL	38.49277	-9.02861	0
+Cistus_ladanifer	FJ225874.1	19-OCT-2008	1379	Morocco: Targuist	secondary	rbcL	34.939869	-4.320451	0
+Cistus_ladanifer	FJ225873.1	19-OCT-2008	1379	Portugal: Sagres	secondary	rbcL	37.0078288	-8.941924	0
+Cistus_ladanifer	FJ225872.1	19-OCT-2008	1356	Spain: Madrid, Boadilla del Monte	secondary	rbcL	40.4053485	-3.8764663	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_repens	JN890629.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.77	-3.15	0.17463933181473
+Salix_repens	LC757925.1	08-MAR-2023	702	Japan:Miyagi, Botanical Gardens of Tohoku University	secondary	rbcL	34.9803071	139.838919	0.523917995444191
+Salix_repens	JN893331.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.17463933181473
+Salix_repens	JN891724.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.17463933181473

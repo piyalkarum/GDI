@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lonicera_periclymenum	KX676520.1	09-AUG-2017	808	Canada: British Columbia, Metro Vancouver Regional Distrct, Delta, Reifel Island, northeast end, riverside, boulder dyke shore	primary	matK	49.106	-123.167	0
+Lonicera_periclymenum	KJ204503.1	29-JAN-2015	843	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.000343406593406593
+Lonicera_periclymenum	JN896210.1	07-MAR-2012	822	United Kingdom: Glamorgan (41)	secondary	matK	52.1689664648254	-2.59475312049544	0
+Lonicera_periclymenum	JN895397.1	07-MAR-2012	831	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Lonicera_periclymenum	JN894981.1	07-MAR-2012	741	United Kingdom: Glamorgan (41)	secondary	matK	50.9469225548441	-3.31269213045271	0.000343406593406593

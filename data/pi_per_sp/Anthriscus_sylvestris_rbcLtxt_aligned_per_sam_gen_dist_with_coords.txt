@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthriscus_sylvestris	MG224478.1	26-DEC-2017	553	Canada: Quebec, Montreal, Island of Montreal, Parc-nature de la Pointe-aux-Prairies (Secteur Fleuve), pres d'une clairiere et d'un sentier	primary	rbcL	45.682	-73.493	0.000165590329524756
+Anthriscus_sylvestris	MG223957.1	26-DEC-2017	552	Canada: near Barrie, Simcoe Co., ON	primary	rbcL	44.3909	-79.6928	0.000165590329524756
+Anthriscus_sylvestris	MG221938.1	26-DEC-2017	552	Canada: Orangeville, Dufferin Co., ON	primary	rbcL	43.9169	-80.0955	0.000165590329524756
+Anthriscus_sylvestris	MG221643.1	26-DEC-2017	552	Canada: Highland Creek, Scarborough Tp., York Co., ON	primary	rbcL	43.7667	-79.15	0.000165590329524756
+Anthriscus_sylvestris	KX677936.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Burnaby Lake Regional Park	primary	rbcL	49.248	-122.919	0.000165590329524756
+Anthriscus_sylvestris	KX677829.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Pacific Spirit Park	primary	rbcL	49.249	-123.207	0.000165590329524756
+Anthriscus_sylvestris	KJ841110.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	rbcL	45.538	-73.158	0.000165590329524756
+Anthriscus_sylvestris	JN891074.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.15	0.000168976005407232
+Anthriscus_sylvestris	MN192453.1	30-NOV-2021	719	China	secondary	rbcL	35.000074	104.999927	0.00015976993129893
+Anthriscus_sylvestris	JN893702.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.8018604186355	-2.54835248236076	0.000168976005407232
+Anthriscus_sylvestris	JN893701.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.7584723151372	-2.13163880738618	0.000168976005407232
+Anthriscus_sylvestris	HE574581.1	31-JUL-2011	569	Finland	secondary	rbcL	63.2467777	25.9209164	0.00182583025419392

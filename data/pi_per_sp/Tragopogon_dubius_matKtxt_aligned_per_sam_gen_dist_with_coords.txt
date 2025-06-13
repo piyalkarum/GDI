@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_dubius	OQ847562.1	15-AUG-2023	795	USA: CMR Wildlife Refuge	primary	matK	47.6693	-107.6683	0.00241501936068784
+Tragopogon_dubius	KX677310.1	09-AUG-2017	745	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Forest Service Road	primary	matK	49.188	-119.088	0.002403850905892
+Tragopogon_dubius	KX677226.1	09-AUG-2017	753	Canada: British Columbia, Kootenay Boundary Regional District, Gladstone Provincial Park, Badger Trail	primary	matK	49.123	-118.242	0.00236810538124965
+Tragopogon_dubius	KX676654.1	09-AUG-2017	739	Canada: British Columbia, Okanagan-Similkameen Regional District, near Link Lake Forest Recreation Site, Kettle Valley Rail Trail	primary	matK	49.711	-120.231	0.0024363110141805
+Tragopogon_dubius	HQ593471.1	09-NOV-2011	875	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 10 m N of Side Road 19, at Willow Ridge House	primary	matK	44.032	-79.534	0.00219504337876718
+Tragopogon_dubius	KP210437.1	28-NOV-2015	812	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	matK	45.535	-73.149	0.00236381644625587
+Tragopogon_dubius	HE970748.1	18-SEP-2012	811	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0148667491036831
+Tragopogon_dubius	AJ633258.1	10-OCT-2004	970	Germany:Sachsen-Anhalt	secondary	matK	52.0089065	11.7003344	0.00418552725347976

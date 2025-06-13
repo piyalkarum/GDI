@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cinna_latifolia	KX873391.1	16-OCT-2017	829	Canada: British Columbia, 8.1 km along North Shore Road (Stella Road), N of Hwy. 16, just W of Nadleh Whuten Band First Nation Reserve boundary, N of Fraser Lake	primary	matK	54.1	-124.6344	0.00228845093820946
+Cinna_latifolia	MF597288.1	17-JUL-2018	806	Canada: British Columbia, 8.1 km along North Shore Road (Stella Road), N of Hwy. 16, just W of Nadleh Whuten Band First Nation Reserve boundary, N of Fraser Lake.	primary	matK	54.1	-124.634	0.00241675364116338
+Cinna_latifolia	MF597287.1	17-JUL-2018	805	Canada: British Columbia, Queen Charlotte Islands, Graham Island, 8 km along main logging road N/ NW of Queen Charlotte City.	primary	matK	53.295	-132.148	0.00337034512172985
+Cinna_latifolia	MF597286.1	17-JUL-2018	798	Canada: British Columbia, 13 mi NW of Pink Mountain on Hwy 97 towards Ft. Nelson. Forest with Picea, Alnus, Equisetum arvensis, and Populus trichocarpa	primary	matK	58.654	-124.254	0.00328053534406812
+Cinna_latifolia	KJ592896.1	17-MAR-2015	768	USA: Wisconsin, Silvercliff	primary	matK	45.516	-88.404	0.00805439892162685
+Cinna_latifolia	KJ840897.1	23-SEP-2014	758	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Near Hemlock Bog	primary	matK	45.557	-73.14	0.00209634702512653
+Cinna_latifolia	KM523855.1	12-JUL-2015	774	USA: California	secondary	matK	36.7014631	-118.755997	0.00239085378581683
+Cinna_latifolia	MT273296.1	31-MAR-2021	788	Canada	secondary	matK	61.0666922	-107.991707	0.00277884000027676
+Cinna_latifolia	LR606862.1	25-JAN-2021	2132	Finland	secondary	matK	63.2467777	25.9209164	0.00439431095354269
+Cinna_latifolia	MG217140.1	24-JAN-2018	768	Canada: Ontario, Cochrane District, Kapuskasing	secondary	matK	49.416667	-82.433333	0.00141459505503005
+Cinna_latifolia	KM538792.1	20-JUN-2015	1091	South Korea	secondary	matK	35.9868871616231	128.337137585211	0.00305554605396413
+Cinna_latifolia	KJ592897.1	17-MAR-2015	768	USA: Wisconsin, Little River	secondary	matK	45.0397091	-87.6454496	0.00206509551173566
+Cinna_latifolia	HQ600048.1	02-AUG-2011	1338	South Korea	secondary	matK	36.2955843230636	127.64079318025	0.00887939090396829

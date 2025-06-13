@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leonurus_cardiaca	OQ404755.1	03-JUL-2023	604	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	rbcL	42.26061337	-85.63702938	0
+Leonurus_cardiaca	OQ434032.1	02-JUL-2023	613	USA: South Westnudge Park, Portage, MI	primary	rbcL	42.18520512	-85.59241972	0
+Leonurus_cardiaca	KP643957.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.8386097827575	-79.2728124073652	0
+Leonurus_cardiaca	KP643758.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.85371632068	-78.9229445965261	0
+Leonurus_cardiaca	MG222860.1	26-DEC-2017	525	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #6 trail	primary	rbcL	43.097	-79.281	0
+Leonurus_cardiaca	MG222125.1	26-DEC-2017	552	Canada: R.R.Tracks between Glasgow St. & Yorkshire St.	primary	rbcL	43.54	-80.254	0
+Leonurus_cardiaca	MG221529.1	26-DEC-2017	552	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0
+Leonurus_cardiaca	MG221221.1	26-DEC-2017	551	Canada: Quebec, Montreal, Island of Montreal, Parc Graham, pres de la bordure du boise	primary	rbcL	45.479	-73.848	0
+Leonurus_cardiaca	KT695536.1	29-SEP-2015	546	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0
+Leonurus_cardiaca	OQ189695.1	13-JUN-2023	781	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0
+Leonurus_cardiaca	MG223101.1	26-DEC-2017	553	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Edge of trail 25 m N of driveway N of North Barn.	secondary	rbcL	43.72634945	-77.7101179040839	0

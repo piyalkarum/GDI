@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dryopteris_carthusiana	KP643963.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.892	-78.146	0.108079761406647
+Dryopteris_carthusiana	MG215296.1	24-JAN-2018	552	Canada: Quebec, Monteregie, Mont Saint-Hilaire, 10 m right of paht, beside metal deposit	primary	rbcL	46.0103	-73.245	0.108280749725685
+Dryopteris_carthusiana	MG215146.1	24-JAN-2018	552	Canada: Prince Edward Island, Bonshaw, St. Catherines Road	primary	rbcL	46.198	-63.339	0.108280749725685
+Dryopteris_carthusiana	HQ590070.1	09-NOV-2011	583	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., old growth forest, E of trail	primary	rbcL	44.034	-79.533	0.113884909716612
+Dryopteris_carthusiana	KJ593376.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.557	-88.793	0.106926179601025
+Dryopteris_carthusiana	KJ593375.1	17-MAR-2015	553	USA: Wisconsin, Lakewood	primary	rbcL	45.296	-88.473	0.106926179601025
+Dryopteris_carthusiana	KJ593374.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.559	-88.796	0.106926179601025
+Dryopteris_carthusiana	KJ841285.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Towards Lac Hertel from Menyanthes Pond	primary	rbcL	45.552	-73.148	0.108466514739773
+Dryopteris_carthusiana	MG215024.1	24-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0.107126395283981
+Dryopteris_carthusiana	JQ947938.1	24-JUN-2012	1065	USA	secondary	rbcL	39.1380269612834	-101.132826495801	0.486537200374757
+Dryopteris_carthusiana	JQ947923.1	24-JUN-2012	1047	USA	secondary	rbcL	39.9531305835661	-101.567748700893	0.487022588786036
+Dryopteris_carthusiana	JQ947919.1	24-JUN-2012	901	USA	secondary	rbcL	39.8417747725798	-99.5136558030521	0.490088496534066
+Dryopteris_carthusiana	JQ935272.1	28-MAY-2012	1342	USA	secondary	rbcL	39.8476519349454	-101.226654496476	0.109929241303423
+Dryopteris_carthusiana	JQ935266.1	28-MAY-2012	1252	USA	secondary	rbcL	39.9424827493816	-99.7371625352499	0.110456062009992
+Dryopteris_carthusiana	JQ935254.1	28-MAY-2012	1323	USA	secondary	rbcL	39.7226863006518	-100.958840000128	0.108746796672437
+Dryopteris_carthusiana	HE574626.1	31-JUL-2011	566	Finland	secondary	rbcL	63.2467777	25.9209164	0.109793000653668
+Dryopteris_carthusiana	KF186505.1	23-SEP-2013	1309	Canada	secondary	rbcL	43.3600536	-80.3123023	0.108783423030825

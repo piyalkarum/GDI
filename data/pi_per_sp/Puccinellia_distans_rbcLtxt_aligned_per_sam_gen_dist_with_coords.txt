@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_distans	MF597021.1	28-FEB-2018	603	Canada: British Columbia, Kilppoola Lake, 8.2 km S of Hwy. 3 along Mount Kreger Road, South Okanagan Grasslands Protected Area.	primary	rbcL	49.409232086098	-120.792190090406	0.000195102916788606
+Puccinellia_distans	MF597020.1	28-FEB-2018	603	Canada: Manitoba, Mary Jane Reservoir, ~10 km NW of Manitou, open, relatively undisturbed prairie habitat S of the reservoir and N of the railroad tracks.	primary	rbcL	49.4693639091705	-97.4031123543438	0.000195102916788606
+Puccinellia_distans	MF597019.1	28-FEB-2018	603	Canada: British Columbia, 3.1 km S of Radio Observatory. Alakali lake with Sonchus, Agropyron, and Erysimum.	primary	rbcL	49.9389999575462	-118.89001636793	0.000707857769973661
+Puccinellia_distans	MF597018.1	28-FEB-2018	603	Canada: Alberta, 11 mi E of Exshaw on Hwy 1A towards Cochrane. Immediate shore of small pond with Carex, Eleocharis, Schoenoplectus and Juncus.	primary	rbcL	50.7929527225407	-114.781972395218	0.000195102916788606
+Puccinellia_distans	MG228236.1	23-JAN-2018	603	Canada: Manitoba, Mary Jane Reservoir, ~10 km NW of Manitou, open, relatively undisturbed prairie habitat S of the reservoir and N of the railroad tracks.	primary	rbcL	48.84790655078	-98.5207174631237	0.000195102916788606
+Puccinellia_distans	MG228057.1	23-JAN-2018	603	Canada: British Columbia, 3.1 km S of Radio Observatory. Alakali lake with Sonchus, Agropyron, and Erysimum.	primary	rbcL	48.7848840497878	-118.574105335728	0.000707857769973661
+Puccinellia_distans	MG227646.1	23-JAN-2018	552	Canada: Ontario, Lambton County, St. Clair Twp., Roadside of Hwy 40 at Wilkesport, south of Sarnia	primary	rbcL	42.729	-82.428	0
+Puccinellia_distans	MG227628.1	23-JAN-2018	603	Canada: British Columbia, Kilppoola Lake, 8.2 km S of Hwy. 3 along Mount Kreger Road, South Okanagan Grasslands Protected Area.	primary	rbcL	48.8768334563984	-119.093079017647	0.000195102916788606
+Puccinellia_distans	MG226632.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	rbcL	51.273	-80.641	0
+Puccinellia_distans	MG226113.1	23-JAN-2018	603	Canada: Alberta, 11 mi E of Exshaw on Hwy 1A towards Cochrane. Immediate shore of small pond with Carex, Eleocharis, Schoenoplectus and Juncus.	primary	rbcL	50.7110366305849	-114.780470155227	0.000195102916788606
+Puccinellia_distans	MG225843.1	23-JAN-2018	553	Canada: Ontario, Lambton County, St. Clair Twp., Roadside of Hwy 40 at Wilkesport, south of Sarnia	primary	rbcL	42.3663	-82.4051	0
+Puccinellia_distans	KC483744.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Yellowknife Airport. Field and slopes at edge of parking lot, above lake	primary	rbcL	62.52	-114.47	0
+Puccinellia_distans	JN892087.1	07-MAR-2012	507	United Kingdom: Cardiganshire	primary	rbcL	52.51	-4.04	0
+Puccinellia_distans	JN891576.1	07-MAR-2012	542	United Kingdom: Perthshire, East (89)	primary	rbcL	56.81	-3.46	0
+Puccinellia_distans	MG227522.1	23-JAN-2018	553	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	secondary	rbcL	43.72634945	-77.7101179040839	0
+Puccinellia_distans	KP711224.1	31-MAR-2016	1096	China	secondary	rbcL	35.000074	104.999927	0.000245098039215686
+Puccinellia_distans	JN892614.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0
+Puccinellia_distans	JN892403.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

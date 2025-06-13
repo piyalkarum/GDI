@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_pallescens	MG227948.1	23-JAN-2018	552	Canada: British Columbia, Greater Vancouver Regional District, Surrey, between Patullo bridge & Fraser Surrey docks	primary	rbcL	49.1167	-122.75	0
+Carex_pallescens	MG227669.1	23-JAN-2018	552	Canada: British Columbia, New Westminster, 95 km E of Vancouver, near Queens Park, N of Columbia St on ramp to Pattullo Bridge	primary	rbcL	49.2076	-122.902	0
+Carex_pallescens	MG227288.1	23-JAN-2018	552	USA: New York, Clinton Co, E side of Guide Board rd, 1.7 mi N of jct Silver Lk rd, 5.1 mi N of Hwy 9N jct at Au Sable Forks	primary	rbcL	44.4742	-73.745	0
+Carex_pallescens	MG226736.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Bay of Islands, Humber Arm, Hughes Brook, wooded alluvial flat on SE shore of brook along trl, N end of site ~100 m S of bridge of rd 400 over Hughes Brook	primary	rbcL	48.9916	-57.901	0
+Carex_pallescens	KJ841191.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. La Pre (the old orchard)	primary	rbcL	45.542	-73.161	0
+Carex_pallescens	JN893829.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.64	-3.36	0
+Carex_pallescens	JN891906.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0
+Carex_pallescens	JN891903.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0

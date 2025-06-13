@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_canescens	KX873267.1	16-OCT-2017	684	Czech Republic: Zd'arske vrchy, about 6 km N of Zdar nad Sazavou, W of Svetnov	primary	matK	49.6183	15.9489	0.000208855472013367
+Calamagrostis_canescens	KX873266.1	16-OCT-2017	675	Poland: Mazowieckie Voivodeship, district Szydlowiec, Mirow commun, Zbijow Maly village	primary	matK	51.1722	21.0319	0.000211640211640212
+Calamagrostis_canescens	KX873265.1	16-OCT-2017	669	Sweden: Vaesterbotten Co., Vilhelmina kommun, W of lake Malgoviken, W of Skansholm	primary	matK	64.6969	16.1972	0.000213538330130258
+Calamagrostis_canescens	JN894176.1	07-MAR-2012	1042	United Kingdom: Denbighshire	primary	matK	52.93	-4.28	0.000137098985467508
+Calamagrostis_canescens	LR606847.1	25-JAN-2021	2115	Germany	secondary	matK	34.895926	-83.4665496	0.00124014525897093
+Calamagrostis_canescens	MT433189.1	31-MAY-2020	1354	Norway	secondary	matK	64.5731537	11.5280364	0.000105507491031863
+Calamagrostis_canescens	JN895861.1	07-MAR-2012	785	United Kingdom: Breconshire	secondary	matK	52.9877138	-1.1775355	0.000181983621474067
+Calamagrostis_canescens	JN895385.1	07-MAR-2012	787	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.00018152114721365

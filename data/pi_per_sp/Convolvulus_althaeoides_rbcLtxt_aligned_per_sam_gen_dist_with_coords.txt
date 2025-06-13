@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Convolvulus_althaeoides	KX709603.1	20-AUG-2017	486	Egypt	secondary	rbcL	26.2540493	29.2675469	0
+Convolvulus_althaeoides	KC529175.1	31-JAN-2015	601	Spain	secondary	rbcL	38.7004981293588	-4.26992712331281	0
+Convolvulus_althaeoides	KC529174.1	31-JAN-2015	582	Greece: Rhodes	secondary	rbcL	36.1725297	27.9194016	0
+Convolvulus_althaeoides	KC529173.1	31-JAN-2015	606	Spain	secondary	rbcL	39.3248017804472	-4.89978157217644	0

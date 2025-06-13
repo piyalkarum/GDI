@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_desertorum	OQ832209.1	15-AUG-2023	553	USA: American Prairie Buffalo Camp	primary	rbcL	47.7625	-107.7754	0.000452079566003617
+Alyssum_desertorum	MT930694.1	03-MAR-2023	576	China	secondary	rbcL	35.245442783753	105.278886624873	0.000440140845070423
+Alyssum_desertorum	MT930693.1	03-MAR-2023	568	China	secondary	rbcL	35.3731124621462	105.89216010579	0.000440140845070423
+Alyssum_desertorum	MT930692.1	03-MAR-2023	568	China	secondary	rbcL	34.6844709587456	104.134183229331	0.0017852598068691
+Alyssum_desertorum	MG249773.1	21-JAN-2018	552	Canada: Saskatchewan, Indian Head.	secondary	rbcL	50.533333	-103.666667	0.000452898550724638

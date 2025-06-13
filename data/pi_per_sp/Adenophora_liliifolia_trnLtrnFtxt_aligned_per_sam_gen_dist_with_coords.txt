@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Adenophora_liliifolia	OQ021452.1	30-JUN-2023	411	China	secondary	trnL-trnF	35.000074	104.999927	0.0024330900243309
+Adenophora_liliifolia	OQ021451.1	30-JUN-2023	411	Austria	secondary	trnL-trnF	36.9719077595337	-5.59435207795387	0.00182481751824818
+Adenophora_liliifolia	OQ021248.1	30-JUN-2023	411	Hungary	secondary	trnL-trnF	41.9767629	-72.7789842	0.00182481751824818
+Adenophora_liliifolia	MK556580.1	22-SEP-2019	411	Austria	secondary	trnL-trnF	37.254701467788	-5.44364557567389	0.00182481751824818
+Adenophora_liliifolia	HQ704670.1	02-JUL-2011	868	South Korea: Mt.Seorak	secondary	trnL-trnF	38.1646397	128.6078137	0.00425790754257908

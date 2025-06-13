@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Papaver_lapponicum	KC475140.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Back slope of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.514	-116.439	0.000858000858000858
+Papaver_lapponicum	KC475139.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Boot Inlet, Small conical hill E of small round lake (~1 km diameter, ca. 4 km N of Boot Inlet on N side of Minto Inlet)	primary	matK	71.605	-117.38	0.00257732815872351
+Papaver_lapponicum	KC475138.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Boot Inlet, Large hill on W side of small round lake (~1 km diameter, ca. 4 km N of Boot Inlet)	primary	matK	71.579	-117.494	0.000858000858000858
+Papaver_lapponicum	KC475137.1	25-OCT-2013	774	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve. Head of Tanquary Fiord Quad., No Name Cr	primary	matK	81.417	-76.917	0.000861326442721792

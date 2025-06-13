@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Orobanche_alsatica	KY484483.1	01-MAY-2018	874	Poland	secondary	trnL-trnF	52.0446519262927	20.0840159169438	0
+Orobanche_alsatica	KY484482.1	01-MAY-2018	903	Poland	secondary	trnL-trnF	51.9286540299139	20.2179478758188	0
+Orobanche_alsatica	KY484481.1	01-MAY-2018	933	Poland	secondary	trnL-trnF	52.0398129551088	19.489351225337	0
+Orobanche_alsatica	KY484477.1	01-MAY-2018	914	Czech Republic	secondary	trnL-trnF	49.7439047	15.3381061	0

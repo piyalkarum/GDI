@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Psilotum_nudum	OL537073.1	10-JAN-2022	553	USA: Missouri, Missouri Botanical Garden, Climatron. Source, Unknown. MOBOT LCMS Accession # N/A	primary	rbcL	38.6141	-90.2589	0.0131764530562103
+Psilotum_nudum	MT216097.1	17-APR-2021	1309	French Polynesia: Marquesas Islands, Ua Pou. Main drainage of Aneou River. Secondary forest.	primary	rbcL	-9.3752	-140.077	0.0142309847082777
+Psilotum_nudum	LC371057.1	20-MAR-2018	553	Pakistan	primary	rbcL	34.67	73.02	0.0183128992795727
+Psilotum_nudum	OP711249.1	26-DEC-2022	552	Mexico: Puebla	secondary	rbcL	20.029733709666	-98.6411850251548	0.0234456024032533
+Psilotum_nudum	OP710768.1	26-DEC-2022	481	Mexico: Puebla	secondary	rbcL	19.0133590575825	-98.2174151629566	0.0259362716989836
+Psilotum_nudum	MT657866.1	27-JUL-2021	547	Vanuatu: Tanna	secondary	rbcL	-19.4857785	169.3345014	0.0174288503293965
+Psilotum_nudum	MT657863.1	27-JUL-2021	1293	USA: Kauai	secondary	rbcL	22.0504666	-159.5587678	0.012078055633229
+Psilotum_nudum	MT657862.1	27-JUL-2021	1278	Vanuatu: Aneityum	secondary	rbcL	-20.1937608	169.825176	0.0123234891811134
+Psilotum_nudum	MH549958.1	05-JUN-2019	559	USA	secondary	rbcL	39.3282904618698	-100.706457622786	0.0167670765609777
+Psilotum_nudum	KY099852.1	21-NOV-2017	1292	French Polynesia: Moorea	secondary	rbcL	-17.533306	-149.8386006	0.0143234894305545
+Psilotum_nudum	KR816696.1	03-NOV-2015	1328	USA	secondary	rbcL	40.0802064108849	-101.111797518365	0.017004555962358
+Psilotum_nudum	AB574682.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.0141733210623769

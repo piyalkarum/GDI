@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_auricula	JX895038.1	19-DEC-2012	431	Spain: Borox, arroyo de la Fuente de Sese a	secondary	trnK	39.4391908366855	-3.79090354586367	0.318181818181818
+Jacobaea_auricula	JX895036.1	19-DEC-2012	431	Spain: Colmenar de Oreja, laguna de las Esteras	secondary	trnK	40.1655022780308	-3.937551183358	0.318181818181818
+Jacobaea_auricula	JX895035.1	19-DEC-2012	431	Spain: Albarca, Pla de la Devesa	secondary	trnK	41.7898593909492	1.36445758086978	0.318181818181818
+Jacobaea_auricula	JX894966.1	19-DEC-2012	465	Spain: Borox, arroyo de la Fuente de Sese a	secondary	trnK	40.3829181537723	-3.11490133372759	0.318181818181818
+Jacobaea_auricula	JX894964.1	19-DEC-2012	465	Spain: Colmenar de Oreja, laguna de las Esteras	secondary	trnK	39.9986160598885	-4.41804198684516	0.318181818181818
+Jacobaea_auricula	JX894963.1	19-DEC-2012	465	Spain: Albarca, Pla de la Devesa	secondary	trnK	40.7959962050916	1.59674882770918	0.318181818181818

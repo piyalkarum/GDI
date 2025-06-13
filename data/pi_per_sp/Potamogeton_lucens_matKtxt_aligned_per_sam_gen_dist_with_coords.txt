@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_lucens	OL989380.1	29-JAN-2022	808	India: J&K,Srinagar	secondary	matK	28.5424922	77.2029544	0.00163265306122449
+Potamogeton_lucens	MK925908.1	14-JAN-2020	882	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00163265306122449
+Potamogeton_lucens	JF955620.1	13-DEC-2011	735	China: Yunnan	secondary	matK	24.60054713538	101.409673387009	0.00163265306122449
+Potamogeton_lucens	JF955619.1	13-DEC-2011	735	China: Yunnan	secondary	matK	25.6356006732267	102.100874466058	0.00163265306122449
+Potamogeton_lucens	JF955618.1	13-DEC-2011	735	China: Yunnan	secondary	matK	24.8022766504457	102.960395845233	0.00163265306122449
+Potamogeton_lucens	JF955617.1	13-DEC-2011	735	China: Yunnan	secondary	matK	24.5715643039611	102.749316880078	0.00816326530612245

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nymphaea_lotus	MK452751.1	26-AUG-2019	805	Egypt: Nile delta	primary	psbM-trnD	31.401804	30.430116	0
+Nymphaea_lotus	MK452750.1	26-AUG-2019	805	Ethiopia: Lake Ziwai	primary	psbM-trnD	7.925635	38.716085	0
+Nymphaea_lotus	MK452749.1	26-AUG-2019	805	Romania: Lake Petea	primary	psbM-trnD	46.997472	22.003714	0
+Nymphaea_lotus	MK452747.1	26-AUG-2019	805	South Africa: Nylsvley Nature Reserve	primary	psbM-trnD	-24.6506	28.6899	0

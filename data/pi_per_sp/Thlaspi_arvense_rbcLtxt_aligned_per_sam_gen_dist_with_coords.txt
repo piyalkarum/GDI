@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thlaspi_arvense	OR575207.1	25-OCT-2023	514	Kazakhstan: Qaragandy region	primary	rbcL	49.49993	73.26461	0.0052444594823211
+Thlaspi_arvense	OQ832165.1	15-AUG-2023	553	USA: American Prairie White Rock Unit	primary	rbcL	47.9867	-107.9798	0.00513533796968029
+Thlaspi_arvense	OR464874.1	26-SEP-2023	616	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28826615	-85.61731875	0.00517387251375478
+Thlaspi_arvense	MG249819.1	21-JAN-2018	553	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	rbcL	43.5485	-80.2503	0.00513533796968029
+Thlaspi_arvense	MG247645.1	21-JAN-2018	552	Canada: Yukon Territory, Whitehorse, Cowley Creek Subdivision	primary	rbcL	60.591	-134.895	0.00513633499455806
+Thlaspi_arvense	KX678151.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail, near Link Lake Forest Recreation Site	primary	rbcL	49.711	-120.231	0.00513633499455806
+Thlaspi_arvense	HQ590298.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Clearing in woods W of manager's house	primary	rbcL	44.031	-79.53	0.00523939780346345
+Thlaspi_arvense	KJ841620.1	04-NOV-2014	507	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	rbcL	45.535	-73.149	0.00499184469514613
+Thlaspi_arvense	JN966038.1	27-OCT-2012	522	Canada: Manitoba, Churchill, 3 km SE Churchill, pipeline, Forest along the pipe	primary	rbcL	58.747	-94.115	0.00509841233229539
+Thlaspi_arvense	JN891343.1	07-MAR-2012	541	United Kingdom: Monmouthshire	primary	rbcL	51.89	-2.82	0.0051689981408158
+Thlaspi_arvense	MT930966.1	03-MAR-2023	572	China	secondary	rbcL	29.3967513301814	-94.1060490780662	0.00510044460895123
+Thlaspi_arvense	MT930965.1	03-MAR-2023	568	China	secondary	rbcL	30.0961094657433	-94.7428601263492	0.00511248267637864
+Thlaspi_arvense	MT930964.1	03-MAR-2023	565	China	secondary	rbcL	30.4044468465699	-94.4897940805725	0.00511532775763958
+Thlaspi_arvense	MT930963.1	03-MAR-2023	569	China	secondary	rbcL	29.8984286412	-95.1912396649487	0.00510324993383189
+Thlaspi_arvense	MT930962.1	03-MAR-2023	569	China	secondary	rbcL	30.0350591233009	-94.7719670252645	0.00510324993383189
+Thlaspi_arvense	KM892703.1	11-OCT-2018	577	China	secondary	rbcL	29.3042496850551	-94.2479655305445	0.005371754034727
+Thlaspi_arvense	KM892675.1	11-OCT-2018	577	China	secondary	rbcL	29.2018231963558	-94.0358844657399	0.0167541035481511
+Thlaspi_arvense	KM892674.1	11-OCT-2018	577	China	secondary	rbcL	29.5266330214563	-94.6295078424251	0.005371754034727
+Thlaspi_arvense	MG246881.1	21-JAN-2018	553	Canada: Ontario, Wellington County, City of Guelph, University of Guelph, Pathway and lawn near Dairy Barn	secondary	rbcL	43.72634945	-77.7101179040839	0.00513533796968029
+Thlaspi_arvense	JQ933501.1	30-SEP-2012	1383	Austria: Niederoesterreich	secondary	rbcL	48.2817813	15.7632457	0.102334343439173
+Thlaspi_arvense	KT280166.1	01-AUG-2016	673	China: Maqu Gansu	secondary	rbcL	34.6137382	102.4654149	0.00482268724981263
+Thlaspi_arvense	JN893029.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0051594139398682
+Thlaspi_arvense	JN893028.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0051594139398682
+Thlaspi_arvense	OR128487.1	29-AUG-2023	1084	South Korea	secondary	rbcL	35.56586	127.35236	0.00328599673464765

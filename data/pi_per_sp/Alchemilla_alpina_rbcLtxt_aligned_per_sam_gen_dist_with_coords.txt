@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alchemilla_alpina	MG248321.1	21-JAN-2018	510	Greenland: Prins Chistian Sund, Qugdlugissat	primary	rbcL	60.083	-43.2	0.00130718954248366
+Alchemilla_alpina	MG245938.1	21-JAN-2018	522	Greenland: Pamiagdluk, Kungmuit	primary	rbcL	60	-44.467	0.00130463144161774
+Alchemilla_alpina	MK925357.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0628814011541	-2.56476751112995	0.001230012300123
+Alchemilla_alpina	MK925319.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3134364839962	-4.08154532541528	0.001230012300123
+Alchemilla_alpina	MK924794.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0836944240743	-3.84215349008696	0.00753187018459341
+Alchemilla_alpina	MK924610.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9925138973462	-3.62809088773842	0.001230012300123
+Alchemilla_alpina	MK924567.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2400401977023	-3.07719386667956	0.001230012300123

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Utricularia_gibba	MK965398.1	07-DEC-2019	504		primary	rbcL	32.35	-95.87	0.153021284271284
+Utricularia_gibba	LC682636.1	10-AUG-2022	553	Japan:Aichi, Nissin	secondary	rbcL	35.6686704039777	137.453585440485	0.149349138389533
+Utricularia_gibba	LC682635.1	10-AUG-2022	553	Japan:Aichi, Nissin	secondary	rbcL	34.976510162749	136.98822463195	0.149349138389533
+Utricularia_gibba	LC682631.1	10-AUG-2022	553	Japan:Aichi, Nagakute	secondary	rbcL	35.174318	137.070047	0.150297249701568
+Utricularia_gibba	EF529719.1	30-APR-2007	927	USA	secondary	rbcL	39.7837304	-100.445882	0.599216428995841

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phlomis_cretica	KP835743.1	25-JUL-2015	254	Greece	secondary	psbA-trnH	43.6060081515471	-78.0475050591757	0.0823045267489712
+Phlomis_cretica	KP835742.1	25-JUL-2015	250	Greece	secondary	psbA-trnH	43.710200671452	-77.585927085582	0.0274348422496571
+Phlomis_cretica	KP835741.1	25-JUL-2015	243	Greece	secondary	psbA-trnH	44.0294060124184	-77.9448036473011	0.0274348422496571
+Phlomis_cretica	KP835740.1	25-JUL-2015	250	Greece	secondary	psbA-trnH	42.6129748056495	-77.6449979605921	0.0274348422496571

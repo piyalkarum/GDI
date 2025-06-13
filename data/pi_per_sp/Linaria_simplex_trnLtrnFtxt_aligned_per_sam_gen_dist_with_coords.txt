@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_simplex	JN663588.1	10-MAR-2012	283	Spain: Alicante, Petrel	secondary	trnL-trnF	38.5333906	-0.8203332	0.000706713780918728
+Linaria_simplex	JN663587.1	10-MAR-2012	283	Spain: Granada, Orjiva	secondary	trnL-trnF	37.1734995	-3.5995337	0.000706713780918728
+Linaria_simplex	JN663586.1	10-MAR-2012	283	Spain: Avila, Padiernos	secondary	trnL-trnF	40.6215544	-4.845327	0.000706713780918728
+Linaria_simplex	JN663583.1	10-MAR-2012	283	Cyprus: Nicosia, Nisou	secondary	trnL-trnF	35.0211386	33.3892486	0.000706713780918728
+Linaria_simplex	JN663582.1	10-MAR-2012	283	Armenia: Syunik, Goris	secondary	trnL-trnF	39.5052419	46.3442334	0.000706713780918728
+Linaria_simplex	JN663581.1	10-MAR-2012	283	Morocco: Agadir-Melloul	secondary	trnL-trnF	30.2321967	-7.794225	0.000706713780918728
+Linaria_simplex	JN663580.1	10-MAR-2012	283	France: Tournes	secondary	trnL-trnF	49.7973353	4.637821	0.000706713780918728
+Linaria_simplex	JN663579.1	10-MAR-2012	283	Tunisia: Kasserine, Sbeitla	secondary	trnL-trnF	35.24057	9.1116581	0.000706713780918728
+Linaria_simplex	JN663578.1	10-MAR-2012	283	Italy: Abruzzo	secondary	trnL-trnF	42.227681	13.854983	0.003886925795053
+Linaria_simplex	JN663577.1	10-MAR-2012	283	Bulgaria: Nova Lovcha	secondary	trnL-trnF	41.4203184	23.7205639	0.000706713780918728
+Linaria_simplex	JN663576.1	10-MAR-2012	283	Turkey: Gumushane, Tirebolu	secondary	trnL-trnF	40.4617844	39.4757339	0.003886925795053

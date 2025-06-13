@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_uralensis	KC475913.1	25-OCT-2013	774	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	matK	62.867	-92.133	0.00108304140154494
+Silene_uralensis	KC475912.1	25-OCT-2013	750	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, along Darnley Bay	primary	matK	69.419	-124.022	0.00111884189783235
+Silene_uralensis	KC475911.1	25-OCT-2013	772	Canada: Yukon Territory, Bonnet Plum Draingage, Quartet Lake	primary	matK	65.113	-134.423	0.00108542842950953
+Silene_uralensis	KC475910.1	25-OCT-2013	771	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Base of Lookout Hill	primary	matK	68.803	-122.222	0.00108859848112952
+Silene_uralensis	KC475909.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	matK	71.644	-115.493	0.00108013151491412
+Silene_uralensis	KC475908.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	matK	68.531	-112.703	0.00108013151491412
+Silene_uralensis	KC475907.1	25-OCT-2013	777	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	matK	74.907	-109.59	0.00108013151491412
+Silene_uralensis	KC475906.1	25-OCT-2013	777	Canada: Nunavut, Ellesmere Island, John Richardson Bay, Near John Richardson Bay	primary	matK	80.3458	-71.3431	0.00302391462415151
+Silene_uralensis	KC475905.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Hornaday River, between Lookout Hill and river	primary	matK	68.708	-122.308	0.00108013151491412
+Silene_uralensis	KC475904.1	25-OCT-2013	771	Canada: Nunavut, Victoria Island, Cambridge Bay, East of DEW Line Station along road to village	primary	matK	69.1167	-105.083	0.00108859848112952
+Silene_uralensis	LC727791.1	09-MAR-2023	837	Japan:Yamanashi, Minami-alps	secondary	matK	35.6083617	138.4649893	0.00610795249454989
+Silene_uralensis	MK164837.1	09-JAN-2019	869	Greenland: Disko, Nordfjord, Kugssinerssuaq, W5	secondary	matK	69.7808372	-53.3682007043176	0.00103276645229304
+Silene_uralensis	JF970641.1	13-SEP-2011	786	Mongolia	secondary	matK	43.9382593	-79.2235563	0.00384128489556956

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygonum_aviculare	OR463369.1	04-OCT-2023	346	Russia	secondary	trnL-trnF	65.2167162163586	96.3665362935839	0.00385356454720617
+Polygonum_aviculare	OR463374.1	04-OCT-2023	346	Russia	secondary	trnL-trnF	64.8445179356221	98.8474398330272	0.00385356454720617
+Polygonum_aviculare	MH321181.1	31-DEC-2019	953	China: Hefei, Anhui	secondary	trnL-trnF	31.6557120388192	117.768119933121	0.00385356454720617
+Polygonum_aviculare	MH321180.1	31-DEC-2019	953	China: Hefei, Anhui	secondary	trnL-trnF	32.2210125905053	116.671289586634	0.00385356454720617

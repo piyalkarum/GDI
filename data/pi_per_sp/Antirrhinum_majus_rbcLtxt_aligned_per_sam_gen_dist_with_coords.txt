@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_majus	MG222405.1	26-DEC-2017	552	Canada: OAC, ON	primary	rbcL	43.5485	-80.2503	0.000621890547263682
+Antirrhinum_majus	KX783825.1	31-MAY-2017	552	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	rbcL	31.00310278276	31.0772244766648	0.000621890547263682
+Antirrhinum_majus	KX783824.1	31-MAY-2017	552	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	rbcL	31.725679831142	31.8455825125881	0.000621890547263682
+Antirrhinum_majus	OR381694.1	30-SEP-2023	553	Canada: Guelph, ON	secondary	rbcL	42.9094607071859	-80.0226442813846	0.000621890547263682
+Antirrhinum_majus	OR381693.1	30-SEP-2023	553	Canada: Guelph, ON	secondary	rbcL	43.1026592676226	-79.3301591907005	0.000621890547263682
+Antirrhinum_majus	HM849781.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00458437899000572
+Antirrhinum_majus	AJ490883.1	06-JAN-2003	937	Austria:Vienna	secondary	rbcL	48.2083537	16.3725042	0.00147492625368732

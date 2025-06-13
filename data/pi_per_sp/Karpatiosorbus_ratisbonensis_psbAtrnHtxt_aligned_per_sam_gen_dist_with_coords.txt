@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Karpatiosorbus_ratisbonensis	KX345360.1	31-MAY-2017	275	Germany: Bavaria, Regensburg	secondary	psbA-trnH	49.6808505646027	11.6281797678357	0
+Karpatiosorbus_ratisbonensis	KX345359.1	31-MAY-2017	275	Germany: Bavaria, Regensburg	secondary	psbA-trnH	49.1583271238108	12.1439563467208	0
+Karpatiosorbus_ratisbonensis	KX345358.1	31-MAY-2017	275	Germany: Bavaria, Regensburg	secondary	psbA-trnH	49.0133739657764	11.3898167421156	0
+Karpatiosorbus_ratisbonensis	KX345357.1	31-MAY-2017	275	Germany: Bavaria, Regensburg	secondary	psbA-trnH	49.5002472068843	13.0399758698504	0
+Karpatiosorbus_ratisbonensis	KX345356.1	31-MAY-2017	275	Germany: Bavaria, Regensburg	secondary	psbA-trnH	48.2646116653162	12.4157668191634	0
+Karpatiosorbus_ratisbonensis	KX345355.1	31-MAY-2017	263	Germany: Bavaria, Regensburg	secondary	psbA-trnH	49.3706754525902	10.9322630578145	0
+Karpatiosorbus_ratisbonensis	KX345354.1	31-MAY-2017	275	Germany: Bavaria, Regensburg	secondary	psbA-trnH	49.0611585558397	12.4158110179327	0
+Karpatiosorbus_ratisbonensis	KX345353.1	31-MAY-2017	275	Germany: Bavaria, Regensburg	secondary	psbA-trnH	48.5702349952381	13.2255660938216	0
+Karpatiosorbus_ratisbonensis	KX345352.1	31-MAY-2017	275	Germany: Bavaria, Regensburg	secondary	psbA-trnH	49.7973892411221	11.4725150797173	0
+Karpatiosorbus_ratisbonensis	KX345351.1	31-MAY-2017	268	Germany: Bavaria, Regensburg	secondary	psbA-trnH	49.395927134884	12.4406473439653	0
+Karpatiosorbus_ratisbonensis	KX345350.1	31-MAY-2017	275	Germany: Bavaria, Regensburg	secondary	psbA-trnH	49.4638077785504	13.2131256948795	0

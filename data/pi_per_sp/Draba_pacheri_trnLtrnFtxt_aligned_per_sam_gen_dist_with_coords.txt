@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_pacheri	OK346548.1	15-JAN-2022	733	Austria	primary	trnL-trnF	47.07	14.57	0
+Draba_pacheri	OK346547.1	15-JAN-2022	733	Austria	primary	trnL-trnF	46.8	14.98	0
+Draba_pacheri	OK346546.1	15-JAN-2022	733	Austria	primary	trnL-trnF	46.91	13.93	0
+Draba_pacheri	OK346545.1	15-JAN-2022	733	Austria	primary	trnL-trnF	47.02	13.53	0
+Draba_pacheri	OK346544.1	15-JAN-2022	733	Austria	primary	trnL-trnF	47.01	13.53	0

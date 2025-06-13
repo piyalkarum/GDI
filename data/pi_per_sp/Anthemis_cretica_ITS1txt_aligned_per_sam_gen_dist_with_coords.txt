@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthemis_cretica	FM957756.1	31-AUG-2009	553	Greece:Peloponnes	secondary	ITS1	37.3633283	22.2395373	0.0171609584475128
+Anthemis_cretica	FM957723.1	31-AUG-2009	553	Turkey:Antalya	secondary	ITS1	36.8864752	30.7029585	0.0167352205255126
+Anthemis_cretica	FM957707.1	31-AUG-2009	553	Greece:Ikaria	secondary	ITS1	37.5999295	26.1516894	0.0175226221003157
+Anthemis_cretica	FM957681.1	31-AUG-2009	550	Greece:Mt. Athos	secondary	ITS1	40.2844848	24.1860473	0.0139413256066643
+Anthemis_cretica	FM957673.1	31-AUG-2009	553	France:dep. Vaucluse	secondary	ITS1	49.9246182	1.0791444	0.0143710430902696
+Anthemis_cretica	AJ296388.1	03-DEC-2000	254	France:Aude	secondary	ITS1	43.0542733	2.5124715	0.0268375317627129

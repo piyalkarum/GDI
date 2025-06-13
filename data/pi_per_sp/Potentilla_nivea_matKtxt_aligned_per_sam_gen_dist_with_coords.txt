@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_nivea	KC475484.1	25-OCT-2013	765	Canada: Nunavut, Victoria Island, Johansen Bay, Rocky hills south of large unnamed lake ca. 18 km ENE of Johansen Bay airstrip	primary	matK	68.753	-110.708	0.00168367122534182
+Potentilla_nivea	KC475483.1	25-OCT-2013	765	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Low rocky hills at coast	primary	matK	68.606	-113.144	0.00168367122534182
+Potentilla_nivea	KC475482.1	25-OCT-2013	765	Canada: Nunavut, West Hudson Bay, Western Hudson Bay coast, ca. 7 km SW along the Hudson Bay coast from Dawson Inlet, Sandy Ridge Fuel Cache	primary	matK	61.73	-93.3	0.00117481471943228
+Potentilla_nivea	KC475481.1	25-OCT-2013	765	Canada: Nunavut, Baffin Island, Ogac Lake	primary	matK	62.85	-67.033	0.00117481471943228
+Potentilla_nivea	JN966465.1	27-OCT-2012	780	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	matK	58.78	-94.195	0.00117203982730524
+Potentilla_nivea	JN966464.1	27-OCT-2012	709	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	matK	58.789	-94.227	0.00354120602671951
+Potentilla_nivea	JN966463.1	27-OCT-2012	748	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	matK	58.734	-94.112	0.00203135354220284
+Potentilla_nivea	JN966462.1	27-OCT-2012	762	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Dry gravel ridge	primary	matK	58.75	-94.11	0.00101007406255044
+Potentilla_nivea	LC760004.1	12-SEP-2023	825	Japan:Yamanashi, Minami-alps	secondary	matK	35.6083617	138.4649893	0.00284055249586462

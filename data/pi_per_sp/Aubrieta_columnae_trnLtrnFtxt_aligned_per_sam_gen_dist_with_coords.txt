@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aubrieta_columnae	KF547483.1	09-SEP-2014	384	Montenegro: Komovi mnts.	primary	trnL-trnF	42.6804	19.6371	0.00609225413402959
+Aubrieta_columnae	KF547482.1	09-SEP-2014	383	Croatia: between Malovan and Sveto Brdo	primary	trnL-trnF	44.3275	15.5692	0.00609225413402959
+Aubrieta_columnae	KF547481.1	09-SEP-2014	411	Italy: Abruzzo,Valle Orfenta, Majella	primary	trnL-trnF	41.9097	13.9744	0.00603296212299281
+Aubrieta_columnae	KC412343.1	31-DEC-2013	411	Italy: Reg. Abruzzo,Mt. Morrone	primary	trnL-trnF	42.111	13.966	0.00429231808469864

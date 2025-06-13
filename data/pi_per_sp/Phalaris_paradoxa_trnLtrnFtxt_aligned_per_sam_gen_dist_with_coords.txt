@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phalaris_paradoxa	MF327250.1	17-OCT-2017	996	Australia: Victoria, Wangaratta. Kaluna Park, adjacent to Merriwa Park in centre of town. Floodable area beside the King River. AMG Map Ref., 8125 - 439500, 5975800	primary	trnL-trnF	-37.9167	144.533	0.0015515718351529
+Phalaris_paradoxa	MF327249.1	17-OCT-2017	1003	Australia: Victoria, Bogong High Plains, northern slopes of Pretty Valley, 3.5km NW of Mt Cope	primary	trnL-trnF	-36.3667	146.483	0.00154731480439991
+Phalaris_paradoxa	KF753798.1	11-DEC-2013	749	Algeria	secondary	trnL-trnF	28.0000272	2.9999825	0.00150783361964842
+Phalaris_paradoxa	KF753797.1	11-DEC-2013	757	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.00166269019869204
+Phalaris_paradoxa	KF753796.1	11-DEC-2013	756	Italy	secondary	trnL-trnF	42.7287091705767	12.2398574014244	0.00149536774722801
+Phalaris_paradoxa	KF753795.1	11-DEC-2013	751	Italy	secondary	trnL-trnF	42.062491988492	12.0835622838408	0.00433942983473662
+Phalaris_paradoxa	JF951119.1	11-DEC-2011	1648	USA	secondary	trnL-trnF	39.7837304	-100.445882	0.00138752832273518
+Phalaris_paradoxa	JF951107.1	11-DEC-2011	1656	Ethiopia	secondary	trnL-trnF	6.7678	35.6343712	0.00124237884523517
+Phalaris_paradoxa	JF951106.1	11-DEC-2011	1650	Cyprus	secondary	trnL-trnF	34.9174159	32.8899027	0.00269475342179067

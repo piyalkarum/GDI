@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_obtusata	MK582377.1	13-MAY-2020	854	Canada: Manitoba	secondary	rps16	55.001251	-97.001038	0
+Carex_obtusata	KP996439.1	27-JUL-2015	854	USA: Wyoming	secondary	rps16	43.3157267102703	-107.170839315634	0
+Carex_obtusata	KP996438.1	27-JUL-2015	854	USA: Wyoming	secondary	rps16	43.9336095760315	-107.374521122705	0
+Carex_obtusata	KP996437.1	27-JUL-2015	854	USA: Wyoming	secondary	rps16	42.6302717535537	-108.246028136096	0

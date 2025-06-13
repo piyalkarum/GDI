@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lonicera_tatarica	AB937533.1	04-OCT-2014	630	Japan: Nagano, Karuizawa Botanical Garden	secondary	trnS-trnG	36.6485851	138.1947664	0.0018140589569161
+Lonicera_tatarica	AB937520.1	04-OCT-2014	630	China	secondary	trnS-trnG	35.000074	104.999927	0.0018140589569161
+Lonicera_tatarica	AB937512.1	04-OCT-2014	630	Japan: Iwate, Hachimantai	secondary	trnS-trnG	39.9564706	141.0709451	0.00226757369614512
+Lonicera_tatarica	AB937503.1	04-OCT-2014	630	Japan: Tochigi, Nikko Botanical Garden	secondary	trnS-trnG	36.7498993	139.5866943	0.00408163265306122
+Lonicera_tatarica	AB937501.1	04-OCT-2014	630	USA	secondary	trnS-trnG	39.7837304	-100.445882	0.0018140589569161
+Lonicera_tatarica	AB937480.1	04-OCT-2014	630	Japan: Nagano, Matsumoto	secondary	trnS-trnG	36.2382047	137.9687141	0.0018140589569161
+Lonicera_tatarica	AB937477.1	04-OCT-2014	630	Japan: Nagano, Omachi	secondary	trnS-trnG	36.5029093	137.8508885	0.0018140589569161
+Lonicera_tatarica	GU076479.1	06-OCT-2010	706	Czech Republic: Prague, Praha 13	secondary	trnS-trnG	50.0732209	14.403592	0.0054421768707483

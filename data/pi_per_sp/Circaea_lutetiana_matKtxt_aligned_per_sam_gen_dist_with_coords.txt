@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Circaea_lutetiana	KP643132.1	08-DEC-2015	699	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.8845333714116	-77.9526782141047	0.00469946562315914
+Circaea_lutetiana	KP642846.1	08-DEC-2015	680	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.6064376133119	-78.3482112556285	0.00588235294117647
+Circaea_lutetiana	KP642823.1	08-DEC-2015	699	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.3756939617332	-77.7944027019719	0.00505711941428932
+Circaea_lutetiana	KP402323.1	06-JAN-2016	742	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H15x8y6	primary	matK	38.889	-76.559	0.00361503091802759
+Circaea_lutetiana	MK925793.1	14-JAN-2020	880	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00607863438516552

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chamaerops_humilis	OL689925.1	08-DEC-2021	816	USA: Missouri	primary	matK	38.6145	-90.2591	0.000374895780446104
+Chamaerops_humilis	JX495691.1	16-AUG-2013	768	Egypt: Alexandria, Smouha, Antoniades gardens	primary	matK	31.202	29.95	0.000383601313969571
+Chamaerops_humilis	MK704614.1	06-APR-2020	814	China	secondary	matK	34.6010706734299	105.590467940685	0.000366230673306775
+Chamaerops_humilis	MK704613.1	06-APR-2020	814	China	secondary	matK	34.6925266073503	105.732617314478	0.000366230673306775
+Chamaerops_humilis	MK704612.1	06-APR-2020	814	China	secondary	matK	35.6107196738216	105.067296107919	0.000366230673306775
+Chamaerops_humilis	MK704611.1	06-APR-2020	814	China	secondary	matK	34.453456290024	105.365654961142	0.00146091876473855
+Chamaerops_humilis	MT114392.1	30-MAR-2020	750	France	secondary	matK	46.603354	1.8883335	0.00153714509672936
+Chamaerops_humilis	HM850589.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.000377952755905512

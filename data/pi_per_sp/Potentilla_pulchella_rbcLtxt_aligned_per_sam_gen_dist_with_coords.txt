@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_pulchella	MG246806.1	21-JAN-2018	552	Canada: Northwest Territories, Cape Bathurst, camp	primary	rbcL	70.513	-128.024	0
+Potentilla_pulchella	KT960717.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	0
+Potentilla_pulchella	KC483655.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	rbcL	70.8837637832916	-120.440584295039	0
+Potentilla_pulchella	KC483654.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Region SW of camp, ca. 9 km north of Coronation Gulf coast, 12 km north of point	primary	rbcL	68.678	-112.703	0
+Potentilla_pulchella	KC483653.1	25-OCT-2013	552	Canada: Nunavut, Bylot Island, Qarlikturvik Valley	primary	rbcL	73.15	-79.85	0
+Potentilla_pulchella	KC483652.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, De Salis Bay	primary	rbcL	71.467	-121.9	0
+Potentilla_pulchella	KC483651.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Tukarak Island, slightly east facing slope below large rock hills, 50 m from shore	primary	rbcL	56.386	-78.872	0
+Potentilla_pulchella	KC483650.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	rbcL	69.45	-124.197	0
+Potentilla_pulchella	KC483649.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Beverly Inlet	primary	rbcL	75.1	-107.633	0
+Potentilla_pulchella	KC483648.1	25-OCT-2013	552	Canada: Northwest Territories, Axel Heiberg Island, Mokka Fiord	primary	rbcL	79.483	-87.367	0
+Potentilla_pulchella	KC483647.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, Coast on S side of river delta at head of N arm of Minto Inlet	primary	rbcL	71.631	-115.476	0
+Potentilla_pulchella	KC483646.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	rbcL	70.2162202539934	-115.802241191544	0
+Potentilla_pulchella	KC483645.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, Head of Minto Inlet, end of eastern most inlet (N arm), coastal saline flat	primary	rbcL	71.535	-115.184	0
+Potentilla_pulchella	JN965778.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	rbcL	58.78	-94.195	0
+Potentilla_pulchella	JN965777.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0
+Potentilla_pulchella	JN965776.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 7 km ESE Churchill, Launch Road, Sandy beach	primary	rbcL	58.761	-94.037	0

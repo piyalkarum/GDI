@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melissa_officinalis	MF694993.1	16-SEP-2018	506	Pakistan: Baluchistan, Quetta	primary	rbcL	30.1343954470688	67.0369290209732	0.00238512582947289
+Melissa_officinalis	MF694744.1	15-SEP-2018	552	Pakistan: Baluchistan, Quetta	primary	rbcL	30.5170553918203	67.5800156928426	0.00217603787394499
+Melissa_officinalis	KP643770.1	08-DEC-2015	537	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.892	-78.146	0.00282770474956052
+Melissa_officinalis	MG222265.1	26-DEC-2017	522	Canada: Manitoba, Brandon	secondary	rbcL	49.8511143	-99.9608924	0.00159642401021711
+Melissa_officinalis	KP172046.1	04-FEB-2015	1431	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00116632123337673
+Melissa_officinalis	KC584893.1	04-JUN-2013	685	Italy: Umbria	secondary	rbcL	42.965916	12.490236	0.00201527287970329
+Melissa_officinalis	HM850169.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00962092981347291

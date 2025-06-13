@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sibirotrisetum_sibiricum	MN434008.1	30-NOV-2021	796	China	secondary	matK	35.3027985615299	104.883578788666	0.018243176667652
+Sibirotrisetum_sibiricum	MN434007.1	30-NOV-2021	796	China	secondary	matK	34.8868634243207	105.156253440961	0.0128140703517588
+Sibirotrisetum_sibiricum	LR606984.1	25-JAN-2021	2105	Russia	secondary	matK	63.8985199267398	97.8184259952749	0.00767780909756777
+Sibirotrisetum_sibiricum	LT159706.1	15-MAR-2018	797	Russia	secondary	matK	64.540719156807	96.7832625004786	0.00431839402427638
+Sibirotrisetum_sibiricum	KM538800.1	20-JUN-2015	1091	South Korea	secondary	matK	36.6957049233146	128.648323439008	0.00964262190881078
+Sibirotrisetum_sibiricum	HQ600002.1	02-AUG-2011	1333	South Korea	secondary	matK	37.118934293486	128.280321161279	0.009989801530306

@@ -1,0 +1,52 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daphne_gnidium	OQ791723.1	20-SEP-2023	625	Italy: Toscana, Grosseto, surpra Port Ercole, prope opp. Orbetello	secondary	rps16	45.680084	9.3094697	0.000133420782993723
+Daphne_gnidium	OQ791722.1	20-SEP-2023	698	Portugal: Cabo Espichel. Peninsula de Troia	secondary	rps16	38.4139707	-9.2221662	0.000124715311050032
+Daphne_gnidium	OQ791721.1	20-SEP-2023	501	Portugal: Minde, colinas en las cercanias del pueblo	secondary	rps16	39.5134274	-8.687879	4.19287211740042e-05
+Daphne_gnidium	OQ791719.1	20-SEP-2023	744	Spain: Canary Islands, Santa Cruz de Tenerife. Canada de las Pilas, carretera a la Orotava	secondary	rps16	28.7344329648752	-17.5871562085156	0.000121009483737394
+Daphne_gnidium	OQ791718.1	20-SEP-2023	515	Portugal: Braganca, Vinhais, Rebordelo, rio Rabacal, alrededores del embalse	secondary	rps16	41.9598606332338	-6.35576219265727	7.76699029126214e-05
+Daphne_gnidium	OQ791716.1	20-SEP-2023	704	Morocco: Kenitra, Entre Kenitra y Allal-Ba-Haraoui, Foret de la Mamora	secondary	rps16	34.6027370825865	-6.90873568310404	0.00126672065068757
+Daphne_gnidium	OQ791715.1	20-SEP-2023	715	Spain: Gerona. Cassa de la Selva	secondary	rps16	41.8874685	2.8742461	0.00124845439108108
+Daphne_gnidium	OQ791713.1	20-SEP-2023	728	Portugal: Alentejo. Serra d Ossa, Pousio, entre a estrada de Estremoz-Evora, Monte e a ribeira de Sao Braz	secondary	rps16	38.49104545	-8.02735304495019	0.00122818228223191
+Daphne_gnidium	OQ791712.1	20-SEP-2023	616	Spain: Avila, El Raso, proximidades del castro celta	secondary	rps16	40.656478	-4.7002172	0.00143899811194346
+Daphne_gnidium	OQ791709.1	20-SEP-2023	855	Spain: Albacete, Bienservida, Sierra de Alcaraz, Fuente de la Pileta	secondary	rps16	38.9950921	-1.8559154	0.00158550969679896
+Daphne_gnidium	OQ791705.1	20-SEP-2023	791	Spain: Valencia, Gatova, casa de Tristan	secondary	rps16	39.7640707631454	-0.279708355673901	0.00118074915412096
+Daphne_gnidium	OQ791704.1	20-SEP-2023	824	Spain: Canary Islands. Tenerife	secondary	rps16	28.2935785	-16.6214471	0.000336552436439563
+Daphne_gnidium	OQ791703.1	20-SEP-2023	781	Portugal: Algarve. Entre Almansil y Vale do Lobo.	secondary	rps16	36.6008301113786	-8.89112035589175	0.000340710959902025
+Daphne_gnidium	OQ791701.1	20-SEP-2023	837	Morocco: Loukkos, SW of Ksar el Kebir, to road to Kenitra environs of Arbaoua on road to Lalla Mimouna	secondary	rps16	35.1934401	-5.459667	0.00247169112674369
+Daphne_gnidium	OQ791700.1	20-SEP-2023	854	Spain: Lerida, La Noguera, Cubells, carretera de Montgai	secondary	rps16	41.6147605	0.6267842	0.00035731980300013
+Daphne_gnidium	OQ791699.1	20-SEP-2023	708	Spain: Balearic Islands	secondary	rps16	40.1276618237952	3.8312420593123	0.000355079788684187
+Daphne_gnidium	OQ791698.1	20-SEP-2023	855	Spain: Zamora, Sesnandez, Carmona	secondary	rps16	41.5056574	-5.7448039	0.00035720155862584
+Daphne_gnidium	OQ791697.1	20-SEP-2023	855	Spain: Valencia, Bocairent, serra de Mariola, f. del Mas dels Arbres	secondary	rps16	39.4270097050736	-0.183677866822527	0.00035720155862584
+Daphne_gnidium	OQ791696.1	20-SEP-2023	855	Spain: Canary Islands, Tenerife,La Laguna, Mna. del Aire	secondary	rps16	28.3709552357772	-16.5461144501466	0.00035720155862584
+Daphne_gnidium	OQ791695.1	20-SEP-2023	855	Spain: Salamanca, entre Mogarraz y Cepeda	secondary	rps16	40.9651572	-5.6640182	0.00035720155862584
+Daphne_gnidium	OQ791694.1	20-SEP-2023	855	Portugal: Braganca, Mogadouro, Castro Vicente, confluencia de los rios Azibo y Sabor	secondary	rps16	41.8837330455153	-7.71362797408444	0.00035720155862584
+Daphne_gnidium	OQ791693.1	20-SEP-2023	855	Spain: Pontevedra, Cabo de Udra	secondary	rps16	42.4318876	-8.6431592	0.00035720155862584
+Daphne_gnidium	OQ791690.1	20-SEP-2023	855	Morocco: Kenitra, Entre Kenitra y Allal-Ba-Haraoui, Foret de la Mamora	secondary	rps16	33.6372046739686	-6.67509984989363	0.00035720155862584
+Daphne_gnidium	OQ791688.1	20-SEP-2023	855	Spain: Arganda del Rey	secondary	rps16	40.3007708	-3.4380688	0.00035720155862584
+Daphne_gnidium	OQ791687.1	20-SEP-2023	855	Spain: Cazorla, Jaen. Quesada, puerto Llano	secondary	rps16	37.9128927	-3.0038873	0.00035720155862584
+Daphne_gnidium	OQ791686.1	20-SEP-2023	855	Spain: Jaen, Andujar	secondary	rps16	38.0392362	-4.0505603	0.00035720155862584
+Daphne_gnidium	OQ791685.1	20-SEP-2023	855	Italy: Sardinia, Oristano, Cuglieri, Monte Ferru	secondary	rps16	40.1505219	8.6074499	0.00035720155862584
+Daphne_gnidium	OQ791684.1	20-SEP-2023	855	Italy	secondary	rps16	42.6384261	12.674297	0.00035720155862584
+Daphne_gnidium	OQ791681.1	20-SEP-2023	855	Spain: Caceres, Hervas, Plaza Napoles	secondary	rps16	40.2719049	-5.8713601	0.00035720155862584
+Daphne_gnidium	OQ791680.1	20-SEP-2023	855	Spain: Badajoz, Fuenlabrada de los Montes	secondary	rps16	39.132869	-4.9350961	0.00035720155862584
+Daphne_gnidium	OQ791679.1	20-SEP-2023	855	Spain: Alicante	secondary	rps16	38.3436365	-0.4881708	0.00035720155862584
+Daphne_gnidium	OQ791677.1	20-SEP-2023	851	Spain: Almeria.Nijar, Sierra de Cabo de Gata. Cortijo Montano. Frente al Cortijo del Fraile.	secondary	rps16	37.464457595705	-3.10304494376787	0.00035731150839254
+Daphne_gnidium	OQ791676.1	20-SEP-2023	850	Portugal: Serra de Monchique, entre Monchique e Alferce, prox. de Rouxinol	secondary	rps16	37.3349515	-8.5667612	0.000357339157525048
+Daphne_gnidium	OQ791675.1	20-SEP-2023	850	Spain: Almeria.Nijar, Sierra de Cabo de Gata. Cortijo Montano. Frente al Cortijo del Fraile	secondary	rps16	36.5198937707496	-3.00184579143682	0.000357339157525048
+Daphne_gnidium	OQ791674.1	20-SEP-2023	812	Spain: Cantabria, Somo	secondary	rps16	43.4534756	-3.7414052	0.00036114522198612
+Daphne_gnidium	OQ791673.1	20-SEP-2023	847	Spain: Leon, San Juan de Paluezas	secondary	rps16	42.5055423	-6.72435	0.000357422496645821
+Daphne_gnidium	OQ791672.1	20-SEP-2023	847	Spain: Guadalajara,Valdepenas de la Sierra.	secondary	rps16	40.908197	-3.3869458	0.000357422496645821
+Daphne_gnidium	OQ791671.1	20-SEP-2023	847	France: Banyuls-sur-Mer, Pyrenees-Orientales, entre la station de Biologie Marine, Arago, et l Anse du Troc	secondary	rps16	42.4794084	3.1275893	0.000357422496645821
+Daphne_gnidium	OQ791670.1	20-SEP-2023	847	Spain: Ciudad Real. San Lorenzo de Calatrava, barranco de la Hocecilla, matorral esclerofilo alto proximo al cauce del arroyo, sustrato siliceo pizarroso-esquistoso.	secondary	rps16	38.9854201	-3.9285138	0.000357422496645821
+Daphne_gnidium	OQ791669.1	20-SEP-2023	802	Spain: La Coruna, Dumbria, Ezaro, inmediaciones de los montes del Pindo	secondary	rps16	43.3709703	-8.3959425	0.000362440860274317
+Daphne_gnidium	OQ791668.1	20-SEP-2023	778	Spain: Canary Islands, La Palma. CanariasLas lomadas (Los Sauces)	secondary	rps16	28.0687599270818	-16.7302058469579	0.00036614611011583
+Daphne_gnidium	OQ791667.1	20-SEP-2023	854	Spain: Murcia, Sierra del Cerezo, arroyo de las Murtas, El Campanero	secondary	rps16	37.9923795	-1.1305431	0.000357228949507415
+Daphne_gnidium	OQ791666.1	20-SEP-2023	854	Spain: Malaga, Prope Puerto del Madrono, carretera A-376 de San Pedro de Alcantara a Ronda	secondary	rps16	36.7213028	-4.4216366	0.000357228949507415
+Daphne_gnidium	OQ791665.1	20-SEP-2023	826	Spain: Balearic Islands, Mallorca	secondary	rps16	40.4783469881863	2.58459364309751	0.000359385575175143
+Daphne_gnidium	OQ791664.1	20-SEP-2023	714	Portugal: Algarve. Sierra de Monchique, pr. Monchique.	secondary	rps16	37.3156759844974	-8.98957994637501	0.000352991923980612
+Daphne_gnidium	OQ791663.1	20-SEP-2023	846	Portugal: Guarda, Figueira de Castelo Rodrigo, Almofala, rio gueda en los Muros do Poco da Barca, Bajo Sto. Andre	secondary	rps16	40.5378408	-7.2662964	0.000357484096448519
+Daphne_gnidium	OQ791657.1	20-SEP-2023	771	Morocco: Kenitra, Entre Kenitra y Allal-Ba-Haraoui, Foret de la Mamora	secondary	rps16	34.2844658740498	-6.90571574350116	0.00133435594078834
+Daphne_gnidium	OQ791656.1	20-SEP-2023	620	Portugal: Peniche, cabo Carvoeiro	secondary	rps16	39.3592853	-9.4088423	0.0019263659380048
+Daphne_gnidium	OQ791652.1	20-SEP-2023	651	Portugal: Algarve. Vila do Bispo, Raposeira, praia da Ingrina	secondary	rps16	37.3464518044185	-8.18147132552049	0.00166735639061536
+Daphne_gnidium	OQ791714.1	20-SEP-2023	699	Portugal	secondary	rps16	41.0827499	-7.025089	0.00127487785886754
+Daphne_gnidium	OQ791711.1	20-SEP-2023	744	Spain	secondary	rps16	39.8794321	-0.3079326	0.00120504733263721

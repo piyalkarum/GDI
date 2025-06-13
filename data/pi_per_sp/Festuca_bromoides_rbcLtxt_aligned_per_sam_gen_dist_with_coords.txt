@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_bromoides	MF597080.1	28-FEB-2018	549	USA: California, Humboldt Co., along Hwy. 2111 S of Eureka	primary	rbcL	40.508	-124.289	0.00159924421607808
+Festuca_bromoides	MF597079.1	28-FEB-2018	549	Canada: British Columbia, Lower Mainland, Vancouver, West Vancouver, Marine Drive, 100 m E of Gleneagles Drive	primary	rbcL	49.1617028796284	-122.269940197573	0.00159924421607808
+Festuca_bromoides	MF597078.1	28-FEB-2018	549	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, ca. 3.2 km up road to Moresby Camp from Y junction (loop road), just over bridge at small creek	primary	rbcL	52.4502493678883	-132.240239506393	0.00159924421607808
+Festuca_bromoides	MF597077.1	28-FEB-2018	603	Canada: British Columbia, Mayne Island, end of Beachwood Road, along rocky cliff/ shoreline. With Vulpia, scotch broom, Sedum, Bromus hordeaceus, Danthonia, Poa.	primary	rbcL	49.4182563825228	-123.607848428009	0.00151691326504455
+Festuca_bromoides	MF597076.1	28-FEB-2018	603	Canada: British Columbia, Mayne Island, Bennett Bay, Gulf Islands National Park Reserve of Canada, Wilkes Road off Bennett Bay Road. Along trail through woods along coast.	primary	rbcL	48.7188040465691	-122.185988549625	0.00151691326504455
+Festuca_bromoides	MG227099.1	23-JAN-2018	549	Canada: British Columbia, Lower Mainland, Vancouver, West Vancouver, Marine Drive, 100 m E of Gleneagles Drive	primary	rbcL	48.5345271161774	-123.469506211365	0.00159924421607808
+Festuca_bromoides	MG226732.1	23-JAN-2018	603	Canada: British Columbia, Mayne Island, Bennett Bay, Gulf Islands National Park Reserve of Canada, Wilkes Road off Bennett Bay Road. Along trail through woods along coast.	primary	rbcL	48.4963038493268	-124.080368818167	0.00151691326504455
+Festuca_bromoides	MG226060.1	23-JAN-2018	549	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, ca. 3.2 km up road to Moresby Camp from Y junction (loop road), just over bridge at small creek	primary	rbcL	53.6313776377716	-132.103426573597	0.00159924421607808
+Festuca_bromoides	MG225808.1	23-JAN-2018	603	Canada: British Columbia, Mayne Island, end of Beachwood Road, along rocky cliff/ shoreline. With Vulpia, scotch broom, Sedum, Bromus hordeaceus, Danthonia, Poa.	primary	rbcL	48.7910681038377	-122.250686057148	0.00151691326504455
+Festuca_bromoides	LN908031.1	14-JAN-2016	1353	Tanzania:Arusha, Hanang	primary	rbcL	-4.4524	35.3875	0.00159032846238643
+Festuca_bromoides	JN891421.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.4	-4.04	0.00162826042308482
+Festuca_bromoides	MF998449.1	09-DEC-2017	1353	Reunion	secondary	rbcL	-21.1309332	55.5265771	0.00159032846238643
+Festuca_bromoides	KJ599158.1	21-SEP-2014	554	Australia: Victoria	secondary	rbcL	-36.5986096	144.6780052	0.0118198610105829
+Festuca_bromoides	HM850470.1	23-JUL-2011	691	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0135312604937776
+Festuca_bromoides	JN892832.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00162826042308482
+Festuca_bromoides	JN892830.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00162826042308482

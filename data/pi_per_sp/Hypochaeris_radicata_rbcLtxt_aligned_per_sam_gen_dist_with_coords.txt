@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypochaeris_radicata	OQ434022.1	02-JUL-2023	617	USA: West Lake Nature Preserve, Portage, MI	primary	rbcL	42.18492185	-85.58617244	0.00617584961463197
+Hypochaeris_radicata	MN342322.1	21-FEB-2022	606	United Kingdom: England, County Durham, Bishop Auckland Castle Park	primary	rbcL	54.6719	-1.6599	0.00917599579274159
+Hypochaeris_radicata	MK030042.1	16-OCT-2019	553	United Kingdom: England, County Durham, Auckland Park, Bishop Auckland	primary	rbcL	54.6721	-1.6602	0.00778824990041921
+Hypochaeris_radicata	MG223764.1	26-DEC-2017	552	Canada: Williamsford	primary	rbcL	44	-80	0.0255729184207177
+Hypochaeris_radicata	MG223116.1	26-DEC-2017	552	Canada: Hope, BC	primary	rbcL	49.3814	-121.439	0.00497853795690038
+Hypochaeris_radicata	MG222003.1	26-DEC-2017	552	Canada: Macdonald Ave, Guelph	primary	rbcL	43.5485	-80.2503	0.00497853795690038
+Hypochaeris_radicata	MF349264.1	21-SEP-2017	553	USA: Maryland; Smithsonian's Museum Support Ctr; 4210 Suitland Pkwy. Along service road between SI gardens Greenhouses and National Museum of American Indian; along service road near fire tower	primary	rbcL	38.844	-76.937	0.00497554502220221
+Hypochaeris_radicata	KX679206.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.045	-125.501	0.00497853795690038
+Hypochaeris_radicata	KX678320.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, Port Renfrew-Lake Cowichan Road	primary	rbcL	48.439	-124.109	0.00497853795690038
+Hypochaeris_radicata	JN890982.1	07-MAR-2012	524	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.13	0.00488377048971475
+Hypochaeris_radicata	JN890832.1	07-MAR-2012	525	United Kingdom: Shetland (112)	primary	rbcL	60.4	-1.38	0.0177104754336394
+Hypochaeris_radicata	HM850069.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0201456257085715
+Hypochaeris_radicata	JN892418.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0050537517948558
+Hypochaeris_radicata	JN892416.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0050537517948558

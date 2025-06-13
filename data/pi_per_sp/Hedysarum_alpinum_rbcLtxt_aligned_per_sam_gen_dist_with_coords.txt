@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedysarum_alpinum	MG249716.1	21-JAN-2018	552	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	rbcL	69.626	-140.875	0
+Hedysarum_alpinum	MG249537.1	21-JAN-2018	552	Canada: Northwest Territories, Baillie Islands	primary	rbcL	70.583	-128.285	0
+Hedysarum_alpinum	MG249031.1	21-JAN-2018	552	Canada: Northwest Territories, Tuktut Nogait National Park, east side of Hornaday River, 3 km ESE of junction with Little Hornaday River	primary	rbcL	68.326	-121.924	0
+Hedysarum_alpinum	KX678215.1	29-APR-2017	552	Canada: British Columbia, East Kootenay Regional District, 12 km south of Sparwood, Flathead River, on road to Corbin	primary	rbcL	49.5	-114.5	0
+Hedysarum_alpinum	KC482951.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	68.719	-110.783	0
+Hedysarum_alpinum	KC482950.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, South Quadjuk Island, sandstone heads area	primary	rbcL	66.861	-107.91	0
+Hedysarum_alpinum	KC482949.1	25-OCT-2013	552	Canada: Nunavut, Arctic Mainland, West Hudson Bay, Rankin Inlet	primary	rbcL	62.55	-92.44	0
+Hedysarum_alpinum	KC482948.1	25-OCT-2013	552	Canada: Northwest Territories, Canadian Arctic Archipelago, Victoria Island, Uluhaktok	primary	rbcL	70.764	-117.888	0
+Hedysarum_alpinum	KC482947.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	rbcL	70.738	-117.762	0
+Hedysarum_alpinum	KC482946.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Castle Butte, near summit	primary	rbcL	68.406	-121.989	0
+Hedysarum_alpinum	KC482945.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.619	-115.493	0
+Hedysarum_alpinum	JX848461.1	06-AUG-2013	1378	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0

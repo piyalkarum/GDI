@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_bryoides	KF547518.1	09-SEP-2014	345	Macedonia: Galicica mnts., Poljce pass	primary	trnL-trnF	40.925	20.83	0.00579991012245815
+Arabis_bryoides	KF547517.1	09-SEP-2014	365	Greece: Reg. Central Greece, Per. Fokis,Giona massif, 3.8km SSW Kaloskopi	primary	trnL-trnF	38.6583	22.3083	0.00736168631198896
+Arabis_bryoides	KF547462.1	09-SEP-2014	367	Greece: Reg. East Macedonia and Thrace, Per. Evros,Mt. Fengari	primary	trnL-trnF	40.4665	25.5833	0.00746226557355352
+Arabis_bryoides	KC412320.1	31-DEC-2013	366	Greece: Mt. Athos	primary	trnL-trnF	40.1572	24.3271	0.00558283998954187

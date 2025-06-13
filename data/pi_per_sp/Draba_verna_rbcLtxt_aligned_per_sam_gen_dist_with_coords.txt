@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_verna	MG248445.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Victoria	primary	rbcL	48.433	-123.367	0.00269875074785466
+Draba_verna	MG246484.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Victoria, Royal BC Museum	primary	rbcL	48.422	-123.371	0.00365434647830034
+Draba_verna	MG246464.1	21-JAN-2018	552	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, North Campground, Locust Section, Campsite #193	primary	rbcL	42.321	-81.843	0.00269875074785466
+Draba_verna	MG245992.1	21-JAN-2018	552	Canada: Ontario, Norfolk County, Norfolk Township, Lee Brown Waterfowl Management Area parking lot	primary	rbcL	42.591	-80.501	0.00269875074785466
+Draba_verna	KX678572.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, Saanich Peninsula, Island View Beach	primary	rbcL	48.585	-123.372	0.00269875074785466
+Draba_verna	KX678287.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Burnaby Lake Regional Park	primary	rbcL	49.248	-122.919	0.00269875074785466
+Draba_verna	KX678192.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Chute Lake Road, near Naramata	primary	rbcL	49.692	-119.536	0.00269875074785466
+Draba_verna	JN892021.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.66	-2.69	0.00369826000105671
+Draba_verna	JN892020.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.86	-3.93	0.00566970279187715
+Draba_verna	JN892019.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.69	-4.17	0.0022197315663669
+Draba_verna	HQ619740.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00218780821812112
+Draba_verna	JN891453.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0022197315663669
+Draba_verna	JN891452.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.6135140749826	-3.87647102414	0.0022197315663669
+Draba_verna	JN891194.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.0022197315663669
+Draba_verna	JN890725.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.0022197315663669
+Draba_verna	JN890724.1	07-MAR-2012	536	United Kingdom: Carmarthenshire	secondary	rbcL	51.8221095669853	-4.40105517176115	0.00273701585530292

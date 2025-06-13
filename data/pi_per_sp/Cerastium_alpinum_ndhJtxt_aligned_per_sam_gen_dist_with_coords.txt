@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_alpinum	MH488045.1	20-JAN-2022	2104	Austria	secondary	ndhJ	36.7431815850953	-4.709767141468	0.00144300144300144
+Cerastium_alpinum	MH488044.1	20-JAN-2022	2102	Austria	secondary	ndhJ	37.5224927343496	-5.30307253404628	0.00144300144300144
+Cerastium_alpinum	MH488043.1	20-JAN-2022	2102	Austria	secondary	ndhJ	36.6468054591112	-5.80746606592174	0.00144300144300144
+Cerastium_alpinum	MH488036.1	20-JAN-2022	2102	Switzerland	secondary	ndhJ	46.7985624	8.2319736	0.0014436958614052
+Cerastium_alpinum	MH487962.1	20-JAN-2022	2130	Macedonia	secondary	ndhJ	41.1927739	-95.4256198	0.00577270019040953

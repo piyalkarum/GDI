@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_onopteris	MK827586.1	30-APR-2020	851	Spain: Catalunya	secondary	rps4	41.8523094	1.5745043	0
+Asplenium_onopteris	MK827556.1	30-APR-2020	900	Spain: Orense	secondary	rps4	41.7312037466515	-7.25735425320269	0
+Asplenium_onopteris	MK827555.1	30-APR-2020	913	Spain: Orense	secondary	rps4	41.3266197013703	-7.75396662763939	0
+Asplenium_onopteris	KR233960.1	04-OCT-2015	485	Italy	secondary	rps4	42.6384261	12.674297	0

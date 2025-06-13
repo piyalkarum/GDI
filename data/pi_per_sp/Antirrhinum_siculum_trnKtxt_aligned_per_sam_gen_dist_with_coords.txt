@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_siculum	EU718034.1	31-MAY-2009	1255	Italy: Sicily, Siracusa	secondary	trnK	37.0646139	15.2907196	0.00239043824701195
+Antirrhinum_siculum	EU718033.1	31-MAY-2009	1255	Italy: Sicily, Messine	secondary	trnK	38.1937571	15.5542082	0.00185922974767596
+Antirrhinum_siculum	EU718032.1	31-MAY-2009	1255	Italy: Sicily, Catania	secondary	trnK	37.5023612	15.0873718	0.00185922974767596
+Antirrhinum_siculum	HM152978.1	24-AUG-2010	1255	Morocco: Oriental, Zegzel	secondary	trnK	34.8414927	-2.355503	0.00292164674634794

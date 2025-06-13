@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anabasis_aphylla	MF156764.1	30-MAY-2018	670	Russia: Kalmykia, at road P221 between Wolgograd and Elista	secondary	rbcL	47.5683779	46.7974541856897	0.277287319422151
+Anabasis_aphylla	MF156722.1	30-MAY-2018	669	Iran: Khorasan, near Bojnurd (EG2)	secondary	rbcL	35.7131	47.2656	0.276929260450161
+Anabasis_aphylla	KX262517.1	11-APR-2017	630	Kazakhstan	secondary	rbcL	48.1012954	66.7780818	0.284305317324185
+Anabasis_aphylla	HM131746.1	29-JUN-2010	1343	China: Wuqia, Atshi, Xinjiang	secondary	rbcL	41.6921753	82.9574574	0.419761836137358
+Anabasis_aphylla	HM131745.1	29-JUN-2010	1343	China: Xiabahu, Changji, Xinjiang	secondary	rbcL	29.187413	109.579893	0.42099386597351

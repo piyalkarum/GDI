@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aubrieta_scardica	KF547490.1	09-SEP-2014	383		primary	trnL-trnF	41.7903	20.5466	0.00190827654157934
+Aubrieta_scardica	KF547489.1	09-SEP-2014	392		primary	trnL-trnF	40.348	20.7796	0.00692989088201861
+Aubrieta_scardica	KF547488.1	09-SEP-2014	383	Greece: Reg. Epirus, Per. Ioannina,Konitsa	primary	trnL-trnF	40.0361	20.7464	0.00190827654157934
+Aubrieta_scardica	KF547450.1	09-SEP-2014	382		primary	trnL-trnF	38.9493	21.8026	0.0036246476037052
+Aubrieta_scardica	KF547441.1	09-SEP-2014	383	Greece: Reg. Thessaly, Per. Trikala,between Mt. Boustagani and Mt. Boutaia, 6km SW of Chaliki	primary	trnL-trnF	40.2362948471825	20.2827708816481	0.00361518377184173
+Aubrieta_scardica	KF547440.1	09-SEP-2014	383	Greece: Reg. Thessaly, Per. Trikala,between Mt. Boustagani and Mt. Boutaia, 6km SW of Chaliki	primary	trnL-trnF	40.220312489694	21.5806278311291	0.00190827654157934
+Aubrieta_scardica	KF547439.1	09-SEP-2014	383	Greece: Reg. Thessaly, Per. Trikala,summit Trapos in Mt. Peristeri, 5km WSW of Chaliki	primary	trnL-trnF	39.6671	21.1344	0.00190827654157934
+Aubrieta_scardica	KF547438.1	09-SEP-2014	383		primary	trnL-trnF	39.6871	21.8741	0.00190827654157934
+Aubrieta_scardica	KF547437.1	09-SEP-2014	383		primary	trnL-trnF	38.9516	21.7902	0.00190827654157934
+Aubrieta_scardica	KF547434.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per.. Eurytania,Mt. Timfristos, c. 4km NNW of Karpenision	primary	trnL-trnF	38.9486	21.7775	0.00843595456940091
+Aubrieta_scardica	KF547433.1	09-SEP-2014	383	Greece: Reg. Thessaly, Per. Trikala,ENE of the summit Trapos in Mt. Peristeri, 5km WSW of Chaliki	primary	trnL-trnF	40.47852247613	20.7041002335092	0.00190827654157934
+Aubrieta_scardica	KF547432.1	09-SEP-2014	383	Greece: Reg. Thessaly, Per. Trikala,ENE of the summit Trapos in Mt. Peristeri, 5km WSW of Chaliki	primary	trnL-trnF	39.2106564298135	21.9945532216985	0.00190827654157934
+Aubrieta_scardica	KF547431.1	09-SEP-2014	383	Greece: Reg. Thessaly, Per. Trikala,Mt. Kakarditsa, 3.5km W of Athamania	primary	trnL-trnF	39.5313	21.2407	0.00944069805223825
+Aubrieta_scardica	KF547430.1	09-SEP-2014	383	Greece: Reg. Epirus, Per. Arta,Mt. Zoumerka, 4.5km WSW of Theodoriana	primary	trnL-trnF	38.8167654019453	20.8581812342539	0.00190827654157934
+Aubrieta_scardica	KF547429.1	09-SEP-2014	383	Greece: Reg. Epirus, Per. Arta,Mt. Zoumerka, 4.5km WSW of Theodoriana	primary	trnL-trnF	38.9598597353765	20.4116236870329	0.0159683760800598
+Aubrieta_scardica	KF547428.1	09-SEP-2014	383	Greece: Reg. Thessaly, Per. Karditsa,Mt. Voutsikaki, 4km E of Vlasio	primary	trnL-trnF	39.286	21.6325	0.00692989088201861
+Aubrieta_scardica	KF547427.1	09-SEP-2014	383	Greece: Reg. Thessaly, Per. Trikala,Mt. Augo, 6km SW of Pirra, Aithikoi	primary	trnL-trnF	38.9944757662446	20.600203223904	0.00361518377184173
+Aubrieta_scardica	KF547426.1	09-SEP-2014	383	Greece: Reg. Epirus, Per. Ioaninna,Vikos Gorge, c. 2.5km SE of Vikos	primary	trnL-trnF	39.9789	20.6983	0.00190827654157934
+Aubrieta_scardica	KF547425.1	09-SEP-2014	383	Greece: Reg. Thessaly, Per. Trikala,Mt. Tringia, 3km N of Paleochorion	primary	trnL-trnF	39.9118946335327	21.1544360107155	0.00190827654157934
+Aubrieta_scardica	KF547424.1	09-SEP-2014	383	Greece: Reg. Thessaly, Per. Trikala,Mt. Tringia, 2.5km N of Paleochorion	primary	trnL-trnF	38.8946120703602	21.6865165560386	0.00190827654157934
+Aubrieta_scardica	KF547423.1	09-SEP-2014	383	Greece: Reg. Thessaly, Per. Trikala,Mt. Augo, 5km SW of Pirra, Aithikoi	primary	trnL-trnF	40.1375701801772	20.945690407969	0.00190827654157934
+Aubrieta_scardica	KF547422.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per. Evritania,Mt. Timfrestos, 4km N of Karpenision	primary	trnL-trnF	38.9521	21.7986	0.00190827654157934
+Aubrieta_scardica	KF547421.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per. Evritania,Mt. Chelidon, c. 3.5km W of Mikro Chorio	primary	trnL-trnF	38.5679890528249	21.4107499060982	0.00190827654157934
+Aubrieta_scardica	KF547420.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per. Evritania,Mt. Chelidon, c. 3.5km W of Mikro Chorio	primary	trnL-trnF	38.5766494802119	20.8555160441937	0.00190827654157934
+Aubrieta_scardica	KF547415.1	09-SEP-2014	383	Greece: Reg. West Macedonia, Per. Kastoria,between Monodendri and Vikos gorge	primary	trnL-trnF	39.8833	20.75	0.00190827654157934
+Aubrieta_scardica	KF547414.1	09-SEP-2014	383	Greece: Reg. Central Greece, Per. Evritania,c. 3.5km N-NNE of Karpenision	primary	trnL-trnF	38.9444	21.8111	0.00190827654157934
+Aubrieta_scardica	KC412352.1	31-DEC-2013	383	Greece: Reg. Thessalia, Per. Trikala,5km SW of Pyrra	primary	trnL-trnF	39.5017	21.3693	0.00190827654157934

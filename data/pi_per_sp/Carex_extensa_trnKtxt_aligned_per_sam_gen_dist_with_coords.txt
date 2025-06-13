@@ -1,0 +1,59 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_extensa	GU129766.3	17-JAN-2010	679	Sweden: Vellinge, Skanoer	secondary	trnK	54.7748103188511	12.040321105986	0
+Carex_extensa	GU129765.3	17-JAN-2010	679	Sweden: Vellinge, Skanoer	secondary	trnK	55.4697645311639	14.5754919634607	0
+Carex_extensa	GU129764.3	17-JAN-2010	679	Sweden: Vellinge, Skanoer	secondary	trnK	54.8852829845293	14.2241444212848	0
+Carex_extensa	GU129760.3	17-JAN-2010	679	France: Haute-normandie, Havre	secondary	trnK	49.7900192107586	2.00999213552351	0
+Carex_extensa	GU129759.3	17-JAN-2010	679	France: Haute-normandie, Havre	secondary	trnK	48.4965664049537	0.997305607701122	0
+Carex_extensa	GU129758.3	17-JAN-2010	679	France: Haute-normandie, Havre	secondary	trnK	49.8271936745147	-0.0662133259789592	0
+Carex_extensa	GU129757.3	17-JAN-2010	679	France: Vannes, Belz	secondary	trnK	47.3464660750224	-2.07752181690851	0
+Carex_extensa	GU129756.3	17-JAN-2010	679	France: Vannes, Belz	secondary	trnK	47.0840812259954	-2.38932580854593	0
+Carex_extensa	GU129755.3	17-JAN-2010	679	France: Vannes, Belz	secondary	trnK	48.3249412425628	-3.30391297048642	0
+Carex_extensa	GU129754.3	17-JAN-2010	679	Spain: Burgos, Puernigas	secondary	trnK	42.235317847851	-4.55151509173659	0
+Carex_extensa	GU129753.3	17-JAN-2010	679	Portugal: Alto Alentejo, Sines	secondary	trnK	39.0435440083678	-7.51086160545377	0
+Carex_extensa	GU129752.3	17-JAN-2010	679	Portugal: Aveiro, Vagos	secondary	trnK	40.394511519347	-9.76058753891637	0
+Carex_extensa	GU129751.3	17-JAN-2010	679	Spain: Huelva, El Rompido, La Flecha Del Rompido	secondary	trnK	37.5850407205131	-7.59010965283011	0
+Carex_extensa	GU129750.3	17-JAN-2010	679	Spain: Cadiz, Conil De La Frontera, Playa De Bateles	secondary	trnK	36.9115984487438	-6.06227672156916	0
+Carex_extensa	GU129749.3	17-JAN-2010	679	Spain: Valencia, El Saler	secondary	trnK	39.4654677951399	0.275519538878378	0
+Carex_extensa	GU129748.3	17-JAN-2010	679	Spain: Barcelona, El Prat, between the beach and the airport	secondary	trnK	41.3960032768669	1.03450683278143	0
+Carex_extensa	GU129747.3	17-JAN-2010	679	France: Corsica, Porto Vecchio	secondary	trnK	41.4263693348381	9.33036669036673	0
+Carex_extensa	GU129746.3	17-JAN-2010	658	France: Corsica, Biguglia, Biguglia Lake	secondary	trnK	41.6902770553834	9.93111186290339	0
+Carex_extensa	GU129745.3	17-JAN-2010	658	Italy: Lazio, Sabaudia, Circeo Natural Park, Cabrolage Lake	secondary	trnK	41.5445127331627	12.8958461698	0
+Carex_extensa	GU129744.3	17-JAN-2010	658	Italy: Toscana, Orbetello, Natural Reserve Ortobello Lake	secondary	trnK	45.1555961877098	9.81397729511435	0
+Carex_extensa	GU129742.3	17-JAN-2010	679	Morocco: Martil, Martil River	secondary	trnK	34.9603609563923	-5.34283037073492	0
+Carex_extensa	GU129740.3	17-JAN-2010	679	Netherlands: Schiermonnikoog Island	secondary	trnK	53.1518384671376	7.13908033434096	0
+Carex_extensa	GU129739.3	17-JAN-2010	679	Netherlands: Zuidland, Oostvoorne, Duinen Van Voorne	secondary	trnK	52.1101623148662	4.50433772895191	0
+Carex_extensa	GU129738.3	17-JAN-2010	679	Spain: Gipuzkoa, Zarautz, Inurritza	secondary	trnK	43.1539406424185	-1.72667892484785	0
+Carex_extensa	GU129737.3	17-JAN-2010	679	United Kingdom: Scotland, Dunbar, Barris Ness	secondary	trnK	53.1024408861464	-0.535935798987737	0
+Carex_extensa	GU129736.3	17-JAN-2010	679	Spain: Burgos, Puernigas	secondary	trnK	41.7686988900773	-3.03281873105845	0
+Carex_extensa	GU129735.3	17-JAN-2010	679	Spain: Asturias, Near Villaviciosa, Ria Rodiles	secondary	trnK	37.7892442906512	-6.46081559035123	0
+Carex_extensa	GU129734.3	17-JAN-2010	679	Portugal: Alto Alentejo, Sines	secondary	trnK	39.5919393646663	-6.80448098636613	0
+Carex_extensa	GU129733.3	17-JAN-2010	679	Portugal: Aveiro, Vagos	secondary	trnK	40.7912444613918	-7.71277912865053	0
+Carex_extensa	GU129732.3	17-JAN-2010	679	Spain: Huelva, El Rompido, La Flecha Del Rompido	secondary	trnK	37.2614761446964	-7.22314367766776	0
+Carex_extensa	GU129731.3	17-JAN-2010	679	Spain: Cadiz, Conil De La Frontera, Playa De Bateles	secondary	trnK	36.7467487639214	-5.33760282669158	0
+Carex_extensa	GU129730.3	17-JAN-2010	679	Spain: Valencia, El Saler	secondary	trnK	38.7486090844101	0.360800751442664	0
+Carex_extensa	GU129729.3	17-JAN-2010	679	Spain: Barcelona, El Prat, between the beach and the airport	secondary	trnK	41.9401095315081	1.42557760739589	0
+Carex_extensa	GU129728.3	17-JAN-2010	679	France: Corsica, Porto Vecchio	secondary	trnK	40.9936742852503	9.54982411339914	0
+Carex_extensa	GU129727.3	17-JAN-2010	679	France: Corsica, Porto Vecchio	secondary	trnK	40.7196659912591	9.3319931656311	0
+Carex_extensa	GU129726.3	17-JAN-2010	658	France: Corsica, Biguglia, Biguglia Lake	secondary	trnK	41.4830459363263	8.65194714520729	0
+Carex_extensa	GU129725.3	17-JAN-2010	658	France: Corsica, Biguglia, Biguglia Lake	secondary	trnK	42.9898726227865	9.30667528657714	0
+Carex_extensa	GU129724.3	17-JAN-2010	658	Italy: Lazio, Sabaudia, Circeo Natural Park, Cabrolage Lake	secondary	trnK	41.1180518907716	12.8260327334398	0
+Carex_extensa	GU129723.3	17-JAN-2010	658	Italy: Toscana, Orbetello, Natural Reserve Ortobello Lake	secondary	trnK	46.1530326579476	9.24517880213266	0
+Carex_extensa	GU129721.3	17-JAN-2010	679	Morocco: Martil, Martil River	secondary	trnK	35.0792713808698	-4.67583972140679	0
+Carex_extensa	GU129718.3	17-JAN-2010	679	Netherlands: Schiermonnikoog Island	secondary	trnK	53.7808777827755	5.27030218334746	0
+Carex_extensa	GU129717.3	17-JAN-2010	679	Netherlands: Zuidland, Oostvoorne, Duinen Van Voorne	secondary	trnK	52.0023724762491	5.14873503499783	0
+Carex_extensa	GU129716.3	17-JAN-2010	679	Spain: Gipuzkoa, Zarautz, Inurritza	secondary	trnK	42.9544641561942	-2.14635801895039	0
+Carex_extensa	GU129715.3	17-JAN-2010	679	United Kingdom: Scotland, Dunbar, Barris Ness	secondary	trnK	52.3981557630884	-1.65794621548103	0
+Carex_extensa	GU129714.3	17-JAN-2010	679	Spain: Burgos, Puernigas	secondary	trnK	42.0386338873977	-3.41728097890764	0
+Carex_extensa	GU129713.3	17-JAN-2010	679	Spain: Asturias, Near Villaviciosa, Ria Rodiles	secondary	trnK	36.8092162819374	-5.2913904791435	0
+Carex_extensa	GU129712.3	17-JAN-2010	679	Portugal: Alto Alentejo, Sines	secondary	trnK	38.7317858132579	-7.24065934429587	0
+Carex_extensa	GU129711.3	17-JAN-2010	679	Portugal: Aveiro, Vagos	secondary	trnK	41.1873619130794	-8.59476347406183	0
+Carex_extensa	GU129710.3	17-JAN-2010	679	Spain: Huelva, El Rompido, La Flecha Del Rompido	secondary	trnK	38.0058119350929	-6.74537263669879	0
+Carex_extensa	GU129709.3	17-JAN-2010	679	Spain: Cadiz, Conil De La Frontera, Playa De Bateles	secondary	trnK	37.0116983965876	-6.47328108458922	0
+Carex_extensa	GU129708.3	17-JAN-2010	679	France: Corsica, Porto Vecchio	secondary	trnK	41.5568566986668	10.2493377749546	0
+Carex_extensa	GU129707.3	17-JAN-2010	658	France: Corsica, Biguglia, Biguglia Lake	secondary	trnK	41.6261313690468	8.85600172111775	0
+Carex_extensa	GU129706.3	17-JAN-2010	658	Italy: Lazio, Sabaudia, Circeo Natural Park, Cabrolage Lake	secondary	trnK	41.2582468995262	13.5432681115354	0
+Carex_extensa	GU129705.3	17-JAN-2010	658	Italy: Toscana, Orbetello, Natural Reserve Ortobello Lake	secondary	trnK	45.9359006026809	9.5004587143882	0
+Carex_extensa	GU129703.3	17-JAN-2010	679	Morocco: Martil, Martil River	secondary	trnK	35.999772269292	-5.90373072872331	0
+Carex_extensa	GU129763.3	17-JAN-2010	658	Greece	secondary	trnK	38.8200129511572	22.7112561352894	0
+Carex_extensa	GU129762.3	17-JAN-2010	658	Greece	secondary	trnK	39.4860587744803	22.1938072575417	0
+Carex_extensa	GU129761.3	17-JAN-2010	658	Greece	secondary	trnK	38.5340285362251	22.3281590077543	0

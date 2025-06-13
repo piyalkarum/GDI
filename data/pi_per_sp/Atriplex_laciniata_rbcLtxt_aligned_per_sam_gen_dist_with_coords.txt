@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atriplex_laciniata	MG249367.1	21-JAN-2018	552	Canada: Prince Edward Island, Kings County, Murray Harbour North, Poverty Beach, Irvings Cape, 1/2 mi. E of Murray Harbour north	primary	rbcL	46.05	-62.483	0.141191389990264
+Atriplex_laciniata	MG248043.1	21-JAN-2018	552	Canada: New Brunswick, Pandora Point, Ile Lameque	primary	rbcL	47.883	-64.567	0.141191389990264
+Atriplex_laciniata	JN891030.1	07-MAR-2012	542	United Kingdom: Shetland (112)	primary	rbcL	59.97	-1.33	0.143335140395212
+Atriplex_laciniata	JN890778.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.141000330236765
+Atriplex_laciniata	HM587635.1	29-APR-2011	641	Denmark: Dania, Laeso	secondary	rbcL	57.2719765	10.9932053	0.561176374491342

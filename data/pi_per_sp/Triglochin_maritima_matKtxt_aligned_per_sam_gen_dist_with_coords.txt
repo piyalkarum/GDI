@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Triglochin_maritima	KC476062.1	25-OCT-2013	727	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Bill Storr Channel	primary	matK	68.86	-136.813	0.0260755341595893
+Triglochin_maritima	KC476061.1	25-OCT-2013	690	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, West side of Hornaday River, east of Castle Butte	primary	matK	68.2528	-121.811	0.0274880189791126
+Triglochin_maritima	KC476060.1	25-OCT-2013	766	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, along Darnley Bay	primary	matK	69.3944	-124.117	0.026242894060197
+Triglochin_maritima	KC476059.1	25-OCT-2013	732	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Sheep Crrek	primary	matK	69.154	-140.161	0.026143987779372
+Triglochin_maritima	JN966720.1	27-OCT-2012	718	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0.0263984837053978
+Triglochin_maritima	JN966719.1	27-OCT-2012	738	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	matK	58.626	-94.23	0.0261217062898409
+Triglochin_maritima	JN966718.1	27-OCT-2012	648	Canada: Manitoba, Churchill, 10 km SE Churchill, Farnworth Lake, Lake shore	primary	matK	58.705	-94.052	0.0272468142186452
+Triglochin_maritima	JN894391.1	07-MAR-2012	814	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.170934721944619

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinguicula_corsica	LN887922.1	05-JAN-2017	615	France	secondary	28S rRNA	46.4645043410104	3.04732159280028	0
+Pinguicula_corsica	LN887921.1	05-JAN-2017	615	France	secondary	28S rRNA	46.8170297850518	1.0374159432347	0
+Pinguicula_corsica	LN887920.1	05-JAN-2017	615	France	secondary	28S rRNA	45.9486953317585	1.39926394644568	0
+Pinguicula_corsica	LN887919.1	05-JAN-2017	615	France	secondary	28S rRNA	45.9911381680316	2.02677280044124	0

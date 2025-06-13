@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_epihydrus	MF694523.1	04-SEP-2018	400	Canada: Lake Kasshabog, Peterborough Co., ON	primary	rbcL	44.2958788982562	-77.1725902146438	0.398616064419173
+Potamogeton_epihydrus	MF694517.1	04-SEP-2018	502	Canada: British Columbia, Mission, Whonnock Lake, lake NW of Mission	primary	rbcL	49.217	-122.45	0.39690872751499
+Potamogeton_epihydrus	MF694599.1	04-SEP-2018	552	Canada: Lake Kasshabog, Peterborough Co., ON	primary	rbcL	43.8669837017501	-78.1689031125182	0.397446435421119
+Potamogeton_epihydrus	MK924491.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.398078356513044

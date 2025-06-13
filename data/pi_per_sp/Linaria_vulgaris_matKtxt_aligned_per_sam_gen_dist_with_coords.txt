@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_vulgaris	OR575899.1	25-OCT-2023	501	Kazakhstan: Qaragandy region	primary	matK	49.33604	75.67641	NA
+Linaria_vulgaris	OR464920.1	26-SEP-2023	894	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.6752589259855	-85.7008782242504	0.00415694267829922
+Linaria_vulgaris	OR464919.1	26-SEP-2023	623	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	43.0514386279508	-85.0516286339516	NA
+Linaria_vulgaris	MG225197.1	21-JAN-2018	729	Canada: Ontario, Wellington County, City of Guelph, Stone Road and Eramosa River, Old Jail Quarry	primary	matK	43.549	-80.199	0.0138172853163827
+Linaria_vulgaris	MG224952.1	21-JAN-2018	781	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	matK	42.454	-81.884	0.00448637308742371
+Linaria_vulgaris	MG224839.1	21-JAN-2018	777	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Meadow Area (Rifle Range)	primary	matK	43.294	-79.876	0.00449682720068758
+Linaria_vulgaris	HQ593345.1	09-NOV-2011	869	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 100 m S of Eastern pond at edge of fenced area	primary	matK	44.03	-79.536	0.00419852638722652
+Linaria_vulgaris	JN966356.1	27-OCT-2012	780	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	matK	58.772	-94.163	0.00648251309179257
+Linaria_vulgaris	JN895437.1	07-MAR-2012	782	United Kingdom: Monmouthshire	primary	matK	51.68	-3.03	0.00631969317352641
+Linaria_vulgaris	MT929889.1	03-MAR-2023	784	China	secondary	matK	35.256468764038	105.461896235917	0.00898161404097595
+Linaria_vulgaris	MT929888.1	03-MAR-2023	783	China	secondary	matK	34.9730221672142	105.347147033089	0.00441009354919174
+Linaria_vulgaris	MT946470.1	03-MAR-2023	770	China	secondary	matK	35.7500432038758	104.792509024908	0.00658910979389895
+Linaria_vulgaris	LR746150.1	25-JAN-2021	836	Italy	secondary	matK	42.6384261	12.674297	0.00615476541271109
+Linaria_vulgaris	JF694194.1	21-AUG-2011	1222	France: Chamonix	secondary	matK	45.9246705	6.8727506	NA
+Linaria_vulgaris	KJ746156.1	29-JUL-2014	699	Poland	secondary	matK	52.215933	19.134422	0.00458607275144941
+Linaria_vulgaris	KJ204500.1	29-JAN-2015	839	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00536232890205455
+Linaria_vulgaris	JN894762.1	07-MAR-2012	734	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00475647753641959
+Linaria_vulgaris	JN894756.1	07-MAR-2012	817	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00441563610745624
+Linaria_vulgaris	GQ248146.2	02-JUL-2009	777	United Kingdom: Devon	secondary	matK	50.7241405	-3.6607788	0.00573987373005114

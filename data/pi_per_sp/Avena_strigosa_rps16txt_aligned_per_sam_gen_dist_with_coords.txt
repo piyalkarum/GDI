@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Avena_strigosa	KT453194.1	17-FEB-2017	789	United Kingdom	secondary	rps16	54.067404130494	-2.59132315438559	0.00253485424588086
+Avena_strigosa	KT453170.1	17-FEB-2017	791	Canada: Ontario	secondary	rps16	50.000678	-86.000977	0.000844951415293621
+Avena_strigosa	KT453169.1	17-FEB-2017	791	Portugal	secondary	rps16	39.6621648	-8.1353519	0.000844951415293621
+Avena_strigosa	KT453155.1	17-FEB-2017	791	United Kingdom	secondary	rps16	55.2692399180773	-2.18465210927095	0.000844951415293621

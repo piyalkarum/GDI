@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polypogon_monspeliensis	MF597011.1	28-FEB-2018	603	Canada: British Columbia, Spotted Lake. ~ 5km W of Osoyoos, S of Hwy. 3. Alkaline pond.	primary	rbcL	49.5823181676397	-120.265296324823	0.000970684636652321
+Polypogon_monspeliensis	MG227844.1	23-JAN-2018	603	Canada: British Columbia, Spotted Lake. ~ 5km W of Osoyoos, S of Hwy. 3. Alkaline pond.	primary	rbcL	49.4781429796613	-120.512606987001	0.000970684636652321
+Polypogon_monspeliensis	MN192783.1	30-NOV-2021	723	China	secondary	rbcL	35.1048580249544	104.41931507111	0.00154727425457488
+Polypogon_monspeliensis	MN192782.1	30-NOV-2021	641	China	secondary	rbcL	35.1280632188784	104.298878870981	0.00114269791571732
+Polypogon_monspeliensis	MK925560.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4017567549283	-2.75119456828843	0.000826646361701712
+Polypogon_monspeliensis	MK925138.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6071774655243	-3.14089388421575	0.000826646361701712
+Polypogon_monspeliensis	MF998463.1	09-DEC-2017	1353	Cyprus	secondary	rbcL	34.9174159	32.8899027	0.00311243214719883
+Polypogon_monspeliensis	KX282960.1	28-MAY-2017	580	Kuwait	secondary	rbcL	28.924311918476	48.6385408702566	0.00438229328743645
+Polypogon_monspeliensis	KX282959.1	28-MAY-2017	570	Kuwait	secondary	rbcL	29.9135768164503	48.1408034566034	0.00238629075720698
+Polypogon_monspeliensis	HM850275.1	23-JUL-2011	661	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00300834875654437

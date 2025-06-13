@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cicuta_maculata	MG224384.1	26-DEC-2017	552	Canada: Yukon Territory, Smith River	primary	rbcL	60.084	-126.318	0.00121660983233873
+Cicuta_maculata	MG223070.1	26-DEC-2017	552	Canada: Yukon Territory, Kirkman Creek, Yukon River	primary	rbcL	62.989	-139.385	0.00121660983233873
+Cicuta_maculata	MG222301.1	26-DEC-2017	552	Canada: Yukon Territory, North Klondike Highway, Tatchun Creek	primary	rbcL	62.283	-136.311	0.00121660983233873
+Cicuta_maculata	MF349747.1	21-SEP-2017	553	USA: Virginia; Off of Rt611, end of Flippo Road on unpaved road to un-named creek flowing over road	primary	rbcL	38.446	-77.328	0.00151408783778077
+Cicuta_maculata	KX678684.1	29-APR-2017	551	Canada: British Columbia, Bulkley-Nechako Regional District, North of Smithers, Kathlyn Lake	primary	rbcL	54	-127	0.00121770577559517
+Cicuta_maculata	KT695470.1	29-SEP-2015	545	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.0030626011872639
+Cicuta_maculata	KT178115.1	19-AUG-2015	1428	USA	secondary	rbcL	39.7837304	-100.445882	0.00151408783778077

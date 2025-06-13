@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juniperus_macrocarpa	HM594865.1	10-OCT-2010	601	Spain: Donana	secondary	trnL-trnF	37.2981161	-6.3000493	0.0065249412372002
+Juniperus_macrocarpa	HM594864.1	10-OCT-2010	629	Spain: El Rompido	secondary	trnL-trnF	37.2225915	-7.1237849	0.00170869094759297
+Juniperus_macrocarpa	HM594863.1	10-OCT-2010	648	Spain: Punta Umbria	secondary	trnL-trnF	37.1830237	-6.9662203	0.00127247892308054
+Juniperus_macrocarpa	JF950969.1	12-DEC-2011	625	Italy: Sicily, Ragusa	secondary	trnL-trnF	36.9219828	14.7213455	0.000888073394495413
+Juniperus_macrocarpa	JF950968.1	12-DEC-2011	625	Italy: Sardinia, Santa Teresa Gallura	secondary	trnL-trnF	41.241377	9.188518	0.00233081696563045
+Juniperus_macrocarpa	JF950967.1	12-DEC-2011	625	Spain: Cadiz, Chiclana	secondary	trnL-trnF	36.2944874	-6.0927908	0.000888073394495413
+Juniperus_macrocarpa	JF950966.1	12-DEC-2011	625	Spain: Valencia, El Saler	secondary	trnL-trnF	39.3831928	-0.332889	0.000888073394495413
+Juniperus_macrocarpa	JF950965.1	12-DEC-2011	625	Spain: Cadiz, Tarifa	secondary	trnL-trnF	36.0129082	-5.6050213	0.000888073394495413
+Juniperus_macrocarpa	JF950964.1	12-DEC-2011	625	Spain: Cadiz, Barbate, Trafalgar Cape	secondary	trnL-trnF	36.1822339	-6.0332217	0.000888073394495413

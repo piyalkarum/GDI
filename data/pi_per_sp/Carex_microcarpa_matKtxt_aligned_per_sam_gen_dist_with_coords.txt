@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_microcarpa	MW518036.1	25-MAY-2022	534	Italy	secondary	matK	42.7240857510249	12.4844959459362	0
+Carex_microcarpa	MN763220.1	28-JUL-2020	781	Italy: Sardinia, Ogliastra	secondary	matK	39.477001418468	10.4521717266778	0
+Carex_microcarpa	MN763138.1	28-JUL-2020	764	France: Corsica	secondary	matK	41.8185246175873	9.23488843637998	0
+Carex_microcarpa	MN763137.1	28-JUL-2020	787	France: Corsica	secondary	matK	42.7798539297491	9.45639949182071	0
+Carex_microcarpa	MN763136.1	28-JUL-2020	787	Italy: Sardinia, Ogliastra	secondary	matK	39.9294069533169	9.96700482875696	0
+Carex_microcarpa	MN763134.1	28-JUL-2020	787	France: Corsica	secondary	matK	42.0409938628376	8.66210004337079	0
+Carex_microcarpa	MN763132.1	28-JUL-2020	790	France: Corsica	secondary	matK	42.9641957804939	9.6279814358064	0
+Carex_microcarpa	KU939696.1	13-APR-2016	787	Italy	secondary	matK	42.080488751901	12.4905064144618	0
+Carex_microcarpa	KU939695.1	13-APR-2016	781	Italy	secondary	matK	43.0455169383714	12.5628813072675	0
+Carex_microcarpa	KU939694.1	13-APR-2016	764	France	secondary	matK	46.850948420863	0.985987575585805	0
+Carex_microcarpa	KU939693.1	13-APR-2016	787	France	secondary	matK	47.0538116051261	2.19825126999612	0
+Carex_microcarpa	KU939692.1	13-APR-2016	787	France	secondary	matK	46.2111329172704	1.42108534811501	0

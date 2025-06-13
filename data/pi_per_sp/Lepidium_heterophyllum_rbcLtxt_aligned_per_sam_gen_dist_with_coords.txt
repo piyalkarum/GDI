@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lepidium_heterophyllum	KX679032.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, Port Renfrew-Lake Cowichan Road	primary	rbcL	48.439	-124.109	0.00105098295848115
+Lepidium_heterophyllum	KX678851.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox Valley Regional District, Kin Beach Provincial Park	primary	rbcL	49.73	-124.898	0.00105098295848115
+Lepidium_heterophyllum	KX678740.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Baden Powell trail	primary	rbcL	49.334	-122.954	0.00105098295848115
+Lepidium_heterophyllum	KX678595.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, Sooke Potholes Provincial Park, along trail to Lookout Point	primary	rbcL	48.431	-123.713	0.0010351966873706
+Lepidium_heterophyllum	KX678335.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox Valley Regional District, Comox, Kin Beach Provincial Park	primary	rbcL	49.728	-124.898	0.00105098295848115
+Lepidium_heterophyllum	JN891578.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	52.51	-3.31	0.00105624504885133
+Lepidium_heterophyllum	JN890953.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.00105624504885133
+Lepidium_heterophyllum	JN890952.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00105624504885133

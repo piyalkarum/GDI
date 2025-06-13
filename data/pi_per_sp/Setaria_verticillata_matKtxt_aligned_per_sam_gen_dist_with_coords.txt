@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Setaria_verticillata	LN906777.1	04-JAN-2016	1771	Madagascar:Toliara, Tsimanampetsotsa	primary	matK	-24.0884	43.7566	0.00195445631613436
+Setaria_verticillata	KR735124.1	24-JUN-2015	441	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.59624943823851	36.90295894963	0.00113378684807256
+Setaria_verticillata	KR735005.1	24-JUN-2015	439	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.639636003533836	37.4629393458553	0.00113895216400911
+Setaria_verticillata	KR734553.1	24-JUN-2015	371	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.231846578676071	37.2831591515387	0.000898472596585804
+Setaria_verticillata	KR734355.1	24-JUN-2015	439	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.541094604233827	36.7444782496361	0.00113895216400911
+Setaria_verticillata	OQ391016.1	24-MAY-2023	853	Peru	secondary	matK	-6.8699697	-75.0458515	0.00238108049204287
+Setaria_verticillata	HQ599945.1	02-AUG-2011	1309	South Korea	secondary	matK	36.638392	127.6961188	0.00818209371947226

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pastinaca_sativa	MG222936.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	rbcL	45.19	-81.42	0
+Pastinaca_sativa	KX678406.1	29-APR-2017	551	Canada: British Columbia, Columbia-Shuswap Regional District, Shuswap Lake, west end of lake, south side of Highway 1, 5 km east of Squaliax	primary	rbcL	50.892	-119.525	0
+Pastinaca_sativa	JN893745.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.56	-3.04	0
+Pastinaca_sativa	KJ746244.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0
+Pastinaca_sativa	KJ204381.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0
+Pastinaca_sativa	JN892281.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Pastinaca_sativa	JN892273.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Pastinaca_sativa	JN891383.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0

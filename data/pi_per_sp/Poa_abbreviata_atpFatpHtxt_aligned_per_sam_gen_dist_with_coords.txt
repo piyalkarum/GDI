@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_abbreviata	KC476186.1	25-OCT-2013	364	Canada: Nunavut, Cornwallis Island, Resolute. On terrace near shore 2-3 km W of village	primary	atpF-atpH	74.1154870994697	-96.192112837241	0
+Poa_abbreviata	KC476185.1	25-OCT-2013	364	Canada: Nunavut, Cornwallis Island, Resolute. Small rocky cliff along North Lake	primary	atpF-atpH	74.9860120779389	-96.225208417643	0
+Poa_abbreviata	KC476184.1	25-OCT-2013	364	Canada: Nunavut, Ellesmere Island, Eureka, near shore on north side of Station Creek	primary	atpF-atpH	80	-85.95	0
+Poa_abbreviata	KC476183.1	25-OCT-2013	364	Canada: Nunavut, Victoria Island, Hazen Camp, N shore of Lake Hazen, Ellesmere Island National Park Reserve. Blister Creek, ~3 km from mouth, S bank	primary	atpF-atpH	81.82	-71.33	0
+Poa_abbreviata	KC476182.1	25-OCT-2013	364	Canada: Nunavut, Ellesmere Island, Tanquary Camp, Ellesmere Island National Park Reserve	primary	atpF-atpH	81.4	-76.87	0

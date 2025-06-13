@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anethum_foeniculum	KX677086.1	09-AUG-2017	811	Canada: British Columbia, Metro Vancouver Regional District, Coquitlam, below Port Mann Bridge, in dusty waste ground	primary	matK	49	-122	0.000587157540753717
+Anethum_foeniculum	MF694851.1	16-SEP-2018	801	Pakistan: Khyber Pakhtunkhwa, Swat	primary	matK	34.198	72.044	0.000636553734294732
+Anethum_foeniculum	KU499892.1	05-JUL-2016	847	Egypt	primary	matK	30.0303	31.1956	0.000586823136285717
+Anethum_foeniculum	KP149520.1	16-NOV-2015	762	South Africa: Gauteng, Johannesburg	primary	matK	-26.16	28.001	0.000671927527900321
+Anethum_foeniculum	JQ412247.1	16-JAN-2013	761	South Africa: Western Cape, Cape Town, Robben Island	primary	matK	-33.805	18.371	0.000673218596194238
+Anethum_foeniculum	JN894229.1	07-MAR-2012	807	United Kingdom: Carmarthenshire	primary	matK	51.68	-4.25	0.000658050273836252
+Anethum_foeniculum	OR290935.1	19-SEP-2023	749	Egypt	secondary	matK	26.3301640245736	28.5660748772162	0.000614845768383819
+Anethum_foeniculum	OQ446856.1	03-JUL-2023	828	Pakistan	secondary	matK	30.8830140174271	71.2893013284794	0.000659287780343668
+Anethum_foeniculum	OQ290385.1	16-MAY-2023	802	Mexico: Puebla	secondary	matK	19.1710098	-98.4125121	0.00191105487072436
+Anethum_foeniculum	MN243417.1	12-JAN-2020	848	Tanzania	secondary	matK	-6.5247123	35.7878438	0.000586823136285717
+Anethum_foeniculum	KX789391.1	26-AUG-2017	450	Egypt	secondary	matK	27.0859135915867	28.9626100530284	0.00140096618357488
+Anethum_foeniculum	KP900773.1	19-SEP-2015	876	Pakistan	secondary	matK	29.6985574922808	70.5275854577052	0.000586823136285717
+Anethum_foeniculum	HM850711.1	23-JUL-2011	574	Portugal	secondary	matK	39.6621648	-8.1353519	0.00828803056265811
+Anethum_foeniculum	JN894477.1	07-MAR-2012	844	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000586823136285717
+Anethum_foeniculum	JN894262.1	07-MAR-2012	772	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000681071958471807

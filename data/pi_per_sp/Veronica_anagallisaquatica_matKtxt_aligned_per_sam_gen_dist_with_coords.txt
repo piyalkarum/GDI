@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_anagallis-aquatica	OR575900.1	25-OCT-2023	846	Kazakhstan: Qaragandy region	primary	matK	47.43832	74.81248	0.0052649958499397
+Veronica_anagallis-aquatica	JN894700.1	07-MAR-2012	818	United Kingdom: Carmarthenshire	primary	matK	51.69	-4.21	0.00536772422818954
+Veronica_anagallis-aquatica	MT929880.1	03-MAR-2023	789	China	secondary	matK	34.818975885066	105.650713928219	0.00129736902544211
+Veronica_anagallis-aquatica	MT929879.1	03-MAR-2023	789	China	secondary	matK	34.3024006775809	105.205553958197	0.00129736902544211
+Veronica_anagallis-aquatica	JN894803.1	07-MAR-2012	794	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.00229139546043725
+Veronica_anagallis-aquatica	JN893999.1	07-MAR-2012	795	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00133483987207438

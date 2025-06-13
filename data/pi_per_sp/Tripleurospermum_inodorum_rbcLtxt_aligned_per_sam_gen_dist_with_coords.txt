@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tripleurospermum_inodorum	MG223370.1	26-DEC-2017	522	Canada: British Columbia, Vancouver Island, Victoria, University of Victoria Campus	primary	rbcL	48.475	-123.35	0.000766283524904214
+Tripleurospermum_inodorum	MG221730.1	26-DEC-2017	553	Canada: Ontario, Durham, Durham, Uxbridge	primary	rbcL	44.1114	-79.1233	0.00371459951761311
+Tripleurospermum_inodorum	MG221198.1	26-DEC-2017	552	Canada: Yukon Territory, Caribou Lake road	primary	rbcL	60.517	-134.325	0.00072463768115942
+Tripleurospermum_inodorum	JN892770.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.46	-3.16	0.000738007380073801
+Tripleurospermum_inodorum	KJ204419.1	29-JAN-2015	535	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.000747663551401869
+Tripleurospermum_inodorum	JN891846.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000738007380073801

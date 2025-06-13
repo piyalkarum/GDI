@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_lacaitae	HE649736.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	39.3203131209133	-5.59295712766337	0
+Gagea_lacaitae	HE649735.1	04-FEB-2013	281	Spain	secondary	psbA-trnH	39.0060154550628	-3.94199299996774	0
+Gagea_lacaitae	HE649734.1	04-FEB-2013	281	Italy	secondary	psbA-trnH	42.6384261	12.674297	0
+Gagea_lacaitae	HE649733.1	04-FEB-2013	281	France	secondary	psbA-trnH	46.2635968499734	0.850565621938456	0
+Gagea_lacaitae	HE649732.1	04-FEB-2013	281	France	secondary	psbA-trnH	47.2637237500901	2.10232662188568	0

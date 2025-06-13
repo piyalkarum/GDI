@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glyceria_declinata	JN895984.1	07-MAR-2012	1132	United Kingdom: Glamorgan	primary	matK	51.55	-3.19	0.000293083235638921
+Glyceria_declinata	KJ529312.1	22-FEB-2015	963	Spain	secondary	matK	39.3260685	-4.8379791	0.00134801826088901
+Glyceria_declinata	HM850537.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.000363372093023256
+Glyceria_declinata	JN894487.1	07-MAR-2012	769	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.000345781466113416
+Glyceria_declinata	JN894367.1	07-MAR-2012	749	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000345781466113416

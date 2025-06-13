@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_distans	MG225656.1	23-JAN-2018	552	USA: Oregon, Umatilla County, 3.5 road miles west of Umatilla, north side of Route 730, south side of Columbia River	primary	rbcL	45.91	-119.415	0
+Carex_distans	JN893404.1	07-MAR-2012	542	United Kingdom: Merionethshire	primary	rbcL	52.93	-4.04	0
+Carex_distans	GQ469848.1	11-JAN-2010	1408	Morocco: Chauen-Ksar el Kbir	secondary	rbcL	35.1767988	-5.2743186	0
+Carex_distans	JN892787.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Carex_distans	JN892783.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0

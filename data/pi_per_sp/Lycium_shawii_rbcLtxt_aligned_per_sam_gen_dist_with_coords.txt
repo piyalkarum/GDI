@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lycium_shawii	MH115437.1	07-OCT-2018	553	Bahrain	primary	rbcL	26.1305	50.51521	0.0371500313873195
+Lycium_shawii	KX808563.1	26-AUG-2017	511	Egypt	secondary	rbcL	26.2540493	29.2675469	0.0402266470757123
+Lycium_shawii	KX282865.1	28-MAY-2017	575	Kuwait	secondary	rbcL	29.7422137445381	47.7406463852873	0.0371355070590697
+Lycium_shawii	KX282864.1	28-MAY-2017	531	Kuwait	secondary	rbcL	28.9953207699015	48.4801499651619	0.111578271215638

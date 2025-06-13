@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_portenschlagiana	KF957768.1	05-NOV-2014	876	Bosnia and Herzegovina: Ljubuski	secondary	trnL-trnF	43.1963022	17.5447857	0.0030441400304414
+Campanula_portenschlagiana	FJ426587.1	23-MAR-2009	876	Croatia	secondary	trnL-trnF	45.3658443	15.6575209	0.00228310502283105
+Campanula_portenschlagiana	KF957769.1	05-NOV-2014	876	Croatia	secondary	trnL-trnF	43.1485679	16.6699575	0.00228310502283105
+Campanula_portenschlagiana	KF957748.1	05-NOV-2014	876	Croatia	secondary	trnL-trnF	43.279656	16.619777	0.0060882800608828

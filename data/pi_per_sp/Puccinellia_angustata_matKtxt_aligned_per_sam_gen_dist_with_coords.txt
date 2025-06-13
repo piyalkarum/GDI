@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_angustata	KC475548.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Flat to gently sloping plateau E of junction of 3 rivers 6 km NE of head of Minto Inlet	primary	matK	71.66	-115.57	0.00256331558681448
+Puccinellia_angustata	KC475547.1	25-OCT-2013	736	Canada: Nunavut, Ellesmere Island, Eureka, 2 km west of airport	primary	matK	79.99	-85.9	0.00160177434516402
+Puccinellia_angustata	KC475546.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Valley downstream from the junction of 3 rivers 6 km NE of head of Minto Inlet	primary	matK	71.66	-115.546	0.00256331558681448
+Puccinellia_angustata	KC475545.1	25-OCT-2013	701	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park, Hazen Camp on N shore of Lake Hazen. Behind Blister Hill, ~2.5 km WNW of Hazen Camp, ~300 m	primary	matK	81.817	-71.333	0.00170441177954182
+Puccinellia_angustata	KC475544.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Mudflats downriver of large waterfall S of head of Minto Inlet	primary	matK	71.46	-115.298	0.00155846748757878
+Puccinellia_angustata	KC475543.1	25-OCT-2013	772	Canada: Northwest Territories, Mainland Northwest Territories, Anderson River (Northwest Territories), Cape Bathurst E side, brook system N of river from Lake Mc kinlay, 0.7 - 1.5 km from sea	primary	matK	70.483	-127.8	0.00202450662874517
+Puccinellia_angustata	KC475542.1	25-OCT-2013	750	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, slopes to north of airstrip	primary	matK	76.24	-119.36	0.00731661374228475
+Puccinellia_angustata	KC475541.1	25-OCT-2013	701	Canada: Nunavut, Ellesmere Island, Eureka (Nunavut), Clay barrens along shore 0-1 km E of PCSP base, between airstrip and shore	primary	matK	80	-85.95	0.00170441177954182
+Puccinellia_angustata	KC475540.1	25-OCT-2013	461	Canada: Northwest Territories, Banks Island, Masik River area, top of ridge south of our camp lake. About 200 m from top of slope	primary	matK	71.58	-123.19	0.00361532899493854
+Puccinellia_angustata	OK247828.1	27-OCT-2022	788	Canada: Northwest Territories	secondary	matK	65.0000004	-118	0.00204478930665978

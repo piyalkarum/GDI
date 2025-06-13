@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Danthonia_decumbens	JN891808.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.43	-3.79	0.0697916666666667
+Danthonia_decumbens	MG228076.1	23-JAN-2018	553	Canada: British Columbia, Prevost Island, Gulf islands, Bog.	secondary	rbcL	49.25783145	-123.246241986222	0.0697916666666667
+Danthonia_decumbens	MG227027.1	23-JAN-2018	553	Canada: Nova Scotia, Yarmouth County, Tusket River at Highway 203, Kemptville	secondary	rbcL	45	-63.75	0.0697916666666667
+Danthonia_decumbens	MG226275.1	23-JAN-2018	553	Canada: Newfoundland and Labrador, river gravel at shoulder of new highway along Northeast River about eight miles East Northeast of Placentia	secondary	rbcL	49.7738268	-56.8821439113846	0.0697916666666667
+Danthonia_decumbens	FN870386.1	17-MAY-2012	1341	Portugal:Azores	secondary	rbcL	37.8085564	-25.4731374	0.0697916666666667
+Danthonia_decumbens	JN892157.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.4350375576893	-4.67783103750505	0.0697916666666667
+Danthonia_decumbens	JN892156.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.742479527367	-2.85773706857641	0.0697916666666667
+Danthonia_decumbens	EU400882.1	14-SEP-2008	488	Australia	secondary	rbcL	-25.6618391348114	134.624243984823	0.558333333333333
+Danthonia_decumbens	EU400662.1	14-SEP-2008	1318	Australia	secondary	rbcL	-25.1930678536487	135.148899701071	0.0697916666666667

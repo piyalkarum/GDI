@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Acer_tataricum	OR738228.1	13-NOV-2023	705	Kazakhstan: East Kazakhstan region	primary	matK	50.3904692905319	83.161824343825	0.000407094456911245
+Acer_tataricum	OR738227.1	13-NOV-2023	759	Kazakhstan: East Kazakhstan region	primary	matK	50.746669193179	82.1310814172958	0.00163907351512958
+Acer_tataricum	OR464956.1	26-SEP-2023	846	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.28864627	-85.61995888	0.000371060231493913
+Acer_tataricum	LC680750.1	03-MAY-2022	767	Japan: Nagano	primary	matK	36.545	137.855	0.000376043472339442
+Acer_tataricum	HQ593151.1	09-NOV-2011	783	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 100 m N of driveway N of North Barn	primary	matK	44.031	-79.533	0.000373760374533991
+Acer_tataricum	KP210355.1	28-NOV-2015	767	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 30 metres to south of research building, along edge of forest, about 4 metres to west of steel structure	primary	matK	45.535	-73.1494	0.000377648320448475
+Acer_tataricum	JF953002.1	13-DEC-2011	706	China	secondary	matK	35.225343965611	105.552398138289	0.000389094472063278
+Acer_tataricum	JF953001.1	13-DEC-2011	706	China	secondary	matK	34.8436450610805	104.059034840354	0.000389094472063278
+Acer_tataricum	JF953000.1	13-DEC-2011	706	China	secondary	matK	34.455510832134	105.398113284366	0.00169070045352122
+Acer_tataricum	JF952999.1	13-DEC-2011	706	China	secondary	matK	35.8410527708136	105.35105660463	0.000389094472063278
+Acer_tataricum	KP088939.1	15-MAR-2015	742	China	secondary	matK	39.475705668245	116.104449123739	0.000382847044788537
+Acer_tataricum	KP088936.1	15-MAR-2015	742	China	secondary	matK	40.1077664100983	117.098881689451	0.00168234123630775

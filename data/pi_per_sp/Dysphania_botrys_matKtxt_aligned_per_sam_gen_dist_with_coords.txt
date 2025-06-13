@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dysphania_botrys	KX677552.1	09-AUG-2017	815	Canada: British Columbia, Metro Vancouver Regional Distrct, Vancouver, Southlands	primary	matK	49.221	-123.18	0.139013452914798
+Dysphania_botrys	MT917948.1	03-MAR-2023	785	China	secondary	matK	35.1013543683783	105.990740735564	0.142168674698795
+Dysphania_botrys	MT917947.1	03-MAR-2023	783	China	secondary	matK	34.4373152850151	104.952363044421	0.142168674698795
+Dysphania_botrys	MN273640.1	30-NOV-2021	823	China	secondary	matK	35.7978162710097	104.707710241986	0.141071428571429
+Dysphania_botrys	KY941444.1	30-APR-2018	462	Portugal: Viseu District	secondary	matK	40.7686621	-7.9297048	0.564422230883817

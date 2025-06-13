@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myrtus_communis	HF585097.1	17-MAR-2013	526	Italy:Sardinia, Poggio dei Pini	primary	psbA-trnH	44.98	-10.74	0.00343529710620462
+Myrtus_communis	HF585096.1	17-MAR-2013	526	Italy:Sardinia, Sarroch	primary	psbA-trnH	39.09	-9.01	0.00343529710620462
+Myrtus_communis	LT934302.1	25-JAN-2021	485	USA:California	secondary	psbA-trnH	35.9438961389691	-119.212033361553	0.00343642611683849
+Myrtus_communis	LT934301.1	25-JAN-2021	485	USA:California	secondary	psbA-trnH	36.9099267864196	-118.303368071226	0.00536082474226804
+Myrtus_communis	LT934299.1	25-JAN-2021	485	United Kingdom:KEW	secondary	psbA-trnH	51.4806629	-0.2919292	0.00343642611683849
+Myrtus_communis	LT934298.1	25-JAN-2021	485	Spain:Cadiz	secondary	psbA-trnH	36.5262463	-5.9008367	0.00343642611683849
+Myrtus_communis	LT934297.1	25-JAN-2021	485	Italy:Grosseto	secondary	psbA-trnH	42.7751102	11.2878044	0.00343642611683849
+Myrtus_communis	LT934295.1	25-JAN-2021	485	Spain:Granada	secondary	psbA-trnH	37.1734995	-3.5995337	0.00343642611683849
+Myrtus_communis	LT934294.1	25-JAN-2021	485	Italy:Padova	secondary	psbA-trnH	45.4077172	11.8734455	0.00343642611683849
+Myrtus_communis	LT934307.1	25-JAN-2021	485	Portugal:Madeira	secondary	psbA-trnH	32.7517501	-16.9817487	0.00398625429553265
+Myrtus_communis	LT934306.1	25-JAN-2021	485	Portugal:Azores	secondary	psbA-trnH	37.6957393319739	-26.0431558776299	0.00646048109965636
+Myrtus_communis	LT934305.1	25-JAN-2021	485	Portugal:Azores	secondary	psbA-trnH	37.4545650740818	-25.5588158596585	0.00810996563573883
+Myrtus_communis	LT934304.1	25-JAN-2021	485	Portugal:Azores	secondary	psbA-trnH	37.7840165266762	-24.9847743797379	0.00398625429553265
+Myrtus_communis	LT934303.1	25-JAN-2021	485	Portugal:Azores	secondary	psbA-trnH	37.0175263658293	-25.0325539277315	0.00646048109965636
+Myrtus_communis	LT934300.1	25-JAN-2021	485	Portugal:Azores	secondary	psbA-trnH	38.2401714741113	-25.6517618960112	0.00673539518900344
+Myrtus_communis	HE966716.1	18-SEP-2012	487	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0053585667210003

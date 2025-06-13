@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_lyngbyei	MG227246.1	23-JAN-2018	247	USA: Alaska, Haines Borough, Mud Bay, Chilkat Peninsula south of Haines	primary	rbcL	59.2	-135.383	0
+Carex_lyngbyei	KX679008.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Capital Regional District, Pacheena Road, approx. 3.5 km outside Port Renfrew	primary	rbcL	48.581	-124.404	0
+Carex_lyngbyei	MG227404.1	23-JAN-2018	552	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Masset Inlet, head of McClinton Bay.	secondary	rbcL	48.7155897486009	-124.180072236423	0
+Carex_lyngbyei	MG227134.1	23-JAN-2018	552	Canada: British Columbia, Fraser River estuary, Point Grey.	secondary	rbcL	49.9977656804769	-123.523271935852	0

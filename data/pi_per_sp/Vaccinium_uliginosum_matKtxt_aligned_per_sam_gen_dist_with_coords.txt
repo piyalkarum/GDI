@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vaccinium_uliginosum	LC678462.1	03-MAY-2022	777	Japan: Nagano	primary	matK	35.8734	137.5014	0.00590574560762498
+Vaccinium_uliginosum	MZ400436.1	07-DEC-2021	856	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00370027712748656
+Vaccinium_uliginosum	KX676644.1	09-AUG-2017	808	Canada: British Columbia, Greater Vancouver Regional District, Delta, Burns Bog, southwest corner	primary	matK	49.133	-124.05	0.00571855763643321
+Vaccinium_uliginosum	KT307930.1	20-MAR-2016	769	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On the SW slope, 20 meters above E800I9	primary	matK	57.6269	-68.7575	0.00493408812073992
+Vaccinium_uliginosum	KC476090.1	25-OCT-2013	771	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	matK	68.719	-110.783	0.00492353350535767
+Vaccinium_uliginosum	KC476089.1	25-OCT-2013	734	Canada: Northwest Territories, Victoria Island, Minto Inlet, Wet sedge meadow between two small lakes NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.272	-116.467	0.00514257205357485
+Vaccinium_uliginosum	KC476088.1	25-OCT-2013	694	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. ~20 km SW of Sanikiluaq. Upland about 0.3 km from coast	primary	matK	56.422	-79.364	0.00365661658445017
+Vaccinium_uliginosum	KC476087.1	25-OCT-2013	768	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	matK	62.533	-114.356	0.00493938608100187
+Vaccinium_uliginosum	JN966729.1	27-OCT-2012	771	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas heath	primary	matK	58.769	-93.862	0.00378538134616374
+Vaccinium_uliginosum	MN150140.1	29-FEB-2020	1065	Turkey	secondary	matK	38.9597594	34.9249653	0.00458488481409481
+Vaccinium_uliginosum	MN150139.1	29-FEB-2020	1044	Andorra	secondary	matK	42.5407167	1.5732033	0.00476669901415208
+Vaccinium_uliginosum	MK926310.1	14-JAN-2020	777	United Kingdom	secondary	matK	54.9686971642491	-4.61977964609671	0.00377722379634273
+Vaccinium_uliginosum	MK926251.1	14-JAN-2020	759	United Kingdom	secondary	matK	55.2044515873825	-4.43440092047876	0.00384501614310891
+Vaccinium_uliginosum	MK926127.1	14-JAN-2020	771	United Kingdom	secondary	matK	54.3952702905061	-3.92189035254065	0.00378538134616374
+Vaccinium_uliginosum	MK925977.1	14-JAN-2020	777	United Kingdom	secondary	matK	54.3914332563926	-3.32383003739181	0.00377722379634273
+Vaccinium_uliginosum	MK925920.1	14-JAN-2020	771	United Kingdom	secondary	matK	55.5207573019331	-3.31696130097919	0.00378538134616374
+Vaccinium_uliginosum	MK925630.1	14-JAN-2020	775	United Kingdom	secondary	matK	54.3711434626876	-4.33667560691462	0.00386132488447365
+Vaccinium_uliginosum	MK925594.1	14-JAN-2020	754	Iceland	secondary	matK	64.9841821	-18.1059013	0.00385376281617203

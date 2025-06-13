@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_oenipontanus	HE819472.1	22-MAY-2013	418	Italy:Abruzzo	primary	psbA-trnH	42.65	13.77	0.0145535474391375
+Thymus_oenipontanus	HE819471.1	22-MAY-2013	411	Italy:Toscana	primary	psbA-trnH	43.65	12.06	0.016226534528119
+Thymus_oenipontanus	HE819470.1	22-MAY-2013	412	Italy:Abruzzo	primary	psbA-trnH	42.42	13.54	0.0259313065457208
+Thymus_oenipontanus	HE819469.1	22-MAY-2013	417	Italy:Lombardia	primary	psbA-trnH	45.55	10.26	0.0113370154864181

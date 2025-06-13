@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_media	OR464838.1	26-SEP-2023	612	USA: Bishop's Bog Preserve, Portage, MI	primary	rbcL	42.18359579	-85.59372067	0.00571449517972826
+Stellaria_media	OL434740.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1174	-81.138	0.00455054307680172
+Stellaria_media	MH092634.1	23-APR-2018	550	India	primary	rbcL	27.4511652	94.8935577	0.00989369504683505
+Stellaria_media	KP643953.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.335918228869	-78.9243557553889	0.00552574209474289
+Stellaria_media	KP643748.1	08-DEC-2015	530	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	39.4766256907268	-77.780683431067	0.00506946759744024
+Stellaria_media	KP643741.1	08-DEC-2015	532	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.9562315396311	-77.320243245177	0.0106553286654063
+Stellaria_media	MH094866.1	08-APR-2018	545	China: Outside US, Beijing, Beijing No. 166 High School Campus	primary	rbcL	39.9208	116.4154	0.00461473825074813
+Stellaria_media	MG249603.1	21-JAN-2018	552	Canada: Ontario, Norfolk County, Norfolk Township, Concession 4, in woods at main Backus Woods trail junction	primary	rbcL	42.665	-80.486	0.00455634149371345
+Stellaria_media	MG248802.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Norfolk Township, Concession 4, in woods at main Backus Woods trail junction	primary	rbcL	42.8033	-80.4086	0.00455054307680172
+Stellaria_media	MG247192.1	21-JAN-2018	552	Canada: Yukon Territory, Whitehorse, Burns Road	primary	rbcL	60.717	-135.084	0.00455634149371345
+Stellaria_media	MG247140.1	21-JAN-2018	553	Canada: Ontario, Niagara County, Niagara-on-the-Lake Township, Queen's Royal Park, Front Street North, Niagara-on-the-Lake	primary	rbcL	43.2585	-79.0841	0.00455054307680172
+Stellaria_media	MG246837.1	21-JAN-2018	552	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	rbcL	43.5485	-80.2503	0.00455772422610496
+Stellaria_media	MG245928.1	21-JAN-2018	552	Canada: University of Guelph Campus, Across from Centre for Biodiversity Genomics	primary	rbcL	43.529	-80.229	0.0327081652911548
+Stellaria_media	KP402620.1	06-JAN-2016	546	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H13x9y1	primary	rbcL	38.889	-76.559	0.00558823383833987
+Stellaria_media	JN893483.1	07-MAR-2012	396	United Kingdom: Carmarthenshire	primary	rbcL	52.1	-4.06	0.00451405244151358
+Stellaria_media	JN892262.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.53	-3.22	0.00463148072774636
+Stellaria_media	OQ172735.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.8865447443967	127.565370295269	0.00477618978056604
+Stellaria_media	OQ172734.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.1199973148779	128.509488023443	0.00477618978056604
+Stellaria_media	OQ172733.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.4269434474253	127.217459904665	0.00477618978056604
+Stellaria_media	OQ172732.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.2650932080266	127.744500664205	0.00477618978056604
+Stellaria_media	MT931038.1	03-MAR-2023	568	China	secondary	rbcL	35.4023741582387	104.948545698373	0.0336014811916574
+Stellaria_media	MT931037.1	03-MAR-2023	568	China	secondary	rbcL	35.0363791198678	104.270710572467	0.0336014811916574
+Stellaria_media	MN204814.1	30-NOV-2021	621	China	secondary	rbcL	34.7370383591877	104.737391132868	0.00719028518735114
+Stellaria_media	MN192587.1	30-NOV-2021	644	China	secondary	rbcL	34.4512045157956	104.574425560952	0.00485940149677568
+Stellaria_media	MG246372.1	21-JAN-2018	553	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	secondary	rbcL	43.72634945	-77.7101179040839	0.00455054307680172
+Stellaria_media	HM850386.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00491063563070774
+Stellaria_media	JN892198.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00952556200654652
+Stellaria_media	JN892187.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00463148072774636
+Stellaria_media	MK044298.1	15-MAY-2019	748	South Korea	secondary	rbcL	33.4930566	126.5130589	0.00676737946598153

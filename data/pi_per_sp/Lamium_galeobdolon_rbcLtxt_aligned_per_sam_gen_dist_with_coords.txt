@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_galeobdolon	MG223298.1	26-DEC-2017	552	Canada: Sussex	primary	rbcL	45	-74	0.000387596899224806
+Lamium_galeobdolon	JN893549.1	07-MAR-2012	538	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.000399201596806387
+Lamium_galeobdolon	KF055121.1	26-OCT-2013	1162	Belgium	secondary	rbcL	50.6402809	4.6667145	0.00330004809982118
+Lamium_galeobdolon	HM850102.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00172117039586919
+Lamium_galeobdolon	JN891020.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000396039603960396
+Lamium_galeobdolon	JN891016.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000396039603960396

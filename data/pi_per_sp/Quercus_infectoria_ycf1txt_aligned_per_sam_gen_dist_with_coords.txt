@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_infectoria	MN751870.1	24-NOV-2021	536	Lebanon: North, Tannourine-entrance	primary	ycf1	33.9045682948205	36.1180572107337	0
+Quercus_infectoria	MN751869.1	24-NOV-2021	536	Lebanon: South, Aaqbet Rachaya	primary	ycf1	32.7192400171011	35.9231304720955	0
+Quercus_infectoria	MN751868.1	24-NOV-2021	536	Lebanon: South, Aaqbet Rachaya	primary	ycf1	33.8516500839309	34.967107557028	0
+Quercus_infectoria	MN751867.1	24-NOV-2021	536	Lebanon: Beqaa, Barqa	primary	ycf1	34.5669528889646	35.7337894311813	0
+Quercus_infectoria	MN751866.1	24-NOV-2021	536	Lebanon: South, Bekassine	primary	ycf1	33.6169108456153	34.7401941811705	0
+Quercus_infectoria	MN751865.1	24-NOV-2021	536	Lebanon: Mount Lebanon, Jabal Moussa-Bouyout	primary	ycf1	33.8487311080802	36.6145506090811	0
+Quercus_infectoria	MN751864.1	24-NOV-2021	536	Lebanon: South, Bekassine	primary	ycf1	33.0158273993392	36.1451949438255	0
+Quercus_infectoria	MN751863.1	24-NOV-2021	536	Lebanon: Beqaa, Barqa	primary	ycf1	33.8294440316632	35.6265422686712	0
+Quercus_infectoria	MN751862.1	24-NOV-2021	536	Lebanon: North, Tannourine-entrance	primary	ycf1	34.5680112640529	36.6118554390771	0
+Quercus_infectoria	MN751861.1	24-NOV-2021	536	Lebanon: North, Andket	primary	ycf1	34.6049	36.3088	0
+Quercus_infectoria	MN751860.1	24-NOV-2021	536	Lebanon: Mount Lebanon, Jabal Moussa-Bouyout	primary	ycf1	34.2172323723653	36.6508704350709	0

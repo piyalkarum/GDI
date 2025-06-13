@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calendula_arvensis	MH598882.1	22-JAN-2019	579	Saudi Arabia: Taif	secondary	rbcL	21.2702801	40.4158308	0.0656537048473123
+Calendula_arvensis	KX282623.1	28-MAY-2017	519	Kuwait	secondary	rbcL	29.1743646771729	47.3738707267624	0.0146495782571481
+Calendula_arvensis	KX282622.1	28-MAY-2017	536	Kuwait	secondary	rbcL	28.7053655607202	47.6853878791624	0.0149765136295152
+Calendula_arvensis	KX282621.1	28-MAY-2017	515	Kuwait	secondary	rbcL	29.3379354836334	48.9193304674055	0.0139836224421941
+Calendula_arvensis	GU817742.1	17-OCT-2010	1503	Morocco	secondary	rbcL	28.3347722	-10.3713379	0.0150463261911534
+Calendula_arvensis	HM849834.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0147881589199124

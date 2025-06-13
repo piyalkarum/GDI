@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pteridium_aquilinum	MF785982.1	06-DEC-2017	498	China: Yigong, on the east side of Yigong Lake	primary	psbA-trnH	30.19458	94.89308	0.0041268884910238
+Pteridium_aquilinum	MF348630.1	21-SEP-2017	494	USA: Virginia; 0.5 km on Rt 614 S, on unpaved road across from St. Paul's Church. Sand barrens along powerline right-of-way to the Blackwater River. E side of road	primary	psbA-trnH	36.8533450807883	-75.7718902713308	0.000867553499132446
+Pteridium_aquilinum	MF348387.1	21-SEP-2017	498	USA: Virginia; 0.5 km on Rt 614 S, on unpaved road across from St. Paul's Church. Sand barrens along powerline right-of-way to the Blackwater River. E side of road	primary	psbA-trnH	36.3005210574728	-77.4681099976393	0.000860585197934595
+Pteridium_aquilinum	OQ310301.1	16-MAY-2023	541	Mexico: Puebla	secondary	psbA-trnH	19.5734504354895	-99.2595573740185	0.00252560398025843
+Pteridium_aquilinum	OQ309400.1	16-MAY-2023	483	Mexico: Puebla	secondary	psbA-trnH	19.9385509238779	-98.2072452892846	0.00061576354679803
+Pteridium_aquilinum	MZ983427.1	24-OCT-2022	407	China	secondary	psbA-trnH	30.047992	-94.3357433	0.000351000351000351
+Pteridium_aquilinum	AB575448.1	03-DEC-2010	525	Japan	secondary	psbA-trnH	40.9921996	-75.9078749	0.000847921436224745
+Pteridium_aquilinum	FR865101.1	09-JUN-2011	528	Italy:Lombardy	secondary	psbA-trnH	45.5703694	9.7732524	0.00138849804432286

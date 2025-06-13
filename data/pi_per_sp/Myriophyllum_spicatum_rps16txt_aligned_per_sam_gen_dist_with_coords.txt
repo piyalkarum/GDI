@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myriophyllum_spicatum	KT783506.1	02-MAR-2016	595	South Africa: Klipplaat River, Hogsback	primary	rps16	-32.49387	26.94959	0.00582512852073978
+Myriophyllum_spicatum	KT783505.1	02-MAR-2016	523	South Korea: Shihwa Lake, Seonah Jeong, Jihee Kim	primary	rps16	37.2792	126.6242	0.0111407677521189
+Myriophyllum_spicatum	KT783504.1	02-MAR-2016	588	South Africa: Lake Sibaya, Zululand	primary	rps16	-27.36	32.7132	0.00357084172763052
+Myriophyllum_spicatum	KT783503.1	02-MAR-2016	594	Germany: River Oker, BraunschweigWatenbYttel in Lower Saxony	primary	rps16	52.31056	10.46528	0.00261379583958019
+Myriophyllum_spicatum	KT783502.1	02-MAR-2016	573	France: Bandeville	primary	rps16	48.57626	2.026683	0.00279824985591952
+Myriophyllum_spicatum	KT783501.1	02-MAR-2016	566	France: Lac du Couze	primary	rps16	45.098948	1.462235	0.00727753848172152
+Myriophyllum_spicatum	KT783500.1	02-MAR-2016	548	Sweden: Hudiksvall	primary	rps16	61.720232	17.13665	0.00521628790676377
+Myriophyllum_spicatum	KT783499.1	02-MAR-2016	603	China: Tibet, Qushui, Daga	primary	rps16	29.336746	90.68417	0.00268964826204175
+Myriophyllum_spicatum	KT783498.1	02-MAR-2016	448	China: Fuyang, Zhejiang	primary	rps16	29.9944	119.6944	0.0122172759924902
+Myriophyllum_spicatum	KT783497.1	02-MAR-2016	636	China: Bosten Lake, Xinjiang	primary	rps16	41.9067	86.7314	0.00787237146350163
+Myriophyllum_spicatum	KT783496.1	02-MAR-2016	633	China: Behai, TengChong, Yunnan province	primary	rps16	25.1205	98.5586	0.00543092993364611
+Myriophyllum_spicatum	KT783495.1	02-MAR-2016	615	China: Kunming Lake of Summer Palace, Beijing	primary	rps16	39.993662	116.261	0.00606207926355525
+Myriophyllum_spicatum	KT783494.1	02-MAR-2016	637	China: Nahu Park, Jilin Province	primary	rps16	43.851125	125.2991	0.00607418993481225
+Myriophyllum_spicatum	KT783493.1	02-MAR-2016	548	United Kingdom: Scotland, Loch Leven	primary	rps16	56.206069	-3.37728	0.00340395289897182

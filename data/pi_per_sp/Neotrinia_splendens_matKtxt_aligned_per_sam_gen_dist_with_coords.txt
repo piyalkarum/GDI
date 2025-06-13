@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Neotrinia_splendens	MF169118.1	23-JAN-2018	1183	China	primary	matK	41.35	111.17	0.218406244712097
+Neotrinia_splendens	MT929999.1	03-MAR-2023	777	China	secondary	matK	34.7333674026116	104.724857583164	0.215791352482665
+Neotrinia_splendens	MT929998.1	03-MAR-2023	786	China	secondary	matK	35.5816252293537	105.257319246626	0.215791352482665
+Neotrinia_splendens	GU254687.1	16-FEB-2011	555	China	secondary	matK	34.2244953066271	105.098351877825	0.214755579047404
+Neotrinia_splendens	FN434209.1	14-JUL-2011	795	China:Tibet, Dulan area, 3400m	secondary	matK	34.1417533	99.5011203	0.431591019104969
+Neotrinia_splendens	FN434208.1	14-JUL-2011	803	Mongolia	secondary	matK	43.9382593	-79.2235563	0.427312109603415

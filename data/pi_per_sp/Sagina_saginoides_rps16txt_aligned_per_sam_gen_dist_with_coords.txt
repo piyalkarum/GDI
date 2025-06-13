@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_saginoides	MT671721.1	06-DEC-2021	504	USA	primary	rps16	43.55	-122.39	0.248166019316529
+Sagina_saginoides	MT671722.1	06-DEC-2021	686	Norway	secondary	rps16	64.5731537	11.5280364	0.165337594325353
+Sagina_saginoides	MT671720.1	06-DEC-2021	691	USA	secondary	rps16	39.5915593903227	-100.673108581893	0.164674947359896
+Sagina_saginoides	MT671719.1	06-DEC-2021	691	USA	secondary	rps16	39.7757348859076	-101.210228887328	0.164674947359896
+Sagina_saginoides	MT624674.1	20-OCT-2021	783	Iran	secondary	rps16	32.6475314	54.5643516	0.562227922885572

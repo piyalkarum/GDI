@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hordeum_murinum	MF597431.1	17-JUL-2018	773	Canada: British Columbia, Vancouver Island, just off Hwy. 19A along Crane Road, N of Qualicum Beach, at confluence of Nile Creek and the Straight of Georgia.	primary	matK	49.42	-124.641	0.00164498280245252
+Hordeum_murinum	MF597430.1	17-JUL-2018	686	Canada: British Columbia, Vancouver Island, Island View Park, S of Hwy. 17 between Sidney and Victoria, along coast.	primary	matK	48.577	-123.369	0.00185185185185185
+Hordeum_murinum	MF597429.1	17-JUL-2018	761	Canada: British Columbia, Horseshoe Bay, Whytecliff Park. Among rocky cliffs with Anthoxanthum odoratum and Dactylis glomerata.	primary	matK	49.377	-123.29	0.00167198662410701
+Hordeum_murinum	JN895449.1	07-MAR-2012	805	United Kingdom: Pembrokeshire	primary	matK	51.67	-4.7	0.00166742458693345
+Hordeum_murinum	KF277176.1	30-SEP-2013	741	Germany	secondary	matK	34.895926	-83.4665496	0.00164942270205428
+Hordeum_murinum	KF277175.1	30-SEP-2013	741	Poland	secondary	matK	52.215933	19.134422	0.00164942270205428
+Hordeum_murinum	HM850543.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0150974001267054
+Hordeum_murinum	HE966940.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00162745968338512
+Hordeum_murinum	JN894159.1	07-MAR-2012	773	United Kingdom: Glamorgan (41)	secondary	matK	51.3512589854535	-3.14224220498092	0.00166742458693345
+Hordeum_murinum	JN894152.1	07-MAR-2012	777	United Kingdom: Glamorgan (41)	secondary	matK	51.2514441142503	-3.44716530963939	0.00166742458693345

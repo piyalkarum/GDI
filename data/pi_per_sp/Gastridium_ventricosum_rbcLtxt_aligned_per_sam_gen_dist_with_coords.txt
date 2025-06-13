@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gastridium_ventricosum	FN870392.1	17-MAY-2012	1349	Portugal:Azores	secondary	rbcL	37.8085564	-25.4731374	0
+Gastridium_ventricosum	JN891468.1	07-MAR-2012	542	United Kingdom: Essex,South	secondary	rbcL	51.5395684	0.7105271	0
+Gastridium_ventricosum	JN891467.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.9459284866294	-3.92242284313227	0
+Gastridium_ventricosum	JN891466.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.6397298827743	-2.41537257046811	0

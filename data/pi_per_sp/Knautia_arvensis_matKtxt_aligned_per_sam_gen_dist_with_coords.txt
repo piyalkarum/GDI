@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Knautia_arvensis	KX677041.1	09-AUG-2017	814	Canada: British Columbia, Metro Vancouver Regional Distrct, Vancouver, Marine Drive, opposite Duff Street, east of Victoria Drive, new soil verge between sidewalk and wall	primary	matK	49.209	-123.064	0
+Knautia_arvensis	JN894671.1	07-MAR-2012	895	United Kingdom: Glamorgan	primary	matK	51.46	-3.36	0
+Knautia_arvensis	JN895237.1	07-MAR-2012	815	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Knautia_arvensis	JN895236.1	07-MAR-2012	714	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0

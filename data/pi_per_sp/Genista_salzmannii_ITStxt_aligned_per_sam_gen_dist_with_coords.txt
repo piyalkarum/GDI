@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_salzmannii	AJ699043.1	30-APR-2005	221	France:Corse, Monte Cinto	secondary	ITS	42.4819318269113	9.71099870287759	0.388627599580946
+Genista_salzmannii	AJ699042.1	30-APR-2005	236	France:Corse, Monte Cinto	secondary	ITS	43.0238029553056	8.43944988250465	0.405388104978987
+Genista_salzmannii	AJ699045.1	30-APR-2005	221	Italy	secondary	ITS	43.6131499724808	10.3257832889969	0.39683778020492
+Genista_salzmannii	AJ699044.1	30-APR-2005	236	Italy	secondary	ITS	44.3175291715834	10.5118571016673	0.390609779855835

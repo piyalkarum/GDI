@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Persicaria_lapathifolia	MG249780.1	21-JAN-2018	552	Canada: Ontario, Niagara County, Niagara Falls Railway yard, off Whirlpool Road	primary	rbcL	43.126	-79.083	0.00120772946859903
+Persicaria_lapathifolia	MG249004.1	21-JAN-2018	552	Canada: Ontario, Wellington County, City of Guelph, South-East of Summerfield Road along Victoria Road South	primary	rbcL	43.52	-80.179	0.00120772946859903
+Persicaria_lapathifolia	MG248985.1	21-JAN-2018	552	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Bridle Trail	primary	rbcL	43.295	-79.875	0.00120772946859903
+Persicaria_lapathifolia	MG247506.1	21-JAN-2018	552	Canada: Yukon Territory, Ottertail Creek, west of Mt. Martin	primary	rbcL	60.117	-124.256	0.00120772946859903
+Persicaria_lapathifolia	MG246094.1	21-JAN-2018	552	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0.00120772946859903
+Persicaria_lapathifolia	KJ593583.1	17-MAR-2015	529	USA: Wisconsin, Dunbar	primary	rbcL	45.679	-88.224	0.0012623875809131
+Persicaria_lapathifolia	KJ841452.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, west of Interpretive Centre	primary	rbcL	45.538	-73.1576	0.00120772946859903
+Persicaria_lapathifolia	KJ841451.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	rbcL	45.0694599974723	-73.1553122050544	0.0165727758523992
+Persicaria_lapathifolia	KJ841450.1	04-NOV-2014	568	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	rbcL	44.8756183752279	-73.0756850514285	0.00179807880134803
+Persicaria_lapathifolia	JN893740.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.56	-3.02	0.0012320585313062
+Persicaria_lapathifolia	MH757120.1	28-OCT-2018	698	India: West Bengal, Jalpaiguri	secondary	rbcL	26.5241586	88.7197513	0.00131628898699086
+Persicaria_lapathifolia	KJ593584.1	17-MAR-2015	553	USA: Wisconsin, Oconto	secondary	rbcL	44.9988053	-88.2480072	0.00120751107267343
+Persicaria_lapathifolia	HM850245.1	23-JUL-2011	680	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00133696668934556
+Persicaria_lapathifolia	JN890742.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	51.8032133027728	-2.80996511145776	0.0012320585313062
+Persicaria_lapathifolia	JN890741.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	51.8468106546431	-5.02668212591414	0.0012320585313062
+Persicaria_lapathifolia	FM883630.1	14-DEC-2008	1371	Italy	secondary	rbcL	42.6384261	12.674297	0.00320662306862097

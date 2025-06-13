@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_rhomboidalis	MK556011.1	22-SEP-2019	337	Switzerland	secondary	rbcL	46.4434232756254	7.04254100220969	0.593381324043421
+Campanula_rhomboidalis	MK555566.1	22-SEP-2019	357	Switzerland	secondary	rbcL	46.7098167675603	9.16696113060219	0.579542661971719
+Campanula_rhomboidalis	MK555455.1	22-SEP-2019	381	Switzerland	secondary	rbcL	46.8321532986065	8.53520430491307	0.556864353754393
+Campanula_rhomboidalis	MK555371.1	22-SEP-2019	382	Switzerland	secondary	rbcL	47.6528898049374	8.56314905948192	0.598111987307941

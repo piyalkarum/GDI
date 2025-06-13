@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fagus_sylvatica	MZ676693.1	10-AUG-2022	585	United Kingdom: England, County Durham	primary	rbcL	54.7634	-1.5556	0.00705964325529543
+Fagus_sylvatica	JN891655.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.000924214417744917
+Fagus_sylvatica	MG248004.1	21-JAN-2018	552	Canada: Nova Scotia, Grand Narrows, Cape Breton.	secondary	rbcL	45	-63.75	0.00911322296337968
+Fagus_sylvatica	KX162939.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.4077550597041	-2.76353894542655	0.0020983830352706
+Fagus_sylvatica	KX162938.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.7523149904158	-4.5056717862923	0.0020983830352706
+Fagus_sylvatica	KX162937.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	53.9065641548588	-3.38276369412548	0.0020983830352706
+Fagus_sylvatica	KX162936.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.5642863931718	-3.37340023145566	0.0020983830352706
+Fagus_sylvatica	KX162935.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.5135200890181	-3.63583483143466	0.0020983830352706
+Fagus_sylvatica	JN891396.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000924214417744917
+Fagus_sylvatica	JN891182.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000924214417744917
+Fagus_sylvatica	FN689362.1	19-MAR-2010	743	Italy:Latium	secondary	rbcL	41.9808038	12.7662312	0.0027661626679918

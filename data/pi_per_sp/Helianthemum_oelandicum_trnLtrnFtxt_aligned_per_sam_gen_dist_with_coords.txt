@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_oelandicum	KX498696.1	18-SEP-2017	404	Romania	primary	trnL-trnF	46.17	23.48	0.00784164359830087
+Helianthemum_oelandicum	KX498695.1	18-SEP-2017	377	Spain	primary	trnL-trnF	42.38	1.68	0.0026525198938992
+Helianthemum_oelandicum	KX498694.1	18-SEP-2017	380	Spain	primary	trnL-trnF	37.93	-2.87	0.00263157894736842
+Helianthemum_oelandicum	KY651372.1	30-JUN-2018	397	France	primary	trnL-trnF	44.13	5.27	0.00255754475703325

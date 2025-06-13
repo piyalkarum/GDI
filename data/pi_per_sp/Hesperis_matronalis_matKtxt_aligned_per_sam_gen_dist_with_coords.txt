@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hesperis_matronalis	OR464984.1	26-SEP-2023	835	USA: South Westnedge Park, Portage, MI	primary	matK	42.18521455	-85.59254277	0.00348042332527941
+Hesperis_matronalis	MG221119.1	21-JAN-2018	761	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	matK	42.765	-80.303	0.00175323479899838
+Hesperis_matronalis	MG220802.1	21-JAN-2018	761	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Bridle Trail	primary	matK	43.2935	-79.8733	0.0017520805957074
+Hesperis_matronalis	HQ593319.1	09-NOV-2011	775	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., N side of driveway to Dufferin	primary	matK	44.036	-79.518	0.00172949693286299

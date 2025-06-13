@@ -1,0 +1,38 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melica_uniflora	KX910084.1	29-MAR-2017	1029	Montenegro: vicinity of Povija, near Ostrog Monastery	primary	rpoB	42.67	19.0297	0.00113378684807256
+Melica_uniflora	KX910083.1	29-MAR-2017	1029	Croatia: Dinaric Alps, near Lokvarka Cave	primary	rpoB	44.7143201533037	14.4712592093867	0.00105280207321024
+Melica_uniflora	KX910082.1	29-MAR-2017	1030	Croatia: Dinaric Alps, near Lokvarka Cave	primary	rpoB	44.946186010641	14.9038006699077	0.00985293793892962
+Melica_uniflora	KX910081.1	29-MAR-2017	1029	Austria: S Hainburg an dem Donau, Hundsheimer Berge	primary	rpoB	48.133	16.933	0.00105280207321024
+Melica_uniflora	KX910080.1	29-MAR-2017	1029	Hungary: Hereg near Tatabanya	primary	rpoB	47.9675336284826	17.2852308342417	0.00105280207321024
+Melica_uniflora	KX910079.1	29-MAR-2017	1029	Hungary: Hereg near Tatabanya	primary	rpoB	47.432310305144	19.1416901388768	0.00113378684807256
+Melica_uniflora	KX910078.1	29-MAR-2017	1029	Hungary: N Pecs, Misina Mt.	primary	rpoB	46.1	18.22	0.00105280207321024
+Melica_uniflora	KX910077.1	29-MAR-2017	1029	Bulgaria: Western Stara Planina Mts., Vratsa, near Ledenika Cave	primary	rpoB	43.204	23.491	0.00113378684807256
+Melica_uniflora	KX910076.1	29-MAR-2017	1029	Bulgaria: Rila Mts., Kirilova Polyana	primary	rpoB	42.15	23.422	0.00113378684807256
+Melica_uniflora	KX910075.1	29-MAR-2017	1029	Bulgaria: Lyulin Mts., Klisura	primary	rpoB	42.65	23.15	0.00113378684807256
+Melica_uniflora	KX910074.1	29-MAR-2017	1029	Bulgaria: Vitosha Mts., Belata Voda	primary	rpoB	42.644	23.227	0.00113378684807256
+Melica_uniflora	KX910073.1	29-MAR-2017	1029	Bulgaria: Western Rhodope Mts., Perperikon	primary	rpoB	41.687	25.546	0.00113378684807256
+Melica_uniflora	KX910072.1	29-MAR-2017	1029	Bulgaria: Black Sea coast, Golden Sands	primary	rpoB	43.26	28.027	0.00113378684807256
+Melica_uniflora	KX910071.1	29-MAR-2017	1029	Bulgaria: Vitosha Mts., Knyajevo	primary	rpoB	42.653	23.242	0.00113378684807256
+Melica_uniflora	KX910070.1	29-MAR-2017	1029	Slovenia: Ljubljana-Podutik	primary	rpoB	46.078	14.443	0.00105280207321024
+Melica_uniflora	KX910069.1	29-MAR-2017	1029	Germany: E Kleinsaubernitz	primary	rpoB	51.267	14.618	0.00105280207321024
+Melica_uniflora	KX910068.1	29-MAR-2017	1029	France: Central Pyrenees, vicinity of village Cassagnas	primary	rpoB	44.249	3.975	0.00105280207321024
+Melica_uniflora	KX910067.1	29-MAR-2017	1030	Austria: Thayatal, Hardegg	primary	rpoB	48.4641328623749	14.697825572684	0.00985293793892962
+Melica_uniflora	KX910066.1	29-MAR-2017	1029	Austria: Thayatal, Hardegg	primary	rpoB	48.505813004693	16.8094373918935	0.00105280207321024
+Melica_uniflora	KX910065.1	29-MAR-2017	1029	Austria: Thayatal, Hardegg	primary	rpoB	49.3532618181076	14.8987923505516	0.00113378684807256
+Melica_uniflora	KX910064.1	29-MAR-2017	1029	Slovenia: Kamnisko-Savinjske Alpe, Krvavec Mt.	primary	rpoB	46.288	14.515	0.00105280207321024
+Melica_uniflora	KX910063.1	29-MAR-2017	1029	Italy: Western Alps, vicinity of village Canebola	primary	rpoB	46.178	13.388	0.00105280207321024
+Melica_uniflora	KX910062.1	29-MAR-2017	1029	Sweden: Oland, vicinity of Morbylang	primary	rpoB	56.533	16.467	0.00105280207321024
+Melica_uniflora	KX910061.1	29-MAR-2017	1029	Austria: Vien	primary	rpoB	48.179	16.313	0.00113378684807256
+Melica_uniflora	KX910060.1	29-MAR-2017	1030	Romania: Transilvania, Cisnadie near Sibiu	primary	rpoB	45.7128	24.1491	0.00272606808172491
+Melica_uniflora	KX910059.1	29-MAR-2017	1029	Poland: Sudetes, Gory Kaczawskie Mts., vicinity of village Jawor, 'Wawoz Mysliborski' reserve	primary	rpoB	51.02	16.1	0.00105280207321024
+Melica_uniflora	KX910058.1	29-MAR-2017	1029	Poland: Sudetes, Gory Kaczawskie Mts., Swiny near Bolkow	primary	rpoB	50.95	16.12	0.00105280207321024
+Melica_uniflora	KX910057.1	29-MAR-2017	1029	Poland: Pieniny Mts., Szafranowka Mt.	primary	rpoB	49.41	20.48	0.00113378684807256
+Melica_uniflora	KX910056.1	29-MAR-2017	1029	Poland: vicinity of Dylewo, 'Uroczysko Dylewo' reserve	primary	rpoB	53.54	19.96	0.00113378684807256
+Melica_uniflora	KX910055.1	29-MAR-2017	1029	Poland: vicinity of Krotoszyn	primary	rpoB	51.695	17.4411	0.00105280207321024
+Melica_uniflora	KX910054.1	29-MAR-2017	1029	Poland: Pojezierze Chodzieskie lakeland, near Wagrowiec, 'Debina' reserve	primary	rpoB	52.8	17.14	0.00113378684807256
+Melica_uniflora	KX910053.1	29-MAR-2017	1029	Poland: Kartoszyno	primary	rpoB	54.76	18.1	0.00113378684807256
+Melica_uniflora	KX910052.1	29-MAR-2017	1029	Poland: Pojezierze Drawskie lakeland, Moczele	primary	rpoB	53.08	15.9	0.00113378684807256
+Melica_uniflora	KX910051.1	29-MAR-2017	1029	Poland: Western Carpathians, Beskid Wyspowy Mts., 'Bialowodzka Gora' reserve	primary	rpoB	49.68	20.62	0.00105280207321024
+Melica_uniflora	KX910050.1	29-MAR-2017	1029	Poland: Western Carpathians, Pogorze Roznowskie foothills, Wroblowice	primary	rpoB	49.877	20.867	0.00105280207321024
+Melica_uniflora	KX910049.1	29-MAR-2017	1029	Poland: Wyzyna Slasko-Krakowska Upland, 'Zielona Gora' reserve	primary	rpoB	50.78	19.23	0.00113378684807256
+Melica_uniflora	KX910048.1	29-MAR-2017	1029	Poland: Wyzyna Malopolska Upland, Dubie, Widoma Mt.	primary	rpoB	50.17	19.72	0.00105280207321024

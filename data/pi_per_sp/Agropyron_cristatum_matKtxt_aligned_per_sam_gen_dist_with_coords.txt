@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agropyron_cristatum	OR738214.1	13-NOV-2023	694	Kazakhstan: East Kazakhstan region	primary	matK	48.4517	83.2138	0.00602392018660434
+Agropyron_cristatum	OQ847495.1	15-AUG-2023	789	USA: American Prairie, near Enrico	primary	matK	47.7449	-107.7757	0.00224956492116083
+Agropyron_cristatum	MF597109.1	17-JUL-2018	798	Canada: Saskatchewan, Cypress Hills Provincial Park, near overlook (East Park).	primary	matK	49.678	-109.551	0.00451499880728336
+Agropyron_cristatum	MF597108.1	17-JUL-2018	776	Canada: British Columbia, Fort Steele Road, coner of Hwy. 3 and Wardner, 12 km W of Jaffray. Sandy slope on roadside.	primary	matK	49.679	-115.418	0.00503111472618701
+Agropyron_cristatum	KC473962.1	25-OCT-2013	776	Canada: Northwest Territories, Mainland Northwest Territoires, Yellowknife	primary	matK	62.449	-114.374	0.00226228984172219
+Agropyron_cristatum	MT929995.1	03-MAR-2023	785	China	secondary	matK	35.332737441021	105.413466786663	0.00225014198877892
+Agropyron_cristatum	MT929994.1	03-MAR-2023	777	China	secondary	matK	35.618205915538	104.984458910288	0.0022560064693614
+Agropyron_cristatum	MT929981.1	03-MAR-2023	777	China	secondary	matK	35.3431453490354	105.641713557696	0.0210483263573624
+Agropyron_cristatum	KP210650.1	31-AUG-2017	888	Sweden	secondary	matK	59.0739686811425	15.5451309346944	NA
+Agropyron_cristatum	KP210630.1	31-AUG-2017	321	Sweden	secondary	matK	60.093263939077	15.2459196032356	NA
+Agropyron_cristatum	KP210544.1	31-AUG-2017	321	Sweden	secondary	matK	60.0534082854392	13.4235045793181	NA
+Agropyron_cristatum	JX438066.1	31-MAR-2013	1226	Spain	secondary	matK	39.3260685	-4.8379791	0.00225179892155688
+Agropyron_cristatum	HQ652641.1	14-AUG-2011	876	China	secondary	matK	35.2965583208388	105.044397517362	0.00427438525183906
+Agropyron_cristatum	HQ652634.1	14-AUG-2011	876	China	secondary	matK	35.6310270048413	105.285093730211	0.00221079096260047
+Agropyron_cristatum	HQ652633.1	14-AUG-2011	876	China	secondary	matK	34.2630418363372	104.894788570469	0.00221079096260047

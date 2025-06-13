@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Triticum_monococcum	KC608189.1	12-MAR-2014	1120	Turkey	secondary	matK	39.5065786367705	35.5133281585563	0
+Triticum_monococcum	KC608188.1	12-MAR-2014	1120	Turkey	secondary	matK	38.977272439771	35.6361552648159	0
+Triticum_monococcum	KC608187.1	12-MAR-2014	1120	Turkey	secondary	matK	39.3953760178039	35.8178614014922	0
+Triticum_monococcum	KC608186.1	12-MAR-2014	1120	Turkey	secondary	matK	38.5389898352611	33.9823293949305	0
+Triticum_monococcum	KC608185.1	12-MAR-2014	1120	Turkey	secondary	matK	39.466148673161	34.9645259248409	0
+Triticum_monococcum	KC608184.1	12-MAR-2014	1120	Turkey	secondary	matK	39.5284854783628	35.3565424167094	0

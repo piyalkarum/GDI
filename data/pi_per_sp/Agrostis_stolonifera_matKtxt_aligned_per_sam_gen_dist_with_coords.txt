@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostis_stolonifera	KX873210.1	16-OCT-2017	862	Canada: British Columbia, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Rd. Beta Avenue ditch	primary	matK	49.2608	-122.9892	0.00401749363345063
+Agrostis_stolonifera	KX873209.1	16-OCT-2017	869	Kyrgyzstan: Issyk-Kul, N Issyk-Kul plains, foot of the Kungey Ala-Too, 11 k E of Ananyevo, 44 k W of Tyup	primary	matK	42.7401	77.801	0.00400917155620096
+Agrostis_stolonifera	MF597142.1	17-JUL-2018	819	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Hadyn Turner Campground, S end of Queen Charlotte City.	primary	matK	53.5010789934276	-132.351188141089	0.00409242685968616
+Agrostis_stolonifera	MF597141.1	17-JUL-2018	819	Canada: British Columbia, Queen Charlotte Islands, Graham Island, Hadyn Turner Campground, S end of Queen Charlotte City.	primary	matK	53.175611169725	-133.219311058945	0.00409242685968616
+Agrostis_stolonifera	MF597140.1	17-JUL-2018	818	Canada: British Columbia, Queen Charlotte Islands, Graham Island, along Tlell River adjacent to Naikoon Provincial Park along Hwy. 16.	primary	matK	53.582	-131.944	0.00409581192004391
+Agrostis_stolonifera	MF597139.1	17-JUL-2018	775	Canada: British Columbia, Hazelton Mountains, along Skeena River 15 km E of Cedarvale along Hwy. 16 just W of junction 37	primary	matK	55.088	-123.137	0.00995679509397121
+Agrostis_stolonifera	MF597138.1	17-JUL-2018	773	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, Moresby Camp, Gillett Arm of Cumshewa Inlet, 11 km from Y junction of the loop road	primary	matK	53.052	-132.025	0.00449225283587083
+Agrostis_stolonifera	MF597137.1	17-JUL-2018	773	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, N shore of Skidegate Lake at campground	primary	matK	53.105	-131.923	0.00449225283587083
+Agrostis_stolonifera	MF597136.1	17-JUL-2018	773	Canada: British Columbia, Lower Mainland, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Road, Beta Avenue ditch.	primary	matK	49.261	-122.989	0.00449225283587083
+Agrostis_stolonifera	MF597135.1	17-JUL-2018	819	Canada: British Columbia, Summerland, Sun-Oka Beach Provincial Park.	primary	matK	49.556	-119.632	0.0113406632889106
+Agrostis_stolonifera	MF597134.1	17-JUL-2018	773	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, 3.2 km up road to Moresby Camp from Y junction (loop road) just over bridge at small creek	primary	matK	53.098	-132.054	0.00449225283587083
+Agrostis_stolonifera	HQ593160.1	09-NOV-2011	829	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, open area near stream channel north of Echo Valley Cottage	primary	matK	44.026	-79.532	0.00367164661588087
+Agrostis_stolonifera	HQ593159.1	09-NOV-2011	856	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, directly NW of Dufferin St. and driveway	primary	matK	44.03	-79.528	0.00368341279484668
+Agrostis_stolonifera	JN894586.1	07-MAR-2012	1019	United Kingdom: Glamorgan	primary	matK	51.71	-3.42	0.00343669611900751
+Agrostis_stolonifera	MN492691.1	30-NOV-2021	793	China	secondary	matK	30.047992	-94.3357433	0.013687533204574
+Agrostis_stolonifera	MT433179.1	31-MAY-2020	1220	Norway	secondary	matK	64.5731537	11.5280364	0.0160053601630735
+Agrostis_stolonifera	KJ529328.1	22-FEB-2015	969	Spain	secondary	matK	39.3260685	-4.8379791	0.00685975335686076
+Agrostis_stolonifera	KJ204436.1	29-JAN-2015	689	Switzerland: Geneva	secondary	matK	46.1593839728146	5.25729077718803	0.00471072999532563
+Agrostis_stolonifera	KJ204435.1	29-JAN-2015	757	Switzerland: Geneva	secondary	matK	46.9848216438748	6.02454451896134	0.00592041456917745
+Agrostis_stolonifera	HM850556.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0037472348823873
+Agrostis_stolonifera	JN895344.1	07-MAR-2012	880	United Kingdom: Glamorgan	secondary	matK	51.0747536469841	-2.79175537072433	0.00363643470296239
+Agrostis_stolonifera	JN895341.1	07-MAR-2012	827	United Kingdom: Glamorgan	secondary	matK	51.5356759349746	-4.58013962835303	0.00369591813168541

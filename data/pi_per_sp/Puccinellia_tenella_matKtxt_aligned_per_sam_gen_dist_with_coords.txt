@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_tenella	KC475620.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Sandy bank of Kuujjua River south Fish lake, 17 km SE of Minto Inlet	primary	matK	71.313	-116.916	0.0012156595858652
+Puccinellia_tenella	KC475619.1	25-OCT-2013	774	Canada: Northwest Territories, Banks Island (Northwest Territories), Sachs Harbour	primary	matK	72	-125	0.00124255261995159
+Puccinellia_tenella	KC475618.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	matK	62.857	-67.354	0.00124255261995159
+Puccinellia_tenella	KC475617.1	25-OCT-2013	774	Canada: Nunavut	primary	matK	61.819	-65.71	0.00124255261995159
+Puccinellia_tenella	KC475616.1	25-OCT-2013	774	Canada: Northwest Territories, Victoria Island, Boot Inlet, Shoreline at NE corner of Boot Inlet	primary	matK	71.489	-117.427	0.00121621384998536
+Puccinellia_tenella	KC475615.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Coast on S side of river delta at head of N arm of Minto Inlet	primary	matK	71.631	-115.476	0.00124141435761613
+Puccinellia_tenella	KC475614.1	25-OCT-2013	773	Canada: Nunavut, Victoria Island, Murray Point	primary	matK	68.68	-110.37	0.00121695669297175
+Puccinellia_tenella	KC475613.1	25-OCT-2013	773	Canada: Nunavut, Victoria Island, Oterkvik Point vicinity. Low rocky hills at coast	primary	matK	68.61	-113.14	0.00124292404144478
+Puccinellia_tenella	JN966477.1	27-OCT-2012	669	Canada: Manitoba, Churchill, unspecified locality, High tidal marsh. Very wet, shallow.	primary	matK	58.733	-93.783	0.00531473177213088
+Puccinellia_tenella	KM523914.1	12-JUL-2015	788	USA: Alaska	secondary	matK	64.4459613	-149.680909	0.00123448318706064

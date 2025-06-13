@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_riviniana	JN894328.1	07-MAR-2012	856	United Kingdom: Glamorgan	primary	matK	51.79	-3.37	0.00175658720200753
+Viola_riviniana	KJ747843.1	27-JUL-2014	870	Portugal	secondary	matK	40.5359964239478	-8.16442242227118	0.00160919540229885
+Viola_riviniana	KJ747842.1	27-JUL-2014	870	Portugal	secondary	matK	40.0760467014695	-8.87429480007117	0.00160919540229885
+Viola_riviniana	KJ747841.1	27-JUL-2014	870	Spain	secondary	matK	38.9470475856556	-5.14220375658206	0.00316308657966122
+Viola_riviniana	KJ747840.1	27-JUL-2014	870	Spain	secondary	matK	39.8375601369075	-3.8941287933408	0.00414082042039121
+Viola_riviniana	JN895047.1	07-MAR-2012	791	United Kingdom: Breconshire (42)	secondary	matK	52.9875065	-1.1773256	0.00186915887850467

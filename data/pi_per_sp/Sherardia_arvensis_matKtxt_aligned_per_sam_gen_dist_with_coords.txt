@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sherardia_arvensis	JN894494.1	07-MAR-2012	874	United Kingdom: Glamorgan	primary	matK	51.51	-3.21	0.0191618526306876
+Sherardia_arvensis	OQ290504.1	16-MAY-2023	780	Mexico: Puebla	secondary	matK	19.1710098	-98.4125121	0.0422663145781494
+Sherardia_arvensis	KJ810736.1	08-JUN-2015	477	Italy: Lazio, Carpineto Romano	secondary	matK	41.6044133	13.0847775	0.0351153039832285
+Sherardia_arvensis	HM850831.1	23-JUL-2011	767	Portugal	secondary	matK	39.6621648	-8.1353519	0.0234079493153686
+Sherardia_arvensis	HE966995.1	18-SEP-2012	745	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0231597115235282

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_valentinum	EU718050.1	31-MAY-2009	1255	Spain: Valencia, Pena Colom	secondary	matK	39.4697065	-0.3763353	0.00099601593625498
+Antirrhinum_valentinum	EU718049.1	31-MAY-2009	1255	Spain: Valencia, La Drova	secondary	matK	39.0056878	-0.2866096	0.00159362549800797
+Antirrhinum_valentinum	EU718048.1	31-MAY-2009	1255	Spain: Valencia, Font del Cirer	secondary	matK	38.6478111	-0.3613231	0.00179282868525896
+Antirrhinum_valentinum	EU718047.1	31-MAY-2009	1255	Spain: Valencia, Buixcarro	secondary	matK	39.0046861	-0.3409723	0.00119521912350598
+Antirrhinum_valentinum	EU718046.1	31-MAY-2009	1255	Spain: Valencia, Bolomor	secondary	matK	39.0596913	-0.2502812	0.00159362549800797

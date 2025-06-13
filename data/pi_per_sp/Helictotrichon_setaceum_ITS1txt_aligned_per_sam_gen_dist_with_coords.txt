@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helictotrichon_setaceum	LN589877.1	21-OCT-2016	602	Austria	secondary	ITS1	36.7640542788252	-5.15661385870139	0.00509324447415134
+Helictotrichon_setaceum	HG797523.1	26-SEP-2014	584	France	secondary	ITS1	46.603354	1.8883335	0.0108923135464231
+Helictotrichon_setaceum	HG797522.1	26-SEP-2014	602	Austria	secondary	ITS1	36.3752538142828	-3.85949831133976	0.00566402072985911
+Helictotrichon_setaceum	FM956468.1	08-FEB-2009	595	Austria	secondary	ITS1	36.2691905143792	-4.30811352026126	0.00459455667789001

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lepidium_campestre	OR538526.1	17-OCT-2023	835	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.28833279	-85.61955311	0.000657894736842105
+Lepidium_campestre	OR464959.1	26-SEP-2023	829	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.28826615	-85.61731875	0.000657894736842105
+Lepidium_campestre	MG220593.1	21-JAN-2018	761	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	matK	45.188	-81.416	0.000658761528326746
+Lepidium_campestre	HQ593342.1	09-NOV-2011	771	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, Racing barn parking lot	primary	matK	44.03	-79.534	0.000658763818396718
+Lepidium_campestre	HQ593341.1	09-NOV-2011	760	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Gravelly mound E of racetrack	primary	matK	44.033	-79.538	0.00285991025185243
+Lepidium_campestre	JN894161.1	07-MAR-2012	750	United Kingdom: Monmouthshire	secondary	matK	51.5756685633975	-2.07683312033482	0.000666666666666667
+Lepidium_campestre	JN894160.1	07-MAR-2012	760	United Kingdom: Monmouthshire	secondary	matK	51.7423817619918	-3.31915183662186	0.0017610751982338

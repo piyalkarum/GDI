@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_subterraneum	MG249858.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Victoria, Central Saanich, Dunsmuir Lodge	primary	rbcL	48.659	-123.411	0
+Trifolium_subterraneum	KX679272.1	29-APR-2017	552	Canada: British Columbia, Capital Regional District, North Pender Island, Otter Bay Ferry Terminal, Lane 4 shoulder	primary	rbcL	48.801	-123.316	0
+Trifolium_subterraneum	JN890918.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.76	-4.47	0
+Trifolium_subterraneum	HM850426.1	23-JUL-2011	686	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Trifolium_subterraneum	JN893215.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0

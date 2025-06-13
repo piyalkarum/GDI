@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chorispora_tenella	FN677721.1	01-DEC-2010	766	USA:Colorado	secondary	trnL-trnF	38.7251776	-105.607716	0.00625561103708949
+Chorispora_tenella	KJ623427.1	10-JUN-2014	390	China	secondary	trnL-trnF	35.001552263833	105.462738563137	0.00349853575264005
+Chorispora_tenella	KJ623426.1	10-JUN-2014	392	China	secondary	trnL-trnF	35.7279286209651	105.018975284029	0.00353786317658762
+Chorispora_tenella	KJ623425.1	10-JUN-2014	390	China	secondary	trnL-trnF	35.4391584763357	105.942943163128	0.00265122122455012

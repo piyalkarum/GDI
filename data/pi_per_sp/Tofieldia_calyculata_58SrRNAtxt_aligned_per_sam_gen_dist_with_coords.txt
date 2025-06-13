@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tofieldia_calyculata	AB541080.1	29-APR-2010	412	Italy: Lago di Garda, Val di Vesta	secondary	5.8S rRNA	45.7174324	10.6112294	0.0040551500405515
+Tofieldia_calyculata	AB541079.1	29-APR-2010	575	Germany: Garmisch-Partenkirchen, Schachen	secondary	5.8S rRNA	47.4195013	11.1128431	0.00255319028685595
+Tofieldia_calyculata	AB541078.1	29-APR-2010	575	Germany: Frankfurt, Palmengarten	secondary	5.8S rRNA	50.1236287	8.6559827	0.00255319028685595
+Tofieldia_calyculata	AB541081.1	29-APR-2010	574	Italy	secondary	5.8S rRNA	45.841883	10.6866449	0.00591741058182219

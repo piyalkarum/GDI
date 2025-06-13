@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pistacia_atlantica	KU504612.1	30-JUL-2016	842	Cyprus: Paphos	primary	rbcL	34.81	32.4	0
+Pistacia_atlantica	KP031685.1	07-FEB-2015	749	Iran	secondary	rbcL	32.60919180126	54.1917419706959	0
+Pistacia_atlantica	KP031684.1	07-FEB-2015	749	Iran	secondary	rbcL	33.3096275504193	53.8590075719004	0
+Pistacia_atlantica	KP031681.1	07-FEB-2015	748	Syria	secondary	rbcL	34.6401861	39.0494106	0

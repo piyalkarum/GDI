@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_rapunculoides	LR701262.1	21-OCT-2021	1077	Russia	primary	rpl16	47.0368	41.6744	0.00238002276585743
+Campanula_rapunculoides	LR701261.1	21-OCT-2021	1077	Russia	primary	rpl16	47.055	41.6645	0.00238002276585743
+Campanula_rapunculoides	LR701238.1	21-OCT-2021	1077	Russia	primary	rpl16	44.0539	43.1114	0.00185701021355617
+Campanula_rapunculoides	LR701234.1	21-OCT-2021	1077	Russia	primary	rpl16	44.1397	40.7778	0.00383154042493677
+Campanula_rapunculoides	MK556636.1	22-SEP-2019	478	Romania	secondary	rpl16	45.9852129	24.6859225	0.00209205020920502

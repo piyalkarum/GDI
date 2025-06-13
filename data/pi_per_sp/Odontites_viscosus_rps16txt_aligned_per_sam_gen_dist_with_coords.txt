@@ -1,0 +1,35 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_viscosus	KX958963.1	02-NOV-2017	780	Spain: Zamora, Corrales del Vino	primary	rps16	42.1180206052275	-6.13836926657586	0.001635368573255
+Odontites_viscosus	KX958962.1	02-NOV-2017	824	Spain: Zamora, Corrales del Vino	primary	rps16	41.7649889242626	-6.51347494068011	0.00156247827552205
+Odontites_viscosus	KX958961.1	02-NOV-2017	842	France: Bouches-du-Rhone, Palama	primary	rps16	43.8935485611639	4.64637471326585	0.000439522420556832
+Odontites_viscosus	KX958960.1	02-NOV-2017	842	France: Bouches-du-Rhone, Palama	primary	rps16	44.0878770912345	5.2906253928624	0.000439522420556832
+Odontites_viscosus	KX958894.1	02-NOV-2017	842	Spain: Oviedo, Lena, Tuizia de Arriba, Pena Cerreos	primary	rps16	43.0164	-5.9372	0.000439356877278965
+Odontites_viscosus	KX958892.1	02-NOV-2017	809	Spain: Huesca, Broto, Asin de Broto	primary	rps16	42.53	-0.15	0.00045324381804074
+Odontites_viscosus	KX958865.1	02-NOV-2017	842	Spain: Granada, Sierra Nevada, Cerro Canadillas	primary	rps16	37.562965194994	-3.0114070833932	0.000439356877278965
+Odontites_viscosus	KX958864.1	02-NOV-2017	842	Spain: Granada, Sierra Nevada, Cerro Canadillas	primary	rps16	37.5524625963483	-3.12415173145094	0.000439356877278965
+Odontites_viscosus	KX958838.1	02-NOV-2017	842	Spain: Lerida, Sarroca de Bellera	primary	rps16	42.4297934854573	0.0304243491234478	0.000439356877278965
+Odontites_viscosus	KX958837.1	02-NOV-2017	822	Spain: Lerida, Sarroca de Bellera	primary	rps16	42.6972250898547	1.92568556535684	0.000451596225467921
+Odontites_viscosus	KX958836.1	02-NOV-2017	842	Spain: Leon, Puebla de Lillo, Isoba	primary	rps16	43.6340690544442	-5.17624635960463	0.000439356877278965
+Odontites_viscosus	KX958835.1	02-NOV-2017	830	Spain: Leon, Puebla de Lillo, Isoba	primary	rps16	43.1357209511484	-5.28154449070614	0.00044295800873479
+Odontites_viscosus	KX958834.1	02-NOV-2017	842	Portugal: Setubal, Sesimbra, Cabo Espichel	primary	rps16	38.1903918748532	-9.68927418824842	0.00249114193998209
+Odontites_viscosus	KX958833.1	02-NOV-2017	823	Portugal: Setubal, Sesimbra, Cabo Espichel	primary	rps16	38.1819630374523	-9.9417034655087	0.00253797065541241
+Odontites_viscosus	KX958810.1	02-NOV-2017	842	Spain: Granada, Sierra Nevada, barranco de Rio Seco	primary	rps16	36.7241562763916	-3.64490459371572	0.000439356877278965
+Odontites_viscosus	KX958809.1	02-NOV-2017	822	Spain: Granada, Sierra Nevada, barranco de Rio Seco	primary	rps16	36.8346919297538	-4.10973937538011	0.000451596225467921
+Odontites_viscosus	KX958796.1	02-NOV-2017	836	Spain: Granada, Sierra Navada, barranco del Guarnon	primary	rps16	37.0750101652208	-3.19462895950412	0.000444563711087864
+Odontites_viscosus	KX958795.1	02-NOV-2017	836	Spain: Granada, Sierra Navada, barranco del Guarnon	primary	rps16	36.9345219299293	-3.99473151872475	0.000444563711087864
+Odontites_viscosus	KX958794.1	02-NOV-2017	836	Spain: Leon, Carmenes, Genicera	primary	rps16	42.93688	-5.47687	0.000444563711087864
+Odontites_viscosus	KX958793.1	02-NOV-2017	836	Spain: Palencia, La Pernia, Piedrasluengas	primary	rps16	43.02225	-4.44626	0.000444563711087864
+Odontites_viscosus	KX958792.1	02-NOV-2017	836	Spain: Jaen, Cazorla, near Vadillo Castril	primary	rps16	37.92067	-2.94506	0.000444563711087864
+Odontites_viscosus	KX958791.1	02-NOV-2017	836	Spain: Barcelona, Vilada	primary	rps16	42.1298	1.94764	0.000444563711087864
+Odontites_viscosus	KX958790.1	02-NOV-2017	836	Spain: Leon, Puebla de Lillo, Isoba	primary	rps16	43.2869766800024	-5.69357020314139	0.000444563711087864
+Odontites_viscosus	KX958789.1	02-NOV-2017	836	Portugal: Setubal, Sesimbra, Cabo Espichel	primary	rps16	38.4141	-9.2094	0.00250092160205712
+Odontites_viscosus	KX958788.1	02-NOV-2017	836	Spain: Toledo, Orgaz, between Marjaliza and Arisgotas	primary	rps16	39.58057	-3.92741	0.000444563711087864
+Odontites_viscosus	KX958787.1	02-NOV-2017	836	Morocco: Tanger-Tetouan, Jbel L'akraa	primary	rps16	35.13683	-5.14364	0.000444563711087864
+Odontites_viscosus	KX958772.1	02-NOV-2017	836	Spain: Granada, Sierra Nevada, Collado de Las Sabinas	primary	rps16	37.8338211884475	-3.90697952650735	0.000444563711087864
+Odontites_viscosus	KX958771.1	02-NOV-2017	836	Spain: Granada, Sierra Nevada, Collado de Las Sabinas	primary	rps16	37.6807247365653	-2.80851460153674	0.000444563711087864
+Odontites_viscosus	KX958770.1	02-NOV-2017	836	Spain: Granada, Guejar Sierra, Canales	primary	rps16	36.5758564042848	-3.74642803110748	0.000444563711087864
+Odontites_viscosus	KX958769.1	02-NOV-2017	836	Spain: Granada, Guejar Sierra, Canales	primary	rps16	36.9008504457946	-3.48269585102384	0.000444563711087864
+Odontites_viscosus	KX958985.1	02-NOV-2017	844	Spain: Oviedo, Lena, east of Pena Vera	secondary	rps16	43.3618625	-5.8483581	0.000439180075752072
+Odontites_viscosus	KX958971.1	02-NOV-2017	834	Switzerland: Valais, Bratsch	secondary	rps16	46.3206475	7.7072693	0.00265986659557996
+Odontites_viscosus	KX958891.1	02-NOV-2017	841	France: Hautes-Alpes, Villar-Saint-Pancrace, Le Melezin	secondary	rps16	44.8577702	6.6399995	0.00264267991899959
+Odontites_viscosus	JF900556.1	05-MAR-2013	789	France	secondary	rps16	46.603354	1.8883335	0.000462230758220707

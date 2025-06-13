@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Prunus_cerasifera	OR465036.1	26-SEP-2023	334	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	psbA-trnH	42.2876474	-85.61618644	0.000750750750750751
+Prunus_cerasifera	MN049209.1	12-AUG-2020	283	China	secondary	psbA-trnH	35.000074	104.999927	0
+Prunus_cerasifera	FJ493306.1	22-DEC-2008	393	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.000750750750750751
+Prunus_cerasifera	HE966760.1	18-SEP-2012	264	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6376052228	13.8186988068055	0
+Prunus_cerasifera	HE966759.1	18-SEP-2012	267	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.9404901919595	13.9161143882319	0

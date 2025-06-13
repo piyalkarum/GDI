@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lolium_giganteum	MG226120.1	23-JAN-2018	552	Canada: Ontario, Ontario, Waterloo, west side of Grand River at Sheps subdivision, near bridge over Grand river, ca 5 km south of Galt	primary	rbcL	43.313	-80.313	0
+Lolium_giganteum	JN891307.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.53	0
+Lolium_giganteum	KT438954.1	23-SEP-2016	632	Turkey	secondary	rbcL	38.9597594	34.9249653	0
+Lolium_giganteum	JN891927.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Lolium_giganteum	JN891926.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0

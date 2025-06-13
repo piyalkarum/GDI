@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthoxanthum_amarum	KC897703.1	07-MAY-2014	869	Spain: Galicia	secondary	trnL-trnF	42.2753423150399	-8.39875848193465	0.000383582662063675
+Anthoxanthum_amarum	KC897702.1	07-MAY-2014	870	Spain: Asturias	secondary	trnL-trnF	43.6912155791002	-6.54725332940981	0.00134209841761129
+Anthoxanthum_amarum	KC897701.1	07-MAY-2014	869	Spain: Asturias	secondary	trnL-trnF	42.9937880796059	-5.1861684936884	0.000383582662063675
+Anthoxanthum_amarum	KC897700.1	07-MAY-2014	869	Portugal	secondary	trnL-trnF	40.5084808824504	-8.13635574610692	0.000383582662063675
+Anthoxanthum_amarum	KC897699.1	07-MAY-2014	869	Portugal	secondary	trnL-trnF	40.2538525918101	-8.61051060285362	0.000383582662063675
+Anthoxanthum_amarum	KC897698.1	07-MAY-2014	869	Portugal	secondary	trnL-trnF	39.8539565365458	-7.69061713611868	0.000383582662063675
+Anthoxanthum_amarum	KC897697.1	07-MAY-2014	871	Spain: Galicia	secondary	trnL-trnF	42.592354475978	-8.18859655345249	0.00134209841761129

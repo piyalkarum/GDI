@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erica_tetralix	MG222785.1	26-DEC-2017	552	Canada: OAC,On	primary	rbcL	43.5485	-80.2503	0.000262605042016807
+Erica_tetralix	JN892342.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.63	-3.89	0.000268024658268561
+Erica_tetralix	KX821233.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.2029345419	8.49145648561851	0.0006265664160401
+Erica_tetralix	KX821232.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.7772258619059	8.94523121909686	0.0006265664160401
+Erica_tetralix	KX821231.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.6190094109577	7.55204949261424	0.0006265664160401
+Erica_tetralix	KX821230.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.639414555911	9.58163518716034	0.00294840491642308
+Erica_tetralix	JN893573.1	07-MAR-2012	538	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000270051309748852
+Erica_tetralix	JN892822.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9875065	-1.1773256	0.000268024658268561

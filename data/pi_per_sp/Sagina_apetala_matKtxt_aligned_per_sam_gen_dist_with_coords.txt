@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_apetala	JN895028.1	07-MAR-2012	738	United Kingdom: Monmouthshire	primary	matK	51.64	-2.69	0.00374531835205993
+Sagina_apetala	OQ172413.1	18-JUN-2023	776	South Korea	secondary	matK	36.7960114403558	128.422787367021	0.00364797081623347
+Sagina_apetala	OQ172412.1	18-JUN-2023	776	South Korea	secondary	matK	36.1151478663353	127.111419909198	0.00364797081623347
+Sagina_apetala	OQ172411.1	18-JUN-2023	776	South Korea	secondary	matK	36.4283580005971	128.121150771791	0.00364797081623347
+Sagina_apetala	HM850780.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0219458024408936
+Sagina_apetala	JN895773.1	07-MAR-2012	752	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00365296803652968
+Sagina_apetala	JN893946.1	07-MAR-2012	804	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.0036036036036036

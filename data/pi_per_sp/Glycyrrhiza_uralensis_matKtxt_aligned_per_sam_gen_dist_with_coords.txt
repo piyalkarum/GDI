@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glycyrrhiza_uralensis	OR678654.1	06-NOV-2023	349	Kazakhstan: Qaragandy region	primary	matK	47.36201	74.74058	0
+Glycyrrhiza_uralensis	OQ722366.1	02-JUL-2023	835	Kazakhstan: Buiratau National Park	primary	matK	51.2232	73.3356	0.000729188666931858
+Glycyrrhiza_uralensis	MT918262.1	03-MAR-2023	768	China	secondary	matK	34.6349245868326	104.892116769498	0.00037202380952381
+Glycyrrhiza_uralensis	MT918260.1	03-MAR-2023	780	China	secondary	matK	35.4462685074416	104.473589190551	0.0012952117315137
+Glycyrrhiza_uralensis	MT918258.1	03-MAR-2023	761	China	secondary	matK	34.2389411396277	105.223598536603	0.00037919638548093
+Glycyrrhiza_uralensis	MT918257.1	03-MAR-2023	771	China	secondary	matK	35.1928747703843	105.595109894113	0.00130390679945566
+Glycyrrhiza_uralensis	MN317483.1	30-SEP-2021	792	China	secondary	matK	34.9402246628821	105.627361127564	0.000729188666931858
+Glycyrrhiza_uralensis	KP338524.1	21-APR-2015	778	China	secondary	matK	35.5513505718139	105.312399226645	0.000369869231476374

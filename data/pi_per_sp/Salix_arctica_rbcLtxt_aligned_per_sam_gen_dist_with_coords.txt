@@ -1,0 +1,26 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_arctica	MG249468.1	21-JAN-2018	552	Canada: Yukon Territory, Mount Klotz camp	primary	rbcL	65.363	-140.182	7.54830917874396e-05
+Salix_arctica	MG248475.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	45.5595	-73.566	7.54830917874396e-05
+Salix_arctica	MG247543.1	21-JAN-2018	552	USA: Alaska, Chugach State Park, Glen Alps Trailhead	primary	rbcL	61.0862	-149.61	7.54830917874396e-05
+Salix_arctica	KT960744.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	7.54830917874396e-05
+Salix_arctica	KT960699.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.28775509687	-20.1796444822976	7.54830917874396e-05
+Salix_arctica	KT960634.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.3250499934041	-18.4396842997787	7.54830917874396e-05
+Salix_arctica	KT960490.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1872711621623	-21.5923740338297	7.54830917874396e-05
+Salix_arctica	KC483928.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Camp 13 km north of Oterkvik Point, 10 km north of coast at Coronation gulf, lower camp area and vicinity to the south	primary	rbcL	68.739	-112.625	7.54830917874396e-05
+Salix_arctica	KC483927.1	25-OCT-2013	552	USA: Alaska, Aleutian Islands, Rat Island	primary	rbcL	51.805	-178.312	7.54830917874396e-05
+Salix_arctica	KC483926.1	25-OCT-2013	552	USA: Alaska, Aleutian Islands, Attu Island, Siddons Valley, ca 3.5 miles north of Coast Guard Station. Road passing through west end of Siddens Valley	primary	rbcL	52.387	-173.191	7.54830917874396e-05
+Salix_arctica	KC483925.1	25-OCT-2013	552	USA: Alaska, Anchorage area, Glen Alps State Park, On branch of Power Line Trail that crosses bridge and runs along the base of XX Mountain	primary	rbcL	61.088	-149.622	7.54830917874396e-05
+Salix_arctica	KC483924.1	25-OCT-2013	552	Canada: Nunavut	primary	rbcL	56.428	-79.164	0.00183037958773253
+Salix_arctica	KC483923.1	25-OCT-2013	552	USA: Alaska, Anchorage area, Glen Alps State Park, On branch of Power Line Trail that crosses bridge and runs along the base of XX Mountain	primary	rbcL	61.086	-149.61	7.54830917874396e-05
+Salix_arctica	KC483922.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	72.3137447824649	-114.884481023693	7.54830917874396e-05
+Salix_arctica	KC483921.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Baffin Island. Trail between Apex and Iqaluit	primary	rbcL	63.5833	-68.7333	7.54830917874396e-05
+Salix_arctica	KC483920.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	rbcL	71.4093764017605	-116.181447248471	7.54830917874396e-05
+Salix_arctica	KC483919.1	25-OCT-2013	552	USA: Alaska, Aleutian Islands, Buldir Island	primary	rbcL	52.372	-175.891	7.54830917874396e-05
+Salix_arctica	KC483918.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.907	-109.59	7.54830917874396e-05
+Salix_arctica	KC483917.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay, Cambridge Bay, ~0.25 km SW of town, adjacent to the airport road, near where road enters town	primary	rbcL	69.25	-105.203	7.54830917874396e-05
+Salix_arctica	KC483916.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk	primary	rbcL	69.4306	-124.144	7.54830917874396e-05
+Salix_arctica	KC483915.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.8126657949944	-114.545860584349	7.54830917874396e-05
+Salix_arctica	KC483914.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	70.1306510264151	-118.287491597374	7.54830917874396e-05
+Salix_arctica	KC483913.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	71.2561056963471	-116.625375006096	7.54830917874396e-05
+Salix_arctica	KC483912.1	25-OCT-2013	552	USA: Alaska, Aleutian Islands, Attu Island, West Mountains just west of Casco Cove and near the old east-west runway at Coast Guard Station. Mid-shoulder of mountain	primary	rbcL	52.819	-173.153	7.54830917874396e-05
+Salix_arctica	FR694861.1	04-OCT-2010	597	Russia:Kamchatka	secondary	rbcL	57.1914882	160.0383819	9.42684766214178e-05

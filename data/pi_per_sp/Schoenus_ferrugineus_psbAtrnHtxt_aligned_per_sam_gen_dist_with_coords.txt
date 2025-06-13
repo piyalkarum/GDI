@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Schoenus_ferrugineus	MF543694.1	25-JUL-2018	255	Italy: Aosta Valley, Saint-Denis, Semon	secondary	psbA-trnH	45.4653599870369	7.64792595177464	0
+Schoenus_ferrugineus	MF543693.1	25-JUL-2018	255	Italy: Aosta Valley, Saint-Denis, Semon	secondary	psbA-trnH	45.754485147475	6.75035701701177	0
+Schoenus_ferrugineus	MF543692.1	25-JUL-2018	255	Italy: Aosta Valley, Saint-Denis, Semon	secondary	psbA-trnH	46.0080198987323	6.58245324655274	0
+Schoenus_ferrugineus	MF543691.1	25-JUL-2018	255	Italy: Aosta Valley, Saint-Denis, Semon	secondary	psbA-trnH	45.3054816835048	8.34177266872735	0

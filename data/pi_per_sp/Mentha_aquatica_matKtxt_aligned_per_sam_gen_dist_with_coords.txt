@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_aquatica	ON684597.1	21-AUG-2022	1530	Portugal: Meiral, Canidelo, Vila Nova de Gaia	primary	matK	41.12447	-8.64486	0.00262194753841046
+Mentha_aquatica	ON684594.1	21-AUG-2022	1530	Portugal: Utopia, Pedreira, Povoa do Lanhoso	primary	matK	41.61855	-8.32338	0.00262194753841046
+Mentha_aquatica	ON684584.1	21-AUG-2022	1530	Portugal: Jardim Botanico da Ajuda, Ajuda, Lisboa	primary	matK	38.70641	-9.19938	0.00262194753841046
+Mentha_aquatica	KP172053.1	04-FEB-2015	787	Pakistan	secondary	matK	30.3308401	71.247499	0.00270642155636759
+Mentha_aquatica	KC584934.1	04-JUN-2013	818	Italy: Umbria	secondary	matK	42.965916	12.490236	0.00372260515042212
+Mentha_aquatica	HM850796.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00264309721076403
+Mentha_aquatica	JN895681.1	07-MAR-2012	745	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.00279329608938547
+Mentha_aquatica	FR719059.1	30-MAR-2011	810	Italy	secondary	matK	42.9713714911569	12.3150324808112	0.00908036297528459
+Mentha_aquatica	FR719058.1	30-MAR-2011	810	Italy	secondary	matK	42.4856302416716	13.2301252186407	0.00908036297528459

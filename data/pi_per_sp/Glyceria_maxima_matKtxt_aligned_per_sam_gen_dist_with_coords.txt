@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glyceria_maxima	MF597406.1	17-JUL-2018	554	Canada: British Columbia, Burnaby, edge of Trout Lake, SE of Grandview Highway and Hwy. 7	primary	matK	49.256	-123.065	0
+Glyceria_maxima	JN895612.1	07-MAR-2012	1060	United Kingdom: Glamorgan	primary	matK	51.56	-3.72	0
+Glyceria_maxima	JN894364.1	07-MAR-2012	783	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0
+Glyceria_maxima	JN894363.1	07-MAR-2012	802	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

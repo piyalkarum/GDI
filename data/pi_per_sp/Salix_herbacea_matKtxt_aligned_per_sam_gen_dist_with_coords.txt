@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_herbacea	MZ400430.1	07-DEC-2021	803	Sweden: Latnjavagge	primary	matK	68.35	18.49	0
+Salix_herbacea	KC475764.1	25-OCT-2013	711	Canada: Nunavut, Keewatin, Small lake south of Garry Lakes	primary	matK	65.5	-100.05	0
+Salix_herbacea	KC475763.1	25-OCT-2013	789	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. In the vicinity of the fresh water lake in lowlands 1 km W of Kihlbay	primary	matK	56.472	-79.042	0
+Salix_herbacea	JN894242.1	07-MAR-2012	803	United Kingdom: Sutherland, West (108)	primary	matK	58.41	-4.44	0
+Salix_herbacea	MK926154.1	14-JAN-2020	793	United Kingdom	secondary	matK	54.0115628018888	-4.24657584533608	0
+Salix_herbacea	MK925761.1	14-JAN-2020	798	United Kingdom	secondary	matK	54.8158469464333	-4.33844899232694	0
+Salix_herbacea	JN895516.1	07-MAR-2012	793	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0

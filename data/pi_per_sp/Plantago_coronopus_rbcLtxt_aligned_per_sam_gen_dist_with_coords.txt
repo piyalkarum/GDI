@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_coronopus	JN892596.1	07-MAR-2012	542	United Kingdom	primary	rbcL	51.76	-4.39	0.0075598285924122
+Plantago_coronopus	JN891032.1	07-MAR-2012	542	United Kingdom: Shetland (112)	primary	rbcL	60.47	-1.61	0.0075598285924122
+Plantago_coronopus	KY951705.1	18-APR-2018	623	Kuwait	secondary	rbcL	28.9644768269462	47.8438395750359	0.0122370825055622
+Plantago_coronopus	KY951704.1	18-APR-2018	602	Kuwait	secondary	rbcL	29.2518784842089	47.9211738490433	0.012704125657307
+Plantago_coronopus	MG428483.1	02-APR-2018	496	United Kingdom: England	secondary	rbcL	52.5310214	-1.2649062	0.0136766015184367
+Plantago_coronopus	MG223890.1	26-DEC-2017	552	Canada: British Columbia, Vancouver Island, Ivy Green Park at Ladysmith.	secondary	rbcL	49.25783145	-123.246241986222	0.00831454006367963
+Plantago_coronopus	KX282945.1	28-MAY-2017	535	Kuwait	secondary	rbcL	29.9189518823078	48.248308064068	0.0135496864772879
+Plantago_coronopus	KX282944.1	28-MAY-2017	575	Kuwait	secondary	rbcL	30.1846127091761	48.3454797760144	0.0123281595197162
+Plantago_coronopus	KX282943.1	28-MAY-2017	576	Kuwait	secondary	rbcL	29.6057551841054	47.0021107185121	0.0123154344449564
+Plantago_coronopus	HM850263.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00971741384256809
+Plantago_coronopus	JN893495.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.0075598285924122
+Plantago_coronopus	JN892323.1	07-MAR-2012	537	United Kingdom: Glamorgan	secondary	rbcL	51.6317628456029	-2.69439832544942	0.00818123811841062
+Plantago_coronopus	JN892321.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.9329546187055	-2.32436478907373	0.0075598285924122
+Plantago_coronopus	JN891962.1	07-MAR-2012	517	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0337165763220957

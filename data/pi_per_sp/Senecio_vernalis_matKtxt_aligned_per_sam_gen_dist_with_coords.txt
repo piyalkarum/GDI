@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_vernalis	KT250044.1	09-AUG-2015	820	Germany	secondary	matK	40.4815960834186	-78.9950297848133	0
+Senecio_vernalis	KT250043.1	09-AUG-2015	820	Germany	secondary	matK	39.614864508182	-78.7978205797679	0
+Senecio_vernalis	KT250042.1	09-AUG-2015	820	Germany	secondary	matK	40.2610435896768	-79.6294434252997	0
+Senecio_vernalis	KT250041.1	09-AUG-2015	820	Germany	secondary	matK	39.8652711740854	-78.8252600844701	0
+Senecio_vernalis	KT250040.1	09-AUG-2015	820	Germany	secondary	matK	40.8933701583888	-79.6594286919415	0
+Senecio_vernalis	JN789620.1	08-JAN-2012	539	Israel	secondary	matK	30.8124247	34.8594762	0

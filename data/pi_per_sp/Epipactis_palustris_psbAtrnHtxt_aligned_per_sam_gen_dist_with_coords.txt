@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epipactis_palustris	MF543649.1	25-JUL-2018	828	Italy: Aosta Valley, Verrayes, Vieille	secondary	psbA-trnH	45.7762572	7.5190811	0
+Epipactis_palustris	MF543648.1	25-JUL-2018	831	Italy: Aosta Valley, Saint-Denis, Del	secondary	psbA-trnH	45.7692659	7.5569758	0
+Epipactis_palustris	MF543647.1	25-JUL-2018	825	Italy: Aosta Valley, Saint-Denis, Semon	secondary	psbA-trnH	45.7733237	7.5632241	0
+Epipactis_palustris	MF543646.1	25-JUL-2018	837	Italy: Aosta Valley, Challand-Saint-Victor, Villa	secondary	psbA-trnH	45.6849072	7.7002514	0
+Epipactis_palustris	MF543645.1	25-JUL-2018	829	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	psbA-trnH	46.4048983096889	7.42601149550425	0
+Epipactis_palustris	MF543644.1	25-JUL-2018	822	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	psbA-trnH	46.5383773992251	7.74295899132447	0
+Epipactis_palustris	MF543643.1	25-JUL-2018	813	Italy: Aosta Valley, Verrayes, Plan	secondary	psbA-trnH	45.7641845	7.5388629	0

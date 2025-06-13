@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Orobanche_minor	MK926080.1	14-JAN-2020	849	United Kingdom	secondary	matK	55.1575091971198	-2.54374643960516	0.00305493680985944
+Orobanche_minor	MK926024.1	14-JAN-2020	850	United Kingdom	secondary	matK	54.5091320989368	-1.76479654138216	0.00555384022414679
+Orobanche_minor	MK925860.1	14-JAN-2020	768	United Kingdom	secondary	matK	54.4824626221295	-3.41808971042792	0.00130208333333333
+Orobanche_minor	JN895235.1	07-MAR-2012	788	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00287335698591113
+Orobanche_minor	HM854938.1	01-AUG-2011	834	Portugal	secondary	matK	39.6621648	-8.1353519	0.00395310239114684

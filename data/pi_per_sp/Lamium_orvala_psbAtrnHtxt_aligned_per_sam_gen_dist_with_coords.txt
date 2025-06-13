@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_orvala	KF055115.1	26-OCT-2013	289	Italy	secondary	psbA-trnH	42.2532795239735	12.3077061506692	0.00115740740740741
+Lamium_orvala	KF055114.1	26-OCT-2013	289	Austria	secondary	psbA-trnH	36.9148511	-4.7534501	0.00115740740740741
+Lamium_orvala	JX074044.1	18-OCT-2013	291	Italy	secondary	psbA-trnH	43.0552644110376	11.8365306065698	0.00346029018709431
+Lamium_orvala	JX074043.1	18-OCT-2013	291	Italy	secondary	psbA-trnH	43.0994732119657	11.882685123805	0.0011454753722795

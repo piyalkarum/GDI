@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Suaeda_corniculata	MT931141.1	03-MAR-2023	540	China	secondary	rbcL	35.3060054253336	104.222699930156	0.212835583388943
+Suaeda_corniculata	KY884398.1	30-APR-2018	592	Kyrgyzstan: Naryn Province	secondary	rbcL	41.3670658	75.9931838	0.600048675407527
+Suaeda_corniculata	JF944513.1	13-DEC-2011	577	China	secondary	rbcL	35.0393904638715	103.917831043252	0.22442205645867
+Suaeda_corniculata	JF944512.1	13-DEC-2011	570	China	secondary	rbcL	34.488980653024	105.207879898324	0.213366750208855

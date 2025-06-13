@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Utricularia_vulgaris	JN896195.1	07-MAR-2012	786	United Kingdom: Carmarthenshire	primary	matK	51.83	-4.46	0.00148662333380434
+Utricularia_vulgaris	JN894054.1	07-MAR-2012	758	United Kingdom: Shetland (112)	primary	matK	60.25	-1.56	0.00131926121372032
+Utricularia_vulgaris	MN311858.1	30-NOV-2021	789	China	secondary	matK	34.4526784982678	105.534523603076	0.00229404667552385
+Utricularia_vulgaris	MN433410.1	30-NOV-2021	791	China	secondary	matK	34.7320463625719	104.778701161182	0.00135678928729443

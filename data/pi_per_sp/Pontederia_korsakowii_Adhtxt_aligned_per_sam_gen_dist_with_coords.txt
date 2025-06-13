@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pontederia_korsakowii	LC537014.1	02-APR-2021	672	Japan	secondary	Adh	37.7966579	140.9195032	0
+Pontederia_korsakowii	LC537013.1	02-APR-2021	697	Japan	secondary	Adh	34.6553944	133.9194595	0
+Pontederia_korsakowii	LC537012.1	02-APR-2021	728	Japan	secondary	Adh	43.171677	141.3159605	0
+Pontederia_korsakowii	LC537011.1	02-APR-2021	728	Japan	secondary	Adh	36.7304657	137.0753818	0
+Pontederia_korsakowii	LC537010.1	02-APR-2021	728	Japan	secondary	Adh	36.2389756	140.3523684	0

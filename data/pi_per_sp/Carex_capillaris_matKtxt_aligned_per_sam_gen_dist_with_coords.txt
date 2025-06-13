@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_capillaris	MZ400461.1	07-DEC-2021	862	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.0012651424568523
+Carex_capillaris	KX676588.1	09-AUG-2017	778	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, near small runoff/creek area	primary	matK	49.454	-120.996	0.0012651424568523
+Carex_capillaris	FJ548087.1	25-AUG-2009	733	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour, inner basin, S slope approaching Stickleback Lake	primary	matK	62.86	-67.35	0.00116550116550117
+Carex_capillaris	FJ548086.1	25-AUG-2009	726	Canada: Nunavut, Baffin Island, Iqaluit, run-off stream between Apex and Iqaluit	primary	matK	63.74	-68.48	0.00116550116550117
+Carex_capillaris	FJ548085.1	25-AUG-2009	733	Canada: Nunavut, Baffin Island, Frobisher Bay, Koojesse Bay trail from Frobisher Bay to Apex Hill	primary	matK	62.5	-66	0.00116550116550117
+Carex_capillaris	FJ548084.1	25-AUG-2009	733	Canada: Nunavut, Baffin Island	primary	matK	71.8	-80.66	0.00116550116550117
+Carex_capillaris	KC474310.1	25-OCT-2013	728	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Hornaday River, ~1 km downstream of valley leading to Castle Butte	primary	matK	68.1833	-121.825	0.00116550116550117
+Carex_capillaris	JN966190.1	27-OCT-2012	777	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	matK	58.772	-94.163	0.00116550116550117
+Carex_capillaris	JN966174.1	27-OCT-2012	724	Canada: Manitoba, Churchill, 16 km E Churchill, small creek near Launch Road, Tundra creek, in water	primary	matK	58.745	-93.895	0.00116550116550117
+Carex_capillaris	JN966173.1	27-OCT-2012	698	Canada: Manitoba	primary	matK	58.407	-93.062	0.00116550116550117
+Carex_capillaris	MN763516.1	28-JUL-2020	594	USSR	secondary	matK	18.222304	109.5155769	0.0151515151515151
+Carex_capillaris	MK926115.1	14-JAN-2020	805	United Kingdom	secondary	matK	54.4688481080784	-4.00981122313229	0.00116550116550117
+Carex_capillaris	MK926072.1	14-JAN-2020	834	United Kingdom	secondary	matK	54.6248792361341	-3.23115498691068	0.00116550116550117
+Carex_capillaris	KU496569.1	31-JAN-2017	813	Canada: Quebec, Schefferville region	secondary	matK	46.8137431	-71.2084061	0.00116550116550117

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_macloviana	MN763610.1	28-JUL-2020	421	Argentina: Neuquen	secondary	matK	-38.1480739464769	-70.6377878734629	0.00237529691211401
+Carex_macloviana	MN763584.1	28-JUL-2020	586	USA: Hawaiian Islands	secondary	matK	19.5895548	-155.4486983	0.00115015443483336
+Carex_macloviana	MN763286.1	28-JUL-2020	558	Argentina	secondary	matK	-34.9964963	-64.9672817	0.000296912114014252
+Carex_macloviana	MN763285.1	28-JUL-2020	611	USA: Hawaiian Islands, Maui County	secondary	matK	19.58955475	-155.448698303485	0.0011152427195789
+Carex_macloviana	MN763253.1	28-JUL-2020	612	Argentina: Neuquen	secondary	matK	-38.7412171705968	-69.3427971105055	0.00111390557806654
+Carex_macloviana	MN763104.1	28-JUL-2020	793	USA: Colorado, Clear Creek	secondary	matK	40.3553316588815	-106.326229742692	0.000919053711623264
+Carex_macloviana	MN763103.1	28-JUL-2020	794	USA: Colorado, Clear Creek	secondary	matK	40.321059275411	-105.513046818492	0.000919053711623264
+Carex_macloviana	MN763097.1	28-JUL-2020	797	USA: Colorado, Grand County	secondary	matK	40.0990074	-106.1366966	0.000919053711623264
+Carex_macloviana	MN763096.1	28-JUL-2020	797	USA: Colorado, Park	secondary	matK	39.1089299	-105.7561639	0.000919053711623264

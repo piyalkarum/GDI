@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthoxanthum_arcticum	KC481965.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	rbcL	68.628	-112.714	0
+Anthoxanthum_arcticum	KC481964.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island (Northwest Territories), Aulavik National Park, (Aulavik National Park). Banks of the Thomsen River	primary	rbcL	73.717	-119.925	0
+Anthoxanthum_arcticum	KC481963.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Victoria Island, Cambridge Bay. Beside weather station at airport	primary	rbcL	69.117	-105.117	0
+Anthoxanthum_arcticum	KC481962.1	25-OCT-2013	552	Canada: Nunavut, Qikiqtaaluk Region, Baffin Island, Nikko Island in the Koukdjuak River	primary	rbcL	66.592	-71.516	0
+Anthoxanthum_arcticum	KC481961.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Small unnamed lake in lee of plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.267	-116.492	0
+Anthoxanthum_arcticum	KC481960.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	rbcL	70.738	-117.762	0
+Anthoxanthum_arcticum	KC481959.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East shore of 'Water Lake' (large lake W of Paulatuk)	primary	rbcL	69.4139	-124.125	0
+Anthoxanthum_arcticum	JN965581.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	59.067	-94.8	0

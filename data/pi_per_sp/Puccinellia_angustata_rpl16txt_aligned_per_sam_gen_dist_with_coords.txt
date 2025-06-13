@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_angustata	GQ283340.1	28-FEB-2010	840	Canada: Nunavut, Axel Heiberg Island	secondary	rpl16	73.4009894004021	-96.1437420966539	0
+Puccinellia_angustata	GQ283339.1	28-FEB-2010	840	Canada: Nunavut, Axel Heiberg Island	secondary	rpl16	73.96597906422	-95.6762920071676	0
+Puccinellia_angustata	GQ283338.1	28-FEB-2010	840	Canada: Nunavut, Axel Heiberg Island	secondary	rpl16	74.4947779941993	-92.9121177307774	0
+Puccinellia_angustata	GQ283337.1	28-FEB-2010	840	Canada: Nunavut, Ellesmere Island	secondary	rpl16	82.1526854112369	-77.0233917541245	0
+Puccinellia_angustata	GQ283336.1	28-FEB-2010	840	Canada: Nunavut, Ellesmere Island	secondary	rpl16	81.9165272356514	-77.2389758929037	0
+Puccinellia_angustata	GQ283335.1	28-FEB-2010	841	Canada: Northwest Territories, Banks Island	secondary	rpl16	73.2919427476731	-119.203645576047	0
+Puccinellia_angustata	GQ283334.1	28-FEB-2010	840	Canada: Northwest Territories, Banks Island	secondary	rpl16	73.9677191896094	-121.850798012441	0
+Puccinellia_angustata	GQ283333.1	28-FEB-2010	840	Canada: Northwest Territories, Banks Island	secondary	rpl16	73.5398691315616	-123.584335646619	0
+Puccinellia_angustata	GQ283332.1	28-FEB-2010	840	Canada: Northwest Territories, Banks Island	secondary	rpl16	74.5138765268693	-120.870357146658	0
+Puccinellia_angustata	GQ283331.1	28-FEB-2010	840	Canada: Northwest Territories, Banks Island	secondary	rpl16	74.1201403800807	-122.937025717813	0
+Puccinellia_angustata	GQ283330.1	28-FEB-2010	840	Canada: Northwest Territories, Banks Island	secondary	rpl16	72.7919140846509	-121.576217703632	0

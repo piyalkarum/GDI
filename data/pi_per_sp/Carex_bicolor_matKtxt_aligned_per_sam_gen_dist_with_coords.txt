@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_bicolor	FJ548076.1	25-AUG-2009	705	Canada: Nunavut, Southampton Island, Salliq (Coral Harbour), low lying area S of the old graveyard	primary	matK	64.13	-83.17	0.0017921146953405
+Carex_bicolor	KC474302.1	25-OCT-2013	713	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Gravel River	primary	matK	68.76	-139.557	0.00190594261231812
+Carex_bicolor	KC474301.1	25-OCT-2013	699	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Near Red Rocks Rising hiking area, west side of Hornaday River	primary	matK	68.6222	-122.433	0.00312715426182481
+Carex_bicolor	KC474300.1	25-OCT-2013	737	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, along Darnley Bay	primary	matK	69.3944	-124.117	0.00190594261231812
+Carex_bicolor	LK021889.1	24-SEP-2015	2565	Austria:Carinthia, Alps	secondary	matK	46.8360775	13.9614753	0.00187087427289166
+Carex_bicolor	OP189324.1	03-OCT-2022	591	Russia	secondary	matK	53.8721298102238	97.76691360508	0.00238226677032566
+Carex_bicolor	OP189323.1	03-OCT-2022	591	Russia	secondary	matK	54.1787661709989	96.3475605830619	0.00238226677032566
+Carex_bicolor	OP189321.1	03-OCT-2022	591	Russia	secondary	matK	53.2428321683991	95.7461284929017	0.00238226677032566
+Carex_bicolor	OP189319.1	03-OCT-2022	591	Russia	secondary	matK	53.3692218211231	96.5688283154868	0.00238226677032566

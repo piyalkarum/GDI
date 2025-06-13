@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_pseudocyperus	MG228005.1	23-JAN-2018	552	Canada: Manitoba, Kane Co, Edge of Wanipigow Riv below dam	primary	rbcL	50.1306	-96.169	0.000747663551401869
+Carex_pseudocyperus	KJ841202.1	04-NOV-2014	496	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, ephermeral pond between East and North Hills	primary	rbcL	45.553	-73.1412	0.000806451612903226
+Carex_pseudocyperus	KJ841201.1	04-NOV-2014	558	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Devil's Pond	primary	rbcL	45.552	-73.141	0.000746268656716418
+Carex_pseudocyperus	JN891079.1	07-MAR-2012	542	United Kingdom: Shropshire (40)	primary	rbcL	52.72	-2.84	0.000746268656716418
+Carex_pseudocyperus	MW011012.1	27-JUL-2021	553	Canada: Ontario	secondary	rbcL	50.000678	-86.000977	0.000746268656716418
+Carex_pseudocyperus	MG228188.1	23-JAN-2018	552	USA: Michigan, Cheboygan Co, Inverness twp, N of Riggsville, NE 1/4 sec 18, SE of Mud Lk	secondary	rbcL	43.7895101	-72.8848295	0.000747663551401869
+Carex_pseudocyperus	MG227792.1	23-JAN-2018	552	Canada: Quebec, Iles de la Madeleine, Ile du Havre aux maisons	secondary	rbcL	47.4375094	-61.7570422	0.000747663551401869
+Carex_pseudocyperus	MG227564.1	23-JAN-2018	552	Canada: Ontario, Rouge National Urban Park, Sector 6	secondary	rbcL	43.72634945	-77.7101179040839	0.000747663551401869
+Carex_pseudocyperus	JN891696.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000746268656716418
+Carex_pseudocyperus	JN891695.1	07-MAR-2012	536	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.00752844910209279
+Carex_pseudocyperus	JN891693.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0.000746268656716418

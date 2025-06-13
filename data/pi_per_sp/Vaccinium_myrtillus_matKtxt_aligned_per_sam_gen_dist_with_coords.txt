@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vaccinium_myrtillus	LC680226.1	03-MAY-2022	764	Japan: Nagano	primary	matK	36.0572	138.333	0.00236457231487695
+Vaccinium_myrtillus	LC678449.1	03-MAY-2022	759	Japan: Nagano	primary	matK	35.8705	137.5088	0.0023760387524346
+Vaccinium_myrtillus	JN894699.1	07-MAR-2012	801	United Kingdom: Cardiganshire	primary	matK	52.25	-3.93	0.0010745587922219
+Vaccinium_myrtillus	MN150138.1	29-FEB-2020	1038	Andorra	secondary	matK	42.5407167	1.5732033	0.00142348754448399
+Vaccinium_myrtillus	JN895046.1	07-MAR-2012	722	United Kingdom: Breconshire (42)	secondary	matK	53.2274697394585	-2.59206762799382	0.00112756861560955
+Vaccinium_myrtillus	JN893949.1	07-MAR-2012	771	United Kingdom: Breconshire (42)	secondary	matK	52.3517422511184	-1.15804644171607	0.00111499611499612

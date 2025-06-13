@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Takhtajaniantha_austriaca	MT930540.1	03-MAR-2023	565	China	secondary	rbcL	35.0189504502496	104.831673002306	0.0283565785932528
+Takhtajaniantha_austriaca	MN204763.1	30-NOV-2021	718	China	secondary	rbcL	34.903604938618	105.917188242384	0.0240436308588788
+Takhtajaniantha_austriaca	MH714047.1	01-SEP-2020	570	China: Hebei	secondary	rbcL	39.0000001	116	0.0620170452471934
+Takhtajaniantha_austriaca	MN726392.1	19-FEB-2020	559	Russia	secondary	rbcL	50.90143715	113.206355878936	0.0238521168753727

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_nigra	MN763830.1	28-JUL-2020	532	Norway	secondary	matK	64.5731537	11.5280364	0.000469924812030075
+Carex_nigra	MN763821.1	28-JUL-2020	534	Spain	secondary	matK	39.3260685	-4.8379791	0.00187441919405255
+Carex_nigra	HM850842.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.000468164794007491
+Carex_nigra	JN895716.1	07-MAR-2012	754	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.000468164794007491
+Carex_nigra	JN895336.1	07-MAR-2012	814	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.000468164794007491

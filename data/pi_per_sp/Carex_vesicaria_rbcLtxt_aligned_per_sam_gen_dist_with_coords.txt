@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_vesicaria	MG227767.1	23-JAN-2018	493	Canada: Quebec, Pontiac County, Mansfield Township, shore of Ottawa River, SW of Fort-Coulonge	primary	rbcL	45.842	-76.738	0
+Carex_vesicaria	MG226942.1	23-JAN-2018	552	Canada: Goose Bay, NFLD	primary	rbcL	53.3019	-60.4167	0
+Carex_vesicaria	MG226806.1	23-JAN-2018	552	Canada: North Walsingham Twp., Norfolk Co., ON	primary	rbcL	42.8033	-80.4086	0
+Carex_vesicaria	MG226281.1	23-JAN-2018	552	Canada: Lac Brompton, Quebec	primary	rbcL	45	-72	0
+Carex_vesicaria	KJ841218.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	rbcL	45.548	-73.152	0
+Carex_vesicaria	JN893673.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.4	-4.05	0
+Carex_vesicaria	MW011006.1	27-JUL-2021	553	Canada: Saskatchewan	secondary	rbcL	55.5321257	-106.141224	0
+Carex_vesicaria	MK925443.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2598108272719	-1.95856874878802	0
+Carex_vesicaria	MK924901.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.8450912861779	-3.59973723049475	0
+Carex_vesicaria	MK924444.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.8981225754775	-2.85418709216024	0
+Carex_vesicaria	MG227729.1	23-JAN-2018	552	USA: Delaware	secondary	rbcL	38.6920451	-75.4013315	0
+Carex_vesicaria	JN892608.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0

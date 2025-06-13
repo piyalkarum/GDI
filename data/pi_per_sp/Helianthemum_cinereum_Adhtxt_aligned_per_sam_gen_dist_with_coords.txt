@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_cinereum	KX498400.1	18-SEP-2017	475	Spain	primary	Adh	36.66	-5.1	0.00322256830356492
+Helianthemum_cinereum	KX498399.1	18-SEP-2017	454	Morocco	primary	Adh	34.78	-2.4	0.00442368258391138
+Helianthemum_cinereum	KX498398.1	18-SEP-2017	475	Spain	primary	Adh	37.85	-1.5	0.00375724553674936
+Helianthemum_cinereum	KX498397.1	18-SEP-2017	461	Spain	primary	Adh	37.69	-2.17	0.0038395760161168
+Helianthemum_cinereum	KX498396.1	18-SEP-2017	475	Spain	primary	Adh	38.47	-1.47	0.00425847699509076

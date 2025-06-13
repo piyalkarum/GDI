@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_sativus	MN606019.1	09-MAR-2020	627	India	primary	psbA-trnH	34.02	74.93	0.01646339296556
+Crocus_sativus	MF348727.1	21-SEP-2017	573	USA: District of Columbia; Butterfly Garden on grounds of NMNH, Washington	primary	psbA-trnH	38.89	-77.024	0.014025388597234
+Crocus_sativus	KY990024.1	20-JUN-2017	637	Iran	primary	psbA-trnH	29.07	54.02	0.0129525762562871
+Crocus_sativus	MW884253.1	15-JUN-2022	570	Morocco	secondary	psbA-trnH	28.3347722	-10.3713379	0.00483536102378772
+Crocus_sativus	MG947077.1	29-MAY-2018	582	Pakistan	secondary	psbA-trnH	30.3308401	71.247499	0.00896023254074681
+Crocus_sativus	KY990029.1	20-JUN-2017	630	Iran	secondary	psbA-trnH	32.7243487782543	54.055649644734	0.0231871797642597
+Crocus_sativus	KY990028.1	20-JUN-2017	650	Iran	secondary	psbA-trnH	33.1125524973376	53.9648710698475	0.0124992372171265
+Crocus_sativus	KY923248.1	20-JUN-2017	712	Iran	secondary	psbA-trnH	32.4652776590166	55.4811526402916	0.0165524194278338
+Crocus_sativus	KX108704.1	30-NOV-2016	608	India	secondary	psbA-trnH	22.3511148	78.6677428	0.0269447550296611

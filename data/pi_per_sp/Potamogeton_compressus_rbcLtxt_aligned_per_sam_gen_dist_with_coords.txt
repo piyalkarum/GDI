@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_compressus	JN891376.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	primary	rbcL	52.77	-3.11	0
+Potamogeton_compressus	KX024601.1	14-DEC-2016	881	China	secondary	rbcL	35.000074	104.999927	0
+Potamogeton_compressus	JN891789.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.3032837419598	-2.86481828609456	0
+Potamogeton_compressus	JN891574.1	07-MAR-2012	541	United Kingdom: Montgomeryshire	secondary	rbcL	52.2945828632494	-3.42821351816283	0
+Potamogeton_compressus	AB196846.1	01-MAY-2009	1349	Japan:Hokkaido, Teshio	secondary	rbcL	44.779718	141.8877218	0

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_glomeratum	OR464949.1	26-SEP-2023	841	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.2883718	-85.61951565	0.00257575757575758
+Cerastium_glomeratum	JN895359.1	07-MAR-2012	807	United Kingdom: Cardiganshire	primary	matK	52.14	-4.58	0.00249687890137328
+Cerastium_glomeratum	OQ172324.1	18-JUN-2023	776	South Korea	secondary	matK	36.1380540631922	128.103839283505	0.00243506493506494
+Cerastium_glomeratum	OQ172323.1	18-JUN-2023	776	South Korea	secondary	matK	36.325735342476	128.108126353544	0.00243506493506494
+Cerastium_glomeratum	OQ172322.1	18-JUN-2023	776	South Korea	secondary	matK	36.9431191676874	128.534006555144	0.00243506493506494
+Cerastium_glomeratum	MH551870.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.70257735	-81.983441193043	0.00269905533063428
+Cerastium_glomeratum	JN896049.1	07-MAR-2012	779	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00258732212160414
+Cerastium_glomeratum	JN894933.1	07-MAR-2012	739	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00255798090040928
+Cerastium_glomeratum	OQ263169.1	23-AUG-2023	915	China	secondary	matK	35.6250478	111.2209922	0.0202221896349734

@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vaccinium_vitis-idaea	LC680231.1	03-MAY-2022	759	Japan: Nagano	primary	matK	36.0692	138.337	0.00142575729146482
+Vaccinium_vitis-idaea	MZ400437.1	07-DEC-2021	802	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.000504600335779102
+Vaccinium_vitis-idaea	KX676842.1	09-AUG-2017	808	Canada: British Columbia, Thompson-Nicola Regional District, Wells Gray Provincial Park, Placid Lake, near the base of Green Mountain Calcareous lake margin	primary	matK	51.933	-122.117	0.000524875450521293
+Vaccinium_vitis-idaea	KT307931.1	20-MAR-2016	768	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On the S slope. Mount Baldy and the Red Road in sight.	primary	matK	54.9231	-67.7867	0.00137891720803809
+Vaccinium_vitis-idaea	KC476096.1	25-OCT-2013	771	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	matK	68.719	-110.783	0.00137618910766894
+Vaccinium_vitis-idaea	KC476095.1	25-OCT-2013	771	Canada: Northwest Territories, Mainland Northwest Territoires, Tuktoyaktuk	primary	matK	69.45	-133.033	0.000507636430609355
+Vaccinium_vitis-idaea	KC476094.1	25-OCT-2013	687	Canada: Nunavut, Baffin Island, Iqaluit	primary	matK	63.583	-68.7333	0.000567696053963042
+Vaccinium_vitis-idaea	KC476093.1	25-OCT-2013	771	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	matK	66.839	-108.035	0.000507636430609355
+Vaccinium_vitis-idaea	KC476092.1	25-OCT-2013	771	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq. Plot 4. Along northern shore of lake, to east of school and to west of N-S road	primary	matK	56.594	-79.225	0.00143804978124731
+Vaccinium_vitis-idaea	KC476091.1	25-OCT-2013	762	Canada: Nunavut, Baffin Island, Iqaluit, Near end of the main runway	primary	matK	63.7333	-68.5667	0.00144906637428352
+Vaccinium_vitis-idaea	JN966731.1	27-OCT-2012	771	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0.000507636430609355
+Vaccinium_vitis-idaea	JN966730.1	27-OCT-2012	715	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	matK	58.633	-93.79	0.000538225395275778
+Vaccinium_vitis-idaea	JN894702.1	07-MAR-2012	802	United Kingdom: Monmouthshire	primary	matK	51.78	-3.07	0.000504600335779102
+Vaccinium_vitis-idaea	MN150141.1	29-FEB-2020	1033	Czech Republic	secondary	matK	49.7439047	15.3381061	0.0004406751044247

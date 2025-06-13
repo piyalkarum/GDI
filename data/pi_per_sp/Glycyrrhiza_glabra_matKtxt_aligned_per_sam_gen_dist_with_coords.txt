@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glycyrrhiza_glabra	OR738234.1	13-NOV-2023	620	Kazakhstan: Atyrau region	primary	matK	48.42402	54.42309	0.217364477129645
+Glycyrrhiza_glabra	MT918261.1	03-MAR-2023	768	China	secondary	matK	34.847973965996	104.718483797935	0.0540322580645161
+Glycyrrhiza_glabra	MT918255.1	03-MAR-2023	779	China	secondary	matK	35.1258581093638	104.087368490217	0.0540322580645161
+Glycyrrhiza_glabra	MG946966.1	29-MAY-2018	1196	Pakistan	secondary	matK	30.3308401	71.247499	0.0554767330364312
+Glycyrrhiza_glabra	JQ619943.1	01-JUN-2012	1521	Oman	secondary	matK	21.0000287	57.0036901	0.0542412881648506

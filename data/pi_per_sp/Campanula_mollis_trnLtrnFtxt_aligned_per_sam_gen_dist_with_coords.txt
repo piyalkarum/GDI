@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_mollis	KJ910702.1	31-MAY-2015	823	Algeria: Oran, S Cruz	secondary	trnL-trnF	35.7044415	-0.6502981	0.00608935997742165
+Campanula_mollis	KJ910700.1	31-MAY-2015	823	Morocco: Saka, Ker-Gauk, Wad el Kibir	secondary	trnL-trnF	34.618565	-3.414615	0.00877710258530797
+Campanula_mollis	KJ910699.1	31-MAY-2015	823	Morocco: Rif, Chefchauen, Jebel Tissouka	secondary	trnL-trnF	34.8397986	-4.5035276	0.00657597798228783
+Campanula_mollis	KJ910698.1	31-MAY-2015	823	Spain: Granada	secondary	trnL-trnF	37.1734995	-3.5995337	0.00364726994291255
+Campanula_mollis	KJ910697.1	31-MAY-2015	813	Spain: Almeria, Gador, Berja	secondary	trnL-trnF	36.8414197	-2.4628135	0.00344585219251207
+Campanula_mollis	KC792346.1	17-SEP-2013	823	Spain: Cadiz, Grazalema, El Higueron	secondary	trnL-trnF	36.5297438	-6.2928976	0.00364726994291255

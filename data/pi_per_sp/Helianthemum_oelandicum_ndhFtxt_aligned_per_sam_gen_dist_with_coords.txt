@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_oelandicum	KY651309.1	30-JUN-2018	474	France	primary	ndhF	44.13	5.27	0.0078525363540537
+Helianthemum_oelandicum	KX498446.1	18-SEP-2017	475	Romania	primary	ndhF	46.17	23.48	0.0050061817839383
+Helianthemum_oelandicum	KX498445.1	18-SEP-2017	463	Spain	primary	ndhF	42.38	1.68	0.0122390208783297
+Helianthemum_oelandicum	KX498444.1	18-SEP-2017	475	Spain	primary	ndhF	37.93	-2.87	0.0050061817839383

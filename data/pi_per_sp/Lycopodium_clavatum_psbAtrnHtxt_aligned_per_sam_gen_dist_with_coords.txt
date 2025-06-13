@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lycopodium_clavatum	OQ309346.1	16-MAY-2023	293	Mexico: Puebla	secondary	psbA-trnH	19.1710098	-98.4125121	0.00593496892284646
+Lycopodium_clavatum	MW817456.1	19-DEC-2021	244	Ecuador: Pichincha	secondary	psbA-trnH	-0.0584893	-78.3284371	0.00228436288950355
+Lycopodium_clavatum	MW817455.1	19-DEC-2021	245	Peru: Ancash	secondary	psbA-trnH	-9.5	-77.75	0.00227500836400134
+Lycopodium_clavatum	MW817454.1	19-DEC-2021	232	Ecuador: Zamora-Chinchipe	secondary	psbA-trnH	-4.0620183	-78.7751588	0.00239463601532567
+Lycopodium_clavatum	MW817453.1	19-DEC-2021	244	Costa Rica: Heredia	secondary	psbA-trnH	10.3767813	-84.0139721	0.00228436288950355
+Lycopodium_clavatum	MW817450.1	19-DEC-2021	244	Mexico: Oaxaca	secondary	psbA-trnH	17	-96.5	0.00227686703096539
+Lycopodium_clavatum	MW817449.1	19-DEC-2021	243	Canada: British Columbia	secondary	psbA-trnH	54.5447187498515	-124.81573022006	0.00228623685413809
+Lycopodium_clavatum	MW817448.1	19-DEC-2021	242	Canada: British Columbia	secondary	psbA-trnH	55.2311384072408	-125.778130930642	0.00230330464204474
+Lycopodium_clavatum	MW817447.1	19-DEC-2021	236	South Africa	secondary	psbA-trnH	-28.8166236	24.991639	0.00235404896421846
+Lycopodium_clavatum	AB575303.1	03-DEC-2010	247	Japan	secondary	psbA-trnH	36.5748441	139.2394179	0.0170222842779115

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Buxus_sempervirens	HQ619805.1	26-DEC-2010	837	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.00441605528165037
+Buxus_sempervirens	MK926102.1	14-JAN-2020	763	United Kingdom	secondary	matK	54.8194299792269	-3.24847356608155	0.0045821224210845
+Buxus_sempervirens	MK925869.1	14-JAN-2020	768	United Kingdom	secondary	matK	55.2127589659731	-4.48867565253135	0.00578925580315211
+Buxus_sempervirens	LN877452.1	19-SEP-2017	2446	Georgia	secondary	matK	32.3293809	-83.1137366	0.0124893104906326
+Buxus_sempervirens	LN877449.1	19-SEP-2017	2446	Greece	secondary	matK	43.2097838	-77.6930602	0.0124893104906326
+Buxus_sempervirens	HM850588.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00453283617547263
+Buxus_sempervirens	HE966888.1	18-SEP-2012	665	Italy:Trieste, Mt. Valerio	secondary	matK	44.8386759912286	14.2921426494305	0.00790069963428208
+Buxus_sempervirens	HE966887.1	18-SEP-2012	665	Italy:Trieste, Mt. Valerio	secondary	matK	46.031297985973	13.4508011394862	0.00790069963428208
+Buxus_sempervirens	HE966886.1	18-SEP-2012	665	Italy:Trieste, Mt. Valerio	secondary	matK	46.3934998061839	13.9338277674107	0.00507603979737864

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_sterilis	JN895371.1	07-MAR-2012	818	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0
+Potentilla_sterilis	JN895652.1	07-MAR-2012	692	United Kingdom: Montgomeryshire	secondary	matK	52.615273	-3.4649973	0
+Potentilla_sterilis	JN895651.1	07-MAR-2012	826	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0
+Potentilla_sterilis	JN895120.1	07-MAR-2012	824	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

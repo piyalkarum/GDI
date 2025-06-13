@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_mugo	FR845672.1	17-MAR-2011	457	Italy:Trentino	secondary	rpoC1	45.7505139098819	10.8035093688297	0
+Pinus_mugo	FR847070.1	29-MAR-2011	457	Italy:Piedmont	secondary	rpoC1	45.060735	7.923549	0
+Pinus_mugo	FR845679.1	17-MAR-2011	457	Italy:Friuli Venezia Giulia	secondary	rpoC1	46.151042	13.055904	0
+Pinus_mugo	FR845678.1	17-MAR-2011	457	Italy:Abruzzo	secondary	rpoC1	42.227681	13.854983	0
+Pinus_mugo	FR845676.1	17-MAR-2011	457	Italy:Trentino	secondary	rpoC1	45.4778235482183	11.1327883348381	0

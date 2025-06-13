@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Schoenoplectus_tabernaemontani	OR738088.1	13-NOV-2023	542	Kazakhstan: Mangistau region	primary	rbcL	44.28184	51.00417	0.00012993762993763
+Schoenoplectus_tabernaemontani	OQ832189.1	15-AUG-2023	553	USA: American Prairie Dry Fork Unit	primary	rbcL	47.8961	-108.2019	0.00012993762993763
+Schoenoplectus_tabernaemontani	MG227419.1	23-JAN-2018	552	Canada: Ontario, Ottawa, City of, Cumberland, Along E side of causeway onto Pet, rie Island, Ottawa River	primary	rbcL	45.5	-75.5	0.00012993762993763
+Schoenoplectus_tabernaemontani	MG227325.1	23-JAN-2018	552	Canada: Northwest Territories, Ft. Simpson	primary	rbcL	61.861	-121.345	0.00012993762993763
+Schoenoplectus_tabernaemontani	MG226957.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee, Moose River	primary	rbcL	51.273	-80.641	0.00012993762993763
+Schoenoplectus_tabernaemontani	MF786695.1	06-DEC-2017	553	China: Xizang, on the way from Deqin Zhen to Mozhugongka, ca. 10 km from Deqin Zhen	primary	rbcL	29.70747	91.43319	0.00012993762993763
+Schoenoplectus_tabernaemontani	MF349552.1	21-SEP-2017	553	USA: District of Columbia; United States National Arboretum, 3501 New York Ave NE; Gotelli Dwarf and Slow-Growing Conifer Collection Pond	primary	rbcL	39.0001825579394	-76.4831018740098	0.00012993762993763
+Schoenoplectus_tabernaemontani	MF349233.1	21-SEP-2017	553	USA: District of Columbia; United States National Arboretum, 3501 New York Ave NE; Gotelli Dwarf and Slow-Growing Conifer Collection Pond	primary	rbcL	38.4582668884207	-76.7304045816532	0.00012993762993763
+Schoenoplectus_tabernaemontani	HQ590263.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., S end of pond, 10 m N of forest edge in water-saturated soil	primary	rbcL	44.035	-79.518	0.00012993762993763
+Schoenoplectus_tabernaemontani	KJ841557.1	04-NOV-2014	481	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	rbcL	45.548	-73.152	0.00207900207900208
+Schoenoplectus_tabernaemontani	JN892796.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.54	-3.64	0.00012993762993763
+Schoenoplectus_tabernaemontani	MW010919.1	27-JUL-2021	553	USA: Wisconsin	secondary	rbcL	44.4308975	-89.6884637	0.00012993762993763
+Schoenoplectus_tabernaemontani	GQ130365.1	15-JUN-2009	1293	South Korea	secondary	rbcL	36.638392	127.6961188	0.000178500178500179
+Schoenoplectus_tabernaemontani	KT626775.1	13-FEB-2016	1324	New Zealand	secondary	rbcL	-41.5000831	172.8344077	0.000178500178500179
+Schoenoplectus_tabernaemontani	JN893561.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00012993762993763
+Schoenoplectus_tabernaemontani	JN893560.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00012993762993763
+Schoenoplectus_tabernaemontani	JN892552.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00012993762993763

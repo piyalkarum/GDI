@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_ilvensis	HG518221.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.2099208918286	13.3785426444468	0
+Crocus_ilvensis	HG518220.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.8240204933412	13.7293766549711	0
+Crocus_ilvensis	HG518219.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	43.4559354695396	12.3022882245531	0
+Crocus_ilvensis	HG518218.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	43.4138430225528	13.0594481306839	0

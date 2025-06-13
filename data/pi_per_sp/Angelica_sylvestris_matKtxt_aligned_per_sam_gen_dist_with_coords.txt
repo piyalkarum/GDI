@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Angelica_sylvestris	MT917216.1	03-MAR-2023	781	China	secondary	matK	35.7458221717126	104.415600061682	0.0132369195749477
+Angelica_sylvestris	MT917208.1	03-MAR-2023	780	China	secondary	matK	34.5359097273097	104.066087872064	0.00726495726495726
+Angelica_sylvestris	JN896151.1	07-MAR-2012	796	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0055500837190978
+Angelica_sylvestris	JN896148.1	07-MAR-2012	815	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.0055500837190978

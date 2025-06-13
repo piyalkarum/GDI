@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rosa_acicularis	OR738110.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.27167	83.16528	0.00484956790418181
+Rosa_acicularis	LC694252.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	42.9925	141.391	0.00338122080264128
+Rosa_acicularis	LC692994.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	44.7723	142.1695	0.00155796470908383
+Rosa_acicularis	MG249193.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.454	-101.592	0.00341846227556783
+Rosa_acicularis	MG248715.1	21-JAN-2018	552	Canada: Yukon Territory, Demspter Highway, km 32	primary	rbcL	64.211	-138.561	0.00159435358568405
+Rosa_acicularis	KX678849.1	29-APR-2017	548	Canada: British Columbia, East Kootenay Regional District, Dry Gulch Provincial Park	primary	rbcL	50.5862	-116.035	0.00160261815777757
+Rosa_acicularis	KX677970.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, near small runoff/creek area	primary	rbcL	49.454	-120.996	0.00227995865526362
+Rosa_acicularis	JN965822.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 5 km SE Churchill, Intersection of Goose Creek Rd and Canadian National Railway, Side of the railway	primary	rbcL	58.718	-94.124	0.00159435358568405
+Rosa_acicularis	MG249080.1	21-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0.00159435358568405

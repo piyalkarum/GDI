@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ulmus_glabra	MZ676700.1	10-AUG-2022	590	United Kingdom: England, County Durham	primary	rbcL	54.7635	-1.5557	0.00586154649924377
+Ulmus_glabra	MG246277.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Toronto Islands, Snug Harbour, SW Island	primary	rbcL	43.622	-79.365	0.00898149426054875
+Ulmus_glabra	JN893234.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.56	-3.09	0.00267661588582699
+Ulmus_glabra	MG248962.1	21-JAN-2018	552	Canada: Ontario, Niagara R. M., Grantham Tp., Niagara Escarpment, St Catharin, es, Terrace on upper slope, 200 m E of Glenridge Ave	secondary	rbcL	43.72634945	-77.7101179040839	0.0122545892031688
+Ulmus_glabra	KX163063.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.2319163983672	-4.05490279648323	0.0039339265573606
+Ulmus_glabra	KX163062.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.4471854772358	-4.08362635839853	0.0039339265573606
+Ulmus_glabra	JN893228.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00267661588582699
+Ulmus_glabra	JN893092.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.1445415273283	-2.91189998551623	0.00267661588582699
+Ulmus_glabra	JN893088.1	07-MAR-2012	533	United Kingdom: Glamorgan	secondary	rbcL	51.4482696649216	-2.74875186121948	0.00272201539447324
+Ulmus_glabra	HE574622.1	31-JUL-2011	555	Finland	secondary	rbcL	63.2467777	25.9209164	0.00413867836669442

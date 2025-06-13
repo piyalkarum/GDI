@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_pseudonarcissus	OR464877.1	26-SEP-2023	599	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28740369	-85.61708548	0
+Narcissus_pseudonarcissus	MG225842.1	23-JAN-2018	552	Canada: British Columbia, Greater Vancouver, Richmond, Lion Isl. Fraser River, 250 m SE of northeastlson Rd, SW end of island	primary	rbcL	49.1583	-122.999	0
+Narcissus_pseudonarcissus	KX783930.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	31.2	30.022	0
+Narcissus_pseudonarcissus	JN890813.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.1	-4.28	0
+Narcissus_pseudonarcissus	MK925235.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0

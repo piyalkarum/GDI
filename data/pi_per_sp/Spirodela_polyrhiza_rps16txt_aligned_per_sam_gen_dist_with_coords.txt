@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spirodela_polyrhiza	MZ422536.1	13-NOV-2022	780	Iran	primary	rps16	36.6999608613494	50.425636598533	0
+Spirodela_polyrhiza	MW308212.1	08-NOV-2022	779	Iran: mansoori pond	primary	rps16	36.44	50.56	0
+Spirodela_polyrhiza	MW308211.1	08-NOV-2022	779	Iran: amir kelaye international lagoon	primary	rps16	37.5893864957143	49.6107479022049	0
+Spirodela_polyrhiza	MW308210.1	08-NOV-2022	779	Iran: Langarud lagoon	primary	rps16	37.09	50.12	0
+Spirodela_polyrhiza	MW308209.1	08-NOV-2022	761	Iran: amir kelaye international lagoon	primary	rps16	37.3829661490009	49.3384225060345	0
+Spirodela_polyrhiza	MW308208.1	08-NOV-2022	779	Iran: amir kelaye international lagoon	primary	rps16	37.8088060050836	50.2094153862099	0

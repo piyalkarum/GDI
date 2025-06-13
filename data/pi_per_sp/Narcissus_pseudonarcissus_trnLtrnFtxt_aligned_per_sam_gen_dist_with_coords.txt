@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_pseudonarcissus	KC607992.1	01-MAR-2014	893	Spain: Huesca	secondary	trnL-trnF	42.1382539	-0.4080901	0.0091565639352776
+Narcissus_pseudonarcissus	KC145311.1	31-JAN-2014	893	Spain: Granada	secondary	trnL-trnF	37.1734995	-3.5995337	0.00971647434961131
+Narcissus_pseudonarcissus	KC145317.1	31-JAN-2014	893	Andorra	secondary	trnL-trnF	42.5407167	1.5732033	0.00770728857295876
+Narcissus_pseudonarcissus	KC145313.1	31-JAN-2014	895	Portugal: Marao	secondary	trnL-trnF	41.2484625	-7.8869794	0.00787201583978447
+Narcissus_pseudonarcissus	AY490180.1	16-DEC-2003	345	Spain: Avila, Sierra de Gredos	secondary	trnL-trnF	40.2913423	-5.1748163	0.0210144927536232

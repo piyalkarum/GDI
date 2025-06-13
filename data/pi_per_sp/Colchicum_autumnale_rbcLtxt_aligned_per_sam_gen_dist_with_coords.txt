@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colchicum_autumnale	JN892764.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.78	-2.73	0.185773334615015
+Colchicum_autumnale	FR865158.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.186628980093335
+Colchicum_autumnale	EU044624.1	30-SEP-2008	783	Canada: Toronto	secondary	rbcL	43.6534817	-79.3839347	0.555535385296962
+Colchicum_autumnale	JN891972.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9875065	-1.1773256	0.185773334615015

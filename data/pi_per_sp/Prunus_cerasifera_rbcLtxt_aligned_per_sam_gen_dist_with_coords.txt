@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Prunus_cerasifera	OR464882.1	26-SEP-2023	616	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.2876474	-85.61618644	0
+Prunus_cerasifera	MG249920.1	21-JAN-2018	552	Canada: Guelph, ON	primary	rbcL	43.5485	-80.2503	0
+Prunus_cerasifera	MN049223.1	12-AUG-2020	1152	China	secondary	rbcL	34.2120591537099	104.79257429792	0.00101750101750102
+Prunus_cerasifera	MN049222.1	12-AUG-2020	1152	China	secondary	rbcL	34.3418777878619	105.244285138856	0.00101750101750102
+Prunus_cerasifera	MN049221.1	12-AUG-2020	1152	China	secondary	rbcL	35.1269244826695	104.551213604135	0.00101750101750102
+Prunus_cerasifera	HQ619778.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0
+Prunus_cerasifera	KX163002.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Prunus_cerasifera	KP088768.1	15-MAR-2015	702	China	secondary	rbcL	39.9057136	116.3912972	0.00305250305250305

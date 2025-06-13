@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_kilaea	OQ559050.1	18-JUL-2023	412	Turkey	secondary	trnL-trnF	38.827649433848	34.8949149233146	0.000809061488673139
+Centaurea_kilaea	OQ559049.1	18-JUL-2023	412	Turkey	secondary	trnL-trnF	38.2680343995547	34.803325770114	0.000809061488673139
+Centaurea_kilaea	OQ559048.1	18-JUL-2023	412	Turkey	secondary	trnL-trnF	39.5428631580729	34.3621868060058	0.000809061488673139
+Centaurea_kilaea	OQ559047.1	18-JUL-2023	412	Turkey	secondary	trnL-trnF	38.9156773940606	34.7034382984309	0.00242718446601942

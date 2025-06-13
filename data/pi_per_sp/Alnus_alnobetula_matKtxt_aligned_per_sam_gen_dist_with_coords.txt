@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alnus_alnobetula	LC678445.1	03-MAY-2022	771	Japan: Nagano	primary	matK	35.8695	137.5108	0.00114123218115048
+Alnus_alnobetula	KX677572.1	09-AUG-2017	778	Canada: British Columbia, Fraser Valley Regional District, East side of Harrison Lake, along primitive road just outside Cascade Peninsula Forest Recreation Site	primary	matK	49.4398	-121.777	0.00112462434636811
+Alnus_alnobetula	KX676997.1	09-AUG-2017	815	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, campsite along Tulameen River	primary	matK	49.4343	-121.013	0.00110333752057732
+Alnus_alnobetula	KX676940.1	09-AUG-2017	790	Canada: British Columbia, Kootenay Boundary Regional District, Just west of Kettle River Forest Service Road, north of Christian Valley	primary	matK	49.6983	-118.778	0.00111285638817933
+Alnus_alnobetula	KX676865.1	09-AUG-2017	804	Canada: British Columbia, Greater Vancouver Regional District, Mt. Seymour Provincial Park, Mount Seymour trail	primary	matK	49.378	-122.944	0.00109960069372763
+Alnus_alnobetula	KX676621.1	09-AUG-2017	797	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	matK	50.0449	-125.501	0.00110616641197367
+Alnus_alnobetula	KT307911.1	20-MAR-2016	775	Canada: Newfoundland and Labrador, Labrador, Mont Irony, End of stone path, north of Irony	primary	matK	54.9061	-67.1529	0.00112562255245247
+Alnus_alnobetula	KJ840852.1	23-SEP-2014	687	Canada: Newfoundland and Labrador, Labrador, Mont Irony, S-w facing slope with 16.5 degree decline	primary	matK	54.904	-67.1722	0.00102748522989982
+Alnus_alnobetula	KC473972.1	25-OCT-2013	777	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, community of Bathurst Inlet	primary	matK	66.4911299190189	-106.894405213818	0.00112562255245247
+Alnus_alnobetula	KC473971.1	25-OCT-2013	777	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, community of Bathurst Inlet	primary	matK	67.3481727263613	-108.980655540425	0.00112562255245247
+Alnus_alnobetula	KC473970.1	25-OCT-2013	774	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	matK	62.6217808085528	-113.869203584634	0.00112562255245247
+Alnus_alnobetula	KC473969.1	25-OCT-2013	755	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	matK	62.0455586533592	-112.797634048211	0.00115283091377748
+Alnus_alnobetula	JN966067.1	27-OCT-2012	738	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	matK	58.626	-94.23	0.00735615604342757
+Alnus_alnobetula	HQ600560.1	23-JUL-2011	856	France: Savoie, Hauteluce, col du Joly	secondary	matK	45.7839174	6.6740143	0.00297219186952973
+Alnus_alnobetula	FJ844605.1	12-APR-2010	679	Switzerland	secondary	matK	46.7985624	8.2319736	0.000925072727360443
+Alnus_alnobetula	JF953072.1	13-DEC-2011	750	China: Jilin	secondary	matK	43.2795896397489	126.102680644953	0.00104121877455141
+Alnus_alnobetula	JF953071.1	13-DEC-2011	750	China: Jilin	secondary	matK	43.4995443461849	125.565157103337	0.00104121877455141
+Alnus_alnobetula	HQ600559.1	23-JUL-2011	798	France	secondary	matK	42.75891545	9.4026630962462	0.00999311242944908

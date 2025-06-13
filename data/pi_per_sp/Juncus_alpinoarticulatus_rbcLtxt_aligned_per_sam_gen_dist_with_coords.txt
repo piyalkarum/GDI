@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_alpinoarticulatus	MG227742.1	23-JAN-2018	541	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside ditch	primary	rbcL	51.273	-80.641	0
+Juncus_alpinoarticulatus	KX678619.1	29-APR-2017	552	Canada: British Columbia, Fraser Valley Regional District, 4 km southwest of Agassiz, island in Fraser River across from foot of Hamilton Street	primary	rbcL	49.2231	-121.824	0
+Juncus_alpinoarticulatus	JN965593.1	27-OCT-2012	522	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	rbcL	58.772	-94.163	0
+Juncus_alpinoarticulatus	JN965592.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 47 km E Churchill, Fort Churchill, Spaceport project. Site 3. Moist area between flat gravel area and pond	primary	rbcL	57.868259882171	-94.1294064177924	0
+Juncus_alpinoarticulatus	JN965591.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, Wet sandy soil.	primary	rbcL	58.751	-93.823	0
+Juncus_alpinoarticulatus	JN965590.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, Riverbank.	primary	rbcL	58.1861713024598	-93.4381210130564	0
+Juncus_alpinoarticulatus	MK925553.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0894427942431	-2.36562119591688	0
+Juncus_alpinoarticulatus	MK925388.1	14-JAN-2020	542	Finland	secondary	rbcL	63.2467777	25.9209164	0
+Juncus_alpinoarticulatus	MK925280.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1342469445583	-3.0730377518662	0
+Juncus_alpinoarticulatus	MK925163.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6849620987409	-4.3313028133719	0
+Juncus_alpinoarticulatus	MK925096.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9828842075357	-2.49055729094471	0
+Juncus_alpinoarticulatus	MK924733.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2426601221057	-3.69626776058242	0
+Juncus_alpinoarticulatus	MK924726.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.5568523845599	-3.29136542268363	0
+Juncus_alpinoarticulatus	MK924594.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.100086086107	-3.58718408571599	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_angustissimus	MK925490.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0847673728205	-4.28527441376782	0
+Lotus_angustissimus	MK925325.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.4638133270318	-3.11426306740866	0
+Lotus_angustissimus	MK925123.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1860437026251	-2.51398339599345	0
+Lotus_angustissimus	HM850136.1	23-JUL-2011	655	Portugal	secondary	rbcL	39.6621648	-8.1353519	0

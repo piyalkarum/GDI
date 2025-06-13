@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alisma_plantago-aquatica	JN043786.1	13-DEC-2011	319	China: Heilongjiang Sheng	secondary	psbA-trnH	48.7541675025257	127.473969644929	0
+Alisma_plantago-aquatica	JN043785.1	13-DEC-2011	318	China: Yunnan	secondary	psbA-trnH	25	102	0
+Alisma_plantago-aquatica	JN043784.1	13-DEC-2011	318	China: Heilongjiang Sheng	secondary	psbA-trnH	48.1526298161178	128.613363005636	0
+Alisma_plantago-aquatica	JN043783.1	13-DEC-2011	317	China: Neimenggu	secondary	psbA-trnH	43.2443242	114.3251664	0
+Alisma_plantago-aquatica	JN043782.1	13-DEC-2011	318	China: Jilin	secondary	psbA-trnH	43.0591206300167	125.957242192206	0
+Alisma_plantago-aquatica	JN043781.1	13-DEC-2011	318	China: Jilin	secondary	psbA-trnH	43.9203296469856	126.662109711072	0
+Alisma_plantago-aquatica	JN043780.1	13-DEC-2011	318	China: Heilongjiang Sheng	secondary	psbA-trnH	48.6149832935277	128.955471707581	0
+Alisma_plantago-aquatica	JN043779.1	13-DEC-2011	318	China: Hebei	secondary	psbA-trnH	39.0000001	116	0
+Alisma_plantago-aquatica	JN043778.1	13-DEC-2011	318	China: Jilin	secondary	psbA-trnH	43.5612184590033	125.862568728512	0
+Alisma_plantago-aquatica	KC584951.1	04-JUN-2013	443	Italy: Umbria	secondary	psbA-trnH	42.965916	12.490236	0

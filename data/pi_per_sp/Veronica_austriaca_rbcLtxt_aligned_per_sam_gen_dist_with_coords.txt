@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_austriaca	MG223021.1	26-DEC-2017	552	Canada: British Columbia, New Westminster, Fraser Cemetery, north of Cumberland Street, west of Richmond Avenue	primary	rbcL	48.8201678370063	-122.972905566579	0.00036231884057971
+Veronica_austriaca	MG221867.1	26-DEC-2017	552	Canada: British Columbia, New Westminster, Fraser Cemetery, north of Cumberland Street, west of Richmond Avenue	primary	rbcL	49.0920435242206	-122.462946210461	0.00036231884057971
+Veronica_austriaca	MG223778.1	26-DEC-2017	553	Canada: Ontario, l'Orignal	secondary	rbcL	45.6193572	-74.6930392	0.000361663652802893
+Veronica_austriaca	MG223730.1	26-DEC-2017	553	Canada: Ontario, South Baymouth, Tehkummah Township. Manitoulin Island	secondary	rbcL	45.5594781	-82.0097636	0.00181028382734492
+Veronica_austriaca	MG222086.1	26-DEC-2017	553	Canada: Ontario, 75'S of Nominigan Lodge on East shore of Smoke Lake	secondary	rbcL	43.72634945	-77.7101179040839	0.000361663652802893
+Veronica_austriaca	MG221466.1	26-DEC-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, private garden	secondary	rbcL	49.25783145	-123.246241986222	0.00036231884057971

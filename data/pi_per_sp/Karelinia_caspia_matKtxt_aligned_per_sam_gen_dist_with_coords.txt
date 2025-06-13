@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Karelinia_caspia	MT917464.1	03-MAR-2023	791	China	secondary	matK	34.2290438264269	104.893126853454	0
+Karelinia_caspia	MT917463.1	03-MAR-2023	783	China	secondary	matK	35.8308683957455	105.267503564478	0
+Karelinia_caspia	MT917462.1	03-MAR-2023	783	China	secondary	matK	34.7620467468136	104.193498630793	0
+Karelinia_caspia	MT917461.1	03-MAR-2023	789	China	secondary	matK	34.46403391402	105.320540230181	0
+Karelinia_caspia	MT917460.1	03-MAR-2023	790	China	secondary	matK	35.0838255638577	105.174994056644	0

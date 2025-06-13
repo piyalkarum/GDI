@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_gallica	OQ172901.1	18-JUN-2023	188	South Korea	secondary	psbA-trnH	36.3399972845503	128.154632164116	0
+Silene_gallica	OQ172900.1	18-JUN-2023	186	South Korea	secondary	psbA-trnH	36.7162836264402	127.465771789039	0
+Silene_gallica	OQ172899.1	18-JUN-2023	187	South Korea	secondary	psbA-trnH	36.2986863810801	128.148905424978	0
+Silene_gallica	OQ172898.1	18-JUN-2023	187	South Korea	secondary	psbA-trnH	36.9176051149979	127.220998096178	0

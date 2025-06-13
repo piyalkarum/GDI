@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_lacaitae	HE649640.1	04-FEB-2013	206	Spain	secondary	trnL-trnF	39.1120176244054	-4.29230303776965	0
+Gagea_lacaitae	HE649639.1	04-FEB-2013	205	Spain	secondary	trnL-trnF	39.1032300986961	-4.15214105070192	0
+Gagea_lacaitae	HE649638.1	04-FEB-2013	206	Italy	secondary	trnL-trnF	42.6384261	12.674297	0
+Gagea_lacaitae	HE649637.1	04-FEB-2013	206	France	secondary	trnL-trnF	46.9894364861528	2.51748861723395	0
+Gagea_lacaitae	HE649636.1	04-FEB-2013	206	France	secondary	trnL-trnF	46.5382757295983	0.961818942099497	0
+Gagea_lacaitae	FM200219.1	23-JUL-2008	205	Spain	secondary	trnL-trnF	39.2254488058487	-4.22070702562089	0

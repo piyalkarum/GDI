@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_praecox	MG221401.1	26-DEC-2017	528	Canada: Ontario, Muskoka D. M., Oakley Tp., Conc. VII, NW angle of Black River Crossing on Bracebridge-Carnarvon Hwy	primary	rbcL	45.033	-78.983	0.000536956623243218
+Thymus_praecox	KT695419.1	29-SEP-2015	473	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.00235947712864422
+Thymus_praecox	HE819511.1	22-MAY-2013	599	Italy:Trentino	primary	rbcL	46.43	11.73	0.000550610438250888
+Thymus_praecox	HE819510.1	22-MAY-2013	599	Italy:Trentino	primary	rbcL	46.49	11.81	0.000550610438250888
+Thymus_praecox	HE819509.1	22-MAY-2013	599	Italy:Abruzzo	primary	rbcL	42.45	13.55	0.000550610438250888
+Thymus_praecox	JN893627.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	primary	rbcL	51.88	-3.7	0.000528274779622022
+Thymus_praecox	JN890697.1	07-MAR-2012	524	United Kingdom	primary	rbcL	53.33	-3.85	0.000546781462811997
+Thymus_praecox	MG222508.1	26-DEC-2017	552	Canada: Ontario, Halton R. M., Town of Halton Hills, Silver Creek Valley ANSI, Escarpment outlier valley and escarpment plain along Silver Creek, 5 km N of Georgetown	secondary	rbcL	43.7004154412949	-77.8461423737096	0.000521984770326701
+Thymus_praecox	MG222503.1	26-DEC-2017	552	Canada: Ontario, Waterloo R. M., North Dumfries Tp., Cambridge, Mount View Cemetery	secondary	rbcL	43.5640893891877	-78.931051610226	0.00379296467462897
+Thymus_praecox	MG221645.1	26-DEC-2017	535	Canada: Ontario, Durham R. M., Lot 20, B.F., Whitby, Thickson's Woods	secondary	rbcL	44.3020294301805	-77.1742709356853	0.000539647268619231
+Thymus_praecox	JN892956.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9877138	-1.1775355	0.000528274779622022
+Thymus_praecox	JN892942.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.000528274779622022

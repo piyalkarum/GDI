@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helictotrichon_sedenense	LR606910.1	25-JAN-2021	2093	France	secondary	trnK	46.0987790087446	2.95345436832116	0.000402252614641995
+Helictotrichon_sedenense	MF999108.1	09-DEC-2017	1808	France	secondary	trnK	46.4748600788751	2.62284225801371	NA
+Helictotrichon_sedenense	LT159681.1	16-FEB-2018	773	Spain	secondary	trnK	39.3260685	-4.8379791	NA
+Helictotrichon_sedenense	HG797444.1	26-SEP-2014	773	France	secondary	trnK	46.5196773750587	0.852809073308763	NA
+Helictotrichon_sedenense	FM957004.1	08-FEB-2009	2052	France	secondary	trnK	47.1808675598812	2.62182521439769	0.000415282392026578

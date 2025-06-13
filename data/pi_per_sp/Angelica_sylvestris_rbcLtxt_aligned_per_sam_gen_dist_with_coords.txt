@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Angelica_sylvestris	MG223814.1	26-DEC-2017	552	Canada: Gabarus, Cape Breton Co., Nova Scotia	primary	rbcL	45.8372	-60.1375	0.00181159420289855
+Angelica_sylvestris	MT930258.1	03-MAR-2023	568	China	secondary	rbcL	35.5306758087759	104.159170670451	0.00407619914152107
+Angelica_sylvestris	MT930257.1	03-MAR-2023	569	China	secondary	rbcL	34.9607269464264	105.176341409891	0.00456352857621893
+Angelica_sylvestris	JN893700.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0018450184501845
+Angelica_sylvestris	JN893697.1	07-MAR-2012	513	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.00146198830409357

@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Typha_latifolia	OQ418639.1	03-JUL-2023	615	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	rbcL	42.26619412	-85.6393443	0.125833017260995
+Typha_latifolia	MG227850.1	23-JAN-2018	552	Canada: British Columbia, Delta, Alaksen National Wildlife Area	primary	rbcL	49.105	-123.17	0.126171922406773
+Typha_latifolia	MG226002.1	23-JAN-2018	552	Canada: Yukon Territory, Dawson City, Hunker Creek Road, 1.5 km along	primary	rbcL	64.02	-139.15	0.126171922406773
+Typha_latifolia	MF349809.1	21-SEP-2017	553	USA: Virginia; Daingerfield Island Marina along the abandoned greenhouse and marshy field	primary	rbcL	38.826	-77.04	0.126335811152709
+Typha_latifolia	KJ841641.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Next to observation lookout at Lac Hertel	primary	rbcL	45.544	-73.156	0.126171922406773
+Typha_latifolia	JN891744.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.14	0.12734690710447
+Typha_latifolia	MN205155.1	30-NOV-2021	724	China	secondary	rbcL	35.4796490066615	105.478887510576	0.126533231884908
+Typha_latifolia	MN192795.1	30-NOV-2021	723	China	secondary	rbcL	34.9863826007291	105.060266249305	0.125720287451792
+Typha_latifolia	LC576388.1	23-FEB-2021	553	Japan:Aichi, Nisshin	secondary	rbcL	35.139303	137.053708	0.126335811152709
+Typha_latifolia	KC584886.1	04-JUN-2013	743	Italy: Umbria	secondary	rbcL	42.965916	12.490236	0.12673045518349
+Typha_latifolia	JN890959.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4520819769568	-3.34374051498257	0.12734690710447
+Typha_latifolia	JN890744.1	07-MAR-2012	532	United Kingdom: Glamorgan	secondary	rbcL	51.9489159518156	-3.45399259081427	0.127323131772187
+Typha_latifolia	FJ914245.1	19-MAY-2009	771	Russia: Mordovia	secondary	rbcL	54.4419829	44.4661144	0.505079354180155
+Typha_latifolia	FJ914244.1	19-MAY-2009	773	USA: UT, Salt Lake City, near Snowbird	secondary	rbcL	42.7170173	-73.0710311	0.504859585927855
+Typha_latifolia	FJ914229.1	19-MAY-2009	805	Australia	secondary	rbcL	-24.7761086	134.755	0.504251079621137

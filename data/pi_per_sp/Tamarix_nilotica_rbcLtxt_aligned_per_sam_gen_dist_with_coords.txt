@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_nilotica	OM039304.1	19-JUN-2022	551	United Arab Emirates: Umm Al-Quwain	primary	rbcL	25.5139	55.547588	0
+Tamarix_nilotica	MZ563101.1	24-APR-2022	522	Greece: Crete, Chania, Paleochora beach	primary	rbcL	35.223	23.67	0
+Tamarix_nilotica	MZ563100.1	24-APR-2022	522	Greece: Crete, Heraklion, near Dermatos	primary	rbcL	34.979	25.335	0
+Tamarix_nilotica	MZ563099.1	24-APR-2022	522	Greece: Crete, Lassithi, Kalo Nero	primary	rbcL	35.014	26.046	0
+Tamarix_nilotica	MZ563098.1	24-APR-2022	522	Greece: Crete, Heraklion, Aposelemis	primary	rbcL	35.33	25.327	0
+Tamarix_nilotica	MZ563097.1	24-APR-2022	522	Greece: Crete, Heraklion, near Dermatos	primary	rbcL	34.979	25.324	0
+Tamarix_nilotica	MZ563096.1	24-APR-2022	522	Greece: Crete, Lassithi, Xerokambos	primary	rbcL	35.051	26.232	0
+Tamarix_nilotica	KX298993.1	06-FEB-2017	711	Egypt	secondary	rbcL	26.2540493	29.2675469	0

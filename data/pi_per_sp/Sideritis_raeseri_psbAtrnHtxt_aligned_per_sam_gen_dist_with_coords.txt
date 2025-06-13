@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sideritis_raeseri	KT633368.1	14-NOV-2017	539	Greece: Evia	secondary	psbA-trnH	38.4941723	23.9110844	0.00365124741229957
+Sideritis_raeseri	KT633366.1	14-NOV-2017	544	Greece: Zagori, Mt. Pindos	secondary	psbA-trnH	39.7632106	20.7664416991035	0.00371090103240319
+Sideritis_raeseri	KT633362.1	14-NOV-2017	491	Albania: Albania	secondary	psbA-trnH	10.3863598175741	-72.8171257206767	0.00564170170964797
+Sideritis_raeseri	KT633356.1	14-NOV-2017	509	Greece: Veria, coffee grinder store	secondary	psbA-trnH	40.1399362981767	21.8518057210508	0.00427993589700332
+Sideritis_raeseri	KT633355.1	14-NOV-2017	533	Greece: Veria, super market	secondary	psbA-trnH	40.9708903354421	21.438346943721	0.00365179926142181
+Sideritis_raeseri	KT633354.1	14-NOV-2017	473	Greece: Mani, super market	secondary	psbA-trnH	36.8482479	22.2632094	0.0115378008757577
+Sideritis_raeseri	KT633340.1	14-NOV-2017	512	Greece: Ioannina	secondary	psbA-trnH	40.0090148286361	21.0415062461211	0.00374701052485582
+Sideritis_raeseri	KT633335.1	14-NOV-2017	527	Albania: Albania	secondary	psbA-trnH	11.9669480861767	-72.446578057338	0.00562396317845867
+Sideritis_raeseri	KT633333.1	14-NOV-2017	525	Greece: Athens, flea market	secondary	psbA-trnH	37.9865947	23.6920256	0.00277405479959594
+Sideritis_raeseri	KT633323.1	14-NOV-2017	531	Greece: Kalamata, natural products store	secondary	psbA-trnH	37.0372714	22.110707	0.00782895531190704
+Sideritis_raeseri	KT633315.1	14-NOV-2017	489	Greece: Athens, Cretan products store	secondary	psbA-trnH	37.9755648	23.7348324	0.0036570456396599
+Sideritis_raeseri	KT633314.1	14-NOV-2017	467	Greece: Thessaloniki, super market	secondary	psbA-trnH	40.698753	22.855131	0.00280441200178754
+Sideritis_raeseri	KT633301.1	14-NOV-2017	436	Greece: Thessaloniki, herbal store	secondary	psbA-trnH	40.8135693565622	22.0122903235731	0.00356930887386141
+Sideritis_raeseri	KT633300.1	14-NOV-2017	432	Greece: Thessaloniki, grocery store	secondary	psbA-trnH	40.4807665536653	23.5664934594511	0.00243087400790816
+Sideritis_raeseri	KT633298.1	14-NOV-2017	480	Greece: Thessaloniki, delicatessen store	secondary	psbA-trnH	40.0799999617627	23.0333225236803	0.00276633965467663
+Sideritis_raeseri	KT633297.1	14-NOV-2017	467	Greece: Thessaloniki, herbal store	secondary	psbA-trnH	40.1785177240154	22.2904892649211	0.00280441200178754
+Sideritis_raeseri	KT633295.1	14-NOV-2017	525	Greece: Thessaloniki, flea market	secondary	psbA-trnH	40.3821695983825	22.2478892218591	0.00277405479959594
+Sideritis_raeseri	KT633293.1	14-NOV-2017	481	Greece: Veria, herbal store	secondary	psbA-trnH	40.7448868814188	21.1788759139526	0.00367760718789754
+Sideritis_raeseri	KT633291.1	14-NOV-2017	440	Greece: Veria, delicatessen store	secondary	psbA-trnH	40.2274598247644	23.0054113186076	0.00257371884255562
+Sideritis_raeseri	KT633290.1	14-NOV-2017	440	Greece: Veria, super market	secondary	psbA-trnH	40.7655106929167	22.1686284351683	0.00257371884255562
+Sideritis_raeseri	KT633289.1	14-NOV-2017	475	Greece: Veria, grocery store	secondary	psbA-trnH	40.4625968037964	22.5877036275205	0.00277836405872326
+Sideritis_raeseri	KT633288.1	14-NOV-2017	476	Greece: Veria, herbal store	secondary	psbA-trnH	39.9665483383611	21.4762275123327	0.00277593878322983
+Sideritis_raeseri	KT633285.1	14-NOV-2017	428	Greece: Veria, herbal store	secondary	psbA-trnH	40.1471899248811	23.072789617356	0.00245295840015971
+Sideritis_raeseri	KT633284.1	14-NOV-2017	417	Greece: Veria, coffee grinder store	secondary	psbA-trnH	40.762538654768	22.4855014587506	0.00354124336690109
+Sideritis_raeseri	KT633283.1	14-NOV-2017	456	Greece: Veria, coffee grinder store	secondary	psbA-trnH	40.2263403969588	21.4341702941821	0.00515213356803553
+Sideritis_raeseri	KT633275.1	14-NOV-2017	437	Greece: Athens, super market	secondary	psbA-trnH	37.9987495	23.7097107	0.0169969703002863
+Sideritis_raeseri	KT633308.1	14-NOV-2017	476	Greece	secondary	psbA-trnH	39.9444081617041	19.7763332950632	0.0058795018473525

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leontodon_hispidus	JN891581.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.22	-4.02	0.00244145263234811
+Leontodon_hispidus	MG223839.1	26-DEC-2017	552	Canada: Ontario, Waterloo R. M., Galt.	secondary	rbcL	43.3733367	-80.3051136	0.00240009170499649
+Leontodon_hispidus	FR865147.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.00837362806048047
+Leontodon_hispidus	JN890753.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00385986395871718
+Leontodon_hispidus	JN890750.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.00244145263234811

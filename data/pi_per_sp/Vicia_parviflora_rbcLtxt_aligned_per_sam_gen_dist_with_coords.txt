@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_parviflora	MK924757.1	14-JAN-2020	542	Spain	secondary	rbcL	39.3260685	-4.8379791	0.00610339077265147
+Vicia_parviflora	MK924650.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00610339077265147
+Vicia_parviflora	MK924459.1	14-JAN-2020	542	Portugal	secondary	rbcL	39.9384724232762	-7.13152983615725	0.00610339077265147
+Vicia_parviflora	HM850462.1	23-JUL-2011	566	Portugal	secondary	rbcL	39.3156935370666	-8.28385157466673	0.00751728811092769
+Vicia_parviflora	HM850460.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.9124502343047	-8.47071939064112	0.039835528429168
+Vicia_parviflora	JN661206.1	09-JAN-2013	1243	Portugal: Azores, Pico	secondary	rbcL	38.4717536	-28.3642562	0.0200698540776362

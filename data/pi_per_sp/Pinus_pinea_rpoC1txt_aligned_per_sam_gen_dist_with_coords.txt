@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_pinea	FR847069.1	29-MAR-2011	457	Italy:Sardinia	secondary	rpoC1	40.0912813	9.0305773	0
+Pinus_pinea	FR845667.1	17-MAR-2011	457	Turkey:Isparta	secondary	rpoC1	37.9465412	30.9602093	0
+Pinus_pinea	FR845666.1	17-MAR-2011	457	Italy:Emilia	secondary	rpoC1	44.4914458	11.3435713	0
+Pinus_pinea	FN689656.1	25-MAR-2010	554	Italy:Tuscany	secondary	rpoC1	43.4586541	11.1389204	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_tenella	KM524028.1	04-JUL-2015	1096	USA: Alaska	secondary	rpoB	64.4459613	-149.680909	0.00182481751824818
+Puccinellia_tenella	GQ283248.1	28-FEB-2010	1183	Canada: Nunavut, Baffin Island	secondary	rpoB	68.2427940686741	-73.1698150934907	0.00172416718598639
+Puccinellia_tenella	GQ283247.1	28-FEB-2010	1183	Canada: Nunavut, Baffin Island	secondary	rpoB	68.4663817597126	-75.4727570801009	0.00172416718598639
+Puccinellia_tenella	GQ283246.1	28-FEB-2010	1185	Canada: Northwest Territories, Banks Island	secondary	rpoB	73.622445	-120.4848087	0.00172416718598639
+Puccinellia_tenella	GQ283245.1	28-FEB-2010	1184	Canada: Nunavut, Baffin Island	secondary	rpoB	69.1268605246489	-73.1971145151021	0.00172416718598639

@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_spartea	KF849043.1	30-NOV-2014	577	Portugal: Praia da Adraga	secondary	trnS-trnG	38.8036565	-9.4848268	0.000433275563258232
+Linaria_spartea	KF849042.1	30-NOV-2014	571	Spain: Zamora, Fonfria	secondary	trnS-trnG	41.6361335	-6.1394852	0.000437828371278459
+Linaria_spartea	KF849041.1	30-NOV-2014	577	Spain: Toledo, Velada	secondary	trnS-trnG	39.9729339	-4.9773066	0.000433275563258232
+Linaria_spartea	KF849040.1	30-NOV-2014	577	Spain: Salamanca, Arapiles	secondary	trnS-trnG	40.8938024	-5.6454046	0.000433275563258232
+Linaria_spartea	KF849039.1	30-NOV-2014	577	Portugal: Montemor-o-Novo	secondary	trnS-trnG	38.6481777	-8.2115858	0.00369910610307368
+Linaria_spartea	KF849038.1	30-NOV-2014	577	Spain: Leon, Villalis de la Valduerna	secondary	trnS-trnG	42.3130472	-6.0374342	0.000433275563258232
+Linaria_spartea	KF849037.1	30-NOV-2014	577	Spain: Leon, Alija del Infantado	secondary	trnS-trnG	42.1417869	-5.8372442	0.000433275563258232
+Linaria_spartea	KF849036.1	30-NOV-2014	577	Spain: Huelva, Marismas del Odiel	secondary	trnS-trnG	37.2319391	-7.0081229	0.000433275563258232
+Linaria_spartea	KF849035.1	30-NOV-2014	577	Spain: Huelva, El Romerano	secondary	trnS-trnG	37.5071058	-7.1789524	0.00206619083316596
+Linaria_spartea	KF849034.1	30-NOV-2014	577	Spain: Ciudad Real, Solana del Pino	secondary	trnS-trnG	38.4661568	-4.0745968	0.000433275563258232
+Linaria_spartea	KF849033.1	30-NOV-2014	577	Spain: Caceres, Monfrague	secondary	trnS-trnG	39.2426687782076	-5.64776932138514	0.000433275563258232
+Linaria_spartea	KF849032.1	30-NOV-2014	577	Spain: Badajoz, Aljucen	secondary	trnS-trnG	39.0446386	-6.331345	0.000433275563258232
+Linaria_spartea	KF849031.1	30-NOV-2014	577	Spain: Badajoz, Alburquerque	secondary	trnS-trnG	39.2190169	-6.9999295	0.000433275563258232
+Linaria_spartea	KC878798.1	04-MAR-2014	577	Spain: Soria, Tardelcuende	secondary	trnS-trnG	41.5939539	-2.6443811	0.00195337494868942
+Linaria_spartea	KC878797.1	04-MAR-2014	577	Spain: Madrid, Colmenar Viejo	secondary	trnS-trnG	40.7641873382736	-4.2269249607892	0.000433275563258232
+Linaria_spartea	KC521231.1	10-APR-2013	564	Spain: Madrid, Colmenar Viejo	secondary	trnS-trnG	40.4111051769732	-4.20470805312922	0.000443262411347518
+Linaria_spartea	JN663701.1	10-MAR-2012	558	Spain: Caceres, Monfrague	secondary	trnS-trnG	39.328803288321	-6.92241752784926	0.000338447653429603

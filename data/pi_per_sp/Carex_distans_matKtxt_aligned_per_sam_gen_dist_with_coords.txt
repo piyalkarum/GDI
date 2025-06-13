@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_distans	JN895944.1	07-MAR-2012	761	United Kingdom: Merionethshire	primary	matK	52.93	-4.04	0.00126689189189189
+Carex_distans	MN763460.1	28-JUL-2020	592	Turkey: Ankara	secondary	matK	39.9207759	32.8540497	0.00507402032762814
+Carex_distans	KU939678.1	13-APR-2016	758	Iran	secondary	matK	32.6475314	54.5643516	0.00127334465195246
+Carex_distans	JN895486.1	07-MAR-2012	785	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00126689189189189
+Carex_distans	JN895485.1	07-MAR-2012	748	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00126689189189189

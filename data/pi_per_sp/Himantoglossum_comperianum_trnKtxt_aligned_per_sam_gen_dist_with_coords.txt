@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Himantoglossum_comperianum	KU931863.1	14-FEB-2017	1066	Iran	secondary	trnK	33.054283385797	54.3405756726749	0
+Himantoglossum_comperianum	KU931862.1	14-FEB-2017	1082	Iran	secondary	trnK	32.9034410214663	54.2046315271137	0
+Himantoglossum_comperianum	KU931861.1	14-FEB-2017	1070	Iran	secondary	trnK	32.8803573718036	54.0489485299143	0
+Himantoglossum_comperianum	KU931860.1	14-FEB-2017	1077	Iran	secondary	trnK	33.1012913898572	54.4412928597124	0
+Himantoglossum_comperianum	KU931859.1	14-FEB-2017	904	Iran	secondary	trnK	32.9820122730392	54.7354658100892	0

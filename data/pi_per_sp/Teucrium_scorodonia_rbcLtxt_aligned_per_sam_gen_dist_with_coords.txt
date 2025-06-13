@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Teucrium_scorodonia	MG221465.1	26-DEC-2017	552	Canada: Chatham	primary	rbcL	42.2509	-82.1915	0.00833948326758076
+Teucrium_scorodonia	JN892775.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.62	-3.85	0.00278587392422644
+Teucrium_scorodonia	HM850397.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00423685145700071
+Teucrium_scorodonia	JN893718.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.3589762750511	-2.84284474550194	0.0041854262218355
+Teucrium_scorodonia	JN893013.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.9461719955639	-4.28971516126315	0.00278587392422644

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Laurus_nobilis	MT311769.1	28-SEP-2020	280	France	secondary	psbA-trnH	46.603354	1.8883335	0
+Laurus_nobilis	KU160272.1	06-JAN-2016	394	China	secondary	psbA-trnH	35.000074	104.999927	0.00091324200913242
+Laurus_nobilis	HE966685.1	18-SEP-2012	366	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00182398882151858
+Laurus_nobilis	FJ493285.1	22-DEC-2008	498	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.000910746812386157

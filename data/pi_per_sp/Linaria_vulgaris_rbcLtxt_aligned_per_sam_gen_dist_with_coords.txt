@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_vulgaris	OR738082.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.000692764468304012
+Linaria_vulgaris	OR557598.1	01-NOV-2023	501	Kazakhstan: Qaragandy region	primary	rbcL	49.33604	75.67641	0.000517483551415687
+Linaria_vulgaris	OR464845.1	26-SEP-2023	598	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28237154	-85.61932429	0.000865646396145836
+Linaria_vulgaris	MG223658.1	26-DEC-2017	553	Canada: Ontario, Toadflax, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	0.000680152974617705
+Linaria_vulgaris	MG223655.1	26-DEC-2017	552	Canada: Ontario, Wellington County, City of Guelph, Stone Road and Eramosa River, Old Jail Quarry	primary	rbcL	43.549	-80.199	0.000680764609463693
+Linaria_vulgaris	MG222245.1	26-DEC-2017	525	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0.000565883652783783
+Linaria_vulgaris	MG221498.1	26-DEC-2017	552	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Meadow Area (Rifle Range)	primary	rbcL	43.294	-79.876	0.000680764609463693
+Linaria_vulgaris	HQ590160.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 100 m S of Eastern pond at edge of fenced area	primary	rbcL	44.03	-79.536	0.000861841860951993
+Linaria_vulgaris	KT695449.1	29-SEP-2015	554	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.000679778084333573
+Linaria_vulgaris	KJ593504.1	17-MAR-2015	553	USA: Wisconsin, Allouez	primary	rbcL	44.464	-88.016	0.000680152974617705
+Linaria_vulgaris	KJ841379.1	04-NOV-2014	521	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Approximately 200 metres from Gault House, growing on edge of road	primary	rbcL	45.539	-73.155	0.00107650166441363
+Linaria_vulgaris	JN965643.1	27-OCT-2012	534	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	rbcL	58.772	-94.163	0.00378593464704738
+Linaria_vulgaris	JN892709.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.68	-3.03	0.00230138970921086
+Linaria_vulgaris	MT931667.1	03-MAR-2023	568	China	secondary	rbcL	35.615923255013	104.994236879657	0.000741688522763054
+Linaria_vulgaris	MT931666.1	03-MAR-2023	569	China	secondary	rbcL	34.953065891532	104.699424232547	0.000741212128923134
+Linaria_vulgaris	MT931665.1	03-MAR-2023	591	China	secondary	rbcL	35.5307932438523	105.711393502586	0.00166176088715488
+Linaria_vulgaris	MG224086.1	26-DEC-2017	553	Canada: Ontario, Halton County, Halton County, Hendrie Valley, Meadow Area (Rifle Range)	secondary	rbcL	44.0862904279777	-78.301204442532	0.00245829941538364
+Linaria_vulgaris	MG223967.1	26-DEC-2017	553	Canada: Ontario, Wellington County, Wellington County, Stone Road and Eramosa River, Old Jail Quarry	secondary	rbcL	44.0958511863237	-77.3426073796845	0.000680152974617705
+Linaria_vulgaris	MG223785.1	26-DEC-2017	553	Canada: Ontario, Regional Municipality of York, Regional Municipality of York, Jokers Hill West., 100 m S of Eastern pond at edge of fenced area.	secondary	rbcL	42.9823303463911	-78.096834385057	0.000680152974617705
+Linaria_vulgaris	MG221310.1	26-DEC-2017	553	Canada: Ontario, Chatham-Kent County, Chatham-Kent County, Ridgetown College Campus, Compost area near old railway bed	secondary	rbcL	43.7856468370629	-78.294341604949	0.000680152974617705
+Linaria_vulgaris	KX037378.1	27-NOV-2016	821	Canada: Calgary AB	secondary	rbcL	51.1310077	-114.0241697	0.00121589812028377
+Linaria_vulgaris	GQ248631.1	24-JUN-2009	553	United Kingdom: Devon	secondary	rbcL	50.7241405	-3.6607788	0.00253222563701446
+Linaria_vulgaris	KJ746274.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00248019581385184
+Linaria_vulgaris	KJ593505.1	17-MAR-2015	553	USA: Wisconsin, Marinette	secondary	rbcL	45.3834983	-88.0409574	0.000680152974617705
+Linaria_vulgaris	KJ204366.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00339215680872426
+Linaria_vulgaris	JX848480.1	06-AUG-2013	1370	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.00422015366839939
+Linaria_vulgaris	JN891754.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000692764468304012
+Linaria_vulgaris	JN891056.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000692764468304012

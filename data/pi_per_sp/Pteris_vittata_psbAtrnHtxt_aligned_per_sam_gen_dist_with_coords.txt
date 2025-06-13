@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pteris_vittata	OL312351.1	04-JAN-2022	487	USA: Missouri Botanical Garden, Shoenberg Temperate House.	primary	psbA-trnH	38.61447222	-90.25908333	0.000718390804597701
+Pteris_vittata	MW055244.1	21-JUN-2021	484	India	secondary	psbA-trnH	22.3511148	78.6677428	0.00359553651518734
+Pteris_vittata	MH622045.1	03-MAY-2019	440	USA	secondary	psbA-trnH	39.7837304	-100.445882	0.00156860576568606
+Pteris_vittata	AB575497.1	03-DEC-2010	525	Japan	secondary	psbA-trnH	36.5748441	139.2394179	0.0028236914600551

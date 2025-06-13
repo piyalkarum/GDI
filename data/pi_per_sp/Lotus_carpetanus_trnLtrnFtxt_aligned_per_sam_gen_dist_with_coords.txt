@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_carpetanus	MN807794.1	03-JAN-2021	859	Spain: La Coruna, Punta dos Aguillons	primary	trnL-trnF	43.77	-7.87	0.000268961807423346
+Lotus_carpetanus	MN807793.1	03-JAN-2021	858	Spain: Lugo, Punta del Roncadoiro	primary	trnL-trnF	43.74	-7.52	0.000268961807423346
+Lotus_carpetanus	MK695878.1	20-DEC-2020	858	Spain	primary	trnL-trnF	40.71	-5.81	0.000268961807423346
+Lotus_carpetanus	MK695877.1	20-DEC-2020	858	Spain	primary	trnL-trnF	40.85	-3.94	0.0034965034965035
+Lotus_carpetanus	MK695876.1	20-DEC-2020	858	Spain	primary	trnL-trnF	41.99	-2.82	0.000268961807423346
+Lotus_carpetanus	MK695875.1	20-DEC-2020	858	Spain	primary	trnL-trnF	41.04	-3.87	0.000268961807423346
+Lotus_carpetanus	MK695874.1	20-DEC-2020	858	Spain	primary	trnL-trnF	41.91	-2.76	0.000268961807423346
+Lotus_carpetanus	MK695873.1	20-DEC-2020	858	Spain	primary	trnL-trnF	42.01	-2.8	0.000268961807423346
+Lotus_carpetanus	MK695872.1	20-DEC-2020	858	Spain	primary	trnL-trnF	41.96	-3.48	0.000268961807423346
+Lotus_carpetanus	MK695871.1	20-DEC-2020	858	Spain	primary	trnL-trnF	42.01	-3.33	0.000268961807423346
+Lotus_carpetanus	MK695870.1	20-DEC-2020	858	Spain	primary	trnL-trnF	42.1147124932438	-2.93864570655422	0.000268961807423346
+Lotus_carpetanus	MK695869.1	20-DEC-2020	858	Spain	primary	trnL-trnF	41.2474806281491	-3.80916419228056	0.000268961807423346
+Lotus_carpetanus	MK695868.1	20-DEC-2020	858	Spain	primary	trnL-trnF	42.8572944688523	-3.15746495515804	0.000268961807423346
+Lotus_carpetanus	MK695867.1	20-DEC-2020	858	Spain	primary	trnL-trnF	42.3972782240705	-2.39212771635561	0.000268961807423346

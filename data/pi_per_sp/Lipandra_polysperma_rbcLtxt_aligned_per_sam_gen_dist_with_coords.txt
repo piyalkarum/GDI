@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lipandra_polysperma	MG246780.1	21-JAN-2018	552	Canada: Ontario, Ontario, Lambton, Bosanquet, Rock Glen Conservation Area, Ausable River	primary	rbcL	43.088	-81.833	0.0977947206362469
+Lipandra_polysperma	KX677934.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, New Wesminster	primary	rbcL	49	-122	0.0977947206362469
+Lipandra_polysperma	KJ841380.1	04-NOV-2014	519	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Between chalets and hydroline	primary	rbcL	45.536	-73.154	0.101046941553628
+Lipandra_polysperma	JN892680.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.56	-3.02	0.0986216923906894
+Lipandra_polysperma	KY884342.1	30-APR-2018	592	United Kingdom: England, Greater London	secondary	rbcL	51.4893335	-0.1440551	0.589275234357318
+Lipandra_polysperma	JN892911.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0986216923906894
+Lipandra_polysperma	JN892910.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0986216923906894

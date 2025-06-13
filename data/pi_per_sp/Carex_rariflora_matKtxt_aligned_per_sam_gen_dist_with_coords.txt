@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_rariflora	FJ548130.1	25-AUG-2009	733	Canada: Nunavut, Victoria Island, Cambridge Bay, W of Dew Line Station	primary	matK	69.12	-105.12	0.000164082369349413
+Carex_rariflora	FJ548129.1	25-AUG-2009	733	Canada: Nunavut, Baffin Island, Iqaluit, Sylvia Grinnell Park near the entrance from Crystal II Road	primary	matK	63.74	-68.55	0.000164082369349413
+Carex_rariflora	FJ548128.1	25-AUG-2009	733	Canada: Nunavut, Victoria Island, Franklin District, lagoon and shallow freshwater ponds at coast, W of end of airport runway	primary	matK	70.72	-117.72	0.000164082369349413
+Carex_rariflora	KC474377.1	25-OCT-2013	719	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Danny C. Gordon's goose camp	primary	matK	69.849	-136.964	0.000163625951075841
+Carex_rariflora	KC474376.1	25-OCT-2013	773	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Danny C. Gordon's goose camp	primary	matK	68.849	-136.964	0.000163172064942482
+Carex_rariflora	KC474375.1	25-OCT-2013	775	Canada: Nunavut, Northwest Territories Mainland, Rankin Inlet, Between Sandy' and 'Calf' Lakes west of Meliadine esker at 55 K/16 415729, 10 km N of Rankin Inlet, Meliadine River Park study area, Hudson Bay.'	primary	matK	62.883	-92.183	0.00016249593760156
+Carex_rariflora	KC474374.1	25-OCT-2013	724	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk, Tuktoyaktuk. Near Pingo Park Lodge	primary	matK	69.5	-133	0.00277290363262507
+Carex_rariflora	KC474373.1	25-OCT-2013	777	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. In the vicinity of the fresh water lake in lowlands 1 km W of Kihlbay	primary	matK	56.472	-79.042	0.00016249593760156
+Carex_rariflora	KC474372.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Small unnamed lake in lee of plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.294	-116.421	0.00016249593760156
+Carex_rariflora	KC474371.1	25-OCT-2013	760	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East side of Hornaday River	primary	matK	68.3	-121.858	0.000166403194941343
+Carex_rariflora	JN966199.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0.00016249593760156
+Carex_rariflora	JN966198.1	27-OCT-2012	777	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	matK	58.178	-93.637	0.00016249593760156
+Carex_rariflora	JN966197.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Salt marsh	primary	matK	58.771	-93.843	0.00016249593760156
+Carex_rariflora	MK926202.1	14-JAN-2020	776	United Kingdom	secondary	matK	55.2222812201589	-4.3895791533708	0.00016249593760156
+Carex_rariflora	MK926123.1	14-JAN-2020	819	United Kingdom	secondary	matK	55.0024318659434	-4.14337497457217	0.00016249593760156
+Carex_rariflora	MK926094.1	14-JAN-2020	779	United Kingdom	secondary	matK	55.2024102414212	-3.03206071304623	0.00016249593760156
+Carex_rariflora	MK925591.1	14-JAN-2020	817	United Kingdom	secondary	matK	54.2292416989827	-3.75879240854656	0.00016249593760156
+Carex_rariflora	KU496584.1	31-JAN-2017	813	Canada: Yukon, Klondike	secondary	matK	64.2405159	-139.0146881	0.00016249593760156

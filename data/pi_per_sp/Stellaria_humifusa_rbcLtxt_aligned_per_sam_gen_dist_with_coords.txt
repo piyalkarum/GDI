@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_humifusa	KT960629.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.8693331042	-21.7324511133044	0
+Stellaria_humifusa	KT960507.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.3722360999445	-21.068723622231	0
+Stellaria_humifusa	KC484153.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	rbcL	71.313	-116.916	0
+Stellaria_humifusa	KC484152.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq, along bay west of hamlet	primary	rbcL	56.586	-79.253	0
+Stellaria_humifusa	KC484151.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	rbcL	69.419	-124.094	0
+Stellaria_humifusa	KC484150.1	25-OCT-2013	552	Canada: Nunavut, Rankin Inlet, Beach below town centre, Hudson Bay	primary	rbcL	62.8	-92.0833	0
+Stellaria_humifusa	KC484149.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Murray Point, Murray Point, W side of Wilbank Bay	primary	rbcL	68.678	-110.367	0

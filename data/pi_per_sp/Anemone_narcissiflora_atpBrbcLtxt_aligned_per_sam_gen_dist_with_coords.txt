@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anemone_narcissiflora	AB248034.1	20-APR-2006	737	Japan:Yamanashi, Mt. Kitadake	secondary	atpB-rbcL	35.674321	138.238808	0.00163380786961254
+Anemone_narcissiflora	AB248033.1	20-APR-2006	764	Japan:Shizuoka, Mt. Akaishidake	secondary	atpB-rbcL	35.4612203	138.1573535	0.00161906202008223
+Anemone_narcissiflora	AB248032.1	20-APR-2006	752	Japan:Nagano, Mt. Utsugidake	secondary	atpB-rbcL	35.7189925	137.8171028	0.00162124967949797
+Anemone_narcissiflora	AB248031.1	20-APR-2006	746	Japan:Ishikawa, Mts. Hakusan	secondary	atpB-rbcL	37.1570412	140.4468974	0.00161906202008223
+Anemone_narcissiflora	AB248030.1	20-APR-2006	746	Japan:Nagano, Mt. Shiroumadake	secondary	atpB-rbcL	36.7584922	137.758539	0.00404255304083605
+Anemone_narcissiflora	AB248029.1	20-APR-2006	735	Japan:Gunma, Mt. Tanigawadake	secondary	atpB-rbcL	43.6845627	141.6387999	0.00535658224409562
+Anemone_narcissiflora	AB248028.1	20-APR-2006	747	Japan:Yamagata, Mts. Iidesan	secondary	atpB-rbcL	38.6306950785635	139.584235550103	0.00282951547958658
+Anemone_narcissiflora	AB248027.1	20-APR-2006	749	Japan:Yamagata, Mts. Gassan	secondary	atpB-rbcL	37.597095435674	140.049671318314	0.00256217314910832
+Anemone_narcissiflora	AB248026.1	20-APR-2006	748	Japan:Iwate, Mt. Yakeishidake	secondary	atpB-rbcL	39.1637016	140.8288204	0.00161795839532402
+Anemone_narcissiflora	AB248025.1	20-APR-2006	749	Japan:Hokkaido, Mt. Yubaridake	secondary	atpB-rbcL	43.3157500933502	144.142484054877	0.00377225873369326
+Anemone_narcissiflora	AB248024.1	20-APR-2006	745	Japan:Hokkaido, Mts. Taisetsuzan	secondary	atpB-rbcL	44.2145494443279	143.814840414786	0.00526030506698844

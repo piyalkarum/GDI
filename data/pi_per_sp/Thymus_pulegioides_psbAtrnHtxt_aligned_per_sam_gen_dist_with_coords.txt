@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_pulegioides	HE819460.1	22-MAY-2013	420	Switzerland	primary	psbA-trnH	46.59	6.24	0.0189415563642786
+Thymus_pulegioides	HE819459.1	22-MAY-2013	413	Italy:Liguria	primary	psbA-trnH	44.26	9.81	0.0296176761567988
+Thymus_pulegioides	HE819458.1	22-MAY-2013	411	Slovenia	primary	psbA-trnH	45.79	14.22	0.0385153377241837
+Thymus_pulegioides	HE819457.1	22-MAY-2013	412	Italy:Toscana	primary	psbA-trnH	43.48	10.44	0.0248105525701278
+Thymus_pulegioides	HE819456.1	22-MAY-2013	413	Spain	primary	psbA-trnH	42.61	0.53	0.0189450939795965
+Thymus_pulegioides	HE966846.1	18-SEP-2012	444	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0258383452608284

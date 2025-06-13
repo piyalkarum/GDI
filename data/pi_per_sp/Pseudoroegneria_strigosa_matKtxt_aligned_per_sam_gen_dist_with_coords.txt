@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pseudoroegneria_strigosa	KP210680.1	31-AUG-2017	891	China: Xinjiang	secondary	matK	43.2077298549087	85.3196778493388	NA
+Pseudoroegneria_strigosa	KP210624.1	31-AUG-2017	321	China: Xinjiang	secondary	matK	42.4430715170814	84.3741962943438	NA
+Pseudoroegneria_strigosa	KP210573.1	31-AUG-2017	321	China: Xinjiang	secondary	matK	42.749422184391	85.8509197988915	NA
+Pseudoroegneria_strigosa	HQ652698.1	14-AUG-2011	876	Estonia	secondary	matK	58.7523778	25.3319078	0.000784313725490196

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erica_tetralix	JN895167.1	07-MAR-2012	809	United Kingdom: Glamorgan	primary	matK	51.63	-3.89	0
+Erica_tetralix	KX821272.1	02-SEP-2017	792	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.7229591854872	8.59117641662917	0
+Erica_tetralix	KX821273.1	02-SEP-2017	792	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.8746357926279	6.76082046820089	0
+Erica_tetralix	KX821274.1	02-SEP-2017	792	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	57.2451910358136	9.73187472479428	0
+Erica_tetralix	KX821275.1	02-SEP-2017	792	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.3874711363374	9.49595836972005	0
+Erica_tetralix	JN895519.1	07-MAR-2012	777	United Kingdom: Breconshire (42)	secondary	matK	52.9875065	-1.1773256	0
+Erica_tetralix	JN895361.1	07-MAR-2012	780	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

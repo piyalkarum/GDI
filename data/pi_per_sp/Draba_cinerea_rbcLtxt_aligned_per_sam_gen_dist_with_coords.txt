@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_cinerea	KC482563.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, Flat to gently sloping plateau E of junction of 3 rivers 6 km NE of head of Minto Inlet	primary	rbcL	71.66	-115.57	0
+Draba_cinerea	KC482562.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	71.3247617052729	-116.50087686826	0
+Draba_cinerea	KC482561.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Riverbed E of Kuujua River, 2 km S of on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.239	-116.447	0
+Draba_cinerea	KC482560.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Riverbed E of Kuujua River, 2 km S of on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.18	-116.6	0
+Draba_cinerea	KC482559.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve., Quttinirpaaq National Park Reserve. Head of Tanquary Fiord Quad., Rollrock R., E. side of river	primary	rbcL	81.2027132237695	-71.6684566348722	0
+Draba_cinerea	KC482558.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Masik River, Masik River Valley, flat valley bottom, S side of large oblong lake, ~50m from lakeshore	primary	rbcL	71.5939	-123.149	0
+Draba_cinerea	KC482557.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	70.8329638793362	-119.668561097983	0
+Draba_cinerea	KC482556.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Katapik. Area from coast up to top of rocky ridge behind	primary	rbcL	56.733	-79.383	0
+Draba_cinerea	KC482555.1	25-OCT-2013	552	Canada: Nunavut, Ivvavik National Park, Ptarmigan Bay	primary	rbcL	69.487	-139.087	0
+Draba_cinerea	KC482554.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	rbcL	70.738	-117.762	0
+Draba_cinerea	KC482553.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve., Tanquary Fiord Quad., Ekblaw Lake, SW shoreline of lake	primary	rbcL	81.6167	-75.5	0
+Draba_cinerea	KC482552.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.619	-115.493	0
+Draba_cinerea	KC482551.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Escarpment SE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 6 km E of Uluhaktok Fishing Camp	primary	rbcL	71.5440686690604	-115.845911975921	0
+Draba_cinerea	KC482550.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territoires, Tuktoyaktuk	primary	rbcL	69.45	-133.033	0
+Draba_cinerea	KC482549.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve., Head of Tanquary Fiord Quad., Rollrock R., E. side of river	primary	rbcL	81.8997760988952	-75.7836382208182	0
+Draba_cinerea	KC482548.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Escarpment SE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 6 km E of Uluhaktok Fishing Camp	primary	rbcL	70.9951412812245	-117.041297265752	0
+Draba_cinerea	KC482547.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Small cliff south of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	rbcL	68.703	-112.653	0

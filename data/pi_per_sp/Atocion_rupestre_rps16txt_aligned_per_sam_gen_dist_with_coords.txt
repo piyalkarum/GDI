@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atocion_rupestre	FJ376821.1	31-DEC-2009	858	Sweden	secondary	rps16	59.6749712	14.5208584	0
+Atocion_rupestre	FJ383999.1	06-OCT-2009	849	Spain	secondary	rps16	39.3260685	-4.8379791	0
+Atocion_rupestre	FJ383998.1	06-OCT-2009	850	Italy	secondary	rps16	42.6384261	12.674297	0
+Atocion_rupestre	FJ383997.1	06-OCT-2009	856	Austria	secondary	rps16	36.9148511	-4.7534501	0

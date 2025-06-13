@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eleusine_indica	OP023379.1	13-JUN-2023	179	India	primary	rbcL	17.38	78.48	0.00257842715943275
+Eleusine_indica	OL434847.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1403	-81.1446	0.00167362865738078
+Eleusine_indica	MG228185.1	23-JAN-2018	552	Canada: Ontario, Niagara County, Hwy. 405 at junction of Portage road	primary	rbcL	43.146	-79.087	0.00167640060566732
+Eleusine_indica	OP711258.1	26-DEC-2022	574	Mexico: Puebla	secondary	rbcL	19.1705686	-98.4123106	0.00237313862868706
+Eleusine_indica	MN030158.1	27-AUG-2019	609	Philippines	secondary	rbcL	12.7503486	122.7312101	0.0290008116340479
+Eleusine_indica	MH549830.1	05-JUN-2019	554	USA	secondary	rbcL	39.7837304	-100.445882	0.00167194576276849
+Eleusine_indica	KJ768952.1	30-APR-2015	492	Mexico	secondary	rbcL	19.4326296	-99.1331785	0.00140712945590994
+Eleusine_indica	KP056847.1	28-FEB-2015	1096	South Korea: Anyang-si, Gyeonggi-do	secondary	rbcL	37.3938528	126.9570605	0.00335081158839317
+Eleusine_indica	KP056846.1	28-FEB-2015	1096	South Korea: Jeju-si, Jeju-do	secondary	rbcL	33.3939924	126.5626653	0.00316185512751427
+Eleusine_indica	KP056844.1	28-FEB-2015	1096	South Korea: Jecheon-si, Choongbuk-do	secondary	rbcL	37.1326042	128.1913508	0.00335081158839317
+Eleusine_indica	KP056843.1	28-FEB-2015	1096	South Korea: Iksan-si, Jeollabuk-do	secondary	rbcL	35.9479291	126.9578025	0.00316185512751427
+Eleusine_indica	HM849972.1	23-JUL-2011	1325	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00400943473430755
+Eleusine_indica	HQ600381.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.00627521900533689
+Eleusine_indica	AM887880.1	09-JAN-2008	1342	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.00324197493342553

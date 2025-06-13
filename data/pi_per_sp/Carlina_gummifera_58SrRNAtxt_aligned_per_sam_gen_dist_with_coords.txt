@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carlina_gummifera	HE687372.1	04-MAY-2012	671	Morocco:Marrakech	secondary	5.8S rRNA	32.1930499318456	-7.20101227122509	0.00160629776772351
+Carlina_gummifera	HE687349.1	04-MAY-2012	672	Morocco:Marrakech	secondary	5.8S rRNA	30.9359098975464	-7.58458601218389	0.00117545073684932
+Carlina_gummifera	HE687343.1	04-MAY-2012	679	Morocco:Marrakech	secondary	5.8S rRNA	31.3067168701355	-7.72325299655435	0.00160079751997681
+Carlina_gummifera	HE687340.1	04-MAY-2012	681	Morocco:Marrakech	secondary	5.8S rRNA	32.2729785190449	-8.17307124480521	0.00117105935291641
+Carlina_gummifera	HE602381.1	14-OCT-2011	581	Morocco	secondary	5.8S rRNA	28.3347722	-10.3713379	0.00258175559380379

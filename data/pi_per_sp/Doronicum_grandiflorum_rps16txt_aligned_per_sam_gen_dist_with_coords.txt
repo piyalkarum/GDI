@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Doronicum_grandiflorum	KP133794.1	17-MAR-2015	873	Bosnia and Herzegovina	primary	rps16	43.55027	17.90138	0
+Doronicum_grandiflorum	KP133793.1	17-MAR-2015	873	Bosnia and Herzegovina	primary	rps16	43.60111	17.57305	0
+Doronicum_grandiflorum	KP133792.1	17-MAR-2015	864	Italy	primary	rps16	44.4675	6.9317	0
+Doronicum_grandiflorum	KP133791.1	17-MAR-2015	863	Italy	primary	rps16	46.06111	10.00111	0
+Doronicum_grandiflorum	KP133790.1	17-MAR-2015	873	Italy	primary	rps16	46.62388	12.72805	0
+Doronicum_grandiflorum	KP133789.1	17-MAR-2015	863	Austria	primary	rps16	47.52055	13.6925	0
+Doronicum_grandiflorum	KP133788.1	17-MAR-2015	873	Austria	primary	rps16	47.78638	15.05611	0

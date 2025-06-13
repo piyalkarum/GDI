@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Biarum_tenuifolium	EU193519.1	12-AUG-2008	637	Greece: Crete	secondary	rps16	35.5009022729484	24.0932924661095	0
+Biarum_tenuifolium	EU193518.1	12-AUG-2008	637	Greece: Crete	secondary	rps16	35.5437321355099	23.6380816193325	0
+Biarum_tenuifolium	EU193517.1	12-AUG-2008	637	Greece: Crete	secondary	rps16	35.9090412232197	24.1526314462357	0
+Biarum_tenuifolium	EU193516.1	12-AUG-2008	637	Greece	secondary	rps16	43.6271561518626	-78.7359328264257	0
+Biarum_tenuifolium	EU193515.1	12-AUG-2008	637	Greece	secondary	rps16	42.6983119118038	-77.5225824344469	0

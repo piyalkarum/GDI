@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_madritensis	KX282612.1	28-MAY-2017	517	Kuwait	secondary	rbcL	29.7520758911764	47.8282892332407	0.00259530278074239
+Bromus_madritensis	KX282611.1	28-MAY-2017	548	Kuwait	secondary	rbcL	29.7684439559114	48.2894380983834	0.00125774980143912
+Bromus_madritensis	KX282610.1	28-MAY-2017	519	Kuwait	secondary	rbcL	29.0404145628263	47.5190921771314	0.00130210320185143
+Bromus_madritensis	HM849827.1	23-JUL-2011	661	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00256364054093672

@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pyrola_grandiflora	KT307923.1	20-MAR-2016	769	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Top of Mt. Irony, 20 m NE E800D4.	primary	matK	55.4056	-69.8033	0.000200060018005402
+Pyrola_grandiflora	KC475648.1	25-OCT-2013	759	Canada: Nunavut, Baffin Island, Iqaluit, Iqaluit, hills just NE of settlement	primary	matK	63.75	-68.5	0.000202695854869768
+Pyrola_grandiflora	KC475647.1	25-OCT-2013	771	Canada: Nunavut, Hudsons Bay, Belcher Islands, Tukarak Island, slightly east facing slope below large rock hills, 50 m from shore	primary	matK	56.386	-78.872	0.000199541055572184
+Pyrola_grandiflora	KC475646.1	25-OCT-2013	737	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Hornaday River, ~1 km downstream of valley leading to Castle Butte	primary	matK	68.206	-121.844	0.000208746477403194
+Pyrola_grandiflora	KC475645.1	25-OCT-2013	755	Canada: Nunavut, Rankin Inlet, Adjacent to road below the graveyard	primary	matK	62.8	-92.1	0.000203769740193581
+Pyrola_grandiflora	KC475644.1	25-OCT-2013	634	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	matK	66.839	-108.035	0.00012132977432662
+Pyrola_grandiflora	KC475643.1	25-OCT-2013	630	Canada: Nunavut, Ellesmere Island, Borup Fiord	primary	matK	80.783	-81.75	0.000244200244200244
+Pyrola_grandiflora	KC475642.1	25-OCT-2013	771	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, between road and Darnley Bay	primary	matK	69.392	-124.056	0.000199541055572184
+Pyrola_grandiflora	KC475641.1	25-OCT-2013	771	Canada: Northwest Territories, Victoria Island, Minto Inlet, Small unnamed lake 200m NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.272	-116.467	0.000199541055572184
+Pyrola_grandiflora	JN966487.1	27-OCT-2012	774	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	matK	58.789	-94.227	0.000198767640628106
+Pyrola_grandiflora	JN966486.1	27-OCT-2012	775	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	matK	58.626	-94.23	0.00257865859646489
+Pyrola_grandiflora	JN966485.1	27-OCT-2012	770	Canada: Manitoba, Churchill, Wapusk National Park, South of Hoot Creek	primary	matK	57.351	-93.523	0.0001998001998002
+Pyrola_grandiflora	JN966484.1	27-OCT-2012	774	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	matK	58.633	-93.79	0.000198767640628106
+Pyrola_grandiflora	JN966483.1	27-OCT-2012	762	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas heath	primary	matK	58.769	-93.862	0.000201897839693115

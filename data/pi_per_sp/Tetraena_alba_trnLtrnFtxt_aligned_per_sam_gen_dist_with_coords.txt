@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tetraena_alba	MN885616.1	15-DEC-2022	705	Tunisia	secondary	trnL-trnF	36.8002068	10.1857757	0.00177304964539007
+Tetraena_alba	MN885615.1	15-DEC-2022	705	Saudi Arabia:Farasan Islands	secondary	trnL-trnF	16.7671652	41.9456282	0.00177304964539007
+Tetraena_alba	MG664341.1	22-OCT-2018	733	Saudi Arabia	secondary	trnL-trnF	25.6960796639595	41.9792213612973	0.000709219858156028
+Tetraena_alba	MG664340.1	22-OCT-2018	733	Saudi Arabia	secondary	trnL-trnF	24.9626666612699	42.2241922480354	0.000709219858156028
+Tetraena_alba	MG664339.1	22-OCT-2018	733	Saudi Arabia	secondary	trnL-trnF	25.2231966397149	42.3921372597161	0.000709219858156028

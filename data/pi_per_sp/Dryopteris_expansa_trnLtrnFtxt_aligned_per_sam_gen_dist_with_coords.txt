@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dryopteris_expansa	KU500196.1	17-OCT-2016	771	Taiwan: Nantou	secondary	trnL-trnF	23.90235	120.6909167	0.0024390243902439
+Dryopteris_expansa	KC896576.1	12-AUG-2013	274	South Korea: Nammyeong-ri, Gyeongnam	secondary	trnL-trnF	35.57731	128.96492	0.00246913580246914
+Dryopteris_expansa	JQ683000.1	15-JUL-2012	252	USA	secondary	trnL-trnF	39.4151259550649	-101.43964672034	0.0024390243902439
+Dryopteris_expansa	JQ682999.1	15-JUL-2012	246	USA	secondary	trnL-trnF	39.5292614853646	-100.853452649681	0.0122252333634447
+Dryopteris_expansa	JQ682982.1	15-JUL-2012	252	USA	secondary	trnL-trnF	40.1099612723518	-99.5038186429989	0.0024390243902439
+Dryopteris_expansa	JN105307.1	18-SEP-2011	253	USA	secondary	trnL-trnF	40.3976710887407	-100.556564645026	0.0024390243902439

@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_paniculata	MH627660.1	19-FEB-2020	853	France: Alpes-Maritimes, Foret d Esterell	secondary	rpl16	43.6450727029715	7.03980607852232	0.00159161321486719
+Centaurea_paniculata	MH627659.1	19-FEB-2020	853	France: Alpes-Maritimes, Foret d Esterell	secondary	rpl16	43.6982940562024	6.00339133961	0.00159161321486719
+Centaurea_paniculata	MH627658.1	19-FEB-2020	853	France: Alpes-Maritimes, Foret d Esterell	secondary	rpl16	44.2398078535093	7.07178572052167	0.00159161321486719
+Centaurea_paniculata	MH627657.1	19-FEB-2020	853	Italy: Imperia, Ventimiglia to Porra	secondary	rpl16	43.9634183236458	6.39185081526983	0.00159161321486719
+Centaurea_paniculata	MH627656.1	19-FEB-2020	853	Italy: Imperia, Ventimiglia to Porra	secondary	rpl16	43.7478676942426	7.0733823682715	0.00159161321486719
+Centaurea_paniculata	MH627655.1	19-FEB-2020	853	Italy: Imperia, Ventimiglia to Porra	secondary	rpl16	44.1395806628265	6.47423560542834	0.00159161321486719
+Centaurea_paniculata	MH627654.1	19-FEB-2020	852	Italy: Savona, Toirano	secondary	rpl16	44.0617917875062	7.49246715592048	0.00113193851711917
+Centaurea_paniculata	MH627653.1	19-FEB-2020	851	Italy: Savona, Toirano	secondary	rpl16	44.325220691106	7.9540899717321	0.00113326881869081
+Centaurea_paniculata	MH627652.1	19-FEB-2020	851	Italy: Savona, Toirano	secondary	rpl16	44.8208362517191	8.77476463442688	0.00113326881869081
+Centaurea_paniculata	MH627651.1	19-FEB-2020	852	Italy: Genova, Chiavari	secondary	rpl16	43.6479090235259	9.12363019634007	0.00184469550882864
+Centaurea_paniculata	MH627650.1	19-FEB-2020	852	Italy: Genova, Chiavari	secondary	rpl16	44.1173657518786	8.23489861273925	0.00184469550882864
+Centaurea_paniculata	MH627649.1	19-FEB-2020	852	Italy: Genova, Chiavari	secondary	rpl16	44.2797175741095	10.4369095905	0.00184469550882864
+Centaurea_paniculata	MH627648.1	19-FEB-2020	853	Italy: Pisa, Marina di Vecchiano	secondary	rpl16	43.6702089663434	9.52474255384322	0.00184253256449367
+Centaurea_paniculata	MH627647.1	19-FEB-2020	853	Italy: Pisa, Marina di Vecchiano	secondary	rpl16	44.5913290300152	9.96431490938959	0.00184253256449367
+Centaurea_paniculata	MH627646.1	19-FEB-2020	853	Italy: Pisa, Marina di Vecchiano	secondary	rpl16	44.1131882630617	11.0106953174469	0.00184253256449367
+Centaurea_paniculata	MH627645.1	19-FEB-2020	853	Italy: Pisa, Migliarino	secondary	rpl16	44.2461013033259	10.1656441799573	0.00167535128219259
+Centaurea_paniculata	MH627644.1	19-FEB-2020	853	Italy: Pisa, Migliarino	secondary	rpl16	43.3156041471804	10.7113571417321	0.00167535128219259
+Centaurea_paniculata	MH627643.1	19-FEB-2020	855	Italy: Pisa, Migliarino	secondary	rpl16	43.2111643757693	11.1846136464568	0.00339026950815237
+Centaurea_paniculata	MH627642.1	19-FEB-2020	855	Italy: Grosseto, Valpiana	secondary	rpl16	42.9581173193623	10.6847029315363	0.00167476364663242
+Centaurea_paniculata	MH627641.1	19-FEB-2020	855	Italy: Grosseto, Valpiana	secondary	rpl16	42.5649135198133	11.2962279785959	0.00167476364663242
+Centaurea_paniculata	MH627640.1	19-FEB-2020	855	Italy: Grosseto, Valpiana	secondary	rpl16	43.2019769739703	10.2876977632741	0.00167476364663242
+Centaurea_paniculata	MH627639.1	19-FEB-2020	855	Italy: Grosseto, Argentario	secondary	rpl16	42.8360683271685	10.1015968366626	0.00167476364663242
+Centaurea_paniculata	MH627638.1	19-FEB-2020	855	Italy: Grosseto, Argentario	secondary	rpl16	42.5316087981216	10.8645375692076	0.00167476364663242
+Centaurea_paniculata	MH627637.1	19-FEB-2020	855	Italy: Grosseto, Argentario	secondary	rpl16	41.7145982314333	11.4205091065718	0.00167476364663242
+Centaurea_paniculata	MH627636.1	19-FEB-2020	852	Italy: Savona, Spotorno	secondary	rpl16	44.7775219405203	9.36492181941636	0.00113193851711917
+Centaurea_paniculata	MH627635.1	19-FEB-2020	855	Italy: Savona, Spotorno	secondary	rpl16	43.3436555629797	8.19499388877733	0.00339026950815237
+Centaurea_paniculata	MH627634.1	19-FEB-2020	853	France: Alpes-Maritimes, Col Eze2	secondary	rpl16	44.2530523119116	7.52190380564988	0.00159161321486719
+Centaurea_paniculata	MH627633.1	19-FEB-2020	853	France: Alpes-Maritimes, Col Eze	secondary	rpl16	42.9753190430109	7.35805526104629	0.00159161321486719
+Centaurea_paniculata	MH627632.1	19-FEB-2020	853	France: Alpes-Maritimes, Col Eze	secondary	rpl16	43.7312287755438	8.30842041820022	0.00159161321486719

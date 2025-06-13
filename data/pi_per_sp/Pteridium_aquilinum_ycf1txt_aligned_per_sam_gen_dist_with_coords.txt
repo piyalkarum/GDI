@@ -1,0 +1,72 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pteridium_aquilinum	KC737240.1	31-JAN-2014	969	China: Zhejiang, Linan, Tianmushan	secondary	ycf1	24.8324	105.054	0.00172563228742213
+Pteridium_aquilinum	KC737239.1	31-JAN-2014	973	China: Zhejiang, Hangzhou, Shangtianzhu	secondary	ycf1	30.2289353	120.0920875	0.00172496560651273
+Pteridium_aquilinum	KC737238.1	31-JAN-2014	969	China: Tibet, Gongbujiangda	secondary	ycf1	30.6120520510968	93.1519047585278	0.00159239916310129
+Pteridium_aquilinum	KC737237.1	31-JAN-2014	969	China: Tibet, Gongbujiangda	secondary	ycf1	30.5003905580421	93.8311416807648	0.00172563228742213
+Pteridium_aquilinum	KC737236.1	31-JAN-2014	969	China: Shanxi, Taibaishan	secondary	ycf1	34.8643973852194	107.865290115376	0.00172563228742213
+Pteridium_aquilinum	KC737235.1	31-JAN-2014	969	China: Shanxi, Taibaishan	secondary	ycf1	34.6008057039017	108.468195254528	0.00172563228742213
+Pteridium_aquilinum	KC737234.1	31-JAN-2014	969	China: Shanxi, Ningshan, Xunyangba	secondary	ycf1	27.6680504	120.0529182	0.00172563228742213
+Pteridium_aquilinum	KC737233.1	31-JAN-2014	969	China: Qinghai, exact locality unknown	secondary	ycf1	36.89274345	100.051370239913	0.00172563228742213
+Pteridium_aquilinum	KC737232.1	31-JAN-2014	969	China: Liaoning, Huanren, Wunvshan	secondary	ycf1	41.5477600505063	123.777574889374	0.00172563228742213
+Pteridium_aquilinum	KC737231.1	31-JAN-2014	969	Japan: Tokyo	secondary	ycf1	35.6821936	139.762221	0.00271370085732238
+Pteridium_aquilinum	KC737230.1	31-JAN-2014	969	China: Liaoning, Fengcheng, Fengshancu	secondary	ycf1	42.0734192679261	124.460658775595	0.00271370085732238
+Pteridium_aquilinum	KC737229.1	31-JAN-2014	969	China: Jiangxi, Jiujiang, Lushan	secondary	ycf1	29.3595966	115.9428552	0.00172563228742213
+Pteridium_aquilinum	KC737228.1	31-JAN-2014	969	China: Hunan, Xiangtan	secondary	ycf1	27.681864	112.626292	0.00172563228742213
+Pteridium_aquilinum	KC737227.1	31-JAN-2014	969	China: Hubei, Shengnongjia	secondary	ycf1	22.1896096643146	114.610989542928	0.00172563228742213
+Pteridium_aquilinum	KC737226.1	31-JAN-2014	969	China: Hubei, Lichuan	secondary	ycf1	30.244508	108.815759	0.00172563228742213
+Pteridium_aquilinum	KC737225.1	31-JAN-2014	969	China: Heilongjiang, Yichun, Nancha, 320 m	secondary	ycf1	47.1405363	129.2581069	0.00172563228742213
+Pteridium_aquilinum	KC737224.1	31-JAN-2014	969	China: Heilongjiang, Yichun, Nancha	secondary	ycf1	47.054532	129.36213	0.00172563228742213
+Pteridium_aquilinum	KC737223.1	31-JAN-2014	969	China: Heilongjiang, Shangzhi, Maoershan	secondary	ycf1	47.6548698602336	133.884351901679	0.00172563228742213
+Pteridium_aquilinum	KC737222.1	31-JAN-2014	969	China: Heilongjiang, Shangzhi, Laoshan	secondary	ycf1	49.1618625718135	133.623440374052	0.00172563228742213
+Pteridium_aquilinum	KC737221.1	31-JAN-2014	969	China: Hainan, Wuzhishan	secondary	ycf1	18.6876299017792	108.810372552481	0.00172563228742213
+Pteridium_aquilinum	KC737220.1	31-JAN-2014	975	China: Guizhou, Guiyang	secondary	ycf1	26.6499922	106.6246178	0.00172487525493214
+Pteridium_aquilinum	KC737219.1	31-JAN-2014	973	China: Guangxi, Damingshan	secondary	ycf1	23.5252144	108.332131	0.00172496560651273
+Pteridium_aquilinum	KC737218.1	31-JAN-2014	969	China: Guangxi, between Longshengxian and Linguixian	secondary	ycf1	26.7288855401768	108.525829308266	0.00172563228742213
+Pteridium_aquilinum	KC737217.1	31-JAN-2014	969	China: Guangxi, Longshengxian, Huaping	secondary	ycf1	26.70131179569	109.376103104075	0.00172563228742213
+Pteridium_aquilinum	KC737216.1	31-JAN-2014	973	China: Guangxi, Longshengxian, Huaping	secondary	ycf1	26.2463938247951	109.288984464591	0.00172496560651273
+Pteridium_aquilinum	KC737215.1	31-JAN-2014	969	China: Guangxi, Hezhou, Guposhan	secondary	ycf1	24.4334314	111.5404348	0.00172563228742213
+Pteridium_aquilinum	KC737214.1	31-JAN-2014	969	China: Guangxi, Hezhou, Futoushan	secondary	ycf1	26.2709948892876	109.49294532998	0.00274318633572427
+Pteridium_aquilinum	KC737213.1	31-JAN-2014	969	China: Guangdong, Shenzhen, Wutongshan	secondary	ycf1	22.6482655	114.2107363	0.00172563228742213
+Pteridium_aquilinum	KC737212.1	31-JAN-2014	969	China: Guangdong, Meizhou, meixian	secondary	ycf1	24.2694484	116.0761056	0.00172563228742213
+Pteridium_aquilinum	KC737211.1	31-JAN-2014	969	China: Chongqing, Tieshanping	secondary	ycf1	29.6109795	106.6557548	0.00172563228742213
+Pteridium_aquilinum	KC737210.1	31-JAN-2014	969	China: Chongqing, Jinyunshan	secondary	ycf1	29.5656729	106.5479189	0.00172563228742213
+Pteridium_aquilinum	KC737209.1	31-JAN-2014	969	China: Beijing, Baihuashan	secondary	ycf1	39.9057136	116.3912972	0.00172563228742213
+Pteridium_aquilinum	KC737208.1	31-JAN-2014	975	China: Anhui, Jinzhai, Tiantangshan	secondary	ycf1	31.3536127	118.4277477	0.00172487525493214
+Pteridium_aquilinum	KC737203.1	31-JAN-2014	965	Mexico: Oaxaca	secondary	ycf1	17	-96.5	0.0017320503330866
+Pteridium_aquilinum	KC737202.1	31-JAN-2014	967	Malaysia: Malay Peninsula	secondary	ycf1	3.6995651010353	101.751209392575	0.00159560079209012
+Pteridium_aquilinum	KC737201.1	31-JAN-2014	969	China: Yunnan, Yingjiangxia	secondary	ycf1	29.3750809663833	109.748500482901	0.00159239916310129
+Pteridium_aquilinum	KC737200.1	31-JAN-2014	969	China: Yunnan, Xichouxian	secondary	ycf1	29.4045654612358	109.770191410273	0.00159239916310129
+Pteridium_aquilinum	KC737199.1	31-JAN-2014	973	China: Yunnan, Wenshan	secondary	ycf1	23.399102	104.2172181	0.00260855924222924
+Pteridium_aquilinum	KC737198.1	31-JAN-2014	969	China: Yunnan, Weixixian	secondary	ycf1	28.6579068042886	109.88763500693	0.00159239916310129
+Pteridium_aquilinum	KC737197.1	31-JAN-2014	969	China: Yunnan, Tachengxiang, Xiangguqing	secondary	ycf1	29.3019877824793	110.953642982207	0.00159239916310129
+Pteridium_aquilinum	KC737196.1	31-JAN-2014	969	China: Yunnan, Weixixian	secondary	ycf1	28.8350626995702	109.937611934316	0.00159239916310129
+Pteridium_aquilinum	KC737195.1	31-JAN-2014	969	China: Yunnan, Tachengxiang to Haozhuqing	secondary	ycf1	29.250639677047	109.890007807263	0.00159239916310129
+Pteridium_aquilinum	KC737194.1	31-JAN-2014	969	China: Yunnan, Weixixian	secondary	ycf1	29.2969940921321	109.754526632416	0.00159239916310129
+Pteridium_aquilinum	KC737193.1	31-JAN-2014	969	China: Yunnan, Qindongxian	secondary	ycf1	29.3223957634301	109.569957301285	0.00159239916310129
+Pteridium_aquilinum	KC737192.1	31-JAN-2014	969	China: Yunnan, Pingbianxian	secondary	ycf1	29.138022525357	109.874993532039	0.00159239916310129
+Pteridium_aquilinum	KC737191.1	31-JAN-2014	969	China: Yunnan, Mengzishi	secondary	ycf1	29.714562491862	109.72744511993	0.00159239916310129
+Pteridium_aquilinum	KC737190.1	31-JAN-2014	969	China: Yunnan, Malipoxian	secondary	ycf1	29.6916942072196	109.561155613503	0.00159239916310129
+Pteridium_aquilinum	KC737189.1	31-JAN-2014	969	China: Yunnan, Luxixian	secondary	ycf1	24.5086139	103.753343	0.00159239916310129
+Pteridium_aquilinum	KC737188.1	31-JAN-2014	969	China: Yunnan, Lufengxian	secondary	ycf1	29.4696619968998	109.941259224263	0.00260995321140343
+Pteridium_aquilinum	KC737187.1	31-JAN-2014	969	China: Yunnan, Kunming, Xishan	secondary	ycf1	25.0411094	102.6649565	0.00159239916310129
+Pteridium_aquilinum	KC737186.1	31-JAN-2014	977	China: Tibet, Yadon	secondary	ycf1	33.6895886357337	98.970575363057	0.00159118813489832
+Pteridium_aquilinum	KC737185.1	31-JAN-2014	969	China: Tibet, Milin	secondary	ycf1	28.5564573841623	93.9545000478688	0.00159239916310129
+Pteridium_aquilinum	KC737184.1	31-JAN-2014	969	China: Tibet, Milin	secondary	ycf1	28.467028945993	94.1537457077143	0.00159239916310129
+Pteridium_aquilinum	KC737183.1	31-JAN-2014	969	China: Tibet, Linzhi	secondary	ycf1	29.6510453	94.3602321	0.00159239916310129
+Pteridium_aquilinum	KC737182.1	31-JAN-2014	969	China: Tibet, Bomi	secondary	ycf1	29.8095447578667	96.2427052543674	0.00159239916310129
+Pteridium_aquilinum	KC737181.1	31-JAN-2014	969	China: Tibet, Bomi	secondary	ycf1	31.0079485978349	95.417521354172	0.00159239916310129
+Pteridium_aquilinum	KC737180.1	31-JAN-2014	969	China: Hubei, Baokang, Houpin	secondary	ycf1	21.7953333223409	114.600676976307	0.00159239916310129
+Pteridium_aquilinum	KC737179.1	31-JAN-2014	967	China: Hainan, Wuzhishan	secondary	ycf1	19.6967453817593	110.069732491599	0.00159560079209012
+Pteridium_aquilinum	KC737178.1	31-JAN-2014	967	China: Hainan, Wuzhishan	secondary	ycf1	18.5060567865809	110.341262338718	0.00159560079209012
+Pteridium_aquilinum	KC737177.1	31-JAN-2014	967	China: Hainan, Wuzhishan	secondary	ycf1	18.096165258074	109.274510959186	0.00159560079209012
+Pteridium_aquilinum	KC737176.1	31-JAN-2014	969	China: Guangxi, Napoxian	secondary	ycf1	27.518781588281	109.202859337986	0.00159239916310129
+Pteridium_aquilinum	KC737175.1	31-JAN-2014	967	China: Guangxi, Chongzuo, Longzhou	secondary	ycf1	22.4360306	106.8719711	0.00159560079209012
+Pteridium_aquilinum	KC737174.1	31-JAN-2014	967	China: Guangxi, between Longshengxian and Linguixian	secondary	ycf1	26.0681889749844	108.990225868851	0.00159560079209012
+Pteridium_aquilinum	KC737173.1	31-JAN-2014	973	China: Guangxi, Longshengxian, Huaping	secondary	ycf1	26.5998068125799	109.578381170634	0.00260855924222924
+Pteridium_aquilinum	KC737172.1	31-JAN-2014	969	China: Guangxi, Huanjiang	secondary	ycf1	25.01784	108.2572278	0.00159239916310129
+Pteridium_aquilinum	KC737171.1	31-JAN-2014	967	China: Guangdong, Shenzhen	secondary	ycf1	22.5445741	114.0545429	0.00159560079209012
+Pteridium_aquilinum	KC737170.1	31-JAN-2014	969	China: Gansu, Huixian, Yinxingxiang, Hailongsha	secondary	ycf1	40.5013662302982	97.8873230386809	0.00159239916310129
+Pteridium_aquilinum	KC737169.1	31-JAN-2014	967	Malaysia: Malay Peninsula	secondary	ycf1	4.03804417864227	101.112749610848	0.00159560079209012
+Pteridium_aquilinum	KC737168.1	31-JAN-2014	969	China: Tibet, Chay	secondary	ycf1	34.2800922087771	99.7491604731845	0.00172563228742213
+Pteridium_aquilinum	KC737167.1	31-JAN-2014	969	China: Tibet, Bomi	secondary	ycf1	30.0567573036234	95.0839571848858	0.00159239916310129
+Pteridium_aquilinum	KC737166.1	31-JAN-2014	969	China: Gansu, Huixian, Yinxingxiang, Hailongshan	secondary	ycf1	39.7147207763227	98.8135634400598	0.00159239916310129

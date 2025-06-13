@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hordeum_secalinum	MW148220.1	19-MAR-2022	480	United Kingdom: England, Brading Marshes, Isle of Wight; SZ6081852	secondary	matK	50.7127188686963	-0.663244872284082	0
+Hordeum_secalinum	MW148219.1	19-MAR-2022	480	United Kingdom: England, Alstone, N Somerset; ST310447	secondary	matK	51.3066749251739	-1.84701849698939	0
+Hordeum_secalinum	MW148218.1	19-MAR-2022	480	United Kingdom: England, Kexby, N Lincolnshire; SK886759	secondary	matK	50.9107812011324	-1.83441037591808	0
+Hordeum_secalinum	JN894356.1	07-MAR-2012	683	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0
+Hordeum_secalinum	JN894355.1	07-MAR-2012	750	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0
+Hordeum_secalinum	JN894354.1	07-MAR-2012	760	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0

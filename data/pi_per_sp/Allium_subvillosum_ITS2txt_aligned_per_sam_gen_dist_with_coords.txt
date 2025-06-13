@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_subvillosum	LN823611.1	19-APR-2017	650	Morocco:Province Al Hoseima	secondary	ITS2	35.245114	-3.930186	0.0010989010989011
+Allium_subvillosum	LN823610.1	19-APR-2017	650	Morocco:Province Tetouan	secondary	ITS2	35.4509168	-5.4524951	0.00769230769230769
+Allium_subvillosum	LN823609.1	19-APR-2017	650	Morocco:Province Tanger	secondary	ITS2	35.8778315	-5.5144566	0.0010989010989011
+Allium_subvillosum	LN823608.1	19-APR-2017	650	Spain:Mallorca	secondary	ITS2	39.613432	2.8829185	0.0010989010989011
+Allium_subvillosum	LN823607.1	19-APR-2017	650	Portugal:Algarve	secondary	ITS2	37.3790308907063	-7.24564606458671	0.0010989010989011
+Allium_subvillosum	LN823606.1	19-APR-2017	650	Portugal:Algarve	secondary	ITS2	36.8901582233127	-7.88984249147332	0.0010989010989011
+Allium_subvillosum	HF934338.1	12-MAY-2015	650	Portugal:Algarve	secondary	ITS2	36.9174257343103	-9.12754041082526	0.0010989010989011
+Allium_subvillosum	FR693744.1	22-SEP-2011	650	Spain:Tenerife, east from Masca	secondary	ITS2	28.2935785	-16.6214471211441	0.0010989010989011

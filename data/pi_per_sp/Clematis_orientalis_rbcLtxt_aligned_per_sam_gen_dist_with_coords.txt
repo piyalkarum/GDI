@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Clematis_orientalis	MG249933.1	21-JAN-2018	552	Canada: Ontario, Niagara Falls, ON	primary	rbcL	43.104	-79.087	0.00785352937566305
+Clematis_orientalis	MG247314.1	21-JAN-2018	551	Canada: Paris, ON	primary	rbcL	43.1933	-80.384	0.00302480338777979
+Clematis_orientalis	MT931885.1	03-MAR-2023	572	China	secondary	rbcL	34.7198581734294	104.44172329644	0.00362428434905354
+Clematis_orientalis	MT931884.1	03-MAR-2023	568	China	secondary	rbcL	34.9989982601231	105.56789123717	0.00362428434905354

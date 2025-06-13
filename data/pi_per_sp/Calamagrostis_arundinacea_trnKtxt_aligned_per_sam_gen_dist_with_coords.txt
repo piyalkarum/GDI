@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_arundinacea	OL540135.1	16-AUG-2022	728	Russia	secondary	trnK	64.6863136	97.7453061	0.176549829480864
+Calamagrostis_arundinacea	OL540134.1	16-AUG-2022	728	France	secondary	trnK	46.603354	1.8883335	0.176549829480864
+Calamagrostis_arundinacea	OL540133.1	16-AUG-2022	728	Romania	secondary	trnK	45.9852129	24.6859225	0.177007704938739
+Calamagrostis_arundinacea	LR606846.1	25-JAN-2021	2024	Germany	secondary	trnK	34.895926	-83.4665496	0.528275862068965

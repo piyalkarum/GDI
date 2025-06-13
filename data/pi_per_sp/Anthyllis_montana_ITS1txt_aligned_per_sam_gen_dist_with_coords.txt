@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthyllis_montana	FN675866.1	01-MAR-2011	611	Croatia:Vratnik	primary	ITS1	44.99	14.98	0.00128594809445873
+Anthyllis_montana	FN675865.1	01-MAR-2011	611	Slovenia:Ilirska Bistrica	primary	ITS1	45.57	14.3	0.00128594809445873
+Anthyllis_montana	FN675864.1	01-MAR-2011	611	Austria:Mt. Goesing	primary	ITS1	47.73	16	0.00128594809445873
+Anthyllis_montana	FN675863.1	01-MAR-2011	611	Austria:Hohe Wand	primary	ITS1	47.82	16.03	0.00128594809445873
+Anthyllis_montana	AJ512905.1	21-FEB-2003	231	Switzerland	secondary	ITS1	46.8353462806281	7.2512745253532	0.000618429189857761
+Anthyllis_montana	AJ512904.1	21-FEB-2003	232	Switzerland	secondary	ITS1	47.4471312229455	8.35747440348362	0.00061576354679803
+Anthyllis_montana	AJ512903.1	21-FEB-2003	231	Italy:Monte Cucco	secondary	ITS1	43.6469466	12.1654229	0.000618429189857761
+Anthyllis_montana	AJ315508.1	15-MAR-2002	611	Spain:Sierra de Baza	secondary	ITS1	37.2538222	-2.795395	0.00676260555990144
+Anthyllis_montana	AJ315507.1	15-MAR-2002	611	France:Haute-Savoie, Saleve Mt.	secondary	ITS1	46.1195922	6.1724261	0.00257189618891747
+Anthyllis_montana	AJ315506.1	15-MAR-2002	611	France:Hautes-Alpes, Briancon	secondary	ITS1	44.8984037	6.6436313	0.00514379237783493
+Anthyllis_montana	AJ315505.1	15-MAR-2002	611	Italy:Abruzzi, Gran Sasso Mts.	secondary	ITS1	42.4687934	13.5631284	0.00187046995557634
+Anthyllis_montana	AJ315504.1	15-MAR-2002	611	Italy:Friuli, Chiampon Mt.	secondary	ITS1	46.3693475	12.8699885	0.00128594809445873
+Anthyllis_montana	AJ315503.1	15-MAR-2002	611	Austria:Geissberg Mt.	secondary	ITS1	48.8050147	15.2072876	0.00128594809445873
+Anthyllis_montana	AJ315502.1	15-MAR-2002	611	Slovenia:Nanos Mt.	secondary	ITS1	45.8194609	14.0192976	0.00128594809445873
+Anthyllis_montana	AJ315501.1	15-MAR-2002	611	Croatia	secondary	ITS1	44.8737694	14.9837701	0.00128594809445873

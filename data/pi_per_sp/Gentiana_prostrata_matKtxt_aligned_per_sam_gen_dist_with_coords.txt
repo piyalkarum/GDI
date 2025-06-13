@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gentiana_prostrata	KX677107.1	09-AUG-2017	833	Canada: British Columbia, Cariboo Regional District, Two Lakes Basin, NW side at headwaters of Relay Creek	primary	matK	51.2	-123.083	0.0321020228671944
+Gentiana_prostrata	MT918356.1	03-MAR-2023	793	China	secondary	matK	34.377259717148	105.046640741031	0.0118355942894201
+Gentiana_prostrata	MT918355.1	03-MAR-2023	792	China	secondary	matK	34.9734842604091	105.190660841721	0.010974965130638
+Gentiana_prostrata	MT918354.1	03-MAR-2023	792	China	secondary	matK	34.1982296769513	104.93213413901	0.010974965130638

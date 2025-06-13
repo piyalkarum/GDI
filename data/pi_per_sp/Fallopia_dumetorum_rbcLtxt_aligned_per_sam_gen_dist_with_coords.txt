@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fallopia_dumetorum	MG248501.1	21-JAN-2018	500	Canada: British Columbia, Hope	primary	rbcL	49.383	-121.433	0.00801075268817204
+Fallopia_dumetorum	MK925545.1	14-JAN-2020	542	Denmark	secondary	rbcL	55.670249	10.3333283	0.00350600459589676
+Fallopia_dumetorum	MK925376.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2791623822909	-4.0286310568626	0.00350600459589676
+Fallopia_dumetorum	MK924962.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6258153951991	-2.51187050867115	0.00350600459589676
+Fallopia_dumetorum	JN890735.1	07-MAR-2012	542	United Kingdom: Surrey	secondary	rbcL	51.2715316	-0.3414524	0.00348871801567178
+Fallopia_dumetorum	JN890734.1	07-MAR-2012	532	United Kingdom: Sussex,West	secondary	rbcL	50.94451385	-0.0622673284178475	0.00352928811592549
+Fallopia_dumetorum	FM883613.1	14-DEC-2008	1360	Italy	secondary	rbcL	42.6384261	12.674297	0.00476400387751665

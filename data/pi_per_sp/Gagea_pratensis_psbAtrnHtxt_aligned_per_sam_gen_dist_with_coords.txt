@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_pratensis	LT985452.1	14-JUN-2019	298	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.00587248322147651
+Gagea_pratensis	LT985451.1	14-JUN-2019	298	Czech Republic	secondary	psbA-trnH	49.7439047	15.3381061	0.00251677852348993
+Gagea_pratensis	LT985450.1	14-JUN-2019	298	Germany	secondary	psbA-trnH	34.8933350909522	-82.6812966616745	0.00251677852348993
+Gagea_pratensis	LT985449.1	14-JUN-2019	298	Germany	secondary	psbA-trnH	35.3075071215175	-82.8399564189237	0.00251677852348993
+Gagea_pratensis	LT985448.1	14-JUN-2019	298	Germany	secondary	psbA-trnH	35.0193817352867	-82.5347918977526	0.00335570469798658

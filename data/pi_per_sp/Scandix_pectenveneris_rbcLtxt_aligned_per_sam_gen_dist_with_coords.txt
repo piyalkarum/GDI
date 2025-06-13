@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scandix_pecten-veneris	JN892790.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.39	-3.44	0.0011070110701107
+Scandix_pecten-veneris	MK924999.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4863973674959	-2.00450072194853	0.0011070110701107
+Scandix_pecten-veneris	MK924629.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6548104816115	-2.26778442411384	0.0011070110701107
+Scandix_pecten-veneris	MK924569.1	14-JAN-2020	542	Spain	secondary	rbcL	39.3260685	-4.8379791	0.0011070110701107
+Scandix_pecten-veneris	MG221967.1	26-DEC-2017	553	Canada: British Columbia, Kootenay Lake	secondary	rbcL	49.7176774	-116.8854784	0.00109967103287669
+Scandix_pecten-veneris	KP974259.1	08-SEP-2015	1377	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00109967103287669

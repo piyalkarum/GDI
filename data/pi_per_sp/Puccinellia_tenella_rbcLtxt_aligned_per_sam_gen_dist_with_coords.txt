@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_tenella	MG227480.1	23-JAN-2018	553	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	rbcL	69.619	-140.767	0.000301659372242751
+Puccinellia_tenella	MG226960.1	23-JAN-2018	553	USA: Alaska, Adak Island, Aleutian Chain, edge of Clam Lagoon, North end of island	primary	rbcL	51.917	-176.75	0.00166875824695649
+Puccinellia_tenella	MG226629.1	23-JAN-2018	553	Canada: Quebec, Nunavik. In the back of the fjord West of the point De Meulles	primary	rbcL	61.127	-71.039	0.000301659372242751
+Puccinellia_tenella	KC483789.1	25-OCT-2013	522	Canada: Northwest Territories, Victoria Island, Minto Inlet, Sandy bank of Kuujjua River south Fish lake, 17 km SE of Minto Inlet	primary	rbcL	71.313	-116.916	0.000319284802043423
+Puccinellia_tenella	KC483788.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island (Northwest Territories), Sachs Harbour	primary	rbcL	72	-125	0.000301932367149758
+Puccinellia_tenella	KC483787.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.857	-67.354	0.000301932367149758
+Puccinellia_tenella	KC483786.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, At the Bay Beach	primary	rbcL	63.733	-68.45	0.000301932367149758
+Puccinellia_tenella	KC483785.1	25-OCT-2013	552	Canada: Nunavut	primary	rbcL	61.819	-65.71	0.000301932367149758
+Puccinellia_tenella	KC483784.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Boot Inlet, Shoreline at NE corner of Boot Inlet	primary	rbcL	71.489	-117.427	0.000301932367149758
+Puccinellia_tenella	KC483783.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, Coast on S side of river delta at head of N arm of Minto Inlet	primary	rbcL	71.631	-115.476	0.000301932367149758
+Puccinellia_tenella	KC483782.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Murray Point	primary	rbcL	68.68	-110.37	0.000301932367149758
+Puccinellia_tenella	KC483781.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point vicinity. Low rocky hills at coast	primary	rbcL	68.61	-113.14	0.000301932367149758
+Puccinellia_tenella	JN965784.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality, High tidal marsh. Very wet, shallow.	primary	rbcL	58.733	-93.783	0.0016693042367705

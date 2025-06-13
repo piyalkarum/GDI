@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Papaver_lapponicum	MG247767.1	21-JAN-2018	552	Canada: Yukon Territory, Mount Conybeare	primary	rbcL	69.465	-140.074	0.000301932367149758
+Papaver_lapponicum	MG247730.1	21-JAN-2018	553	Canada: Northwest Territories, Ellesmere Island, Alexandra Fjord	primary	rbcL	78.883	-75.833	0.000301932367149758
+Papaver_lapponicum	MG246469.1	21-JAN-2018	552	Canada: Yukon Territory, Shingle Point area, DEW Line Station DEWLAND	primary	rbcL	68.939	-137.242	0.000301932367149758
+Papaver_lapponicum	MG246161.1	21-JAN-2018	553	Canada: Northwest Territories, Devon Island, Truelove Lowland	primary	rbcL	75.55	-84.667	0.000301932367149758
+Papaver_lapponicum	KC483305.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Back slope of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.514	-116.439	0.00181159420289855
+Papaver_lapponicum	KC483304.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Boot Inlet, Large hill on W side of small round lake (~1 km diameter, ca. 4 km N of Boot Inlet)	primary	rbcL	71.579	-117.494	0.000301932367149758
+Papaver_lapponicum	KC483303.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve. Head of Tanquary Fiord Quad., No Name Cr	primary	rbcL	81.417	-76.917	0.000301932367149758

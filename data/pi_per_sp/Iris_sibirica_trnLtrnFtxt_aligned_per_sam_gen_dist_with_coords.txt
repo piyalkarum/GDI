@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_sibirica	LT984482.1	31-MAR-2018	861	United Kingdom:Cambridge, cult.,Cambridge University Botanic Garden	secondary	trnL-trnF	52.2055314	0.1186637	0.000193573364305072
+Iris_sibirica	LT984481.1	31-MAR-2018	861	Mongolia:Khentii, Binder	secondary	trnL-trnF	48.6163764	110.6062847	0.000193573364305072
+Iris_sibirica	LT984480.1	31-MAR-2018	861	Mongolia:Dornod, Bayan-Uul	secondary	trnL-trnF	49.1208848	112.6726952	0.000193573364305072
+Iris_sibirica	LT984469.1	31-MAR-2018	862	Austria:Lower Austria, Stillfried	secondary	trnL-trnF	48.4101398	16.8431396	0.000193573364305072
+Iris_sibirica	LT984468.1	31-MAR-2018	862	Georgia:Javakheti, Borjomi, Bakuriani Botanical Garden	secondary	trnL-trnF	41.3296333805173	44.1534613109338	0.000193573364305072
+Iris_sibirica	LT984466.1	31-MAR-2018	861	Russia:Moscow, Setun River valley	secondary	trnL-trnF	55.7505412	37.6174782	0.000193573364305072
+Iris_sibirica	LT984465.1	31-MAR-2018	862	United Kingdom:Hertfordshire, St. Albans, cult.	secondary	trnL-trnF	51.8400523	-0.0985651674151207	0.000193573364305072
+Iris_sibirica	LT984463.1	31-MAR-2018	862	Russia:Pskov Oblast, Sebezhsky District	secondary	trnL-trnF	56.2456435	28.6897672	0.000193573364305072
+Iris_sibirica	LT984461.1	31-MAR-2018	862	Russia:Kurgan Oblast, Pritobolny District	secondary	trnL-trnF	54.8785076	65.2930222	0.000193573364305072
+Iris_sibirica	LT984459.1	31-MAR-2018	861	Russia:Primorsky Krai, Vladivostok	secondary	trnL-trnF	43.1150678	131.8855768	0.00103239127629372
+Iris_sibirica	LT984458.1	31-MAR-2018	861	Russia:Primorsky Krai, Romanovka	secondary	trnL-trnF	43.2353637	132.4574767	0.00103239127629372
+Iris_sibirica	LT984457.1	31-MAR-2018	861	Russia:Primorsky Krai, Pokrovka	secondary	trnL-trnF	43.9524657	131.6329635	0.00103239127629372
+Iris_sibirica	LT984455.1	31-MAR-2018	861	Russia:Primorsky Krai, Khankaysky District	secondary	trnL-trnF	44.9424147	131.8270851	0.000193573364305072
+Iris_sibirica	LT984453.1	31-MAR-2018	862	Armenia:Lori Province, Saratovka	secondary	trnL-trnF	41.076799	44.3096631	0.000193573364305072
+Iris_sibirica	LT984451.1	31-MAR-2018	862	Georgia:Javakheti, Ninotsminda district, Lake Paravani shore	secondary	trnL-trnF	41.0617380455568	43.8383638276255	0.000193573364305072
+Iris_sibirica	LT628007.1	18-OCT-2016	862	Armenia:Shirak Province, Zorakert	secondary	trnL-trnF	41.0909828	43.6602243	0.000193573364305072
+Iris_sibirica	LT628006.1	18-OCT-2016	861	Russia:Primorsky Krai, Orlovka	secondary	trnL-trnF	43.9286898	132.8104629	0.000193573364305072
+Iris_sibirica	LT628005.1	18-OCT-2016	861	Mongolia	secondary	trnL-trnF	43.9382593	-79.2235563	0.000193573364305072
+Iris_sibirica	LT984454.1	31-MAR-2018	862	Russia	secondary	trnL-trnF	43.4410989	41.7436988	0.000193573364305072

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fallopia_convolvulus	MG220794.1	21-JAN-2018	590	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	matK	43.274	-79.899	0.00360169491525424
+Fallopia_convolvulus	JN894421.1	07-MAR-2012	768	United Kingdom: Glamorgan	primary	matK	51.51	-3.24	0.0039187309865276
+Fallopia_convolvulus	JN893898.1	07-MAR-2012	797	United Kingdom: Cornwall, West with Scilly (1)	primary	matK	50.39	-5.11	0.00355985653091399
+Fallopia_convolvulus	ON586882.1	06-JUN-2023	1138	United Kingdom: England, Leicestershire, Leicester	secondary	matK	52.6362	-1.1331969	0.00368531258302222
+Fallopia_convolvulus	MT918082.1	03-MAR-2023	777	China	secondary	matK	34.3748393994664	104.517283034662	0.0253137531704627
+Fallopia_convolvulus	MT918075.1	03-MAR-2023	780	China	secondary	matK	34.483006970069	105.23731117572	0.00542414105840304
+Fallopia_convolvulus	KJ204479.1	29-JAN-2015	833	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00533582525427899
+Fallopia_convolvulus	HM851071.1	23-JUL-2011	769	Portugal	secondary	matK	39.6621648	-8.1353519	0.0038770972324306
+Fallopia_convolvulus	JN894168.1	07-MAR-2012	758	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00363553495063008

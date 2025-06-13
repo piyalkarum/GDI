@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Parapholis_incurva	JN896017.1	07-MAR-2012	1015	United Kingdom: Carmarthenshire	primary	matK	51.69	-4.2	0.0103808090214476
+Parapholis_incurva	ON757564.1	26-AUG-2023	1630	Australia	secondary	matK	-24.1530004783991	134.121552003361	0.00939463828721411
+Parapholis_incurva	ON757156.1	26-AUG-2023	1256	Australia	secondary	matK	-23.8807619586179	134.845759159239	0.00939463828721411
+Parapholis_incurva	LR606942.1	25-JAN-2021	2066	Greece	secondary	matK	43.2097838	-77.6930602	0.00951995157042213
+Parapholis_incurva	KJ529364.1	22-FEB-2015	891	Spain	secondary	matK	39.3260685	-4.8379791	0.011091141793918
+Parapholis_incurva	KJ599281.1	21-SEP-2014	769	Australia: South Australia	secondary	matK	-30.5343665	135.6301212	0.0515844592950077
+Parapholis_incurva	HQ600041.1	02-AUG-2011	1330	South Korea	secondary	matK	36.638392	127.6961188	0.00953286450062774

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Circaea_alpina	KJ592899.1	17-MAR-2015	694	USA: Wisconsin, Laona	primary	matK	45.557	-88.792	0.00485131754633157
+Circaea_alpina	KJ592898.1	17-MAR-2015	607	USA: Wisconsin, Florence	primary	matK	45.918	-88.465	0.00549148819330038
+Circaea_alpina	LC628099.1	28-OCT-2021	1093	Japan:Hokkaido, Shikaoicho	secondary	matK	43.4603175	143.330715792837	0.0113394356483659
+Circaea_alpina	MN339996.1	30-SEP-2021	834	China	secondary	matK	34.630107614603	105.59979028296	0.0166683138635574
+Circaea_alpina	MK926001.1	14-JAN-2020	860	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00548068777680124
+Circaea_alpina	MH116584.1	17-AUG-2018	716	China	secondary	matK	35.6557624878426	105.616167970783	0.00634012540829244
+Circaea_alpina	MH116583.1	17-AUG-2018	716	China	secondary	matK	34.604774559439	104.62096810846	0.0136546208748069

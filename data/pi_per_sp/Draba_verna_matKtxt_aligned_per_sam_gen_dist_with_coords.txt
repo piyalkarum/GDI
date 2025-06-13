@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_verna	KX677177.1	09-AUG-2017	796	Canada: British Columbia, Vancouver Island, Capital Regional District, Saanich Peninsula, Island View Beach	primary	matK	48.585	-123.372	0.00541020989320544
+Draba_verna	KX676937.1	09-AUG-2017	704	Canada: British Columbia, Greater Vancouver Regional District, Burnaby Lake Regional Park	primary	matK	49.248	-122.919	0.0083750909884718
+Draba_verna	KX676855.1	09-AUG-2017	796	Canada: British Columbia, Okanagan-Similkameen Regional District, Chute Lake Road, near Naramata	primary	matK	49.692	-119.536	0.00541020989320544
+Draba_verna	MG221139.1	21-JAN-2018	670	Canada: Ontario, Wellington County, City of Guelph, University of Guelph, Animal Science Building Patio	primary	matK	43.528	-80.227	0.00760912973593914
+Draba_verna	MG220674.1	21-JAN-2018	766	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, North Campground, Locust Section, Campsite #193	primary	matK	42.321	-81.843	0.00576874278972937
+Draba_verna	MG220608.1	21-JAN-2018	766	Canada: Ontario, Norfolk County, Norfolk Township, Lee Brown Waterfowl Management Area parking lot	primary	matK	42.591	-80.501	0.00577125503401603
+Draba_verna	JN894944.1	07-MAR-2012	768	United Kingdom: Monmouthshire	primary	matK	51.66	-2.69	0.00553934029825019
+Draba_verna	JN894943.1	07-MAR-2012	823	United Kingdom: Carmarthenshire	primary	matK	51.86	-3.93	0.0106162305670028
+Draba_verna	JN894942.1	07-MAR-2012	550	United Kingdom: Carmarthenshire	primary	matK	51.69	-4.17	0.00532467532467532
+Draba_verna	HQ619804.1	26-DEC-2010	822	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.00801569897205501
+Draba_verna	JN894529.1	07-MAR-2012	793	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0058242708941584
+Draba_verna	JN894353.1	07-MAR-2012	769	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00586061538605945
+Draba_verna	JN893986.1	07-MAR-2012	690	United Kingdom: Carmarthenshire	secondary	matK	52.2687760791868	-5.1787866584966	0.0112954233950127
+Draba_verna	JN893984.1	07-MAR-2012	789	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00579892445498796
+Draba_verna	JN893983.1	07-MAR-2012	778	United Kingdom: Carmarthenshire	secondary	matK	51.200224739257	-4.39044153062455	0.00612858480413452

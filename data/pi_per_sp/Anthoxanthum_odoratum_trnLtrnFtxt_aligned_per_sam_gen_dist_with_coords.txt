@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthoxanthum_odoratum	KX872629.1	16-OCT-2017	856	Canada: British Columbia, West Vancouver, Marine Drive, 100 m E of Gleneagles Drive	primary	trnL-trnF	49.3578	-123.2786	0.00298303729453974
+Anthoxanthum_odoratum	KX872628.1	16-OCT-2017	942	Canada: British Columbia, 3.2 km W of Gray Creek along Hwy. 3A	primary	trnL-trnF	49.6303	-116.7883	0.0027573204201831
+Anthoxanthum_odoratum	KC897747.1	07-MAY-2014	864	Czech Republic	secondary	trnL-trnF	50.0443024807072	14.1000109089774	0.00160696329813977
+Anthoxanthum_odoratum	KC897746.1	07-MAY-2014	864	Czech Republic	secondary	trnL-trnF	50.2045330232304	15.1570401530058	0.00160696329813977
+Anthoxanthum_odoratum	KC897745.1	07-MAY-2014	864	Czech Republic	secondary	trnL-trnF	49.314405139942	16.0195321926003	0.00160696329813977
+Anthoxanthum_odoratum	KC897737.1	07-MAY-2014	870	Spain: Galicia	secondary	trnL-trnF	42.6758181548948	-9.06999448120634	0.0050682302906997
+Anthoxanthum_odoratum	KC897736.1	07-MAY-2014	870	Spain: Galicia	secondary	trnL-trnF	43.1783776988738	-7.00621544935817	0.0027573204201831
+Anthoxanthum_odoratum	KC897735.1	07-MAY-2014	864	Spain: Aragon	secondary	trnL-trnF	41.2029973870493	-1.75366170650593	0.00267680576504106
+Anthoxanthum_odoratum	KC897733.1	07-MAY-2014	864	Ireland	secondary	trnL-trnF	53.1988785273566	-6.89143299220149	0.0019616222557399
+Anthoxanthum_odoratum	KC897732.1	07-MAY-2014	864	France	secondary	trnL-trnF	46.603354	1.8883335	0.00160696329813977
+Anthoxanthum_odoratum	KC897730.1	07-MAY-2014	864	Sweden	secondary	trnL-trnF	44.133435	-70.822678	0.00160696329813977
+Anthoxanthum_odoratum	KC897729.1	07-MAY-2014	868	Spain: Aragon	secondary	trnL-trnF	41.6341275637896	0.00433278349640542	0.00302612389471194
+Anthoxanthum_odoratum	KC897728.1	07-MAY-2014	864	Ireland	secondary	trnL-trnF	53.3013529295921	-7.61355859220172	0.00303146472264119
+Anthoxanthum_odoratum	KC897727.1	07-MAY-2014	864	Ireland	secondary	trnL-trnF	53.1000463203525	-8.84006756038167	0.0019616222557399

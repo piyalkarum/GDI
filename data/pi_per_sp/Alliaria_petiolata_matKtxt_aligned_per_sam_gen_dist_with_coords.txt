@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alliaria_petiolata	OR464954.1	26-SEP-2023	835	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.28796604	-85.62082532	0.000965955602832719
+Alliaria_petiolata	KX676748.1	09-AUG-2017	796	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, NE corner of W. 16th Ave. & SW Marine Dr.	primary	matK	49.253	-123.246	0.000797179028543298
+Alliaria_petiolata	KP643096.1	08-DEC-2015	727	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	39.1464377873728	-78.4940903371346	0.00207845591325667
+Alliaria_petiolata	KP643030.1	08-DEC-2015	742	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.5180089441455	-78.2484360692987	0.00216695184521125
+Alliaria_petiolata	KP642950.1	08-DEC-2015	742	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	39.1769255751511	-77.7156033382634	0.00091288776214797
+Alliaria_petiolata	HQ593161.1	09-NOV-2011	767	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., N side of driveway to Dufferin, W of flower bed	primary	matK	44.036	-79.518	0.00100658408082703
+Alliaria_petiolata	KP402363.1	06-JAN-2016	705	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, Cumberstone Rd. - on left side of road near gate before going down the hill to the CO2 site	primary	matK	38.87	-76.551	0.00342789598108747
+Alliaria_petiolata	JN895370.1	07-MAR-2012	755	United Kingdom: Carmarthenshire	primary	matK	51.85	-4.14	0.00101584492698716
+Alliaria_petiolata	JN895339.1	07-MAR-2012	758	United Kingdom: Carmarthenshire	primary	matK	51.88	-3.98	0.00101303418454469
+Alliaria_petiolata	JN894035.1	07-MAR-2012	755	United Kingdom: Glamorgan	primary	matK	51.51	-3.21	0.00101584492698716
+Alliaria_petiolata	MG437274.1	01-OCT-2018	836	Pakistan	secondary	matK	30.3308401	71.247499	0.00578242367886843
+Alliaria_petiolata	KJ592838.1	17-MAR-2015	716	USA: Wisconsin, Saukville	secondary	matK	43.3816691	-87.9406454	0.000818669319623725
+Alliaria_petiolata	JN894819.1	07-MAR-2012	728	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000809383366395239

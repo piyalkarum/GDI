@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Melica_nutans	JN892940.1	07-MAR-2012	490	United Kingdom: Radnorshire	primary	rbcL	52.4	-3.34	0
+Melica_nutans	MT931817.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.000439367311072056
+Melica_nutans	HQ600444.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.000439367311072056
+Melica_nutans	JN893757.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9875065	-1.1773256	0
+Melica_nutans	JN893063.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0

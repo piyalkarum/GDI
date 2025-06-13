@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eragrostis_japonica	MF998413.1	09-DEC-2017	1353	Madagascar	secondary	rbcL	-18.9249604	46.4416422	0.00746303574770728
+Eragrostis_japonica	KP711259.1	31-MAR-2016	1096	China	secondary	rbcL	35.000074	104.999927	0.0111674708235391
+Eragrostis_japonica	KM538829.1	20-JUN-2015	743	South Korea	secondary	rbcL	36.638392	127.6961188	0.00998478922207736
+Eragrostis_japonica	KP056857.1	28-FEB-2015	1096	South Korea: Jeju, Jeju-si, Hangyeong-myeon, Yongsu-ri, Yongdammos	secondary	rbcL	33.4930566	126.5130589	0.00595282279681636

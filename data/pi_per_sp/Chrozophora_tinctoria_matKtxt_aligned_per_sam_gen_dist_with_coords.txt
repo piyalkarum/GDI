@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chrozophora_tinctoria	MK125097.1	03-FEB-2019	745	Saudi Arabia: Makkah	secondary	matK	21.420847	39.826869	0.173921942962861
+Chrozophora_tinctoria	LK021405.1	04-JAN-2016	2482	Greece	secondary	matK	42.4071585058372	-77.7031271457826	0.0603011372872732
+Chrozophora_tinctoria	LK021404.1	04-JAN-2016	1871	Greece	secondary	matK	43.1573977582491	-77.7675368914527	0.0594266232992411
+Chrozophora_tinctoria	KM273036.1	08-OCT-2014	867	Pakistan	secondary	matK	30.3308401	71.247499	0.0619622496900736

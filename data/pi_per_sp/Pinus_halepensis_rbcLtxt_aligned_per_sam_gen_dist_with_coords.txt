@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_halepensis	FR831907.1	25-MAR-2011	701	Greece:Corfu	secondary	rbcL	39.591337	19.8596189	0.000356633380884451
+Pinus_halepensis	FR831906.1	25-MAR-2011	701	Greece:Crete	secondary	rbcL	35.3084952	24.4633423	0.000356633380884451
+Pinus_halepensis	FR831905.1	25-MAR-2011	701	Italy:Umbria	secondary	rbcL	42.965916	12.490236	0.000356633380884451
+Pinus_halepensis	FR831904.1	25-MAR-2011	701	Italy:Sardinia	secondary	rbcL	40.0912813	9.0305773	0.000356633380884451
+Pinus_halepensis	FN689375.1	19-MAR-2010	743	Italy:Apulia	secondary	rbcL	40.9842539	16.6210027	0.0014265335235378

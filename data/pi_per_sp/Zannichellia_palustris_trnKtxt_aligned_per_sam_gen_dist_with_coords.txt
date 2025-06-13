@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Zannichellia_palustris	AB818880.1	15-APR-2014	2553	Japan:Akita prefecture, Ogata-mura	secondary	trnK	39.8640276800887	140.563166925555	0.000130565347956652
+Zannichellia_palustris	AB818879.1	15-APR-2014	2571	Japan:Akita prefecture, Ogata-mura	secondary	trnK	40.2585154761027	139.344013032267	0.000130565347956652
+Zannichellia_palustris	AB818878.1	15-APR-2014	2571	Japan:Akita prefecture, Ogata-mura	secondary	trnK	39.6277703146336	140.737687365946	0.000130565347956652
+Zannichellia_palustris	AB818877.1	15-APR-2014	2553	Japan:Akita prefecture, Ogata-mura	secondary	trnK	40.2599153952412	138.883177591452	0.000391696043869957

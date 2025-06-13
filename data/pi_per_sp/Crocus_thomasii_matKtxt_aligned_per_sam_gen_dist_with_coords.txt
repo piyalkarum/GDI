@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_thomasii	LS398340.1	01-SEP-2018	621	Italy	secondary	matK	42.0905468321888	12.0512203352821	0
+Crocus_thomasii	LS398339.1	01-SEP-2018	621	Italy	secondary	matK	43.1316260595292	12.2303626281456	0
+Crocus_thomasii	LS398338.1	01-SEP-2018	621	Italy	secondary	matK	42.725130808999	11.5756073334202	0
+Crocus_thomasii	LS398337.1	01-SEP-2018	621	Italy	secondary	matK	41.9854139540536	12.1905279192893	0
+Crocus_thomasii	LS398336.1	01-SEP-2018	621	Croatia	secondary	matK	45.3658443	15.6575209	0

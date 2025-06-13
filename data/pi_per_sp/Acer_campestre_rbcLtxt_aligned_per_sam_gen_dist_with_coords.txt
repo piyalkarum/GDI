@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Acer_campestre	MG246045.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Delhi Township, Charlotteville Road #1, just west of Turkey Point Road (Road #10)	primary	rbcL	42.8526	-80.4991	0
+Acer_campestre	KX781743.1	25-AUG-2017	347	Switzerland: Geneva, College Rousseau, Chemin Buisson 2-10	primary	rbcL	46.2176	6.1231	0
+Acer_campestre	JN890783.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0
+Acer_campestre	OP222059.1	11-APR-2023	599	China	secondary	rbcL	35.0588960105051	105.074428415407	0.00248135696676471
+Acer_campestre	OP222058.1	11-APR-2023	599	China	secondary	rbcL	35.5338160171794	105.397926359666	0.00248135696676471
+Acer_campestre	KX162874.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.38156080785	-2.99373749997839	0.000633755435383778
+Acer_campestre	KX162873.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.5546044178891	-3.1080214112227	0.000633755435383778
+Acer_campestre	KX162872.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.1530534585735	-3.18808851964261	0.000633755435383778
+Acer_campestre	KX162871.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.4930842478781	-2.59978997308816	0.000633755435383778
+Acer_campestre	KX162870.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.362477125245	-2.26680841460582	0.000633755435383778
+Acer_campestre	KX162869.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.0574807966895	-2.34530596813739	0.000633755435383778
+Acer_campestre	KX162868.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	53.8986562943101	-3.5282506967229	0.000633755435383778
+Acer_campestre	KX162867.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	55.2285910714174	-3.31241750882542	0.000633755435383778
+Acer_campestre	KX162866.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.5067173739578	-2.23725123496482	0.000633755435383778
+Acer_campestre	KX162865.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.6572352979423	-4.35166160594894	0.000633755435383778
+Acer_campestre	JN892112.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.1199577925207	-2.94625050903855	0
+Acer_campestre	JN892105.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.9932790466028	-3.8212307899663	0
+Acer_campestre	FN689361.1	19-MAR-2010	670	Italy:Latium	secondary	rbcL	41.9808038	12.7662312	0.00255327506628695

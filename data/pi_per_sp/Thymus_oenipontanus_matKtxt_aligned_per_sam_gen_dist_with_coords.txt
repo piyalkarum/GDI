@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_oenipontanus	HE819436.1	22-MAY-2013	789	Italy:Abruzzo	primary	matK	42.65	13.77	0.00337980566117448
+Thymus_oenipontanus	HE819435.1	22-MAY-2013	789	Italy:Toscana	primary	matK	43.65	12.06	0.00675961132234896
+Thymus_oenipontanus	HE819434.1	22-MAY-2013	789	Italy:Abruzzo	primary	matK	42.42	13.54	0.0042247570764681
+Thymus_oenipontanus	HE819433.1	22-MAY-2013	789	Italy:Lombardia	primary	matK	45.55	10.26	0.0042247570764681

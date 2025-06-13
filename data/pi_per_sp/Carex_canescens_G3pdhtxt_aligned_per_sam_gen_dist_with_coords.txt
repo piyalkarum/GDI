@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_canescens	KP979972.1	21-SEP-2015	206	Canada	secondary	G3pdh	46.8255509258699	-70.9131973720403	0
+Carex_canescens	KP979967.1	21-SEP-2015	206	USA	secondary	G3pdh	35.5903318	-88.0583569	0
+Carex_canescens	KP979948.1	21-SEP-2015	206	Chile	secondary	G3pdh	-37.6896532	-71.9721437	0
+Carex_canescens	KP979947.1	21-SEP-2015	206	Canada	secondary	G3pdh	47.2456266398511	-72.3237289871465	0
+Carex_canescens	KP979933.1	21-SEP-2015	206	Argentina	secondary	G3pdh	-53.8904638	-68.348598	0
+Carex_canescens	KP979921.1	21-SEP-2015	206	Russia	secondary	G3pdh	50.15947595	143.026441186009	0
+Carex_canescens	KP979855.1	21-SEP-2015	206	Australia	secondary	G3pdh	-28.82345785	153.299685955468	0
+Carex_canescens	KP979816.1	21-SEP-2015	206	Canada	secondary	G3pdh	46.5036807	-63.5954109689673	0

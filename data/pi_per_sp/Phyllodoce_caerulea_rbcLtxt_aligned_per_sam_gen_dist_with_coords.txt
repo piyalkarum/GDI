@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phyllodoce_caerulea	MZ359350.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Phyllodoce_caerulea	MG224580.1	26-DEC-2017	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Top of Mt. Irony, 30 m on right of E800I9.	primary	rbcL	54.9903	-69.0425	0
+Phyllodoce_caerulea	MG223876.1	26-DEC-2017	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, End of path to Sunny Mt., beside the pond	primary	rbcL	55.1138	-67.2965	0
+Phyllodoce_caerulea	KC483434.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. In the vicinity of the fresh water lake in lowlands 1 km W of Kihlbay	primary	rbcL	56.472	-79.042	0
+Phyllodoce_caerulea	KC483433.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Run-off stream between Apex and Iqaluit	primary	rbcL	63.7383	-68.4819	0
+Phyllodoce_caerulea	KC483432.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour. Inner basin	primary	rbcL	62.8367	-67.3578	0
+Phyllodoce_caerulea	KC483431.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Hillside near tundra valley	primary	rbcL	63.7333	-68.4667	0
+Phyllodoce_caerulea	MK925556.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6760386718778	-3.88602309546037	0
+Phyllodoce_caerulea	MK925392.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3261180606928	-2.72521262221729	0
+Phyllodoce_caerulea	MK925104.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9743555432427	-3.58893083661178	0
+Phyllodoce_caerulea	MK925070.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0828776989484	-2.29658610303124	0
+Phyllodoce_caerulea	MK924973.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.433833462852	-3.94256266637263	0
+Phyllodoce_caerulea	MK924950.1	14-JAN-2020	542	Norway	secondary	rbcL	64.5731537	11.5280364	0
+Phyllodoce_caerulea	MK924925.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4349389402936	-2.92776053870441	0
+Phyllodoce_caerulea	MK924502.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2315836867351	-2.63751461479216	0
+Phyllodoce_caerulea	MK924493.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2517489006156	-3.33619556927654	0
+Phyllodoce_caerulea	AB842057.1	03-JUL-2014	1336	Japan:Hokkaido, Youteisan	secondary	rbcL	43.4603175	143.330715792837	0

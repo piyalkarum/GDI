@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_acuta	JN891229.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.75	-4.27	0.0016020605750612
+Carex_acuta	MW010970.1	27-JUL-2021	404	Finland	secondary	rbcL	63.2467777	25.9209164	0.00403352835283528
+Carex_acuta	MW010969.1	27-JUL-2021	482	Poland	secondary	rbcL	52.215933	19.134422	0.00181299509619012
+Carex_acuta	MW010897.1	27-JUL-2021	553	Hungary	secondary	rbcL	41.9767629	-72.7789842	0.00654604450814238
+Carex_acuta	JN892450.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.0016020605750612
+Carex_acuta	JN892446.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9875065	-1.1773256	0.0016020605750612

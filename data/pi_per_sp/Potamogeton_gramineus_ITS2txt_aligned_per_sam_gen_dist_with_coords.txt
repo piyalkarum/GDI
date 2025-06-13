@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_gramineus	LC349932.1	02-JUL-2020	688	Japan: Fukushima	secondary	ITS2	37.75454	140.4592144	0
+Potamogeton_gramineus	LC316764.1	21-AUG-2018	620	Japan:Aomori, Tsugaru	secondary	ITS2	40.8087605	140.3803311	0
+Potamogeton_gramineus	AB491756.1	13-APR-2012	694	Japan:Fukui, Fukui	secondary	ITS2	36.7429913110238	136.830094297925	0
+Potamogeton_gramineus	AB491755.1	13-APR-2012	694	Japan:Fukui, Fukui	secondary	ITS2	36.3655271255536	136.898293053094	0
+Potamogeton_gramineus	AB491754.1	13-APR-2012	694	Japan:Fukui, Fukui	secondary	ITS2	36.5963188970534	136.08052617036	0
+Potamogeton_gramineus	AB491753.1	13-APR-2012	694	Japan:Fukui, Fukui	secondary	ITS2	35.820359961508	136.85230319061	0

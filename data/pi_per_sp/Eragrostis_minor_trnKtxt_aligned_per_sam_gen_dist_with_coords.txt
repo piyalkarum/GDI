@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eragrostis_minor	LN906704.1	04-JAN-2016	1826	Madagascar:Toliara, Itampolo	primary	trnK	-24.2226	43.6857	0.563225543178062
+Eragrostis_minor	MK872734.1	25-MAY-2020	684	Australia	secondary	trnK	-24.7761086	134.755	0.187344294967613
+Eragrostis_minor	MK872733.1	25-MAY-2020	684	Slovakia	secondary	trnK	48.7411522	19.4528646	0.187344294967613
+Eragrostis_minor	GU360527.1	01-MAY-2010	678	USA	secondary	trnK	39.7837304	-100.445882	0.188536953242836

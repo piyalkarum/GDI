@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_kaliformis	KX958753.1	02-NOV-2017	835	Spain: Castellon, Cabanes	primary	rps16	40.4783608599696	1.28907675989176	0
+Odontites_kaliformis	KX958752.1	02-NOV-2017	835	Spain: Castellon, Cabanes	primary	rps16	39.7967305255272	0.781973474394503	0
+Odontites_kaliformis	KX958751.1	02-NOV-2017	835	Spain: Valencia, Sagunto	primary	rps16	39.3019862982677	0.411170471538249	0
+Odontites_kaliformis	KX958750.1	02-NOV-2017	827	Spain: Valencia, Sagunto	primary	rps16	39.9916596633948	-0.369334997008072	0

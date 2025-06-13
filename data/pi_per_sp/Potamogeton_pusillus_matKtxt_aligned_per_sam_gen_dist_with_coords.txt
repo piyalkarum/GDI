@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_pusillus	JN896146.1	07-MAR-2012	778	United Kingdom: Glamorgan (41)	primary	matK	51.49	-3.27	0.00576348047440963
+Potamogeton_pusillus	JN894666.1	07-MAR-2012	820	United Kingdom: Monmouthshire	primary	matK	51.58	-2.85	0.00507213804480012
+Potamogeton_pusillus	OK001653.1	02-NOV-2021	970	India: J&K,Srinagar	secondary	matK	28.5424922	77.2029544	0.0107695199369809
+Potamogeton_pusillus	HM851049.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00561535509130783
+Potamogeton_pusillus	JN896110.1	07-MAR-2012	799	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00473619917386953
+Potamogeton_pusillus	JF955637.1	13-DEC-2011	735	China: Guizhou	secondary	matK	26.9655958477364	106.893724763594	0.00272730948803847
+Potamogeton_pusillus	JF955636.1	13-DEC-2011	735	China: Hebei	secondary	matK	39.0000001	116	0.00574865605156791
+Potamogeton_pusillus	JF955635.1	13-DEC-2011	735	China: Neimenggu	secondary	matK	43.2443242	114.3251664	0.00272730948803847
+Potamogeton_pusillus	JF955634.1	13-DEC-2011	735	China: Guizhou	secondary	matK	26.3570579396845	106.840462333199	0.00272730948803847
+Potamogeton_pusillus	JF955633.1	13-DEC-2011	735	China: Yunnan	secondary	matK	25	102	0.00272730948803847

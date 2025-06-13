@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chenopodium_opulifolium	KR737507.1	13-MAY-2016	553	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.390571054022421	36.980760261557	0
+Chenopodium_opulifolium	KR737356.1	13-MAY-2016	553	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	1.1017162861464	37.2118495775594	0
+Chenopodium_opulifolium	MG248036.1	21-JAN-2018	552	Canada: Ontario, Sandwich.	secondary	rbcL	42.2240218	-83.0579161	0
+Chenopodium_opulifolium	MG247841.1	21-JAN-2018	552	Canada: Ontario, Ottawa	secondary	rbcL	45.4208777	-75.6901106	0
+Chenopodium_opulifolium	MG247430.1	21-JAN-2018	552	Canada: Ontario, Toronto	secondary	rbcL	43.6534817	-79.3839347	0
+Chenopodium_opulifolium	MG247056.1	21-JAN-2018	552	Canada: Ontario, Minto Bridge, Ottawa	secondary	rbcL	43.72634945	-77.7101179040839	0

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dryopteris_fragrans	MG215183.1	24-JAN-2018	419	Canada: Yukon Territory, Beaver River, Lower	primary	rbcL	60.033	-124.528	0.0718142452111015
+Dryopteris_fragrans	KC482662.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.844	-67.324	0.0107460333931227
+Dryopteris_fragrans	KC482661.1	25-OCT-2013	443	Canada: Nunavut, West Hudson Bay, '50 mile hill', 5 km N of Hyde Lake, 35 km from HB coast	primary	rbcL	60.66	-95.22	0.0109834574306796
+Dryopteris_fragrans	KC482660.1	25-OCT-2013	552	Canada: Nunavut, Mainland Nunavut, Rankin Inlet, NE shore Melvin Bay below town dump, Rankin Inlet	primary	rbcL	62.8	-92.083	0.0107460333931227
+Dryopteris_fragrans	KC482659.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	68.719	-110.783	0.0107460333931227
+Dryopteris_fragrans	MW524049.1	21-JUN-2022	1428	China	secondary	rbcL	35.000074	104.999927	0.0121165316420524
+Dryopteris_fragrans	AB575129.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.0109059844231921
+Dryopteris_fragrans	JQ935274.1	28-MAY-2012	1264	USA	secondary	rbcL	39.7837304	-100.445882	0.0111843706430625

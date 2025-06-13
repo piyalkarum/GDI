@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juniperus_communis	LT627827.1	18-OCT-2016	1523	Russia:Amur Oblast, Selemdzhinsky District, Ekimchan	secondary	trnS-trnG	53.068481	132.940369	0.00028735632183908
+Juniperus_communis	LT627826.1	18-OCT-2016	1523	Russia:Kamchatka Peninsula, Esso	secondary	trnS-trnG	55.8680319	158.802531158524	0.00028735632183908
+Juniperus_communis	HM024645.1	28-SEP-2010	736	China: Xizang	secondary	trnS-trnG	29.8556443	90.8749807	0.000271739130434783
+Juniperus_communis	HM024644.1	28-SEP-2010	697	USA: New Mexico	secondary	trnS-trnG	34.5802074	-105.996047	0.000286944045911047
+Juniperus_communis	HM024643.1	28-SEP-2010	697	France	secondary	trnS-trnG	46.603354	1.8883335	0.000286944045911047
+Juniperus_communis	HM024703.1	28-SEP-2010	736	Pakistan	secondary	trnS-trnG	30.3308401	71.247499	0.00142033986593504

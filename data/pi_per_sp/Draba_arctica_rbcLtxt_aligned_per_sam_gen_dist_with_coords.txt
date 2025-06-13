@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Draba_arctica	KT960702.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.6590579245621	-23.180294458557	0
+Draba_arctica	KT960392.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.2772147186674	-22.470370927085	0
+Draba_arctica	KC482546.1	25-OCT-2013	522	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Rocky ledges above fresh lake in lowlands 1 km W of Kihlbay	primary	rbcL	56.472	-79.042	0
+Draba_arctica	KC482545.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	rbcL	74.5333	-82.7833	0
+Draba_arctica	KC482544.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Vendom Fiord, River bed near the head of the fiord	primary	rbcL	78.0667	-82.8	0

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_racemosus	MF596647.1	28-FEB-2018	603	Canada: British Columbia, 10 km W of Princeton on Hwy. 3. Ponderosa pine upper steppe roadside grassland. Edge of road with Artemesia tridentata.	primary	rbcL	48.8472483462485	-120.976484492453	0
+Bromus_racemosus	MF596646.1	28-FEB-2018	603	Canada: British Columbia, ~2 km N of Garnet Lake, 14.6 km N on Garnet Valley Road from Hwy. 97 at Summerland. Open woods with Pinus ponderosa, Rosa, and Populus.	primary	rbcL	50.5174391515283	-119.891138884018	0
+Bromus_racemosus	MF596645.1	28-FEB-2018	603	Canada: British Columbia, Rocky Mountain Forest District, along Hwy. 3 1.5 km E of Elko. Rocky mountain slope with Populus, Amelanchier.	primary	rbcL	49.3046076787823	-116.100222568211	0
+Bromus_racemosus	MG228150.1	23-JAN-2018	603	Canada: British Columbia, ~2 km N of Garnet Lake, 14.6 km N on Garnet Valley Road from Hwy. 97 at Summerland. Open woods with Pinus ponderosa, Rosa, and Populus.	primary	rbcL	49.6451208930502	-119.388785027009	0
+Bromus_racemosus	MG227725.1	23-JAN-2018	603	Canada: British Columbia, 10 km W of Princeton on Hwy. 3. Ponderosa pine upper steppe roadside grassland. Edge of road with Artemesia tridentata.	primary	rbcL	49.0868870907241	-121.629596543675	0
+Bromus_racemosus	MG226746.1	23-JAN-2018	603	Canada: British Columbia, Rocky Mountain Forest District, along Hwy. 3 1.5 km E of Elko. Rocky mountain slope with Populus, Amelanchier.	primary	rbcL	49.253676631484	-115.056827094236	0
+Bromus_racemosus	JN890975.1	07-MAR-2012	533	United Kingdom: Carmarthenshire	primary	rbcL	51.75	-4.25	0
+Bromus_racemosus	JN892639.1	07-MAR-2012	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Bromus_racemosus	JN892638.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

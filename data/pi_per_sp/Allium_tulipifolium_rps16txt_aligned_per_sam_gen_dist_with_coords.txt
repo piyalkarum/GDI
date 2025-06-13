@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_tulipifolium	MT997108.1	16-AUG-2021	802	Kazakhstan	primary	rps16	50.69722	52.90416	0.000693492939879477
+Allium_tulipifolium	MT997107.1	16-AUG-2021	802	Kazakhstan	primary	rps16	48.85777	59.20888	0.00104106195327332
+Allium_tulipifolium	MT997106.1	16-AUG-2021	802	Kazakhstan	primary	rps16	50.16027	54.96333	0.00104106195327332
+Allium_tulipifolium	MT997105.1	16-AUG-2021	802	Kazakhstan	primary	rps16	50.19111	53.31333	0.00104106195327332
+Allium_tulipifolium	MT997104.1	16-AUG-2021	802	Kazakhstan	primary	rps16	48.12972	56.75321	0.00104106195327332
+Allium_tulipifolium	MT997103.1	16-AUG-2021	802	Russia	primary	rps16	51.24305	56.64055	0.00104106195327332
+Allium_tulipifolium	MT997102.1	16-AUG-2021	801	Kazakhstan	primary	rps16	49.24898	85.48873	0.000694098306750827
+Allium_tulipifolium	MT997101.1	16-AUG-2021	801	Kazakhstan	primary	rps16	48.16416	84.03472	0.000694098306750827
+Allium_tulipifolium	MT997100.1	16-AUG-2021	801	Kazakhstan	primary	rps16	51.75388	66.61944	0.000694098306750827
+Allium_tulipifolium	MT997099.1	16-AUG-2021	801	Kazakhstan	primary	rps16	50.75388	66.61944	0.000694098306750827
+Allium_tulipifolium	MT997098.1	16-AUG-2021	801	Kazakhstan	primary	rps16	49.11138	66.99666	0.000694098306750827
+Allium_tulipifolium	MT997097.1	16-AUG-2021	802	Kazakhstan	primary	rps16	50.02833	79.46222	0.000693492939879477
+Allium_tulipifolium	MT997096.1	16-AUG-2021	802	Kazakhstan	primary	rps16	50.33305	80.095	0.000693492939879477
+Allium_tulipifolium	MT997095.1	16-AUG-2021	802	Russia	primary	rps16	49.98972	45.21194	0.00104106195327332
+Allium_tulipifolium	MT997094.1	16-AUG-2021	802	Russia	primary	rps16	51.87472	45.57916	0.00104106195327332
+Allium_tulipifolium	MT997093.1	16-AUG-2021	802	Kazakhstan	primary	rps16	47.96666	83.05	0.000693492939879477
+Allium_tulipifolium	LT703496.1	11-FEB-2019	800	Russia:Altai Krai, Gilevo	secondary	rps16	52.2341834	82.9076412	0.0015992212487832
+Allium_tulipifolium	LT703495.1	11-FEB-2019	800	Russia:Altai Krai, Tretjakovo	secondary	rps16	50.8634824	81.8937501	0.0015992212487832
+Allium_tulipifolium	LT703492.1	11-FEB-2019	800	Kazakhstan	secondary	rps16	49.935421	73.284676	0.0015992212487832

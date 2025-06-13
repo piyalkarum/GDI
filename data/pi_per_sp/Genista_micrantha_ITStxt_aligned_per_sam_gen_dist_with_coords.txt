@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_micrantha	AJ971598.1	24-MAR-2006	221	Spain:La Coruna, Mellid, Furelos	secondary	ITS	43.3086763519645	-7.71227154263646	0.347404443029628
+Genista_micrantha	AJ971597.1	24-MAR-2006	238	Spain:La Coruna, Mellid, Furelos	secondary	ITS	42.2094926204065	-8.25429191816903	0.388263398568087
+Genista_micrantha	AJ971600.1	24-MAR-2006	221	Spain	secondary	ITS	41.2940006954118	-2.44668967252709	0.350746151572341
+Genista_micrantha	AJ971599.1	24-MAR-2006	238	Spain	secondary	ITS	40.7700181510486	-2.84874063896423	0.363129395218003

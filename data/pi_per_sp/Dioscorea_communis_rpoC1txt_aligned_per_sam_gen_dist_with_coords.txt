@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dioscorea_communis	HE687444.1	04-MAY-2012	450	Morocco:Marrakech	secondary	rpoC1	31.8175364915624	-7.67695796725881	0
+Dioscorea_communis	HE687442.1	04-MAY-2012	444	Morocco:Marrakech	secondary	rpoC1	31.011101600172	-8.36343517704127	0
+Dioscorea_communis	HE687441.1	04-MAY-2012	453	Morocco:Marrakech	secondary	rpoC1	31.0137172649149	-8.2730490597706	0
+Dioscorea_communis	HE687439.1	04-MAY-2012	427	Morocco:Marrakech	secondary	rpoC1	31.068673884062	-8.39457061213711	0
+Dioscorea_communis	HE687417.1	04-MAY-2012	409	Morocco:Marrakech	secondary	rpoC1	31.9553689380807	-7.96854045355489	0
+Dioscorea_communis	HE687391.1	04-MAY-2012	458	Morocco:Marrakech	secondary	rpoC1	32.1175967509774	-7.71103811993571	0
+Dioscorea_communis	HE603093.1	14-OCT-2011	446	Morocco	secondary	rpoC1	28.3347722	-10.3713379	0

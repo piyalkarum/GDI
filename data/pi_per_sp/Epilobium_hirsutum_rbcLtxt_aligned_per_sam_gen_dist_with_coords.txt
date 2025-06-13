@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_hirsutum	HQ590078.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Marsh between Willow Ridge and classroom	primary	rbcL	44.026	-79.535	0.00308926771020634
+Epilobium_hirsutum	JN890835.1	07-MAR-2012	540	United Kingdom: Glamorgan	primary	rbcL	51.76	-3.39	0.00317460317460317
+Epilobium_hirsutum	MT931746.1	03-MAR-2023	568	China	secondary	rbcL	35.7140485295603	104.904197201522	0.00460171731774786
+Epilobium_hirsutum	MT931745.1	03-MAR-2023	569	China	secondary	rbcL	34.4943146253231	104.103961652718	0.0204217332538618
+Epilobium_hirsutum	MH116160.1	17-AUG-2018	668	China	secondary	rbcL	35.749883796845	104.984609610921	0.00342062028132315
+Epilobium_hirsutum	MH116159.1	17-AUG-2018	644	China	secondary	rbcL	34.4603568339761	104.30032363884	0.00342062028132315
+Epilobium_hirsutum	JN892488.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00316288877174486
+Epilobium_hirsutum	JN891385.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00316288877174486

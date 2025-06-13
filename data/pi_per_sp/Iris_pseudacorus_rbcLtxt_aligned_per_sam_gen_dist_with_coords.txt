@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_pseudacorus	MG227781.1	23-JAN-2018	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Sassafras Point	primary	rbcL	43.2721	-79.9051	0.00448797942842017
+Iris_pseudacorus	MF349817.1	21-SEP-2017	553	USA: Virginia; Bike path along GW Pkwy- Daingerfield Island Marina along the bike path and picnic area	primary	rbcL	38.831	-77.043	0.00448135472084633
+Iris_pseudacorus	KX783900.1	31-MAY-2017	552	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	rbcL	31.189	31.189	0.0158673113334719
+Iris_pseudacorus	KX678441.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Pitt River	primary	rbcL	49.5	-122	0.00448797942842017
+Iris_pseudacorus	KT695432.1	29-SEP-2015	512	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00795015447198666
+Iris_pseudacorus	JN890996.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0.00456705123023966
+Iris_pseudacorus	MK925374.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00456705123023966
+Iris_pseudacorus	MK127946.1	29-MAY-2019	599	South Korea	secondary	rbcL	36.638392	127.6961188	0.00445971754130612
+Iris_pseudacorus	KP089577.1	15-MAR-2015	638	China: Muli, Sichuan	secondary	rbcL	27.9291894	101.2787073	0.0042406235329305
+Iris_pseudacorus	KP089576.1	15-MAR-2015	638	China: Shenyang, Liaoning	secondary	rbcL	41.8314278	123.4007626	0.0042406235329305
+Iris_pseudacorus	KC584881.1	04-JUN-2013	743	Italy: Umbria	secondary	rbcL	42.965916	12.490236	0.0499660081884023
+Iris_pseudacorus	JN893114.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00456705123023966
+Iris_pseudacorus	JN893113.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00456705123023966
+Iris_pseudacorus	JF942074.1	13-DEC-2011	636	China	secondary	rbcL	35.3436192508512	105.25127939918	0.0042504813827363
+Iris_pseudacorus	JF942073.1	13-DEC-2011	636	China	secondary	rbcL	34.9957319673184	105.291999780577	0.0042504813827363
+Iris_pseudacorus	JF942072.1	13-DEC-2011	636	China	secondary	rbcL	34.5423354554997	105.229796677713	0.0042504813827363

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mercurialis_annua	JN893658.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.47	-3.21	0.00507936507936508
+Mercurialis_annua	HM850173.1	23-JUL-2011	633	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0152380952380952
+Mercurialis_annua	JN891856.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.6601214088745	-4.78828443306112	0.00507936507936508
+Mercurialis_annua	JN891853.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.3003592006044	-3.38982333882969	0.00507936507936508

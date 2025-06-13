@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Capsella_orientalis	FR822361.1	12-FEB-2012	841	Kazakhstan:Pavlodarskaya Oblast, near Bayanaul	primary	rps16	50.9552387926324	75.4150541851645	0.320379337841902
+Capsella_orientalis	FR822360.1	12-FEB-2012	837	Kazakhstan:Pavlodar	primary	rps16	51.9077241057128	77.4526021442451	0.319155157864835
+Capsella_orientalis	FR822359.1	12-FEB-2012	848	Mongolia:Bayan Olgiy Aymag, Lake Hoton Nuur	primary	rps16	48.8888103355868	87.8573940872687	0.324178614097969
+Capsella_orientalis	FR822328.1	12-FEB-2012	453	Mongolia:Bayan Olgiy Aymag; Lake Hoton Nuur	primary	rps16	48.4711404598724	88.6088374718484	0.319007516091812
+Capsella_orientalis	FR822327.1	12-FEB-2012	453	Kazakhstan:Pavlodar	primary	rps16	52.1233498048949	75.3674564343933	0.319007516091812
+Capsella_orientalis	FR822326.1	12-FEB-2012	453	Kazakhstan:Pavlodarskaya Oblast, near Bayanaul	primary	rps16	50.5861343676174	76.3259524555366	0.319007516091812

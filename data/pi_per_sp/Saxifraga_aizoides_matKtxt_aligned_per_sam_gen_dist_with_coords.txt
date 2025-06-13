@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_aizoides	MZ400424.1	07-DEC-2021	743	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.000272479564032698
+Saxifraga_aizoides	KC475819.1	25-OCT-2013	743	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Unnamed cove on west coast, 1/2 way down island	primary	matK	56.322	-79.7	0.000272479564032698
+Saxifraga_aizoides	KC475818.1	25-OCT-2013	734	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity, Region N of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	matK	68.764	-112.714	0.00136239782016349
+Saxifraga_aizoides	MK926259.1	14-JAN-2020	903	United Kingdom	secondary	matK	54.0959327700976	-2.28445985038145	0.000272479564032698
+Saxifraga_aizoides	MK925889.1	14-JAN-2020	870	Norway	secondary	matK	64.5731537	11.5280364	0.000272479564032698
+Saxifraga_aizoides	MK925725.1	14-JAN-2020	895	United Kingdom	secondary	matK	55.1443242948335	-3.20369701062561	0.000272479564032698

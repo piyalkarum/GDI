@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_multicaulis	KC878792.1	04-MAR-2014	577	Morocco: Azrou	secondary	trnS-trnG	32.7768945635687	-4.5460929636265	0.00087719298245614
+Linaria_multicaulis	KC994604.1	04-MAR-2014	570	Morocco: Jbel Tazekka	secondary	trnS-trnG	34.0911192	-4.1831946	0.00354565572981815
+Linaria_multicaulis	KC994601.1	04-MAR-2014	577	Tunisia: El Kesra	secondary	trnS-trnG	35.8137299	9.3653433	0.00087719298245614
+Linaria_multicaulis	KC994600.1	04-MAR-2014	576	Italy: Sicily, Etna	secondary	trnS-trnG	37.7510251	14.9940321	0.00087719298245614
+Linaria_multicaulis	JN663719.1	10-MAR-2012	558	Morocco: Azrou	secondary	trnS-trnG	32.8484003836376	-4.68766552510326	0.000914076782449726

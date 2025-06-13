@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glycyrrhiza_uralensis	OR678679.1	06-NOV-2023	232	Kazakhstan: Qaragandy region	primary	psbA-trnH	47.36201	74.74058	0.00344827586206897
+Glycyrrhiza_uralensis	OR227296.1	16-SEP-2023	434	Kazakhstan: Buiratau National Park	primary	psbA-trnH	51.2232	73.822	0.00189034660047868
+Glycyrrhiza_uralensis	KP338396.1	21-APR-2015	373	China	secondary	psbA-trnH	34.7016169252568	105.394678716779	0.00194607980562564
+Glycyrrhiza_uralensis	KU356138.1	22-JUN-2016	389	China	secondary	psbA-trnH	35.1594051519414	104.294793201724	0.00259856068997708
+Glycyrrhiza_uralensis	KU356137.1	22-JUN-2016	389	China	secondary	psbA-trnH	35.5024267343301	104.115193391821	0.00189034660047868
+Glycyrrhiza_uralensis	KU356136.1	22-JUN-2016	389	China	secondary	psbA-trnH	35.2727273881952	105.361263914284	0.00346062965549432

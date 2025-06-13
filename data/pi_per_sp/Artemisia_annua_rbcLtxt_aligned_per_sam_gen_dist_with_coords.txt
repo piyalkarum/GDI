@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_annua	MK903549.1	20-MAY-2019	508	China: Outside US, Jiangyong Hunan, Agriculture land	primary	rbcL	28	111	0.0015748031496063
+Artemisia_annua	MH087481.1	08-APR-2018	545	China: Outside US, Beijing, Beijing No. 166 High School Campus	primary	rbcL	39.9208	116.4154	0.00146788990825688
+Artemisia_annua	MG224658.1	26-DEC-2017	552	Canada: UofG arboretum	primary	rbcL	43.5485	-80.2503	0.00144927536231884
+Artemisia_annua	MG222743.1	26-DEC-2017	552	Canada: Kent Co	primary	rbcL	42.377	-82.189	0.00144927536231884
+Artemisia_annua	MG221862.1	26-DEC-2017	552	Canada: Elora	primary	rbcL	43.6833	-80.4333	0.0138369712434457
+Artemisia_annua	OR576208.1	25-OCT-2023	428	Mongolia	secondary	rbcL	43.9382593	-79.2235563	0.00163619275461381
+Artemisia_annua	MN204716.1	30-NOV-2021	639	China	secondary	rbcL	34.5436017639266	105.842450189478	0.00144927536231884
+Artemisia_annua	MN192499.1	30-NOV-2021	644	China	secondary	rbcL	35.4020236606536	105.928905687898	0.00144927536231884
+Artemisia_annua	KX582002.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	44.13150789276	81.7344348832986	0.00177822273073989
+Artemisia_annua	KX582001.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	44.4351211517057	81.5055538963109	0.00177822273073989
+Artemisia_annua	KX582000.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	43.6796077429432	81.0548430099339	0.00177822273073989

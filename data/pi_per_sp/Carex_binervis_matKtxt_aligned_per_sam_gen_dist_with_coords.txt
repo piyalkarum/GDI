@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_binervis	OP629962.1	08-MAR-2023	581	Spain: Toledo	secondary	matK	39.8560679	-4.0239568	0.0123586137693417
+Carex_binervis	OP629955.1	08-MAR-2023	586	Spain: Avila	secondary	matK	40.656478	-4.7002172	0.0153275616697694
+Carex_binervis	OP629952.1	08-MAR-2023	480	Portugal: Braga	secondary	matK	41.5510583	-8.4280045	0.0191666666666667
+Carex_binervis	OP629951.1	08-MAR-2023	559	United Kingdom: Scotland, Highlands	secondary	matK	56.8	-5	0.0259512719253834
+Carex_binervis	MN763596.1	28-JUL-2020	536	France: Britain	secondary	matK	49.9312702	2.9387368	0.0124432084858725
+Carex_binervis	JN896034.1	07-MAR-2012	818	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.0129881433490464

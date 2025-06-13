@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Papaver_rhoeas	MG249296.1	21-JAN-2018	552	Canada: UofG Arboretum	primary	rbcL	42.9045065054501	-79.5977043591989	0.00102462096065508
+Papaver_rhoeas	MG248837.1	21-JAN-2018	552	Canada: OAC, ON	primary	rbcL	42.8581082278635	-80.7522182920594	0.00102462096065508
+Papaver_rhoeas	MG246245.1	21-JAN-2018	552	Canada: UofG Arboretum	primary	rbcL	44.2254382411127	-79.8934908711055	0.00102462096065508
+Papaver_rhoeas	KX783941.1	31-MAY-2017	531	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	rbcL	31.189	31.189	0.000552143187372036
+Papaver_rhoeas	JN893510.1	07-MAR-2012	423	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.33	0.000506585612968592
+Papaver_rhoeas	JN890616.1	07-MAR-2012	542	United Kingdom: Cornwall, West with Scilly (1)	primary	rbcL	50.36	-5.13	0.00104878654945411
+Papaver_rhoeas	OQ189680.1	13-JUN-2023	661	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0.000783245866453128
+Papaver_rhoeas	MN205174.1	30-NOV-2021	724	China	secondary	rbcL	35.4339921506114	105.286188517659	0.000856255545696539
+Papaver_rhoeas	KX789404.1	26-AUG-2017	420	Egypt	secondary	rbcL	26.2540493	29.2675469	0.00446870804013661
+Papaver_rhoeas	GQ248663.1	24-JUN-2009	553	Spain	secondary	rbcL	39.3260685	-4.8379791	0.00102462096065508
+Papaver_rhoeas	FJ626614.1	10-MAY-2009	1395	China	secondary	rbcL	34.5318305633512	104.138693695129	0.00210721159809061
+Papaver_rhoeas	HM850230.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00705991823509499
+Papaver_rhoeas	JN892665.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.197638655753	-4.39562531282983	0.00104878654945411
+Papaver_rhoeas	JN892664.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.7482635239813	-3.28668403560454	0.00104878654945411
+Papaver_rhoeas	JN890913.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.00104878654945411

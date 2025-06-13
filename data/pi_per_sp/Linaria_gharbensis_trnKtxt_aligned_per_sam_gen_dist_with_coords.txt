@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_gharbensis	JF694245.1	21-AUG-2011	1222	Morocco: Chefchaouen	secondary	trnK	35.1700832	-5.2766583	0.00272799208969422
+Linaria_gharbensis	JF694207.1	21-AUG-2011	1221	Spain: Huelva, Gibraleon	secondary	trnK	37.3746324	-6.9690748	0.00327600327600328
+Linaria_gharbensis	JF694206.1	21-AUG-2011	1222	Morocco: Rabat	secondary	trnK	34.02236	-6.8340222	0.00354676950421631
+Linaria_gharbensis	JF694205.1	21-AUG-2011	1222	Morocco: Bou Ahmed	secondary	trnK	35.3169276	-4.9569246	0.00627565521182542

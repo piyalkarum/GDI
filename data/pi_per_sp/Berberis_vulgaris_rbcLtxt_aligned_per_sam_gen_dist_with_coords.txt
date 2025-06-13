@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Berberis_vulgaris	MG248018.1	21-JAN-2018	552	Canada: Ontario, Hamilton-Wentworth, Dundas, Rock Chapel West	primary	rbcL	43.2764	-79.9503	0.00167101890227834
+Berberis_vulgaris	KX678671.1	29-APR-2017	551	Canada: British Columbia, Kootenay Boundary Regional District, Rock Creek, 9.4 km west of Highway 33 and Highway 3 junction	primary	rbcL	49.049	-119.079	0.00167365397616581
+Berberis_vulgaris	KT695518.1	29-SEP-2015	470	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.00217361138423961
+Berberis_vulgaris	ON540784.1	18-FEB-2023	553	Sweden	secondary	rbcL	60.2487948073475	15.4706338899573	0.00167045182883098
+Berberis_vulgaris	ON540783.1	18-FEB-2023	534	Sweden	secondary	rbcL	60.3155491999987	15.7261814173772	0.0113183575443001
+Berberis_vulgaris	ON540782.1	18-FEB-2023	553	Canada: Quebec	secondary	rbcL	52.4760892	-71.8258668	0.00167045182883098
+Berberis_vulgaris	MH494546.1	22-FEB-2022	1230	Denmark	secondary	rbcL	55.670249	10.3333283	0.00167785234899329
+Berberis_vulgaris	KR075634.1	22-FEB-2017	1326	Spain: Pyrenees	secondary	rbcL	42.5824012	0.5388272	0.00148809523809524
+Berberis_vulgaris	KJ746305.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00142314990512334

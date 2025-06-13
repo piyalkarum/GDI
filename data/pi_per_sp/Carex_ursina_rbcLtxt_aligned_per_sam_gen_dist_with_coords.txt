@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_ursina	MG226551.1	23-JAN-2018	552	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	rbcL	69.6187	-140.767	0.00181159420289855
+Carex_ursina	KT960693.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.467	-20.567	0.00664251207729469
+Carex_ursina	KT960421.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	0.00825281803542673
+Carex_ursina	KC482380.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Outer delta, west of Whitefish Station	primary	rbcL	68.893	-136.902	0.00181159420289855
+Carex_ursina	KC482379.1	25-OCT-2013	552	Canada: Nunavut, Canadian Arctic Archipelago, Ellesmere Island, RCMP Post, Alexandra Fiord	primary	rbcL	78.53	-75.45	0.00181159420289855
+Carex_ursina	KC482378.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island (Northwest Territories), Murray Inlet. Site 59, west arm of inlet NW of Mount Joy. Deep valley cut in sandstone and siltstone of the Beverley Inlet formation	primary	rbcL	75.3	-114.667	0.00181159420289855
+Carex_ursina	KC482377.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island (Northwest Territories), Sachs Harbour, Sachs River delta	primary	rbcL	72	-125	0.00181159420289855
+Carex_ursina	KC482376.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, along Darnley Bay	primary	rbcL	69.3944	-124.117	0.00181159420289855
+Carex_ursina	KC482375.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	rbcL	70.735	-117.761	0.00181159420289855
+Carex_ursina	KC482374.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, Coast on S side of river delta at head of N arm of Minto Inlet	primary	rbcL	71.631	-115.476	0.00181159420289855

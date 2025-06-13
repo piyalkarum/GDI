@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_disperma	KJ840881.1	23-SEP-2014	731	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Forest to fen transition near base of s-w slope of mountain	primary	matK	54.899	-67.171	0.00706845238095238
+Carex_disperma	KC474314.1	25-OCT-2013	695	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. 5 km southwest of Sanikiluaq	primary	matK	56.558	-79.344	0.0275720495032545
+Carex_disperma	KP980093.1	21-SEP-2015	783	USA: Colorado	secondary	matK	38.7251776	-105.607716	0.00683453237410072
+Carex_disperma	KP980056.1	21-SEP-2015	785	Finland	secondary	matK	62.8695849510263	24.6351588755179	0.00683453237410072
+Carex_disperma	KP980035.1	21-SEP-2015	785	Finland	secondary	matK	63.4464963130355	26.132045248785	0.00683453237410072

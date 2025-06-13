@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_nardina	MK749319.1	08-FEB-2020	646	USA: Idaho, Sawtooth Mountains, Thompson Peak	primary	rbcL	44.14219	-115.01358	0.202389319651479
+Carex_nardina	MG228047.1	23-JAN-2018	667	Canada: Nunavut, Baffin Island, Nettilling Lake, Burwash Bay	primary	rbcL	66.6768443714076	-70.2089216722456	0.0141547593716439
+Carex_nardina	MG228024.1	23-JAN-2018	661	Canada: Nunavut, Baffin Island, SW Baffin Island, Mallik Island, S side of Mallik Island	primary	rbcL	64.4025824150131	-76.3305953969652	0.0157384083368547
+Carex_nardina	MG227900.1	23-JAN-2018	668	Canada: Nunavut, Ellesemere Island, Alexandra Fjord	primary	rbcL	79.4512986913756	-74.2381122610915	0.0134501592359707
+Carex_nardina	MG227891.1	23-JAN-2018	552	Canada: Quebec, Nunavik, Kangirsuk, site des infrastructures maritimes, au sommet de la carriere	primary	rbcL	60.0229	-69.9922	0.0146459038061178
+Carex_nardina	MG227387.1	23-JAN-2018	674	Canada: Nunavut, Baffin Island, Cape Dorset, near the airport	primary	rbcL	64.3723143964933	-75.2139149202489	0.0310757139970049
+Carex_nardina	MG225800.1	23-JAN-2018	662	Canada: Nunavut, Baffin Island, vicinity of Mary River	primary	rbcL	71.4239528254664	-79.9124918914431	0.0166397251186236
+Carex_nardina	MG225748.1	23-JAN-2018	668	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.9377972892355	-66.7499512704406	0.0134501592359707
+Carex_nardina	FJ548275.1	25-AUG-2009	674	Canada: Nunuavut, Baffin Island, Cape Dorset, near the airport	primary	rbcL	64.3836239308602	-75.5151605554127	0.0310757139970049
+Carex_nardina	FJ548274.1	25-AUG-2009	668	Canada: Nunuavut, Franklin District, Ellesmere Island, Alexandra Fjord	primary	rbcL	79.4193160069842	-77.9230093241217	0.0134501592359707
+Carex_nardina	FJ548273.1	25-AUG-2009	661	Canada: Nunuavut, SW Baffin Island, Mallik Island, S side of Mallik Island	primary	rbcL	64.6268268004978	-75.868583883348	0.0157384083368547
+Carex_nardina	FJ548272.1	25-AUG-2009	668	Canada: Nunuavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	63.3314508802927	-66.8357115437685	0.0134501592359707
+Carex_nardina	FJ548271.1	25-AUG-2009	667	Canada: Nunuavut, Baffin Island, Franklin District, Nettilling Lake, Burwash Bay	primary	rbcL	65.1018317442589	-70.7537533708548	0.0141547593716439
+Carex_nardina	FJ548270.1	25-AUG-2009	662	Canada: Nunuavut, Baffin Island	primary	rbcL	71.5751542210435	-77.6418454371526	0.0166397251186236
+Carex_nardina	KT960451.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1083662622168	-19.2394340265297	0.0146459038061178
+Carex_nardina	KT960449.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.2475791966498	-21.421366476651	0.0146459038061178
+Carex_nardina	KT960446.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	0.0146459038061178
+Carex_nardina	KT960397.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1108817757507	-17.7026796342303	0.0146459038061178
+Carex_nardina	KC482326.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.644	-115.493	0.0146459038061178
+Carex_nardina	KC482325.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Near base of Elm Hill	primary	rbcL	68.9639	-122.694	0.0146459038061178
+Carex_nardina	KC482324.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, 2-3 km SE of Paulatuk (within sight of hamlet)	primary	rbcL	69.3556	-124.167	0.0146459038061178

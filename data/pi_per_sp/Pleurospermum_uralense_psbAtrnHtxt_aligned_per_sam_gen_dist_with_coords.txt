@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pleurospermum_uralense	JN046397.1	13-DEC-2011	404	China: Liaoning	secondary	psbA-trnH	40.9169285708946	122.221026042735	0.00312033194377241
+Pleurospermum_uralense	JN046396.1	13-DEC-2011	402	China: Liaoning	secondary	psbA-trnH	41.8298831235884	123.249577245598	0.00374533194377241
+Pleurospermum_uralense	JN046395.1	13-DEC-2011	401	China: Liaoning	secondary	psbA-trnH	41.7527941918851	123.244815409694	0.00375470706066913
+Pleurospermum_uralense	JN046394.1	13-DEC-2011	402	China: Hebei	secondary	psbA-trnH	38.869177441772	115.053576530003	0.00874693730595145
+Pleurospermum_uralense	JN046393.1	13-DEC-2011	403	China: Hebei	secondary	psbA-trnH	38.8108043673531	115.807168088472	0.00311411303829977

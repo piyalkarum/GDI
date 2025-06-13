@@ -1,0 +1,35 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_resupinata	LC762116.1	04-OCT-2023	553	Japan:Kumamoto, Aso	secondary	rbcL	33.203751543587	130.774206509516	0.14751968355539
+Pedicularis_resupinata	LC762114.1	04-OCT-2023	553	Japan:Kumamoto, Takamorimachi	secondary	rbcL	32.6443868547101	131.020460022451	0.14751968355539
+Pedicularis_resupinata	LC762108.1	04-OCT-2023	646	Japan:Hokkaido, Kushiro	secondary	rbcL	42.8339674395556	143.600622131351	0.146202809371562
+Pedicularis_resupinata	LC762098.1	04-OCT-2023	553	Japan:Shiga, Maibara	secondary	rbcL	35.7564548246251	136.32631267436	0.14751968355539
+Pedicularis_resupinata	LC762117.1	04-OCT-2023	553	Japan:Yamanashi, Narusawamura	secondary	rbcL	35.8562762519462	139.615376634427	0.149317202800776
+Pedicularis_resupinata	LC762115.1	04-OCT-2023	553	Japan:Kumamoto, Takamorimachi	secondary	rbcL	32.5197241089353	130.689793089207	0.14751968355539
+Pedicularis_resupinata	LC762113.1	04-OCT-2023	553	Japan:Kumamoto, Takamorimachi	secondary	rbcL	33.170460720606	131.212448246818	0.14751968355539
+Pedicularis_resupinata	LC762107.1	04-OCT-2023	553	Japan:Hokkaido, Kushiro	secondary	rbcL	42.8767976404692	144.999786492403	0.14751968355539
+Pedicularis_resupinata	LC762105.1	04-OCT-2023	553	Japan:Kumamoto, Aso	secondary	rbcL	33.2738226763309	130.929088187839	0.14751968355539
+Pedicularis_resupinata	LC762103.1	04-OCT-2023	553	Japan:Shiga, Maibara	secondary	rbcL	35.188819854958	135.467778869458	0.14751968355539
+Pedicularis_resupinata	LC762102.1	04-OCT-2023	553	Japan:Yamanashi, Minami-alps	secondary	rbcL	35.6083617	138.4649893	0.149538263822306
+Pedicularis_resupinata	LC762099.1	04-OCT-2023	553	Japan:Shiga, Maibara	secondary	rbcL	35.5061554674698	136.341721607487	0.14751968355539
+Pedicularis_resupinata	LC762097.1	04-OCT-2023	553	Japan:Yamanashi, Narusawamura	secondary	rbcL	35.4761178385563	139.600402433528	0.14751968355539
+Pedicularis_resupinata	LC762096.1	04-OCT-2023	553	Japan:Yamanashi, Narusawamura	secondary	rbcL	35.7906058706194	137.731016674771	0.14751968355539
+Pedicularis_resupinata	LC760519.1	21-SEP-2023	553	Japan:Aichi, Toyota	secondary	rbcL	35.3081133555021	138.359734418615	0.148988417661865
+Pedicularis_resupinata	LC760518.1	21-SEP-2023	553	Japan:Aichi, Toyota	secondary	rbcL	35.4419701394909	137.935316338901	0.148988417661865
+Pedicularis_resupinata	LC760517.1	21-SEP-2023	553	Japan:Aichi, Toyota	secondary	rbcL	34.6552750376978	136.870351271748	0.148988417661865
+Pedicularis_resupinata	LC760516.1	21-SEP-2023	553	Japan:Aichi, Toyota	secondary	rbcL	35.1950212719012	137.405427385225	0.148988417661865
+Pedicularis_resupinata	MN204994.1	30-NOV-2021	606	China	secondary	rbcL	35.000074	104.999927	0.14778135313644
+Pedicularis_resupinata	LC547256.1	10-DEC-2020	553	Japan: Shiga	secondary	rbcL	35.247154	136.109385	0.14751968355539
+Pedicularis_resupinata	MH657711.1	01-AUG-2020	571	China: Hebei	secondary	rbcL	39.0000001	116	0.148174339391368
+Pedicularis_resupinata	LC364393.1	09-JUL-2019	553	Japan:Nagano	secondary	rbcL	36.1143945	138.0319015	0.14751968355539
+Pedicularis_resupinata	JF943162.1	13-DEC-2011	606	China: Chongqing	secondary	rbcL	29.5656729	106.5479189	0.14778135313644
+Pedicularis_resupinata	JF943161.1	13-DEC-2011	606	China: Jilin	secondary	rbcL	43.7289674	126.1997366	0.14778135313644
+Pedicularis_resupinata	JF943160.1	13-DEC-2011	606	China: Gansu	secondary	rbcL	38.0000001	101.9999999	0.14778135313644
+Pedicularis_resupinata	AB280488.1	26-APR-2007	729	Japan: Yamagata, Mt. Gassan	secondary	rbcL	39.3309375823853	139.546973152923	0.409127662864715
+Pedicularis_resupinata	AB110927.1	02-DEC-2003	739	Japan: Kochi, The Tengu Highlands	secondary	rbcL	33.5680384	133.5394221	0.410561117797252
+Pedicularis_resupinata	AB110926.1	02-DEC-2003	739	Japan: Nagano, Mt. Chogadake	secondary	rbcL	36.2107681815576	137.891585145001	0.410561117797252
+Pedicularis_resupinata	AB110925.1	02-DEC-2003	732	Japan: Aichi, Mt. Ishinomaki	secondary	rbcL	35.1219442	137.081740723195	0.409392710987108
+Pedicularis_resupinata	AB110924.1	02-DEC-2003	732	Japan: Gifu, Hokonoko Lake	secondary	rbcL	35.4230949	136.7627526	0.409392710987108
+Pedicularis_resupinata	AB110923.1	02-DEC-2003	732	Japan: Hokkaido, Rebun Island	secondary	rbcL	45.36878	141.0246164	0.409392710987108
+Pedicularis_resupinata	AB110922.1	02-DEC-2003	732	Japan: Yamagata, Mt. Gassan	secondary	rbcL	38.7202290470882	139.672224191713	0.409392710987108
+Pedicularis_resupinata	AB110921.1	02-DEC-2003	732	Japan: Fukushima, Mt. Kimen	secondary	rbcL	41.4839424	140.2508772	0.409392710987108
+Pedicularis_resupinata	AB110920.1	02-DEC-2003	732	Japan: Nagano, Ikenotaira Marsh	secondary	rbcL	37.0158368862483	139.121135720174	0.409392710987108

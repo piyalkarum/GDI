@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Origanum_vulgare	OL598339.1	27-MAY-2022	886	Greece: Karditsa	secondary	rps16	39.5228791665091	22.8344746215262	0.000376222723852521
+Origanum_vulgare	OL598338.1	27-MAY-2022	886	Greece: Karditsa, Amaranto	secondary	rps16	39.163984863156	21.1868490799585	0.000376222723852521
+Origanum_vulgare	OL598337.1	27-MAY-2022	886	Greece: Crete, Velonado	secondary	rps16	35.2595735	24.354889	0.00112866817155756
+Origanum_vulgare	OL598336.1	27-MAY-2022	886	Greece: Crete, Avdou	secondary	rps16	35.2320437	25.4317481	0.000376222723852521

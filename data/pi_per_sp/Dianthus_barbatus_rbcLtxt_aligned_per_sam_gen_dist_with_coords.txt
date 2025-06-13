@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_barbatus	KJ841266.1	04-NOV-2014	488	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 50 metres south-west of Interpretive Centre building, about 4 metres north-east of trail, growing between large rocks	primary	rbcL	45.538	-73.1576	0
+Dianthus_barbatus	OQ172553.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.0346024200301	127.353030246856	0
+Dianthus_barbatus	OQ172552.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.44870750375	128.093264954416	0
+Dianthus_barbatus	OQ172551.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.9966248630199	127.708607515081	0

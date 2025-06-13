@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_apenninum	KX498381.1	18-SEP-2017	454	Morocco	primary	Adh	34.87	-2.43	0.000314663310258024
+Helianthemum_apenninum	KX498380.1	18-SEP-2017	475	Spain	primary	Adh	43.16	-4.81	0.000314663310258024
+Helianthemum_apenninum	KX498379.1	18-SEP-2017	473	Spain	primary	Adh	36.68	-5.05	0.000314663310258024
+Helianthemum_apenninum	KX498378.1	18-SEP-2017	473	Spain	primary	Adh	36.74	-5.38	0.000314663310258024
+Helianthemum_apenninum	KX498377.1	18-SEP-2017	475	Spain	primary	Adh	37.08	-3.47	0.000314663310258024
+Helianthemum_apenninum	KX498376.1	18-SEP-2017	472	Spain	primary	Adh	37.9	-2.84	0.000314663310258024
+Helianthemum_apenninum	KX498375.1	18-SEP-2017	475	France	primary	Adh	44.44	1.47	0.000314663310258024
+Helianthemum_apenninum	KX498374.1	18-SEP-2017	454	Italy	primary	Adh	37.84	13.43	0.00220264317180617

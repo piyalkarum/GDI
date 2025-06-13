@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_anserina	KX676958.1	09-AUG-2017	773	Canada: British Columbia, Kootenay Boundary Regional District, Mt. Baldy Ski Area	primary	matK	49.1529	-119.236	0.00674540157137927
+Potentilla_anserina	MG220940.1	21-JAN-2018	764	USA: North Dakota	primary	matK	48.951	-101.571	0.00573208739191667
+Potentilla_anserina	MG220720.1	21-JAN-2018	783	Canada: Ontario, Cochrane District, Moosonee, Shipsands Island, coastal plain	primary	matK	51.347	-80.43	0.00528949283236343
+Potentilla_anserina	MG220673.1	21-JAN-2018	764	USA: North Dakota	primary	matK	48.11	-100.377	0.00573208739191667
+Potentilla_anserina	MG220597.1	21-JAN-2018	766	USA: North Dakota	primary	matK	48.248	-101.359	0.00571947370148712
+Potentilla_anserina	KJ840972.1	23-SEP-2014	771	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	matK	45.538	-73.158	0.00547308379373985
+Potentilla_anserina	JN896002.1	07-MAR-2012	819	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.00759303137195171
+Potentilla_anserina	JN894125.1	07-MAR-2012	792	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.00759303137195171
+Potentilla_anserina	MN492809.1	30-NOV-2021	768	China	secondary	matK	29.5394725356446	-94.7024594940864	0.00546237857298188
+Potentilla_anserina	MN451018.1	30-NOV-2021	714	China	secondary	matK	29.9886617913444	-93.4610081701351	0.0294101193817912
+Potentilla_anserina	KT280249.1	01-AUG-2016	726	China: Maqu Gansu	secondary	matK	34.6137382	102.4654149	0.0154755562738986
+Potentilla_anserina	JN896205.1	07-MAR-2012	743	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00551618819410146

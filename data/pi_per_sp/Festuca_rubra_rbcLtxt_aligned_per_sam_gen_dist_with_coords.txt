@@ -1,0 +1,48 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_rubra	MF596801.1	28-FEB-2018	603	Canada: Alberta, 29 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	rbcL	51.6227855830388	-113.923576178506	0.0022617431049655
+Festuca_rubra	MF596800.1	28-FEB-2018	603	Canada: Yukon Territory, 80 mi N of Hwy 2 on the Dempster Hwy (5) towards Eagle Plains. Gravelly drainage and open flats with Carex, Salix, Equisetum, and Eriophorum.	primary	rbcL	64.945	-138.273	0.0022617431049655
+Festuca_rubra	MF596799.1	28-FEB-2018	603	Canada: British Columbia, Mayne Island, Edith Point. Coastal. East facing rocks above shore line, with Pinus and Pseudotsuga menziesii	primary	rbcL	48.5115458658596	-123.44912631374	0.0022617431049655
+Festuca_rubra	MF596798.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, 15.7 km up Forbidden Plateau Road, W of Hwy. 19 near Cumberland/ Courtenay. Gravel parking lot edge with Pinus, Populus balsamifera.	primary	rbcL	49.0250202813	-125.421657848219	0.006844356472645
+Festuca_rubra	MF596797.1	28-FEB-2018	603	Canada: British Columbia, Francis Point Provincial Park - just south of Pender Harbour, Sunshine Coast	primary	rbcL	50.4377188544851	-124.213990269877	0.0022617431049655
+Festuca_rubra	MF596796.1	28-FEB-2018	603	Canada: Alberta, Banff National Park, 32 mi NW of Exshaw on Hwy 1 towards Lake Louise.	primary	rbcL	50.8388061240267	-116.99295980346	0.006844356472645
+Festuca_rubra	MF596795.1	28-FEB-2018	603	Canada: Alberta, 27 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	rbcL	51.6167449378622	-114.200332552696	0.006844356472645
+Festuca_rubra	MF596794.1	28-FEB-2018	603	Canada: British Columbia, 13 mi NW of Pink Mountain on Hwy 97 towards Ft. Nelson. Forest with Picea, Alnus, Equisetum arvensis, and Populus trichocarpa	primary	rbcL	58.5919953119256	-123.934659231819	0.006844356472645
+Festuca_rubra	MG227765.1	23-JAN-2018	603	Canada: British Columbia, Francis Point Provincial Park - just south of Pender Harbour, Sunshine Coast	primary	rbcL	49.1558596793031	-123.189119098676	0.0022617431049655
+Festuca_rubra	MG227686.1	23-JAN-2018	552	Canada: Yukon Territory, La Biche Airstrip	primary	rbcL	60.128	-133.729	0.00799115460840619
+Festuca_rubra	MG226918.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, 15.7 km up Forbidden Plateau Road, W of Hwy. 19 near Cumberland/ Courtenay. Gravel parking lot edge with Pinus, Populus balsamifera.	primary	rbcL	49.7350260196507	-125.40076254195	0.006844356472645
+Festuca_rubra	MG226656.1	23-JAN-2018	603	Canada: British Columbia, 13 mi NW of Pink Mountain on Hwy 97 towards Ft. Nelson. Forest with Picea, Alnus, Equisetum arvensis, and Populus trichocarpa	primary	rbcL	57.8402461086401	-124.234910091347	0.006844356472645
+Festuca_rubra	MG226438.1	23-JAN-2018	603	Canada: Alberta, Banff National Park, 32 mi NW of Exshaw on Hwy 1 towards Lake Louise.	primary	rbcL	51.5341859692278	-116.913753085502	0.006844356472645
+Festuca_rubra	MG226386.1	23-JAN-2018	552	Canada: Yukon Territory, La Biche River, Upper Gas well	primary	rbcL	60.124	-124.101	0.00249943791445912
+Festuca_rubra	MG226173.1	23-JAN-2018	603	Canada: Alberta, 27 mi E of Exshaw and W of Cochrane on Hwy 1A.	primary	rbcL	51.3946324184327	-115.118753018884	0.006844356472645
+Festuca_rubra	MG225975.1	23-JAN-2018	603	Canada: British Columbia, Mayne Island, Edith Point. Coastal. East facing rocks above shore line, with Pinus and Pseudotsuga menziesii	primary	rbcL	48.4339928060713	-122.707768482302	0.0022617431049655
+Festuca_rubra	KT960718.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1170599344445	-19.6738285131428	0.00249943791445912
+Festuca_rubra	KT960690.1	13-DEC-2015	536	Greenland: NE, Zackenberg	primary	rbcL	74.5915615300223	-21.1592092876413	0.00257462859643616
+Festuca_rubra	KT960652.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.3389894472264	-17.4531833001722	0.00249943791445912
+Festuca_rubra	KT960647.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.0681164179005	-22.0957058231317	0.00249943791445912
+Festuca_rubra	KT960585.1	13-DEC-2015	536	Greenland: NE, Zackenberg	primary	rbcL	74.8008785831158	-21.7216438804202	0.00257462859643616
+Festuca_rubra	KT960444.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.2624354700028	-21.8981906906308	0.00249943791445912
+Festuca_rubra	KJ841324.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.00880227397367379
+Festuca_rubra	KC482921.1	25-OCT-2013	552	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk	primary	rbcL	69.5083731873928	-132.280783235016	0.00249943791445912
+Festuca_rubra	KC482920.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Blow River Delta east, Danny C. Gordon's goose camp	primary	rbcL	68.89	-136.96	0.00249943791445912
+Festuca_rubra	KC482919.1	25-OCT-2013	552	Canada: Northwest Territories, Northwest Territories Mainland, Nicholson Island, Liverpool Bay	primary	rbcL	69.883	-129.033	0.00249943791445912
+Festuca_rubra	KC482918.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Hills just NE of settlement	primary	rbcL	68.75	-68.5	0.00249943791445912
+Festuca_rubra	KC482917.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	rbcL	68.628	-112.714	0.00249943791445912
+Festuca_rubra	KC482916.1	25-OCT-2013	518	Canada: Northwest Territories, Victoria Island, Minto Inlet, Sand dunes E of Kuujua River, 2 km S of on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.296	-116.57	0.00266481607147114
+Festuca_rubra	KC482915.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island (Nunavut), Kitikmeot Region, Namaycush Lake East of Site 35. Low centre polygon network with large berms between ponds developed on a bluff on the S side of a major river	primary	rbcL	70.9147381858018	-108.150146927711	0.00249943791445912
+Festuca_rubra	KC482914.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island (Northwest Territories), Aulavik National Park, Banks of the Thomsen River	primary	rbcL	73.717	-119.925	0.00249943791445912
+Festuca_rubra	KC482913.1	25-OCT-2013	552	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk, North of the baseball diamond	primary	rbcL	69.3163486516127	-131.451284296139	0.00249943791445912
+Festuca_rubra	KC482912.1	25-OCT-2013	552	Canada: Nunavut	primary	rbcL	70.6122349735939	-107.016254649639	0.00249943791445912
+Festuca_rubra	KC482911.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, De Salis Bay, ~2km N of Sandhill River, ~3km E of Windrum Lagoon, SE shore of small lake	primary	rbcL	71.47	-121.9	0.00249943791445912
+Festuca_rubra	KC482910.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, 2-3 km S of Paulatuk	primary	rbcL	69.4222	-124.022	0.00249943791445912
+Festuca_rubra	KC482909.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	rbcL	70.735	-117.761	0.00249943791445912
+Festuca_rubra	KC482908.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, 25 km ESE of Sachs Harbour, sand hills along tributary of Sachs River	primary	rbcL	71.88	-124.59	0.00249943791445912
+Festuca_rubra	JN965550.1	27-OCT-2012	552	Canada: Manitoba, Churchill, North side of the Owl river, about 4km inland, near cabin, 130km SE of Churchill. SE of the cabin near riverbank. Map sheet 54 F/15 elevation, just below the 10 a.s.l. Site 4., Hummocks near pond below raised beach ridge, E of cabin. Moist to wet peat.	primary	rbcL	58.66	-93.19	0.00799115460840619
+Festuca_rubra	JN965551.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, Gravel-cobble beach and floodplain of Hay island in Silurian Formation, opposite Hudson`s Bay post.	primary	rbcL	57.83	-92.808	0.00249943791445912
+Festuca_rubra	ON745574.1	14-MAR-2023	749	South Korea	secondary	rbcL	36.638392	127.6961188	0.0024944099537374
+Festuca_rubra	KT438968.1	23-SEP-2016	632	Norway	secondary	rbcL	64.5731537	11.5280364	0.00746657067012351
+Festuca_rubra	KT438967.1	23-SEP-2016	632	Spain	secondary	rbcL	39.3260685	-4.8379791	0.00243428928137041
+Festuca_rubra	KT438948.1	23-SEP-2016	632	Iceland	secondary	rbcL	64.9841821	-18.1059013	0.00243428928137041
+Festuca_rubra	KT280101.1	01-AUG-2016	673	China: Maqu Gansu	secondary	rbcL	34.6137382	102.4654149	0.0024385689676617
+Festuca_rubra	KJ599217.1	21-SEP-2014	558	Australia: Victoria	secondary	rbcL	-36.5986096	144.6780052	0.00251787633391454
+Festuca_rubra	JN891471.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	51.5690249778331	-3.94541279740747	0.00255020515152706
+Festuca_rubra	JN891470.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.4161880000319	-5.26154001611611	0.00255020515152706

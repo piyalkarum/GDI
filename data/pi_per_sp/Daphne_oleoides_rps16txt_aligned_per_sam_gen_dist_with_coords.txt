@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daphne_oleoides	OQ791730.1	20-SEP-2023	718	Spain: Granada, Castril, coronando Sierra Seca, hacia La Laguna	secondary	rps16	37.1734995	-3.5995337	0.000697350069735007
+Daphne_oleoides	OQ791729.1	20-SEP-2023	856	Italy: Sardinia, Fonni. Gemargentu. Bronco Spina	secondary	rps16	40.06150285	9.09758935360066	0.00087719298245614
+Daphne_oleoides	OQ791728.1	20-SEP-2023	856	Greece: Kozani, Askio, macizo Askion, monte Siniatsikon, por encima de Namata	secondary	rps16	40.3007259	21.7883119	0.00087719298245614
+Daphne_oleoides	OQ791727.1	20-SEP-2023	856	Bulgaria: Plovdiv, Rhodopes centrales - Dobrostan, senda hacia el pico Chervenata stena	secondary	rps16	42.1418541	24.7499297	0.00087719298245614
+Daphne_oleoides	OQ791682.1	20-SEP-2023	855	France	secondary	rps16	42.75891545	9.4026630962462	0.00332892901710343

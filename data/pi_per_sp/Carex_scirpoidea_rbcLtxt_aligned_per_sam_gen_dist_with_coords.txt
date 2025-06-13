@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_scirpoidea	MG228039.1	23-JAN-2018	512	Canada: Newfoundland and Labrador, Labrador, Mont Irony, 20 meters right of E775C3 facing the slope	primary	rbcL	55.3994	-67.3014	0.00219412051721824
+Carex_scirpoidea	MG228004.1	23-JAN-2018	510	USA: Alaska, Eklutna Lake, S shore, near W end, 13 mi S of Palmer	primary	rbcL	61.4069	-149.142	0.00220338671451298
+Carex_scirpoidea	MG227971.1	23-JAN-2018	552	Canada: Manitoba, 12 km N of Fisher Branch, S side of Marble Ridge rd, 2 km W of its jct with hwy 17	primary	rbcL	51.1844	-97.635	0.00219241401007956
+Carex_scirpoidea	MG227384.1	23-JAN-2018	663	Canada: Nunavut, Baffin Island, vicinity of Mary River	primary	rbcL	71.8763306761844	-79.4975391521068	0.00285793067522857
+Carex_scirpoidea	MG227237.1	23-JAN-2018	668	Canada: Nunavut, Baffin Island, Iqaluit, between Apex and Iqaluit	primary	rbcL	63.5860632257136	-67.5962974701811	0.0192737718857395
+Carex_scirpoidea	MG226999.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Between plots E800E5 and E800F6	primary	rbcL	54.4328570436305	-66.0658270040989	0.00219241401007956
+Carex_scirpoidea	MG226032.1	23-JAN-2018	668	Canada: Northwest Territories, Banks Island, Aulavik National Park, site of Muskox enclosure about 2.5 km from confluence of Thomsen and Muskox Rivers	primary	rbcL	73.9596565470885	-120.310968830262	0.00283297463808471
+Carex_scirpoidea	MG225714.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Bonavista South Dist, Mount Stamford, SE facing scree slope, Terra Nova Nat'l Pk	primary	rbcL	48.5618	-53.899	0.00219241401007956
+Carex_scirpoidea	MG225549.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Between plots E800E5 and E800f6	primary	rbcL	55.1371623007768	-67.6970056117026	0.00219241401007956
+Carex_scirpoidea	FJ548283.1	25-AUG-2009	668	Canada: Northwest Territories, Banks Island, Aulavik National Park, site of Muskox exclosure about 2.5 km from confluence of Thomsen and Muskox Rivers	primary	rbcL	73.630901102516	-122.095073160625	0.00283297463808471
+Carex_scirpoidea	FJ548282.1	25-AUG-2009	668	Canada: Nunuavut, Baffin Island, Iqaluit, between Apex and Iqaluit	primary	rbcL	63.3849048278034	-70.0002108066797	0.0192737718857395
+Carex_scirpoidea	FJ548281.1	25-AUG-2009	663	Canada: Nunuavut, Baffin Island	primary	rbcL	70.5005770029842	-79.9944594139979	0.00285793067522857
+Carex_scirpoidea	KC482363.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk. Behind Northern Store/Hotel/Parks Canada building (Paulatuk Centre)	primary	rbcL	69.4667	-124.211	0.00219241401007956
+Carex_scirpoidea	KC482362.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island (Northwest Territories), Aulavik National Park, (Aulavik National Park). Banks of the Thomsen River	primary	rbcL	73.603	-120.033	0.00219241401007956
+Carex_scirpoidea	KC482361.1	25-OCT-2013	552	Canada: Northwest Territories, Ellesmere Island, Nicholson Peninsula, Nicholson Peninsula. Plot 31	primary	rbcL	69.933	-128.933	0.00219241401007956
+Carex_scirpoidea	KC482360.1	25-OCT-2013	552	Canada: Nunavut, Northwest Territories Mainland, Kivalliq Region, Baker Lake. Marine reworked till and beach deposits on N side of Baker Lake	primary	rbcL	64.3	-96.05	0.00219241401007956
+Carex_scirpoidea	KC482359.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vicinity of Holman Island Airport, Uluhaktok	primary	rbcL	70.758	-117.79	0.00219241401007956
+Carex_scirpoidea	KC482358.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	rbcL	68.064	-121.611	0.00219241401007956
+Carex_scirpoidea	KC482357.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Tukarak Island, slightly east facing slope below large rock hills, 50 m from shore	primary	rbcL	56.386	-78.872	0.00219241401007956
+Carex_scirpoidea	KC482356.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.644	-115.493	0.00219241401007956
+Carex_scirpoidea	JN965409.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	rbcL	58.633	-93.79	0.00219241401007956
+Carex_scirpoidea	JN965408.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	rbcL	58.629	-93.798	0.00219241401007956
+Carex_scirpoidea	MG228227.1	23-JAN-2018	552	Canada: Ontario, Barrier Island, Near shore in small ring-billed Gull nesting area	secondary	rbcL	43.72634945	-77.7101179040839	0.00219241401007956
+Carex_scirpoidea	MG226775.1	23-JAN-2018	552	USA: Oregon, Grant Co, Malheur Nat'l Forest, Baldy Mt in the Stawberry Mt Wilderness, on Forest Service rd 811	secondary	rbcL	42.0147513	-89.3323279	0.00219241401007956

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Edraianthus_serbicus	MK556132.1	22-SEP-2019	350	Bulgaria	secondary	rbcL	47.0837762463625	24.85413496628	0.589958947709947
+Edraianthus_serbicus	MK556048.1	22-SEP-2019	360	Bulgaria	secondary	rbcL	47.1792107132114	23.2175539073239	0.596496099004574
+Edraianthus_serbicus	MK555640.1	22-SEP-2019	357	Bulgaria	secondary	rbcL	46.1765081527972	24.3654699305746	0.586169161337954
+Edraianthus_serbicus	MK555497.1	22-SEP-2019	381	Bulgaria	secondary	rbcL	46.3755995903383	22.5482898681825	0.581368444151854

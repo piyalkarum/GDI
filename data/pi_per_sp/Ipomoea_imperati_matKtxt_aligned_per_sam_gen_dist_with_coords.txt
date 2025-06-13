@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ipomoea_imperati	LC604262.1	07-AUG-2021	834	Japan:Okinawa, Iriomote	secondary	matK	24.3668346	123.746487	0.00509144640148389
+Ipomoea_imperati	MH198120.1	03-JUN-2018	633	USA	secondary	matK	39.7837304	-100.445882	0.00657151693841266
+Ipomoea_imperati	KR024920.1	01-DEC-2015	540	Malaysia	secondary	matK	4.5693754	102.2656823	0.00456226561489719
+Ipomoea_imperati	HM850896.1	23-JUL-2011	718	Portugal	secondary	matK	39.6621648	-8.1353519	0.00780195908976783

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_pratense	OR465009.1	26-SEP-2023	434	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	psbA-trnH	42.28859397	-85.61799048	0.00058411214953271
+Trifolium_pratense	OR381765.1	30-SEP-2023	458	Canada: Guelph, ON	secondary	psbA-trnH	43.3286746071932	-80.2818103947853	0.000585480093676815
+Trifolium_pratense	OR381764.1	30-SEP-2023	458	Canada: Guelph, ON	secondary	psbA-trnH	44.0177068015409	-80.5528908882389	0.000585480093676815
+Trifolium_pratense	HE966852.1	18-SEP-2012	434	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00233110920324579
+Trifolium_pratense	FJ493280.1	22-DEC-2008	505	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.000576036866359447

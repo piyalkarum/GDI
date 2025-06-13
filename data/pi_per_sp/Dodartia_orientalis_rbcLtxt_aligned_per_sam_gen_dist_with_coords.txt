@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dodartia_orientalis	OR575220.1	25-OCT-2023	504	Kazakhstan: Qaragandy region	primary	rbcL	47.43832	74.81248	0.039021164021164
+Dodartia_orientalis	MT931657.1	03-MAR-2023	565	China	secondary	rbcL	34.7878573368966	105.876350904	0.0380858734841036
+Dodartia_orientalis	MT931656.1	03-MAR-2023	565	China	secondary	rbcL	35.2520548632791	103.986293360872	0.0957578311560612
+Dodartia_orientalis	JQ342984.1	31-DEC-2014	1393	China	secondary	rbcL	35.4733754560591	105.471460925319	0.048015873015873

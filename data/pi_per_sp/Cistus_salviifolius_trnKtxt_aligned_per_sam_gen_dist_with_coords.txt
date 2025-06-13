@@ -1,0 +1,54 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cistus_salviifolius	GU289080.1	08-DEC-2010	98	Turkey: Sinop	secondary	trnK	41.6476377	34.9560137	0
+Cistus_salviifolius	GU289079.1	08-DEC-2010	98	Turkey: Bursa	secondary	trnK	40.5103954997582	29.9200214051889	0
+Cistus_salviifolius	GU289078.1	08-DEC-2010	98	Turkey: Bursa	secondary	trnK	40.3672156936051	29.3174752059069	0
+Cistus_salviifolius	GU289077.1	08-DEC-2010	98	Turkey: Bursa	secondary	trnK	40.7987378380568	29.6634169775674	0
+Cistus_salviifolius	GU289076.1	08-DEC-2010	98	Turkey: Baliklicesme	secondary	trnK	40.3104001	27.0832968	0
+Cistus_salviifolius	GU289075.1	08-DEC-2010	103	Greece: Crete, Hania	secondary	trnK	35.5120831	24.0191544	0
+Cistus_salviifolius	GU289074.1	08-DEC-2010	103	Greece: Crete, Vlatos - Ellos	secondary	trnK	35.3084952	24.463342318423	0
+Cistus_salviifolius	GU289073.1	08-DEC-2010	103	Greece: Lavrio	secondary	trnK	37.7142551	24.0548015	0
+Cistus_salviifolius	GU289072.1	08-DEC-2010	98	Greece: Kapandriti	secondary	trnK	38.2158722	23.8771927	0
+Cistus_salviifolius	GU289071.1	08-DEC-2010	103	Greece: Chalkis	secondary	trnK	36.4536827	28.2195875	0
+Cistus_salviifolius	GU289070.1	08-DEC-2010	98	Greece: Beocia	secondary	trnK	38.3574477	23.1101239	0
+Cistus_salviifolius	GU289068.1	08-DEC-2010	103	Italy: Sicily, Palermo	secondary	trnK	38.1112268	13.3524434	0
+Cistus_salviifolius	GU289067.1	08-DEC-2010	98	Italy: Sardinia, Nuoro	secondary	trnK	40.2639705	9.1272201	0
+Cistus_salviifolius	GU289066.1	08-DEC-2010	98	Italy: Santa Brigida	secondary	trnK	45.984547	9.6217915	0
+Cistus_salviifolius	GU289065.1	08-DEC-2010	103	Italy: San Giuliano Terme	secondary	trnK	43.8910555826716	9.3106193584031	0
+Cistus_salviifolius	GU289064.1	08-DEC-2010	103	Italy: San Giuliano Terme	secondary	trnK	44.5386612169913	10.9076892790682	0
+Cistus_salviifolius	GU289063.1	08-DEC-2010	103	Italy: San Giuliano Terme	secondary	trnK	43.6869747240394	10.5615085215668	0
+Cistus_salviifolius	GU289062.1	08-DEC-2010	98	France: Corsica, Col de Sorba	secondary	trnK	42.1441461	9.1903461	0
+Cistus_salviifolius	GU289061.1	08-DEC-2010	98	France: Le Vigan - Pommiers	secondary	trnK	43.9519	3.60944	0
+Cistus_salviifolius	GU289060.1	08-DEC-2010	98	France: Saint-Chinian	secondary	trnK	43.4215	2.94677	0
+Cistus_salviifolius	GU289059.1	08-DEC-2010	98	Spain: Ibiza, Sestanyol	secondary	trnK	38.9743901	1.41974631785153	0
+Cistus_salviifolius	GU289058.1	08-DEC-2010	98	Spain: Barcelona, Montseny	secondary	trnK	41.7593697	2.3952061	0
+Cistus_salviifolius	GU289057.1	08-DEC-2010	98	Spain: Tarragona, Tossal de la Baltasana	secondary	trnK	41.3259906	1.0041897	0
+Cistus_salviifolius	GU289056.1	08-DEC-2010	98	Spain: Castellon, Alcocebre	secondary	trnK	40.2447466	0.2755863	0
+Cistus_salviifolius	GU289055.1	08-DEC-2010	98	Spain: Castellon, Penyagolosa	secondary	trnK	40.2227596	-0.3497418	0
+Cistus_salviifolius	GU289054.1	08-DEC-2010	98	Spain: Soria, Vozmediano	secondary	trnK	41.8382377	-1.8559358	0
+Cistus_salviifolius	GU289053.1	08-DEC-2010	98	Spain: Guadalajara, Siguenza	secondary	trnK	41.0680324	-2.6405659	0
+Cistus_salviifolius	GU289052.1	08-DEC-2010	98	Spain: Jaen, Siles	secondary	trnK	38.3878613	-2.5826373	0
+Cistus_salviifolius	GU289051.1	08-DEC-2010	98	Spain: Almeria, Cabo de Gata	secondary	trnK	36.7210296	-2.1932327	0
+Cistus_salviifolius	GU289050.1	08-DEC-2010	98	Spain: Granada, Haza de Lino	secondary	trnK	36.8163405	-3.3186718	0
+Cistus_salviifolius	GU289049.1	08-DEC-2010	103	Spain: Malaga, Sierra Bermeja	secondary	trnK	36.5717463	-4.8389681	0
+Cistus_salviifolius	GU289048.1	08-DEC-2010	103	Spain: Cordoba, Posadas - Villaviciosa	secondary	trnK	37.8104384	-5.1034471	0
+Cistus_salviifolius	GU289047.1	08-DEC-2010	103	Spain: Huelva, Ayamonte	secondary	trnK	37.215797	-7.4060169	0
+Cistus_salviifolius	GU289046.1	08-DEC-2010	103	Spain: Huelva, Campofrio	secondary	trnK	37.7655617	-6.5767028	0
+Cistus_salviifolius	GU289045.1	08-DEC-2010	98	Spain: Badajoz, Embalse de Cornalvo	secondary	trnK	39.0587751	-6.3119355	0
+Cistus_salviifolius	GU289044.1	08-DEC-2010	103	Spain: Toledo, San Pablo de los Montes	secondary	trnK	39.5392497	-4.3317193	0
+Cistus_salviifolius	GU289043.1	08-DEC-2010	103	Spain: Avila, Arenas de San Pedro	secondary	trnK	40.2107266	-5.0868775	0
+Cistus_salviifolius	GU289042.1	08-DEC-2010	103	Spain: Salamanca, Garcibuey	secondary	trnK	40.5160656	-5.9922747	0
+Cistus_salviifolius	GU289041.1	08-DEC-2010	103	Spain: Caceres, Sierra de Gata	secondary	trnK	40.1924434	-6.6810451	0
+Cistus_salviifolius	GU289040.1	08-DEC-2010	103	Spain: Santander, Noja	secondary	trnK	43.4813309	-3.5210066	0
+Cistus_salviifolius	GU289039.1	08-DEC-2010	103	Spain: Santander, Quintanilla	secondary	trnK	43.4545442	-3.8508633	0
+Cistus_salviifolius	GU289038.1	08-DEC-2010	103	Spain: Orense, A Rua	secondary	trnK	42.3952755	-7.1141649	0
+Cistus_salviifolius	GU289037.1	08-DEC-2010	73	Spain: Pontevedra, Islas Cies	secondary	trnK	42.1990492	-8.9029854	0
+Cistus_salviifolius	GU289036.1	08-DEC-2010	103	Portugal: Ourique	secondary	trnK	37.651112	-8.2237262	0
+Cistus_salviifolius	GU289035.1	08-DEC-2010	103	Portugal: Sagres	secondary	trnK	37.0078288	-8.941924	0
+Cistus_salviifolius	GU289034.1	08-DEC-2010	103	Tunisia: Nabul	secondary	trnK	36.4512897	10.7355915	0
+Cistus_salviifolius	GU289033.1	08-DEC-2010	103	Morocco: Tafouralt	secondary	trnK	34.8067419	-2.4164896	0
+Cistus_salviifolius	GU289032.1	08-DEC-2010	103	Morocco: Monte Gurugu	secondary	trnK	35.2206783	-2.9973479	0
+Cistus_salviifolius	GU289031.1	08-DEC-2010	103	Morocco: Taza	secondary	trnK	34.230155	-4.010104	0
+Cistus_salviifolius	GU289030.1	08-DEC-2010	103	Morocco: Beni Hadifa	secondary	trnK	34.951068	-4.138968	0
+Cistus_salviifolius	GU289028.1	08-DEC-2010	103	Morocco: Tanger	secondary	trnK	35.7642313	-5.8429614	0
+Cistus_salviifolius	GU289027.1	08-DEC-2010	103	Morocco: Amizmiz	secondary	trnK	31.2171012	-8.2332754	0
+Cistus_salviifolius	GU289026.1	08-DEC-2010	79	Morocco: Asni	secondary	trnK	31.2496355	-7.980004	0

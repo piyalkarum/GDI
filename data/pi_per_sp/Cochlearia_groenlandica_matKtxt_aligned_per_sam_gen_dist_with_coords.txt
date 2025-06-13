@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cochlearia_groenlandica	KC474481.1	25-OCT-2013	659	Canada: Northwest Territories, Victoria Island, Boot Inlet, Shoreline at NE corner of Boot Inlet	primary	matK	71.455	-117.463	0.00219188085091
+Cochlearia_groenlandica	KC474480.1	25-OCT-2013	636	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	matK	74.5333	-82.7833	0.000950421174997764
+Cochlearia_groenlandica	KC474479.1	25-OCT-2013	762	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	matK	70.735	-117.761	0.00218743757050196
+Cochlearia_groenlandica	KC474478.1	25-OCT-2013	642	Canada: Nunavut, Hudson Bay, Belcher Islands, Snape Island. Anurituq, Rock Passage, on northeast tip of island, on Omarolluk Sound	primary	matK	55.883	-79.217	0.00094451552513419
+Cochlearia_groenlandica	KC474477.1	25-OCT-2013	625	Canada: Nunavut, Axel Heiberg Island, Expedition River, McGill University Field Camp on N side of Expedition River. Moist saline slope along river ~1.5 km S of camp	primary	matK	79.4	-90.8	0.00224
+Cochlearia_groenlandica	KC474476.1	25-OCT-2013	636	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	matK	62.8553	-67.3469	0.000950421174997764

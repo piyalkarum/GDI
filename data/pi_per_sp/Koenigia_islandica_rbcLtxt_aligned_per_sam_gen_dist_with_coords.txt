@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Koenigia_islandica	MG247634.1	21-JAN-2018	552	Canada: Yukon Territory, Dawson Range, south of Yukon River, along trail Casino Creek	primary	rbcL	62.718	-138.782	0.00737564322469983
+Koenigia_islandica	MG247104.1	21-JAN-2018	552	Canada: Yukon Territory, Richardson Mountains, tributary of Fish Creek, S of Vunta Creek	primary	rbcL	67.892	-136.512	0.00737564322469983
+Koenigia_islandica	KT960443.1	13-DEC-2015	519	Greenland: NE, Zackenberg	primary	rbcL	74.2336868004806	-20.2897774722135	0.00735680504466632
+Koenigia_islandica	KT960440.1	13-DEC-2015	530	Greenland: NE, Zackenberg	primary	rbcL	75.1250431655377	-19.7459823653596	0.0811132372916646
+Koenigia_islandica	KC483072.1	25-OCT-2013	552	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park. NW part	primary	rbcL	69.4167	-139.633	0.00737564322469983
+Koenigia_islandica	KC483071.1	25-OCT-2013	552	Canada: Nunavut, Lower Savage Is., Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbour. Along side of small pond, east of lake, ~500 m from ocean	primary	rbcL	61.819	-65.71	0.00737564322469983
+Koenigia_islandica	KC483070.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Frobisher Bay, At the head of Frobisher Bay	primary	rbcL	63.7333	-68.45	0.00737564322469983
+Koenigia_islandica	MK925558.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0.00737564322469983
+Koenigia_islandica	MK925334.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3420391223352	-3.29189601121429	0.00737564322469983
+Koenigia_islandica	MK925237.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8983576817942	-2.13763372020426	0.00737564322469983
+Koenigia_islandica	MK925137.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4987122485853	-4.74378169533434	0.00737564322469983
+Koenigia_islandica	MK924554.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7859969137385	-4.38540418519156	0.00737564322469983

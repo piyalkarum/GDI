@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_kaliformis	KX959002.1	02-NOV-2017	1050	Spain: Castellon, Cabanes	primary	trnK	40.0096504984115	-0.67882669426459	0
+Odontites_kaliformis	KX959001.1	02-NOV-2017	1050	Spain: Castellon, Cabanes	primary	trnK	39.7883200822147	0.855671304153552	0
+Odontites_kaliformis	KX959000.1	02-NOV-2017	1050	Spain: Valencia, Sagunto	primary	trnK	40.0593239313381	0.308925871802184	0
+Odontites_kaliformis	KX958999.1	02-NOV-2017	1043	Spain: Valencia, Sagunto	primary	trnK	39.8790976309864	0.0696171871438599	0

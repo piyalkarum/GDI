@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_aquatilis	FJ548288.1	30-AUG-2009	504	Canada: Northwest Territories, 128 mi SW of Inuvik on Dempster Hwy (5) towards Eagle Plains	primary	rpoB	67.29	-135.05	0
+Carex_aquatilis	FJ548287.1	30-AUG-2009	519	Canada: Nunuavut, Keewatin District, Coats Island, Hudson Bay	primary	rpoB	62.82	-81.93	0
+Carex_aquatilis	FJ548286.1	30-AUG-2009	515	Canada: Nunuavut, Victoria Island, Cambridge Bay, 3 km NW of Dew Line Site, 5 km WNW of town	primary	rpoB	69.13	-105.17	0
+Carex_aquatilis	FJ548285.1	30-AUG-2009	515	Canada: Northwest Territories, Bathurst Island	primary	rpoB	75.75	-100	0

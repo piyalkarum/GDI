@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_falcata	AJ971574.1	24-MAR-2006	221	Spain:Huelva, Los Marines	secondary	ITS	37.477267782456	-7.3738894176624	0.318293471234648
+Genista_falcata	AJ971573.1	24-MAR-2006	227	Spain:Huelva, Los Marines	secondary	ITS	37.6074405315613	-7.60314506133892	0.314285714285714
+Genista_falcata	AJ971572.1	24-MAR-2006	221	Spain:Caceres, La Jola, Rivera de la Jola	secondary	ITS	38.6462571638665	-6.18292554710694	0.314091790562379
+Genista_falcata	AJ971571.1	24-MAR-2006	227	Spain:Caceres, La Jola, Rivera de la Jola	secondary	ITS	39.1324833664732	-5.48709221534265	0.314285714285714
+Genista_falcata	AJ698969.1	30-APR-2005	221	Portugal:Alto Alentejo, Serra de San Mamede	secondary	ITS	39.2510106334711	-7.73197108263419	0.314091790562379
+Genista_falcata	AJ698968.1	30-APR-2005	227	Portugal:Alto Alentejo, Serra de San Mamede	secondary	ITS	39.5246054666555	-7.69310085981071	0.314285714285714

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armoracia_rusticana	MG246126.1	21-JAN-2018	551	Canada: Quebec, Montreal, Island of Montreal, Parc de la Pointe-aux-Prairies sect. du Fleuve, entre le chemin de fer et le boise	primary	rbcL	45.682	-73.493	0
+Armoracia_rusticana	JN891747.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.61	-2.78	0
+Armoracia_rusticana	MG249502.1	21-JAN-2018	552	Canada: Ontario, RM Niagara, Town of Pelham, City of Thorold & St. Catherines	secondary	rbcL	43.72634945	-77.7101179040839	0
+Armoracia_rusticana	JN891536.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Armoracia_rusticana	JN891533.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0

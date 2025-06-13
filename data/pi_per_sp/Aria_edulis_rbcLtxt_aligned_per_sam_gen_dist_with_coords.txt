@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aria_edulis	JN892380.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.66	-2.7	0
+Aria_edulis	GQ248697.1	24-JUN-2009	553	United Kingdom: Gloucestershire	secondary	rbcL	51.8333313	-2.1666674	0
+Aria_edulis	KX163045.1	16-JUL-2016	599	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Aria_edulis	HG765087.1	18-NOV-2013	711	Czech Republic	secondary	rbcL	49.7439047	15.3381061	0.000401848503114326
+Aria_edulis	HG765086.1	18-NOV-2013	711	Italy	secondary	rbcL	42.0292143505418	12.2087915157014	0.000200924251557163
+Aria_edulis	HG765085.1	18-NOV-2013	711	Italy	secondary	rbcL	42.8774609384529	12.2122408000196	0.000200924251557163
+Aria_edulis	JN891897.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	52.5275262058297	-3.20839060074559	0
+Aria_edulis	JN891344.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.5935454879486	-2.38371447631907	0

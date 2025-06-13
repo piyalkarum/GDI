@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Adenophora_liliifolia	OQ013857.1	30-JUN-2023	369	China	secondary	rpl16	35.000074	104.999927	0.349667920467556
+Adenophora_liliifolia	OQ013856.1	30-JUN-2023	369	Austria	secondary	rpl16	36.7258624976721	-4.76852116852017	0.351168277695468
+Adenophora_liliifolia	MK556774.1	22-SEP-2019	325	Austria	secondary	rpl16	36.9734866039917	-3.89987130124661	NA
+Adenophora_liliifolia	MK556691.1	22-SEP-2019	415	Austria	secondary	rpl16	37.1273286045184	-4.58601763896715	NA
+Adenophora_liliifolia	HQ704590.1	02-JUL-2011	990	South Korea: Mt.Seorak	secondary	rpl16	38.1646397	128.6078137	0.239997749945167

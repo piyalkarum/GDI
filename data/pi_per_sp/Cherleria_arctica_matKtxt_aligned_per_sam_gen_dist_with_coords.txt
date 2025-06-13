@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cherleria_arctica	KC475003.1	25-OCT-2013	774	Canada: Yukon Territory, Ivvavik National Park, British Mountains	primary	matK	69.217	-139.15	0.0213993206816908
+Cherleria_arctica	KC475002.1	25-OCT-2013	709	Canada: Yukon Territory, Ivvavik National Park, Buckland Hills	primary	matK	69.417	-139.633	0.018688293370945
+Cherleria_arctica	KC475001.1	25-OCT-2013	774	Canada: Yukon Territory, Richardson Mountains, Blow River Delta	primary	matK	68.217	-136.583	0.020399880842404
+Cherleria_arctica	KC475000.1	25-OCT-2013	776	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park NW part	primary	matK	69.4167	-139.633	0.0204263376639938
+Cherleria_arctica	OQ172379.1	18-JUN-2023	776	South Korea	secondary	matK	36.638392	127.6961188	0.0776229632163774

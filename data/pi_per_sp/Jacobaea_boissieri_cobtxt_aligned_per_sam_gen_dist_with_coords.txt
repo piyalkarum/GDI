@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_boissieri	HE614445.1	27-JAN-2012	1130	Spain:Mulhacen	secondary	cob	37.360549050265	-3.73170662889549	0.447097439454976
+Jacobaea_boissieri	HE614444.1	27-JAN-2012	1130	Spain:Pico del Tosal	secondary	cob	39.9818706839408	0.120922253710655	0.447416673293763
+Jacobaea_boissieri	HE614373.1	27-JAN-2012	942	Spain:Mulhacen	secondary	cob	37.3114727640455	-3.2527986968339	0.508820310336753
+Jacobaea_boissieri	HE614372.1	27-JAN-2012	942	Spain:Pico del Tosal	secondary	cob	40.3782700933253	0.378869639707946	0.508820310336753
+Jacobaea_boissieri	HE614301.1	27-JAN-2012	595	Spain:Mulhacen	secondary	cob	37.189268171405	-3.86601077095401	0.500735802349477
+Jacobaea_boissieri	HE614300.1	27-JAN-2012	595	Spain:Pico del Tosal	secondary	cob	40.4343019363854	0.227106352454503	0.500735802349477
+Jacobaea_boissieri	HE614517.1	27-JAN-2012	616	Spain:Mulhacen	secondary	cob	37.0877251771188	-3.03408277456994	0.51374114242568
+Jacobaea_boissieri	HE614516.1	27-JAN-2012	616	Spain:Pico del Tosal	secondary	cob	40.7941134553228	-0.712399109974436	0.51374114242568

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_dracunculus	KX582110.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	44.2258624517273	81.1833954796963	0.00205761316872428
+Artemisia_dracunculus	KX582109.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	43.350770235255	80.7237135246822	0.000342935528120713
+Artemisia_dracunculus	KX582108.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	43.9662302518917	81.7462378431904	0.000342935528120713
+Artemisia_dracunculus	KX582107.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	43.883204003655	80.4804963084074	0.000342935528120713
+Artemisia_dracunculus	KX582106.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	43.8672619370432	81.2545150875356	0.000342935528120713
+Artemisia_dracunculus	KX582105.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	43.0642017088824	81.2805579022545	0.000342935528120713
+Artemisia_dracunculus	KX582104.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	43.9364996736126	81.0533262408403	0.000342935528120713

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Primula_scandinavica	EF218371.1	31-JAN-2008	826	Norway: Nordland	secondary	rps16	67.0707671328763	13.5993206058743	0.000302663438256659
+Primula_scandinavica	EF218370.1	31-JAN-2008	826	Norway: Oppland	secondary	rps16	66.757189198292	12.4085071481573	0.00121065375302663
+Primula_scandinavica	EF218369.1	31-JAN-2008	826	Norway: Oppland	secondary	rps16	65.4934735840703	12.6114909017751	0.000302663438256659
+Primula_scandinavica	DQ379907.1	14-SEP-2006	826	Norway: Nordland	secondary	rps16	66.5666143019379	15.0314194874125	0.000302663438256659
+Primula_scandinavica	DQ379906.1	14-SEP-2006	826	Norway: Troms	secondary	rps16	69.5311071	19.5296839	0.000302663438256659

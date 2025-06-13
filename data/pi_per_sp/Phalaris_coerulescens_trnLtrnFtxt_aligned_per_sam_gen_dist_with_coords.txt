@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phalaris_coerulescens	KJ529408.1	22-FEB-2015	810	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.00213375547151045
+Phalaris_coerulescens	KF753791.1	11-DEC-2013	751	Algeria	secondary	trnL-trnF	28.0000272	2.9999825	0.00223265793452047
+Phalaris_coerulescens	JF951116.1	11-DEC-2011	1474	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.000909531405201204
+Phalaris_coerulescens	JF951102.1	11-DEC-2011	1650	United Kingdom	secondary	trnL-trnF	54.7023545	-3.2765753	0.00347374478773047

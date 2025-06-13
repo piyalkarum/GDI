@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pancratium_maritimum	OQ791309.1	02-AUG-2023	584	Egypt	primary	rbcL	31.3728	27.1903	0.000107020547945205
+Pancratium_maritimum	KY656730.1	23-JAN-2018	715	Egypt	secondary	rbcL	27.0520145395462	29.2722324470679	0.00375370266337824
+Pancratium_maritimum	KY656724.1	23-JAN-2018	683	Egypt	secondary	rbcL	26.1609624066069	29.5857509529568	0.00198667943124254
+Pancratium_maritimum	KY400630.1	26-NOV-2017	574	Turkey	secondary	rbcL	38.9597594	34.9249653	NA
+Pancratium_maritimum	HM850226.1	23-JUL-2011	743	Portugal	secondary	rbcL	39.6621648	-8.1353519	NA
+Pancratium_maritimum	HE565508.1	14-NOV-2012	1056	Libya:Darnah	secondary	rbcL	32.7593795	22.6383195	0.000224506605252215
+Pancratium_maritimum	HE565507.1	14-NOV-2012	1056	Spain:Barcelona, Llobregat	secondary	rbcL	41.3598601	2.0997927	0.000224506605252215
+Pancratium_maritimum	HE565506.1	14-NOV-2012	1056	Morocco:Casablanca, Mohammedia	secondary	rbcL	33.6958383	-7.3893292	0.000224506605252215
+Pancratium_maritimum	HE565501.1	14-NOV-2012	1056	Egypt:Baltim	secondary	rbcL	31.554444	31.090278	0.000224506605252215
+Pancratium_maritimum	FN594933.1	26-AUG-2010	1056	Israel	secondary	rbcL	30.8124247	34.8594762	0.000224506605252215
+Pancratium_maritimum	FN594932.1	26-AUG-2010	1056	Italy:Pelagie Islands, Linosa	secondary	rbcL	35.5592682630732	12.8945615851597	0.000224506605252215
+Pancratium_maritimum	FN594931.1	26-AUG-2010	1056	Italy:Pelagie Islands, Lampione	secondary	rbcL	35.522137948894	11.8947116447387	0.000224506605252215
+Pancratium_maritimum	FN594930.1	26-AUG-2010	1056	Italy:Pelagie Islands, Lampedusa	secondary	rbcL	35.2970399928842	11.982111897028	0.000224506605252215
+Pancratium_maritimum	FN594929.1	26-AUG-2010	1056	Italy:Ischitella	secondary	rbcL	41.904344	15.899453	0.000224506605252215
+Pancratium_maritimum	FN594928.1	26-AUG-2010	1056	Italy:Gallipoli	secondary	rbcL	40.05672	17.996423	0.000224506605252215
+Pancratium_maritimum	FN594927.1	26-AUG-2010	1056	Italy:Sicily, Catina, Foce Simeto	secondary	rbcL	37.4001607	15.0778379	0.000224506605252215
+Pancratium_maritimum	FN594926.1	26-AUG-2010	1056	Greece:Crete, Elafonissi	secondary	rbcL	35.2693909	23.5314766	0.000224506605252215

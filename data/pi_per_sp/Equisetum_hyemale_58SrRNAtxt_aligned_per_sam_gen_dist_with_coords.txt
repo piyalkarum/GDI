@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Equisetum_hyemale	AB817889.1	17-APR-2014	606	South Korea: Gyeongsangbuk-do	secondary	5.8S rRNA	36.5754	128.5058	0
+Equisetum_hyemale	AB817888.1	17-APR-2014	606	South Korea: Gangwon-do	secondary	5.8S rRNA	38.3955750552274	127.355046981526	0
+Equisetum_hyemale	AB817887.1	17-APR-2014	606	South Korea: Gangwon-do	secondary	5.8S rRNA	38.4887576595089	127.278271109153	0
+Equisetum_hyemale	AB817886.1	17-APR-2014	606	South Korea: Gangwon-do	secondary	5.8S rRNA	37.3724421844686	126.8841291178	0
+Equisetum_hyemale	AB817885.1	17-APR-2014	606	South Korea: Gangwon-do	secondary	5.8S rRNA	37.6261430699852	128.820222134361	0
+Equisetum_hyemale	AB817884.1	17-APR-2014	606	South Korea: Gangwon-do, Jeongseon-gun, Jeongseon-eup	secondary	5.8S rRNA	37.3796216	128.6618047	0
+Equisetum_hyemale	AB817883.1	17-APR-2014	606	South Korea: Gangwon-do, Pyeongchang-gun, Jinbu-myeon	secondary	5.8S rRNA	37.6230237	128.5555834	0
+Equisetum_hyemale	AB817882.1	17-APR-2014	606	South Korea: Gangwon-do, Inje-gun, Girin-myeon, Bangdong-ri	secondary	5.8S rRNA	37.92512	128.40756	0
+Equisetum_hyemale	AB817880.1	17-APR-2014	606	South Korea: Gangwon-do, jeombongsan	secondary	5.8S rRNA	38.04874	128.425643	0

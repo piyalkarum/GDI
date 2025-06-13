@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_aconitifolius	EU792727.1	30-JUN-2009	798	Switzerland	secondary	rpl20-rps12	46.8554767884917	7.30048991272387	0
+Ranunculus_aconitifolius	EU792722.1	30-JUN-2009	798	Italy	secondary	rpl20-rps12	42.088474041685	12.0905652438141	0
+Ranunculus_aconitifolius	EU792721.1	30-JUN-2009	798	Italy	secondary	rpl20-rps12	43.0759267954485	12.5447598592397	0
+Ranunculus_aconitifolius	EU792720.1	30-JUN-2009	798	Italy	secondary	rpl20-rps12	43.254655372961	13.245521390632	0
+Ranunculus_aconitifolius	EU792719.1	30-JUN-2009	798	Switzerland	secondary	rpl20-rps12	46.8320663064084	8.86243559091245	0

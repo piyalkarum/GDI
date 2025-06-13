@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_holostoma	MG227824.1	23-JAN-2018	552	Canada: Northwest Territories, Trinity Co, near Beaufort Seacoast, 9 km SW of Tuktoyaktuk	primary	rbcL	69.3708	-133.183	0.0036231884057971
+Carex_holostoma	KC482285.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East side of Hornaday River	primary	rbcL	68.3	-121.858	0.000603864734299517
+Carex_holostoma	KC482287.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay region, Ferguson Lake	primary	rbcL	62.92	-96.88	0.000603864734299517
+Carex_holostoma	KC482286.1	25-OCT-2013	552	Canada: Yukon Territory, Kay Point	primary	rbcL	69.29	-138.37	0.000603864734299517
+Carex_holostoma	KC482284.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Arviat, near airport, less than 1 km from Hudson Bay coast, SW of Arviat	primary	rbcL	61.09	-94.11	0.000603864734299517
+Carex_holostoma	KC482283.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Hornaday River, ~1 km downstream of valley leading to Castle Butte	primary	rbcL	68.1833	-121.825	0.000603864734299517
+Carex_holostoma	KC482282.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour, in gully west of camp	primary	rbcL	62.85	-67.35	0.000603864734299517

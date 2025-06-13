@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_latifolium	MH488006.1	20-JAN-2022	2129	France	secondary	Adh	46.603354	1.8883335	0.00442529146295253
+Cerastium_latifolium	MH488005.1	20-JAN-2022	2126	Austria	secondary	Adh	36.9148511	-4.7534501	0.00394634596700529
+Cerastium_latifolium	MH487999.1	20-JAN-2022	2128	Italy	secondary	Adh	42.5438209269772	12.0958418650111	0.00456547523252011
+Cerastium_latifolium	MH487922.1	20-JAN-2022	2041	Italy	secondary	Adh	42.6731668191234	12.9891369216063	0.00978740502492978

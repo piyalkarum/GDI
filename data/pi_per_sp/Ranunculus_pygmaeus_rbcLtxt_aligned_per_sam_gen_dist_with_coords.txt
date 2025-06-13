@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_pygmaeus	MG249576.1	21-JAN-2018	523	Canada: Yukon Territory, Blow River Delta, mainland sites S of E delta, rich bluffs	primary	rbcL	68.872	-136.98	0
+Ranunculus_pygmaeus	MG248912.1	21-JAN-2018	552	Canada: Yukon Territory, Richardson Mountains, tributary of Fish Creek, S of Vunta Creek	primary	rbcL	67.873	-136.563	0
+Ranunculus_pygmaeus	KT960734.1	13-DEC-2015	535	Greenland: NE, Zackenberg	primary	rbcL	74.8612496233581	-17.9264657665693	0
+Ranunculus_pygmaeus	KT960698.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.0622981700529	-19.9956225177658	0
+Ranunculus_pygmaeus	KT960532.1	13-DEC-2015	535	Greenland: NE, Zackenberg	primary	rbcL	74.3075451951906	-18.1087329813151	0
+Ranunculus_pygmaeus	KC483860.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Sandy bank of Kuujjua River south Fish lake, 17 km SE of Minto Inlet	primary	rbcL	71.1119	-116.106	0
+Ranunculus_pygmaeus	KC483859.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ogac Lake, S shore of Frobisher Bay	primary	rbcL	62.8339	-67.3567	0
+Ranunculus_pygmaeus	KC483858.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	rbcL	74.5333	-82.7833	0
+Ranunculus_pygmaeus	KC483857.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, West end of Johansen Bay at mouth of Mackenzie Creek	primary	rbcL	68.611	-111.369	0
+Ranunculus_pygmaeus	KC483856.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Lennie River, S-facing steep slope above river	primary	rbcL	72.2842	-125.041	0

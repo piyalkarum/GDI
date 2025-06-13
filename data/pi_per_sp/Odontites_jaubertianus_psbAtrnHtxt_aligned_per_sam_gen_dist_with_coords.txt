@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_jaubertianus	KU216869.1	24-JAN-2016	416	France	secondary	psbA-trnH	46.0177910645515	2.37543697648774	0
+Odontites_jaubertianus	KU216868.1	24-JAN-2016	416	France	secondary	psbA-trnH	47.4164058840138	1.35698714450711	0
+Odontites_jaubertianus	KU216848.1	24-JAN-2016	420	France	secondary	psbA-trnH	46.3610685633501	2.90432999311824	0
+Odontites_jaubertianus	KU216847.1	24-JAN-2016	413	France	secondary	psbA-trnH	47.021783599442	1.4252483657922	0

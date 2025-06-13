@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostis_capillaris	KX873192.1	16-OCT-2017	860	Canada: British Columbia, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Rd. Beta Avenue ditch	primary	matK	49.2608	-122.9892	0.0103856907324335
+Agrostis_capillaris	KX873191.1	16-OCT-2017	661	USA: Oregon, Hood River Co., along Hwy. 35 15 km S of Mt. Hood	primary	matK	45.4281	-121.5739	0.00102802892940032
+Agrostis_capillaris	KX873190.1	16-OCT-2017	873	USA: California, Siskiyou Co., 2.4 mi W of Scott Mountain summit (from Hwy. 3)	primary	matK	41.2717	-122.7194	0.00138691821385621
+Agrostis_capillaris	MF597118.1	17-JUL-2018	819	Canada: British Columbia, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Rd. Dry mud flats with Juncus.	primary	matK	48.7486432327065	-123.527596795692	0.00347641233078116
+Agrostis_capillaris	MF597117.1	17-JUL-2018	773	Canada: British Columbia, Lower Mainland, City of Burnaby Works Yard, just E of Willingdon overpass between Douglas Road and Willingdon Road, Beta Avenue ditch.	primary	matK	49.7487306818086	-123.845718701781	0.00103011970190832
+Agrostis_capillaris	MF597116.1	17-JUL-2018	637	Canada: British Columbia, Lower Mainland, Vancouver, just below Cypress Ski Resort in Cypress Provincial Park, N of Vancouver	primary	matK	49.394	-123.196	0.000977963835106692
+Agrostis_capillaris	MF597115.1	17-JUL-2018	778	Canada: British Columbia, W of Smithers along Hwy. 16 across from Kitsequecla Loop road	primary	matK	54.967	-127.326	0.00102443226684122
+Agrostis_capillaris	MF597114.1	17-JUL-2018	796	Canada: British Columbia, 0.5 km up Grizzly Road, S of Hwy. 3, ~5 km E of Osoyos.	primary	matK	49.019	-119.382	0.00158525896200561
+Agrostis_capillaris	MF597113.1	17-JUL-2018	588	Canada: British Columbia, Hazelton Mtns., along Skeena River 15 km E of Cedarvale along Hwy. 16, just W of Jct. 37.	primary	matK	55.088	-123.137	0.00177420390832843
+Agrostis_capillaris	MF597112.1	17-JUL-2018	801	Canada: British Columbia, Vancouver Island, 0.2 km N of Hwy. 19 along Northwest Bay Road (Nanoose area).	primary	matK	49.266	-124.198	0.00285321441561673
+Agrostis_capillaris	JN894581.1	07-MAR-2012	822	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.0011352199770596
+Agrostis_capillaris	MW719259.1	04-SEP-2021	892	Brazil	secondary	matK	-10.3333333	-53.2	0.00144711249525994
+Agrostis_capillaris	LR606809.1	25-JAN-2021	2064	Germany	secondary	matK	34.895926	-83.4665496	0.00142772099305567
+Agrostis_capillaris	MT433177.1	31-MAY-2020	1302	Norway	secondary	matK	64.5731537	11.5280364	0.00272324294765858
+Agrostis_capillaris	KJ529327.1	22-FEB-2015	969	Spain	secondary	matK	39.3856392946326	-4.69619042883548	0.00445973233985851
+Agrostis_capillaris	KJ204434.1	29-JAN-2015	829	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00130489069600028
+Agrostis_capillaris	JX438069.1	31-MAR-2013	1244	Spain	secondary	matK	40.0065741933655	-4.97532195607018	0.00111825167936486
+Agrostis_capillaris	JN896114.1	07-MAR-2012	821	United Kingdom: Cardiganshire	secondary	matK	51.9994640271693	-3.68175940690713	0.00130294925181013
+Agrostis_capillaris	JN895337.1	07-MAR-2012	827	United Kingdom: Cardiganshire	secondary	matK	52.2720328000584	-3.77391103259308	0.00129933891307922

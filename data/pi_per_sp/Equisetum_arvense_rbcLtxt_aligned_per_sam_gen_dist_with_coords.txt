@@ -1,0 +1,41 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Equisetum_arvense	MZ359289.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.000100174013217491
+Equisetum_arvense	MG215520.1	24-JAN-2018	552	USA: North Dakota	primary	rbcL	47.404	-101.925	9.99786887531868e-05
+Equisetum_arvense	MG215152.1	24-JAN-2018	553	Canada: Quebec, Montreal, Ile Bizard, Parc-nature du Bois-de-l'Ile-Bizard	primary	rbcL	45.512	-73.863	9.99786887531868e-05
+Equisetum_arvense	MG215057.1	24-JAN-2018	552	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, South Point Trail, Rondeau Road trailhead parking lot	primary	rbcL	42.279	-81.861	9.99786887531868e-05
+Equisetum_arvense	HQ590081.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 150 m W along creek from wire fence NW of Willow Ridge house	primary	rbcL	44.038	-79.539	0.0002288055216824
+Equisetum_arvense	KT960731.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.047288602779	-22.4602719073719	9.99786887531868e-05
+Equisetum_arvense	KT960639.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.9843497628348	-19.9070524376696	9.99786887531868e-05
+Equisetum_arvense	KT960493.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.4144395553461	-21.7248791861291	9.99786887531868e-05
+Equisetum_arvense	KT960473.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	9.99786887531868e-05
+Equisetum_arvense	KT695464.1	29-SEP-2015	551	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.000100370102476696
+Equisetum_arvense	KJ593390.1	17-MAR-2015	553	USA: Wisconsin, Riverview	primary	rbcL	45.222	-88.444	9.99786887531868e-05
+Equisetum_arvense	KJ593389.1	17-MAR-2015	553	USA: Wisconsin, Silvercliff	primary	rbcL	45.516	-88.404	9.99786887531868e-05
+Equisetum_arvense	KJ593388.1	17-MAR-2015	553	USA: Wisconsin, Mountain	primary	rbcL	45.124	-88.35	9.99786887531868e-05
+Equisetum_arvense	KJ841302.1	04-NOV-2014	570	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.000244911471873107
+Equisetum_arvense	KJ841301.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Along stream by maintenance shed	primary	rbcL	45.537	-73.156	0.000244911471873107
+Equisetum_arvense	KJ841300.1	04-NOV-2014	569	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Near maintenance parking lot	primary	rbcL	45.538	-73.155	0.000244911471873107
+Equisetum_arvense	KC482726.1	25-OCT-2013	552	Canada: Northwest Territories, Mackenzie River Delta, Oniak Channel, 40 km N/NW of Inuvik	primary	rbcL	68.667	-134.267	9.99786887531868e-05
+Equisetum_arvense	KC482725.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Parker River Valley, N side c. 7 km from sea	primary	rbcL	73.6167	-115.85	9.99786887531868e-05
+Equisetum_arvense	KC482724.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Croker Bay, E side near entrance	primary	rbcL	74.5333	-82.7833	9.99786887531868e-05
+Equisetum_arvense	KC482723.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island, McCormick Inlet Sandy raised river terraces along major river 7 km W of head of inlet Loc. # 45	primary	rbcL	75.7833	-112.417	9.99786887531868e-05
+Equisetum_arvense	KC482722.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	rbcL	69.45	-124.197	9.99786887531868e-05
+Equisetum_arvense	KC482721.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Large unnamed lake, ca. 18 km ENE of Johansen Bay airstrip	primary	rbcL	68.767	-110.819	9.99786887531868e-05
+Equisetum_arvense	KC482720.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Along River in middle of town, leading from school to ocean	primary	rbcL	56.6769194936061	-80.0794489655486	9.99786887531868e-05
+Equisetum_arvense	KC482719.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, De Salis Bay, Flat plain along Sandhill River, 1.5-2km from mouth	primary	rbcL	71.4544	-121.868	9.99786887531868e-05
+Equisetum_arvense	KC482718.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	rbcL	66.839	-108.035	9.99786887531868e-05
+Equisetum_arvense	KC482717.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Nettilling Lake, Burwash Bay	primary	rbcL	65.95	-71.3	9.99786887531868e-05
+Equisetum_arvense	KC482716.1	25-OCT-2013	552	Canada: Nunavut, Rankin Inlet, 13 km NW of Rankin Inlet along Meliadine esker at NE end Sik-sik Lake, Meliadine River Park study area	primary	rbcL	62.9167	-92.2333	9.99786887531868e-05
+Equisetum_arvense	KC482715.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Near John Richardson Bay	primary	rbcL	80.35	-71.35	9.99786887531868e-05
+Equisetum_arvense	KC482714.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, RCMP Post, Alexandra Fiord	primary	rbcL	78.8833	-75.75	9.99786887531868e-05
+Equisetum_arvense	KC482713.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, Dry south facing slope of cliff, 5 km NE of head of Minto Inlet	primary	rbcL	71.568	-115.433	9.97841246175589e-05
+Equisetum_arvense	KC482712.1	25-OCT-2013	552	Canada: Northwest Territories, Anderson River, Cape Bathurst E side, brook system N of river from Lake McKinlay, 0.7-1.5 km from sea	primary	rbcL	70.4833	-127.8	9.99786887531868e-05
+Equisetum_arvense	KC482711.1	25-OCT-2013	552	Canada: Nunavut, Qikiqtaaluk Region, Hot Weather Creek Site 14, 25 km east of Eureka Fosheim Peninsula	primary	rbcL	79.9667	-84.4333	9.99786887531868e-05
+Equisetum_arvense	KC482710.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Centre town beside house 582	primary	rbcL	63.75	-68.4667	9.99786887531868e-05
+Equisetum_arvense	KC482709.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Along River in middle of town, leading from school to ocean	primary	rbcL	57.4313311134619	-79.144197270627	9.99786887531868e-05
+Equisetum_arvense	KC482708.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Vendom Fiord, river bed near head of the fiord	primary	rbcL	78.0667	-82.8	9.99786887531868e-05
+Equisetum_arvense	KC482707.1	25-OCT-2013	552	Canada: Northwest Territories, Tuktoyaktuk, Tuktoyaktuk Area #17	primary	rbcL	69.4333	-132.933	9.99786887531868e-05
+Equisetum_arvense	KC482706.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Augustus Hills, North shore of Dease Straight	primary	rbcL	69.183	-105.617	9.99786887531868e-05
+Equisetum_arvense	KJ204336.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	9.99786887531868e-05
+Equisetum_arvense	AB574683.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.00206708225229093
+Equisetum_arvense	KM218345.1	11-OCT-2014	1269	South Korea	secondary	rbcL	36.638392	127.6961188	0.00201942356112069

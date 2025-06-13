@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_monspeliense	KY778088.1	31-MAY-2017	364		primary	psbA-trnH	44.03	3.37	0.00343406593406593
+Leucanthemum_monspeliense	KY778087.1	31-MAY-2017	364		primary	psbA-trnH	44.58	2.18	0.00555619530170428
+Leucanthemum_monspeliense	LN868970.1	17-SEP-2015	456	France	primary	psbA-trnH	44.09	3.58	0.00773813789067632
+Leucanthemum_monspeliense	LN868969.1	17-SEP-2015	462	France	primary	psbA-trnH	44.14	3.73	0.00499088514342357
+Leucanthemum_monspeliense	HE680942.1	22-APR-2013	339	Spain:Cataluna	secondary	psbA-trnH	41.8523094	1.5745043	0.00222342924769929

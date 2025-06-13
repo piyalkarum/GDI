@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_vaginata	MZ359305.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.0468841561356029
+Carex_vaginata	MG227306.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Top of Mt. Irony.	primary	rbcL	55.1358	-68.7733	0.0467877305118205
+Carex_vaginata	MG225817.1	23-JAN-2018	552	Canada: Yukon Territory, Peel/Blow River Delta, Moose Channel, near YT/NWT border	primary	rbcL	68.7886	-139.529	0.0467877305118205
+Carex_vaginata	MG225767.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On the SW slope, 30 m down E615A1	primary	rbcL	55.1753	-68.2069	0.0467877305118205
+Carex_vaginata	KC482387.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	rbcL	68.064	-121.603	0.0467877305118205
+Carex_vaginata	KC482386.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Camp on Harp Seal Lake, 35 km SW of Sanikiluaq	primary	rbcL	56.317	-79.444	0.0467877305118205
+Carex_vaginata	KC482385.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Richardson Mountains, Tributary of Fish Creek, south of Vunta Creek	primary	rbcL	67.894	-136.502	0.0467877305118205
+Carex_vaginata	KC482384.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk, vicinity of large lake	primary	rbcL	69.425	-124.197	0.0467877305118205
+Carex_vaginata	KC482383.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Sheep Crrek	primary	rbcL	69.161	-140.148	0.0467877305118205
+Carex_vaginata	KC482382.1	25-OCT-2013	552	Canada: Nunavut, Northwest Territories Mainland, Rankin Inlet, N.W.T. District of Keewatin. Rankin Inlet. Kudlulik Peninsula. S shore of the big pond about 200 m NE of the NW section of the airstrip	primary	rbcL	62.817	-92.1	0.0467877305118205
+Carex_vaginata	KC482381.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Small unnamed lake in lee of plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.294	-116.421	0.0467877305118205
+Carex_vaginata	JN965420.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	rbcL	58.769	-93.856	0.0467877305118205
+Carex_vaginata	JN965419.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	rbcL	59.3740853389509	-95.1356835802799	0.0467877305118205
+Carex_vaginata	JN965418.1	27-OCT-2012	522	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	rbcL	58.7237650630761	-95.822957227891	0.0477032474610287
+Carex_vaginata	JN965417.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	rbcL	58.734	-94.112	0.0467877305118205
+Carex_vaginata	JN965416.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	rbcL	58.178	-93.637	0.0467877305118205
+Carex_vaginata	JN965415.1	27-OCT-2012	550	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Wet lichen heath	primary	rbcL	58.747	-93.863	0.0468038882544634
+Carex_vaginata	JN965414.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	rbcL	58.629	-93.798	0.0467877305118205
+Carex_vaginata	MK949997.1	21-MAY-2021	563	Japan	secondary	rbcL	36.5748441	139.2394179	0.519816597403176
+Carex_vaginata	MK949996.1	21-MAY-2021	699	Finland: Etela-Hame	secondary	rbcL	61.2297202	25.8105507	0.510927276667638
+Carex_vaginata	MK925474.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.5407031837079	-3.74654924838843	0.0468841561356029
+Carex_vaginata	MK925242.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7476672744878	-2.75442949703593	0.0468841561356029
+Carex_vaginata	MK924781.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7144786700776	-2.09531137932088	0.0468841561356029
+Carex_vaginata	MK924662.1	14-JAN-2020	542	Estonia	secondary	rbcL	58.7523778	25.3319078	0.0468841561356029

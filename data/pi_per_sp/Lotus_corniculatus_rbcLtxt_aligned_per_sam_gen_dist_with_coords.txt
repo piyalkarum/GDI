@@ -1,0 +1,61 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_corniculatus	OR464846.1	26-SEP-2023	611	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28873151	-85.61892891	0.234323792248938
+Lotus_corniculatus	MW497158.1	18-MAY-2022	553	United Kingdom: England, West Sussex, Cowfold	primary	rbcL	51.0015	-0.2599	0.234771072568244
+Lotus_corniculatus	MN447812.1	21-FEB-2022	553	United Kingdom: England, County Durham, Bishop Auckland Park	primary	rbcL	54.672	-1.66	0.23023034482608
+Lotus_corniculatus	MK030051.1	16-OCT-2019	553	United Kingdom: England, County Durham, Auckland Castle Park	primary	rbcL	54.6721	-1.66	0.23023034482608
+Lotus_corniculatus	MK030035.1	16-OCT-2019	577	United Kingdom: England, Cumbria, Foreshield Burn	primary	rbcL	54.8159	-2.39	0.232580705329914
+Lotus_corniculatus	MG322263.1	11-NOV-2018	579	United Kingdom: England, Nenthead	primary	rbcL	54.7842	-2.3486	0.238983462151066
+Lotus_corniculatus	MG249841.1	21-JAN-2018	553	Canada: Ontario, Wellington, Wellington, Elora Research Station	primary	rbcL	43.6833	-80.4333	0.23023034482608
+Lotus_corniculatus	MG248999.1	21-JAN-2018	522	Canada: Ontario, Wellington County, City of Guelph, University of Guelph Arboretum	primary	rbcL	43.542	-80.215	0.233032320356519
+Lotus_corniculatus	MG248971.1	21-JAN-2018	553	Canada: Ontario, Wellington, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	0.231030129860849
+Lotus_corniculatus	MG247156.1	21-JAN-2018	553	Canada: Ontario, Haldimand, Haldimand, Markdale	primary	rbcL	44.3167	-80.65	0.23023034482608
+Lotus_corniculatus	MG246802.1	21-JAN-2018	525	Canada: Ontario, Wellington County, City of Guelph, University of Guelph, Field near Dairy Bush	primary	rbcL	43.524	-80.234	0.233194462256319
+Lotus_corniculatus	MG246428.1	21-JAN-2018	553	Canada: Ontario, Haldimand, Haldimand, Cayuga	primary	rbcL	42.9538	-79.8573	0.23023034482608
+Lotus_corniculatus	MG246385.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	rbcL	45.188	-81.42	0.230616973102847
+Lotus_corniculatus	MG246346.1	21-JAN-2018	552	Canada: Yukon Territory, Sa Dena Hes mine site	primary	rbcL	60.547	-128.863	0.230616973102847
+Lotus_corniculatus	KX679161.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.045	-125.501	0.230616973102847
+Lotus_corniculatus	KX678736.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	rbcL	49.8102354931407	-119.182298839845	0.230616973102847
+Lotus_corniculatus	KX678528.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, South Shore Rd., west of Caycuse along Cowichan Lake	primary	rbcL	48.9121	-124.437	0.230616973102847
+Lotus_corniculatus	KX678382.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, Port Renfrew-Lake Cowichan Road	primary	rbcL	48.439	-124.109	0.230616973102847
+Lotus_corniculatus	KX677847.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	rbcL	49.1919803856275	-118.969795691439	0.230616973102847
+Lotus_corniculatus	HQ590168.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 200 m W of Willow Ridge driveway on N edge of Side Road 19	primary	rbcL	44.032	-79.534	0.233940553677793
+Lotus_corniculatus	KT695587.1	29-SEP-2015	506	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.238008552185141
+Lotus_corniculatus	KJ593513.1	17-MAR-2015	553	USA: Wisconsin, Wabeno	primary	rbcL	45.604	-88.675	0.23023034482608
+Lotus_corniculatus	KJ593512.1	17-MAR-2015	553	USA: Wisconsin, Blackwell	primary	rbcL	45.464	-88.676	0.23023034482608
+Lotus_corniculatus	KJ841388.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	rbcL	45.535	-73.149	0.231756574182512
+Lotus_corniculatus	JN891333.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.230997498090403
+Lotus_corniculatus	OK863963.1	19-SEP-2022	808	Russia	secondary	rbcL	40.5443965536015	-84.5235804436176	0.352928401921878
+Lotus_corniculatus	OK863962.1	19-SEP-2022	804	Russia	secondary	rbcL	40.7677074207692	-84.9133326745804	0.346657949358405
+Lotus_corniculatus	OK863961.1	19-SEP-2022	806	Russia	secondary	rbcL	40.1033741542871	-84.6325465206026	0.347451604299597
+Lotus_corniculatus	OK863960.1	19-SEP-2022	810	Russia	secondary	rbcL	39.5310963855391	-85.0506176485686	0.347586014175301
+Lotus_corniculatus	OK863959.1	19-SEP-2022	809	Russia	secondary	rbcL	40.7741825992224	-84.8637095914504	0.357495562670816
+Lotus_corniculatus	OK863958.1	19-SEP-2022	653	Russia	secondary	rbcL	40.8602306462464	-84.9096900401321	0.350664574596312
+Lotus_corniculatus	OK863957.1	19-SEP-2022	810	Russia	secondary	rbcL	39.8412623872786	-84.4741080935035	0.350143858884172
+Lotus_corniculatus	OK863956.1	19-SEP-2022	806	Russia	secondary	rbcL	39.6692378105489	-84.9705651411377	0.347062575300001
+Lotus_corniculatus	OK863955.1	19-SEP-2022	805	Russia	secondary	rbcL	40.4748776979272	-84.7527310234601	0.347454160260554
+Lotus_corniculatus	OK863954.1	19-SEP-2022	807	Russia	secondary	rbcL	39.6328063632241	-83.7879057360595	0.348346638651178
+Lotus_corniculatus	OK863953.1	19-SEP-2022	806	Russia	secondary	rbcL	40.3723611160455	-84.0746657092641	0.394923575323659
+Lotus_corniculatus	OK863952.1	19-SEP-2022	805	Russia	secondary	rbcL	40.5712625963042	-84.3892424622371	0.347360351005262
+Lotus_corniculatus	OK863951.1	19-SEP-2022	806	Russia	secondary	rbcL	39.9401574897653	-83.6526919040553	0.348534528018314
+Lotus_corniculatus	OK863950.1	19-SEP-2022	806	Russia	secondary	rbcL	40.6749135226174	-83.6119291400451	0.346620553912803
+Lotus_corniculatus	OK863912.1	19-SEP-2022	804	Russia	secondary	rbcL	40.9760340242575	-84.6828241323988	0.348647325220141
+Lotus_corniculatus	OK863911.1	19-SEP-2022	804	Russia	secondary	rbcL	39.7740430867637	-83.92770690996	0.348673481319743
+Lotus_corniculatus	OK863906.1	19-SEP-2022	812	Russia	secondary	rbcL	40.5550348790808	-84.1793459446301	0.350102452367271
+Lotus_corniculatus	OK863905.1	19-SEP-2022	806	Russia	secondary	rbcL	39.7338868724068	-84.3318259200519	0.346517363438465
+Lotus_corniculatus	OK863904.1	19-SEP-2022	805	Russia	secondary	rbcL	40.4493317246771	-85.3782493111091	0.349833722968091
+Lotus_corniculatus	OK863903.1	19-SEP-2022	806	Russia	secondary	rbcL	40.539683305592	-83.9573714284735	0.346517363438465
+Lotus_corniculatus	OK863902.1	19-SEP-2022	805	Russia	secondary	rbcL	39.7306643287187	-83.5695574739536	0.346517467929025
+Lotus_corniculatus	OK863901.1	19-SEP-2022	805	Russia	secondary	rbcL	40.0366537054813	-84.1588847318049	0.346517467929025
+Lotus_corniculatus	OK863900.1	19-SEP-2022	805	Russia	secondary	rbcL	40.2440016740857	-83.4933531874314	0.346517467929025
+Lotus_corniculatus	OK863899.1	19-SEP-2022	805	Russia	secondary	rbcL	41.0239600196317	-84.273094404561	0.346517467929025
+Lotus_corniculatus	MN204897.1	30-NOV-2021	724	China	secondary	rbcL	29.2860572281124	-94.7448406366703	0.233168673600711
+Lotus_corniculatus	MN192637.1	30-NOV-2021	723	China	secondary	rbcL	30.8551902136239	-94.2349466176732	0.233203943310796
+Lotus_corniculatus	MT921036.1	12-DEC-2020	660	China	secondary	rbcL	30.1761287950378	-94.8981114638648	0.23364025083587
+Lotus_corniculatus	MN601453.1	15-DEC-2019	1428	USA	secondary	rbcL	50.362174	8.6428355	0.224429820451182
+Lotus_corniculatus	KJ746220.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.233729925536992
+Lotus_corniculatus	KJ204370.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.231883113393422
+Lotus_corniculatus	HG417012.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.232308108628265
+Lotus_corniculatus	HM850139.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.225415484977566
+Lotus_corniculatus	JN892127.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.230997498090403
+Lotus_corniculatus	JN890639.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.230997498090403
+Lotus_corniculatus	JN890627.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.230997498090403

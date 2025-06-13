@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cardamine_bellidifolia	MG221084.1	21-JAN-2018	760	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On the NE slope, 50 m from the top, in line with the truck's parking.	primary	matK	55.5064	-67.8361	0.000920989158859522
+Cardamine_bellidifolia	KC474274.1	25-OCT-2013	691	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. In the vicinity of the fresh water lake in lowlands 1 km W of Kihlbay	primary	matK	56.472	-79.042	0.00146907176995781
+Cardamine_bellidifolia	KC474273.1	25-OCT-2013	762	Canada: Northwest Territories, Prince Patrick Island, Central Plateau	primary	matK	76.75	-119.5	0.000920989158859522
+Cardamine_bellidifolia	KC474272.1	25-OCT-2013	661	Canada: Northwest Territories, Prince Patrick Island, West coast	primary	matK	76.76	-120.46	0.000504286434694907

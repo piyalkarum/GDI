@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spiraea_hypericifolia	OR738163.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.27639	83.28917	0.001230012300123
+Spiraea_hypericifolia	OR738116.1	13-NOV-2023	542	Kazakhstan: Atyrau region	primary	rbcL	48.32041	51.57214	0.001230012300123
+Spiraea_hypericifolia	OR670260.1	06-NOV-2023	573	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00363788090177722
+Spiraea_hypericifolia	MT931963.1	03-MAR-2023	566	China	secondary	rbcL	35.000074	104.999927	0.00117785630153121

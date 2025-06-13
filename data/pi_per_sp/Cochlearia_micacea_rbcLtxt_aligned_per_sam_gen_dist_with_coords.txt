@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cochlearia_micacea	MK925516.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2585340912188	-3.72297553177966	0
+Cochlearia_micacea	MK925114.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2783980047737	-3.38582837206977	0
+Cochlearia_micacea	MK924889.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2651315705245	-3.18409672218018	0
+Cochlearia_micacea	MK924782.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1575018311463	-3.6361009085423	0
+Cochlearia_micacea	MK924498.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5115341010848	-1.91377892488584	0

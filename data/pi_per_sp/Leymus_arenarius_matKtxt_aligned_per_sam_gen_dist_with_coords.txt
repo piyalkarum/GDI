@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leymus_arenarius	MF597437.1	17-JUL-2018	792	Canada: British Columbia, Serpentine Fen Bird Sanctuary and Nature Trails Park, just NE of Hwy. 99 and W of Hwy. 99A, E of Mud Bay and S of Serpentine River, off 44 Avenue.	primary	matK	49.082	-122.826	0.231994804799046
+Leymus_arenarius	JN894789.1	07-MAR-2012	1043	United Kingdom: Cardiganshire	primary	matK	52.51	-4.05	0.223095027949397
+Leymus_arenarius	KP210636.1	31-AUG-2017	888	Russia	secondary	matK	65.1101652873821	99.2396210663986	0.222121280189017
+Leymus_arenarius	KP210583.1	31-AUG-2017	321	Russia	secondary	matK	64.7675323040429	98.8541507102215	0.444061994077653
+Leymus_arenarius	KP210531.1	31-AUG-2017	321	Russia	secondary	matK	64.4520496825559	99.3066399002373	0.444061994077653
+Leymus_arenarius	KF277155.1	30-SEP-2013	741	Poland	secondary	matK	52.215933	19.134422	0.22759065685895

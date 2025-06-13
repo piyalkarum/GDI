@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Caucalis_platycarpos	MN261105.1	25-AUG-2020	573	Germany:Saxony-Anhalt	primary	Adh	51.7395910084967	12.2791576683499	0.543089626777426
+Caucalis_platycarpos	MN261068.1	25-AUG-2020	6201	Germany:Saxony-Anhalt	primary	Adh	51.2618657030848	13.4044265839015	0.530984860954849
+Caucalis_platycarpos	MN261031.1	25-AUG-2020	618	Germany:Saxony-Anhalt	primary	Adh	51.0049128742603	11.018104455378	0.539527587502014
+Caucalis_platycarpos	MN260994.1	25-AUG-2020	2013	Germany:Saxony-Anhalt	primary	Adh	51.2086475865184	11.0611086681862	0.559448637523549
+Caucalis_platycarpos	MN260957.1	25-AUG-2020	273	Germany:Saxony-Anhalt	primary	Adh	51.6397978970276	12.3653000639364	0.48648514755372
+Caucalis_platycarpos	MN260920.1	25-AUG-2020	7645	Germany:Saxony-Anhalt	primary	Adh	50.3919562349163	11.3170560942546	0.500067975734906
+Caucalis_platycarpos	MN260883.1	25-AUG-2020	357	Germany:Saxony-Anhalt	primary	Adh	50.9519716328565	12.4356850086532	0.508354391390367
+Caucalis_platycarpos	MN260846.1	25-AUG-2020	1467	Germany:Saxony-Anhalt	primary	Adh	51.4390172621468	13.3545772822828	0.529414141200154
+Caucalis_platycarpos	MN260809.1	25-AUG-2020	978	Germany:Saxony-Anhalt	primary	Adh	50.8538275675551	11.8970281731994	0.533967738932617

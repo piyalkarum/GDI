@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nardus_stricta	MG227349.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, La Manche Provincial Park	primary	rbcL	47.17	-52.885	0.00093110192531765
+Nardus_stricta	HM850196.1	23-JUL-2011	1324	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0018048992489291
+Nardus_stricta	JN893338.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.000950573777898256
+Nardus_stricta	JN893337.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000950573777898256
+Nardus_stricta	AJ746296.1	07-JAN-2005	1297	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00179955100438583

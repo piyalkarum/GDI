@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_bifidum	KF188543.1	26-OCT-2013	786	Spain	secondary	matK	39.3260685	-4.8379791	0.000424088210347752
+Lamium_bifidum	KF055065.1	26-OCT-2013	786	Italy: Sicilia	secondary	matK	37.587794	14.155048	0.000424088210347752
+Lamium_bifidum	KF055064.1	26-OCT-2013	786	France	secondary	matK	46.0191060481015	1.6121148175179	0.000424088210347752
+Lamium_bifidum	KF055063.1	26-OCT-2013	786	France	secondary	matK	47.2022815812272	1.07326237925181	0.00127226463104326

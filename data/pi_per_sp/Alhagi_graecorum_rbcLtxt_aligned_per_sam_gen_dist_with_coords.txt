@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alhagi_graecorum	OQ791301.1	02-AUG-2023	584	Egypt	primary	rbcL	30.0367	32.5742	0.000342465753424658
+Alhagi_graecorum	MH107147.1	07-OCT-2018	553	Bahrain	primary	rbcL	26.21659	50.5707	0
+Alhagi_graecorum	KX282521.1	28-MAY-2017	526	Kuwait	secondary	rbcL	28.9415913339247	48.1725593127294	0
+Alhagi_graecorum	KX282520.1	28-MAY-2017	560	Kuwait	secondary	rbcL	28.9376437494803	48.2630766442063	0
+Alhagi_graecorum	KX282519.1	28-MAY-2017	531	Kuwait	secondary	rbcL	28.5525125863085	47.8968095042782	0
+Alhagi_graecorum	KX298978.1	06-FEB-2017	722	Egypt	secondary	rbcL	26.2540493	29.2675469	0.000342465753424658

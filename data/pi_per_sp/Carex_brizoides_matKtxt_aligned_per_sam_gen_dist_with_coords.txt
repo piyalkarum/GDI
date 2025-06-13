@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_brizoides	OX420887.1	31-JAN-2023	807	Belgium	secondary	matK	50.2310889415833	4.88336204445751	0
+Carex_brizoides	OX420886.1	31-JAN-2023	807	Belgium	secondary	matK	50.0563142762684	5.07103544563856	0
+Carex_brizoides	OX420885.1	31-JAN-2023	807	Belgium	secondary	matK	50.6010246515388	4.17952851305083	0
+Carex_brizoides	OX420884.1	31-JAN-2023	807	Belgium	secondary	matK	50.0429191465589	4.50203494477421	0
+Carex_brizoides	OX420883.1	31-JAN-2023	807	Belgium	secondary	matK	50.9712318432664	3.45424762038287	0
+Carex_brizoides	OX420882.1	31-JAN-2023	807	Belgium	secondary	matK	49.8197089706339	4.76605094721015	0
+Carex_brizoides	OX420881.1	31-JAN-2023	807	Belgium	secondary	matK	50.2305474433107	5.03347449739339	0
+Carex_brizoides	OX420880.1	31-JAN-2023	807	Belgium	secondary	matK	50.7791793403035	4.20189545335302	0

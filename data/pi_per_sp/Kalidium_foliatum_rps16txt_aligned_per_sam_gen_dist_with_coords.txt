@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kalidium_foliatum	OQ077118.1	28-JUN-2023	541	Kazakhstan	secondary	rps16	48.1324358755955	65.8722865300426	0.00123571314047505
+Kalidium_foliatum	OQ077117.1	28-JUN-2023	540	Kazakhstan	secondary	rps16	48.1659688515604	67.9535343624472	0.00123456790123457
+Kalidium_foliatum	OQ077116.1	28-JUN-2023	539	Kazakhstan	secondary	rps16	48.1821752178144	65.5166193472127	0.00123685837971552
+Kalidium_foliatum	OQ077115.1	28-JUN-2023	540	Kazakhstan	secondary	rps16	48.3276269392275	65.9365533842266	0.00123571314047505

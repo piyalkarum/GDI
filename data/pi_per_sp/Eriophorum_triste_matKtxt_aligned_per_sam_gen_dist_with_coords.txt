@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eriophorum_triste	KC474772.1	25-OCT-2013	739	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vicinity of Holman Island Airport, Uluhaktok	primary	matK	70.758	-117.79	0.00108254397834912
+Eriophorum_triste	KC474771.1	25-OCT-2013	777	Canada: Nunavut, Ellesmere Island, John Richardson Bay, Near glacier face	primary	matK	80.2	-71.2	0.00103126296374608
+Eriophorum_triste	KC474770.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of small round lake NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.299	-116.487	0.000528036251987538
+Eriophorum_triste	KC474769.1	25-OCT-2013	775	Canada: Nunavut, Ellesmere Island, Grise Fiord, Adjacent to airport	primary	matK	76.417	-83.017	0.000528700510716312
+Eriophorum_triste	KC474768.1	25-OCT-2013	777	Canada: Nunavut	primary	matK	62.917	-92.233	0.000528036251987538
+Eriophorum_triste	KC474767.1	25-OCT-2013	774	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, West side of Hornaday River, east of Castle Butte	primary	matK	68.2528	-121.811	0.000529033927403818

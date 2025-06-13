@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_ursinum	HE962498.1	10-APR-2013	645	Germany:North Rhine-Westfalia, Brochterbeck,Teutoburg Forest	primary	5.8S rRNA	52.23	7.76	0.0025879917184265
+Allium_ursinum	FR682005.1	29-SEP-2011	644	Germany:Bavaria, N Frankonian Switzerland	primary	5.8S rRNA	50.06	11.02	0.0010351966873706
+Allium_ursinum	FR682004.1	29-SEP-2011	644	Ireland:Belfast, near Castle	primary	5.8S rRNA	54.6666731740725	4.2205918251286	0.0010351966873706
+Allium_ursinum	FR682003.1	29-SEP-2011	644	Germany:Bad Iburg, Kleiner Freeden	primary	5.8S rRNA	52.09	8.04	0.0010351966873706
+Allium_ursinum	FR682002.1	29-SEP-2011	644	Ireland:Belfast, near Castle	primary	5.8S rRNA	54.9759908620218	4.80654952912025	0.0010351966873706
+Allium_ursinum	HF934356.1	12-MAY-2015	644	Germany:Thuringia, Keula	secondary	5.8S rRNA	51.4286850003716	11.257085041347	0.0010351966873706
+Allium_ursinum	AJ412744.1	12-JUL-2002	644	Germany:Thuringia, Keula	secondary	5.8S rRNA	50.5096427296754	10.9954211099282	0.0025879917184265

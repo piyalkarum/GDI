@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Corrigiola_telephiifolia	HE687483.1	04-MAY-2012	262	Morocco:Marrakech	secondary	psbA-trnH	31.2334637326659	-7.79318727392505	0.00400085700095667
+Corrigiola_telephiifolia	HE687459.1	04-MAY-2012	238	Morocco:Marrakech	secondary	psbA-trnH	31.8309233341183	-8.37177750343584	0.00140646976090014
+Corrigiola_telephiifolia	HE687453.1	04-MAY-2012	262	Morocco:Marrakech	secondary	psbA-trnH	31.3085233691171	-7.06314472092947	0.00128205128205128
+Corrigiola_telephiifolia	HE602481.1	14-OCT-2011	254	Morocco	secondary	psbA-trnH	28.3347722	-10.3713379	0.00131233595800525

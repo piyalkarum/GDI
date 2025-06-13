@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sporobolus_maritimus	KM011143.1	28-APR-2015	717	United Kingdom	secondary	rps16	54.2649413966367	-2.74096850925614	0.343468468468469
+Sporobolus_maritimus	KM011142.1	28-APR-2015	717	Morocco	secondary	rps16	28.2627461292209	-11.3644869614551	0.343468468468469
+Sporobolus_maritimus	KM010938.1	28-APR-2015	709	United Kingdom	secondary	rps16	54.0560625625084	-4.25311861423816	0.343468468468469
+Sporobolus_maritimus	KM010937.1	28-APR-2015	709	Morocco	secondary	rps16	28.0257716127046	-10.4996601171992	0.343468468468469

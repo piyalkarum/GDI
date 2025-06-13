@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_pediformis	MN763790.1	28-JUL-2020	537	China: Sichuan	secondary	matK	53.2780787	-6.2107338	0.00869025450031037
+Carex_pediformis	MN763683.1	28-JUL-2020	537	Finland	secondary	matK	63.1523483661543	25.2072269071942	0.00869025450031037
+Carex_pediformis	MN763667.1	28-JUL-2020	537	China: Jilin	secondary	matK	43.7289674	126.1997366	0.0136561142147734
+Carex_pediformis	MN763650.1	28-JUL-2020	540	Finland	secondary	matK	63.6971371850505	26.3136126834161	0.0111731843575419

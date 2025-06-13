@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oloptum_miliaceum	JF769189.1	03-APR-2012	546	Australia: Victoria, Victorian Volcanic Plains	primary	rbcL	-37.802	144.904	0.029708933797653
+Oloptum_miliaceum	KC129647.1	05-NOV-2013	621	Australia: Victoria, Midlands	primary	rbcL	-37.3659360119907	144.813095961344	0.00774157907310081
+Oloptum_miliaceum	KC129645.1	05-NOV-2013	619	Australia: South Australia, Roseworthy	primary	rbcL	-34.9307561218801	139.03660259803	0.00774157907310081
+Oloptum_miliaceum	KC129644.1	05-NOV-2013	552	Australia: South Australia, Southern Lofty	primary	rbcL	-35.0464604300084	138.826531745565	0.0279228402558497
+Oloptum_miliaceum	KC129643.1	05-NOV-2013	552	Australia: Victoria, Midlands	primary	rbcL	-37.1974530938169	143.104393551509	0.00870627884381831
+Oloptum_miliaceum	KC129642.1	05-NOV-2013	552	Australia: Tasmania, Swansea	primary	rbcL	-41.9805379862893	147.276815724743	0.00780680714112218
+Oloptum_miliaceum	KC129641.1	05-NOV-2013	621	Australia: Tasmania, Swansea	primary	rbcL	-42.7323530435098	147.404531606937	0.00794319197632662
+Oloptum_miliaceum	KC129646.1	05-NOV-2013	625	USA: California, San Gabriel Mountains	secondary	rbcL	34.321241	-117.8736286	0.00794286731786732
+Oloptum_miliaceum	FN870403.1	17-MAY-2012	1346	Portugal:Azores	secondary	rbcL	37.8085564	-25.4731374	0.00815162139795907

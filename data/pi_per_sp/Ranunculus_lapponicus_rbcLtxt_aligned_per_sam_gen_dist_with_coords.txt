@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_lapponicus	MG247654.1	21-JAN-2018	502	Canada: Nunavut, Baffin Island, Nettilling Lake, Burwash Bay.	primary	rbcL	65.9667	-71.3	0.0255225344866779
+Ranunculus_lapponicus	MG246128.1	21-JAN-2018	552	Canada: Manitoba, Wapusk National Park	primary	rbcL	58.415	-93.227	0.00863213811420983
+Ranunculus_lapponicus	KJ841245.1	04-NOV-2014	446	Canada: Newfoundland and Labrador, Labrador, Mont Irony, In the fen nearest the s-w slope of mountain	primary	rbcL	54.899	-67.1706	0.00825825825825826
+Ranunculus_lapponicus	KC482462.1	25-OCT-2013	552	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park, NW part	primary	rbcL	69.4167	-139.633	0.00863213811420983

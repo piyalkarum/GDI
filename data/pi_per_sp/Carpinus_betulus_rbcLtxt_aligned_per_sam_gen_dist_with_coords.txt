@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carpinus_betulus	JN893788.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.00206185567010309
+Carpinus_betulus	MN531405.1	09-MAR-2020	485	Germany: Grosshansdorf	secondary	rbcL	53.6635561	10.2835977	0.00618556701030928
+Carpinus_betulus	JN893226.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.8551500653522	-3.30255547665336	0.00206185567010309
+Carpinus_betulus	JN892644.1	07-MAR-2012	515	United Kingdom: Glamorgan	secondary	rbcL	51.0150589438433	-2.2985650510169	0.00206185567010309

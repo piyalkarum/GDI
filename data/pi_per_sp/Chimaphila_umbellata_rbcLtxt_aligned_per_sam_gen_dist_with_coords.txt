@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chimaphila_umbellata	MG223026.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, South Cameron Lake Road, BPNP	primary	rbcL	45.206	-81.567	0
+Chimaphila_umbellata	KX678581.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Road to Garibaldi Lake & Black Tusk Trailhead	primary	rbcL	49.9663	-123.126	0
+Chimaphila_umbellata	KX678044.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, north of Christian Valley, Just west of Kettle River Forest Service Road	primary	rbcL	49.6983	-118.778	0
+Chimaphila_umbellata	HQ590033.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Koffler Scientific Reserve, Joker's Hill East, South-East corner	primary	rbcL	44.037	-79.505	0

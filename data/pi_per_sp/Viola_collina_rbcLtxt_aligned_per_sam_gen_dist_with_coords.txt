@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Viola_collina	OR626657.1	05-NOV-2023	591	Kazakhstan: Qaragandy region	primary	rbcL	49.4151893723236	76.6605442921515	0.00056785917092561
+Viola_collina	OR640471.1	05-NOV-2023	450	Kazakhstan: Qaragandy region	primary	rbcL	49.0619890375747	76.3225830818395	0.000740740740740741
+Viola_collina	MN192721.1	30-NOV-2021	723	China	secondary	rbcL	34.9033379295464	104.145848131072	0.00176964186648424
+Viola_collina	MN192720.1	30-NOV-2021	723	China	secondary	rbcL	34.3096241018528	105.483293908808	0.000461041954817888

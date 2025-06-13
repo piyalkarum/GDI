@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_decipiens	MT997136.1	16-AUG-2021	800	Russia	primary	rps16	44.7333	37.08	0.000416666666666667
+Allium_decipiens	MT997135.1	16-AUG-2021	800	Ukraine	primary	rps16	49.283	40.08333	0.000416666666666667
+Allium_decipiens	MT997134.1	16-AUG-2021	800	Ukraine	primary	rps16	49.299722	40.096111	0.000416666666666667
+Allium_decipiens	MT997133.1	16-AUG-2021	800	Ukraine	primary	rps16	48.15	39.85	0.000416666666666667
+Allium_decipiens	MT997132.1	16-AUG-2021	800	Russia	primary	rps16	49.71111	40.61055	0.000416666666666667
+Allium_decipiens	MT997131.1	16-AUG-2021	800	Ukraine	primary	rps16	45.03888	35.03472	0.00104166666666667
+Allium_decipiens	MT997130.1	16-AUG-2021	800	Ukraine	primary	rps16	44.91805	35.22889	0.00104166666666667

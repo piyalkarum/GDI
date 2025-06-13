@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_esterellense	MH681841.1	18-SEP-2019	1011	France	primary	rpl16	43.51	6.94	0.00346853662639373
+Leucanthemum_esterellense	MH681840.1	18-SEP-2019	1014	France	primary	rpl16	43.46	6.9	0.00420033778632669
+Leucanthemum_esterellense	MH681839.1	18-SEP-2019	1012	France	primary	rpl16	43.48	6.91	0.00321219694684598
+Leucanthemum_esterellense	MH681838.1	18-SEP-2019	1012	France	primary	rpl16	43.46	6.89	0.0106330525805317
+Leucanthemum_esterellense	MH681837.1	18-SEP-2019	1011	France	primary	rpl16	43.45	6.85	0.00321537492346098

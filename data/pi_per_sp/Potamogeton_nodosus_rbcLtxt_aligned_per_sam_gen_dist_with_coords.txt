@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_nodosus	MG227993.1	23-JAN-2018	552	Canada: British Columbia, Lower Fraser Valley, Mission, Hatzic Slough, N of Hatzic Lake	primary	rbcL	49.183	-122.25	0.0311838346496387
+Potamogeton_nodosus	MK925540.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5698499326631	-2.41938723717686	0.0327922774797757
+Potamogeton_nodosus	MK924853.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4142937733435	-3.19160603302919	0.0315406257510851
+Potamogeton_nodosus	MK924613.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5484362679154	-4.79471041915031	0.0315406257510851
+Potamogeton_nodosus	MH170903.1	28-OCT-2018	703	Turkey	secondary	rbcL	39.2942516186036	34.0143524596534	0.0311836072906184
+Potamogeton_nodosus	MH170902.1	28-OCT-2018	703	Turkey	secondary	rbcL	38.5765971759785	35.8101286807706	0.0311836072906184
+Potamogeton_nodosus	MH170901.1	28-OCT-2018	703	Turkey	secondary	rbcL	38.8107353715077	35.5338107984834	0.0311836072906184
+Potamogeton_nodosus	MH170900.1	28-OCT-2018	703	Turkey	secondary	rbcL	38.7587213336428	35.4833596674345	0.0311836072906184
+Potamogeton_nodosus	MH170899.1	28-OCT-2018	703	Turkey	secondary	rbcL	39.3344327156149	34.5184491989922	0.0311836072906184
+Potamogeton_nodosus	MH170898.1	28-OCT-2018	590	Turkey	secondary	rbcL	39.6302274792916	34.9549660473371	0.0311958325650009
+Potamogeton_nodosus	MF694583.1	04-SEP-2018	531	Canada: Ontario, Kingston Mills, Frontenac County. Cataraqui River.	secondary	rbcL	43.72634945	-77.7101179040839	0.0311888111888112
+Potamogeton_nodosus	FJ956824.1	30-DEC-2010	890	China: Zhongdian, Yunnan	secondary	rbcL	27.8136833	99.7058056	0.0377339403136065
+Potamogeton_nodosus	FJ956823.1	30-DEC-2010	890	China: Danjiang, Hubei	secondary	rbcL	32.0525717	112.1514489	0.0377339403136065
+Potamogeton_nodosus	FJ956822.1	30-DEC-2010	890	China: Yunxian, Hubei	secondary	rbcL	32.7971431	110.892051	0.0377339403136065
+Potamogeton_nodosus	AB871487.1	01-MAR-2014	787	Mexico	secondary	rbcL	19.4326296	-99.1331785	0.493111827633081
+Potamogeton_nodosus	HM850281.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0372992687711789

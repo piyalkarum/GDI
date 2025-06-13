@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_sibirica	MT732205.1	18-JUL-2020	468	Slovenia	primary	rpoC1	45.9090175252585	13.4728655690876	0
+Iris_sibirica	MT732204.1	18-JUL-2020	468	Slovenia	primary	rpoC1	46.0477557873366	13.3860600328605	0
+Iris_sibirica	MT732203.1	18-JUL-2020	468	Croatia	primary	rpoC1	46	15.53	0
+Iris_sibirica	MT732202.1	18-JUL-2020	468	Croatia	primary	rpoC1	45.37	18.31	0
+Iris_sibirica	MT732201.1	18-JUL-2020	468	Slovenia	primary	rpoC1	46.5932120193612	14.1236211207113	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Parapholis_strigosa	JN893505.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.69	-4.07	0.00185185185185185
+Parapholis_strigosa	KJ599171.1	21-SEP-2014	558	Australia: Victoria	secondary	rbcL	-36.5986096	144.6780052	0.00555555555555556
+Parapholis_strigosa	JN893607.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.00185185185185185
+Parapholis_strigosa	JN893606.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00185185185185185

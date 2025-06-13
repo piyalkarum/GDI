@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Apera_spica-venti	OK247789.1	27-OCT-2022	788	Turkey	secondary	matK	38.9597594	34.9249653	0.00132450331125828
+Apera_spica-venti	LR606830.1	25-JAN-2021	2167	Germany	secondary	matK	40.4203479	-79.1166983	0.00129366106080207
+Apera_spica-venti	MK926307.1	14-JAN-2020	773	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00261816437206035
+Apera_spica-venti	MG216955.1	24-JAN-2018	710	Canada: British Columbia, University of British Columbia Botanical Garden	secondary	matK	49.2538228	-123.2473213	0

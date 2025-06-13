@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lemna_trisulca	MG217077.1	24-JAN-2018	766	USA: North Dakota	primary	matK	48.897	-100.97	0.000326370757180157
+Lemna_trisulca	JN895273.1	07-MAR-2012	784	United Kingdom: Monmouthshire (35)	primary	matK	51.5	-3.1	0.00128300341024138
+Lemna_trisulca	JN894635.1	07-MAR-2012	837	United Kingdom: Glamorgan	primary	matK	51.76	-3.39	0.000318877551020408
+Lemna_trisulca	JN895561.1	07-MAR-2012	796	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.000318877551020408
+Lemna_trisulca	JN895559.1	07-MAR-2012	795	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000318877551020408

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salvia_aethiopis	MF572239.1	31-JUL-2018	575	Italy: Aosta Valley, Aymavilles, Ozein	secondary	rbcL	45.2402417917331	7.337798267467	0.000386100386100386
+Salvia_aethiopis	MF572238.1	31-JUL-2018	578	Italy: Aosta Valley, Aymavilles, Ozein	secondary	rbcL	45.0437191390697	7.80982698356829	0.000383141762452107
+Salvia_aethiopis	MF572237.1	31-JUL-2018	580	Italy: Aosta Valley, Aymavilles, Ozein	secondary	rbcL	45.0652402629349	6.74065053494328	0.000384615384615385
+Salvia_aethiopis	MF572236.1	31-JUL-2018	576	Italy: Aosta Valley, Aymavilles, Ozein	secondary	rbcL	45.6766318432396	6.11252363597655	0.000384615384615385
+Salvia_aethiopis	MF572235.1	31-JUL-2018	588	Italy: Aosta Valley, Aymavilles, Ozein	secondary	rbcL	44.8507814394217	7.54148507695062	0.00075187969924812
+Salvia_aethiopis	KP172081.1	04-FEB-2015	1388	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00229035261703138

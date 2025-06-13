@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_involucrata	KC475898.1	25-OCT-2013	690	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	matK	70.717	-117.717	7.2463768115942e-05
+Silene_involucrata	KC475897.1	25-OCT-2013	774	Canada: Northwest Territories, Tuktoyaktuk, On Beaufort Sea	primary	matK	29.45	-133.033	6.67556742323097e-05
+Silene_involucrata	KC475896.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.277	-116.516	6.67556742323097e-05
+Silene_involucrata	KC475895.1	25-OCT-2013	772	Canada: Yukon Territory, Ivvavik National Park, Joe Creek	primary	matK	69.021	-140.611	6.67556742323097e-05
+Silene_involucrata	KC475894.1	25-OCT-2013	777	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Near cabin on terraces above coastal area	primary	matK	56.331	-79.514	6.67556742323097e-05
+Silene_involucrata	KC475893.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity, Region N of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	matK	68.764	-112.714	6.67556742323097e-05
+Silene_involucrata	KC475892.1	25-OCT-2013	777	Canada: Nunavut, Baffin Island, Ogac Lake	primary	matK	62.85	-67.35	6.67556742323097e-05
+Silene_involucrata	KC475891.1	25-OCT-2013	774	Canada: Northwest Territories, Banks Island, Nelson Head, southernmost tip of Banks Island	primary	matK	71.083	-122.767	6.67556742323097e-05
+Silene_involucrata	KC475890.1	25-OCT-2013	749	Canada: Nunavut, Rankin Inlet, NE shore Melvin Bay below town dump, Hudson Bay	primary	matK	62.8	-92.0833	0.00140917271598874
+Silene_involucrata	KC475889.1	25-OCT-2013	771	Canada: Nunavut, Baffin Island, Iqaluit, At mouth of creek southeast of airport by sea beach, Frobisher Bay	primary	matK	63.7417	-68.525	6.67556742323097e-05
+Silene_involucrata	KC475888.1	25-OCT-2013	777	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq, in town, gravelly soil	primary	matK	56.65	-79.256	6.67556742323097e-05
+Silene_involucrata	KC475887.1	25-OCT-2013	776	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	matK	70.735	-117.761	6.67556742323097e-05
+Silene_involucrata	JN966678.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	matK	58.789	-94.227	6.67556742323097e-05
+Silene_involucrata	JN966677.1	27-OCT-2012	771	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	matK	58.626	-94.23	6.67556742323097e-05
+Silene_involucrata	JN966676.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Salt marsh	primary	matK	58.771	-93.843	6.67556742323097e-05
+Silene_involucrata	JN966675.1	27-OCT-2012	577	Canada: Manitoba, Churchill, unspecified locality	primary	matK	58.446372828846	-92.5492666162081	8.66551126516464e-05
+Silene_involucrata	JN966674.1	27-OCT-2012	776	Canada: Manitoba, Churchill, unspecified locality	primary	matK	59.0808708731868	-94.7311881378976	6.67556742323097e-05
+Silene_involucrata	JN966673.1	27-OCT-2012	757	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh	primary	matK	58.75	-94.11	6.67556742323097e-05
+Silene_involucrata	JN966672.1	27-OCT-2012	767	Canada: Manitoba, Churchill, 22 km E Churchill, CNSC	primary	matK	58.2179158117601	-94.4756239473932	6.67556742323097e-05
+Silene_involucrata	JN966671.1	27-OCT-2012	434	Canada: Manitoba, Churchill, 22 km E Churchill, CNSC	primary	matK	58.7448031387122	-94.1557381706243	0.000115207373271889
+Silene_involucrata	JN966670.1	27-OCT-2012	776	Canada: Manitoba, Churchill, Wapusk National Park, Owl River	primary	matK	57.846	-92.75	6.67556742323097e-05

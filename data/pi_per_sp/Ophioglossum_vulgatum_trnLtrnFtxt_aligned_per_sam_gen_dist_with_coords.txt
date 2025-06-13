@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ophioglossum_vulgatum	OL519781.1	21-JUN-2022	319	China: Sichuan	secondary	trnL-trnF	53.2780787	-6.2107338	0.00626959247648903
+Ophioglossum_vulgatum	KJ151290.1	26-JAN-2015	322	Italy: Tuscany, N Apennine, Pracchie di Pontito	secondary	trnL-trnF	43.28671315	11.9178484943482	0.00208986415882968
+Ophioglossum_vulgatum	KJ151288.1	26-JAN-2015	322	Belgium	secondary	trnL-trnF	50.6402809	4.6667145	0.00208986415882968
+Ophioglossum_vulgatum	DQ026627.1	05-FEB-2006	739	Finland	secondary	trnL-trnF	63.2467777	25.9209164	0.00208986415882968

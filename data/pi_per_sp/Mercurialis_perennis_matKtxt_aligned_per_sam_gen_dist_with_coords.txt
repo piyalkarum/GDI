@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mercurialis_perennis	JN894071.1	07-MAR-2012	789	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.00539568345323741
+Mercurialis_perennis	DQ536113.1	12-JUN-2006	624	United Kingdom: Great Britain, Howford bank, Newcastle	secondary	matK	53.9765337008883	-2.1772298589903	0.00627468847203404
+Mercurialis_perennis	DQ536112.1	12-JUN-2006	624	United Kingdom: Great Britain, East Sussex	secondary	matK	53.8939773450826	-2.23315536419749	0.00627468847203404
+Mercurialis_perennis	FR865063.1	09-JUN-2011	624	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00787725257459815
+Mercurialis_perennis	JN894824.1	07-MAR-2012	828	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.00862068965517241

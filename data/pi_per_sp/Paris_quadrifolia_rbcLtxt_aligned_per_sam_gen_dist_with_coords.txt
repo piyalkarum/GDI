@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Paris_quadrifolia	JN893513.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.68	-2.68	0.00234833659491194
+Paris_quadrifolia	HG417018.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.00203665987780041
+Paris_quadrifolia	JN891828.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00234833659491194
+Paris_quadrifolia	JF942814.1	13-DEC-2011	603	Netherlands: Leiden University	secondary	rbcL	51.4557810334359	5.08768565337187	0.00232172470978441
+Paris_quadrifolia	JF942813.1	13-DEC-2011	603	Netherlands: Leiden University	secondary	rbcL	52.2799305944269	4.57891879264174	0.00232172470978441
+Paris_quadrifolia	JF942812.1	13-DEC-2011	603	Netherlands: Leiden University	secondary	rbcL	52.4955859387614	5.71022411934699	0.0113767824871931

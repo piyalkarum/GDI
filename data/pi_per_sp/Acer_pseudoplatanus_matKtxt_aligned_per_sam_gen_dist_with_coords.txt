@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Acer_pseudoplatanus	MG220785.1	21-JAN-2018	797	Canada: Ontario, Toronto, City of, Queen's Park	secondary	matK	43.6596838	-79.3901923	0.000418235048097031
+Acer_pseudoplatanus	MG220727.1	21-JAN-2018	797	Canada: Ontario, Hamilton, City of, Hamilton, Town of Dundas, b/w Canadian National Railway and Hamilton Harbour below Harvey Park (Burlington Heights), W of Stuart St. railway yards	secondary	matK	43.72634945	-77.7101179040839	0.000418235048097031
+Acer_pseudoplatanus	KJ204427.1	29-JAN-2015	800	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.000854700854700855
+Acer_pseudoplatanus	HM850604.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00169117095089492

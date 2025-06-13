@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linum_perenne	HQ593346.1	09-NOV-2011	847	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 200 m S of classroom	primary	matK	44.028	-79.532	0.00208397991103091
+Linum_perenne	MT946476.1	03-MAR-2023	754	China	secondary	matK	34.9998985220703	104.903126547436	0.002210433244916
+Linum_perenne	MT946475.1	03-MAR-2023	767	China	secondary	matK	34.6490365307991	104.747250988579	0.00222901676847616
+Linum_perenne	MK925979.1	14-JAN-2020	870	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00294839859497627

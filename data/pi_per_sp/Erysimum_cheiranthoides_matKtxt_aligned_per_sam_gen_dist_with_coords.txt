@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erysimum_cheiranthoides	OR700207.1	11-NOV-2023	629	Kazakhstan: Qaragandy region	primary	matK	47.6306	74.4412	0.0391100053881785
+Erysimum_cheiranthoides	MG221111.1	21-JAN-2018	767	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	matK	43.529	-80.229	0.00397989900210077
+Erysimum_cheiranthoides	MG221011.1	21-JAN-2018	768	Canada: Ontario, Norfolk County, Norfolk Twp., Carr Tract and Nursery Tract (St. Williams Forest), North Walsingham/South Walsingham Townline Road	primary	matK	42.712	-80.474	0.00397374235778841
+Erysimum_cheiranthoides	MG220882.1	21-JAN-2018	762	Canada: Ontario, Norfolk County, Delhi Twp., Entrance to Smith Forest Tract	primary	matK	42.744	-80.424	0.00399484319267784
+Erysimum_cheiranthoides	MG220729.1	21-JAN-2018	762	USA: North Dakota	primary	matK	48.454	-101.592	0.00399484319267784
+Erysimum_cheiranthoides	HQ593289.1	09-NOV-2011	772	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Clearing in woods W of manager's house	primary	matK	44.031	-79.53	0.00400458351753243
+Erysimum_cheiranthoides	MT917668.1	03-MAR-2023	800	China	secondary	matK	35.4995621845549	104.27286488386	0.00394763308109751
+Erysimum_cheiranthoides	MT917666.1	03-MAR-2023	765	China	secondary	matK	35.3851195190465	105.17620526489	0.00399226998491704
+Erysimum_cheiranthoides	MT917661.1	03-MAR-2023	768	China	secondary	matK	35.3147668893314	105.732639872371	0.00397374235778841
+Erysimum_cheiranthoides	MN273630.1	30-NOV-2021	779	China	secondary	matK	35.4163019949964	104.377630288751	0.00616749599287233
+Erysimum_cheiranthoides	MN273629.1	30-NOV-2021	823	China	secondary	matK	35.4033962486252	104.914743215364	0.00613656249935342
+Erysimum_cheiranthoides	JN893990.1	07-MAR-2012	814	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00394018523407635
+Erysimum_cheiranthoides	JN893989.1	07-MAR-2012	785	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00395360441867713

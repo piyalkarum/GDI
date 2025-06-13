@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_lanata	MZ359341.1	07-DEC-2021	441	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Salix_lanata	JN965911.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes fen	primary	rbcL	57.827952948049	-93.1193269138875	0
+Salix_lanata	JN965910.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes fen	primary	rbcL	59.2136509362479	-93.0900375602922	0
+Salix_lanata	JN965909.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Ithaca	primary	rbcL	58.764	-93.895	0
+Salix_lanata	JN965908.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Ithaca	primary	rbcL	58.769	-93.889	0
+Salix_lanata	MK925470.1	14-JAN-2020	542	Sweden	secondary	rbcL	59.9780014365879	13.2815895357699	0
+Salix_lanata	MK925466.1	14-JAN-2020	542	Sweden	secondary	rbcL	59.9122823502053	14.9325233430462	0
+Salix_lanata	MK924515.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0
+Salix_lanata	HE612049.1	16-NOV-2011	597	Russia:Kamchatka	secondary	rbcL	57.1914882	160.0383819	0

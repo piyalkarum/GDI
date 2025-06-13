@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_hystrix	AJ971591.1	24-MAR-2006	236	Spain:Leon, Oseja de Sajambre	secondary	ITS1	43.1369687	-5.0388745	0.013771186440678
+Genista_hystrix	AJ699056.1	30-APR-2005	237	Spain	secondary	ITS1	39.3260685	-4.8379791	0.00529661016949153
+Genista_hystrix	AJ698978.1	30-APR-2005	237	Spain:Leon, Picos de Europa	secondary	ITS1	43.1955559	-4.8527288	0.00741525423728813
+Genista_hystrix	AJ971589.1	24-MAR-2006	236	Spain:Caceres, Alcantara	secondary	ITS1	39.7206785	-6.8869875	0.00529661016949153
+Genista_hystrix	AJ699030.1	30-APR-2005	236	Spain:Caceres, Membrio	secondary	ITS1	39.5268442	-7.0543476	0.00847457627118644

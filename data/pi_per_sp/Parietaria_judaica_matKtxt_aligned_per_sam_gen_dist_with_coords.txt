@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Parietaria_judaica	JN896013.1	07-MAR-2012	842	United Kingdom: Pembrokeshire	primary	matK	51.64	-4.69	0.000386779156680316
+Parietaria_judaica	MK926234.1	14-JAN-2020	815	United Kingdom	secondary	matK	55.2657492295339	-2.39911803572389	0.000402046257341791
+Parietaria_judaica	MK926006.1	14-JAN-2020	773	United Kingdom	secondary	matK	55.4632599947021	-3.94426722566358	0.000406632616961028
+Parietaria_judaica	MH341478.1	31-JUL-2019	824	Greece	secondary	matK	43.2097838	-77.6930602	0.000726287195432317
+Parietaria_judaica	HM851113.1	23-JUL-2011	834	Portugal	secondary	matK	39.6621648	-8.1353519	0.00145332191947149
+Parietaria_judaica	HE966960.1	18-SEP-2012	772	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00157804221854624
+Parietaria_judaica	JN895920.1	07-MAR-2012	807	United Kingdom: Montgomeryshire	secondary	matK	52.615273	-3.4649973	0.000391558198082383
+Parietaria_judaica	JN895916.1	07-MAR-2012	832	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000718060713519903

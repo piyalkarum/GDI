@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atriplex_prostrata	MG249808.1	21-JAN-2018	552	Canada: Lambton County, ON	primary	rbcL	43.0729	-82.0412	0.110924782305367
+Atriplex_prostrata	MG248786.1	21-JAN-2018	552	Canada: Glengarry, ON	primary	rbcL	45.2478	-74.7102	0.110924782305367
+Atriplex_prostrata	MG248274.1	21-JAN-2018	552	Canada: Frontenac, ON	primary	rbcL	44.5796	-76.5655	0.110924782305367
+Atriplex_prostrata	KX678307.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, Richmond, 5135 No.6 Road, driveway of Green Timbers Nursery, roadside	primary	rbcL	49.172	-123.069	0.110924782305367
+Atriplex_prostrata	JX572317.1	04-SEP-2013	552	South Africa: Western Cape, Robben Island	primary	rbcL	-33.809	18.361	0.110924782305367
+Atriplex_prostrata	JN891977.1	07-MAR-2012	458	United Kingdom: Monmouthshire	primary	rbcL	51.57	-2.85	0.11186734926629
+Atriplex_prostrata	KY884371.1	30-APR-2018	601	United Kingdom: England, Greater London	secondary	rbcL	51.4893335	-0.1440551	0.506339740790408
+Atriplex_prostrata	HM849802.1	23-JUL-2011	691	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.113299464451096
+Atriplex_prostrata	JN891439.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.111854862017323
+Atriplex_prostrata	JN891004.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.111854862017323
+Atriplex_prostrata	HM587653.1	29-APR-2011	654	Russia: Moscow	secondary	rbcL	55.7505412	37.6174782	0.498491823297111

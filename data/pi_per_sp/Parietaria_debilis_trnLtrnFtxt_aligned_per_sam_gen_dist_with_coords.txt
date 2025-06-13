@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Parietaria_debilis	MT226738.1	19-JAN-2022	954	New Zealand	secondary	trnL-trnF	-41.5000831	172.8344077	0.0357427381395249
+Parietaria_debilis	MH317217.1	31-JUL-2019	544	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.0238970588235294
+Parietaria_debilis	MH317215.1	31-JUL-2019	722	Kenya	secondary	trnL-trnF	1.4419683	38.4313975	0.0152184835152898
+Parietaria_debilis	FJ432256.1	02-JUN-2009	903	Australia	secondary	trnL-trnF	-24.7761086	134.755	0.0174775026824612

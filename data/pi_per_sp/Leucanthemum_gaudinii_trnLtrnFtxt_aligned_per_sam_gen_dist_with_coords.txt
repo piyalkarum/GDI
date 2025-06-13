@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_gaudinii	HE681031.1	22-APR-2013	342	Spain:Aragon	secondary	trnL-trnF	41.6159934057098	-0.149313925007515	0
+Leucanthemum_gaudinii	HE681002.1	22-APR-2013	342	Spain:Cantabria	secondary	trnL-trnF	43.1595664	-4.0878382	0
+Leucanthemum_gaudinii	HE681001.1	22-APR-2013	342	Spain:Cataluna	secondary	trnL-trnF	41.8523094	1.5745043	0
+Leucanthemum_gaudinii	HE681000.1	22-APR-2013	342	Spain:Aragon	secondary	trnL-trnF	41.4518936384377	0.364467787167349	0
+Leucanthemum_gaudinii	HE680999.1	22-APR-2013	342	Slovakia:Presov	secondary	trnL-trnF	49.0000074	21.2392122	0

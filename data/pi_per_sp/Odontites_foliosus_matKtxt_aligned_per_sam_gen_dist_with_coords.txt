@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_foliosus	KX959112.1	02-NOV-2017	1030	Spain: Cadiz, Barbate, Los Canos de Meca	primary	matK	36.182	-5.958	0
+Odontites_foliosus	KX959098.1	02-NOV-2017	1026	Spain: Malaga, Manilva	primary	matK	35.8456411642752	-5.08013803944659	0
+Odontites_foliosus	KX959097.1	02-NOV-2017	1030	Spain: Malaga, Manilva	primary	matK	36.1030674175231	-4.66629758000745	0
+Odontites_foliosus	KX959017.1	02-NOV-2017	1030	Spain: Cadiz, Puerto Real	primary	matK	36.8255347766203	-5.86727140872477	0
+Odontites_foliosus	KX959016.1	02-NOV-2017	1030	Spain: Cadiz, Puerto Real	primary	matK	36.8579293551666	-6.46472582465844	0

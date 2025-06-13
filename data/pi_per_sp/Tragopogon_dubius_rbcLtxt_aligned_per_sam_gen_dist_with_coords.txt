@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_dubius	OQ832152.1	15-AUG-2023	553	USA: CMR Wildlife Refuge	primary	rbcL	47.6693	-107.6683	0
+Tragopogon_dubius	MG223041.1	26-DEC-2017	552	Canada: R.R.Tracks between Glasgow & Yorkshire, Guelph	primary	rbcL	43.54	-80.254	0
+Tragopogon_dubius	MG222635.1	26-DEC-2017	552	Canada: Yukon Territory, Haines Road km 229-229.6	primary	rbcL	60.667	-137.333	0
+Tragopogon_dubius	KX678721.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Forest Service Road	primary	rbcL	49.188	-119.088	0
+Tragopogon_dubius	KX678623.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Gladstone Provincial Park, Badger Trail	primary	rbcL	49.123	-118.242	0
+Tragopogon_dubius	KX677962.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, near Link Lake Forest Recreation Site, Kettle Valley Rail Trail	primary	rbcL	49.711	-120.231	0
+Tragopogon_dubius	HQ590305.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 10 m N of Side Road 19, at Willow Ridge House	primary	rbcL	44.032	-79.534	0
+Tragopogon_dubius	KJ841626.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0
+Tragopogon_dubius	MG224569.1	26-DEC-2017	553	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	secondary	rbcL	43.0437152984364	-77.2878052700059	0
+Tragopogon_dubius	MG223519.1	26-DEC-2017	552	Canada: Ontario, Manitoulin Dist., Manitoulin Is., Dawson Twp., Meldrum Bay	secondary	rbcL	44.045374005678	-77.3045234839086	0
+Tragopogon_dubius	KT897489.1	16-DEC-2015	1377	USA: Pullman, Washington	secondary	rbcL	46.7304268	-117.173895	0.000136705399863295
+Tragopogon_dubius	JX848433.1	06-AUG-2013	1388	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.000136705399863295

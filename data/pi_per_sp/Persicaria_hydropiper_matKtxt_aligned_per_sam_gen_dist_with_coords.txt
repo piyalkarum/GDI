@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Persicaria_hydropiper	JN896183.1	07-MAR-2012	821	United Kingdom: Monmouthshire	primary	matK	51.58	-2.97	0.017816001603836
+Persicaria_hydropiper	MT918083.1	03-MAR-2023	773	China	secondary	matK	35.1366982612997	104.625580162785	0.0917251268820792
+Persicaria_hydropiper	MK578030.1	15-MAY-2019	813	South Korea: Gangsin-ri, 175-1, Boeun-gun, CB	secondary	matK	36.5073866	127.7445003	0.0178272980501393
+Persicaria_hydropiper	JN894817.1	07-MAR-2012	711	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0174082491936481
+Persicaria_hydropiper	JN893998.1	07-MAR-2012	828	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0177152612057099
+Persicaria_hydropiper	JF955584.1	13-DEC-2011	718	China	secondary	matK	35.1487568634245	104.581332488136	0.0202354732137073
+Persicaria_hydropiper	JF955583.1	13-DEC-2011	723	China	secondary	matK	34.628763519845	104.720886035119	0.0208041526059823

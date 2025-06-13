@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_dubius	FN675705.1	10-JAN-2011	723	Spain:Granada, La Cortichuela	secondary	ITS1	37.1734995	-3.5995337	0.0123805429548136
+Tragopogon_dubius	FN675704.1	10-JAN-2011	723	Spain:Soria, El Burgo de Osma	secondary	ITS1	41.5868712	-3.0674254	0.00397923677881062
+Tragopogon_dubius	FN675703.1	10-JAN-2011	723	Spain:Burgos, Aranda de Duero	secondary	ITS1	41.6715067	-3.6851172	0.00397923677881062
+Tragopogon_dubius	FN675702.1	10-JAN-2011	676	Spain:Jaen, El Oasis	secondary	ITS1	37.677975	-3.6262157	0.00405791647766268
+Tragopogon_dubius	FN675701.1	10-JAN-2011	723	Spain:Burgos, Aldealengua	secondary	ITS1	42.343926	-3.696977	0.00397923677881062
+Tragopogon_dubius	FN675700.1	10-JAN-2011	723	Spain:Toledo, Villatobas	secondary	ITS1	39.9028764	-3.3218301	0.00397923677881062
+Tragopogon_dubius	FN675699.1	10-JAN-2011	723	Spain:Madrid, Somosierra	secondary	ITS1	40.3784962	-3.6219066	0.00397923677881062
+Tragopogon_dubius	FN675698.1	10-JAN-2011	723	Spain:Jaen, Cazorla	secondary	ITS1	37.9128927	-3.0038873	0.00397923677881062
+Tragopogon_dubius	FN675697.1	10-JAN-2011	723	Spain:Palencia, Alar del Rey	secondary	ITS1	42.6595668	-4.3111784	0.00397923677881062
+Tragopogon_dubius	FN675696.1	10-JAN-2011	723	Spain:Granada, Iznalloz	secondary	ITS1	37.3928352	-3.5276704	0.0052784248798221
+Tragopogon_dubius	AJ633503.1	13-DEC-2004	639	Germany:Sachsen-Anhalt	secondary	ITS1	52.0089065	11.7003344	0.0232259903106298
+Tragopogon_dubius	AJ633500.1	13-DEC-2004	640	Switzerland:Kanton Wallis	secondary	ITS1	46.2303063	7.6605757	0.00923829794813337

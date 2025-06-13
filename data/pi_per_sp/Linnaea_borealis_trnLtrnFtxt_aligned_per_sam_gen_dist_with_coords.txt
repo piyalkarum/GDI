@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linnaea_borealis	KT182419.1	24-NOV-2015	355	Norway	secondary	trnL-trnF	64.5731537	11.5280364	0.00298386061047134
+Linnaea_borealis	KT182418.1	24-NOV-2015	355	Poland	secondary	trnL-trnF	52.215933	19.134422	0.000704225352112676
+Linnaea_borealis	KP297756.1	22-MAR-2015	832	USA	secondary	trnL-trnF	39.7670659447441	-100.914534546673	0.00106181078660265
+Linnaea_borealis	KP297755.1	22-MAR-2015	832	Finland	secondary	trnL-trnF	63.2467777	25.9209164	0.00106181078660265
+Linnaea_borealis	KP297754.1	22-MAR-2015	828	USA	secondary	trnL-trnF	39.5988718027042	-100.226077385461	0.0013637431537524

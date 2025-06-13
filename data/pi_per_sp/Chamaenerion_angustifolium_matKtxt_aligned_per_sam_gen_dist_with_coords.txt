@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chamaenerion_angustifolium	KX677679.1	09-AUG-2017	805	Canada: British Columbia, Squamish-Lillooet Regional District, Squamish Valley Rd., Riverside Forest Recreation Site	primary	matK	49.916	-123.296	0.00389441650316632
+Chamaenerion_angustifolium	MG221121.1	21-JAN-2018	778	Canada: Ontario, Algoma District, Laronde Twp., Lake Superior Provincial Park, Gravelly ditch along Hwy 17 just northwest of the entrance to the Old Woman Bay parking area	primary	matK	47.793	-84.899	0.00295079179765663
+Chamaenerion_angustifolium	MG220909.1	21-JAN-2018	778	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	matK	51.273	-80.641	0.00295079179765663
+Chamaenerion_angustifolium	MG220823.1	21-JAN-2018	776	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, Access Point	primary	matK	45.185	-81.602	0.00295270051237938
+Chamaenerion_angustifolium	KJ592895.1	17-MAR-2015	742	USA: Wisconsin, Wabeno	primary	matK	45.604	-88.675	0.00293569743508281
+Chamaenerion_angustifolium	KJ592894.1	17-MAR-2015	748	USA: Wisconsin, Breed	primary	matK	45.096	-88.457	0.00291619025888022
+Chamaenerion_angustifolium	KC474459.1	25-OCT-2013	741	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	matK	62.533	-114.356	0.00303946228845922
+Chamaenerion_angustifolium	KC474458.1	25-OCT-2013	675	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Along River in middle of town, leading from school to ocean	primary	matK	56.617	-79.311	0.00439500596806514
+Chamaenerion_angustifolium	KC474457.1	25-OCT-2013	774	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	matK	66.839	-108.035	0.00311017718374066
+Chamaenerion_angustifolium	JN966234.1	27-OCT-2012	776	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	matK	59.1858778283061	-92.3211088658718	0.00310746395611467
+Chamaenerion_angustifolium	JN966233.1	27-OCT-2012	591	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	matK	58.7888391094397	-93.2705912605179	0.00504078294305547
+Chamaenerion_angustifolium	JN966232.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, Sand gravelly beach	primary	matK	58.789	-94.227	0.00532156401022538
+Chamaenerion_angustifolium	JN966231.1	27-OCT-2012	681	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank	primary	matK	58.626	-94.23	0.0211912916409417
+Chamaenerion_angustifolium	JN966230.1	27-OCT-2012	758	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Salt marsh	primary	matK	58.771	-93.843	0.00316187593694103
+Chamaenerion_angustifolium	JN966229.1	27-OCT-2012	762	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, Road side	primary	matK	58.616	-93.808	0.00658603252429738
+Chamaenerion_angustifolium	JN966228.1	27-OCT-2012	737	Canada: Manitoba, Churchill, Intersection of Launch Rd and road to Miss Piggy, Dryas heath	primary	matK	58.758	-94.068	0.00418438540256186
+Chamaenerion_angustifolium	JN894188.1	07-MAR-2012	834	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.00309696687476591
+Chamaenerion_angustifolium	JN893887.1	07-MAR-2012	780	United Kingdom: Glamorgan (41)	primary	matK	51.56	-3.21	0.00310325869399402
+Chamaenerion_angustifolium	MT929951.1	03-MAR-2023	780	China	secondary	matK	34.713676919659	105.173449748478	0.00310291470958202
+Chamaenerion_angustifolium	MT929949.1	03-MAR-2023	780	China	secondary	matK	34.4438383998363	105.137505834712	0.00543842007126916
+Chamaenerion_angustifolium	MT929948.1	03-MAR-2023	781	China	secondary	matK	34.1919026348192	104.958285365155	0.00925578500581771
+Chamaenerion_angustifolium	JN895013.1	07-MAR-2012	786	United Kingdom: Breconshire (42)	secondary	matK	52.9877138	-1.1775355	0.00310120009368138
+Chamaenerion_angustifolium	JF953693.1	13-DEC-2011	723	China	secondary	matK	34.5891550004309	105.698658707782	0.00314835061151117
+Chamaenerion_angustifolium	JF953692.1	13-DEC-2011	723	China	secondary	matK	35.0318470857444	105.698131015912	0.00314835061151117
+Chamaenerion_angustifolium	JF953691.1	13-DEC-2011	723	China	secondary	matK	35.7055374334005	104.51606592409	0.00314835061151117
+Chamaenerion_angustifolium	JF953690.1	13-DEC-2011	723	China	secondary	matK	34.5536058794821	104.628917146161	0.00314835061151117
+Chamaenerion_angustifolium	JF953689.1	13-DEC-2011	723	China	secondary	matK	34.4831497748947	105.602228659147	0.00314835061151117
+Chamaenerion_angustifolium	JF953688.1	13-DEC-2011	723	China	secondary	matK	34.2677242728941	105.263566534723	0.00298132628541932

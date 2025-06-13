@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ophrys_apifera	JN890698.1	07-MAR-2012	524	United Kingdom	primary	rbcL	53.19	-4.46	0
+Ophrys_apifera	HE858480.1	07-JAN-2013	582	United Kingdom:N. Somerset	secondary	rbcL	51.3984729919808	-1.5491873913153	0
+Ophrys_apifera	HE858479.1	07-JAN-2013	582	United Kingdom:N. Somerset	secondary	rbcL	51.3435268383349	-2.8781243816956	0
+Ophrys_apifera	HE858478.1	07-JAN-2013	582	United Kingdom:N. Somerset	secondary	rbcL	51.5926633590422	-3.46779828918211	0
+Ophrys_apifera	HE858477.1	07-JAN-2013	582	United Kingdom:N. Somerset	secondary	rbcL	50.5655991402838	-3.00274595138436	0
+Ophrys_apifera	HE858476.1	07-JAN-2013	582	United Kingdom:N. Somerset	secondary	rbcL	51.2860059674177	-2.63843091890473	0

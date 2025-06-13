@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brachypodium_pinnatum	JN893341.1	07-MAR-2012	542	United Kingdom: Anglesey	primary	rbcL	53.15	-4.4	0.00334498984524729
+Brachypodium_pinnatum	KJ746320.1	29-JUL-2014	661	Poland	secondary	rbcL	52.215933	19.134422	0.0104115124525812
+Brachypodium_pinnatum	JN890937.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	51.9827763906708	-4.04216265160247	0.00334498984524729
+Brachypodium_pinnatum	JN890934.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	51.5935263100302	-3.12758613027229	0.00475199519437055
+Brachypodium_pinnatum	AM849347.1	09-JAN-2008	1398	China	secondary	rbcL	35.000074	104.999927	0.00450459291826961

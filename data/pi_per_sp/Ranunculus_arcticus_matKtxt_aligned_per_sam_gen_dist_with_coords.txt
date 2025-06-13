@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_arcticus	KC475656.1	25-OCT-2013	763	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Small cliff south of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	matK	68.703	-112.653	0.00165652124428824
+Ranunculus_arcticus	KC475655.1	25-OCT-2013	740	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Near cabin on slopes just above coastal area	primary	matK	56.331	-79.514	0.00116599157602595
+Ranunculus_arcticus	KC475654.1	25-OCT-2013	699	Canada: Northwest Territories, Melville Island, McCormick Inlet, ca. 12 km SW of head of inlet at river delta	primary	matK	75.78	-112.51	0.000983486432708079
+Ranunculus_arcticus	KC475653.1	25-OCT-2013	780	Canada: Northwest Territories, Victoria Island, Minto Inlet, Enclosed valley S of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.318	-116.467	0.00113032826410857
+Ranunculus_arcticus	KC475652.1	25-OCT-2013	525	Canada: Northwest Territories, Banks Island, Aulavik National Park, Head Hill archaeological site	primary	matK	73.8356	-119.989	0.000488050616324603
+Ranunculus_arcticus	JN966491.1	27-OCT-2012	671	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Salt marsh	primary	matK	58.771	-93.843	0.00104608281549451
+Ranunculus_arcticus	JN966490.1	27-OCT-2012	671	Canada: Manitoba, Churchill, Wapusk National Park, Thompson Point, Beach ridges in sand amongst Leymus mollis and Dryas integrifolia	primary	matK	58.335	-93.018	0.00104608281549451
+Ranunculus_arcticus	JN966489.1	27-OCT-2012	516	Canada: Manitoba, Churchill, Wapusk National Park, Laperousse Bay, Mast River, Dryas integrifolia/Shepherdia canadensis moraine with Saxifraga tricuspidata and S. oppositifolia.	primary	matK	58.722	-93.428	0.00367157117495866
+Ranunculus_arcticus	JF509973.1	31-MAR-2012	1745	USA: Colorado	secondary	matK	38.7251776	-105.607716	0.00427129347536354

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_adonidifolia	HE614443.1	27-JAN-2012	1131	France:Col de Mantet	secondary	cob	42.2854284788966	1.4257796158028	0.455869596718578
+Jacobaea_adonidifolia	HE614442.1	27-JAN-2012	1131	France:Col de Mantet	secondary	cob	42.8807061195699	2.91953365446962	0.455869596718578
+Jacobaea_adonidifolia	HE614371.1	27-JAN-2012	943	France:Col de Mantet	secondary	cob	43.010677727543	2.82913800293391	0.483199449811302
+Jacobaea_adonidifolia	HE614370.1	27-JAN-2012	943	France:Col de Mantet	secondary	cob	42.0634841878528	2.431818943351	0.482873663852676
+Jacobaea_adonidifolia	HE614299.1	27-JAN-2012	634	France:Col de Mantet	secondary	cob	43.0660669309071	2.47651087592247	0.474456335553391
+Jacobaea_adonidifolia	HE614298.1	27-JAN-2012	634	France:Col de Mantet	secondary	cob	41.9204922545133	2.9887489568507	0.474456335553391
+Jacobaea_adonidifolia	HE614515.1	27-JAN-2012	616	France:Col de Mantet	secondary	cob	43.3063272954536	2.15005177878728	0.482736304532546
+Jacobaea_adonidifolia	HE614514.1	27-JAN-2012	616	France:Col de Mantet	secondary	cob	41.9843470430934	1.75775565389358	0.482736304532546

@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_vulgaris	OR678664.1	06-NOV-2023	508	Kazakhstan: Qaragandy region	primary	rbcL	49.43775	75.48958	0.000221368498292552
+Artemisia_vulgaris	OR464832.1	26-SEP-2023	615	USA: South Westnedge Park, Portage, MI	primary	rbcL	42.18558725	-85.59247336	0.00170482366689047
+Artemisia_vulgaris	MG224447.1	26-DEC-2017	553	Canada: Quebec, Montreal, Island of Montreal, Parc Summit, sur les bords d'un sentier	primary	rbcL	45.493	-73.608	0.000210403812246616
+Artemisia_vulgaris	MG222521.1	26-DEC-2017	553	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill West, very north-west corner of property	primary	rbcL	44.05	-79.4833	0.000210403812246616
+Artemisia_vulgaris	KC870884.1	30-JUL-2013	507	USA: Mercyhurst University Campus, Erie, PA	primary	rbcL	42.1028	-80.0514	0.00186523969092207
+Artemisia_vulgaris	JN891751.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.2	0.00021245769109017
+Artemisia_vulgaris	KX582044.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	43.4371261653229	81.4761420192299	0.000279050237357513
+Artemisia_vulgaris	KX582043.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	43.9400207808048	82.183199867601	0.000279050237357513
+Artemisia_vulgaris	KX582042.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	44.0879923717671	81.514312654023	0.000279050237357513
+Artemisia_vulgaris	KX582041.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	43.1873722473847	81.6209534763032	0.000279050237357513
+Artemisia_vulgaris	KX582040.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	43.6684071945822	80.3862897021395	0.000279050237357513
+Artemisia_vulgaris	KX582039.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	43.5179600836056	80.3450583472518	0.000279050237357513
+Artemisia_vulgaris	KX582038.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	43.6850072978555	81.3209378613166	0.00108368188373292
+Artemisia_vulgaris	KX582037.1	24-SEP-2016	702	China: Xinjiang, Yili	secondary	rbcL	44.6739286395299	81.1503055893668	0.000279050237357513
+Artemisia_vulgaris	KF664584.1	01-DEC-2013	697	India: Wayanad, Kerala	secondary	rbcL	11.6552601	76.1568728	0.000279732469840512
+Artemisia_vulgaris	KF639960.1	01-DEC-2013	697	India: Palakkad, Kerala	secondary	rbcL	10.7668468	76.6492732	0.000279732469840512
+Artemisia_vulgaris	JN892237.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.00021245769109017
+Artemisia_vulgaris	JN890801.1	07-MAR-2012	534	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000213613653544509
+Artemisia_vulgaris	KF589298.1	27-NOV-2013	697	India	secondary	rbcL	25.2162691	72.9665351	0.000279732469840512

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_praelongus	LC704486.1	01-OCT-2022	752	Japan:Hokkaido, Wakkanai	secondary	rpl20-rps12	45.4158108	141.6730309	0
+Potamogeton_praelongus	HQ263473.1	21-MAR-2011	773	USA: Michigan	secondary	rpl20-rps12	43.6211955	-84.6824346	0
+Potamogeton_praelongus	HQ263472.1	21-MAR-2011	772	USA: Maine	secondary	rpl20-rps12	45.709097	-68.8590201	0
+Potamogeton_praelongus	HQ263471.1	21-MAR-2011	768	Finland	secondary	rpl20-rps12	63.2467777	25.9209164	0
+Potamogeton_praelongus	HQ263470.1	21-MAR-2011	746	Italy	secondary	rpl20-rps12	42.6384261	12.674297	0
+Potamogeton_praelongus	HQ263469.1	21-MAR-2011	733	Germany	secondary	rpl20-rps12	31.4399019	-95.350778	0

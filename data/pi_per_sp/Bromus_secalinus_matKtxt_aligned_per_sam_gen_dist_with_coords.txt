@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_secalinus	JN895850.1	07-MAR-2012	1029	United Kingdom: Cardiganshire	primary	matK	52.34	-3.82	0
+Bromus_secalinus	OM048597.1	08-AUG-2022	1333	Sweden: Dalarna	secondary	matK	61.0603778	14.2150873	0
+Bromus_secalinus	OM048596.1	08-AUG-2022	965	Russia: Leningrad (St. Petersburg), Lyzhskii area, near village Kolentsevo, near rye field	secondary	matK	59.938732	30.316229	0
+Bromus_secalinus	JN895869.1	07-MAR-2012	837	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0
+Bromus_secalinus	JN895865.1	07-MAR-2012	799	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0

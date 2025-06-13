@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Staphylea_pinnata	KR779955.1	19-DEC-2015	893	Ukraine	secondary	trnL-trnF	49.9562500886551	31.3764599703239	0
+Staphylea_pinnata	KR779954.1	19-DEC-2015	893	Ukraine	secondary	trnL-trnF	49.4640562526597	31.7061582520186	0
+Staphylea_pinnata	KR779953.1	19-DEC-2015	893	Ukraine	secondary	trnL-trnF	49.2259247515171	31.7157176483595	0
+Staphylea_pinnata	KR779952.1	19-DEC-2015	893	Turkey	secondary	trnL-trnF	38.6145792929016	34.7312343831253	0
+Staphylea_pinnata	KR779951.1	19-DEC-2015	893	Turkey	secondary	trnL-trnF	39.4702141301563	34.7027973240372	0
+Staphylea_pinnata	KR779950.1	19-DEC-2015	893	Poland	secondary	trnL-trnF	52.215933	19.134422	0
+Staphylea_pinnata	KR779949.1	19-DEC-2015	893	Serbia	secondary	trnL-trnF	43.5775521233346	20.3641873694083	0
+Staphylea_pinnata	KR779948.1	19-DEC-2015	893	Georgia	secondary	trnL-trnF	32.8274411137896	-82.6456778326535	0
+Staphylea_pinnata	KR779947.1	19-DEC-2015	893	Georgia	secondary	trnL-trnF	32.4945226482205	-83.9117929897656	0
+Staphylea_pinnata	KR779946.1	19-DEC-2015	893	Georgia	secondary	trnL-trnF	32.4313560016624	-83.6972473894887	0
+Staphylea_pinnata	KR779945.1	19-DEC-2015	893	Serbia	secondary	trnL-trnF	44.3756329073288	21.5865320533872	0
+Staphylea_pinnata	KR779944.1	19-DEC-2015	893	Austria	secondary	trnL-trnF	37.7256432196053	-4.63550137570598	0
+Staphylea_pinnata	KR779943.1	19-DEC-2015	893	Austria	secondary	trnL-trnF	37.5817414369173	-4.76241584337401	0

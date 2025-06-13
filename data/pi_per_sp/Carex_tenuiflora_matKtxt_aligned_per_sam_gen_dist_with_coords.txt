@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_tenuiflora	KP980127.1	21-SEP-2015	785	Canada: Yukon Territory	secondary	matK	63.000147	-136.002502	0
+Carex_tenuiflora	KP980123.1	21-SEP-2015	785	Finland	secondary	matK	63.2467777	25.9209164	0
+Carex_tenuiflora	KP980097.1	21-SEP-2015	783	USA: Colorado	secondary	matK	38.7251776	-105.607716	0
+Carex_tenuiflora	KP980077.1	21-SEP-2015	783	USA: Alaska	secondary	matK	64.9820652858582	-148.206975391034	0
+Carex_tenuiflora	KP980055.1	21-SEP-2015	755	Russia: Tuva	secondary	matK	51.4017149	93.8582593	0
+Carex_tenuiflora	KP980045.1	21-SEP-2015	785	Russia: Amurskaya	secondary	matK	51.7195684	55.1204791	0
+Carex_tenuiflora	KP980034.1	21-SEP-2015	741	Russia: Magadan	secondary	matK	63.5515028	154.014726	0
+Carex_tenuiflora	KP980022.1	21-SEP-2015	785	Canada: British Columbia	secondary	matK	55.001251	-125.002441	0
+Carex_tenuiflora	KP980009.1	21-SEP-2015	783	Canada: Quebec	secondary	matK	52.4760892	-71.8258668	0
+Carex_tenuiflora	KP980005.1	21-SEP-2015	785	USA: Alaska	secondary	matK	64.0148627699724	-148.400980582933	0

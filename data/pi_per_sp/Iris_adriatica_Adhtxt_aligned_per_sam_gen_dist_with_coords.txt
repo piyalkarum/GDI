@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_adriatica	MT712014.1	08-SEP-2021	342	Croatia: Island of Brac	primary	Adh	43.35	16.59	0
+Iris_adriatica	MT712013.1	08-SEP-2021	342	Croatia: Bilice	primary	Adh	43.78	15.89	0
+Iris_adriatica	MT732243.1	18-JUL-2020	342	Croatia	primary	Adh	44.1637360930914	15.8415255192593	0
+Iris_adriatica	MT732242.1	18-JUL-2020	342	Croatia	primary	Adh	44.75	14.41	0
+Iris_adriatica	MT732240.1	18-JUL-2020	342	Croatia	primary	Adh	43.78	16.02	0
+Iris_adriatica	MT732238.1	18-JUL-2020	342	Croatia	primary	Adh	44.74	14.42	0
+Iris_adriatica	MT732237.1	18-JUL-2020	342	Croatia	primary	Adh	43.73	15.99	0
+Iris_adriatica	MT732236.1	18-JUL-2020	342	Croatia	primary	Adh	44.75	14.42	0
+Iris_adriatica	MT732235.1	18-JUL-2020	342	Croatia	primary	Adh	44.2964287085717	16.0127836002296	0
+Iris_adriatica	MT732233.1	18-JUL-2020	342	Croatia	primary	Adh	43.74	15.88	0
+Iris_adriatica	MT732231.1	18-JUL-2020	342	Croatia	primary	Adh	43.81	16.05	0
+Iris_adriatica	MT732230.1	18-JUL-2020	342	Croatia	primary	Adh	44.6654009189434	15.6195869769367	0

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Neottia_cordata	KX677756.1	09-AUG-2017	793	Canada: British Columbia, Squamish-Lillooet Regional District, Road to Garibaldi Lake & Black Tusk Trailhead	primary	matK	49.966	-123.126	0.00177641554634052
+Neottia_cordata	KX677660.1	09-AUG-2017	811	Canada: British Columbia, Vancouver Island, Capital Regional District, Metchosin, Blinkhorn Mountain	primary	matK	48.389	-123.572	0.00173330180062619
+Neottia_cordata	KX677019.1	09-AUG-2017	811	Canada: British Columbia, Central Okanagan Regional District, between Kelowna & Vernon, Beaver Lake Rd., at trailhead for High Ridge Trail	primary	matK	50.032	-119.287	0.00173330180062619
+Neottia_cordata	JN966362.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 23 km E Churchill, Ramsay Creek, Tundra, creek bank	primary	matK	58.731	-93.78	0.00172590025571911
+Neottia_cordata	JN894435.1	07-MAR-2012	779	United Kingdom: Sutherland, East (107)	primary	matK	57.97	-2.32	0.00172771121607569
+Neottia_cordata	LC617168.1	10-SEP-2021	837	Japan:Nagano, Kisomachi	secondary	matK	35.899967	137.651902	0.0027240003922722
+Neottia_cordata	MK925956.1	14-JAN-2020	811	United Kingdom	secondary	matK	55.0537803172851	-3.2322654084272	0.00169796883769027
+Neottia_cordata	MK925655.1	14-JAN-2020	810	United Kingdom	secondary	matK	54.2192736694823	-3.73112403220248	0.00168599146733908

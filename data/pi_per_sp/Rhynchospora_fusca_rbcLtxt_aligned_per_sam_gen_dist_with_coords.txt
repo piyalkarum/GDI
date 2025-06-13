@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhynchospora_fusca	MG227269.1	23-JAN-2018	512	Canada: Ontario, Parry Sound Dist., Wilson Tp., Wolf Lake, On small island in middle of lake.	primary	rbcL	45.783	-80.1	0
+Rhynchospora_fusca	MG226980.1	23-JAN-2018	552	Canada: Ontario, Algoma Dist., Island Lake	primary	rbcL	47	-84.75	0
+Rhynchospora_fusca	MG225777.1	23-JAN-2018	552	Canada: Ontario, Algoma Dist., Blacktrout Lake, At Hwy 17, 4 mi N of jct with Hwy 101, T 30, R 24	primary	rbcL	48.05	-84.833	0
+Rhynchospora_fusca	MK925404.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5226989954963	-3.29300810035477	0
+Rhynchospora_fusca	MK925205.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8916377908622	-2.21898632966493	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fraxinus_angustifolia	MT311754.1	28-SEP-2020	518	France	secondary	psbA-trnH	46.603354	1.8883335	0.00944908041682235
+Fraxinus_angustifolia	GU120315.1	11-NOV-2009	565	Italy: Siliqua	secondary	psbA-trnH	39.300237	8.808738	0.00400461773852332
+Fraxinus_angustifolia	HE966640.1	18-SEP-2012	565	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00400461773852332
+Fraxinus_angustifolia	HE659569.1	03-FEB-2012	466	Morocco	secondary	psbA-trnH	28.3347722	-10.3713379	0.00716230559785869

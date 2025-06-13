@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Petagnaea_gussonei	FM867654.1	23-MAR-2009	1307	Italy:Sicily, Torrente Monte Cuculone	secondary	matK	37.2223024268145	15.458576244293	0
+Petagnaea_gussonei	FM867653.1	23-MAR-2009	1307	Italy:Sicily, Fiumara Tortorici, affluent 3	secondary	matK	37.5089425963103	13.4345994111314	0
+Petagnaea_gussonei	FM867652.1	23-MAR-2009	1307	Italy:Sicily, Fiumara Tortorici, affluent 2	secondary	matK	37.0731179900889	14.967589246077	0
+Petagnaea_gussonei	FM867651.1	23-MAR-2009	1307	Italy:Sicily, Fiumara Tortorici, affluent 1	secondary	matK	36.4102405384141	13.7987572495563	0
+Petagnaea_gussonei	FM867650.1	23-MAR-2009	1307	Italy:Sicily, Sorgente Patira'	secondary	matK	36.6930156582863	14.840872981703	0
+Petagnaea_gussonei	FM867649.1	23-MAR-2009	1307	Italy:Sicily, Vallone Runcillo	secondary	matK	37.9430374	14.8657372	0
+Petagnaea_gussonei	FM867648.1	23-MAR-2009	1307	Italy:Sicily, Vallone Sollazzo Salmieri	secondary	matK	37.1169240784675	14.8059769892291	0
+Petagnaea_gussonei	FM867647.1	23-MAR-2009	1307	Italy:Sicily, Torrente Crocetta	secondary	matK	37.0051051079845	15.5574308651032	0
+Petagnaea_gussonei	FM867646.1	23-MAR-2009	1307	Italy:Sicily, Torrente Contrada Contrasto	secondary	matK	36.8596466510102	14.5019952551701	0
+Petagnaea_gussonei	FM867645.1	23-MAR-2009	1307	Italy:Sicily, Stagno Case Mangalaviti	secondary	matK	37.2953424296894	13.3685842844496	0
+Petagnaea_gussonei	FM867644.1	23-MAR-2009	1307	Italy:Sicily, Vallone Case Mangalaviti	secondary	matK	37.5941497668878	13.6975096499862	0
+Petagnaea_gussonei	FM867643.1	23-MAR-2009	1307	Italy:Sicily, Torrente Fiumetto	secondary	matK	37.7695183	14.3824237	0
+Petagnaea_gussonei	FM867642.1	23-MAR-2009	1307	Italy:Sicily, Torrente Suta	secondary	matK	37.8293748605669	14.6739549965297	0
+Petagnaea_gussonei	FM867641.1	23-MAR-2009	1307	Italy:Sicily, Torrente Galati - S. Basilio	secondary	matK	37.165178257998	14.9959285492677	0
+Petagnaea_gussonei	FM867640.1	23-MAR-2009	1307	Italy:Sicily, Affluente Vallone S. Pietro	secondary	matK	37.2233406388667	15.3136459524563	0
+Petagnaea_gussonei	FM867639.1	23-MAR-2009	1307	Italy:Sicily, Affluente Vallone Linari	secondary	matK	37.8185764829876	13.9230964194652	0
+Petagnaea_gussonei	FM867638.1	23-MAR-2009	1307	Italy:Sicily, Castell'Umberto	secondary	matK	38.0843696	14.8071222	0

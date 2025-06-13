@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eragrostis_pilosa	AM901001.1	14-OCT-2008	588	Belgium	secondary	ITS1	50.6402809	4.6667145	0.0501266516582643
+Eragrostis_pilosa	AM900994.1	14-OCT-2008	583	Ethiopia	secondary	ITS1	6.45304136074886	35.5994003994012	0.0778039095487063
+Eragrostis_pilosa	AM900985.1	14-OCT-2008	588	Ethiopia	secondary	ITS1	6.92622537450072	36.3159335148347	0.0393373274106777
+Eragrostis_pilosa	AM900979.1	14-OCT-2008	587	Afghanistan	secondary	ITS1	33.7680065	66.2385139	0.0405424128355687

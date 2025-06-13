@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nerium_oleander	MT650073.1	10-AUG-2020	246	Iraq: Erbil, Kurdistan	secondary	trnL-trnF	36.6422041	44.5064886	0.000813008130081301
+Nerium_oleander	MT650072.1	10-AUG-2020	234	Iraq: Choman, Kurdistan	secondary	trnL-trnF	35.9710406	45.57899	0
+Nerium_oleander	MT650071.1	10-AUG-2020	249	Iraq: Permam, Kurdistan	secondary	trnL-trnF	36.316037	44.1456236	0.000803212851405622
+Nerium_oleander	MT078031.1	15-JUL-2020	865	India: Karnataka, Bangalore	secondary	trnL-trnF	12.9767936	77.590082	0.0029579928585563
+Nerium_oleander	FJ490765.1	21-DEC-2008	451	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.000544959128065395
+Nerium_oleander	MT650070.1	10-AUG-2020	251	Iraq	secondary	trnL-trnF	36.4974802	44.3541218	0.000796812749003984

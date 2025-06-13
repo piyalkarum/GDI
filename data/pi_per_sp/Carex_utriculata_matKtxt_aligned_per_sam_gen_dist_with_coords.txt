@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_utriculata	KX677176.1	09-AUG-2017	714	Canada: British Columbia, East Kootenay Regional District, Panorama Rd. near Invermere, campsite pulloff near river	primary	matK	50.444	-116.259	0
+Carex_utriculata	KX676715.1	09-AUG-2017	766	Canada: British Columbia, Thompson-Nicola Regional District, Shea Lake Forest Recreation Site	primary	matK	49.902	-120.736	0
+Carex_utriculata	JN966210.1	27-OCT-2012	696	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, Willow fen W of depot.	primary	matK	58.383	-93.225	0
+Carex_utriculata	HG915884.1	07-MAR-2016	2484	USA:Alaska, Survey Pass Quad.	secondary	matK	39.4703246	-86.6413912	0

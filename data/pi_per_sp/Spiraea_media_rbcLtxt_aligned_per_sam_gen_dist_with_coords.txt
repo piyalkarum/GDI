@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spiraea_media	OR738166.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.27639	83.28917	0.000461254612546125
+Spiraea_media	LC694250.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	42.9925	141.391	0.000417362270450751
+Spiraea_media	LC693028.1	03-MAY-2022	599	Japan: Hokkaido	primary	rbcL	44.8584	142.1167	0.000417362270450751
+Spiraea_media	MN205253.1	30-NOV-2021	724	China	secondary	rbcL	35.000074	104.999927	0.00171264582011429
+Spiraea_media	LC632478.1	10-NOV-2021	600	Japan:Hokkaido, Hidakacho	secondary	rbcL	43.4603175	143.330715792837	0.000416666666666667

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Goodyera_repens	LC687451.1	27-AUG-2022	914	Japan:Yamanashi, Narusawamura	secondary	psbA-trnH	35.7562233792646	139.024873079641	0.000729394602479942
+Goodyera_repens	LC687450.1	27-AUG-2022	914	Japan:Yamanashi, Narusawamura	secondary	psbA-trnH	34.9655563820649	139.064893375274	0.000364697301239971
+Goodyera_repens	LC687449.1	27-AUG-2022	914	Japan:Yamanashi, Narusawamura	secondary	psbA-trnH	35.5406808883497	138.207022791437	0.000364697301239971
+Goodyera_repens	LC687448.1	27-AUG-2022	775	Japan:Nagano, Kaidamura	secondary	psbA-trnH	36.6485851	138.1947664	0

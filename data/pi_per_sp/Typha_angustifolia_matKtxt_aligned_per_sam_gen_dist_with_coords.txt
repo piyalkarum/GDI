@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Typha_angustifolia	OQ847563.1	15-AUG-2023	789	USA: American Prairie White Rock Unit	primary	matK	47.9867	-107.9798	0.00741258337737545
+Typha_angustifolia	MG217099.1	24-JAN-2018	794	Canada: Quebec, Montreal, Island of Montreal, Reserve Molson	primary	matK	45.396	-73.974	0.00736532583663502
+Typha_angustifolia	MN450978.1	30-NOV-2021	789	China	secondary	matK	34.4232975298362	104.877735849075	0.0216971629984794
+Typha_angustifolia	MN434009.1	30-NOV-2021	796	China	secondary	matK	34.8944893499009	105.126101474525	0.00969692885390221
+Typha_angustifolia	JN894175.1	07-MAR-2012	719	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00940875329210191

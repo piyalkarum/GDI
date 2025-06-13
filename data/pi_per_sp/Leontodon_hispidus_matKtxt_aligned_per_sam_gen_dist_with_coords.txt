@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leontodon_hispidus	JN894633.1	07-MAR-2012	943	United Kingdom: Cardiganshire	primary	matK	52.22	-4.02	0.0013386643847406
+Leontodon_hispidus	KT250108.1	09-AUG-2015	820	Romania	secondary	matK	45.9852129	24.6859225	0.00133211908660227
+Leontodon_hispidus	FR865059.1	09-JUN-2011	443	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00648943599071082
+Leontodon_hispidus	JN894010.1	07-MAR-2012	797	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00133677401663867
+Leontodon_hispidus	JN894007.1	07-MAR-2012	957	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.00133120006187132
+Leontodon_hispidus	AJ633218.1	10-OCT-2004	970	Germany	secondary	matK	34.895926	-83.4665496	0.00460471724259529

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubus_armeniacus	OL954488.1	23-NOV-2022	854	South Africa: Western Cape, 450m NNE of Constantia Nek	primary	trnL-trnF	-34.0075	18.40833333	0
+Rubus_armeniacus	OL954469.1	23-NOV-2022	929	South Africa: Western Cape, Hout Bay, at the road Kirstenbosch - Hout Bay, 0.5 km W of Constantia NEastern Capek	primary	trnL-trnF	-34.01194444	18.39972222	0
+Rubus_armeniacus	OL954403.1	23-NOV-2022	949	South Africa: Eastern Cape, Hogsback, S margin of the town, Away With The Fairies camp garden	primary	trnL-trnF	-32.601907	26.939384	0
+Rubus_armeniacus	OL954389.1	23-NOV-2022	932	South Africa: Eastern Cape, 900 m E of Hogsback, stream bank in tree plantations	primary	trnL-trnF	-32.596696	26.947791	0
+Rubus_armeniacus	KM037131.1	28-SEP-2014	419	Germany: Rheinland-Pfalz, near Neustadt	secondary	trnL-trnF	49.9022447	6.85943097983571	0
+Rubus_armeniacus	KM036850.1	28-SEP-2014	453	Czech Republic	secondary	trnL-trnF	49.5940567	17.251143	0

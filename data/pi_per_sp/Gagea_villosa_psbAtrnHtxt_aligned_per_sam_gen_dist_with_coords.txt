@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_villosa	LT985435.1	14-JUN-2019	290	Israel	secondary	psbA-trnH	30.8124247	34.8594762	0
+Gagea_villosa	LT985434.1	14-JUN-2019	290	Bulgaria	secondary	psbA-trnH	46.7889169	23.6184909	0
+Gagea_villosa	LT985433.1	14-JUN-2019	290	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0
+Gagea_villosa	LT985432.1	14-JUN-2019	290	Turkey	secondary	psbA-trnH	38.9597594	34.9249653	0
+Gagea_villosa	LT985431.1	14-JUN-2019	290	Russia	secondary	psbA-trnH	64.6863136	97.7453061	0
+Gagea_villosa	LT985430.1	14-JUN-2019	290	Iran	secondary	psbA-trnH	32.6475314	54.5643516	0
+Gagea_villosa	LT985429.1	14-JUN-2019	290	Georgia	secondary	psbA-trnH	32.3293809	-83.1137366	0
+Gagea_villosa	LT985428.1	14-JUN-2019	290	Germany	secondary	psbA-trnH	40.4203479	-79.1166983	0
+Gagea_villosa	FN868220.1	10-JAN-2012	290	Austria:Wien	secondary	psbA-trnH	48.2083537	16.3725042	0
+Gagea_villosa	FN868218.1	10-JAN-2012	290	France:Corsica, Sorio	secondary	psbA-trnH	42.58325	9.2756204	0
+Gagea_villosa	FN868213.1	10-JAN-2012	290	France:Alpes-Maritimes	secondary	psbA-trnH	43.9210587	7.1790785	0
+Gagea_villosa	AM282992.1	23-JUN-2006	372	Italy:Calabria	secondary	psbA-trnH	39.0565974	16.5249864	0
+Gagea_villosa	AM282991.1	23-JUN-2006	371	Italy:Abruzzo	secondary	psbA-trnH	42.227681	13.854983	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygonatum_odoratum	JN890573.1	07-MAR-2012	542	United Kingdom: Brecon (42)	primary	rbcL	51.84	-3.18	0
+Polygonatum_odoratum	MH713956.1	01-SEP-2020	568	China: Hebei	secondary	rbcL	39.0000001	116	0
+Polygonatum_odoratum	LC364358.1	09-JUL-2019	553	Japan:Nagano	secondary	rbcL	36.1143945	138.0319015	0
+Polygonatum_odoratum	JN893756.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0

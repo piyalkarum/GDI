@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sporobolus_anglicus	ON221695.1	09-APR-2023	537	South Korea	secondary	trnK	36.638392	127.6961188	0
+Sporobolus_anglicus	KM011131.1	28-APR-2015	718	Canada	secondary	trnK	60.2553981549253	-107.23817919304	0
+Sporobolus_anglicus	KM011130.1	28-APR-2015	718	Canada	secondary	trnK	61.6542069942207	-107.134793882269	0
+Sporobolus_anglicus	KM011129.1	28-APR-2015	718	United Kingdom	secondary	trnK	54.7023545	-3.2765753	0

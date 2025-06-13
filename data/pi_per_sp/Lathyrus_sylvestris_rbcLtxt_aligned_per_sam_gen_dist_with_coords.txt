@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_sylvestris	MG249828.1	21-JAN-2018	552	Canada: British Columbia, Coalmont, S of, going E to Princeton	primary	rbcL	49.508	-120.675	0.000743232482155181
+Lathyrus_sylvestris	KX677842.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, University of British Columbia campus, on north side of Stadium Road	primary	rbcL	49.255	-123.246	0.000743232482155181
+Lathyrus_sylvestris	JN891874.1	07-MAR-2012	383	United Kingdom: Monmouthshire	primary	rbcL	51.57	-2.97	0.0030461270670148
+Lathyrus_sylvestris	KX431871.1	10-MAY-2017	514	Hungary	secondary	rbcL	41.9767629	-72.7789842	0.000765194012873872
+Lathyrus_sylvestris	KX431870.1	10-MAY-2017	530	France: Chapelle de Rousse	secondary	rbcL	43.2602977	-0.422022	0.000763244999074855
+Lathyrus_sylvestris	JN890641.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00245208503214275
+Lathyrus_sylvestris	JN890635.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000742664084604293

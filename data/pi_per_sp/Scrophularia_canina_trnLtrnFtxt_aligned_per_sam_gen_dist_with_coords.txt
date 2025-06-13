@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scrophularia_canina	KR827032.1	29-JUN-2015	762	Portugal: Rabacal	secondary	trnL-trnF	40.8545347	-7.2577517	0.00218722659667542
+Scrophularia_canina	KC692626.1	22-JUL-2013	763	Turkey: 20	secondary	trnL-trnF	37.8275892	29.2389539	0.00524705054070076
+Scrophularia_canina	KC692619.1	22-JUL-2013	763	Italy: SA	secondary	trnL-trnF	40.4194416	15.3107562	0.00262237862469026
+Scrophularia_canina	AY423123.1	20-AUG-2004	888	Austria	secondary	trnL-trnF	36.9148511	-4.7534501	0.00218722659667542

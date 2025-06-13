@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_amplexicaule	ON286920.1	27-FEB-2023	318	Turkey	secondary	psbA-trnH	38.9597594	34.9249653	0.00348432055749129
+Lamium_amplexicaule	JX074027.1	18-OCT-2013	292	Poland	secondary	psbA-trnH	52.0276991541402	20.2618537677204	0.000871080139372822
+Lamium_amplexicaule	JX074026.1	18-OCT-2013	292	Poland	secondary	psbA-trnH	51.9129756815682	17.9955193521757	0.000871080139372822
+Lamium_amplexicaule	JX074025.1	18-OCT-2013	292	Poland	secondary	psbA-trnH	51.9390282148223	18.3359783437677	0.000871080139372822
+Lamium_amplexicaule	JX074024.1	18-OCT-2013	292	Poland	secondary	psbA-trnH	52.3321906548013	19.2457043225298	0.000871080139372822

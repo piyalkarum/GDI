@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_coccifera	MT465749.1	28-SEP-2020	572	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.0318480246497706
+Quercus_coccifera	MT311830.1	28-SEP-2020	517	France	secondary	psbA-trnH	46.603354	1.8883335	0.0157044522223615
+Quercus_coccifera	HE591300.1	30-SEP-2011	565	Croatia	secondary	psbA-trnH	45.3658443	15.6575209	0.0170371595334756
+Quercus_coccifera	HE591264.1	30-SEP-2011	566	Italy:Sardinia	secondary	psbA-trnH	40.8516012971317	8.50209205025149	0.0215456909133763
+Quercus_coccifera	HE591262.1	30-SEP-2011	563	Portugal:Faro	secondary	psbA-trnH	37.0162727	-7.9351771	0.0180861924584876
+Quercus_coccifera	HE591261.1	30-SEP-2011	565	Italy:Apulia	secondary	psbA-trnH	40.5922979195994	16.6753440736943	0.0145489674370778
+Quercus_coccifera	HE591260.1	30-SEP-2011	556	Turkey:Isparta	secondary	psbA-trnH	37.9465412	30.9602093	0.0306455423556403
+Quercus_coccifera	FN687474.1	16-MAR-2010	566	Italy:Sardinia	secondary	psbA-trnH	39.8528770461357	8.48565883742795	0.0215456909133763
+Quercus_coccifera	FN687473.1	16-MAR-2010	566	Italy:Sardinia	secondary	psbA-trnH	40.7891668573724	9.17829618007144	0.0215456909133763
+Quercus_coccifera	FN687472.1	16-MAR-2010	565	Italy:Apulia	secondary	psbA-trnH	41.7032536029084	17.2901468370877	0.0145489674370778

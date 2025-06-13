@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedysarum_glomeratum	KU143928.1	29-FEB-2016	551	Algeria	secondary	trnL-trnF	28.1595385487614	2.48864196501337	0.00124979501956099
+Hedysarum_glomeratum	KU059083.1	29-FEB-2016	542	Tunisia	secondary	trnL-trnF	37.0006465301997	10.398495452071	0.000617283950617284
+Hedysarum_glomeratum	KU056825.1	27-FEB-2016	530	Algeria	secondary	trnL-trnF	27.3218553450086	3.41445162665158	0.000632511068943707
+Hedysarum_glomeratum	KP338337.1	21-APR-2015	535	Tunisia	secondary	trnL-trnF	37.0155867437666	9.19545035061348	0

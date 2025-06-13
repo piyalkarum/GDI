@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bromus_commutatus	MF596608.1	28-FEB-2018	603	Canada: British Columbia, Kettle River Campground, 5 km N of Jct. 3 and 33 along Hwy. 33	primary	rbcL	48.4006643232775	-119.051455031994	0
+Bromus_commutatus	MF596607.1	28-FEB-2018	603	Canada: British Columbia, NE of Osoyoos ~2 km going up Anarchist Mountain, just before town lookout and just beyond the first switchback.	primary	rbcL	48.9525613428797	-119.267398718917	0
+Bromus_commutatus	MG228194.1	23-JAN-2018	603	Canada: British Columbia, NE of Osoyoos ~2 km going up Anarchist Mountain, just before town lookout and just beyond the first switchback.	primary	rbcL	48.8269287061681	-120.095680376243	0
+Bromus_commutatus	MG225974.1	23-JAN-2018	603	Canada: British Columbia, Kettle River Campground, 5 km N of Jct. 3 and 33 along Hwy. 33	primary	rbcL	48.3986969018305	-118.691118965005	0
+Bromus_commutatus	JN890976.1	07-MAR-2012	540	United Kingdom: Monmouthshire	primary	rbcL	51.58	-2.72	0
+Bromus_commutatus	JN891395.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0
+Bromus_commutatus	AJ746287.1	07-JAN-2005	1344	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0

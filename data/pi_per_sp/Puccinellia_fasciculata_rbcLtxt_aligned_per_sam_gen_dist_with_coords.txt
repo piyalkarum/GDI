@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_fasciculata	MK924820.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00307844113561283
+Puccinellia_fasciculata	MG226149.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, George's near Stephenville	secondary	rbcL	49.7738268	-56.8821439113846	0.00183615062462607
+Puccinellia_fasciculata	KJ599205.1	21-SEP-2014	559	Australia: South Australia	secondary	rbcL	-30.5343665	135.6301212	0.00306843651495263
+Puccinellia_fasciculata	JN892615.1	07-MAR-2012	542	United Kingdom: Sussex,East	secondary	rbcL	50.94451385	-0.0622673284178475	0.00307844113561283

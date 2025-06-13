@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galeopsis_tetrahit	MG224371.1	26-DEC-2017	552	Canada: Yukon Territory, Fox Lake, north end	primary	rbcL	61.304	-135.56	0.000767109128738157
+Galeopsis_tetrahit	MG224307.1	26-DEC-2017	508	Canada: Ontario, Nipissing District, Mattawan Twp., Mattawa, NEBIE Block#3, Intensive treatment	primary	rbcL	46.374	-79.006	0.000820209973753281
+Galeopsis_tetrahit	MG223857.1	26-DEC-2017	525	Canada: Ontario, Cochrane District, Timmins, NEBIE Block#1, Elite treatment	primary	rbcL	48.351	-81.302	0.000807238589339757
+Galeopsis_tetrahit	MG223465.1	26-DEC-2017	552	Canada: Yukon Territory, Dawson City, 37 Jack London Drive	primary	rbcL	64.055	-139.403	0.000767109128738157
+Galeopsis_tetrahit	KX678915.1	29-APR-2017	548	Canada: British Columbia, Greater Vancouver Regional District, Buntzen Lake	primary	rbcL	49.3764	-122.862	0.000768211071683959
+Galeopsis_tetrahit	KJ593427.1	17-MAR-2015	553	USA: Wisconsin, Hiles	primary	rbcL	45.904	-89.011	0.00076597233363638
+Galeopsis_tetrahit	KJ593426.1	17-MAR-2015	536	USA: Wisconsin, Laona	primary	rbcL	45.569	-88.787	0.000790393271736555
+Galeopsis_tetrahit	KJ593425.1	17-MAR-2015	553	USA: Wisconsin, Washington	primary	rbcL	45.936	-89.063	0.00076597233363638
+Galeopsis_tetrahit	KJ841333.1	04-NOV-2014	554	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Depression along ski trail, near Purple Trail	primary	rbcL	45.548	-73.157	0.00153917957098263
+Galeopsis_tetrahit	JN965556.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 3 km SE Churchill, pipeline, Forest along the pipe	primary	rbcL	58.747	-94.115	0.000767109128738157
+Galeopsis_tetrahit	JN891757.1	07-MAR-2012	542	United Kingdom: Perthshire, East (89)	primary	rbcL	56.81	-3.46	0.00156229681884262
+Galeopsis_tetrahit	JN890796.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.00327862937397606
+Galeopsis_tetrahit	JN890795.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00156229681884262

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Littorella_uniflora	JN892507.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.74	-3.41	0.00136892539356605
+Littorella_uniflora	HM850128.1	23-JUL-2011	1314	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00410677618069815
+Littorella_uniflora	JN892324.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00136892539356605
+Littorella_uniflora	JN891966.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00136892539356605

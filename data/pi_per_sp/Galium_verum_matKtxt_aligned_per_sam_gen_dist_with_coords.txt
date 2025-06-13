@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_verum	OR738188.1	13-NOV-2023	815	Kazakhstan: Kostanay region	primary	matK	53.11331	64.05352	0.1876911591858
+Galium_verum	OR550614.1	01-NOV-2023	782	Kazakhstan: Qaragandy region	primary	matK	47.36201	74.74058	0.0173892991879358
+Galium_verum	HQ593309.1	09-NOV-2011	866	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 150 m w of tennis courns at edge of road	primary	matK	44.028	-79.54	0.0173522383308411
+Galium_verum	JN893877.1	07-MAR-2012	802	United Kingdom: Glamorgan	primary	matK	51.52	-3.2	0.0167008567530357
+Galium_verum	OR703760.1	11-NOV-2023	551	Kazakhstan: Akmola region	secondary	matK	51.8742347	69.8582132	0.0174888632238904
+Galium_verum	MT918329.1	03-MAR-2023	779	China	secondary	matK	35.171770593425	105.745474491935	0.0173157037563817
+Galium_verum	MT918327.1	03-MAR-2023	786	China	secondary	matK	35.4881632590374	105.123017377197	0.0171602729742265
+Galium_verum	MN370064.1	30-SEP-2021	828	China	secondary	matK	34.5945126084648	105.791997443044	0.0172358126880009
+Galium_verum	KJ746187.1	29-JUL-2014	702	Poland	secondary	matK	52.215933	19.134422	0.0191174217063904
+Galium_verum	KJ204484.1	29-JAN-2015	821	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0168109683120754
+Galium_verum	JN895564.1	07-MAR-2012	750	United Kingdom: Glamorgan	secondary	matK	51.4387188075034	-2.21149437404231	0.0172519440812124
+Galium_verum	JN895563.1	07-MAR-2012	721	United Kingdom: Glamorgan	secondary	matK	51.3462785705218	-2.83526307521181	0.017439781656989

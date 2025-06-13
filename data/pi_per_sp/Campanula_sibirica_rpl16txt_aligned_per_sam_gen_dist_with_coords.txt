@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_sibirica	LR701235.1	21-OCT-2021	1075	Russia	primary	rpl16	44.0539	43.1114	0.000836820083682008
+Campanula_sibirica	LR701233.1	21-OCT-2021	1075	Russia	primary	rpl16	46.1167	40.325	0.000836820083682008
+Campanula_sibirica	MK556780.1	22-SEP-2019	334	Romania	secondary	rpl16	45.9708156569771	23.6013831422437	NA
+Campanula_sibirica	MK556743.1	22-SEP-2019	334	Hungary	secondary	rpl16	42.2319408086359	-73.1417457931587	NA
+Campanula_sibirica	MK556697.1	22-SEP-2019	478	Romania	secondary	rpl16	46.1814646134392	24.4831717535989	NA
+Campanula_sibirica	MK556641.1	22-SEP-2019	478	Hungary	secondary	rpl16	41.422757494849	-72.3678654354679	NA

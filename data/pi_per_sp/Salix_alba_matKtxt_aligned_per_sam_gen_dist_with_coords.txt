@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_alba	MG220952.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	44.9513494681582	-74.3159451321841	0.00071540423247282
+Salix_alba	MG220905.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	46.1002475978991	-72.9500287189997	0.00112771317812169
+Salix_alba	MG220734.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	46.0773152879781	-72.5500836214596	0.00112771317812169
+Salix_alba	HQ593425.1	09-NOV-2011	854	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., 200 m W of Racing Barn at pond edge	primary	matK	44.03	-79.536	0.000703356634276192
+Salix_alba	MG221092.1	21-JAN-2018	805	Canada: Ontario, Rouge National Urban Park, Sector 7	secondary	matK	43.72634945	-77.7101179040839	0.00231473455325683
+Salix_alba	KJ204532.1	29-JAN-2015	675	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.000859485439638111
+Salix_alba	JN895050.1	07-MAR-2012	761	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000775605905962911
+Salix_alba	JN894322.1	07-MAR-2012	752	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.000778981508210083

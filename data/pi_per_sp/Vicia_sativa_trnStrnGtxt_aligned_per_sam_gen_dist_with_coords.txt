@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_sativa	JX505630.1	09-JAN-2013	654	Spain: Canary Islands	secondary	trnS-trnG	28.4091332067796	-15.8791867398851	0.011868460617962
+Vicia_sativa	JX505591.1	09-JAN-2013	650	Spain: Canary Islands	secondary	trnS-trnG	28.6263273067826	-17.5612866788345	0.00675131348511383
+Vicia_sativa	JX505590.1	09-JAN-2013	650	Spain: Canary Islands	secondary	trnS-trnG	28.2404527560127	-17.6200169078054	0.00675131348511383
+Vicia_sativa	JX505589.1	09-JAN-2013	575	USA: Washington, DC	secondary	trnS-trnG	38.8875954	-77.0434933	0.00828523566587984
+Vicia_sativa	JX505588.1	09-JAN-2013	658	Turkey	secondary	trnS-trnG	38.9597594	34.9249653	0.00979488202264429

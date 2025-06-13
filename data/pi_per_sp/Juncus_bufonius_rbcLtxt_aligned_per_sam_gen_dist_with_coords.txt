@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_bufonius	MG226948.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee, at dump	primary	rbcL	51.273	-80.641	0.00612418720683585
+Juncus_bufonius	KX678076.1	29-APR-2017	552	Canada: British Columbia, Columbia-Shuswap Regional District, Golden, northwest of town	primary	rbcL	51.32	-116.996	0.00612418720683585
+Juncus_bufonius	KJ841366.1	04-NOV-2014	569	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	rbcL	45.542	-73.154	0.00654483904914983
+Juncus_bufonius	JN965602.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, Nelson River side Muddy shore.	primary	rbcL	58.1592739652705	-92.6358158431662	0.00955774018920257
+Juncus_bufonius	JN965601.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House	primary	rbcL	58.7560107283593	-95.2333673904529	0.00955774018920257
+Juncus_bufonius	JN893774.1	07-MAR-2012	524	United Kingdom	primary	rbcL	53.19	-4.45	0.00635237427199883
+Juncus_bufonius	JN892322.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	51.53	-3.22	0.00624835598387898
+Juncus_bufonius	OQ391960.1	10-MAY-2023	522	Peru	secondary	rbcL	-7.18627888145833	-74.4661067646073	0.00636022797406377
+Juncus_bufonius	OQ391871.1	10-MAY-2023	528	Peru	secondary	rbcL	-6.97809671002723	-75.098129092635	0.0241910759678773
+Juncus_bufonius	KJ204357.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	45.3649169020105	6.5438693407262	0.0264848477167904
+Juncus_bufonius	KJ204356.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.0672444881967	6.83758847486499	0.00613107202214199
+Juncus_bufonius	HM850085.1	23-JUL-2011	1257	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0107036951500678
+Juncus_bufonius	JN891939.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00624835598387898
+Juncus_bufonius	JN891938.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00653425218290599

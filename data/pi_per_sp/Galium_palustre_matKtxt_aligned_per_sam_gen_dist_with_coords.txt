@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Galium_palustre	MG225105.1	21-JAN-2018	797	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay	primary	matK	45.515	-73.741	0
+Galium_palustre	JN893881.1	07-MAR-2012	835	United Kingdom: Monmouthshire	primary	matK	51.6	-2.89	0
+Galium_palustre	KJ204483.1	29-JAN-2015	835	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0
+Galium_palustre	HM850827.1	23-JUL-2011	816	Portugal	secondary	matK	39.6621648	-8.1353519	0

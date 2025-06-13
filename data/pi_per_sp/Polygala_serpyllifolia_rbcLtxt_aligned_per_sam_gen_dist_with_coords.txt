@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygala_serpyllifolia	JN891752.1	07-MAR-2012	542	United Kingdom: Aberdeenshire, South (92)	primary	rbcL	56.97	-3.51	0
+Polygala_serpyllifolia	MK925346.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2700484183741	-2.15446546398766	0
+Polygala_serpyllifolia	MK925207.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.8768287491825	-3.63706978939643	0
+Polygala_serpyllifolia	MK924997.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5220826838176	-4.13702515966459	0
+Polygala_serpyllifolia	MK924904.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1544747537473	-2.42662853954378	0
+Polygala_serpyllifolia	HM850272.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Polygala_serpyllifolia	JN893631.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0
+Polygala_serpyllifolia	JN892064.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Polygala_serpyllifolia	JN892063.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

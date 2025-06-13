@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Papaver_somniferum	XM_026550040.1	02-OCT-2018	1981	Australia	secondary	cob	-24.3458474474679	134.381537362374	0.0647636916110421
+Papaver_somniferum	XM_026550039.1	02-OCT-2018	2140	Australia	secondary	cob	-24.9119290593214	134.503527593479	0.0594449163102243
+Papaver_somniferum	XM_026550038.1	02-OCT-2018	2060	Australia	secondary	cob	-25.376404032874	134.846975030859	0.101356487495851
+Papaver_somniferum	XM_026550037.1	02-OCT-2018	1757	Australia	secondary	cob	-24.8150529916073	134.371291859095	0.0493193241078089

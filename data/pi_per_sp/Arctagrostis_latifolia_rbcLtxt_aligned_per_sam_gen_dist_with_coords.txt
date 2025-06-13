@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctagrostis_latifolia	MF596576.1	28-FEB-2018	601	Canada: Yukon Territory, 0.5 mi E of Alaska/Yukon boundary on road towards Dawson.	primary	rbcL	64.084	-140.983	0
+Arctagrostis_latifolia	MF596575.1	28-FEB-2018	603	Canada: Northwest Territories, 151 mi NE of Ross River (Pelly River Crossing) on Canol Road (Hwy 5) just E of MacMillan Pass.	primary	rbcL	63.296	-129.832	0
+Arctagrostis_latifolia	MF596574.1	28-FEB-2018	603	USA: Alaska, Southeast Fairbanks, 1 mi E of Chicken on Hwy towards Boundary. Gentle slopes with Populus tremuloides, Picea glauca, and Salix	primary	rbcL	64.063	-141.924	0
+Arctagrostis_latifolia	KT960657.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.9316130784095	-21.2017879531542	0
+Arctagrostis_latifolia	KT960578.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.7015154293029	-20.6477991585862	0
+Arctagrostis_latifolia	KT960405.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5086271300616	-23.5324828333315	0
+Arctagrostis_latifolia	KC481998.1	25-OCT-2013	552	Canada: Nunavut, Mainland Northwest Territories, Rankin Inlet, Meliadine River at 55 k/16 399766, 13 km NW of Rankin Inlet at river crossing below New Meliadine Lake', Meliadine River Park study area, Hudson Bay'	primary	rbcL	62.875	-92.142	0
+Arctagrostis_latifolia	KC481997.1	25-OCT-2013	552	Canada: Nunavut, Qikiqtaaluk Region, Baffin Island, Baffin Island. Iqaluit, growing behind the Science Institute of N.W.T	primary	rbcL	68.95	-81.25	0
+Arctagrostis_latifolia	KC481996.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay, Cambridge Bay. Vacant lot on west side of town	primary	rbcL	69.264	-105.1	0
+Arctagrostis_latifolia	KC481995.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Pond Inlet, Red Hills', 11-12 km SE of town,'	primary	rbcL	72.783	-77	0
+Arctagrostis_latifolia	KC481994.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, East of Paulatuk, adjacent to Darnley Bay	primary	rbcL	69.4194	-124.094	0
+Arctagrostis_latifolia	KC481993.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Gypsum hill, W side of Gibs Fiord	primary	rbcL	79.94	-87.24	0
+Arctagrostis_latifolia	KC481992.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Hornaday River, ~1 km downstream of valley leading to Castle Butte	primary	rbcL	68.2056	-121.844	0
+Arctagrostis_latifolia	KC481991.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	rbcL	76.56	-118.86	0
+Arctagrostis_latifolia	KC481990.1	25-OCT-2013	517	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.619	-115.493	0
+Arctagrostis_latifolia	KC481989.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	rbcL	70.738	-117.762	0
+Arctagrostis_latifolia	KC481988.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Blow River, Gravel bar along river	primary	rbcL	68.47	-137.13	0
+Arctagrostis_latifolia	KC481987.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Inuvik, Inuvik Burnt area behind Inuvik Golf Course area	primary	rbcL	68.417	-133.75	0
+Arctagrostis_latifolia	KC481986.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktoyaktuk, Tuktoyaktuk Within 500 m of P.C.S.P. base	primary	rbcL	69.5	-133	0
+Arctagrostis_latifolia	KC481985.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Shingle Point, Running River	primary	rbcL	68.58	-137.16	0
+Arctagrostis_latifolia	JN965257.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	rbcL	58.772	-94.163	0

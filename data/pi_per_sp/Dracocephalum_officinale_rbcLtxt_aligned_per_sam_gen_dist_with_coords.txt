@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dracocephalum_officinale	MF349371.1	21-SEP-2017	537	USA: District of Columbia; US National Arboretum, National Herb Garden - Colonial Garden	primary	rbcL	38.911	-76.97	0
+Dracocephalum_officinale	MG224616.1	26-DEC-2017	552	USA: Illinois, D-47/89-52 in Dwarf bed 5, Lisle, Illinois	secondary	rbcL	31.98710035	-102.13883116079	0
+Dracocephalum_officinale	MG222177.1	26-DEC-2017	552	Canada: British Columbia, Mr. Squire's, Robson	secondary	rbcL	49.25783145	-123.246241986222	0
+Dracocephalum_officinale	MG221837.1	26-DEC-2017	552	Canada: Ontario, Manotick	secondary	rbcL	45.2264407	-75.6860593	0

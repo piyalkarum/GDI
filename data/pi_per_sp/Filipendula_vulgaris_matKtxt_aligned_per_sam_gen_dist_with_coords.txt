@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Filipendula_vulgaris	JN894238.1	07-MAR-2012	595	United Kingdom: Carmarthenshire	primary	matK	51.77	-4.17	0.00840336134453781
+Filipendula_vulgaris	KJ746133.1	29-JUL-2014	696	Poland	secondary	matK	52.215933	19.134422	0.0123230011096112
+Filipendula_vulgaris	HM850685.1	23-JUL-2011	810	Portugal	secondary	matK	39.6621648	-8.1353519	0.0115662038892965
+Filipendula_vulgaris	HE966930.1	18-SEP-2012	748	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00715322159906091
+Filipendula_vulgaris	JN894108.1	07-MAR-2012	838	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.00833262205530898

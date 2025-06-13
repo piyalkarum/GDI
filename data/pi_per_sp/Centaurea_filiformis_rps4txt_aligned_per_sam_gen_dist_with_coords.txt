@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_filiformis	KF630503.1	31-DEC-2014	836	Italy: Sardinia, Oliena, Monte maccione	secondary	rps4	39.8599132239095	10.3412595235453	0.000239592756932179
+Centaurea_filiformis	KF630502.1	31-DEC-2014	836	Italy: Sardinia, Oliena, Monte maccione	secondary	rps4	40.2222073486236	9.10278617753779	0.000239592756932179
+Centaurea_filiformis	KF630501.1	31-DEC-2014	836	Italy: Sardinia, Oliena, Monte maccione	secondary	rps4	40.4699823838982	10.3946927212737	0.000239592756932179
+Centaurea_filiformis	KF630500.1	31-DEC-2014	840	Italy: Sardinia, Oliena, Sos Prados	secondary	rps4	39.8311265272896	9.29748227824079	0.000238594413078425
+Centaurea_filiformis	KF630499.1	31-DEC-2014	836	Italy: Sardinia, Oliena, Sos Prados	secondary	rps4	39.4377126356219	8.71353372063539	0.000239592756932179
+Centaurea_filiformis	KF630498.1	31-DEC-2014	835	Italy: Sardinia, Oliena, Sos Prados	secondary	rps4	40.3292640465778	9.02838397457679	0.000239880124711755
+Centaurea_filiformis	KF630497.1	31-DEC-2014	836	Italy: Sardinia, Oliena, Sos Prados	secondary	rps4	40.6077371639773	9.55546162084485	0.000239592756932179
+Centaurea_filiformis	KF630496.1	31-DEC-2014	836	Italy: Sardinia, Oliena, Sos Prados	secondary	rps4	40.569513686038	8.70549624890949	0.000239592756932179
+Centaurea_filiformis	KF630495.1	31-DEC-2014	835	Italy: Sardinia, Cala Cartoe	secondary	rps4	40.6603193361122	10.5968136776266	0.000239808325863409
+Centaurea_filiformis	KF630494.1	31-DEC-2014	835	Italy: Sardinia, Cala Cartoe	secondary	rps4	40.6509600980739	8.79491858906159	0.000239808325863409
+Centaurea_filiformis	KF630493.1	31-DEC-2014	835	Italy: Sardinia, Cala Cartoe	secondary	rps4	40.5134762893322	10.6675718885589	0.00137825103763127
+Centaurea_filiformis	KF630492.1	31-DEC-2014	835	Italy: Sardinia, Cala Cartoe	secondary	rps4	40.9768926912241	10.3175548230389	0.000239808325863409
+Centaurea_filiformis	KF630491.1	31-DEC-2014	835	Italy: Sardinia, Cala Cartoe	secondary	rps4	39.8381377116914	8.84705321365225	0.000239808325863409
+Centaurea_filiformis	KF630490.1	31-DEC-2014	835	Italy: Sardinia, Cala Cartoe	secondary	rps4	40.942631265312	8.84809266177634	0.000239808325863409
+Centaurea_filiformis	KF630489.1	31-DEC-2014	841	Italy: Sardinia, Capo Figari	secondary	rps4	40.594395612085	9.99864643483478	0.00113787808535407
+Centaurea_filiformis	KF630488.1	31-DEC-2014	842	Italy: Sardinia, Capo Figari	secondary	rps4	41.7936584529138	9.40386939852162	0.00113651679169923
+Centaurea_filiformis	KF630487.1	31-DEC-2014	842	Italy: Sardinia, Capo Figari	secondary	rps4	41.2263548702839	9.82688387239536	0.00113651679169923
+Centaurea_filiformis	KF630486.1	31-DEC-2014	858	Italy: Sardinia, Tavolara, Cala del Faro	secondary	rps4	40.0174290963345	8.63738267220506	0.000238594413078425
+Centaurea_filiformis	KF630485.1	31-DEC-2014	858	Italy: Sardinia, Tavolara, Cala del Faro	secondary	rps4	40.8915633395576	8.76173993634498	0.000238594413078425
+Centaurea_filiformis	KF630484.1	31-DEC-2014	858	Italy: Sardinia, Tavolara, Cala del Faro	secondary	rps4	40.5676605375617	8.62966668307013	0.000238594413078425
+Centaurea_filiformis	KF630483.1	31-DEC-2014	858	Italy: Sardinia, Tavolara, Cala del Faro	secondary	rps4	39.186117986528	9.20171023455466	0.000238594413078425

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atriplex_littoralis	KY941399.1	30-APR-2018	461	Belgium: West Vlaanderen	secondary	matK	51.0404747	2.9994213	0.551482496575663
+Atriplex_littoralis	JN894951.1	07-MAR-2012	812	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.182627609154948
+Atriplex_littoralis	JN894026.1	07-MAR-2012	667	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.18956271099924
+Atriplex_littoralis	JN894025.1	07-MAR-2012	785	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.186687205021824

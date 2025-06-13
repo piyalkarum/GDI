@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daucus_carota	MN260602.1	25-AUG-2020	1197	Portugal: Beja	primary	cob	37.39389	-8.48889	0.00417710944026733
+Daucus_carota	MN260600.1	25-AUG-2020	1197	Portugal: Faro	primary	cob	37.34111	-8.85194	0.00417710944026733
+Daucus_carota	MN260599.1	25-AUG-2020	1197	Portugal: Faro	primary	cob	37.11944	-8.55194	0.00202888172812985
+Daucus_carota	MN260597.1	25-AUG-2020	1197	Uzbekistan: Gazelkent	primary	cob	41.57667	69.81972	0.00226757369614512
+Daucus_carota	MN260596.1	25-AUG-2020	1197	Turkey: Konya	primary	cob	37.35861	31.88389	0.00226757369614512
+Daucus_carota	MN260595.1	25-AUG-2020	1197	Portugal: Coimbra	primary	cob	40.11667	-8.25	0.00369972550423678
+Daucus_carota	MN260598.1	25-AUG-2020	1197	France	secondary	cob	48.3605295	-4.7709059	0.00274495763217568
+Daucus_carota	MN260594.1	25-AUG-2020	1197	Pakistan	secondary	cob	36.0765123	74.2812071	0.00226757369614512

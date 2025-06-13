@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_nigra	FR845675.1	17-MAR-2011	457	Croatia:Kras	secondary	rpoC1	45.356716	14.0642567	0
+Pinus_nigra	FR845673.1	17-MAR-2011	457	Italy:Abruzzo	secondary	rpoC1	41.553895740368	14.6143799075928	0
+Pinus_nigra	FR845665.1	17-MAR-2011	457	Italy:Abruzzo	secondary	rpoC1	42.0722594436528	13.2746511283987	0
+Pinus_nigra	FR845659.1	17-MAR-2011	457	Italy:Calabria	secondary	rpoC1	39.0565974	16.5249864	0
+Pinus_nigra	FN689663.1	25-MAR-2010	554	Italy:Friuli Venezia Giulia	secondary	rpoC1	46.151042	13.055904	0

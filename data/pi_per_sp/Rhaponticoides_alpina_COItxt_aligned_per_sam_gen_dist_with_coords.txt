@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhaponticoides_alpina	HF571552.1	01-MAY-2014	347	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	37.8604505852155	-4.33207336621744	0.0641156830875476
+Rhaponticoides_alpina	HF571551.1	01-MAY-2014	351	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	37.4842571798042	-3.13127649756963	0.0849376567722369
+Rhaponticoides_alpina	HF571550.1	01-MAY-2014	351	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	38.057431462838	-3.56552591743212	0.0766747231559744
+Rhaponticoides_alpina	HF571549.1	01-MAY-2014	349	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	37.6700979706112	-4.04799386075275	0.066271718521202
+Rhaponticoides_alpina	HF571548.1	01-MAY-2014	349	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	37.2759365402773	-4.31030400225763	0.0668874888475023
+Rhaponticoides_alpina	HF571547.1	01-MAY-2014	348	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	37.9966910326088	-3.75391653731549	0.0706975759568558
+Rhaponticoides_alpina	HF571546.1	01-MAY-2014	349	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	37.6093047287024	-3.97274966183062	0.065658314241191
+Rhaponticoides_alpina	HF571545.1	01-MAY-2014	348	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	38.3654503910753	-3.11099415194643	0.0522044897766149
+Rhaponticoides_alpina	HF571544.1	01-MAY-2014	351	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	37.4685653392594	-4.31261541527803	0.0699968414976913
+Rhaponticoides_alpina	HF571543.1	01-MAY-2014	349	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	38.4737274093184	-3.53005264180724	0.0662237441572046
+Rhaponticoides_alpina	HF571542.1	01-MAY-2014	350	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	37.5794611084287	-4.15538857681563	0.0677454774429505
+Rhaponticoides_alpina	HF571541.1	01-MAY-2014	350	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	37.8928504781029	-3.74483530383956	0.0749129450506679
+Rhaponticoides_alpina	HF571540.1	01-MAY-2014	349	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	37.4222084329842	-3.56077655673781	0.0582689714349866
+Rhaponticoides_alpina	HF571539.1	01-MAY-2014	349	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	37.8902661942118	-4.61927396621557	0.0590451224281162
+Rhaponticoides_alpina	HF571538.1	01-MAY-2014	349	Spain:Jaen, Sierra de las Villas, Aguascebas de Gil Cobos, cerrada de San Gines, Jaen	secondary	COI	37.8394515954393	-4.59731090070844	0.0592982186077734

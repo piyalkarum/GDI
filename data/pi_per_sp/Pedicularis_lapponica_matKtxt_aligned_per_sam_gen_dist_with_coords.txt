@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_lapponica	MZ400448.1	07-DEC-2021	787	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00128495712993807
+Pedicularis_lapponica	KC475244.1	25-OCT-2013	777	Canada: Nunavut	primary	matK	56.428	-79.164	0.00902369122708106
+Pedicularis_lapponica	KC475243.1	25-OCT-2013	783	Canada: Nunavut, Baffin Island, Soper River, Soper River at Mt.Joy	primary	matK	63.2667	-69.6333	0.00112612612612613
+Pedicularis_lapponica	KC475242.1	25-OCT-2013	783	Canada: Nunavut, Baffin Island, Sylvia Grinnell River, Just east of Sylvia Grinell River near river mouth, ~ 1km W of airport	primary	matK	63.75	-68.5167	0.00112612612612613
+Pedicularis_lapponica	KC475241.1	25-OCT-2013	783	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	matK	62.8522	-67.3408	0.00112612612612613
+Pedicularis_lapponica	JN966415.1	27-OCT-2012	786	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	matK	58.178	-93.637	0.00112612612612613
+Pedicularis_lapponica	JN966414.1	27-OCT-2012	786	Canada: Manitoba, Churchill, 23 km E Churchill, Ramsay Creek, Tundra, bank of the creek	primary	matK	58.731	-93.78	0.00112612612612613
+Pedicularis_lapponica	JN966413.1	27-OCT-2012	773	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, Road side	primary	matK	58.616	-93.808	0.00114080834419817
+Pedicularis_lapponica	HG423970.1	09-APR-2014	2371	Russia:Chukotka	secondary	matK	66.0006475	169.4900869	0.00128495712993807

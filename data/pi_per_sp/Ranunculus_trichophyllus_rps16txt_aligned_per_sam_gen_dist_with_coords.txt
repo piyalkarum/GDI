@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_trichophyllus	MW448105.1	13-DEC-2021	561	Czech Republic	secondary	rps16	49.3163429	13.9302396	0.0011883541295306
+Ranunculus_trichophyllus	MW448104.1	13-DEC-2021	577	Czech Republic	secondary	rps16	50.0808058	15.131884	0.00352548709621468
+Ranunculus_trichophyllus	MW448103.1	13-DEC-2021	572	Czech Republic	secondary	rps16	49.8947001	15.9534986	0.00116754232340922
+Ranunculus_trichophyllus	MW448102.1	13-DEC-2021	570	Czech Republic	secondary	rps16	49.1558126	14.7598928	0.00116959064327485

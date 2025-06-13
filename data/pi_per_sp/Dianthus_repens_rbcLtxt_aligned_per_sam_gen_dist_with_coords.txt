@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_repens	MG247233.1	21-JAN-2018	552	Canada: Yukon Territory, Joe Creek drainage, alpine ridge	primary	rbcL	69.022	-140.612	0
+Dianthus_repens	MG245987.1	21-JAN-2018	552	Canada: Yukon Territory, Middle Malcolm River, upper slope	primary	rbcL	69.313	-140.49	0
+Dianthus_repens	KC482530.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Sheep Creek	primary	rbcL	69.158	-140.213	0
+Dianthus_repens	KC482529.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Joe Creek	primary	rbcL	69.021	-140.611	0
+Dianthus_repens	KC482528.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Sheep Creek	primary	rbcL	69.21	-140.332	0

@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hyacinthoides_non-scripta	MZ676703.1	10-AUG-2022	591	United Kingdom: England, North East	primary	rbcL	54.7543	-1.5782	0.199391325987196
+Hyacinthoides_non-scripta	JN892600.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.14	0.197308360287434
+Hyacinthoides_non-scripta	JN892558.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.88	-3.98	0.197308360287434
+Hyacinthoides_non-scripta	JN890904.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.197308360287434
+Hyacinthoides_non-scripta	MK925122.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5163140630996	-2.25170224718444	0.197308360287434
+Hyacinthoides_non-scripta	MK924608.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9497372769607	-4.42996704937485	0.197308360287434
+Hyacinthoides_non-scripta	MK924552.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6339582617637	-2.45078387839434	0.197308360287434
+Hyacinthoides_non-scripta	MG227490.1	23-JAN-2018	552	Canada: Ontario, Toronto, City of, North York, S side Sheppard Ave., E of Leslie St., S bank of creek behind Medical Centre	secondary	rbcL	43.72634945	-77.7101179040839	0.209809872215983
+Hyacinthoides_non-scripta	FJ232737.1	30-SEP-2009	864	Spain:Leon	secondary	rbcL	42.6341451	-5.9714151	0.430648519968988
+Hyacinthoides_non-scripta	FJ232736.1	30-SEP-2009	864	United Kingdom:England,Kent	secondary	rbcL	51.2070748	0.7210362	0.430648519968988
+Hyacinthoides_non-scripta	FJ232735.1	30-SEP-2009	864	Belgium:Wallonisch Brabant	secondary	rbcL	50.666245	4.5500441	0.430648519968988
+Hyacinthoides_non-scripta	FJ232734.1	30-SEP-2009	864	Spain:Lugo	secondary	rbcL	43.0462247	-7.4739921	0.430648519968988
+Hyacinthoides_non-scripta	FJ232733.1	30-SEP-2009	864	Spain:La Coruna	secondary	rbcL	43.3709703	-8.3959425	0.430648519968988
+Hyacinthoides_non-scripta	JN893055.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.7764394334004	-2.3647318655265	0.197308360287434
+Hyacinthoides_non-scripta	JN893054.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	52.0308932433373	-4.26548164477658	0.197784285585252
+Hyacinthoides_non-scripta	JN892824.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.197308360287434

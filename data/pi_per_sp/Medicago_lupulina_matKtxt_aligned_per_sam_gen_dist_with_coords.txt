@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Medicago_lupulina	OR538523.1	17-OCT-2023	796	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.288333	-85.619553	0.0036935854304016
+Medicago_lupulina	OR538509.1	17-OCT-2023	795	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	matK	42.28837021	-85.61979401	0.0036935854304016
+Medicago_lupulina	OR464978.1	26-SEP-2023	796	USA: WMU Parking Lot 41, Kalamazoo, MI	primary	matK	42.284551	-85.61471022	0.0036935854304016
+Medicago_lupulina	OL434880.1	14-NOV-2022	588	USA: Georgia	primary	matK	32.126	-81.14	0.00260493568645559
+Medicago_lupulina	MG221074.1	21-JAN-2018	697	Canada: Ontario, Chatham-Kent County, Wheatley Provincial Park, Beach and Marsh area, north bank of marsh, near eastern bridge across marsh	primary	matK	42.088	-82.442	0.00325031384218394
+Medicago_lupulina	MG221038.1	21-JAN-2018	745	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Cyprus Lake, BPNP	primary	matK	45.236	-81.525	0.00639572408405271
+Medicago_lupulina	MG220760.1	21-JAN-2018	776	USA: North Dakota	primary	matK	48.968	-99.848	0.0290194164837062
+Medicago_lupulina	MG220688.1	21-JAN-2018	736	USA: North Dakota	primary	matK	48.6	-102.01	0.00328913404295086
+Medicago_lupulina	MG220624.1	21-JAN-2018	694	USA: North Dakota	primary	matK	48.943	-100.508	0.00312584245282808
+Medicago_lupulina	HQ593362.1	09-NOV-2011	761	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., NW end of property	primary	matK	44.032	-79.534	0.00352193770882135
+Medicago_lupulina	JN895592.1	07-MAR-2012	598	United Kingdom: Glamorgan	primary	matK	51.62	-3.94	0.0051057940097219
+Medicago_lupulina	OQ290237.1	16-MAY-2023	757	Mexico: Puebla	secondary	matK	19.1710098	-98.4125121	0.0036862967354746
+Medicago_lupulina	MH551823.1	11-MAR-2019	705	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.70257735	-81.983441193043	0.00464565318776661
+Medicago_lupulina	MN311787.1	30-NOV-2021	741	China	secondary	matK	34.5686320922226	104.590906960221	0.00453565254363754
+Medicago_lupulina	MN311786.1	30-NOV-2021	741	China	secondary	matK	34.1663299977173	105.20474653165	0.00453565254363754
+Medicago_lupulina	KJ746147.1	29-JUL-2014	657	Poland	secondary	matK	52.215933	19.134422	0.00290064067350979
+Medicago_lupulina	KJ204508.1	29-JAN-2015	794	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.00428434962243199
+Medicago_lupulina	HM851136.1	23-JUL-2011	771	Portugal	secondary	matK	39.6621648	-8.1353519	0.0104298447599032
+Medicago_lupulina	HE966953.1	18-SEP-2012	709	Italy:Trieste, Mt. Valerio	secondary	matK	45.1373362805162	14.4495405727086	0.00705344089698638
+Medicago_lupulina	HE966952.1	18-SEP-2012	709	Italy:Trieste, Mt. Valerio	secondary	matK	45.1473571281907	14.054593850269	0.00705344089698638
+Medicago_lupulina	HE966951.1	18-SEP-2012	681	Italy:Trieste, Mt. Valerio	secondary	matK	46.3936682384672	14.4903748270943	0.00880312114407589
+Medicago_lupulina	JN893891.1	07-MAR-2012	874	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00387409897854701

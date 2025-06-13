@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Comandra_umbellata	OQ832158.1	15-AUG-2023	553	USA: CMR Wildlife Refuge	primary	rbcL	47.6694	-107.6686	0.00162731198371275
+Comandra_umbellata	MG249928.1	21-JAN-2018	552	Canada: Yukon Territory, Aishihik road, km 7.6 west side	primary	rbcL	60.923	-137.031	0.000201288244766506
+Comandra_umbellata	MG249445.1	21-JAN-2018	509	Canada: Ontario, Chatham-Kent County, Wheatley Provincial Park, Beach and Marsh area, north bank of marsh, near eastern bridge across marsh	primary	rbcL	42.088	-82.442	0.000218292949137743
+Comandra_umbellata	MG249384.1	21-JAN-2018	552	Canada: Yukon Territory, Kluane National Park, Slims West Trail	primary	rbcL	60.967	-138.6	0.000201288244766506
+Comandra_umbellata	MG248617.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, BPNP	primary	rbcL	45.185	-81.601	0.000201288244766506
+Comandra_umbellata	MG247949.1	21-JAN-2018	551	Canada: Quebec, Montreal, Ile Perrot, Bois du Domaine	primary	rbcL	45.48	-73.906	0.00020165355918532
+Comandra_umbellata	MG246981.1	21-JAN-2018	552	Canada: Alberta, Horse Thief Canyon	primary	rbcL	51.538	-112.87	0.000201288244766506
+Comandra_umbellata	KX678562.1	29-APR-2017	552	Canada: British Columbia, Central Okanagan Regional District, Kelowna, near intersection of Via Centrale & Country Club Dr.	primary	rbcL	49.955	-119.4	0.000201288244766506
+Comandra_umbellata	KT178139.1	19-AUG-2015	1428	USA	secondary	rbcL	39.7837304	-100.445882	0.000369274419907331
+Comandra_umbellata	JX848536.1	06-AUG-2013	1320	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.000168350168350168

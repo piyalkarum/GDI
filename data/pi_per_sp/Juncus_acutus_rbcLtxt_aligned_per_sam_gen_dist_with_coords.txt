@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_acutus	OQ851353.1	14-AUG-2023	420	Egypt	primary	rbcL	31.3279	31.814	0.0257142857142857
+Juncus_acutus	JN892093.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.78	-4.37	0.01
+Juncus_acutus	HM850083.1	23-JUL-2011	654	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0314285714285714
+Juncus_acutus	JN893492.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.01
+Juncus_acutus	JN891720.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.01
+Juncus_acutus	JN891719.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.01

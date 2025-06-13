@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_danicus	OR640486.1	05-NOV-2023	521	Kazakhstan: Qaragandy region	primary	rbcL	49.50446	74.44125	0.0213446245413887
+Astragalus_danicus	MK925442.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.999745789171	-3.5072761523073	0.00351887396033269
+Astragalus_danicus	MK925395.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3949200394738	-3.88780090062478	0.00351887396033269
+Astragalus_danicus	MK925329.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3622993976168	-3.52288777555474	0.00351887396033269
+Astragalus_danicus	MK924840.1	14-JAN-2020	503	United Kingdom	secondary	rbcL	54.6736743620812	-2.01572666221365	0.0036813922356091
+Astragalus_danicus	MK924563.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9727842562508	-4.00320089514735	0.00351887396033269
+Astragalus_danicus	KJ746229.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00358773646444879

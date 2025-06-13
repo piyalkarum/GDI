@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sparganium_natans	JN966687.1	27-OCT-2012	779	Canada: Manitoba, Churchill, 27 km E Churchill, Fort Churchill, Spaceport project, Churchill area, east of Study Centre Raised beach ridge, extreme disturbance	primary	matK	58.351240296877	-94.1409321460386	0.00636278691582145
+Sparganium_natans	JN966686.1	27-OCT-2012	756	Canada: Manitoba, Churchill, 25 km E Churchill, Fort Churchill, Spaceport project, Churchill area, Moist area between flat ground and pond	primary	matK	59.0763271885507	-94.2031877835308	0.00611050260839882
+Sparganium_natans	JN966685.1	27-OCT-2012	779	Canada: Manitoba, Churchill, Wapusk National Park, York Factory, Willow fen west of depot	primary	matK	59.3657934132684	-95.0386043755844	0.004970677736388
+Sparganium_natans	LC004525.1	04-DEC-2015	713	Russia	secondary	matK	64.6863136	97.7453061	0.00596072931276297
+Sparganium_natans	JN894174.1	07-MAR-2012	791	United Kingdom: Anglesey	secondary	matK	53.2782257	-4.331344	0.00627034120734908

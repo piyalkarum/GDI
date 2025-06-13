@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_sulphureus	MG249494.1	21-JAN-2018	552	Canada: Yukon Territory, Printer's Pass	primary	rbcL	61.194	-138.325	0.000905797101449275
+Ranunculus_sulphureus	MG247964.1	21-JAN-2018	533	Canada: Yukon Territory, Asi Keyi SMA, Wolverine Plateau, upper tributary of Wolverine Creek	primary	rbcL	61.541	-140.22	0.000938086303939962
+Ranunculus_sulphureus	KT960730.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.7766391052915	-18.5034562366194	0.00318643445631781
+Ranunculus_sulphureus	KT960598.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.0822093057689	-21.122567408016	0.000905797101449275
+Ranunculus_sulphureus	KT960425.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.4447327670858	-20.2028925644804	0.000905797101449275
+Ranunculus_sulphureus	KC483870.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Large valley along upper Bukken River	primary	rbcL	80.5261	-92.3639	0.000905797101449275
+Ranunculus_sulphureus	KC483869.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, Mould Bay Peninsula, east side, ca 10 km E of Mould Bay	primary	rbcL	76.23	-118.95	0.000905797101449275
+Ranunculus_sulphureus	KC483868.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Parker River, Parker River Valley, N side c. 7 km from sea	primary	rbcL	73.6167	-115.85	0.00318643445631781
+Ranunculus_sulphureus	KC483867.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Sawtooth Range	primary	rbcL	79.717	-83.15	0.000905797101449275

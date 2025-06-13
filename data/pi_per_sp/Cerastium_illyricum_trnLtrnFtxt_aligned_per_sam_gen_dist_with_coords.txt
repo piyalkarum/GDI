@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_illyricum	MH487913.1	20-JAN-2022	1249	Greece	secondary	trnL-trnF	42.6072759850512	-78.0196583493178	0.00332502078137988
+Cerastium_illyricum	MH487912.1	20-JAN-2022	2060	Greece	secondary	trnL-trnF	42.9100647356722	-78.6750537677184	0.00249376558603491
+Cerastium_illyricum	MH487911.1	20-JAN-2022	2055	Cyprus	secondary	trnL-trnF	34.9174159	32.8899027	0.0025
+Cerastium_illyricum	MH487908.1	20-JAN-2022	2032	Greece	secondary	trnL-trnF	43.9730248489318	-77.891184458278	0.0083187863674148

@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Setaria_pumila	OR738127.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.00808677804755966
+Setaria_pumila	MG226350.1	23-JAN-2018	552	Canada: R.R.Tracks between Glasgow St. & Yorkshire St.	primary	rbcL	43.54	-80.254	0.00254252975903754
+Setaria_pumila	KT695416.1	29-SEP-2015	512	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00271128358243084
+Setaria_pumila	KJ841567.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.00314579666223599
+Setaria_pumila	KJ082090.1	05-FEB-2014	546	USA: Texas, Midland, I-20 Preserve	primary	rbcL	31.57	-102.7	0.00435996254882296
+Setaria_pumila	MT931837.1	03-MAR-2023	565	China	secondary	rbcL	35.242219130714	104.976279871022	0.00792113824103355
+Setaria_pumila	MT931836.1	03-MAR-2023	569	China	secondary	rbcL	34.1860240689031	105.023356366353	0.00654447787592269
+Setaria_pumila	MG227748.1	23-JAN-2018	552	Canada: Ontario, Niagara R. M., Louth Tp., 15 Mile Creek ANSI, 15 Mile Creek, valley system from 0.6 km N of Regional Rd. 81 S to Regional Rd. 69	secondary	rbcL	43.3961150778953	-78.1389091320776	0.00254252975903754
+Setaria_pumila	MG227343.1	23-JAN-2018	553	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 10 m W of North Barn.	secondary	rbcL	44.443426086371	-77.2089739054474	0.00253942740060531
+Setaria_pumila	MG225704.1	23-JAN-2018	552	Canada: Ontario, Niagara R. M., North Grimsby Tp., Niagara Section Escarpment, ANSI, Along escarpment from just W of Fifty Rd. to just W of Rd. 12 in Grimsby including Beamer Valley	secondary	rbcL	42.9228659892644	-77.5889814656033	0.00254252975903754
+Setaria_pumila	KF163548.1	28-OCT-2013	1290	South Korea	secondary	rbcL	36.9796382098089	127.334823576006	0.00402183018448875
+Setaria_pumila	KF163547.1	28-OCT-2013	1290	South Korea	secondary	rbcL	37.1168300203243	127.623355192242	0.00402183018448875
+Setaria_pumila	KF163546.1	28-OCT-2013	1290	South Korea	secondary	rbcL	36.5037093596275	127.002911797892	0.00256097670839025
+Setaria_pumila	KF163544.1	28-OCT-2013	1290	South Korea	secondary	rbcL	37.190325998583	128.157189229919	0.00402183018448875
+Setaria_pumila	KF163543.1	28-OCT-2013	1290	South Korea	secondary	rbcL	36.9079348251032	127.251140771194	0.00256097670839025
+Setaria_pumila	HM850350.1	23-JUL-2011	315	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00388827365571552

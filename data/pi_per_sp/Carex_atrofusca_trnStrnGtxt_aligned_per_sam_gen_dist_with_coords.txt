@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_atrofusca	AM085573.1	07-JAN-2006	654	Greenland:Myggbukta	secondary	trnS-trnG	73.4906673	-21.5557429	0.00131061598951507
+Carex_atrofusca	AM085572.1	07-JAN-2006	654	Russia:Chekurovka	secondary	trnS-trnG	71.047	127.5235	0.00131061598951507
+Carex_atrofusca	AM085570.1	07-JAN-2006	654	Russia:Taymyr, Khatanga	secondary	trnS-trnG	74.4787053	101.65750856266	0.00131061598951507
+Carex_atrofusca	AM085569.1	07-JAN-2006	654	Russia:Altai, Sarzhematy	secondary	trnS-trnG	49.7995174	86.5788193	0.000327653997378768
+Carex_atrofusca	AM085568.1	07-JAN-2006	654	Russia:Altai, Aktash	secondary	trnS-trnG	50.3127248	87.6028375	0.000327653997378768
+Carex_atrofusca	AM085566.1	07-JAN-2006	654	Norway:Kongsvoll	secondary	trnS-trnG	62.3029778	9.605775	0.000327653997378768
+Carex_atrofusca	AM085565.1	07-JAN-2006	654	United Kingdom:Scotland, Meall Garbh	secondary	trnS-trnG	56.4400171	-4.5516386	0.000327653997378768
+Carex_atrofusca	AM085562.1	07-JAN-2006	654	Austria:Wiesbachhorn	secondary	trnS-trnG	47.1567037	12.7549465	0.000327653997378768
+Carex_atrofusca	AM085560.1	07-JAN-2006	654	Switzerland:Samnaun, Zeblasjoch	secondary	trnS-trnG	46.9375886	10.3089838	0.000327653997378768
+Carex_atrofusca	AM085557.1	07-JAN-2006	654	France:Vanoise, Lac de la Sassiere	secondary	trnS-trnG	46.6508168	4.9700242	0.000327653997378768
+Carex_atrofusca	AM085556.1	07-JAN-2006	654	France:Queyras, Lac de Foreant	secondary	trnS-trnG	44.729805	6.8448169	0.000327653997378768
+Carex_atrofusca	AM085564.1	07-JAN-2006	654	Slovakia	secondary	trnS-trnG	49.256728	20.216217	0.000327653997378768
+Carex_atrofusca	AM085563.1	07-JAN-2006	654	Slovakia	secondary	trnS-trnG	49.2448029	20.2070795	0.000327653997378768
+Carex_atrofusca	AM085561.1	07-JAN-2006	654	Austria	secondary	trnS-trnG	47.0024995	12.2412281	0.000327653997378768
+Carex_atrofusca	AM085559.1	07-JAN-2006	654	Switzerland	secondary	trnS-trnG	46.8998751	9.0294294	0.000327653997378768

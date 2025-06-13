@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cichorium_intybus	OQ404758.1	03-JUL-2023	612	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	rbcL	42.26082229	-85.63736793	0.00089084727411713
+Cichorium_intybus	MG223794.1	26-DEC-2017	553	Canada: Ontario, Halton, Halton, Moffat	primary	rbcL	43.5	-79.9167	0.000913191234756758
+Cichorium_intybus	MG223527.1	26-DEC-2017	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	rbcL	43.274	-79.899	0.000914482115812421
+Cichorium_intybus	MG222433.1	26-DEC-2017	526	Canada: Ontario, Chicory, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	0.000955619852655285
+Cichorium_intybus	MG221475.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Emmett Lake Road, BPNP	primary	rbcL	45.209	-81.495	0.000914482115812421
+Cichorium_intybus	MG221432.1	26-DEC-2017	552	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.765	-80.303	0.000914482115812421
+Cichorium_intybus	HQ590035.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., SR19 ditch, 10 m W of Dufferin	primary	rbcL	44.026	-79.527	0.00088953563299462
+Cichorium_intybus	KT695500.1	29-SEP-2015	549	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.000919113256398925
+Cichorium_intybus	KJ841236.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.000914482115812421
+Cichorium_intybus	JN892684.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.14	-4.5	0.000929688369589753
+Cichorium_intybus	OP641810.1	09-AUG-2023	464	India	secondary	rbcL	22.3511148	78.6677428	0.000964672845809442
+Cichorium_intybus	OQ446838.1	03-JUL-2023	565	Pakistan	secondary	rbcL	-4.0133873	-79.2195663	0.0024593008406374
+Cichorium_intybus	MT930415.1	03-MAR-2023	572	China	secondary	rbcL	29.9659334985368	-93.9696153701248	0.00754108857317006
+Cichorium_intybus	MT930414.1	03-MAR-2023	572	China	secondary	rbcL	30.0736811686607	-94.8586113837203	0.00223421472677264
+Cichorium_intybus	MN192512.1	30-NOV-2021	723	China	secondary	rbcL	30.2556946350556	-93.7911269910688	0.00237155276914462
+Cichorium_intybus	HQ619731.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.000913191234756758
+Cichorium_intybus	HM849895.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00244493370495256
+Cichorium_intybus	JN893108.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.2368507616036	-4.31194936351113	0.000929688369589753
+Cichorium_intybus	JN892797.1	07-MAR-2012	529	United Kingdom: Glamorgan	secondary	rbcL	50.989510554357	-2.95130702648683	0.00276888275604705

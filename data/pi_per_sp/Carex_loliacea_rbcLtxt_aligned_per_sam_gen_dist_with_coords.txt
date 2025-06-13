@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_loliacea	MG226679.1	23-JAN-2018	552	Canada: Manitoba, Nueltin Lake, below falls of Thlewiaza River out of Nahili Lake.	primary	rbcL	59.717	-100.133	0
+Carex_loliacea	MG226208.1	23-JAN-2018	482	Canada: Yukon Territory, LaBiche, Mt. Martin	primary	rbcL	60.146	-124.059	0
+Carex_loliacea	MG225856.1	23-JAN-2018	522	USA: Alaska, Skagway Quad, Coast Mtns, White Pass Unit, Captain Moore Cr, 150 m down from Klondikke Hwy	primary	rbcL	59.5674	-135.194	0
+Carex_loliacea	MG225559.1	23-JAN-2018	552	Canada: Alberta, E edge of Caribou Mountain plateau.	secondary	rbcL	52.2875	-117.4769	0

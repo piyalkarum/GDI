@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_virgatum	HG516020.2	04-APR-2014	449	France:Alpes-Maritimes	primary	ETS	43.673623572331	6.6870914003423	0.000742390497401633
+Leucanthemum_virgatum	HG516019.2	04-APR-2014	449	France:Alpes-Maritimes	primary	ETS	44.5851274281737	7.0398737904397	0.000742390497401633
+Leucanthemum_virgatum	HG516018.2	04-APR-2014	449	France:Alpes-Maritimes	primary	ETS	44.1694116944132	6.67299767332004	0.000742390497401633
+Leucanthemum_virgatum	HG516017.2	04-APR-2014	449	France:Alpes-Maritimes	primary	ETS	43.6607218126597	7.87349243428048	0.0022271714922049

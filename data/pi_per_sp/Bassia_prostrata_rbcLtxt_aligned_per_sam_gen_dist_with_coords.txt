@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bassia_prostrata	KF785922.1	21-AUG-2014	518	Georgia: Kartli prov., Kura valley, surroundings of Dzvaris eklesia	primary	rbcL	41.85	44.73	0.169673244370651
+Bassia_prostrata	OR670326.1	06-NOV-2023	590	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.50854662346141
+Bassia_prostrata	MT931110.1	03-MAR-2023	566	China	secondary	rbcL	35.000074	104.999927	0.507035279560209
+Bassia_prostrata	KF785926.1	21-AUG-2014	670	Italy: Aosta vall., Chambave	secondary	rbcL	45.7445264	7.549854	0.170640794888508
+Bassia_prostrata	KF785925.1	21-AUG-2014	660	India: Himachal Pradesh, Kinnaur dist., Sutlej vall., Ropa vall. near Shiaso, c. 6 km W Puh	secondary	rbcL	31.687996	76.5192522301168	0.170898931942095
+Bassia_prostrata	KF785924.1	21-AUG-2014	669	Russia: Siberia, Chita Prov., Daurya Biosphere Res., 60 km SW Nizhn. Casuchey, near shore of Barum Torei	secondary	rbcL	60.2203681713451	99.8859627437609	0.169516679350555
+Bassia_prostrata	KF785923.1	21-AUG-2014	669	Russia: Siberia, Altai Rep., Near Kosh Agach	secondary	rbcL	60.7522638816385	99.3569380736571	0.169516679350555
+Bassia_prostrata	KF785921.1	21-AUG-2014	669	Mongolia: Gobi Altai	secondary	rbcL	45.3463139	95.9325806	0.169516679350555

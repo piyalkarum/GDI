@@ -1,0 +1,27 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygonum_aviculare	MH084661.1	08-APR-2018	498	China: Outside US, Beijing, Beijing No. 166 High School Campus	primary	rbcL	39.9208	116.4154	0.00208835341365462
+Polygonum_aviculare	MG249905.1	21-JAN-2018	552	Canada: Northwest Territories, Aklavik, Peel Channel, Mackenzie River Delta, 56 km WSW of Inuvik	primary	rbcL	68.219	-135.002	0.00215808578868546
+Polygonum_aviculare	MG249817.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	48.537	-100.525	0.00215808578868546
+Polygonum_aviculare	MG248886.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	47.814	-102.091	0.00215808578868546
+Polygonum_aviculare	MG248694.1	21-JAN-2018	552	USA: North Dakota	primary	rbcL	47.556	-101.245	0.00215808578868546
+Polygonum_aviculare	MG248549.1	21-JAN-2018	552	Canada: Northwest Territories, Yellowknife, about 35 km ENE of, Ingraham Trail, Highway 4, roadside pulloff	primary	rbcL	62.514	-113.711	0.00215808578868546
+Polygonum_aviculare	MG247175.1	21-JAN-2018	552	Canada: Yukon Territory, La Biche Airstrip	primary	rbcL	60.128	-133.729	0.00215808578868546
+Polygonum_aviculare	MG246328.1	21-JAN-2018	552	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	rbcL	44.3576136617483	-80.0819929326641	0.00215808578868546
+Polygonum_aviculare	MG246212.1	21-JAN-2018	552	Canada: Behind Hoad House, east of Center Biodiversity Genomics	primary	rbcL	43.2810871435946	-81.1092836165176	0.00215808578868546
+Polygonum_aviculare	MG246173.1	21-JAN-2018	552	Canada: Yukon Territory, Old Crow	primary	rbcL	67.568	-139.843	0.00215808578868546
+Polygonum_aviculare	KJ841487.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Near Pain de Sucre	primary	rbcL	45.551	-73.172	0.00353824013037062
+Polygonum_aviculare	KJ841486.1	04-NOV-2014	536	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	rbcL	46.2546544242619	-72.8283767117619	0.00209011124154508
+Polygonum_aviculare	KJ841485.1	04-NOV-2014	570	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	44.7915008728792	-73.3719891413832	0.00258172717916692
+Polygonum_aviculare	JN892484.1	07-MAR-2012	542	United Kingdom: Monmouthshire (35)	primary	rbcL	51.5	-3.13	0.00220303971475854
+Polygonum_aviculare	MT931210.1	03-MAR-2023	572	China	secondary	rbcL	34.2454696078655	104.56297009819	0.00215074174552615
+Polygonum_aviculare	MT931209.1	03-MAR-2023	565	China	secondary	rbcL	34.7289354111461	104.458310424655	0.00215434153230801
+Polygonum_aviculare	MT931208.1	03-MAR-2023	568	China	secondary	rbcL	35.0224006387493	105.008107059162	0.00215434153230801
+Polygonum_aviculare	MT931207.1	03-MAR-2023	572	China	secondary	rbcL	34.2759239945414	104.422778939605	0.00215074174552615
+Polygonum_aviculare	LC722549.1	10-FEB-2023	553	Japan:Aichi, Mihamacho	secondary	rbcL	34.9612604144345	136.345681170561	0.0021579547511301
+Polygonum_aviculare	LC722546.1	10-FEB-2023	553	Japan:Aichi, Minamichitacho	secondary	rbcL	34.7810310453579	136.786503940727	0.0021579547511301
+Polygonum_aviculare	MG246303.1	21-JAN-2018	553	Canada: Ontario, Niagara County, Niagara-on-the-Lake Township, Queen's Royal Park, Front Street North, Niagara-on-the-Lake	secondary	rbcL	43.72634945	-77.7101179040839	0.00413220135816502
+Polygonum_aviculare	KJ204390.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00369572552475174
+Polygonum_aviculare	HM850273.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.046785102208022
+Polygonum_aviculare	JN892306.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00220303971475854
+Polygonum_aviculare	MK044280.1	15-MAY-2019	748	South Korea	secondary	rbcL	37.7598955	126.7801502	0.00127191949109757
+Polygonum_aviculare	MK044279.1	15-MAY-2019	748	South Korea	secondary	rbcL	33.4930566	126.5130589	0.00127191949109757

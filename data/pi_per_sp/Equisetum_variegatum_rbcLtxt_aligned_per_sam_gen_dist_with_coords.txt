@@ -1,0 +1,31 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Equisetum_variegatum	OQ832194.1	15-AUG-2023	553	USA: American Prairie, Sun Prairie roadside	primary	rbcL	47.7986	-107.7569	0.014609234123588
+Equisetum_variegatum	MZ359288.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.00733371500395062
+Equisetum_variegatum	KT960594.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.3068137202549	-23.5322404493626	0.00732181079271685
+Equisetum_variegatum	KT960559.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5241815227089	-20.5475337368695	0.00732181079271685
+Equisetum_variegatum	KT960482.1	13-DEC-2015	530	Greenland: NE, Zackenberg	primary	rbcL	74.6404176548352	-18.009571133255	0.00536525162822207
+Equisetum_variegatum	KJ841306.1	04-NOV-2014	553	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Edge of visitor's gravel parking lot	primary	rbcL	45.536	-73.156	0.00690810489160773
+Equisetum_variegatum	KC482760.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Low rocky hills at coast	primary	rbcL	68.606	-113.144	0.00515072847278935
+Equisetum_variegatum	KC482759.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve. Head of Tanquary Fiord, 2 km ESE of base camp	primary	rbcL	81.0833	-79.75	0.00515072847278935
+Equisetum_variegatum	KC482758.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, E. Crusoe River	primary	rbcL	79.4	-90.8333	0.00732181079271685
+Equisetum_variegatum	KC482757.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Vicinity of large unnamed lake just N of Canoe Lake. In proposed extension area of Tuktut Nogait Park, 1-2 km S of current border	primary	rbcL	68.064	-121.611	0.00732181079271685
+Equisetum_variegatum	KC482756.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Vicinity of Upper House	primary	rbcL	79.3167	-88.8667	0.00515072847278935
+Equisetum_variegatum	KC482755.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	rbcL	66.839	-108.035	0.00515072847278935
+Equisetum_variegatum	KC482754.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Frobisher Bay Townsite opposite housing 667's wet seepage area	primary	rbcL	63.7333	-68.45	0.00515072847278935
+Equisetum_variegatum	KC482753.1	25-OCT-2013	552	Canada: Nunavut, Coats Island, Cairn Cove	primary	rbcL	62.817	-81.933	0.00515072847278935
+Equisetum_variegatum	KC482752.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Storkerson Bay, West coast of Banks Island, south side of Storkerson Bay	primary	rbcL	72.9333	-124.833	0.00515072847278935
+Equisetum_variegatum	KC482751.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, Mould Bay Peninsula, east side, ca 10 km E of Mould Bay	primary	rbcL	76.23	-118.95	0.00732181079271685
+Equisetum_variegatum	KC482750.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Vendom Fiord, River bed near the head of the fiord	primary	rbcL	78.0667	-82.8	0.00515072847278935
+Equisetum_variegatum	KC482749.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Area S of camp, 9-10 km north of Coronation Gulf coast, 12-13 km north of point	primary	rbcL	68.664	-112.586	0.00515072847278935
+Equisetum_variegatum	KC482748.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Craig Creek. Approx. 70m norht of camp, in unnamed valley of Craig Creek	primary	rbcL	69.28	-140.59	0.00515072847278935
+Equisetum_variegatum	KC482747.1	25-OCT-2013	552	Canada: Nunavut, King William Island, Gjoa Haven	primary	rbcL	68.6333	-95.8667	0.00732181079271685
+Equisetum_variegatum	KC482746.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Sylvia Grinnell Park	primary	rbcL	63.7386	-68.5586	0.00515072847278935
+Equisetum_variegatum	KC482745.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Scoresby Bay, Scoresby Bay	primary	rbcL	79.8819	-71.5472	0.00515072847278935
+Equisetum_variegatum	KC482744.1	25-OCT-2013	552	Canada: Nunavut, Southampton Island, Duke of York Bay, 4 miles No. of Cleveland River Camp 1	primary	rbcL	65.4167	-85.8333	0.00732181079271685
+Equisetum_variegatum	KC482743.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.619	-115.493	0.00515072847278935
+Equisetum_variegatum	KC482742.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay West, Meliadine River Park	primary	rbcL	62.867	-92.133	0.00732181079271685
+Equisetum_variegatum	KC482741.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Sverdrup Pass west of Flagler Bay	primary	rbcL	79.1833	-79.4167	0.00515072847278935
+Equisetum_variegatum	JN965527.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	rbcL	58.772	-94.163	0.00515072847278935
+Equisetum_variegatum	HQ590086.1	01-NOV-2011	552	Canada: Ontario, Regional Municipality of York, King Twp., Koffler Scientific Reserve, Joker's Hill East, in garbage-filled clearing in pine plantation	primary	rbcL	44.039	-79.505	0.00515072847278935
+Equisetum_variegatum	MG215587.1	24-JAN-2018	552	Canada: Ontario, Rouge National Urban Park, Sector 3	secondary	rbcL	43.72634945	-77.7101179040839	0.0391476505667352
+Equisetum_variegatum	AB574691.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.00790497205493514

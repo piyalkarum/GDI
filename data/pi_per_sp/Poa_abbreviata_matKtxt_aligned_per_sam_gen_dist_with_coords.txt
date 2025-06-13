@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_abbreviata	MG217082.1	24-JAN-2018	772	Canada: Nunavut, Cornwallis Island, Resolute	primary	matK	74.5006465893129	-97.1452322785312	8.63557858376511e-05
+Poa_abbreviata	MG217043.1	24-JAN-2018	772	Canada: Nunavut, Cornwallis Island, Resolute	primary	matK	74.2397694779991	-95.8524449561046	8.63557858376511e-05
+Poa_abbreviata	KC475317.1	25-OCT-2013	774	Canada: Nunavut, Stefansson Island, Northeast point	primary	matK	73.283	-106.75	8.6244070720138e-05
+Poa_abbreviata	KC475316.1	25-OCT-2013	753	Canada: Nunavut, Cornwallis Island, Resolute. On terrace near shore 2-3 km W of village	primary	matK	75.1080091905152	-92.7982010542325	8.88888888888889e-05
+Poa_abbreviata	KC475315.1	25-OCT-2013	603	Canada: Nunavut, Cornwallis Island, Resolute. Small rocky cliff along North Lake	primary	matK	74.1431058401704	-97.4404803686585	0
+Poa_abbreviata	KC475314.1	25-OCT-2013	744	Canada: Nunavut, Ellesmere Island, Eureka, near shore on north side of Station Creek	primary	matK	80	-85.95	8.96057347670251e-05
+Poa_abbreviata	KC475313.1	25-OCT-2013	773	Canada: Northwest Territories, Melville Island, McCormick Inlet, ~10 km SW of head of inlet at river delta	primary	matK	75.78	-112.37	8.6244070720138e-05
+Poa_abbreviata	KC475312.1	25-OCT-2013	773	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	matK	76.56	-118.88	8.6244070720138e-05
+Poa_abbreviata	KC475311.1	25-OCT-2013	773	Canada: Nunavut, Bathurst Island, Polar Bear Pass, Research Station	primary	matK	75.73	-98.42	0.00122269978198001
+Poa_abbreviata	KC475310.1	25-OCT-2013	774	Canada: Nunavut, Axel Heiberg Island, Expedition Fiord, N side of valley near foot of glacier at head of fiord	primary	matK	79.4	-90.8	8.6244070720138e-05
+Poa_abbreviata	KC475309.1	25-OCT-2013	733	Canada: Nunavut, Victoria Island, Hazen Camp, N shore of Lake Hazen, Ellesmere Island National Park Reserve. Blister Creek, ~3 km from mouth, S bank	primary	matK	81.82	-71.33	9.09504320145521e-05
+Poa_abbreviata	KC475308.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Arctic Bay	primary	matK	73.03	-85.17	8.6244070720138e-05
+Poa_abbreviata	KC475307.1	25-OCT-2013	755	Canada: Northwest Territories, Victoria Island, Minto Inlet, Summit of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.514	-116.439	8.84173297966401e-05
+Poa_abbreviata	KC475306.1	25-OCT-2013	774	Canada: Nunavut, Ellesmere Island, Tanquary Camp, Ellesmere Island National Park Reserve	primary	matK	81.4	-76.87	8.6244070720138e-05
+Poa_abbreviata	KC475305.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Oterkvik Point, Colville Mountains, eastern most slopes	primary	matK	69.606	-112.694	8.6244070720138e-05
+Poa_abbreviata	KY944616.1	21-MAR-2018	754	Canada	secondary	matK	61.0666922	-107.991707	8.84173297966401e-05

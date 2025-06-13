@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chenopodiastrum_hybridum	MT917950.1	03-MAR-2023	784	China	secondary	matK	35.000074	104.999927	NA
+Chenopodiastrum_hybridum	MK926222.1	14-JAN-2020	762	Romania	secondary	matK	45.9852129	24.6859225	NA
+Chenopodiastrum_hybridum	MK925691.1	14-JAN-2020	756	United Kingdom	secondary	matK	54.7023545	-3.2765753	NA
+Chenopodiastrum_hybridum	KY941447.1	30-APR-2018	452	United Kingdom: England, Dorset	secondary	matK	50.7968368	-2.3447323	NA
+Chenopodiastrum_hybridum	HE855635.1	07-JAN-2013	2450	Russia	secondary	matK	64.6863136	97.7453061	0.00267561913921373
+Chenopodiastrum_hybridum	HE855634.1	07-JAN-2013	2450	Germany	secondary	matK	40.4203479	-79.1166983	0.00116326530612245

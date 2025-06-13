@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Blitum_virgatum	MT931071.1	03-MAR-2023	569	China	secondary	rbcL	34.1431320721149	105.052272352661	0.0093625325067838
+Blitum_virgatum	MG248517.1	21-JAN-2018	511	Canada: Saskatchewan, Southwest Saskatchewan. North slopes of Cypress Hills	secondary	rbcL	53.1869562	-105.7210493	0.0125896269843484
+Blitum_virgatum	MG246370.1	21-JAN-2018	553	Canada: Saskatchewan, Regina	secondary	rbcL	50.44876	-104.61731	0.0143876654373721
+Blitum_virgatum	JF941272.1	13-DEC-2011	615	China	secondary	rbcL	34.7124816609794	104.677544346504	0.010676538835973
+Blitum_virgatum	JF941271.1	13-DEC-2011	615	China	secondary	rbcL	34.9562376186136	104.729231197234	0.010676538835973

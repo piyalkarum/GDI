@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_hastata	MZ400427.1	07-DEC-2021	779	Sweden: Latnjavagge	primary	matK	68.35	18.49	0
+Salix_hastata	KC475762.1	25-OCT-2013	766	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, between road and Darnley Bay	primary	matK	69.3917	-124.056	0
+Salix_hastata	KC475761.1	25-OCT-2013	779	Canada: Yukon Territory, Shingle Point, Drinking hole on mailand	primary	matK	68.97	-137.37	0
+Salix_hastata	KC475760.1	25-OCT-2013	779	Canada: Yukon Territory, Ivvavik National Park, Firth River Floodplain	primary	matK	68.66	-140.91	0
+Salix_hastata	HE612081.1	16-JAN-2012	835	Russia:Kamchatka	secondary	matK	57.1914882	160.0383819	0
+Salix_hastata	HE612072.1	16-JAN-2012	835	Russia:Magadan region	secondary	matK	63.5515028	154.014726	0

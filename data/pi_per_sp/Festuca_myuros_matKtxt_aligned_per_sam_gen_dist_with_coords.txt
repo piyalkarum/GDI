@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_myuros	MF597659.1	17-JUL-2018	817	Canada: British Columbia, Mayne Island, Bennett Bay, Gulf Islands National Park Reserve of Canada, Wilkes Road off Bennett Bay Road. Along trail through woods along coast.	primary	matK	48.804	-123.322	0.00424382762690244
+Festuca_myuros	MF597658.1	17-JUL-2018	819	Canada: British Columbia, Mayne Island, cliff edge of Mount Parke, ~ 1 km W of highest point where radar tower is.	primary	matK	48.843	-123.305	0.00323971102866439
+Festuca_myuros	MF597657.1	17-JUL-2018	792	Canada: British Columbia, Vancouver Island, along Deering Road 29.5 km N of Port Renfrew. Rocky roadside in mountains with Lolium, Elymus, Festuca.	primary	matK	48.708	-124.205	0.00390115010493382
+Festuca_myuros	MF597656.1	17-JUL-2018	819	Canada: British Columbia, Horseshoe Bay, Whytecliff Park. Among rocky cliffs with Anthoxanthum odoratum and Dactylis glomerata.	primary	matK	49.377	-123.29	0.00323971102866439
+Festuca_myuros	MF597655.1	17-JUL-2018	819	Canada: British Columbia, Vancouver, University of British Columbia Botanical Garden, west side of campus.	primary	matK	49.255	-123.251	0.00323971102866439
+Festuca_myuros	OQ391201.1	24-MAY-2023	835	Peru	secondary	matK	-6.96682475878541	-74.9012183044271	0.00278831073356117
+Festuca_myuros	OQ391200.1	24-MAY-2023	792	Peru	secondary	matK	-7.43052078090814	-74.9970979182195	0.036512010354255
+Festuca_myuros	OQ391199.1	24-MAY-2023	853	Peru	secondary	matK	-6.86182674195208	-75.425638754519	0.00311289393718221
+Festuca_myuros	LR606896.1	25-JAN-2021	2089	Germany	secondary	matK	40.4203479	-79.1166983	0.00315384397813225
+Festuca_myuros	AF164403.1	30-APR-2000	1536	India	secondary	matK	22.3511148	78.6677428	0.00315629671495999
+Festuca_myuros	KJ599273.1	21-SEP-2014	510	Australia: Victoria	secondary	matK	-36.5986096	144.6780052	0.00666666666666667
+Festuca_myuros	KF713165.1	15-DEC-2013	1014	South Korea: Daecheongdo, Incheon	secondary	matK	37.8246278	124.69863991812	0.00279270971383953
+Festuca_myuros	KF713164.1	15-DEC-2013	1014	South Korea: Iksan-si, Jeollabuk-do	secondary	matK	35.9479291	126.9578025	0.00279270971383953
+Festuca_myuros	FN908075.1	17-MAY-2012	2330	Portugal:Azores	secondary	matK	37.8085564	-25.4731374	0.00319724675591003
+Festuca_myuros	JN894725.1	07-MAR-2012	788	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00281109149178061
+Festuca_myuros	HQ600029.1	02-AUG-2011	1330	South Korea	secondary	matK	36.638392	127.6961188	0.00311289393718221

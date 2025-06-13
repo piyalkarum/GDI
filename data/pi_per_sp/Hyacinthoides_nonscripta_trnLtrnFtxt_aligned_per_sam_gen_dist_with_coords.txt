@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hyacinthoides_non-scripta	JX090550.1	31-MAY-2013	881	United Kingdom	secondary	trnL-trnF	54.7023545	-3.2765753	0.0590909090909091
+Hyacinthoides_non-scripta	FJ423249.1	31-OCT-2009	956	Spain: Leon	secondary	trnL-trnF	42.6341451	-5.9714151	0.0118181818181818
+Hyacinthoides_non-scripta	FJ423248.1	31-OCT-2009	956	United Kingdom: England, Kent	secondary	trnL-trnF	51.2070748	0.7210362	0.0118181818181818
+Hyacinthoides_non-scripta	FJ423247.1	31-OCT-2009	956	Belgium: Wallonisch Brabant	secondary	trnL-trnF	50.666245	4.5500441	0.0118181818181818
+Hyacinthoides_non-scripta	FJ423246.1	31-OCT-2009	956	Spain: Lugo	secondary	trnL-trnF	43.0462247	-7.4739921	0.0118181818181818
+Hyacinthoides_non-scripta	FJ423245.1	31-OCT-2009	956	Spain: La Coruna	secondary	trnL-trnF	43.3709703	-8.3959425	0.0118181818181818

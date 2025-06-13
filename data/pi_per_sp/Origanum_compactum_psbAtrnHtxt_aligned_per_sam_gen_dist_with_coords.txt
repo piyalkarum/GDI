@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Origanum_compactum	KC138289.1	31-OCT-2014	424	Argentina	secondary	psbA-trnH	-34.9964963	-64.9672817	0.0191387559808612
+Origanum_compactum	KC138250.1	31-OCT-2014	433	Morocco	secondary	psbA-trnH	28.9260551245379	-10.240861962	0.00637958532695375
+Origanum_compactum	KC138249.1	31-OCT-2014	442	Morocco	secondary	psbA-trnH	27.4742279089861	-10.4265882668183	0.00637958532695375
+Origanum_compactum	KC138248.1	31-OCT-2014	433	Morocco	secondary	psbA-trnH	28.0615554558461	-10.3924130807974	0.00637958532695375

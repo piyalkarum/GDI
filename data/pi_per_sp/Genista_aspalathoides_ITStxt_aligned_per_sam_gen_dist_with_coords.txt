@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_aspalathoides	AJ698967.1	30-APR-2005	212	Italy:Sicily, Pantelleria	secondary	ITS	36.6617437950475	11.5038872170641	0.395660996994764
+Genista_aspalathoides	AJ698966.1	30-APR-2005	235	Italy:Sicily, Pantelleria	secondary	ITS	36.2173812470886	12.3842916629653	0.392446633825944
+Genista_aspalathoides	AJ971548.1	24-MAR-2006	212	Tunisia	secondary	ITS	36.9968757919079	10.3534889332567	0.392376924745175
+Genista_aspalathoides	AJ971547.1	24-MAR-2006	235	Tunisia	secondary	ITS	36.1857318395319	10.2178549705529	0.392446633825944

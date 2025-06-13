@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_arundinacea	KX872644.1	16-OCT-2017	844	China: Bejing, Xiangshan (Fragrant Hills), W of Beijing ca. 20 km. Chinese Academy of Sciences Institute of Botany, parks at the base of the hills, and slopes above them	primary	trnL-trnF	39.9167	115.0833	0.00289359646528433
+Calamagrostis_arundinacea	KX872643.1	16-OCT-2017	835	Czech Republic: Zd#arske vrchy, about 6 km N of Zdar nad Sazavou, W of Svetnov	primary	trnL-trnF	49.6156	15.9356	0.00203227002256253
+Calamagrostis_arundinacea	KX872642.1	16-OCT-2017	775	Poland: Malopolskie Voivodeship, Zawoja kommun, Zawoja village, Zawoja-Markowa, Babia Goa Mt	primary	trnL-trnF	49.5892	19.5247	0.00301464254952627
+Calamagrostis_arundinacea	KX872641.1	16-OCT-2017	832	Canada: British Columbia (cultivated), Vancouver, University of British Columbia Botanical Garden, west side of campus	primary	trnL-trnF	49.255	-123.2514	0.00289648224330451

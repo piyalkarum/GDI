@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Setaria_verticillata	MG226407.1	23-JAN-2018	552	Canada: Guelph, ON	primary	rbcL	43.5485	-80.2503	0.00403487123406616
+Setaria_verticillata	MG226043.1	23-JAN-2018	552	Canada: Perth, Lanark County, ON	primary	rbcL	44.883	-76.233	0.00403487123406616
+Setaria_verticillata	MG225762.1	23-JAN-2018	552	Canada: Ontario, Kent Co., Camden Tp., Dresden.	primary	rbcL	42.583	-82.183	0.00403487123406616
+Setaria_verticillata	MG225749.1	23-JAN-2018	552	Canada: Mt. Brydges, Middlesex County, ON	primary	rbcL	43	-81.5	0.00403487123406616
+Setaria_verticillata	KR737500.1	13-MAY-2016	485	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.929170242570503	37.2038554020998	0.00444091990483743
+Setaria_verticillata	KR737310.1	13-MAY-2016	487	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.799995941067342	36.9756838511269	0.00442268204075186
+Setaria_verticillata	KR736663.1	13-MAY-2016	498	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	-0.0103365426289233	36.707728968644	0.00432499227679951
+Setaria_verticillata	KR736369.1	13-MAY-2016	496	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.359416619523963	37.2710252000287	0.0043424317617866
+Setaria_verticillata	LN908012.1	14-JAN-2016	1353	Madagascar:Toliara, Tsimanampetsotsa	primary	rbcL	-24.0884	43.7566	0.00430784626546808
+Setaria_verticillata	OQ391696.1	10-MAY-2023	522	Peru	secondary	rbcL	-6.8699697	-75.0458515	0.00433059932986902
+Setaria_verticillata	MW326764.1	18-APR-2022	548	Pakistan	secondary	rbcL	30.3308401	71.247499	0.0115641842815454
+Setaria_verticillata	MG226718.1	23-JAN-2018	552	Canada: Ontario, Durham R. M., Scugog Tp., Port Perry, Dump	secondary	rbcL	44.4839164775092	-77.117942372785	0.00403487123406616
+Setaria_verticillata	MG226643.1	23-JAN-2018	552	Canada: Ontario, Lanark Co., N side of Perth.	secondary	rbcL	44.1091197149886	-76.7288866741887	0.00403487123406616
+Setaria_verticillata	HQ600366.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.00901034970877384

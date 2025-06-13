@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_pallens	HE681084.1	22-APR-2013	342	Italy:Abruzzo	secondary	trnL-trnF	42.227681	13.854983	0.00146198830409357
+Leucanthemum_pallens	HE681054.1	22-APR-2013	342	Italy:Toscana	secondary	trnL-trnF	43.4586541	11.1389204	0.00292397660818713
+Leucanthemum_pallens	HE681053.1	22-APR-2013	342	Spain:Aragon	secondary	trnL-trnF	40.9179119845841	-0.81234468453281	0.00146198830409357
+Leucanthemum_pallens	HE681052.1	22-APR-2013	342	Spain:Aragon	secondary	trnL-trnF	40.7741508495902	0.0223876306264473	0.00389863547758285
+Leucanthemum_pallens	HE681051.1	22-APR-2013	342	Spain:Castilia y Leon	secondary	trnL-trnF	41.55005	-5.1387401	0.00292397660818713
+Leucanthemum_pallens	HE681050.1	22-APR-2013	342	Italy:Emilia-Romagna	secondary	trnL-trnF	44.525696	11.039437	0.00146198830409357
+Leucanthemum_pallens	HE681049.1	22-APR-2013	342	Spain:Cantabria	secondary	trnL-trnF	43.1595664	-4.0878382	0.00146198830409357

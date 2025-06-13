@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_psammitis	MN334833.1	16-OCT-2019	894	Spain: Avila, Candeleda	secondary	atp6	40.1557248	-5.2409617	0.000372856077554064
+Silene_psammitis	MN334832.1	16-OCT-2019	861	Spain: Malaga, Ojen	secondary	atp6	36.5645156	-4.8565007	0.000387146728610143
+Silene_psammitis	MN334831.1	16-OCT-2019	894	Spain: Malaga, Benahavis	secondary	atp6	36.5222736	-5.0441068	0.00113285888371827
+Silene_psammitis	MN334830.1	16-OCT-2019	894	Spain: Granada, Jatar	secondary	atp6	36.9342472	-3.9092739	0.000372856077554064

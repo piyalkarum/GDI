@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_arctica	KC476193.1	25-OCT-2013	364	Canada: Nunavut, Ellesmere Island, Hazen Camp, on N shore of Lake Hazen, Ellesmere Island National Park Reserve, slopes of Omingmak Mt	primary	atpF-atpH	71.62	-123.1	0.00183150183150183
+Poa_arctica	KC476199.1	25-OCT-2013	364	Canada: Nunavut, Victoria Island, Cambridge Bay, on ridge above Freshwater Creek, between bridge and picnic area, 2.5-3 km NE of village	primary	atpF-atpH	69.12	-105.05	0.00183150183150183
+Poa_arctica	KC476198.1	25-OCT-2013	364	Canada: Nunavut, Baffin Island, Iqaluit. Disturbed road bank behind the Iqaluit Town Office	primary	atpF-atpH	63.1162569593805	-69.6235778430631	0.00137362637362637
+Poa_arctica	KC476197.1	25-OCT-2013	364	Canada: Nunavut, Baffin Island, Iqaluit. Flat meadow above beach just south east of Iqaluit along trail to Apex	primary	atpF-atpH	63.4445232990929	-67.6812049384362	0.00137362637362637
+Poa_arctica	KC476196.1	25-OCT-2013	364	Canada: Nunavut, Ellesmere Island, Hazen Camp, on N shore of Lake Hazen, Ellesmere Island National Park Reserve	primary	atpF-atpH	81.82	-76.87	0.00183150183150183
+Poa_arctica	KC476195.1	25-OCT-2013	364	Canada: Nunavut, Baffin Island, Iqaluit. Disturbed road bank behind the Iqaluit Town Office	primary	atpF-atpH	63.8797377991138	-69.6486589175885	0.00137362637362637
+Poa_arctica	KC476194.1	25-OCT-2013	408	Canada: Nunavut, Baffin Island, Iqaluit. Disturbed road bank behind the Iqaluit Town Office	primary	atpF-atpH	63.4553639852801	-67.4897102688295	0.00137362637362637

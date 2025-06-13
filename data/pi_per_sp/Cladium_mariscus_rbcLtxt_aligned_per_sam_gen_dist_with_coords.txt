@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cladium_mariscus	JN892898.1	07-MAR-2012	542	United Kingdom: Breconshire	primary	rbcL	51.93	-3.5	0.00097819850831899
+Cladium_mariscus	ON950875.1	17-OCT-2022	755	Kenya	secondary	rbcL	1.4419683	38.4313975	0.00546013259344134
+Cladium_mariscus	MF572174.1	31-JUL-2018	570	Italy: Aosta Valley, Arvier, Lolair	secondary	rbcL	46.4961896004711	6.888080382077	0.00142543859649123
+Cladium_mariscus	MF572173.1	31-JUL-2018	575	Italy: Aosta Valley, Arvier, Lolair	secondary	rbcL	45.8535577342464	6.80472055036889	0.00141467672659006
+Cladium_mariscus	MF572172.1	31-JUL-2018	575	Italy: Aosta Valley, Arvier, Lolair	secondary	rbcL	46.2035491836736	7.58022859329671	0.00141467672659006
+Cladium_mariscus	MF572171.1	31-JUL-2018	576	Italy: Aosta Valley, Arvier, Lolair	secondary	rbcL	46.4678338970235	7.66733376324047	0.00141735192085314
+Cladium_mariscus	HM849902.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00523249963796523
+Cladium_mariscus	JN892612.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00097819850831899
+Cladium_mariscus	JN892611.1	07-MAR-2012	495	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00107733627735669

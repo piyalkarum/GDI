@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_onobrychis	OR738009.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0
+Astragalus_onobrychis	LN873166.1	08-SEP-2015	638	Kazakhstan:Kostanaj oblast, Turgai plateau	primary	rbcL	51.34	-63.05	0.00124610591900312
+Astragalus_onobrychis	MF572165.1	31-JUL-2018	543	Italy: Aosta Valley, Sarre	secondary	rbcL	45.7167983	7.2591539	0
+Astragalus_onobrychis	MF572164.1	31-JUL-2018	573	Italy	secondary	rbcL	45.7017361	7.2476561	0.00124610591900312

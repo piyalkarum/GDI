@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Platanthera_hyperborea	KC475297.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	matK	61.8608654681221	-115.515470922902	0.0894640284884187
+Platanthera_hyperborea	KC475296.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	matK	61.8339204379219	-114.100263612072	0.0296010296010296
+Platanthera_hyperborea	JN966355.1	27-OCT-2012	738	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	matK	58.626	-94.23	0.0302619692863595
+Platanthera_hyperborea	JN966354.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 23 km E Churchill, Ramsay Creek, Tundra, creek bank	primary	matK	58.731	-93.78	0.0296010296010296

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_vulgaris	HQ593908.1	10-NOV-2011	510	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill West, very north-west corner of property	primary	rpoC1	44.03	-79.546	0.00221729490022173
+Artemisia_vulgaris	KX582145.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	44.2422613383576	82.2128472376219	0.000534363508618251
+Artemisia_vulgaris	KX582144.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	43.7932424764119	81.4603023376285	0.000534363508618251
+Artemisia_vulgaris	KX582143.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	44.3174096028243	80.6511056048682	0.000534363508618251
+Artemisia_vulgaris	KX582142.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	43.750595153229	80.2372074350666	0.000534363508618251
+Artemisia_vulgaris	KX582141.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	44.4982496126399	80.8802442146238	0.000534363508618251
+Artemisia_vulgaris	KX582140.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	44.7725922597211	81.3463007844109	0.00207757338516146
+Artemisia_vulgaris	KX582139.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	44.7861049095984	81.4859021560411	0.000534363508618251
+Artemisia_vulgaris	KX582138.1	24-SEP-2016	486	China: Xinjiang, Yili	secondary	rpoC1	44.2304028042775	80.6863781034262	0.000534363508618251

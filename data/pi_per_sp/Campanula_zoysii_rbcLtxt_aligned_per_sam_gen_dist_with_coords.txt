@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_zoysii	MK555639.1	22-SEP-2019	357	Hungary	secondary	rbcL	42.3708767569503	-73.7073299511207	0.369972394755003
+Campanula_zoysii	MK555584.1	22-SEP-2019	357	Hungary	secondary	rbcL	41.9627849506244	-72.2716477453407	0.369972394755003
+Campanula_zoysii	MK555496.1	22-SEP-2019	381	Hungary	secondary	rbcL	41.2744527522168	-72.5262174711178	0.576854256854257
+Campanula_zoysii	MK555422.1	22-SEP-2019	382	Hungary	secondary	rbcL	41.8375124080602	-71.6717718299851	0.565687935253153

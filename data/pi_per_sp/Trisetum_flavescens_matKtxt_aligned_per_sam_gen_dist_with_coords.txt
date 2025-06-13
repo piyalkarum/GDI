@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trisetum_flavescens	KX873534.1	16-OCT-2017	884	Germany: Hessen, Kreis Limburg-Weilburg, Limburger Becken, Runkel-Schadeck, Wiesen N der Heerstrabe	primary	matK	50.4167	8.15	0.00406894434053686
+Trisetum_flavescens	JN895340.1	07-MAR-2012	538	United Kingdom: Cardiganshire	primary	matK	52.4	-3.76	NA
+Trisetum_flavescens	LR606999.1	25-JAN-2021	2068	Germany	secondary	matK	31.4888046054026	-94.5028779949254	0.00152466955732707
+Trisetum_flavescens	MT433225.1	31-MAY-2020	1154	Norway	secondary	matK	64.5731537	11.5280364	NA
+Trisetum_flavescens	KJ204553.1	29-JAN-2015	824	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00149881509235957
+Trisetum_flavescens	HG797485.1	26-SEP-2014	773	Germany	secondary	matK	31.4886015526991	-95.4562520584635	NA
+Trisetum_flavescens	JN895838.1	07-MAR-2012	752	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.000710315705412345

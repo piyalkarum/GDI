@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Origanum_onites	OL598304.1	27-MAY-2022	328	Greece: Samos	secondary	trnL-trnF	37.1934772523518	27.6919016776949	0.00972383285949424
+Origanum_onites	OL598303.1	27-MAY-2022	329	Greece: Samos	secondary	trnL-trnF	37.8513121789658	27.4585404808593	0.0112313914237062
+Origanum_onites	OL598302.1	27-MAY-2022	329	Greece: Kalymnos	secondary	trnL-trnF	37.0025735	26.9923072	0.00894711921799233
+Origanum_onites	OL598301.1	27-MAY-2022	329	Greece: Crete, Zakros	secondary	trnL-trnF	35.1559954234727	25.2103201184222	0.0116148056871802
+Origanum_onites	OL598300.1	27-MAY-2022	328	Greece: Crete, Zakros	secondary	trnL-trnF	34.855695469065	25.5734801191898	0.00972383285949424
+Origanum_onites	OL598299.1	27-MAY-2022	329	Greece: Amorgos	secondary	trnL-trnF	36.8525242	25.898487	0.00894711921799233
+Origanum_onites	OL598298.1	27-MAY-2022	328	Greece: Symi	secondary	trnL-trnF	36.5903486	27.8412391	0.00972383285949424
+Origanum_onites	OL598297.1	27-MAY-2022	328	Greece: Rodos, Siana	secondary	trnL-trnF	36.1533448	27.7777288	0.00972383285949424
+Origanum_onites	OL598296.1	27-MAY-2022	329	Greece: Rodos, Koutsoutis	secondary	trnL-trnF	35.3500079751221	28.0617024711347	0.0125646537114963
+Origanum_onites	OL598295.1	27-MAY-2022	329	Greece: Rodos, Koutsoutis	secondary	trnL-trnF	36.4332754671998	27.1101321560822	0.0116148056871802
+Origanum_onites	OL598294.1	27-MAY-2022	328	Greece: Crete, Aforesmenos	secondary	trnL-trnF	35.3375513	25.7670808	0.00972383285949424
+Origanum_onites	OL598293.1	27-MAY-2022	329	Greece: Crete, Roussospiti	secondary	trnL-trnF	35.3340688	24.4944483	0.0102815433993901
+Origanum_onites	OL598292.1	27-MAY-2022	329	Greece: Crete, Venerato	secondary	trnL-trnF	35.1981073	25.0386127	0.0152195806051505
+Origanum_onites	OL598291.1	27-MAY-2022	327	Greece: Crete, Kastamonitsa	secondary	trnL-trnF	35.1926687	25.3780868	0.0139701881765821
+Origanum_onites	OL598290.1	27-MAY-2022	329	Greece: Crete, Eleftherna	secondary	trnL-trnF	35.3330902	24.6748767	0.00969425931606295
+Origanum_onites	OL598289.1	27-MAY-2022	328	Greece: Crete, Giouhtas mountain	secondary	trnL-trnF	35.465816236181	25.4496918481804	0.00972383285949424
+Origanum_onites	OL598288.1	27-MAY-2022	329	Greece: Crete, Giouhtas mountain	secondary	trnL-trnF	35.0205384686716	24.9493400691317	0.00894711921799233

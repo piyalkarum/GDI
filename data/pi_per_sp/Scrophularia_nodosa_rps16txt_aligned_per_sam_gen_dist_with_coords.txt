@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scrophularia_nodosa	KR361628.1	13-JUL-2015	438	Norway: 12, Bratland	secondary	rps16	60.271285	9.262056	0.0175038051750381
+Scrophularia_nodosa	HQ130038.1	11-JAN-2011	712	Armenia: Lori Prov.	secondary	rps16	41.007271	44.4900113	0.0184088349476507
+Scrophularia_nodosa	HQ130037.1	11-JAN-2011	622	Germany: Bavaria	secondary	rps16	48.9467562	11.4038717	0.0370533507563856
+Scrophularia_nodosa	HQ130036.1	11-JAN-2011	654	USA: Massachusetts, Franklin Co.	secondary	rps16	42.5896205	-72.6110645	0.0204668106434716

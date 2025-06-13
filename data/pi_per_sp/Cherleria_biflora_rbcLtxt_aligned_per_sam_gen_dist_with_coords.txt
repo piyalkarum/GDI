@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cherleria_biflora	MG248476.1	21-JAN-2018	552	Canada: Yukon Territory, Richardson Mountains, tributary of Fish Creek, S of Vunta Creek	primary	rbcL	67.895	-136.562	0
+Cherleria_biflora	MG246567.1	21-JAN-2018	552	Canada: British Columbia, Atlin, Ruby Mountain	primary	rbcL	59.703	-133.359	0
+Cherleria_biflora	KT960423.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.467	-20.567	0
+Cherleria_biflora	KJ841418.1	04-NOV-2014	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, S-w slope near Davies' site 'TSC3.2a'	primary	rbcL	54.903	-67.1678	0
+Cherleria_biflora	KC483179.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake	primary	rbcL	62.85	-67.35	0
+Cherleria_biflora	KC483178.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. The Hill 2 km southwest of Sanikiluaq airport	primary	rbcL	56.558	-79.325	0
+Cherleria_biflora	KC483177.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Lower Savage Islands, V-shaped lake 1.5 km S of Savage Harbour	primary	rbcL	61.82	-65.71	0
+Cherleria_biflora	KC483176.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Cape Hooper	primary	rbcL	68.433	-66.817	0
+Cherleria_biflora	KC483175.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Buckland Hills	primary	rbcL	69.317	-139.583	0
+Cherleria_biflora	MT931001.1	03-MAR-2023	569	China	secondary	rbcL	34.6356032376824	105.743717369561	0
+Cherleria_biflora	MT931000.1	03-MAR-2023	569	China	secondary	rbcL	35.5000064794291	104.729605098953	0

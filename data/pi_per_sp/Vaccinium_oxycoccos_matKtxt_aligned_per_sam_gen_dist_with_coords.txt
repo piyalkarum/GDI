@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vaccinium_oxycoccos	KX676606.1	09-AUG-2017	806	Canada: British Columbia, Fraser-Fort George Regional District, Nechako River, larch bog at foot of sand cliff, within an elbow in the river, on a bench	primary	matK	53.927	-123.221	0.199669071241932
+Vaccinium_oxycoccos	KX677778.1	09-AUG-2017	593	Canada: British Columbia, Kootenay Boundary Regional District, north of Christian Valley, Just west of Kettle River Forest Service Road	primary	matK	49.6983	-118.778	0.270598555557945
+Vaccinium_oxycoccos	KX677645.1	09-AUG-2017	479	Canada: British Columbia, Greater Vancouver Regional District, Cypress Provincial Park, Howe Sound Crest trail	primary	matK	49.3999	-123.205	0.286221119218849
+Vaccinium_oxycoccos	KX677495.1	09-AUG-2017	606	Canada: British Columbia, Squamish-Lillooet Regional District, near Whistler, Callagan Creek Forest Service Road	primary	matK	50.0722	-123.1	0.222901763476277
+Vaccinium_oxycoccos	KX677295.1	09-AUG-2017	601	Canada: British Columbia, Greater Vancouver Regional District, Port Moody, Newport Drive and Ioco Road	primary	matK	49.2819	-122.828	0.335875477674539
+Vaccinium_oxycoccos	KX677257.1	09-AUG-2017	587	Canada: British Columbia, Squamish-Lillooet Regional District, near Whistler, Madeley Lake Forest Service Road	primary	matK	50.175	-123.124	0.204223939633899
+Vaccinium_oxycoccos	KX677168.1	09-AUG-2017	427	Canada: British Columbia, Vancouver Island, Capital Regional District, View Royal, Nursery Hill Park	primary	matK	48.461	-123.462	NA
+Vaccinium_oxycoccos	KX677161.1	09-AUG-2017	432	Canada: British Columbia, Vancouver Island, Capital Regional District, Metchosin, Blinkhorn Mountain	primary	matK	48.389	-123.572	NA
+Vaccinium_oxycoccos	KX677138.1	09-AUG-2017	448	Canada: British Columbia, Comox Regional District, Comox, Goose Spit	primary	matK	49.66	-124.922	NA
+Vaccinium_oxycoccos	KX677108.1	09-AUG-2017	506	Canada: British Columbia, East Kootenay Regional District, Dry Gulch Provincial Park	primary	matK	50.8751164540277	-115.430583844126	0.247218973745862
+Vaccinium_oxycoccos	KX677094.1	09-AUG-2017	432	Canada: British Columbia, Vancouver Island, Comox Valley Regional District, Kin Beach Provincial Park	primary	matK	49.73	-124.898	NA
+Vaccinium_oxycoccos	KX677073.1	09-AUG-2017	450	Canada: British Columbia, Greater Vancouver Regional District, Burnaby, junction of Stoney Creek and North Road	primary	matK	49.262	-122.897	NA
+Vaccinium_oxycoccos	KX677050.1	09-AUG-2017	309	Canada: British Columbia, Fraser Valley Regional District, East side of Harrison Lake, East Harrison Forest Service Road	primary	matK	49.418	-121.759	NA
+Vaccinium_oxycoccos	KX676953.1	09-AUG-2017	514	Canada: British Columbia, Metro Vancouver Regional Distrct, Richmond, 5135 No.6 Road, driveway of Green Timbers Nursery, roadside	primary	matK	49.172	-123.069	0.250644094554988
+Vaccinium_oxycoccos	KX676838.1	09-AUG-2017	602	Canada: British Columbia, Vancouver Island, Capital Regional District, Victoria, Uplands Park	primary	matK	48.44	-123.296	0.232611367578379
+Vaccinium_oxycoccos	KX676754.1	09-AUG-2017	495	Canada: British Columbia, Greater Vancouver Regional District, Delta, Tsawwassen Ferry Causeway, west side of Highway 17, 1 km north of ferry dock, on sea dyke.	primary	matK	49.023	-123.108	NA
+Vaccinium_oxycoccos	KX676706.1	09-AUG-2017	515	Canada: British Columbia, East Kootenay Regional District, Dry Gulch Provincial Park	primary	matK	51.0121825850008	-115.834896703573	0.219206246345683
+Vaccinium_oxycoccos	KX676523.1	09-AUG-2017	605	Canada: British Columbia, Thompson-Nicola Regional District, immediately north of Clearwater, Miller's Nursery	primary	matK	51.667	-120	0.225646871310927
+Vaccinium_oxycoccos	KX676604.1	09-AUG-2017	456	USA: South Carolina, Richland County, Columbia, along side of Granby road	secondary	matK	32.7855441	-79.951708145656	NA
+Vaccinium_oxycoccos	JN895646.1	07-MAR-2012	761	United Kingdom: Carmarthenshire	secondary	matK	51.6147614649503	-5.27214601406365	0.204932300526931
+Vaccinium_oxycoccos	JN895357.1	07-MAR-2012	831	United Kingdom: Radnorshire	secondary	matK	52.4627049	-3.2561628	0.200537216478434
+Vaccinium_oxycoccos	JN895356.1	07-MAR-2012	672	United Kingdom: Carmarthenshire	secondary	matK	51.4689004007133	-3.74263458621274	0.205572607976179

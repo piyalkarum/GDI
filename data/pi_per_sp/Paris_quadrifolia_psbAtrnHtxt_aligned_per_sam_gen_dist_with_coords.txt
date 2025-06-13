@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Paris_quadrifolia	JN045759.1	13-DEC-2011	999	Netherlands: Leiden University	secondary	psbA-trnH	52.864620840015	4.40143968882507	0.00639702729355577
+Paris_quadrifolia	JN045758.1	13-DEC-2011	1000	Netherlands: Leiden University	secondary	psbA-trnH	51.6139170291393	4.86483729627797	0.00572087238753905
+Paris_quadrifolia	JN045757.1	13-DEC-2011	990	Netherlands: Leiden University	secondary	psbA-trnH	51.3517522131891	3.99896741577672	0.0165041040672992
+Paris_quadrifolia	HG800548.1	03-FEB-2014	1000	Italy:Lombardy, Grigna settentrionale	secondary	psbA-trnH	45.9533979	9.3876756	0.00572087238753905

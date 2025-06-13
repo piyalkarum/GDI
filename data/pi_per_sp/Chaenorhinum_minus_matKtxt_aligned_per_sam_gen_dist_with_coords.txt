@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chaenorhinum_minus	KJ840892.1	23-SEP-2014	714	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Gravel pit near Research Station	primary	matK	45.535	-73.149	0.00282705455880329
+Chaenorhinum_minus	KJ840891.1	23-SEP-2014	788	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	matK	45.538	-73.158	0.00269340656292475
+Chaenorhinum_minus	JN895257.1	07-MAR-2012	790	United Kingdom: Carmarthenshire	primary	matK	51.67	-4.16	0.00264795710075225
+Chaenorhinum_minus	HE966900.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0116146299872452
+Chaenorhinum_minus	JN895897.1	07-MAR-2012	817	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0048356601861531
+Chaenorhinum_minus	JN895654.1	07-MAR-2012	797	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00283228067026404

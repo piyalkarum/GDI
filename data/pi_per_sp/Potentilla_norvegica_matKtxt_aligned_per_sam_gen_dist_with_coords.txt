@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_norvegica	KX676883.1	09-AUG-2017	788	Canada: British Columbia, Squamish-Lillooet Regional District, Squamish Valley Rd., Riverside Forest Recreation Site	primary	matK	49.916	-123.296	0
+Potentilla_norvegica	MG221126.1	21-JAN-2018	762	Canada: Ontario, Nipissing District, Mattawan Twp., Mattawa, NEBIE Block#3, Intensive treatment	primary	matK	46.374	-79.006	0
+Potentilla_norvegica	MG221105.1	21-JAN-2018	765	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	matK	42.454	-81.884	0
+Potentilla_norvegica	MG220815.1	21-JAN-2018	762	Canada: Ontario, Kenora District, Dryden Township, Dryden	primary	matK	49.635	-92.77	0
+Potentilla_norvegica	KM212096.1	04-NOV-2014	763	Canada: Quebec, Monteregie, Mont Saint-Hilaire, Area infront of Gault House, along Lac Hertel	primary	matK	45.542	-73.154	0
+Potentilla_norvegica	MG221100.1	21-JAN-2018	782	Canada: Ontario, Kenora District, Dryden	secondary	matK	49.785698	-92.835846	0
+Potentilla_norvegica	KJ593070.1	17-MAR-2015	721	USA: Wisconsin, Breed	secondary	matK	45.0730383	-88.4242704	0

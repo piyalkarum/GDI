@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arnica_angustifolia	OP004971.1	12-APR-2023	956	USA: Alaska, Noatak Quad	primary	rps16	67.334	-163.724	0.00257363327171739
+Arnica_angustifolia	OP004970.1	12-APR-2023	956	Norway: Svalbard, Kapp Thordsen	primary	rps16	78.465	15.557	0.00156903765690377
+Arnica_angustifolia	OP004969.1	12-APR-2023	956	Canada: Victoria Island, Minto inlet	primary	rps16	71.205	-116.383	0.00156903765690377
+Arnica_angustifolia	OP004968.1	12-APR-2023	956	Norway: Svalbard, Krossfjorden	primary	rps16	79.16	11.867	0.00156903765690377
+Arnica_angustifolia	OP004967.1	12-APR-2023	956	Norway: Svalbard, Ossian Sars	primary	rps16	78.936	12.442	0.00156903765690377
+Arnica_angustifolia	OP004966.1	12-APR-2023	956	Norway: Svalbard, Lomfjorden	primary	rps16	79.363	17.667	0.0044084869839109
+Arnica_angustifolia	OP004965.1	12-APR-2023	956	Greenland: Disko	primary	rps16	69.25	-53.54	0.00418410041841004
+Arnica_angustifolia	OP004964.1	12-APR-2023	956	Norway: Svalbard, Ossian Sars	primary	rps16	78.943	12.474	0.00842686944316541
+Arnica_angustifolia	OP004963.1	12-APR-2023	956	Norway: Svalbard, Hemsedalen	primary	rps16	78.4872639673205	18.5266930100038	0.00322955385166352
+Arnica_angustifolia	OP004962.1	12-APR-2023	627	Norway: Svalbard, Hemsedalen	primary	rps16	78.1993401694118	13.3165168552337	0.00199362041467305
+Arnica_angustifolia	OP004961.1	12-APR-2023	956	Norway: Svalbard, Ringhorndalen	primary	rps16	79.4362552955576	17.226275516232	0.00156903765690377
+Arnica_angustifolia	OP004960.1	12-APR-2023	956	Norway: Svalbard, Ringhorndalen	primary	rps16	79.418877987728	17.3089426916137	0.00322955385166352
+Arnica_angustifolia	OP004959.1	12-APR-2023	956	Norway: Svalbard, Hemsedalen	primary	rps16	79.3000772569365	13.0164758272303	0.00156903765690377

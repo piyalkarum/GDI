@@ -1,0 +1,43 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chenopodium_album	OQ847513.1	15-AUG-2023	789	USA: American Prairie, near Enrico	primary	matK	47.7447	-107.7716	0.0265065020757527
+Chenopodium_album	MF694839.1	16-SEP-2018	785	Pakistan: Punjab, Cholistan Desert, Derawar fort	primary	matK	28.739	71.812	0.0188218571107833
+Chenopodium_album	MG221127.1	21-JAN-2018	780	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	matK	42.765	-80.303	0.0188229228349484
+Chenopodium_album	MG220901.1	21-JAN-2018	779	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	matK	43.529	-80.229	0.0188233378163381
+Chenopodium_album	MG220725.1	21-JAN-2018	780	Canada: Ontario, Niagara County, Niagara-on-the-Lake Township, Fields around Traveller's Stop at intersection of York Road and Glendale Avenue (at exit of 403)	primary	matK	43.16	-79.163	0.0188229228349484
+Chenopodium_album	HQ593232.1	09-NOV-2011	782	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., NW end of plowed area N of E-pond	primary	matK	44.031	-79.536	0.0188227834661414
+Chenopodium_album	KJ840894.1	23-SEP-2014	747	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	matK	45.542	-73.154	0.0188322630048001
+Chenopodium_album	KC474467.1	25-OCT-2013	761	Canada: Nunavut, Rankin Inlet, N.W.T. District of Keewatin. Rankin Inlet. Kudlulik Peninsula. In and around the site of the former Keewatin Rehabilitation Centre at Itivia	primary	matK	62.8	-92.083	0.0188281309165264
+Chenopodium_album	JQ412222.1	16-JAN-2013	711	South Africa: Western Cape, Cape Town, Robben Island	primary	matK	-33.809	18.379	0.0187728462785854
+Chenopodium_album	JN966238.1	27-OCT-2012	512	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove	primary	matK	58.763	-93.885	0.0605571339001321
+Chenopodium_album	JN895260.1	07-MAR-2012	757	United Kingdom: Glamorgan	primary	matK	51.61	-3.95	0.0188294985967338
+Chenopodium_album	MN243243.1	12-JAN-2020	851	Tanzania	secondary	matK	-5.67813119959633	36.0067322708419	0.0212812205297876
+Chenopodium_album	MN243234.1	12-JAN-2020	851	Tanzania	secondary	matK	-6.10918525790723	35.427415309376	0.0212812205297876
+Chenopodium_album	MK125132.1	03-FEB-2019	869	Saudi Arabia: Makkah	secondary	matK	21.420847	39.826869	0.0188134005052427
+Chenopodium_album	KY941440.1	30-APR-2018	437	United Kingdom: England, West Sussex	secondary	matK	51	-0.416667	0.548944342777704
+Chenopodium_album	KX789384.1	26-AUG-2017	803	Egypt	secondary	matK	26.2540493	29.2675469	0.0188212906108953
+Chenopodium_album	HM850763.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0188830787375695
+Chenopodium_album	HE855665.1	07-JAN-2013	2454	Germany	secondary	matK	34.6765042040154	-83.0631702051288	0.0189119580686212
+Chenopodium_album	HE855644.1	07-JAN-2013	2451	Germany	secondary	matK	35.6453111193126	-83.4664924045232	0.0189119580686212
+Chenopodium_album	JN894520.1	07-MAR-2012	829	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.0188177258828982
+Chenopodium_album	JN894388.1	07-MAR-2012	837	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0188748541145344
+Chenopodium_album	JF953547.1	13-DEC-2011	714	China	secondary	matK	34.9636255890936	105.533697114628	0.0188466506547046
+Chenopodium_album	JF953546.1	13-DEC-2011	714	China	secondary	matK	35.3126801657445	105.562925343666	0.0188466506547046
+Chenopodium_album	JF953545.1	13-DEC-2011	714	China	secondary	matK	35.6611052309898	105.54632763163	0.0188466506547046
+Chenopodium_album	JF953544.1	13-DEC-2011	714	China	secondary	matK	34.8141347224921	106.01630841721	0.0188466506547046
+Chenopodium_album	JF953543.1	13-DEC-2011	714	China	secondary	matK	35.1965453504185	104.182952790316	0.0188466506547046
+Chenopodium_album	JF953542.1	13-DEC-2011	714	China	secondary	matK	34.7796057678784	104.359741157071	0.0224981034735458
+Chenopodium_album	JF953541.1	13-DEC-2011	714	China	secondary	matK	35.839346473336	105.052051384653	0.0224981034735458
+Chenopodium_album	JF953540.1	13-DEC-2011	714	China	secondary	matK	35.4973365238549	105.1748396185	0.0950008033501813
+Chenopodium_album	JF953539.1	13-DEC-2011	714	China	secondary	matK	34.5609148634825	105.14270408393	0.0188466506547046
+Chenopodium_album	JF953538.1	13-DEC-2011	714	China	secondary	matK	34.6578871884571	105.885982046425	0.0265939684370689
+Chenopodium_album	JF953537.1	13-DEC-2011	714	China	secondary	matK	35.1773120204331	104.379874202096	0.0188466506547046
+Chenopodium_album	JF953536.1	13-DEC-2011	714	China	secondary	matK	35.5189033572467	105.245490557179	0.0188466506547046
+Chenopodium_album	JF953535.1	13-DEC-2011	714	China	secondary	matK	34.9283001639431	104.14666458519	0.0681239131664879
+Chenopodium_album	JF953534.1	13-DEC-2011	714	China	secondary	matK	35.0740454815359	105.343429891052	0.0188466506547046
+Chenopodium_album	JF953533.1	13-DEC-2011	714	China	secondary	matK	34.8786866364784	105.81423446745	0.0188466506547046
+Chenopodium_album	JF953532.1	13-DEC-2011	714	China	secondary	matK	35.2851308056107	104.472362815342	0.0188466506547046
+Chenopodium_album	JF953531.1	13-DEC-2011	714	China	secondary	matK	34.911068125783	104.73457573895	0.0188466506547046
+Chenopodium_album	JF953530.1	13-DEC-2011	714	China	secondary	matK	35.8076391312006	105.13441140438	0.0188466506547046
+Chenopodium_album	JF953529.1	13-DEC-2011	714	China	secondary	matK	34.5274275213441	105.918919436364	0.0188466506547046
+Chenopodium_album	JF953528.1	13-DEC-2011	714	China	secondary	matK	34.2690695615829	104.52685347779	0.0265939684370689
+Chenopodium_album	MK044327.1	15-MAY-2019	825	South Korea	secondary	matK	33.4930566	126.5130589	0.0190173296171878

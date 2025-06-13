@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calluna_vulgaris	ON684494.1	21-AUG-2022	1428	Portugal: Vila Nova de Mil Fontes, Odemira, Beja	primary	rbcL	37.715	-8.78361	0.0114942528735632
+Calluna_vulgaris	ON684482.1	21-AUG-2022	1428	Portugal: Apostica, Qta do Conde, Sesimbra	primary	rbcL	38.52805	-9.12527	0.0114942528735632
+Calluna_vulgaris	MG224156.1	26-DEC-2017	516	Canada: British Columbia, Greater Vancouver Regional Dist, Richmond, SE Lulu Island, 0.5 miles S of Westminster Rd on Sidaway Rd	primary	rbcL	49.167	-123.1	0
+Calluna_vulgaris	JN890752.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.63	-3.9	0.000158730158730159
+Calluna_vulgaris	MG222855.1	26-DEC-2017	552	Canada: Nova Scotia, Glassey's Island, Bedford Basin	secondary	rbcL	45	-63.75	0.00015547263681592
+Calluna_vulgaris	KX821218.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.0027537717109	7.6628836135586	0.0001232741617357
+Calluna_vulgaris	KX821217.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.434290235251	9.02528258299147	0.0001232741617357
+Calluna_vulgaris	KX821216.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.6702247886825	7.80048346347475	0.0001232741617357
+Calluna_vulgaris	KX821215.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.5982179828087	7.7477905321802	0.0001232741617357
+Calluna_vulgaris	HM849840.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0242719956658058
+Calluna_vulgaris	JN893296.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000158730158730159
+Calluna_vulgaris	JN893295.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	secondary	rbcL	52.615273	-3.4649973	0.000158730158730159
+Calluna_vulgaris	JN891388.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.000158730158730159

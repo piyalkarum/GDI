@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ceratocapnos_claviculata	LN610918.1	20-MAY-2015	1524	Spain	secondary	matK	39.3260685	-4.8379791	0.00260440395491344
+Ceratocapnos_claviculata	JN895294.1	07-MAR-2012	778	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.000856898029134533
+Ceratocapnos_claviculata	JN894941.1	07-MAR-2012	718	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000928505106778087
+Ceratocapnos_claviculata	JN894940.1	07-MAR-2012	814	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000819000819000819

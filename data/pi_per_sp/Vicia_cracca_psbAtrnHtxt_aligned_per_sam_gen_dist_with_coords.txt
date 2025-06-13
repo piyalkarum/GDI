@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_cracca	KP896945.1	13-OCT-2015	368	Mongolia	secondary	psbA-trnH	44.0260770135155	-78.5893858996206	0.00577153355125268
+Vicia_cracca	KP896944.1	13-OCT-2015	368	Mongolia	secondary	psbA-trnH	43.1938370423482	-79.2942245067169	0.00577615042747423
+Vicia_cracca	KP896943.1	13-OCT-2015	368	Turkey	secondary	psbA-trnH	39.3968568093416	34.5938672135779	0.00612608442355045
+Vicia_cracca	KP896942.1	13-OCT-2015	365	Turkey	secondary	psbA-trnH	38.581918256009	35.760039437416	0.00615840255710129
+Vicia_cracca	HG800589.1	03-FEB-2014	367	Italy:Lombardy, Grigna settentrionale	secondary	psbA-trnH	45.9533979	9.3876756	0.00378352094973348
+Vicia_cracca	JX505993.1	09-JAN-2013	432	Netherlands	secondary	psbA-trnH	52.2434979	5.6343227	0.00341549965147963

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_leucanthemifolius	AJ400794.1	20-APR-2000	644	Tunisia: Medenine	secondary	5.8S rRNA	32.9819987	11.2870254	0.000388198757763975
+Senecio_leucanthemifolius	AJ400793.1	20-APR-2000	644	Morocco: Port de Jorf-Lasfar	secondary	5.8S rRNA	33.1182168	-8.6267008	0.0015527950310559
+Senecio_leucanthemifolius	AJ400792.1	20-APR-2000	644	Italy: Licata	secondary	5.8S rRNA	37.1016426	13.9376618	0.000388198757763975
+Senecio_leucanthemifolius	AJ400791.1	20-APR-2000	644	Italy: Pozzallo	secondary	5.8S rRNA	36.7265294	14.8465811	0.000388198757763975
+Senecio_leucanthemifolius	AJ400790.1	20-APR-2000	644	France: Calvi	secondary	5.8S rRNA	42.5677079	8.7590528	0.000388198757763975

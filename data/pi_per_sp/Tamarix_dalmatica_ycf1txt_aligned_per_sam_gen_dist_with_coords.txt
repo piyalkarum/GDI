@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_dalmatica	MZ563257.1	24-APR-2022	818	Albania: Vlore, Sarande, Vrion, road from Greece to Sarande	primary	ycf1	39.904	20.084	0
+Tamarix_dalmatica	MZ563256.1	24-APR-2022	818	Montenegro: Bar, south of Bar, direction to Ulcinj	primary	ycf1	42.093	19.104	0
+Tamarix_dalmatica	MZ563255.1	24-APR-2022	818	Albania: Vlore, Sarande, Borsh	primary	ycf1	40.047	19.846	0
+Tamarix_dalmatica	MZ563254.1	24-APR-2022	818	Albania: Shkoder, next to road at south of Shkoder	primary	ycf1	41.968	19.547	0

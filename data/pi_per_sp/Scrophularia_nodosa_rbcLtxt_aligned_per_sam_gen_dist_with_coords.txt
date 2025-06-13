@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scrophularia_nodosa	MG222419.1	26-DEC-2017	546	Canada: Ontario, Toronto, City of, Lambton Woods, along Humber River	primary	rbcL	43.5059717680627	-78.9093846237309	0
+Scrophularia_nodosa	MG222313.1	26-DEC-2017	552	Canada: Ontario, Toronto, City of, Lambton Woods, along Humber River	primary	rbcL	44.0182092803102	-78.5076736879349	0
+Scrophularia_nodosa	JN892046.1	07-MAR-2012	514	United Kingdom: Glamorgan (41)	primary	rbcL	51.54	-3.25	0
+Scrophularia_nodosa	JN891515.1	07-MAR-2012	514	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0
+Scrophularia_nodosa	MG223232.1	26-DEC-2017	545	Canada: Ontario, Toronto, City of, E side of Humber Valley, at Old Mill Rd. and Dundas St.	secondary	rbcL	43.72634945	-77.7101179040839	0

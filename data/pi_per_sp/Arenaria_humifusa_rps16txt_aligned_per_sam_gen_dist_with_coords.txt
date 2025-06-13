@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arenaria_humifusa	OP004946.1	12-APR-2023	568	Norway: Svalbard, Ossian Sars	primary	rps16	78.95	12.447	0.095204398151445
+Arenaria_humifusa	OP004945.1	12-APR-2023	568	Norway: Svalbard, Blomstrandoya	primary	rps16	78.973	12.192	0.095204398151445
+Arenaria_humifusa	OP004944.1	12-APR-2023	546	Norway: Svalbard, Engelskbukta	primary	rps16	79.4249238664498	9.27349432283658	0.0955185412613909
+Arenaria_humifusa	OP004943.1	12-APR-2023	546	Norway: Svalbard, Engelskbukta	primary	rps16	78.5409105370391	12.9775820833662	0.0955185412613909
+Arenaria_humifusa	OP004942.1	12-APR-2023	546	Norway: Svalbard, Engelskbukta	primary	rps16	79.0740459861521	10.3272891328389	0.0955185412613909
+Arenaria_humifusa	OP004941.1	12-APR-2023	546	Canada: Victoria Island, Minto inlet	primary	rps16	71.168	-116.465	0.0966024904236881
+Arenaria_humifusa	OP004940.1	12-APR-2023	546	Greenland: Disko	primary	rps16	69.25	-53.55	0.0966024904236881
+Arenaria_humifusa	OP004939.1	12-APR-2023	568	Norway: Svalbard, Ringhorndalen	primary	rps16	79.328	16.229	0.095204398151445
+Arenaria_humifusa	HM772135.1	07-FEB-2011	751	Greenland	secondary	rps16	36.437065562474	-94.8774960706519	0.520897375549573
+Arenaria_humifusa	KP148973.1	29-AUG-2015	791	Greenland	secondary	rps16	35.5958082570884	-95.0683714604838	0.611188151874267
+Arenaria_humifusa	HM772108.1	07-FEB-2011	564	Canada	secondary	rps16	61.0666922	-107.991707	0.0957543143887169
+Arenaria_humifusa	HM772107.1	07-FEB-2011	568	Norway	secondary	rps16	64.5682435924108	12.2073221702683	0.095204398151445
+Arenaria_humifusa	HM772106.1	07-FEB-2011	568	Norway	secondary	rps16	65.2631522955126	10.3629323618505	0.0962516664062602

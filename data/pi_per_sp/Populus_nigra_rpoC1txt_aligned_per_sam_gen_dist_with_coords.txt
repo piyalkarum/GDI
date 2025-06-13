@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Populus_nigra	MH574318.1	09-DEC-2020	519	China	secondary	rpoC1	34.9167490918556	105.797626396091	0.185593146685013
+Populus_nigra	KX454825.1	14-FEB-2017	848	China	secondary	rpoC1	34.9117383767374	106.020497294811	0.17870099319091
+Populus_nigra	KX454615.1	14-FEB-2017	825	China	secondary	rpoC1	35.492562667671	105.346550818658	0.524592100524304
+Populus_nigra	FN689649.1	25-MAR-2010	554	Italy:Umbria	secondary	rpoC1	42.965916	12.490236	0.18737190222408

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asperugo_procumbens	MG222143.1	26-DEC-2017	553	Canada: British Columbia, 9.4km N of Grasmere, 2km on Canyon Cutoff Rd. from Hwy 93 junction	primary	rbcL	49.172	-115.11	0.143704379562044
+Asperugo_procumbens	MT930628.1	03-MAR-2023	572	China	secondary	rbcL	35.6086112848351	104.673287123867	0.141975308641975
+Asperugo_procumbens	MT930627.1	03-MAR-2023	565	China	secondary	rbcL	34.9779790525114	104.87406636302	0.141517857142857
+Asperugo_procumbens	MG223337.1	26-DEC-2017	553	Canada: Alberta, Banff National Park, Upper Hot Springs, Sulphur Mountain, near Banff	secondary	rbcL	52.2875	-117.4769	0.143704379562044
+Asperugo_procumbens	JQ933228.1	30-SEP-2012	721	Iran: Masiri	secondary	rbcL	30.2443946	51.5241743	0.57090192490892

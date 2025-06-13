@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_campestris	MG224659.1	26-DEC-2017	552	Canada: Manitoba, Spruce Woods Provincial Park, Spirit Sands	primary	rbcL	49.665	-99.279	0.000577245678722455
+Artemisia_campestris	MG224287.1	26-DEC-2017	552	Canada: Yukon Territory, Yukon River, 1 mile upstream of Big Salmon	primary	rbcL	61.857	-134.917	0.000577245678722455
+Artemisia_campestris	MG223436.1	26-DEC-2017	552	Canada: Ontario, Algoma District, Michipicoten Twp., Michipicoten Bay	primary	rbcL	47.93	-84.843	0.000577245678722455
+Artemisia_campestris	MG222725.1	26-DEC-2017	552	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, Beach Access #11, Dog Beach	primary	rbcL	42.267	-81.844	0.000577245678722455
+Artemisia_campestris	MG222160.1	26-DEC-2017	525	Canada: Yukon Territory, Kusawa Dunes, Takhini River, 13 km S of Alaska Highway	primary	rbcL	60.667	-136.081	0.000586080586080586
+Artemisia_campestris	MG222107.1	26-DEC-2017	552	Canada: Yukon Territory, Yukon River 6 km S of Cassiar Bar, upstream of Big Salmon	primary	rbcL	61.85	-134.933	0.000577245678722455
+Artemisia_campestris	MG221985.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	48.335	-103.566	0.00232557081190313
+Artemisia_campestris	MG221482.1	26-DEC-2017	536	Canada: Ontario, Thunder Bay District, Neebing Twp., Thunder Bay	primary	rbcL	48.297	-89.239	0.000595116394543914
+Artemisia_campestris	MT930366.1	03-MAR-2023	572	China	secondary	rbcL	35.000074	104.999927	0.000575590131355727
+Artemisia_campestris	MK925212.1	14-JAN-2020	542	Poland	secondary	rbcL	51.7725013747823	19.463277389242	0.000589414024912456
+Artemisia_campestris	MK925165.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.000589414024912456
+Artemisia_campestris	KJ746262.1	29-JUL-2014	658	Poland	secondary	rbcL	52.7031109659375	18.4018990977885	0.00587133879074136
+Artemisia_campestris	JX848403.1	06-AUG-2013	1209	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.000617939279649317
+Artemisia_campestris	JN890800.1	07-MAR-2012	542	United Kingdom: Suffolk,West	secondary	rbcL	52.271975	1.06294542677469	0.000589414024912456

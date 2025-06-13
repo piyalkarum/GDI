@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_chamaedrys	OR738162.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.32667	83.545	0.0215781060223914
+Veronica_chamaedrys	MK030059.1	16-OCT-2019	553	United Kingdom: England, Durham, Bishop auckland	primary	rbcL	54.6725	-1.659	0.00946317689692868
+Veronica_chamaedrys	MG322259.1	11-NOV-2018	577	United Kingdom: England, Cumbria, Foreshield Burn	primary	rbcL	54.8159	-2.39	0.00282134122657479
+Veronica_chamaedrys	MG224595.1	26-DEC-2017	552	Canada: Sulphur mountains, Alberta	primary	rbcL	51.1236	-115.556	0.00268171580355137
+Veronica_chamaedrys	MG224096.1	26-DEC-2017	534	Canada: Quebec, Montreal, Island of Montreal, Parc Beausejour	primary	rbcL	45.527	-73.732	0.00276995212238372
+Veronica_chamaedrys	MG223874.1	26-DEC-2017	552	Canada: Eramosa	primary	rbcL	43.6333	-80.2167	0.00268171580355137
+Veronica_chamaedrys	MG221546.1	26-DEC-2017	552	Canada: Minto, ON	primary	rbcL	43.8333	-80.8333	0.00382201816995205
+Veronica_chamaedrys	MG221473.1	26-DEC-2017	552	Canada: Puslinch, ON	primary	rbcL	43.4172	-80.2658	0.00382201816995205
+Veronica_chamaedrys	MG221162.1	26-DEC-2017	552	Canada: puslinch	primary	rbcL	43.46	-80.2734	0.00382201816995205
+Veronica_chamaedrys	JN891876.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.00269735243918627
+Veronica_chamaedrys	KJ746275.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00295443886767776
+Veronica_chamaedrys	JN891436.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0.00269735243918627
+Veronica_chamaedrys	JN891295.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00441378458311401
+Veronica_chamaedrys	JN891289.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.00269735243918627

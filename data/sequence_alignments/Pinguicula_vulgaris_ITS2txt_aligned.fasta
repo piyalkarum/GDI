@@ -1,0 +1,72 @@
+>LC554292.1 Pinguicula vulgaris var. macroceras M16-18 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2 and 28S rRNA, partial and complete sequence
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------tctcggctctcgcatcgatgaagaacgtagcaaa
+atgcgatacttggtgtgaattgcagaatcccgtgaaccatcgaatctttgaacgcaagtt
+gcgcccgaagccatccggccgagggcacgcctgcctgggcgtcacgcatcgcgccgcccc
+actgccccccttccttctctgggacgggggacacggtgcggagactggcctcccgtgcgc
+cccggcgtgcggatggcccaaatgagatcccccggtgatgcacgccacgacgattggtgg
+ttgattgctcgactcacgtgccgtcgtgccccgcagcttcgccggccagggcatccggaa
+ggacccaacggcgtgcgccgccagcatccgcgacccca
+>LN887946.1 Pinguicula vulgaris subsp. vulgaris genomic DNA sequence contains ITS1, 5.8S rRNA gene, ITS2, 28S rRNA gene, strain P38 [Ei 22]
+cgccatgacagaccgcgcacacgttaatgcctcgtggggcgcccaacgggcaggcccagc
+gcctcccgtcggcgccctgcccctgccgtgccctcgcgcgagcgagcacgcccggcgggt
+ccaacaaacccacggcgcggaaggcgccaaggatcacaacgtcggagcgtcgccccccca
+tcatggccccgtccgcggcaagccatgcgggggatgtgcgtctcccaagattgaatgaca
+tgtaaaacgactctcggcaacggatatctcggctctcgcatcgatgaagaacgtagcaaa
+atgcgatacttggtgtgaattgcagaatcccgtgaaccatcgaatctttgaacgcaagtt
+gcgcccgaagccatccggccgagggcacgcctgcctgggcgtcacgcatcgcgccgcccc
+actgcccccctaccttctctgggacgggggacackgtgcggagactggcctcccgtgcgc
+cccggcgtgcggatggcccaaatgagatcccccggtgatgcacgacacgacgattggtgg
+ttgattgctcgactcacgtgccgtcgtgccccgcagcatcgccggctagggcatccggaa
+ggacccaacggcgtgcg---------------------
+>LN887945.1 Pinguicula vulgaris subsp. vulgaris genomic DNA sequence contains ITS1, 5.8S rRNA gene, ITS2, 28S rRNA gene, strain P37 [Ei 21]
+cgccatgacagaccgcgcacacgttaatgcctcgtggggcgcccaacgggcaggcccagc
+gcctcccgtcggcgccctgcccctgccgtgccctcgcgcgagcgagcacgcccggcgggt
+ccaacaaacccacggcgcggaaggcgccaaggatcacaacgtcggagcgtcgccccccca
+tcatggccccgtccgcggcaagccatgcgggggatgtgcgtctcccaagattgaatgaca
+tgtaaaacgactctcggcaacggatatctcggctctcgcatcgatgaagaacgtagcaaa
+atgcgatacttggtgtgaattgcagaatcccgtgaaccatcgaatctttgaacgcaagtt
+gcgcccgaagccatccggccgagggcacgcctgcctgggcgtcacgcatcgcgccgcccc
+actgcccccctaccttctctgggacgggggacackgtgcggagactggcctcccgtgcgc
+cccggcgtgcggatggcccaaatgagatcccccggtgatgcacgacacgacgattggtgg
+ttgattgctcgactcacgtgccgtcgtgccccgcagcatcgccggctagggcatccggaa
+ggacccaacggcgtgcg---------------------
+>LN887944.1 Pinguicula vulgaris subsp. vestina genomic DNA sequence contains ITS1, 5.8S rRNA gene, ITS2, 28S rRNA gene, strain P36 [Ei 19]
+cgccatgacagaccgcgcacacgttaatgcctcgtggggcgcccaacgggcaggcccagc
+gcctcccgtcggcgccctgcccctgccgtgccctcgcgcgagcgagcacgcccggcgggt
+ccaacaaacccacggcgcggaaggcgccaaggatcacaacgtcggagcgtcgccccccca
+tcatggccccgtccgcggcaagccatgcgggggatgtgcgtctcccaagattgaatgaca
+tgtaaaacgactctcggcaacggatatctcggctctcgcatcgatgaagaacgtagcaaa
+atgcgatacttggtgtgaattgcagaatcccgtgaaccatcgaatctttgaacgcaagtt
+gcgcccgaagccatccggccgagggcacgcctgcctgggcgtcacgcatcgcgccgcccc
+actgcccccctaccttctctaggacgggggacacggtgcggagactggcctcccgtgcgc
+cccggcgtgcggatggcccaaatgagatcccccggtgatgcacgacacgacgattggtgg
+ttgattgctcgactcacgtgccgtcgtgccccgcagcatcgccggctagggcatccggaa
+ggacccaacggcgtgcg---------------------
+>LN887943.1 Pinguicula vulgaris subsp. ernica genomic DNA sequence contains ITS1, 5.8S rRNA gene, ITS2, 28S rRNA gene, strain P35 [Ei 18]
+cgccatgacagaccgcgcacacgttaatgcctcgtggggcgcccaacgggcaggcccagc
+gcctcccgtcggcgccctgcccctgccgtgccctcgcgcgagcgagcacgcccggcgggt
+ccaacaaacccacggcgcggaaggcgccaaggatcacaacgtcggagcgtcgccccccca
+tcatggccccgtccgcggcaagccatgcgggggatgtgcgtctcccaagattgaatgaca
+tgtaaaacgactctcggcaacggatatctcggctctcgcatcgatgaagaacgtagcaaa
+atgcgatacttggtgtgaattgcagaatcccgtgaaccatcgaatctttgaacgcaagtt
+gcgcccgaagccatccggccgagggcacgcctgcctgggcgtcacgcatcgcgccgcccc
+actgcccccctaccttctctaggacgggggacacggtgcggagactggcctcccgtgcgc
+cccggcgtgcggatggcccaaatgagatcccccggtgatgcacgacacgacgattggtgg
+ttgattgctcgactcacgtgccgtcgtgccccgcagcatcgccggctagggcatccggaa
+ggacccaacggcgtgcg---------------------
+>LN887942.1 Pinguicula vulgaris subsp. anzalonei genomic DNA sequence contains ITS1, 5.8S rRNA gene, ITS2, 28S rRNA gene, strain P34 [Ei 17]
+cgccatgacagaccgcgcacacgttaatgcctcgtggggcgcccaacgggcaggcccagc
+gcctcccgtcggcgccctgcccctgccgtgccctcgcgcgagcgagcacgcccggcgggt
+ccaacaaacccacggcgcggaaggcgccaaggatcacaacgtcggagcgtcgccccccca
+tcatggccccgtccgcggcaagccatgcgggggatgtgcgtctcccaagattgaatgaca
+tgtaaaacgactctcggcaacggatatctcggctctcgcatcgatgaagaacgtagcaaa
+atgcgatacttggtgtgaattgcagaatcccgtgaaccatcgaatctttgaacgcaagtt
+gcgcccgaagccatccggccgagggcacgcctgcctgggcgtcacgcatcgcgccgcccc
+actgcccccctaccttctctaggacgggggacacggtgcggagactggcctcccgtgcgc
+cccggcgtgcggatggcccaaatgagatcccccggtgatgcacgacacgacgattggtgg
+ttgattgctcgactcacgtgccgtcgtgccccgcagcatcgccggctagggcatccggaa
+ggacccaacggcgtgcg---------------------

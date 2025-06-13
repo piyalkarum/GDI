@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polystichum_braunii	JX476106.1	22-OCT-2012	318	China: Sichuan	secondary	trnL-trnF	53.2780787	-6.2107338	0.0245283018867925
+Polystichum_braunii	JX476104.1	22-OCT-2012	335	Japan: Hokkaido	secondary	trnL-trnF	43.4519831	142.8197834	0.00622547639162677
+Polystichum_braunii	JX476103.1	22-OCT-2012	335	USA: Alaska	secondary	trnL-trnF	65.0067582923538	-148.271249886311	0.00917863512625551
+Polystichum_braunii	JX476102.1	22-OCT-2012	335	USA: Alaska	secondary	trnL-trnF	63.8526897091816	-149.278206802322	0.00622547639162677
+Polystichum_braunii	JX476101.1	22-OCT-2012	335	Canada: Quebec	secondary	trnL-trnF	52.4760892	-71.8258668	0.00622547639162677
+Polystichum_braunii	JX476100.1	22-OCT-2012	335	USA: Vermont	secondary	trnL-trnF	44.5990718	-72.5002608	0.00622547639162677

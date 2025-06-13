@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vaccinium_vitis-idaea	LC767972.1	27-MAY-2023	262	Japan:Niigata, Mt.Hiuchi	primary	rbcL	-36.9227	138.0681	0
+Vaccinium_vitis-idaea	LC694054.1	03-MAY-2022	599	Japan: Nagano	primary	rbcL	36.0692	138.337	0
+Vaccinium_vitis-idaea	MZ359348.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Vaccinium_vitis-idaea	MG222697.1	26-DEC-2017	552	Canada: Yukon Territory, Blow River Delta east, Danny C. Gordon's goose camp	primary	rbcL	68.896	-136.961	0
+Vaccinium_vitis-idaea	KX678178.1	29-APR-2017	552	Canada: British Columbia, Thompson-Nicola Regional District, Wells Gray Provincial Park, Placid Lake, near the base of Green Mountain Calcareous lake margin	primary	rbcL	51.933	-122.117	0
+Vaccinium_vitis-idaea	KT307965.1	20-MAR-2016	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On the S slope. Mount Baldy and the Red Road in sight.	primary	rbcL	54.9231	-67.7867	0
+Vaccinium_vitis-idaea	KC484320.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	68.719	-110.783	0
+Vaccinium_vitis-idaea	KC484319.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territoires, Tuktoyaktuk	primary	rbcL	69.45	-133.033	0
+Vaccinium_vitis-idaea	KC484318.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit	primary	rbcL	63.583	-68.7333	0
+Vaccinium_vitis-idaea	KC484317.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	rbcL	66.839	-108.035	0
+Vaccinium_vitis-idaea	KC484316.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq. Plot 4. Along northern shore of lake, to east of school and to west of N-S road	primary	rbcL	56.594	-79.225	0
+Vaccinium_vitis-idaea	KC484315.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Near end of the main runway	primary	rbcL	63.7333	-68.5667	0
+Vaccinium_vitis-idaea	JN966058.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0
+Vaccinium_vitis-idaea	JN966057.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	rbcL	58.633	-93.79	0
+Vaccinium_vitis-idaea	JN891677.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.78	-3.07	0
+Vaccinium_vitis-idaea	JN892801.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Vaccinium_vitis-idaea	JN892593.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0

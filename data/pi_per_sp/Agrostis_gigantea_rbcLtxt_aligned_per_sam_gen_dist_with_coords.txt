@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostis_gigantea	MF596528.1	28-FEB-2018	549	Canada: British Columbia, W of Smithers along Hwy. 16 across from Kitsequecla Loop road	primary	rbcL	55.0892003502389	-127.617526717391	0.00123241964680436
+Agrostis_gigantea	MF596527.1	28-FEB-2018	603	Canada: British Columbia, W of Smithers along Hwy. 16, across from Kitsequecla Loop road.	primary	rbcL	54.6401360705756	-127.988768235887	0.00120270175503618
+Agrostis_gigantea	MF596526.1	28-FEB-2018	549	Canada: British Columbia, 9 mi NE of New Aiyansh on road towards Cranberry Junction	primary	rbcL	54.6980381774524	-129.945040558904	0.00123241964680436
+Agrostis_gigantea	MF596525.1	28-FEB-2018	557	Canada: British Columbia, Along Finmore Road, W of Prince George, S of Stuart River Provincial Park	primary	rbcL	53.2278168576553	-123.867343713473	0.00650693840391336
+Agrostis_gigantea	MG228225.1	23-JAN-2018	557	Canada: British Columbia, Along Finmore Road, W of Prince George, S of Stuart River Provincial Park	primary	rbcL	53.4013851930968	-124.504058161949	0.00650693840391336
+Agrostis_gigantea	MG227905.1	23-JAN-2018	552	Canada: Ontario, Nipissing District, Pentland Twp., Algonquin Park, ~10km in from Kiosk stop-gate, portage trail @ 2nd bridge	primary	rbcL	46.05	-78.922	0.00355957503211758
+Agrostis_gigantea	MG227818.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	rbcL	51.273	-80.641	0.00355957503211758
+Agrostis_gigantea	MG227485.1	23-JAN-2018	549	Canada: British Columbia, 9 mi NE of New Aiyansh on road towards Cranberry Junction	primary	rbcL	55.0936441974377	-129.282346875547	0.00123241964680436
+Agrostis_gigantea	MG226319.1	23-JAN-2018	603	Canada: British Columbia, W of Smithers along Hwy. 16, across from Kitsequecla Loop road.	primary	rbcL	54.1342892589518	-127.753812441231	0.00120270175503618
+Agrostis_gigantea	MG225900.1	23-JAN-2018	553	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, in scrubby woods on edge of cultivated fields, east of old gravel pits	primary	rbcL	43.9283	-79.5283	0.00143114402683402
+Agrostis_gigantea	MG225790.1	23-JAN-2018	549	Canada: British Columbia, W of Smithers along Hwy. 16 across from Kitsequecla Loop road	primary	rbcL	54.9451985278588	-128.786080480797	0.00123241964680436
+Agrostis_gigantea	HQ589941.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, in scrubby woods on edge of cultivated fields, east of old gravel pits	primary	rbcL	44.028	-79.543	0.00140142613506584
+Agrostis_gigantea	HQ589940.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, open area near stream channel north of Echo Valley Cottage	primary	rbcL	44.026	-79.532	0.00140142613506584
+Agrostis_gigantea	KJ593196.1	17-MAR-2015	524	USA: Wisconsin, Blackwell	primary	rbcL	45.552	-88.577	0.00106022052586938
+Agrostis_gigantea	KJ593195.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.557	-88.797	0.00284649737107952
+Agrostis_gigantea	MG226280.1	23-JAN-2018	553	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	secondary	rbcL	43.72634945	-77.7101179040839	0.00143114402683402
+Agrostis_gigantea	KP711232.1	31-MAR-2016	1096	China	secondary	rbcL	35.000074	104.999927	0.000249128051818635
+Agrostis_gigantea	JN893047.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2064931973504	-3.63699699594857	0.00146071542875631
+Agrostis_gigantea	JN893046.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2703370773747	-2.9864477263086	0.00146071542875631

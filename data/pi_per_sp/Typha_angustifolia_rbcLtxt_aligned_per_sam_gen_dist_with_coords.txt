@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Typha_angustifolia	OQ832166.1	15-AUG-2023	553	USA: American Prairie White Rock Unit	primary	rbcL	47.9867	-107.9798	0.0461217549591954
+Typha_angustifolia	MH142923.1	20-MAY-2018	599	India	primary	rbcL	16.67107	74.2518	0.0457555007578871
+Typha_angustifolia	MG227609.1	23-JAN-2018	553	Canada: Quebec, Montreal, Island of Montreal, Reserve Molson	primary	rbcL	45.396	-73.974	0.0461217549591954
+Typha_angustifolia	MG226610.1	23-JAN-2018	552	Canada: Guelph, ON	primary	rbcL	43.5485	-80.2503	0.0462149947593898
+Typha_angustifolia	MG226218.1	23-JAN-2018	552	Canada: Lac Aylmer, Qeuebec	primary	rbcL	45.9117	-71.3703	0.0462149947593898
+Typha_angustifolia	MG225722.1	23-JAN-2018	552	Canada: Sparrow Lake, Simcoe County, ON	primary	rbcL	44.75	-79.3833	0.0462149947593898
+Typha_angustifolia	KT695438.1	29-SEP-2015	542	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.0463215985717371
+Typha_angustifolia	KJ841640.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Next to observation lookout at Lac Hertel	primary	rbcL	45.544	-73.156	0.0462149947593898
+Typha_angustifolia	JN893521.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.56	-3.72	0.0463215985717371
+Typha_angustifolia	MN205154.1	30-NOV-2021	656	China	secondary	rbcL	35.1304211794744	104.875162272456	0.052009476905997
+Typha_angustifolia	MN192794.1	30-NOV-2021	723	China	secondary	rbcL	34.1783174077829	105.186150498516	0.0456230696250744
+Typha_angustifolia	JN893213.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0463215985717371
+Typha_angustifolia	FJ914237.1	19-MAY-2009	798	USA: UT, Salt Lake City, near Snowbird	secondary	rbcL	42.7170173	-73.0710311	0.545527468238216

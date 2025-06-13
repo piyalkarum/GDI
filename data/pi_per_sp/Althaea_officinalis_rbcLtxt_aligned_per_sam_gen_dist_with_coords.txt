@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Althaea_officinalis	MG247134.1	21-JAN-2018	552	Canada: Kent co	primary	rbcL	42.377	-82.189	0.00217507708165106
+Althaea_officinalis	MF349736.1	21-SEP-2017	553	USA: District of Columbia; Bartholdi Park located behind the U.S. Botanic Garden, 100 Maryland Ave.	primary	rbcL	38.887	-77.012	0.00653518982119611
+Althaea_officinalis	OQ189690.1	13-JUN-2023	767	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0.00172390486151132
+Althaea_officinalis	MT931734.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.00217031096878333
+Althaea_officinalis	JN891502.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	50.9882635784911	-2.28688334131343	0.00184558684773539
+Althaea_officinalis	JN891501.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.8053434033452	-1.47338403395982	0.00184558684773539
+Althaea_officinalis	JN891500.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00184558684773539

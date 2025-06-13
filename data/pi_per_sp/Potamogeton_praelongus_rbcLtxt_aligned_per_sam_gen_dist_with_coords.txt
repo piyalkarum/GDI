@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_praelongus	MF694561.1	04-SEP-2018	492	Canada: Ontario, Timiskaming County, Skead Township, south end of Larder River near Flat Rapids. Map 31 M/13 014109	primary	rbcL	48.2103665939379	-80.0308346892401	0.470135757427024
+Potamogeton_praelongus	MF694540.1	04-SEP-2018	493	Canada: Yukon Territory, Larsen Creek, Lee's Lake	primary	rbcL	59.5739303826079	-124.407832422035	0.468979414167435
+Potamogeton_praelongus	MF694511.1	04-SEP-2018	492	Canada: Ontario, Joyceville. River below penitentiary from just northwest of Cairs Island to Pete Crow Island. UTM 901121-918130.	primary	rbcL	44.7973856084788	-76.0686940918898	0.470135757427024
+Potamogeton_praelongus	MF694633.1	04-SEP-2018	553	Canada: Ontario, Timiskaming County, Skead Township, south end of Larder River near Flat Rapids. Map 31 M/13 014109	primary	rbcL	48.6121614458792	-79.7420995917728	0.128267515810954
+Potamogeton_praelongus	MF694616.1	04-SEP-2018	552	Canada: Yukon Territory, Larsen Creek, Lee's Lake	primary	rbcL	59.8669432479925	-126.132007449619	0.128268040485617
+Potamogeton_praelongus	MF694589.1	04-SEP-2018	553	Canada: Ontario, Joyceville. River below penitentiary from just northwest of Cairs Island to Pete Crow Island. UTM 901121-918130.	primary	rbcL	45.189940089126	-76.0539950823005	0.128267515810954
+Potamogeton_praelongus	JN891636.1	07-MAR-2012	542	United Kingdom: Montgomeryshire	primary	rbcL	52.77	-3.11	0.12679330771656
+Potamogeton_praelongus	MK925578.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1377621735295	-2.62737847485471	0.12679330771656
+Potamogeton_praelongus	MK925356.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.193910345369	-3.59602676629767	0.12679330771656
+Potamogeton_praelongus	MK925195.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.4793575520326	-3.95649471728137	0.12679330771656
+Potamogeton_praelongus	MH170942.1	28-OCT-2018	671	Turkey	secondary	rbcL	38.9597594	34.9249653	0.133175062909282
+Potamogeton_praelongus	FJ956827.1	30-DEC-2010	890	China: Mishan, Heilongjiang	secondary	rbcL	45.2680833	131.9862176	0.132677406004226
+Potamogeton_praelongus	JN893622.1	07-MAR-2012	542	United Kingdom: Radnorshire	secondary	rbcL	52.4627049	-3.2561628	0.131192851089272
+Potamogeton_praelongus	AB196952.1	01-MAY-2009	1349	Japan:Hokkaido, Hamatonbetsu	secondary	rbcL	45.1237125	142.3595514	0.12902540226042

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_helodes	EF198163.1	31-JAN-2007	753	Portugal: Algarve, Caldas de Monchique	secondary	rps16	36.9894411978043	-7.08264631134455	0
+Carex_helodes	EF198162.1	31-JAN-2007	753	Portugal: Algarve, Bensafrim	secondary	rps16	36.4041917500324	-7.79488828707636	0
+Carex_helodes	EF198161.1	31-JAN-2007	753	Portugal: Algarve, Cortelha	secondary	rps16	37.2739260386787	-9.26433890619461	0
+Carex_helodes	EF198160.1	31-JAN-2007	753	Portugal: Algarve, Barranco Velho	secondary	rps16	37.7592746234624	-7.51675570684433	0
+Carex_helodes	EF198159.1	31-JAN-2007	753	Portugal: Baixo Alentejo, Vilhanova de Milfontes	secondary	rps16	37.82491315	-7.85717437419054	0
+Carex_helodes	EF198158.1	31-JAN-2007	753	Spain: Seville, Aznalcollar	secondary	rps16	37.5193459	-6.2716793	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cynodon_dactylon	GU360580.1	01-MAY-2010	730	Mexico	secondary	rps16	19.3826853361588	-100.003188368753	0.358823529411765
+Cynodon_dactylon	KP874014.1	08-SEP-2015	710	Australia	secondary	rps16	-24.0846426336398	134.443136533682	0.359011569488703
+Cynodon_dactylon	KP873730.1	08-SEP-2015	736	Australia	secondary	rps16	-24.8451653795115	135.363098246391	0.359199609565642
+Cynodon_dactylon	GU360453.1	01-MAY-2010	710	Mexico	secondary	rps16	19.5333120222755	-99.4139136969674	0.359011569488703

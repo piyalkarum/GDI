@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stellaria_crassifolia	MG249670.1	21-JAN-2018	552	Canada: Manitoba, Wapusk National Park, Nelson River, mouth of 10 km N of Fort Nelson	primary	rbcL	57.164	-92.506	0.00201288244766506
+Stellaria_crassifolia	MG246961.1	21-JAN-2018	552	Canada: Yukon Territory, Larsen Hotsprings Lower Pool	primary	rbcL	60.2	-125.4	0.00201288244766506
+Stellaria_crassifolia	MG245990.1	21-JAN-2018	488	Canada: Yukon Territory, La Biche River	primary	rbcL	60.154	-124.063	0.00227686703096539
+Stellaria_crassifolia	KC484148.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Fosheim Penin, Hot Weather Cr., base camp and vicinity, 'Picnic Lake'	primary	rbcL	79.95	-84.4833	0.00201288244766506
+Stellaria_crassifolia	KC484147.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Rankin Inlet	primary	rbcL	62.817	-92.083	0.00201288244766506
+Stellaria_crassifolia	KC484146.1	25-OCT-2013	552	Canada: Northwest Territories, Tuktoyaktuk, Illisarvik, 60 km west of Tuktoyaktuk. Near stake 50W-100S	primary	rbcL	69.4833	-134.583	0.00201288244766506
+Stellaria_crassifolia	KC484145.1	25-OCT-2013	552	Canada: Yukon Territory, Blow River Delta east, Danny C. Gordon's goose camp	primary	rbcL	68.895	-136.961	0.00364958686412714
+Stellaria_crassifolia	KC484144.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. East shore of Kihlbay, tundra west of cabins	primary	rbcL	56.442	-78.956	0.00201288244766506
+Stellaria_crassifolia	KC484143.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktoyaktuk, Near Pingo Park Lodge	primary	rbcL	69.5	-133	0.00201288244766506
+Stellaria_crassifolia	MT931032.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.0167432221958238

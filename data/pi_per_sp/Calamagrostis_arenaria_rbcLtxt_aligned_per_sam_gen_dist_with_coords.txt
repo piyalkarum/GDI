@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_arenaria	MF596563.1	28-FEB-2018	603	Canada: British Columbia	primary	rbcL	54.1749440661457	-132.747003863903	0.00510018214936248
+Calamagrostis_arenaria	MG226116.1	23-JAN-2018	603	Canada: British Columbia	primary	rbcL	54.0800771495609	-132.150897810023	0.00510018214936248
+Calamagrostis_arenaria	JX572302.1	04-SEP-2013	552	South Africa: Western Cape, Robben Island	primary	rbcL	-33.804	18.369	0.0514910025503287
+Calamagrostis_arenaria	JN891031.1	07-MAR-2012	542	United Kingdom: Shetland (112)	primary	rbcL	59.97	-1.33	0.00517560073937153
+Calamagrostis_arenaria	KX821214.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.8128552367517	8.99557621065096	0.00514705882352941
+Calamagrostis_arenaria	KX821213.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.3999123141761	8.22840206301627	0.00514705882352941
+Calamagrostis_arenaria	KX821212.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.3265772120895	9.13674515827088	0.00514705882352941
+Calamagrostis_arenaria	KX821211.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.0201362894229	7.34143810836518	0.00514705882352941
+Calamagrostis_arenaria	JN893253.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00517560073937153
+Calamagrostis_arenaria	JN890707.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.3879008904297	-3.22206055075977	0.00517560073937153
+Calamagrostis_arenaria	JN890705.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.0547152541974	-2.30349519252182	0.00517560073937153

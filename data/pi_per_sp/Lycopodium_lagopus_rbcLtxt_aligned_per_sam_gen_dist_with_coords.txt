@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lycopodium_lagopus	MG215530.1	24-JAN-2018	551	Canada: 23 km N of Thessalon, ON	primary	rbcL	46.25	-83.55	0
+Lycopodium_lagopus	MG215313.1	24-JAN-2018	551	Canada: Grandmaison, Madawaska Co., NB	primary	rbcL	47.4214	-68.3606	0
+Lycopodium_lagopus	MG215293.1	24-JAN-2018	551	Canada: MacMillan Pass, Mackenzie Mts., Yukon	primary	rbcL	63.1811	-130.202	0
+Lycopodium_lagopus	KJ841394.1	04-NOV-2014	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, S-w slope of mountain near summit, along Davies' 'F6' transect	primary	rbcL	54.901	-67.1638	0
+Lycopodium_lagopus	MW801583.1	19-DEC-2021	1244	Canada: British Columbia	secondary	rbcL	55.5928528950469	-125.080791964188	0.000229673863114378
+Lycopodium_lagopus	MW801582.1	19-DEC-2021	1249	Canada: British Columbia	secondary	rbcL	54.4022362467246	-124.17880861487	0.000229673863114378
+Lycopodium_lagopus	MW801581.1	19-DEC-2021	1244	Canada: Newfoundland & Labrador	secondary	rbcL	49.1212094	-56.6403111	0.000689021589343133
+Lycopodium_lagopus	MW801580.1	19-DEC-2021	1249	USA: Alaska	secondary	rbcL	64.4459613	-149.680909	0.000229673863114378

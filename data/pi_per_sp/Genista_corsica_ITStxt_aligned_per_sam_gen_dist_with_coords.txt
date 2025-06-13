@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_corsica	AJ971566.1	24-MAR-2006	221	Italy:Sardinia, Capo Falcone	secondary	ITS	41.59094540122	7.70550301757407	0.355415021772268
+Genista_corsica	AJ971565.1	24-MAR-2006	236	Italy:Sardinia, Capo Falcone	secondary	ITS	41.2262448677609	8.26416443842012	0.360853976531943
+Genista_corsica	AJ971564.1	24-MAR-2006	221	France:Corse, Col de Meurito	secondary	ITS	41.5152154488413	8.43911088938622	0.355415021772268
+Genista_corsica	AJ971563.1	24-MAR-2006	237	France:Corse, Col de Meurito	secondary	ITS	42.4855909400138	8.13056885956912	0.35373854513016
+Genista_corsica	AJ971562.1	24-MAR-2006	219	France:Corse, Bigorno, N. du Golo	secondary	ITS	42.1374789691	9.6418212970038	0.361943403868422
+Genista_corsica	AJ971561.1	24-MAR-2006	237	France:Corse, Bigorno, N. du Golo	secondary	ITS	42.9250564357192	9.73921627513573	0.35373854513016

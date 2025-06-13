@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mauranthemum_paludosum	MK481849.1	24-MAR-2019	440	Spain	primary	rps16	38.81	0.09	0.00873030657866724
+Mauranthemum_paludosum	MK481811.1	24-MAR-2019	427	Spain	primary	rps16	39.1961975176814	0.612216614786286	0.0122950819672131
+Mauranthemum_paludosum	MK481810.1	24-MAR-2019	440	Spain	primary	rps16	38.9658602151727	1.00606642569663	0.00873030657866724
+Mauranthemum_paludosum	LN869162.1	17-SEP-2015	479	Spain	primary	rps16	38.9541357549308	0.588873248912292	0.0129212578387629
+Mauranthemum_paludosum	LN869161.1	17-SEP-2015	467	Spain	primary	rps16	39.3790215926598	2.06207295117223	0.0147814877727634

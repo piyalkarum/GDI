@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Betonica_officinalis	JN892247.1	07-MAR-2012	542	United Kingdom: Somerset, North (6)	primary	rbcL	51.28	-2.75	0
+Betonica_officinalis	JN892072.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.14	0
+Betonica_officinalis	KJ746272.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0
+Betonica_officinalis	JN892401.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Betonica_officinalis	JN891847.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

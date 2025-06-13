@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_granatense	MW070340.1	19-APR-2021	895	Portugal: Mertola	secondary	rpoB	38.2426427377088	-6.90408047834193	0.00448004653847638
+Alyssum_granatense	MW070339.1	19-APR-2021	896	Portugal: Mertola	secondary	rpoB	37.6270230575016	-8.16420444054515	0.00543901189451279
+Alyssum_granatense	MW070260.1	19-APR-2021	895	Morocco: Oukaimeden	secondary	rpoB	31.7896127946091	-7.34488055220515	0.00337457817772778
+Alyssum_granatense	MW070259.1	19-APR-2021	895	Morocco: Oukaimeden	secondary	rpoB	31.8581536227809	-7.20984531712957	0.00337457817772778
+Alyssum_granatense	MW070256.1	19-APR-2021	895	Spain: Valverde-Enrique	secondary	rpoB	42.7252043910997	-4.96109793707595	0.0027177967478726
+Alyssum_granatense	MW070255.1	19-APR-2021	895	Spain: Valverde-Enrique	secondary	rpoB	42.4982663331972	-5.51529441458822	0.0027177967478726
+Alyssum_granatense	MW070250.1	19-APR-2021	895	Spain: Abrucena	secondary	rpoB	37.1947600169459	-2.6878616580779	0.00367765282332526
+Alyssum_granatense	MW070249.1	19-APR-2021	920	Spain: Abrucena	secondary	rpoB	36.3995362477003	-2.65914536102692	0.00399599594269591

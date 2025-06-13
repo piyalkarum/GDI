@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_arvensis	MG225072.1	21-JAN-2018	778	USA: North Dakota	primary	matK	47.578	-101.195	0.00296771290386682
+Mentha_arvensis	MG225043.1	21-JAN-2018	778	USA: North Dakota	primary	matK	48.326	-100.765	0.00296771290386682
+Mentha_arvensis	MG224998.1	21-JAN-2018	764	Canada: Ontario, Algoma District, Michipicoten Twp., Michipicoten Bay	primary	matK	47.93	-84.843	0.00096876842907186
+Mentha_arvensis	MG224956.1	21-JAN-2018	777	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island bog, FFNMP	primary	matK	45.266	-81.7	0.00297104483178536
+Mentha_arvensis	KX879076.1	19-MAR-2017	842	India	primary	matK	26.92	80.98	0.00680364819495863
+Mentha_arvensis	JN896123.1	07-MAR-2012	910	United Kingdom: Glamorgan	primary	matK	51.58	-3.14	0.00679869558820999
+Mentha_arvensis	LC126640.1	03-AUG-2016	820	Japan	secondary	matK	37.1252827904553	138.712170400878	0.0086815720704469
+Mentha_arvensis	LC126639.1	03-AUG-2016	820	Japan	secondary	matK	36.8417490682724	138.77744179196	0.00891952520131313
+Mentha_arvensis	LC126638.1	03-AUG-2016	820	Japan	secondary	matK	36.1797389344555	139.280689477344	0.00583943569355422
+Mentha_arvensis	LC126637.1	03-AUG-2016	820	Japan	secondary	matK	37.3289746478593	139.339832413433	0.00596207110349564
+Mentha_arvensis	LC126636.1	03-AUG-2016	820	Japan	secondary	matK	36.1966945918537	139.733760724918	0.00830962969292854
+Mentha_arvensis	KP172052.1	04-FEB-2015	776	Pakistan	secondary	matK	30.3308401	71.247499	0.00254607815475485

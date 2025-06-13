@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eriophorum_scheuchzeri	KT960687.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.2792143350367	-23.2310737899575	0
+Eriophorum_scheuchzeri	KT960590.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.3470973316497	-17.898070216385	0
+Eriophorum_scheuchzeri	KT960513.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.2038349448168	-21.2469022034317	0
+Eriophorum_scheuchzeri	KC482824.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. East shore of Kihlbay, tundra west of cabins	primary	rbcL	56.442	-78.956	0
+Eriophorum_scheuchzeri	KC482823.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Causeway to Inuit Head	primary	rbcL	63.75	-68.517	0
+Eriophorum_scheuchzeri	KC482822.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Inuvik, Inuvik, N edge of town, along small trail through woods	primary	rbcL	68.3722	-133.794	0
+Eriophorum_scheuchzeri	KC482821.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, East side of Syliva Grinnell River 1.6 km south of main rapids, 200 m east of Crystal II Thule structure site	primary	rbcL	63.742	-68.558	0
+Eriophorum_scheuchzeri	KC482820.1	25-OCT-2013	552	Canada: Yukon Territory, Yukon Mainland, Blow River Delta east, Danny C. Gordon's goose camp	primary	rbcL	68.895	-136.961	0
+Eriophorum_scheuchzeri	KC482819.1	25-OCT-2013	552	Canada: Northwest Territories, Nunavut Mainland, Paulatuk, Open field, road side just south of town	primary	rbcL	69.349	-118.078	0
+Eriophorum_scheuchzeri	KC482818.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island (Nunavut), Namaycush Lake, East of lake, Site 36	primary	rbcL	70.667	-107.55	0
+Eriophorum_scheuchzeri	KC482817.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Bukken Riv., Large valley along upper Bukken River	primary	rbcL	80.526	-92.364	0
+Eriophorum_scheuchzeri	KC482816.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island (Northwest Territories), Aulavik National Park, Banks of the Thomsen River	primary	rbcL	73.717	-119.925	0
+Eriophorum_scheuchzeri	KC482815.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay, Cambridge Bay, at north edge of town	primary	rbcL	69.264	-105.1	0
+Eriophorum_scheuchzeri	KC482814.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.911	-109.596	0
+Eriophorum_scheuchzeri	KC482813.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk	primary	rbcL	69.4944	-124.117	0
+Eriophorum_scheuchzeri	KC482812.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Sinclair Creek, Tundra between Sinclair Creek North Warning System site (abandoned DEW-line site) and coast	primary	rbcL	68.756	-109.111	0
+Eriophorum_scheuchzeri	KC482811.1	25-OCT-2013	518	Canada: Northwest Territories, Victoria Island, Minto Inlet, Moist clay banks in river valley at base of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.299	-116.419	0
+Eriophorum_scheuchzeri	JN965540.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality	primary	rbcL	57.851	-92.758	0
+Eriophorum_scheuchzeri	JN965534.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0

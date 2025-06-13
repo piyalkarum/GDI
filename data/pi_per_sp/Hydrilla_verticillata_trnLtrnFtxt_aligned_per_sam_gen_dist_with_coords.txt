@@ -1,0 +1,61 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hydrilla_verticillata	MN180203.1	22-JUL-2020	1030	USA: Connecticut, Hartford County, Connecticut River	secondary	trnL-trnF	42.4565118494641	-73.6532859307754	0.00780558092775687
+Hydrilla_verticillata	MN013337.1	07-DEC-2019	1146	USA: North Carolina, Halifax Co., Summit, Lake Gaston	secondary	trnL-trnF	35.4985112	-82.6082842	0.00284210726412909
+Hydrilla_verticillata	MN013336.1	07-DEC-2019	1145	USA: Massachusetts, Barnstable Co., Barnstable, Long Pond	secondary	trnL-trnF	41.9448663	-70.0045995	0.00284396203078031
+Hydrilla_verticillata	MN013334.1	07-DEC-2019	1146	South Korea: Seoul, Palang Reservoir, Han River	secondary	trnL-trnF	38.0561145910722	127.019136438165	0.00284210726412909
+Hydrilla_verticillata	MN013333.1	07-DEC-2019	1098	USA: Florida, Polk Co., Winter Haven, Lake Howard	secondary	trnL-trnF	28.0236245	-81.7441452	0.00289053183986371
+Hydrilla_verticillata	MN013332.1	07-DEC-2019	1145	USA: Connecticut, Fairfield Co., Norwalk, Silvermine River	secondary	trnL-trnF	41.5103054183682	-73.4502457211846	0.00284358964090801
+Hydrilla_verticillata	MN013331.1	07-DEC-2019	1133	USA: Georgia, Decatur Co., Faceville, Lake Seminole	secondary	trnL-trnF	44.72422295	-73.1470415173155	0.00240243269156234
+Hydrilla_verticillata	MN013330.1	07-DEC-2019	1104	USA: Florida, Polk Co., Winter Haven, Creek under Hoover Road overpass (= Lulu Lake)	secondary	trnL-trnF	28.5421109	-81.3790304	0.00240530405440484
+Hydrilla_verticillata	MN013327.1	07-DEC-2019	1132	China: Yunnan Province, Kunming	secondary	trnL-trnF	25.0363006	102.7086139	0.00325551610593362
+Hydrilla_verticillata	MN013325.1	07-DEC-2019	1147	Australia: Northern Territory, Katherine River	secondary	trnL-trnF	-13.873328	132.790625	0.00461728703015807
+Hydrilla_verticillata	MN013324.1	07-DEC-2019	1116	Australia: New South Wales, Mullumbimby, Yankee Creek	secondary	trnL-trnF	-28.82345785	153.299685955468	0.00463882563561391
+Hydrilla_verticillata	MN013323.1	07-DEC-2019	1094	Australia: New South Wales, Lismore, Rocky Creek Dam	secondary	trnL-trnF	-28.6376199	153.3474737	0.00550998141521595
+Hydrilla_verticillata	MN013322.1	07-DEC-2019	1144	Australia: New South Wales, Alstonville, Maguires Creek	secondary	trnL-trnF	-28.8421515	153.4307025	0.00461905275989878
+Hydrilla_verticillata	MN013321.1	07-DEC-2019	1088	Thailand: Tha Thung Na Dam	secondary	trnL-trnF	14.2328595	99.2346242	0.0042985374138639
+Hydrilla_verticillata	MN013320.1	07-DEC-2019	1083	Australia: Queensland, Kelso	secondary	trnL-trnF	-19.3887125	146.7169015	0.00430926000035212
+Hydrilla_verticillata	MN013317.1	07-DEC-2019	1081	Australia: Western Australia, Lake Argyle, Ord River Dam	secondary	trnL-trnF	-16.1213584	128.7386173	0.00431543386624745
+Hydrilla_verticillata	MN013316.1	07-DEC-2019	1060	Australia: Western Australia, Wyndham, Marlgu Billabong	secondary	trnL-trnF	-15.5489578	128.2594604	0.00440797366073847
+Hydrilla_verticillata	MN013314.1	07-DEC-2019	1133	Latvia: Skrudaliena, Lake Sila	secondary	trnL-trnF	55.81342845	26.7148574138666	0.00740264942064829
+Hydrilla_verticillata	MN013309.1	07-DEC-2019	1028	South Korea: Gyeongsangbuk-do, Yeongcheon-si, Bonchon-dong	secondary	trnL-trnF	35.91956	128.95994	0.00780697475760983
+Hydrilla_verticillata	KU242359.1	21-MAY-2016	898	USA: Connecticut, Tolland Co. Coventry Lake	secondary	trnL-trnF	41.7707732	-72.3344191	0.00456039455943435
+Hydrilla_verticillata	JF703280.1	31-MAR-2012	439	USA: Morgan County, AL	secondary	trnL-trnF	34.5991884	-86.9611756	0.00348907788252095
+Hydrilla_verticillata	JF703279.1	31-MAR-2012	480	USA: Limestone County, AL	secondary	trnL-trnF	34.6816314	-86.8456957	0.00788291563424153
+Hydrilla_verticillata	JF703278.1	31-MAR-2012	387	USA: Marinette County, WI	secondary	trnL-trnF	44.9762266	-87.7156516	0.0152308080797542
+Hydrilla_verticillata	JF703277.1	31-MAR-2012	415	USA: Owyhee County, ID	secondary	trnL-trnF	43.545305	-116.834407	0.00337802442326894
+Hydrilla_verticillata	JF703275.1	31-MAR-2012	440	USA: Fairfax County, VA	secondary	trnL-trnF	38.8907693	-77.3482828	0.00579945631318669
+Hydrilla_verticillata	JF703274.1	31-MAR-2012	459	USA: Stafford, VA	secondary	trnL-trnF	29.6160671	-95.5577221	0.00455404689641762
+Hydrilla_verticillata	EF458073.1	28-SEP-2007	1146	USA: Connecticut, Mason's Island	secondary	trnL-trnF	41.7798276112483	-72.8629602127505	0.00284210726412909
+Hydrilla_verticillata	EF458072.1	28-SEP-2007	1132	Australia: Lake Cairns, Queensland	secondary	trnL-trnF	-16.8451073	145.693024541999	0.00325551610593362
+Hydrilla_verticillata	EF458071.1	28-SEP-2007	1133	New Zealand: North Island	secondary	trnL-trnF	-38.0035304	175.9578526	0.0032542849676927
+Hydrilla_verticillata	EF458070.1	28-SEP-2007	1133	Burundi: Lake Tanganyika	secondary	trnL-trnF	-3.3575971	29.3811949	0.00240146228126
+Hydrilla_verticillata	EF458068.1	28-SEP-2007	1132	China: Guangzhou	secondary	trnL-trnF	23.1301964	113.2592945	0.00240243269156234
+Hydrilla_verticillata	EF458067.1	28-SEP-2007	1132	India: Kashmir	secondary	trnL-trnF	26.2644203	71.6027498	0.00319889526485946
+Hydrilla_verticillata	EF458065.1	28-SEP-2007	1132	India: Rajasthan	secondary	trnL-trnF	26.8105777	73.7684549	0.00240243269156234
+Hydrilla_verticillata	EF458064.1	28-SEP-2007	1132	India: New Dehli	secondary	trnL-trnF	28.5708985	77.2599031	0.00240243269156234
+Hydrilla_verticillata	EF458061.1	28-SEP-2007	1119	Thailand: Bang Phra Reservoir	secondary	trnL-trnF	13.2064531	100.9771537	0.00424491890783884
+Hydrilla_verticillata	EF458060.1	28-SEP-2007	1119	Taiwan: Taichung	secondary	trnL-trnF	24.163162	120.6478282	0.00424491890783884
+Hydrilla_verticillata	EF458058.1	28-SEP-2007	1118	Malaysia: Penang Island	secondary	trnL-trnF	5.4065013	100.2559077	0.00424491890783884
+Hydrilla_verticillata	EF458057.1	28-SEP-2007	1118	Indonesia: Pangalengan, Java	secondary	trnL-trnF	-7.1640453	107.6030197	0.00424491890783884
+Hydrilla_verticillata	EF458055.1	28-SEP-2007	1118	South Africa: Pongolapoort Dam, Kwazulu-natal	secondary	trnL-trnF	-27.39960945	31.9540662111964	0.00424491890783884
+Hydrilla_verticillata	EF458053.1	28-SEP-2007	1111	Japan: Kobe	secondary	trnL-trnF	34.6932379	135.1943764	0.007412781510703
+Hydrilla_verticillata	AY496154.1	13-JAN-2004	1132	USA: California, Brawley	secondary	trnL-trnF	32.9786566	-115.530267	0.00240243269156234
+Hydrilla_verticillata	AY496153.1	13-JAN-2004	1132	USA: Texas, Rusk County, Martin Creek Lake	secondary	trnL-trnF	32.2388719	-94.567182	0.00240243269156234
+Hydrilla_verticillata	AY496152.1	13-JAN-2004	1132	USA: Louisiana, Rodemacher Lake	secondary	trnL-trnF	31.3874468	-92.7352111	0.00240243269156234
+Hydrilla_verticillata	AY496151.1	13-JAN-2004	1132	USA: Florida, Fort Lauderdale	secondary	trnL-trnF	26.1223084	-80.1433786	0.00240243269156234
+Hydrilla_verticillata	AY496150.1	13-JAN-2004	1132	India: Bangalore	secondary	trnL-trnF	12.9767936	77.590082	0.00240243269156234
+Hydrilla_verticillata	AY496149.1	13-JAN-2004	1146	USA: Washington, Lucerne/Pipe Lakes	secondary	trnL-trnF	38.8950368	-77.0365427	0.00284210726412909
+Hydrilla_verticillata	AY496148.1	13-JAN-2004	1146	USA: Connecticut, Mystic	secondary	trnL-trnF	41.3542656	-71.966462	0.00284210726412909
+Hydrilla_verticillata	AY496147.1	13-JAN-2004	1146	USA: Pennsylvania, Philadelphia, Schuylkill River	secondary	trnL-trnF	39.8997325	-75.2220427	0.00284210726412909
+Hydrilla_verticillata	AY496146.1	13-JAN-2004	1146	USA: Delaware, Trapp Pond	secondary	trnL-trnF	39.2475954	-75.301059970514	0.00284210726412909
+Hydrilla_verticillata	AY496145.1	13-JAN-2004	1146	USA: North Carolina, Lake Anne	secondary	trnL-trnF	35.8728269	-78.7321497	0.00284210726412909
+Hydrilla_verticillata	AY496144.1	13-JAN-2004	1146	South Korea: Seoul	secondary	trnL-trnF	37.5229320175972	127.052111394817	0.00284210726412909
+Hydrilla_verticillata	MN013329.1	07-DEC-2019	1101	China	secondary	trnL-trnF	23.9228747	112.1616895	0.00241201343636667
+Hydrilla_verticillata	MN013328.1	07-DEC-2019	1149	China	secondary	trnL-trnF	24.7567888	103.2717417	0.00239495730265514
+Hydrilla_verticillata	MN013319.1	07-DEC-2019	1117	Australia	secondary	trnL-trnF	-12.5765444	132.2187302	0.00424628110313553
+Hydrilla_verticillata	MN013308.1	07-DEC-2019	1127	South Korea	secondary	trnL-trnF	36.2425017	128.5732027	0.00740274493881318
+Hydrilla_verticillata	MN013306.1	07-DEC-2019	1133	Ireland	secondary	trnL-trnF	53.6894260284276	-11.0880624826851	0.00740264942064829
+Hydrilla_verticillata	MN013305.1	07-DEC-2019	1133	Ireland	secondary	trnL-trnF	52.7958895679467	-9.87527146771022	0.00740264942064829
+Hydrilla_verticillata	EF458069.1	28-SEP-2007	1132	Viet Nam	secondary	trnL-trnF	21.1781515	106.0710078	0.00240243269156234
+Hydrilla_verticillata	EF458059.1	28-SEP-2007	1118	Viet Nam	secondary	trnL-trnF	16.4639321	107.5863388	0.00424491890783884
+Hydrilla_verticillata	EF458056.1	28-SEP-2007	1118	Indonesia	secondary	trnL-trnF	-7.3279694	109.613910988013	0.00424491890783884

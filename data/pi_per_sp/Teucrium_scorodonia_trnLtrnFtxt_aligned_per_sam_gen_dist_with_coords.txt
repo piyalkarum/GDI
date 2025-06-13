@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Teucrium_scorodonia	JN408659.1	31-JUL-2013	787	Morocco	secondary	trnL-trnF	28.3347722	-10.3713379	0.00992743342390715
+Teucrium_scorodonia	JF694842.1	17-OCT-2011	853	Algeria	secondary	trnL-trnF	28.0000272	2.9999825	0.00382035109670293
+Teucrium_scorodonia	JN408669.1	31-JUL-2013	803	Germany	secondary	trnL-trnF	34.895926	-83.4665496	0.00389709392210087
+Teucrium_scorodonia	JN408627.1	31-JUL-2013	776	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.00392099978952997

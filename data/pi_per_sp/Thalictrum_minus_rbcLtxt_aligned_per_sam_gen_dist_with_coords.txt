@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thalictrum_minus	JN892773.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.88	-3.75	0
+Thalictrum_minus	LC621288.1	02-OCT-2021	553	Japan:Aichi, Shinshiro	secondary	rbcL	34.946784	137.533234	0
+Thalictrum_minus	MH713931.1	01-SEP-2020	566	China: Hebei	secondary	rbcL	38.6908381826507	116.403527892092	0
+Thalictrum_minus	MH657733.1	01-AUG-2020	568	China: Hebei	secondary	rbcL	39.3901781900423	116.32650664581	0
+Thalictrum_minus	LC364407.1	09-JUL-2019	549	Japan:Nagano	secondary	rbcL	36.1143945	138.0319015	0
+Thalictrum_minus	KJ746303.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0
+Thalictrum_minus	JN893533.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9875065	-1.1773256	0
+Thalictrum_minus	JN893472.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	53.6073136876377	-4.21192915952759	0
+Thalictrum_minus	JN892313.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.7954532177089	-3.50170633076191	0

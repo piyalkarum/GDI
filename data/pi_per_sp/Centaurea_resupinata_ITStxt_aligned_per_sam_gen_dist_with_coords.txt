@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_resupinata	AM114294.1	08-JAN-2007	634	Algeria:Oran	secondary	ITS	35.7044415	-0.6502981	0.00236593059936909
+Centaurea_resupinata	AM114293.1	08-JAN-2007	634	Morocco:Targuist	secondary	ITS	34.939869	-4.320451	0.0102523659305994
+Centaurea_resupinata	AM114291.1	08-JAN-2007	634	Spain:Alicante	secondary	ITS	37.5342856957949	-0.4443573258158	0.00368033648790747
+Centaurea_resupinata	AM114290.1	08-JAN-2007	634	Spain:Valencia	secondary	ITS	39.4697065	-0.3763353	0.00236593059936909
+Centaurea_resupinata	AM114289.1	08-JAN-2007	634	Spain:Alicante	secondary	ITS	37.6182694413541	-0.457313303430166	0.00315457413249211
+Centaurea_resupinata	AM114288.1	08-JAN-2007	634	Spain:Albacete	secondary	ITS	38.4833514087399	-1.99122902779153	0.00315457413249211
+Centaurea_resupinata	AM114282.1	08-JAN-2007	634	Spain:Albacete	secondary	ITS	39.4069990241972	-2.31302340531962	0.00236593059936909

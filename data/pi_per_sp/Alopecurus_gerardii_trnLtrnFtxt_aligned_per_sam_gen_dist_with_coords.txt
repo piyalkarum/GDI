@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alopecurus_gerardii	KM524040.1	04-JUL-2015	1773	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.00319608949050573
+Alopecurus_gerardii	EU792432.1	11-MAY-2009	1885	Greece	secondary	trnL-trnF	43.7498887246761	-78.2589881227796	0.00206805790562136
+Alopecurus_gerardii	KY363367.1	25-FEB-2018	1799	Greece	secondary	trnL-trnF	43.2900433137844	-78.5800378727179	0.00206805790562136
+Alopecurus_gerardii	KY363366.1	25-FEB-2018	1773	Greece	secondary	trnL-trnF	43.6014632970992	-77.5896811219303	0.00206805790562136

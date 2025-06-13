@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sporobolus_anglicus	JN894656.1	07-MAR-2012	1132	United Kingdom: Glamorgan	primary	matK	51.62	-4.21	0.00252100840336134
+Sporobolus_anglicus	ON221694.1	09-APR-2023	2301	South Korea	secondary	matK	37.3125265617594	126.973019930081	0.00252100840336134
+Sporobolus_anglicus	MW868173.1	03-JAN-2022	680	South Korea	secondary	matK	36.550606930942	128.776689252691	0.00252100840336134
+Sporobolus_anglicus	MW868172.1	03-JAN-2022	680	South Korea	secondary	matK	35.8527132489037	127.534953856969	0.00252100840336134
+Sporobolus_anglicus	MW868171.1	03-JAN-2022	680	South Korea	secondary	matK	37.4868641649254	127.979817389879	0.00252100840336134
+Sporobolus_anglicus	MW868170.1	03-JAN-2022	680	South Korea	secondary	matK	36.1609346175674	128.003333475561	0.00252100840336134
+Sporobolus_anglicus	JN895530.1	07-MAR-2012	767	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00252100840336134
+Sporobolus_anglicus	JN895468.1	07-MAR-2012	787	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00252100840336134

@@ -1,0 +1,35 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helminthotheca_comosa	LN830792.1	07-MAR-2016	637	Spain:Cadiz Province, Conil de la Frontera	primary	5.8S rRNA	35.6659616498393	-6.64663817442467	0.0113956462804179
+Helminthotheca_comosa	LN830791.1	07-MAR-2016	637	Spain:Cadiz Province, Conil de la Frontera	primary	5.8S rRNA	36.9151721934091	-6.54942382693406	0.0133260922662364
+Helminthotheca_comosa	LN830790.1	07-MAR-2016	637	Spain:Cadiz Province, Conil de la Frontera	primary	5.8S rRNA	35.6030505642247	-6.131475319105	0.0097780664957222
+Helminthotheca_comosa	LN830789.1	07-MAR-2016	637	Spain:Cadiz Province, Conil de la Frontera	primary	5.8S rRNA	36.6099185452878	-6.18480285921771	0.0113095992442749
+Helminthotheca_comosa	LN830788.1	07-MAR-2016	637	Spain:Cadiz Province, Jerez de la Frontera	primary	5.8S rRNA	36.1204005917712	-5.27269369229453	0.0109290274351317
+Helminthotheca_comosa	LN830787.1	07-MAR-2016	637	Spain:Cadiz Province, Jerez de la Frontera	primary	5.8S rRNA	36.8413727237339	-5.61897920247571	0.0105484556259884
+Helminthotheca_comosa	LN830786.1	07-MAR-2016	637	Spain:Cadiz Province, Jerez de la Frontera	primary	5.8S rRNA	37.0934049618064	-6.80730649720853	0.0125466072198273
+Helminthotheca_comosa	LN830785.1	07-MAR-2016	637	Spain:Cadiz Province, Grazalema	primary	5.8S rRNA	36.9306395642609	-5.63544090555891	0.0105484556259884
+Helminthotheca_comosa	LN830784.1	07-MAR-2016	637	Spain:Cadiz Province, Grazalema	primary	5.8S rRNA	36.7186154556248	-4.942087617854	0.0097780664957222
+Helminthotheca_comosa	LN830783.1	07-MAR-2016	637	Spain:Cadiz Province, Zahara de los Atunes	primary	5.8S rRNA	36.0788627087501	-6.02961287932319	0.0105866319943147
+Helminthotheca_comosa	LN830782.1	07-MAR-2016	637	Spain:Cadiz Province, Zahara de los Atunes	primary	5.8S rRNA	36.2265948828911	-6.26825151868919	0.0113570211245809
+Helminthotheca_comosa	LN830781.1	07-MAR-2016	637	Spain:Ciudad Real Province, Puertollano	primary	5.8S rRNA	38.9513952800954	-4.22049057629701	0.0132218533978077
+Helminthotheca_comosa	LN830780.1	07-MAR-2016	637	Spain:Ciudad Real Province, Puertollano	primary	5.8S rRNA	37.9734894633204	-4.87071956363425	0.0116994165653979
+Helminthotheca_comosa	LN830779.1	07-MAR-2016	637	Spain:Seville Province, Castilblanco de los Arroyos	primary	5.8S rRNA	37.7307955867996	-4.8906644889278	0.00910296991357873
+Helminthotheca_comosa	LN830778.1	07-MAR-2016	637	Spain:Seville Province, Castilblanco de los Arroyos	primary	5.8S rRNA	38.450884094448	-5.98755653618797	0.00890343849702737
+Helminthotheca_comosa	LN830777.1	07-MAR-2016	637	Spain:Huelva Province, Between Gibraleon and San Bartolome de la Torre	primary	5.8S rRNA	37.731015141465	-7.40235166144885	0.0131377486612567
+Helminthotheca_comosa	LN830776.1	07-MAR-2016	637	Spain:Huelva Province, Between Gibraleon and San Bartolome de la Torre	primary	5.8S rRNA	37.5978679446154	-7.94409282609184	0.0138220907553799
+Helminthotheca_comosa	LN830775.1	07-MAR-2016	637	Spain:Huelva Province, Almonaster la Real	primary	5.8S rRNA	38.5241717204879	-6.79082351957079	0.0151903710082765
+Helminthotheca_comosa	LN830774.1	07-MAR-2016	637	Spain:Huelva Province, Almonaster la Real	primary	5.8S rRNA	38.3763632515716	-7.44037670316342	0.0123175914157428
+Helminthotheca_comosa	LN830773.1	07-MAR-2016	637	Spain:Huelva Province, Hinojos	primary	5.8S rRNA	37.3441598315117	-6.32997556669	0.0122812077511715
+Helminthotheca_comosa	LN830772.1	07-MAR-2016	637	Spain:Huelva Province, Hinojos	primary	5.8S rRNA	37.2486840474687	-5.59177555041905	0.00887615074859894
+Helminthotheca_comosa	LN830771.1	07-MAR-2016	580	Portugal:Faro District, Between Querenca and Barranco do Velho	primary	5.8S rRNA	37.2954906576369	-8.00780541853363	0.0101363825859091
+Helminthotheca_comosa	LN830770.1	07-MAR-2016	637	Portugal:Faro District, Between Querenca and Barranco do Velho	primary	5.8S rRNA	36.817192113509	-8.07118687001978	0.00892346788522898
+Helminthotheca_comosa	LN830769.1	07-MAR-2016	637	Portugal:Coimbra District, Figueira da Foz. Cabo Mondego	primary	5.8S rRNA	40.5379984709027	-8.74176389256118	0.012471747995256
+Helminthotheca_comosa	LN830768.1	07-MAR-2016	637	Portugal:Coimbra District, Figueira da Foz. Cabo Mondego	primary	5.8S rRNA	40.1235993164006	-9.88923852214504	0.0117013588649898
+Helminthotheca_comosa	LN830767.1	07-MAR-2016	637	Portugal:Setubal District, Serra da Arrabida between Setubal and Portinho da Arrabida	primary	5.8S rRNA	37.7554176267022	-8.3779600820351	0.0116153118288468
+Helminthotheca_comosa	LN830766.1	07-MAR-2016	637	Portugal:Setubal District, Serra da Arrabida between Setubal and Portinho da Arrabida	primary	5.8S rRNA	39.0428832977922	-8.26838149594586	0.0140123766599515
+Helminthotheca_comosa	LN830765.1	07-MAR-2016	637	Portugal:Beja District, Serra de Monchique between Monchique and Odemira	primary	5.8S rRNA	37.7224648983177	-9.5357773293546	0.0104643508894373
+Helminthotheca_comosa	LN830764.1	07-MAR-2016	637	Portugal:Beja District, Serra de Monchique between Monchique and Odemira	primary	5.8S rRNA	37.6141353620869	-9.04516755224173	0.00929494377822941
+Helminthotheca_comosa	LN830763.1	07-MAR-2016	637	Portugal:Faro District, Between Silves and Sao Marcos da Serra	primary	5.8S rRNA	37.911335421124	-7.58443585681158	0.012262866323049
+Helminthotheca_comosa	LN830762.1	07-MAR-2016	637	Portugal:Faro District, Between Silves and Sao Marcos da Serra	primary	5.8S rRNA	37.8145527283317	-8.41486208389603	0.0104550006337817
+Helminthotheca_comosa	LN830761.1	07-MAR-2016	582	Portugal:Faro District, Between Sao Bras de Alportel and Santa Catarina	primary	5.8S rRNA	37.0082304311898	-8.87880055475063	0.0141636760630332
+Helminthotheca_comosa	LN830760.1	07-MAR-2016	637	Portugal:Faro District, Between Sao Bras de Alportel and Santa Catarina	primary	5.8S rRNA	36.9910988003515	-7.75388740144509	0.0137854078991348
+Helminthotheca_comosa	AJ633323.1	13-DEC-2004	637	Germany:Saxonia	secondary	5.8S rRNA	50.9295798	13.4585052	0.0105940531994145

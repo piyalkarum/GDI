@@ -1,0 +1,40 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hypericum_perforatum	OR594365.1	30-OCT-2023	524	Kazakhstan: Qaragandy region	primary	rbcL	49.756	73.11774	0.00479275649526449
+Hypericum_perforatum	OR464855.1	26-SEP-2023	608	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.2879354	-85.61744993	0.00100570120782226
+Hypericum_perforatum	ON684488.1	21-AUG-2022	1437	Portugal: Portinho da Arrabida, Parque Natural da Arrabida, Setubal	primary	rbcL	38.48805	-8.98638	0.00254041601827243
+Hypericum_perforatum	MG249179.1	21-JAN-2018	552	Canada: 143 Waterloo Avenue	primary	rbcL	43.5375	-80.2542	0.00106185729462069
+Hypericum_perforatum	MG249050.1	21-JAN-2018	524	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Alvar, Emmett Lake Road, Bruce Peninsula National Park	primary	rbcL	45.199	-81.506	0.00111268216865786
+Hypericum_perforatum	MG248798.1	21-JAN-2018	551	Canada: Quebec, Montreal, Ile Perrot, Bois du Domaine	primary	rbcL	45.48	-73.906	0.00106342518277165
+Hypericum_perforatum	MG248718.1	21-JAN-2018	553	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Brackenbrae Trail	primary	rbcL	43.3248	-79.8021	0.00106037264032241
+Hypericum_perforatum	MG248636.1	21-JAN-2018	552	Canada: Wellington Co., ON	primary	rbcL	43.526	-80.237	0.00106185729462069
+Hypericum_perforatum	MG248368.1	21-JAN-2018	553	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill West, on dry hill east of tennis court parking lot	primary	rbcL	43.9283	-79.5283	0.00106037264032241
+Hypericum_perforatum	MG247934.1	21-JAN-2018	524	Canada: Ontario, Nipissing District, Pentland Twp., Algonquin Park, ~10km in from Kiosk stop-gate, portage trail @ 2nd bridge	primary	rbcL	46.05	-78.922	0.00111268216865786
+Hypericum_perforatum	MG247844.1	21-JAN-2018	546	Canada: Ontario, Wellington County, Guelph/Eramosa Township, Jones Baseline and Highway 124	primary	rbcL	43.608	-80.226	0.00107140413767778
+Hypericum_perforatum	MG246347.1	21-JAN-2018	552	Canada: Ontario, Renfrew District, Petawawa, NEBIE field study site	primary	rbcL	45.9	-77.2833	0.00106185729462069
+Hypericum_perforatum	MG245893.1	21-JAN-2018	552	Canada: Guelph	primary	rbcL	43.5485	-80.2503	0.0023714558060158
+Hypericum_perforatum	KX678864.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Squamish Valley Rd., Riverside Forest Recreation Site	primary	rbcL	49.916	-123.296	0.00106185729462069
+Hypericum_perforatum	KX678591.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.0449	-125.501	0.00106185729462069
+Hypericum_perforatum	KX678532.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Conkle Lake Provincial Park	primary	rbcL	49.1818	-119.091	0.00106185729462069
+Hypericum_perforatum	HQ590139.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 20 m W of driveway to Side Road 19	primary	rbcL	44.028	-79.531	0.00100481730765464
+Hypericum_perforatum	KX283358.1	07-JUN-2016	553	Canada: Ontario, Thunder Bay District, SE corner of Little Sturge L. Gravelly roadside shoulder of abandoned Logging Rd	primary	rbcL	49.2333	-88.8833	0.00106037264032241
+Hypericum_perforatum	KX283351.1	07-JUN-2016	553	Canada: Ontario, York R.M., King Twp, Jokers Hill West, 20 m W of driveway to Side Road 19	primary	rbcL	44.0275	-79.5311	0.00106037264032241
+Hypericum_perforatum	KT695421.1	29-SEP-2015	509	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00302526210208864
+Hypericum_perforatum	KJ593477.1	17-MAR-2015	553	USA: Wisconsin, Wolf River	primary	rbcL	45.301	-88.746	0.00106037264032241
+Hypericum_perforatum	KJ593476.1	17-MAR-2015	553	USA: Wisconsin, Florence	primary	rbcL	45.953	-88.511	0.00106037264032241
+Hypericum_perforatum	KM212136.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Mont Saint-Hilaire, Area surrounding research station	primary	rbcL	45.3468719183803	-72.05178550997	0.00106185729462069
+Hypericum_perforatum	KJ841362.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.5743129447815	-71.8699556456467	0.00106185729462069
+Hypericum_perforatum	JN892185.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.00235749056620243
+Hypericum_perforatum	OQ189691.1	13-JUN-2023	846	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0.00132265533201115
+Hypericum_perforatum	MT931722.1	03-MAR-2023	572	China	secondary	rbcL	34.4766470586882	105.849401463878	0.00109170479210509
+Hypericum_perforatum	MN205028.1	30-NOV-2021	721	China	secondary	rbcL	34.1725682054356	104.660587454331	0.0182732969106912
+Hypericum_perforatum	MK924661.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9459669281738	-2.59571073564593	0.00102933315350396
+Hypericum_perforatum	MK924538.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3210788376916	-4.16046786455708	0.00102933315350396
+Hypericum_perforatum	MK348961.1	24-JUN-2019	1358	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00134008646177798
+Hypericum_perforatum	MG249383.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Delhi Twp., Intersection of Regional Road #3 (St. John's Road) and Charlotteville West Quarter Line Road	secondary	rbcL	45.3658443	15.6575209	0.00720078397818734
+Hypericum_perforatum	KJ746321.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00117743993655217
+Hypericum_perforatum	KJ204355.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.00106660445400922
+Hypericum_perforatum	HM850066.1	23-JUL-2011	699	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00455679111905422
+Hypericum_perforatum	JN892627.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00102933315350396
+Hypericum_perforatum	JN892625.1	07-MAR-2012	541	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00103078113177628
+Hypericum_perforatum	JN891135.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.1765220806939	-3.04908369588375	0.00102933315350396
+Hypericum_perforatum	JN891133.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	50.8991949417944	-3.40650335656632	0.00102933315350396

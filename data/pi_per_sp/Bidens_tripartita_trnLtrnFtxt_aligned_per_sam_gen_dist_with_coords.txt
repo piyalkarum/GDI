@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bidens_tripartita	MN816179.1	26-SEP-2020	585	Belarus	secondary	trnL-trnF	53.4250605	27.6971358	0
+Bidens_tripartita	MN816178.1	26-SEP-2020	585	Russia: Rostov region	secondary	trnL-trnF	47.5146131	40.1098388	0
+Bidens_tripartita	MN816177.1	26-SEP-2020	585	Russia: Kaluga oblast	secondary	trnL-trnF	54.4382773	35.5272854	0
+Bidens_tripartita	MK575558.1	23-OCT-2019	616	Russia	secondary	trnL-trnF	64.6863136	97.7453061	0

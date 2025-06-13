@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Utricularia_tenuicaulis	MW835182.1	30-NOV-2021	790	Japan	secondary	rps16	36.5748441	139.2394179	0
+Utricularia_tenuicaulis	MW835181.1	30-NOV-2021	790	France	secondary	rps16	46.603354	1.8883335	0
+Utricularia_tenuicaulis	MT155874.1	05-APR-2021	790	Russia: Primorye	secondary	rps16	42.9340666858824	131.645750946488	0
+Utricularia_tenuicaulis	MT155841.1	05-APR-2021	790	Russia: Primorye	secondary	rps16	42.8650261679716	130.847386290106	0

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_adriatica	MT732229.1	18-JUL-2020	468	Croatia	primary	rpoC1	44.75	14.41	0
+Iris_adriatica	MT732228.1	18-JUL-2020	468	Croatia	primary	rpoC1	44.0397868208634	15.4911197870645	0
+Iris_adriatica	MT732227.1	18-JUL-2020	468	Croatia	primary	rpoC1	44.75	14.42	0
+Iris_adriatica	MT732226.1	18-JUL-2020	468	Croatia	primary	rpoC1	44.74	14.42	0
+Iris_adriatica	MT732225.1	18-JUL-2020	468	Croatia	primary	rpoC1	44.247989177309	16.5423604614776	0
+Iris_adriatica	MT732224.1	18-JUL-2020	468	Croatia	primary	rpoC1	44.0216513457962	16.7646810983194	0
+Iris_adriatica	MT732222.1	18-JUL-2020	468	Croatia	primary	rpoC1	43.73	15.99	0
+Iris_adriatica	MT732221.1	18-JUL-2020	468	Croatia	primary	rpoC1	43.78	16.02	0
+Iris_adriatica	MT732220.1	18-JUL-2020	468	Croatia	primary	rpoC1	43.81	16.05	0
+Iris_adriatica	MT732219.1	18-JUL-2020	468	Croatia	primary	rpoC1	43.74	15.88	0
+Iris_adriatica	MT732218.1	18-JUL-2020	468	Croatia	primary	rpoC1	43.78	15.89	0
+Iris_adriatica	MT732217.1	18-JUL-2020	468	Croatia	primary	rpoC1	43.35	16.59	0

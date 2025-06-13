@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_simpliciuscula	FJ548154.1	25-AUG-2009	733	Canada: Northwest Territories, Banks Island, NE part, Parker River Valley, N side ca. 7 km from sea	primary	matK	73.62	-115.85	0.000505050505050505
+Carex_simpliciuscula	FJ548153.1	25-AUG-2009	729	Canada: Nunavut, Victoria Island, Cambridge Bay, on hillside near Sixteen Mile Brook	primary	matK	63.98	-83.65	0.000508130081300813
+Carex_simpliciuscula	FJ548152.1	25-AUG-2009	728	Canada: Nunavut, Franklin District, Victoria Island, Holman	primary	matK	70.72	-117.72	0.000508130081300813
+Carex_simpliciuscula	FJ548151.1	25-AUG-2009	728	Canada: Nunavut, Baffin Island	primary	matK	71.84	-80.8	0.000505050505050505
+Carex_simpliciuscula	KC474937.1	25-OCT-2013	712	Canada: Yukon Territory, Arctic Mainland, Baffin Island, Baffinland Iron Mines, Mary River project	primary	matK	71.5	-80.48	0.000499750124937531
+Carex_simpliciuscula	KC474936.1	25-OCT-2013	667	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East bank of Hornaday River	primary	matK	68.2417	-121.85	0.0040408098988805
+Carex_simpliciuscula	KC474935.1	25-OCT-2013	737	Canada: Nunavut, Devon Island, Croker Bay, Devon Island, SE side. Croker Bay, E side near entrance	primary	matK	74.533	-82.783	0.000499750124937531
+Carex_simpliciuscula	KC474934.1	25-OCT-2013	701	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vicinity of Holman Island Airport, Uluhaktok	primary	matK	70.758	-117.79	0.000515198351365276
+Carex_simpliciuscula	KC474933.1	25-OCT-2013	737	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq. Plot 4. Along northern shore of lake, to east of school and to west of N-S road	primary	matK	56.594	-79.225	0.000499750124937531
+Carex_simpliciuscula	MN763646.1	28-JUL-2020	543	China: Xizang	secondary	matK	29.8556443	90.8749807	0

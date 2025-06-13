@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Atraphaxis_spinosa	JX987233.1	01-MAY-2013	507	China	primary	rbcL	44.61	89.92	0
+Atraphaxis_spinosa	MT931184.1	03-MAR-2023	569	China	secondary	rbcL	35.2309400381855	104.335202691875	0
+Atraphaxis_spinosa	MT931183.1	03-MAR-2023	569	China	secondary	rbcL	35.3712110864523	105.872843955784	0
+Atraphaxis_spinosa	KX709599.1	20-AUG-2017	486	Egypt	secondary	rbcL	26.2540493	29.2675469	0

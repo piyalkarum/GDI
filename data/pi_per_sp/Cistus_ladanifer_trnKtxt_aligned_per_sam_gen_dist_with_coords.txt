@@ -1,0 +1,46 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cistus_ladanifer	FJ225844.1	13-OCT-2008	1310	Portugal: Cabo Sardao	secondary	trnK	37.5986309	-8.8161381	0.0114011221799931
+Cistus_ladanifer	FJ225843.1	13-OCT-2008	1309	Portugal: Ourique	secondary	trnK	37.651112	-8.2237262	0.0114012547167627
+Cistus_ladanifer	FJ225842.1	13-OCT-2008	1309	Portugal: Raposeira	secondary	trnK	37.0832857	-8.8895991	0.0114012547167627
+Cistus_ladanifer	FJ225841.1	13-OCT-2008	1309	Portugal: Vila do Bispo	secondary	trnK	37.0831666	-8.9096544	0.0114012547167627
+Cistus_ladanifer	FJ225840.1	13-OCT-2008	1309	Portugal: Aljezur	secondary	trnK	37.3151549	-8.8040533	0.0114012547167627
+Cistus_ladanifer	FJ225839.1	13-OCT-2008	1309	Spain: Zamora	secondary	trnK	41.6857693	-5.942315	0.0114012547167627
+Cistus_ladanifer	FJ225838.1	13-OCT-2008	1309	Spain: Sevilla, Sierra Norte	secondary	trnK	37.2849111	-5.9294468	0.0114012547167627
+Cistus_ladanifer	FJ225837.1	13-OCT-2008	1309	Spain: Salamanca	secondary	trnK	40.9651572	-5.6640182	0.0114012547167627
+Cistus_ladanifer	FJ225836.1	13-OCT-2008	1309	Spain: Madrid, El Pardo	secondary	trnK	40.5205538	-3.7780738	0.0114012547167627
+Cistus_ladanifer	FJ225835.1	13-OCT-2008	1309	Spain: Madrid, La Barranca	secondary	trnK	40.4096666	-3.9723887	0.0114012547167627
+Cistus_ladanifer	FJ225834.1	13-OCT-2008	1309	Spain: Guadalajara, Hiendelaencina	secondary	trnK	41.0835841	-3.0036605	0.0114012547167627
+Cistus_ladanifer	FJ225833.1	13-OCT-2008	1309	Spain: Cordoba, Posadas	secondary	trnK	37.8017289	-5.107031	0.0114012547167627
+Cistus_ladanifer	FJ225832.1	13-OCT-2008	1309	Portugal: Aljustrel	secondary	trnK	37.8903251	-8.1963521	0.0114012547167627
+Cistus_ladanifer	FJ225831.1	13-OCT-2008	1309	Spain: Orense, Laroca	secondary	trnK	42.3436415	-7.8674242	0.0114012547167627
+Cistus_ladanifer	FJ225830.1	13-OCT-2008	1309	Spain: Toledo, Hinojosa de San Vicente	secondary	trnK	40.1049273	-4.7224705	0.0114012547167627
+Cistus_ladanifer	FJ225829.1	13-OCT-2008	1309	Spain: Caceres, Granadilla	secondary	trnK	40.2680974	-6.1060574	0.0114012547167627
+Cistus_ladanifer	FJ225828.1	13-OCT-2008	1309	Spain: Madrid, Manzanares	secondary	trnK	40.4005339	-3.7221868	0.0114012547167627
+Cistus_ladanifer	FJ225827.1	13-OCT-2008	1309	Spain: Jaen, Bailen	secondary	trnK	38.096787	-3.7765601	0.0114012547167627
+Cistus_ladanifer	FJ225826.1	13-OCT-2008	1309	France: Saint Chinian	secondary	trnK	43.4215	2.94677	0.0114012547167627
+Cistus_ladanifer	FJ225825.1	13-OCT-2008	1309	Spain: Madrid, El Atazar	secondary	trnK	40.9343489	-3.4710919	0.0114012547167627
+Cistus_ladanifer	FJ225824.1	13-OCT-2008	1309	Morocco: Chaouen	secondary	trnK	35.3031154270773	-5.66535211731198	0.0114012547167627
+Cistus_ladanifer	FJ225823.1	13-OCT-2008	1309	Morocco: Chaouen	secondary	trnK	35.5331911260686	-6.05612090932854	0.0114012547167627
+Cistus_ladanifer	FJ225822.1	13-OCT-2008	1309	Morocco: Chaouen	secondary	trnK	34.528462963697	-4.87339446777334	0.0114012547167627
+Cistus_ladanifer	FJ225821.1	13-OCT-2008	1309	Spain: Madrid, Chapineria	secondary	trnK	40.4756427	-3.7398444	0.0114012547167627
+Cistus_ladanifer	FJ225820.1	13-OCT-2008	1309	Spain: Madrid, La Cabrera	secondary	trnK	40.8651738	-3.6125468	0.0114012547167627
+Cistus_ladanifer	FJ225819.1	13-OCT-2008	1309	Spain: Madrid, El Escorial	secondary	trnK	40.5836411	-4.1281427	0.0114012547167627
+Cistus_ladanifer	FJ225818.1	13-OCT-2008	1309	Spain: Huelva, Hinojos	secondary	trnK	37.2922174	-6.3794314	0.0114012547167627
+Cistus_ladanifer	FJ225817.1	13-OCT-2008	1309	Spain: Ciudad Real, Sierra Madrona	secondary	trnK	38.466923	-4.2061063	0.0114012547167627
+Cistus_ladanifer	FJ225816.1	13-OCT-2008	1309	Morocco: Bab-Taza	secondary	trnK	35.0445555	-5.2611595	0.0114012547167627
+Cistus_ladanifer	FJ225813.1	13-OCT-2008	1309	Spain: Granada, Lanjaron	secondary	trnK	36.9181138	-3.4801561	0.0121999212908304
+Cistus_ladanifer	FJ225812.1	13-OCT-2008	1310	Spain: Almeria, Torre Paraiso	secondary	trnK	36.8414197	-2.4628135	0.0121998947834764
+Cistus_ladanifer	FJ225811.1	13-OCT-2008	1310	Spain: Cadiz, Almoraima	secondary	trnK	36.2773141	-5.428536	0.0121998947834764
+Cistus_ladanifer	FJ225810.1	13-OCT-2008	1310	Spain: Malaga, Casabermeja	secondary	trnK	36.893528	-4.4287903	0.0121998947834764
+Cistus_ladanifer	FJ225809.1	13-OCT-2008	1310	Spain: Malaga, Sierra Bermeja	secondary	trnK	36.5219286	-5.1767863	0.0121998947834764
+Cistus_ladanifer	FJ225807.1	13-OCT-2008	1309	Morocco: Asilah	secondary	trnK	35.5161733271005	-5.37041287928515	0.0116443271523485
+Cistus_ladanifer	FJ225806.1	13-OCT-2008	1309	Morocco: Asilah	secondary	trnK	35.7260386039137	-7.03334850211466	0.0116443271523485
+Cistus_ladanifer	FJ225805.1	13-OCT-2008	1309	Morocco: Asilah	secondary	trnK	35.9867474763195	-5.88586710845012	0.0116443271523485
+Cistus_ladanifer	FJ225804.1	13-OCT-2008	1309	Morocco: M'Diq	secondary	trnK	35.6833598	-5.3232161	0.0116443271523485
+Cistus_ladanifer	FJ225803.1	13-OCT-2008	1314	Morocco: Tetuan	secondary	trnK	36.4174805458505	-5.34882122770494	0.0116443271523485
+Cistus_ladanifer	FJ225802.1	13-OCT-2008	1314	Morocco: Tetuan	secondary	trnK	35.4419254840644	-4.53244624028226	0.0116443271523485
+Cistus_ladanifer	FJ225801.1	13-OCT-2008	1314	Morocco: Tetuan	secondary	trnK	35.2986250346114	-6.27043899536162	0.0116443271523485
+Cistus_ladanifer	FJ225800.1	13-OCT-2008	1309	Morocco: Taforalt	secondary	trnK	34.8062766	-2.4105376	0.012373544459106
+Cistus_ladanifer	FJ225796.1	13-OCT-2008	1309	Morocco: Beni-Hadifa	secondary	trnK	34.951068	-4.138968	0.0116443271523485
+Cistus_ladanifer	HM773247.1	29-SEP-2010	1310	Spain: Cadiz, Algar	secondary	trnK	36.6566286	-5.6564009	0.0121998947834764
+Cistus_ladanifer	GU289085.1	08-DEC-2010	99	Spain: Madrid, Boadilla	secondary	trnK	40.3991951	-3.7744429	0.484848484848484

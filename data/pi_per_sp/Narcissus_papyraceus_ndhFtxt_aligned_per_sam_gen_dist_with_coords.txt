@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_papyraceus	JF973168.1	18-SEP-2011	752	Spain	secondary	ndhF	36.2530167629424	-6.24610787502694	0
+Narcissus_papyraceus	JF973167.1	18-SEP-2011	752	Spain	secondary	ndhF	37.0658201118689	-6.16964778495889	0
+Narcissus_papyraceus	JF973166.1	18-SEP-2011	752	Morocco	secondary	ndhF	33.690156	-5.371938	0
+Narcissus_papyraceus	JF973164.1	18-SEP-2011	752	Portugal	secondary	ndhF	38.9487844	-9.2480127	0
+Narcissus_papyraceus	JF973162.1	18-SEP-2011	752	Morocco	secondary	ndhF	33.436117	-5.221913	0

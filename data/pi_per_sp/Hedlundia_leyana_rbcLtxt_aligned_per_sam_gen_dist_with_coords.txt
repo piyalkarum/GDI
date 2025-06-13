@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hedlundia_leyana	JN892469.1	07-MAR-2012	542	United Kingdom: Breconshire	primary	rbcL	51.78	-3.43	0
+Hedlundia_leyana	JN893286.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.2988609037086	-1.81818732465698	0
+Hedlundia_leyana	JN892325.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.4587709629244	-2.06397590501087	0
+Hedlundia_leyana	JN891824.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	53.6684398254752	-0.842086452990439	0
+Hedlundia_leyana	JN891823.1	07-MAR-2012	542	United Kingdom: Breconshire	secondary	rbcL	52.9156202770226	-1.07470927527734	0

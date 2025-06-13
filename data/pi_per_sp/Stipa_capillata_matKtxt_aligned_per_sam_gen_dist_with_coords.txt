@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stipa_capillata	MF169102.1	23-JAN-2018	1190	China	primary	matK	39.44	111.16	0.273329380878989
+Stipa_capillata	MT930003.1	03-MAR-2023	797	China	secondary	matK	35.000074	104.999927	0.284607843137255
+Stipa_capillata	JF697841.1	10-MAR-2012	555	Kazakhstan	secondary	matK	48.1012954	66.7780818	0.263754151086473
+Stipa_capillata	FN434260.1	14-JUL-2011	795	Italy:Aosta	secondary	matK	45.7370885	7.3196649	0.405330703148958
+Stipa_capillata	FN434259.1	14-JUL-2011	795	Russia	secondary	matK	52.597919	58.30756	0.407072754760022

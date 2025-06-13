@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sambucus_nigra	OQ310819.1	16-MAY-2023	476	Mexico: Puebla	secondary	psbA-trnH	18.7650505309101	-99.1577794767121	0.025925916241779
+Sambucus_nigra	OQ310186.1	16-MAY-2023	508	Mexico: Puebla	secondary	psbA-trnH	18.4835614642636	-98.9086317817257	0.0246176402059182
+Sambucus_nigra	HG800569.1	03-FEB-2014	395	Italy:Lombardy, Grigna settentrionale	secondary	psbA-trnH	45.9533979	9.3876756	0.0168629707348993
+Sambucus_nigra	KC584960.1	04-JUN-2013	529	Italy: Umbria	secondary	psbA-trnH	42.965916	12.490236	0.0152437379755463
+Sambucus_nigra	HE966791.1	18-SEP-2012	395	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0168629707348993

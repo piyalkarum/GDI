@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_ithaburensis	MN751884.1	24-NOV-2021	536	Lebanon: Beqaa, Barqa	primary	ycf1	34.4494178392718	36.3940735542737	0
+Quercus_ithaburensis	MN751883.1	24-NOV-2021	536	Lebanon: Beqaa, Kefraya-Maasser Al Chouf road	primary	ycf1	34.1425880986413	35.2581192611332	0
+Quercus_ithaburensis	MN751882.1	24-NOV-2021	536	Lebanon: Beqaa, Kefraya-Maasser Al Chouf road	primary	ycf1	34.3825504361971	35.9763649868027	0
+Quercus_ithaburensis	MN751881.1	24-NOV-2021	536	Lebanon: Beqaa, Barqa	primary	ycf1	34.8031264582583	36.2202302648465	0
+Quercus_ithaburensis	MN751874.1	24-NOV-2021	536	Lebanon: North, Noura	primary	ycf1	34.8255721491908	36.0748131389523	0
+Quercus_ithaburensis	MN751873.1	24-NOV-2021	536	Lebanon: North, Andket	primary	ycf1	34.6049	36.3088	0
+Quercus_ithaburensis	MN751872.1	24-NOV-2021	536	Lebanon: North, Noura	primary	ycf1	34.8869000185191	36.2359362449742	0
+Quercus_ithaburensis	MN751871.1	24-NOV-2021	536	Lebanon: North, Saydnaya	primary	ycf1	34.5889	36.123	0

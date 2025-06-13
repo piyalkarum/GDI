@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Umbilicus_rupestris	JN893149.1	07-MAR-2012	542	United Kingdom: Sussex, West (13)	primary	rbcL	51.01	-0.86	0.000961538461538462
+Umbilicus_rupestris	HM850435.1	23-JUL-2011	416	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00480769230769231
+Umbilicus_rupestris	JN892754.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.000961538461538462
+Umbilicus_rupestris	JN891612.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.000961538461538462
+Umbilicus_rupestris	JN891611.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.000961538461538462
+Umbilicus_rupestris	JN891607.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.000961538461538462

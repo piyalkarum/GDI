@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Reseda_lutea	JN894987.1	07-MAR-2012	764	United Kingdom: Glamorgan	primary	matK	51.52	-3.2	0.00825222299392528
+Reseda_lutea	MW662024.1	11-AUG-2021	795	Italy: Tarquinia - Necropolis	secondary	matK	42.2499429	11.767858	0.00295420974889217
+Reseda_lutea	JN895871.1	07-MAR-2012	755	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00264900662251656
+Reseda_lutea	JN895870.1	07-MAR-2012	755	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.00264900662251656

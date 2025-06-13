@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_acetosa	JN895619.1	07-MAR-2012	749	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.14	0.00272944863834666
+Rumex_acetosa	MN245082.1	31-AUG-2021	843	China	secondary	matK	30.047992	-94.3357433	0.00627388566632353
+Rumex_acetosa	KT280255.1	01-AUG-2016	741	China: Maqu Gansu	secondary	matK	34.6137382	102.4654149	0.00441866990212346
+Rumex_acetosa	JN895940.1	07-MAR-2012	824	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00254579687562428
+Rumex_acetosa	JN895163.1	07-MAR-2012	742	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00271095010860325

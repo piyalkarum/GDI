@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aubrieta_thessala	KF547495.1	09-SEP-2014	383	Greece: Reg. Thessaly, Per. Karditsa,Mt. Karava	primary	trnL-trnF	39.31	21.5469	0.0121845082680592
+Aubrieta_thessala	KF547494.1	09-SEP-2014	383	Greece: Mt. Olympus	primary	trnL-trnF	40.083	22.37	0.0121845082680592
+Aubrieta_thessala	KF547492.1	09-SEP-2014	383	Greece: Reg. Epirus, Per. Arta,Tsumerka mnts.	primary	trnL-trnF	39.435	21.1503	0.0121845082680592
+Aubrieta_thessala	KC412354.1	31-DEC-2013	383	Greece: Reg. Thessalia, Per. Larisis, Kokinoplo	primary	trnL-trnF	40.15	22.4167	0.0121845082680592

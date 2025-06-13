@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_arctica	MW046987.1	03-FEB-2021	425	Russia	secondary	psbA-trnH	65.1609117266452	98.9090147333011	0
+Potentilla_arctica	MW046986.1	03-FEB-2021	425	Russia	secondary	psbA-trnH	64.1156608875379	97.2487842310624	0
+Potentilla_arctica	MW046985.1	03-FEB-2021	416	Russia	secondary	psbA-trnH	64.6810525447617	95.7343948152194	0
+Potentilla_arctica	MW046984.1	03-FEB-2021	425	Russia	secondary	psbA-trnH	64.4619868789673	99.0806218939585	0
+Potentilla_arctica	MW046983.1	03-FEB-2021	411	Russia	secondary	psbA-trnH	64.4869514470133	98.1103361589274	0
+Potentilla_arctica	MW046982.1	03-FEB-2021	414	Russia	secondary	psbA-trnH	65.0333867410398	99.5923374931818	0
+Potentilla_arctica	MW046981.1	03-FEB-2021	417	Russia	secondary	psbA-trnH	64.0090846530398	96.5143375296409	0
+Potentilla_arctica	MW046980.1	03-FEB-2021	424	Russia	secondary	psbA-trnH	64.598791380532	97.6780848238498	0
+Potentilla_arctica	MW046979.1	03-FEB-2021	417	Russia	secondary	psbA-trnH	64.9009868665654	96.793944525222	0

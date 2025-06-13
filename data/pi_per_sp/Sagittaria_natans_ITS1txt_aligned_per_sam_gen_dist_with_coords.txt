@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagittaria_natans	LC541357.1	14-OCT-2020	700	Finland: Keski-Pohjanmaa	secondary	ITS1	63.6476557	24.1114113	0
+Sagittaria_natans	LC541336.1	14-OCT-2020	700	Japan: Hokkaido	secondary	ITS1	43.4519831	142.8197834	0
+Sagittaria_natans	LC169550.1	15-JUN-2017	670	Japan:Hokkaido, Shibetcha-cho, Lake Tohro	secondary	ITS1	43.4603175	143.330715792837	0
+Sagittaria_natans	LC169549.1	15-JUN-2017	670	Japan:Hokkaido, Kamishihoro-cho, Lake Shikaribetsu	secondary	ITS1	43.2815389	143.1167518	0
+Sagittaria_natans	LC169548.1	15-JUN-2017	670	China:Heilongjiang, Da Hinggan Ling	secondary	ITS1	52.3413513	124.5619384	0
+Sagittaria_natans	LC169547.1	15-JUN-2017	670	China:Inner Mongolia, Hulun Buir	secondary	ITS1	49.2125235	119.7370167	0
+Sagittaria_natans	LC169546.1	15-JUN-2017	670	Russia:Sakhalin, Okhinsky, Lake Uspenskoye	secondary	ITS1	50.15947595	143.026441186009	0
+Sagittaria_natans	LC169545.1	15-JUN-2017	670	Japan:Iwate, Hachimantai-shi, Lake Yonuma	secondary	ITS1	40.4590764467114	140.482078928627	0
+Sagittaria_natans	LC169544.1	15-JUN-2017	670	Japan:Iwate, Hachimantai-shi, Lake Yonuma	secondary	ITS1	40.038487910188	141.659850459818	0

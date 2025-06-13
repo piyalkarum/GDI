@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Panicum_repens	MH070548.1	14-JAN-2019	786	China	primary	matK	22.2691509378013	115.497677081711	0.0330036909572327
+Panicum_repens	MH070547.1	14-JAN-2019	786	China	primary	matK	22.9060349823682	114.373376560703	0.0318652196925267
+Panicum_repens	MH070546.1	14-JAN-2019	786	China	primary	matK	22.46	114.05	0.0272354221141223
+Panicum_repens	MH552261.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.3845622628444	-82.4679918084279	0.0200859686749555
+Panicum_repens	MH552190.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.6123146390275	-82.5677047053689	0.0200859686749555
+Panicum_repens	MH552126.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	30.3391707306384	-81.8874912980181	0.0200859686749555
+Panicum_repens	MH551969.1	11-MAR-2019	747	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.7038104311559	-81.7351403119889	0.0200859686749555
+Panicum_repens	HM850546.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0228187919463087

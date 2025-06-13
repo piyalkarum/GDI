@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_hydrolapathum	JN892486.1	07-MAR-2012	542	United Kingdom: Monmouthshire (35)	primary	rbcL	51.5	-3.13	0.00185192863164587
+Rumex_hydrolapathum	JN892145.1	07-MAR-2012	534	United Kingdom: Glamorgan	primary	rbcL	51.44	-3.27	0.000468164794007491
+Rumex_hydrolapathum	JN893122.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000461254612546125
+Rumex_hydrolapathum	JN893121.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000461254612546125
+Rumex_hydrolapathum	JN893115.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000461254612546125

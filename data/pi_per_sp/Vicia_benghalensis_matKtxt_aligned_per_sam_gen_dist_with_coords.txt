@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_benghalensis	KP897038.1	13-OCT-2015	686	Canada	secondary	matK	61.0666922	-107.991707	0.00292539799958972
+Vicia_benghalensis	KP897037.1	13-OCT-2015	686	Uruguay	secondary	matK	-32.8755548	-56.0201525	0.00292539799958972
+Vicia_benghalensis	KP897036.1	13-OCT-2015	686	Australia	secondary	matK	-24.7761086	134.755	0.0174304199600942
+Vicia_benghalensis	KP897035.1	13-OCT-2015	686	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00292539799958972
+Vicia_benghalensis	KP897034.1	13-OCT-2015	686	Belgium	secondary	matK	50.6402809	4.6667145	0.00292539799958972
+Vicia_benghalensis	HM851166.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00499984898741621
+Vicia_benghalensis	JX505843.1	09-JAN-2013	868	Spain	secondary	matK	40.0448538201533	-5.08915870224169	0.00276101530730912
+Vicia_benghalensis	JX505842.1	09-JAN-2013	1521	Spain	secondary	matK	39.1548451482442	-3.77658460153441	0.00285039085292977

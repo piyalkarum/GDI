@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Descurainia_sophia	MF785737.1	06-DEC-2017	330	China: Between Nielamu (Nyalam) and Zhangmu on route 318.	primary	psbA-trnH	28.1217	85.99	0.00182557280118256
+Descurainia_sophia	KM892578.1	11-OCT-2018	375	China	secondary	psbA-trnH	35.4366326706268	104.732478381567	0.00436552196165302
+Descurainia_sophia	KM892577.1	11-OCT-2018	374	China	secondary	psbA-trnH	34.3021440916622	104.883525332941	0.0017395786353972
+Descurainia_sophia	KM892576.1	11-OCT-2018	253	China	secondary	psbA-trnH	34.7042867614958	105.757183141812	0.000790513833992095
+Descurainia_sophia	KM892575.1	11-OCT-2018	319	China	secondary	psbA-trnH	35.6158581690053	104.377968686707	0.00190084459796737
+Descurainia_sophia	KX244468.1	19-DEC-2016	332	China	secondary	psbA-trnH	34.2000051787385	104.850519837499	0.00550544573821151

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Valeriana_montana	HM162386.1	08-MAY-2011	887	France: Hautes-Alpes, Galibier pass	secondary	trnL-trnF	45.0641651	6.407878	0
+Valeriana_montana	HM162385.1	08-MAY-2011	887	France: Hautes-Alpes, Gleize pass	secondary	trnL-trnF	44.6226027	6.0479763	0
+Valeriana_montana	HM162384.1	08-MAY-2011	887	Spain: Catalonia, Vall d'Aran, on the way to the Restanca from Arties	secondary	trnL-trnF	42.4448177080357	1.13765083213834	0
+Valeriana_montana	HM162383.1	08-MAY-2011	887	Spain: Catalonia, Vall d'Aran, on the way to the Restanca from Arties	secondary	trnL-trnF	41.80669989317	2.76432690307265	0
+Valeriana_montana	HM162382.1	08-MAY-2011	887	France	secondary	trnL-trnF	44.75404605	6.48621104011499	0

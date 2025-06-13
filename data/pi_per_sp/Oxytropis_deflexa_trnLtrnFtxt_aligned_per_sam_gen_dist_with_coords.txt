@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxytropis_deflexa	MK801065.1	04-FEB-2020	527	USA: Idaho, White Cloud Mountains, D.O. Lee Peak	primary	trnL-trnF	44.10277	-114.62859	0.0986764383733121
+Oxytropis_deflexa	LR898343.1	25-JAN-2021	716	Russia:Magadan Region	secondary	trnL-trnF	63.4723578795954	155.322130728703	0.0153261010632814
+Oxytropis_deflexa	LR898342.1	25-JAN-2021	829	Russia:Magadan Region	secondary	trnL-trnF	63.5111588994711	155.313060802152	0.013312637065903
+Oxytropis_deflexa	LR898341.1	25-JAN-2021	940	Russia:Magadan Region	secondary	trnL-trnF	63.7706476285494	155.294379960688	0.013312637065903
+Oxytropis_deflexa	LR898340.1	25-JAN-2021	718	Russia:Tyva	secondary	trnL-trnF	51.4017149	93.8582593	0.013402955289926
+Oxytropis_deflexa	LR898339.1	25-JAN-2021	825	Russia:Buryatia	secondary	trnL-trnF	52.9577142896102	109.263499520567	0.0135347033210153
+Oxytropis_deflexa	LR898338.1	25-JAN-2021	825	Russia:Buryatia	secondary	trnL-trnF	53.3438338541532	110.249069007428	0.0135347033210153
+Oxytropis_deflexa	LN898587.1	23-DEC-2015	765	Russia	secondary	trnL-trnF	65.1082699983258	97.2345785585301	0.0132411798655024
+Oxytropis_deflexa	LN898586.1	23-DEC-2015	765	Russia	secondary	trnL-trnF	65.392203208855	98.2132723281315	0.0132411798655024

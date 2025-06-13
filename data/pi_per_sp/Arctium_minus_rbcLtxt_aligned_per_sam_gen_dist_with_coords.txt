@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctium_minus	OR464849.1	26-SEP-2023	610	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28790443	-85.62073412	0.000368525974144218
+Arctium_minus	MG224423.1	26-DEC-2017	553	Canada: Ontario, Halton, Halton, Moffat	primary	rbcL	43.5	-79.9167	0.000266524520255864
+Arctium_minus	MG221879.1	26-DEC-2017	552	Canada: Ontario, Norfolk County, Norfolk Township, Backus Woods, forest around north parking lot	primary	rbcL	42.673	-80.499	0.000266524520255864
+Arctium_minus	MG221859.1	26-DEC-2017	553	Canada: Ontario, Wellington, Wellington, Guelph	primary	rbcL	43.5485	-80.2503	0.000266524520255864
+Arctium_minus	MG221271.1	26-DEC-2017	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Halfway Log Dump Parking Lot, BPNP	primary	rbcL	45.227	-81.48	0.000266524520255864
+Arctium_minus	KX678582.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, near Whistler, Callagan Creek Forest Service Road	primary	rbcL	50.0722	-123.1	0.000266524520255864
+Arctium_minus	KX678121.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Squamish Valley Rd., Riverside Forest Recreation Site	primary	rbcL	49.916	-123.296	0.000266524520255864
+Arctium_minus	HQ589961.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., edge of Echo Valley Driveway	primary	rbcL	44.025	-79.53	0.000370599404253837
+Arctium_minus	KJ593225.1	17-MAR-2015	533	USA: Wisconsin, Laona	primary	rbcL	45.56	-88.798	0.00013401232913428
+Arctium_minus	KJ593224.1	17-MAR-2015	531	USA: Wisconsin, Laona	primary	rbcL	45.561	-88.791	0.000134517083669626
+Arctium_minus	KJ841116.1	04-NOV-2014	570	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. La Pre (the old orchard)	primary	rbcL	45.542	-73.161	0.000906291273020816
+Arctium_minus	JN892409.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.51	-3.3	0.000272108843537415
+Arctium_minus	KC589794.1	21-MAY-2013	1417	Belgium	secondary	rbcL	50.6402809	4.6667145	0.000466749324142429
+Arctium_minus	HM849788.1	23-JUL-2011	661	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00350660089503642
+Arctium_minus	JN891934.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000272108843537415

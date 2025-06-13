@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Orostachys_spinosa	LK022073.1	12-MAY-2015	613	Russia:Magadan Terr., Susumansky Distr	primary	ITS2	63.99	152.4	0.0254175744371823
+Orostachys_spinosa	LK022072.1	12-MAY-2015	612	Russia:Khabarovsky Terr., Shantar Islands	primary	ITS2	54.91	137.67	0.0254175744371823
+Orostachys_spinosa	LK022071.1	12-MAY-2015	614	Russia:Primorsky Terr., Lazovsky Distr.	primary	ITS2	43.41	133.89	0.0259317328479228
+Orostachys_spinosa	LK022070.1	12-MAY-2015	614	Russia:Primorsky Terr., Khasanski Distr., Khanka Lake	primary	ITS2	45.24	151.98	0.0241179688552253
+Orostachys_spinosa	LK022069.1	12-MAY-2015	613	Russia:Amur Terr., Blagoveshchensk	primary	ITS2	50.37	127.65	0.0246629254082154
+Orostachys_spinosa	LK022068.1	12-MAY-2015	613	Russia:Amur Terr., Skovorodinsky Distr., Solovyovsk	primary	ITS2	54.11	124.61	0.0228491614155178
+Orostachys_spinosa	LK022067.1	12-MAY-2015	613	China:Inner Mongolia, Yakeshi Shi	primary	ITS2	49.23	120.88	0.0261135811946675
+Orostachys_spinosa	LK022066.1	12-MAY-2015	614	Russia:Zabaikalski Terr., Chita	primary	ITS2	52.03	113.45	0.0290068989883873
+Orostachys_spinosa	LK022065.1	12-MAY-2015	614	Russia:Irkutsk Region, Baikal Lake	primary	ITS2	51.87	104.8	0.0319082105612915
+Orostachys_spinosa	LK022064.1	12-MAY-2015	613	Russia:Republic of Bashkortostan, Ufa	primary	ITS2	54.83	56.19	0.0406118462127163

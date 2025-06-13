@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_neapolitanum	HF934753.1	12-MAY-2015	294	Israel:Golan	secondary	trnL-trnF	33.0105642	35.749532	0
+Allium_neapolitanum	HF934752.1	12-MAY-2015	294	Israel:Mt. Gilboa	secondary	trnL-trnF	32.4935355	35.4129183	0
+Allium_neapolitanum	HF934750.1	12-MAY-2015	294	Israel:Netanja	secondary	trnL-trnF	32.3040272	34.8620134	0
+Allium_neapolitanum	HF934748.1	12-MAY-2015	294	Turkey	secondary	trnL-trnF	36.7664439	31.3892197	0

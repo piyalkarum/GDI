@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arenaria_humifusa	KC482021.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Sand dunes E of Kuujua River, 2 km S of on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.18	-116.6	0
+Arenaria_humifusa	KC482020.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 3 km ESE of junction with Little Hornaday River, NE bank, between willow grove and sand hills to east	primary	rbcL	68.433	-121.964	0
+Arenaria_humifusa	KC482019.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Nikko Island	primary	rbcL	66.583	-71.05	0
+Arenaria_humifusa	KC482018.1	25-OCT-2013	552	Canada: Nunavut, Keewatin, Baker Lake	primary	rbcL	64.317	-96	0
+Arenaria_humifusa	JN965271.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Bank of small stream near Goose Creek Rd	primary	rbcL	58.739	-94.112	0

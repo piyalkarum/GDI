@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ajuga_reptans	KX783627.1	31-MAY-2017	790	Egypt: Alexandria, Abeis, Green Oasis	primary	matK	31.2	30.022	0.00304022708396809
+Ajuga_reptans	JN896108.1	07-MAR-2012	796	United Kingdom: Breconshire (42)	primary	matK	51.78	-3.54	0.000388726919339164
+Ajuga_reptans	JN895374.1	07-MAR-2012	816	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.000388726919339164
+Ajuga_reptans	JN894214.1	07-MAR-2012	873	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000713581877835649
+Ajuga_reptans	JN894212.1	07-MAR-2012	868	United Kingdom: Breconshire	secondary	matK	52.9877138	-1.1775355	0.000713581877835649
+Ajuga_reptans	JN894211.1	07-MAR-2012	835	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000703836450065511
+Ajuga_reptans	JN893924.1	07-MAR-2012	702	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.000422029964127453
+Ajuga_reptans	MF349940.1	21-SEP-2017	809	USA	secondary	matK	38.8950368	-77.0365427	0.000394088669950739

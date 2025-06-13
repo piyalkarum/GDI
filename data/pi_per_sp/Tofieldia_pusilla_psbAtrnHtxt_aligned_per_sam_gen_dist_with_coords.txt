@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tofieldia_pusilla	OP005239.1	12-APR-2023	229	Norway: Svalbard, Nathorstdalen	primary	psbA-trnH	78.6682196416416	11.0577524750591	0
+Tofieldia_pusilla	OP005238.1	12-APR-2023	229	Norway: Svalbard, Nathorstdalen	primary	psbA-trnH	79.3149389199268	13.7421142741753	0
+Tofieldia_pusilla	OP005237.1	12-APR-2023	229	Norway: Svalbard, Ringhorndalen	primary	psbA-trnH	79.336	16.081	0
+Tofieldia_pusilla	OP005236.1	12-APR-2023	229	USA: Alaska, Nome	primary	psbA-trnH	64.894	-165.215	0
+Tofieldia_pusilla	OP005235.1	12-APR-2023	229	Greenland: Disko	primary	psbA-trnH	69.25	-53.542	0
+Tofieldia_pusilla	OP005234.1	12-APR-2023	229	Norway: Svalbard, Bockfjorden	primary	psbA-trnH	79.389	13.438	0
+Tofieldia_pusilla	OP005233.1	12-APR-2023	229	Greenland: Angmagssalik Island	primary	psbA-trnH	65.717	-37.583	0

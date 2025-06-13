@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elatine_hexandra	JN892239.1	07-MAR-2012	527	United Kingdom: Cardiganshire	primary	rbcL	52.43	-4.07	0.00145477545857053
+Elatine_hexandra	MK925178.1	14-JAN-2020	538	United Kingdom	secondary	rbcL	55.5953019963847	-3.31043403562295	0.00166430013771058
+Elatine_hexandra	MK924939.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3567875754718	-2.55508911871385	0.00165173080302232
+Elatine_hexandra	KU604885.1	31-OCT-2017	940	Austria: Lower Austria	secondary	rbcL	48.2817813	15.7632457	0.00215100698392074
+Elatine_hexandra	KU604884.1	31-OCT-2017	1025	Austria: Steiermark	secondary	rbcL	47.2500001	15.1666665	0.00206192450973501
+Elatine_hexandra	KU604883.1	31-OCT-2017	978	Ireland: Galway	secondary	rbcL	53.2744122	-9.0490601	0.00223926380368098
+Elatine_hexandra	HM849969.1	23-JUL-2011	1308	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0101718297229426
+Elatine_hexandra	JN892810.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2129631051623	-2.94637049841301	0.00165173080302232
+Elatine_hexandra	JN892335.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.692727077539	-2.74273687747189	0.00603623611005323

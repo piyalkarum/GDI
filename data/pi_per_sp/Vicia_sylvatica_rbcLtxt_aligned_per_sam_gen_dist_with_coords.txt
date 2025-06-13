@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_sylvatica	JN891170.1	07-MAR-2012	537	United Kingdom: Monmouthshire	primary	rbcL	51.65	-2.7	0
+Vicia_sylvatica	JX505520.1	09-JAN-2013	1352	Romania	secondary	rbcL	45.9852129	24.6859225	0
+Vicia_sylvatica	JX505519.1	09-JAN-2013	1352	Germany	secondary	rbcL	34.895926	-83.4665496	0
+Vicia_sylvatica	JN893679.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Vicia_sylvatica	JN893676.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0

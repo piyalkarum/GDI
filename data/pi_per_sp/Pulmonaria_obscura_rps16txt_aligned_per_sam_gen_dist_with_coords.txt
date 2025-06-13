@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pulmonaria_obscura	MK962126.1	22-DEC-2019	890	Switzerland	secondary	rps16	46.8527204472653	9.00413996795081	0.00993328247630623
+Pulmonaria_obscura	MK962125.1	22-DEC-2019	890	Switzerland	secondary	rps16	46.9933723504113	7.56919204109984	0.00880968697068825
+Pulmonaria_obscura	MK962124.1	22-DEC-2019	890	Switzerland	secondary	rps16	47.523053370468	7.842243237336	0.00822073673730622
+Pulmonaria_obscura	MK962122.1	22-DEC-2019	890	Switzerland	secondary	rps16	46.8958624762658	8.64505675816222	0.0116186757347332
+Pulmonaria_obscura	MK962121.1	22-DEC-2019	877	Switzerland	secondary	rps16	46.4867812221126	8.22286234788907	0.0161104718066743

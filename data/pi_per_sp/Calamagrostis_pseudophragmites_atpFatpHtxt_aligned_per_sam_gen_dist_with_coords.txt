@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_pseudophragmites	KX872046.1	16-OCT-2017	569	Kyrgyzstan: Chu, Kemin, Zailiisky Ala-Too S slope, Ger-Taby|gy (Rv.), Boroldoy settlement, 18 k ENE of Bystrovka, 5 km E of Boroldoy	primary	atpF-atpH	42.8003	75.925	0
+Calamagrostis_pseudophragmites	KX872045.1	16-OCT-2017	645	Kyrgyzstan: Chu, Kemin, Zailiisky Ala-Too, Kechi-Kemin (Rv.), Ak-Tyuz settlement, 35 k ENE of Bystrovka, below Ak-Tyuz mine	primary	atpF-atpH	42.8717	76.1042	0
+Calamagrostis_pseudophragmites	KX872044.1	16-OCT-2017	529	China: Qinghai, Dulan, S slope of Ngola Shan, NE of Dulan (Qagan Us) ca. 27 km., ca. 300 km W of Xining on rd. to Golmud. E end of Qinghai Pendi (Basin)	primary	atpF-atpH	36.4333	98.25	0
+Calamagrostis_pseudophragmites	KX872043.1	16-OCT-2017	656	China: Hebei, Zhangbeixian, Damaqun Shan, just S of Youlougou Xiang (village), S of Zhangbei City ca. 10 km	primary	atpF-atpH	41	114.6667	0
+Calamagrostis_pseudophragmites	KX872042.1	16-OCT-2017	448	Poland: Malopolskie Voivodeship, W end of Pieniny Spiskie Mts., Krempachy village, nearby Oblazowa Mt., on left side of Bianka river	primary	atpF-atpH	49.4197	20.1661	0

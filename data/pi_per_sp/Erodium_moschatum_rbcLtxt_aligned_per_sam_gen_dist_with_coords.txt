@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erodium_moschatum	JQ412355.1	16-JAN-2013	551	South Africa: Western Cape, Robben Island	primary	rbcL	-33.789	18.369	0
+Erodium_moschatum	JN892229.1	07-MAR-2012	458	United Kingdom: Carmarthenshire	primary	rbcL	51.76	-4.46	0
+Erodium_moschatum	OQ392127.1	10-MAY-2023	528	Peru	secondary	rbcL	-6.4965514499054	-75.4353034313946	0
+Erodium_moschatum	OQ392061.1	10-MAY-2023	528	Peru	secondary	rbcL	-7.43529512555168	-74.7714179656368	0
+Erodium_moschatum	OQ392005.1	10-MAY-2023	525	Peru	secondary	rbcL	-7.30122638778453	-74.6495680846945	0
+Erodium_moschatum	OQ391964.1	10-MAY-2023	525	Peru	secondary	rbcL	-6.03126938539075	-75.1004099163193	0
+Erodium_moschatum	OQ391716.1	10-MAY-2023	525	Peru	secondary	rbcL	-7.15758093887534	-75.1845984949195	0
+Erodium_moschatum	OQ391648.1	10-MAY-2023	522	Peru	secondary	rbcL	-6.69716771361773	-74.3795779429493	0
+Erodium_moschatum	OQ391618.1	10-MAY-2023	528	Peru	secondary	rbcL	-7.31215112955782	-74.8576744949082	0
+Erodium_moschatum	OQ391276.1	10-MAY-2023	525	Peru	secondary	rbcL	-6.47894050493936	-75.4095167671971	0
+Erodium_moschatum	MK925285.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9156040481571	-3.61143882707201	0
+Erodium_moschatum	MK924886.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.5689702361199	-3.4715868156769	0
+Erodium_moschatum	MK924463.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9692772482482	-3.16040362429765	0
+Erodium_moschatum	MG246493.1	21-JAN-2018	553	USA: Washington, King County, 24th Avenue Eat, at East McGraw Street, T25N R4E S21, Montlake, Seattle	secondary	rbcL	38.8950368	-77.0365427	0
+Erodium_moschatum	HM849983.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Erodium_moschatum	JN892086.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Erodium_moschatum	JN892080.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

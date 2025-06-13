@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_grossekii	MK556074.1	22-SEP-2019	346	Hungary	secondary	rbcL	42.8106445383784	-73.0948148079049	0.555939027897613
+Campanula_grossekii	MK555994.1	22-SEP-2019	372	Hungary	secondary	rbcL	41.4654044448274	-72.7407288196133	0.570249770843042
+Campanula_grossekii	MK555543.1	22-SEP-2019	357	Hungary	secondary	rbcL	41.7328943592617	-71.7884065859698	0.622453233185564
+Campanula_grossekii	MK555353.1	22-SEP-2019	382	Hungary	secondary	rbcL	41.8388915973748	-72.4749560429977	0.624508314548197

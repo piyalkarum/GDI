@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxytropis_deflexa	KX676626.1	09-AUG-2017	815	Canada: British Columbia, East Kootenay Regional District, near Wasa, Kootenay River	primary	matK	49.792	-115.75	0
+Oxytropis_deflexa	KC475085.1	25-OCT-2013	534	Canada: Northwest Territories, Arctic Mainland, Richardson Mountains, Bear Crek	primary	matK	67.44	-136.07	0
+Oxytropis_deflexa	KC475084.1	25-OCT-2013	538	Canada: Nunavut, Baffin Island, Iqaluit, Causeway to Inuit Head	primary	matK	63.75	-68.517	0
+Oxytropis_deflexa	KC475083.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, River valley at N head of Minto Inlet, ~ 3 km from Inlet	primary	matK	71.68	-115.492	0
+Oxytropis_deflexa	KC475082.1	25-OCT-2013	776	Canada: Northwest Territories, Arctic Mainland, Tuktoyaktuk, Mackay Pingo	primary	matK	69.28	-132.33	0
+Oxytropis_deflexa	KC475081.1	25-OCT-2013	655	Canada: Nunavut, Canadian Arctic Archipelago, Baffin Island, Iqaluit	primary	matK	63.445	-68.315	0
+Oxytropis_deflexa	KC475080.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	matK	62.533	-114.356	0

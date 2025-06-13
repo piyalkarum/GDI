@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myriophyllum_spicatum	OQ404754.1	03-JUL-2023	894	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	42.1766067087939	-86.659613239485	0.040097205346294
+Myriophyllum_spicatum	OQ404753.1	03-JUL-2023	848	USA: Asylum Lake Preserve, Kalamazoo, MI	primary	matK	41.9850641779766	-86.4158607566786	0.201166452003734
+Myriophyllum_spicatum	LC219325.1	16-MAR-2017	645	China:Zhejiang, East Tiaoxi River	primary	matK	30.377	119.9517	0.0393798449612403
+Myriophyllum_spicatum	LC219291.1	16-MAR-2017	588	China:Zhejiang, East Tiaoxi River	primary	matK	30.3445	119.9476	0.0404761904761905
+Myriophyllum_spicatum	LC219237.1	16-MAR-2017	681	China:Zhejiang, East Tiaoxi River	primary	matK	30.4311	120.0504	0.0411160058737151
+Myriophyllum_spicatum	MK925742.1	14-JAN-2020	870	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.040097205346294

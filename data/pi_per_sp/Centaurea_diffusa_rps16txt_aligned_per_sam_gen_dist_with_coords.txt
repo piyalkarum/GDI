@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_diffusa	AY316627.1	10-JUL-2003	689	USA: California, Lower Lemonade DK6	secondary	rps16	38.628683	-92.5659635	0.000362844702467344
+Centaurea_diffusa	AY316624.1	10-JUL-2003	689	USA: Fort Collins, Colorado DK6	secondary	rps16	40.9750604229602	-106.124958504172	0.000362844702467344
+Centaurea_diffusa	AY316623.1	10-JUL-2003	689	USA: Fort Collins, Colorado DK5	secondary	rps16	40.8292806939662	-105.945621410578	0.000362844702467344
+Centaurea_diffusa	AY316609.1	10-JUL-2003	691	USA: Afton, Wyoming DK9	secondary	rps16	42.2098380473488	-110.252184760556	0.00145190620042529
+Centaurea_diffusa	AY316608.1	10-JUL-2003	688	USA: Afton, Wyoming DK2	secondary	rps16	43.1817649589021	-110.071415489528	0.000363372093023256

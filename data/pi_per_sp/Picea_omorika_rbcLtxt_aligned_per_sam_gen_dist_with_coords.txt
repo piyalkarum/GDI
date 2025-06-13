@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Picea_omorika	MW019234.1	01-OCT-2021	1520	Norway	secondary	rbcL	64.4238823625128	10.6010697269531	0
+Picea_omorika	MW019233.1	01-OCT-2021	1520	Norway	secondary	rbcL	64.1042215074553	12.9502251394059	0
+Picea_omorika	MW019232.1	01-OCT-2021	1520	Norway	secondary	rbcL	64.2457713831596	12.4543269300623	0
+Picea_omorika	MW019231.1	01-OCT-2021	1520	Norway	secondary	rbcL	64.6215083716427	13.0401327565173	0
+Picea_omorika	MW019230.1	01-OCT-2021	1520	Norway	secondary	rbcL	64.3206566541303	10.8869016209764	0
+Picea_omorika	JX508455.1	09-AUG-2013	676	Serbia: Crvene Stene, Tara National Park	secondary	rbcL	44.1206146	21.6641074	0

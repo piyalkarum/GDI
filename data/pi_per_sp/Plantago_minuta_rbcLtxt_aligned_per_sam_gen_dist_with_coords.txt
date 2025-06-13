@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_minuta	MT931654.1	03-MAR-2023	568	China	secondary	rbcL	35.741780095729	104.500148441828	0
+Plantago_minuta	MT931653.1	03-MAR-2023	571	China	secondary	rbcL	35.2883607489854	105.591199529987	0
+Plantago_minuta	MT931652.1	03-MAR-2023	568	China	secondary	rbcL	34.755760624109	105.940566999512	0
+Plantago_minuta	MT931651.1	03-MAR-2023	568	China	secondary	rbcL	34.4643528356888	104.220114253949	0
+Plantago_minuta	MT931650.1	03-MAR-2023	568	China	secondary	rbcL	35.4055805272471	104.798733324525	0
+Plantago_minuta	MT931647.1	03-MAR-2023	571	China	secondary	rbcL	34.5354104893869	105.773452632373	0
+Plantago_minuta	MT931646.1	03-MAR-2023	571	China	secondary	rbcL	34.6739202553494	104.998765690435	0

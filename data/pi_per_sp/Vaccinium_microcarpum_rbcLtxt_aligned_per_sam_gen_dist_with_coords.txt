@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vaccinium_microcarpum	MG221485.1	26-DEC-2017	552	Canada: Yukon Territory, Shingle Point area, mainland opposite SHIPOND1	primary	rbcL	68.986	-137.438	0.000215749730312837
+Vaccinium_microcarpum	MG221423.1	26-DEC-2017	515	Canada: Yukon Territory, La Biche between La Biche and Liard rivers	primary	rbcL	60.054	-123.999	0.00197000051368983
+Vaccinium_microcarpum	JN965697.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0.000215749730312837
+Vaccinium_microcarpum	JN965696.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	rbcL	58.692	-94.132	0.000215749730312837
+Vaccinium_microcarpum	MK925497.1	14-JAN-2020	542	Sweden	secondary	rbcL	59.6749712	14.5208584	0.000220458553791887
+Vaccinium_microcarpum	MK925291.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.097214259165	-3.20395156179507	0.000220458553791887
+Vaccinium_microcarpum	MK925281.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9484450310675	-2.72533104766723	0.000220458553791887
+Vaccinium_microcarpum	MK925157.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0658971505071	-3.18498751336882	0.000220458553791887
+Vaccinium_microcarpum	MK925156.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6946725838033	-4.62048446387833	0.000220458553791887
+Vaccinium_microcarpum	MK924577.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8371606347632	-3.8754860011789	0.000220458553791887

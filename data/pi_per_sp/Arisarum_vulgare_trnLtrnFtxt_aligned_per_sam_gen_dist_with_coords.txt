@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arisarum_vulgare	EU193313.1	12-AUG-2008	380	Greece	secondary	trnL-trnF	43.3576770789228	-78.1796551467684	0.00087719298245614
+Arisarum_vulgare	EU193312.1	12-AUG-2008	380	Greece	secondary	trnL-trnF	43.4008051698183	-77.6427014384672	0.00087719298245614
+Arisarum_vulgare	EU193311.1	12-AUG-2008	380	Greece: Crete	secondary	trnL-trnF	35.3084952	24.4633423	0.00087719298245614
+Arisarum_vulgare	EU193310.1	12-AUG-2008	380	Spain: Tenerife	secondary	trnL-trnF	28.2935785	-16.6214471	0.00263157894736842

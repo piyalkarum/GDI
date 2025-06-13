@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Doronicum_pardalianches	AJ400079.1	13-MAR-2001	214	Spain	secondary	ITS	39.5717165487704	-5.26020300834622	0.365946866353205
+Doronicum_pardalianches	AJ400078.1	13-MAR-2001	214	Spain	secondary	ITS	39.4415138439454	-5.1483318244901	0.365946866353205
+Doronicum_pardalianches	AJ400033.1	11-MAR-2001	257	Spain	secondary	ITS	39.0455757119514	-5.63937656191454	0.364389233954451
+Doronicum_pardalianches	AJ400032.1	11-MAR-2001	257	Spain	secondary	ITS	38.8192085489499	-4.79623319381232	0.364389233954451

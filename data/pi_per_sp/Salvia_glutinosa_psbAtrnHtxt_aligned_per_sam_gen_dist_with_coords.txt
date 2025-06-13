@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salvia_glutinosa	MW469755.1	31-JAN-2023	243	China	secondary	psbA-trnH	35.1497552236902	104.258362583826	0.0252100840336134
+Salvia_glutinosa	MW469754.1	31-JAN-2023	243	China	secondary	psbA-trnH	34.974282841368	104.733809090825	0.0252100840336134
+Salvia_glutinosa	MW469753.1	31-JAN-2023	238	Mexico	secondary	psbA-trnH	18.9885977677249	-98.9144899775941	0.0252100840336134
+Salvia_glutinosa	MW469752.1	31-JAN-2023	238	Mexico	secondary	psbA-trnH	19.5490110653092	-98.3643272999455	0.0252100840336134

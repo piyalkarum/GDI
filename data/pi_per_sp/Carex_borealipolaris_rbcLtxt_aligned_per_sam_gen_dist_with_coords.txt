@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_borealipolaris	MG227388.1	23-JAN-2018	552	USA: Alaska, Beechy Point Quad, Kuparuk oil field	primary	rbcL	70.18	-149.27	0
+Carex_borealipolaris	KC483062.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk	primary	rbcL	69.3583	-124.228	0
+Carex_borealipolaris	KC483061.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	rbcL	71.253	-116.385	0
+Carex_borealipolaris	KC483060.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vicinity of Holman Island Airport, Uluhaktok	primary	rbcL	70.758	-117.79	0
+Carex_borealipolaris	KC483059.1	25-OCT-2013	552	Canada: Nunavut, Baker Lake, About 0.5 km E of the eastern end of the settlement	primary	rbcL	64.317	-96	0
+Carex_borealipolaris	KC483058.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Near Red Rocks Rising hiking area, west side of Hornaday River	primary	rbcL	68.6278	-122.436	0

@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erysimum_cheiranthoides	OR714769.1	13-NOV-2023	516	Kazakhstan: Qaragandy region	primary	rbcL	47.6306	74.4412	0.0177838577291382
+Erysimum_cheiranthoides	MG249639.1	21-JAN-2018	552	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	rbcL	43.529	-80.229	0.00134568488669482
+Erysimum_cheiranthoides	MG249042.1	21-JAN-2018	552	Canada: Ontario, Norfolk County, Norfolk Twp., Carr Tract and Nursery Tract (St. Williams Forest), North Walsingham/South Walsingham Townline Road	primary	rbcL	42.712	-80.474	0.00134568488669482
+Erysimum_cheiranthoides	MG248066.1	21-JAN-2018	552	Canada: Ontario, Norfolk County, Delhi Twp., Entrance to Smith Forest Tract	primary	rbcL	42.744	-80.424	0.00134568488669482
+Erysimum_cheiranthoides	MG247903.1	21-JAN-2018	552	Canada: Yukon Territory, Alaska Highway, km 1890	primary	rbcL	62.04	-140.615	0.00134568488669482
+Erysimum_cheiranthoides	MG247828.1	21-JAN-2018	552	Canada: Manitoba, York Factory	primary	rbcL	57	-92.307	0.00134568488669482
+Erysimum_cheiranthoides	MG247648.1	21-JAN-2018	553	Canada: Ontario, Wellington, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	0.00134510677983292
+Erysimum_cheiranthoides	HQ590092.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Clearing in woods W of manager's house	primary	rbcL	44.031	-79.53	0.00131671763759333
+Erysimum_cheiranthoides	KC482839.1	25-OCT-2013	552	Canada: Northwest Territories, Baffin Island, Frobisher Bay	primary	rbcL	62.733	-68.45	0.00134568488669482
+Erysimum_cheiranthoides	JN892509.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.69	-3.16	0.00135158328327469
+Erysimum_cheiranthoides	MT930811.1	03-MAR-2023	569	China	secondary	rbcL	35.7797017813607	104.933373305514	0.00133613342341064
+Erysimum_cheiranthoides	MT930801.1	03-MAR-2023	572	China	secondary	rbcL	35.5410314085297	105.498342735459	0.00133486764273718
+Erysimum_cheiranthoides	MT930800.1	03-MAR-2023	572	China	secondary	rbcL	35.2972493028731	104.953116547146	0.00133486764273718
+Erysimum_cheiranthoides	MN204794.1	30-NOV-2021	724	China	secondary	rbcL	34.6167328415075	105.342199228311	0.00450294968228745
+Erysimum_cheiranthoides	MN185101.1	27-APR-2021	721	China	secondary	rbcL	34.8853938631623	104.930384201522	0.00280598542596047
+Erysimum_cheiranthoides	MG249143.1	21-JAN-2018	553	Canada: Ontario, Wellington County, City of Guelph, South-East of Summerfield Road along Victoria Road South	secondary	rbcL	43.72634945	-77.7101179040839	0.00134510677983292
+Erysimum_cheiranthoides	JN890730.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00135158328327469
+Erysimum_cheiranthoides	JN890729.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00135158328327469

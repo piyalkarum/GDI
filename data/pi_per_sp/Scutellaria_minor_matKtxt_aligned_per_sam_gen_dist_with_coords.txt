@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scutellaria_minor	JN895493.1	07-MAR-2012	837	United Kingdom: Glamorgan	primary	matK	51.76	-3.43	0
+Scutellaria_minor	OU991607.1	06-JAN-2022	2762	Germany:Hessen	secondary	matK	50.6080651	9.0284647	0
+Scutellaria_minor	HM850804.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0
+Scutellaria_minor	JN895419.1	07-MAR-2012	881	United Kingdom: Cardiganshire	secondary	matK	52.7399210898587	-5.13663473900941	0
+Scutellaria_minor	JN895416.1	07-MAR-2012	869	United Kingdom: Cardiganshire	secondary	matK	52.517141356473	-2.62652132168243	0

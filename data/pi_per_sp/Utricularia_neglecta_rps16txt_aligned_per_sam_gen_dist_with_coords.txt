@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Utricularia_neglecta	MW835202.1	30-NOV-2021	790	Russia: Ivanovo region	secondary	rps16	56.8864725051954	41.3091111599712	0.00227848101265823
+Utricularia_neglecta	MW835201.1	30-NOV-2021	790	Russia: Yaroslavl region	secondary	rps16	57.6369755	39.8764253	0.00227848101265823
+Utricularia_neglecta	MW835200.1	30-NOV-2021	790	Russia: Ivanovo region	secondary	rps16	56.9522350598168	40.6651021459505	0.00227848101265823
+Utricularia_neglecta	MW835186.1	30-NOV-2021	790	Russia: Tyumen	secondary	rps16	57.153534	65.542274	0.00227848101265823
+Utricularia_neglecta	MW835185.1	30-NOV-2021	790	Russia: Altai	secondary	rps16	50.6914507083735	86.0831065555395	0.00227848101265823
+Utricularia_neglecta	MW835184.1	30-NOV-2021	790	Russia: Altai	secondary	rps16	50.3475320849184	87.9021819977406	0.00227848101265823

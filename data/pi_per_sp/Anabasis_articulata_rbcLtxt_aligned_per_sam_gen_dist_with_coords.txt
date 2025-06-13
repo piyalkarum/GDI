@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anabasis_articulata	MF156760.1	30-MAY-2018	665	Egypt: Sinai, Dahab, Wad el Ghaghib, ca. 30km N Dahab, ca. 15km W Ras el Mamlah	secondary	rbcL	29.52316965	33.805472576508	0.22382372317952
+Anabasis_articulata	KY884333.1	30-APR-2018	592	Morocco: Layoune	secondary	rbcL	31.5153339	-9.7638449	0.223848598190459
+Anabasis_articulata	KY794551.1	23-JAN-2018	629	Egypt	secondary	rbcL	26.2540493	29.2675469	0.457069984972622
+Anabasis_articulata	KX262518.1	11-APR-2017	625	Israel	secondary	rbcL	30.8124247	34.8594762	0.226051315029023
+Anabasis_articulata	HM630092.1	03-APR-2011	1339	Spain	secondary	rbcL	37.5012164803219	-2.08981233314768	0.44999964404008
+Anabasis_articulata	HM629974.1	03-APR-2011	672	Spain	secondary	rbcL	37.158563524154	-2.71083029851594	0.224237454174657

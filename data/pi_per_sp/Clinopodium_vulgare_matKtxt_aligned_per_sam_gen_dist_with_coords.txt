@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Clinopodium_vulgare	KP643064.1	08-DEC-2015	743	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.892	-78.146	0.021381547924722
+Clinopodium_vulgare	MG225279.1	21-JAN-2018	780	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Staff House, Cypress Lake, Bruce Peninsula National Park	primary	matK	45.227	-81.527	0.0170381917836272
+Clinopodium_vulgare	MG225194.1	21-JAN-2018	781	Canada: Ontario, Wellington County, Puslinch Township, Little Tract, 500m north of South entrance (County Road 34)	primary	matK	43.449	-80.247	0.0170280899317052
+Clinopodium_vulgare	HQ593243.1	09-NOV-2011	869	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Approx. 200 m W of Dufferin, N edge of poperty	primary	matK	44.04	-79.53	0.0156871478261173
+Clinopodium_vulgare	KJ592906.1	17-MAR-2015	762	USA: Wisconsin, Goodman	primary	matK	45.635	-88.342	0.0176283546996532
+Clinopodium_vulgare	KJ592905.1	17-MAR-2015	752	USA: Wisconsin, Popple River	primary	matK	45.82	-88.746	0.0184556207308345
+Clinopodium_vulgare	KJ592904.1	17-MAR-2015	727	USA: Wisconsin, Caswell	primary	matK	45.665	-88.651	0.0171050723808216
+Clinopodium_vulgare	KJ592903.1	17-MAR-2015	740	USA: Wisconsin, Dunbar	primary	matK	45.713	-88.221	0.017915928587994
+Clinopodium_vulgare	JN895571.1	07-MAR-2012	863	United Kingdom: Monmouthshire	primary	matK	51.69	-2.67	0.0150205069114338
+Clinopodium_vulgare	AY840153.1	30-NOV-2005	2438	Spain	secondary	matK	39.3260685	-4.8379791	0.100362669683036
+Clinopodium_vulgare	KJ204458.1	29-JAN-2015	785	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0171492090194415
+Clinopodium_vulgare	HM850808.1	23-JUL-2011	828	Portugal	secondary	matK	39.6621648	-8.1353519	0.0999806228114423
+Clinopodium_vulgare	JN893865.1	07-MAR-2012	489	United Kingdom: Glamorgan	secondary	matK	50.9329102818939	-2.55358149622874	0.0255294003659688
+Clinopodium_vulgare	JN893864.1	07-MAR-2012	855	United Kingdom: Glamorgan	secondary	matK	51.7447632652075	-4.63134854243145	0.0158321995830538

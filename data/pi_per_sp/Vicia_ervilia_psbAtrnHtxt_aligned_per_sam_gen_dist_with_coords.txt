@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_ervilia	KP896951.1	13-OCT-2015	388	Iran	secondary	psbA-trnH	32.6475314	54.5643516	0.00258175941465321
+Vicia_ervilia	KP896950.1	13-OCT-2015	387	Syria	secondary	psbA-trnH	34.6401861	39.0494106	0.00172265288544358
+Vicia_ervilia	KP896949.1	13-OCT-2015	387	Morocco	secondary	psbA-trnH	28.3347722	-10.3713379	0.00516795865633075
+Vicia_ervilia	KP896948.1	13-OCT-2015	388	Turkey	secondary	psbA-trnH	38.9597594	34.9249653	0.00258175941465321

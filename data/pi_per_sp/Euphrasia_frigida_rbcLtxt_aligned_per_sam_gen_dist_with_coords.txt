@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphrasia_frigida	MZ359326.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0
+Euphrasia_frigida	KT960678.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.6582644716433	-18.0495418270517	0
+Euphrasia_frigida	KT960525.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.9576632617151	-18.9101592440495	0
+Euphrasia_frigida	KC482853.1	25-OCT-2013	459	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Between gas pumps and the ocean, in the vicinity of the Coop Store	primary	rbcL	56.631	-79.228	0
+Euphrasia_frigida	MK925467.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6459000650313	-3.58598411802482	0
+Euphrasia_frigida	MK925101.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7954635611906	-3.44323974559858	0
+Euphrasia_frigida	MK924668.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	53.9771904177351	-4.07953262335061	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hyoscyamus_pusillus	OR738281.1	13-NOV-2023	790	Kazakhstan: Kostanay region	primary	matK	49.23311	64.45108	0.00255102455849216
+Hyoscyamus_pusillus	MT930221.1	03-MAR-2023	783	China	secondary	matK	34.7761421977809	105.581216323761	0.00255427841634738
+Hyoscyamus_pusillus	MT930219.1	03-MAR-2023	785	China	secondary	matK	35.6866533936776	105.134305862917	0.00255102455849216
+Hyoscyamus_pusillus	MT930218.1	03-MAR-2023	783	China	secondary	matK	35.0377145550931	104.36356851808	0.00255427841634738

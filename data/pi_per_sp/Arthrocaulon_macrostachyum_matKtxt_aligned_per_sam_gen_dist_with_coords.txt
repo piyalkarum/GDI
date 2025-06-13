@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arthrocaulon_macrostachyum	OQ851358.1	14-AUG-2023	416	Egypt	primary	matK	31.572252	30.954898	0.188683078560405
+Arthrocaulon_macrostachyum	KY941469.1	30-APR-2018	477	Jordan: Amman	secondary	matK	31.9515694	35.9239625	0.185370160544431
+Arthrocaulon_macrostachyum	KU975312.1	09-MAR-2017	449	Spain: Canary Islands	secondary	matK	28.2863989	-16.7960118	0.18817856378837
+Arthrocaulon_macrostachyum	KU975310.1	09-MAR-2017	449	Portugal: Algarve, Laguna Alvor, Portimao	secondary	matK	37.2447167	-8.15053875890853	0.187249364064327
+Arthrocaulon_macrostachyum	DQ465003.1	31-DEC-2007	886	Italy: Emilia Romagna, Ravenna Sacca di Bellocchio	secondary	matK	44.49105225	11.3525330163205	0.382124854572604
+Arthrocaulon_macrostachyum	AY996303.1	31-MAR-2006	839	France: Saintes Maries de la Mer, Camargue	secondary	matK	43.4505223	4.4291075	0.361060035792954

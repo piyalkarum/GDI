@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Muscari_olivetorum	AM260549.1	10-JAN-2009	616	Spain:Jaen,Torredelcampo	secondary	5.8S rRNA	37.152901871971	-4.37175274366751	0.0606077252213002
+Muscari_olivetorum	AM260548.1	10-JAN-2009	596	Spain:Jaen,Torredelcampo	secondary	5.8S rRNA	38.1287895364177	-2.87564797621151	0.0570384487383953
+Muscari_olivetorum	AM260547.1	10-JAN-2009	615	Spain:Jaen,Torredelcampo	secondary	5.8S rRNA	38.1815584779696	-3.1463440138634	0.0551746488002142
+Muscari_olivetorum	AM260546.1	10-JAN-2009	633	Spain:Jaen,Torredelcampo	secondary	5.8S rRNA	37.820636715176	-3.36425428987386	0.0584307281670983
+Muscari_olivetorum	AM260545.1	10-JAN-2009	596	Spain:Jaen,Torredelcampo	secondary	5.8S rRNA	38.3598148396238	-4.1268359193835	0.0578918923688804

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Honckenya_peploides	GQ223987.1	07-APR-2011	710	USA: Alaska	secondary	trnK	64.4086181098291	-148.258959141987	0.361141599496942
+Honckenya_peploides	GQ223986.1	07-APR-2011	717	USA: Oregon	secondary	trnK	43.2894052205345	-121.289262236984	0.360819761856891
+Honckenya_peploides	GQ223892.1	07-APR-2011	770	USA: Alaska	secondary	trnK	65.0106653197898	-148.251318947511	0.364177296353625
+Honckenya_peploides	GQ223891.1	07-APR-2011	748	USA: Oregon	secondary	trnK	43.4802146271482	-121.358283692111	0.359566596194503

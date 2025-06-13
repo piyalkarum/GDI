@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_nemoralis	GQ324440.1	08-JUN-2010	1801	Bulgaria	secondary	trnL-trnF	46.7889169	23.6184909	0.00235914133874343
+Poa_nemoralis	KY987110.1	21-MAR-2018	1794	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.00164307200152788
+Poa_nemoralis	AY504653.1	13-SEP-2004	981	Slovakia	secondary	trnL-trnF	48.7411522	19.4528646	0.00175062580755617
+Poa_nemoralis	AY504652.1	13-SEP-2004	981	Czech Republic	secondary	trnL-trnF	49.7439047	15.3381061	0.00175062580755617

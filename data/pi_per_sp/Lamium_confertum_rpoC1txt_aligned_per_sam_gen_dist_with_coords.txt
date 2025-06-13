@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_confertum	KF055180.1	26-OCT-2013	701	Lithuania	secondary	rpoC1	55.579946934955	22.7931136513518	0
+Lamium_confertum	KF055179.1	26-OCT-2013	701	Finland	secondary	rpoC1	62.7945337422081	24.591816007642	0
+Lamium_confertum	KC350753.1	18-OCT-2013	701	Finland	secondary	rpoC1	63.013974017549	25.3430888360929	0
+Lamium_confertum	KC350752.1	18-OCT-2013	701	Lithuania	secondary	rpoC1	55.5848378265584	23.0576728247045	0
+Lamium_confertum	JX074005.1	18-OCT-2013	701	Finland	secondary	rpoC1	63.1253984842954	25.1764638018053	0
+Lamium_confertum	JX074004.1	18-OCT-2013	701	Russia	secondary	rpoC1	64.6863136	97.7453061	0

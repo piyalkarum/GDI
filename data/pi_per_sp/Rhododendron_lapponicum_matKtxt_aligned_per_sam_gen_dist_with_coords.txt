@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhododendron_lapponicum	MZ400440.1	07-DEC-2021	771	Sweden: Latnjavagge	primary	matK	68.35	18.49	0
+Rhododendron_lapponicum	KC475682.1	25-OCT-2013	771	Canada: Nunavut, Baffin Island, Iqaluit, Iqaluit. Slopes along east side of Federal Ave., east of airport	primary	matK	63.803	-68.619	0
+Rhododendron_lapponicum	KC475681.1	25-OCT-2013	771	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Near coast, north of Brock River delta	primary	matK	69.467	-124.211	0
+Rhododendron_lapponicum	KC475680.1	25-OCT-2013	730	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Camp on Harp Seal Lake, 35 km SW of Sanikiluaq	primary	matK	56.317	-79.444	0
+Rhododendron_lapponicum	KC475679.1	25-OCT-2013	769	Canada: Northwest Territories, Victoria Island, Minto Inlet, Small unnamed lake 200m NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	matK	71.215	-116.509	0
+Rhododendron_lapponicum	KC475678.1	25-OCT-2013	771	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 2-3 km SE of Paulatuk (within sight of hamlet)	primary	matK	68.997	-122.739	0
+Rhododendron_lapponicum	KC475677.1	25-OCT-2013	771	Canada: Nunavut, Victoria Island, Oterkvik Point, Camp 13 km north of Oterkvik Point, 10 km north of coast at Coronation Gulf, upper camp area	primary	matK	68.739	-112.625	0
+Rhododendron_lapponicum	JN966497.1	27-OCT-2012	768	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas ungravel heath	primary	matK	58.769	-93.856	0
+Rhododendron_lapponicum	JN966496.1	27-OCT-2012	764	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0
+Rhododendron_lapponicum	JN966495.1	27-OCT-2012	774	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Wet lichen heath	primary	matK	58.747	-93.863	0

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mertensia_maritima	KC474975.1	25-OCT-2013	766	Canada: Northwest Territories, Banks Island, Near the Mary Sachs site, beside the Harbour	primary	matK	71.9667	-125.5	0.00262893829399132
+Mertensia_maritima	KC474974.1	25-OCT-2013	767	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Small point into ocean, ~10 km SW of Sanikiluaq	primary	matK	56.478	-79.386	0.00286449848092711
+Mertensia_maritima	KC474973.1	25-OCT-2013	766	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	matK	62.8567	-67.3542	0.00197391246986946
+Mertensia_maritima	KC474972.1	25-OCT-2013	771	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vincinity of Arctic Char Inn, Uluhaktok	primary	matK	70.736	-117.77	0.00152108515094959
+Mertensia_maritima	KC474971.1	25-OCT-2013	766	Canada: Northwest Territories, Cape Bathurst, Anderson River area, Cape Bathurst E side, Whales Bluff coast N of Lake McKinlay	primary	matK	70.4833	-127.8	0.00329622558025938
+Mertensia_maritima	JN896128.1	07-MAR-2012	825	United Kingdom: Denbighshire	primary	matK	53.22	-3.65	0.0021738266653099
+Mertensia_maritima	JN896117.1	07-MAR-2012	718	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.00139275766016713

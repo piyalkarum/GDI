@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dupontia_fisheri	KM524065.1	04-JUL-2015	1775	Canada: Northwest Territories	secondary	trnL-trnF	65.056763089297	-117.040136178378	0.00341218938344023
+Dupontia_fisheri	KM524064.1	04-JUL-2015	1799	Canada: Northwest Territories	secondary	trnL-trnF	65.283278751005	-117.675322696864	0.00303211930070813
+Dupontia_fisheri	DQ353968.1	31-DEC-2007	1774	Canada	secondary	trnL-trnF	60.9490561506826	-107.883729085782	0.00609861815913409
+Dupontia_fisheri	DQ353967.1	31-DEC-2007	1797	Canada	secondary	trnL-trnF	60.9319957756269	-107.746518007174	0.00340701296182436

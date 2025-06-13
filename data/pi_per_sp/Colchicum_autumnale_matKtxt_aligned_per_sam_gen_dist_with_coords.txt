@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colchicum_autumnale	OR045829.1	20-AUG-2023	698	India	primary	matK	26	78.35	0.00797474452924918
+Colchicum_autumnale	JN895471.1	07-MAR-2012	843	United Kingdom: Monmouthshire	primary	matK	51.78	-2.73	0.0101318365995294
+Colchicum_autumnale	MK244349.1	24-JUN-2019	886	Pakistan	secondary	matK	30.3308401	71.247499	0.0117700990049579
+Colchicum_autumnale	FR865065.1	09-JUN-2011	827	Italy:Lombardy	secondary	matK	45.9635883059191	10.3395575264224	0.0130820110101266
+Colchicum_autumnale	FN668829.1	27-APR-2010	789	Italy:Lombardy	secondary	matK	45.039352373265	9.21744496853527	0.0191614231075518

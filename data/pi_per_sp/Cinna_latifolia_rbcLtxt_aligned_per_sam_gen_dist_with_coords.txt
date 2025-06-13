@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cinna_latifolia	MF596693.1	28-FEB-2018	603	Canada: British Columbia, 8.1 km along North Shore Road (Stella Road), N of Hwy. 16, just W of Nadleh Whuten Band First Nation Reserve boundary, N of Fraser Lake.	primary	rbcL	54.0434420779476	-125.194904534647	0.000416319838281754
+Cinna_latifolia	MF596692.1	28-FEB-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, 8 km along main logging road N/ NW of Queen Charlotte City.	primary	rbcL	53.665028429117	-131.543396392545	0.000416319838281754
+Cinna_latifolia	MF596691.1	28-FEB-2018	603	Canada: British Columbia, 13 mi NW of Pink Mountain on Hwy 97 towards Ft. Nelson. Forest with Picea, Alnus, Equisetum arvensis, and Populus trichocarpa	primary	rbcL	58.5134480926837	-124.058637008217	0.000416319838281754
+Cinna_latifolia	MG227937.1	23-JAN-2018	603	Canada: British Columbia, Queen Charlotte Islands, Graham Island, 8 km along main logging road N/ NW of Queen Charlotte City.	primary	rbcL	52.8964764655797	-131.320706169087	0.000416319838281754
+Cinna_latifolia	MG226504.1	23-JAN-2018	603	Canada: British Columbia, 13 mi NW of Pink Mountain on Hwy 97 towards Ft. Nelson. Forest with Picea, Alnus, Equisetum arvensis, and Populus trichocarpa	primary	rbcL	58.5322588741869	-122.836719985669	0.000416319838281754
+Cinna_latifolia	MG225697.1	23-JAN-2018	603	Canada: British Columbia, 8.1 km along North Shore Road (Stella Road), N of Hwy. 16, just W of Nadleh Whuten Band First Nation Reserve boundary, N of Fraser Lake.	primary	rbcL	54.4303915121638	-123.966043804892	0.000416319838281754
+Cinna_latifolia	KJ593304.1	17-MAR-2015	553	USA: Wisconsin, Silvercliff	primary	rbcL	45.516	-88.404	0.00181490319034641
+Cinna_latifolia	KJ841238.1	04-NOV-2014	493	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Near Hemlock Bog	primary	rbcL	45.557	-73.14	0
+Cinna_latifolia	KF977473.1	05-APR-2014	577	USA: Dairymen's Club near Boulder Junction, Wisconsin	primary	rbcL	46.15	-89.68	0.00341976514303437
+Cinna_latifolia	MG228107.1	23-JAN-2018	552	Canada: Ontario, Cochrane District, Kapuskasing	secondary	rbcL	49.416667	-82.433333	0.000278706800445931
+Cinna_latifolia	MG227880.1	23-JAN-2018	552	Canada: Ontario, Parry Sound District, French River	secondary	rbcL	46.0161771	-80.6621483	0.000278706800445931
+Cinna_latifolia	KM538820.1	20-JUN-2015	743	South Korea	secondary	rbcL	37.0619858806038	127.006170977847	0.000672363636626629
+Cinna_latifolia	KJ593305.1	17-MAR-2015	553	USA: Wisconsin, Little River	secondary	rbcL	45.0397091	-87.6454496	0.000278202809848379
+Cinna_latifolia	HQ600463.1	02-AUG-2012	751	South Korea	secondary	rbcL	37.0745465508841	127.58216867836	0.000672363636626629

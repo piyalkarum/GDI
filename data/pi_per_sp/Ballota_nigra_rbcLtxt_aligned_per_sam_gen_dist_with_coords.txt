@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ballota_nigra	JN893069.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.41	-4.07	0.0019047619047619
+Ballota_nigra	MG221314.1	26-DEC-2017	537	Canada: Ontario, Middlesex Co., London.	secondary	rbcL	43.0766721	-81.3077098	0.00186567164179104
+Ballota_nigra	HM849806.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00567519545131485
+Ballota_nigra	JN893644.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0019047619047619

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_conimbricensis	MK751655.1	20-DEC-2020	860	Portugal: Beira Baixa, idanha-a-Nova, Rosamarinhal, Couto de Santa Marina, laguna en la bajada al rio Tajo	primary	trnL-trnF	39.72	-7.14	0.00116279069767442
+Lotus_conimbricensis	MK751654.1	20-DEC-2020	860	Spain: Caseres, Autovia de Extremadura	primary	trnL-trnF	39.7	-5.69	0.000387596899224806
+Lotus_conimbricensis	MF158231.1	17-AUG-2018	860	Spain	primary	trnL-trnF	38.61	-6.82	0.000387596899224806
+Lotus_conimbricensis	MF158230.1	17-AUG-2018	860	Israel	primary	trnL-trnF	31.77	35.21	0.000387596899224806

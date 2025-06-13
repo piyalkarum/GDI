@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_cervicaria	KY785162.1	25-FEB-2018	410	Bulgaria	primary	psbA-trnH	41.76	23.42	0.000408496732026144
+Campanula_cervicaria	KY785161.1	25-FEB-2018	409	Serbia	primary	psbA-trnH	43.3	19.76	0.000408496732026144
+Campanula_cervicaria	KY785160.1	25-FEB-2018	409	Serbia	primary	psbA-trnH	43.36	19.86	0.000408496732026144
+Campanula_cervicaria	KY785159.1	25-FEB-2018	408	Bulgaria	primary	psbA-trnH	42.17	23.42	0.00245098039215686
+Campanula_cervicaria	KY785158.1	25-FEB-2018	409	Bosnia and Herzegovina	primary	psbA-trnH	45	16.93	0.000408496732026144
+Campanula_cervicaria	KY785157.1	25-FEB-2018	409	Bulgaria	primary	psbA-trnH	41.57	24.41	0.000408496732026144
+Campanula_cervicaria	KJ146675.1	02-APR-2014	409	Serbia	primary	psbA-trnH	43.29	20.8	0.000408496732026144

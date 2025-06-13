@@ -1,0 +1,75 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_vulgaris	MZ676679.1	10-AUG-2022	568	United Kingdom: England, Durham	primary	cob	54.7531	-1.5806	0.513856197942882
+Jacobaea_vulgaris	MZ656045.1	26-JUN-2022	348	Czech Republic: Havraniky	primary	cob	48.813	15.999	0.268231460165188
+Jacobaea_vulgaris	MK030055.1	16-OCT-2019	553	United Kingdom: England, Durham, Bishop Auckland Castle Park	primary	cob	54.6725	-1.6586	0.5090985387466
+Jacobaea_vulgaris	MG322260.1	11-NOV-2018	593	United Kingdom: England, North West, Foreshield Burn	primary	cob	54.8159	-2.39	0.511412480256027
+Jacobaea_vulgaris	MG220100.1	24-JAN-2018	346	Canada: Ontario, Thunder Bay, Roadside bank on Hwy 11-17 over MacKenzie R. S-facing bank in MacGregor Twp.	primary	cob	48.7577964886113	-90.1912041746168	0.361942095218498
+Jacobaea_vulgaris	MG219770.1	24-JAN-2018	347	Canada: Prince Edward Island, Kings County, Montague, just W of Wightmans Point, 4 mi. E of Montague	primary	cob	46.3735250311642	-61.5329664540475	0.266308728865445
+Jacobaea_vulgaris	MG224531.1	26-DEC-2017	552	Canada: Ontario, Thunder Bay, Roadside bank on Hwy 11-17 over MacKenzie R. S-facing bank in MacGregor Twp.	primary	cob	48.7402822660587	-88.3312816872016	0.508110194647268
+Jacobaea_vulgaris	MG224118.1	26-DEC-2017	552	Canada: Prince Edward Island, Kings County, Montague, just W of Wightmans Point, 4 mi. E of Montague	primary	cob	46.4285271705047	-61.9421961859435	0.508989134443263
+Jacobaea_vulgaris	KX166836.1	11-MAY-2016	451	United Kingdom	primary	cob	51.523593	-3.197741	0.268198391800055
+Jacobaea_vulgaris	KX166360.1	11-MAY-2016	451	United Kingdom	primary	cob	52.08233	-4.5364	0.268198391800055
+Jacobaea_vulgaris	KX165845.1	11-MAY-2016	451	United Kingdom	primary	cob	51.4841	-3.60501	0.268198391800055
+Jacobaea_vulgaris	JN894247.1	07-MAR-2012	733	United Kingdom: Glamorgan	primary	cob	51.956923515656	-3.980380079576	0.611842387540949
+Jacobaea_vulgaris	JN891061.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	cob	51.6904888106972	-3.49390794627953	0.509245444287888
+Jacobaea_vulgaris	LR999445.1	12-FEB-2021	1113	Czech Republic	secondary	cob	49.7503349252802	15.6014264966028	0.614043850360992
+Jacobaea_vulgaris	LS973910.1	29-AUG-2018	451	Czech Republic	secondary	cob	50.1231541086896	16.2449920902658	0.268198391800055
+Jacobaea_vulgaris	MG219849.1	24-JAN-2018	347	Canada: Nova Scotia, Cape Breton, Albert Bridge along edge of Trout Brook Road	secondary	cob	44.4058235219716	-64.5774520373124	0.266308728865445
+Jacobaea_vulgaris	MG219773.1	24-JAN-2018	347	Canada: New Brunswick, Northumberland Co., Hwy 117W above Chatham - by Miramichi R.	secondary	cob	47.0421785817992	-67.7275133723986	0.266308728865445
+Jacobaea_vulgaris	MG218670.1	24-JAN-2018	347	Canada: Nova Scotia, Cape Breton Co., Hwy 4, Middle Cape	secondary	cob	44.1973298234472	-63.2755225604387	0.266308728865445
+Jacobaea_vulgaris	MG218625.1	24-JAN-2018	347	Canada: New Brunswick, Bridge at Quarryville, Newcastle	secondary	cob	47.3008215059748	-67.4313933189357	0.266308728865445
+Jacobaea_vulgaris	MG224214.1	26-DEC-2017	552	Canada: Nova Scotia, Cape Breton, Albert Bridge along edge of Trout Brook Road	secondary	cob	45.715274364533	-64.1287900276033	0.508989134443263
+Jacobaea_vulgaris	MG224125.1	26-DEC-2017	552	Canada: New Brunswick, Northumberland Co., Hwy 117W above Chatham - by Miramichi R.	secondary	cob	47.9958641098383	-67.6583672242816	0.508989134443263
+Jacobaea_vulgaris	MG222736.1	26-DEC-2017	552	Canada: Nova Scotia, Cape Breton Co., Hwy 4, Middle Cape	secondary	cob	44.7853427910955	-63.1142433577683	0.508989134443263
+Jacobaea_vulgaris	MG222679.1	26-DEC-2017	552	Canada: New Brunswick, Bridge at Quarryville, Newcastle	secondary	cob	47.4172724917977	-68.8198668176502	0.508989134443263
+Jacobaea_vulgaris	GU817769.1	17-OCT-2010	1454	Netherlands	secondary	cob	52.6104860166869	5.13273479564013	0.504059607867833
+Jacobaea_vulgaris	GU818567.1	13-OCT-2010	756	Netherlands	secondary	cob	52.562486971898	5.5975130246153	0.26449873222468
+Jacobaea_vulgaris	GU818566.1	13-OCT-2010	756	Netherlands	secondary	cob	52.3877085404435	6.87300682159284	0.265266609546662
+Jacobaea_vulgaris	GU818565.1	13-OCT-2010	756	Netherlands	secondary	cob	52.5324078595311	5.80558941403913	0.26411003736629
+Jacobaea_vulgaris	GU818564.1	13-OCT-2010	756	Netherlands	secondary	cob	52.3892791157723	4.80183552758202	0.264705211408978
+Jacobaea_vulgaris	GU818563.1	13-OCT-2010	756	Netherlands	secondary	cob	52.5784693226219	6.34828728508721	0.269904710487865
+Jacobaea_vulgaris	GU818190.1	13-OCT-2010	433	Netherlands	secondary	cob	52.710317225686	5.74201476404556	0.615547578263376
+Jacobaea_vulgaris	HE970738.1	18-SEP-2012	734	Italy:Trieste, Mt. Valerio	secondary	cob	44.7765608521222	13.6119326589687	0.608374849069853
+Jacobaea_vulgaris	HE966807.1	18-SEP-2012	357	Italy:Trieste, Mt. Valerio	secondary	cob	46.3372331303523	14.5609751833116	0.562113402933908
+Jacobaea_vulgaris	JN895164.1	07-MAR-2012	801	United Kingdom: Glamorgan (41)	secondary	cob	51.4507478464263	-2.73486985788593	0.610092448016172
+Jacobaea_vulgaris	JN894724.1	07-MAR-2012	700	United Kingdom: Cardiganshire	secondary	cob	51.9518286857062	-3.16165454933053	0.611449159159745
+Jacobaea_vulgaris	JN892338.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	cob	51.0849529897785	-2.63664673166005	0.509245444287888
+Jacobaea_vulgaris	JN891713.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	cob	51.9974180977972	-2.8028361245141	0.509245444287888
+Jacobaea_vulgaris	FJ556953.1	17-FEB-2009	638	Germany: Nordeney	secondary	cob	53.6716652	7.3555048	0.261306082033244
+Jacobaea_vulgaris	FJ556952.1	17-FEB-2009	638	Netherlands: Ameland	secondary	cob	53.4480197	5.7394065	0.261306082033244
+Jacobaea_vulgaris	FJ556946.1	17-FEB-2009	639	Sweden: Oeland, Resmo	secondary	cob	56.78159615	16.6621560603191	0.263384933681469
+Jacobaea_vulgaris	FJ556945.1	17-FEB-2009	638	Sweden: Gotland, Klinte	secondary	cob	57.3793899	18.2330132	0.263416094139998
+Jacobaea_vulgaris	FJ556944.1	17-FEB-2009	639	Sweden: Gotland, Alskog	secondary	cob	57.7484320360829	17.1567873945461	0.263461801363521
+Jacobaea_vulgaris	FJ556943.1	17-FEB-2009	639	Sweden: Gotland, Alskog	secondary	cob	57.2911544721792	19.8338516934805	0.263384933681469
+Jacobaea_vulgaris	FJ556942.1	17-FEB-2009	639	Russia: Belgorod, Shebekinskiy	secondary	cob	50.5955595	36.5873394	0.264917653346902
+Jacobaea_vulgaris	FJ556941.1	17-FEB-2009	639	Russia: Belgorod, Borisov	secondary	cob	50.9748803	37.7852349	0.264917653346902
+Jacobaea_vulgaris	FJ556939.1	17-FEB-2009	639	Austria: Oberweiden	secondary	cob	48.3069619	16.8293716	0.263384933681469
+Jacobaea_vulgaris	FJ556938.1	17-FEB-2009	639	Austria: Sollenau	secondary	cob	47.8994729	16.2463342	0.263384933681469
+Jacobaea_vulgaris	FJ556937.1	17-FEB-2009	639	Greece	secondary	cob	43.2097838	-77.6930602	0.263384933681469
+Jacobaea_vulgaris	FJ556936.1	17-FEB-2009	639	Russia: Orel	secondary	cob	52.9687747	36.0694937	0.264067816644333
+Jacobaea_vulgaris	FJ556935.1	17-FEB-2009	639	Russia: Kostroma	secondary	cob	58.1570288616583	39.8895097410749	0.264238412957683
+Jacobaea_vulgaris	FJ556934.1	17-FEB-2009	639	Russia: Teberda	secondary	cob	43.4410989	41.7436988	0.262362212409486
+Jacobaea_vulgaris	FJ556933.1	17-FEB-2009	639	Slovenia	secondary	cob	46.8673712526568	14.5603271197439	0.263131422581728
+Jacobaea_vulgaris	FJ556932.1	17-FEB-2009	639	Russia: Orlovskaya	secondary	cob	58.1423772	83.1384802	0.263131422581728
+Jacobaea_vulgaris	FJ556931.1	17-FEB-2009	639	Spain	secondary	cob	39.3260685	-4.8379791	0.263519912060044
+Jacobaea_vulgaris	FJ556930.1	17-FEB-2009	638	Romania	secondary	cob	45.9852129	24.6859225	0.261306082033244
+Jacobaea_vulgaris	FJ556929.1	17-FEB-2009	638	Slovenia	secondary	cob	46.9258625260154	14.45581032494	0.261306082033244
+Jacobaea_vulgaris	FJ556928.1	17-FEB-2009	638	Russia: Smolensk	secondary	cob	54.7814057	32.0461261	0.261306082033244
+Jacobaea_vulgaris	FJ556927.1	17-FEB-2009	638	Germany: Potzbach	secondary	cob	49.5077483728401	7.22768081909705	0.261306082033244
+Jacobaea_vulgaris	FJ556926.1	17-FEB-2009	638	Sweden: Lund	secondary	cob	56.0387602852199	12.7134831172155	0.261306082033244
+Jacobaea_vulgaris	FJ556925.1	17-FEB-2009	638	United Kingdom: Canterbury	secondary	cob	51.2800275	1.0802533	0.261306082033244
+Jacobaea_vulgaris	FJ556924.1	17-FEB-2009	638	France: Camiers	secondary	cob	50.5638	1.61441	0.261567005724785
+Jacobaea_vulgaris	FJ556923.1	17-FEB-2009	638	Netherlands: Leiden, Katwijk	secondary	cob	52.1705854	4.4545016	0.261306082033244
+Jacobaea_vulgaris	FJ556921.1	17-FEB-2009	638	Sweden: Sysne	secondary	cob	57.1666184579998	17.7160621201841	0.261306082033244
+Jacobaea_vulgaris	FJ556970.1	10-FEB-2009	496	Russia: Kostroma	secondary	cob	58.0606175926264	39.9343668417757	0.522218852878586
+Jacobaea_vulgaris	FJ556969.1	10-FEB-2009	503	Russia: Demidov	secondary	cob	55.2643778	31.5178326	0.522417559283593
+Jacobaea_vulgaris	FJ556966.1	10-FEB-2009	495	Russia: Borisov	secondary	cob	45.1939909	40.4383654	0.521910924227464
+Jacobaea_vulgaris	FJ556965.1	10-FEB-2009	502	Germany: Potzbach	secondary	cob	48.7783052891812	8.42936146595557	0.522527987818461
+Jacobaea_vulgaris	FJ556964.1	10-FEB-2009	502	Sweden: Lund, Norra Faeladen	secondary	cob	56.0583346663598	12.9978836047096	0.522527987818461
+Jacobaea_vulgaris	FJ556963.1	10-FEB-2009	502	Netherlands: Katwijk	secondary	cob	52.1898549	4.4145583	0.522527987818461
+Jacobaea_vulgaris	FJ556961.1	10-FEB-2009	502	Sweden: Sysne	secondary	cob	57.1689001026952	17.5282631598633	0.522722132957635
+Jacobaea_vulgaris	FJ556960.1	10-FEB-2009	495	Sweden: Resmo	secondary	cob	56.5406614	16.4443911	0.521792559798352
+Jacobaea_vulgaris	FJ556959.1	10-FEB-2009	499	Sweden: Alskog	secondary	cob	57.9020546615202	19.3509977083647	0.519251584172083
+Jacobaea_vulgaris	FJ556958.1	10-FEB-2009	499	Sweden: Alskog	secondary	cob	57.6168085529254	19.5794910064861	0.519251584172083
+Jacobaea_vulgaris	AY554084.1	31-AUG-2004	918	New Zealand	secondary	cob	-44.9170629486697	172.10831610011	0.568908157855086
+Jacobaea_vulgaris	AY554112.1	31-AUG-2004	708	New Zealand	secondary	cob	-43.8307209152666	171.265936730144	0.262687377829161

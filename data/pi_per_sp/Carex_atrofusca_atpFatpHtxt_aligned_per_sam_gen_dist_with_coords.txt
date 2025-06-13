@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_atrofusca	FJ548386.1	30-AUG-2009	520	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.86	-80.88	0.00100597931480284
+Carex_atrofusca	FJ548385.1	30-AUG-2009	476	Canada: Nunuavut, Victoria Island, Cambridge Bay	primary	atpF-atpH	69.12	-105.05	0.000525210084033613
+Carex_atrofusca	FJ548384.1	30-AUG-2009	526	Canada: Nunuavut, Baffin Island, Franklin District, E side of Sylvia Grinnel River 2.0 km S of main rapids in Sylvia Grinnel Park at 25 N/10 222668, Iqaluit, Frobisher Bay	primary	atpF-atpH	63.74	-68.56	0.00100597931480284
+Carex_atrofusca	FJ548383.1	30-AUG-2009	510	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	71.89	-80.9	0.000525210084033613
+Carex_atrofusca	FJ548382.1	30-AUG-2009	476	Canada: Nunuavut, Baffin Island	primary	atpF-atpH	70.71	-79	0.00210084033613445

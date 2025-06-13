@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_borealipolaris	FJ548150.1	25-AUG-2009	733	Canada: Nunavut, Victoria Island, Cambridge Bay, road to Long Point, about 22 m from ocean, 12 km W of town by road	primary	matK	69.1	-105.28	0.000418060200668896
+Carex_borealipolaris	KC474932.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Plateau E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.253	-116.385	0.000418060200668896
+Carex_borealipolaris	KC474931.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vicinity of Holman Island Airport, Uluhaktok	primary	matK	70.758	-117.79	0.000418060200668896
+Carex_borealipolaris	KC474930.1	25-OCT-2013	762	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Near Red Rocks Rising hiking area, west side of Hornaday River	primary	matK	68.6278	-122.436	0.000418060200668896
+Carex_borealipolaris	MN763372.1	28-JUL-2020	598	Russia: Magadan, Magadan Province/Oblast	secondary	matK	59.5604768	150.7988617	0.00167224080267559

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aristida_adscensionis	OQ392330.1	10-MAY-2023	525	Peru	secondary	rbcL	-6.8699697	-75.0458515	0.00317581717199308
+Aristida_adscensionis	MN205081.1	30-NOV-2021	724	China	secondary	rbcL	35.2375030421342	104.101913364225	0.00225851855362886
+Aristida_adscensionis	MN185236.1	27-APR-2021	722	China	secondary	rbcL	34.6747211829122	104.395455987214	0.00293827942485619
+Aristida_adscensionis	MH028805.1	04-DEC-2018	554	Mexico	secondary	rbcL	19.4326296	-99.1331785	0.000619516673454315
+Aristida_adscensionis	MF998356.1	09-DEC-2017	1353	Mauritius	secondary	rbcL	-20.2759451	57.5703566	0.00179555201839324
+Aristida_adscensionis	MF998355.1	09-DEC-2017	1353	Cape Verde	secondary	rbcL	16.0000552	-24.0083947	0.00179555201839324
+Aristida_adscensionis	HG970256.1	15-MAY-2016	1353	Madagascar	secondary	rbcL	-18.9249604	46.4416422	0.00179555201839324

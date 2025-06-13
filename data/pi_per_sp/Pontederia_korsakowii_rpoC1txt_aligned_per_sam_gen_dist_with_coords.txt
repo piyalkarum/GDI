@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pontederia_korsakowii	LC537099.1	02-APR-2021	485	Japan:Fukushima, Soma, Nishiyama	secondary	rpoC1	37.7971436	140.9094428	0
+Pontederia_korsakowii	LC537098.1	02-APR-2021	508	Japan:Okayama, Nature Conservation Center	secondary	rpoC1	34.6553944	133.9194595	0
+Pontederia_korsakowii	LC537097.1	02-APR-2021	508	Japan:Hokkaido, Ishikari	secondary	rpoC1	43.171677	141.3159605	0
+Pontederia_korsakowii	LC537096.1	02-APR-2021	508	Japan:Toyama, Imizu	secondary	rpoC1	36.7304657	137.0753818	0
+Pontederia_korsakowii	LC537095.1	02-APR-2021	508	Japan:Ibaraki, Omitama	secondary	rpoC1	36.2389756	140.3523684	0

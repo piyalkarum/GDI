@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_caryophyllus	JQ412232.1	16-JAN-2013	765	South Africa: Western Cape, Cape Town, Robben Island	primary	matK	-33.81	18.378	0.000984282601929661
+Dianthus_caryophyllus	MT917867.1	03-MAR-2023	772	China	secondary	matK	30.1785765948839	-94.1405824152261	0.00194596837007687
+Dianthus_caryophyllus	MT917866.1	03-MAR-2023	778	China	secondary	matK	30.0664445885167	-94.6796220843957	0.00193348119024816
+Dianthus_caryophyllus	MT917865.1	03-MAR-2023	779	China	secondary	matK	30.2386843226037	-95.0391287203281	0.000974118326237694
+Dianthus_caryophyllus	MT917864.1	03-MAR-2023	760	China	secondary	matK	30.097218003283	-93.512776506014	0.00197542467279309
+Dianthus_caryophyllus	MT917863.1	03-MAR-2023	785	China	secondary	matK	30.1903313317819	-93.8995380477228	0.000974118326237694
+Dianthus_caryophyllus	MT917862.1	03-MAR-2023	779	China	secondary	matK	29.2169707258691	-93.9400106712738	0.000974118326237694
+Dianthus_caryophyllus	OU877883.1	17-JUN-2022	2416	South Africa:Western Cape, Robben Island	secondary	matK	-33.8053	18.3688835	0.000974118326237694
+Dianthus_caryophyllus	KU722867.1	27-SEP-2016	837	Germany	secondary	matK	34.895926	-83.4665496	0.000974118326237694

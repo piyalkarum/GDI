@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_amethystina	LR217912.1	30-JUL-2021	867	Germany	primary	rpl16	11.0365	49.5399	0
+Festuca_amethystina	LR217863.1	30-JUL-2021	892	Germany	primary	rpl16	47.5531	11.4136	0
+Festuca_amethystina	LR217944.1	30-JUL-2021	883	Germany	secondary	rpl16	34.5383073658069	-83.744154861558	0
+Festuca_amethystina	LR217943.1	30-JUL-2021	883	Germany	secondary	rpl16	34.7318852077635	-84.1616969870376	0
+Festuca_amethystina	LR217942.1	30-JUL-2021	888	Germany	secondary	rpl16	35.5768733486241	-83.5605714188867	0

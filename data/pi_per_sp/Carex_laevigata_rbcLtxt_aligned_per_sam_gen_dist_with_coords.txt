@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_laevigata	JN893135.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.6	-3.35	0
+Carex_laevigata	MK924762.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.135479577883	-4.63102853782328	0
+Carex_laevigata	MK924658.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.4304184538228	-3.19050989183111	0
+Carex_laevigata	JN891460.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Carex_laevigata	JN891454.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0

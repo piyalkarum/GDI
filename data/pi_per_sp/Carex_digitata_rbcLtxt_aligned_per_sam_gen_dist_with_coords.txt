@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_digitata	MK925270.1	14-JAN-2020	542	Estonia	secondary	rbcL	58.7523778	25.3319078	0
+Carex_digitata	MK925215.1	14-JAN-2020	542	France	secondary	rbcL	46.603354	1.8883335	0
+Carex_digitata	MK925109.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Carex_digitata	JN892144.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Carex_digitata	JN892143.1	07-MAR-2012	542	United Kingdom: Gloucestershire,East	secondary	rbcL	51.7643786	-2.18806618387194	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lagurus_ovatus	KX873490.1	16-OCT-2017	869	Morocco: Taourit to Debdou, 4 km N Debdou (S 410), Felder und Odflechen	primary	matK	34	-3.0167	0.00327791655361893
+Lagurus_ovatus	KX873489.1	16-OCT-2017	897	Australia: Western Australia, 25 km SW of Pemberton on Ritter Road in D'Entrecasteaux National Park	primary	matK	-34.5511	115.8619	0.00351724891260163
+Lagurus_ovatus	LR606922.1	25-JAN-2021	2135	Portugal	secondary	matK	40.1427828373533	-7.55586152771146	0.00424187178416757
+Lagurus_ovatus	KJ529336.1	22-FEB-2015	969	Spain	secondary	matK	39.3260685	-4.8379791	0.00871627628693966
+Lagurus_ovatus	HG797455.1	26-SEP-2014	772	Portugal	secondary	matK	39.6553313263449	-7.58712272225773	0.000732600732600733
+Lagurus_ovatus	FN908059.1	17-MAY-2012	2252	Portugal:Azores	secondary	matK	37.8085564	-25.4731374	0.00270207834877512

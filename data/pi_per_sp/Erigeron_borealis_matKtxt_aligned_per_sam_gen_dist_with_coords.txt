@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erigeron_borealis	MK926340.1	14-JAN-2020	819	United Kingdom	secondary	matK	54.0203901540014	-3.24188230371394	0.000416666666666667
+Erigeron_borealis	MK925966.1	14-JAN-2020	938	Iceland	secondary	matK	64.9841821	-18.1059013	0.00114783126563991
+Erigeron_borealis	MK925707.1	14-JAN-2020	966	United Kingdom	secondary	matK	54.5554069000768	-3.22873124273669	0.000355366027007818
+Erigeron_borealis	MK925648.1	14-JAN-2020	906	United Kingdom	secondary	matK	54.8788861428476	-4.28385634275093	0.000375798571965427

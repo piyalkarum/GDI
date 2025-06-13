@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_repens	KX697116.1	13-SEP-2017	738	Austria: Steiermark, Peggau	secondary	CHS	47.4241978413847	15.7878460485613	0.00875390221890752
+Alyssum_repens	KX697115.1	13-SEP-2017	738	Austria: Steiermark, Peggau	secondary	CHS	46.7217597761863	14.2611339726977	0.00821116037844564
+Alyssum_repens	KX697102.1	13-SEP-2017	741	Austria: Karnten, Lavamund	secondary	CHS	46.6424934	14.9420703	0.00924248504014017
+Alyssum_repens	KX697100.1	13-SEP-2017	753	Austria: Steiermark, Stubinggraben	secondary	CHS	47.8138852179689	15.9526330364173	0.00960037222100786
+Alyssum_repens	KX697099.1	13-SEP-2017	733	Austria: Steiermark, Stubinggraben	secondary	CHS	47.575062290429	14.4780582667137	0.0096041201783711
+Alyssum_repens	KX697097.1	13-SEP-2017	739	Austria: Karnten, Johannesberg	secondary	CHS	46.6931582	14.8809874	0.00820030494557588

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_ericetorum	LR700273.1	04-NOV-2019	641	Slovenia:Slovenia, Nanos	secondary	ITS1	45.1834253154359	15.3827468175716	0.0422086919666145
+Allium_ericetorum	LR700272.1	04-NOV-2019	641	Slovenia:Slovenia, Caven	secondary	ITS1	46.4622482798689	14.4186281836804	0.0422086919666145
+Allium_ericetorum	AJ411856.1	27-JUN-2002	640	Slovenia:Steiner Alps	secondary	ITS1	46.3208047	14.6259111	0.0949092215256008
+Allium_ericetorum	AJ311867.1	16-JUL-2002	639	Germany	secondary	ITS1	34.895926	-83.4665496	0.0647432721254965

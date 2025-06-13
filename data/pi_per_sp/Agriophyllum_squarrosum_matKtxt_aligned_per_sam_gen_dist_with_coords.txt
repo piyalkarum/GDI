@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agriophyllum_squarrosum	MT917923.1	03-MAR-2023	746	China	secondary	matK	35.5064886257407	104.333464482088	0.174966352624495
+Agriophyllum_squarrosum	MT917922.1	03-MAR-2023	785	China	secondary	matK	35.7724205710521	105.437222812936	0.0634176589427723
+Agriophyllum_squarrosum	MT917921.1	03-MAR-2023	785	China	secondary	matK	35.2914396763573	104.799512770375	0.0685262157754671
+Agriophyllum_squarrosum	MT917920.1	03-MAR-2023	783	China	secondary	matK	35.3412185131351	105.722814078319	0.0634306743741932

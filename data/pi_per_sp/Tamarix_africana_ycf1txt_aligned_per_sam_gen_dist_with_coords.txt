@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_africana	MZ563232.1	24-APR-2022	818	France: Occitanie, Languedoc-Roussillon, Aude, La Palme, Etang de La Palme	primary	ycf1	42.967	2.999	0.000349283967865875
+Tamarix_africana	MZ563231.1	24-APR-2022	818	Spain: Murcia, Aguilas, Rambla de Minglano de Canarete	primary	ycf1	36.6329974324055	-1.57538833616066	0.000349283967865875
+Tamarix_africana	MZ563230.1	24-APR-2022	818	Portugal: Alentejo, Baixo Alentejo, Melides, Lagoa de Melides	primary	ycf1	38.536569901274	-8.63684133892047	0.000349283967865875
+Tamarix_africana	MZ563229.1	24-APR-2022	818	Portugal: Alentejo, Baixo Alentejo, Melides, Lagoa de Melides	primary	ycf1	37.4957694788661	-8.25807101215793	0.000349283967865875
+Tamarix_africana	MZ563228.1	24-APR-2022	818	Spain: Comunidad Valenciana, Castellon, Burriana, Clot de la Mare de Deu	primary	ycf1	39.7098378121903	-0.346470931791049	0.00244498777506113
+Tamarix_africana	MZ563227.1	24-APR-2022	818	Spain: Comunidad Valenciana, Castellon, Burriana, Clot de la Mare de Deu	primary	ycf1	40.500205193009	-0.562432480559679	0.000349283967865875
+Tamarix_africana	MZ563226.1	24-APR-2022	818	Spain: Catalonia, Tarragona, Delta del Ebro	primary	ycf1	40.629	0.753	0.000349283967865875
+Tamarix_africana	MZ563225.1	24-APR-2022	818	Spain: Murcia, Aguilas, Rambla de Minglano de Canarete	primary	ycf1	37.4505592864972	-1.13891481588682	0.000349283967865875

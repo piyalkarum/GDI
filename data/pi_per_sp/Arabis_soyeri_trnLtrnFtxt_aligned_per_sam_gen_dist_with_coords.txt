@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_soyeri	KF547619.1	09-SEP-2014	374	Slovakia: Kraj Banska Bystrica, Okres Banska Bystrica,Horehronie, Harmanec, Bystricka Dolina	primary	trnL-trnF	48.8728	19.0447	0.0160857908847185
+Arabis_soyeri	KF547618.1	09-SEP-2014	373	Slovakia: Kraj Presov, Okres Poprad,Belianske Tatry, at forester's lodge below Mt. Muran	primary	trnL-trnF	49.2497	20.1575	0.0032171581769437
+Arabis_soyeri	KF547617.1	09-SEP-2014	373	Austria: Styria, Bezirk Bruck a.d. Mur,4km NE of Mariazell, near bridge towards inn 'Wuchtelwirtin'	primary	trnL-trnF	47.8122	15.3872	0.0032171581769437
+Arabis_soyeri	KF547616.1	09-SEP-2014	373		primary	trnL-trnF	46.5454	10.1413	0.0032171581769437
+Arabis_soyeri	KF547615.1	09-SEP-2014	373		primary	trnL-trnF	45.0236	6.4039	0.0032171581769437
+Arabis_soyeri	KC412335.1	31-DEC-2013	373	Switzerland: Kanton St. Gallen,Alt St. Johann	primary	trnL-trnF	47.156	9.28	0.0032171581769437

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polygala_major	MK108142.1	25-DEC-2019	948	Russia	secondary	trnL-trnF	64.6863136	97.7453061	0.00949385653414365
+Polygala_major	MK108141.1	25-DEC-2019	941	Ukraine	secondary	trnL-trnF	49.4871968	31.2718321	0.00956448172684861
+Polygala_major	MK108140.1	25-DEC-2019	948	Romania	secondary	trnL-trnF	45.9852129	24.6859225	0.00949385653414365
+Polygala_major	MK108139.1	25-DEC-2019	948	Slovakia	secondary	trnL-trnF	48.7411522	19.4528646	0.0109029419401889
+Polygala_major	MK108138.1	25-DEC-2019	947	Hungary	secondary	trnL-trnF	41.9767629	-72.7789842	0.0100329895826312
+Polygala_major	MK108136.1	25-DEC-2019	952	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.00948440843643476
+Polygala_major	MK108129.1	25-DEC-2019	949	Macedonia	secondary	trnL-trnF	41.1927739	-95.4256198	0.0543917990677805

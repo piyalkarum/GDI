@@ -1,0 +1,32 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juniperus_communis	LC690788.1	03-MAY-2022	646	Japan: Nagano	primary	rbcL	35.8734	137.5014	0.00351890111278748
+Juniperus_communis	LC376993.1	18-APR-2018	262	Japan: Toyama, Mt.Taro	primary	rbcL	36.44	137.51	0.00559796437659033
+Juniperus_communis	MG215370.1	24-JAN-2018	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Between plots E800I9 and E775I9	primary	rbcL	54.8999	-67.1599	0.00255030430310006
+Juniperus_communis	MG215251.1	24-JAN-2018	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, On the SW slope.	primary	rbcL	55.3547	-67.7147	0.00255030430310006
+Juniperus_communis	KX679107.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Just west of Kettle River Forest Service Road, north of Christian Valley	primary	rbcL	49.698	-118.778	0.00255030430310006
+Juniperus_communis	KX677818.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Kettle Valley Rail Trail, near Link Lake Forest Recreation Site	primary	rbcL	49.711	-120.231	0.00255030430310006
+Juniperus_communis	KT695591.1	29-SEP-2015	507	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.0038037905866098
+Juniperus_communis	KC483046.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.533	-114.356	0.00255030430310006
+Juniperus_communis	JN965612.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	rbcL	58.178	-93.637	0.00255030430310006
+Juniperus_communis	JN965611.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	rbcL	58.633	-93.79	0.00255030430310006
+Juniperus_communis	JN891270.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.55	-4.2	0.00255697942619538
+Juniperus_communis	OR670253.1	06-NOV-2023	422	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.0630030131556211
+Juniperus_communis	MT931252.1	03-MAR-2023	572	China	secondary	rbcL	34.2314961976467	105.225058676779	0.00371657026926357
+Juniperus_communis	MK925219.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8129593090793	-1.73454224432971	0.00255697942619538
+Juniperus_communis	MK925054.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1187776106	-2.11295351760135	0.00255697942619538
+Juniperus_communis	MK924849.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1978467780995	-2.69442040117627	0.00255697942619538
+Juniperus_communis	MK924604.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.6618794800799	-4.78318458086812	0.00255697942619538
+Juniperus_communis	MK924589.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3330097382477	-2.15617620519812	0.00255697942619538
+Juniperus_communis	MG215457.1	24-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0.00255030430310006
+Juniperus_communis	HQ832767.1	20-JUL-2011	791	China	secondary	rbcL	34.4545875528695	104.533867652858	0.00369594372020836
+Juniperus_communis	HM024297.1	28-SEP-2010	1280	Pakistan	secondary	rbcL	30.3308401	71.247499	0.0026808239582133
+Juniperus_communis	HM024296.1	28-SEP-2010	1280	USA: New Mexico	secondary	rbcL	34.5802074	-105.996047	0.0026808239582133
+Juniperus_communis	HM024295.1	28-SEP-2010	1280	France	secondary	rbcL	46.603354	1.8883335	0.0026808239582133
+Juniperus_communis	FR865157.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.00264799889095845
+Juniperus_communis	JN893473.1	07-MAR-2012	542	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0.00255697942619538
+Juniperus_communis	JN893469.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0.00255697942619538
+Juniperus_communis	JF942145.1	13-DEC-2011	789	China: Qinghai	secondary	rbcL	35.4070952	95.9521157	0.0036962863649115
+Juniperus_communis	JF942144.1	13-DEC-2011	789	China: Gansu	secondary	rbcL	38.0000001	101.9999999	0.0036962863649115
+Juniperus_communis	HE574632.1	31-JUL-2011	566	Finland	secondary	rbcL	63.2467777	25.9209164	0.00254403526333559
+Juniperus_communis	FR831943.1	25-MAR-2011	701	Italy:Friuli Venezia Giulia	secondary	rbcL	46.151042	13.055904	0.00308317401414674
+Juniperus_communis	FR831939.1	25-MAR-2011	701	Italy:Abruzzo	secondary	rbcL	42.227681	13.854983	0.00308317401414674

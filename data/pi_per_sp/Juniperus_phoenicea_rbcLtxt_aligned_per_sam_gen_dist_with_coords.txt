@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juniperus_phoenicea	HM024320.1	28-SEP-2010	1280	France: Corsica	secondary	rbcL	42.1880896	9.0684138	0.00284902014346273
+Juniperus_phoenicea	FR831948.1	25-MAR-2011	701	Italy:Latium	secondary	rbcL	41.7256926150759	12.1637446484579	0.000713266761768902
+Juniperus_phoenicea	FR831947.1	25-MAR-2011	701	Italy:Tuscany, Elba Island	secondary	rbcL	42.7902166	10.3402787	0.000713266761768902
+Juniperus_phoenicea	FR831946.1	25-MAR-2011	701	Italy:Apulia	secondary	rbcL	40.9842539	16.6210027	0.000713266761768902
+Juniperus_phoenicea	FN689373.1	19-MAR-2010	743	Italy:Latium	secondary	rbcL	42.0103242738784	11.7104387723362	0.000709219858156028

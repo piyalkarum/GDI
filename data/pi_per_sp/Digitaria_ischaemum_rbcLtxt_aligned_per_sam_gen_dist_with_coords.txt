@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Digitaria_ischaemum	MW582611.1	09-MAR-2021	603	USA: North Carolina, Lexington, Campus of Davidson-Davie Community College	primary	rbcL	35.8679	-80.1785	0.00481262412629785
+Digitaria_ischaemum	MF596731.1	28-FEB-2018	603	Canada: Ontario, Ottawa, Sandy Hill area, corner of Marleborough Avenue and Osgoode Street, just W of Rideau River. Growing cracks in the sidewalk.	primary	rbcL	44.6230359459509	-76.0631538326447	0.00439777261072756
+Digitaria_ischaemum	MF596730.1	28-FEB-2018	603	Canada: British Columbia, Vancouver, Jericho Beach Park, corner of NW Marine Drive and Discovery, by Jericho Arts Centre.	primary	rbcL	48.6016542504037	-122.402464724866	0.00439777261072756
+Digitaria_ischaemum	MF596729.1	28-FEB-2018	603	Canada: British Columbia, Port Coquitlam, along railway tracks at corner of Lougheed Highway and Pitt River Road	primary	rbcL	49.1449462853733	-121.966831043144	0.00439777261072756
+Digitaria_ischaemum	MG227212.1	23-JAN-2018	603	Canada: Ontario, Ottawa, Sandy Hill area, corner of Marleborough Avenue and Osgoode Street, just W of Rideau River. Growing cracks in the sidewalk.	primary	rbcL	45.1718400605263	-76.6605885521632	0.00439777261072756
+Digitaria_ischaemum	MG226680.1	23-JAN-2018	603	Canada: British Columbia, Port Coquitlam, along railway tracks at corner of Lougheed Highway and Pitt River Road	primary	rbcL	48.5448873558433	-121.969968767634	0.00439777261072756
+Digitaria_ischaemum	MG226363.1	23-JAN-2018	552	Canada: Quebec, Ste-Foy, Universite Laval, l'arriere du Pavillon du service des recherches du gouvernment du Canada.	primary	rbcL	46.783	-71.28	0.00489793777536437
+Digitaria_ischaemum	MG226128.1	23-JAN-2018	553	Canada: Ontario, Essex, Essex, Leamington	primary	rbcL	42.0552	-82.5983	0.0124360315307498
+Digitaria_ischaemum	MG225927.1	23-JAN-2018	553	Canada: Ontario, Niagara, Niagara, Vineland	primary	rbcL	43.1167	-79.0667	0.0124360315307498
+Digitaria_ischaemum	MG225595.1	23-JAN-2018	603	Canada: British Columbia, Vancouver, Jericho Beach Park, corner of NW Marine Drive and Discovery, by Jericho Arts Centre.	primary	rbcL	49.7850066865893	-123.456004283514	0.00439777261072756
+Digitaria_ischaemum	MN205100.1	30-NOV-2021	724	China	secondary	rbcL	34.8538361897435	104.137497946247	0.0125836538907399
+Digitaria_ischaemum	MN205099.1	30-NOV-2021	724	China	secondary	rbcL	34.8556568746774	104.094086108354	0.00459544735232737
+Digitaria_ischaemum	MG227454.1	23-JAN-2018	552	Canada: Quebec, Sherbrooke Co., Ascot Tp., Rock Forest	secondary	rbcL	46.8137431	-71.2084061	0.00489793777536437
+Digitaria_ischaemum	KJ204330.1	29-JAN-2015	542	Switzerland: Geneva	secondary	rbcL	46.2047169	6.1423106	0.0123474311666194

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_pedunculatum	MH487869.1	20-JAN-2022	2127	France	secondary	ndhJ	46.603354	1.8883335	0.0677918991523322
+Cerastium_pedunculatum	MH487868.1	20-JAN-2022	2167	Austria	secondary	ndhJ	37.7081193839891	-5.27196092153176	0.135554277657904
+Cerastium_pedunculatum	MH487867.1	20-JAN-2022	2269	Austria	secondary	ndhJ	36.5024802166716	-5.27802848331025	0.0851107905017333
+Cerastium_pedunculatum	MH487866.1	20-JAN-2022	2126	Austria	secondary	ndhJ	36.9232979067126	-3.78117488016179	0.117774679435835

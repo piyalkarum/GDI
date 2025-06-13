@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_dorycnium	OL753483.1	28-MAR-2022	864	Greece: Kerkyra, Benitses	primary	rps16	39.537778	19.911667	0.0135901975814546
+Lotus_dorycnium	OL988873.1	08-MAR-2022	866	Croatia: island Krk, in the port BaSka nova	primary	rps16	44.97085	14.76279	0.0128059943883072
+Lotus_dorycnium	OL988872.1	08-MAR-2022	865	Austria: Northern Burgenland, W-shore of Lake Neusiedl	primary	rps16	47.950642	16.8389509	0.0113971855703728
+Lotus_dorycnium	OL988871.1	08-MAR-2022	868	Austria: Tirol, Inntal, Zirler Berg NW Zirl, 820 m; Hange nape der Strasse	primary	rps16	47.284813	11.224935	0.0113971855703728
+Lotus_dorycnium	OL988862.1	08-MAR-2022	874	France: Haute Garonne, Observation Point at St.Felix on N622 to Revel	primary	rps16	43.4482836	1.89054149	0.214988720286202
+Lotus_dorycnium	OL988861.1	08-MAR-2022	862	France: MIDI-Pyrenees, Haute-Garonne, road between Peguikhan and Mondilhan, near Busquet-Bas	primary	rps16	43.3	0.7	0.0145127888932457
+Lotus_dorycnium	OL988860.1	08-MAR-2022	865	France: Arles, Camargue, bord de canal entre Gageron et Villeneuve	primary	rps16	43.593205	4.59448	0.0135898506813539
+Lotus_dorycnium	OL988859.1	08-MAR-2022	863	Spain: Burgos, on the road from Lerma to Barriosuso, 18 km from Lerma	primary	rps16	41.968704	-3.574179	0.0144955287418369
+Lotus_dorycnium	OL988858.1	08-MAR-2022	865	Algeria: Saharan Atlas, W of Djelfa	primary	rps16	34.6728756	3.18510295	0.0123358607255307
+Lotus_dorycnium	OL988857.1	08-MAR-2022	864	Algeria: Saharan Atlas, near the village Zenina, road to Charet	primary	rps16	34.458508	2.53000385	0.0144938772055816
+Lotus_dorycnium	OL988856.1	08-MAR-2022	864	France: MIDI-Pyrenees, Haute-Garonne, Puymarium	primary	rps16	43.366667	0.75	0.01440581132921
+Lotus_dorycnium	OL988855.1	08-MAR-2022	863	Spain: Cantabria, Valle de Bedoya, Cillorigo	primary	rps16	43.179506	-4.565919	0.0155338807075272
+Lotus_dorycnium	OL988854.1	08-MAR-2022	864	Spain: Cantabria, Brazomar, en Castro Urdiales	primary	rps16	43.374452	-3.212339	0.0144938772055816
+Lotus_dorycnium	OL988853.1	08-MAR-2022	871	Syria: Mont Amanus, region d'Hasan	primary	rps16	32.643488	36.172298	0.0147527194108432
+Lotus_dorycnium	OL988852.1	08-MAR-2022	861	Turkey: C3 Antalya, Turkbas Yaylasi-Mahmut Seydi Koyu arasi, maki	primary	rps16	36.634431	32.024155	0.0276571992626227
+Lotus_dorycnium	OL988851.1	08-MAR-2022	840	Turkey: C5 Adana, Pozanti, 1570 m	primary	rps16	37.42762	34.876847	0.01268151118655
+Lotus_dorycnium	OL988850.1	08-MAR-2022	864	Turkey: C3 Antalya, Manavgat-Akseki 10 km	primary	rps16	37.046541	31.790341	0.0232078401217969
+Lotus_dorycnium	OL988849.1	08-MAR-2022	862	Turkey: C6 Kahramanmaras, Engizeh Dagi, Aksu mahallesi sevresi, 1100 m	primary	rps16	37.571828	36.91983	0.0134768315133461
+Lotus_dorycnium	OL988842.1	08-MAR-2022	864	Turkey: A4 Kirikkale, Kocubaba kasabasi, baglar yoresi, bozkir	primary	rps16	40.08354	33.878893	0.0120433152693263
+Lotus_dorycnium	OL988841.1	08-MAR-2022	864	Turkey: A4 Ankara, Kizilcahamam	primary	rps16	40.470334	32.650911	0.0120442599594229
+Lotus_dorycnium	OL988840.1	08-MAR-2022	865	Turkey: A4 Cankiri, Atkaracalar, Dumanli Dagi	primary	rps16	40.75887	33.122179	0.0120430674835401
+Lotus_dorycnium	OL988839.1	08-MAR-2022	863	Turkey: A4 Ankara, Kizilcahamam, Soguksu Milli Parki, Kaya Tepe civari	primary	rps16	40.468559	32.630159	0.0120449558284974
+Lotus_dorycnium	OL988838.1	08-MAR-2022	863	Turkey: A4 Ankara, Cubuk, Ovucik-Saraycik Koyleri Hallayik pinaiimuk	primary	rps16	40.30474	32.96163	0.0131634174362486
+Lotus_dorycnium	OL988837.1	08-MAR-2022	864	Turkey: Cubuk II Baraji	primary	rps16	40.004494	32.932925	0.0120433152693263
+Lotus_dorycnium	KT262884.1	27-FEB-2017	865	Spain	secondary	rps16	39.3260685	-4.8379791	0.012333712496061
+Lotus_dorycnium	KT262883.1	27-FEB-2017	864	France	secondary	rps16	47.138154467948	2.4551240714091	0.0147263080319131
+Lotus_dorycnium	KT262882.1	27-FEB-2017	863	Portugal	secondary	rps16	39.6621648	-8.1353519	0.0144577823587271
+Lotus_dorycnium	KT262881.1	27-FEB-2017	864	France	secondary	rps16	46.2603760529194	1.94012900186116	0.0123512166027399

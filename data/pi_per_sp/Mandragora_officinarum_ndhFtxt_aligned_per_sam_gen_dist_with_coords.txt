@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mandragora_officinarum	MH703709.1	11-SEP-2018	1998	Jordan	secondary	ndhF	44.6663146	-93.6261918	0.005005005005005
+Mandragora_officinarum	MH703708.1	11-SEP-2018	1998	Lebanon	secondary	ndhF	40.375713	-76.4626118	0.005005005005005
+Mandragora_officinarum	JX067428.1	31-JUL-2012	1999	Greece	secondary	ndhF	37.06514945	25.1919784157294	0.005005005005005
+Mandragora_officinarum	JX067427.1	31-JUL-2012	1999	Greece	secondary	ndhF	35.3084952	24.463342318423	0.005005005005005

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calystegia_soldanella	KX676693.1	09-AUG-2017	818	Canada: British Columbia, Alberni-Clayoquot Regional District, Long Beach, sand dunes	primary	matK	49.072	-123.753	0
+Calystegia_soldanella	JN895777.1	07-MAR-2012	756	United Kingdom: Cornwall, West with Scilly (1)	primary	matK	50.13	-5.49	0
+Calystegia_soldanella	KC529161.1	31-JAN-2015	693	Morocco	secondary	matK	28.3347722	-10.3713379	0
+Calystegia_soldanella	JN894768.1	07-MAR-2012	841	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Picea_omorika	JX508368.1	09-AUG-2013	1987	Serbia: Crvene Stene, Tara National Park	secondary	nad1	44.1206146	21.6641074	0
+Picea_omorika	EU649712.1	11-MAY-2008	1093	Bosnia and Herzegovina	secondary	nad1	43.9138916	19.2856428	0
+Picea_omorika	EU649711.1	11-MAY-2008	923	Serbia	secondary	nad1	43.3009828298777	21.645681463106	0
+Picea_omorika	EU649710.1	11-MAY-2008	889	Serbia	secondary	nad1	43.9125497179405	21.0529393337582	0
+Picea_omorika	EU649709.1	11-MAY-2008	855	Serbia	secondary	nad1	42.9761663513373	22.7455058109223	0
+Picea_omorika	EU649708.1	11-MAY-2008	821	Serbia	secondary	nad1	43.7176464059674	22.6222680002603	0
+Picea_omorika	EU649707.1	11-MAY-2008	787	Serbia	secondary	nad1	43.214077819693	22.5173689057633	0

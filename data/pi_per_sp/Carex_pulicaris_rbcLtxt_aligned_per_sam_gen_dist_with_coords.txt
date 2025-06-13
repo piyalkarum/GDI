@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_pulicaris	JN893597.1	07-MAR-2012	458	United Kingdom: Merionethshire	primary	rbcL	52.7	-3.91	0
+Carex_pulicaris	JN892821.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0
+Carex_pulicaris	JN891688.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4166219551183	-4.26991715766914	0
+Carex_pulicaris	JN891687.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.8806518447278	-2.78532015630688	0
+Carex_pulicaris	GQ469843.1	11-JAN-2010	1408	Iceland	secondary	rbcL	64.8166703	-13.8901214	0

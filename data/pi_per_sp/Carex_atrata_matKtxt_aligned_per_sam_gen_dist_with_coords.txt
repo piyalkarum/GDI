@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_atrata	MN763718.1	28-JUL-2020	537	Austria	secondary	matK	36.9148511	-4.7534501	0.00186219739292365
+Carex_atrata	MK926311.1	14-JAN-2020	820	Iceland	secondary	matK	64.9841821	-18.1059013	0.000620732464307883
+Carex_atrata	MK926076.1	14-JAN-2020	831	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.000620732464307883
+Carex_atrata	LK021882.1	24-SEP-2015	2545	Austria:Carinthia, Mt. Grossglockner area	secondary	matK	46.7520508	13.8609482	0.000620732464307883

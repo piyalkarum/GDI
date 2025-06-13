@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_rotundifolia	OL537578.1	10-JAN-2022	553	USA: Texas, Davis Mountain Preserve	primary	rbcL	30.641	-104.18	0.0802943458588038
+Campanula_rotundifolia	MH749101.1	30-OCT-2018	553	USA: United States Botanic Garden	primary	rbcL	38.88832474	-77.0141185	0.0802943458588038
+Campanula_rotundifolia	MG224642.1	26-DEC-2017	552	Canada: Yukon Territory, Kluane National Park, Fisher Glacier near Alsek, S-facing slope above Fisher Glacier	primary	rbcL	60.132	-138.206	0.0802952576776302
+Campanula_rotundifolia	MG223098.1	26-DEC-2017	552	USA: Alaska, Haines Borough, Haines, Klehini River	primary	rbcL	59.419	-136.122	0.0802952576776302
+Campanula_rotundifolia	MG222492.1	26-DEC-2017	552	Canada: Northwest Territories, Grainger's Gap, Nahanni Range	primary	rbcL	61.326	-123.402	0.0802952576776302
+Campanula_rotundifolia	KX678816.1	29-APR-2017	548	Canada: British Columbia, East Kootenay Regional District, Dry Gulch Provincial Park	primary	rbcL	50.5862	-116.035	0.0803011412153201
+Campanula_rotundifolia	KT960445.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.467	-20.567	0.0802952576776302
+Campanula_rotundifolia	KC482192.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	rbcL	62.8339	-67.3567	0.0802952576776302
+Campanula_rotundifolia	KC482191.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.8522	-67.3408	0.0815690486786739
+Campanula_rotundifolia	JN893422.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	primary	rbcL	51.88	-3.72	0.0807004659547338
+Campanula_rotundifolia	MN601438.1	15-DEC-2019	1428	USA	secondary	rbcL	40.0170229546677	-101.384123603215	0.0781483432303753
+Campanula_rotundifolia	MK556129.1	22-SEP-2019	323	Austria	secondary	rbcL	37.325611636665	-5.74102517263597	0.60675161979941
+Campanula_rotundifolia	MK556047.1	22-SEP-2019	337	Austria	secondary	rbcL	37.0638494140973	-5.19317752757882	0.608662186846796
+Campanula_rotundifolia	MK555636.1	22-SEP-2019	357	Austria	secondary	rbcL	37.5341365284985	-4.91734452883928	0.585831403219466
+Campanula_rotundifolia	MK555493.1	22-SEP-2019	381	Austria	secondary	rbcL	36.6156304367058	-4.65882690858275	0.0767417507620082
+Campanula_rotundifolia	MK555419.1	22-SEP-2019	382	Austria	secondary	rbcL	36.9266876252949	-4.09665677352426	0.0794166674291587
+Campanula_rotundifolia	KT178143.1	19-AUG-2015	1428	USA	secondary	rbcL	39.1134657828262	-100.980202160118	0.0781483432303753
+Campanula_rotundifolia	FR865133.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.0781859605916347
+Campanula_rotundifolia	JX848444.1	06-AUG-2013	1378	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.0781483432303753
+Campanula_rotundifolia	JN891785.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.8700006448168	-4.15170601111855	0.0807004659547338
+Campanula_rotundifolia	JN890721.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	52.1398217878505	-4.17724600923799	0.0844318283394892
+Campanula_rotundifolia	JN890720.1	07-MAR-2012	529	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0810803848189258
+Campanula_rotundifolia	JN890714.1	07-MAR-2012	529	United Kingdom: Glamorgan	secondary	rbcL	51.4706877457259	-2.54119010538744	0.0848956090110151
+Campanula_rotundifolia	HE574583.1	31-JUL-2011	551	Finland	secondary	rbcL	63.2467777	25.9209164	0.0932958330806827

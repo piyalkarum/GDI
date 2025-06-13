@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_patula	JN895650.1	07-MAR-2012	797	United Kingdom: Montgomeryshire	primary	matK	52.3	-3.03	0
+Campanula_patula	JN895649.1	07-MAR-2012	820	United Kingdom: Montgomeryshire	primary	matK	51.96	-3.02	0
+Campanula_patula	JN895648.1	07-MAR-2012	829	United Kingdom: Shropshire	primary	matK	53.0398331683115	-3.19646698211917	0
+Campanula_patula	JN895647.1	07-MAR-2012	823	United Kingdom: Shropshire	primary	matK	52.503298914712	-3.6672848116071	0
+Campanula_patula	JN895474.1	07-MAR-2012	767	United Kingdom: Montgomeryshire	primary	matK	53.0440993075538	-2.51259835252304	0
+Campanula_patula	JN895473.1	07-MAR-2012	819	United Kingdom: Montgomeryshire	primary	matK	51.9047434274327	-3.3240150549674	0
+Campanula_patula	JN895472.1	07-MAR-2012	806	United Kingdom: Shropshire	primary	matK	52.38	-3	0
+Campanula_patula	JN894553.1	07-MAR-2012	835	United Kingdom: Monmouthshire	primary	matK	51.81	-2.68	0
+Campanula_patula	MK555799.1	22-SEP-2019	386	Germany	secondary	matK	40.4203479	-79.1166983	0

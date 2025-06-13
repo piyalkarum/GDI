@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_hartwissiana	LT718108.1	12-FEB-2017	693	Georgia:Samegrelo, Etseri	secondary	ETS	41.7068979926423	42.8647202132271	0.346895074946467
+Quercus_hartwissiana	LT718107.1	12-FEB-2017	693	Georgia:Samegrelo, Etseri	secondary	ETS	41.648739641519	42.2645795341065	0.346895074946467
+Quercus_hartwissiana	LT718015.1	12-FEB-2017	530	Georgia:Samegrelo, Etseri	secondary	ETS	41.6480807362684	42.9091180502751	0.346895074946467
+Quercus_hartwissiana	LT718014.1	12-FEB-2017	530	Georgia:Samegrelo, Etseri	secondary	ETS	42.5319407857243	43.2081302100657	0.346895074946467

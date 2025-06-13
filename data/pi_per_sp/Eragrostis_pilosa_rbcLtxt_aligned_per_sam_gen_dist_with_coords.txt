@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eragrostis_pilosa	MG226505.1	23-JAN-2018	552	Canada: Ontario, Ontario, Essex, south end of Copper Road, Mill Point, Pelee Island, Lake Erie	primary	rbcL	41.75	-82.667	0.0110449836701368
+Eragrostis_pilosa	MT931793.1	03-MAR-2023	568	China	secondary	rbcL	34.3107253875369	105.269372837626	0.0119146828089758
+Eragrostis_pilosa	MT931792.1	03-MAR-2023	568	China	secondary	rbcL	34.4256134242155	104.299632499299	0.0484881287136574
+Eragrostis_pilosa	MN205109.1	30-NOV-2021	722	China	secondary	rbcL	34.7104307637463	104.733461882002	0.0122264642805668
+Eragrostis_pilosa	MN205108.1	30-NOV-2021	722	China	secondary	rbcL	35.6517779851711	105.707487856238	0.0146020990625672
+Eragrostis_pilosa	MF998401.1	09-DEC-2017	1342	Madagascar	secondary	rbcL	-18.9249604	46.4416422	0.0109599256934663
+Eragrostis_pilosa	KM538831.1	20-JUN-2015	743	South Korea	secondary	rbcL	36.638392	127.6961188	0.0112369503194152
+Eragrostis_pilosa	KP056874.1	28-FEB-2015	1096	South Korea: Jecheon-si, Choongbuk-do	secondary	rbcL	37.1326042	128.1913508	0.0107130629303848
+Eragrostis_pilosa	KP056871.1	28-FEB-2015	1096	South Korea: Siheung-si, Gyeonggi-do	secondary	rbcL	37.3798891	126.8032255	0.0107130629303848

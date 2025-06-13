@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_desertorum	OQ847498.1	15-AUG-2023	774	USA: American Prairie Buffalo Camp	primary	matK	47.7625	-107.7754	0.00381339881218123
+Alyssum_desertorum	MT917598.1	03-MAR-2023	775	China	secondary	matK	34.757886666736	105.005735956035	0.00489094863307421
+Alyssum_desertorum	MT917597.1	03-MAR-2023	770	China	secondary	matK	34.5615368982049	104.807692708071	0.00383961381325177
+Alyssum_desertorum	MT917596.1	03-MAR-2023	773	China	secondary	matK	35.4004452668542	105.501609498853	0.00381991876170401
+Alyssum_desertorum	MG458330.1	17-OCT-2018	574	Pakistan	secondary	matK	30.3308401	71.247499	0.0144217040084182

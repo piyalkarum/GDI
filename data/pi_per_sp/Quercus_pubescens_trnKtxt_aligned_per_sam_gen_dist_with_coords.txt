@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_pubescens	OQ990815.1	13-AUG-2023	624	Italy: Apulia	secondary	trnK	40.9842539	16.6210027	0.0016025641025641
+Quercus_pubescens	OQ990808.1	13-AUG-2023	624	Croatia: Dalmatia	secondary	trnK	43.5387965	16.1752356	0.00300480769230769
+Quercus_pubescens	OQ990807.1	13-AUG-2023	624	Italy: Molise	secondary	trnK	41.684672	14.595614	0.00100160256410256
+Quercus_pubescens	HE583666.1	04-SEP-2011	693	Greece	secondary	trnK	43.2097838	-77.6930602	0.000961711899211899
+Quercus_pubescens	HE583665.1	04-SEP-2011	693	Croatia	secondary	trnK	45.3658443	15.6575209	0.000961711899211899
+Quercus_pubescens	HE583646.1	04-SEP-2011	694	Italy:Sardinia	secondary	trnK	40.0912813	9.0305773	0.000961711899211899
+Quercus_pubescens	HE583645.1	04-SEP-2011	693	Italy:Latium	secondary	trnK	41.9808038	12.7662312	0.00280535436785437
+Quercus_pubescens	HE583634.1	04-SEP-2011	693	Spain:Roncisvalle	secondary	trnK	43.0091669	-1.3201731	0.000961711899211899
+Quercus_pubescens	HE583633.1	04-SEP-2011	693	Italy:Sicily	secondary	trnK	37.587794	14.155048	0.000961711899211899

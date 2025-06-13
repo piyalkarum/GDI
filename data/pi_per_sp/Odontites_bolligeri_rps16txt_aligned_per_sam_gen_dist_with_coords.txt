@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_bolligeri	KX958983.1	02-NOV-2017	837	Morocco: Oriental, Beni Snassen Natural Park	primary	rps16	35.4537277218115	-3.02131546914273	0.00227863929024615
+Odontites_bolligeri	KX958982.1	02-NOV-2017	836	Morocco: Oriental, Beni Snassen Natural Park	primary	rps16	34.81983	-2.375	0.00187491910119663
+Odontites_bolligeri	KX958981.1	02-NOV-2017	836	Spain: Almeria, Laujar de Andarax	primary	rps16	37.00067	-2.87629	0.000801883909684313
+Odontites_bolligeri	KX958847.1	02-NOV-2017	842	Spain: Malaga, Frigiliana	primary	rps16	36.0442313235176	-3.24672549441953	0.000798978613728464
+Odontites_bolligeri	KX958846.1	02-NOV-2017	842	Spain: Malaga, Frigiliana	primary	rps16	37.5388079083504	-4.30419022271194	0.000798978613728464
+Odontites_bolligeri	KX958812.1	02-NOV-2017	843	Morocco: Oriental, Beni Snassen Natural Park	primary	rps16	35.0853970757004	-2.29943847461624	0.00226890613508655
+Odontites_bolligeri	KX958811.1	02-NOV-2017	825	Morocco: Oriental, Beni Snassen Natural Park	primary	rps16	34.8714620875178	-1.38630915034581	0.00163891833435641
+Odontites_bolligeri	KX958766.1	02-NOV-2017	836	Spain: Granada, Restabal	primary	rps16	37.1303684487396	-3.45580037349535	0.000809561367598769
+Odontites_bolligeri	KX958765.1	02-NOV-2017	836	Spain: Granada, Restabal	primary	rps16	37.1731272702862	-3.15167573452075	0.000809561367598769
+Odontites_bolligeri	KX958991.1	02-NOV-2017	833	Spain: Granada, Orjiva, Sierra de Lujar	secondary	rps16	37.1734995	-3.5995337	0.000804788416607338

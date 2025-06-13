@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymus_serpyllum	OR678657.1	06-NOV-2023	597	Kazakhstan: Qaragandy region	primary	rbcL	50.20885	74.24195	0.00461537164150017
+Thymus_serpyllum	ON684505.1	21-AUG-2022	1434	Portugal: Utopia, Pedreira, Povoa do Lanhoso	primary	rbcL	41.61855	-8.32338	0.00461537164150017
+Thymus_serpyllum	MF349756.1	21-SEP-2017	553	USA: District of Columbia; Bartholdi Park located behind the U.S. Botanic Garden, 100 Maryland Ave.	primary	rbcL	38.887	-77.012	0.00584867002956848
+Thymus_serpyllum	MK925316.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8435791170874	-4.06246812330504	0.00629841412917946
+Thymus_serpyllum	MK924652.1	14-JAN-2020	524	United Kingdom	secondary	rbcL	54.7954636196288	-2.43055412931552	0.00572519083969466
+Thymus_serpyllum	MK105914.1	22-MAY-2019	573	Pakistan	secondary	rbcL	30.3308401	71.247499	0.0159395194868951

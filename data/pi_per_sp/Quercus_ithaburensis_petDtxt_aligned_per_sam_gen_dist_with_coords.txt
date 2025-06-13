@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_ithaburensis	MN751829.1	24-NOV-2021	906	Lebanon: Beqaa, Barqa	primary	petD	34.9791689710086	36.3411401042884	0.000630715862503942
+Quercus_ithaburensis	MN751828.1	24-NOV-2021	906	Lebanon: Beqaa, Kefraya-Maasser Al Chouf road	primary	petD	32.9953622326206	36.3037214567175	0.00189214758751183
+Quercus_ithaburensis	MN751827.1	24-NOV-2021	906	Lebanon: Beqaa, Kefraya-Maasser Al Chouf road	primary	petD	33.0746134800772	35.3009645010271	0.00189214758751183
+Quercus_ithaburensis	MN751826.1	24-NOV-2021	906	Lebanon: Beqaa, Barqa	primary	petD	33.3552414517802	35.9523709375166	0.000630715862503942
+Quercus_ithaburensis	MN751819.1	24-NOV-2021	906	Lebanon: North, Noura	primary	petD	35.0838519212582	35.9234481395429	0.000630715862503942
+Quercus_ithaburensis	MN751818.1	24-NOV-2021	906	Lebanon: North, Andket	primary	petD	34.6049	36.3088	0.000630715862503942
+Quercus_ithaburensis	MN751817.1	24-NOV-2021	906	Lebanon: North, Noura	primary	petD	34.449582696706	35.6571853760823	0.000630715862503942
+Quercus_ithaburensis	MN751816.1	24-NOV-2021	906	Lebanon: North, Saydnaya	primary	petD	34.5889	36.123	0.000630715862503942

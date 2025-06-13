@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_krausei	MG227001.1	23-JAN-2018	552	USA: Alaska, Tetlin National Wildlife Refuge, Tetlin Nat'l Wildlife Reserve, Nebesna Riv	primary	rbcL	62.5422	-142.483	0
+Carex_krausei	KC482295.1	25-OCT-2013	552	Canada: Yukon Territory, Arctic Mainland, Ivvavik National Park, Sheep Crrek	primary	rbcL	69.161	-140.155	0
+Carex_krausei	KC482294.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Hot Weather Creek., Tributary of 25 km E of Eureka Fosheim Peninsula. Site 13. Flat, linear valley bottom 50-80 m wide, steep sided walls to the N and S	primary	rbcL	79.983	-84.45	0
+Carex_krausei	KC482293.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Sandy bank of Kuujjua River south Fish lake, 17 km SE of Minto Inlet	primary	rbcL	71.22	-116.159	0
+Carex_krausei	KC482292.1	25-OCT-2013	552	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk, Between the airport and Pingo Park Lodge, beside a small lake	primary	rbcL	69.437	-133.1	0
+Carex_krausei	KC482291.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, between road and Darnley Bay	primary	rbcL	69.3861	-124.031	0
+Carex_krausei	KC482290.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Between gas pumps and the ocean, in the vicinity of the Coop Store	primary	rbcL	56.631	-79.228	0
+Carex_krausei	KC482289.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Castle Butte, near summit	primary	rbcL	68.2472	-121.814	0
+Carex_krausei	KC482288.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 3 km ESE of junction with Little Hornaday River, NE bank	primary	rbcL	68.3889	-121.939	0

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Genista_tinctoria	JN896131.1	07-MAR-2012	642	United Kingdom: Glamorgan	primary	matK	51.42	-3.57	0.00230021769138019
+Genista_tinctoria	KJ746149.1	29-JUL-2014	705	Poland	secondary	matK	52.215933	19.134422	0.00605896724305605
+Genista_tinctoria	JN894664.1	07-MAR-2012	907	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00300761068829509
+Genista_tinctoria	ON703097.1	27-NOV-2022	766	Italy	secondary	matK	40.9635117361721	14.3739688932429	0.00252799380760642
+Genista_tinctoria	ON703096.1	27-NOV-2022	766	Italy	secondary	matK	40.3001943641518	14.5150560336059	0.002570570138406
+Genista_tinctoria	ON703095.1	27-NOV-2022	766	Italy	secondary	matK	41.2726335904804	14.1576070267741	0.002570570138406

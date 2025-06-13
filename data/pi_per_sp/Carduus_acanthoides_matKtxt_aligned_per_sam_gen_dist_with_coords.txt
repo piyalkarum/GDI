@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carduus_acanthoides	KT249939.1	09-AUG-2015	820	Germany	secondary	matK	34.5941055756806	-84.2596088873331	0
+Carduus_acanthoides	KT249938.1	09-AUG-2015	820	Germany	secondary	matK	34.2603738266382	-83.6016803603283	0
+Carduus_acanthoides	KT249937.1	09-AUG-2015	820	Germany	secondary	matK	34.932810514406	-82.6129448016036	0
+Carduus_acanthoides	KT249936.1	09-AUG-2015	820	Germany	secondary	matK	35.6053194454171	-83.8209009794153	0
+Carduus_acanthoides	KT249935.1	09-AUG-2015	820	Germany	secondary	matK	35.521309963587	-82.8109662573818	0

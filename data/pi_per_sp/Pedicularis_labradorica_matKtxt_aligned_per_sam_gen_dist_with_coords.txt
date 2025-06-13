@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_labradorica	KC475217.1	25-OCT-2013	706	Canada: Northwest Territories, Tuktoyaktuk, Shore of Beaufort Sea	primary	matK	69.45	-133.033	0.0084985835694051
+Pedicularis_labradorica	KC475216.1	25-OCT-2013	777	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Brock River, top of canyon, N-side	primary	matK	68.283	-121.928	0.00121408336705787
+Pedicularis_labradorica	KC475215.1	25-OCT-2013	777	Canada: Nunavut	primary	matK	56.325	-79.228	0.00121408336705787
+Pedicularis_labradorica	KC475214.1	25-OCT-2013	777	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	matK	62.883	-92.2	0.00121408336705787
+Pedicularis_labradorica	KC475213.1	25-OCT-2013	777	Canada: Nunavut, Baffin Island, Soper River, Soper River at Mt.Joy	primary	matK	63.2667	-69.6333	0.00121408336705787
+Pedicularis_labradorica	JN966412.1	27-OCT-2012	781	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	matK	58.692	-94.132	0.00121408336705787
+Pedicularis_labradorica	JN966411.1	27-OCT-2012	777	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	matK	58.633	-93.79	0.00121408336705787
+Pedicularis_labradorica	HG423966.2	09-APR-2014	2360	Russia:Taymyr	secondary	matK	74.4787053	101.6575086	0.00121408336705787

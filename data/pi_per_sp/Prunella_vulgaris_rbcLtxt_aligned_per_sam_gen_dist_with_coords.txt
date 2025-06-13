@@ -1,0 +1,36 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Prunella_vulgaris	OR738101.1	13-NOV-2023	503	Kazakhstan: East Kazakhstan region	primary	rbcL	50.26611	83.22889	NA
+Prunella_vulgaris	KP644119.1	08-DEC-2015	527	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.892	-78.146	NA
+Prunella_vulgaris	MG222611.1	26-DEC-2017	552	Canada: Ontario, Nipissing District, Mattawa	primary	rbcL	46.3178	-78.7057	NA
+Prunella_vulgaris	MG221826.1	26-DEC-2017	272	Canada: Quebec, Montreal, Island of Montreal, Parc Beausejour	primary	rbcL	45.527	-73.734	NA
+Prunella_vulgaris	KX678053.1	29-APR-2017	512	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, near small runoff/creek area	primary	rbcL	49.454	-120.996	NA
+Prunella_vulgaris	KP402739.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H8	primary	rbcL	38.5186933603298	-76.337452893078	NA
+Prunella_vulgaris	KP402633.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H8	primary	rbcL	38.4654810176004	-77.2625126828341	NA
+Prunella_vulgaris	KT695531.1	29-SEP-2015	478	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	NA
+Prunella_vulgaris	KJ593637.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.553	-88.795	NA
+Prunella_vulgaris	KJ593636.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.564	-88.799	NA
+Prunella_vulgaris	KJ841499.1	04-NOV-2014	558	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	NA
+Prunella_vulgaris	JN891653.1	07-MAR-2012	496	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	NA
+Prunella_vulgaris	ON947735.1	20-MAR-2023	567	Pakistan	secondary	rbcL	30.3308401	71.247499	NA
+Prunella_vulgaris	OP710889.1	26-DEC-2022	245	Mexico: Puebla	secondary	rbcL	19.235083068321	-97.4782670691554	NA
+Prunella_vulgaris	OP710590.1	26-DEC-2022	551	Mexico: Puebla	secondary	rbcL	19.3859996051731	-98.8200710504764	NA
+Prunella_vulgaris	MN167868.1	27-APR-2021	619	China	secondary	rbcL	34.6870563075708	104.184858879097	0.00762276528228017
+Prunella_vulgaris	MH116338.1	17-AUG-2018	643	China	secondary	rbcL	35.1700695546468	105.129858103058	0.00520485575947586
+Prunella_vulgaris	MH116337.1	17-AUG-2018	638	China	secondary	rbcL	34.9748629450849	105.823812041904	0.00529554611767904
+Prunella_vulgaris	MH116336.1	17-AUG-2018	644	China	secondary	rbcL	34.4084988741173	105.669229168022	0.00518823771112801
+Prunella_vulgaris	MH116335.1	17-AUG-2018	668	China	secondary	rbcL	35.4768185406658	105.528939398579	0.00491298392423292
+Prunella_vulgaris	MG224517.1	26-DEC-2017	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Staff House, Cypress Lake, Bruce Peninsula National Park	secondary	rbcL	43.72634945	-77.7101179040839	NA
+Prunella_vulgaris	KJ204393.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	NA
+Prunella_vulgaris	HG417034.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.00542122314200627
+Prunella_vulgaris	AB817878.1	17-APR-2014	772	South Korea: Incheon, Ongjin-gun, Bukdo-myeon, Jangbong-ri	secondary	rbcL	37.456	126.7052	NA
+Prunella_vulgaris	AB817876.1	17-APR-2014	772	South Korea: Gangwon-do, Taebaek-si, Changjuk-dong	secondary	rbcL	37.2624434	128.9609235	NA
+Prunella_vulgaris	AB817875.1	17-APR-2014	772	South Korea: Jeollanam-do, Sinan-gun, Heuksan-myeon	secondary	rbcL	34.69409	125.42259	NA
+Prunella_vulgaris	AB817872.1	17-APR-2014	772	South Korea: Gangwon-do, Yanggu-gun	secondary	rbcL	38.1096812	127.9900596	NA
+Prunella_vulgaris	AB817871.1	17-APR-2014	772	South Korea: Gangwon-do, Hoengseong-gun	secondary	rbcL	37.4916	127.985	NA
+Prunella_vulgaris	AB817869.1	17-APR-2014	772	South Korea: Jeollanam-do, Gwangyang-si, Ongnyong-myeon	secondary	rbcL	35.02819	127.61481	NA
+Prunella_vulgaris	AB817867.1	17-APR-2014	772	South Korea: Gangwon-do, Jeongseon-gun, Nam-myeon	secondary	rbcL	37.2835	128.72975	NA
+Prunella_vulgaris	HM850288.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0123636342742296
+Prunella_vulgaris	MW818161.1	05-APR-2021	72	Spain	secondary	rbcL	28.6551163	-17.8572685655797	NA
+Prunella_vulgaris	AB817879.1	17-APR-2014	772	South Korea	secondary	rbcL	37.7525313	128.8759523	NA
+Prunella_vulgaris	AB817870.1	17-APR-2014	772	South Korea	secondary	rbcL	33.4930566	126.5130589	NA
+Prunella_vulgaris	AB817868.1	17-APR-2014	772	South Korea	secondary	rbcL	36.805685	128.624054	NA

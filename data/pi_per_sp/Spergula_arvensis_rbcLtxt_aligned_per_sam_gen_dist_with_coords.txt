@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spergula_arvensis	MG247708.1	21-JAN-2018	545	Canada: Alberta, Glenevis	primary	rbcL	53.8	-114.517	0.00266524520255864
+Spergula_arvensis	JN891839.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.61	-2.87	0.00272108843537415
+Spergula_arvensis	OQ172708.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.6895370248889	128.350493737588	0.00212585034013605
+Spergula_arvensis	OQ172707.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.4619604542495	128.662779006099	0.00212585034013605
+Spergula_arvensis	OQ172706.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.5858623161555	127.254653790872	0.00212585034013605
+Spergula_arvensis	HM850378.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0172060615290892
+Spergula_arvensis	JN891970.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00272108843537415
+Spergula_arvensis	JN891967.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00272108843537415

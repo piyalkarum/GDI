@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_cerris	MN662663.1	13-OCT-2020	413	Lebanon	secondary	rbcL	40.375713	-76.4626118	0.106948907965857
+Quercus_cerris	FN675724.1	08-MAR-2010	743	Italy:Apulia	secondary	rbcL	40.9842539	16.6210027	0.114090216415798
+Quercus_cerris	FN675723.1	08-MAR-2010	743	Italy:Liguria	secondary	rbcL	44.4777617	8.7026296	0.114090216415798
+Quercus_cerris	FN675722.1	08-MAR-2010	743	Italy:Basilicata	secondary	rbcL	40.500571	16.081953	0.114090216415798
+Quercus_cerris	AB125017.1	01-APR-2004	1513	Malaysia:Fraser's Hill	secondary	rbcL	3.7130484	101.7365565	0.110762039278988
+Quercus_cerris	AB124954.1	01-APR-2004	756	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.554972669449414

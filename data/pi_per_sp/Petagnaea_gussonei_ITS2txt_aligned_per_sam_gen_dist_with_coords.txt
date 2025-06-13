@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Petagnaea_gussonei	FM867637.1	23-MAR-2009	229	Italy:Sicily, Torrente Monte Cuculone	secondary	ITS2	37.0016290538461	15.1345051179918	0
+Petagnaea_gussonei	FM867636.1	23-MAR-2009	229	Italy:Sicily, Fiumara Tortorici, affluent 3	secondary	ITS2	37.2313511851982	14.6504727003534	0
+Petagnaea_gussonei	FM867635.1	23-MAR-2009	229	Italy:Sicily, Fiumara Tortorici, affluent 2	secondary	ITS2	36.3550634675104	14.2179165649319	0
+Petagnaea_gussonei	FM867634.1	23-MAR-2009	229	Italy:Sicily, Fiumara Tortorici, affluent 1	secondary	ITS2	36.8626816067963	14.9391254620053	0
+Petagnaea_gussonei	FM867633.1	23-MAR-2009	229	Italy:Sicily, Sorgente Patira'	secondary	ITS2	36.7212338337233	14.6722770158401	0
+Petagnaea_gussonei	FM867632.1	23-MAR-2009	229	Italy:Sicily, Vallone Runcillo	secondary	ITS2	37.9430374	14.8657372	0
+Petagnaea_gussonei	FM867631.1	23-MAR-2009	229	Italy:Sicily, Vallone Sollazzo Salmieri	secondary	ITS2	37.833724543318	14.126115698513	0
+Petagnaea_gussonei	FM867630.1	23-MAR-2009	229	Italy:Sicily, Torrente Crocetta	secondary	ITS2	36.7128253921877	14.397368686553	0
+Petagnaea_gussonei	FM867629.1	23-MAR-2009	229	Italy:Sicily, Torrente Contrada Contrasto	secondary	ITS2	36.5610407724241	14.4537829598897	0
+Petagnaea_gussonei	FM867628.1	23-MAR-2009	229	Italy:Sicily, Stagno Case Mangalaviti	secondary	ITS2	36.7069635206812	14.2494290747022	0
+Petagnaea_gussonei	FM867627.1	23-MAR-2009	229	Italy:Sicily, Vallone Case Mangalaviti	secondary	ITS2	37.3833827677297	13.9294726563044	0
+Petagnaea_gussonei	FM867626.1	23-MAR-2009	229	Italy:Sicily, Torrente Fiumetto	secondary	ITS2	37.7695183	14.3824237	0
+Petagnaea_gussonei	FM867625.1	23-MAR-2009	229	Italy:Sicily, Torrente Suta	secondary	ITS2	37.5104789232497	15.186046340691	0
+Petagnaea_gussonei	FM867624.1	23-MAR-2009	229	Italy:Sicily, Torrente Galati - S. Basilio	secondary	ITS2	36.4291233724964	14.1380407504016	0
+Petagnaea_gussonei	FM867623.1	23-MAR-2009	229	Italy:Sicily, Affluente Vallone S. Pietro	secondary	ITS2	36.6450045307237	13.562496078531	0
+Petagnaea_gussonei	FM867622.1	23-MAR-2009	229	Italy:Sicily, Affluente Vallone Linari	secondary	ITS2	36.8505793124887	13.9271587658224	0
+Petagnaea_gussonei	FM867621.1	23-MAR-2009	229	Italy:Sicily, Castell'Umberto	secondary	ITS2	38.0843696	14.8071222	0

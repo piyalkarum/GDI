@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anethum_foeniculum	MF694980.1	16-SEP-2018	553	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	34.2376228617313	72.5011419224587	0.000455602422669262
+Anethum_foeniculum	MF694720.1	15-SEP-2018	549	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	35.223	72.426	0.000457582307044015
+Anethum_foeniculum	MF694719.1	15-SEP-2018	552	Pakistan: Baluchistan	primary	rbcL	30.166	66.991	0.000455602422669262
+Anethum_foeniculum	MF694718.1	15-SEP-2018	552	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	34.0680169793356	71.7363149562433	0.000455602422669262
+Anethum_foeniculum	MG223784.1	26-DEC-2017	552	Canada: Milton, Halton Co., ON	primary	rbcL	43.5	-79.9167	0.00744900775973854
+Anethum_foeniculum	MG223451.1	26-DEC-2017	552	Canada: OAC, ON	primary	rbcL	43.7879416510988	-80.7897299843639	0.000455602422669262
+Anethum_foeniculum	MG221494.1	26-DEC-2017	552	Canada: University of Guelph, Guelph, ON	primary	rbcL	43.1443756993587	-79.9003857786414	0.000455602422669262
+Anethum_foeniculum	KX678461.1	29-APR-2017	551	Canada: British Columbia, Metro Vancouver Regional District, Coquitlam, below Port Mann Bridge, in dusty waste ground	primary	rbcL	49	-122	0.000456434350458809
+Anethum_foeniculum	KU499882.1	05-JUL-2016	615	Egypt	primary	rbcL	30.0303	31.1956	0.000462253193960511
+Anethum_foeniculum	KP149550.1	16-NOV-2015	551	South Africa: Gauteng, Johannesburg	primary	rbcL	-26.16	28.001	0.000456434350458809
+Anethum_foeniculum	JQ412367.1	16-JAN-2013	552	South Africa: Western Cape, Cape Town, Robben Island	primary	rbcL	-33.805	18.371	0.000455602422669262
+Anethum_foeniculum	JN891041.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.68	-4.25	0.000464923862336062
+Anethum_foeniculum	OR290941.1	19-SEP-2023	500	Egypt	secondary	rbcL	26.6827315769146	29.2500056348059	0.000481679389312977
+Anethum_foeniculum	MZ779045.1	23-AUG-2022	534	India	secondary	rbcL	22.3511148	78.6677428	0.000474585339753879
+Anethum_foeniculum	MN192458.1	30-NOV-2021	717	China	secondary	rbcL	35.000074	104.999927	0.000507879248148851
+Anethum_foeniculum	KX808555.1	26-AUG-2017	511	Egypt	secondary	rbcL	26.8794733709767	29.4232484016542	0.000431180691454664
+Anethum_foeniculum	KP974256.1	08-SEP-2015	1334	Pakistan	secondary	rbcL	29.6738192979112	71.7961421586637	0.000538773148148148
+Anethum_foeniculum	KP974255.1	08-SEP-2015	1350	Pakistan	secondary	rbcL	29.4708262906026	71.1270997570179	0.000524434177598108
+Anethum_foeniculum	HM850008.1	23-JUL-2011	699	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00240345038051951
+Anethum_foeniculum	JN891369.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000464923862336062
+Anethum_foeniculum	JN891081.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000464923862336062

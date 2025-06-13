@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Haplophyllum_linifolium	HM163807.1	18-APR-2011	423	Spain	secondary	trnL-trnF	38.8419043606206	-4.56441726724823	0.00420547437978866
+Haplophyllum_linifolium	HM163806.1	18-APR-2011	486	Spain	secondary	trnL-trnF	38.4779270928946	-4.89258191111136	0.00416900314885908
+Haplophyllum_linifolium	HM163805.1	18-APR-2011	485	Spain	secondary	trnL-trnF	38.8927148204826	-5.52981785624595	0.00685865783703223
+Haplophyllum_linifolium	HM163804.1	18-APR-2011	480	Morocco	secondary	trnL-trnF	28.3347722	-10.3713379	0.0141166526198271
+Haplophyllum_linifolium	EF489227.1	31-DEC-2008	529	Spain: Almeria	secondary	trnL-trnF	36.8414197	-2.4628135	0.00421508869341078

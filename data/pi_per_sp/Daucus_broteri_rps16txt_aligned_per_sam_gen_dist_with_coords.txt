@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Daucus_broteri	KT347845.1	13-JUL-2016	864	Turkey: Izmir, c. 5 km from Kemalpasa to Izmir	secondary	rps16	38.4237433	27.1428019	0.189658319543633
+Daucus_broteri	KT347844.1	13-JUL-2016	864	Turkey: Kutahya, 5 miles W of Abide	secondary	rps16	39.4199106	29.9857886	0.190424563344439
+Daucus_broteri	KF234643.1	16-JUN-2015	1407	Italy	secondary	rps16	42.9136433297649	13.8157913198334	0.561309275483243
+Daucus_broteri	KF234636.1	16-JUN-2015	862	Italy	secondary	rps16	42.6832111593812	13.7001116924798	0.190641799125962

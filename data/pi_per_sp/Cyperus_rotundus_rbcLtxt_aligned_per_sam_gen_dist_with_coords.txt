@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cyperus_rotundus	KX219787.1	01-FEB-2017	287	India: Chennai	primary	rbcL	12.9907	80.186	0.000232288037166086
+Cyperus_rotundus	KX219786.1	01-FEB-2017	287	India: Jim Corbett National Park	primary	rbcL	29.5486	78.9353	0.000232288037166086
+Cyperus_rotundus	KX219784.1	01-FEB-2017	287	India: Pantnagar	primary	rbcL	29.0253	79.4771	0.000232288037166086
+Cyperus_rotundus	KX219783.1	01-FEB-2017	287	India: Jaipur	primary	rbcL	26.9	75.8	0.00348432055749129
+Cyperus_rotundus	KX219781.1	01-FEB-2017	287	India: Jabalpur	primary	rbcL	23.2332	79.9675	0.000232288037166086
+Cyperus_rotundus	KX219776.1	01-FEB-2017	287	India: Amarkantak	primary	rbcL	22.682	81.7538	0.000232288037166086
+Cyperus_rotundus	KX219769.1	01-FEB-2017	287	India: Jabalpur	primary	rbcL	23.2089	79.9555	0.000232288037166086
+Cyperus_rotundus	KX219767.1	01-FEB-2017	287	India: Jagdalpur	primary	rbcL	19.0754	82.0129	0.000232288037166086
+Cyperus_rotundus	KX219764.1	01-FEB-2017	287	India: Jabalpur	primary	rbcL	23.2203	79.9638	0.000232288037166086
+Cyperus_rotundus	KU556619.1	06-AUG-2016	644	Egypt	primary	rbcL	30.0303	31.1956	0.00035713198223475
+Cyperus_rotundus	MZ750368.1	23-AUG-2022	534	India	secondary	rbcL	22.3511148	78.6677428	0.000862382771689109
+Cyperus_rotundus	MN205056.1	30-NOV-2021	718	China	secondary	rbcL	34.4053826000844	104.688114912347	0.000450372075474843
+Cyperus_rotundus	MN205055.1	30-NOV-2021	718	China	secondary	rbcL	34.5920385137129	105.061126419078	0.000450372075474843
+Cyperus_rotundus	LC628668.1	28-OCT-2021	553	Japan:Kochi, Inocho	secondary	rbcL	33.5680384	133.5394221	0.000232288037166086
+Cyperus_rotundus	HM849942.1	23-JUL-2011	685	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00035713198223475
+Cyperus_rotundus	JX644667.1	13-NOV-2012	1295	China: Yunnan	secondary	rbcL	25	102	0.000363006991414452

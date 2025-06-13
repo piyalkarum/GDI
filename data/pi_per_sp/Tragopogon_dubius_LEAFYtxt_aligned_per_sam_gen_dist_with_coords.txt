@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_dubius	KF050659.1	23-DEC-2013	819	Spain	secondary	LEAFY	39.7418604362146	-5.52242490915526	0.0296240004381641
+Tragopogon_dubius	KF050651.1	23-DEC-2013	956	Spain	secondary	LEAFY	39.4116630542291	-4.97170592034071	0.0306174136321195
+Tragopogon_dubius	KF050650.1	23-DEC-2013	952	Russia: Volgograd	secondary	LEAFY	48.6484138	44.3849756	0.03062558356676
+Tragopogon_dubius	KF050631.1	23-DEC-2013	830	USA: Wyoming, Lincoln County, Southern Salt River Range and Vicinity, Hams Fork Plateu. 7.500-7.800 f	secondary	LEAFY	42.9132581	-85.7057035	0.0863151769087523

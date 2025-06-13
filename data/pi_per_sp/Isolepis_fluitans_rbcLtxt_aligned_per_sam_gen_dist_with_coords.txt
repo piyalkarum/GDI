@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Isolepis_fluitans	JN890622.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	52.01	-4.28	NA
+Isolepis_fluitans	AB983292.1	12-MAY-2015	1332	Spain	secondary	rbcL	39.3260685	-4.8379791	0.00108380380977225
+Isolepis_fluitans	AB983291.1	12-MAY-2015	697	New Zealand	secondary	rbcL	-41.4457631976427	172.438228967903	NA
+Isolepis_fluitans	AB983290.1	12-MAY-2015	697	New Zealand	secondary	rbcL	-41.502647277376	171.822867169814	NA
+Isolepis_fluitans	HM850077.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000605563733253834
+Isolepis_fluitans	JN892178.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.2169997073091	-3.99078984136099	NA
+Isolepis_fluitans	JN892177.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.6323610977675	-4.28777191066094	NA

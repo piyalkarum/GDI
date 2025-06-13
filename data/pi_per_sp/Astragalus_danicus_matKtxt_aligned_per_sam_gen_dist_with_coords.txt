@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_danicus	OR683689.1	11-NOV-2023	486	Kazakhstan: Qaragandy region	primary	matK	49.50446	74.44125	0.00905349794238683
+Astragalus_danicus	OQ830557.1	28-OCT-2023	1818	Russia	secondary	matK	64.6863136	97.7453061	0.00756572262108366
+Astragalus_danicus	MK926345.1	14-JAN-2020	913	United Kingdom	secondary	matK	54.50409263257	-1.84181519604177	0.00946170132328212
+Astragalus_danicus	MK925667.1	14-JAN-2020	777	United Kingdom	secondary	matK	54.4366739420237	-3.01558513343037	0.00780378443707008
+Astragalus_danicus	MK925632.1	14-JAN-2020	930	United Kingdom	secondary	matK	54.67078098728	-2.74234940456569	0.00821465310092578
+Astragalus_danicus	KJ746137.1	29-JUL-2014	702	Poland	secondary	matK	52.215933	19.134422	0.028937282537664

@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_luteus	KX958967.1	02-NOV-2017	821	Czech Republic: South Moravia, between Klentnice and Mikulov	primary	rps16	49.0364507103898	16.6701209415326	0.00487865768899759
+Odontites_luteus	KX958966.1	02-NOV-2017	823	Czech Republic: South Moravia, between Klentnice and Mikulov	primary	rps16	49.4227222913674	17.2479574088738	0.00487265821444698
+Odontites_luteus	KX958965.1	02-NOV-2017	824	Spain: Valladolid, Santibanez de Valcorba	primary	rps16	41.4989842389173	-5.47345517013465	0.00595440969636912
+Odontites_luteus	KX958964.1	02-NOV-2017	823	Spain: Valladolid, Santibanez de Valcorba	primary	rps16	41.1354281671819	-3.70750336348475	0.00595749179931892
+Odontites_luteus	KX958900.1	02-NOV-2017	838	Italy: Sardinia, Badesi	primary	rps16	41.0306	8.9114	0.00211865338239388
+Odontites_luteus	KX958880.1	02-NOV-2017	819	Spain: Albacete, Riopar	primary	rps16	38.6822182900124	-2.61361543657664	0.00214631077469348
+Odontites_luteus	KX958879.1	02-NOV-2017	819	Spain: Albacete, Riopar	primary	rps16	38.6798633588783	-2.45421053815713	0.00214631077469348
+Odontites_luteus	KX958840.1	02-NOV-2017	838	Spain: Teruel, Arboli	primary	rps16	41.3722902828493	0.939906128995714	0.00302053615762979
+Odontites_luteus	KX958839.1	02-NOV-2017	838	Spain: Teruel, Arboli	primary	rps16	40.9705611854174	1.59022238051125	0.00302053615762979
+Odontites_luteus	KX958806.1	02-NOV-2017	819	Croatia: Splitsko-Dalmatinska, between Brela and Gornja Brela	primary	rps16	42.8031730826219	17.6770096495435	0.00496318952521887
+Odontites_luteus	KX958805.1	02-NOV-2017	819	Croatia: Splitsko-Dalmatinska, between Brela and Gornja Brela	primary	rps16	42.8587544744903	16.8738202383886	0.00496318952521887
+Odontites_luteus	KX958804.1	02-NOV-2017	837	France: Corsica, Olmeta-di-Capocorso, between Celle and Bocca di San Ghjacintu	primary	rps16	43.2252041136631	8.43400577560499	0.00211902723171971
+Odontites_luteus	KX958803.1	02-NOV-2017	826	France: Corsica, Olmeta-di-Capocorso, between Celle and Bocca di San Ghjacintu	primary	rps16	43.0186440783312	8.97869112907811	0.00213404360078259
+Odontites_luteus	KX958760.1	02-NOV-2017	837	Spain: Lerida, between Puente de Montanana and Tremp	primary	rps16	42.7586289796061	0.494093411718583	0.00302058896162211
+Odontites_luteus	KX958759.1	02-NOV-2017	837	Spain: Lerida, between Puente de Montanana and Tremp	primary	rps16	42.3275718663126	-0.0560696916411779	0.00302058896162211
+Odontites_luteus	KX958969.1	02-NOV-2017	818	France: Alpes-Maritimes, Tinee Valley	secondary	rps16	43.9449700544534	7.48670297570756	0.00496882337781769
+Odontites_luteus	KX958919.1	02-NOV-2017	835	France: Alpes-Maritimes, Col de Braus	secondary	rps16	43.8726348	7.398932	0.00399733568771493
+Odontites_luteus	KX958918.1	02-NOV-2017	806	France: Alpes-Maritimes, La Penne	secondary	rps16	43.9276596	6.9477224	0.00532141630763212
+Odontites_luteus	KX958917.1	02-NOV-2017	809	France: Var, between Castellane and La Palud-sur-Verdon	secondary	rps16	43.9906052719609	8.21108561799693	0.00217670481376386
+Odontites_luteus	KX958916.1	02-NOV-2017	837	France: Alpes-Maritimes, Col de Ferrier	secondary	rps16	43.5681734358878	7.53510528584488	0.00211875899037851
+Odontites_luteus	KX958903.1	02-NOV-2017	818	Germany: Bavaria, Landkreis Neumarkt, Buchenberg	secondary	rps16	49.1727811	11.714904	0.00451924113605904
+Odontites_luteus	KX958902.1	02-NOV-2017	810	Italy: Umbria, Norcia	secondary	rps16	42.7924117	13.0929279	0.00336622521148012
+Odontites_luteus	KX958901.1	02-NOV-2017	837	France: Correze, between Noailles and Cressensac	secondary	rps16	45.3719555	1.8742387	0.00211875899037851
+Odontites_luteus	KX958899.1	02-NOV-2017	836	France: Bouches-du-Rhone, Allauch	secondary	rps16	43.3351381	5.4832687	0.00211897071164916
+Odontites_luteus	KX958898.1	02-NOV-2017	827	France: Alpes-Maritimes, Roussillon	secondary	rps16	43.9605907	7.1571977	0.00212997435392731
+Odontites_luteus	KX958897.1	02-NOV-2017	837	France: Var, La Garde-Freinet	secondary	rps16	43.3196859	6.4687979	0.00211902723171971
+Odontites_luteus	KX958896.1	02-NOV-2017	826	France: Var, between Moustiers-Sainte-Marie and La Palud-sur-Verdon	secondary	rps16	44.4585208507056	7.81047313689721	0.00402448140953659
+Odontites_luteus	KX958895.1	02-NOV-2017	825	France: Var, between Riez and Sainte-Croix-du-Verdon	secondary	rps16	43.2472535629235	6.56980546304059	0.00492845597471629

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silybum_marianum	MH749036.1	30-OCT-2018	553	USA: United States National Arboretum Herb garden	primary	rbcL	38.91160154	-76.96986322	0.000657570277823442
+Silybum_marianum	MG224413.1	26-DEC-2017	552	USA: Oregon, Douglas Co., Along Weaver Road. WGS84	primary	rbcL	42.9941	-123.336	0.000658761528326746
+Silybum_marianum	MG224010.1	26-DEC-2017	552	Canada: British Columbia, Greater Vancouver, Richmond, N side of Hwy 91	primary	rbcL	49.178	-122.033	0.000658761528326746
+Silybum_marianum	MG222597.1	26-DEC-2017	552	Canada: British Columbia, Vancouver Island, Nanaimo, Departure Bay Rd. near Bay St.	primary	rbcL	49.206	-123.971	0.000658761528326746
+Silybum_marianum	KU556646.1	06-AUG-2016	645	Egypt	primary	rbcL	30.0303	31.1956	0.00098661028893587
+Silybum_marianum	JN892986.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.67	-3.87	0.000670915800067092
+Silybum_marianum	MK925172.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.000670915800067092
+Silybum_marianum	KY423872.1	31-MAR-2019	670	Italy: Sardinia	secondary	rbcL	40.0912813	9.0305773	0.0015055076891454
+Silybum_marianum	KX789411.1	26-AUG-2017	420	Egypt	secondary	rbcL	26.2540493	29.2675469	0.000216450216450216
+Silybum_marianum	KC589895.1	21-MAY-2013	1416	Spain	secondary	rbcL	39.3260685	-4.8379791	0.00685105954810927
+Silybum_marianum	HM850356.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000607311524494563
+Silybum_marianum	JN891240.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000670915800067092

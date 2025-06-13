@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_foliosa	KY785156.1	25-FEB-2018	382	Macedonia	primary	psbA-trnH	41.78	21.32	0
+Campanula_foliosa	KY785155.1	25-FEB-2018	382	Montenegro	primary	psbA-trnH	42.51	19.78	0
+Campanula_foliosa	KY785154.1	25-FEB-2018	382	Macedonia	primary	psbA-trnH	41.79	20.62	0
+Campanula_foliosa	KY785153.1	25-FEB-2018	382	Montenegro	primary	psbA-trnH	42.52	19.77	0
+Campanula_foliosa	KY785152.1	25-FEB-2018	382	Macedonia	primary	psbA-trnH	42.01	20.9	0
+Campanula_foliosa	KJ146676.1	02-APR-2014	382	Macedonia	primary	psbA-trnH	40.94	20.82	0

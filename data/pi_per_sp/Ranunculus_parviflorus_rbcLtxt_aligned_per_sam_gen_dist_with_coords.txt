@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_parviflorus	MG249815.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Greater Victoria, The Roost Farm Centre, 9100 E Saanich Rd. next to nursery sales area	primary	rbcL	48.629	-123.421	0.0156834873252784
+Ranunculus_parviflorus	MG249760.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Victoria, Strathcona Park, Begbie St near Belmont Ave.	primary	rbcL	48.428	-123.339	0.0156834873252784
+Ranunculus_parviflorus	MG246310.1	21-JAN-2018	378	Canada: British Columbia, North Pender Island, Port Washington, near 1206 Bridges Road, 50 m east of Upper Terrace Road	primary	rbcL	48.816	-123.319	0.0590631893084209
+Ranunculus_parviflorus	JN891103.1	07-MAR-2012	460	United Kingdom: Glamorgan	primary	rbcL	51.42	-3.58	0.0141545893719807
+Ranunculus_parviflorus	HM850297.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0231781737402158
+Ranunculus_parviflorus	JN892736.1	07-MAR-2012	524	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0144975768038771

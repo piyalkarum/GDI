@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linum_bienne	MG247942.1	21-JAN-2018	553	USA: Oregon, Curry County, Along U.S. highway 101 ca. 17.6km (11miles) South of Gold Beach at junction with Pistol River Loop Road	primary	rbcL	42.269	-124.401	0.00124378109452736
+Linum_bienne	MG247223.1	21-JAN-2018	553	USA: Oregon, Coos County, Along State Highway 42 ca. 10.5 miles east of Bridge. WGS84	primary	rbcL	42.964	-123.848	0.00124378109452736
+Linum_bienne	JN892708.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.21	-4.36	0.00126984126984127
+Linum_bienne	HM544063.1	19-DEC-2010	1280	Chile	secondary	rbcL	-31.7613365	-71.3187697	0.04375
+Linum_bienne	HM850126.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0500470859985785
+Linum_bienne	JN893180.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8388235480847	-5.64686894870862	0.00126984126984127
+Linum_bienne	JN893179.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.3232376180291	-4.76604584382597	0.00126984126984127

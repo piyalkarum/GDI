@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_alpina	KF547638.1	09-SEP-2014	365	France: Reg. Auvergne, Dept. Cantal,Puy Mary, near Pas de Peyrol	primary	trnL-trnF	45.1056	2.7003	0.00410958904109589
+Arabis_alpina	KF547633.1	09-SEP-2014	365	Norway: Prov. Sogn og Fjordane, Kom. Stryn,Jostedalsbreen, near Briksdalsbre Fjellstove	primary	trnL-trnF	61.665	6.87	0.00205479452054795
+Arabis_alpina	KF857478.1	09-FEB-2014	412	Germany: Bayern, Lkr. Miesbach,Kreuth, Bayernwald, Totengraben, oberhalb verfallener Klause	primary	trnL-trnF	47.5966	11.6899	0.00259836424219986
+Arabis_alpina	KF022854.1	27-JUL-2013	421	Macedonia: Prespansko jezero, Stenje	secondary	trnL-trnF	40.88586535	21.0351678936207	0.0046531587627478
+Arabis_alpina	JQ919857.1	19-JAN-2013	366	Tanzania: Kilimandjaro	secondary	trnL-trnF	-3.0764084	37.3539987	0.00410958904109589

@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_glauca	MG245995.1	21-JAN-2018	552	Canada: Quebec, Jardin botanique de Montreal	primary	rbcL	45.5595	-73.566	0
+Salix_glauca	KC483952.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	61.731641410449	-114.934258580292	0
+Salix_glauca	KC483951.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.924153869047	-112.81376442318	0
+Salix_glauca	KC483950.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Inuvik, Inuvik, along roadside near centre of town	primary	rbcL	68.4889	-133.811	0
+Salix_glauca	KC483949.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Near Red Rocks Rising hiking area, west side of Hornaday River	primary	rbcL	68.6889	-122.419	0
+Salix_glauca	KC483948.1	25-OCT-2013	552	Canada: Yukon Territory, Shingle Point, Mainland opposite point	primary	rbcL	68.984	-137.42	0
+Salix_glauca	KC483947.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Cambridge Bay	primary	rbcL	69.1	-105.117	0
+Salix_glauca	KC483946.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	68.719	-110.783	0
+Salix_glauca	KC483945.1	25-OCT-2013	492	Canada: Northwest Territories, Mackenzie, Mackenzie River	primary	rbcL	67	-134	0
+Salix_glauca	KC483944.1	25-OCT-2013	552	Canada: Northwest Territories, Mackenzie, Slave Lake	primary	rbcL	64	-104	0
+Salix_glauca	KC483943.1	25-OCT-2013	552	Canada: Northwest Territories, Illisarvik, Tuktoyaktuk	primary	rbcL	69.483	-133.417	0
+Salix_glauca	JN965900.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.4155173146922	-93.5959648963537	0
+Salix_glauca	JN965899.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.83	-92.808	0
+Salix_glauca	JN965898.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.4461265828262	-91.7620412632735	0
+Salix_glauca	JN965897.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.383	-93.225	0
+Salix_glauca	JN965896.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 35 km E Churchill, Fort Churchill, Spaceport project. Churchill area. Willow zone at edge of disturbed gravel ridge along road. Gravel and sand.	primary	rbcL	58.724	-93.838	0
+Salix_glauca	JN965905.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 5 km SE Churchill, Intersection of Goose Creek Rd and Canadian National Railway, Side of the railway	primary	rbcL	58.718	-94.124	0
+Salix_glauca	JN965904.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	rbcL	58.78	-94.195	0
+Salix_glauca	JN965903.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	rbcL	58.2373454051606	-93.6101189994982	0
+Salix_glauca	JN965902.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	rbcL	58.4236504756553	-95.3268650831656	0
+Salix_glauca	JN965901.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	rbcL	58.629	-93.798	0
+Salix_glauca	MG247009.1	21-JAN-2018	552	Canada: Alberta, Jasper N.P., Kerkeslin Campground. West side of Athabasca River on Hwy. 93, ca. 6 km south of junction of Hwy. 93A	secondary	rbcL	52.2875	-117.4769	0

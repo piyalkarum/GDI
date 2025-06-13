@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Androsace_halleri	EF152438.2	26-DEC-2006	693	Spain	primary	rpl20-rps12	43.032	-4.587	0
+Androsace_halleri	EF152437.2	26-DEC-2006	693	Spain	primary	rpl20-rps12	42.375	-2.126	0
+Androsace_halleri	EF152436.2	26-DEC-2006	693	France	primary	rpl20-rps12	45.1	2.683	0
+Androsace_halleri	EF152435.2	26-DEC-2006	693	France	primary	rpl20-rps12	45.522	2.836	0
+Androsace_halleri	EF152434.2	26-DEC-2006	693	France	primary	rpl20-rps12	47.9	7.1	0

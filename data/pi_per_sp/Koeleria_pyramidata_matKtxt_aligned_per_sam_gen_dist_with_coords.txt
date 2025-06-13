@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Koeleria_pyramidata	LR606921.1	25-JAN-2021	2070	Mongolia	secondary	matK	44.5478075584654	-78.4891112159508	0.00129198966408269
+Koeleria_pyramidata	LT159687.1	15-MAR-2018	774	Germany	secondary	matK	40.4203479	-79.1166983	0.00258397932816537
+Koeleria_pyramidata	LT159683.1	16-FEB-2018	774	Mongolia	secondary	matK	44.0384916284862	-80.4425079798554	0.00129198966408269
+Koeleria_pyramidata	KT280224.1	01-AUG-2016	738	China: Maqu Gansu	secondary	matK	34.6137382	102.4654149	0

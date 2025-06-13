@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ficaria_verna	MG220921.1	21-JAN-2018	659	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Ginger Valley	primary	matK	43.2723	-79.8991	0.00344689738443716
+Ficaria_verna	KP402286.1	06-JAN-2016	465	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, Cumberstone Rd. - on left side of road near gate before going down the hill to the CO2 site	primary	matK	38.87	-76.551	0.00916789654930072
+Ficaria_verna	JN895129.1	07-MAR-2012	808	United Kingdom: Cardiganshire	primary	matK	52.41	-4.04	0.00217864923747277
+Ficaria_verna	JN895319.1	07-MAR-2012	835	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0025299003051218
+Ficaria_verna	JN895318.1	07-MAR-2012	830	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0025299003051218

@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Chamaenerion_latifolium	MG247586.1	21-JAN-2018	552	Canada: British Columbia, Manning Park, Cascade Lookout	primary	rbcL	49.083	-120.775	0.025347233959701
+Chamaenerion_latifolium	KX678235.1	29-APR-2017	547	Canada: British Columbia, East Kootenay Regional District, near Invermere, Panorama Rd, campsite pulloff near river	primary	rbcL	50.4437	-116.259	0.00170627666057282
+Chamaenerion_latifolium	KT960632.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.4730142585644	-21.7142513713065	0.00169082125603865
+Chamaenerion_latifolium	KT960530.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.8098778633145	-22.8806577733891	0.00169082125603865
+Chamaenerion_latifolium	KT960516.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1343128387121	-22.2817077402144	0.00169082125603865
+Chamaenerion_latifolium	KC482441.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, About 3 km S of Paulatuk, between road and Darnley Bay	primary	rbcL	69.3861	-124.078	0.00169082125603865
+Chamaenerion_latifolium	KC482440.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vincinity of Arctic Char Inn, Uluhaktok	primary	rbcL	70.736	-117.77	0.00169082125603865
+Chamaenerion_latifolium	KC482439.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Along River in middle of town, leading from school to ocean	primary	rbcL	56.617	-79.311	0.00169082125603865
+Chamaenerion_latifolium	KC482438.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	rbcL	68.531	-112.703	0.00169082125603865
+Chamaenerion_latifolium	KC482437.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, River valley at base of large conical hill, E of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.317	-116.418	0.00169082125603865
+Chamaenerion_latifolium	KC482436.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, 3 km ESE of junction with Little Hornaday River, NE bank, between willow grove and sand hills to east	primary	rbcL	68.4333	-121.964	0.00169082125603865
+Chamaenerion_latifolium	KC482435.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Oldsquaw Bay	primary	rbcL	66.898	-107.839	0.00169082125603865
+Chamaenerion_latifolium	JN965443.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 5 km SE Churchill, Intersection of Goose Creek Rd and Canadian National Railway, Side of the railway	primary	rbcL	58.718	-94.124	0.00169082125603865
+Chamaenerion_latifolium	JN965442.1	27-OCT-2012	522	Canada: Manitoba, Churchill, Town of Churchill, beach, shore bluffs	primary	rbcL	58.772	-94.163	0.0016602809706258
+Chamaenerion_latifolium	JN965441.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 43 km E Churchill, Fort Churchill, Spaceport project. Churchill area. Near site C-2. East of the Study Centre Dryas, lichens, in shallow peaty soil.	primary	rbcL	58.733	-93.8	0.00169082125603865
+Chamaenerion_latifolium	JN965440.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, Broad River, Rocky river edge	primary	rbcL	58.128	-92.856	0.00169082125603865

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pulicaria_dysenterica	JN895636.1	07-MAR-2012	973	United Kingdom: Glamorgan	primary	matK	51.52	-3.2	0.000414593698175788
+Pulicaria_dysenterica	JN895277.1	07-MAR-2012	811	United Kingdom: Monmouthshire (35)	primary	matK	51.5	-3.13	0.000418235048097031
+Pulicaria_dysenterica	KJ204528.1	29-JAN-2015	818	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00125001689812931
+Pulicaria_dysenterica	JN894563.1	07-MAR-2012	954	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.000417188151856487

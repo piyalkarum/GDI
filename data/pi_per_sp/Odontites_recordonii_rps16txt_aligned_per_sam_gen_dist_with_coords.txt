@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_recordonii	KX958778.1	02-NOV-2017	834	Spain: Guadalajara, Fuentelviejo	primary	rps16	40.51173	-2.9881	0
+Odontites_recordonii	KX958777.1	02-NOV-2017	808	Spain: Zaragoza, Paracuellos de Jiloca	primary	rps16	41.32468	-1.61225	0
+Odontites_recordonii	KX958776.1	02-NOV-2017	835	Spain: Teruel, Arboli	primary	rps16	41.23127	0.96434	0
+Odontites_recordonii	KX958775.1	02-NOV-2017	808	Spain: Valencia, El Saler	primary	rps16	39.36067	-0.32096	0
+Odontites_recordonii	KX958774.1	02-NOV-2017	818	Spain: Teruel, Formiche Alto, Formiche Bajo	primary	rps16	40.29	-0.88	0
+Odontites_recordonii	KX958773.1	02-NOV-2017	819	Spain: Alava, Bachicabo	primary	rps16	42.77934	-3.06771	0
+Odontites_recordonii	KX958973.1	02-NOV-2017	766	Spain: Zaragoza, between Urries and Ruesta	secondary	rps16	41.6521342	-0.8809428	0

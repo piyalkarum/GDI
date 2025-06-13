@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Urtica_membranacea	KX271593.1	07-JUN-2016	245	Spain	secondary	psbA-trnH	39.9160868765897	-4.57461268677663	0.00680272108843537
+Urtica_membranacea	KX271592.1	07-JUN-2016	245	Spain	secondary	psbA-trnH	39.5986289676186	-4.95861646521098	0.00408163265306122
+Urtica_membranacea	KF558978.1	21-DEC-2013	248	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.00408163265306122
+Urtica_membranacea	KF558973.1	21-DEC-2013	248	Spain: Mallorca	secondary	psbA-trnH	39.613432	2.8829185	0.00408163265306122

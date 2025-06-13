@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arnica_angustifolia	OP005011.1	12-APR-2023	849	USA: Alaska, Noatak Quad	primary	trnL-trnF	67.334	-163.724	0.000441696113074205
+Arnica_angustifolia	OP005010.1	12-APR-2023	849	Norway: Svalbard, Lomfjorden	primary	trnL-trnF	79.363	17.667	0.000441696113074205
+Arnica_angustifolia	OP005009.1	12-APR-2023	849	Norway: Svalbard, Ringhorndalen	primary	trnL-trnF	79.332	16.19	0.00220848056537102
+Arnica_angustifolia	OP005008.1	12-APR-2023	849	Norway: Svalbard, Hemsedalen	primary	trnL-trnF	78.5207910272062	16.4931142122608	0.00117785630153121
+Arnica_angustifolia	OP005007.1	12-APR-2023	849	Norway: Svalbard, Litledalen	primary	trnL-trnF	77.868	15.722	0.000441696113074205
+Arnica_angustifolia	OP005006.1	12-APR-2023	849	Canada: Victoria Island, Minto inlet	primary	trnL-trnF	71.205	-116.383	0.000441696113074205
+Arnica_angustifolia	OP005005.1	12-APR-2023	849	Norway: Svalbard, Hemsedalen	primary	trnL-trnF	79.1160001865447	17.8568586967517	0.000441696113074205
+Arnica_angustifolia	OP005004.1	12-APR-2023	849	Greenland: Hurry Fjord	primary	trnL-trnF	70.54	-22.275	0.000441696113074205
+Arnica_angustifolia	OP005003.1	12-APR-2023	849	Norway: Svalbard, Hemsedalen	primary	trnL-trnF	78.4307271397658	16.9722579045972	0.000441696113074205

@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arnica_angustifolia	OP005002.1	12-APR-2023	953	Norway: Svalbard, Ringhorndalen	primary	petD	78.8321559440231	17.4959637791386	0
+Arnica_angustifolia	OP005001.1	12-APR-2023	953	Norway: Svalbard, Kapp Thordsen	primary	petD	78.465	15.557	0
+Arnica_angustifolia	OP005000.1	12-APR-2023	953	Norway: Svalbard, Ossian Sars	primary	petD	78.943	12.474	0
+Arnica_angustifolia	OP004999.1	12-APR-2023	953	Canada: Victoria Island, Minto inlet	primary	petD	71.205	-116.383	0
+Arnica_angustifolia	OP004998.1	12-APR-2023	953	USA: Alaska, Noatak Quad	primary	petD	67.334	-163.724	0
+Arnica_angustifolia	OP004997.1	12-APR-2023	953	Norway: Svalbard, Lomfjorden	primary	petD	79.363	17.667	0
+Arnica_angustifolia	OP004996.1	12-APR-2023	953	Norway: Svalbard, Litledalen	primary	petD	77.868	15.722	0
+Arnica_angustifolia	OP004995.1	12-APR-2023	953	Greenland: Hurry Fjord	primary	petD	70.54	-22.275	0
+Arnica_angustifolia	OP004994.1	12-APR-2023	431	Norway: Svalbard, Ringhorndalen	primary	petD	79.3995788650274	16.2080832808139	0
+Arnica_angustifolia	OP004993.1	12-APR-2023	953	Greenland: Disko	primary	petD	69.25	-53.54	0

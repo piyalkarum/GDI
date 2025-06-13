@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arisarum_vulgare	EU193489.1	12-AUG-2008	638	Greece	secondary	rps16	43.1317936251861	-76.7145869977566	0.000522466039707419
+Arisarum_vulgare	EU193488.1	12-AUG-2008	638	Greece	secondary	rps16	42.9252940757027	-78.4612779957399	0.000522466039707419
+Arisarum_vulgare	EU193487.1	12-AUG-2008	638	Greece: Crete	secondary	rps16	35.3084952	24.4633423	0.000522466039707419
+Arisarum_vulgare	EU193486.1	12-AUG-2008	638	Spain: Tenerife	secondary	rps16	28.2935785	-16.6214471	0.00156739811912226

@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Knautia_arvensis	MG223445.1	26-DEC-2017	552	Canada: Guelph, On	primary	rbcL	44.2235842312546	-80.7340795970886	0.00271085601092838
+Knautia_arvensis	MG222740.1	26-DEC-2017	552	Canada: Guelph, On	primary	rbcL	42.9615891500793	-80.6238548518767	0.00271085601092838
+Knautia_arvensis	MG222090.1	26-DEC-2017	552	Canada: Guelph, On	primary	rbcL	43.7199192604687	-79.8015154661063	0.00271085601092838
+Knautia_arvensis	KX678407.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, Vancouver, Marine Drive, opposite Duff Street, east of Victoria Drive, new soil verge between sidewalk and wall	primary	rbcL	49.209	-123.064	0.00181558674130395
+Knautia_arvensis	JN891640.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.46	-3.36	0.00330267878919571
+Knautia_arvensis	KJ746249.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00218244856339099
+Knautia_arvensis	HG417005.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.00864450085820866
+Knautia_arvensis	JN892433.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0018535243525225
+Knautia_arvensis	JN892432.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0018535243525225
+Knautia_arvensis	HE574586.1	31-JUL-2011	567	Finland	secondary	rbcL	63.2467777	25.9209164	0.00347592415391226

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Myosotis_stolonifera	MK926278.1	14-JAN-2020	716	United Kingdom	secondary	matK	54.0471679421022	-4.08473396599015	0.0013986013986014
+Myosotis_stolonifera	MK925887.1	14-JAN-2020	704	United Kingdom	secondary	matK	55.1950326094056	-3.28009045881971	0.00147275405007364
+Myosotis_stolonifera	MK925847.1	14-JAN-2020	754	United Kingdom	secondary	matK	55.4970416644674	-2.73859389601834	0.00133333333333333
+Myosotis_stolonifera	HM850875.1	23-JUL-2011	807	Portugal	secondary	matK	39.6621648	-8.1353519	0.00420468878200837

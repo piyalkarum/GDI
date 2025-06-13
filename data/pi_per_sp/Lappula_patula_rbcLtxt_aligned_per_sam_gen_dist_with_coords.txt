@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lappula_patula	MT930646.1	03-MAR-2023	564	China	secondary	rbcL	34.4562783051435	105.462152509013	0
+Lappula_patula	MT930645.1	03-MAR-2023	568	China	secondary	rbcL	34.5021490824526	105.397006546061	0
+Lappula_patula	MT930644.1	03-MAR-2023	565	China	secondary	rbcL	34.1410379753393	105.231995388216	0
+Lappula_patula	MT930643.1	03-MAR-2023	587	China	secondary	rbcL	35.1655814645805	105.060187412449	0
+Lappula_patula	MT930642.1	03-MAR-2023	565	China	secondary	rbcL	35.0019392356153	104.163998662032	0
+Lappula_patula	MT930641.1	03-MAR-2023	572	China	secondary	rbcL	34.8788049317672	104.887987568865	0

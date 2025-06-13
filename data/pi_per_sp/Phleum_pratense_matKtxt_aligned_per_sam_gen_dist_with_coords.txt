@@ -1,0 +1,24 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phleum_pratense	JN893934.1	07-MAR-2012	808	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.44	0.00173937738592606
+Phleum_pratense	MF597483.1	17-JUL-2018	818	Canada: British Columbia	primary	matK	53.948	-123.574	0.0016008957175763
+Phleum_pratense	MF597482.1	17-JUL-2018	810	Canada: Manitoba, Mary Jane Reservoir, ~10 km NW of Manitou, open, relatively undisturbed prairie habitat S of the reservoir and N of the railroad tracks.	primary	matK	49.288	-98.626	0.00160279857755951
+Phleum_pratense	MF597481.1	17-JUL-2018	819	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, Mosquito Lake.	primary	matK	53.072	-132.071	0.0016002271792559
+Phleum_pratense	MG217048.1	24-JAN-2018	773	Canada: Ontario, Halton County, Burlington Township, Hendrie Valley, Bridle Trail	primary	matK	43.2938	-79.8762	0.00122692141292494
+Phleum_pratense	MG216970.1	24-JAN-2018	802	Canada: Ontario, Thunder Bay District, Geraldton	primary	matK	49.3466	-87.8704	0.00259965735282934
+Phleum_pratense	HQ593382.1	09-NOV-2011	790	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Approx. 100 m NW of gazebo	primary	matK	44.033	-79.536	0.00126927965322315
+Phleum_pratense	KJ593049.1	17-MAR-2015	782	USA: Wisconsin, Popple River	primary	matK	45.82	-88.746	0.00413319541801273
+Phleum_pratense	KJ593048.1	17-MAR-2015	678	USA: Wisconsin, Laona	primary	matK	45.569	-88.787	0.00855622370280306
+Phleum_pratense	JN894623.1	07-MAR-2012	779	United Kingdom: Perthshire, East (89)	primary	matK	56.81	-3.46	0.00122526819517842
+Phleum_pratense	JN893936.1	07-MAR-2012	1031	United Kingdom: Glamorgan	primary	matK	51.52	-3.2	0.00146779694864567
+Phleum_pratense	KJ204517.1	29-JAN-2015	813	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.00172504716454998
+Phleum_pratense	JN894629.1	07-MAR-2012	811	United Kingdom: Carmarthenshire	secondary	matK	51.353394907675	-3.62436414287986	0.00173132685701906
+Phleum_pratense	JN894616.1	07-MAR-2012	801	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00400087534623817
+Phleum_pratense	OQ303567.1	13-JUN-2023	591	Latvia	secondary	matK	56.8406494	24.7537645	0.00307644977695739
+Phleum_pratense	OK247822.1	27-OCT-2022	788	Turkey	secondary	matK	38.9597594	34.9249653	0.00184535063323588
+Phleum_pratense	KM523886.1	12-JUL-2015	752	Russia: Caucasus	secondary	matK	43.345	42.44	0.00158702800808611
+Phleum_pratense	KM523885.1	12-JUL-2015	752	Canada: British Columbia	secondary	matK	55.001251	-125.002441	0.00103431144446941
+Phleum_pratense	MT433215.1	31-MAY-2020	1271	Norway	secondary	matK	64.5731537	11.5280364	0.00143330912322846
+Phleum_pratense	HM850515.1	23-JUL-2011	672	Portugal	secondary	matK	39.6621648	-8.1353519	0.000918129104218315
+Phleum_pratense	JN896222.1	07-MAR-2012	807	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.001214347615159
+Phleum_pratense	JN894886.1	07-MAR-2012	767	United Kingdom: Carmarthenshire	secondary	matK	51.7054825097128	-5.23490148354991	0.00123009578514597
+Phleum_pratense	HQ600051.1	02-AUG-2011	1326	South Korea	secondary	matK	36.638392	127.6961188	0.00146779694864567

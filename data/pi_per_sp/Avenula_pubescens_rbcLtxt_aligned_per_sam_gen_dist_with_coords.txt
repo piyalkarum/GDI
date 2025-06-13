@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Avenula_pubescens	JN893218.1	07-MAR-2012	529	United Kingdom: Monmouthshire	primary	rbcL	51.79	-2.73	0
+Avenula_pubescens	JN891035.1	07-MAR-2012	542	United Kingdom: Shetland (112)	primary	rbcL	60.38	-1.38	0
+Avenula_pubescens	MG227834.1	23-JAN-2018	553	Canada: Quebec, Anticosti Island, Portn Menier, near east end of island	secondary	rbcL	47.3563353475115	-71.5721582658011	0
+Avenula_pubescens	MG227616.1	23-JAN-2018	553	Canada: Quebec, Chateau Menier, Anticasti	secondary	rbcL	47.1766301664005	-71.9486086879971	0
+Avenula_pubescens	JN891447.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.7457450700994	-4.88282610418345	0
+Avenula_pubescens	JN891445.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.9238902423452	-3.82796787908005	0
+Avenula_pubescens	JN891444.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0

@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Adiantum_capillus-veneris	MN207129.1	15-MAR-2020	595	India	primary	rbcL	32.1015	76.2732	NA
+Adiantum_capillus-veneris	MN207128.1	15-MAR-2020	594	India	primary	rbcL	30.8237	76.9429	NA
+Adiantum_capillus-veneris	MW620303.1	04-JAN-2022	1308	Mexico: Puebla	secondary	rbcL	19.1710098	-98.4125121	0.0024635368173408
+Adiantum_capillus-veneris	MT657436.1	27-JUL-2021	1309	USA: Kauai	secondary	rbcL	22.0504666	-159.5587678	0.00100912079259305
+Adiantum_capillus-veneris	MT727039.1	26-JUN-2021	510	India	secondary	rbcL	22.3511148	78.6677428	NA
+Adiantum_capillus-veneris	MG215567.1	24-JAN-2018	481	Canada: British Columbia	secondary	rbcL	54.6331714003777	-123.82592127447	NA
+Adiantum_capillus-veneris	MG215141.1	24-JAN-2018	553	Canada: British Columbia	secondary	rbcL	55.6230575019567	-123.994044995811	NA
+Adiantum_capillus-veneris	MG215097.1	24-JAN-2018	553	Canada: British Columbia	secondary	rbcL	55.3554138965664	-126.355239703962	NA
+Adiantum_capillus-veneris	KX709602.1	20-AUG-2017	486	Egypt	secondary	rbcL	35.8681298	-90.9456751	NA
+Adiantum_capillus-veneris	DQ432659.1	31-OCT-2006	1283	China	secondary	rbcL	30.047992	-94.3357433	0.00130921114840904
+Adiantum_capillus-veneris	KU147273.1	23-FEB-2016	1308	USA: California	secondary	rbcL	36.7014631	-118.755997	0.00192837513374612
+Adiantum_capillus-veneris	JF935345.1	01-OCT-2011	1255	Russia	secondary	rbcL	40.2338211	-84.4096729	0.000887148795292331
+Adiantum_capillus-veneris	JF935334.1	01-OCT-2011	1234	Philippines: Luzon	secondary	rbcL	15.5919971	120.7396746	0.000923671005598406
+Adiantum_capillus-veneris	JF935332.1	01-OCT-2011	1219	China: Chongqing	secondary	rbcL	30.6838373784665	108.353837643332	0.000925665360245186
+Adiantum_capillus-veneris	JF935322.1	01-OCT-2011	1273	China: Chongqing	secondary	rbcL	29.7264936623856	108.391586461591	0.000924172734101118
+Adiantum_capillus-veneris	JF935320.1	01-OCT-2011	1273	China: Guangxi	secondary	rbcL	-9.32880624054315	13.9196009189743	0.000924172734101118
+Adiantum_capillus-veneris	JF935318.1	01-OCT-2011	1268	China: Guangxi	secondary	rbcL	-8.98624739639493	13.0660295075365	0.000924947128772291
+Adiantum_capillus-veneris	LC004119.1	03-OCT-2014	1380	Indonesia	secondary	rbcL	-1.83603300344446	117.978913823922	0.00180036354621097
+Adiantum_capillus-veneris	LC004118.1	03-OCT-2014	1136	Indonesia	secondary	rbcL	-2.42827690387455	118.554841565781	0.00427513683205642
+Adiantum_capillus-veneris	AB574796.1	03-DEC-2010	1205	Japan	secondary	rbcL	40.9921996	-75.9078749	0.000907086949487919
+Adiantum_capillus-veneris	MW818130.1	05-APR-2021	48	Spain	secondary	rbcL	28.6551163	-17.8572685655797	NA

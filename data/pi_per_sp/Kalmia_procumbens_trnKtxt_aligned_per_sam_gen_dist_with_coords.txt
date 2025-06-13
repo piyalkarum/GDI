@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kalmia_procumbens	AB247980.1	20-APR-2006	711	Japan:Yamagata, Mt. Gassan	secondary	trnK	38.5486934	140.0268363	0.413876207604159
+Kalmia_procumbens	AB247979.1	20-APR-2006	711	Japan:Hokkaido, Mts. Taisetsuzan	secondary	trnK	43.4021246599753	142.731292417966	0.415105715800881
+Kalmia_procumbens	AB247976.1	20-APR-2006	842	Japan:Shizuoka, Mt. Akaishidake	secondary	trnK	35.4612203	138.1573535	0.277530080604338
+Kalmia_procumbens	AB247975.1	20-APR-2006	842	Japan:Nagano, Mt. Kisokomagadake	secondary	trnK	36.6485851	138.1947664	0.276413496359176
+Kalmia_procumbens	AB247974.1	20-APR-2006	842	Japan:Hokkaido, Mts. Taisetsuzan	secondary	trnK	43.7583118370286	142.603316234232	0.27671040847319

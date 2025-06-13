@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_cuneifolia	MN122978.1	16-DEC-2019	239	Switzerland: Saint-Maurice, Van d'en Haut	secondary	psbA-trnH	46.068240224453	5.9115858849927	0.00130753138075314
+Saxifraga_cuneifolia	MN122977.1	16-DEC-2019	239	Switzerland: Saint-Maurice, Van d'en Haut	secondary	psbA-trnH	45.4199909470698	7.33482874494713	0.00130753138075314
+Saxifraga_cuneifolia	MN122976.1	16-DEC-2019	239	Italy: Aosta, La Thuile	secondary	psbA-trnH	46.2684151898139	6.09661659189288	0.00130753138075314
+Saxifraga_cuneifolia	MN122975.1	16-DEC-2019	239	Italy: Aosta, La Thuile	secondary	psbA-trnH	45.5550972792643	5.80273689704508	0.00130753138075314
+Saxifraga_cuneifolia	MN122974.1	16-DEC-2019	244	Italy: Piedmont, Andonno	secondary	psbA-trnH	44.2959854	7.4299561	0.00313807531380753
+Saxifraga_cuneifolia	MN122973.1	16-DEC-2019	244	Italy: Piedmont, Valdieri	secondary	psbA-trnH	44.277626	7.397631	0.00313807531380753
+Saxifraga_cuneifolia	MN122972.1	16-DEC-2019	244	Italy: Liguria, Buggio	secondary	psbA-trnH	43.9614995	7.6841613	0.00313807531380753
+Saxifraga_cuneifolia	MN122971.1	16-DEC-2019	239	France: Ariege, Orlu	secondary	psbA-trnH	43.2577231604699	2.8248531092241	0.00130753138075314
+Saxifraga_cuneifolia	MN122970.1	16-DEC-2019	239	Romania: Vrancea, Lepsa	secondary	psbA-trnH	46.2594586963386	26.6208932445734	0.00130753138075314
+Saxifraga_cuneifolia	MN122969.1	16-DEC-2019	239	Romania: Vrancea, Lepsa	secondary	psbA-trnH	45.8959560581956	27.2655407471953	0.00130753138075314
+Saxifraga_cuneifolia	MN122968.1	16-DEC-2019	239	Romania: Vrancea, Lepsa	secondary	psbA-trnH	45.4852104243163	26.4486370902884	0.00130753138075314
+Saxifraga_cuneifolia	MN122967.1	16-DEC-2019	239	Romania: Vrancea, Lepsa	secondary	psbA-trnH	46.3845272140009	26.0220005638188	0.00130753138075314
+Saxifraga_cuneifolia	MN122966.1	16-DEC-2019	239	Romania: Vrancea, Lepsa	secondary	psbA-trnH	45.1255212339003	26.4347466397925	0.00130753138075314
+Saxifraga_cuneifolia	MN122965.1	16-DEC-2019	239	Slovenia: Crna na Koroskem, Planina Vodol	secondary	psbA-trnH	46.469632	14.8502645	0.00313807531380753
+Saxifraga_cuneifolia	MN122964.1	16-DEC-2019	239	Slovenia: Zagorje ob Savi, Sklendrovec	secondary	psbA-trnH	46.0948921	15.0148309	0.00130753138075314
+Saxifraga_cuneifolia	MN122963.1	16-DEC-2019	239	Slovenia: Nova Gorica, Velika Ledenica	secondary	psbA-trnH	45.9580549	13.6474706	0.00313807531380753
+Saxifraga_cuneifolia	MN122962.1	16-DEC-2019	239	France: Ariege, Orlu	secondary	psbA-trnH	42.3077376351678	2.11531957371522	0.00130753138075314

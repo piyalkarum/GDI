@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scleranthus_annuus	OQ172436.1	18-JUN-2023	776	South Korea	secondary	matK	36.4606596947099	128.473625283656	0
+Scleranthus_annuus	OQ172435.1	18-JUN-2023	776	South Korea	secondary	matK	37.1535381914833	127.65428220297	0
+Scleranthus_annuus	OQ172434.1	18-JUN-2023	776	South Korea	secondary	matK	37.0962361492208	127.089464456176	0
+Scleranthus_annuus	JN895583.1	07-MAR-2012	743	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0

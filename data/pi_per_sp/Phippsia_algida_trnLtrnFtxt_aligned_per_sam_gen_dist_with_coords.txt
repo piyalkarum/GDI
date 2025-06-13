@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phippsia_algida	OK247957.1	28-OCT-2022	1685	Norway: Svalbard	secondary	trnL-trnF	78.7198519	20.3493328	0.0110470112746819
+Phippsia_algida	OK247956.1	28-OCT-2022	1709	USA: Alaska	secondary	trnL-trnF	64.4459613	-149.680909	0.010882016353599
+Phippsia_algida	KM524078.1	04-JUL-2015	1708	Norway	secondary	trnL-trnF	64.5731537	11.5280364	0.010882016353599
+Phippsia_algida	KM524077.1	04-JUL-2015	1708	Canada: Nunavut	secondary	trnL-trnF	65.0377727	-92.5540791	0.0150298152605149
+Phippsia_algida	AH015553.2	31-DEC-2007	1699	Canada	secondary	trnL-trnF	61.0666922	-107.991707	0.0363697605424109

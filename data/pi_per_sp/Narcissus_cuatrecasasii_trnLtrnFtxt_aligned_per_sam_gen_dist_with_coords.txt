@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_cuatrecasasii	KC607991.1	01-MAR-2014	916	Spain: Jaen	secondary	trnL-trnF	37.9557275	-3.4920556	0.00727615644232678
+Narcissus_cuatrecasasii	AY490194.1	16-DEC-2003	365	Spain: Cadiz, Sierra de Grazalema	secondary	trnL-trnF	36.7196896	-5.3911652	0.00732617412312324
+Narcissus_cuatrecasasii	AY490193.1	16-DEC-2003	368	Spain: Jaen, Sierra de Cazorla	secondary	trnL-trnF	38.0751762	-2.8776975	0.00544967242406194
+Narcissus_cuatrecasasii	DQ490225.1	30-JUN-2006	361	Spain: Sierra Magina	secondary	trnL-trnF	37.7297592	-3.4855089	0.00184672206832872

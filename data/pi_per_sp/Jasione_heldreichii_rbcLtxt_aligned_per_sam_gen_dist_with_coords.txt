@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jasione_heldreichii	MK556033.1	22-SEP-2019	357	Bulgaria	secondary	rbcL	46.8258633922731	22.8387966351852	0.637573383037265
+Jasione_heldreichii	MK555617.1	22-SEP-2019	357	Bulgaria	secondary	rbcL	47.2474584207175	24.2087851609607	0.622288651361569
+Jasione_heldreichii	MK555475.1	22-SEP-2019	381	Bulgaria	secondary	rbcL	46.1861462444621	22.7016625350797	0.566068506246615
+Jasione_heldreichii	MK555402.1	22-SEP-2019	382	Bulgaria	secondary	rbcL	46.6331443186455	23.263216967028	0.655736784476938

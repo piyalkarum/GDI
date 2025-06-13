@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_germanica	KP089569.1	15-MAR-2015	638	India: New Delhi	secondary	rbcL	28.6138954	77.2090057	0.0033112582781457
+Iris_germanica	HM850075.1	23-JUL-2011	1324	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00995577655057094
+Iris_germanica	JF942052.1	13-DEC-2011	636	China	secondary	rbcL	34.7345348401257	105.352283433244	0.00332225913621262
+Iris_germanica	JF942051.1	13-DEC-2011	636	China	secondary	rbcL	34.3848740650634	104.725972704318	0.00332225913621262

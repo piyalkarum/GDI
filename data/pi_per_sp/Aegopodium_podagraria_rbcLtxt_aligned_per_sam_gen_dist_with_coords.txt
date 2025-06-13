@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aegopodium_podagraria	MG224449.1	26-DEC-2017	553	Canada: Quebec, Montreal, Island of Montreal, Parc de Beausejour, en bordure d'un sentier de gravier	primary	rbcL	45.527	-73.732	0.00113224637681159
+Aegopodium_podagraria	MG222093.1	26-DEC-2017	553	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Ravine Road Trail	primary	rbcL	43.2565	-79.8675	0.00113224637681159
+Aegopodium_podagraria	KX679234.1	29-APR-2017	551	Canada: British Columbia, Metro Vancouver Regional District, Vancouver, West 59th Avenue, 1500 block	primary	rbcL	49.2	-123.083	0.00113430127041742
+Aegopodium_podagraria	JN891275.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.8	-4.21	0.00115526802218115
+Aegopodium_podagraria	MG222751.1	26-DEC-2017	552	Canada: Quebec, Grosse-Ile, cte Montmagny.	secondary	rbcL	46.9938951470202	-70.1452740593949	0.00913527798287834
+Aegopodium_podagraria	MG222486.1	26-DEC-2017	552	Canada: Quebec, Cte Dubuc, St-Honore, au bord de la route de St-Ambroise, pres du village.	secondary	rbcL	47.3470232388607	-71.4070431026854	0.00113224637681159
+Aegopodium_podagraria	KJ204291.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.0011384335154827
+Aegopodium_podagraria	JN893476.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00115526802218115
+Aegopodium_podagraria	JN893470.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00115526802218115

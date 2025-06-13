@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carduus_nutans	OR737979.1	13-NOV-2023	542	Kazakhstan: Atyrau region	primary	rbcL	48.22306	54.46075	0.000142186833499218
+Carduus_nutans	MG224226.1	26-DEC-2017	553	Canada: Ontario, Wellington County, Wellington County, OAC Herbarium and BIO Grounds	primary	rbcL	43.8927214714677	-79.5240708069756	0.000139353400222965
+Carduus_nutans	MG223251.1	26-DEC-2017	552	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	rbcL	43.529	-80.229	0.000139353400222965
+Carduus_nutans	MG223040.1	26-DEC-2017	552	Canada: R.R.Tracks between Glasgow St. & Yorkshire St.	primary	rbcL	43.54	-80.254	0.00186000361129224
+Carduus_nutans	MG222759.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	47.906	-101.306	0.000139353400222965
+Carduus_nutans	MG221823.1	26-DEC-2017	552	Canada: Saskatchewan, Saskatchewan, CFB Dundurn Sand Dunes, road bisecting	primary	rbcL	51.824	-106.68	0.000139353400222965
+Carduus_nutans	MG221318.1	26-DEC-2017	553	Canada: Ontario, Nodding thistle, Wellington, Guelph	primary	rbcL	43.6565279177921	-80.0680251637847	0.000139353400222965
+Carduus_nutans	JN891235.1	07-MAR-2012	436	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.2	0.000176429075511644
+Carduus_nutans	JN890614.1	07-MAR-2012	542	United Kingdom: Cornwall, West with Scilly (1)	primary	rbcL	50.36	-5.12	0.000142186833499218
+Carduus_nutans	MZ312257.1	24-SEP-2022	1090	China: Gansu Province	secondary	rbcL	38.0000001	101.9999999	0.00105678459288352
+Carduus_nutans	MG222449.1	26-DEC-2017	552	Canada: Ontario, Grey Co., Near Eugenia Falls.	secondary	rbcL	43.72634945	-77.7101179040839	0.000139353400222965
+Carduus_nutans	KT178106.1	19-AUG-2015	1434	USA	secondary	rbcL	39.7837304	-100.445882	0.00105678459288352
+Carduus_nutans	JN893595.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.129563785833	-5.44266363506844	0.000142186833499218
+Carduus_nutans	JN893594.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.2221323754268	-3.55208635373013	0.000142186833499218

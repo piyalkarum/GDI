@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Braya_glabella	KC482132.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, John Richardson Bay, South facing slope	primary	rbcL	80.2192	-72.6347	0.137745098039216
+Braya_glabella	KC482131.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	rbcL	69.6	-140.783	0.137745098039216
+Braya_glabella	KC482130.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	rbcL	74.5333	-82.7833	0.137745098039216
+Braya_glabella	KC482129.1	25-OCT-2013	552	Canada: Nunavut, Bathurst Island, Polar Bear Pass	primary	rbcL	75.7167	-98.3833	0.137745098039216
+Braya_glabella	JQ933246.1	30-SEP-2012	706	Greenland: N.E.	secondary	rbcL	44.5775993	-65.5835396	0.550980392156863

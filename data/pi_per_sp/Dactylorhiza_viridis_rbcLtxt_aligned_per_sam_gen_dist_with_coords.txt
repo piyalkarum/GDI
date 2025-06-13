@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dactylorhiza_viridis	MG227025.1	23-JAN-2018	552	Canada: British Columbia, Dawson Creek, southeast of near Alberta border	primary	rbcL	55.443	-120.008	0
+Dactylorhiza_viridis	JN890805.1	07-MAR-2012	542	United Kingdom: Shetland (112)	primary	rbcL	60.3	-1.54	0
+Dactylorhiza_viridis	MK925023.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0242931586471	-3.81171229074608	0
+Dactylorhiza_viridis	MK924899.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1895208761512	-1.99120723722879	0

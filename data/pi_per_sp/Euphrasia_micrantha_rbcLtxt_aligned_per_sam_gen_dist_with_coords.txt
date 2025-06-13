@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphrasia_micrantha	MG224357.1	26-DEC-2017	552	Canada: Ontario, Dufferin County, Luther Marsh, border of Dufferin and Wellington counties, S end	primary	rbcL	43.905	-80.41	0.000462107208872458
+Euphrasia_micrantha	JN891556.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.42	-3.91	0.00139065154104475
+Euphrasia_micrantha	MG223763.1	26-DEC-2017	553	Canada: Ontario	secondary	rbcL	50.000678	-86.000977	0.000461254612546125
+Euphrasia_micrantha	JN892454.1	07-MAR-2012	506	United Kingdom: Cardiganshire	secondary	rbcL	52.9456531888285	-3.0232063663642	0
+Euphrasia_micrantha	JN892430.1	07-MAR-2012	535	United Kingdom: Cardiganshire	secondary	rbcL	53.0638961351921	-3.99775466609391	0.000467289719626168

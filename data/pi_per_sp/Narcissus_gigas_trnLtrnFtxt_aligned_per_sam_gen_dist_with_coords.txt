@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Narcissus_gigas	KC145360.1	31-JAN-2014	910	Spain: Puerto de Panderrueda	secondary	trnL-trnF	42.3064930421132	-4.7704206469741	0.00220507166482911
+Narcissus_gigas	KC145359.1	31-JAN-2014	910	Spain: Puerto de Panderrueda	secondary	trnL-trnF	43.1535664235699	-5.32637203872324	0.00220507166482911
+Narcissus_gigas	KC145324.1	31-JAN-2014	913	Spain: Asturias	secondary	trnL-trnF	43.3276823903659	-6.26686415920364	0.00220507166482911
+Narcissus_gigas	KC145323.1	31-JAN-2014	913	Spain: Asturias	secondary	trnL-trnF	43.4209489511646	-6.90748237341373	0.00220507166482911

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_pratensis	AJ633495.1	13-DEC-2004	641	Germany:Sachsen-Anhalt	secondary	5.8S rRNA	52.0089065	11.7003344	0.00520833333333333
+Tragopogon_pratensis	AM493999.1	22-FEB-2007	350	USA:ID, Moscow	secondary	5.8S rRNA	47.0278568296747	-117.415146341016	0.00494047619047619
+Tragopogon_pratensis	AM493998.1	22-FEB-2007	350	USA:ID, Moscow	secondary	5.8S rRNA	46.4800297791047	-117.508922587613	0.00494047619047619
+Tragopogon_pratensis	AM493997.1	22-FEB-2007	350	USA:ID, Moscow	secondary	5.8S rRNA	47.0959250481979	-118.079904620721	0.00294642857142857

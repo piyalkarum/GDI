@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Reseda_virgata	GQ891252.1	30-SEP-2010	821	Spain: Guadalajara, Naharros	secondary	rps16	41.162857	-2.9150256	0.000609756550979331
+Reseda_virgata	GQ891251.1	30-SEP-2010	830	Spain: Soria, Garray	secondary	rps16	41.8150617	-2.4460875	0.00105623961045648
+Reseda_virgata	GQ891250.1	30-SEP-2010	839	Spain: Segovia, Torrecilla del Pinar	secondary	rps16	41.3742525	-4.0382663	0.00165610442452052
+Reseda_virgata	GQ891249.1	30-SEP-2010	832	Spain: Avila, Solosancho	secondary	rps16	40.552537	-4.9050209	0.00060168515285803
+Reseda_virgata	GQ891248.1	30-SEP-2010	831	Spain: Salamanca, Penaranda de Bracamonte	secondary	rps16	40.9024602	-5.2006416	0.00105496610020252
+Reseda_virgata	GQ891247.1	30-SEP-2010	833	Spain: Salamanca, Ledesma	secondary	rps16	41.0903872	-5.9987649	0.00060168515285803
+Reseda_virgata	GQ891246.1	30-SEP-2010	832	Portugal: Braganza, Nogueira	secondary	rps16	41.772505	-6.8153638	0.00060168515285803
+Reseda_virgata	GQ891245.1	30-SEP-2010	832	Spain: Leon, Truchas	secondary	rps16	42.2607687	-6.434993	0.00060168515285803
+Reseda_virgata	GQ923781.1	22-SEP-2010	831	Spain: Madrid, Boadilla del Monte	secondary	rps16	40.4053485	-3.8764663	0.00105496610020252

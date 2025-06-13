@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Typha_latifolia	MZ323167.1	24-SEP-2022	644	Russia: Yakutia	secondary	trnL-trnF	66.3147150308362	130.320456985527	0.000172532781228433
+Typha_latifolia	MZ323166.1	24-SEP-2022	644	Russia: Magadan region	secondary	trnL-trnF	63.5515028	154.014726	0.000172532781228433
+Typha_latifolia	MZ323165.1	24-SEP-2022	644	Russia: Sakhalin region	secondary	trnL-trnF	47.3741104797618	142.647680695748	0.000172532781228433
+Typha_latifolia	MZ323164.1	24-SEP-2022	644	Russia: Yaroslavl region	secondary	trnL-trnF	57.2602900562062	38.8237249369562	0.000172532781228433
+Typha_latifolia	MZ323163.1	24-SEP-2022	644	Russia: Yakutia	secondary	trnL-trnF	66.390888426165	130.207485097841	0.000172532781228433
+Typha_latifolia	MZ323162.1	24-SEP-2022	644	Russia: Kurgan region	secondary	trnL-trnF	55.4104074	65.4247999	0.000172532781228433
+Typha_latifolia	MZ323161.1	24-SEP-2022	645	Russia: Sakhalin region	secondary	trnL-trnF	46.6251168149513	142.205917990552	0.00155252753837183
+Typha_latifolia	MZ323160.1	24-SEP-2022	644	Russia: Yaroslavl region	secondary	trnL-trnF	57.2910282273988	40.6655365859428	0.000172532781228433
+Typha_latifolia	MZ323159.1	24-SEP-2022	644	Russia: Omsk region	secondary	trnL-trnF	54.9904561	73.2476003	0.000172532781228433
+Typha_latifolia	MZ323158.1	24-SEP-2022	645	Russia: Tyumen region	secondary	trnL-trnF	57.1575004	65.6027398	0.000172265288544358

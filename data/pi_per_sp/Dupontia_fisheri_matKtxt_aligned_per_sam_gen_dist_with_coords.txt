@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dupontia_fisheri	KC474678.1	25-OCT-2013	774	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	matK	68.628	-112.714	0.000413598382401847
+Dupontia_fisheri	KC474677.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Iqaluit	primary	matK	63.75	-68.52	0.000413598382401847
+Dupontia_fisheri	KC474676.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	matK	70.735	-117.761	0.000412663061699084
+Dupontia_fisheri	KC474675.1	25-OCT-2013	661	Canada: Nunavut, Axel Heiberg Island, Gypsum hill, W side of Gibs Fiord	primary	matK	79.94	-87.24	0.00018910741301059
+Dupontia_fisheri	KC474674.1	25-OCT-2013	720	Canada: Nunavut, Ellesmere Island, Hot Weather Creek 25 km east of Eureka Site 29, Fosheim Peninsula. East side of Creek. Plateau edge and steep slope above active detachment slides	primary	matK	79.967	-84.433	0.000174703090205884
+Dupontia_fisheri	KC474673.1	25-OCT-2013	697	Canada: Nunavut, Victoria Island (Nunavut), Cambridge Bay, Summer camp across bay, 6 km SE of Flagstaff Point. Meadow, east 10 metres from cabin	primary	matK	69.033	-105	0.000452833572453372
+Dupontia_fisheri	KC474672.1	25-OCT-2013	773	Canada: Northwest Territories, Melville Island, McCormick Inlet, ~10 km SW of head of inlet at river delta	primary	matK	76.4510404447914	-112.779878016941	0.000413911769286731
+Dupontia_fisheri	KC474671.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of small round lake NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.299	-116.487	0.000412663061699084
+Dupontia_fisheri	KC474670.1	25-OCT-2013	673	Canada: Yukon Territory, Yukon Mainland, Ivvavik National Park, Ivvavik National Park. Buckland Hills, NW part	primary	matK	69.417	-139.633	0.00047270264782701
+Dupontia_fisheri	KC474669.1	25-OCT-2013	777	Canada: Northwest Territories, Melville Island, McCormick Inlet, ca. 10 km SW of head of inlet at river delta	primary	matK	76.0049882063633	-109.375184630395	0.000412663061699084
+Dupontia_fisheri	JN966275.1	27-OCT-2012	730	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Calamagrostis meadow	primary	matK	58.2862694688683	-93.4248424853366	0.00131258648536328
+Dupontia_fisheri	JN966274.1	27-OCT-2012	729	Canada: Manitoba, Churchill, 4 km SE Churchill, Akudlik Marsh, Upper reaches of 4.5 m tide. Anthers to 2.5 mm	primary	matK	59.3124632489398	-94.7842025031564	0.00131400045039672
+Dupontia_fisheri	KM523860.1	12-JUL-2015	788	Canada: Northwest Territories	secondary	matK	64.3990624967832	-117.150565596115	0.000488609203635074
+Dupontia_fisheri	KM523859.1	12-JUL-2015	788	Canada: Northwest Territories	secondary	matK	64.3532249044925	-118.473806878257	0.000488609203635074
+Dupontia_fisheri	LR606887.1	25-JAN-2021	2102	Russia	secondary	matK	64.6863136	97.7453061	0.0034402074165684
+Dupontia_fisheri	KM523926.1	04-JUL-2015	788	Canada: Nunavut	secondary	matK	64.4964808198735	-93.8848598346997	0.000488609203635074
+Dupontia_fisheri	KM523925.1	04-JUL-2015	785	Canada: Nunavut	secondary	matK	64.8955100887099	-93.6863101622116	0.00048982165796596

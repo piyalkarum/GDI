@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontitella_virgata	KX959081.1	02-NOV-2017	1035	Spain: A Coruna, Santiso, Barazon	primary	matK	42.6217991413833	-7.57083119302644	0.00233174833670264
+Odontitella_virgata	KX959080.1	02-NOV-2017	1035	Spain: A Coruna, Santiso, Barazon	primary	matK	43.1391154087593	-6.94563980066481	0.00233174833670264
+Odontitella_virgata	KX959079.1	02-NOV-2017	1035	Spain: Cadiz, Los Barrios	primary	matK	35.4448488530534	-5.91619222880234	0.00194204796750282
+Odontitella_virgata	KX959078.1	02-NOV-2017	1037	Spain: Cadiz, Los Barrios	primary	matK	36.2238620566418	-4.63139866724398	0.00194204796750282
+Odontitella_virgata	KX959006.1	02-NOV-2017	1035	Spain: Burgos, Castrillo de la Vega	primary	matK	41.64505	-3.75889	0.00155234759830301
+Odontitella_virgata	JF900572.1	05-MAR-2013	1054	Spain	secondary	matK	39.3260685	-4.8379791	0.0031434184675835

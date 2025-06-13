@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saponaria_officinalis	OR607730.1	01-NOV-2023	126	Kazakhstan: Qaragandy region	primary	psbA-trnH	49.756	73.11774	0.00793650793650794
+Saponaria_officinalis	OQ172863.1	18-JUN-2023	256	South Korea	secondary	psbA-trnH	36.8732310284129	127.228148118537	0.00404858299595142
+Saponaria_officinalis	OQ172862.1	18-JUN-2023	256	South Korea	secondary	psbA-trnH	36.6931072004578	127.393771037698	0.00404858299595142
+Saponaria_officinalis	OQ172861.1	18-JUN-2023	256	South Korea	secondary	psbA-trnH	36.2401492438956	127.696761976592	0.00404858299595142
+Saponaria_officinalis	OQ310645.1	16-MAY-2023	294	Mexico: Puebla	secondary	psbA-trnH	19.1705686	-98.4123106	0.0200822569243622

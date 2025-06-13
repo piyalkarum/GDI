@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_crantzii	MZ359328.1	07-DEC-2021	542	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.00230627306273063
+Potentilla_crantzii	MG246248.1	21-JAN-2018	553	Greenland: West Greenland. East of Laksebugt at Christianshab. South of Qivdlertub kujalia	primary	rbcL	68.917	-50.933	0.00182666835709948
+Potentilla_crantzii	MG246209.1	21-JAN-2018	553	Greenland: North Jameson Land, entrance of Coloradodal	primary	rbcL	71.56	-23.849	0.00229709801618812
+Potentilla_crantzii	MG245966.1	21-JAN-2018	553	Greenland: Disko, Engelskmandens Havn at Godhavn	primary	rbcL	69.267	-53.567	0.00229709801618812
+Potentilla_crantzii	JN893502.1	07-MAR-2012	542	United Kingdom: Perthshire,Mid	secondary	rbcL	56.42429525	-3.22021700661112	0.00230627306273063

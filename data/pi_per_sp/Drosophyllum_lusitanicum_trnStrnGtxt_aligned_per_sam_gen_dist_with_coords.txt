@@ -1,0 +1,71 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Drosophyllum_lusitanicum	MK790539.1	16-MAY-2020	634	Morocco: Gueznaia	secondary	trnS-trnG	35.8250339742917	-6.09038132257211	0.000274310794129749
+Drosophyllum_lusitanicum	MK790538.1	16-MAY-2020	634	Morocco: Gueznaia	secondary	trnS-trnG	36.2191443998487	-5.59889443712209	0.000274310794129749
+Drosophyllum_lusitanicum	MK790537.1	16-MAY-2020	634	Morocco: Gueznaia	secondary	trnS-trnG	36.3677512695294	-5.72142478302666	0.000274310794129749
+Drosophyllum_lusitanicum	MK790527.1	16-MAY-2020	634	Spain: Ceuta	secondary	trnS-trnG	35.6618078451401	-5.73515308123217	0.00132594384255687
+Drosophyllum_lusitanicum	MK790526.1	16-MAY-2020	634	Spain: Ceuta	secondary	trnS-trnG	36.2671471343503	-5.73459196104013	0.000274310794129749
+Drosophyllum_lusitanicum	MK790525.1	16-MAY-2020	634	Spain: Caceres, Sierra Fria	secondary	trnS-trnG	38.6296590394785	-7.9047026826232	0.000274310794129749
+Drosophyllum_lusitanicum	MK790524.1	16-MAY-2020	634	Spain: Caceres, Sierra Fria	secondary	trnS-trnG	39.4517392642782	-7.06504346882022	0.000274310794129749
+Drosophyllum_lusitanicum	MK790523.1	16-MAY-2020	634	Spain: Caceres, Santiago	secondary	trnS-trnG	39.6040143	-7.2163237	0.000274310794129749
+Drosophyllum_lusitanicum	MK790522.1	16-MAY-2020	634	Spain: Caceres, Jola	secondary	trnS-trnG	38.7324760224187	-7.52597551462045	0.000274310794129749
+Drosophyllum_lusitanicum	MK790521.1	16-MAY-2020	634	Spain: Caceres, Jola	secondary	trnS-trnG	38.9259343020816	-7.38523044485676	0.000274310794129749
+Drosophyllum_lusitanicum	MK790520.1	16-MAY-2020	634	Spain: Caceres, Jola	secondary	trnS-trnG	39.1874679925769	-7.60058285886135	0.000274310794129749
+Drosophyllum_lusitanicum	MK790519.1	16-MAY-2020	634	Spain: Cadiz, Montera del Torero	secondary	trnS-trnG	35.7025336326651	-5.23504232568152	0.00132594384255687
+Drosophyllum_lusitanicum	MK790518.1	16-MAY-2020	634	Spain: Cadiz, Montera del Torero	secondary	trnS-trnG	35.6671886055837	-4.79317582348031	0.00132594384255687
+Drosophyllum_lusitanicum	MK790517.1	16-MAY-2020	634	Spain: Cadiz, Albergue de Cortes	secondary	trnS-trnG	36.7818448016545	-7.20602595405981	0.00132594384255687
+Drosophyllum_lusitanicum	MK790516.1	16-MAY-2020	634	Spain: Cadiz, Albergue de Cortes	secondary	trnS-trnG	36.3240037633217	-6.36872964703863	0.00132594384255687
+Drosophyllum_lusitanicum	MK790515.1	16-MAY-2020	634	Spain: Cadiz, Puerto Galiz	secondary	trnS-trnG	37.116175142784	-6.19791998641105	0.00132594384255687
+Drosophyllum_lusitanicum	MK790514.1	16-MAY-2020	634	Spain: Cadiz, Puerto Galiz	secondary	trnS-trnG	36.2034830886967	-5.74597848577122	0.00132594384255687
+Drosophyllum_lusitanicum	MK790513.1	16-MAY-2020	634	Spain: Cadiz, Murta	secondary	trnS-trnG	37.0496456052521	-4.97000080842502	0.00132594384255687
+Drosophyllum_lusitanicum	MK790512.1	16-MAY-2020	634	Spain: Cadiz, Murta	secondary	trnS-trnG	36.1238919464162	-4.53845238347796	0.00132594384255687
+Drosophyllum_lusitanicum	MK790511.1	16-MAY-2020	634	Spain: Cadiz, Murta	secondary	trnS-trnG	36.1624162966831	-4.5223950865485	0.00132594384255687
+Drosophyllum_lusitanicum	MK790510.1	16-MAY-2020	634	Spain: Cadiz, Sierra Carbonera	secondary	trnS-trnG	36.0433045566882	-5.70678129616406	0.00132594384255687
+Drosophyllum_lusitanicum	MK790509.1	16-MAY-2020	634	Spain: Cadiz, Sierra Carbonera	secondary	trnS-trnG	35.8065123153146	-6.19915118016306	0.000274310794129749
+Drosophyllum_lusitanicum	MK790508.1	16-MAY-2020	634	Spain: Cadiz, Retin	secondary	trnS-trnG	36.5139087653259	-5.22831929408882	0.000274310794129749
+Drosophyllum_lusitanicum	MK790507.1	16-MAY-2020	634	Spain: Cadiz, Retin	secondary	trnS-trnG	36.488806912864	-6.14277589611012	0.000274310794129749
+Drosophyllum_lusitanicum	MK790506.1	16-MAY-2020	634	Spain: Cadiz, Retin	secondary	trnS-trnG	36.1685980752261	-6.35953420781567	0.000274310794129749
+Drosophyllum_lusitanicum	MK790505.1	16-MAY-2020	634	Spain: Cadiz, Retin	secondary	trnS-trnG	36.287680064665	-6.01294687542904	0.00132594384255687
+Drosophyllum_lusitanicum	MK790504.1	16-MAY-2020	634	Spain: Cadiz, Retin	secondary	trnS-trnG	35.8929293126702	-6.7240980703436	0.000274310794129749
+Drosophyllum_lusitanicum	MK790503.1	16-MAY-2020	634	Spain: Cadiz, Sierra de la Plata	secondary	trnS-trnG	35.4898596863701	-5.49400100741069	0.000274310794129749
+Drosophyllum_lusitanicum	MK790502.1	16-MAY-2020	634	Spain: Cadiz, Sierra de la Plata	secondary	trnS-trnG	35.6211788550933	-5.54876624082798	0.000274310794129749
+Drosophyllum_lusitanicum	MK790501.1	16-MAY-2020	634	Spain: Cadiz, Sierra de la Plata	secondary	trnS-trnG	36.0975910060844	-5.91499530167162	0.000274310794129749
+Drosophyllum_lusitanicum	MK790500.1	16-MAY-2020	634	Spain: Cadiz, Sierra Carbonera	secondary	trnS-trnG	36.270055282648	-6.0632641962074	0.000274310794129749
+Drosophyllum_lusitanicum	MK790499.1	16-MAY-2020	634	Spain: Cadiz, Sierra Carbonera	secondary	trnS-trnG	36.9869226817007	-5.12333557654812	0.000274310794129749
+Drosophyllum_lusitanicum	MK790498.1	16-MAY-2020	634	Spain: Cadiz, Sierra Carbonera	secondary	trnS-trnG	35.9892008030391	-4.9472849939703	0.000274310794129749
+Drosophyllum_lusitanicum	MK790497.1	16-MAY-2020	634	Spain: Cadiz, Vertedero	secondary	trnS-trnG	36.6349642259063	-6.1459104396347	0.000274310794129749
+Drosophyllum_lusitanicum	MK790496.1	16-MAY-2020	634	Spain: Cadiz, Vertedero	secondary	trnS-trnG	36.8524509888094	-6.93894477227229	0.000274310794129749
+Drosophyllum_lusitanicum	MK790495.1	16-MAY-2020	633	Portugal: Setubal	secondary	trnS-trnG	38.1241666750851	-9.58552726358137	0.00027474414451542
+Drosophyllum_lusitanicum	MK790494.1	16-MAY-2020	634	Portugal: Setubal	secondary	trnS-trnG	38.2872357008183	-8.03884107461022	0.000274310794129749
+Drosophyllum_lusitanicum	MK790493.1	16-MAY-2020	634	Portugal: Setubal	secondary	trnS-trnG	38.6694604766162	-7.87129284316054	0.000274310794129749
+Drosophyllum_lusitanicum	MK790492.1	16-MAY-2020	634	Portugal: Monte Virgem	secondary	trnS-trnG	41.0199952571319	-9.2167919702702	0.000274310794129749
+Drosophyllum_lusitanicum	MK790491.1	16-MAY-2020	634	Portugal: Monte Virgem	secondary	trnS-trnG	41.5031601701191	-7.59462472651443	0.000274310794129749
+Drosophyllum_lusitanicum	MK790490.1	16-MAY-2020	634	Portugal: Monte Virgem	secondary	trnS-trnG	41.2046549272487	-9.19641916030085	0.000274310794129749
+Drosophyllum_lusitanicum	MK790489.1	16-MAY-2020	634	Portugal: Chilrao	secondary	trnS-trnG	36.5302893641023	-8.10254899200841	0.000274310794129749
+Drosophyllum_lusitanicum	MK790488.1	16-MAY-2020	634	Portugal: Chilrao	secondary	trnS-trnG	37.7928318250206	-9.06643727706592	0.000274310794129749
+Drosophyllum_lusitanicum	MK790487.1	16-MAY-2020	634	Portugal: Chilrao	secondary	trnS-trnG	37.0512294004517	-8.71882420167663	0.000274310794129749
+Drosophyllum_lusitanicum	MK790486.1	16-MAY-2020	633	Portugal: Alferce	secondary	trnS-trnG	37.8265725451753	-8.83297730442533	0.00027474414451542
+Drosophyllum_lusitanicum	MK790485.1	16-MAY-2020	634	Portugal: Alferce	secondary	trnS-trnG	37.8033279402386	-7.58951612774393	0.000274310794129749
+Drosophyllum_lusitanicum	MK790484.1	16-MAY-2020	634	Portugal: Alferce	secondary	trnS-trnG	37.835089043143	-8.93660560485684	0.000274310794129749
+Drosophyllum_lusitanicum	MK790483.1	16-MAY-2020	634	Portugal: Alferce	secondary	trnS-trnG	37.6540619255765	-8.23452145628947	0.000274310794129749
+Drosophyllum_lusitanicum	MK790482.1	16-MAY-2020	634	Portugal: Alferce	secondary	trnS-trnG	37.9023351430007	-7.70115164203698	0.000274310794129749
+Drosophyllum_lusitanicum	MK790481.1	16-MAY-2020	634	Portugal: Alferce	secondary	trnS-trnG	37.642130283784	-8.97675333667373	0.000274310794129749
+Drosophyllum_lusitanicum	MK790480.1	16-MAY-2020	634	Portugal: Alferce	secondary	trnS-trnG	37.712422005561	-8.05820649286843	0.000274310794129749
+Drosophyllum_lusitanicum	MK790479.1	16-MAY-2020	634	Portugal: Alferce	secondary	trnS-trnG	37.2422209217606	-8.27044927159529	0.000274310794129749
+Drosophyllum_lusitanicum	MK790478.1	16-MAY-2020	634	Portugal: Pinheira	secondary	trnS-trnG	32.1331942600472	-16.896229950322	0.000274310794129749
+Drosophyllum_lusitanicum	MK790477.1	16-MAY-2020	634	Portugal: Pinheira	secondary	trnS-trnG	32.9418420075121	-16.673459203003	0.000274310794129749
+Drosophyllum_lusitanicum	MK790476.1	16-MAY-2020	634	Portugal: Pinheira	secondary	trnS-trnG	32.7052737683811	-17.5544095219033	0.000274310794129749
+Drosophyllum_lusitanicum	MK790475.1	16-MAY-2020	634	Portugal: Pampilhosa	secondary	trnS-trnG	40.4858111947526	-8.8623146885683	0.000274310794129749
+Drosophyllum_lusitanicum	MK790474.1	16-MAY-2020	634	Portugal: Pampilhosa	secondary	trnS-trnG	40.7300280522578	-8.69252537815361	0.000274310794129749
+Drosophyllum_lusitanicum	MK790473.1	16-MAY-2020	634	Portugal: Pampilhosa	secondary	trnS-trnG	41.0432974724866	-8.45741980028297	0.000274310794129749
+Drosophyllum_lusitanicum	MK790472.1	16-MAY-2020	634	Portugal: Fatima	secondary	trnS-trnG	39.1372401332897	-8.73822846505303	0.000274310794129749
+Drosophyllum_lusitanicum	MK790471.1	16-MAY-2020	633	Portugal: Fatima	secondary	trnS-trnG	39.2538487265901	-9.22044967570846	0.00027474414451542
+Drosophyllum_lusitanicum	MK790470.1	16-MAY-2020	634	Portugal: Fatima	secondary	trnS-trnG	39.7238528094505	-8.79522329275744	0.000274310794129749
+Drosophyllum_lusitanicum	MK790469.1	16-MAY-2020	634	Portugal: Fatima	secondary	trnS-trnG	40.2035423240045	-8.02504667074152	0.000274310794129749
+Drosophyllum_lusitanicum	MK790468.1	16-MAY-2020	634	Portugal: Fatima	secondary	trnS-trnG	40.3013392554732	-8.21018132505894	0.000274310794129749
+Drosophyllum_lusitanicum	MK790467.1	16-MAY-2020	634	Portugal: Fatima	secondary	trnS-trnG	39.2849732483339	-7.66948585759022	0.000274310794129749
+Drosophyllum_lusitanicum	MK790466.1	16-MAY-2020	634	Portugal: Fatima	secondary	trnS-trnG	39.3563813489599	-7.8865927385255	0.000274310794129749
+Drosophyllum_lusitanicum	MK790465.1	16-MAY-2020	634	Portugal: Fatima	secondary	trnS-trnG	39.258397079298	-7.62105071911577	0.000274310794129749
+Drosophyllum_lusitanicum	MK790464.1	16-MAY-2020	634	Portugal: Fatima	secondary	trnS-trnG	39.1045303919833	-7.98070987989674	0.000274310794129749
+Drosophyllum_lusitanicum	MK790463.1	16-MAY-2020	634	Portugal: Fatima	secondary	trnS-trnG	40.0507506315521	-9.29030409981963	0.000274310794129749
+Drosophyllum_lusitanicum	MK790462.1	16-MAY-2020	634	Portugal: Fatima	secondary	trnS-trnG	39.9267694415411	-8.72438043326977	0.000274310794129749
+Drosophyllum_lusitanicum	MK790461.1	16-MAY-2020	634	Portugal: Fatima	secondary	trnS-trnG	39.7254282437439	-9.67628293579635	0.000274310794129749

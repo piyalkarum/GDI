@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Callitriche_palustris	KX676635.1	09-AUG-2017	820	Canada: British Columbia, Fraser Valley Regional District, Sumas Mountain, Chadsey Creek mouth at Fraser River, tidal mud shore, low water	primary	matK	49.134	-122.181	0.00214723926380368
+Callitriche_palustris	LC176863.1	01-APR-2017	998	Canada:Alberta, Central Alberta	secondary	matK	52.8820447	-113.2971736	0.00176411290322581
+Callitriche_palustris	LC176850.1	01-APR-2017	998	Japan:Toyama	secondary	matK	36.6468015	137.2183531	0.00176411290322581
+Callitriche_palustris	LC176849.1	01-APR-2017	992	Japan:Ehime	secondary	matK	33.6013646	132.8185275	0.00176411290322581
+Callitriche_palustris	LC176848.1	01-APR-2017	992	Russia:Yaroslavl	secondary	matK	57.6263877	39.8933705	0.0074395779734811

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_triflora	MF521419.1	10-SEP-2018	1462	Bosnia and Herzegovina	secondary	trnL-trnF	44.3053476	17.5961467	0.00273769473088568
+Euphorbia_triflora	MF521418.1	10-SEP-2018	1471	Croatia	secondary	trnL-trnF	45.3715707296301	14.6139438716278	0.00342168925892946
+Euphorbia_triflora	MF521417.1	10-SEP-2018	1463	Croatia	secondary	trnL-trnF	45.7896256252153	14.9286394378239	0.00228138626636367
+Euphorbia_triflora	MF521416.1	10-SEP-2018	1463	Croatia	secondary	trnL-trnF	45.8205346288485	15.1946918143846	0.00296538079440744

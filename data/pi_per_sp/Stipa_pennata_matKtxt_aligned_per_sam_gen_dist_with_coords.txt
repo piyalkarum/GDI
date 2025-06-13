@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stipa_pennata	MT433222.1	31-MAY-2020	1436	Norway	secondary	matK	64.5731537	11.5280364	0
+Stipa_pennata	GU254718.1	16-FEB-2011	555	Ukraine	secondary	matK	49.4871968	31.2718321	0
+Stipa_pennata	GU254709.1	16-FEB-2011	555	France	secondary	matK	46.603354	1.8883335	0
+Stipa_pennata	LN554456.1	02-APR-2015	2005	Austria	secondary	matK	36.9148511	-4.7534501	0

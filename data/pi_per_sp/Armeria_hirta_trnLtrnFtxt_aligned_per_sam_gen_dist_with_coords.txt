@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_hirta	GQ901185.1	03-NOV-2009	341	Spain: Malaga	secondary	trnL-trnF	37.1502261710294	-4.79993890989887	0
+Armeria_hirta	GQ901184.1	03-NOV-2009	341	Spain: Malaga	secondary	trnL-trnF	36.6327750752626	-3.56155442590196	0
+Armeria_hirta	GQ901183.1	03-NOV-2009	341	Spain: Malaga, Manilva	secondary	trnL-trnF	36.3769979	-5.2489786	0
+Armeria_hirta	GQ901182.1	03-NOV-2009	341	Spain: Cadiz, Conil de la Frontera	secondary	trnL-trnF	36.277054	-6.0881874	0
+Armeria_hirta	GQ901181.1	03-NOV-2009	341	Spain: Cadiz, Arcos-Medina Sidonia	secondary	trnL-trnF	37.2238568798838	-5.24588500153671	0
+Armeria_hirta	GQ901180.1	03-NOV-2009	341	Spain: Cadiz, Arcos-Medina Sidonia	secondary	trnL-trnF	36.4208691924611	-5.15787339253374	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aconitum_degenii	MT530431.1	19-JAN-2022	948	Switzerland: Graubunden	secondary	ndhF	46.6960615	9.6027351	0.000263713080168776
+Aconitum_degenii	MT530427.1	19-JAN-2022	949	Austria: Hohe Tauern	secondary	ndhF	47.0522965	13.2016429	0.00145609601282907
+Aconitum_degenii	KF219863.1	01-OCT-2014	631	Romania	secondary	ndhF	45.2510075041701	25.4305870524217	0.000396196513470681
+Aconitum_degenii	KF219859.1	01-OCT-2014	626	Ukraine	secondary	ndhF	49.4871968	31.2718321	0.000399361022364217
+Aconitum_degenii	KF219846.1	01-OCT-2014	630	Romania	secondary	ndhF	46.2156336980894	23.5340476514039	0.000396825396825397

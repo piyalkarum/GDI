@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_porrifolius	MG224264.1	26-DEC-2017	552	Canada: British Columbia, Vancouver Island, Victoria, International Airport	primary	rbcL	48.64	-123.432	0
+Tragopogon_porrifolius	MG223486.1	26-DEC-2017	552	Canada: Manitoba, Spruce Woods Provincial Park, Spirit Sands	primary	rbcL	49.665	-99.279	0
+Tragopogon_porrifolius	MT930577.1	03-MAR-2023	568	China	secondary	rbcL	34.8698532280358	106.007131840264	0
+Tragopogon_porrifolius	MN192552.1	30-NOV-2021	723	China	secondary	rbcL	34.2789407873439	104.57116262501	0
+Tragopogon_porrifolius	MN185093.1	27-APR-2021	714	China	secondary	rbcL	34.3860938578712	104.442774718257	0
+Tragopogon_porrifolius	MG221670.1	26-DEC-2017	552	Canada: Ontario, Bidwell Rd. just W. of Pike Lake rd., W. of Sheguiandah, Manitoulin Is.	secondary	rbcL	43.72634945	-77.7101179040839	0

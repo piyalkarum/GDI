@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glycyrrhiza_uralensis	OR678670.1	06-NOV-2023	507	Kazakhstan: Qaragandy region	primary	rbcL	47.36201	74.74058	0.000281769512538743
+Glycyrrhiza_uralensis	OQ722367.1	02-JUL-2023	566	Kazakhstan: Buiratau National Park	primary	rbcL	51.2232	73.3356	0.000252397778899546
+Glycyrrhiza_uralensis	OR670317.1	06-NOV-2023	572	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00024975024975025
+Glycyrrhiza_uralensis	MT931425.1	03-MAR-2023	530	China	secondary	rbcL	35.7522042594646	105.514121888862	0.000269541778975741
+Glycyrrhiza_uralensis	MT931424.1	03-MAR-2023	568	China	secondary	rbcL	35.4133831997662	105.792042929624	0.000251509054325956
+Glycyrrhiza_uralensis	MT931423.1	03-MAR-2023	568	China	secondary	rbcL	34.6582789272609	105.59607326826	0.000251509054325956
+Glycyrrhiza_uralensis	MT931422.1	03-MAR-2023	572	China	secondary	rbcL	34.7690381527549	104.543678552185	0.00024975024975025
+Glycyrrhiza_uralensis	MN204892.1	30-NOV-2021	724	China	secondary	rbcL	35.5569622336974	105.263238014416	0.00180622767856644

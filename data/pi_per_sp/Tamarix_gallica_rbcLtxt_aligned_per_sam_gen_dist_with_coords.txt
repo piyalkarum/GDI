@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_gallica	OL434845.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.126	-81.14	0.000258331180573495
+Tamarix_gallica	MZ563085.1	24-APR-2022	522	France: Occitanie, Languedoc-Roussillon, Aude, La Palme, Etang de La Palme	primary	rbcL	42.967	2.999	0.000273672687465791
+Tamarix_gallica	MZ563084.1	24-APR-2022	522	Morocco: Gharb-Chrarda-Beni Hssen Region, Kenitra, Kenitra, North of the city, next to Mohamed V avenue (N1)	primary	rbcL	34.272	-6.556	0.000273672687465791
+Tamarix_gallica	MZ563083.1	24-APR-2022	522	Spain: Andalusia, Malaga, Malaga, Desembocadura del rio Guadalhorce	primary	rbcL	36.668	-4.466	0.000273672687465791
+Tamarix_gallica	MZ563082.1	24-APR-2022	522	Spain: Comunidad Valenciana, Alicante, Elche, Pantano de Elche	primary	rbcL	38.313	-0.724	0.000273672687465791
+Tamarix_gallica	MZ563081.1	24-APR-2022	522	Spain: Castilla-La Mancha, Ciudad Real, Daimiel, Tablas de Daimiel, Isla Algeciras	primary	rbcL	39.163	-3.684	0.000273672687465791
+Tamarix_gallica	MZ563080.1	24-APR-2022	522	Spain: Catalonia, Tarragona, Delta del Ebro	primary	rbcL	40.629	0.753	0.000273672687465791
+Tamarix_gallica	KC584887.1	04-JUN-2013	743	Italy: Umbria	secondary	rbcL	42.965916	12.490236	0.00190036730536824

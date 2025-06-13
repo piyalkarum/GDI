@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gladiolus_palustris	MF572207.1	31-JUL-2018	575	Italy	secondary	rbcL	45.1633105170131	8.73928184542394	0.00174730976663344
+Gladiolus_palustris	MF572206.1	31-JUL-2018	577	Italy	secondary	rbcL	45.2124700061672	8.78675672472371	0.000579710144927536
+Gladiolus_palustris	MF572205.1	31-JUL-2018	575	Italy	secondary	rbcL	44.9997955079539	6.85393675636792	0.000579710144927536
+Gladiolus_palustris	MF572204.1	31-JUL-2018	579	Italy	secondary	rbcL	45.7445264	7.549854	0.000587889476778366

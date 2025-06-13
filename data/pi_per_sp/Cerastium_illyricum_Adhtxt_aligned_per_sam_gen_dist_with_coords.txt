@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_illyricum	MH487913.1	20-JAN-2022	1249	Greece	secondary	Adh	42.7146359253397	-77.2492776198935	0.00332502078137988
+Cerastium_illyricum	MH487912.1	20-JAN-2022	2060	Greece	secondary	Adh	43.679634574117	-78.3404645680528	0.00249376558603491
+Cerastium_illyricum	MH487911.1	20-JAN-2022	2055	Cyprus	secondary	Adh	34.9174159	32.8899027	0.0025
+Cerastium_illyricum	MH487908.1	20-JAN-2022	2032	Greece	secondary	Adh	42.67357380912	-78.5936702702633	0.0083187863674148

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_noctiflora	MG220669.1	21-JAN-2018	777	Canada: Ontario, Norfolk County, Delhi Twp., Intersection of Charlotteville West Quarter Line Road and Charlotteville Road #5	primary	matK	42.737	-80.419	0.0224667121410648
+Silene_noctiflora	JN895461.1	07-MAR-2012	699	United Kingdom: Cardiganshire	primary	matK	52.44	-4.04	0.016452364785766
+Silene_noctiflora	OQ172480.1	18-JUN-2023	776	South Korea	secondary	matK	36.509110605948	127.729819658682	0.0218987511980812
+Silene_noctiflora	OQ172479.1	18-JUN-2023	776	South Korea	secondary	matK	35.8902981104422	127.731113381774	0.0218987511980812
+Silene_noctiflora	JN894740.1	07-MAR-2012	729	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.0160036579789666
+Silene_noctiflora	FN821194.1	07-DEC-2010	785	Sweden:Lund	secondary	matK	55.7029296	13.1929449	0.0181487142998093
+Silene_noctiflora	FN821193.1	07-DEC-2010	785	Sweden:Vastergotland	secondary	matK	58.1025615	13.2194127	0.0170182250151259

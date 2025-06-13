@@ -1,0 +1,26 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Echium_vulgare	KX012106.1	09-OCT-2016	399	Australia: city Adaminaby	secondary	trnL-trnF	-34.3346749970358	149.988018026811	0.0228250397499124
+Echium_vulgare	KX012105.1	09-OCT-2016	399	Australia: city Bathurst	secondary	trnL-trnF	-34.0901005618134	150.265433694461	0.021683914086291
+Echium_vulgare	KX012104.1	09-OCT-2016	399	Australia: city Bathurst	secondary	trnL-trnF	-33.4534151210225	149.131314998546	0.021683914086291
+Echium_vulgare	KX012103.1	09-OCT-2016	399	Australia: city Talbingo	secondary	trnL-trnF	-32.9108443910755	151.460099368389	0.0228250397499124
+Echium_vulgare	KX012102.1	09-OCT-2016	399	Australia: city Talbingo	secondary	trnL-trnF	-33.5233685106516	152.415904852266	0.0228250397499124
+Echium_vulgare	KX012101.1	09-OCT-2016	399	Australia: city Adaminaby	secondary	trnL-trnF	-34.6107210813072	151.12977551085	0.021683914086291
+Echium_vulgare	KX012100.1	09-OCT-2016	399	Australia: city Adaminaby	secondary	trnL-trnF	-34.4361825683621	150.755175962394	0.021683914086291
+Echium_vulgare	KX012099.1	09-OCT-2016	399	Australia: city Cooma	secondary	trnL-trnF	-37.1772908209442	145.437583803516	0.021683914086291
+Echium_vulgare	KX012098.1	09-OCT-2016	399	Australia: city Cooma	secondary	trnL-trnF	-35.8097869977333	145.359843498342	0.021683914086291
+Echium_vulgare	KX012097.1	09-OCT-2016	399	Australia: city Numeralla	secondary	trnL-trnF	-28.8510944411143	153.497772707598	0.0228250397499124
+Echium_vulgare	KX012096.1	09-OCT-2016	399	Australia: city Numeralla	secondary	trnL-trnF	-27.2236046009932	153.903394837384	0.021683914086291
+Echium_vulgare	KX012095.1	09-OCT-2016	399	Australia: city Cooma	secondary	trnL-trnF	-35.9937867942497	145.480212423043	0.021683914086291
+Echium_vulgare	KX012094.1	09-OCT-2016	399	Australia: city Cooma	secondary	trnL-trnF	-36.3102416208382	144.163479969809	0.021683914086291
+Echium_vulgare	KX012093.1	09-OCT-2016	399	Australia: city Cooma	secondary	trnL-trnF	-36.0572316873688	144.764140890068	0.021683914086291
+Echium_vulgare	KX012092.1	09-OCT-2016	399	Australia: city Cooma	secondary	trnL-trnF	-36.602964902263	145.149134866323	0.021683914086291
+Echium_vulgare	KX012091.1	09-OCT-2016	399	Australia: city Cooma	secondary	trnL-trnF	-36.4660301433019	145.083350726516	0.021683914086291
+Echium_vulgare	KX012090.1	09-OCT-2016	399	Australia: city Cooma	secondary	trnL-trnF	-36.618460419129	144.75810375608	0.021683914086291
+Echium_vulgare	KX012089.1	09-OCT-2016	399	Australia: city Adaminaby	secondary	trnL-trnF	-33.5260407501112	150.410583133982	0.021683914086291
+Echium_vulgare	KX012088.1	09-OCT-2016	399	Australia: city Adaminaby	secondary	trnL-trnF	-34.1542281682561	151.658138030067	0.021683914086291
+Echium_vulgare	KX012087.1	09-OCT-2016	399	Australia: city Adaminaby	secondary	trnL-trnF	-34.2123986229048	151.362356230143	0.021683914086291
+Echium_vulgare	KX012086.1	09-OCT-2016	399	Australia: city Adaminaby	secondary	trnL-trnF	-33.5357400377787	151.446852836003	0.021683914086291
+Echium_vulgare	KX012085.1	09-OCT-2016	399	Australia: city Canberra	secondary	trnL-trnF	-35.2975906	149.1012676	0.021683914086291
+Echium_vulgare	KX012084.1	09-OCT-2016	399	Australia: city Bredbo	secondary	trnL-trnF	-35.1118447	138.4982791	0.0228250397499124
+Echium_vulgare	KX012082.1	09-OCT-2016	399	Australia: city Michelago	secondary	trnL-trnF	-33.9423764	150.8650841	0.0228250397499124
+Echium_vulgare	KM385485.1	01-DEC-2014	518	Switzerland	secondary	trnL-trnF	46.7985624	8.2319736	0.504704301075269

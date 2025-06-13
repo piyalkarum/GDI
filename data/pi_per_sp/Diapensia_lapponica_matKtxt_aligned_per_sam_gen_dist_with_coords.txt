@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Diapensia_lapponica	KT307918.1	20-MAR-2016	775	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Norhern slope, right of hill	primary	matK	54.9053	-67.1562	0.0006100347739692
+Diapensia_lapponica	KC474547.1	25-OCT-2013	515	Canada: Nunavut, Baffin Island, Iqaluit, Iqaluit, hills just NE of settlement	primary	matK	63.75	-68.5	0.000738625547306301
+Diapensia_lapponica	KC474546.1	25-OCT-2013	777	Canada: Nunavut	primary	matK	56.325	-79.228	0.0006100347739692
+Diapensia_lapponica	KC474545.1	25-OCT-2013	671	Canada: Nunavut, Baffin Island, Iqaluit, Near the end of the main runway	primary	matK	63.7333	-68.5667	0.00204154870365279
+Diapensia_lapponica	KC474544.1	25-OCT-2013	692	Canada: Nunavut, Baffin Island, Iqaluit	primary	matK	63.75	-68.5667	0.0006100347739692
+Diapensia_lapponica	KC474543.1	25-OCT-2013	694	Canada: Nunavut, Baffin Island, Soper River, Soper River at Soper Falls	primary	matK	62.55	-69.8833	0.0006100347739692
+Diapensia_lapponica	KC474542.1	25-OCT-2013	500	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	matK	62.917	-92.3833	0.00430065359477124
+Diapensia_lapponica	MK926248.1	14-JAN-2020	741	United Kingdom	secondary	matK	53.9331219301743	-2.7505093686812	0.0006100347739692
+Diapensia_lapponica	MK926107.1	14-JAN-2020	739	United Kingdom	secondary	matK	54.7568954130222	-2.26144695232898	0.0006100347739692
+Diapensia_lapponica	MK925712.1	14-JAN-2020	745	United Kingdom	secondary	matK	54.6887347232359	-3.55087470243638	0.0006100347739692

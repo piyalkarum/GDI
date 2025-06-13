@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rorippa_palustris	OR575892.1	25-OCT-2023	714	Kazakhstan: Qaragandy region	primary	matK	49.71789	75.268	0.0199860714078852
+Rorippa_palustris	KP210417.1	28-NOV-2015	778	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. South edge of Lac Hertel at Botany Bay	primary	matK	45.544	-73.146	0.00308831790909836
+Rorippa_palustris	JN966508.1	27-OCT-2012	762	Canada: Manitoba, Churchill, 12 km S Churchill, Goose Creek Marina, Road side	primary	matK	58.663	-94.167	0.00310061131370787
+Rorippa_palustris	JN894867.1	07-MAR-2012	1002	United Kingdom: Pembrokeshire	primary	matK	52.06	-4.59	0.00302483232372725
+Rorippa_palustris	OR703768.1	11-NOV-2023	655	Kazakhstan: Akmola region	secondary	matK	51.8742347	69.8582132	0.00288379983036472
+Rorippa_palustris	KM892747.1	11-OCT-2018	747	China	secondary	matK	35.4725254437698	104.929883625375	0.0050790009372273
+Rorippa_palustris	KM892739.1	11-OCT-2018	747	China	secondary	matK	34.5425474805442	105.900816954933	0.00309427796057617
+Rorippa_palustris	JN896046.1	07-MAR-2012	820	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0030743110432623
+Rorippa_palustris	JN896043.1	07-MAR-2012	770	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00309553765837517
+Rorippa_palustris	MK044334.1	15-MAY-2019	810	South Korea	secondary	matK	33.241395	126.3134557	0.00762927637272043

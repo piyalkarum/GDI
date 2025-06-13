@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geranium_sanguineum	MG322266.1	11-NOV-2018	552	USA: Maine, Yarmouth, Little John Island	primary	rbcL	43.7548	-70.1319	0.00745658519679168
+Geranium_sanguineum	MF349459.1	21-SEP-2017	553	USA: District of Columbia; US Botanical Garden, Washington	primary	rbcL	38.888	-77.012	0.000805152979066023
+Geranium_sanguineum	JN893445.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.55	-4.18	0.000820008200082001
+Geranium_sanguineum	MG249854.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, Eglinton and Avenue Rd.	secondary	rbcL	43.72634945	-77.7101179040839	0.000806614236741278
+Geranium_sanguineum	HG417000.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0.000805152979066023
+Geranium_sanguineum	FR865117.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.000862998921251348
+Geranium_sanguineum	JN893647.1	07-MAR-2012	528	United Kingdom: Anglesey	secondary	rbcL	53.2782257	-4.331344	0.000841750841750842
+Geranium_sanguineum	JN893646.1	07-MAR-2012	508	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000874890638670166
+Geranium_sanguineum	JN892995.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.5927914665177	-2.7663389410026	0.000820008200082001
+Geranium_sanguineum	JN891234.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.064108811482	-3.2497521408325	0.000820008200082001

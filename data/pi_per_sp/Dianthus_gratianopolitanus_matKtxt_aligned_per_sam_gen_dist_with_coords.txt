@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dianthus_gratianopolitanus	OU877867.1	17-JUN-2022	2415	Germany:Brandenburg, Spree-Neisse (Kreis), Forst (Lausitz)	secondary	matK	48.2384093	10.0624134	0.00320405402471359
+Dianthus_gratianopolitanus	MK926158.1	14-JAN-2020	838	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00360230173478926
+Dianthus_gratianopolitanus	KU722871.1	27-SEP-2016	837	Germany	secondary	matK	40.4203479	-79.1166983	0.00319573070655578
+Dianthus_gratianopolitanus	MF349921.1	21-SEP-2017	817	USA	secondary	matK	38.8950368	-77.0365427	0.00203998368013056

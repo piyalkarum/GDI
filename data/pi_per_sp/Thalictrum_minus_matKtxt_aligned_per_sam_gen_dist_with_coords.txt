@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thalictrum_minus	JN895477.1	07-MAR-2012	825	United Kingdom: Carmarthenshire	primary	matK	51.88	-3.75	0.00267659170375404
+Thalictrum_minus	LC622108.1	02-OCT-2021	840	Japan:Aichi, Shinshiro	secondary	matK	34.946784	137.533234	0.00278345073468263
+Thalictrum_minus	MH714142.1	01-SEP-2020	786	China: Hebei	secondary	matK	39.3030229738599	116.852897627734	0.00161796834890405
+Thalictrum_minus	MH659290.1	01-AUG-2020	787	China: Hebei	secondary	matK	38.4444849428078	116.619015331554	0.0016171600486302
+Thalictrum_minus	KJ746122.1	29-JUL-2014	679	Poland	secondary	matK	52.215933	19.134422	0.00564555719194894
+Thalictrum_minus	JN896038.1	07-MAR-2012	781	United Kingdom: Breconshire (42)	secondary	matK	52.9875065	-1.1773256	0.0016220408989394
+Thalictrum_minus	JN895994.1	07-MAR-2012	809	United Kingdom: Merionethshire	secondary	matK	52.79398	-3.8749545	0.00159988300495226

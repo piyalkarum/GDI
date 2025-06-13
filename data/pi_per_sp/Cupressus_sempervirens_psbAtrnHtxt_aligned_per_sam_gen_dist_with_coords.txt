@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cupressus_sempervirens	MT311752.1	28-SEP-2020	516	France	secondary	psbA-trnH	46.9057704670179	2.1080570975629	0.00996661237329214
+Cupressus_sempervirens	MT311751.1	28-SEP-2020	516	France	secondary	psbA-trnH	46.570290799667	2.88266763775315	0.00996661237329214
+Cupressus_sempervirens	MT311750.1	28-SEP-2020	516	Tunisia	secondary	psbA-trnH	36.8002068	10.1857757	0.00996661237329214
+Cupressus_sempervirens	MT311749.1	28-SEP-2020	516	France	secondary	psbA-trnH	47.1108671109079	1.3228012123051	0.00996661237329214
+Cupressus_sempervirens	MT311748.1	28-SEP-2020	516	France	secondary	psbA-trnH	47.3484130467032	1.67855350705184	0.00996661237329214
+Cupressus_sempervirens	HE966593.1	18-SEP-2012	468	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.018664522189468
+Cupressus_sempervirens	FN689387.1	19-MAR-2010	578	Italy:Umbria	secondary	psbA-trnH	42.965916	12.490236	0.0506913162496608

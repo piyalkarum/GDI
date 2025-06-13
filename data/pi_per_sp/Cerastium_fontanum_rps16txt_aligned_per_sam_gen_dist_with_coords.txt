@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_fontanum	KF265230.1	05-OCT-2013	675	Switzerland: Fribourg	primary	rps16	46.8061	7.1628	0.169866201279814
+Cerastium_fontanum	LC728263.1	09-MAR-2023	648	Japan:Nagano, Matsumoto	secondary	rps16	36.2382047	137.9687141	0.506011050895199
+Cerastium_fontanum	OQ326805.1	23-AUG-2023	793	China: Kanas, Xinjiang	secondary	rps16	49.1713511	87.7945375	0.167477039438142
+Cerastium_fontanum	MT624643.1	20-OCT-2021	742	Germany	secondary	rps16	31.4399019	-95.350778	0.168667810177244

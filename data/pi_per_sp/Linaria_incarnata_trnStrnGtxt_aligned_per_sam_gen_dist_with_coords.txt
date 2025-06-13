@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_incarnata	KC878783.1	28-FEB-2015	577	Spain: Zamora, Berciano de Aliste	secondary	trnS-trnG	41.5056574	-5.7448039	0.00132236747244283
+Linaria_incarnata	KC878781.1	28-FEB-2015	579	Spain: Caceres, Torrejon el Rubio	secondary	trnS-trnG	39.7713402	-6.013256	0.00132236747244283
+Linaria_incarnata	KC878780.1	28-FEB-2015	577	Spain: Caceres, Valencia de Alcantara	secondary	trnS-trnG	39.4131571	-7.2420859	0.00132236747244283
+Linaria_incarnata	KC878779.1	28-FEB-2015	577	Portugal: Freixo de Espada	secondary	trnS-trnG	41.0841076	-6.8255111	0.00259965337954939
+Linaria_incarnata	KC878778.1	28-FEB-2015	577	Portugal: Trancoso	secondary	trnS-trnG	40.77847	-7.34908	0.00132236747244283
+Linaria_incarnata	KC878777.1	28-FEB-2015	571	Portugal: Coimbra	secondary	trnS-trnG	40.2111931	-8.4294632	0.00262697022767075
+Linaria_incarnata	KC878776.1	28-FEB-2015	577	Portugal: Montemor-o-Novo	secondary	trnS-trnG	38.6481777	-8.2115858	0.00132236747244283
+Linaria_incarnata	KC878782.1	04-MAR-2014	577	Spain: Salamanca, Pelabravo	secondary	trnS-trnG	40.9366792	-5.5790972	0.00132236747244283
+Linaria_incarnata	JN663665.1	10-MAR-2012	558	Spain: Badajoz, Alburquerque	secondary	trnS-trnG	39.2190169	-6.9999295	0.00270758122743682

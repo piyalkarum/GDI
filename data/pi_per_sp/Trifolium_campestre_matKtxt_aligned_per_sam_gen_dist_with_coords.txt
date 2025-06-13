@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_campestre	KX677709.1	09-AUG-2017	806	Canada: British Columbia, Powell River Regional District, Texada Island, Gillies Bay Road, 5.4 kilometers southeast of Vanada	primary	matK	49.717	-124.517	0.0106491975268391
+Trifolium_campestre	KX676609.1	09-AUG-2017	723	Canada: British Columbia, Vancouver Island, Comox Valley Regional District, Kin Beach Provincial Park	primary	matK	49.73	-124.898	0.00987507980723422
+Trifolium_campestre	KP402370.1	06-JAN-2016	444	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, H16x3y8	primary	matK	38.889	-76.559	0.0796071681805233
+Trifolium_campestre	KP210441.1	28-NOV-2015	772	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	matK	45.535	-73.149	0.0246298381809855
+Trifolium_campestre	JN896211.1	07-MAR-2012	782	United Kingdom: 0	primary	matK	53.19	-4.46	0.0107498687569344
+Trifolium_campestre	MH551990.1	11-MAR-2019	738	USA: Ordway-Swisher Biological Station, FL	secondary	matK	29.6814498	-81.9683386867758	0.0122028163237853
+Trifolium_campestre	KJ204547.1	29-JAN-2015	788	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0106445338229959
+Trifolium_campestre	HM851150.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0137067105994326
+Trifolium_campestre	HE970749.1	18-SEP-2012	742	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.010895595094627
+Trifolium_campestre	JN894254.1	07-MAR-2012	919	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.0106423605342768
+Trifolium_campestre	JN894253.1	07-MAR-2012	906	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0144187319829946

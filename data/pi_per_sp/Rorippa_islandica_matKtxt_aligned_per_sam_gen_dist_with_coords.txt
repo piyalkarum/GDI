@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rorippa_islandica	KC475687.1	25-OCT-2013	668	Canada: Northwest Territories, Richards Island, Wolf Lake	primary	matK	69.233	-134.033	0.0164670658682635
+Rorippa_islandica	JN894866.1	07-MAR-2012	1002	United Kingdom: Cardiganshire	primary	matK	52.04	-4.46	0.00411676646706587
+Rorippa_islandica	MG458347.1	17-OCT-2018	817	Pakistan	secondary	matK	30.3308401	71.247499	0.00411676646706587
+Rorippa_islandica	JN896048.1	07-MAR-2012	808	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00411676646706587
+Rorippa_islandica	JN896045.1	07-MAR-2012	773	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00411676646706587

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Echium_plantagineum	MK926351.1	14-JAN-2020	830	United Kingdom	secondary	matK	54.2585555848977	-3.15579765156061	0.00101313621017936
+Echium_plantagineum	MK926149.1	14-JAN-2020	825	United Kingdom	secondary	matK	54.5257945648399	-3.86186474644128	0.000531208499335989
+Echium_plantagineum	MK926147.1	14-JAN-2020	802	United Kingdom	secondary	matK	54.0007206417393	-2.37712610089155	0.000547945205479452
+Echium_plantagineum	EU599697.1	31-MAR-2009	1554	Turkey	secondary	matK	38.9597594	34.9249653	0.00112272719071662
+Echium_plantagineum	EU599696.1	31-MAR-2009	1554	Spain: Tenerife	secondary	matK	28.2935785	-16.6214471	0.00112272719071662
+Echium_plantagineum	HM850866.1	23-JUL-2011	807	Portugal	secondary	matK	39.6621648	-8.1353519	0.00260168810254053

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_dioica	FN821244.1	07-DEC-2010	574	Sweden	secondary	rpoC1	59.6749712	14.5208584	0
+Silene_dioica	FN821243.1	07-DEC-2010	574	Finland	secondary	rpoC1	62.9507039752889	26.8675384599005	0
+Silene_dioica	FN821242.1	07-DEC-2010	574	Finland	secondary	rpoC1	62.9667672782939	27.1118856897864	0
+Silene_dioica	FN821241.1	07-DEC-2010	574	France	secondary	rpoC1	46.1583232864432	2.59817454220615	0
+Silene_dioica	FN821240.1	07-DEC-2010	574	France	secondary	rpoC1	47.0939050518324	1.55534038276483	0
+Silene_dioica	FN821239.1	07-DEC-2010	574	Poland	secondary	rpoC1	52.215933	19.134422	0
+Silene_dioica	FN821238.1	07-DEC-2010	574	Germany	secondary	rpoC1	31.4399019	-95.350778	0
+Silene_dioica	FN821237.1	07-DEC-2010	574	Slovakia	secondary	rpoC1	48.7411522	19.4528646	0

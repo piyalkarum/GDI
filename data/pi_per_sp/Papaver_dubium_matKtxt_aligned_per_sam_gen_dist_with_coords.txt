@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Papaver_dubium	JN893923.1	07-MAR-2012	822	United Kingdom: Radnorshire	primary	matK	52.12	-3.35	0.0057457299335316
+Papaver_dubium	MT707529.1	03-AUG-2021	856	South Korea	secondary	matK	36.3887983415997	127.469558032187	0.00536784291578692
+Papaver_dubium	MG769004.1	30-OCT-2018	806	South Korea	secondary	matK	35.9485544966106	127.590550146831	0.00567260574797826
+Papaver_dubium	MG769003.1	30-OCT-2018	806	South Korea	secondary	matK	35.9607896771584	127.314184407001	0.00567260574797826
+Papaver_dubium	HM851026.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0302895357717926
+Papaver_dubium	JN895928.1	07-MAR-2012	788	United Kingdom: Radnorshire	secondary	matK	52.4627049	-3.2561628	0.00579957291585359
+Papaver_dubium	JN895925.1	07-MAR-2012	779	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00587826618257266

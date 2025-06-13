@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_trichomanes	MK828059.1	30-APR-2020	745	USA: Oregon	secondary	trnL-trnF	44.4688997899838	-120.942859656841	0.017805438618414
+Asplenium_trichomanes	MK828035.1	30-APR-2020	792	USA: Virginia	secondary	trnL-trnF	37.1232245	-78.4927721	0.0485702516681949
+Asplenium_trichomanes	MK828028.1	30-APR-2020	745	USA: Washington	secondary	trnL-trnF	38.8950368	-77.0365427	0.017805438618414
+Asplenium_trichomanes	MK828021.1	30-APR-2020	745	USA: Oregon	secondary	trnL-trnF	43.9059254244773	-121.286366303337	0.017805438618414
+Asplenium_trichomanes	MK828020.1	30-APR-2020	746	USA: Big Island	secondary	trnL-trnF	18.8357233434311	-155.717557802567	0.017805438618414
+Asplenium_trichomanes	MK828002.1	30-APR-2020	746	USA: Big Island	secondary	trnL-trnF	20.4487242565112	-155.242549644498	0.017805438618414
+Asplenium_trichomanes	MK827983.1	30-APR-2020	741	Canada: British Columbia	secondary	trnL-trnF	54.6850020096355	-124.769219073848	0.0188858662210783
+Asplenium_trichomanes	MK827982.1	30-APR-2020	741	Canada: British Columbia	secondary	trnL-trnF	54.4838066820071	-125.404422396337	0.0188858662210783
+Asplenium_trichomanes	MK827797.1	30-APR-2020	767	China: Taiwan Island	secondary	trnL-trnF	-0.80181234350939	167.108124494554	0.0177275377743951
+Asplenium_trichomanes	MK827796.1	30-APR-2020	737	China: Taiwan Island	secondary	trnL-trnF	-0.987502965832738	166.751178779285	0.0387222752606261
+Asplenium_trichomanes	MK827704.1	30-APR-2020	226	China: Yunnan	secondary	trnL-trnF	25	102	0.014438604004554
+Asplenium_trichomanes	KP851912.1	23-AUG-2015	752	Australia: Bogong, Victoria	secondary	trnL-trnF	-36.796961	147.221541601379	0.0177463899804607
+Asplenium_trichomanes	KP851907.1	23-AUG-2015	791	Australia: Glenelg River, Victoria	secondary	trnL-trnF	-37.5403033	141.3972946	0.0287946255881505
+Asplenium_trichomanes	AB106926.1	02-OCT-2003	421	Japan:Shizuoka, Ito	secondary	trnL-trnF	34.926734	139.087685	0.165965841667298

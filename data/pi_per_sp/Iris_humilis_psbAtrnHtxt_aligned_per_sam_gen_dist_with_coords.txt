@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_humilis	ON569508.1	14-JAN-2023	552	Russia: Altai Republic, Kosh-Agach District, mouth of Tydtugem River	primary	psbA-trnH	50.187	88.124	0
+Iris_humilis	ON569507.1	14-JAN-2023	552	Russia: Altai Republic, Kosh-Agach District, between Kurai and Chagan-Uzun	primary	psbA-trnH	50.169	88.209	0
+Iris_humilis	ON569506.1	14-JAN-2023	552	Russia: Altai Republic, Ongudaysky District, Ak-Boom Rock	primary	psbA-trnH	50.354	87.057	0
+Iris_humilis	ON569505.1	14-JAN-2023	552	Russia: Altai Republic, Ongudaysky District, confluence of Chuya and Katun Rivers	primary	psbA-trnH	50.397	86.674	0
+Iris_humilis	ON569504.1	14-JAN-2023	552	Russia: Altai Republic, Ongudaysky District, Ak-Boom Rock	primary	psbA-trnH	50.214	87.325	0
+Iris_humilis	ON569503.1	14-JAN-2023	547	Hungary: Bugac	primary	psbA-trnH	46.659	19.599	0
+Iris_humilis	ON569502.1	14-JAN-2023	547	Hungary: Csakvar	primary	psbA-trnH	47.393	18.46	0
+Iris_humilis	ON569501.1	14-JAN-2023	547	Hungary: Gyorszentivan	primary	psbA-trnH	47.698	17.736	0
+Iris_humilis	ON569500.1	14-JAN-2023	552	Mongolia: Khuvsgul Aimag, near Khuvsgul Lake	primary	psbA-trnH	50.567	100.467	0
+Iris_humilis	ON569499.1	14-JAN-2023	547	Mongolia: Khuvsgul Aimag, Khatgal Sum	primary	psbA-trnH	50.619	100.512	0
+Iris_humilis	ON569498.1	14-JAN-2023	547	Russia: Tuva, near Dus-Khol Lake	primary	psbA-trnH	51.356	94.447	0
+Iris_humilis	ON569497.1	14-JAN-2023	547	Russia: Tuva, Tandinsky District	primary	psbA-trnH	51.356	94.454	0
+Iris_humilis	ON569496.1	14-JAN-2023	547	Russia: Altai Krai, Bayevsky District	primary	psbA-trnH	53.5	80.45	0
+Iris_humilis	ON569495.1	14-JAN-2023	547	Russia: Amur Oblast, Novotroitskoe	primary	psbA-trnH	50.499	127.553	0
+Iris_humilis	ON569494.1	14-JAN-2023	552	Russia: Buryatia, Kyakhtinsky District, Chikoy River	primary	psbA-trnH	50.449	106.91	0
+Iris_humilis	ON569493.1	14-JAN-2023	547	Russia: Buryatia, Tunkinsky District, Mondy	primary	psbA-trnH	51.698	100.868	0
+Iris_humilis	ON569492.1	14-JAN-2023	547	Russia: Buryatia, Bichursky District, Bichura	primary	psbA-trnH	50.629	107.665	0
+Iris_humilis	ON569491.1	14-JAN-2023	547	Russia: Buryatia, Tarbagataysky District	primary	psbA-trnH	51.538	107.346	0
+Iris_humilis	ON569490.1	14-JAN-2023	547	Russia: Zabaykalsky Krai,Lesnoi Gorodok	primary	psbA-trnH	51.667	112.982	0
+Iris_humilis	ON569489.1	14-JAN-2023	547	Russia: Zabaykalsky Krai, Ingoda	primary	psbA-trnH	51.831	113.086	0
+Iris_humilis	ON569488.1	14-JAN-2023	547	Russia: Zabaykalsky Krai, Ingoda River	primary	psbA-trnH	51.747	113.846	0
+Iris_humilis	ON569487.1	14-JAN-2023	547	Russia: Belgorod Oblast, Urazovo	primary	psbA-trnH	50.079	38.048	0
+Iris_humilis	ON569486.1	14-JAN-2023	547	Ukraine: Cherkasy Oblast, Irdyn	primary	psbA-trnH	49.369	31.679	0
+Iris_humilis	ON569485.1	14-JAN-2023	547	Ukraine: Poltava Oblast, Deimanivka	primary	psbA-trnH	50.217	32.634	0

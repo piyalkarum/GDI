@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Teucrium_chamaedrys	JN408655.1	31-JUL-2013	800	Greece	secondary	trnL-trnF	43.2097838	-77.6930602	0.00830056793359546
+Teucrium_chamaedrys	JN408626.1	31-JUL-2013	783	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.00825727944372012
+Teucrium_chamaedrys	JN408612.1	31-JUL-2013	831	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.00839630562552477
+Teucrium_chamaedrys	JN408611.1	31-JUL-2013	796	Germany	secondary	trnL-trnF	40.4203479	-79.1166983	0.0249541530028403

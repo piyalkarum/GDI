@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_mirabilis	KT167149.1	19-AUG-2015	1422	United Kingdom: Great Britain	secondary	trnL-trnF	54.2170804091929	-3.01769567533583	0.00317460317460318
+Tragopogon_mirabilis	KT167148.1	19-AUG-2015	1422	United Kingdom: Great Britain	secondary	trnL-trnF	54.5923471283555	-2.284032656449	0.00317460317460318
+Tragopogon_mirabilis	KT167147.1	19-AUG-2015	1422	United Kingdom: Great Britain	secondary	trnL-trnF	54.4161822298293	-2.00782963658894	0.00317460317460318
+Tragopogon_mirabilis	KT167146.1	19-AUG-2015	1422	United Kingdom: Great Britain	secondary	trnL-trnF	54.4631330434831	-3.33075903400035	0.00317460317460318
+Tragopogon_mirabilis	KT167145.1	19-AUG-2015	1422	United Kingdom: Great Britain	secondary	trnL-trnF	54.0321511286923	-2.26981322731155	0.00317460317460318
+Tragopogon_mirabilis	HQ456299.1	19-JUL-2011	350	Czech Republic: Roudnice nad Labem, alt. cca 180-190 m.	secondary	trnL-trnF	50.4721898718234	13.4411593284823	0.00793650793650794
+Tragopogon_mirabilis	HQ456298.1	19-JUL-2011	350	Czech Republic: Roudnice nad Labem, alt. cca 180-190 m.	secondary	trnL-trnF	51.0273961357573	13.5441462560403	0.00793650793650794

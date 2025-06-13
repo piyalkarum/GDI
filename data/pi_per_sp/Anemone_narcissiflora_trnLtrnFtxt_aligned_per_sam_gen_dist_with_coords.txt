@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anemone_narcissiflora	AB219592.1	20-DEC-2005	917	Japan: Nagano, Mts. Yatsugadake	secondary	trnL-trnF	37.3000241581805	138.478165663933	0.00330102864692559
+Anemone_narcissiflora	AB219591.1	20-DEC-2005	917	Japan: Shizuoka, Mt. Akaishidake	secondary	trnL-trnF	35.4612203	138.1573535	0.00238241600956296
+Anemone_narcissiflora	AB219590.1	20-DEC-2005	902	Japan: Nagano, Mt. Kisokomagadake	secondary	trnL-trnF	35.8499247136892	138.398960587566	0.00297619047619048
+Anemone_narcissiflora	AB219589.1	20-DEC-2005	910	Japan: Nagano, Mts. Ontakesan	secondary	trnL-trnF	35.8855620121848	137.808332677419	0.00330242673992674
+Anemone_narcissiflora	AB219588.1	20-DEC-2005	910	Japan: Nagano, Mt. Shiroumadake	secondary	trnL-trnF	36.7584922	137.758539	0.00293040293040293
+Anemone_narcissiflora	AB219586.1	20-DEC-2005	924	Japan: Iwate, Mt. Yakeishidake	secondary	trnL-trnF	39.1637016	140.8288204	0.00551007974414837
+Anemone_narcissiflora	AB219585.1	20-DEC-2005	919	Japan: Hokkaido, Mts. Taisetsuzan	secondary	trnL-trnF	43.4603175	143.330715792837	0.00459146710678573

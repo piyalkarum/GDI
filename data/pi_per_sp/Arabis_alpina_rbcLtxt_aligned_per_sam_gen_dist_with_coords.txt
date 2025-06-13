@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arabis_alpina	KT960030.1	06-DEC-2015	552	Greenland: NE, Constable Point	primary	rbcL	70.7333	-22.65	0.000201288244766506
+Arabis_alpina	KC481984.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Camp on Harp Seal Lake, 35 km SW of Sanikiluaq	primary	rbcL	56.317	-79.444	0.000201288244766506
+Arabis_alpina	KC481983.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.8525	-67.3564	0.000201288244766506
+Arabis_alpina	KC481982.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ogac Lake, S. shore of Frobisher Bay	primary	rbcL	62.8339	-67.3567	0.000201288244766506
+Arabis_alpina	KC481981.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Burwash Bay, West side on Levesque Esker' at stream cut, Nettilling Lake.'	primary	rbcL	65.9833	-71.3	0.00385437520815183
+Arabis_alpina	KC481980.1	25-OCT-2013	552	Canada: Nunavut, Coats Island, Hudson Bay between Cape Pembroke and Cairn Cove	primary	rbcL	62.8833	-81.9167	0.000201288244766506
+Arabis_alpina	JN965256.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, Open stony ground on gravel ridge	primary	rbcL	58.6226956289611	-95.2428849818897	0.000201288244766506
+Arabis_alpina	JN965255.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, in sand	primary	rbcL	58.6761170959036	-93.9167875487769	0.000201288244766506
+Arabis_alpina	MK925537.1	14-JAN-2020	542	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.000205380981721093
+Arabis_alpina	MK925075.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2857083098027	-2.50090403234607	0.000205380981721093
+Arabis_alpina	MK925046.1	14-JAN-2020	542	Norway	secondary	rbcL	64.5731537	11.5280364	0.000205380981721093
+Arabis_alpina	MK924808.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7113862493851	-4.74547504900103	0.000205380981721093
+Arabis_alpina	MK924801.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0.000205380981721093
+Arabis_alpina	MN258863.1	14-JAN-2020	534	Saudi Arabia: Abha	secondary	rbcL	18.4201262361665	42.713876875655	0.000235904694503421
+Arabis_alpina	MN258862.1	14-JAN-2020	468	Saudi Arabia: Abha	secondary	rbcL	18.4000012194046	43.245742593512	0.000237416904083571
+Arabis_alpina	MN258861.1	14-JAN-2020	534	Saudi Arabia: Abha	secondary	rbcL	17.7293043994575	42.4713666193726	0.000235904694503421
+Arabis_alpina	MN258860.1	14-JAN-2020	468	Saudi Arabia: Abha	secondary	rbcL	18.3382150882003	42.4657638431126	0.000237416904083571
+Arabis_alpina	MN258859.1	14-JAN-2020	534	Saudi Arabia: Abha	secondary	rbcL	18.1592638000134	41.765261157111	0.000235904694503421
+Arabis_alpina	MN258858.1	14-JAN-2020	534	Saudi Arabia: Abha	secondary	rbcL	17.5652859204217	43.0457280352137	0.000235904694503421

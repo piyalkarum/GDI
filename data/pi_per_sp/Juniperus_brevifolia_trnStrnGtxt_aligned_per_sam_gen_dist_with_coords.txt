@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juniperus_brevifolia	JF951029.1	12-DEC-2011	586	Portugal: Azores, S. Miguel, Serra da Tronqueira	secondary	trnS-trnG	37.6524411227984	-25.5630520356384	0.0012514220705347
+Juniperus_brevifolia	JF951028.1	12-DEC-2011	706	Portugal: Azores, Terceira, Malha Grande	secondary	trnS-trnG	37.892040011723	-24.7946146819131	0.00103871576959396
+Juniperus_brevifolia	JF951027.1	12-DEC-2011	706	Portugal: Azores, S. Miguel, Serra da Tronqueira	secondary	trnS-trnG	38.3277051831194	-24.9810472092339	0.00103871576959396
+Juniperus_brevifolia	JF951026.1	12-DEC-2011	706	Portugal: Azores, S, Miguel, Monte Escuro	secondary	trnS-trnG	38.3375068181691	-25.8865255555873	0.00103871576959396
+Juniperus_brevifolia	JF951025.1	12-DEC-2011	706	Portugal: Azores, S. Maria, Almagreira	secondary	trnS-trnG	37.6464759931114	-25.363996870133	0.00103871576959396
+Juniperus_brevifolia	JF951024.1	12-DEC-2011	706	Portugal: Azores, Terceira, Santa Barbara	secondary	trnS-trnG	38.5947541121372	-25.1868607798119	0.000491480468082775
+Juniperus_brevifolia	JF951023.1	12-DEC-2011	706	Portugal: Azores, Terceira, Malha Grande	secondary	trnS-trnG	38.5250346011464	-25.9447673025707	0.000491480468082775
+Juniperus_brevifolia	JF951022.1	12-DEC-2011	706	Portugal: Azores, S. Jorge, Serra do Topo	secondary	trnS-trnG	37.5798215290528	-24.8460753678711	0.000491480468082775
+Juniperus_brevifolia	JF951021.1	12-DEC-2011	706	Portugal: Azores, S. Miguel, Serra da Tronqueira	secondary	trnS-trnG	38.6219699799553	-25.4686214305136	0.000491480468082775
+Juniperus_brevifolia	JF951020.1	12-DEC-2011	706	Portugal: Azores, S. Miguel, Monte Escuro	secondary	trnS-trnG	37.7516939639155	-26.2941383931525	0.000491480468082775
+Juniperus_brevifolia	JF951019.1	12-DEC-2011	706	Portugal: Azores, Terceira, Pico Alto	secondary	trnS-trnG	37.4616138762552	-24.9433043121383	0.000491480468082775
+Juniperus_brevifolia	JF951018.1	12-DEC-2011	706	Portugal: Azores, Pico, Curral Queimado-RF Prainha	secondary	trnS-trnG	37.7448943616751	-25.831490500537	0.000491480468082775
+Juniperus_brevifolia	JF951017.1	12-DEC-2011	706	Portugal: Azores, Flores, Morro Alto e Pico da Se	secondary	trnS-trnG	37.66989260487	-24.972940151002	0.000491480468082775
+Juniperus_brevifolia	JF951016.1	12-DEC-2011	706	Portugal: Azores, S. Jorge, RF Pico da Esperanza	secondary	trnS-trnG	38.5541464459397	-25.3775928866675	0.000491480468082775
+Juniperus_brevifolia	JF951015.1	12-DEC-2011	706	Portugal: Azores, Faial, Caldeira	secondary	trnS-trnG	38.5880822	-28.7160891	0.000491480468082775
+Juniperus_brevifolia	JF951014.1	12-DEC-2011	706	Portugal: Azores, Flores, Caldeira Funda e Rasa	secondary	trnS-trnG	39.4072174	-31.2241974	0.000491480468082775

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Misopates_orontium	JN895971.1	07-MAR-2012	771	United Kingdom: Cardiganshire	primary	matK	52.13	-4.66	0.00469133758313326
+Misopates_orontium	EU718055.1	31-MAY-2009	1255	Spain: Valencia, Serra	secondary	matK	39.6851966	-0.4281287	0.010503751046432
+Misopates_orontium	HM850960.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.0125246236017065
+Misopates_orontium	JN894173.1	07-MAR-2012	880	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00411337296583198
+Misopates_orontium	JN894172.1	07-MAR-2012	811	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00524162817102951

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geranium_purpureum	ON684478.1	21-AUG-2022	1428	Portugal: Casais da Cabrela, Terrugem, Sintra	primary	rbcL	38.85777	-9.35055	0.0419454047805335
+Geranium_purpureum	JN893450.1	07-MAR-2012	542	United Kingdom: Cornwall	primary	rbcL	50.4	-5.13	0.00378960932466468
+Geranium_purpureum	HM850027.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.048314525614599
+Geranium_purpureum	JN893649.1	07-MAR-2012	542	United Kingdom: Cornwall,WestwithScilly	secondary	rbcL	50.4433489	-4.62465658489158	0.00503953610964681

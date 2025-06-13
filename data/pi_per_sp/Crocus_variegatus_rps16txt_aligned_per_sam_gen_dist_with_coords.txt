@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_variegatus	LM993584.1	23-JUL-2016	615	Italy	secondary	rps16	42.6286354527205	13.622858269106	0
+Crocus_variegatus	LM993583.1	23-JUL-2016	615	Italy	secondary	rps16	42.335923547769	12.7973979615246	0
+Crocus_variegatus	LM993582.1	23-JUL-2016	615	Italy	secondary	rps16	41.9262105877844	13.2517624027981	0
+Crocus_variegatus	LM993581.1	23-JUL-2016	615	Italy	secondary	rps16	43.3412295361635	11.9803968512458	0
+Crocus_variegatus	LM993580.1	23-JUL-2016	615	Italy	secondary	rps16	42.4884158690041	12.9046483590566	0
+Crocus_variegatus	LM993565.1	23-JUL-2016	615	Slovenia	secondary	rps16	46.09312493554	15.4499466799625	0
+Crocus_variegatus	LM993564.1	23-JUL-2016	615	Slovenia	secondary	rps16	45.5898913713415	14.5377862046859	0
+Crocus_variegatus	LM993563.1	23-JUL-2016	615	Slovenia	secondary	rps16	45.9470638466621	15.9320801195669	0
+Crocus_variegatus	LM993562.1	23-JUL-2016	616	Slovenia	secondary	rps16	45.5711471686697	14.0053010112725	0
+Crocus_variegatus	LM993561.1	23-JUL-2016	617	Italy	secondary	rps16	42.9088877576714	13.8188029333747	0
+Crocus_variegatus	LM993560.1	23-JUL-2016	617	Italy	secondary	rps16	42.5040565317088	12.8943444911661	0
+Crocus_variegatus	LM993559.1	23-JUL-2016	617	Italy	secondary	rps16	42.8893570625414	13.4220588755666	0

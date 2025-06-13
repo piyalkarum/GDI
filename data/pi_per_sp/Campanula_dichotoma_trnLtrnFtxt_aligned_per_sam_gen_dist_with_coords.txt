@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_dichotoma	KJ910670.1	31-MAY-2015	823	Morocco: Rif, Nador	secondary	trnL-trnF	35.1515667	-2.9274949	0.00463373978031103
+Campanula_dichotoma	KJ910669.1	31-MAY-2015	823	Spain: Ibiza, Cala Jondal	secondary	trnL-trnF	38.8793348	1.3089246	0.00757462891614818
+Campanula_dichotoma	KC792351.1	17-SEP-2013	823	Morocco: Agadir, Alma-Immouzer	secondary	trnL-trnF	30.4205162	-9.5838532	0.00389645676743377
+Campanula_dichotoma	KC792350.1	17-SEP-2013	823	Algeria: El Milia	secondary	trnL-trnF	36.7514104	6.2744614	0.00561403615892341
+Campanula_dichotoma	KC792349.1	17-SEP-2013	823	Italy: Sicily, Messina	secondary	trnL-trnF	38.1937571	15.5542082	0.00561403615892341
+Campanula_dichotoma	KJ910667.1	31-MAY-2015	796	Algeria	secondary	trnL-trnF	34.6403022	-1.3220383	0.00351758793969849

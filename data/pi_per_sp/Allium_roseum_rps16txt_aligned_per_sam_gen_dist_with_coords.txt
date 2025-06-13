@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_roseum	HF934447.1	12-MAY-2015	816	Spain:Alicante, Denia	secondary	rps16	38.8408382	0.1061105	0.000408496732026144
+Allium_roseum	HF934446.1	12-MAY-2015	817	Tunisia:Tabarka, Tell Atlas	secondary	rps16	36.9545614	8.7573829	0.0012249902000784
+Allium_roseum	HF934445.1	12-MAY-2015	816	Greece:Peranthi	secondary	rps16	39.0835644	21.0502051	0.000408496732026144
+Allium_roseum	HF934444.1	12-MAY-2015	817	Spain:Malaga, Ardales, Los Picadones	secondary	rps16	36.7213028	-4.4216366	0.000407996736026112

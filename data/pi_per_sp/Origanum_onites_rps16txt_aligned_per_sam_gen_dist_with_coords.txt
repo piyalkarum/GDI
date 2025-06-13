@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Origanum_onites	OL598335.1	27-MAY-2022	886	Greece: Crete, Zakros	secondary	rps16	35.1131194	26.2180027	0
+Origanum_onites	OL598334.1	27-MAY-2022	886	Greece: Amorgos	secondary	rps16	36.8525242	25.898487	0
+Origanum_onites	OL598333.1	27-MAY-2022	886	Greece: Crete, Kastamonitsa	secondary	rps16	35.1926687	25.3780868	0
+Origanum_onites	OL598332.1	27-MAY-2022	886	Greece: Crete, Eleftherna	secondary	rps16	35.3292128	24.6696211	0
+Origanum_onites	OL598331.1	27-MAY-2022	886	Greece: Crete, Giouhtas mountain	secondary	rps16	35.4546056975103	23.6535751470618	0
+Origanum_onites	OL598330.1	27-MAY-2022	886	Greece: Crete, Giouhtas mountain	secondary	rps16	34.5885302639433	24.6640728374543	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fumaria_bastardii	MG249318.1	21-JAN-2018	552	Canada: British Columbia, Vancouver, UBC campus	primary	rbcL	49.25	-123.167	0.00369685767097967
+Fumaria_bastardii	JN890818.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	primary	rbcL	51.65	-4.8	0.00123228589032656
+Fumaria_bastardii	JN892009.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.5515386004947	-4.53299440716424	0.00123228589032656
+Fumaria_bastardii	JN892008.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8828725509103	-3.04794018072589	0.00123228589032656

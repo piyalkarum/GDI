@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Armeria_pubigera	GQ901436.1	03-NOV-2009	1505	Spain: Pontevedra, Islas Cies, Monteagudo	secondary	matK	41.4732996897188	-9.12031832327384	0
+Armeria_pubigera	GQ901430.1	03-NOV-2009	1505	Spain: Pontevedra, Islas Cies, Faro	secondary	matK	42.4318876	-8.6431592	0
+Armeria_pubigera	GQ901429.1	03-NOV-2009	1505	Spain: Pontevedra, Islas Cies, Monteagudo	secondary	matK	41.7434188789994	-9.90626045644703	0
+Armeria_pubigera	GQ901428.1	03-NOV-2009	1505	Spain: Pontevedra, Islas Cies, Monteagudo	secondary	matK	42.2875978614748	-8.06557394338565	0

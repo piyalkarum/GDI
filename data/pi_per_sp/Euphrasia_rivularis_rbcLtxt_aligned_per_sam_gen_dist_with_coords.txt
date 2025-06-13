@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphrasia_rivularis	JN891553.1	07-MAR-2012	535	United Kingdom: Caernarfonshire	primary	rbcL	53.08	-4.08	0
+Euphrasia_rivularis	JN892217.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	52.7964484959052	-4.95447935433727	0
+Euphrasia_rivularis	JN892216.1	07-MAR-2012	513	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Euphrasia_rivularis	JN892215.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.1709744052885	-3.58443601271566	0

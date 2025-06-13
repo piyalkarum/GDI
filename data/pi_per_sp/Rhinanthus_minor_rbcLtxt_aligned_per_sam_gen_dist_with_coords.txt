@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rhinanthus_minor	MG221996.1	26-DEC-2017	552	Canada: Ontario, Cochrane County, S side of Hwy. 523 (Gaspesie Road), ca. 10 km S of Hearst	primary	rbcL	49.6	-83.692	0
+Rhinanthus_minor	MG221192.1	26-DEC-2017	552	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	rbcL	51.273	-80.641	0
+Rhinanthus_minor	JN965805.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	rbcL	58.626	-94.23	0
+Rhinanthus_minor	JN965804.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km NW Churchill, Churchill Harbour, Disturbed river bank, road side	primary	rbcL	58.78	-94.195	0
+Rhinanthus_minor	JN891518.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.13	0
+Rhinanthus_minor	JN891322.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Rhinanthus_minor	JN891306.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0

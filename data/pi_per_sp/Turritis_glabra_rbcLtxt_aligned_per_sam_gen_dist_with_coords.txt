@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Turritis_glabra	OR714771.1	13-NOV-2023	527	Kazakhstan: Qaragandy region	primary	rbcL	47.43832	74.81248	0.0149091894822445
+Turritis_glabra	KX678835.1	29-APR-2017	552	Canada: British Columbia, Kootenay Boundary Regional District, Granby-Burrell Forest Recreation Site	primary	rbcL	49.368	-118.461	0.00294500689476352
+Turritis_glabra	HQ589958.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, N side of Dufferin Driveway	primary	rbcL	44.03	-79.529	0.00294081015143634
+Turritis_glabra	MT930968.1	03-MAR-2023	572	China	secondary	rbcL	34.5404016224935	105.704491639903	0.00292181048393052
+Turritis_glabra	MT930967.1	03-MAR-2023	569	China	secondary	rbcL	35.5763185745319	105.342037794244	0.00657149917806344
+Turritis_glabra	MK925582.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8927600537712	-2.25323383688752	0.00295933157217178
+Turritis_glabra	MK925542.1	14-JAN-2020	542	France	secondary	rbcL	46.603354	1.8883335	0.00295933157217178
+Turritis_glabra	MK925510.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2865306092568	-2.46217546982067	0.00295933157217178

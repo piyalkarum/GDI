@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arisarum_vulgare	KX789396.1	26-AUG-2017	450	Egypt	secondary	matK	26.2540493	29.2675469	0.000444444444444444
+Arisarum_vulgare	EU193577.1	12-AUG-2008	1731	Greece	secondary	matK	43.7274562636606	-76.6969117247918	0.0367193368926471
+Arisarum_vulgare	EU193576.1	12-AUG-2008	1731	Greece	secondary	matK	43.0911211045946	-78.8984476708845	0.0369504171930515
+Arisarum_vulgare	EU193575.1	12-AUG-2008	1731	Greece: Crete	secondary	matK	35.3084952	24.4633423	0.0367193368926471
+Arisarum_vulgare	EU193574.1	12-AUG-2008	1731	Spain: Tenerife	secondary	matK	28.2935785	-16.6214471	0.0367193368926471
+Arisarum_vulgare	HM850481.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.145010989010989

@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_vulgaris	KX582093.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.9194124126651	80.6016680019556	0.00108225108225108
+Artemisia_vulgaris	KX582092.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.8437452416525	82.2059072128951	0.00108225108225108
+Artemisia_vulgaris	KX582091.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	44.3780401429222	81.1741271800142	0.00108225108225108
+Artemisia_vulgaris	KX582090.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.1989764451542	80.5847456754026	0.00108225108225108
+Artemisia_vulgaris	KX582089.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.2645143029201	80.7501733174637	0.00649350649350649
+Artemisia_vulgaris	KX582088.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.5443693473967	81.2743700632337	0.00108225108225108
+Artemisia_vulgaris	KX582087.1	24-SEP-2016	462	China: Xinjiang, Yili	secondary	rpoB	43.2030897474252	81.2516496846545	0.00108225108225108

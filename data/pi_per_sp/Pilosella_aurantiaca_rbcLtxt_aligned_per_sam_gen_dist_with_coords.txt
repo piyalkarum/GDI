@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pilosella_aurantiaca	MG224321.1	26-DEC-2017	553	Canada: Ontario, Algoma District, Sault Ste. Marie, Sault Ste. Marie	primary	rbcL	46.5164	-84.3376	0
+Pilosella_aurantiaca	MG224145.1	26-DEC-2017	552	Canada: Ontario, Kenora, English River Forest	primary	rbcL	49.7667	-94.4667	0
+Pilosella_aurantiaca	MG223734.1	26-DEC-2017	553	Canada: Ontario, Nipissing District, Sproule Township, Canoe Dock, Wildlife Research Station, Algonquin Park	primary	rbcL	45.6167	-78.4	0
+Pilosella_aurantiaca	MG223633.1	26-DEC-2017	553	Canada: Ontario, Algoma District, Michipicoten Twp., Michipicoten Bay	primary	rbcL	47.9167	-85.7767	0
+Pilosella_aurantiaca	MG222334.1	26-DEC-2017	529	Canada: Ontario, Nipissing District, Pentland Twp., Algonquin Park, ~10km in from Kiosk stop-gate, portage trail @ 2nd bridge	primary	rbcL	45.5842	-78.3583	0
+Pilosella_aurantiaca	MG222282.1	26-DEC-2017	553	Canada: Ontario, Thunder Bay District, Neebing Twp., Thunder Bay	primary	rbcL	48.4066	-89.2467	0
+Pilosella_aurantiaca	MG221490.1	26-DEC-2017	552	USA: Alaska, Wrangell-Petersburg Census Area, Wrangle, Alaska	primary	rbcL	56.47	-132.39	0
+Pilosella_aurantiaca	KX679047.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Garibaldi Park, Cheakamus Lake Rd.	primary	rbcL	50.059	-123.03	0
+Pilosella_aurantiaca	KX678039.1	29-APR-2017	548	Canada: British Columbia, Columbia-Shuswap Regional District, Along Highway 1, just west of Skytrek Adventure Park	primary	rbcL	50.9702	-118.569	0
+Pilosella_aurantiaca	HQ590130.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., N-most trail, 100 m W of creek and 20 m S of fence line, N of hill	primary	rbcL	44.038	-79.524	0.00012846865364851
+Pilosella_aurantiaca	KJ593463.1	17-MAR-2015	540	USA: Wisconsin, Lakewood	primary	rbcL	45.295	-88.475	0
+Pilosella_aurantiaca	KJ593462.1	17-MAR-2015	540	USA: Wisconsin, Blackwell	primary	rbcL	45.464	-88.676	0
+Pilosella_aurantiaca	KJ593461.1	17-MAR-2015	532	USA: Wisconsin, Goodman	primary	rbcL	45.634	-88.344	0
+Pilosella_aurantiaca	KJ841470.1	04-NOV-2014	570	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.00012846865364851
+Pilosella_aurantiaca	MG222475.1	26-DEC-2017	553	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	secondary	rbcL	43.72634945	-77.7101179040839	0

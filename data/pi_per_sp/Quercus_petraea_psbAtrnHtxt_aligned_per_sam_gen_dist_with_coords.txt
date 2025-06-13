@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_petraea	OM935574.1	03-MAY-2022	502	Poland: Arboretum Kostrzyca Forest Gene Bank	primary	psbA-trnH	50.81699794	15.77673994	0.00687135412945002
+Quercus_petraea	OQ990791.1	13-AUG-2023	519	Italy: Calabria	secondary	psbA-trnH	39.0565974	16.5249864	0.00185297919189232
+Quercus_petraea	FJ493282.1	22-DEC-2008	567	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.010387224371692
+Quercus_petraea	HE966770.1	18-SEP-2012	468	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00982223176103392
+Quercus_petraea	HE591314.1	30-SEP-2011	573	Greece	secondary	psbA-trnH	43.2097838	-77.6930602	0.00223700610720347
+Quercus_petraea	HE591307.1	30-SEP-2011	571	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0.00347520354800174
+Quercus_petraea	HE591284.1	30-SEP-2011	573	Italy:Latium	secondary	psbA-trnH	42.1917601670696	12.3898315715111	0.00223700610720347
+Quercus_petraea	HE591283.1	30-SEP-2011	571	Bulgaria:Rila	secondary	psbA-trnH	42.110495	23.5155922	0.00347520354800174
+Quercus_petraea	HE591282.1	30-SEP-2011	572	Italy:Piedmont	secondary	psbA-trnH	45.4738717959377	8.78982625113593	0.00223700610720347
+Quercus_petraea	HE591274.1	30-SEP-2011	571	Italy:Sicily	secondary	psbA-trnH	37.587794	14.155048	0.00223952529720869
+Quercus_petraea	FN687497.1	16-MAR-2010	572	Italy:Piedmont	secondary	psbA-trnH	45.4230852487778	8.08712819694993	0.00223700610720347
+Quercus_petraea	FN687496.1	16-MAR-2010	573	Italy:Umbria	secondary	psbA-trnH	42.965916	12.490236	0.00223700610720347
+Quercus_petraea	FN687495.1	16-MAR-2010	573	Italy:Latium	secondary	psbA-trnH	41.3694621398066	12.0476372729975	0.00223700610720347

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphrasia_wettsteinii	MG224177.1	26-DEC-2017	552	Canada: Manitoba, La Perouse Bay, across river.	primary	rbcL	59.75	-94.5	0.0810668799799235
+Euphrasia_wettsteinii	MG223347.1	26-DEC-2017	552	Canada: Ontario, Kenora Dist., Patricia Portion, Coastal area ca. 3 mi W of mouth of Shagamu River	primary	rbcL	55.883	-86.85	0.0810668799799235
+Euphrasia_wettsteinii	MG222496.1	26-DEC-2017	552	Canada: Ontario, Cochrane Dist., Kenogami Cedar Swamp candidate nature reserve, W. side of Kenogami River, ca. 1km S Goose Island, ca. 10 km S Kingfisher River, ca. 119 km NW Hearst	primary	rbcL	50.568	-84.497	0.0810668799799235
+Euphrasia_wettsteinii	MG223311.1	26-DEC-2017	553	Canada: Ontario	secondary	rbcL	50.7215083597675	-85.9909422138422	0.0809039604621652
+Euphrasia_wettsteinii	MG222976.1	26-DEC-2017	552	Canada: Ontario, Kenora Dist., Peawanuck, winter road	secondary	rbcL	43.72634945	-77.7101179040839	0.0810668799799235
+Euphrasia_wettsteinii	MG221487.1	26-DEC-2017	552	Canada: Nunavut, Akimiski Island, S of camp.	secondary	rbcL	74.08295045	-94.3110795713201	0.082649476127737
+Euphrasia_wettsteinii	MG221272.1	26-DEC-2017	553	Canada: Ontario	secondary	rbcL	49.9361628205981	-85.1592294407341	0.0809039604621652
+Euphrasia_wettsteinii	EU040318.1	31-JUL-2008	792	Russia: north-west	secondary	rbcL	46.8274696	-100.8104868	0.565619326909649

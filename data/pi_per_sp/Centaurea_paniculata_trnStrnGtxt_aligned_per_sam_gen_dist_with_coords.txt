@@ -1,0 +1,30 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_paniculata	MH627828.1	19-FEB-2020	625	France: Alpes-Maritimes, Foret d Esterell	secondary	trnS-trnG	44.3378516081496	8.09975477020606	0.00195023041474654
+Centaurea_paniculata	MH627827.1	19-FEB-2020	625	France: Alpes-Maritimes, Foret d Esterell	secondary	trnS-trnG	43.9406193761586	6.7195816559386	0.00195023041474654
+Centaurea_paniculata	MH627826.1	19-FEB-2020	625	France: Alpes-Maritimes, Foret d Esterell	secondary	trnS-trnG	44.3999349608104	6.05214591850651	0.00195023041474654
+Centaurea_paniculata	MH627825.1	19-FEB-2020	625	Italy: Imperia, Ventimiglia to Porra	secondary	trnS-trnG	44.5078112122239	8.15256231921927	0.00195023041474654
+Centaurea_paniculata	MH627824.1	19-FEB-2020	625	Italy: Imperia, Ventimiglia to Porra	secondary	trnS-trnG	43.4528714556286	8.53021858274205	0.00195023041474654
+Centaurea_paniculata	MH627823.1	19-FEB-2020	625	Italy: Imperia, Ventimiglia to Porra	secondary	trnS-trnG	44.2163341785455	7.21455507362837	0.00195023041474654
+Centaurea_paniculata	MH627822.1	19-FEB-2020	625	Italy: Savona, Toirano	secondary	trnS-trnG	44.8128189144431	8.1497802589484	0.00131797235023042
+Centaurea_paniculata	MH627821.1	19-FEB-2020	625	Italy: Savona, Toirano	secondary	trnS-trnG	44.3601341477419	7.80808026050049	0.00275023041474654
+Centaurea_paniculata	MH627820.1	19-FEB-2020	625	Italy: Savona, Toirano	secondary	trnS-trnG	43.7741189051281	8.14707226848684	0.00275023041474654
+Centaurea_paniculata	MH627819.1	19-FEB-2020	630	Italy: Genova, Chiavari	secondary	trnS-trnG	44.3544599289597	9.82723987446784	0.00131797235023042
+Centaurea_paniculata	MH627818.1	19-FEB-2020	630	Italy: Genova, Chiavari	secondary	trnS-trnG	44.803676728626	8.93782103884476	0.00131797235023042
+Centaurea_paniculata	MH627817.1	19-FEB-2020	630	Italy: Genova, Chiavari	secondary	trnS-trnG	43.9867476293009	10.415315018798	0.00131797235023042
+Centaurea_paniculata	MH627816.1	19-FEB-2020	630	Italy: Pisa, Marina di Vecchiano	secondary	trnS-trnG	43.613731161588	10.7090378278014	0.00131797235023042
+Centaurea_paniculata	MH627815.1	19-FEB-2020	630	Italy: Pisa, Marina di Vecchiano	secondary	trnS-trnG	43.8090555875362	11.2173310254742	0.00131797235023042
+Centaurea_paniculata	MH627814.1	19-FEB-2020	630	Italy: Pisa, Marina di Vecchiano	secondary	trnS-trnG	44.5160007465696	10.3991162612801	0.00131797235023042
+Centaurea_paniculata	MH627813.1	19-FEB-2020	620	Italy: Pisa, Migliarino	secondary	trnS-trnG	44.1587755509948	9.92612906724267	0.00207373271889401
+Centaurea_paniculata	MH627812.1	19-FEB-2020	620	Italy: Pisa, Migliarino	secondary	trnS-trnG	44.5115094129655	10.7899010743909	0.00207373271889401
+Centaurea_paniculata	MH627811.1	19-FEB-2020	630	Italy: Pisa, Migliarino	secondary	trnS-trnG	44.2374368459867	11.3988910949522	0.00131797235023042
+Centaurea_paniculata	MH627810.1	19-FEB-2020	620	Italy: Grosseto, Valpiana	secondary	trnS-trnG	42.3056604484586	11.1720147485841	0.00207373271889401
+Centaurea_paniculata	MH627809.1	19-FEB-2020	620	Italy: Grosseto, Valpiana	secondary	trnS-trnG	42.5160894069815	10.7606804420777	0.00207373271889401
+Centaurea_paniculata	MH627808.1	19-FEB-2020	620	Italy: Grosseto, Valpiana	secondary	trnS-trnG	42.5903556734665	11.4491651868603	0.00207373271889401
+Centaurea_paniculata	MH627807.1	19-FEB-2020	620	Italy: Grosseto, Argentario	secondary	trnS-trnG	42.0454384820681	10.3398033873154	0.00207373271889401
+Centaurea_paniculata	MH627806.1	19-FEB-2020	620	Italy: Grosseto, Argentario	secondary	trnS-trnG	42.408930825598	11.3100552553791	0.00207373271889401
+Centaurea_paniculata	MH627805.1	19-FEB-2020	620	Italy: Grosseto, Argentario	secondary	trnS-trnG	42.477797554358	11.221038183678	0.00207373271889401
+Centaurea_paniculata	MH627804.1	19-FEB-2020	625	Italy: Savona, Spotorno	secondary	trnS-trnG	44.3340285206577	9.54654749239357	0.00131797235023042
+Centaurea_paniculata	MH627803.1	19-FEB-2020	626	Italy: Savona, Spotorno	secondary	trnS-trnG	44.4770557285995	7.91666905501267	0.00286451612903226
+Centaurea_paniculata	MH627802.1	19-FEB-2020	625	France: Alpes-Maritimes, Col Eze2	secondary	trnS-trnG	43.9775652137309	7.37854785348446	0.00326820276497696
+Centaurea_paniculata	MH627801.1	19-FEB-2020	625	France: Alpes-Maritimes, Col Eze	secondary	trnS-trnG	43.6174735375939	7.00474262640385	0.00326820276497696
+Centaurea_paniculata	MH627800.1	19-FEB-2020	625	France: Alpes-Maritimes, Col Eze	secondary	trnS-trnG	42.9908433251645	6.97486086074905	0.00326820276497696

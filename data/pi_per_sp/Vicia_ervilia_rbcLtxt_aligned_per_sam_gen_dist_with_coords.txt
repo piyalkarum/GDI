@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_ervilia	KP896733.1	13-OCT-2015	545	Iran	secondary	rbcL	32.6475314	54.5643516	0
+Vicia_ervilia	KP896732.1	13-OCT-2015	545	Syria	secondary	rbcL	34.6401861	39.0494106	0
+Vicia_ervilia	KP896731.1	13-OCT-2015	545	Jordan	secondary	rbcL	44.6663146	-93.6261918	0
+Vicia_ervilia	KP896730.1	13-OCT-2015	545	Morocco	secondary	rbcL	28.3347722	-10.3713379	0
+Vicia_ervilia	KP896729.1	13-OCT-2015	545	Turkey	secondary	rbcL	38.9597594	34.9249653	0

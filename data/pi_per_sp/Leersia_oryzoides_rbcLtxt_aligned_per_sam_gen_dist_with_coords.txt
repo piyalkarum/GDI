@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leersia_oryzoides	MF596857.1	28-FEB-2018	603	USA: California, Shasta Co., Along hwy 89, 0.6 mi N of Clark Creek Road (FS-50).	primary	rbcL	41.005	-121.633	0.000208333333333333
+Leersia_oryzoides	MF596856.1	28-FEB-2018	603	USA: New Hampshire, Cheshire, Nye Road, N of Hwy 9.	primary	rbcL	42.1068576336528	-71.5219060474212	0.000208333333333333
+Leersia_oryzoides	MF596855.1	28-FEB-2018	603	USA: New York, Tomkins, 0.6 mi SW of Hwy 96B in Danby. At Jennings Pond, Bald Hill road & Lieb road junction.	primary	rbcL	43.2196288266149	-76.0444888331587	0.000208333333333333
+Leersia_oryzoides	MG227561.1	23-JAN-2018	603	USA: New York, Tomkins, 0.6 mi SW of Hwy 96B in Danby. At Jennings Pond, Bald Hill road & Lieb road junction.	primary	rbcL	43.6588836111366	-75.9475521649373	0.000208333333333333
+Leersia_oryzoides	MG226825.1	23-JAN-2018	531	Canada: British Columbia, Osoyoos, Mica Spit	primary	rbcL	49.054	-119.464	0.000234741784037559
+Leersia_oryzoides	MG226494.1	23-JAN-2018	603	USA: New Hampshire, Cheshire, Nye Road, N of Hwy 9.	primary	rbcL	42.1741681548084	-71.6339649342236	0.000208333333333333
+Leersia_oryzoides	MG226070.1	23-JAN-2018	553	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay	primary	rbcL	45.515	-73.742	0.000234741784037559
+Leersia_oryzoides	KJ841375.1	04-NOV-2014	547	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	rbcL	45.548	-73.152	0.000245098039215686
+Leersia_oryzoides	KP056884.1	28-FEB-2015	1096	South Korea: Iksan-si, Jeollabuk-do	secondary	rbcL	35.9479291	126.9578025	0.00212121177760711
+Leersia_oryzoides	KP056883.1	28-FEB-2015	1096	South Korea: Paju-si, Gyeonggi-do	secondary	rbcL	37.7598955	126.7801502	0.000182481751824818
+Leersia_oryzoides	FN870396.1	17-MAY-2012	1349	Portugal:Azores	secondary	rbcL	37.8085564	-25.4731374	0.000182481751824818

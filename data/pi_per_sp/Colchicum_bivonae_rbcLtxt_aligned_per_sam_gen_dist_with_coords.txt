@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Colchicum_bivonae	KX139585.1	26-APR-2017	527	Turkey: Canakkale	secondary	rbcL	40.4535442305753	27.0336763109236	0.0016892503253393
+Colchicum_bivonae	KX139584.1	26-APR-2017	556	Turkey: Tekirdag	secondary	rbcL	40.9913019	27.3676293	0.00286081842562497
+Colchicum_bivonae	KX139583.1	26-APR-2017	514	Turkey: Canakkale	secondary	rbcL	40.7405812880846	26.3908438919505	0.00171674745093607
+Colchicum_bivonae	KX139582.1	26-APR-2017	497	Turkey: Bolu	secondary	rbcL	40.8127785430645	32.2025086483126	0.00202427646045047
+Colchicum_bivonae	KX139581.1	26-APR-2017	597	Turkey: Bolu	secondary	rbcL	41.2017182374278	32.1744350167795	0.00668483636642722
+Colchicum_bivonae	KX139580.1	26-APR-2017	549	Turkey: Yalova	secondary	rbcL	40.5928976	29.0776117	0.00119390526320064
+Colchicum_bivonae	KX139579.1	26-APR-2017	506	Turkey: Bilecik	secondary	rbcL	40.1435101	29.9752911	0.00449643506796898
+Colchicum_bivonae	KX139578.1	26-APR-2017	543	Turkey: Ankara	secondary	rbcL	39.9207759	32.8540497	0.00191267056781259
+Colchicum_bivonae	KX139577.1	26-APR-2017	512	Turkey: Istanbul	secondary	rbcL	41.0766019	29.052495	0.00271103629045311

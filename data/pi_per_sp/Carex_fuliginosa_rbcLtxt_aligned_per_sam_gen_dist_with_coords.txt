@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_fuliginosa	MG228116.1	23-JAN-2018	552	Canada: Nunavut, Qarlikturvik Valley, Juste avante les moraines au front de la petite langue pente abrupte mesique a thurfurs	primary	rbcL	73.2309	-79.801	0.00176180408738548
+Carex_fuliginosa	MG227192.1	23-JAN-2018	668	Canada: Nunavut, Baffin Island, Baffin Island, vicinity of Mary River	primary	rbcL	71.4269959124896	-81.7133877936085	0.00880902043692742
+Carex_fuliginosa	FJ548257.1	25-AUG-2009	668	Canada: Nunuavut, Baffin Island	primary	rbcL	71.9219891393965	-82.8262371068828	0.00880902043692742
+Carex_fuliginosa	KT960716.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.062233715776	-22.2473079104265	0.00176180408738548
+Carex_fuliginosa	KT960586.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.8816030174648	-22.7160252253136	0.00176180408738548
+Carex_fuliginosa	KT960519.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.71275879908	-21.4931749793036	0.00176180408738548
+Carex_fuliginosa	KC482271.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Katapik. Area from coast up to top of rocky ridge behind	primary	rbcL	56.733	-79.383	0.00176180408738548
+Carex_fuliginosa	KC482270.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.644	-115.493	0.00176180408738548
+Carex_fuliginosa	KC482269.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, 2-3 km SE of Paulatuk	primary	rbcL	69.4056	-124.081	0.00176180408738548
+Carex_fuliginosa	KC482268.1	25-OCT-2013	552	Canada: Nunavut, Nunavut Mainland, Meliadine River Park, Between Sandy' and 'Calf' Lakes west of Meliadine esker at 55 K/16 415729, 10 km N of Rankin Inlet, Meliadine River Park study area, Hudson Bay'	primary	rbcL	62.883	-92.183	0.00176180408738548
+Carex_fuliginosa	KC482267.1	25-OCT-2013	552	Canada: Nunavut, Lower Savage Is., V-shaped lake 1.5 km S of Savage Harbour	primary	rbcL	61.819	-65.71	0.00176180408738548
+Carex_fuliginosa	KC482266.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vicinity of Holman Island Airport, Uluhaktok	primary	rbcL	70.758	-117.79	0.00176180408738548

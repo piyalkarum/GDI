@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anagallis_arvensis	OL434791.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1174	-81.138	0
+Anagallis_arvensis	MG223353.1	26-DEC-2017	552	Canada: Ontario, York R. M., Whitchurch-Strouffville, 1.5 km SSE of Musselman Lk.	primary	rbcL	44.017	-79.283	0
+Anagallis_arvensis	MG222045.1	26-DEC-2017	553	Canada: Ontario, Wellington, Wellington, Elora Research Station	primary	rbcL	43.6833	-80.4333	0
+Anagallis_arvensis	MG221827.1	26-DEC-2017	553	Canada: Ontario, Huron, Huron, Grand Bend	primary	rbcL	43.3167	-81.75	0
+Anagallis_arvensis	KT695585.1	29-SEP-2015	517	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0
+Anagallis_arvensis	JN893430.1	07-MAR-2012	542	United Kingdom: Cornwall, West with Scilly (1)	primary	rbcL	50.32	-5.23	0
+Anagallis_arvensis	JN890701.1	07-MAR-2012	524	United Kingdom	primary	rbcL	53.19	-4.45	0
+Anagallis_arvensis	OQ392113.1	10-MAY-2023	528	Peru	secondary	rbcL	-6.25945361016525	-74.9296688604846	0.000450937950937951
+Anagallis_arvensis	OQ391649.1	10-MAY-2023	528	Peru	secondary	rbcL	-5.99908955948752	-75.2356390536173	0.000450937950937951
+Anagallis_arvensis	OQ391469.1	10-MAY-2023	528	Peru	secondary	rbcL	-7.53580306813047	-75.0710468866992	0.000450937950937951
+Anagallis_arvensis	OP711272.1	26-DEC-2022	570	Mexico: Puebla	secondary	rbcL	19.1721942588419	-98.5100508911715	0.000270562770562771
+Anagallis_arvensis	OP711271.1	26-DEC-2022	570	Mexico: Puebla	secondary	rbcL	18.5923089658922	-98.8698799965547	0.000270562770562771
+Anagallis_arvensis	OP711236.1	26-DEC-2022	571	Mexico: Puebla	secondary	rbcL	19.6777566123192	-99.1645516693318	0.000270562770562771
+Anagallis_arvensis	MG223321.1	26-DEC-2017	552	Canada: Ontario, Toronto, City of, North York, E side of Medical Centre just E of Leslie St., next to sidewalk	secondary	rbcL	43.1277876496228	-77.8353059342565	0
+Anagallis_arvensis	MG222908.1	26-DEC-2017	552	Canada: Ontario, Durham R. M., Bowmanville, E of Bowmanville, N of Hwy 401, Tree Nursery of Brookdale Kingsway	secondary	rbcL	43.7567258949225	-76.9485431646806	0
+Anagallis_arvensis	MG221839.1	26-DEC-2017	552	Canada: Ontario, Toronto, City of, Scarborough, Bluffer's Park, Extension of Brimley Rd. in hedge border W side of marina basin	secondary	rbcL	43.3414486306019	-78.1440866712166	0
+Anagallis_arvensis	MG221612.1	26-DEC-2017	552	Canada: Ontario, Toronto, City of, Valleys of the Rouge, Section II	secondary	rbcL	43.5288312795534	-77.1120436383144	0
+Anagallis_arvensis	KX298977.1	06-FEB-2017	711	Egypt	secondary	rbcL	26.2540493	29.2675469	0.000339978291873336
+Anagallis_arvensis	KJ204298.1	29-JAN-2015	541	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0
+Anagallis_arvensis	HM849770.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000339978291873336
+Anagallis_arvensis	JN893015.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Anagallis_arvensis	JN893014.1	07-MAR-2012	542	United Kingdom: Radnorshire	secondary	rbcL	52.4627049	-3.2561628	0

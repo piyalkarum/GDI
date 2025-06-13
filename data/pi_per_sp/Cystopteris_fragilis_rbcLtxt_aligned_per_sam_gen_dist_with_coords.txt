@@ -1,0 +1,23 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cystopteris_fragilis	MG215521.1	24-JAN-2018	552	Canada: Alberta, Wood Buffalo National Park, Salt River Hibernaculum, picnic area	primary	rbcL	59.817	-111.783	0.0033907626581569
+Cystopteris_fragilis	MG215031.1	24-JAN-2018	552	Canada: Yukon Territory, Peel River, site #1	primary	rbcL	65.968	-134.828	0.00285610924062462
+Cystopteris_fragilis	KT960680.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.8750043339109	-18.5483655181665	0.00285610924062462
+Cystopteris_fragilis	KT960524.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.2730751009024	-21.5341236945106	0.00285610924062462
+Cystopteris_fragilis	KC482472.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour	primary	rbcL	62.853	-67.344	0.00285610924062462
+Cystopteris_fragilis	KC482471.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Upper slope of Lookout Hill	primary	rbcL	68.689	-122.283	0.00445505159015786
+Cystopteris_fragilis	KC482470.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. Camp on Harp Seal Lake, 35 km SW of Sanikiluaq	primary	rbcL	56.317	-79.444	0.00445505159015786
+Cystopteris_fragilis	KC482469.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of cliffs on S shore of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.242	-116.546	0.00445505159015786
+Cystopteris_fragilis	KC482468.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Small cliff south of camp, ca. 10 km north of Coronation Gulf coast, 13 km north of point	primary	rbcL	68.703	-112.653	0.00445505159015786
+Cystopteris_fragilis	KC482467.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. The Bluff, approximately 6 km NW of Sanikiluaq, halfway up west peninsula	primary	rbcL	56.647	-79.364	0.00445505159015786
+Cystopteris_fragilis	MW620348.1	04-JAN-2022	1308	Mexico: Puebla	secondary	rbcL	18.8742124205289	-98.4128743342943	0.00532676235486796
+Cystopteris_fragilis	MW620268.1	04-JAN-2022	1308	Mexico: Puebla	secondary	rbcL	19.2865723976199	-99.124254714227	0.00611211403148738
+Cystopteris_fragilis	MW620217.1	04-JAN-2022	1308	Mexico: Puebla	secondary	rbcL	18.7722472994732	-98.5081463098526	0.00476793087843152
+Cystopteris_fragilis	MZ771321.1	11-DEC-2021	519	Mexico:Oaxaca	secondary	rbcL	17.3868257368427	-96.7296782975706	0.00434440817990255
+Cystopteris_fragilis	MZ771320.1	11-DEC-2021	519	Mexico:Oaxaca	secondary	rbcL	16.4053645370865	-96.4729669021376	0.00434440817990255
+Cystopteris_fragilis	JN168009.1	23-NOV-2011	1269	China	secondary	rbcL	35.000074	104.999927	0.0253635441616339
+Cystopteris_fragilis	KP899658.1	01-SEP-2015	1234	Spain: LR,Villoslada de Cameros	secondary	rbcL	42.0813249	-2.6763676	0.00397353049697939
+Cystopteris_fragilis	AB574938.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.00407979141045746
+Cystopteris_fragilis	JX874044.1	07-MAY-2013	1309	Canada: Ontario. Manitoulin District.	secondary	rbcL	45.8338906	-82.4634933	0.014487964927108
+Cystopteris_fragilis	JX874043.1	07-MAY-2013	1309	USA: Colorado. Park County.	secondary	rbcL	39.1089299	-105.7561639	0.00407174456503915
+Cystopteris_fragilis	JX874042.1	07-MAY-2013	1309	USA: Utah. Salt Lake County.	secondary	rbcL	40.6632297	-111.9103124	0.00386277983031164
+Cystopteris_fragilis	JF832062.1	24-JAN-2012	1309	Sweden: Uppsala	secondary	rbcL	59.8586126	17.6387436	0.00386277983031164

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_lachenalii	KP979899.1	21-SEP-2015	209	USA	secondary	G3pdh	38.7891083297504	-86.4876043303416	0
+Carex_lachenalii	KP979898.1	21-SEP-2015	209	USA	secondary	G3pdh	39.8258358560797	-85.5798285539955	0
+Carex_lachenalii	KP979896.1	21-SEP-2015	209	USA	secondary	G3pdh	39.7471617512876	-86.8047945756494	0
+Carex_lachenalii	KP979851.1	21-SEP-2015	209	Canada	secondary	G3pdh	55	-69	0
+Carex_lachenalii	KP979826.1	21-SEP-2015	209	USA	secondary	G3pdh	33.485706	-114.599384260147	0
+Carex_lachenalii	KP979818.1	21-SEP-2015	209	USA	secondary	G3pdh	40.1316870083926	-87.4270093078905	0

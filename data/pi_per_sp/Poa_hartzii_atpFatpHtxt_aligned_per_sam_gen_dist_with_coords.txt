@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_hartzii	KC476209.1	25-OCT-2013	364	Canada: Nunavut, Axel Heiberg Island, Large river delta on Nansen Sound, 14 km W of Stang Bay	primary	atpF-atpH	80.55	-90.68	0
+Poa_hartzii	KC476208.1	25-OCT-2013	364	Canada: Nunavut, Ellesmere Island, Eureka, near shore on north side of Station Creek	primary	atpF-atpH	80	-85.95	0
+Poa_hartzii	KC476207.1	25-OCT-2013	409	Canada: Nunavut, Ellesmere Island, Hazen Camp, on N shore of Lake Hazen, Ellesmere Island National Park Reserve, vicinity of camp	primary	atpF-atpH	81.82	-76.87	0
+Poa_hartzii	KC476206.1	25-OCT-2013	364	Canada: Nunavut, Ellesmere Island, Tanquary Camp, Ellesmere Island National Park Reserve, gravel floodplain of the MacDonald River	primary	atpF-atpH	81.4	-76.87	0
+Poa_hartzii	KC476205.1	25-OCT-2013	364	Canada: Nunavut, Two Basin Lake, 23 km ESE of Eureka airstrip. Slumping bank 1.5-2 m high at edge of Ridge Lake	primary	atpF-atpH	79.93	-84.67	0
+Poa_hartzii	KC476204.1	25-OCT-2013	364	Canada: Nunavut	primary	atpF-atpH	69.12	-105.05	0

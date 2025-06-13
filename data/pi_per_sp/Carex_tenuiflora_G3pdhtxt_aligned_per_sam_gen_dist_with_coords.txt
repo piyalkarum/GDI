@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_tenuiflora	KP979878.1	21-SEP-2015	209	Russia	secondary	G3pdh	69.0866613	33.7360441	0
+Carex_tenuiflora	KP979871.1	21-SEP-2015	209	Russia	secondary	G3pdh	50.22716045	136.882551755261	0
+Carex_tenuiflora	KP979861.1	21-SEP-2015	209	Russia	secondary	G3pdh	59.5604768	150.7988617	0
+Carex_tenuiflora	KP979849.1	21-SEP-2015	209	Canada	secondary	G3pdh	49.25783145	-123.246241986222	0
+Carex_tenuiflora	KP979834.1	21-SEP-2015	209	Canada	secondary	G3pdh	46.8137431	-71.2084061	0
+Carex_tenuiflora	KP979830.1	21-SEP-2015	209	USA	secondary	G3pdh	39.4703246	-86.6413912	0

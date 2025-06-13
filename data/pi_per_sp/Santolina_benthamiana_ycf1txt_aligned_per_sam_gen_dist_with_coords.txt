@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Santolina_benthamiana	LC720495.1	09-DEC-2022	510	France	secondary	ycf1	46.2937759591695	1.4929487770761	0.004
+Santolina_benthamiana	LC720494.1	09-DEC-2022	510	France	secondary	ycf1	47.1335792253808	1.304445110198	0.004
+Santolina_benthamiana	LC720493.1	09-DEC-2022	510	France	secondary	ycf1	47.3428331152105	1.80634523108121	0.004
+Santolina_benthamiana	LC720492.1	09-DEC-2022	500	France	secondary	ycf1	47.1948681136323	2.26972077510837	0.004
+Santolina_benthamiana	LC720491.1	09-DEC-2022	500	France	secondary	ycf1	47.1165611949827	1.8511476157741	0.004
+Santolina_benthamiana	LC720490.1	09-DEC-2022	500	France	secondary	ycf1	46.8996352317968	1.62024858532132	0.0056

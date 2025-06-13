@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrimonia_pilosa	LC660107.1	20-APR-2022	362	Japan:Kanagawa, Hakonemachi	secondary	psbA-trnH	35.3343229719722	140.036913959217	0.00627041330109341
+Agrimonia_pilosa	LC660106.1	20-APR-2022	426	Japan:Kanagawa, Hakonemachi	secondary	psbA-trnH	35.6097488929429	139.558513217759	0.00755534674210306
+Agrimonia_pilosa	LC660105.1	20-APR-2022	360	Japan:Kanagawa, Hakonemachi	secondary	psbA-trnH	35.8376574976919	139.706343609211	0.00500637228964332
+Agrimonia_pilosa	LC660101.1	20-APR-2022	425	Japan:Toyama	secondary	psbA-trnH	36.6468015	137.2183531	0.0173739134817658
+Agrimonia_pilosa	LC660098.1	20-APR-2022	313	Japan:Nagano, Shinanomachi	secondary	psbA-trnH	36.8208348	138.1934138	0.0125221244710706
+Agrimonia_pilosa	LC660095.1	20-APR-2022	380	Japan:Nagano, Hirayamura	secondary	psbA-trnH	35.3236732	137.6305497	0.00630517858140338

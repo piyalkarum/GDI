@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_durieui	HE649526.1	04-FEB-2013	616	Algeria	secondary	ITS	28.0000272	2.9999825	0
+Gagea_durieui	HE649525.1	04-FEB-2013	616	Spain	secondary	ITS	39.4610905056093	-4.11776574280519	0
+Gagea_durieui	HE649524.1	04-FEB-2013	616	Spain	secondary	ITS	39.9503478512133	-5.57834954136123	0
+Gagea_durieui	HE649523.1	04-FEB-2013	616	Morocco	secondary	ITS	28.3347722	-10.3713379	0

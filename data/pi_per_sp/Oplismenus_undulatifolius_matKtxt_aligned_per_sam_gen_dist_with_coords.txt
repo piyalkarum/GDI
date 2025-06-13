@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oplismenus_undulatifolius	OM935808.1	08-NOV-2022	638	Indonesia	primary	matK	-1.95	103.25	0.0141065830721003
+Oplismenus_undulatifolius	KF163745.1	28-OCT-2013	1023	South Korea	secondary	matK	36.8919558603744	128.503615558328	0.00282131661442006
+Oplismenus_undulatifolius	KF163744.1	28-OCT-2013	1023	South Korea	secondary	matK	36.3569285509316	127.47907194792	0.00282131661442006
+Oplismenus_undulatifolius	KF163743.1	28-OCT-2013	1023	South Korea	secondary	matK	36.5484511776695	127.158650939181	0.00282131661442006
+Oplismenus_undulatifolius	HQ599988.1	02-AUG-2011	1310	South Korea	secondary	matK	36.6960443533128	128.518875401471	0.00282131661442006
+Oplismenus_undulatifolius	HQ599967.1	02-AUG-2011	1309	South Korea	secondary	matK	35.8762781854889	128.215956692388	0.00282131661442006

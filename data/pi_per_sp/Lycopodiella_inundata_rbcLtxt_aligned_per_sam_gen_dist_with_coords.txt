@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lycopodiella_inundata	MG215557.1	24-JAN-2018	552	Canada: Nova Scotia, Yarmouth County, Tusket River near Georges Lake	primary	rbcL	44.113	-65.743	0.000603864734299517
+Lycopodiella_inundata	MG215413.1	24-JAN-2018	551	Canada: Petawawa, ON	primary	rbcL	45.9	-77.2833	0.000604960677555959
+Lycopodiella_inundata	MG215279.1	24-JAN-2018	552	Canada: Ontario, Thunder Bay, PIC Township, Hwy 17, south of Marathon	primary	rbcL	48.7	-86.243	0.000603864734299517
+Lycopodiella_inundata	MG215257.1	24-JAN-2018	552	Canada: Ontario, Algoma Dist., Vicinity of Michipicoten Harbour, Soulier Lake.	primary	rbcL	48	-85	0.00273645251321203
+Lycopodiella_inundata	MG215214.1	24-JAN-2018	552	Canada: Ontario, Algoma County, northern outskirts of Sault Ste. Marie, abandoned gravel pit on west side of Maki Road, just south of Aubin Road	primary	rbcL	46.571	-84.418	0.000603864734299517
+Lycopodiella_inundata	MW801557.1	19-DEC-2021	1248	Sweden: Bohuslan	secondary	rbcL	58.3810286	11.4410261	0.000319897632757518
+Lycopodiella_inundata	AB574631.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0

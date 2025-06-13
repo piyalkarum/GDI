@@ -1,0 +1,45 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_arctica	MZ359292.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.00198636964615925
+Poa_arctica	MF596936.1	28-FEB-2018	603	Canada: Yukon Territory, Richardson Mountains, the Dempster Hwy (5) towards Inuvik.	primary	rbcL	67.009	-136.211	0.000211878884124126
+Poa_arctica	MG227202.1	23-JAN-2018	552	Canada: Nunavut, Baffin Island, Iqaluit	primary	rbcL	63.7745259977112	-68.5011229553426	0.00021072694986656
+Poa_arctica	KT960746.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1690871730714	-20.217825819009	0.00021072694986656
+Poa_arctica	KT960733.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	73.7116411375043	-19.2687695501181	0.00021072694986656
+Poa_arctica	KT960413.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.2559064186048	-19.0170818988841	0.00362638500874366
+Poa_arctica	KC483526.1	25-OCT-2013	552	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park,NW part	primary	rbcL	69.417	-139.633	0.00021072694986656
+Poa_arctica	KC483525.1	25-OCT-2013	552	Canada: Northwest Territories, Richards Island, Sven Lake, 4 km west of the east channel, Mackenzie River, drained lake basin.'	primary	rbcL	69.233	-134.333	0.00021072694986656
+Poa_arctica	KC483524.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Dundas Harbour, W of harbour mouth	primary	rbcL	74.8054030048587	-79.8004014507183	0.00021072694986656
+Poa_arctica	KC483523.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island (Nunavut), Cambridge Bay, On ridge above Freshwater Creek, between bridge and picnic area, 2.5-3 km NE of village	primary	rbcL	69.117	-105.05	0.00021072694986656
+Poa_arctica	KC483522.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Pond Inlet	primary	rbcL	72.78	-77	0.00021072694986656
+Poa_arctica	KC483521.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, abandoned weather station	primary	rbcL	76.24	-119.35	0.00021072694986656
+Poa_arctica	KC483520.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit. Disturbed road bank behind the Iqaluit Town Office	primary	rbcL	63.480141307478	-67.8696593635696	0.00021072694986656
+Poa_arctica	KC483519.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	rbcL	74.533	-82.783	0.00021072694986656
+Poa_arctica	KC483518.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Arctic Bay	primary	rbcL	73.7965672701786	-84.6349989368597	0.00021072694986656
+Poa_arctica	KC483517.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Nettilling Lake On west central side of Burwash Bay	primary	rbcL	66.033	-71.283	0.00021072694986656
+Poa_arctica	KC483516.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit. Flat meadow above beach just south east of Iqaluit along trail to Apex	primary	rbcL	64.383928536875	-68.9159417208919	0.00021072694986656
+Poa_arctica	KC483515.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, RCMP Post, Alexandra Fiord, between small river and Ptarmigan River E of RCMP Post	primary	rbcL	78.883	-75.75	0.00021072694986656
+Poa_arctica	KC483514.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Hazen Camp, on N shore of Lake Hazen, Ellesmere Island National Park Reserve	primary	rbcL	81.82	-76.87	0.00021072694986656
+Poa_arctica	KC483513.1	25-OCT-2013	521	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of cliffs on S shore of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.27	-116.439	0.000133910636968263
+Poa_arctica	KC483512.1	25-OCT-2013	552	Canada: Northwest Territories, NWT mainland, Tuktoyuktuk, near end of road to sewage pond ~ 5 km S of town	primary	rbcL	69.43	-133.05	0.00021072694986656
+Poa_arctica	KC483511.1	25-OCT-2013	552	Canada: Northwest Territories, NWT mainland, Richards Island, Illisarvik, Mackenzie Delta	primary	rbcL	69.48	-134.59	0.00021072694986656
+Poa_arctica	KC483510.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Region SW of camp, ca. 5 km north of Coronation Gulf coast, 8 km north of point	primary	rbcL	68.711	-112.697	0.00021072694986656
+Poa_arctica	KC483509.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Vincinity of Arctic Char Inn, Uluhaktok	primary	rbcL	70.736	-117.77	0.00021072694986656
+Poa_arctica	KC483508.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island, ~10 km SE of Sanikiluaq, along ATV trail heading to east coast of island	primary	rbcL	56.475	-79.219	0.00021072694986656
+Poa_arctica	KC483507.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit, Flat meadow above beach just south east of Iqaluit along trail to Apex	primary	rbcL	63.75	-68.6833	0.00021072694986656
+Poa_arctica	KC483506.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Expedition Fiord, McGill Univ. Field Camp on N side of Expedition River	primary	rbcL	79.4	-90.8	0.00021072694986656
+Poa_arctica	KC483505.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Adjacent to Kings Bay, across water from 'Old Holman', N side of Uluhaktok	primary	rbcL	70.735	-117.761	0.00021072694986656
+Poa_arctica	KC483504.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Alexandra Fiord, RCMP Post on S side of fiord	primary	rbcL	78.88	-75.75	0.00021072694986656
+Poa_arctica	KC483503.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Sawtooth Range, W side	primary	rbcL	79.73	-83.16	0.00021072694986656
+Poa_arctica	KC483502.1	25-OCT-2013	552	Canada: Northwest Territories, Melville Island, McCormick Inlet, ~10 km SW of head of inlet at river delta	primary	rbcL	75.78	-112.37	0.00021072694986656
+Poa_arctica	KC483501.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit. Disturbed road bank behind the Iqaluit Town Office	primary	rbcL	63.2189293782368	-69.3611273628864	0.00021072694986656
+Poa_arctica	KC483500.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq. Plot 3. By the large antenna (known locally as the Big Pole) at east end of town	primary	rbcL	56.6	-79.358	0.00021072694986656
+Poa_arctica	KC483499.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Masik River Valley, flat valley bottom, ~100m **from river	primary	rbcL	71.768289714323	-125.341505043622	0.00021072694986656
+Poa_arctica	KC483498.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Dundas Harbour, W of harbour mouth	primary	rbcL	75.0680572206105	-81.5486018845401	0.00021072694986656
+Poa_arctica	KC483497.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	rbcL	76.56	-118.86	0.00021072694986656
+Poa_arctica	KC483496.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Arctic Bay	primary	rbcL	72.6830832234965	-87.3437548577424	0.00021072694986656
+Poa_arctica	KC483495.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Iqaluit. Disturbed road bank behind the Iqaluit Town Office	primary	rbcL	63.8826678330806	-68.2799478666766	0.00021072694986656
+Poa_arctica	KC483494.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, East side of Hornaday River	primary	rbcL	68.3	-121.858	0.00021072694986656
+Poa_arctica	KC483493.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Hazen Camp, on N shore of Lake Hazen, Ellesmere Island National Park Reserve, slopes of Omingmak Mt	primary	rbcL	72.4230530449274	-123.092033418615	0.00021072694986656
+Poa_arctica	JN965743.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	rbcL	58.626	-94.23	0.00362638500874366
+Poa_arctica	JN965742.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0.00021072694986656
+Poa_arctica	JN965741.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality	primary	rbcL	58.732	-93.822	0.00021072694986656
+Poa_arctica	JN965740.1	27-OCT-2012	552	Canada: Manitoba, Churchill, unspecified locality	primary	rbcL	58.733	-93.808	0.00021072694986656

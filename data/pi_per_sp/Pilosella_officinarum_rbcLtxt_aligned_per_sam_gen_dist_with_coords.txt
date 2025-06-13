@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pilosella_officinarum	OR464841.1	26-SEP-2023	610	USA: Bishop's Bog Preserve, Portage, MI	primary	rbcL	42.18268921	-85.5987002	9.12408759124088e-05
+Pilosella_officinarum	MK965399.1	07-DEC-2019	488		primary	rbcL	32.35	-95.87	0
+Pilosella_officinarum	MK030061.1	16-OCT-2019	553	United Kingdom: England, Durham, Bishop auckland	primary	rbcL	54.1456503415059	-0.841728079120079	0.0016452433630769
+Pilosella_officinarum	MK030038.1	16-OCT-2019	553	United Kingdom: England, County Durham, Auckland Castle Park	primary	rbcL	54.6145622570698	-2.22782134526503	9.04159132007233e-05
+Pilosella_officinarum	MG224648.1	26-DEC-2017	518	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	rbcL	45.188	-81.417	0
+Pilosella_officinarum	MG224340.1	26-DEC-2017	552	Canada: Ontario, Ottawa, City of, South March Highlands, Kanata, 0.5 km W of Goulbourn Forced Rd., at S side of Watts Creek headwaters	primary	rbcL	45.325	-75.933	9.05797101449275e-05
+Pilosella_officinarum	MG223965.1	26-DEC-2017	552	Canada: Ontario, Muskoka D. M., Baxter Tp., Conc. VIII, Quarry Island, 4 km W of Maceys Bay Community	primary	rbcL	44.833	-79.817	9.05797101449275e-05
+Pilosella_officinarum	MG221928.1	26-DEC-2017	552	Canada: Nova Scotia, Lunenburg	primary	rbcL	44.376	-64.318	9.05797101449275e-05
+Pilosella_officinarum	MG221455.1	26-DEC-2017	553	Canada: Ontario, Wellington County, Guelph	primary	rbcL	43.5485	-80.2503	9.04159132007233e-05
+Pilosella_officinarum	HQ590133.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, in mowed lawn west of Echo Valley cottage	primary	rbcL	44.025	-79.53	9.04159132007233e-05
+Pilosella_officinarum	JN892167.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	9.22509225092251e-05
+Pilosella_officinarum	MG224633.1	26-DEC-2017	552	Canada: Ontario, Emily Tp., NE of Downeyville, 1884 Pigeon Lake Rd., Gamiing Nature Centre, City of Kawartha Lakes	secondary	rbcL	44.1132629630035	-77.5644685408467	9.05797101449275e-05
+Pilosella_officinarum	MG223505.1	26-DEC-2017	552	Canada: Ontario, Grey Co., Keppel Tp., Skinner Bluff ANSI, Niagara Escarpment plain, slope and terrace just E of Oxenden	secondary	rbcL	43.5313495635685	-78.0419872967492	9.05797101449275e-05
+Pilosella_officinarum	MG221439.1	26-DEC-2017	552	Canada: New Brunswick, Sevogle Bogan, ca. 25 mi. Nw. of Newcastle	secondary	rbcL	47.43950925	-68.3926909826309	9.05797101449275e-05
+Pilosella_officinarum	KX821237.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	56.1689321451932	8.58168783246879	9.19117647058824e-05
+Pilosella_officinarum	KX821236.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.3906715466271	8.00842028279788	9.19117647058824e-05
+Pilosella_officinarum	KX821235.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.0306844056695	6.74395058991626	9.19117647058824e-05
+Pilosella_officinarum	KX821234.1	02-SEP-2017	684	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	rbcL	57.0539888896363	6.74904642438342	9.19117647058824e-05
+Pilosella_officinarum	KJ746256.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	9.4876660341556e-05
+Pilosella_officinarum	JN891685.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	9.22509225092251e-05
+Pilosella_officinarum	JN891622.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	9.22509225092251e-05

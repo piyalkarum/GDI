@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubus_idaeus	EU701206.1	03-SEP-2008	655	Canada: Ontario	primary	COI	45.591	-78.521	0
+Rubus_idaeus	EU701205.1	03-SEP-2008	655	Canada: Ontario	primary	COI	45.227	-81.527	0
+Rubus_idaeus	EU701204.1	03-SEP-2008	655	Canada: Ontario	primary	COI	43.549	-80.199	0
+Rubus_idaeus	EU701203.1	03-SEP-2008	655	Canada: Ontario	primary	COI	43.05	-79.215	0
+Rubus_idaeus	EU701202.1	03-SEP-2008	655	Canada: Ontario	primary	COI	42.665	-81.824	0

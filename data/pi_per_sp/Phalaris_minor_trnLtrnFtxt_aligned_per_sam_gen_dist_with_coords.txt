@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phalaris_minor	KJ529409.1	22-FEB-2015	804	Spain	secondary	trnL-trnF	40.1153395507837	-5.2723921814448	0.00298756289267745
+Phalaris_minor	KF753794.1	11-DEC-2013	745	Spain	secondary	trnL-trnF	39.6271303042415	-5.5646897865899	0.0023489932885906
+Phalaris_minor	KF753793.1	11-DEC-2013	1304	Pakistan	secondary	trnL-trnF	30.3308401	71.247499	0.0035957290094619
+Phalaris_minor	KF753792.1	11-DEC-2013	745	Italy	secondary	trnL-trnF	42.6384261	12.674297	0.0023489932885906
+Phalaris_minor	JF951105.1	11-DEC-2011	1658	South Africa	secondary	trnL-trnF	-28.8166236	24.991639	0.00255644626455546

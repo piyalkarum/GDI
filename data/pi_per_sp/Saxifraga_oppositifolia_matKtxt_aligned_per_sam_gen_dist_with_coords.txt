@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_oppositifolia	MZ400425.1	07-DEC-2021	586	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.0461952044946813
+Saxifraga_oppositifolia	MK800518.1	04-FEB-2020	702	USA: Idaho, White Cloud Mountains, D.O. Lee Peak	primary	matK	44.10277	-114.62859	0.310836405517256
+Saxifraga_oppositifolia	KC475857.1	25-OCT-2013	732	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. The Bluff, approximately 6 km NW of Sanikiluaq, halfway up west peninsula	primary	matK	56.647	-79.364	0.0348680979677846
+Saxifraga_oppositifolia	MK926388.1	14-JAN-2020	925	United Kingdom	secondary	matK	55.1300023979502	-3.75913150499484	0.0318503843800612
+Saxifraga_oppositifolia	MK926188.1	14-JAN-2020	881	United Kingdom	secondary	matK	54.1146045560288	-2.9919668706276	0.0318659289814225
+Saxifraga_oppositifolia	MK925980.1	14-JAN-2020	879	United Kingdom	secondary	matK	54.4219697065935	-2.88631330420308	0.0329971808835441
+Saxifraga_oppositifolia	MK925729.1	14-JAN-2020	919	United Kingdom	secondary	matK	54.726152656095	-2.79942982855806	0.0318503843800612
+Saxifraga_oppositifolia	MK925695.1	14-JAN-2020	869	Svalbard	secondary	matK	78.7198519	20.3493328	0.0318613959941626
+Saxifraga_oppositifolia	MK925679.1	14-JAN-2020	872	United Kingdom	secondary	matK	54.6430623235688	-4.73862683330399	0.033516363031015
+Saxifraga_oppositifolia	MK925668.1	14-JAN-2020	904	United Kingdom	secondary	matK	54.3466982437208	-3.12496046500218	0.0334898818570257
+Saxifraga_oppositifolia	MK925618.1	14-JAN-2020	857	Iceland	secondary	matK	64.9841821	-18.1059013	0.031869452572829

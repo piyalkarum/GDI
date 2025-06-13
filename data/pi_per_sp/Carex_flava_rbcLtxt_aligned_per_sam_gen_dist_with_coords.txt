@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_flava	MG226772.1	23-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Pendall Point, BPNP	primary	rbcL	45.185	-81.602	0.000329380764163373
+Carex_flava	MG226539.1	23-JAN-2018	552	USA: Washington, Pend Oreille Co, S end of Sullivan Lk, near Noisy Crk Campground	primary	rbcL	48.79	-117.285	0.000329380764163373
+Carex_flava	KX679016.1	29-APR-2017	552	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, near small runoff/creek area	primary	rbcL	49.454	-120.996	0.000329380764163373
+Carex_flava	KX677808.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Strathcona Regional District, Strathcona Provincial Park, Buttle Lake	primary	rbcL	49.835	-125.627	0.000329380764163373
+Carex_flava	MW010896.1	27-JUL-2021	553	Canada: Newfoundland	secondary	rbcL	49.1212094	-56.6403111	0.00366583125300105
+Carex_flava	MW010850.1	27-JUL-2021	553	Canada: Nova Scotia	secondary	rbcL	45.1960403	-63.1653789	0.000328785138911721
+Carex_flava	MK924747.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.4149612549884	-3.18207486350268	0.000335457900033546
+Carex_flava	MK924741.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7424406527137	-4.60354793407547	0.000335457900033546
+Carex_flava	MK924455.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.106566661446	-2.43677401736457	0.000335457900033546
+Carex_flava	MK924434.1	14-JAN-2020	542	France	secondary	rbcL	46.603354	1.8883335	0.000335457900033546
+Carex_flava	MG227359.1	23-JAN-2018	552	USA: Vermont, Orleans Co, Along old logging rd going N from Hwy 105, 6.5 mi E of jct Hwy 105A near E Richford (and 2.6 mi E of Jay Richmond line)	secondary	rbcL	40.2942106	-90.4279033	0.000329380764163373
+Carex_flava	MG226926.1	23-JAN-2018	522	Canada: British Columbia, Malahat Land District, Oliphant Lk	secondary	rbcL	49.25783145	-123.246241986222	0.000348310693138279

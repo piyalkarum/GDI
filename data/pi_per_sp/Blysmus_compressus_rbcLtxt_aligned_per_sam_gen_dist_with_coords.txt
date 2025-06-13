@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Blysmus_compressus	JN893343.1	07-MAR-2012	542	United Kingdom: Breconshire	primary	rbcL	51.96	-3.17	0.000777166955343023
+Blysmus_compressus	MK924695.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3877048971558	-3.96503559121581	0.000777166955343023
+Blysmus_compressus	MK924616.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.0989218457985	-3.80885345331055	0.000777166955343023
+Blysmus_compressus	JX644600.1	13-NOV-2012	1295	China: Yunnan	secondary	rbcL	25	102	0.00240485383342526
+Blysmus_compressus	JN892661.1	07-MAR-2012	542	United Kingdom: Cornwall,WestwithScilly	secondary	rbcL	50.4433489	-4.62465658489158	0.000777166955343023
+Blysmus_compressus	AJ404700.1	01-AUG-2000	1408	Afghanistan	secondary	rbcL	33.7680065	66.2385139	0.00224821553234837

@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Jacobaea_erucifolia	KX166366.1	11-MAY-2016	448	United Kingdom	primary	cob	51.718029	-4.368272	0.462156379599977
+Jacobaea_erucifolia	KX166365.1	11-MAY-2016	448	United Kingdom	primary	cob	51.636752	-4.248416	0.462156379599977
+Jacobaea_erucifolia	KX166359.1	11-MAY-2016	448	United Kingdom	primary	cob	52.91666	-3.921489	0.462156379599977
+Jacobaea_erucifolia	KX166273.1	11-MAY-2016	448	United Kingdom	primary	cob	51.493999	-3.134	0.462156379599977
+Jacobaea_erucifolia	JN895354.1	07-MAR-2012	1029	United Kingdom: Monmouthshire	primary	cob	50.9815489700441	-2.89248838801087	0.382349326450048
+Jacobaea_erucifolia	JN895280.1	07-MAR-2012	790	United Kingdom: Monmouthshire (35)	primary	cob	51.6842718870081	-2.4264738406774	0.376174453734264
+Jacobaea_erucifolia	JN892981.1	07-MAR-2012	449	United Kingdom: Monmouthshire	primary	cob	51.9595231982999	-1.87546059761324	0.401629648345086
+Jacobaea_erucifolia	JN892024.1	07-MAR-2012	542	United Kingdom: Monmouthshire (35)	primary	cob	50.930838943032	-3.14554917050386	0.390209850114768
+Jacobaea_erucifolia	MK926324.1	14-JAN-2020	801	United Kingdom	secondary	cob	55.2731425056257	-3.89018179724543	0.376929685059244
+Jacobaea_erucifolia	MK924430.1	14-JAN-2020	542	United Kingdom	secondary	cob	54.1893689791081	-2.10075429329226	0.390209850114768
+Jacobaea_erucifolia	JN894731.1	07-MAR-2012	766	United Kingdom: Carmarthenshire	secondary	cob	52.0132259499819	-5.11213841683354	0.3741272437824
+Jacobaea_erucifolia	JN894730.1	07-MAR-2012	764	United Kingdom: Glamorgan	secondary	cob	51.5894308687675	-3.74252008615935	0.372944259943649
+Jacobaea_erucifolia	JN891722.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	cob	51.6043482191012	-4.62300897769414	0.390209850114768
+Jacobaea_erucifolia	JN891721.1	07-MAR-2012	541	United Kingdom: Glamorgan	secondary	cob	50.9796009672045	-2.56319461099285	0.39085960937291

@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Isolepis_setacea	MG227787.1	23-JAN-2018	508	Canada: British Columbia, between royal oak avenue & quadra street on outskirts of Victoria, Vancouver Island	primary	rbcL	48	-123	0
+Isolepis_setacea	MN192745.1	30-NOV-2021	723	China	secondary	rbcL	35.000074	104.999927	0
+Isolepis_setacea	AB983296.1	12-MAY-2015	1319	Nepal	secondary	rbcL	28.1083929	84.0917139	0.000152788388082506
+Isolepis_setacea	HM850078.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00030722854252266
+Isolepis_setacea	JX644698.1	13-NOV-2012	1295	China: Yunnan	secondary	rbcL	25	102	0.000154440154440154
+Isolepis_setacea	JN893564.1	07-MAR-2012	542	United Kingdom: Caernarvonshire	secondary	rbcL	53.0602065	-4.053882	0
+Isolepis_setacea	JN893563.1	07-MAR-2012	477	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Isolepis_setacea	JN892928.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4588679082577	-1.97832081805771	0
+Isolepis_setacea	JN892927.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.6885347591154	-3.49404558273174	0
+Isolepis_setacea	JN892383.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.0448053864134	-4.64988224892673	0
+Isolepis_setacea	JN892379.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0

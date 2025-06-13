@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_sempervirens	EU718031.1	31-MAY-2009	1255	Spain: Huesca, Panticosa	secondary	matK	43.5700724116119	-0.334507516150554	0.00119681274900398
+Antirrhinum_sempervirens	EU718030.1	31-MAY-2009	1255	Spain: Huesca, Plan	secondary	matK	42.5816022	0.3377467	0.000798406374501992
+Antirrhinum_sempervirens	EU718029.1	31-MAY-2009	1255	Spain: Huesca, Bielsa	secondary	matK	42.8130987966749	1.19363304119351	0.000798406374501992
+Antirrhinum_sempervirens	KJ911326.1	22-JUL-2014	1250	Spain: Huesca, Panticosa	secondary	matK	42.9756917571937	-0.323186286142116	0.0012
+Antirrhinum_sempervirens	KJ911325.1	22-JUL-2014	1250	Spain: Huesca, Bielsa	secondary	matK	43.0438778284507	1.13797565097468	8e-04

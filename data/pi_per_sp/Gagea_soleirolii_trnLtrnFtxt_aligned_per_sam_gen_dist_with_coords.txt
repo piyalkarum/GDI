@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_soleirolii	HE649672.1	04-FEB-2013	207	Italy:Sardinia	secondary	trnL-trnF	40.5504298480568	9.84885519325454	0
+Gagea_soleirolii	FM200220.1	23-JUL-2008	207	Portugal	secondary	trnL-trnF	39.6621648	-8.1353519	0
+Gagea_soleirolii	AM903070.1	30-OCT-2007	296	Italy:Sardinia	secondary	trnL-trnF	39.6219977690299	9.51229750176256	0
+Gagea_soleirolii	AM903069.1	30-OCT-2007	280	Italy:Sardinia	secondary	trnL-trnF	40.0426472773974	9.3811668354785	0

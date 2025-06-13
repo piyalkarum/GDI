@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cyperus_longus	JN896220.1	07-MAR-2012	784	United Kingdom: Shropshire (40)	primary	matK	52.72	-2.84	0.00133155792276964
+Cyperus_longus	HM850855.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.00523828857368634
+Cyperus_longus	JN895378.1	07-MAR-2012	803	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00132275132275132
+Cyperus_longus	JN894347.1	07-MAR-2012	821	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00258397932816537

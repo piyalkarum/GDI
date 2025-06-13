@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_uralensis	LC727816.1	09-MAR-2023	811	Japan:Yamanashi, Minami-alps	secondary	5.8S rRNA	35.6083617	138.4649893	0.00750459801825413
+Silene_uralensis	AJ831785.1	16-SEP-2004	811	Mongolia	secondary	5.8S rRNA	43.9382593	-79.2235563	0.00601811787121058
+Silene_uralensis	AJ831784.1	16-SEP-2004	821	Denmark:Greenland	secondary	5.8S rRNA	72.0255736466403	-39.3285542559978	0.00479632809545698
+Silene_uralensis	AJ831783.1	16-SEP-2004	798	Denmark:Greenland	secondary	5.8S rRNA	70.987202537051	-39.987613620927	0.00879907104333491
+Silene_uralensis	AJ831781.1	16-SEP-2004	832	USA:Alaska	secondary	5.8S rRNA	64.4459613	-149.680909	0.00538842493576977

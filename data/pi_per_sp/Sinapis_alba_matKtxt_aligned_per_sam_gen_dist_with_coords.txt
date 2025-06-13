@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sinapis_alba	JN895632.1	07-MAR-2012	807	United Kingdom: Glamorgan	primary	matK	51.51	-3.22	0.00935052774940415
+Sinapis_alba	MT917809.1	03-MAR-2023	770	China	secondary	matK	35.000074	104.999927	0.0229545701648719
+Sinapis_alba	MG924014.1	09-SEP-2018	1509	Germany	secondary	matK	34.895926	-83.4665496	0.00935052774940415
+Sinapis_alba	MG924013.1	09-SEP-2018	1509	Sweden	secondary	matK	59.6749712	14.5208584	0.00935052774940415
+Sinapis_alba	HM850738.1	23-JUL-2011	798	Portugal	secondary	matK	39.6621648	-8.1353519	0.00961488155030973
+Sinapis_alba	JN896230.1	07-MAR-2012	743	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00923633059617605
+Sinapis_alba	JN896229.1	07-MAR-2012	712	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.0393976634320735

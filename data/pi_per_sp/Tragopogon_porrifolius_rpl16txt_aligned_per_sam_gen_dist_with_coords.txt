@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tragopogon_porrifolius	FN687180.1	05-DEC-2010	1011	Spain:Jaen, Cazorla	secondary	rpl16	37.9128927	-3.0038873	0.00238652883907416
+Tragopogon_porrifolius	FN687179.1	05-DEC-2010	1011	Spain:Jaen, La Carolina	secondary	rpl16	38.2742478	-3.6152701	0.00171139913456298
+Tragopogon_porrifolius	FN687178.1	05-DEC-2010	1011	Spain:Granada, La Cortichuela	secondary	rpl16	37.1734995	-3.5995337	0.00171139913456298
+Tragopogon_porrifolius	EU391983.1	13-FEB-2008	967	Italy	secondary	rpl16	42.6384261	12.674297	0.00449050086355786

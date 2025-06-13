@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_penicillatus	MW448096.1	13-DEC-2021	556	Germany: Bayern (Bavaria), Pless	secondary	rps16	48.094701	10.1528034	0.00425714474292126
+Ranunculus_penicillatus	MW448093.1	13-DEC-2021	576	Germany: Bayern (Bavaria), Pretzabruck	secondary	rps16	49.3922004	12.1678299	0.00178901126886102
+Ranunculus_penicillatus	MW448095.1	13-DEC-2021	579	Czech Republic	secondary	rps16	49.9861773	16.1287426	0.00179894682913174
+Ranunculus_penicillatus	MW448094.1	13-DEC-2021	579	Czech Republic	secondary	rps16	50.6589287	14.7244345	0.0030005381257137

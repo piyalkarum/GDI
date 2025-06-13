@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ligustrum_vulgare	KP643122.1	08-DEC-2015	758	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	matK	38.892	-78.146	0.0161750133962075
+Ligustrum_vulgare	JN894788.1	07-MAR-2012	440	United Kingdom: Cardiganshire	primary	matK	52.43	-4.03	NA
+Ligustrum_vulgare	HQ619820.1	26-DEC-2010	837	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.0145162259016625
+Ligustrum_vulgare	KJ204499.1	29-JAN-2015	813	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00727198805401556
+Ligustrum_vulgare	HE966946.1	18-SEP-2012	751	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0277163225490446
+Ligustrum_vulgare	JN895660.1	07-MAR-2012	788	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.0073666067177717
+Ligustrum_vulgare	JN893855.1	07-MAR-2012	789	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00735909701865917
+Ligustrum_vulgare	AM933428.1	23-DEC-2010	1221	Switzerland:Lausanne	secondary	matK	46.5218269	6.6327025	NA
+Ligustrum_vulgare	FN668807.1	27-APR-2010	789	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.0101981730984217

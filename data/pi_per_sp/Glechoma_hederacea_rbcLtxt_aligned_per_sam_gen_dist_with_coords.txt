@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glechoma_hederacea	OR738103.1	13-NOV-2023	542	Kazakhstan: East Kazakhstan region	primary	rbcL	50.26611	83.22889	0
+Glechoma_hederacea	OR538513.1	17-OCT-2023	593	USA: Brother Rice High School Athletic Fields, Bloomfield Hills, MI	primary	rbcL	42.53511031	-83.25993229	0
+Glechoma_hederacea	OR464861.1	26-SEP-2023	600	USA: WMU Parking Lot 61, Kalamazoo, MI	primary	rbcL	42.28319225	-85.61890645	0
+Glechoma_hederacea	MK030067.1	16-OCT-2019	566	USA: Maine, Portland	primary	rbcL	43.6604	-70.262	0
+Glechoma_hederacea	KP643823.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.7271384747668	-78.4246166712022	0
+Glechoma_hederacea	KP643644.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	39.3375110979066	-77.952487511727	0
+Glechoma_hederacea	MG222445.1	26-DEC-2017	422	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, #2 trail	primary	rbcL	43.107	-79.275	0
+Glechoma_hederacea	MG221768.1	26-DEC-2017	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, South Shore Cootes Paradise, Princess Point	primary	rbcL	43.276	-79.897	0
+Glechoma_hederacea	HQ590122.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Joker's Hill East., S of N-most trail, approx. 500 m E of Dufferin	primary	rbcL	44.036	-79.524	0
+Glechoma_hederacea	KP402669.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, Cumberstone Rd. - on left side of road near gate before going down the hill to the CO2 site	primary	rbcL	38.87	-76.551	0
+Glechoma_hederacea	KP402652.1	06-JAN-2016	553	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, VINEL2 SWNE1	primary	rbcL	38.889	-76.551	0
+Glechoma_hederacea	KJ841350.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area infront of Gault House, along Lac Hertel	primary	rbcL	45.542	-73.154	0
+Glechoma_hederacea	JN890905.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.83	-4.14	0
+Glechoma_hederacea	MG223714.1	26-DEC-2017	553	Canada: Ontario, Chatham-Kent County, Rondeau Provincial Park, Junction of Bennett and Harrison Streets	secondary	rbcL	43.72634945	-77.7101179040839	0
+Glechoma_hederacea	HM850031.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	4.34027777777778e-05
+Glechoma_hederacea	JN892336.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.3988488	-3.2906572	0
+Glechoma_hederacea	JN890799.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Glechoma_hederacea	JN890798.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0
+Glechoma_hederacea	AB266226.1	25-JUL-2006	1297	Japan:Osaka, Katano	secondary	rbcL	34.792144	135.678333	4.34027777777778e-05

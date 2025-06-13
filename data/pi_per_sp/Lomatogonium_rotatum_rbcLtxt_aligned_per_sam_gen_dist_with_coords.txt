@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lomatogonium_rotatum	MG224250.1	26-DEC-2017	552	Canada: Northwest Territories, Cape Bathurst, west coast	primary	rbcL	70.358	-128.079	0.000453172536538748
+Lomatogonium_rotatum	MG223339.1	26-DEC-2017	552	Canada: Yukon Territory, Takhini River Road	primary	rbcL	60.904	-135.677	0.000453172536538748
+Lomatogonium_rotatum	MG223126.1	26-DEC-2017	552	Canada: Yukon Territory, Blow River Delta east, Danny C. Gordon's goose camp	primary	rbcL	68.896	-136.961	0.000453172536538748
+Lomatogonium_rotatum	MG222657.1	26-DEC-2017	551	Canada: Yukon Territory, Alaska Highway, 2 km east of Cracker Creek	primary	rbcL	60.814	-136.808	0.00196695015918856
+Lomatogonium_rotatum	MG222130.1	26-DEC-2017	552	Canada: Northwest Territories, Aklavik	primary	rbcL	68.219	-135.006	0.000453172536538748
+Lomatogonium_rotatum	MG222028.1	26-DEC-2017	552	Canada: Yukon Territory, Kluane National Park, Slims West Trail	primary	rbcL	60.983	-138.567	0.000453172536538748
+Lomatogonium_rotatum	MG221618.1	26-DEC-2017	548	Canada: Yukon Territory, King Point	primary	rbcL	69.094	-137.968	0.000456204379562044
+Lomatogonium_rotatum	KC483099.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Uluhaktok	primary	rbcL	70.717	-117.717	0.000453172536538748
+Lomatogonium_rotatum	KC483098.1	25-OCT-2013	552	Canada: Yukon Territory, Blow River Delta east, Whitefish Station	primary	rbcL	68.893	-136.902	0.000453172536538748
+Lomatogonium_rotatum	KC483097.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Flat to gently sloped ground southeast of large unnamed lake, 18 km ENE of Johansen Bay airstrip	primary	rbcL	68.742	-110.7	0.000453172536538748
+Lomatogonium_rotatum	KC483096.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of Kuujjua River Delta at Minto Inlet	primary	rbcL	71.313	-116.916	0.000453172536538748
+Lomatogonium_rotatum	KC483095.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Aspen Creek	primary	rbcL	69.018	-140.661	0.000453172536538748
+Lomatogonium_rotatum	MT931541.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.00362594026331693

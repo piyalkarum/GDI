@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scandix_pecten-veneris	MT796311.1	31-JUL-2022	390	Turkey	primary	trnL-trnF	36.9630045115624	34.2215234896845	0
+Scandix_pecten-veneris	MT796310.1	31-JUL-2022	390	Turkey	primary	trnL-trnF	36.2388601544525	33.9866672134135	0
+Scandix_pecten-veneris	MT796309.1	31-JUL-2022	390	Turkey	primary	trnL-trnF	37.0053252441411	33.2542310598576	0
+Scandix_pecten-veneris	MT796308.1	31-JUL-2022	390	Turkey	primary	trnL-trnF	36.9858353091015	35.0424352404404	0

@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salvia_rosmarinus	OL537092.1	10-JAN-2022	553	USA: Missouri, Missouri Botanical Garden, Shoenberg Temperate House. Source, Unknown (Unknown). MOBOT LCMS Accesion # 2015-1535-1	primary	rbcL	38.6145	-90.2591	0.00392106198102062
+Salvia_rosmarinus	MW513715.1	02-FEB-2021	544	USA: New York, Brooklyn, Key Food	primary	rbcL	40.62	-73.91	0.00475898692810457
+Salvia_rosmarinus	MF695004.1	16-SEP-2018	553	Pakistan: Baluchistan, Quetta	primary	rbcL	29.3109674802549	67.0699892929245	0.00392106198102062
+Salvia_rosmarinus	MF694766.1	15-SEP-2018	552	Pakistan: Baluchistan, Quetta	primary	rbcL	30.25422812691	66.188915600981	0.00392734086388178
+Salvia_rosmarinus	MF694765.1	15-SEP-2018	552	Pakistan: Baluchistan	primary	rbcL	29.7394193368924	67.4569528035747	0.00469048421525671
+Salvia_rosmarinus	MF694764.1	15-SEP-2018	552	Pakistan: Baluchistan	primary	rbcL	29.4333562465164	67.3377161217137	0.00469048421525671
+Salvia_rosmarinus	MF349416.1	21-SEP-2017	553	USA: District of Columbia; Butterfly Garden on grounds of NMNH, Washington	primary	rbcL	38.89	-77.024	0.00468311335276752
+Salvia_rosmarinus	KX783985.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	31.2	30.022	0.00392734086388178
+Salvia_rosmarinus	KX783984.1	31-MAY-2017	552	Egypt: Alexandria, Meharam Bek, Faculty of Science	primary	rbcL	31.189	31.189	0.00392734086388178
+Salvia_rosmarinus	MT931624.1	03-MAR-2023	572	China	secondary	rbcL	34.9660076734829	104.89634243757	0.01820119753178
+Salvia_rosmarinus	MT931623.1	03-MAR-2023	569	China	secondary	rbcL	35.8652243672442	105.211480798006	0.0213836525867666
+Salvia_rosmarinus	HQ619754.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.00392106198102062
+Salvia_rosmarinus	KP172074.1	04-FEB-2015	1376	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00402627319521984

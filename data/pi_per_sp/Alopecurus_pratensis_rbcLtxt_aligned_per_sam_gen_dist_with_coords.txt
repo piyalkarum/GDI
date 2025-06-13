@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alopecurus_pratensis	MF596562.1	28-FEB-2018	549	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, ca. 1.5 km along road to Moresby Camp from Y junction (loop road)	primary	rbcL	53.3814188465071	-131.22695795243	0
+Alopecurus_pratensis	MF596561.1	28-FEB-2018	549	Canada: British Columbia, Lower Mainland, Ladner Harbour Park	primary	rbcL	49.1405436968531	-122.997614321987	0
+Alopecurus_pratensis	MF596560.1	28-FEB-2018	603	Canada: British Columbia, Vancouver Island, along Deering Road, ~24 km N of Port Renfrew at crossing of small river with one-lane bridge.	primary	rbcL	48.9077852852258	-124.595456684323	0
+Alopecurus_pratensis	MF596559.1	28-FEB-2018	549	Canada: British Columbia, Vancouver Island, Saanich Peninsula, at corner of Derrick Road and Norris Road, S of Deep Cove	primary	rbcL	47.8334818667267	-123.157468756319	0
+Alopecurus_pratensis	MF596558.1	28-FEB-2018	549	Canada: British Columbia, Vancouver Island, Mt. Washington alpine resort, gravel edge of parking lot	primary	rbcL	49.7176432236412	-124.183621794383	0
+Alopecurus_pratensis	MG228168.1	23-JAN-2018	549	Canada: British Columbia, Vancouver Island, Mt. Washington alpine resort, gravel edge of parking lot	primary	rbcL	49.2871341183878	-124.228684189259	0
+Alopecurus_pratensis	MG227736.1	23-JAN-2018	549	Canada: British Columbia, Queen Charlotte Islands, Moresby Island, ca. 1.5 km along road to Moresby Camp from Y junction (loop road)	primary	rbcL	52.6454449164947	-130.844108783368	0
+Alopecurus_pratensis	MG227257.1	23-JAN-2018	549	Canada: British Columbia, Vancouver Island, Saanich Peninsula, at corner of Derrick Road and Norris Road, S of Deep Cove	primary	rbcL	49.2664036836917	-122.97968636671	0
+Alopecurus_pratensis	MG226670.1	23-JAN-2018	549	Canada: British Columbia, Lower Mainland, Ladner Harbour Park	primary	rbcL	48.7767400606481	-123.725373812559	0
+Alopecurus_pratensis	MG226486.1	23-JAN-2018	553	Canada: Ontario, Lambton County, St. Clair Twp., Highway 40 between Oil Springs and Bickford Lane	primary	rbcL	42.8416	-82.4658	0
+Alopecurus_pratensis	MG225876.1	23-JAN-2018	603	Canada: British Columbia, Vancouver Island, along Deering Road, ~24 km N of Port Renfrew at crossing of small river with one-lane bridge.	primary	rbcL	48.2732595762644	-123.074217754854	0
+Alopecurus_pratensis	JN891520.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.14	0
+Alopecurus_pratensis	HM849759.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00028328611898017
+Alopecurus_pratensis	HQ600471.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.00028328611898017
+Alopecurus_pratensis	JN890704.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.1839414680072	-4.49540045057849	0
+Alopecurus_pratensis	JN890703.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.0721918338208	-3.41121625959902	0

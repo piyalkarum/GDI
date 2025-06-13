@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinus_nigra	MG215375.1	24-JAN-2018	552	Canada: Ontario, Toronto, City of, Queen's Park	primary	rbcL	43.667	-79.383	0
+Pinus_nigra	HQ619766.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0
+Pinus_nigra	MG215393.1	24-JAN-2018	552	Canada: Ontario, Peel R. M., Chinguacousy Tp., Caledon Mountain Slope Forest ANSI, N of Terra Cotta, loose boundaries of Rds. 12, 19 and Mississauga Rd.	secondary	rbcL	43.72634945	-77.7101179040839	0
+Pinus_nigra	FR831926.1	25-MAR-2011	701	Italy:Abruzzo	secondary	rbcL	42.817969115662	13.1181144386649	0.000510763498952864
+Pinus_nigra	FR831925.1	25-MAR-2011	701	Italy:Calabria	secondary	rbcL	39.0565974	16.5249864	0.000510763498952864
+Pinus_nigra	FR831924.1	25-MAR-2011	701	Italy:Abruzzo	secondary	rbcL	41.4543852624913	13.323739252165	0.000510763498952864
+Pinus_nigra	FR831915.1	25-MAR-2011	701	Croatia:Kras	secondary	rbcL	45.356716	14.0642567	0.000510763498952864
+Pinus_nigra	FN689380.1	19-MAR-2010	743	Italy:Friuli Venezia Giulia	secondary	rbcL	46.151042	13.055904	0.000713266761768902
+Pinus_nigra	KP088735.1	15-MAR-2015	785	China	secondary	rbcL	39.9057136	116.3912972	0.00132978723404255

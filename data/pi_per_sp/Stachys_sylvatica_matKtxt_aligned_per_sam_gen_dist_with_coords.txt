@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stachys_sylvatica	JN895511.1	07-MAR-2012	780	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0
+Stachys_sylvatica	KJ204542.1	29-JAN-2015	718	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0
+Stachys_sylvatica	JN896172.1	07-MAR-2012	528	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Stachys_sylvatica	JN895203.1	07-MAR-2012	859	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0
+Stachys_sylvatica	JN895069.1	07-MAR-2012	763	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0

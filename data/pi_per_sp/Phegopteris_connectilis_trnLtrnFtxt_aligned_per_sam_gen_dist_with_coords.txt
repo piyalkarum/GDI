@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phegopteris_connectilis	HQ890412.1	31-JAN-2013	825	USA	secondary	trnL-trnF	39.7837304	-100.445882	0.0172385559166604
+Phegopteris_connectilis	HQ890411.1	31-JAN-2013	792	China	secondary	trnL-trnF	35.4728281500202	105.928247090846	0.0159242438882984
+Phegopteris_connectilis	HQ890410.1	31-JAN-2013	825	Poland	secondary	trnL-trnF	52.215933	19.134422	0.0172385559166604
+Phegopteris_connectilis	HQ890409.1	31-JAN-2013	814	Greenland	secondary	trnL-trnF	35.9948477	-94.1796014	0.0152471424748652
+Phegopteris_connectilis	HQ890408.1	31-JAN-2013	814	Czech Republic	secondary	trnL-trnF	49.7439047	15.3381061	0.0152471424748652
+Phegopteris_connectilis	JN572274.1	19-SEP-2012	275	China	secondary	trnL-trnF	35.3391270455946	105.947829779121	0.0119414170047081

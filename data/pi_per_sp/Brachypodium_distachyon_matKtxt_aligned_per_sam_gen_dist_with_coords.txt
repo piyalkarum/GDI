@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brachypodium_distachyon	LR606842.1	25-JAN-2021	2073	Spain	secondary	matK	38.8259484987983	-4.84764592642706	0.00166355015492947
+Brachypodium_distachyon	KJ529317.1	22-FEB-2015	963	Spain	secondary	matK	39.9753402703976	-4.58256176794573	0.00166163312761878
+Brachypodium_distachyon	LN554426.1	02-APR-2015	2017	Spain	secondary	matK	38.9396585649442	-5.12097133130863	0.00125217637912917
+Brachypodium_distachyon	HM850578.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00220001441050039

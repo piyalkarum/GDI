@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pilosella_officinarum	OR464913.1	26-SEP-2023	908	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.817504070351	-85.0336877722042	0.00158568410994244
+Pilosella_officinarum	OR464912.1	26-SEP-2023	853	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	41.4628960061966	-86.2731887135424	0.00157587401154939
+Pilosella_officinarum	HQ593323.1	09-NOV-2011	787	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, in mowed lawn west of Echo Valley cottage	primary	matK	44.025	-79.53	0.00106511483249282
+Pilosella_officinarum	JN895044.1	07-MAR-2012	955	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.00104204816078824
+Pilosella_officinarum	KX821276.1	02-SEP-2017	804	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	57.0016778041969	8.83572296111388	0.00104994546609351
+Pilosella_officinarum	KX821277.1	02-SEP-2017	804	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	57.5486085917948	7.72746560491608	0.00104994546609351
+Pilosella_officinarum	KX821278.1	02-SEP-2017	804	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.8106962746796	7.60805225987382	0.00104994546609351
+Pilosella_officinarum	KX821279.1	02-SEP-2017	804	Denmark: Thy Nationalpark, TBU 7, Lodbjerg fyr	secondary	matK	56.2163860269464	7.92996467932391	0.00104994546609351
+Pilosella_officinarum	KT250037.1	09-AUG-2015	820	Germany	secondary	matK	34.895926	-83.4665496	0.00160242360683885
+Pilosella_officinarum	KJ746177.1	29-JUL-2014	703	Poland	secondary	matK	52.215933	19.134422	0.000905211431527221
+Pilosella_officinarum	HE970711.1	18-SEP-2012	811	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.00166605548488161
+Pilosella_officinarum	JN896101.1	07-MAR-2012	977	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.00102830378708444

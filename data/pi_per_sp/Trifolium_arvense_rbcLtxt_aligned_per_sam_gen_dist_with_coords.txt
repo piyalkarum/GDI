@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_arvense	OL434773.1	14-NOV-2022	525	USA: Georgia	primary	rbcL	32.1174	-81.138	0.133663940284285
+Trifolium_arvense	MG248602.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, High Park, Hillside E of Grenadier Pond	primary	rbcL	43.646	-79.463	0.00965934761001175
+Trifolium_arvense	MG247240.1	21-JAN-2018	552	Canada: Ontario, Thunder Bay Dist., Thunder Bay City, Parking lot at Mt. McKay Ski Club.	primary	rbcL	48.35	-89.3	0.00965934761001175
+Trifolium_arvense	MG246863.1	21-JAN-2018	552	Canada: Ontario, Niagara, Niagara, Vineland Station	primary	rbcL	43.1539	-79.3922	0.00965934761001175
+Trifolium_arvense	KX679033.1	29-APR-2017	552	Canada: British Columbia, Central Kootenay Regional District, 20 kilometers west of Castlegar and 1 kilometer east of Lower Arrow Lake, Tulip Creek, on old logging road	primary	rbcL	49.4	-117.983	0.00965934761001175
+Trifolium_arvense	KJ841629.1	04-NOV-2014	569	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	rbcL	45.535	-73.149	0.0100543404971176
+Trifolium_arvense	HQ644077.1	01-NOV-2011	607	USA: Georgia, Muscogee County, Columbus, Columbus State University	primary	rbcL	32.4996	-84.9367	0.00977521892002012
+Trifolium_arvense	JN890683.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.45	-3.16	0.00972708783087934
+Trifolium_arvense	MG248928.1	21-JAN-2018	552	Canada: Ontario, Niagara R. M., Niagara-on-the-Lake, St. David's Buried Gorge ANSI, covered in sandy glacial till w some escarpment exposures along stream valleys, S of St. Davids	secondary	rbcL	43.72634945	-77.7101179040839	0.00965934761001175
+Trifolium_arvense	MG248598.1	21-JAN-2018	552	Canada: Ontario, Toronto, City of, High Park	secondary	rbcL	43.6538668	-79.4668644	0.00965934761001175
+Trifolium_arvense	KJ746232.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.0115266247394541
+Trifolium_arvense	KJ204413.1	29-JAN-2015	548	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00965934761001175
+Trifolium_arvense	HM850409.1	23-JUL-2011	657	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00976655934138927
+Trifolium_arvense	JN891070.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00972708783087934
+Trifolium_arvense	JN891069.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00972708783087934

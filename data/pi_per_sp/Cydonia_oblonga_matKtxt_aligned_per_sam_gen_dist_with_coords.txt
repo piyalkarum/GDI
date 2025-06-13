@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cydonia_oblonga	MT930111.1	03-MAR-2023	785	China	secondary	matK	35.000074	104.999927	0.0129113588110403
+Cydonia_oblonga	MH998001.1	08-MAY-2019	866	Pakistan	secondary	matK	30.3308401	71.247499	0.0126393239600787
+Cydonia_oblonga	KM456211.1	13-MAY-2015	832	Argentina	secondary	matK	-34.9964963	-64.9672817	0.0190069361665511
+Cydonia_oblonga	KM456210.1	13-MAY-2015	832	Costa Rica	secondary	matK	9.5364569	-84.1756626	0.0238742246956592
+Cydonia_oblonga	KP089040.1	15-MAR-2015	742	China	secondary	matK	39.9057136	116.3912972	0.0189296945193172

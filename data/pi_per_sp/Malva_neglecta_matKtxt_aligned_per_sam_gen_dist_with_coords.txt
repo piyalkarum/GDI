@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Malva_neglecta	HQ593360.1	09-NOV-2011	774	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 10 m W of North Barn	primary	matK	44.03	-79.532	0.000264550264550265
+Malva_neglecta	JQ412262.1	16-JAN-2013	756	South Africa: Western Cape, Cape Town, Robben Island	primary	matK	-33.812	18.381	0.00132275132275132
+Malva_neglecta	JN895781.1	07-MAR-2012	822	United Kingdom: Carmarthenshire	primary	matK	51.77	-4.39	0.000264550264550265
+Malva_neglecta	MT929945.1	03-MAR-2023	773	China	secondary	matK	35.000074	104.999927	0.000264550264550265
+Malva_neglecta	JN894571.1	07-MAR-2012	813	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000264550264550265
+Malva_neglecta	JN894566.1	07-MAR-2012	800	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.000264550264550265

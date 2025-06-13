@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_flammula	MG247959.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Rocky Point, small U-shaped trail for vehicle turnaround S of ammunition dock	primary	rbcL	48.317	-123.556	0.00130944655603968
+Ranunculus_flammula	KJ841511.1	04-NOV-2014	555	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Next to observation lookout at Lac Hertel	primary	rbcL	45.544	-73.156	0.00632756293692612
+Ranunculus_flammula	JN891521.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.00133640147371333
+Ranunculus_flammula	HM850295.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00484438396409155
+Ranunculus_flammula	JN892703.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.4608340607651	-1.5481470535903	0.00133640147371333
+Ranunculus_flammula	JN892534.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00133640147371333
+Ranunculus_flammula	JN892532.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00133640147371333
+Ranunculus_flammula	JN890897.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.3935042830561	-0.137170374257582	0.00133640147371333

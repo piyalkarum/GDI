@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_palustris	MG223670.1	26-DEC-2017	552	Canada: Guelph, ON	primary	rbcL	43.5485	-80.2503	0
+Pedicularis_palustris	JN893744.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.62	-3.87	0
+Pedicularis_palustris	MW011011.1	27-JUL-2021	553	Finland	secondary	rbcL	63.2467777	25.9209164	0
+Pedicularis_palustris	JN891329.1	07-MAR-2012	524	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Pedicularis_palustris	JN890896.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0

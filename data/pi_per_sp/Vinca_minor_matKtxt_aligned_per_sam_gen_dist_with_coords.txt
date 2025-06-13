@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vinca_minor	OR464909.1	26-SEP-2023	905	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.2321095565228	-85.2631200032626	0.000100160256410256
+Vinca_minor	OR464908.1	26-SEP-2023	849	USA: Bishop's Bog Preserve, Portage, MI	primary	matK	42.6358247412351	-86.6350488891462	0.00128132170504548
+Vinca_minor	KX677421.1	09-AUG-2017	817	Canada: British Columbia, Metro Vancouver Regional District, Burnaby, Burnaby Mountain, west side, edge of forest, end of Hastings Street	primary	matK	49.25	-123.033	0.000106292517006803
+Vinca_minor	KX676852.1	09-AUG-2017	808	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, Pacific Spirit Park, Powerline Trail	primary	matK	49.249	-123.211	0.000106292517006803
+Vinca_minor	MG225094.1	21-JAN-2018	760	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay, pres d'un sentier	primary	matK	45.512	-73.74	0.000110083663584324
+Vinca_minor	JN894336.1	07-MAR-2012	785	United Kingdom: Glamorgan	primary	matK	51.53	-3.61	0.000106157112526539
+Vinca_minor	HQ619792.1	26-DEC-2010	831	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	0.000101132686084142
+Vinca_minor	DQ660553.1	22-DEC-2008	1508	Switzerland	secondary	matK	46.7985624	8.2319736	9.81546917942678e-05
+Vinca_minor	HE967022.1	18-SEP-2012	754	Italy:Trieste, Mt. Valerio	secondary	matK	46.5222090171993	13.4410961785231	0.000115420129270545
+Vinca_minor	HE967021.1	18-SEP-2012	754	Italy:Trieste, Mt. Valerio	secondary	matK	45.2321018084534	14.6923986425163	0.000115420129270545
+Vinca_minor	HE967020.1	18-SEP-2012	754	Italy:Trieste, Mt. Valerio	secondary	matK	46.2551253805102	13.1718107270357	0.000115420129270545
+Vinca_minor	JN895540.1	07-MAR-2012	834	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.000100765820233777
+Vinca_minor	JN895539.1	07-MAR-2012	812	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.000106022052586938

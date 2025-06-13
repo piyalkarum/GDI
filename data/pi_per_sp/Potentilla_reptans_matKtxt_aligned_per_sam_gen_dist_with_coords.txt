@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_reptans	JN895822.1	07-MAR-2012	769	United Kingdom: Carmarthenshire	primary	matK	51.84	-4.15	0.000342465753424658
+Potentilla_reptans	JN895282.1	07-MAR-2012	795	United Kingdom: Monmouthshire (35)	primary	matK	51.5	-3.13	0.000337381916329285
+Potentilla_reptans	KJ204526.1	29-JAN-2015	812	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00133966267846176
+Potentilla_reptans	HM850690.1	23-JUL-2011	801	Portugal	secondary	matK	39.6621648	-8.1353519	0.00031210986267166
+Potentilla_reptans	JN896177.1	07-MAR-2012	745	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.000347705146036161

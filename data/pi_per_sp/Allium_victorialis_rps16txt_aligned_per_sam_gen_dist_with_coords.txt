@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_victorialis	MG709315.1	30-SEP-2018	815	China	secondary	rps16	35.000074	104.999927	0.00123762376237624
+Allium_victorialis	LN812838.1	13-APR-2017	808	Slovenia:Kobla, Ljubljana	secondary	rps16	46.2338617	13.9650643	0.000309405940594059
+Allium_victorialis	LN812837.1	13-APR-2017	808	Germany	secondary	rps16	34.895926	-83.4665496	0.000309405940594059
+Allium_victorialis	LN812836.1	13-APR-2017	808	France	secondary	rps16	46.603354	1.8883335	0.000309405940594059
+Allium_victorialis	LN812835.1	13-APR-2017	808	Poland	secondary	rps16	52.215933	19.134422	0.000309405940594059

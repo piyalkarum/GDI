@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Urtica_urens	KX271440.1	07-JUN-2016	795	Spain	secondary	trnL-trnF	39.3260685	-4.8379791	0.00382020128958266
+Urtica_urens	KF559034.1	21-DEC-2013	791	Peru	secondary	trnL-trnF	-6.8699697	-75.0458515	0.00126742712294043
+Urtica_urens	KF559010.1	21-DEC-2013	790	Germany	secondary	trnL-trnF	34.895926	-83.4665496	0.00126742712294043
+Urtica_urens	FJ432264.1	02-JUN-2009	810	Australia	secondary	trnL-trnF	-24.7761086	134.755	0.0012853470437018

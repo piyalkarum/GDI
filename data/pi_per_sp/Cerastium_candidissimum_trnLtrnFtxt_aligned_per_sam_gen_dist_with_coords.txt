@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cerastium_candidissimum	MH487967.1	20-JAN-2022	2117	Greece	secondary	trnL-trnF	43.5639356721414	-78.5172544708169	0.0200050713959378
+Cerastium_candidissimum	MH487966.1	20-JAN-2022	2120	Greece	secondary	trnL-trnF	43.0776695948368	-76.536776419883	0.0199677019422275
+Cerastium_candidissimum	MH487965.1	20-JAN-2022	2119	Greece	secondary	trnL-trnF	42.7066058289776	-78.5267327724064	0.0195853795300175
+Cerastium_candidissimum	MH487964.1	20-JAN-2022	2166	Greece	secondary	trnL-trnF	43.6859086266238	-76.8481738906318	0.0773868583074881
+Cerastium_candidissimum	MH487963.1	20-JAN-2022	2117	Greece	secondary	trnL-trnF	43.4704956968214	-77.4924448457521	0.0199586057265554

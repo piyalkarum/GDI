@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calamagrostis_arenaria	OL540228.1	16-AUG-2022	819	Australia	secondary	rps16	-24.4965061776485	134.756724116371	0.362403100775194
+Calamagrostis_arenaria	OL540227.1	16-AUG-2022	819	Spain	secondary	rps16	38.7355574966002	-5.50637457350215	0.362403100775194
+Calamagrostis_arenaria	OL540132.1	16-AUG-2022	728	Australia	secondary	rps16	-24.7577425027782	134.748508182669	0.362403100775194
+Calamagrostis_arenaria	OL540131.1	16-AUG-2022	728	Spain	secondary	rps16	39.2736075427143	-4.75217380865132	0.362403100775194

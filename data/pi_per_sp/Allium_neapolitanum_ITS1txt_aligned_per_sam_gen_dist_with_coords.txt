@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_neapolitanum	HE962510.1	10-APR-2013	647	Israel:Judaean Mts, Road 44 on the competition to Zora Forest	primary	ITS1	31.78	34.99	0.00231839258114374
+Allium_neapolitanum	HF953353.1	28-MAY-2015	647	Israel:Mt. Gilboa	secondary	ITS1	32.4935355	35.4129183	0.00231839258114374
+Allium_neapolitanum	HF934312.1	12-MAY-2015	647	Israel:Jerusalen	secondary	ITS1	32.5487907692573	35.0647445367625	0.00463678516228748
+Allium_neapolitanum	HF934311.1	12-MAY-2015	647	Israel:Road 90	secondary	ITS1	35.664571	-82.681047	0.00463678516228748
+Allium_neapolitanum	HF934309.1	12-MAY-2015	647	Israel:Mt Carmel	secondary	ITS1	32.6795597	34.9850882	0.00463678516228748
+Allium_neapolitanum	HF934308.1	12-MAY-2015	647	Israel:Golan	secondary	ITS1	33.0105642	35.749532	0.00231839258114374
+Allium_neapolitanum	HF934307.1	12-MAY-2015	647	Israel:Jerusalem	secondary	ITS1	32.2159801274089	35.867609149048	0.00231839258114374
+Allium_neapolitanum	HF934306.1	12-MAY-2015	647	Israel:Netanja	secondary	ITS1	32.3040272	34.8620134	0.00231839258114374
+Allium_neapolitanum	HF934305.1	12-MAY-2015	647	Turkey	secondary	ITS1	36.7664439	31.3892197	0.00231839258114374

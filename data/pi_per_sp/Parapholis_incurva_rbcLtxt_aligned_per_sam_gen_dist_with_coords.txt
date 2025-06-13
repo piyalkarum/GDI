@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Parapholis_incurva	MG227908.1	23-JAN-2018	552	Canada: British Columbia, Vancouver Island, Nanaimo, Piper's Lagoon Park, N of Departure Bay, southeast side of lagoon	primary	rbcL	49.224	-123.948	0.00180506593550072
+Parapholis_incurva	MG226950.1	23-JAN-2018	552	USA: Washington, Jefferson county. Port Townsend Bay, Quimper Peninsula, Kala Point.	primary	rbcL	48.058	-122.767	0.00180506593550072
+Parapholis_incurva	JN893508.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.69	-4.2	0.00181734414636448
+Parapholis_incurva	ON757578.1	26-AUG-2023	1534	Australia	secondary	rbcL	-24.4865698936805	135.484061353567	0.0033115613822604
+Parapholis_incurva	ON757169.1	26-AUG-2023	829	Australia	secondary	rbcL	-24.1542142685021	135.045947340138	0.0033165195216809
+Parapholis_incurva	KX282921.1	28-MAY-2017	572	Kuwait	secondary	rbcL	29.2462581343134	48.4377689344297	0.00316177292921479
+Parapholis_incurva	KX282920.1	28-MAY-2017	576	Kuwait	secondary	rbcL	29.2856006392203	47.4726181175417	0.00315367917112103
+Parapholis_incurva	KJ599170.1	21-SEP-2014	559	Australia: South Australia	secondary	rbcL	-30.5343665	135.6301212	0.00700472410624191
+Parapholis_incurva	HQ600462.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.638392	127.6961188	0.00405627392321959
+Parapholis_incurva	JN893612.1	07-MAR-2012	370	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0114114114114114

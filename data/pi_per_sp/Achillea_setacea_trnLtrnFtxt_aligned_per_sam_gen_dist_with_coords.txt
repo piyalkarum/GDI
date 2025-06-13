@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achillea_setacea	AY603275.1	30-AUG-2004	779	Austria	secondary	trnL-trnF	37.0124724613822	-3.89645451488514	0.00173611111111111
+Achillea_setacea	AY603274.1	30-AUG-2004	837	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.00168350168350168
+Achillea_setacea	AY603273.1	30-AUG-2004	792	Greece	secondary	trnL-trnF	43.2097838	-77.6930602	0.00513340885288186
+Achillea_setacea	AY603272.1	30-AUG-2004	789	Austria	secondary	trnL-trnF	36.8317181000038	-3.94174764685266	0.00171379605826907

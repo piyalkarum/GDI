@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_pratensis	LC579641.1	03-MAR-2021	320	Japan:Shiga, Maibara	secondary	psbA-trnH	35.3149074	136.2901179	0.00546875
+Lathyrus_pratensis	JX505947.1	09-JAN-2013	303	Germany	secondary	psbA-trnH	40.4203479	-79.1166983	0.00577557755775578
+Lathyrus_pratensis	HE966684.1	18-SEP-2012	343	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.5506403677288	13.5417120642363	0.0121076272623618
+Lathyrus_pratensis	HE966683.1	18-SEP-2012	343	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.4125506333419	13.9685747296367	0.0144428227443736
+Lathyrus_pratensis	HE966682.1	18-SEP-2012	343	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.1316195645379	14.0262779517849	0.00510204081632653

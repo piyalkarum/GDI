@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_tetragonum	JN892455.1	07-MAR-2012	542	United Kingdom: Denbighshire	primary	rbcL	53.23	-3.39	0
+Epilobium_tetragonum	HM849977.1	23-JUL-2011	682	Portugal	secondary	rbcL	39.6621648	-8.1353519	0
+Epilobium_tetragonum	JN893321.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.1175585787133	-4.81476496773949	0
+Epilobium_tetragonum	JN892264.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.7268532489201	-5.03920260679546	0
+Epilobium_tetragonum	JN891438.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0

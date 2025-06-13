@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Luzula_parviflora	KX678365.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, north of Pemberton, Meager Creek Hot Springs	primary	rbcL	50.5	-123.5	0.0036231884057971
+Luzula_parviflora	KX678340.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Alberni-Clayoquot Regional District, Flora Lake Forest Recreation Site	primary	rbcL	48.8619	-124.72	0.00679347826086956
+Luzula_parviflora	KJ841390.1	04-NOV-2014	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Forest to fen transition near base of s-w slope of mountain	primary	rbcL	54.899	-67.171	0.00135869565217391
+Luzula_parviflora	JN965662.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog	primary	rbcL	57.002	-92.306	0.00135869565217391
+Luzula_parviflora	JN965661.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 11 km S Churchill, Goose Creek	primary	rbcL	58.334	-93.225	0.00135869565217391
+Luzula_parviflora	JN965660.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 25 km ESE Churchill, Christmas Lake, esker	primary	rbcL	57.829	-92.802	0.00135869565217391
+Luzula_parviflora	JN965659.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 23 km E Churchill, Ramsay Creek, Tundra, creek bank	primary	rbcL	58.731	-93.78	0.00135869565217391
+Luzula_parviflora	JN965658.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, Among mosses in wet hollows on the ground in burnt over black. Spruce stand.	primary	rbcL	59.0097632053897	-93.1167959366925	0.00135869565217391
+Luzula_parviflora	JN965657.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	59.0699076218842	-93.6326064149733	0.00135869565217391

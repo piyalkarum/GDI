@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Puccinellia_distans	MF597591.1	17-JUL-2018	806	Canada: Manitoba, Mary Jane Reservoir, ~10 km NW of Manitou, open, relatively undisturbed prairie habitat S of the reservoir and N of the railroad tracks.	primary	matK	49.288	-98.626	0.00191043700784745
+Puccinellia_distans	MF597590.1	17-JUL-2018	809	Canada: British Columbia, 3.1 km S of Radio Observatory. Alakali lake with Sonchus, Agropyron, and Erysimum.	primary	matK	49.3	-119.627	0.00319603873193964
+Puccinellia_distans	MF597589.1	17-JUL-2018	790	Canada: Alberta, 11 mi E of Exshaw on Hwy 1A towards Cochrane. Immediate shore of small pond with Carex, Eleocharis, Schoenoplectus and Juncus.	primary	matK	51.159	-114.99	0.00226302476517517
+Puccinellia_distans	MG217104.1	24-JAN-2018	589	Canada: Ontario, Lambton County, St. Clair Twp., Roadside of Hwy 40 at Wilkesport, south of Sarnia	primary	matK	42.729	-82.428	0.000990379173740804
+Puccinellia_distans	MG217023.1	24-JAN-2018	749	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	matK	51.273	-80.641	0.00215238362879346
+Puccinellia_distans	KC475579.1	25-OCT-2013	773	Canada: Nunavut, Victoria Island, Yellowknife Airport. Field and slopes at edge of parking lot, above lake	primary	matK	62.52	-114.47	0.00600780642047309
+Puccinellia_distans	JN894991.1	07-MAR-2012	1127	United Kingdom: Cardiganshire	primary	matK	52.51	-4.04	0.00158787480175015
+Puccinellia_distans	JN894628.1	07-MAR-2012	778	United Kingdom: Perthshire, East (89)	primary	matK	56.81	-3.46	0.00242148435756019
+Puccinellia_distans	OK247834.1	27-OCT-2022	788	Turkey	secondary	matK	38.9597594	34.9249653	0.00254985436808868
+Puccinellia_distans	MT433219.1	31-MAY-2020	1416	Norway	secondary	matK	64.5731537	11.5280364	0.00360569590663248
+Puccinellia_distans	KJ529349.1	22-FEB-2015	969	Spain	secondary	matK	38.7582896733078	-4.99729989537036	0.00248227344958253
+Puccinellia_distans	JX438081.1	31-MAR-2013	1020	Spain	secondary	matK	38.7113172711382	-4.4389769369466	0.00152512573633345
+Puccinellia_distans	JN894821.1	07-MAR-2012	735	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00102040816326531

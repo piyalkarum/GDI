@@ -1,0 +1,20 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Zostera_marina	MH469624.1	20-JUN-2018	522	USA: New York, Babylon, Gilgo Floating dock	primary	rbcL	40.62	-73.4	NA
+Zostera_marina	MK505454.1	02-MAR-2019	309	USA: New York, West Islip, shoreline	primary	rbcL	40.68	-73.29	NA
+Zostera_marina	MK481264.1	02-MAR-2019	411	USA: New York, Babylon, unknown	primary	rbcL	40.6888	-73.3149	NA
+Zostera_marina	MK481263.1	02-MAR-2019	344	USA: New York, Babylon, open water	primary	rbcL	40.69	-73.31	NA
+Zostera_marina	MK481262.1	02-MAR-2019	463	USA: New York, Babylon, unknown	primary	rbcL	40.3187607155896	-73.8589498617136	NA
+Zostera_marina	MH631039.1	04-SEP-2018	502	USA: New York, Babylon, Mouth of Canal Floating against dock post.	primary	rbcL	40.0891942320718	-73.9102001334781	NA
+Zostera_marina	MG227782.1	23-JAN-2018	552	Canada: Ontario, Cochrane Dist., James Bay, Longridge Point area.	primary	rbcL	51.8	-80.7	NA
+Zostera_marina	OQ754222.1	02-AUG-2023	1032	Russia	secondary	rbcL	64.6863136	97.7453061	0.00245656129148969
+Zostera_marina	MK925448.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.2371604606467	-2.70619935288253	NA
+Zostera_marina	MK924865.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5305230801749	-3.20992562983535	NA
+Zostera_marina	MK924466.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9357138150805	-4.11671351602359	NA
+Zostera_marina	AB906846.1	09-MAY-2015	1232	Italy:Roma	secondary	rbcL	41.8933203	12.4829321	0.0109590686098056
+Zostera_marina	AB970736.1	09-MAY-2015	490	Estonia	secondary	rbcL	58.7523778	25.3319078	NA
+Zostera_marina	JQ995763.1	09-JAN-2014	619	USA: CA	secondary	rbcL	36.7014631	-118.755997	NA
+Zostera_marina	JQ995762.1	09-JAN-2014	619	USA: NH	secondary	rbcL	43.4849133	-71.6553992	NA
+Zostera_marina	JN890552.1	07-MAR-2012	542	United Kingdom: Cornwall,WestwithScilly	secondary	rbcL	50.4433489	-4.62465658489158	NA
+Zostera_marina	JN225354.1	04-FEB-2012	599	Germany: Ellenbogen, Sylt	secondary	rbcL	55.0364005	8.3866533	NA
+Zostera_marina	JN225353.1	04-FEB-2012	599	Germany	secondary	rbcL	54.4631631296505	7.90093105229189	NA
+Zostera_marina	JN225352.1	04-FEB-2012	599	Germany	secondary	rbcL	54.179110700156	9.1700660745278	NA

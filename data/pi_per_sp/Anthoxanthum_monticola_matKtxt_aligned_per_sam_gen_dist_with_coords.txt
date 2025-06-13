@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthoxanthum_monticola	MF597165.1	17-JUL-2018	819	Canada: British Columbia, End of Hudson Bay Mountain trail that starts at alpine ski area at the end of Hudson Bay Mountain Road, W of Smithers.	primary	matK	54.784	-127.291	0.000510767858971081
+Anthoxanthum_monticola	MF597164.1	17-JUL-2018	807	Canada: British Columbia, Big Bell Mountain, McBride, ridge top with alpine vegetation	primary	matK	53.284	-120.349	0.00139891992407634
+Anthoxanthum_monticola	KC474042.1	25-OCT-2013	777	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	matK	68.719	-110.783	0.000381529888663481
+Anthoxanthum_monticola	KC474041.1	25-OCT-2013	777	Canada: Nunavut, Mainland Nunavut, Coppermine, Coppermine airport	primary	matK	67.817	-115.239	0.000381529888663481
+Anthoxanthum_monticola	KC474040.1	25-OCT-2013	777	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	matK	76.56	-118.86	0.000381529888663481
+Anthoxanthum_monticola	KC474039.1	25-OCT-2013	468	Canada: Nunavut, West Hudson Bay, '50 mile hill', 5 km N of Hyde Lake, 35 km from HB coast	primary	matK	60.66	-95.22	0.00213675213675214
+Anthoxanthum_monticola	KC474038.1	25-OCT-2013	777	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, south tip of Young Island	primary	matK	66.89	-108.02	0.000381529888663481
+Anthoxanthum_monticola	JN966327.1	27-OCT-2012	646	Canada: Manitoba, Churchill, 47 km NW Churchill, Seal River, Goose Camp	primary	matK	58.768	-93.868	0.000409415528094579
+Anthoxanthum_monticola	LR606824.1	25-JAN-2021	2113	Russia	secondary	matK	64.6863136	97.7453061	0.000648452011525122
+Anthoxanthum_monticola	KM523923.1	04-JUL-2015	735	Canada: Northwest Territories	secondary	matK	65.0000004	-118	0.000237416904083571

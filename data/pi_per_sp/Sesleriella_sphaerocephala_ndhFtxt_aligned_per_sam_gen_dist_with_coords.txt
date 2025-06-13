@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sesleriella_sphaerocephala	KY910647.1	02-MAY-2018	1782	Italy	secondary	ndhF	42.5680883187884	13.2363947404854	0.00327768372387795
+Sesleriella_sphaerocephala	KY910646.1	02-MAY-2018	1807	Italy	secondary	ndhF	43.2490308838619	13.5000411504008	0.00411570426418762
+Sesleriella_sphaerocephala	KY910645.1	02-MAY-2018	1781	Austria	secondary	ndhF	36.7748682164883	-5.65711168482595	0.00346505141913441
+Sesleriella_sphaerocephala	KY910644.1	02-MAY-2018	1780	Slovenia	secondary	ndhF	46.1199444	14.8153333	0.00402705981976972
+Sesleriella_sphaerocephala	KY910643.1	02-MAY-2018	1805	Austria	secondary	ndhF	37.0719162607569	-4.0529913629324	0.00346363194137605
+Sesleriella_sphaerocephala	KY910577.1	02-MAY-2018	1785	Italy	secondary	ndhF	43.2244281759859	13.4858640751476	0.00355548017455176
+Sesleriella_sphaerocephala	KY910576.1	02-MAY-2018	1785	Italy	secondary	ndhF	42.6826371919386	13.6932648972008	0.00355548017455176

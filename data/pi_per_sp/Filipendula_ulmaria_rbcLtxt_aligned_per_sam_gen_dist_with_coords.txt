@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Filipendula_ulmaria	OR557592.1	01-NOV-2023	501	Kazakhstan: Qaragandy region	primary	rbcL	49.41064	75.43456	0.000181455271275631
+Filipendula_ulmaria	MN486533.1	15-MAY-2021	585	United Kingdom: England, Durham, Auckland Castle Park	primary	rbcL	54.6714	-1.6594	0.00218928311270977
+Filipendula_ulmaria	MF349513.1	21-SEP-2017	553	USA: District of Columbia; United States National Arboretum, 3501 NY Ave. NE, Asian collection	primary	rbcL	38.911	-76.956	0.00184589834407783
+Filipendula_ulmaria	JN892539.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.85	-4.14	0.000677221399691782
+Filipendula_ulmaria	JN892353.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.13	0.000677221399691782
+Filipendula_ulmaria	MK924839.1	14-JAN-2020	527	United Kingdom	secondary	rbcL	54.7222779445842	-3.63179655532691	0.00034834265305639
+Filipendula_ulmaria	MK924786.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9811412448976	-3.53197717731001	0.000677221399691782
+Filipendula_ulmaria	MK924460.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.1952369608295	-2.9710771597623	0.000677221399691782
+Filipendula_ulmaria	JN893024.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.7861462353948	-2.2983136307872	0.000677221399691782
+Filipendula_ulmaria	JN893023.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	53.0645518817124	-1.14367759985034	0.000677221399691782
+Filipendula_ulmaria	JN891263.1	07-MAR-2012	538	United Kingdom: Glamorgan	secondary	rbcL	51.0272089959431	-3.70172786322619	0.000679715510472701
+Filipendula_ulmaria	JN890655.1	07-MAR-2012	532	United Kingdom: Glamorgan	secondary	rbcL	51.9285302287089	-3.58276338056	0.00360404815228244

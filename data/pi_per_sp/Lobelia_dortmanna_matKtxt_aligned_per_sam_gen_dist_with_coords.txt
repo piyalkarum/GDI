@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lobelia_dortmanna	KX676673.1	09-AUG-2017	816	Canada: British Columbia, Alberni-Clayoquot Regional District, Kennedy Lake, southwest end of Kennedy Lake	primary	matK	49.052	-125.534	0.0267253044654939
+Lobelia_dortmanna	MG225280.1	21-JAN-2018	773	Canada: Ontario, Thunder Bay District, Neebing Twp., Thunder Bay	primary	matK	48.297	-89.239	0.0400332254657687
+Lobelia_dortmanna	MG225150.1	21-JAN-2018	785	Canada: Ontario, Algoma District, Sault Ste. Marie, Sault Ste. Marie	primary	matK	46.501	-84.441	0.0386457859807119
+Lobelia_dortmanna	JN895292.1	07-MAR-2012	900	United Kingdom: Caernarfonshire	primary	matK	53.02	-4.07	0.0256534382252928
+Lobelia_dortmanna	MK926112.1	14-JAN-2020	778	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.0256534382252928

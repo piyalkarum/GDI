@@ -1,0 +1,27 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_acris	MN447811.1	21-FEB-2022	573	United Kingdom: England, County Durham, Auckland Castle Park	primary	rbcL	54.67	-1.66	0.00336748593436581
+Ranunculus_acris	MZ359314.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.00340236648166874
+Ranunculus_acris	MK030043.1	16-OCT-2019	538	United Kingdom: England, County Durham, Aukland Castle Park, Bishop Aukland	primary	rbcL	54.6721	-1.6602	0.00615528264297267
+Ranunculus_acris	MK030037.1	16-OCT-2019	602	United Kingdom: England, Cumbria, Foresheild Burn	primary	rbcL	54.5193465809841	-2.54208683831659	0.00599749384940252
+Ranunculus_acris	MK895934.1	20-MAY-2019	496	China: Outside US, Jiangyong Hunan, Agriculture land	primary	rbcL	25	111	0.00359547667027279
+Ranunculus_acris	MG322264.1	11-NOV-2018	590	United Kingdom: England, North west, Foreshield Burn	primary	rbcL	55.1679269756312	-1.85571700270649	0.0114238724226767
+Ranunculus_acris	LC376996.1	18-APR-2018	262	Japan: Toyama, Mt.Taro	primary	rbcL	36.44	137.51	0.00442748091603054
+Ranunculus_acris	MG248401.1	21-JAN-2018	552	Canada: Ontario, Norfolk County, Delhi Twp., Vittoria Conservation Area, Picnic Area, stream and pond	primary	rbcL	42.765	-80.303	0.00340560232318182
+Ranunculus_acris	MG246667.1	21-JAN-2018	549	Canada: Ontario, Algoma, Lake Superior P.P.	primary	rbcL	47.75	-84.8333	0.0034121135317696
+Ranunculus_acris	MG246174.1	21-JAN-2018	553	Canada: Quebec, Montreal, Island of Montreal, Parc du Mont-Royal, pres de la bordure d'un etang	primary	rbcL	45.504	-73.585	0.0136035069342613
+Ranunculus_acris	HQ590232.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 100 m N of creek between Willow Ridge and classroom	primary	rbcL	44.032	-79.534	0.00379396766103304
+Ranunculus_acris	KT695485.1	29-SEP-2015	522	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.00912634793414027
+Ranunculus_acris	KJ593656.1	17-MAR-2015	553	USA: Wisconsin, Laona	primary	rbcL	45.552	-88.794	0.00340021074392006
+Ranunculus_acris	KJ841509.1	04-NOV-2014	511	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Periphery of visitor's centre at Mont St. Hilare	primary	rbcL	45.538	-73.158	0.00291944350501487
+Ranunculus_acris	JN965796.1	27-OCT-2012	509	Canada: Manitoba, Churchill, Wapusk National Park, York Factory	primary	rbcL	56.9709886983199	-90.6979669498413	0.00292640313937697
+Ranunculus_acris	JN965795.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, York Factory	primary	rbcL	57.2003493328882	-91.2984424908468	0.00340560232318182
+Ranunculus_acris	JN891880.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.8865029198621	-4.4052828533999	0.00342436879167796
+Ranunculus_acris	JN891741.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.3719116381029	-5.33875473592828	0.00342436879167796
+Ranunculus_acris	OR670285.1	06-NOV-2023	555	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.0138560670946942
+Ranunculus_acris	OQ189696.1	13-JUN-2023	831	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0.00439874049058047
+Ranunculus_acris	MG247671.1	21-JAN-2018	510	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Cyprus Lake, BPNP	secondary	rbcL	43.72634945	-77.7101179040839	0.0274561168949595
+Ranunculus_acris	KJ746301.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.00473868510849468
+Ranunculus_acris	JN892205.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.3439453176191	-2.68339542196649	0.00342436879167796
+Ranunculus_acris	JN891848.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4407994755752	-4.81938425325068	0.00342436879167796
+Ranunculus_acris	JN891577.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.6044477209974	-2.44976069558071	0.00342436879167796
+Ranunculus_acris	JN891434.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.7090939691751	-4.14197199460049	0.00342436879167796

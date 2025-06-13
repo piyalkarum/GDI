@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stuckenia_filiformis	HE613432.1	21-DEC-2011	736	Iceland:Lake Myvatn, S shore	primary	ITS1	65.57	17.03	0
+Stuckenia_filiformis	HE613431.1	21-DEC-2011	736	Russia:Pechora delta, island Gas14	primary	ITS1	68.23	53.82	0
+Stuckenia_filiformis	HE613430.1	21-DEC-2011	736	Finland:Kaski Pohjanmaa, Raahe	primary	ITS1	64.7	24.43	0
+Stuckenia_filiformis	HE613429.1	21-DEC-2011	736	United Kingdom:Fife, Loch Leven	primary	ITS1	56.21	-3.37	0

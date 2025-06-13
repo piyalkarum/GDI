@@ -1,0 +1,44 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxyria_digyna	MZ359319.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.204356334185217
+Oxyria_digyna	MK749359.1	08-FEB-2020	646	USA: Idaho, Pioneer Mountians, Salzburger Spitzl	primary	rbcL	43.77446	-114.15942	0.347770955440084
+Oxyria_digyna	MK749358.1	08-FEB-2020	646	USA: Idaho, Sawtooth Mountains, Mount Cramer	primary	rbcL	44.01108	-114.98117	0.347770955440084
+Oxyria_digyna	MG249737.1	21-JAN-2018	552	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	rbcL	69.616	-140.828	0.203667164806426
+Oxyria_digyna	MG248312.1	21-JAN-2018	552	Canada: Yukon Territory, Mt. Granger	primary	rbcL	60.562	-135.163	0.203667164806426
+Oxyria_digyna	KJ873075.1	28-MAY-2017	828		primary	rbcL	29.6355	-96.7144	0.369983307716634
+Oxyria_digyna	KJ873074.1	28-MAY-2017	826		primary	rbcL	29.6355	-96.7143	0.369989136870176
+Oxyria_digyna	KJ873073.1	28-MAY-2017	827		primary	rbcL	29.6355	-96.7142	0.369986201358047
+Oxyria_digyna	KJ873072.1	28-MAY-2017	827		primary	rbcL	29.5939	-96.3989	0.369961038909233
+Oxyria_digyna	KJ873071.1	28-MAY-2017	827		primary	rbcL	29.6885510303436	-94.6333759359107	0.369986201358047
+Oxyria_digyna	KJ873070.1	28-MAY-2017	842		primary	rbcL	45.35	-116.5166	0.369288466266369
+Oxyria_digyna	KJ873069.1	28-MAY-2017	840		primary	rbcL	48.95	-121.65	0.36951641995988
+Oxyria_digyna	KJ873068.1	28-MAY-2017	841		primary	rbcL	20.8029	-69.0437	0.369659660987704
+Oxyria_digyna	KJ873067.1	28-MAY-2017	842		primary	rbcL	61.4528573432935	-149.477093895181	0.368284556765837
+Oxyria_digyna	KJ873066.1	28-MAY-2017	841		primary	rbcL	62.6166	-143.4667	0.36883617487943
+Oxyria_digyna	KJ873065.1	28-MAY-2017	841		primary	rbcL	62.78882953173	-143.977161108204	0.369433173246353
+Oxyria_digyna	KJ873064.1	28-MAY-2017	841		primary	rbcL	61.0333	-149.1167	0.369433173246353
+Oxyria_digyna	KJ873063.1	28-MAY-2017	841		primary	rbcL	60.2563068125168	-148.236685092097	0.368429263745821
+Oxyria_digyna	KJ873062.1	28-MAY-2017	841		primary	rbcL	62.5788420528123	-144.909337826151	0.368429263745821
+Oxyria_digyna	KJ873061.1	28-MAY-2017	827		primary	rbcL	29.7085989758346	-93.8490101422818	0.369986201358047
+Oxyria_digyna	KT960700.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.0528766841516	-20.1484832704126	0.203667164806426
+Oxyria_digyna	KT960602.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.6231675578059	-21.8695093338498	0.203667164806426
+Oxyria_digyna	KT960557.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.4258244216767	-22.1120488152173	0.203667164806426
+Oxyria_digyna	KT960472.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	0.203667164806426
+Oxyria_digyna	KC483224.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.906	-109.597	0.203667164806426
+Oxyria_digyna	KC483223.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	rbcL	70.738	-117.762	0.203667164806426
+Oxyria_digyna	KC483222.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	rbcL	76.56	-118.88	0.203667164806426
+Oxyria_digyna	KC483221.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, 8 km NE of Minto Inlet in valley at small river that feeds into head of Inlet (Minto GEM Camp - 2010)	primary	rbcL	71.619	-115.493	0.203667164806426
+Oxyria_digyna	KC483220.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, Masik River Valley, flat valley bottom, S side of large oblong lake	primary	rbcL	71.59	-123.15	0.203667164806426
+Oxyria_digyna	KC483219.1	25-OCT-2013	552	Canada: Northwest Territories, Banks Island, De Salis Bay, W side of Windrum Lagoon	primary	rbcL	71.48	-121.81	0.203667164806426
+Oxyria_digyna	JN890981.1	07-MAR-2012	542	United Kingdom: Caernarfonshire	primary	rbcL	53.11	-4.03	0.204843669325153
+Oxyria_digyna	MT931206.1	03-MAR-2023	572	China	secondary	rbcL	34.3686200304686	104.724124505745	0.204176732105224
+Oxyria_digyna	MT931205.1	03-MAR-2023	572	China	secondary	rbcL	34.7638830709071	104.999027292834	0.204176732105224
+Oxyria_digyna	MN204823.1	30-NOV-2021	686	China	secondary	rbcL	34.906535079967	104.182258811267	0.203022509553284
+Oxyria_digyna	MN204822.1	30-NOV-2021	650	China	secondary	rbcL	35.5355761166293	104.533964565267	0.204380310682832
+Oxyria_digyna	MK925393.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0.204843669325153
+Oxyria_digyna	MK924482.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.204843669325153
+Oxyria_digyna	JF942756.1	13-DEC-2011	615	China	secondary	rbcL	35.8362243365373	104.678864846844	0.205527713261538
+Oxyria_digyna	JF942755.1	13-DEC-2011	505	China	secondary	rbcL	35.3159223702209	105.858833290399	0.205139637271245
+Oxyria_digyna	JF942754.1	13-DEC-2011	615	China	secondary	rbcL	35.2062275747447	104.341697817487	0.205527713261538
+Oxyria_digyna	JF942753.1	13-DEC-2011	593	China	secondary	rbcL	34.2072546282002	105.507653293661	0.206551337259291
+Oxyria_digyna	JF942752.1	13-DEC-2011	615	China	secondary	rbcL	34.8043141901642	105.615707610769	0.205527713261538
+Oxyria_digyna	JF942751.1	13-DEC-2011	615	China	secondary	rbcL	35.1002958751794	105.770241685744	0.205527713261538

@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Onosma_pseudoarenaria	JX267896.1	18-SEP-2012	632	Serbia: Deliblatska pescara	secondary	ndhF	44.9014298	21.1083119	0
+Onosma_pseudoarenaria	JX267895.1	18-SEP-2012	632	Romania: Suatu	secondary	ndhF	46.7720689	23.9686333	0
+Onosma_pseudoarenaria	JX267894.1	18-SEP-2012	632	Romania: Sfaras	secondary	ndhF	46.9048906	23.0985891	0
+Onosma_pseudoarenaria	JX267893.1	18-SEP-2012	632	Romania: Paulis	secondary	ndhF	46.3209860233588	20.7272160663473	0
+Onosma_pseudoarenaria	JX267892.1	18-SEP-2012	632	Romania: Govajdia	secondary	ndhF	45.7399966	22.7951249	0
+Onosma_pseudoarenaria	JX267891.1	18-SEP-2012	632	Romania: Ocna Mures	secondary	ndhF	46.3814028	23.8577354	0
+Onosma_pseudoarenaria	JX267890.1	18-SEP-2012	632	Romania: Izvorul Crisului	secondary	ndhF	44.3849142	26.1100947	0
+Onosma_pseudoarenaria	JX267889.1	18-SEP-2012	632	Romania: Cunta	secondary	ndhF	45.9251054	23.7225461	0
+Onosma_pseudoarenaria	JX267888.1	18-SEP-2012	632	Romania: Chinteni	secondary	ndhF	46.861747	23.5404553	0
+Onosma_pseudoarenaria	JX267887.1	18-SEP-2012	632	Romania: Ciumbrud	secondary	ndhF	46.3080965	23.762224	0
+Onosma_pseudoarenaria	JX267886.1	18-SEP-2012	632	Romania: Galda de Sus	secondary	ndhF	46.2229106	23.5639494	0
+Onosma_pseudoarenaria	JX267885.1	18-SEP-2012	632	Romania: Paulis	secondary	ndhF	46.0989710347647	22.7220662826117	0

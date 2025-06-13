@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_salicifolium	KX498708.1	18-SEP-2017	381	Spain	primary	trnL-trnF	37.24	-5.91	0.382632894094619
+Helianthemum_salicifolium	KX498707.1	18-SEP-2017	387	Morocco	primary	trnL-trnF	34.44	-2.12	0.384327363670952
+Helianthemum_salicifolium	KY951645.1	18-APR-2018	393	Kuwait	secondary	trnL-trnF	28.9907498337917	47.9123867159803	0.379917468870076
+Helianthemum_salicifolium	KY951644.1	18-APR-2018	428	Kuwait	secondary	trnL-trnF	30.090472010057	48.3761232256214	0.383247626578792

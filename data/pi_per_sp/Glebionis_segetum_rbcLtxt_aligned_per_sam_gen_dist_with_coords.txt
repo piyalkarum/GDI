@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Glebionis_segetum	JN893534.1	07-MAR-2012	364	United Kingdom: Carmarthenshire	primary	rbcL	51.71	-4.14	0.000466853408029879
+Glebionis_segetum	JN890618.1	07-MAR-2012	542	United Kingdom: Cornwall, West with Scilly (1)	primary	rbcL	50.39	-5.11	0.000625531790041956
+Glebionis_segetum	MG221778.1	26-DEC-2017	552	Canada	secondary	rbcL	61.3607592086174	-107.843106359306	0.00153709205852652
+Glebionis_segetum	MG221436.1	26-DEC-2017	552	Canada	secondary	rbcL	61.6869298624133	-108.28896845626	0.000612877640781599
+Glebionis_segetum	HM849893.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00204112490767451
+Glebionis_segetum	JN893634.1	07-MAR-2012	542	United Kingdom: Radnorshire	secondary	rbcL	52.4627049	-3.2561628	0.000625531790041956
+Glebionis_segetum	JN891237.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.000625531790041956

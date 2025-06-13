@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Origanum_vulgare	MF694999.1	16-SEP-2018	553	Pakistan: Baluchistan, Quetta	primary	rbcL	29.5217494530945	67.6817147258374	0.0262451308493107
+Origanum_vulgare	MF694754.1	15-SEP-2018	552	Pakistan: Baluchistan, Quetta	primary	rbcL	30.808451227633	66.2919502579326	0.026293932895512
+Origanum_vulgare	MG224341.1	26-DEC-2017	552	Canada: Caledon, ON	primary	rbcL	43.8667	-80	0.026293932895512
+Origanum_vulgare	MG223937.1	26-DEC-2017	553	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Orchard house NW of Dufferin and SR19.	primary	rbcL	43.9283	-79.5283	0.0262451308493107
+Origanum_vulgare	MG221607.1	26-DEC-2017	552	Canada: British Columbia, New Westminster, under Pattullo Bridge, about 10 km east of Vancouver.	primary	rbcL	49.208	-122.899	0.026293932895512
+Origanum_vulgare	MG221315.1	26-DEC-2017	552	Canada: Metro grocery store, Guelph	primary	rbcL	43.5485	-80.2503	0.026293932895512
+Origanum_vulgare	MF786738.1	06-DEC-2017	553	China: Yunnan, near the border, Markam Co. to Deqin Co.	primary	rbcL	28.91636	98.64992	0.0500584494913385
+Origanum_vulgare	JN892248.1	07-MAR-2012	542	United Kingdom: Somerset, North (6)	primary	rbcL	51.26	-2.74	0.026294232047701
+Origanum_vulgare	ON947750.1	20-MAR-2023	560	Pakistan	secondary	rbcL	30.7136814291098	70.7876747488407	0.0260882476077856
+Origanum_vulgare	ON755119.1	14-MAR-2023	653	Egypt	secondary	rbcL	26.2540493	29.2675469	0.0273774668945595
+Origanum_vulgare	MT931619.1	03-MAR-2023	572	China	secondary	rbcL	35.1912607681464	103.929175446773	0.0298977395554747
+Origanum_vulgare	MT931618.1	03-MAR-2023	572	China	secondary	rbcL	34.7867648018454	104.039961420144	0.0259973975441055
+Origanum_vulgare	MT931617.1	03-MAR-2023	572	China	secondary	rbcL	35.2526708403015	104.458251304657	0.0259973975441055
+Origanum_vulgare	MN192673.1	30-NOV-2021	722	China	secondary	rbcL	35.4976359262117	104.141629589466	0.0259559942454283
+Origanum_vulgare	MN192672.1	30-NOV-2021	646	China	secondary	rbcL	35.6890747703486	104.436975002283	0.0261641806048866
+Origanum_vulgare	MK348960.1	24-JUN-2019	1480	Pakistan	secondary	rbcL	31.0127808797482	71.0042724153994	0.0267723021931925
+Origanum_vulgare	KJ204380.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.0262791278398333
+Origanum_vulgare	FR865126.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.0311005867463123
+Origanum_vulgare	JQ767169.1	31-MAR-2013	955	Austria	secondary	rbcL	36.9148511	-4.7534501	0.0207910674502392
+Origanum_vulgare	HM850213.1	23-JUL-2011	733	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.548986643481028
+Origanum_vulgare	JN891658.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.0277576822079013
+Origanum_vulgare	JN891657.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.0277576822079013
+Origanum_vulgare	JN891300.1	07-MAR-2012	542	United Kingdom: Flintshire	secondary	rbcL	53.2165096	-3.1402189	0.026294232047701
+Origanum_vulgare	MT679150.1	31-AUG-2020	528	Egypt	secondary	rbcL	30.0443879	31.2357257	0.0295176320681579

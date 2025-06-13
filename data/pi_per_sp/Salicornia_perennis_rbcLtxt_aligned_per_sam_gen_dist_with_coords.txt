@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salicornia_perennis	OQ851357.1	14-AUG-2023	436	Egypt	primary	rbcL	30.8513	29.3705	0.197983508856625
+Salicornia_perennis	MG249663.1	21-JAN-2018	552	USA: Washington, Pacific County. The Nature Conservancys Ellsworth Creek Preserve. Entrance to Yellow Gate Rd.	primary	rbcL	46.4267	-123.895	0.195965105257906
+Salicornia_perennis	JQ412418.1	16-JAN-2013	552	South Africa: Western Cape, Cape Town, Robben Island	primary	rbcL	-33.813	18.362	0.193856634281014
+Salicornia_perennis	JN891224.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.9797717267995	-5.15384496219021	0.194462003726765
+Salicornia_perennis	JN891223.1	07-MAR-2012	458	United Kingdom: Merionethshire	secondary	rbcL	52.656872559647	-2.55861218355043	0.199431175276386
+Salicornia_perennis	DQ340126.1	20-JAN-2007	712	France: Loire-Atlantique, Saint Nazaire	secondary	rbcL	47.2733517	-2.2138905	0.494793128932873
+Salicornia_perennis	DQ340127.1	20-JAN-2007	719	South Africa	secondary	rbcL	-33.6828572	26.6717068	0.489896489526141

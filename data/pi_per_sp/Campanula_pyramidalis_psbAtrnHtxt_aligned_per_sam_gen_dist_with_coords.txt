@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_pyramidalis	KC181003.1	28-OCT-2013	358	Croatia: Samarske Stijene	primary	psbA-trnH	44.8153205639763	14.2256884930639	0.00121225841312789
+Campanula_pyramidalis	KC181002.1	28-OCT-2013	351	Croatia: Samarske Stijene	primary	psbA-trnH	45.1711168183093	14.8555735656167	0.00121099892762772
+Campanula_pyramidalis	KC180970.1	28-OCT-2013	350	Croatia: Klis	primary	psbA-trnH	43.561	16.5346	0.00286628679425834
+Campanula_pyramidalis	KC180969.1	28-OCT-2013	349	Croatia: Omiska Dinara	primary	psbA-trnH	43.4483	16.6902	0.00286754627975851
+Campanula_pyramidalis	KC180968.1	28-OCT-2013	349	Croatia: Cres Lubenice	primary	psbA-trnH	44.8748	14.3703	0.00121447156078121
+Campanula_pyramidalis	KC180967.1	28-OCT-2013	350	Croatia: Velebit Vratnik	primary	psbA-trnH	44.9788	14.9863	0.00121225841312789
+Campanula_pyramidalis	KC180966.1	28-OCT-2013	350	Croatia: Rijeka	primary	psbA-trnH	45.3594	14.3117	0.00121225841312789
+Campanula_pyramidalis	KC180965.1	28-OCT-2013	350	Croatia: Novi Vinodolski	primary	psbA-trnH	45.1287	14.7879	0.00121225841312789
+Campanula_pyramidalis	KC180964.1	28-OCT-2013	350	Croatia: Velebit Paklenica	primary	psbA-trnH	44.2971	15.4633	0.00121225841312789
+Campanula_pyramidalis	KC180963.1	28-OCT-2013	350	Croatia: Jablanac	primary	psbA-trnH	44.7085	14.9047	0.00121225841312789
+Campanula_pyramidalis	KC180962.1	28-OCT-2013	350	Croatia: Rabac	primary	psbA-trnH	45.0821	14.1471	0.00121225841312789
+Campanula_pyramidalis	KC180961.1	28-OCT-2013	350	Croatia: Krk Omisalj	primary	psbA-trnH	45.216	14.5522	0.00671432805905684
+Campanula_pyramidalis	KC180959.1	28-OCT-2013	350	Croatia: Dugi Otok	primary	psbA-trnH	44.2971	14.9394	0.00121225841312789
+Campanula_pyramidalis	KC180919.1	28-OCT-2013	350	Croatia: Bakarski Zaljev	primary	psbA-trnH	45.3073	14.5339	0.00121225841312789
+Campanula_pyramidalis	KC180918.1	28-OCT-2013	350	Croatia: Biokovo	primary	psbA-trnH	43.2313	17.1091	0.00286628679425834
+Campanula_pyramidalis	KC180917.1	28-OCT-2013	349	Croatia: Istra Moscenicka Draga	primary	psbA-trnH	45.2412	14.2577	0.00672915415776793
+Campanula_pyramidalis	KC180916.1	28-OCT-2013	350	Croatia: Velebit	primary	psbA-trnH	44.9824	14.9732	0.00121225841312789
+Campanula_pyramidalis	KC180915.1	28-OCT-2013	350	Croatia: Trogir	primary	psbA-trnH	43.5261	16.2238	0.00286628679425834
+Campanula_pyramidalis	KC180914.1	28-OCT-2013	349	Croatia: Sibenik	primary	psbA-trnH	43.7651	15.8567	0.00121447156078121
+Campanula_pyramidalis	KC180913.1	28-OCT-2013	350	Croatia: Sibenik Slivno	primary	psbA-trnH	43.6957	16.0944	0.00286628679425834
+Campanula_pyramidalis	KC180912.1	28-OCT-2013	348	Croatia: Split Marjan	primary	psbA-trnH	43.5087	16.3991	0.00563660477453581
+Campanula_pyramidalis	KC180911.1	28-OCT-2013	351	Croatia: Senj	primary	psbA-trnH	44.9919	14.9036	0.00121099892762772
+Campanula_pyramidalis	KC180910.1	28-OCT-2013	350	Italy: Trieste	primary	psbA-trnH	45.6128	13.8569	0.00121225841312789
+Campanula_pyramidalis	KC180909.1	28-OCT-2013	350	Slovenia: Kopar Podpec	primary	psbA-trnH	45.5231	13.9069	0.00121225841312789
+Campanula_pyramidalis	KC180908.1	28-OCT-2013	348	Croatia: Kostrena	primary	psbA-trnH	45.291	14.536	0.0012157382847038
+Campanula_pyramidalis	KC180907.1	28-OCT-2013	351	Slovenia: Ilirska Bistrica	primary	psbA-trnH	45.6064	14.2281	0.00121099892762772
+Campanula_pyramidalis	KC180906.1	28-OCT-2013	351	Croatia: Senj	primary	psbA-trnH	44.99	14.9044	0.00121099892762772

@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nasturtium_officinale	HQ590244.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., KSR West, open area near stream channel north of Echo Valley Cottage	primary	rbcL	44.026	-79.532	0.00164138943248532
+Nasturtium_officinale	KT695451.1	29-SEP-2015	511	Canada: Ontario, rare Charitable Research Reserve, Blair Flats Wetland	primary	rbcL	43.383	-80.369	0.00489701807754161
+Nasturtium_officinale	KM892724.1	11-OCT-2018	577	China	secondary	rbcL	35.000074	104.999927	0.0114078525450581
+Nasturtium_officinale	MG249903.1	21-JAN-2018	553	Canada: British Columbia, about 1 mile east of Youbou on road to Cowichan Lake village, Cowichan Lake area	secondary	rbcL	48.9919001933454	-122.148336570541	0.001476380390894
+Nasturtium_officinale	MG248688.1	21-JAN-2018	553	Canada: British Columbia, Harper ranch 8 miles east of Kamloops, north side of South Thompson river	secondary	rbcL	49.0575970464878	-122.219635606297	0.001476380390894
+Nasturtium_officinale	MG245933.1	21-JAN-2018	553	Canada: British Columbia, about 5 miles north of Lytton along road to Lillooet	secondary	rbcL	49.6026107380867	-123.130157721574	0.001476380390894
+Nasturtium_officinale	HM850197.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.001501011979651
+Nasturtium_officinale	JN893808.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.5837949813272	-4.02729198590566	0.00149840050259602
+Nasturtium_officinale	JN893807.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2619949990487	-2.63669062169531	0.00149840050259602
+Nasturtium_officinale	JN893535.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00149840050259602
+Nasturtium_officinale	JN891163.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00149840050259602

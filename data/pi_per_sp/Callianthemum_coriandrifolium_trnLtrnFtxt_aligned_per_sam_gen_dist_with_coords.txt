@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Callianthemum_coriandrifolium	MH105631.1	31-MAR-2019	947	Bosnia and Herzegovina	secondary	trnL-trnF	44.3053476	17.5961467	0.000455198132072472
+Callianthemum_coriandrifolium	MH105630.1	31-MAR-2019	947	Switzerland	secondary	trnL-trnF	47.4110631138209	7.44444972566744	0.000455198132072472
+Callianthemum_coriandrifolium	MH105629.1	31-MAR-2019	947	Switzerland	secondary	trnL-trnF	46.6431391681926	8.33398553700551	0.000455198132072472
+Callianthemum_coriandrifolium	MH105628.1	31-MAR-2019	675	Austria	secondary	trnL-trnF	36.4648357124131	-5.28854327993701	0.000296296296296296
+Callianthemum_coriandrifolium	MH105627.1	31-MAR-2019	371	France	secondary	trnL-trnF	46.449527542586	2.96484479505736	0.000359389038634322
+Callianthemum_coriandrifolium	MH105626.1	31-MAR-2019	647	Slovakia	secondary	trnL-trnF	48.1023186051073	18.8852015557266	0.000309119010819165
+Callianthemum_coriandrifolium	MH105625.1	31-MAR-2019	753	France	secondary	trnL-trnF	45.8605197854074	2.18487629651877	0.000473335134689716
+Callianthemum_coriandrifolium	MH105624.1	31-MAR-2019	947	France	secondary	trnL-trnF	46.2750008073493	0.815908888626365	0.000455198132072472
+Callianthemum_coriandrifolium	MH105623.1	31-MAR-2019	947	Slovakia	secondary	trnL-trnF	48.7404773153714	19.9239487870881	0.00117731260741059
+Callianthemum_coriandrifolium	MH105622.1	31-MAR-2019	947	Austria	secondary	trnL-trnF	36.644213796372	-5.78317253379144	0.000455198132072472
+Callianthemum_coriandrifolium	MH105621.1	31-MAR-2019	947	Austria	secondary	trnL-trnF	37.1838554089813	-3.97222194487698	0.000455198132072472
+Callianthemum_coriandrifolium	MH105620.1	31-MAR-2019	947	Italy	secondary	trnL-trnF	42.2967715816432	13.4729037907088	0.000455198132072472
+Callianthemum_coriandrifolium	MH105619.1	31-MAR-2019	947	France	secondary	trnL-trnF	45.7480756421228	2.22294935438731	0.000455198132072472
+Callianthemum_coriandrifolium	MH105618.1	31-MAR-2019	947	Spain	secondary	trnL-trnF	38.4938856379562	-4.81489077689465	0.000455198132072472
+Callianthemum_coriandrifolium	MH105617.1	31-MAR-2019	947	Spain	secondary	trnL-trnF	39.9985615460375	-4.43209345437146	0.000455198132072472
+Callianthemum_coriandrifolium	MH105616.1	31-MAR-2019	693	Italy	secondary	trnL-trnF	43.0446672363342	13.5007458331034	0.0055824089633544

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lonicera_alpigena	LC626566.1	15-OCT-2021	553	Japan:Yamanashi, Fujikawacho	secondary	rbcL	35.6928452	138.6871263	0.56015037593985
+Lonicera_alpigena	AB937211.1	04-OCT-2014	694	Japan: Niigata, Tsunan	secondary	rbcL	37.0143055	138.6524515	0.18671679197995
+Lonicera_alpigena	AB937202.1	04-OCT-2014	694	Japan: Hokkaido, Sapporo, Botanical Garden Hokkaido University	secondary	rbcL	43.0637749	141.3423348	0.18671679197995
+Lonicera_alpigena	AB937190.1	04-OCT-2014	694	Japan: Nagano, Ina	secondary	rbcL	35.830452	137.954916	0.18671679197995

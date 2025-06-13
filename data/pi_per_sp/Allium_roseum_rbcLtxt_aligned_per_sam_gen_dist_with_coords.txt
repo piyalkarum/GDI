@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_roseum	HF934218.1	12-MAY-2015	638	Spain	secondary	rbcL	39.0853529612643	-5.13215621341525	0.00104493207941484
+Allium_roseum	HF934217.1	12-MAY-2015	640	Tunisia	secondary	rbcL	36.8002068	10.1857757	0.00104493207941484
+Allium_roseum	HF934216.1	12-MAY-2015	640	Greece	secondary	rbcL	43.2097838	-77.6930602	0.00104493207941484
+Allium_roseum	HF934215.1	12-MAY-2015	638	Spain	secondary	rbcL	38.5192773559176	-5.04104002372783	0.00104493207941484

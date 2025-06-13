@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Moneses_uniflora	OR508858.1	17-OCT-2023	515	Kazakhstan: Qaragandy region	primary	matK	49.4475	75.47607	0.00360610263522885
+Moneses_uniflora	JN966382.1	27-OCT-2012	699	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	matK	58.692	-94.132	0.0044378833245036
+Moneses_uniflora	JN966381.1	27-OCT-2012	769	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	matK	58.734	-94.112	0.00410948971704869
+Moneses_uniflora	JN966380.1	27-OCT-2012	768	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	matK	58.633	-93.79	0.00410948971704869
+Moneses_uniflora	MT918165.1	03-MAR-2023	767	China	secondary	matK	35.000074	104.999927	0.0126531130710815
+Moneses_uniflora	MK926064.1	14-JAN-2020	763	United Kingdom	secondary	matK	54.2072338590468	-3.45257818104005	0.0038004797457619
+Moneses_uniflora	MK925881.1	14-JAN-2020	768	United Kingdom	secondary	matK	55.5293119879308	-3.66718346892204	0.00501110173397969
+Moneses_uniflora	MK925756.1	14-JAN-2020	767	United Kingdom	secondary	matK	54.3523479660497	-2.97291324697152	0.00378383417824293

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Haplophyllum_buxbaumii	EF489095.1	31-DEC-2008	1460	Tunisia	secondary	matK	36.8002068	10.1857757	0.0970890410958904
+Haplophyllum_buxbaumii	HM163984.1	18-APR-2011	1521	Turkey	secondary	matK	39.4277003365838	34.9956011379473	0.241236258249589
+Haplophyllum_buxbaumii	HM163983.1	18-APR-2011	1509	Turkey	secondary	matK	38.4785401364215	34.3013895295174	0.0925087602240439
+Haplophyllum_buxbaumii	HM163982.1	18-APR-2011	1509	Iraq	secondary	matK	33.1844008516492	44.9780357778638	0.0906363190718701
+Haplophyllum_buxbaumii	HM163981.1	18-APR-2011	1509	Iraq	secondary	matK	32.3151815851717	44.5043243446886	0.130295510044754

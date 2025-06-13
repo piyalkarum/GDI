@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tamarix_canariensis	MZ563074.1	24-APR-2022	522	Spain: Canary Islands, Gran Canarias, La Aldea de San Nicolas, Beach of La Aldea	primary	rbcL	28.228026884163	-14.930831248724	0
+Tamarix_canariensis	MZ563073.1	24-APR-2022	522	Spain: Canary Islands, Gran Canarias, La Aldea de San Nicolas, Beach of La Aldea	primary	rbcL	28.4344891357309	-15.9864586236061	0
+Tamarix_canariensis	MZ563072.1	24-APR-2022	522	Spain: Canary Islands, Gran Canarias, La Aldea de San Nicolas, Beach of La Aldea	primary	rbcL	28.1748043332027	-15.5600956353289	0
+Tamarix_canariensis	MZ563071.1	24-APR-2022	522	Spain: Canary Islands, Gran Canarias, La Aldea de San Nicolas, Beach of La Aldea	primary	rbcL	27.6928721527439	-15.1442585118559	0
+Tamarix_canariensis	MZ563070.1	24-APR-2022	522	Spain: Canary Islands, Gran Canarias, La Aldea de San Nicolas, Beach of La Aldea	primary	rbcL	28.5737687387524	-16.5201333856584	0

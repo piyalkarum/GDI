@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alyssum_dasycarpum	MT917593.1	03-MAR-2023	742	China	secondary	matK	35.7373542001465	104.795435761534	0
+Alyssum_dasycarpum	MT917591.1	03-MAR-2023	767	China	secondary	matK	35.4520233210162	105.547783607386	0
+Alyssum_dasycarpum	MT917590.1	03-MAR-2023	769	China	secondary	matK	34.835541485529	105.663654454245	0
+Alyssum_dasycarpum	MT917589.1	03-MAR-2023	769	China	secondary	matK	34.8552019954089	105.30724790673	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phleum_phleoides	MT929961.1	03-MAR-2023	778	China	secondary	matK	35.000074	104.999927	0.00271196767148085
+Phleum_phleoides	KM523884.1	12-JUL-2015	752	Russia: Stavropol	secondary	matK	44.8632577	43.4406913	0.00280033894669703
+Phleum_phleoides	LR606955.1	25-JAN-2021	2083	Norway	secondary	matK	64.5731537	11.5280364	0.00177505379267179
+Phleum_phleoides	MK925638.1	14-JAN-2020	738	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.00368692734546393

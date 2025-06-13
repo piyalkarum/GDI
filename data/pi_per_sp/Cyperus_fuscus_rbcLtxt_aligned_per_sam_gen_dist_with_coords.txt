@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cyperus_fuscus	MG226741.1	23-JAN-2018	552	Canada: Ontario, Toronto, City of, Toronto Islands, SE part of Ward's Island	primary	rbcL	43.632	-79.351	0
+Cyperus_fuscus	MG226534.1	23-JAN-2018	552	Canada: Ontario, Toronto, City of, Toronto Islands	primary	rbcL	43.617	-79.617	0
+Cyperus_fuscus	MK925278.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Cyperus_fuscus	MG227855.1	23-JAN-2018	552	Canada: Ontario, Durham R. M., Lake Ontario, McLaughlin Point, Shore, E of Oshawa	secondary	rbcL	44.0065779158414	-76.7861327195171	0
+Cyperus_fuscus	MG227437.1	23-JAN-2018	552	Canada: Ontario, Niagara R. M., Bertie Tp., Fort Erie Park, At mouth of Niagara River, S of Fort Erie	secondary	rbcL	43.5253917569119	-76.6254429993457	0
+Cyperus_fuscus	MG226148.1	23-JAN-2018	552	Canada: Ontario, Toronto, City of, Bluffers Point Park, Lake Ontario.	secondary	rbcL	43.0858907230284	-76.9633573923566	0
+Cyperus_fuscus	MG226075.1	23-JAN-2018	552	Canada: Ontario, Durham R. M., Lake Ontario, McLaughlin Point, Shore, E of Oshawa	secondary	rbcL	43.8819811506668	-77.0977766754971	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thymelaea_pubescens	AJ549464.1	06-MAR-2004	592	Spain:Cordoba	secondary	ITS1	37.8845813	-4.7760138	0.0118243243243243
+Thymelaea_pubescens	AJ549463.1	06-MAR-2004	592	Spain:Sierra de Gador,Almeria	secondary	ITS1	36.8785257	-2.4152799	0.0106981981981982
+Thymelaea_pubescens	AJ549462.1	06-MAR-2004	594	Spain:Madrid	secondary	ITS1	40.4167047	-3.7035825	0.0106944065277399
+Thymelaea_pubescens	AJ549461.1	06-MAR-2004	594	Spain:Pyrenees,Huesca	secondary	ITS1	42.5824012	0.538827167130727	0.011820532653866

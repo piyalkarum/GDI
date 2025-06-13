@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_trachelium	JN894557.1	07-MAR-2012	468	United Kingdom: Glamorgan	primary	matK	51.43	-3.44	NA
+Campanula_trachelium	MK555914.1	22-SEP-2019	235	Poland	secondary	matK	52.6218792818883	18.0880871414746	NA
+Campanula_trachelium	MK555817.1	22-SEP-2019	386	Poland	secondary	matK	52.2971771702647	20.0209331776138	NA
+Campanula_trachelium	MK555693.1	22-SEP-2019	366	Poland	secondary	matK	51.7478644395126	18.9427618954159	NA
+Campanula_trachelium	KJ204450.1	29-JAN-2015	748	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0885803878783979
+Campanula_trachelium	HE970685.1	18-SEP-2012	805	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.086810432134078
+Campanula_trachelium	JN896225.1	07-MAR-2012	789	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.0900108104656255

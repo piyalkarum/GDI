@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lepidium_campestre	OR538525.1	17-OCT-2023	610	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28833279	-85.61955311	0.000203500203500203
+Lepidium_campestre	OR464875.1	26-SEP-2023	616	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	rbcL	42.28826615	-85.61731875	0.000201288244766506
+Lepidium_campestre	MG248625.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Victoria, Fort & Fern Streets	primary	rbcL	48.429	-123.333	0.00182608437249601
+Lepidium_campestre	MG247979.1	21-JAN-2018	552	Canada: British Columbia, Castlegar	primary	rbcL	49.301	-117.656	0.000201288244766506
+Lepidium_campestre	MG245900.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	rbcL	45.188	-81.416	0.000201288244766506
+Lepidium_campestre	HQ590157.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, Racing Barn parking lot	primary	rbcL	44.03	-79.534	0.000201288244766506
+Lepidium_campestre	HQ590156.1	09-NOV-2011	588	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Gravelly mound E of racetrack	primary	rbcL	44.033	-79.538	0.000201288244766506
+Lepidium_campestre	JN891579.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.61	-2.72	0.000205380981721093
+Lepidium_campestre	JN892842.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.5290857704871	-1.93176767996812	0.000205380981721093
+Lepidium_campestre	JN890951.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.1904729977004	-3.38941114699498	0.000205380981721093

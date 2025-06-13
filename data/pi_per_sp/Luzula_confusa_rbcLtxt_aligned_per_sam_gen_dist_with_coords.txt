@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Luzula_confusa	KT960615.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.1855851064128	-21.9816346409615	0.0020703933747412
+Luzula_confusa	KT960612.1	13-DEC-2015	537	Greenland: NE, Zackenberg	primary	rbcL	74.7824222971338	-23.3506359792081	0.00212822559191274
+Luzula_confusa	KT960379.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.3337839143367	-21.1081837017018	0.0020703933747412
+Luzula_confusa	KC483116.1	25-OCT-2013	552	Canada: Nunavut, Brevoort Island, Brevoort Island, east of Baffin Island. BAF 3. A tundra rock-scape	primary	rbcL	63.34	-64.146	0.00416236601751496
+Luzula_confusa	KC483115.1	25-OCT-2013	523	Canada: Nunavut, Hudson Bay, Belcher Islands, Unnamed island between Kugong Island and Howard Peninusula	primary	rbcL	56.603	-79.611	0.00191204588910134
+Luzula_confusa	KC483114.1	25-OCT-2013	552	Canada: Nunavut	primary	rbcL	56.428	-79.164	0.0020703933747412
+Luzula_confusa	KC483113.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Cape Dorset, Aupaluktuk (The place where people camp)	primary	rbcL	64.233	-76.542	0.0020703933747412
+Luzula_confusa	KC483112.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Ogac Lake, Ney Harbour. North side of inner basin, crumbling face	primary	rbcL	62.842	-67.333	0.00416236601751496
+Luzula_confusa	KC483111.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.906	-109.597	0.0020703933747412
+Luzula_confusa	KC483110.1	25-OCT-2013	552	Canada: Northwest Territories, Northwest Territories Mainland, Tuktoyaktuk, Illisarvik, 60 km west of Tuktoyaktuk. Near stake 50W-300N	primary	rbcL	69.483	-134.583	0.0020703933747412
+Luzula_confusa	KC483109.1	25-OCT-2013	552	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island. East shore of Kihlbay, tundra west of cabins	primary	rbcL	56.461	-79.008	0.0020703933747412
+Luzula_confusa	KC483108.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Oterkvik Point, Oterkvik Point vicinity. Low rocky hills at coast	primary	rbcL	68.606	-113.144	0.0020703933747412
+Luzula_confusa	KC483107.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Western Hudson Bay coast, ca. 7 km SW along the Hudson Bay coast from Dawson Inlet, Sandy Ridge Fuel Cache	primary	rbcL	61.73	-93.3	0.0020703933747412
+Luzula_confusa	JN965652.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.6930672828551	-92.4049640938528	0.00976253162775399
+Luzula_confusa	JN965651.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	58.8541495513406	-94.6544608897466	0.00976253162775399

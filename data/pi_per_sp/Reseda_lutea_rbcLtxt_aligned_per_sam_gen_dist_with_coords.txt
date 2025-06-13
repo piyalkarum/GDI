@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Reseda_lutea	MG247428.1	21-JAN-2018	552	Canada: Ontario, Haliburton Co., Minden Tp., Conc. IV, S side of Bethel Rd. between Horseshoe and Kashagawigamog Lakes	primary	rbcL	44.967	-78.65	0
+Reseda_lutea	JN892081.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.52	-3.2	0
+Reseda_lutea	MW662018.1	11-AUG-2021	540	Italy: Tarquinia - Necropolis	secondary	rbcL	42.2499429	11.767858	0
+Reseda_lutea	JN893302.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0
+Reseda_lutea	JN893301.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0

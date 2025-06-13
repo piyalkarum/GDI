@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Coincya_richeri	MF572178.1	31-JUL-2018	575	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	rbcL	45.4970880755366	6.88875760357953	0
+Coincya_richeri	MF572177.1	31-JUL-2018	579	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	rbcL	44.8139775644471	7.33703930711873	0
+Coincya_richeri	MF572176.1	31-JUL-2018	575	Italy: Aosta Valley, Valgrisenche, Vaudet	secondary	rbcL	45.5609163	6.990425	0
+Coincya_richeri	MF572175.1	31-JUL-2018	575	Italy: Aosta Valley, Valgrisenche, A. Saxe Ponton	secondary	rbcL	45.8310942314768	6.29820177233235	0

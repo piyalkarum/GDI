@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_bebbiana	MG220943.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	45.2788609943868	-72.9851487342497	0.000289729103288425
+Salix_bebbiana	MG220914.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	44.8540954118586	-73.2688416832774	0.000289729103288425
+Salix_bebbiana	MG220773.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	45.1727916982157	-73.2339705166971	0.000289729103288425
+Salix_bebbiana	MG220738.1	21-JAN-2018	824	Canada: Quebec, Jardin botanique de Montreal	primary	matK	45.9626941011049	-73.1271404309196	0.000289729103288425
+Salix_bebbiana	HQ593426.1	09-NOV-2011	794	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., NE of Willow Ridge, S of marsh	primary	matK	44.025	-79.536	0.000289729103288425
+Salix_bebbiana	KJ593097.1	17-MAR-2015	776	USA: Wisconsin, Laona	primary	matK	45.56	-88.798	0.000289729103288425
+Salix_bebbiana	KJ840994.1	23-SEP-2014	793	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	matK	45.535	-73.149	0.000289729103288425
+Salix_bebbiana	JN966548.1	27-OCT-2012	788	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	matK	58.692	-94.132	0.000289729103288425
+Salix_bebbiana	JN966547.1	27-OCT-2012	792	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	matK	58.7006348142563	-94.8581875542878	0.000289729103288425
+Salix_bebbiana	JN966546.1	27-OCT-2012	787	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	matK	58.7718026837924	-93.0683063049797	0.000289729103288425
+Salix_bebbiana	JN966545.1	27-OCT-2012	789	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	matK	58.633	-93.79	0.000289729103288425
+Salix_bebbiana	JN966544.1	27-OCT-2012	531	Canada: Manitoba, Churchill, Vicinity of Churchill, CNR tracks	primary	matK	58.74	-93.82	0.00635910578248513
+Salix_bebbiana	HE820973.1	25-JUL-2012	835	Russia:Jewish Autonomous Oblast	secondary	matK	48.5601613	132.2775662	0.00158604282315623
+Salix_bebbiana	FR695021.1	07-OCT-2010	835	Russia:Kamchatka	secondary	matK	57.1914882	160.0383819	0.00158604282315623

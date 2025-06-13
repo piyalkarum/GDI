@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eremopyrum_triticeum	OR626653.1	05-NOV-2023	802	Kazakhstan: Qaragandy region	primary	matK	47.36201	74.74058	0.00342319212665811
+Eremopyrum_triticeum	MF597357.1	17-JUL-2018	785	Canada: British Columbia, Edge of Ravenhill Road and Hwy. 3, just E of Osoyoos (~7 km).	primary	matK	49.011	-119.307	0.018270260455471
+Eremopyrum_triticeum	MT929996.1	03-MAR-2023	783	China	secondary	matK	34.9846285913977	104.773944270128	0.00344312015326867
+Eremopyrum_triticeum	MT929993.1	03-MAR-2023	779	China	secondary	matK	35.2009284286111	105.279930161095	0.0095168543431681
+Eremopyrum_triticeum	KP210646.1	31-AUG-2017	888	Russia	secondary	matK	64.8882914638147	99.3991172784599	NA
+Eremopyrum_triticeum	KP210594.1	31-AUG-2017	321	Russia	secondary	matK	64.8912109240545	98.5870139974587	NA
+Eremopyrum_triticeum	KP210542.1	31-AUG-2017	321	Russia	secondary	matK	64.238384965907	98.0818965000586	NA

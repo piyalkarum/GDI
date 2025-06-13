@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxalis_stricta	MG221112.1	21-JAN-2018	777	Canada: Ontario, Algoma District, Sault Ste. Marie, Sault Ste. Marie	primary	matK	46.501	-84.441	0.0020831661605287
+Oxalis_stricta	MG221065.1	21-JAN-2018	591	USA: North Dakota	primary	matK	48.045	-100.911	0.00175107820312202
+Oxalis_stricta	MG220923.1	21-JAN-2018	475	USA: North Dakota	primary	matK	47.906	-101.306	0.00300751879699248
+Oxalis_stricta	MG220891.1	21-JAN-2018	772	USA: North Dakota	primary	matK	47.404	-101.925	0.0020831661605287
+Oxalis_stricta	MG220627.1	21-JAN-2018	777	Canada: Ontario, Algoma District, Michipicoten Twp., Michipicoten Bay	primary	matK	47.93	-84.843	0.0020831661605287
+Oxalis_stricta	KC481677.1	22-APR-2013	759	South Korea	secondary	matK	36.9130518676898	128.634528147898	0.00286571357595163
+Oxalis_stricta	KC481676.1	22-APR-2013	762	South Korea	secondary	matK	36.0729551924026	127.263908049321	0.00286818343407749
+Oxalis_stricta	KC481675.1	22-APR-2013	759	South Korea	secondary	matK	37.0422261353891	128.490014965581	0.00286818343407749

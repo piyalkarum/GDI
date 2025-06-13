@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stachys_germanica	MG224225.1	26-DEC-2017	552	Canada: Arkell	primary	rbcL	43.5373	-80.1678	0
+Stachys_germanica	MG221855.1	26-DEC-2017	552	Canada: Wellington	primary	rbcL	43.95	-77.35	0
+Stachys_germanica	MK925432.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0415847434135	-3.95901304912434	0
+Stachys_germanica	MK925006.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.012664156477	-4.17385283762392	0
+Stachys_germanica	MK924968.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5517369641332	-4.80990775910622	0

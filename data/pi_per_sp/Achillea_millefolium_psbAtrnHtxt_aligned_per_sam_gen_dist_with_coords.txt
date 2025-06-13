@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achillea_millefolium	OR678675.1	06-NOV-2023	400	Kazakhstan: Qaragandy region	primary	psbA-trnH	49.756	73.11774	0.00394363030865291
+Achillea_millefolium	OR237401.1	17-SEP-2023	426	Kazakhstan: Buiratau National Park	primary	psbA-trnH	51.1626	73.196	0.00442662451020979
+Achillea_millefolium	OK469617.1	04-JAN-2022	463	USA: Fort Worth Botanic Gardens	primary	psbA-trnH	32.73543323	-97.36452243	0.00344203148707886
+Achillea_millefolium	OK469412.1	04-JAN-2022	463	USA: Texas, Jeff Davis County	primary	psbA-trnH	30.64069377	-104.16478416	0.00471015192379955
+Achillea_millefolium	KP643589.1	08-DEC-2015	463	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	38.892	-78.146	0.00471015192379955
+Achillea_millefolium	MF348813.1	21-SEP-2017	463	USA: District of Columbia; Smithsonian Gardens, Butterfly Habitat Garden. Center aisle	primary	psbA-trnH	38.869	-76.914	0.00344203148707886
+Achillea_millefolium	OR381728.1	30-SEP-2023	463	Canada: Guelph, ON	secondary	psbA-trnH	42.8924709166309	-80.2919545319594	0.00408608856389262
+Achillea_millefolium	OR381727.1	30-SEP-2023	463	Canada: Guelph, ON	secondary	psbA-trnH	43.690472251199	-80.9389560706327	0.00408608856389262
+Achillea_millefolium	OQ320373.1	14-JUN-2023	358	Latvia	secondary	psbA-trnH	56.8406494	24.7537645	0.00524627953826778
+Achillea_millefolium	OQ310591.1	16-MAY-2023	498	Mexico: Puebla	secondary	psbA-trnH	19.1705686	-98.4123106	0.00527198051693641
+Achillea_millefolium	MW509704.1	08-MAR-2021	465	Pakistan	secondary	psbA-trnH	30.1730213698818	71.139931055378	0.00420151394372018
+Achillea_millefolium	MK578160.1	24-JUN-2019	479	Pakistan	secondary	psbA-trnH	30.3613143931347	71.0049462360494	0.0271981845414086
+Achillea_millefolium	MG947062.1	29-MAY-2018	454	Pakistan	secondary	psbA-trnH	29.9485472242556	71.6386827661642	0.00566330855475728
+Achillea_millefolium	HG800489.1	03-FEB-2014	461	Italy:Lombardy, Grigna settentrionale	secondary	psbA-trnH	45.9533979	9.3876756	0.00410764388816452

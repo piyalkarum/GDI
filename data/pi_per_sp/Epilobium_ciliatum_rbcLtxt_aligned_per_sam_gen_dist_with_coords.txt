@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_ciliatum	KP643947.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.0873985344781	-78.0439443589433	0.00148221343873518
+Epilobium_ciliatum	KP643880.1	08-DEC-2015	553	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	rbcL	38.5348833873703	-79.1496509981177	0.00148221343873518
+Epilobium_ciliatum	MG249518.1	21-JAN-2018	552	Canada: Yukon Territory, Snafu Lakes, creek joining upper and lower	primary	rbcL	60.128	-133.729	0.0028015407855496
+Epilobium_ciliatum	MG249505.1	21-JAN-2018	553	Canada: Ontario, Middlesex, Middlesex, London, 3346 Reagan Bourne, ON N6N 1K8	primary	rbcL	43.8674400714731	-81.4671299417772	0.00148221343873518
+Epilobium_ciliatum	MG249327.1	21-JAN-2018	552	Canada: Manitoba, Winnipeg, Airport	primary	rbcL	49.904	-97.226	0.00148221343873518
+Epilobium_ciliatum	MG248027.1	21-JAN-2018	551	Canada: Quebec, Montreal, Island of Montreal, Parc du Bois-de-Liesse	primary	rbcL	45.499	-73.779	0.00148490348127372
+Epilobium_ciliatum	MG246765.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Haley Lake	primary	rbcL	49	-124.3	0.0125290990693347
+Epilobium_ciliatum	MG246583.1	21-JAN-2018	553	Canada: Ontario, Middlesex, Middlesex, London	primary	rbcL	42.8083499827194	-79.9621046941487	0.00148221343873518
+Epilobium_ciliatum	KM212120.1	04-NOV-2014	552	Canada: Quebec, Monteregie, Mont Saint-Hilaire, Area where North Creek enters into Lac Hertel	primary	rbcL	45.548	-73.152	0.00148221343873518
+Epilobium_ciliatum	MG246883.1	21-JAN-2018	552	Canada: Ontario, Renfrew District, Petawawa, NEBIE field study site	secondary	rbcL	43.7399109238691	-78.7150850849308	0.00148221343873518
+Epilobium_ciliatum	MG246133.1	21-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.5901735288431	-76.9918338155769	0.00263685040346791
+Epilobium_ciliatum	HE574585.1	31-JUL-2011	567	Finland	secondary	rbcL	63.2467777	25.9209164	0.00149576200764501

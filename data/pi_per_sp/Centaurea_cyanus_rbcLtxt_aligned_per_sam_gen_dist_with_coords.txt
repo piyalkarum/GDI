@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_cyanus	MG224466.1	26-DEC-2017	552	Canada: Yukon Territory, Whitehorse, Steele and 4th Streets	primary	rbcL	60.72	-135.06	0.000738007380073801
+Centaurea_cyanus	JN892802.1	07-MAR-2012	535	United Kingdom: Monmouthshire	primary	rbcL	51.78	-3.21	0
+Centaurea_cyanus	MW010946.1	27-JUL-2021	553	Belgium	secondary	rbcL	50.6402809	4.6667145	0.00110497237569061
+Centaurea_cyanus	JN891415.1	07-MAR-2012	541	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.00112994350282486
+Centaurea_cyanus	JN890909.1	07-MAR-2012	529	United Kingdom: Pembrokeshire	secondary	rbcL	51.8339209	-4.916667	0.00115606936416185
+Centaurea_cyanus	HE574606.1	31-JUL-2011	563	Finland	secondary	rbcL	63.2467777	25.9209164	0.00412899262275112

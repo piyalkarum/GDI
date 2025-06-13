@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_ramosissima	MK556090.1	22-SEP-2019	329	Hungary	secondary	rbcL	42.58225915089	-72.428855876162	0.582650295505566
+Campanula_ramosissima	MK556008.1	22-SEP-2019	334	Hungary	secondary	rbcL	41.5129410315479	-72.8742800350585	0.570139568410146
+Campanula_ramosissima	MK555563.1	22-SEP-2019	357	Hungary	secondary	rbcL	41.953892264948	-73.8625701722462	0.491732707502612
+Campanula_ramosissima	MK555551.1	22-SEP-2019	357	Hungary	secondary	rbcL	41.5242522797855	-73.8071638967512	0.491732707502612
+Campanula_ramosissima	MK555369.1	22-SEP-2019	382	Hungary	secondary	rbcL	41.4045067233	-72.0530952704345	0.500269655704548
+Campanula_ramosissima	MK555360.1	22-SEP-2019	382	Hungary	secondary	rbcL	42.5421160001305	-73.4981763779602	0.496131490183988

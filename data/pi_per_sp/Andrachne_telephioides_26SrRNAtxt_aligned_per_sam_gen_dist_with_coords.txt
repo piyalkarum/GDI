@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Andrachne_telephioides	AM745808.1	08-JAN-2008	723	Spain:Canary Islands	primary	26S rRNA	28.36	-14.02	0.0314109610326828
+Andrachne_telephioides	AM745806.1	08-JAN-2008	735	Oman	primary	26S rRNA	17.32	54.08	0.0362775662827735
+Andrachne_telephioides	AM745804.1	08-JAN-2008	735	Tajikistan	primary	26S rRNA	38.56	68.77	0.0321294622859727
+Andrachne_telephioides	AM745802.1	08-JAN-2008	727	Turkey	primary	26S rRNA	36.87	30.55	0.066848785322207

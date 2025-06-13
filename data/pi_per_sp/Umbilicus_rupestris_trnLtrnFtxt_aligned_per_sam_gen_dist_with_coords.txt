@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Umbilicus_rupestris	MK725869.1	25-FEB-2020	219	Portugal: Azores, Sao Miguel	secondary	trnL-trnF	37.6798089427929	-26.3012194803269	0
+Umbilicus_rupestris	MK725868.1	25-FEB-2020	219	Portugal: Azores, Sao Miguel	secondary	trnL-trnF	37.6792110205148	-25.8394288596214	0
+Umbilicus_rupestris	MK725867.1	25-FEB-2020	219	Portugal: Sintra	secondary	trnL-trnF	38.79846	-9.3881	0
+Umbilicus_rupestris	MK725866.1	25-FEB-2020	219	Portugal: Minho	secondary	trnL-trnF	41.8803257	-8.5232553	0

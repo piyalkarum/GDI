@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Senecio_eriopus	JX895003.1	19-DEC-2012	440	Spain: Algodonales, ladera norte de la sierra de L jar	secondary	trnK	37.6782689502383	-4.91234878971269	0.315555555555556
+Senecio_eriopus	JX894931.1	19-DEC-2012	478	Spain: Algodonales, ladera norte de la sierra de L jar	secondary	trnK	36.0638845354876	-5.02284182927101	0.315555555555556
+Senecio_eriopus	JX895013.1	19-DEC-2012	440	Morocco	secondary	trnK	35.2686258067933	-5.36589012027031	0.315555555555556
+Senecio_eriopus	JX895002.1	19-DEC-2012	440	Spain	secondary	trnK	36.7875305311503	-5.68972850546028	0.315555555555556
+Senecio_eriopus	JX894941.1	19-DEC-2012	478	Morocco	secondary	trnK	36.0732209964665	-5.31017929107946	0.315555555555556
+Senecio_eriopus	JX894930.1	19-DEC-2012	478	Spain	secondary	trnK	37.0841842367724	-4.98053661644155	0.315555555555556

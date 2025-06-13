@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_spicata	KX914745.2	07-MAR-2017	452	India	primary	atpF-atpH	22.67	81.75	0.000565610859728507
+Mentha_spicata	KX914744.2	07-MAR-2017	452	India	primary	atpF-atpH	22.53	73	0.000565610859728507
+Mentha_spicata	KX914743.2	07-MAR-2017	452	India	primary	atpF-atpH	21.25	81.68	0.000565610859728507
+Mentha_spicata	KX914742.2	07-MAR-2017	452	India	primary	atpF-atpH	26.92	80.98	0.000565610859728507
+Mentha_spicata	KM009037.1	22-SEP-2014	472	Cyprus	secondary	atpF-atpH	34.9174159	32.8899027	0.00226244343891403

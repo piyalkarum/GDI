@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Platanthera_hyperborea	KJ841477.1	04-NOV-2014	571	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Along trail between Gault House and Botany Bay	primary	rbcL	45.543	-73.148	0.00483091787439614
+Platanthera_hyperborea	KC483459.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.0178943466069	-115.86643213093	0.0292631462046754
+Platanthera_hyperborea	KC483458.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Yellowknife, ~4 km along dirt road to Vee Lake (turnoff to unnamed dirt road 45 km N of jct of Hwy #4 and #5 just past Giant Mine), N of Trapper Lake	primary	rbcL	62.9549854452947	-113.64833948635	0.00483091787439614
+Platanthera_hyperborea	JN965642.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 16 km SW Churchill, Churchill River Pump House, River bank, pond beside the Pump House	primary	rbcL	58.626	-94.23	0.00483091787439614
+Platanthera_hyperborea	JN965641.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 23 km E Churchill, Ramsay Creek, Tundra, creek bank	primary	rbcL	58.731	-93.78	0.00483091787439614
+Platanthera_hyperborea	JN965635.1	27-OCT-2012	522	Canada: Manitoba	primary	rbcL	57.7394995822223	-93.1161987402291	0.00510855683269476
+Platanthera_hyperborea	JN965634.1	27-OCT-2012	552	Canada: Manitoba	primary	rbcL	57.1771652497363	-92.0756984681977	0.00483091787439614

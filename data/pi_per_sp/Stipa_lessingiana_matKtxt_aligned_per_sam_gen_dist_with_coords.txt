@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Stipa_lessingiana	OR738295.1	13-NOV-2023	801	Kazakhstan: Mangistau region	primary	matK	44.28015	51.25251	0.000364460541451692
+Stipa_lessingiana	OR738274.1	13-NOV-2023	799	Kazakhstan: Atyrau region	primary	matK	48.27419	52.23576	0.000364689153115916
+Stipa_lessingiana	OR626654.1	05-NOV-2023	883	Kazakhstan: Qaragandy region	primary	matK	49.48573	75.41885	0.000359142164575995
+Stipa_lessingiana	KC129540.1	05-NOV-2013	780	Greece: Peloponnese, Achaia	primary	matK	38.018	22.178	0.000367720135161996
+Stipa_lessingiana	MT930004.1	03-MAR-2023	815	China	secondary	matK	35.3777614512607	104.140485600671	0.000903727388864847
+Stipa_lessingiana	MT930002.1	03-MAR-2023	777	China	secondary	matK	35.5027993333042	105.507914531831	0.000919999258869691
+Stipa_lessingiana	MT930001.1	03-MAR-2023	777	China	secondary	matK	35.602436224551	104.276191183871	0.000367714653428939
+Stipa_lessingiana	FN434302.1	14-JUL-2011	809	Turkey:Konya, South of Kiziloeren, 1550m	secondary	matK	37.872734	32.4924376	0

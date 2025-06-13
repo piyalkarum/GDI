@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alopecurus_myosuroides	JN894202.1	07-MAR-2012	1050	United Kingdom: Monmouthshire	primary	matK	51.79	-2.78	0
+Alopecurus_myosuroides	OK247785.1	27-OCT-2022	788	Turkey	secondary	matK	39.5374189381354	34.3026641176039	0
+Alopecurus_myosuroides	KM523832.1	12-JUL-2015	752	Turkey	secondary	matK	38.2513344182647	34.6034336932034	0
+Alopecurus_myosuroides	KM523831.1	12-JUL-2015	752	Turkey	secondary	matK	39.1961149126732	34.100039220156	0
+Alopecurus_myosuroides	KJ204438.1	29-JAN-2015	814	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0
+Alopecurus_myosuroides	FN908046.1	17-MAY-2012	2342	Portugal:Azores	secondary	matK	37.8085564	-25.4731374	0

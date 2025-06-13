@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geranium_sanguineum	MF348709.1	21-SEP-2017	424	USA: District of Columbia; US Botanical Garden, Washington	primary	psbA-trnH	38.888	-77.012	0.000788022064617809
+Geranium_sanguineum	HG800530.1	03-FEB-2014	311	Italy:Lombardy, Grigna settentrionale	secondary	psbA-trnH	45.9533979	9.3876756	0
+Geranium_sanguineum	FR865071.1	09-JUN-2011	449	Italy:Lombardy	secondary	psbA-trnH	45.5703694	9.7732524	0.000788022064617809
+Geranium_sanguineum	HE966652.1	18-SEP-2012	311	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0

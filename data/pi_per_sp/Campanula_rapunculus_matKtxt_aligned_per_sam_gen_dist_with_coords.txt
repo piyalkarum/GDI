@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_rapunculus	MK555953.1	22-SEP-2019	235	Italy	secondary	matK	41.9714308578243	13.3058146566682	0.47921823908666
+Campanula_rapunculus	MK555861.1	22-SEP-2019	386	Italy	secondary	matK	42.1886008853805	12.0649254236083	NA
+Campanula_rapunculus	MK555717.1	22-SEP-2019	366	Italy	secondary	matK	43.1841037746694	12.0053257659096	NA
+Campanula_rapunculus	HE970684.1	18-SEP-2012	805	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.124458874458874
+Campanula_rapunculus	JN893981.1	07-MAR-2012	815	United Kingdom: Essex,South	secondary	matK	51.5395684	0.7105271	0.12390350877193

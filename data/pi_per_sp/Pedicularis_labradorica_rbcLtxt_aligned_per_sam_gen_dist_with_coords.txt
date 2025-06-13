@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_labradorica	MG223208.1	26-DEC-2017	552	Canada: Yukon Territory, Dempster Highway, km 116 just past Chapman Lake	primary	rbcL	64.846	-138.323	0
+Pedicularis_labradorica	KC483379.1	25-OCT-2013	552	Canada: Northwest Territories, NWT mainland, Sitidgi Creek, N end of Sitidgi Lake, 50 km NE of Inuvik	primary	rbcL	68.68	-132.9	0
+Pedicularis_labradorica	KC483378.1	25-OCT-2013	552	Canada: Northwest Territories, Tuktoyaktuk, Shore of Beaufort Sea	primary	rbcL	69.45	-133.033	0
+Pedicularis_labradorica	KC483377.1	25-OCT-2013	552	Canada: Nunavut	primary	rbcL	56.325	-79.228	0
+Pedicularis_labradorica	KC483376.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, Meliadine River Park	primary	rbcL	62.883	-92.2	0
+Pedicularis_labradorica	KC483375.1	25-OCT-2013	552	Canada: Nunavut, Baffin Island, Soper River, Soper River at Mt.Joy	primary	rbcL	63.2667	-69.6333	0
+Pedicularis_labradorica	JN965718.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	rbcL	58.692	-94.132	0
+Pedicularis_labradorica	JN965717.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Top of kame	primary	rbcL	58.633	-93.79	0

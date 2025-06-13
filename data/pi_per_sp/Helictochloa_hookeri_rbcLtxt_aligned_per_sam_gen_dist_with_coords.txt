@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helictochloa_hookeri	MF596592.1	28-FEB-2018	603	Canada: Manitoba, 3 miles South of Spruce Woods Provincial Park southern boundary on Hwy 5 towards Glenboro.	primary	rbcL	49.4884353621913	-99.0011523072129	0
+Helictochloa_hookeri	MF596591.1	28-FEB-2018	603	Canada: Saskatchewan, Cypress Hills Provincial Park, near overlook (East Park).	primary	rbcL	50.204909791933	-108.757022739703	0
+Helictochloa_hookeri	MG227126.1	23-JAN-2018	603	Canada: Manitoba, 3 miles South of Spruce Woods Provincial Park southern boundary on Hwy 5 towards Glenboro.	primary	rbcL	49.6661494970405	-98.021669894394	0
+Helictochloa_hookeri	MG226312.1	23-JAN-2018	603	Canada: Saskatchewan, Cypress Hills Provincial Park, near overlook (East Park).	primary	rbcL	49.0979055167191	-109.758070504164	0
+Helictochloa_hookeri	JX848488.1	06-AUG-2013	1368	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0

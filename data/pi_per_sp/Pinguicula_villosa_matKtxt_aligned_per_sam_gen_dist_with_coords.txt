@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinguicula_villosa	KC475283.1	25-OCT-2013	746	Canada: Nunavut, Hudson Bay West, Rankin Inlet	primary	matK	62.883	-92.2	0.00223413762287757
+Pinguicula_villosa	KC475282.1	25-OCT-2013	674	Canada: Northwest Territories, Peel River, Blueberry Hill	primary	matK	68.478	-135.625	0
+Pinguicula_villosa	JN966420.1	27-OCT-2012	679	Canada: Manitoba, Churchill, 9 km S Churchill, Goose Creek Cabin Bog, Bog	primary	matK	58.692	-94.132	0
+Pinguicula_villosa	JN966419.1	27-OCT-2012	813	Canada: Manitoba, Churchill, Wapusk National Park, unspecified locality	primary	matK	58.178	-93.637	0.00223413762287757

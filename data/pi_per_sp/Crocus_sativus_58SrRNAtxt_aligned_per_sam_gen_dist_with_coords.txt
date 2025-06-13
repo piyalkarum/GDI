@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_sativus	LS398407.1	01-SEP-2018	647	Spain	secondary	5.8S rRNA	39.3260685	-4.8379791	0.00463678516228748
+Crocus_sativus	LS398406.1	01-SEP-2018	647	Iran	secondary	5.8S rRNA	32.6475314	54.5643516	0.00463678516228748
+Crocus_sativus	LS398405.1	01-SEP-2018	647	France	secondary	5.8S rRNA	46.603354	1.8883335	0.00463678516228748
+Crocus_sativus	HE801144.1	16-APR-2012	656	Italy	secondary	5.8S rRNA	42.6384261	12.674297	0.0139103554868624

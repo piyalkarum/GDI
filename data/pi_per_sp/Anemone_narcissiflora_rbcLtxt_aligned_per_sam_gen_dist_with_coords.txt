@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anemone_narcissiflora	LC376982.1	18-APR-2018	262	Japan: Toyama, Mt.Taro	primary	rbcL	36.44	137.51	0.262148687310719
+Anemone_narcissiflora	MG248767.1	21-JAN-2018	552	Canada: Yukon Territory, Richardson Mountains.	primary	rbcL	67.3167	-136.25	0.273715698641687
+Anemone_narcissiflora	MG248322.1	21-JAN-2018	552	USA: Alaska, Healy Quad., Nenana R. Canyon, Antler Creek	primary	rbcL	63.767	-149	0.273715698641687
+Anemone_narcissiflora	MG247074.1	21-JAN-2018	439	Canada: Yukon Territory, Dempster Highway, Honeymoon Pit	primary	rbcL	64.517	-138.233	0.279005818515369
+Anemone_narcissiflora	MG246869.1	21-JAN-2018	552	Canada: Yukon Territory, Mount Klotz camp	primary	rbcL	65.363	-140.182	0.273715698641687
+Anemone_narcissiflora	MG246645.1	21-JAN-2018	489	Canada: Yukon Territory, Kotaneelee Range	primary	rbcL	60.246	-124.134	0.276826374658105
+Anemone_narcissiflora	LC631182.1	10-NOV-2021	553	Japan:Yamanashi, Minami-alps	secondary	rbcL	35.6083617	138.4649893	0.274094935811248
+Anemone_narcissiflora	MF572154.1	31-JUL-2018	579	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	rbcL	45.5963562886626	6.17099830776399	0.275231427350709
+Anemone_narcissiflora	MF572153.1	31-JUL-2018	572	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	rbcL	45.1771397035583	6.79318514518685	0.27694801051838
+Anemone_narcissiflora	MF572152.1	31-JUL-2018	574	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	rbcL	45.2535604993681	6.74883597938864	0.276818937074566
+Anemone_narcissiflora	MF572151.1	31-JUL-2018	574	Italy: Aosta Valley, Courmayeur, Val Ferret	secondary	rbcL	46.1571522945193	8.11654025506167	0.276818937074566
+Anemone_narcissiflora	MG246628.1	21-JAN-2018	552	USA: Alaska, Maclaren Summit, MP 31, Denali Highway	secondary	rbcL	39.5433294415008	-85.6197434984963	0.273715698641687
+Anemone_narcissiflora	MG246533.1	21-JAN-2018	552	USA: Alaska, Eagle Summit, side road to summit of adjoining hill, White Mountains, Steese Highway	secondary	rbcL	39.094168884345	-86.0278446525501	0.273715698641687
+Anemone_narcissiflora	AB248034.1	20-APR-2006	737	Japan:Yamanashi, Mt. Kitadake	secondary	rbcL	35.674321	138.238808	0.323978021696815
+Anemone_narcissiflora	AB248033.1	20-APR-2006	764	Japan:Shizuoka, Mt. Akaishidake	secondary	rbcL	35.4612203	138.1573535	0.323821076786769
+Anemone_narcissiflora	AB248032.1	20-APR-2006	752	Japan:Nagano, Mt. Utsugidake	secondary	rbcL	35.7189925	137.8171028	0.323880849882145
+Anemone_narcissiflora	AB248031.1	20-APR-2006	746	Japan:Ishikawa, Mts. Hakusan	secondary	rbcL	37.1570412	140.4468974	0.323821076786769
+Anemone_narcissiflora	AB248030.1	20-APR-2006	746	Japan:Nagano, Mt. Shiroumadake	secondary	rbcL	36.7584922	137.758539	0.323718454725222
+Anemone_narcissiflora	AB248029.1	20-APR-2006	735	Japan:Gunma, Mt. Tanigawadake	secondary	rbcL	43.6845627	141.6387999	0.325810721670719
+Anemone_narcissiflora	AB248028.1	20-APR-2006	747	Japan:Yamagata, Mts. Iidesan	secondary	rbcL	38.8234473785769	140.37240601495	0.325503674709298
+Anemone_narcissiflora	AB248027.1	20-APR-2006	749	Japan:Yamagata, Mts. Gassan	secondary	rbcL	38.5879609760693	140.176430656669	0.323440574883268
+Anemone_narcissiflora	AB248026.1	20-APR-2006	748	Japan:Iwate, Mt. Yakeishidake	secondary	rbcL	39.1637016	140.8288204	0.323820596949918
+Anemone_narcissiflora	AB248025.1	20-APR-2006	749	Japan:Hokkaido, Mt. Yubaridake	secondary	rbcL	43.5193860549042	143.552545788579	0.324757249270948
+Anemone_narcissiflora	AB248024.1	20-APR-2006	745	Japan:Hokkaido, Mts. Taisetsuzan	secondary	rbcL	43.3797147711074	144.319414313477	0.324699995890349

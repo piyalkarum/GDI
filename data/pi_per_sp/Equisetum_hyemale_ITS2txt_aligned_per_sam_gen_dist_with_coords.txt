@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Equisetum_hyemale	AB817889.1	17-APR-2014	606	South Korea: Gyeongsangbuk-do	secondary	ITS2	36.5754	128.5058	0
+Equisetum_hyemale	AB817888.1	17-APR-2014	606	South Korea: Gangwon-do	secondary	ITS2	38.2555283604951	127.370346911688	0
+Equisetum_hyemale	AB817887.1	17-APR-2014	606	South Korea: Gangwon-do	secondary	ITS2	38.0939405151717	126.856598328924	0
+Equisetum_hyemale	AB817886.1	17-APR-2014	606	South Korea: Gangwon-do	secondary	ITS2	37.7031567825625	127.90361837357	0
+Equisetum_hyemale	AB817885.1	17-APR-2014	606	South Korea: Gangwon-do	secondary	ITS2	37.2983544007066	127.188277393849	0
+Equisetum_hyemale	AB817884.1	17-APR-2014	606	South Korea: Gangwon-do, Jeongseon-gun, Jeongseon-eup	secondary	ITS2	37.3796216	128.6618047	0
+Equisetum_hyemale	AB817883.1	17-APR-2014	606	South Korea: Gangwon-do, Pyeongchang-gun, Jinbu-myeon	secondary	ITS2	37.6230237	128.5555834	0
+Equisetum_hyemale	AB817882.1	17-APR-2014	606	South Korea: Gangwon-do, Inje-gun, Girin-myeon, Bangdong-ri	secondary	ITS2	37.92512	128.40756	0
+Equisetum_hyemale	AB817880.1	17-APR-2014	606	South Korea: Gangwon-do, jeombongsan	secondary	ITS2	38.04874	128.425643	0

@@ -1,0 +1,18 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Comarum_palustre	MG249172.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Russel Island Bog, FFNMP	primary	rbcL	45.266	-81.7	0.000366261074928123
+Comarum_palustre	MG249163.1	21-JAN-2018	552	Canada: Yukon Territory, Beaver River BR-W1	primary	rbcL	60.206	-125.091	0.000366261074928123
+Comarum_palustre	KX678847.1	29-APR-2017	552	Canada: British Columbia, Squamish-Lillooet Regional District, Small pond just off west side of Hwy 101	primary	rbcL	50.069	-123.097	0.000366261074928123
+Comarum_palustre	KX678723.1	29-APR-2017	552	Canada: British Columbia, Thompson-Nicola Regional District, Shea Lake Forest Recreation Site	primary	rbcL	49.9024	-120.736	0.000366261074928123
+Comarum_palustre	KX677973.1	29-APR-2017	548	Canada: British Columbia, Vancouver Island, Comox-Strathcona Regional District, Gosling Lake Forest Recreation Site	primary	rbcL	50.0449	-125.501	0.000367087532137474
+Comarum_palustre	KC482461.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	rbcL	66.839	-108.035	0.000366261074928123
+Comarum_palustre	KC482460.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Unnamed island between Kugong Island and Howard Peninusula	primary	rbcL	56.603	-79.611	0.000366261074928123
+Comarum_palustre	JN965451.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0.000366261074928123
+Comarum_palustre	JN890807.1	07-MAR-2012	542	United Kingdom: Shetland (112)	primary	rbcL	60.3	-1.61	0.000368350090383495
+Comarum_palustre	OR670269.1	06-NOV-2023	587	Kazakhstan: Akmola region	secondary	rbcL	51.8742347	69.8582132	0.00193265798860727
+Comarum_palustre	MF572227.1	31-JUL-2018	494	Italy: Aosta Valley, Arvier, Planaval	secondary	rbcL	45.6731324	7.0800418	0.00392676029884386
+Comarum_palustre	MF572226.1	31-JUL-2018	570	Italy: Aosta Valley, Arvier, Boregne	secondary	rbcL	44.9224567218459	6.82032945532144	0.000472334682860999
+Comarum_palustre	MF572225.1	31-JUL-2018	574	Italy: Aosta Valley, Arvier, Boregne	secondary	rbcL	45.601805222846	6.73535801001021	0.000361921454668566
+Comarum_palustre	MF572224.1	31-JUL-2018	574	Italy: Aosta Valley, Arvier, Boregne	secondary	rbcL	45.9936465921847	6.71088793121425	0.000361921454668566
+Comarum_palustre	MG248041.1	21-JAN-2018	553	Canada: Ontario, Thunder Bay District, Geraldton	secondary	rbcL	49.7188752	-86.9493168	0.000366056328747868
+Comarum_palustre	MG247747.1	21-JAN-2018	552	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	rbcL	43.72634945	-77.7101179040839	0.000366261074928123
+Comarum_palustre	JN893736.1	07-MAR-2012	517	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00037862170731221

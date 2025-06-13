@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_pratensis	OR738080.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.00765523509541
+Lathyrus_pratensis	MG249191.1	21-JAN-2018	552	Canada: Almonte, ON	primary	rbcL	45.2304	-76.1929	0.0199188812355666
+Lathyrus_pratensis	MG246232.1	21-JAN-2018	552	Canada: Pickering, ON	primary	rbcL	43.8421	-79.1642	0.00292823465478774
+Lathyrus_pratensis	KX678999.1	29-APR-2017	552	Canada: British Columbia, Capital Regional District, North Saanich, Ocean Avenue and Sterling Way, southeast lot	primary	rbcL	48.644	-123.407	0.00292823465478774
+Lathyrus_pratensis	JN891335.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.84	-4.15	0.00297588231245993
+Lathyrus_pratensis	LC578494.1	03-MAR-2021	553	Japan:Shiga, Maibara	secondary	rbcL	35.3149074	136.2901179	0.00292721153919614
+Lathyrus_pratensis	KT280121.1	01-AUG-2016	673	China: Maqu Gansu	secondary	rbcL	34.6137382	102.4654149	0.00582393828941895
+Lathyrus_pratensis	KJ204364.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00294221618604579
+Lathyrus_pratensis	JN661185.1	09-JAN-2013	1352	Germany	secondary	rbcL	40.4203479	-79.1166983	0.00293418472262258
+Lathyrus_pratensis	JN890872.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00297588231245993
+Lathyrus_pratensis	JN890871.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00297588231245993

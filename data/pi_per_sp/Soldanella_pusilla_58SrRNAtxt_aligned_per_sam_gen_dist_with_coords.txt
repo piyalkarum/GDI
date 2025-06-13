@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Soldanella_pusilla	AJ306358.1	08-JAN-2002	644	Italy:Sondrio	secondary	5.8S rRNA	46.3233623	10.2584137	0.0015552099533437
+Soldanella_pusilla	AJ306357.1	08-JAN-2002	644	Austria:Tyrol	secondary	5.8S rRNA	47.223193	11.5261028	0.0015552099533437
+Soldanella_pusilla	AJ306356.1	08-JAN-2002	644	Austria:Carinthia	secondary	5.8S rRNA	46.7500001	13.8333333	0.0015552099533437
+Soldanella_pusilla	AJ306353.1	08-JAN-2002	643	Bulgaria:Pirin	secondary	5.8S rRNA	41.766	23.4	0.0046656298600311

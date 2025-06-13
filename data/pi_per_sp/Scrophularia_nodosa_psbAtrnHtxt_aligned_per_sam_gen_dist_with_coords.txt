@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scrophularia_nodosa	HQ130098.1	11-JAN-2011	486	Armenia: Lori Prov.	secondary	psbA-trnH	41.007271	44.4900113	0.0202324997619604
+Scrophularia_nodosa	HQ130097.1	11-JAN-2011	522	Germany: Bavaria	secondary	psbA-trnH	48.9467562	11.4038717	0.0108275228548436
+Scrophularia_nodosa	HQ130096.1	11-JAN-2011	513	USA: Massachusetts, Franklin Co.	secondary	psbA-trnH	42.5896205	-72.6110645	0.0137744203456042
+Scrophularia_nodosa	KR361694.1	13-JUL-2015	424	Germany: Bad Sobernheim	secondary	psbA-trnH	49.7843963	7.6520457	0.0202422254962533

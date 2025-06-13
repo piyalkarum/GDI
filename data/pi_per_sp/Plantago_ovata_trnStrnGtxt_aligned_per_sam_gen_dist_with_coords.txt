@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Plantago_ovata	EU036242.1	13-AUG-2007	641	USA: Anacapa Island, CA	secondary	trnS-trnG	34.1638989	-119.0362145	0.000390015600624025
+Plantago_ovata	EU036240.1	13-AUG-2007	642	Tunisia: Medenine	secondary	trnS-trnG	32.9819987	11.2870254	0.000389408099688474
+Plantago_ovata	EU036238.1	13-AUG-2007	641	Mexico: Catavina, Baja California Norte	secondary	trnS-trnG	29.7321505	-114.7208517	0.000390015600624025
+Plantago_ovata	EU036236.1	13-AUG-2007	642	Iraq: Badra	secondary	trnS-trnG	33.1146199	45.932346	0.0031189098031211
+Plantago_ovata	EU036235.1	13-AUG-2007	641	USA: Desert Shores, CA	secondary	trnS-trnG	36.2078191	-115.2695035	0.000390015600624025
+Plantago_ovata	EU036234.1	13-AUG-2007	641	USA: Santa Catalina Island, CA	secondary	trnS-trnG	33.38890375	-118.423928753353	0.000390015600624025
+Plantago_ovata	EU036231.1	13-AUG-2007	649	Morocco: Tan-Tan	secondary	trnS-trnG	28.437553	-11.098664	0.000389408099688474
+Plantago_ovata	EU036229.1	13-AUG-2007	641	USA: Thousand Palms, CA	secondary	trnS-trnG	33.8217125	-116.39358	0.000390015600624025
+Plantago_ovata	EU036233.1	13-AUG-2007	645	Mexico	secondary	trnS-trnG	18.96203905	-98.2919817126505	0.000390015600624025

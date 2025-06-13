@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Campanula_rapunculoides	KP643577.1	08-DEC-2015	284	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.0126199661346	-79.0637755262385	0.0553505535055351
+Campanula_rapunculoides	KP643549.1	08-DEC-2015	284	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.3904454418738	-78.6818492898942	0.0553505535055351
+Campanula_rapunculoides	KP643520.1	08-DEC-2015	271	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	39.4713136656435	-78.9174170265321	0.0503875968992248
+Campanula_rapunculoides	OQ310443.1	16-MAY-2023	407	Mexico: Puebla	secondary	psbA-trnH	19.1710098	-98.4125121	0.161088703910295

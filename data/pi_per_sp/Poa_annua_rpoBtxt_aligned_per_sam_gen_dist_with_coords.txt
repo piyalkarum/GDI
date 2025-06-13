@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Poa_annua	HQ542426.1	09-JUN-2012	435	Australia: New South Wales	primary	rpoB	-36.45	148.283	0.00613733072020058
+Poa_annua	HQ542425.1	09-JUN-2012	436	Australia: New South Wales	primary	rpoB	-36.25	150.233	0.00612323807515203
+Poa_annua	HQ542424.1	09-JUN-2012	435	Australia: Australian Capital Territory	primary	rpoB	-35.283	149.117	0.0122675989194343
+Poa_annua	MH898835.1	31-MAR-2019	1138	Canada	secondary	rpoB	61.0666922	-107.991707	0.0122535062743857

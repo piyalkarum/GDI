@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_halleri	HG516016.2	04-APR-2014	449	Germany:Oberbayern	primary	ETS	47.6345563959572	12.001320643889	0.00742390497401633
+Leucanthemum_halleri	HG516015.2	04-APR-2014	449	Germany:Oberbayern	primary	ETS	47.9797894086548	11.0787941578699	0.0044543429844098
+Leucanthemum_halleri	HG516014.2	04-APR-2014	449	Germany:Oberbayern	primary	ETS	47.2357075135045	13.1197360196445	0.00593912397921307
+Leucanthemum_halleri	HG516013.2	04-APR-2014	449	Germany:Oberbayern	primary	ETS	47.5211850043993	12.1467430508377	0.00593912397921307

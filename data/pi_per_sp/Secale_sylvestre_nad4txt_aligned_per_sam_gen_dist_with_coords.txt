@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Secale_sylvestre	MH894071.1	24-APR-2019	625	Poland	secondary	nad4	52.215933	19.134422	0
+Secale_sylvestre	MH894070.1	24-APR-2019	625	Bulgaria	secondary	nad4	46.7889169	23.6184909	0
+Secale_sylvestre	MH894069.1	24-APR-2019	625	Hungary	secondary	nad4	41.9767629	-72.7789842	0
+Secale_sylvestre	MH894068.1	24-APR-2019	625	Russia	secondary	nad4	64.6863136	97.7453061	0

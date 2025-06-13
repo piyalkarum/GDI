@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trientalis_europaea	MK926187.1	14-JAN-2020	777	United Kingdom	secondary	matK	54.3779672039621	-4.52206716444715	0
+Trientalis_europaea	MK926170.1	14-JAN-2020	770	United Kingdom	secondary	matK	53.9783451694734	-3.51298097279412	0
+Trientalis_europaea	MK926117.1	14-JAN-2020	767	United Kingdom	secondary	matK	54.7896375077618	-2.27102106711433	0
+Trientalis_europaea	MK925972.1	14-JAN-2020	777	United Kingdom	secondary	matK	54.50277852836	-2.45729771887334	0

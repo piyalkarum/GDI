@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Equisetum_pratense	MG215572.1	24-JAN-2018	552	USA: North Dakota	primary	rbcL	48.225	-100.506	0.00639870246643323
+Equisetum_pratense	HQ590083.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, N side of Dufferin Driveway	primary	rbcL	44.03	-79.529	0.00919964693198116
+Equisetum_pratense	KJ593391.1	17-MAR-2015	553	USA: Wisconsin, Silvercliff	primary	rbcL	45.516	-88.405	0.0036192572791362
+Equisetum_pratense	KJ841304.1	04-NOV-2014	501	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, north slope of West Creek, about 20 metres from flowing water and approximately 40 to 50 metres east of Red Trail	primary	rbcL	45.545	-73.1571	0.0031936127744511
+Equisetum_pratense	KJ593392.1	17-MAR-2015	553	USA: Wisconsin, Silver Cliff	secondary	rbcL	45.4607026	-88.3388953	0.0036192572791362
+Equisetum_pratense	AB574687.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.00371694670337204

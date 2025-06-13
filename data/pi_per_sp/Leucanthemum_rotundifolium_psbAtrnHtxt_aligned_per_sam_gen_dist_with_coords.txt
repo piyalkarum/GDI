@@ -1,0 +1,248 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Leucanthemum_rotundifolium	OP451277.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	44.2352658338636	16.6476014620384	0.000129841593256227
+Leucanthemum_rotundifolium	OP451276.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	44.2568591891644	17.5221976399415	0.000129841593256227
+Leucanthemum_rotundifolium	OP451275.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	44.1792313724377	16.5842704753647	0.000129841593256227
+Leucanthemum_rotundifolium	OP451274.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	43.4723004371979	17.4368823791685	0.000129841593256227
+Leucanthemum_rotundifolium	OP451273.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	43.5848802245212	17.0575710978664	0.000129841593256227
+Leucanthemum_rotundifolium	OP451272.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	43.9443335623348	17.0352107458512	0.000129841593256227
+Leucanthemum_rotundifolium	OP451271.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	44.2119549849027	18.6814966452206	0.000129841593256227
+Leucanthemum_rotundifolium	OP451270.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	43.5219146298602	17.1592470474528	0.000129841593256227
+Leucanthemum_rotundifolium	OP451269.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	44.3385747266006	18.2882656778842	0.000129841593256227
+Leucanthemum_rotundifolium	OP451268.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	44.4000523390839	17.4557477516716	0.000129841593256227
+Leucanthemum_rotundifolium	OP451267.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	44.1200102664394	16.9254839638059	0.000129841593256227
+Leucanthemum_rotundifolium	OP451266.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	43.7483732455223	17.9402845089254	0.000129841593256227
+Leucanthemum_rotundifolium	OP451265.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	43.7539316736322	17.3818709825995	0.000129841593256227
+Leucanthemum_rotundifolium	OP451264.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	44.4518316952633	18.188219156028	0.000129841593256227
+Leucanthemum_rotundifolium	OP451253.1	16-OCT-2022	415	Romania: Outer Eastern Carpathians, Moldavian-Muntenian Carpathians (Nemira Mts)	primary	psbA-trnH	46.3812210810465	26.2569808946751	0.00251447936602683
+Leucanthemum_rotundifolium	OP451252.1	16-OCT-2022	415	Romania: Outer Eastern Carpathians, Moldavian-Muntenian Carpathians (Nemira Mts)	primary	psbA-trnH	46.8927676752711	26.9170730211153	0.00251447936602683
+Leucanthemum_rotundifolium	OP451251.1	16-OCT-2022	438	Romania: Outer Eastern Carpathians, Moldavian-Muntenian Carpathians (Vrancea Mountains)	primary	psbA-trnH	45.572841552411	26.988656720848	0.000128108767544559
+Leucanthemum_rotundifolium	OP451250.1	16-OCT-2022	415	Romania: Outer Eastern Carpathians, Moldavian-Muntenian Carpathians (Vrancea Mountains)	primary	psbA-trnH	45.7409943546308	25.6545784268703	0.000128108767544559
+Leucanthemum_rotundifolium	OP451249.1	16-OCT-2022	438	Romania: Outer Eastern Carpathians, Moldavian-Muntenian Carpathians (Vrancea Mountains)	primary	psbA-trnH	45.5580191545731	26.5222937958005	0.000128108767544559
+Leucanthemum_rotundifolium	OP451248.1	16-OCT-2022	438	Romania: Outer Eastern Carpathians, Moldavian-Muntenian Carpathians (Vrancea Mountains)	primary	psbA-trnH	46.5771095670026	26.7742734440071	0.000128108767544559
+Leucanthemum_rotundifolium	OP451247.1	16-OCT-2022	438	Romania: Outer Eastern Carpathians, Moldavian-Muntenian Carpathians (Vrancea Mountains)	primary	psbA-trnH	45.6954615465377	26.458498282541	0.000128108767544559
+Leucanthemum_rotundifolium	OP451246.1	16-OCT-2022	415	Romania: Southern Carpathians, Parang Mountains group (Mun?ii Latori?ei)	primary	psbA-trnH	45.5709273740469	24.9555023908047	0.000128108767544559
+Leucanthemum_rotundifolium	OP451245.1	16-OCT-2022	423	Romania: Southern Carpathians, Parang Mountains group (Mun?ii Latori?ei)	primary	psbA-trnH	45.2488080185447	22.7657386901344	0.000128108767544559
+Leucanthemum_rotundifolium	OP451244.1	16-OCT-2022	423	Romania: Southern Carpathians, Parang Mountains group (Mun?ii Latori?ei)	primary	psbA-trnH	45.7938053267866	23.6338489042889	0.000128108767544559
+Leucanthemum_rotundifolium	OP451243.1	16-OCT-2022	423	Romania: Southern Carpathians, Parang Mountains group (Mun?ii Latori?ei)	primary	psbA-trnH	45.0656682255011	22.9505899351759	0.000128108767544559
+Leucanthemum_rotundifolium	OP451242.1	16-OCT-2022	423	Romania: Southern Carpathians, Parang Mountains group (Mun?ii Latori?ei)	primary	psbA-trnH	45.577269150532	24.1408345457208	0.000128108767544559
+Leucanthemum_rotundifolium	OP451241.1	16-OCT-2022	423	Romania: Southern Carpathians, Parang Mountains group (Parang Mts/Mun?ii Latori?ei)	primary	psbA-trnH	45.9522255465611	23.9068064841693	0.000128108767544559
+Leucanthemum_rotundifolium	OP451240.1	16-OCT-2022	423	Romania: Southern Carpathians, Parang Mountains group (Parang Mts/Mun?ii Latori?ei)	primary	psbA-trnH	45.4996711466474	22.6648570238157	0.000128108767544559
+Leucanthemum_rotundifolium	OP451239.1	16-OCT-2022	423	Romania: Southern Carpathians, Parang Mountains group (Parang Mts/Mun?ii Latori?ei)	primary	psbA-trnH	45.3618128589668	22.6147708189727	0.000128108767544559
+Leucanthemum_rotundifolium	OP451238.1	16-OCT-2022	423	Romania: Southern Carpathians, Parang Mountains group (Parang Mts/Mun?ii Latori?ei)	primary	psbA-trnH	45.0635124081554	24.4455890481091	0.000128108767544559
+Leucanthemum_rotundifolium	OP451237.1	16-OCT-2022	423	Romania: Southern Carpathians, Parang Mountains group (Parang Mts/Mun?ii Latori?ei)	primary	psbA-trnH	44.6794157393803	23.0063173586034	0.000128108767544559
+Leucanthemum_rotundifolium	OP451236.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Gorgany)	primary	psbA-trnH	48.9628963159748	23.6044904379631	0.000128108767544559
+Leucanthemum_rotundifolium	OP451235.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Gorgany)	primary	psbA-trnH	48.2539328727752	23.0259063854657	0.000128108767544559
+Leucanthemum_rotundifolium	OP451234.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Gorgany)	primary	psbA-trnH	48.8266011808553	25.4338230729068	0.000128108767544559
+Leucanthemum_rotundifolium	OP451233.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Gorgany)	primary	psbA-trnH	48.8996644533943	25.329797610722	0.000128108767544559
+Leucanthemum_rotundifolium	OP451232.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Gorgany)	primary	psbA-trnH	48.9902284949566	23.086502567203	0.000128108767544559
+Leucanthemum_rotundifolium	OP451231.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Pokuttia-Bucovina Beskids)	primary	psbA-trnH	48.7488909708535	25.8236493671665	0.000128108767544559
+Leucanthemum_rotundifolium	OP451230.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Pokuttia-Bucovina Beskids)	primary	psbA-trnH	47.7751640304706	25.2322618248337	0.000128108767544559
+Leucanthemum_rotundifolium	OP451229.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Pokuttia-Bucovina Beskids)	primary	psbA-trnH	47.4031848473388	24.4229145710705	0.000128108767544559
+Leucanthemum_rotundifolium	OP451228.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Pokuttia-Bucovina Beskids)	primary	psbA-trnH	48.0347529751958	25.8625239380407	0.000128108767544559
+Leucanthemum_rotundifolium	OP451227.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Pokuttia-Bucovina Beskids)	primary	psbA-trnH	48.5987351273172	25.5058106793317	0.000128108767544559
+Leucanthemum_rotundifolium	OP451226.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Chornohora)	primary	psbA-trnH	47.7064424531438	25.5081272779344	0.000128108767544559
+Leucanthemum_rotundifolium	OP451225.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Chornohora)	primary	psbA-trnH	48.5777983882374	24.5320325964901	0.000128108767544559
+Leucanthemum_rotundifolium	OP451224.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Chornohora)	primary	psbA-trnH	48.6320730585723	24.0662000422421	0.000128108767544559
+Leucanthemum_rotundifolium	OP451223.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Chornohora)	primary	psbA-trnH	47.6284441743344	25.6115579978285	0.000128108767544559
+Leucanthemum_rotundifolium	OP451222.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Chornohora)	primary	psbA-trnH	48.719549382661	25.2160644000825	0.000128108767544559
+Leucanthemum_rotundifolium	OP451221.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Chornohora)	primary	psbA-trnH	48.7018831837375	25.4022145388749	0.000128108767544559
+Leucanthemum_rotundifolium	OP451220.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Chornohora)	primary	psbA-trnH	48.6962015597219	25.5829743327598	0.000128108767544559
+Leucanthemum_rotundifolium	OP451219.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Chornohora)	primary	psbA-trnH	48.3028051739815	24.4853098547363	0.000128108767544559
+Leucanthemum_rotundifolium	OP451218.1	16-OCT-2022	423	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Chornohora)	primary	psbA-trnH	48.5188729827982	24.3383892498472	0.000128108767544559
+Leucanthemum_rotundifolium	OP451217.1	16-OCT-2022	423	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Chornohora)	primary	psbA-trnH	48.1140684581437	24.8124431015173	0.000128108767544559
+Leucanthemum_rotundifolium	OP451216.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Svydovets/Gorgany)	primary	psbA-trnH	48.4819073269389	25.4253936978811	0.000128108767544559
+Leucanthemum_rotundifolium	OP451215.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Svydovets/Gorgany)	primary	psbA-trnH	48.327279874253	25.1846043667016	0.000128108767544559
+Leucanthemum_rotundifolium	OP451214.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Svydovets/Gorgany)	primary	psbA-trnH	48.4233142603459	24.0613777695093	0.000128108767544559
+Leucanthemum_rotundifolium	OP451213.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Svydovets/Gorgany)	primary	psbA-trnH	48.4501708693884	25.023765143203	0.000128108767544559
+Leucanthemum_rotundifolium	OP451212.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Svydovets/Gorgany)	primary	psbA-trnH	47.556913594643	24.8044354528443	0.000128108767544559
+Leucanthemum_rotundifolium	OP451211.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Svydovets)	primary	psbA-trnH	47.9759562707559	25.2543580487722	0.000128108767544559
+Leucanthemum_rotundifolium	OP451210.1	16-OCT-2022	423	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Svydovets)	primary	psbA-trnH	47.8773806007831	24.036794472345	0.000128108767544559
+Leucanthemum_rotundifolium	OP451209.1	16-OCT-2022	423	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Svydovets)	primary	psbA-trnH	47.9972544692611	25.3333368983871	0.000128108767544559
+Leucanthemum_rotundifolium	OP451208.1	16-OCT-2022	415	Ukraine: Inner Eastern Carpathians, Maramure?-Rodna Area (Rakhiv Mts)	primary	psbA-trnH	47.9074082218776	25.4400327589439	0.000128108767544559
+Leucanthemum_rotundifolium	OP451207.1	16-OCT-2022	423	Ukraine: Inner Eastern Carpathians, Maramure?-Rodna Area (Rakhiv Mts)	primary	psbA-trnH	48.1368868376312	25.383456059436	0.000128108767544559
+Leucanthemum_rotundifolium	OP451206.1	16-OCT-2022	423	Ukraine: Inner Eastern Carpathians, Maramure?-Rodna Area (Rakhiv Mts)	primary	psbA-trnH	47.4325931939484	24.6710613994512	0.000128108767544559
+Leucanthemum_rotundifolium	OP451205.1	16-OCT-2022	415	Ukraine: Inner Eastern Carpathians, Maramure?-Rodna Area (Rakhiv Mts)	primary	psbA-trnH	47.4068336917364	23.6926817392597	0.000128108767544559
+Leucanthemum_rotundifolium	OP451204.1	16-OCT-2022	415	Ukraine: Inner Eastern Carpathians, Maramure?-Rodna Area (Rakhiv Mts)	primary	psbA-trnH	47.5955829135659	23.9368617693291	0.000128108767544559
+Leucanthemum_rotundifolium	OP451203.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Chornohora)	primary	psbA-trnH	48.3014143947853	23.0934263156665	0.000128108767544559
+Leucanthemum_rotundifolium	OP451202.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Chornohora)	primary	psbA-trnH	49.0449265732456	24.7046242084484	0.000128108767544559
+Leucanthemum_rotundifolium	OP451201.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Chornohora)	primary	psbA-trnH	48.0666709176306	25.1864792173549	0.000128108767544559
+Leucanthemum_rotundifolium	OP451200.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Polonyna Borzhava)	primary	psbA-trnH	48.3782072709912	22.0578562498825	0.000128108767544559
+Leucanthemum_rotundifolium	OP451199.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Polonyna Borzhava)	primary	psbA-trnH	49.2302494792496	23.3113594426867	0.000128108767544559
+Leucanthemum_rotundifolium	OP451198.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Polonyna Borzhava)	primary	psbA-trnH	48.0236728609982	22.8558504305527	0.000128108767544559
+Leucanthemum_rotundifolium	OP451197.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Polonyna Borzhava)	primary	psbA-trnH	47.9587178883093	23.2003993430609	0.000128108767544559
+Leucanthemum_rotundifolium	OP451196.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Polonyna Borzhava)	primary	psbA-trnH	48.4235968976609	22.1691688772898	0.000128108767544559
+Leucanthemum_rotundifolium	OP451195.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Gorgany)	primary	psbA-trnH	48.4469776512011	22.7110777581418	0.000128108767544559
+Leucanthemum_rotundifolium	OP451194.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Gorgany)	primary	psbA-trnH	47.9595198698112	24.2789632744077	0.000128108767544559
+Leucanthemum_rotundifolium	OP451193.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Gorgany)	primary	psbA-trnH	48.6055062815812	24.8088099562257	0.000128108767544559
+Leucanthemum_rotundifolium	OP451192.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Gorgany)	primary	psbA-trnH	48.7728790138502	24.3307731616015	0.000128108767544559
+Leucanthemum_rotundifolium	OP451191.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Gorgany)	primary	psbA-trnH	48.9718627047125	24.521074181301	0.000128108767544559
+Leucanthemum_rotundifolium	OP451190.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Skole Beskids)	primary	psbA-trnH	49.3154292586515	23.7802450410722	0.000128108767544559
+Leucanthemum_rotundifolium	OP451189.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Skole Beskids)	primary	psbA-trnH	49.7188702794617	23.0646649104964	0.000128108767544559
+Leucanthemum_rotundifolium	OP451188.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Skole Beskids)	primary	psbA-trnH	48.6826191180663	22.5768418035203	0.000128108767544559
+Leucanthemum_rotundifolium	OP451187.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Skole Beskids)	primary	psbA-trnH	49.6044102434125	23.3093714755181	0.000128108767544559
+Leucanthemum_rotundifolium	OP451186.1	16-OCT-2022	415	Ukraine: Outer Eastern Carpathians, Eastern Beskids (Skole Beskids)	primary	psbA-trnH	49.7401181082356	23.933719072019	0.000128108767544559
+Leucanthemum_rotundifolium	OP451185.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.0406174877073	20.0588906213056	0.000128108767544559
+Leucanthemum_rotundifolium	OP451184.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.1069379497679	19.4869739579473	0.000128108767544559
+Leucanthemum_rotundifolium	OP451183.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.9423471788103	19.067842742319	0.000128108767544559
+Leucanthemum_rotundifolium	OP451182.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.1597567337234	19.1622026908271	0.000128108767544559
+Leucanthemum_rotundifolium	OP451181.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	50.0177687659456	20.2213273075297	0.000128108767544559
+Leucanthemum_rotundifolium	OP451180.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	48.7326240080911	20.5392106766825	0.000128108767544559
+Leucanthemum_rotundifolium	OP451179.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.4206411249936	20.8933387243069	0.000128108767544559
+Leucanthemum_rotundifolium	OP451178.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.5603294983036	19.5464316040245	0.000128108767544559
+Leucanthemum_rotundifolium	OP451177.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.0719097986258	18.6869258586058	0.000128108767544559
+Leucanthemum_rotundifolium	OP451176.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.6544695950274	21.0972484257063	0.000128108767544559
+Leucanthemum_rotundifolium	OP451175.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (High Tatras)	primary	psbA-trnH	48.6376107655931	19.9302889975171	0.000128108767544559
+Leucanthemum_rotundifolium	OP451174.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (High Tatras)	primary	psbA-trnH	49.113515059412	19.4258871243055	0.000128108767544559
+Leucanthemum_rotundifolium	OP451173.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (High Tatras)	primary	psbA-trnH	49.7553209480699	19.7413843538659	0.000128108767544559
+Leucanthemum_rotundifolium	OP451172.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (High Tatras)	primary	psbA-trnH	49.7783020402234	20.1583032269834	0.000128108767544559
+Leucanthemum_rotundifolium	OP451171.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (High Tatras)	primary	psbA-trnH	49.9270625971132	19.2963440693761	0.000128108767544559
+Leucanthemum_rotundifolium	OP451170.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (High Tatras)	primary	psbA-trnH	49.5560238890734	20.9863418964107	0.000128108767544559
+Leucanthemum_rotundifolium	OP451169.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (High Tatras)	primary	psbA-trnH	48.8071527052888	19.0202537437467	0.000128108767544559
+Leucanthemum_rotundifolium	OP451168.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (High Tatras)	primary	psbA-trnH	49.558365312777	19.7936005991742	0.000128108767544559
+Leucanthemum_rotundifolium	OP451167.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (High Tatras)	primary	psbA-trnH	49.6843124838694	21.0366064936247	0.000128108767544559
+Leucanthemum_rotundifolium	OP451166.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (High Tatras)	primary	psbA-trnH	48.4178199110344	20.16460932704	0.000128108767544559
+Leucanthemum_rotundifolium	OP451165.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (High Tatras)	primary	psbA-trnH	49.9028596410365	20.6978070272157	0.000128108767544559
+Leucanthemum_rotundifolium	OP451164.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (High Tatras)	primary	psbA-trnH	49.7347791110239	20.4471054641513	0.000128108767544559
+Leucanthemum_rotundifolium	OP451163.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (High Tatras)	primary	psbA-trnH	49.22249997	20.09573003	0.000128108767544559
+Leucanthemum_rotundifolium	OP451162.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.26255801	19.87114096	0.000128108767544559
+Leucanthemum_rotundifolium	OP451161.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.259733	19.873633	0.000128108767544559
+Leucanthemum_rotundifolium	OP451160.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	48.6508809501285	20.6978456830749	0.000128108767544559
+Leucanthemum_rotundifolium	OP451159.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.6099485968618	18.9007276549164	0.000128108767544559
+Leucanthemum_rotundifolium	OP451158.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.22593597	19.898286	0.000128108767544559
+Leucanthemum_rotundifolium	OP451157.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.22463803	19.89687097	0.000128108767544559
+Leucanthemum_rotundifolium	OP451156.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.22146799	19.89586899	0.000128108767544559
+Leucanthemum_rotundifolium	OP451155.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	50.1082374805358	19.7060120646218	0.000128108767544559
+Leucanthemum_rotundifolium	OP451154.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	48.7451699830045	19.0355351592847	0.000128108767544559
+Leucanthemum_rotundifolium	OP451153.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	49.2944627845715	19.3580998968427	0.000128108767544559
+Leucanthemum_rotundifolium	OP451152.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	49.3365463426014	19.6223620628476	0.000128108767544559
+Leucanthemum_rotundifolium	OP451151.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	48.8870301555795	18.9273484070531	0.000128108767544559
+Leucanthemum_rotundifolium	OP451150.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	49.688003601437	19.7594612303429	0.000128108767544559
+Leucanthemum_rotundifolium	OP451149.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	48.7945064111049	19.9052853215311	0.000128108767544559
+Leucanthemum_rotundifolium	OP451148.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	49.9627738204248	18.5497666434584	0.000128108767544559
+Leucanthemum_rotundifolium	OP451147.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	49.8671634724386	18.688068764256	0.000128108767544559
+Leucanthemum_rotundifolium	OP451146.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	50.0447403556958	19.8874291355639	0.000128108767544559
+Leucanthemum_rotundifolium	OP451145.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	48.8700229209369	20.271077244243	0.000128108767544559
+Leucanthemum_rotundifolium	OP451144.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	49.4650186498865	20.899038193365	0.000128108767544559
+Leucanthemum_rotundifolium	OP451143.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	49.9173472211958	18.5246131887141	0.000128108767544559
+Leucanthemum_rotundifolium	OP451142.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	44.535565145555	16.7939011982245	0.000129841593256227
+Leucanthemum_rotundifolium	OP451141.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	43.6136562783692	18.3417234993903	0.000129841593256227
+Leucanthemum_rotundifolium	OP451140.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	44.3009847602352	18.8501226625695	0.000129841593256227
+Leucanthemum_rotundifolium	OP451139.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	43.6373452054799	16.6764474165326	0.000129841593256227
+Leucanthemum_rotundifolium	OP451138.1	16-OCT-2022	407	Bosnia and Herzegovina: Dinaric Alps, Vranica Mts	primary	psbA-trnH	43.5198703185085	16.8778163308892	0.000129841593256227
+Leucanthemum_rotundifolium	OP451137.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Maramure?-Rodna Area (Rodna Mountains)	primary	psbA-trnH	47.1447294636454	23.8839717072007	0.000128108767544559
+Leucanthemum_rotundifolium	OP451136.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Maramure?-Rodna Area (Rodna Mountains)	primary	psbA-trnH	47.5844932991263	25.8670984008267	0.000128108767544559
+Leucanthemum_rotundifolium	OP451135.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Maramure?-Rodna Area (Rodna Mountains)	primary	psbA-trnH	47.5934232966138	25.27013371181	0.000128108767544559
+Leucanthemum_rotundifolium	OP451134.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Maramure?-Rodna Area (Rodna Mountains)	primary	psbA-trnH	47.8131675274117	23.6813518484783	0.000128108767544559
+Leucanthemum_rotundifolium	OP451133.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Maramure?-Rodna Area (Rodna Mountains)	primary	psbA-trnH	47.0673423370877	25.2458016169403	0.000128108767544559
+Leucanthemum_rotundifolium	OP451132.1	16-OCT-2022	415	Romania: Inner/Outer Eastern Carpathians, Moldavian-Muntenian Carpathians (Rodna Mountains/Suhard Mts)	primary	psbA-trnH	48.1542524711124	24.9396415493222	0.000128108767544559
+Leucanthemum_rotundifolium	OP451131.1	16-OCT-2022	415	Romania: Inner/Outer Eastern Carpathians, Moldavian-Muntenian Carpathians (Rodna Mountains/Suhard Mts)	primary	psbA-trnH	47.888006789114	23.8730068840324	0.000128108767544559
+Leucanthemum_rotundifolium	OP451130.1	16-OCT-2022	415	Romania: Inner/Outer Eastern Carpathians, Moldavian-Muntenian Carpathians (Rodna Mountains/Suhard Mts)	primary	psbA-trnH	47.7951672305099	24.4394008834136	0.000128108767544559
+Leucanthemum_rotundifolium	OP451129.1	16-OCT-2022	423	Romania: Inner/Outer Eastern Carpathians, Moldavian-Muntenian Carpathians (Rodna Mountains/Suhard Mts)	primary	psbA-trnH	47.557868497063	26.2490797384288	0.000128108767544559
+Leucanthemum_rotundifolium	OP451128.1	16-OCT-2022	415	Romania: Inner/Outer Eastern Carpathians, Moldavian-Muntenian Carpathians (Rodna Mountains/Suhard Mts)	primary	psbA-trnH	47.7000873027162	24.643393117078	0.000128108767544559
+Leucanthemum_rotundifolium	OP451127.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Bistri?a Mountains (Giumalau-Rarau Mts)	primary	psbA-trnH	48.2142102097547	25.2878193587338	0.000128108767544559
+Leucanthemum_rotundifolium	OP451126.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Bistri?a Mountains (Giumalau-Rarau Mts)	primary	psbA-trnH	47.8187134084381	26.5737384122348	0.000128108767544559
+Leucanthemum_rotundifolium	OP451125.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Bistri?a Mountains (Giumalau-Rarau Mts)	primary	psbA-trnH	47.4533690069314	25.8729774635179	0.000128108767544559
+Leucanthemum_rotundifolium	OP451124.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Bistri?a Mountains (Giumalau-Rarau Mts)	primary	psbA-trnH	46.963991908171	24.738114439497	0.000128108767544559
+Leucanthemum_rotundifolium	OP451123.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Bistri?a Mountains (Giumalau-Rarau Mts)	primary	psbA-trnH	47.1106081066423	24.3869082999361	0.000128108767544559
+Leucanthemum_rotundifolium	OP451122.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Caliman-Harghita Mountains (Calimani Mts)	primary	psbA-trnH	46.8972896274851	26.2964909999975	0.000128108767544559
+Leucanthemum_rotundifolium	OP451121.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Caliman-Harghita Mountains (Calimani Mts)	primary	psbA-trnH	47.2574110968441	24.2341307145576	0.000128108767544559
+Leucanthemum_rotundifolium	OP451120.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Caliman-Harghita Mountains (Calimani Mts)	primary	psbA-trnH	46.6325414106501	26.4895300271396	0.000128108767544559
+Leucanthemum_rotundifolium	OP451119.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Caliman-Harghita Mountains (Calimani Mts)	primary	psbA-trnH	47.330977291779	26.0854679969044	0.000128108767544559
+Leucanthemum_rotundifolium	OP451118.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Caliman-Harghita Mountains (Calimani Mts)	primary	psbA-trnH	47.0480071984539	24.9193065440822	0.000128108767544559
+Leucanthemum_rotundifolium	OP451117.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Caliman-Harghita Mountains (Harghita Mts)	primary	psbA-trnH	46.7349343519372	25.7489462454697	0.000128108767544559
+Leucanthemum_rotundifolium	OP451116.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Caliman-Harghita Mountains (Harghita Mts)	primary	psbA-trnH	46.874353102991	25.6144139452854	0.000128108767544559
+Leucanthemum_rotundifolium	OP451115.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Caliman-Harghita Mountains (Harghita Mts)	primary	psbA-trnH	46.3658244704914	25.4097498949363	0.000128108767544559
+Leucanthemum_rotundifolium	OP451114.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Caliman-Harghita Mountains (Harghita Mts)	primary	psbA-trnH	45.8046313556878	26.4950864627277	0.000128108767544559
+Leucanthemum_rotundifolium	OP451113.1	16-OCT-2022	415	Romania: Inner Eastern Carpathians, Caliman-Harghita Mountains (Harghita Mts)	primary	psbA-trnH	46.5714939119078	25.1254334379856	0.000128108767544559
+Leucanthemum_rotundifolium	OP451112.1	16-OCT-2022	415	Romania: Southern Carpathians, Bucegi Mountains Group (Bucegi Mts)	primary	psbA-trnH	45.5568684212172	24.5221205626705	0.000128108767544559
+Leucanthemum_rotundifolium	OP451111.1	16-OCT-2022	415	Romania: Southern Carpathians, Bucegi Mountains Group (Bucegi Mts)	primary	psbA-trnH	44.9514690694568	25.3269370501995	0.000128108767544559
+Leucanthemum_rotundifolium	OP451110.1	16-OCT-2022	415	Romania: Southern Carpathians, Bucegi Mountains Group (Bucegi Mts)	primary	psbA-trnH	44.7072864751339	25.6413970546312	0.000128108767544559
+Leucanthemum_rotundifolium	OP451109.1	16-OCT-2022	415	Romania: Southern Carpathians, Bucegi Mountains Group (Bucegi Mts)	primary	psbA-trnH	45.4588361564926	25.435799832887	0.000128108767544559
+Leucanthemum_rotundifolium	OP451108.1	16-OCT-2022	415	Romania: Southern Carpathians, Bucegi Mountains Group (Bucegi Mts)	primary	psbA-trnH	45.5677209138343	25.4398877267806	0.000128108767544559
+Leucanthemum_rotundifolium	OP451107.1	16-OCT-2022	415	Romania: Southern Carpathians, Fagara? Mountains group (Fagara? Mts)	primary	psbA-trnH	45.4668541678425	24.7048767511932	0.000128108767544559
+Leucanthemum_rotundifolium	OP451106.1	16-OCT-2022	415	Romania: Southern Carpathians, Fagara? Mountains group (Fagara? Mts)	primary	psbA-trnH	44.9378708905056	24.4922705877537	0.000128108767544559
+Leucanthemum_rotundifolium	OP451105.1	16-OCT-2022	415	Romania: Southern Carpathians, Fagara? Mountains group (Fagara? Mts)	primary	psbA-trnH	45.2537703233272	24.9066568747714	0.000128108767544559
+Leucanthemum_rotundifolium	OP451104.1	16-OCT-2022	415	Romania: Southern Carpathians, Fagara? Mountains group (Fagara? Mts)	primary	psbA-trnH	45.4446519746002	25.7357883933475	0.000128108767544559
+Leucanthemum_rotundifolium	OP451103.1	16-OCT-2022	415	Romania: Southern Carpathians, Fagara? Mountains group (Fagara? Mts)	primary	psbA-trnH	45.58663	24.6238	0.000128108767544559
+Leucanthemum_rotundifolium	OP451102.1	16-OCT-2022	423	Romania: Southern Carpathians, Banat Mts (Semenic Mountains)	primary	psbA-trnH	45.7758834351605	21.4601206664847	0.000128108767544559
+Leucanthemum_rotundifolium	OP451101.1	16-OCT-2022	423	Romania: Southern Carpathians, Banat Mts (Semenic Mountains)	primary	psbA-trnH	44.541041867065	21.6466355246734	0.000128108767544559
+Leucanthemum_rotundifolium	OP451100.1	16-OCT-2022	423	Romania: Southern Carpathians, Banat Mts (Semenic Mountains)	primary	psbA-trnH	45.3993833399216	21.6340387906097	0.000128108767544559
+Leucanthemum_rotundifolium	OP451099.1	16-OCT-2022	423	Romania: Southern Carpathians, Banat Mts (Semenic Mountains)	primary	psbA-trnH	45.149491205125	20.901455034067	0.000128108767544559
+Leucanthemum_rotundifolium	OP451098.1	16-OCT-2022	423	Romania: Southern Carpathians, Banat Mts (Semenic Mountains)	primary	psbA-trnH	45.0526725245537	22.702283010662	0.000128108767544559
+Leucanthemum_rotundifolium	OP451097.1	16-OCT-2022	423	Romania: Southern Carpathians, Retezat-Godeanu Mountains group Retezat Mts	primary	psbA-trnH	45.8126748906869	22.033328306783	0.000128108767544559
+Leucanthemum_rotundifolium	OP451096.1	16-OCT-2022	423	Romania: Southern Carpathians, Retezat-Godeanu Mountains group Retezat Mts	primary	psbA-trnH	45.6781314610268	21.9165676509972	0.000128108767544559
+Leucanthemum_rotundifolium	OP451095.1	16-OCT-2022	423	Romania: Southern Carpathians, Retezat-Godeanu Mountains group Retezat Mts	primary	psbA-trnH	45.067389648691	22.7239745255751	0.000128108767544559
+Leucanthemum_rotundifolium	OP451094.1	16-OCT-2022	423	Romania: Southern Carpathians, Retezat-Godeanu Mountains group (Retezat Mts)	primary	psbA-trnH	45.4367436229698	22.1448087626535	0.000128108767544559
+Leucanthemum_rotundifolium	OP451093.1	16-OCT-2022	423	Romania: Southern Carpathians, Retezat-Godeanu Mountains group (Retezat Mts)	primary	psbA-trnH	44.8249961724467	22.4812541670548	0.000128108767544559
+Leucanthemum_rotundifolium	OP451092.1	16-OCT-2022	423	Romania: Western Romanian Carpathians, Apuseni Mts (Bihor Mts)	primary	psbA-trnH	46.0541513203351	23.1468989689315	0.000128108767544559
+Leucanthemum_rotundifolium	OP451091.1	16-OCT-2022	423	Romania: Western Romanian Carpathians, Apuseni Mts (Bihor Mts)	primary	psbA-trnH	47.1695299376137	22.4925609281174	0.000128108767544559
+Leucanthemum_rotundifolium	OP451090.1	16-OCT-2022	423	Romania: Western Romanian Carpathians, Apuseni Mts (Bihor Mts)	primary	psbA-trnH	46.4237733760795	21.8369429163905	0.000128108767544559
+Leucanthemum_rotundifolium	OP451089.1	16-OCT-2022	423	Romania: Western Romanian Carpathians, Apuseni Mts (Bihor Mts)	primary	psbA-trnH	47.1447940810766	22.480221060685	0.000128108767544559
+Leucanthemum_rotundifolium	OP451088.1	16-OCT-2022	423	Romania: Western Romanian Carpathians, Apuseni Mts (Bihor Mts)	primary	psbA-trnH	46.7228786474428	22.6991401668121	0.000128108767544559
+Leucanthemum_rotundifolium	OP451087.1	16-OCT-2022	415	Romania: Western Romanian Carpathians, Apuseni Mts (Padurea Craiului Mts)	primary	psbA-trnH	47.1771980115068	21.766179774881	0.000128108767544559
+Leucanthemum_rotundifolium	OP451086.1	16-OCT-2022	415	Romania: Western Romanian Carpathians, Apuseni Mts (Padurea Craiului Mts)	primary	psbA-trnH	46.9104272507197	23.0306306547733	0.000128108767544559
+Leucanthemum_rotundifolium	OP451085.1	16-OCT-2022	415	Romania: Western Romanian Carpathians, Apuseni Mts (Padurea Craiului Mts)	primary	psbA-trnH	46.6415361062658	21.5086713102803	0.000128108767544559
+Leucanthemum_rotundifolium	OP451084.1	16-OCT-2022	423	Romania: Western Romanian Carpathians, Apuseni Mts (Padurea Craiului Mts)	primary	psbA-trnH	47.4151965692737	22.2977559288141	0.000128108767544559
+Leucanthemum_rotundifolium	OP451083.1	16-OCT-2022	423	Romania: Western Romanian Carpathians, Apuseni Mts (Padurea Craiului Mts)	primary	psbA-trnH	46.3141353952702	22.0881120950929	0.000128108767544559
+Leucanthemum_rotundifolium	OP451082.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	49.0407582016124	22.6760522572198	0.000128108767544559
+Leucanthemum_rotundifolium	OP451081.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	49.3626198976422	21.5428564147676	0.000128108767544559
+Leucanthemum_rotundifolium	OP451080.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	49.1367726544324	23.9329996309717	0.000128108767544559
+Leucanthemum_rotundifolium	OP451079.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	48.9540641984063	21.9499589835084	0.000128108767544559
+Leucanthemum_rotundifolium	OP451078.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	48.6882527326197	23.1489740566212	0.000128108767544559
+Leucanthemum_rotundifolium	OP451077.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	49.4621341927159	23.7527849946616	0.000128108767544559
+Leucanthemum_rotundifolium	OP451076.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	49.5135152788439	23.559747108649	0.00249488880867548
+Leucanthemum_rotundifolium	OP451075.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	49.5171007275407	23.2754113663194	0.00249488880867548
+Leucanthemum_rotundifolium	OP451074.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	49.2098576792692	21.6303997029144	0.000128108767544559
+Leucanthemum_rotundifolium	OP451073.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	48.9396468755557	22.0915817635054	0.00249488880867548
+Leucanthemum_rotundifolium	OP451072.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	49.32491907936	23.6866966964471	0.000128108767544559
+Leucanthemum_rotundifolium	OP451070.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	49.3646542628356	21.0264432022165	0.000128108767544559
+Leucanthemum_rotundifolium	OP451069.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	48.9134816995378	23.2606625799726	0.000128108767544559
+Leucanthemum_rotundifolium	OP451068.1	16-OCT-2022	415	Poland: Outer Eastern Carpathians, Eastern Beskids (Bieszczady Mts)	primary	psbA-trnH	49.2697674117747	21.69645755704	0.000128108767544559
+Leucanthemum_rotundifolium	OP451067.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	48.9032862805756	19.82436467656	0.000128108767544559
+Leucanthemum_rotundifolium	OP451066.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	49.7618593252939	19.9126276728063	0.000128108767544559
+Leucanthemum_rotundifolium	OP451065.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (ywiec Beskids)	primary	psbA-trnH	49.4798129462774	19.4488927917591	0.000128108767544559
+Leucanthemum_rotundifolium	OP451064.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Low Tatras)	primary	psbA-trnH	48.4731332283595	20.6497929560587	0.000128108767544559
+Leucanthemum_rotundifolium	OP451063.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Low Tatras)	primary	psbA-trnH	49.805390526168	19.4159695862628	0.000128108767544559
+Leucanthemum_rotundifolium	OP451062.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Low Tatras)	primary	psbA-trnH	48.2276153555271	20.6548375057758	0.000128108767544559
+Leucanthemum_rotundifolium	OP451061.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Low Tatras)	primary	psbA-trnH	48.1381747939317	20.2813844446186	0.000128108767544559
+Leucanthemum_rotundifolium	OP451060.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Low Tatras)	primary	psbA-trnH	48.4447270284232	19.6727383816547	0.000128108767544559
+Leucanthemum_rotundifolium	OP451059.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Low Tatras)	primary	psbA-trnH	48.339309784319	19.8304669594983	0.000128108767544559
+Leucanthemum_rotundifolium	OP451058.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Low Tatras)	primary	psbA-trnH	49.6583945495164	18.9329665796258	0.000128108767544559
+Leucanthemum_rotundifolium	OP451057.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Low Tatras)	primary	psbA-trnH	48.8312105308893	19.4466416637728	0.000128108767544559
+Leucanthemum_rotundifolium	OP451056.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Low Tatras)	primary	psbA-trnH	48.7706272962946	18.577206450853	0.000128108767544559
+Leucanthemum_rotundifolium	OP451055.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Low Tatras)	primary	psbA-trnH	49.5215096248591	19.7136790160539	0.000128108767544559
+Leucanthemum_rotundifolium	OP451054.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (High Tatras/Belianske Tatras)	primary	psbA-trnH	49.8919891061471	19.9471114591001	0.000128108767544559
+Leucanthemum_rotundifolium	OP451053.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (High Tatras/Belianske Tatras)	primary	psbA-trnH	49.3790636540617	19.441614976362	0.000128108767544559
+Leucanthemum_rotundifolium	OP451052.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (High Tatras/Belianske Tatras)	primary	psbA-trnH	48.992861582826	21.0894709887525	0.000128108767544559
+Leucanthemum_rotundifolium	OP451051.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (High Tatras/Belianske Tatras)	primary	psbA-trnH	49.1631398074276	20.5600885065871	0.000128108767544559
+Leucanthemum_rotundifolium	OP451050.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (High Tatras/Belianske Tatras)	primary	psbA-trnH	48.5814240047453	21.1405289330318	0.000128108767544559
+Leucanthemum_rotundifolium	OP451049.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Belianske Tatras)	primary	psbA-trnH	48.9683474137316	20.1098753256955	0.000128108767544559
+Leucanthemum_rotundifolium	OP451048.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Belianske Tatras)	primary	psbA-trnH	49.1455098377628	21.511175942112	0.000128108767544559
+Leucanthemum_rotundifolium	OP451047.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Belianske Tatras)	primary	psbA-trnH	49.8932845936501	20.8193291486838	0.000128108767544559
+Leucanthemum_rotundifolium	OP451046.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Belianske Tatras)	primary	psbA-trnH	49.2832968810675	20.7614924081953	0.000128108767544559
+Leucanthemum_rotundifolium	OP451045.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Belianske Tatras)	primary	psbA-trnH	49.3516118551045	20.7122681018637	0.000128108767544559
+Leucanthemum_rotundifolium	OP451044.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Belianske Tatras)	primary	psbA-trnH	48.8692355523552	19.6240933971051	0.000128108767544559
+Leucanthemum_rotundifolium	OP451043.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Belianske Tatras)	primary	psbA-trnH	49.0183585440657	19.8917630127249	0.000128108767544559
+Leucanthemum_rotundifolium	OP451042.1	16-OCT-2022	415	Slovakia: Inner Western Carpathians, Fatra-Tatra Area (Belianske Tatras)	primary	psbA-trnH	49.1051864968333	21.3242341074195	0.000128108767544559
+Leucanthemum_rotundifolium	OP451041.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (Gorce Mts)	primary	psbA-trnH	49.7202323972101	21.1808593790576	0.000128108767544559
+Leucanthemum_rotundifolium	OP451040.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (Gorce Mts)	primary	psbA-trnH	49.5044236726159	19.9265385324854	0.000128108767544559
+Leucanthemum_rotundifolium	OP451039.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (Gorce Mts)	primary	psbA-trnH	49.8714234811051	18.9080495387531	0.000128108767544559
+Leucanthemum_rotundifolium	OP451038.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (Gorce Mts)	primary	psbA-trnH	49.448331885133	18.9843761833699	0.000128108767544559
+Leucanthemum_rotundifolium	OP451037.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (Gorce Mts)	primary	psbA-trnH	50.0473272801642	20.3816102955105	0.000128108767544559
+Leucanthemum_rotundifolium	OP451036.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (Gorce Mts)	primary	psbA-trnH	49.9907893307479	20.8730916628889	0.000128108767544559
+Leucanthemum_rotundifolium	OP451035.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (Gorce Mts)	primary	psbA-trnH	49.2054955104024	20.3138610723493	0.000128108767544559
+Leucanthemum_rotundifolium	OP451032.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (Gorce Mts)	primary	psbA-trnH	49.0822206562176	20.4328551790411	0.000128108767544559
+Leucanthemum_rotundifolium	OP451031.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (Gorce Mts)	primary	psbA-trnH	49.6940465624225	21.5771050103826	0.000128108767544559
+Leucanthemum_rotundifolium	OP451030.1	16-OCT-2022	415	Poland: Outer Western Carpathians, Western Beskids (Gorce Mts)	primary	psbA-trnH	48.8035715305326	19.747093265806	0.000128108767544559
+Leucanthemum_rotundifolium	OP451029.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.26735	19.931117	0.000128108767544559
+Leucanthemum_rotundifolium	OP451028.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.246683	19.928817	0.000128108767544559
+Leucanthemum_rotundifolium	OP451027.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.5839531939426	20.6301073811655	0.000128108767544559
+Leucanthemum_rotundifolium	OP451026.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	48.8696521650666	20.3788535370887	0.000128108767544559
+Leucanthemum_rotundifolium	OP451025.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.5982539947874	20.1670959280398	0.000128108767544559
+Leucanthemum_rotundifolium	OP451024.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	50.0407410707271	19.9555343121548	0.000128108767544559
+Leucanthemum_rotundifolium	OP451023.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.5484642826475	20.7932594825092	0.000128108767544559
+Leucanthemum_rotundifolium	OP451022.1	16-OCT-2022	415	Poland: Inner Western Carpathians, Fatra-Tatra Area (Western Tatras)	primary	psbA-trnH	49.255317	19.86885	0.000128108767544559
+Leucanthemum_rotundifolium	LN868993.1	17-SEP-2015	454	Poland	primary	psbA-trnH	49.26	19.92	0.00483502708682549
+Leucanthemum_rotundifolium	LN868992.1	17-SEP-2015	452	Bosnia and Herzegovina	primary	psbA-trnH	43.95	17.75	0.00979431091132195
+Leucanthemum_rotundifolium	LN868991.1	17-SEP-2015	460	Romania	primary	psbA-trnH	45.42	25.51	0.00483478511051787
+Leucanthemum_rotundifolium	HE680963.1	22-APR-2013	337	Slovakia:Presov	secondary	psbA-trnH	49.0000074	21.2392122	6.0312175822055e-05

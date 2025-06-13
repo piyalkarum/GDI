@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helicodiceros_muscivorus	EU193337.1	12-AUG-2008	396	Spain: Mallorca	secondary	trnL-trnF	39.613432	2.8829185	0.00126262626262626
+Helicodiceros_muscivorus	EU193336.1	12-AUG-2008	396	Spain: Menorca	secondary	trnL-trnF	39.949401	4.0593888	0.00126262626262626
+Helicodiceros_muscivorus	EU193335.1	12-AUG-2008	396	France: Corsica	secondary	trnL-trnF	42.7368315254665	9.95178707185015	0.00126262626262626
+Helicodiceros_muscivorus	EU193334.1	12-AUG-2008	396	Italy: Sardinia	secondary	trnL-trnF	39.4687877247178	9.45622494929538	0.00168350168350168
+Helicodiceros_muscivorus	EU193333.1	12-AUG-2008	396	Italy: Sardinia	secondary	trnL-trnF	40.5051004869496	8.42501629630873	0.00168350168350168
+Helicodiceros_muscivorus	EU193332.1	12-AUG-2008	396	Italy: Sardinia	secondary	trnL-trnF	40.5571594079882	8.18331925692142	0.00168350168350168
+Helicodiceros_muscivorus	EU193331.1	12-AUG-2008	396	France: Corsica	secondary	trnL-trnF	42.3275227022938	9.932048751954	0.00126262626262626

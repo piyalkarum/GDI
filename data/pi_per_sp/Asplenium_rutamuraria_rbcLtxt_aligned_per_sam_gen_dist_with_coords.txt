@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_ruta-muraria	MG215509.1	24-JAN-2018	551	Canada: Rideau Ferry, Leeds Twp., ON	primary	rbcL	44.36	-76.071	0.00749053732778487
+Asplenium_ruta-muraria	MG215028.1	24-JAN-2018	551	Canada: Silver Lake, Manitoulin Island, ON	primary	rbcL	45.813	-82.4055	0.00786817297999607
+Asplenium_ruta-muraria	MG215027.1	24-JAN-2018	551	Canada: Gillies Lake Outlet, Bruce Peninsula, ON	primary	rbcL	44.9454	-81.2769	0.00786817297999607
+Asplenium_ruta-muraria	MK827038.1	30-APR-2020	1232	Germany: Freistaat Sachsen	secondary	rbcL	50.9295798	13.4585052	0.0055483893891852
+Asplenium_ruta-muraria	MK827034.1	30-APR-2020	1233	Switzerland: Fribourg	secondary	rbcL	46.8055656	7.1612669	0.00625809559592603
+Asplenium_ruta-muraria	MK827033.1	30-APR-2020	1222	USA: Virginia	secondary	rbcL	37.1232245	-78.4927721	0.00547501982000213
+Asplenium_ruta-muraria	MK827028.1	30-APR-2020	1058	Norway: Nordland	secondary	rbcL	67.2756405	13.8623606	0.00646743223337884
+Asplenium_ruta-muraria	MK826701.1	30-APR-2020	1239	China: Xingjiang	secondary	rbcL	26.493227	115.773331	0.00700827437845271
+Asplenium_ruta-muraria	MG215548.1	24-JAN-2018	511	Canada: Ontario, Manitoulin Dist., Manitoulin Island, NW of Rockville, E side of High Hill.	secondary	rbcL	44.4555051369345	-77.4552396949152	0.00791435897066737
+Asplenium_ruta-muraria	MG215445.1	24-JAN-2018	552	Canada: Ontario, Bruce Co., Lindsay,Eastnor Tp. Hope Bay Forest ANSI, Georgian Bay shore, incl. shroeline terrace/shingle spit+Niagara Escarpment slope+plain, 20 km N of Wiarton	secondary	rbcL	43.0269362557322	-78.0803312679245	0.00785249456926085
+Asplenium_ruta-muraria	KP899646.1	01-SEP-2015	1234	Spain: Bu,Crespos	secondary	rbcL	43.6679280957543	-4.14555550235177	0.00601345352787868
+Asplenium_ruta-muraria	KP899645.1	01-SEP-2015	1234	Spain: Bu,Crespos	secondary	rbcL	42.9550453327727	-3.37879565102034	0.00601345352787868
+Asplenium_ruta-muraria	AB574872.1	03-DEC-2010	1205	Japan	secondary	rbcL	36.5748441	139.2394179	0.00574818321300444
+Asplenium_ruta-muraria	JX068810.1	31-MAY-2013	1209	France	secondary	rbcL	46.6702935806584	2.41801937518744	0.0064378073662157
+Asplenium_ruta-muraria	JX068719.1	31-MAY-2013	1206	Germany	secondary	rbcL	40.4203479	-79.1166983	0.0114614768881016
+Asplenium_ruta-muraria	JX068718.1	31-MAY-2013	1112	Italy	secondary	rbcL	43.0362130290051	11.8466374421145	0.00508252248893496
+Asplenium_ruta-muraria	JX068717.1	31-MAY-2013	1168	Slovenia	secondary	rbcL	46.1199444	14.8153333	0.00691896407795864
+Asplenium_ruta-muraria	JX068716.1	31-MAY-2013	993	Croatia	secondary	rbcL	45.1988605137486	14.5220770840166	0.00809046532001578
+Asplenium_ruta-muraria	JX068715.1	31-MAY-2013	1160	Austria	secondary	rbcL	37.4532763235111	-4.96222095840376	0.00740235053442796
+Asplenium_ruta-muraria	JX068714.1	31-MAY-2013	1145	Greece	secondary	rbcL	43.2097838	-77.6930602	0.0164663008067675
+Asplenium_ruta-muraria	JX068713.1	31-MAY-2013	1193	Spain	secondary	rbcL	39.7705254806098	-4.74109357224985	0.00658520893471007
+Asplenium_ruta-muraria	JX068712.1	31-MAY-2013	1200	Croatia	secondary	rbcL	45.4454316850602	14.9093636508188	0.00718213067537882
+Asplenium_ruta-muraria	JX068711.1	31-MAY-2013	1314	Italy	secondary	rbcL	41.9269475987188	12.1886962990113	0.00554630092668424
+Asplenium_ruta-muraria	JX068710.1	31-MAY-2013	944	Spain	secondary	rbcL	39.8605007959578	-5.36331560187511	0.00778522876640535
+Asplenium_ruta-muraria	JX068709.1	31-MAY-2013	1315	France	secondary	rbcL	47.3392309366548	2.41078175975488	0.00642645836737211
+Asplenium_ruta-muraria	JX068708.1	31-MAY-2013	1123	Austria	secondary	rbcL	36.3996732380017	-4.39360623441748	0.00855973277586745
+Asplenium_ruta-muraria	GU586793.1	27-MAR-2010	1284	Italy	secondary	rbcL	43.0899288013928	11.7555419101022	0.0111974503964991
+Asplenium_ruta-muraria	KF186529.1	23-SEP-2013	1309	Canada	secondary	rbcL	45.7563115	-82.2146050237431	0.0068034954878064

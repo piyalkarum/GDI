@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Anthoxanthum_monticola	MF596569.1	28-FEB-2018	603	Canada: British Columbia, End of Hudson Bay Mountain trail that starts at alpine ski area at the end of Hudson Bay Mountain Road, W of Smithers.	primary	rbcL	54.784	-127.291	0
+Anthoxanthum_monticola	MF596568.1	28-FEB-2018	603	Canada: British Columbia, Big Bell Mountain, McBride, ridge top with alpine vegetation	primary	rbcL	53.284	-120.349	0
+Anthoxanthum_monticola	MG227003.1	23-JAN-2018	552	Canada: British Columbia, Atlin Road, Mount Vaughan, Ruffner Mine	primary	rbcL	59.717	-133.5	0
+Anthoxanthum_monticola	KT960476.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.2691631057263	-21.6993053327631	0
+Anthoxanthum_monticola	KT960461.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.7249544418222	-19.7007320687903	0
+Anthoxanthum_monticola	KT960419.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1042260674637	-18.1352135096691	0
+Anthoxanthum_monticola	KC481971.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay, 18 km east-northeast of main coastal airstrip. Nakoyoktok River at outflow of large unnamed lake	primary	rbcL	68.719	-110.783	0
+Anthoxanthum_monticola	KC481970.1	25-OCT-2013	552	Canada: Nunavut, Mainland Nunavut, Coppermine, Coppermine airport	primary	rbcL	67.817	-115.239	0
+Anthoxanthum_monticola	KC481969.1	25-OCT-2013	552	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	rbcL	76.56	-118.86	0
+Anthoxanthum_monticola	KC481968.1	25-OCT-2013	552	Canada: Nunavut, West Hudson Bay, '50 mile hill', 5 km N of Hyde Lake, 35 km from HB coast	primary	rbcL	60.66	-95.22	0
+Anthoxanthum_monticola	KC481967.1	25-OCT-2013	552	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, south tip of Young Island	primary	rbcL	66.89	-108.02	0
+Anthoxanthum_monticola	JN965577.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 47 km NW Churchill, Seal River, Goose Camp	primary	rbcL	58.768	-93.868	0

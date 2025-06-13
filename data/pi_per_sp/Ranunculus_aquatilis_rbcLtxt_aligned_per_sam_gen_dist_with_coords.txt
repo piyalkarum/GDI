@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ranunculus_aquatilis	MG249414.1	21-JAN-2018	552	Canada: Yukon Territory, Snafu Creek	primary	rbcL	60.144	-133.821	0.00120130537568095
+Ranunculus_aquatilis	MG247653.1	21-JAN-2018	552	Canada: Yukon Territory, Old Crow Flats, Grassy Lake	primary	rbcL	68.188	-140.258	0.00120130537568095
+Ranunculus_aquatilis	KC483821.1	25-OCT-2013	552	Canada: Yukon Territory, Ivvavik National Park, Clarence Lagoon	primary	rbcL	69.616	-140.828	0.00120130537568095
+Ranunculus_aquatilis	KC483820.1	25-OCT-2013	552	Canada: Yukon Territory, Blow River Delta east, Bill Storr Channel	primary	rbcL	68.86	-136.813	0.00120130537568095
+Ranunculus_aquatilis	JN965799.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 24 km E Churchill, Gordon Point, Tundra between Gordon Point and Polar Bear Point	primary	rbcL	58.787	-93.72	0.00589603485510951
+Ranunculus_aquatilis	JN965798.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Wapusk National Park, Cape Tatnam, 64 km (40 mi.) E of York Factory, Nanook Goose Camp	primary	rbcL	57.167	-90.833	0.00227370141177101
+Ranunculus_aquatilis	JN965797.1	27-OCT-2012	423	Canada: Manitoba, Churchill, Wapusk National Park, Nelson River, Long Spruce damsite	primary	rbcL	56.383	-94.5	0.00265957446808511
+Ranunculus_aquatilis	JN892349.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.59	-3.12	0.0012197226919766
+Ranunculus_aquatilis	JN892209.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.0012197226919766

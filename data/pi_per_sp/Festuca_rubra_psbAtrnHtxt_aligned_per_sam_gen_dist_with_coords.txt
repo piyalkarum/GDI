@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_rubra	JN188316.1	30-JUN-2020	628	South Korea: Dokdo	secondary	psbA-trnH	37.2421201	131.8647159	0.0116283382999154
+Festuca_rubra	KJ529246.1	22-FEB-2015	518	United Kingdom	secondary	psbA-trnH	54.7023545	-3.2765753	0.00837608816332221
+Festuca_rubra	KT439010.1	23-SEP-2016	553	Norway	secondary	psbA-trnH	64.5731537	11.5280364	0.0101488270611924
+Festuca_rubra	KT439009.1	23-SEP-2016	548	Spain	secondary	psbA-trnH	39.3260685	-4.8379791	0.00641225949143055
+Festuca_rubra	KT438990.1	23-SEP-2016	548	Iceland	secondary	psbA-trnH	64.9841821	-18.1059013	0.00641225949143055
+Festuca_rubra	KM538886.1	20-JUN-2015	643	South Korea	secondary	psbA-trnH	36.638392	127.6961188	0.0116492620854427
+Festuca_rubra	HE966636.1	18-SEP-2012	628	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00941277306707806

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fraxinus_angustifolia	FJ862055.1	02-MAY-2009	670	Italy: Siliqua	secondary	rbcL	39.300237	8.808738	0.141674083944723
+Fraxinus_angustifolia	LN515515.1	24-NOV-2014	735	France	secondary	rbcL	46.603354	1.8883335	0.547818787320736
+Fraxinus_angustifolia	HG765057.1	18-NOV-2013	688	Italy	secondary	rbcL	43.2093554351156	13.5568668597513	0.13936245951175
+Fraxinus_angustifolia	HG765056.1	18-NOV-2013	688	Italy	secondary	rbcL	43.1270859418525	13.4356235285188	0.13936245951175
+Fraxinus_angustifolia	HG765055.1	18-NOV-2013	688	Italy	secondary	rbcL	42.5756393463956	12.9958636391692	0.13936245951175

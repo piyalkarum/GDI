@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epilobium_anagallidifolium	MG249293.1	21-JAN-2018	552	Canada: Yukon Territory, La Biche Range	primary	rbcL	60.441	-124.436	0.000452898550724638
+Epilobium_anagallidifolium	MG248707.1	21-JAN-2018	552	Canada: Yukon Territory, BaBiche Mountain	primary	rbcL	60.264	-124.424	0.00183001151919419
+Epilobium_anagallidifolium	MG247096.1	21-JAN-2018	552	Canada: Yukon Territory, Kluane National Park, Fisher Glacier near Alsek, base camp	primary	rbcL	60.142	-138.22	0.000452898550724638
+Epilobium_anagallidifolium	MK925058.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5496204271804	-3.25717731947618	0.000462107208872458
+Epilobium_anagallidifolium	MK924937.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.3331798726905	-4.0367992315855	0.000462107208872458

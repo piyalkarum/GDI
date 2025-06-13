@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Eragrostis_papposa	KR735026.1	24-JUN-2015	298	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	1.07800817731739	36.3848113288206	0
+Eragrostis_papposa	KR734844.1	24-JUN-2015	443	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	-0.256517752427366	37.4668643912984	0
+Eragrostis_papposa	KR734828.1	24-JUN-2015	415	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.471711219751658	36.2607144748553	0
+Eragrostis_papposa	KR734470.1	24-JUN-2015	311	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	matK	0.574867379879513	36.4817182852119	0

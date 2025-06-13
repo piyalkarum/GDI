@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Takhtajaniantha_austriaca	MT917404.1	03-MAR-2023	789	China	secondary	matK	35.1735262456376	105.496807368347	0.0647455374358442
+Takhtajaniantha_austriaca	MN267101.1	30-NOV-2021	795	China	secondary	matK	34.8766920930492	105.877993983841	0.0656458165080601
+Takhtajaniantha_austriaca	MH714233.1	01-SEP-2020	792	China: Hebei	secondary	matK	39.0000001	116	0.214128352490421
+Takhtajaniantha_austriaca	KT250115.1	09-AUG-2015	820	Austria	secondary	matK	36.9148511	-4.7534501	0.0634326102147327
+Takhtajaniantha_austriaca	MN726366.1	19-FEB-2020	786	Russia	secondary	matK	50.90143715	113.206355878936	0.0646628498727735

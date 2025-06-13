@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Linaria_tristis	JN663601.1	10-MAR-2012	263	Spain: Cadiz, Alcala de los Gazules	secondary	trnL-trnF	36.4618805	-5.7238891	0.00581395348837209
+Linaria_tristis	JN663598.1	10-MAR-2012	215	Morocco: Tanger, Bab Taza	secondary	trnL-trnF	35.0445555	-5.2611595	0.0232558139534884
+Linaria_tristis	JN663597.1	10-MAR-2012	263	Morocco: Beni Mellal, El Ksiba	secondary	trnL-trnF	32.568902	-6.034093	0.00581395348837209
+Linaria_tristis	JN663596.1	10-MAR-2012	263	Morocco: Ifrane, Ifrane	secondary	trnL-trnF	33.528693	-5.1076162	0.00581395348837209
+Linaria_tristis	JN663599.1	10-MAR-2012	263	Morocco	secondary	trnL-trnF	35.0665124	-5.1076907	0.00581395348837209

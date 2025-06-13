@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Callitriche_stagnalis	KX679075.1	29-APR-2017	530	Canada: British Columbia, Metro Vancouver Regional Distrct, Burnaby, Sussex Street	primary	rbcL	49	-122	0
+Callitriche_stagnalis	JN890761.1	07-MAR-2012	458	United Kingdom: Breconshire	primary	rbcL	52.09	-3.43	0
+Callitriche_stagnalis	MG221185.1	26-DEC-2017	552	Canada: Quebec, Co. Montmorency, Ange-Gardien.	secondary	rbcL	46.8137431	-71.2084061	0
+Callitriche_stagnalis	LC177700.1	01-APR-2017	1322	Australia:New South Wales, Southern Tablelands	secondary	rbcL	-34.6872813	149.8948459	0.000285171102661597
+Callitriche_stagnalis	LC177699.1	01-APR-2017	1315	Japan:Kanagawa, Odawara	secondary	rbcL	35.263676	139.150229	0.00057609429893778
+Callitriche_stagnalis	HM849839.1	23-JUL-2011	1289	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000290923196276183
+Callitriche_stagnalis	JN893354.1	07-MAR-2012	474	United Kingdom: Cardiganshire	secondary	rbcL	53.0170602151927	-3.25405522339468	0
+Callitriche_stagnalis	JN893353.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	51.4732535076826	-3.76221132288285	0
+Callitriche_stagnalis	JN890718.1	07-MAR-2012	524	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_ornithopodioides	JN890919.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.54	-2.9	0.000634920634920635
+Trifolium_ornithopodioides	HM850418.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0019047619047619
+Trifolium_ornithopodioides	JN891664.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.693588528978	-4.85712306757925	0.000634920634920635
+Trifolium_ornithopodioides	JN891327.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.4902726400936	-4.50230770430666	0.000634920634920635

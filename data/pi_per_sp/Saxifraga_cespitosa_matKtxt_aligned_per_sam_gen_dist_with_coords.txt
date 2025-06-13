@@ -1,0 +1,32 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saxifraga_cespitosa	KX677501.1	09-AUG-2017	783	Canada: British Columbia, Vancouver Island, Capital Regional District, Metchosin, Blinkhorn Mountain	primary	matK	48.389	-123.572	0.00494668856768215
+Saxifraga_cespitosa	KC475838.1	25-OCT-2013	743	Canada: Northwest Territories, Melville Island, McCormick Inlet, ca. 10 km SW of head of inlet at river delta	primary	matK	75.79	-112.44	4.516711833785e-05
+Saxifraga_cespitosa	KC475837.1	25-OCT-2013	743	Canada: Nunavut, Victoria Island, Oterkvik Point, Coronation Gulf, bay east of Oterkvik Point	primary	matK	68.531	-112.703	4.516711833785e-05
+Saxifraga_cespitosa	KC475836.1	25-OCT-2013	684	Canada: Nunavut, Ellesmere Island, Alexandra Fiord, RCMP Post on S side of fiord	primary	matK	78.88	-75.75	4.87329434697856e-05
+Saxifraga_cespitosa	KC475835.1	25-OCT-2013	688	Canada: Northwest Territories, Anderson River Delta, Cape Bathurst	primary	matK	70.483	-126.2	4.84496124031008e-05
+Saxifraga_cespitosa	KC475834.1	25-OCT-2013	676	Canada: Nunavut, Bylot Island, Qarlikturvik Valley	primary	matK	73.117	-79.9333	4.93096646942801e-05
+Saxifraga_cespitosa	KC475833.1	25-OCT-2013	717	Canada: Northwest Territories, Prince Patrick Island, Mould Bay, abandoned weather station	primary	matK	76.24	-119.35	4.64900046490005e-05
+Saxifraga_cespitosa	KC475832.1	25-OCT-2013	743	Canada: Nunavut, Hudsons Bay, Belcher Islands, Flaherty Island, ~5 km SW of Sanikiluaq	primary	matK	56.628	-79.356	4.516711833785e-05
+Saxifraga_cespitosa	KC475831.1	25-OCT-2013	717	Canada: Northwest Territories, Victoria Island, Cambridge Bay	primary	matK	69.117	-105.083	4.64900046490005e-05
+Saxifraga_cespitosa	KC475830.1	25-OCT-2013	701	Canada: Northwest Territories, Banks Island, Parker River Valley	primary	matK	73.617	-115.85	4.75511174512601e-05
+Saxifraga_cespitosa	JN966661.1	27-OCT-2012	748	Canada: Manitoba, Churchill, Wapusk National Park, Thompson Point, Beach ridges in sand amongst Leymus mollis and Dryas integrifolia	primary	matK	58.335	-93.018	4.516711833785e-05
+Saxifraga_cespitosa	JN966660.1	27-OCT-2012	746	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas heath	primary	matK	58.769	-93.862	4.516711833785e-05
+Saxifraga_cespitosa	MK926375.1	14-JAN-2020	808	United Kingdom	secondary	matK	54.4478355243732	-2.78407845770783	4.45632798573975e-05
+Saxifraga_cespitosa	MK926369.1	14-JAN-2020	763	United Kingdom	secondary	matK	54.8614063340037	-3.14560444179471	4.53514739229025e-05
+Saxifraga_cespitosa	MK926350.1	14-JAN-2020	906	Greenland	secondary	matK	35.9948477	-94.1796014	0.000740453796453513
+Saxifraga_cespitosa	MK926326.1	14-JAN-2020	873	United Kingdom	secondary	matK	54.2039446167525	-2.07908157990537	0.000255427841634738
+Saxifraga_cespitosa	MK926282.1	14-JAN-2020	891	Svalbard	secondary	matK	78.7198519	20.3493328	0.000479894732768296
+Saxifraga_cespitosa	MK926262.1	14-JAN-2020	909	United Kingdom	secondary	matK	55.1603912934964	-2.69106063250389	0.000255427841634738
+Saxifraga_cespitosa	MK926163.1	14-JAN-2020	849	United Kingdom	secondary	matK	54.7562028892758	-3.11037037014704	0.000255427841634738
+Saxifraga_cespitosa	MK926122.1	14-JAN-2020	902	United Kingdom	secondary	matK	54.1647562068473	-2.44837501883837	0.000255427841634738
+Saxifraga_cespitosa	MK926109.1	14-JAN-2020	871	Iceland	secondary	matK	65.3129265779183	-17.6319881998484	0.000255427841634738
+Saxifraga_cespitosa	MK926085.1	14-JAN-2020	867	United Kingdom	secondary	matK	55.560440911658	-3.42822279445205	0.000255427841634738
+Saxifraga_cespitosa	MK926070.1	14-JAN-2020	902	United Kingdom	secondary	matK	55.4038921222295	-3.7263846920721	0.000255427841634738
+Saxifraga_cespitosa	MK926067.1	14-JAN-2020	892	Sweden	secondary	matK	59.641619138533	15.7477005399749	0.000591750711589895
+Saxifraga_cespitosa	MK926028.1	14-JAN-2020	866	Sweden	secondary	matK	60.0509459501158	12.92241765102	0.000255427841634738
+Saxifraga_cespitosa	MK925957.1	14-JAN-2020	892	Iceland	secondary	matK	64.7813732119466	-18.8147161287024	0.000929334634675742
+Saxifraga_cespitosa	MK925894.1	14-JAN-2020	918	United Kingdom	secondary	matK	55.0554637935766	-2.62668224378336	0.000739123944913303
+Saxifraga_cespitosa	MK925867.1	14-JAN-2020	915	Iceland	secondary	matK	64.8828492630382	-16.936980422338	0.000584626545633965
+Saxifraga_cespitosa	MK925819.1	14-JAN-2020	904	United Kingdom	secondary	matK	54.3315037986055	-2.38436881358856	0.000255427841634738
+Saxifraga_cespitosa	MK925689.1	14-JAN-2020	937	Sweden	secondary	matK	59.2771189691021	13.7131123874559	0.000850601041666344
+Saxifraga_cespitosa	MK925602.1	14-JAN-2020	817	Norway	secondary	matK	64.5731537	11.5280364	0.00025706940874036

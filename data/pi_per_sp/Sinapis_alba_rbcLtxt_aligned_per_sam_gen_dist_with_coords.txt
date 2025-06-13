@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sinapis_alba	JN892988.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.51	-3.22	0.00536208882973819
+Sinapis_alba	MT930914.1	03-MAR-2023	572	China	secondary	rbcL	35.000074	104.999927	0.00526621255677656
+Sinapis_alba	MG249874.1	21-JAN-2018	553	Canada: Quebec, Montabello. 51 rue Notre-Dame	secondary	rbcL	46.8137431	-71.2084061	0.00527512973403419
+Sinapis_alba	MG248677.1	21-JAN-2018	553	Canada: Ontario, Bayswater dump. Ottawa	secondary	rbcL	43.72634945	-77.7101179040839	0.00527512973403419
+Sinapis_alba	MG247630.1	21-JAN-2018	553	Canada: New Brunswick, Fredericton, between Smythe, Regent Street	secondary	rbcL	47.43950925	-68.3926909826309	0.0136503921268225
+Sinapis_alba	HM849823.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0172105974942826
+Sinapis_alba	JN893803.1	07-MAR-2012	535	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.0107368554898595
+Sinapis_alba	JN893672.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.00536208882973819

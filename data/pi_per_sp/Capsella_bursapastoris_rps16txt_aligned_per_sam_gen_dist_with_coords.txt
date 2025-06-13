@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Capsella_bursa-pastoris	HE575236.1	27-FEB-2012	838	Bulgaria:Tracian Plain, Kurtova Konare	primary	rps16	41.5050466283875	24.1126918654392	0.274348588323136
+Capsella_bursa-pastoris	HE575235.1	27-FEB-2012	838	Bulgaria:Sozopol	primary	rps16	41.7446293461725	28.2873969638754	0.274348588323136
+Capsella_bursa-pastoris	HE575234.1	27-FEB-2012	838	Bulgaria:Sozopol	primary	rps16	41.9568478655777	28.1460265148123	0.274348588323136
+Capsella_bursa-pastoris	HE575227.1	27-FEB-2012	453	Bulgaria:Tracian Plain, Kurtova Konare	primary	rps16	42.5065526512794	25.0142267197798	0.274434105313766
+Capsella_bursa-pastoris	HE575226.1	27-FEB-2012	453	Bulgaria:Sozopol	primary	rps16	42.4896632854579	27.8211612542203	0.274434105313766
+Capsella_bursa-pastoris	HE575225.1	27-FEB-2012	453	Bulgaria:Sozopol	primary	rps16	41.7837964523169	27.2015111729749	0.274434105313766
+Capsella_bursa-pastoris	FR822358.1	12-FEB-2012	838	Germany:North Rhine-Westphalia, north of Muenster	primary	rps16	51.8646943763944	8.52668190716599	0.274348588323136
+Capsella_bursa-pastoris	FR822357.1	12-FEB-2012	773	Turkey:Prov. Antalya, Taurus Mts., Bey Daglari massif	primary	rps16	36.1969161074497	29.4608793685814	0.275981668957726
+Capsella_bursa-pastoris	FR822356.1	12-FEB-2012	837	Russia:Novosibirskaya Oblast, near Novosibirsk	primary	rps16	51.5268852356255	82.9790902571114	0.274348588323136
+Capsella_bursa-pastoris	FR822331.1	12-FEB-2012	453	Turkey:Prov. Antalya, Taurus Mts., Bey Daglari massif	primary	rps16	37.1782527203206	30.4152377803891	0.274835469953542
+Capsella_bursa-pastoris	FR822330.1	12-FEB-2012	453	Russia:Novosibirskaya Oblast, near Novosibirsk	primary	rps16	52.848215952414	81.6452590463179	0.274835469953542
+Capsella_bursa-pastoris	FR822329.1	12-FEB-2012	453	Germany:North Rhine-Westphalia, north of Muenster	primary	rps16	51.8986148255362	6.45388031577714	0.274434105313766

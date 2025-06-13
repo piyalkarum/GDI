@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Adonis_volgensis	OL943566.1	13-NOV-2022	969	Kazakhstan	secondary	rpl16	48.1012954	66.7780818	0
+Adonis_volgensis	OL943565.1	13-NOV-2022	959	Russia	secondary	rpl16	64.565072726122	99.3796573672891	0
+Adonis_volgensis	OL943564.1	13-NOV-2022	969	Russia	secondary	rpl16	64.3432313791705	97.0305569319953	0
+Adonis_volgensis	OL943563.1	13-NOV-2022	971	Russia	secondary	rpl16	64.2318185531424	98.0423339548823	0
+Adonis_volgensis	OL943562.1	13-NOV-2022	969	Ukraine	secondary	rpl16	48.7478372826748	31.5009943076912	0
+Adonis_volgensis	OL943561.1	13-NOV-2022	965	Ukraine	secondary	rpl16	49.539490025508	32.1003592145999	0

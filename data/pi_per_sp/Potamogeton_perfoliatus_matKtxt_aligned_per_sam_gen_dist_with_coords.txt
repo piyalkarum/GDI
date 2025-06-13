@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_perfoliatus	OR738244.1	13-NOV-2023	679	Kazakhstan: Kostanay region	primary	matK	53.17416	63.47076	0.278089012899906
+Potamogeton_perfoliatus	JN895042.1	07-MAR-2012	802	United Kingdom: Glamorgan	primary	matK	51.63	-3.48	0.0283729629661894
+Potamogeton_perfoliatus	LC638901.1	25-DEC-2021	837	Japan:Ehime	secondary	matK	33.6013646	132.8185275	0.0284965422476211
+Potamogeton_perfoliatus	MN384865.1	10-MAR-2020	732	Switzerland:Cartigny, Moulin de Vert	secondary	matK	46.1785081	6.0268252	0.0287379243852306
+Potamogeton_perfoliatus	JF955632.1	13-DEC-2011	735	China: Yunnan	secondary	matK	24.459047385141	101.521455248706	0.0283792692334666
+Potamogeton_perfoliatus	JF955631.1	13-DEC-2011	735	China: Yunnan	secondary	matK	25.7941455268493	101.78872309195	0.0283792692334666
+Potamogeton_perfoliatus	JF955630.1	13-DEC-2011	735	China: Yunnan	secondary	matK	24.414315130948	102.196179047389	0.0283792692334666
+Potamogeton_perfoliatus	JF955629.1	13-DEC-2011	735	China: Heilongjiang Sheng	secondary	matK	48.2545736441932	126.907362123399	0.0285148727562781
+Potamogeton_perfoliatus	JF955628.1	13-DEC-2011	735	China: Neimenggu	secondary	matK	43.2443242	114.3251664	0.0285148727562781
+Potamogeton_perfoliatus	JF955627.1	13-DEC-2011	735	China: Heilongjiang Sheng	secondary	matK	48.4120587501344	127.245847250402	0.0285148727562781
+Potamogeton_perfoliatus	JF955626.1	13-DEC-2011	735	China: Heilongjiang Sheng	secondary	matK	48.2398991246313	126.989429384188	0.0283792692334666

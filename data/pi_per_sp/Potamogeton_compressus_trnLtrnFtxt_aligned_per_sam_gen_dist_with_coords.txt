@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_compressus	EF432105.1	28-FEB-2008	407	China	secondary	trnL-trnF	34.9369223026724	104.564728653401	0.00655200655200655
+Potamogeton_compressus	EF432104.1	28-FEB-2008	407	China	secondary	trnL-trnF	34.9511509110643	104.472955899259	0.0114660114660115
+Potamogeton_compressus	EF432103.1	28-FEB-2008	407	China	secondary	trnL-trnF	34.8283262685489	104.524818820206	0.00655200655200655
+Potamogeton_compressus	EF432079.1	28-FEB-2008	407	China	secondary	trnL-trnF	34.4726855462177	105.035536493314	0.00491400491400491

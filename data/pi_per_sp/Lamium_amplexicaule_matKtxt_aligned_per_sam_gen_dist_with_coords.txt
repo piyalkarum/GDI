@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lamium_amplexicaule	OL434939.1	14-NOV-2022	712	USA: Georgia	primary	matK	32.1174	-81.138	0.00151274783649506
+Lamium_amplexicaule	KP402354.1	06-JAN-2016	746	USA: Maryland, Edgwater, Smithsonian Environmental Research Center, outside of Mathias by lamp post	primary	matK	38.889	-76.554	0.00252158167140941
+Lamium_amplexicaule	JN894837.1	07-MAR-2012	833	United Kingdom: Monmouthshire	primary	matK	51.51	-3.1	0.00134036715693847
+Lamium_amplexicaule	ON286911.1	27-FEB-2023	810	Turkey	secondary	matK	38.9597594	34.9249653	0.0013854736006777
+Lamium_amplexicaule	MN311842.1	30-NOV-2021	804	China	secondary	matK	34.9915046199337	104.66480015057	0.00133855177827785
+Lamium_amplexicaule	MN311841.1	30-NOV-2021	791	China	secondary	matK	35.4359731856366	104.534485208838	0.00633884431422861
+Lamium_amplexicaule	MN433402.1	30-NOV-2021	799	China	secondary	matK	35.0404491506956	104.982137419429	0.00133801873416053
+Lamium_amplexicaule	KF188542.1	26-OCT-2013	786	Poland	secondary	matK	51.5150267625602	19.9201564573976	0.00135710783333632
+Lamium_amplexicaule	KF188541.1	26-OCT-2013	786	Poland	secondary	matK	52.1597460898873	18.7711263474271	0.00135710783333632
+Lamium_amplexicaule	KF188540.1	26-OCT-2013	786	Poland	secondary	matK	52.8923452444363	19.3623598193588	0.00135710783333632
+Lamium_amplexicaule	KF188539.1	26-OCT-2013	786	Poland	secondary	matK	52.2691845329932	19.142456828135	0.00227156992271257
+Lamium_amplexicaule	HM850790.1	23-JUL-2011	478	Portugal	secondary	matK	39.6621648	-8.1353519	0.00895961921151887
+Lamium_amplexicaule	JN894209.1	07-MAR-2012	825	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0022366467688683
+Lamium_amplexicaule	JN894206.1	07-MAR-2012	870	United Kingdom: Anglesey	secondary	matK	53.2782257	-4.331344	0.00132889702889949

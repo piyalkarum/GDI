@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Festuca_pratensis	LR588268.1	30-JUL-2021	2764	Germany	primary	matK	48.0464	8.5325	0.069619877223377
+Festuca_pratensis	MG217035.1	24-JAN-2018	708	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	matK	51.273	-80.641	0.0696795216428062
+Festuca_pratensis	JN894235.1	07-MAR-2012	970	United Kingdom: Cardiganshire	primary	matK	52.26	-4.14	0.0696673099780028
+Festuca_pratensis	MT433198.1	31-MAY-2020	1535	Norway	secondary	matK	64.5731537	11.5280364	0.0705720010009349
+Festuca_pratensis	KJ599332.1	21-SEP-2014	769	Australia: Australian Capital Territory	secondary	matK	-35.4883502	149.0026942	0.0730653900103656
+Festuca_pratensis	JX438095.1	31-MAR-2013	434	Kazakhstan	secondary	matK	48.1012954	66.7780818	0.518077330508475
+Festuca_pratensis	HM850535.1	23-JUL-2011	730	Portugal	secondary	matK	39.6621648	-8.1353519	0.0949118380480117
+Festuca_pratensis	JN894718.1	07-MAR-2012	807	United Kingdom: Carmarthenshire	secondary	matK	51.9072057615912	-2.8764672876211	0.0696933386702446
+Festuca_pratensis	JN894541.1	07-MAR-2012	791	United Kingdom: Carmarthenshire	secondary	matK	51.0656790464321	-4.33309861206126	0.0697015981851709

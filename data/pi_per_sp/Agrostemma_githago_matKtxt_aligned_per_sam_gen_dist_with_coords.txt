@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostemma_githago	JN894588.1	07-MAR-2012	841	United Kingdom: Monmouthshire	primary	matK	51.75	-3.2	0
+Agrostemma_githago	OQ172318.1	18-JUN-2023	776	South Korea	secondary	matK	36.638392	127.6961188	0
+Agrostemma_githago	MK898775.1	30-JUN-2019	393	USA: TN	secondary	matK	35.7730076	-86.2820081	0
+Agrostemma_githago	JN894605.1	07-MAR-2012	825	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0

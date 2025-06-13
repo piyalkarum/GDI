@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Hordelymus_europaeus	FJ793064.1	06-APR-2010	211	Czech Republic: Krivoklatsko, Velka Ples Hill	secondary	trnL-trnF	50.00260615	13.8329854667267	0.0108173076923077
+Hordelymus_europaeus	FJ793063.1	06-APR-2010	210	Austria: Upper Austria, St. Lorenz, Mondsee Lake	secondary	trnL-trnF	47.8356897	14.2217078885606	0.0108173076923077
+Hordelymus_europaeus	FJ793062.1	06-APR-2010	208	Italy: Amatrice, Lago Di Campotosto Lake	secondary	trnL-trnF	42.6292367	13.2891755	0.015625
+Hordelymus_europaeus	FJ793061.1	06-APR-2010	208	Ukraine: Crimea, Angarski Pereval	secondary	trnL-trnF	45.28350435	34.2008187752655	0.0192307692307692
+Hordelymus_europaeus	FJ793066.1	06-APR-2010	209	Czech Republic	secondary	trnL-trnF	50.5730927	13.54717	0.0108173076923077

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ceratophyllum_submersum	JN895363.1	07-MAR-2012	821	United Kingdom: Monmouthshire	primary	matK	51.55	-2.96	0.000897951333876714
+Ceratophyllum_submersum	MG837737.1	18-JUL-2018	832	Switzerland: Grossee, Andelfingen	secondary	matK	47.60629165	8.69141017361794	0.000686813186813187
+Ceratophyllum_submersum	MG837736.1	18-JUL-2018	832	Russia: Volgograd	secondary	matK	48.6484138	44.3849756	0.00286105666168063
+Ceratophyllum_submersum	KM582627.1	24-DEC-2014	1115	Hungary: Vajszlo, Drava Plain	secondary	matK	45.8593027	17.9837538	0.00284951463784658
+Ceratophyllum_submersum	KM582626.1	24-DEC-2014	1121	Russia: Terkin, Volgograd	secondary	matK	49.736351	43.13113	0.000855898585719213
+Ceratophyllum_submersum	KM582615.1	24-DEC-2014	1115	Hungary: Sellye, Drava Plain	secondary	matK	45.8735444	17.8514053	0.00163742301645446
+Ceratophyllum_submersum	JN894772.1	07-MAR-2012	824	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.000901571952617359
+Ceratophyllum_submersum	JN894275.1	07-MAR-2012	803	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.000920335711890386

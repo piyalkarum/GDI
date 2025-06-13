@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Kalmia_procumbens	AB219732.1	20-DEC-2005	954	Japan: Nagano, Mt. Kisokomagadake	secondary	rpl16	36.6485851	138.1947664	0
+Kalmia_procumbens	AB219730.1	20-DEC-2005	955	Japan: Hokkaido, Mts. Taisetsuzan	secondary	rpl16	43.4603175	143.330715792837	0
+Kalmia_procumbens	AB219729.1	20-DEC-2005	954	Russia: Sakhalin, 30km South of Okha	secondary	rpl16	50.15947595	143.026441186009	0
+Kalmia_procumbens	AB247971.1	20-APR-2006	947	Japan:Nagano, Mt. Senjogatake	secondary	rpl16	35.7200776	138.1836017	0

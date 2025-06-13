@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Erigeron_uniflorus	KC474725.1	25-OCT-2013	777	Canada: Nunavut, Axel Heiberg Island, Expedition Fiord	primary	matK	79.4	-90.8	0
+Erigeron_uniflorus	KC474724.1	25-OCT-2013	777	Canada: Northwest Territories, Victoria Island, Minto Inlet, River valley at N head of Minto Inlet, ~ 3 km from Inlet	primary	matK	71.68	-115.492	0
+Erigeron_uniflorus	KC474723.1	25-OCT-2013	777	Canada: Northwest Territories, Banks Island, Upper Masik River Valley	primary	matK	71.567	-122.55	0
+Erigeron_uniflorus	KC474722.1	25-OCT-2013	777	Canada: Nunavut, Baffin Island, Apex	primary	matK	63.717	-68.45	0
+Erigeron_uniflorus	KC474721.1	25-OCT-2013	777	Canada: Nunavut, Ellesmere Island, John Richardson Bay	primary	matK	80.217	-72.633	0
+Erigeron_uniflorus	KC474720.1	25-OCT-2013	777	Canada: Nunavut, West Hudson Bay, Rankin Inlet	primary	matK	62.8	-92.0833	0
+Erigeron_uniflorus	KP175096.1	30-NOV-2016	1079	USA	secondary	matK	39.7837304	-100.445882	0

@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Thinopyrum_junceiforme	OK181366.1	31-OCT-2022	917	Germany	secondary	trnL-trnF	39.9744395966787	-78.6458189825008	0.00275109357577837
+Thinopyrum_junceiforme	OK181365.1	31-OCT-2022	923	United Kingdom	secondary	trnL-trnF	54.7023545	-3.2765753	0.00135959621498811
+Thinopyrum_junceiforme	OK181364.1	31-OCT-2022	890	Germany	secondary	trnL-trnF	39.8012125975079	-79.1477190149101	0.00140449438202247
+Thinopyrum_junceiforme	OK181363.1	31-OCT-2022	947	Germany	secondary	trnL-trnF	39.9628457376835	-78.4876809036792	0.00190412080189064
+Thinopyrum_junceiforme	OK181362.1	31-OCT-2022	947	Germany	secondary	trnL-trnF	40.7699939879464	-78.5366059267669	0.00134586751021132

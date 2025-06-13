@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crataegus_nigra	KC251355.1	03-DEC-2013	552	Bulgaria: Sofia, Hort. Bot. Univ. Silvitechnici	primary	rbcL	42.7	23.325	0
+Crataegus_nigra	KC251354.1	03-DEC-2013	552	Canada: Quebec, Montreal, Jardin Botanique de Montreal, Arboretum	primary	rbcL	45.5599	-73.5662	0
+Crataegus_nigra	KC251353.1	03-DEC-2013	552	Denmark: Germany, Hesse Nursery (1941).-Material grown in the Arboretum, Hoersholm, Royal Agricultural and Veterinary University	primary	rbcL	55.8699	12.5029	0
+Crataegus_nigra	KC206628.1	08-JUL-2015	908	Bulgaria	secondary	rbcL	46.7889169	23.6184909	0

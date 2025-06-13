@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Polycarpon_tetraphyllum	MG249842.1	21-JAN-2018	552	Canada: British Columbia, Vancouver, near Daive St. and Pacific Blvd, beside Roundhouse Community Centre.	primary	rbcL	49.2667	-123.117	0.00145430798642539
+Polycarpon_tetraphyllum	MG249813.1	21-JAN-2018	552	Canada: British Columbia, Vancouver, Roundhouse Community Arts&Rec Centre, N side of old railroad switching circle	primary	rbcL	49.2735	-123.121	0.00145430798642539
+Polycarpon_tetraphyllum	MG248327.1	21-JAN-2018	552	Canada: British Columbia, Vancouver Island, Greater Victoria, Oak Bay, in front of 1270 Beach Drive	primary	rbcL	48.4226	-123.301	0.00145430798642539
+Polycarpon_tetraphyllum	OQ391465.1	10-MAY-2023	519	Peru	secondary	rbcL	-6.8699697	-75.0458515	0.00154627400308059
+Polycarpon_tetraphyllum	MK925569.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0.00147545822354561
+Polycarpon_tetraphyllum	MK924934.1	14-JAN-2020	542	Spain	secondary	rbcL	39.3260685	-4.8379791	0.00147545822354561
+Polycarpon_tetraphyllum	MK924630.1	14-JAN-2020	542	France	secondary	rbcL	46.603354	1.8883335	0.00147545822354561
+Polycarpon_tetraphyllum	MG249730.1	21-JAN-2018	480	USA: California, Marin Co., Inverness, Golden Hinde Inn & Marina on Tomales Bay	secondary	rbcL	38.628683	-92.5659635	0.00330431423411719
+Polycarpon_tetraphyllum	MG247891.1	21-JAN-2018	552	USA: Texas, Dimmit Co., Carrizo Springs (US-277N)	secondary	rbcL	40.3606638	-74.3693157	0.00145430798642539
+Polycarpon_tetraphyllum	MG246101.1	21-JAN-2018	552	USA: Georgia, Wheeler Co., Little Ocmulgee State Park, Us-319/441 just N of US-280, E of McRae	secondary	rbcL	44.72422295	-73.1470415173155	0.00240478385837288
+Polycarpon_tetraphyllum	MF963079.1	10-OCT-2017	1278	USA: Butte Co, CA	secondary	rbcL	39.5066404	-121.5641685	0.00146395171308011
+Polycarpon_tetraphyllum	KX282958.1	28-MAY-2017	579	Kuwait	secondary	rbcL	29.3939519295428	48.9127685081002	0.00359229240118499
+Polycarpon_tetraphyllum	KX282957.1	28-MAY-2017	561	Kuwait	secondary	rbcL	29.8852843433354	47.4550543922569	0.00363102090102652
+Polycarpon_tetraphyllum	KX282956.1	28-MAY-2017	567	Kuwait	secondary	rbcL	30.2164810909486	48.2477176673446	0.00519786204291135
+Polycarpon_tetraphyllum	HM850271.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00481907280061112

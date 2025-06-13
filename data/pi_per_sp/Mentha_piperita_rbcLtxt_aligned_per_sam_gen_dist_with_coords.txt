@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_piperita	ON684513.1	21-AUG-2022	1434	Portugal: Meiral, Canidelo, Vila Nova de Gaia	primary	rbcL	41.12447	-8.64486	0.000440121462877606
+Mentha_piperita	KX783926.1	31-MAY-2017	552	Egypt: Alexandria, Mariot, Mostafa Kamel Village	primary	rbcL	30.7152079353122	30.3695575346426	0.000757862826828344
+Mentha_piperita	KX783925.1	31-MAY-2017	552	Egypt: Alexandria, Mariot, Mostafa Kamel Village	primary	rbcL	30.8060126325623	29.39692300364	0.000757862826828344
+Mentha_piperita	KX783924.1	31-MAY-2017	552	Egypt: Alexandria, Abeis, Green Oasis	primary	rbcL	31.2	30.022	0.000757862826828344
+Mentha_piperita	KX356052.1	15-NOV-2016	213	India	primary	rbcL	26.0916663627036	81.103087562534	NA
+Mentha_piperita	KX356051.1	15-NOV-2016	213	India	primary	rbcL	27.386993228106	80.6248748863557	NA
+Mentha_piperita	KX356050.1	15-NOV-2016	213	India	primary	rbcL	26.5006429635699	80.8852525608404	NA
+Mentha_piperita	KX356049.1	15-NOV-2016	213	India	primary	rbcL	26.2826762068048	80.8475953175722	NA
+Mentha_piperita	ON755093.1	14-MAR-2023	646	Egypt	secondary	rbcL	26.2540493	29.2675469	0.000883683496569763
+Mentha_piperita	MN401229.1	05-MAY-2020	885	Indonesia	secondary	rbcL	-2.4833826	117.8902853	NA
+Mentha_piperita	KP172042.1	04-FEB-2015	1413	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00179295134800533

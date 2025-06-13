@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Capsella_bursa-pastoris	HE575244.1	27-FEB-2012	638	Bulgaria:Tracian Plain, Kurtovo Konare	primary	ITS2	42.05	24.3	0.00801726120208079
+Capsella_bursa-pastoris	HE575243.1	27-FEB-2012	638	Bulgaria:Sozopol	primary	ITS2	42.6827684946363	28.331638296522	0.00400233395631248
+Capsella_bursa-pastoris	HE575242.1	27-FEB-2012	639	Bulgaria:Sozopol	primary	ITS2	42.5059076086364	27.5813027427086	0.00802985449153661
+Capsella_bursa-pastoris	HE575241.1	27-FEB-2012	639	Bulgaria:Sozopol	primary	ITS2	41.5331294045868	27.3917796870133	0.00802985449153661
+Capsella_bursa-pastoris	HE575240.1	27-FEB-2012	639	Bulgaria:Sozopol	primary	ITS2	42.910397478588	27.0854110587168	0.00802985449153661
+Capsella_bursa-pastoris	HE575239.1	27-FEB-2012	638	Bulgaria:Sozopol	primary	ITS2	41.5917551677628	27.9396861885538	0.00801726120208079
+Capsella_bursa-pastoris	HE575238.1	27-FEB-2012	638	Bulgaria:Sozopol	primary	ITS2	42.9166763060733	28.0865344800454	0.00400233395631248
+Capsella_bursa-pastoris	HE575237.1	27-FEB-2012	638	Bulgaria:Sozopol	primary	ITS2	41.6454238628577	27.4012322618203	0.00400233395631248
+Capsella_bursa-pastoris	FR773707.1	27-FEB-2012	638	Germany:North Rhine-Westphalia, north of Muenster	primary	ITS2	52.19	7.56	0.00400233395631248
+Capsella_bursa-pastoris	FR773706.1	27-FEB-2012	638	Russia:Novosibirskaya Oblast, near Novosibirsk	primary	ITS2	52.2	82.54	0.00400233395631248
+Capsella_bursa-pastoris	FR773705.1	27-FEB-2012	638	Turkey:Prov. Antalya, Taurus Mts., Bey Daglari massif, near Imecik	primary	ITS2	36.52	30.15	0.00400233395631248
+Capsella_bursa-pastoris	LC089998.1	27-OCT-2015	778	Japan	secondary	ITS2	36.5748441	139.2394179	0.00714179437583693

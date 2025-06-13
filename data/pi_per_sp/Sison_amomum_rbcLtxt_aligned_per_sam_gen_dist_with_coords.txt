@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sison_amomum	JN892989.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.56	-3.04	0
+Sison_amomum	JQ933482.1	30-SEP-2012	1383	United Kingdom: Middlesex	secondary	rbcL	51.5460558	-0.2537791	0
+Sison_amomum	JN892716.1	07-MAR-2012	540	United Kingdom: Glamorgan	secondary	rbcL	50.8108113119339	-2.76486446593483	0
+Sison_amomum	JN890547.1	07-MAR-2012	511	United Kingdom: Glamorgan	secondary	rbcL	51.8328968331679	-4.38496618552564	0

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potamogeton_berchtoldii	JN891373.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.54	-3.75	0
+Potamogeton_berchtoldii	FJ956852.1	30-DEC-2010	890	China: Yilan, Heilongjiang	secondary	rbcL	46.3208082	129.5650414	0
+Potamogeton_berchtoldii	JN891565.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0
+Potamogeton_berchtoldii	JN891563.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

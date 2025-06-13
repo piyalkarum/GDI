@@ -1,0 +1,17 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calystegia_sepium	MG223796.1	26-DEC-2017	552	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	rbcL	42.454	-81.884	0.00049577762272868
+Calystegia_sepium	MF349788.1	21-SEP-2017	553	USA: Virginia; Bike path along GW Pkwy- Daingerfield Island Marina along the bike path and picnic area	primary	rbcL	38.831	-77.043	0.000495307404029963
+Calystegia_sepium	KX678542.1	29-APR-2017	552	Canada: British Columbia, Metro Vancouver Regional Distrct, Vancouver, Jericho Park, duck pond, north shore	primary	rbcL	49.272	-123.197	0.00179699739129196
+Calystegia_sepium	HQ589980.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., 10 m N of marsh	primary	rbcL	44.026	-79.535	0.000483923644859713
+Calystegia_sepium	KT695570.1	29-SEP-2015	536	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.000380228136882129
+Calystegia_sepium	KJ841144.1	04-NOV-2014	553	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Vegetated area in centre of paved parking lot	primary	rbcL	45.536	-73.158	0.00049554600613752
+Calystegia_sepium	JN891484.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.14	-4.64	0.00037714047470145
+Calystegia_sepium	KC529310.1	31-JAN-2015	606	Finland	secondary	rbcL	63.2467777	25.9209164	0.000411958224033314
+Calystegia_sepium	KC529309.1	31-JAN-2015	606	Turkey	secondary	rbcL	38.9597594	34.9249653	0.000411958224033314
+Calystegia_sepium	KC529308.1	31-JAN-2015	606	United Kingdom: Wales	secondary	rbcL	52.2928116	-3.73893	0.000411958224033314
+Calystegia_sepium	KC529307.1	31-JAN-2015	512	USA	secondary	rbcL	39.7837304	-100.445882	0.000453033556481832
+Calystegia_sepium	KC529306.1	31-JAN-2015	606	Canada	secondary	rbcL	61.0666922	-107.991707	0.000411958224033314
+Calystegia_sepium	KC529305.1	31-JAN-2015	606	Portugal	secondary	rbcL	39.8350022714299	-8.52468414214257	0.000411958224033314
+Calystegia_sepium	HM849841.1	23-JUL-2011	675	Portugal	secondary	rbcL	39.4573385735777	-8.8861010700197	0.00150618535279132
+Calystegia_sepium	JN891774.1	07-MAR-2012	529	United Kingdom: Cardiganshire	secondary	rbcL	51.4888109805337	-3.64665789948667	0.000256232277882798
+Calystegia_sepium	JN891034.1	07-MAR-2012	533	United Kingdom: Cardiganshire	secondary	rbcL	52.2328208470056	-4.5729915271875	0.00396775686888001

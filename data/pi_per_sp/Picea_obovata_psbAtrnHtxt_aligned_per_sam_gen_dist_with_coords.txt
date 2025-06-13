@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Picea_obovata	JN046290.2	13-DEC-2011	600	China: Canton, Xinjiang	secondary	psbA-trnH	24.2824484049945	113.276944620627	0
+Picea_obovata	JN046291.2	13-DEC-2011	600	China: Canton, Xinjiang	secondary	psbA-trnH	24.0014100564844	114.399762957781	0
+Picea_obovata	JN046292.2	13-DEC-2011	600	China: Canton, Xinjiang	secondary	psbA-trnH	24.4519875847545	113.458128568798	0
+Picea_obovata	JN046293.2	13-DEC-2011	600	Tajikistan	secondary	psbA-trnH	39.0557375997504	71.216015671322	0
+Picea_obovata	JN046294.2	13-DEC-2011	600	Tajikistan	secondary	psbA-trnH	38.4492705753489	71.6536332272275	0

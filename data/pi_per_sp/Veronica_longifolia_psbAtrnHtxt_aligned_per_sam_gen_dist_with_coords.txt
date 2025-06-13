@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_longifolia	OR610284.1	01-NOV-2023	360	Kazakhstan: Qaragandy region	primary	psbA-trnH	49.48573	75.41885	0.00653435039310441
+Veronica_longifolia	KU207070.1	22-DEC-2016	312	Ukraine	secondary	psbA-trnH	49.4871968	31.2718321	0.00702969464944939
+Veronica_longifolia	KJ425695.1	31-JAN-2015	307	Russia	secondary	psbA-trnH	64.5548906225606	97.9408835554417	0.0147101379416667
+Veronica_longifolia	KJ425694.1	31-JAN-2015	308	Russia	secondary	psbA-trnH	64.6994287011444	99.7133238283883	0.00379669190744109
+Veronica_longifolia	KJ425693.1	31-JAN-2015	308	Turkey	secondary	psbA-trnH	38.9597594	34.9249653	0.00379669190744109
+Veronica_longifolia	KJ425692.1	31-JAN-2015	312	United Kingdom	secondary	psbA-trnH	54.7023545	-3.2765753	0.00757435695881758
+Veronica_longifolia	KJ425690.1	31-JAN-2015	306	Russia	secondary	psbA-trnH	64.9968962508465	98.5842626144742	0.00440253620828176

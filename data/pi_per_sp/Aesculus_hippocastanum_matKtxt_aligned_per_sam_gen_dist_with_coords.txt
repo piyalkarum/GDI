@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aesculus_hippocastanum	KX677636.1	09-AUG-2017	802	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, North side of Pacific Spirit Park, trails along North side of Chancellor Blvd.	primary	matK	49.271	-123.229	0.000879507475813544
+Aesculus_hippocastanum	KX677072.1	09-AUG-2017	758	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, Pacific Spirit Park, St. George's trail	primary	matK	49.24	-123.198	0.00264909060805789
+Aesculus_hippocastanum	MG220949.1	21-JAN-2018	749	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay	primary	matK	45.514	-73.747	0.000890075656430797
+Aesculus_hippocastanum	MG220798.1	21-JAN-2018	796	Canada: Ontario, Niagara R. M., North Grimsby Tp., Niagara Section Escarpment ANSI, Along escarpment from just W of Fifty Rd. to just W of Rd. 12 in Grimsby including Beamer Valley	secondary	matK	43.72634945	-77.7101179040839	0.000879507475813544

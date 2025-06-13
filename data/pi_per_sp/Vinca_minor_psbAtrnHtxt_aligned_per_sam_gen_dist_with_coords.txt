@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vinca_minor	OR465001.1	26-SEP-2023	319	USA: Bishop's Bog Preserve, Portage, MI	primary	psbA-trnH	42.18338569	-85.59368158	0.00630914826498423
+Vinca_minor	FJ493259.1	22-DEC-2008	382	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.00835654596100279
+Vinca_minor	HE966868.1	18-SEP-2012	359	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.1484231003275	13.6160492774692	0.0258077555073241
+Vinca_minor	HE966867.1	18-SEP-2012	361	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.1290931985439	12.7578120640231	0.00835654596100279
+Vinca_minor	HE966866.1	18-SEP-2012	361	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	46.2242575098671	12.8366577641886	0.00835654596100279

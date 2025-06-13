@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Micranthes_tenuis	MG247885.1	21-JAN-2018	552	Canada: Yukon Territory, Asi Keyi SMA, Kluane Range, mountain NW of Sergerent Creek	primary	rbcL	61.709	-140.323	0
+Micranthes_tenuis	MG247863.1	21-JAN-2018	552	Canada: Yukon Territory, Kluane National Park, Fisher Glacier near Alsek, W-facing slope above valley glacier leading into Fisher Glacier	primary	rbcL	60.139	-138.222	0
+Micranthes_tenuis	KT960649.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5	-21	0
+Micranthes_tenuis	KC483170.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Beverley Inlet, E of river, 0.5 - 2.5 km from sea	primary	rbcL	75.1	-107.633	0
+Micranthes_tenuis	KC483169.1	25-OCT-2013	552	Canada: Nunavut, Devon Island, Croker Bay, Croker Bay, E side near entrance	primary	rbcL	74.5333	-82.7833	0
+Micranthes_tenuis	KC483168.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Base of northfacing cliffs 68 km ENE of Uluhkatok, south of Minto Inlet	primary	rbcL	71.199	-116.284	0
+Micranthes_tenuis	KC483167.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Fosheim Peninsula	primary	rbcL	79.483	-83.0833	0
+Micranthes_tenuis	KC483166.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Quttinirpaaq National Park Reserve. Tanquary Fiord Quad, Yelverton Pass area	primary	rbcL	81.6167	-77.8333	0
+Micranthes_tenuis	KC483165.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Minto Inlet, Rocky cliffs above south shore of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet	primary	rbcL	71.235	-116.455	0

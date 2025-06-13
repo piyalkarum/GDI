@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Isolepis_fluitans	AB983319.1	12-MAY-2015	709	Spain: Sevilla	secondary	rps16	37.3886303	-5.9953403	0.0147198480531814
+Isolepis_fluitans	AB983318.1	12-MAY-2015	819	New Zealand	secondary	rps16	-41.5000831	172.8344077	0.017553628116719
+Isolepis_fluitans	GU012377.1	19-NOV-2010	830	Kenya	secondary	rps16	1.14212707400783	38.8207593446002	0.0228545667057944
+Isolepis_fluitans	EF174390.1	01-JUL-2008	823	Kenya	secondary	rps16	1.14940683120731	38.0643315873507	0.0104526804855769

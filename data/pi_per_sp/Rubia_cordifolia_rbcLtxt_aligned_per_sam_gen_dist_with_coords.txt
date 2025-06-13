@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubia_cordifolia	MH714021.1	01-SEP-2020	570	China: Hebei	secondary	rbcL	39.2721159460118	114.985694429426	0.0125
+Rubia_cordifolia	MH713926.1	01-SEP-2020	568	China: Hebei	secondary	rbcL	39.4095863084478	116.894342366041	0.0126582278481013
+Rubia_cordifolia	MH215245.1	22-JAN-2019	553	China	secondary	rbcL	35.000074	104.999927	0.0137931034482759
+Rubia_cordifolia	MK028103.1	17-DEC-2018	712	Tanzania	secondary	rbcL	-7.16931047762796	35.6999174105326	0.0175468246533823
+Rubia_cordifolia	MK028025.1	17-DEC-2018	718	Japan: Nikko	secondary	rbcL	36.846433	139.5582717	0.0117228505289383
+Rubia_cordifolia	DQ131777.1	16-AUG-2005	712	Tanzania	secondary	rbcL	-6.2621455657998	35.4007982665866	0.0175468246533823

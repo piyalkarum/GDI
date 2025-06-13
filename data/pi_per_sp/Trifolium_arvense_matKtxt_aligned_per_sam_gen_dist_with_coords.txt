@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Trifolium_arvense	OL434907.1	14-NOV-2022	416	USA: Georgia	primary	matK	32.1174	-81.138	0.267378543185573
+Trifolium_arvense	KP210439.1	28-NOV-2015	784	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	matK	45.535	-73.149	0.0440619587115261
+Trifolium_arvense	JN893955.1	07-MAR-2012	643	United Kingdom: Glamorgan	primary	matK	51.45	-3.16	0.0395444192166872
+Trifolium_arvense	KJ746139.1	29-JUL-2014	705	Poland	secondary	matK	52.215933	19.134422	0.0420649546466266
+Trifolium_arvense	KJ204546.1	29-JAN-2015	685	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0402837058591227
+Trifolium_arvense	HM851149.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.0420087972026858
+Trifolium_arvense	JN894252.1	07-MAR-2012	914	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.0420576297114212
+Trifolium_arvense	JN894251.1	07-MAR-2012	919	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0558307917566308

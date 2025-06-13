@@ -1,0 +1,31 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Achyranthes_aspera	OM039338.1	19-JUN-2022	551	United Arab Emirates: Ras Al-Khaimah	primary	rbcL	25.913869	56.130692	0.001797713694158
+Achyranthes_aspera	OM039337.1	19-JUN-2022	550	United Arab Emirates: Abu Dhabi	primary	rbcL	24.8278050224004	55.8335168495072	0.00180055833684243
+Achyranthes_aspera	OM039336.1	19-JUN-2022	551	United Arab Emirates: Abu Dhabi	primary	rbcL	24.3736618062124	55.7447227191999	0.001797713694158
+Achyranthes_aspera	MF694940.1	16-SEP-2018	553	Pakistan: Punjab, Cholistan Desert, Dingarh	primary	rbcL	28.7914211789339	71.8548092929616	0.00179442750451078
+Achyranthes_aspera	MF694653.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan Desert, Dingarh	primary	rbcL	29.3587085153356	71.3900167982425	0.00881420066213008
+Achyranthes_aspera	MF694652.1	15-SEP-2018	330	Pakistan: Khyber Pakhtunkhwa, Swat	primary	rbcL	34.774	72.36	0.00331494340542105
+Achyranthes_aspera	KR737434.1	13-MAY-2016	458	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.675272172016739	36.2621493688575	0.00208477916732186
+Achyranthes_aspera	KR737404.1	13-MAY-2016	472	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	-0.349272540387976	36.3841040697281	0.00209352281932183
+Achyranthes_aspera	KR737355.1	13-MAY-2016	464	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.126345924446103	37.158177824497	0.0020589983912709
+Achyranthes_aspera	KR736930.1	13-MAY-2016	506	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	1.01912566598212	36.5065400112184	0.00196940845553305
+Achyranthes_aspera	JQ590097.1	24-APR-2012	552	Costa Rica: Area de Conservacion Guanacaste, Sector Santa Maria, Camino a Santa Maria	primary	rbcL	10.6627342080394	-85.4951847834496	0.00354474292569179
+Achyranthes_aspera	JQ590096.1	24-APR-2012	552	Costa Rica: Area de Conservacion Guanacaste, Sector Santa Maria, Camino a Santa Maria	primary	rbcL	11.4173068845184	-85.1794009963953	0.00354474292569179
+Achyranthes_aspera	JQ590095.1	24-APR-2012	552	Costa Rica: Area de Conservacion Guanacaste, Sector Cacao, Sendero al Bananal Gongora	primary	rbcL	10.5443460454307	-86.319674671789	0.00354474292569179
+Achyranthes_aspera	JQ590094.1	24-APR-2012	552	Costa Rica: Area de Conservacion Guanacaste, Sector Cacao, Sendero al Bananal Gongora	primary	rbcL	10.8581994384879	-85.1594532113177	0.00354474292569179
+Achyranthes_aspera	JQ589998.1	24-APR-2012	552	Costa Rica: Area de Conservacion Guanacaste, Rincon Rainforest, San Lucas	primary	rbcL	11.2122766101144	-86.1146666777186	0.00649786889470852
+Achyranthes_aspera	JQ589997.1	24-APR-2012	552	Costa Rica: Area de Conservacion Guanacaste, Rincon Rainforest, San Lucas	primary	rbcL	10.9174308526695	-84.7725598833431	0.00649786889470852
+Achyranthes_aspera	MT122165.1	19-MAY-2020	716	India	secondary	rbcL	22.4397171444608	79.6222018143563	0.00412094620425062
+Achyranthes_aspera	MT122162.1	19-MAY-2020	716	India	secondary	rbcL	22.73208987472	79.3880347041888	0.00170965798272899
+Achyranthes_aspera	MT122161.1	19-MAY-2020	716	India	secondary	rbcL	22.9278803739533	78.4800785187774	0.00312991596059908
+Achyranthes_aspera	MT122160.1	19-MAY-2020	716	India	secondary	rbcL	22.462187188722	78.5683742693481	0.00312991596059908
+Achyranthes_aspera	MK959201.1	23-DEC-2019	1180	New Zealand	secondary	rbcL	-41.5000831	172.8344077	0.00179029209502041
+Achyranthes_aspera	MH765668.1	29-JAN-2019	336	India	secondary	rbcL	23.0564798085412	78.8890984254896	0.00131429101117644
+Achyranthes_aspera	MH765667.1	29-JAN-2019	335	India	secondary	rbcL	22.9277037977593	78.6270465327796	0.00131866297589406
+Achyranthes_aspera	MH287277.1	18-JUN-2018	1494	Pakistan	secondary	rbcL	30.3308401	71.247499	0.00173939772270336
+Achyranthes_aspera	MF582384.1	22-NOV-2017	602	India	secondary	rbcL	22.4076276637738	78.2706075906105	0.00135378298970921
+Achyranthes_aspera	KR737101.1	13-MAY-2016	387	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	rbcL	-0.52775705760179	35.8662409789574	0.00186536576672904
+Achyranthes_aspera	KR736803.1	13-MAY-2016	387	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	rbcL	-0.543658300141638	35.4393720838125	0.00186536576672904
+Achyranthes_aspera	KR736562.1	13-MAY-2016	492	Kenya: Rift Valley, Laikipia, Mpala Research Centre	secondary	rbcL	-0.693540770127497	35.4899279146896	0.00200845007405142
+Achyranthes_aspera	KF496324.1	30-AUG-2014	552	Australia	secondary	rbcL	-24.7761086	134.755	0.00179487935814996
+Achyranthes_aspera	HM849741.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00425512945029965

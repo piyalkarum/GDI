@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Celtis_tournefortii	AJ580069.1	07-JAN-2005	227	Cyprus	secondary	ITS1	34.9174159	32.8899027	0
+Celtis_tournefortii	AJ580068.1	07-JAN-2005	227	Greece:Trikala	secondary	ITS1	39.5560869	21.7678844	0
+Celtis_tournefortii	AJ580067.1	07-JAN-2005	227	Italy:Sicily, Castelluzzo	secondary	ITS1	37.6020926	13.4909656	0
+Celtis_tournefortii	AJ580066.1	07-JAN-2005	227	Italy:Sicily, Rocca Busambra	secondary	ITS1	37.8557103	13.3943834	0
+Celtis_tournefortii	AJ580065.1	07-JAN-2005	227	Italy:Sicily, Caltabellotta	secondary	ITS1	37.5773409	13.216548	0
+Celtis_tournefortii	AJ580064.1	07-JAN-2005	227	Italy:Sicily, Nebrodi	secondary	ITS1	37.9477195	14.669694	0
+Celtis_tournefortii	AJ580063.1	07-JAN-2005	227	Italy:Sicily, Cavaliere	secondary	ITS1	38.2193988	15.430337	0
+Celtis_tournefortii	AJ580062.1	07-JAN-2005	227	Italy:Sicily, Bronte	secondary	ITS1	37.7871598	14.8338448	0
+Celtis_tournefortii	AJ580061.1	07-JAN-2005	227	Greece:Crete	secondary	ITS1	35.3084952	24.4633423	0
+Celtis_tournefortii	AJ580060.1	07-JAN-2005	227	Macedonia:Markova Kula	secondary	ITS1	42.002469929475	20.8611040354176	0
+Celtis_tournefortii	AJ580059.1	07-JAN-2005	227	Macedonia:Markova Kula	secondary	ITS1	42.1419770042819	20.174042144164	0
+Celtis_tournefortii	AJ580058.1	07-JAN-2005	227	Croatia:Mt. Velebit	secondary	ITS1	45.9154874	17.0091071	0
+Celtis_tournefortii	AJ580057.1	07-JAN-2005	227	Turkey:Kayseri	secondary	ITS1	38.6582232	35.5546374	0
+Celtis_tournefortii	AJ580056.1	07-JAN-2005	227	Turkey:Malatya	secondary	ITS1	38.3487153	38.3190674	0
+Celtis_tournefortii	AJ580055.1	07-JAN-2005	227	Turkey:Isparta	secondary	ITS1	37.9465412	30.9602093	0
+Celtis_tournefortii	AJ580054.1	07-JAN-2005	227	Turkey:Bitlis	secondary	ITS1	38.4950867	42.1678372	0
+Celtis_tournefortii	AJ580053.1	07-JAN-2005	227	Greece:Crete, Imbros Gorge	secondary	ITS1	35.2264306	24.1645685	0
+Celtis_tournefortii	AJ580052.1	07-JAN-2005	227	Greece:Crete, Ambelos Gorge	secondary	ITS1	35.2176946	25.4519291	0

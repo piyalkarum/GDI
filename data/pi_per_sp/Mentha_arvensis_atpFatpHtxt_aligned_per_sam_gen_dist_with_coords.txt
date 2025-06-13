@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_arvensis	KX914737.2	07-MAR-2017	468	India	primary	atpF-atpH	21.25	81.68	0
+Mentha_arvensis	KX914736.2	07-MAR-2017	468	India	primary	atpF-atpH	23.17	79.98	0
+Mentha_arvensis	KX914735.2	07-MAR-2017	468	India	primary	atpF-atpH	22.67	81.75	0
+Mentha_arvensis	KX914734.2	07-MAR-2017	468	India	primary	atpF-atpH	28.97	79.4	0
+Mentha_arvensis	KX914733.2	07-MAR-2017	468	India	primary	atpF-atpH	26.92	80.98	0

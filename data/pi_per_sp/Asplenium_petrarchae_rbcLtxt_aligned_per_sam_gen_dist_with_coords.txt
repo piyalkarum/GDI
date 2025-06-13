@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Asplenium_petrarchae	KP899644.1	01-SEP-2015	1234	Spain: V,Benifaro de Valdigna	secondary	rbcL	40.9894349785901	-3.12384967904594	0
+Asplenium_petrarchae	KP899643.1	01-SEP-2015	1234	Spain: Z,Savinan	secondary	rbcL	41.4428719	-1.5673188	0
+Asplenium_petrarchae	KP899642.1	01-SEP-2015	1234	Spain: Ma,Grazalema	secondary	rbcL	36.7583892	-5.366074	0
+Asplenium_petrarchae	KP899641.1	01-SEP-2015	1234	Spain: V,Benifaro de Valdigna	secondary	rbcL	39.9708150576176	-3.16115261772045	0
+Asplenium_petrarchae	KP899640.1	01-SEP-2015	1234	Spain: V,Benifaro de Valdigna	secondary	rbcL	40.4638031909617	-3.75711629191941	0
+Asplenium_petrarchae	KP899639.1	01-SEP-2015	1234	Spain: V,Benifaro de Valdigna	secondary	rbcL	40.2418794809484	-2.76042836296765	0

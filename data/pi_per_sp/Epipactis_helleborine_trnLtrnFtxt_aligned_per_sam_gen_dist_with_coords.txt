@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Epipactis_helleborine	KU931777.1	14-FEB-2017	916	Iran	secondary	trnL-trnF	33.3101402844887	54.8949810793789	0.00150609135513146
+Epipactis_helleborine	KU931776.1	14-FEB-2017	906	Iran	secondary	trnL-trnF	33.0959083373134	54.1317178768521	0.000990981465021572
+Epipactis_helleborine	KU931775.1	14-FEB-2017	890	Iran	secondary	trnL-trnF	32.4550043612204	54.5794885136875	0.00083925150566456
+Epipactis_helleborine	AB428736.1	02-SEP-2008	920	Japan:Hokkaido, Fukagawa	secondary	trnL-trnF	43.7234297	142.0540685	0.00178435673663612
+Epipactis_helleborine	AB428735.1	02-SEP-2008	911	Japan:Hokkaido, Kamikawa	secondary	trnL-trnF	43.8470396	142.7703884	0.000799646781789639
+Epipactis_helleborine	AB428734.1	02-SEP-2008	911	Japan:Iwate, Iwaizumi	secondary	trnL-trnF	39.8430658	141.7964303	0.00290020277080374
+Epipactis_helleborine	AB428733.1	02-SEP-2008	910	Japan:Iwate, Takizawa	secondary	trnL-trnF	39.73477	141.0770901	0.000799646781789639
+Epipactis_helleborine	AB428732.1	02-SEP-2008	920	Japan:Ibaraki, Kamisu	secondary	trnL-trnF	35.8898999	140.6645754	0.000797423445880707

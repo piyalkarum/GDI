@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Dactylorhiza_viridis	JN894050.1	07-MAR-2012	826	United Kingdom: Shetland (112)	primary	matK	60.3	-1.54	0.000443852640923214
+Dactylorhiza_viridis	MK926035.1	14-JAN-2020	827	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.000443262411347518
+Dactylorhiza_viridis	KM651426.1	05-JUL-2015	802	China: Sichuan	secondary	matK	53.2780787	-6.2107338	0.00130274264994322
+Dactylorhiza_viridis	EF079300.1	31-OCT-2007	1740	Poland	secondary	matK	52.215933	19.134422	0.000415627597672485

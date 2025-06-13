@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pleurospermum_uralense	JF943473.1	13-DEC-2011	675	China: Liaoning	secondary	rbcL	42.0579312285391	123.459547080809	0
+Pleurospermum_uralense	JF943472.1	13-DEC-2011	675	China: Liaoning	secondary	rbcL	41.8881281171276	123.38599341807	0
+Pleurospermum_uralense	JF943471.1	13-DEC-2011	675	China: Liaoning	secondary	rbcL	40.4348215519769	123.021187401923	0
+Pleurospermum_uralense	JF943470.1	13-DEC-2011	675	China: Hebei	secondary	rbcL	38.3006811014177	115.304000126772	0
+Pleurospermum_uralense	JF943469.1	13-DEC-2011	675	China: Hebei	secondary	rbcL	39.218663425608	116.236144038904	0

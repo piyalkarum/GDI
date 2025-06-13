@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_sibirica	MF543660.1	25-JUL-2018	642	Italy: Aosta Valley, Brissogne, Petit-Banc	secondary	psbA-trnH	45.7328363	7.403584	0.00262442701067164
+Iris_sibirica	MF543659.1	25-JUL-2018	617	Italy: Aosta Valley, Quart, Olleyes	secondary	psbA-trnH	45.7456482	7.3707512	0.00262442701067164
+Iris_sibirica	LT978558.1	31-MAR-2018	569	United Kingdom:Cambridge, cult.,Cambridge University Botanic Garden	secondary	psbA-trnH	52.2055314	0.1186637	0.00105448154657294
+Iris_sibirica	LT978557.1	31-MAR-2018	569	Mongolia:Khentii, Binder	secondary	psbA-trnH	48.6163764	110.6062847	0.00105448154657294
+Iris_sibirica	LT978556.1	31-MAR-2018	569	Mongolia:Dornod, Bayan-Uul	secondary	psbA-trnH	49.1208848	112.6726952	0.00105448154657294
+Iris_sibirica	LT978544.1	31-MAR-2018	569	Austria:Lower Austria, Stillfried	secondary	psbA-trnH	48.4101398	16.8431396	0.00114235500878735
+Iris_sibirica	LT978543.1	31-MAR-2018	569	Georgia:Javakheti, Borjomi, Bakuriani Botanical Garden	secondary	psbA-trnH	41.6735567214249	43.8506050774986	0.00114235500878735
+Iris_sibirica	LT978541.1	31-MAR-2018	569	Russia:Moscow, Setun River valley	secondary	psbA-trnH	55.7505412	37.6174782	0.00105448154657294
+Iris_sibirica	LT978540.1	31-MAR-2018	569	United Kingdom:Hertfordshire, St. Albans, cult.	secondary	psbA-trnH	51.8400523	-0.0985651674151207	0.00114235500878735
+Iris_sibirica	LT978538.1	31-MAR-2018	569	Russia:Pskov Oblast, Sebezhsky District	secondary	psbA-trnH	56.2456435	28.6897672	0.00114235500878735
+Iris_sibirica	LT978536.1	31-MAR-2018	569	Russia:Kurgan Oblast, Pritobolny District	secondary	psbA-trnH	54.8785076	65.2930222	0.00114235500878735
+Iris_sibirica	LT978534.1	31-MAR-2018	569	Russia:Primorsky Krai, Vladivostok	secondary	psbA-trnH	43.1150678	131.8855768	0.00105448154657294
+Iris_sibirica	LT978533.1	31-MAR-2018	569	Russia:Primorsky Krai, Romanovka	secondary	psbA-trnH	43.2353637	132.4574767	0.00105448154657294
+Iris_sibirica	LT978532.1	31-MAR-2018	569	Russia:Primorsky Krai, Pokrovka	secondary	psbA-trnH	43.9524657	131.6329635	0.00105448154657294
+Iris_sibirica	LT978530.1	31-MAR-2018	569	Russia:Primorsky Krai, Khankaysky District	secondary	psbA-trnH	44.9424147	131.8270851	0.00105448154657294
+Iris_sibirica	LT978528.1	31-MAR-2018	569	Armenia:Lori Province, Saratovka	secondary	psbA-trnH	41.076799	44.3096631	0.00114235500878735
+Iris_sibirica	LT978526.1	31-MAR-2018	569	Georgia:Javakheti, Ninotsminda district, Lake Paravani shore	secondary	psbA-trnH	41.5798803264921	42.3219331915406	0.00114235500878735
+Iris_sibirica	LT627901.1	18-OCT-2016	582	Armenia:Shirak Province, Zorakert	secondary	psbA-trnH	41.0909828	43.6602243	0.00104663030939914
+Iris_sibirica	LT627900.1	18-OCT-2016	582	Russia:Primorsky Krai, Orlovka	secondary	psbA-trnH	43.9286898	132.8104629	0.00104663030939914
+Iris_sibirica	LT627899.1	18-OCT-2016	582	Mongolia	secondary	psbA-trnH	43.9382593	-79.2235563	0.00104663030939914
+Iris_sibirica	LT978529.1	31-MAR-2018	569	Russia	secondary	psbA-trnH	43.4410989	41.7436988	0.00114235500878735

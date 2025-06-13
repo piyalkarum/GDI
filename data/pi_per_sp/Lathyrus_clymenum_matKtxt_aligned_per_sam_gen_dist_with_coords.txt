@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lathyrus_clymenum	JX505791.1	09-JAN-2013	946	Spain	secondary	matK	39.3260685	-4.8379791	0.0188897202573153
+Lathyrus_clymenum	JX505790.1	09-JAN-2013	981	Morocco	secondary	matK	28.3347722	-10.3713379	0.0190940302761129
+Lathyrus_clymenum	HM851116.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0237931139641975
+Lathyrus_clymenum	JX505793.1	09-JAN-2013	1521	Germany	secondary	matK	31.4399019	-95.350778	0.0559277206067378

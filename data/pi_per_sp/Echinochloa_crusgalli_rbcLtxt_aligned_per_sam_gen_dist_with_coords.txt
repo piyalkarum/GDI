@@ -1,0 +1,45 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Echinochloa_crus-galli	OR738126.1	13-NOV-2023	542	Kazakhstan: Kostanay region	primary	rbcL	53.11331	64.05352	0.00147187528166057
+Echinochloa_crus-galli	OQ434011.1	02-JUL-2023	608	USA: West Lake Nature Preserve, Portage, MI	primary	rbcL	42.18556625	-85.58761546	0.00196103176996333
+Echinochloa_crus-galli	OP023406.1	13-JUN-2023	334	India	primary	rbcL	16.7522014339857	78.2459681729919	0.0108610167236903
+Echinochloa_crus-galli	OP023405.1	13-JUN-2023	337	India	primary	rbcL	24.772817742508	81.178573481365	0.00524565078877015
+Echinochloa_crus-galli	OP023404.1	13-JUN-2023	363	India	primary	rbcL	24.9147428815134	82.0986873504691	0.024429200378325
+Echinochloa_crus-galli	OP023403.1	13-JUN-2023	360	India	primary	rbcL	17.1029997951569	78.8706748139246	0.0245409406979482
+Echinochloa_crus-galli	MF596739.1	28-FEB-2018	603	Canada: British Columbia, Vancouver, Jericho Beach Park, corner of NW Marine Drive and Discovery, by Jericho Arts Centre.	primary	rbcL	48.756458325133	-123.923681178912	0.00196311652092732
+Echinochloa_crus-galli	MF596738.1	28-FEB-2018	603	Canada: British Columbia, University of British Columbia, along edge of Neville Scarfe Building (Faculty of Education). With Vulpia.	primary	rbcL	51.1427832845114	-126.104444269426	0.00196311652092732
+Echinochloa_crus-galli	MF596737.1	28-FEB-2018	603	Canada: British Columbia, Vancouver, Jericho Beach Park, corner of NW Marine Drive and Discovery, by Jericho Arts Centre.	primary	rbcL	49.3933997946578	-123.412159121725	0.00196311652092732
+Echinochloa_crus-galli	MG228220.1	23-JAN-2018	553	Canada: Ontario, Wellington, Wellington, Elora Research Station	primary	rbcL	43.6833	-80.4333	0.00197867208569308
+Echinochloa_crus-galli	MG228010.1	23-JAN-2018	552	Canada: Manitoba, Winnipeg, Red River, Pembrina Drive, near boat launch	primary	rbcL	49.824	-97.147	0.00197887022673384
+Echinochloa_crus-galli	MG227203.1	23-JAN-2018	552	Canada: Ontario, Norfolk County, Norfolk Twp., Carr Tract and Nursery Tract (St. Williams Forest), North Walsingham/South Walsingham Townline Road	primary	rbcL	42.712	-80.474	0.00197887022673384
+Echinochloa_crus-galli	MG226977.1	23-JAN-2018	552	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	primary	rbcL	43.529	-80.229	0.00197887022673384
+Echinochloa_crus-galli	MG226962.1	23-JAN-2018	553	Canada: Ontario, Wellington, Wellington, Arkell Station	primary	rbcL	43.5373	-80.1678	0.00197867208569308
+Echinochloa_crus-galli	MG226461.1	23-JAN-2018	603	Canada: British Columbia, Vancouver, Jericho Beach Park, corner of NW Marine Drive and Discovery, by Jericho Arts Centre.	primary	rbcL	49.7763692219688	-122.133352500271	0.00196311652092732
+Echinochloa_crus-galli	MG226237.1	23-JAN-2018	552	Canada: British Columbia, Cloverdale, 176th Street, downtown	primary	rbcL	49.198	-122.725	0.00197887022673384
+Echinochloa_crus-galli	MG226112.1	23-JAN-2018	552	Canada: Saskatchewan, Saskatoon, Kiwanis Park, South Saskatchewan River	primary	rbcL	52.126	-106.657	0.00197887022673384
+Echinochloa_crus-galli	MG226100.1	23-JAN-2018	603	Canada: British Columbia, Vancouver, Jericho Beach Park, corner of NW Marine Drive and Discovery, by Jericho Arts Centre.	primary	rbcL	49.7910370166091	-122.508058849624	0.00196311652092732
+Echinochloa_crus-galli	MG225698.1	23-JAN-2018	552	Canada: Ontario, Niagara County, Thorold Township, Short Hills Provincial Park, trailhead parking lot at end of Wiley Road	primary	rbcL	43.102	-79.272	0.00197887022673384
+Echinochloa_crus-galli	MG225552.1	23-JAN-2018	603	Canada: British Columbia, University of British Columbia, along edge of Neville Scarfe Building (Faculty of Education). With Vulpia.	primary	rbcL	49.9701763879573	-126.650000922268	0.00196311652092732
+Echinochloa_crus-galli	HQ590071.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., NW end of plowed area N of E-pond	primary	rbcL	44.031	-79.536	0.0019620234360629
+Echinochloa_crus-galli	KT695539.1	29-SEP-2015	485	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.00603679918259734
+Echinochloa_crus-galli	OP711265.1	26-DEC-2022	577	Mexico: Puebla	secondary	rbcL	19.8397885774221	-98.6615285539012	0.00310753475495363
+Echinochloa_crus-galli	OP710293.1	26-DEC-2022	552	Mexico: Puebla	secondary	rbcL	19.1288751384891	-99.3185253670838	0.00197887022673384
+Echinochloa_crus-galli	LC413424.1	31-JUL-2018	262	Japan:Aichi, Chita	secondary	rbcL	34.970089	136.860738	0.00232232773710597
+Echinochloa_crus-galli	MF668593.1	24-JAN-2018	653	Egypt	secondary	rbcL	26.2540493	29.2675469	0.0019429619863553
+Echinochloa_crus-galli	MG226074.1	23-JAN-2018	508	Canada: Ontario, Rouge National Urban Park, Sector 8	secondary	rbcL	43.2377750242567	-77.2932715861882	0.00152870314138654
+Echinochloa_crus-galli	MG225678.1	23-JAN-2018	523	Canada: Ontario, Rouge National Urban Park, Sector 7	secondary	rbcL	43.8190273464837	-78.0667424659069	0.00146646640618644
+Echinochloa_crus-galli	KP711269.1	31-MAR-2016	1096	China	secondary	rbcL	35.000074	104.999927	0.00210604090371055
+Echinochloa_crus-galli	KT365289.1	10-AUG-2015	1096	South Korea: Iksan-si, Jeollabuk-do	secondary	rbcL	35.7277616063435	127.906468020587	0.00210604090371055
+Echinochloa_crus-galli	KT365287.1	10-AUG-2015	1096	South Korea: Iksan-si, Jeollabuk-do	secondary	rbcL	36.7474313047611	126.824308378619	0.00210604090371055
+Echinochloa_crus-galli	KJ204332.1	29-JAN-2015	549	Switzerland: Geneva	secondary	rbcL	46.2017559	6.1466014	0.00197946959308373
+Echinochloa_crus-galli	KF163507.1	28-OCT-2013	1290	South Korea	secondary	rbcL	36.5704935786307	126.675974584897	0.00220098485745008
+Echinochloa_crus-galli	KF163506.1	28-OCT-2013	1290	South Korea	secondary	rbcL	36.6077295126651	126.950334937831	0.00220098485745008
+Echinochloa_crus-galli	KF163505.1	28-OCT-2013	1290	South Korea	secondary	rbcL	36.7356778745163	127.61367045735	0.00220098485745008
+Echinochloa_crus-galli	KF163504.1	28-OCT-2013	1290	South Korea	secondary	rbcL	36.1262361224532	128.188775698781	0.002255068145714
+Echinochloa_crus-galli	KC164309.1	26-FEB-2013	1290	South Korea: Busan-si, Gangseo-gu, Gyeongsangnam-do	secondary	rbcL	35.1799528	129.0752365	0.00676659576342948
+Echinochloa_crus-galli	KC164306.1	26-FEB-2013	1290	South Korea: Uiwang-si, Gyeonggi-do	secondary	rbcL	37.3449082	126.9689861	0.00473718456622782
+Echinochloa_crus-galli	HM849963.1	23-JUL-2011	1325	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00266147148375187
+Echinochloa_crus-galli	HQ600383.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.4896242565683	127.178506618877	0.00282848228761486
+Echinochloa_crus-galli	HQ600375.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.4331663794077	126.951050127148	0.00282848228761486
+Echinochloa_crus-galli	HQ600374.1	02-AUG-2012	751	South Korea	secondary	rbcL	36.0696449444125	128.059170595479	0.00282848228761486
+Echinochloa_crus-galli	AM887871.1	09-JAN-2008	1342	Switzerland	secondary	rbcL	46.7985624	8.2319736	0.00236318534129754
+Echinochloa_crus-galli	KC164308.1	26-FEB-2013	1276	South Korea	secondary	rbcL	37.5636559	126.9975097	0.00346142968525016

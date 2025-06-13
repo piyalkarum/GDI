@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Aegilops_markgrafii	FR716108.1	23-DEC-2010	611	Turkey	secondary	5.8S rRNA	38.9597594	34.9249653	0
+Aegilops_markgrafii	FR716107.1	23-DEC-2010	611	Iran	secondary	5.8S rRNA	32.6475314	54.5643516	0
+Aegilops_markgrafii	FR716106.1	23-DEC-2010	611	Greece	secondary	5.8S rRNA	43.6206324518581	-78.4823883560534	0
+Aegilops_markgrafii	FR716105.1	23-DEC-2010	611	Greece	secondary	5.8S rRNA	43.6464221059308	-77.9831080744459	0

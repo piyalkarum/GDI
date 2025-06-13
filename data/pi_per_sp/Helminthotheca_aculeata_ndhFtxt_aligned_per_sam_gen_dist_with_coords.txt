@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helminthotheca_aculeata	LN830895.1	07-MAR-2016	1041	Italy:Sicilian Region, Chiusa Sclafani	primary	ndhF	37.66	13.28	0.00251366374717417
+Helminthotheca_aculeata	LN830894.1	07-MAR-2016	1047	Italy:Sicilian Region, Castellaccio W of Monreale	primary	ndhF	37.5105347282364	13.4139635693966	0.00250247567080199
+Helminthotheca_aculeata	LN830893.1	07-MAR-2016	1027	Italy:Sicilian Region, Castellaccio W of Monreale	primary	ndhF	38.2966698103811	12.8077879253334	0.00490750180521074
+Helminthotheca_aculeata	LN830892.1	07-MAR-2016	1047	Italy:Sicilian Region, Monte Cofano NW of Custonaci	primary	ndhF	38.1	12.67	0.00250247567080199
+Helminthotheca_aculeata	LN830890.1	07-MAR-2016	1047	Algeria:Tissemsilt Province (Tell Atlas), Theniet El Had National Park	primary	ndhF	35.85	1.98	0.0051705805380872
+Helminthotheca_aculeata	LN830887.1	07-MAR-2016	1007	Morocco:Rabat-Sale-Zemmour-Zaer Region (Middle Atlas), Montes de Zaian between Tiddas and Oulmes	primary	ndhF	33.3167521579491	-7.19539926550572	0.00414599162178492
+Helminthotheca_aculeata	LN830886.1	07-MAR-2016	1041	Morocco:Rabat-Sale-Zemmour-Zaer Region (Middle Atlas), Montes de Zaian between Tiddas and Oulmes	primary	ndhF	32.9808190325665	-5.60920823877143	0.00316293239388993
+Helminthotheca_aculeata	LN830885.1	07-MAR-2016	1045	Morocco:Meknes-Tafilalet Region (Middle Atlas), S of Bou Fekrane on road to Jemaa de Mrirt	primary	ndhF	33.62	-5.43	0.00243193632694956
+Helminthotheca_aculeata	LN830884.1	07-MAR-2016	1014	Morocco:Fes-Boulemane Region (Middle Atlas), Ribate El Kheir	primary	ndhF	33.1722653551663	-4.59057530430337	0.00502518210130391
+Helminthotheca_aculeata	LN830883.1	07-MAR-2016	1036	Morocco:Fes-Boulemane Region (Middle Atlas), Ribate El Kheir	primary	ndhF	33.2484936843579	-4.26731524788968	0.00244382527190916
+Helminthotheca_aculeata	LN830882.1	07-MAR-2016	1041	Morocco:Fes-Boulemane Region (Middle Atlas), Ribate El Kheir	primary	ndhF	34.4401756108473	-4.72933416675673	0.00405403092640827
+Helminthotheca_aculeata	GQ494947.1	28-NOV-2009	1044	Germany: Berlin	secondary	ndhF	52.5170365	13.3888599	0.0025868708302562
+Helminthotheca_aculeata	LN830891.1	07-MAR-2016	1047	Algeria	secondary	ndhF	36.78391455	5.01624028585713	0.0033930943068518

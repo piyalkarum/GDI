@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Ligustrum_vulgare	KP643546.1	08-DEC-2015	490	USA: Virginia, Front Royal, Smithsonian National Zoological Park's Conservation Biology Institute, Front Royal, VA	primary	psbA-trnH	38.892	-78.146	0.0255996506475801
+Ligustrum_vulgare	FJ493288.1	22-DEC-2008	554	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.024107638334982
+Ligustrum_vulgare	GU120319.1	11-NOV-2009	555	Italy: Sardinia Island	secondary	psbA-trnH	40.0615028	9.0975894	0.023589175705521
+Ligustrum_vulgare	KR134859.1	19-OCT-2015	498	United Kingdom: Chawton, Hampshire	secondary	psbA-trnH	51.1383469	-0.9617877	0.0235171974083264
+Ligustrum_vulgare	HE966688.1	18-SEP-2012	424	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.0184418292016041

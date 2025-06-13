@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Veronica_arvensis	OR465024.1	26-SEP-2023	303	USA: WMU Goldsworth Valley Pond Area, Kalamazoo, MI	primary	psbA-trnH	42.28835517	-85.6195475	0.0011001100110011
+Veronica_arvensis	LC634537.1	10-NOV-2021	325	Japan:Mie, Inabe	secondary	psbA-trnH	35.1573562	136.5043894	0.00102564102564103
+Veronica_arvensis	FJ493310.1	22-DEC-2008	375	Italy	secondary	psbA-trnH	42.6384261	12.674297	0.00674255620746392
+Veronica_arvensis	HE966862.1	18-SEP-2012	361	Italy:Trieste, Mt. Valerio	secondary	psbA-trnH	45.6621136	13.7932207	0.00461680517082179

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_tilesii	MG225381.1	21-JAN-2018	786	Canada: Yukon Territory, Blow River Delta east, Danny C. Gordon's goose camp	primary	matK	68.896	-136.961	0.000523560209424084
+Artemisia_tilesii	MG225236.1	21-JAN-2018	786	Canada: Yukon Territory, Labiche River, east side of Mt. Martin	primary	matK	60.127	-124.137	0.000523560209424084
+Artemisia_tilesii	KC474133.1	25-OCT-2013	779	Canada: Northwest Territories, Mainland Northwest Territoires, Aklavik	primary	matK	68.217	-135	0.000523560209424084
+Artemisia_tilesii	KC474132.1	25-OCT-2013	764	Canada: Northwest Territories, Tuktoyaktuk, near Pingo Park Lodge	primary	matK	69.433	-133.017	0.00261780104712042
+Artemisia_tilesii	KC474131.1	25-OCT-2013	783	Canada: Northwest Territories, Banks Island, Masik River Valley	primary	matK	71.583	-122.983	0.000523560209424084
+Artemisia_tilesii	KC474130.1	25-OCT-2013	783	Canada: Nunavut, Victoria Island, Johansen Bay, Johansen Bay main air landing strip	primary	matK	68.722	-111.264	0.000523560209424084

@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_ursinum	FN551223.1	15-SEP-2011	460	Germany:Bavaria, N Franconian Switzerland, Vierzehnheiligen	primary	ETS	49.1779888016881	10.8827716028989	0.000945179584120983
+Allium_ursinum	FN551222.1	15-SEP-2011	460	Germany:Bavaria, N Franconian Switzerland, Vierzehnheiligen	primary	ETS	50.0328699620025	10.3921985827635	0.000945179584120983
+Allium_ursinum	FN551221.1	15-SEP-2011	460	Germany:Bavaria, N Franconian Switzerland, Staffelberg	primary	ETS	50.4275318867429	9.9560510622072	0.000945179584120983
+Allium_ursinum	FN551220.1	15-SEP-2011	460	Germany:Bavaria, N Franconian Switzerland, Staffelberg	primary	ETS	49.5591005718454	11.5325001891994	0.000945179584120983
+Allium_ursinum	FN551219.1	15-SEP-2011	460	Germany:Bavaria, SW Franconian Switzerland, Hetzles	primary	ETS	50.1612488491492	10.5151461516285	0.000945179584120983
+Allium_ursinum	FN551218.1	15-SEP-2011	460	Germany:Bavaria, SW Franconian Switzerland, Hetzles	primary	ETS	49.076157707756	9.9442299688368	0.00302457466918715
+Allium_ursinum	FN551217.1	15-SEP-2011	460	Germany:Lower Saxony, Osnabrueck, Honeburg	primary	ETS	52.1631084435516	8.12403655576655	0.000945179584120983
+Allium_ursinum	FN551216.1	15-SEP-2011	460	Germany:Lower Saxony, Osnabrueck, Honeburg	primary	ETS	52.3228126969644	8.82827518722794	0.000945179584120983
+Allium_ursinum	FN551215.1	15-SEP-2011	460	Germany:Lower Saxony, Leer (Ostfriesland)	primary	ETS	53.802556241375	6.36848764276976	0.00302457466918715
+Allium_ursinum	FN551214.1	15-SEP-2011	460	Germany:Lower Saxony, Leer (Ostfriesland)	primary	ETS	52.8090972967124	6.7006247021661	0.000945179584120983
+Allium_ursinum	FN551213.1	15-SEP-2011	460	Germany:North Rhine-Westphalia, Brochterbeck	primary	ETS	52.0742507969995	7.30020233519222	0.00302457466918715
+Allium_ursinum	FN551212.1	15-SEP-2011	460	Germany:North Rhine-Westphalia, Brochterbeck	primary	ETS	52.7771392785624	8.24484429237342	0.000945179584120983
+Allium_ursinum	FN551211.1	15-SEP-2011	460	Germany:North Rhine-Westphalia, Brochterbeck	primary	ETS	52.8988272164755	8.124387364706	0.000945179584120983
+Allium_ursinum	FN551210.1	15-SEP-2011	460	Germany:Lower Saxony, Osnabrueck, Westerberg	primary	ETS	51.8547697146004	7.65907569967431	0.000945179584120983
+Allium_ursinum	FN551209.1	15-SEP-2011	460	Germany:Lower Saxony, Osnabrueck, Westerberg	primary	ETS	51.3760313817241	7.99655606888297	0.000945179584120983
+Allium_ursinum	FN551208.1	15-SEP-2011	460	Germany:Lower Saxony, Bad Iburg/Holperdorp	primary	ETS	52.1510788927915	6.6574885182406	0.000945179584120983
+Allium_ursinum	FN551207.1	15-SEP-2011	460	Germany:Lower Saxony, Bad Iburg/Holperdorp	primary	ETS	52.369372754902	9.17456925003716	0.000945179584120983
+Allium_ursinum	FN551206.1	15-SEP-2011	460	Germany:Lower Saxony, Bad Iburg	primary	ETS	52.3980227539784	8.31351302731038	0.000945179584120983
+Allium_ursinum	FN551205.1	15-SEP-2011	460	Germany:Lower Saxony, Bad Iburg	primary	ETS	51.5811340231026	8.26162816111475	0.00283553875236295
+Allium_ursinum	FN551204.1	15-SEP-2011	460	Germany:Lower Saxony, Bad Laer/Bad Rothenfelde	primary	ETS	52.8031739009068	8.78290760431118	0.000945179584120983
+Allium_ursinum	FN551203.1	15-SEP-2011	460	Germany:Lower Saxony, Bad Laer/Bad Rothenfelde	primary	ETS	51.6241913386867	8.13872917137476	0.00283553875236295
+Allium_ursinum	FN551202.1	15-SEP-2011	460	Germany:Lower Saxony, Dissen	primary	ETS	51.669329980144	8.64310016933021	0.000945179584120983
+Allium_ursinum	FN551201.1	15-SEP-2011	460	Germany:Lower Saxony, Dissen	primary	ETS	52.6518138904542	9.19950839001667	0.000945179584120983
+Allium_ursinum	FN551200.1	15-SEP-2011	460	Germany:Lower Saxony, Dissen	primary	ETS	52.14	8.19	0.0113421550094518

@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sesleria_argentea	KY910479.1	02-MAY-2018	1785	Italy	secondary	ndhF	43.2055394020969	11.7587438333733	0
+Sesleria_argentea	KY910478.1	02-MAY-2018	1785	Italy	secondary	ndhF	42.0502957477793	12.2474366143271	0
+Sesleria_argentea	KY910477.1	02-MAY-2018	1783	France	secondary	ndhF	46.603354	1.8883335	0
+Sesleria_argentea	KY910476.1	02-MAY-2018	1785	Spain	secondary	ndhF	38.564325700717	-4.5010124400184	0
+Sesleria_argentea	KY910475.1	02-MAY-2018	1785	Spain	secondary	ndhF	39.6138029205331	-5.87369182990883	0
+Sesleria_argentea	KY910474.1	02-MAY-2018	1784	Italy	secondary	ndhF	42.1092633408293	13.1602831748986	0
+Sesleria_argentea	KY910473.1	02-MAY-2018	1785	Italy	secondary	ndhF	42.9637190437159	12.9416160991765	0
+Sesleria_argentea	KY910472.1	02-MAY-2018	1783	Italy	secondary	ndhF	41.868742886048	13.0317697384265	0

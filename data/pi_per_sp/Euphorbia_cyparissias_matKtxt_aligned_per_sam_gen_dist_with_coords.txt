@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Euphorbia_cyparissias	KX677610.1	09-AUG-2017	820	Canada: British Columbia, Greater Vancouver Regional District, Burnaby, cleared landfill area near Stride Avenue	primary	matK	49.267	-122.967	0.00684968085919875
+Euphorbia_cyparissias	MG220902.1	21-JAN-2018	787	Canada: Ontario, York R. M., King Tp., Jokers Hill West, Hillside E of driveway to Side Road 19.	primary	matK	44.017	-79.517	0.00825295439842262
+Euphorbia_cyparissias	HQ593293.1	09-NOV-2011	783	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Hillside E of driveway to Side Road 19	primary	matK	44.032	-79.534	0.0088715584651184
+Euphorbia_cyparissias	MG220692.1	21-JAN-2018	795	Canada: Ontario, Toronto, City of, Valleys of the Rouge, Section XVI	secondary	matK	43.72634945	-77.7101179040839	0.0054115526094433
+Euphorbia_cyparissias	KJ204476.1	29-JAN-2015	768	Switzerland: Geneva	secondary	matK	46.2047169	6.1423106	0.00520834371802912
+Euphorbia_cyparissias	HE966921.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	45.7337854413276	14.8854725996555	0.00982249353423033
+Euphorbia_cyparissias	HE966920.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	46.1025217550595	14.7392553665255	0.00864228327229257
+Euphorbia_cyparissias	HE966919.1	18-SEP-2012	757	Italy:Trieste, Mt. Valerio	secondary	matK	46.3151604156745	14.1541347841716	0.00628186274841706
+Euphorbia_cyparissias	EU659787.1	06-JUL-2008	2135	Canada	secondary	matK	61.0666922	-107.991707	0.00615184743824279

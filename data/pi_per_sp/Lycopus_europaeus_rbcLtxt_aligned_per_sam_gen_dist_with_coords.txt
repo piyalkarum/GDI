@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lycopus_europaeus	MG223823.1	26-DEC-2017	525	Canada: Ontario, Toronto, City of, Landfill peninsula built out from foot of Leslie St., SW into Lake Ontario	primary	rbcL	43.633	-79.325	0.000761904761904762
+Lycopus_europaeus	MG223319.1	26-DEC-2017	524	Canada: Ontario, Durham R. M., Pickering, Rouge River 'Estuary'	primary	rbcL	43.783	-79.117	0.000763358778625954
+Lycopus_europaeus	MG221384.1	26-DEC-2017	517	Canada: Ontario, Leeds and Grenville Co., Thousand Islands National Park Region, Hill Island.	primary	rbcL	44.35	-75.967	0.000773694390715667
+Lycopus_europaeus	JN893196.1	07-MAR-2012	542	United Kingdom: Glamorgan	primary	rbcL	51.74	-3.41	0.000761904761904762
+Lycopus_europaeus	MG224584.1	26-DEC-2017	525	Canada: Ontario, Niagara R. M., Louth Tp., Jordan Valley ANSI, Twenty Mile Creek valley from Ball's Falls to Lake Ontario, W along escarpment to Rd. 24, E to near 17th St.	secondary	rbcL	43.6072481420122	-78.277110092215	0.000761904761904762
+Lycopus_europaeus	MG224289.1	26-DEC-2017	519	Canada: Quebec, Cte Portneuf, St-Augustin.	secondary	rbcL	46.8137431	-71.2084061	0.000770712909441233
+Lycopus_europaeus	MG223031.1	26-DEC-2017	525	Canada: Ontario, Durham R. M., Fairport Beach.	secondary	rbcL	43.1383502955713	-76.946051949948	0.000761904761904762
+Lycopus_europaeus	MG222819.1	26-DEC-2017	525	Canada: Ontario, Northumberland Co., Seymour Tp., N side of the Trent River near village of Trent River.	secondary	rbcL	43.0407443970924	-77.2677337968353	0.000761904761904762
+Lycopus_europaeus	MG221200.1	26-DEC-2017	525	Canada: Ontario, Hamilton, City of, Saltfleet Tp., S of Burlington Skyway, parking area along Queen Elizabeth Hwy.	secondary	rbcL	44.2350796013125	-77.9498852546388	0.000761904761904762
+Lycopus_europaeus	HM850150.1	23-JUL-2011	613	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00764109941211619
+Lycopus_europaeus	JN892768.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000761904761904762

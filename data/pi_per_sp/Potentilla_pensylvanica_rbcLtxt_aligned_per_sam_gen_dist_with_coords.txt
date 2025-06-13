@@ -1,0 +1,14 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_pensylvanica	MG248005.1	21-JAN-2018	552	Canada: Yukon Territory, Takhini Salt Flats	primary	rbcL	60.856	-135.715	0.00166778960298472
+Potentilla_pensylvanica	JN965775.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 10 km SE Churchill, Farnworth Lake, Lake shore	primary	rbcL	58.705	-94.052	0.00243907233120169
+Potentilla_pensylvanica	JN965774.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 12 km S Churchill, Goose Creek Marina, Road side	primary	rbcL	58.663	-94.167	0.00243907233120169
+Potentilla_pensylvanica	JN965773.1	27-OCT-2012	552	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	rbcL	58.789	-94.227	0.00243907233120169
+Potentilla_pensylvanica	JN965767.1	27-OCT-2012	552	Canada: Manitoba, Churchill, Town of Churchill, near Kelsey and Munk Streets, disturbed area behind Northern Store	primary	rbcL	58.77	-94.172	0.00243907233120169
+Potentilla_pensylvanica	MF572234.1	31-JUL-2018	574	Italy: Aosta Valley, Cogne, Epinel	secondary	rbcL	45.7056109619045	8.0275260087723	0.00135869565217391
+Potentilla_pensylvanica	MF572231.1	31-JUL-2018	575	Italy: Aosta Valley, Avise, Thomasset	secondary	rbcL	46.146189152861	6.75679349082845	0.00135869565217391
+Potentilla_pensylvanica	MF572230.1	31-JUL-2018	545	Italy: Aosta Valley, Avise, Thomasset	secondary	rbcL	46.0161161237277	7.76893004923121	0.00142314990512334
+Potentilla_pensylvanica	MF572229.1	31-JUL-2018	574	Italy: Aosta Valley, Avise, Thomasset	secondary	rbcL	45.7899019485439	7.75383634534472	0.00135869565217391
+Potentilla_pensylvanica	MF572228.1	31-JUL-2018	579	Italy: Aosta Valley, Cogne, Epinel	secondary	rbcL	44.8658826397316	7.11815207524017	0.00135869565217391
+Potentilla_pensylvanica	JX848531.1	06-AUG-2013	1322	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.000641025641025641
+Potentilla_pensylvanica	MF572233.1	31-JUL-2018	580	Italy	secondary	rbcL	45.1392223397323	7.03442786648974	0.00135869565217391
+Potentilla_pensylvanica	MF572232.1	31-JUL-2018	573	Italy	secondary	rbcL	45.146022553636	6.84965614455274	0.00135869565217391

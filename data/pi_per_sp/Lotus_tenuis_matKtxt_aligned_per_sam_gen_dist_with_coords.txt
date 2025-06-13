@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Lotus_tenuis	KX677377.1	09-AUG-2017	800	Canada: British Columbia, Okanagan-Similkameen Regional District, above Cawston, Cawston - Oliver Road	primary	matK	49.174	-119.751	0
+Lotus_tenuis	JN895290.1	07-MAR-2012	781	United Kingdom: Glamorgan	primary	matK	51.52	-3.2	0
+Lotus_tenuis	MN433367.1	30-NOV-2021	793	China	secondary	matK	34.771702883917	104.330997013599	0
+Lotus_tenuis	MN433366.1	30-NOV-2021	797	China	secondary	matK	34.5565569791819	105.555881895338	0
+Lotus_tenuis	JN893921.1	07-MAR-2012	930	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0
+Lotus_tenuis	JN893917.1	07-MAR-2012	857	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0

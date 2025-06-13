@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Petroselinum_crispum	MG223376.1	26-DEC-2017	552	Canada: Gore Woodhouse, Norfolk Co., ON	primary	rbcL	42.8033	-80.4086	0.0149299897062135
+Petroselinum_crispum	KU499889.1	05-JUL-2016	645	Egypt	primary	rbcL	30.0303	31.1956	0.00279808047249908
+Petroselinum_crispum	JN890658.1	07-MAR-2012	542	United Kingdom: Pembrokeshire	primary	rbcL	51.68	-4.92	0.00246457178065311
+Petroselinum_crispum	OR290946.1	19-SEP-2023	510	Egypt	secondary	rbcL	26.2540493	29.2675469	0.00248138957816377
+Petroselinum_crispum	HM850248.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00274596012187126
+Petroselinum_crispum	JN892274.1	07-MAR-2012	542	United Kingdom: Denbighshire	secondary	rbcL	53.1097895	-3.3671284	0.00246457178065311
+Petroselinum_crispum	JN892077.1	07-MAR-2012	535	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.00249221183800623

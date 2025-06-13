@@ -1,0 +1,13 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arctium_lappa	MG224625.1	26-DEC-2017	552	Canada: London, ON	primary	rbcL	43.0333	-81.15	0
+Arctium_lappa	MG223978.1	26-DEC-2017	552	Canada: Kingston, ON	primary	rbcL	44.2314	-76.4847	0
+Arctium_lappa	MG223219.1	26-DEC-2017	553	Canada: Quebec, Montreal, Island of Montreal, Parc de la Merci	primary	rbcL	45.547	-73.699	0
+Arctium_lappa	MG222907.1	26-DEC-2017	552	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	primary	rbcL	43.274	-79.899	0
+Arctium_lappa	MG222533.1	26-DEC-2017	552	Canada: Elora, ON	primary	rbcL	43.6833	-80.4333	0
+Arctium_lappa	MG221816.1	26-DEC-2017	552	Canada: Wellington Co., ON	primary	rbcL	43.526	-80.237	0
+Arctium_lappa	KT695471.1	29-SEP-2015	539	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0
+Arctium_lappa	JN892410.1	07-MAR-2012	458	United Kingdom: Cardiganshire	primary	rbcL	52.08	-4.65	0
+Arctium_lappa	MT930361.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.00015976993129893
+Arctium_lappa	JQ933225.1	30-SEP-2012	1383	Nepal: Gandaki	secondary	rbcL	27.8626621	84.6952753	0.00157759810688227
+Arctium_lappa	KC589792.1	21-MAY-2013	1416	Belgium	secondary	rbcL	50.6402809	4.6667145	0.0017373680381812
+Arctium_lappa	JN892090.1	07-MAR-2012	542	United Kingdom: Clwyd	secondary	rbcL	51.443132	-3.166204	0

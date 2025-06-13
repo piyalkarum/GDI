@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Maianthemum_bifolium	LC681524.1	03-AUG-2022	621	Japan:Nagano, Achimura	secondary	psbA-trnH	35.4441022	137.747532	0.000544662309368192
+Maianthemum_bifolium	JN045443.1	13-DEC-2011	607	China: Jilin	secondary	psbA-trnH	44.0240275954789	126.647160181393	0.000544662309368192
+Maianthemum_bifolium	JN045442.1	13-DEC-2011	607	China: Jilin	secondary	psbA-trnH	43.397210753544	125.948048288952	0.000544662309368192
+Maianthemum_bifolium	JN045441.1	13-DEC-2011	607	China: Heilongjiang Sheng	secondary	psbA-trnH	48.0000047	127.999992	0.000544662309368192
+Maianthemum_bifolium	HG800543.1	03-FEB-2014	459	Italy:Lombardy, Grigna settentrionale	secondary	psbA-trnH	45.9533979	9.3876756	0.00217864923747277

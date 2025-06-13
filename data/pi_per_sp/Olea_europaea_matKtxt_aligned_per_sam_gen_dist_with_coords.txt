@@ -1,0 +1,42 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Olea_europaea	KX783724.1	31-MAY-2017	703	Egypt: Alexandria, Smouha, Antoniades gardens	primary	matK	31.204	29.949	NA
+Olea_europaea	JX518175.1	22-AUG-2013	765	South Africa: Western Cape, Mooiplaas, Stellenbosch in Renosterveld conservancy	primary	matK	-33.9254	18.7478	NA
+Olea_europaea	JX518125.1	22-AUG-2013	765	South Africa: Eastern Cape, Addo Elephant park	primary	matK	-33.7159	25.8564	NA
+Olea_europaea	JQ412273.1	16-JAN-2013	765	South Africa: Western Cape, Cape Town, Robben Island	primary	matK	-33.81	18.377	NA
+Olea_europaea	JF270876.1	01-NOV-2011	765	South Africa: Mpumalanga, Kruger National Park, Kruger National Park, Marula Region, Skukuza section	primary	matK	-24.973	31.414	NA
+Olea_europaea	OL690085.1	08-DEC-2021	828	USA: Missouri, Missouri Botanical Garden, Shoenberg Temperate House. Source: Sea Tree Nurseries, Inc. (Cultivated). MOBOT LCMS Accesion # 1989-7529-1	primary	matK	38.6145	-90.2591	0.00236229733642785
+Olea_europaea	AM933404.1	23-DEC-2010	1223	Spain:Canary Islands, Tenerife	secondary	matK	28.2935785	-16.6214471	NA
+Olea_europaea	AM933403.1	23-DEC-2010	1223	Spain:Canary Islands, La Palma	secondary	matK	28.6551163	-17.8572686	NA
+Olea_europaea	AM933402.1	23-DEC-2010	1223	Portugal:Madeira, Sao Gonzalo	secondary	matK	32.7517501	-16.9817486572606	NA
+Olea_europaea	AM933401.1	23-DEC-2010	1223	Portugal:Madeira, Arco de Calheta	secondary	matK	32.717995	-17.1463956	NA
+Olea_europaea	AM933400.1	23-DEC-2010	1223	Morocco:Immouzzer	secondary	matK	35.7499815	-5.8075644	NA
+Olea_europaea	AM933399.1	23-DEC-2010	1223	Niger:Bagzane	secondary	matK	18.9455556	9.3225	NA
+Olea_europaea	AM933396.1	23-DEC-2010	1223	South Africa:Kirstenbosch	secondary	matK	-33.9856109	18.4301425	NA
+Olea_europaea	AM933395.1	23-DEC-2010	1223	Reunion:St Denis	secondary	matK	-20.8799889	55.448137	NA
+Olea_europaea	AM933393.1	23-DEC-2010	1223	Kenya:Timau	secondary	matK	0.0859445	37.2389064	NA
+Olea_europaea	AM933392.1	23-DEC-2010	1223	Kenya:Nairobi	secondary	matK	-1.2832533	36.8172449	NA
+Olea_europaea	AM933391.1	23-DEC-2010	1223	Kenya:Mt Elgon	secondary	matK	0.9711257	34.6014248	NA
+Olea_europaea	AM933388.1	23-DEC-2010	1223	Iran:Kerman	secondary	matK	29.5498722872586	57.1309608354434	NA
+Olea_europaea	AM933387.1	23-DEC-2010	1223	Iran:Kerman	secondary	matK	29.1962866628794	56.9582568684186	NA
+Olea_europaea	AM933386.1	23-DEC-2010	1223	China:Guangzhou	secondary	matK	23.1301964	113.2592945	NA
+Olea_europaea	AM933384.1	23-DEC-2010	1223	Morocco:Tetouan	secondary	matK	35.570175	-5.3742776	NA
+Olea_europaea	AM933383.1	23-DEC-2010	1223	Italy:Sicily, Messine	secondary	matK	38.1937571	15.5542082	NA
+Olea_europaea	AM933382.1	23-DEC-2010	1223	Italy:Ali, Sicily	secondary	matK	42.9431689	12.9292034	NA
+Olea_europaea	AM933381.1	23-DEC-2010	1223	Algeria:Tizi Ouzou	secondary	matK	36.6816175	4.237186	NA
+Olea_europaea	AM933380.1	23-DEC-2010	1223	Egypt	secondary	matK	35.8681298	-90.9456751	NA
+Olea_europaea	AM933379.1	23-DEC-2010	1223	Syria:Harem	secondary	matK	36.126663	36.5241262	NA
+Olea_europaea	FM208251.1	07-SEP-2010	1025	Egypt:Gebel Elba	secondary	matK	22.183333	36.35	NA
+Olea_europaea	AM229542.1	01-DEC-2007	1175	Australia:Lonsdale	secondary	matK	-35.1066033	138.4924173	NA
+Olea_europaea	AM229541.1	01-DEC-2007	1175	Australia:Brownhill Creek	secondary	matK	-34.5184871802402	137.985218744855	NA
+Olea_europaea	AM229540.1	01-DEC-2007	1175	Australia:Brownhill Creek	secondary	matK	-35.0287382548067	138.326159865086	NA
+Olea_europaea	AM229539.1	01-DEC-2007	1175	Australia:Campbelltown	secondary	matK	-34.3286308083907	138.533346407611	NA
+Olea_europaea	AM229538.1	01-DEC-2007	1175	Australia:Campbelltown	secondary	matK	-34.7649260144724	139.380708698586	NA
+Olea_europaea	AM229537.1	01-DEC-2007	1175	USA:Hawaii,Maui	secondary	matK	20.8029568	-156.3106833	NA
+Olea_europaea	OP971530.1	23-MAY-2023	71	Italy	secondary	matK	42.6384261	12.674297	NA
+Olea_europaea	LC708255.1	12-MAY-2022	656	Egypt	secondary	matK	25.4459130163157	29.2199360607947	NA
+Olea_europaea	LC708254.1	12-MAY-2022	816	Egypt	secondary	matK	25.8135387457418	29.9485023781242	NA
+Olea_europaea	LC708253.1	12-MAY-2022	816	Egypt	secondary	matK	26.2021873421496	29.9281194876358	NA
+Olea_europaea	LC705449.1	15-APR-2022	810	Egypt	secondary	matK	26.8666047660958	29.6794791957277	NA
+Olea_europaea	ON982078.1	17-OCT-2022	771	Kenya	secondary	matK	1.4419683	38.4313975	NA
+Olea_europaea	HQ619821.1	26-DEC-2010	837	Italy: Emilia Romagna	secondary	matK	44.525696	11.039437	NA
+Olea_europaea	KY794568.1	23-JAN-2018	426	Egypt	secondary	matK	26.931884538942	28.9830899099483	NA

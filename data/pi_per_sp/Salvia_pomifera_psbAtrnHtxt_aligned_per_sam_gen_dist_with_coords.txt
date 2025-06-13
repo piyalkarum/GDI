@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salvia_pomifera	MW281542.1	01-NOV-2021	367	Greece: N. Lakonias,Monemvasia	secondary	psbA-trnH	41.3199407897823	21.7958961967627	0
+Salvia_pomifera	MW281541.1	01-NOV-2021	364	Greece: N. Lakonias,Monemvasia	secondary	psbA-trnH	40.2185158832825	22.4203797496406	0
+Salvia_pomifera	MW281540.1	01-NOV-2021	364	Greece: N. Arcadias,Thiopafto	secondary	psbA-trnH	40.2706359176741	22.2447515544847	0
+Salvia_pomifera	MW281539.1	01-NOV-2021	373	Greece: N. Arcadias,Melana	secondary	psbA-trnH	41.1603787306083	21.73643033707	0
+Salvia_pomifera	MW281538.1	01-NOV-2021	373	Greece: N. Arcadias,Melana	secondary	psbA-trnH	40.9581077699309	21.7703192125194	0
+Salvia_pomifera	MW281537.1	01-NOV-2021	364	Greece: N. Arcadias,Tiros	secondary	psbA-trnH	40.6649318045497	22.6252497302894	0
+Salvia_pomifera	MW281536.1	01-NOV-2021	313	Greece: N. Arcadias,Tiros	secondary	psbA-trnH	41.3815721079368	22.6712059039672	0
+Salvia_pomifera	MW281535.1	01-NOV-2021	361	Greece: N. Argolidas,P. Epidavros	secondary	psbA-trnH	40.7408949868417	22.7165390530083	0

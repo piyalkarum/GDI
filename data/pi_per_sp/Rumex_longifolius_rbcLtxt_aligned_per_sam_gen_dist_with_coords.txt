@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_longifolius	MG248467.1	21-JAN-2018	552	Canada: Yukon Territory, La Biche Airstrip	primary	rbcL	60.128	-124.039	0.00154035736290819
+Rumex_longifolius	MG245951.1	21-JAN-2018	552	Canada: Yukon Territory, Whitehorse, Beringia Centre	primary	rbcL	60.41	-135.08	0.00154035736290819
+Rumex_longifolius	MK925287.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8655969147358	-2.53091730577508	0.000616142945163278
+Rumex_longifolius	MK924929.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.9841821	-18.1059013	0.000616142945163278
+Rumex_longifolius	MK924861.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2660198608281	-3.42406213385796	0.000616142945163278
+Rumex_longifolius	MK924806.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5083203638385	-2.15526890311146	0.000616142945163278
+Rumex_longifolius	MK924550.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.7692737664291	-4.20068277648545	0.000616142945163278

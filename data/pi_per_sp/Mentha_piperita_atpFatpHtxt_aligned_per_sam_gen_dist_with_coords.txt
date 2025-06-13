@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Mentha_piperita	KX914741.1	07-MAR-2017	445	India	primary	atpF-atpH	28.97	79.4	0
+Mentha_piperita	KX914740.1	07-MAR-2017	445	India	primary	atpF-atpH	23.17	79.98	0
+Mentha_piperita	KX914739.1	07-MAR-2017	445	India	primary	atpF-atpH	22.67	81.75	0
+Mentha_piperita	KX914738.1	07-MAR-2017	445	India	primary	atpF-atpH	26.92	80.98	0
+Mentha_piperita	KM009038.1	22-SEP-2014	472	Cyprus	secondary	atpF-atpH	34.9174159	32.8899027	0

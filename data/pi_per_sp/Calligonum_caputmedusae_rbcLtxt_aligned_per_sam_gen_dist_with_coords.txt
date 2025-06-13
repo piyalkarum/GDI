@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Calligonum_caput-medusae	OR738051.1	13-NOV-2023	542	Kazakhstan: Mangistau region	primary	rbcL	44.45379	51.51517	0.134275618374558
+Calligonum_caput-medusae	JX987196.1	01-MAY-2013	506	China	primary	rbcL	44.57	83.33	0.129065040650406
+Calligonum_caput-medusae	MT931190.1	03-MAR-2023	569	China	secondary	rbcL	35.000074	104.999927	0.13597972972973
+Calligonum_caput-medusae	JN187121.1	30-JUN-2012	1257	China	secondary	rbcL	39.8902193575006	97.566348601756	0.144736842105263
+Calligonum_caput-medusae	JN187096.1	23-AUG-2011	1128	China	secondary	rbcL	38.9927183765024	97.7997091785927	0.544057230859958

@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Parentucellia_latifolia	KX959118.1	02-NOV-2017	1037	Spain: Caceres, Hervas	primary	matK	40.3940046118575	-5.56936662238328	0.000644122383252818
+Parentucellia_latifolia	KX959117.1	02-NOV-2017	1030	Spain: Caceres, Hervas	primary	matK	39.8905848874392	-5.30626674672673	0.000648508430609598
+Parentucellia_latifolia	JF900579.1	05-MAR-2013	1050	Greece	secondary	matK	43.2097838	-77.6930602	0.000658761528326746
+Parentucellia_latifolia	HM193526.1	24-AUG-2010	2399	Italy: Sicily	secondary	matK	37.587794	14.155048	0.00195139234218916

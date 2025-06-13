@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salix_pentandra	JN890626.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	52.15	-4.35	0.00509461426491994
+Salix_pentandra	MN158352.1	27-APR-2021	1057	China	secondary	rbcL	35.000074	104.999927	0.0152838427947598
+Salix_pentandra	JN891954.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.0625772412024	-5.17335100215087	0.00509461426491994
+Salix_pentandra	JN891953.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	52.3949509309796	-4.56237589630415	0.00509461426491994

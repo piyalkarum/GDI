@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Allium_schoenoprasum	MT225427.1	01-MAR-2021	876	Russia: Altai	secondary	rps16	50.7114101	86.8572186	0.00450519190727138
+Allium_schoenoprasum	HE687252.1	28-FEB-2014	708	Russia:Altai, Ust.Koksinsky Raion, Cholsun range, River Bannaja	secondary	rps16	49.3808791304162	86.9356345753939	0.00232041969330105
+Allium_schoenoprasum	HE687251.1	28-FEB-2014	715	Russia:Altai, Chrebet JuznoCujskij, River Tara	secondary	rps16	50.2488481715189	85.5954315214098	0.00100110804070354
+Allium_schoenoprasum	HE687249.1	28-FEB-2014	714	Canada:Alberta, Rocky Mts.	secondary	rps16	52.2875	-117.4769	0.00210253592962609
+Allium_schoenoprasum	HE687248.1	28-FEB-2014	714	USA:Wyoming, Sheridan county	secondary	rps16	44.7947537	-106.8222688	0.00100124795680984
+Allium_schoenoprasum	HE687245.1	28-FEB-2014	714	Spain:Pyrenees, Port de la Bonaiqua	secondary	rps16	42.5824012	0.538827167130727	0.00230261596163889
+Allium_schoenoprasum	HE687244.1	28-FEB-2014	714	Russia:Altai, valley of the Bannaja stream,about 210km southwest of Gorno Altajsk	secondary	rps16	49.882130538486	86.7019002944951	0.00100124795680984
+Allium_schoenoprasum	HE687241.1	28-FEB-2014	715	Russia:Yenisey, Voley, Sarla stream	secondary	rps16	53.3574974	104.1517935	0.00100110804070354
+Allium_schoenoprasum	HE687240.1	28-FEB-2014	715	Russia:Altai, Tjungur, upper valley of the river Katun	secondary	rps16	50.0626036681854	86.5517668197869	0.00230219621331998
+Allium_schoenoprasum	HE687239.1	28-FEB-2014	714	Italy:Entreves	secondary	rps16	45.7154101	6.9468656	0.00100124795680984
+Allium_schoenoprasum	HE687238.1	28-FEB-2014	715	France:Corsica	secondary	rps16	42.1880896	9.0684138	0.00100110804070354
+Allium_schoenoprasum	HE687237.1	28-FEB-2014	714	Italy:Trentino	secondary	rps16	46.1029536	11.1297425	0.00100124795680984
+Allium_schoenoprasum	HE687236.1	28-FEB-2014	714	Switzerland:Berner Alps	secondary	rps16	46.4324037	7.7254895	0.00100124795680984
+Allium_schoenoprasum	HE687233.1	28-FEB-2014	714	Sweden:OEland, Moekelmossen	secondary	rps16	56.78159615	16.6621560603191	0.00210253592962609
+Allium_schoenoprasum	HE687231.1	28-FEB-2014	714	Norway:Bergen	secondary	rps16	60.3943055	5.3259192	0.00320382390244233

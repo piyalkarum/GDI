@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spiranthes_romanzoffiana	MG228207.1	23-JAN-2018	552	Canada: Manitoba, Churchill, 10 km SE Churchill, Farnworth Lake, Lake shore	primary	rbcL	58.705	-94.052	0.00483091787439614
+Spiranthes_romanzoffiana	MG227515.1	23-JAN-2018	552	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes fen, Fen	primary	rbcL	58.635	-93.788	0.00483091787439614
+Spiranthes_romanzoffiana	MG226951.1	23-JAN-2018	552	Canada: Manitoba, Churchill, 10 km E Churchill, Launch Road, Fen	primary	rbcL	58.755	-93.998	0.00483091787439614
+Spiranthes_romanzoffiana	KJ841599.1	04-NOV-2014	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Fen at base of s-w slope of mountain	primary	rbcL	54.898	-67.172	0.0292801843071071
+Spiranthes_romanzoffiana	MK925544.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.9883658078117	-4.52474082677718	0.00492914356130622
+Spiranthes_romanzoffiana	MK925171.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5202586741975	-2.79821738048778	0.00492914356130622
+Spiranthes_romanzoffiana	MK924623.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.288100781353	-2.10988456513607	0.00492914356130622

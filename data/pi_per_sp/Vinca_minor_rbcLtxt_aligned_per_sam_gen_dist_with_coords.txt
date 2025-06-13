@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vinca_minor	OR464839.1	26-SEP-2023	611	USA: Bishop's Bog Preserve, Portage, MI	primary	rbcL	42.18338569	-85.59368158	0.00037037037037037
+Vinca_minor	MK030063.1	16-OCT-2019	555	USA: Maine, Gorham, 38 Oak Wood Drive	primary	rbcL	43.67	-70.447	0.0003690036900369
+Vinca_minor	MG223062.1	26-DEC-2017	553	Canada: Quebec, Montreal, Island of Montreal, Bois-de-Saraguay, pres d'un sentier	primary	rbcL	45.512	-73.74	0.0003690036900369
+Vinca_minor	KX678852.1	29-APR-2017	551	Canada: British Columbia, Metro Vancouver Regional District, Burnaby, Burnaby Mountain, west side, edge of forest, end of Hastings Street	primary	rbcL	49.25	-123.033	0.000369685767097967
+Vinca_minor	KX678189.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Vancouver, Pacific Spirit Park, Powerline Trail	primary	rbcL	49.249	-123.211	0.000369685767097967
+Vinca_minor	JN891173.1	07-MAR-2012	540	United Kingdom: Glamorgan	primary	rbcL	51.53	-3.61	0.00037037037037037
+Vinca_minor	HQ619728.1	26-DEC-2010	553	Italy: Emilia Romagna	secondary	rbcL	44.525696	11.039437	0.0003690036900369
+Vinca_minor	MG224671.1	26-DEC-2017	553	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Sassafras Point/South Shore trails, in ravine behind RBG Aviary	secondary	rbcL	43.4179628049921	-78.047900536785	0.0003690036900369
+Vinca_minor	MG224419.1	26-DEC-2017	553	Canada: Ontario, Peterborough County, Galway-Cavendish and Harvey Township, Salmon Lake	secondary	rbcL	44.5196598700915	-77.9065972391609	0.0003690036900369
+Vinca_minor	JN892855.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.0003690036900369
+Vinca_minor	JN892854.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.00369413441515808

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gymnocarpos_sclerocephalus	OM039312.1	19-JUN-2022	553	United Arab Emirates: Ras Al-Khaimah	primary	rbcL	25.206925	55.986036	0
+Gymnocarpos_sclerocephalus	OM039311.1	19-JUN-2022	553	United Arab Emirates: Fujairah	primary	rbcL	25.129551	55.96085	0
+Gymnocarpos_sclerocephalus	OM039310.1	19-JUN-2022	553	United Arab Emirates: Sharjah	primary	rbcL	25.0733167	55.8475722	0
+Gymnocarpos_sclerocephalus	KX283025.1	28-MAY-2017	566	Kuwait	secondary	rbcL	29.6474274563304	47.1370020235737	0
+Gymnocarpos_sclerocephalus	KX283024.1	28-MAY-2017	573	Kuwait	secondary	rbcL	29.1585820404979	47.5401911309333	0
+Gymnocarpos_sclerocephalus	KX283023.1	28-MAY-2017	572	Kuwait	secondary	rbcL	30.1891273087917	47.636796856162	0

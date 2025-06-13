@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_uralensis	LC727816.1	09-MAR-2023	811	Japan:Yamanashi, Minami-alps	secondary	ITS1	35.6083617	138.4649893	0.00750459801825413
+Silene_uralensis	AJ831785.1	16-SEP-2004	811	Mongolia	secondary	ITS1	43.9382593	-79.2235563	0.00601811787121058
+Silene_uralensis	AJ831784.1	16-SEP-2004	821	Denmark:Greenland	secondary	ITS1	71.7409243393414	-41.6974898553786	0.00479632809545698
+Silene_uralensis	AJ831783.1	16-SEP-2004	798	Denmark:Greenland	secondary	ITS1	71.6384603471066	-36.2819865311949	0.00879907104333491
+Silene_uralensis	AJ831781.1	16-SEP-2004	832	USA:Alaska	secondary	ITS1	64.4459613	-149.680909	0.00538842493576977

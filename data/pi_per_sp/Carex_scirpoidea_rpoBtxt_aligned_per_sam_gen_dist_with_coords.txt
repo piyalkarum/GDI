@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_scirpoidea	FJ548359.1	30-AUG-2009	480	Canada: Nunuavut, Baffin Island, Franklin District, Nettilling Lake, Burwash Bay	primary	rpoB	65.95	-71.3	0.00156467921896792
+Carex_scirpoidea	FJ548357.1	30-AUG-2009	480	Canada: Nunuavut, Southampton Island, Salliq (Coral Harbour), low lying area S of the old graveyard	primary	rpoB	64.13	-83.17	0.00156467921896792
+Carex_scirpoidea	FJ548356.1	30-AUG-2009	514	Canada: Nunuavut, Baffin Island, Iqaluit, between Apex and Iqaluit	primary	rpoB	63.74	-68.48	0.00104166666666667
+Carex_scirpoidea	FJ548355.1	30-AUG-2009	510	Canada: Northwest Territories, 11 mi S of Inuvik on Dempster Hwy (5) towards Eagle Plains	primary	rpoB	68.38	-133.33	0.00104602510460251
+Carex_scirpoidea	FJ548358.1	30-AUG-2009	506	Canada: Northwest Territories, Banks Island, Aulavik National Park, site of Muskox exclosure	secondary	rpoB	62.4538109	-114.361050472611	0.00104166666666667

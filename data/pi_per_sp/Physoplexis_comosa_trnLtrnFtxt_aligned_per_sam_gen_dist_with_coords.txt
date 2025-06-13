@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Physoplexis_comosa	KC455719.1	16-SEP-2013	886	Italy	secondary	trnL-trnF	41.8961598808364	12.8701708689145	0
+Physoplexis_comosa	KC455718.1	16-SEP-2013	886	Italy	secondary	trnL-trnF	42.6059913194259	12.7980291740579	0
+Physoplexis_comosa	KC455717.1	16-SEP-2013	886	Italy	secondary	trnL-trnF	43.5212424657561	12.5822359756162	0
+Physoplexis_comosa	FJ426586.1	23-MAR-2009	880	Italy	secondary	trnL-trnF	43.4440710577262	12.2248825107696	0

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salvia_brachyodon	OQ067509.1	27-JUN-2023	684	Croatia: Peljesac	secondary	rps16	43.418425710576	17.4550176399024	0
+Salvia_brachyodon	OQ067508.1	27-JUN-2023	684	Croatia: Peljesac	secondary	rps16	42.7566401055964	16.9115485455453	0
+Salvia_brachyodon	OQ067507.1	27-JUN-2023	684	Croatia: Peljesac	secondary	rps16	43.4377132689155	17.2645833956109	0
+Salvia_brachyodon	OQ067506.1	27-JUN-2023	684	Montenegro: Orjen	secondary	rps16	43.3295704026845	18.7366821024687	0
+Salvia_brachyodon	OQ067505.1	27-JUN-2023	684	Montenegro: Orjen	secondary	rps16	42.8548589504659	19.1659128548866	0
+Salvia_brachyodon	OQ067504.1	27-JUN-2023	684	Montenegro: Orjen	secondary	rps16	43.1319707363052	18.1386515488498	0
+Salvia_brachyodon	OQ067503.1	27-JUN-2023	684	Croatia: Konavle	secondary	rps16	42.4253787874202	18.1891452251518	0
+Salvia_brachyodon	OQ067502.1	27-JUN-2023	684	Croatia: Konavle	secondary	rps16	42.9368398239594	18.3146531807767	0
+Salvia_brachyodon	OQ067501.1	27-JUN-2023	684	Croatia: Konavle	secondary	rps16	42.8587072882057	17.5046799833392	0

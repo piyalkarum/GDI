@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Centaurea_magistrorum	MH627677.1	19-FEB-2020	857	Italy: Sardinia, Monte Luas	secondary	rpl16	39.0262156878047	9.58321411612892	0.00093458071471951
+Centaurea_magistrorum	MH627676.1	19-FEB-2020	857	Italy: Sardinia, Monte Luas	secondary	rpl16	40.0728684645323	8.60279971032022	0.00140187107207926
+Centaurea_magistrorum	MH627675.1	19-FEB-2020	857	Italy: Sardinia, Monte Luas	secondary	rpl16	39.0155905026334	7.54045006063637	0.00093458071471951
+Centaurea_magistrorum	MH627674.1	19-FEB-2020	855	Italy: Sardinia, Monte Luas	secondary	rpl16	39.0317303095452	9.4505476187521	0.00280701754385965
+Centaurea_magistrorum	MH627673.1	19-FEB-2020	857	Italy: Sardinia, Monte Luas	secondary	rpl16	39.1252696426183	7.44701055363519	0.00140187107207926
+Centaurea_magistrorum	MH627672.1	19-FEB-2020	857	Italy: Sardinia, Monte Luas	secondary	rpl16	38.987274763081	9.18960869986219	0.00093458071471951

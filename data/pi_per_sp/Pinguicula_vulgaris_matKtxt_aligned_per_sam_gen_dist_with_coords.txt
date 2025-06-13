@@ -1,0 +1,63 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pinguicula_vulgaris	MZ400449.1	07-DEC-2021	895	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.37505055591541
+Pinguicula_vulgaris	KX676817.1	09-AUG-2017	845	Canada: British Columbia, Okanagan-Similkameen Regional District, Tulameen Forest Service Road, near small runoff/creek area	primary	matK	49.454	-120.996	0.374831577798121
+Pinguicula_vulgaris	MG225357.1	21-JAN-2018	729	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Dorcas Bay, BPNP	primary	matK	45.199	-81.567	0.381876829811348
+Pinguicula_vulgaris	KC475288.1	25-OCT-2013	672	Canada: Northwest Territories, Mainland Northwest Territories, Tuktut Nogait National Park, Brock lagoon, N of Brock River Delta	primary	matK	68.433	-121.964	0.379846500191676
+Pinguicula_vulgaris	KC475287.1	25-OCT-2013	752	Canada: Nunavut, Baffin Island, Soper River, Lapis site	primary	matK	62.95	-69.7969	0.379618532284971
+Pinguicula_vulgaris	KC475286.1	25-OCT-2013	810	Canada: Nunavut, Victoria Island, Johansen Bay, West end of Johansen Bay at mouth of Mackenzie Creek	primary	matK	68.611	-111.369	0.380136700369036
+Pinguicula_vulgaris	KC475285.1	25-OCT-2013	672	Canada: Nunavut, Victoria Island, Oterkvik Point, Vicinity of river flowing into Clauston Bay, 3-4 km from river mouth	primary	matK	69.142	-113.458	0.379846500191676
+Pinguicula_vulgaris	KC475284.1	25-OCT-2013	710	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Sanikiluaq, in town, gravelly soil	primary	matK	56.65	-79.256	0.382613754714289
+Pinguicula_vulgaris	JN966424.1	27-OCT-2012	813	Canada: Manitoba, Churchill, 3 km SE Churchill, pipeline, Forest along the pipe	primary	matK	58.747	-94.115	0.37923159356773
+Pinguicula_vulgaris	JN966423.1	27-OCT-2012	772	Canada: Manitoba, Churchill, 2 km W Churchill, Churchill River, River bank	primary	matK	58.789	-94.227	0.383873570622603
+Pinguicula_vulgaris	JN966422.1	27-OCT-2012	795	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	matK	58.734	-94.112	0.381122504885066
+Pinguicula_vulgaris	JN966421.1	27-OCT-2012	813	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Wet lichen heath	primary	matK	58.747	-93.863	0.37923159356773
+Pinguicula_vulgaris	JN896111.1	07-MAR-2012	815	United Kingdom: Breconshire (42)	primary	matK	51.88	-3.7	0.382611295962639
+Pinguicula_vulgaris	JN896052.1	07-MAR-2012	826	United Kingdom	primary	matK	53.19	-4.46	0.378109357790268
+Pinguicula_vulgaris	JN895684.1	07-MAR-2012	816	United Kingdom	primary	matK	51.84	-3.93	0.379977110804186
+Pinguicula_vulgaris	OM161188.1	06-JUL-2022	1081	Poland	secondary	matK	53.015639188403	19.4790254260362	0.194409862052284
+Pinguicula_vulgaris	OM161187.1	06-JUL-2022	1081	Poland	secondary	matK	51.8610101409946	18.8764638278559	0.194409862052284
+Pinguicula_vulgaris	OM161186.1	06-JUL-2022	1081	Sweden	secondary	matK	59.4447423604998	14.7512692053495	0.194409862052284
+Pinguicula_vulgaris	OM161185.1	06-JUL-2022	1081	Sweden	secondary	matK	60.2126776022772	15.6687135398535	0.194409862052284
+Pinguicula_vulgaris	OM161184.1	06-JUL-2022	1081	Sweden	secondary	matK	60.0404948422305	12.9267745985571	0.194409862052284
+Pinguicula_vulgaris	OM161183.1	06-JUL-2022	1081	Sweden	secondary	matK	59.4220943006024	14.841980269635	0.194409862052284
+Pinguicula_vulgaris	OM161182.1	06-JUL-2022	1081	Sweden	secondary	matK	59.1671807437462	15.8910088961907	0.194409862052284
+Pinguicula_vulgaris	OM161181.1	06-JUL-2022	1081	Sweden	secondary	matK	60.5171743018585	14.5443628511303	0.194409862052284
+Pinguicula_vulgaris	OM161180.1	06-JUL-2022	1081	Slovakia	secondary	matK	48.7121710149949	19.535436077401	0.194409862052284
+Pinguicula_vulgaris	OM161179.1	06-JUL-2022	1081	Slovakia	secondary	matK	48.0853041881086	18.8642412366116	0.194409862052284
+Pinguicula_vulgaris	OM161178.1	06-JUL-2022	1081	Norway	secondary	matK	64.2328524103718	13.1985693375349	0.194409862052284
+Pinguicula_vulgaris	OM161177.1	06-JUL-2022	1081	Norway	secondary	matK	64.2094120464125	11.2880956334314	0.194409862052284
+Pinguicula_vulgaris	OM161176.1	06-JUL-2022	1081	Czech Republic	secondary	matK	49.2391370818452	14.873889600311	0.194409862052284
+Pinguicula_vulgaris	OM161175.1	06-JUL-2022	1081	Czech Republic	secondary	matK	50.3582837867286	15.0063446713794	0.194409862052284
+Pinguicula_vulgaris	OM161174.1	06-JUL-2022	1081	Czech Republic	secondary	matK	48.9619261492182	15.4949601021576	0.194409862052284
+Pinguicula_vulgaris	OM161173.1	06-JUL-2022	1081	Czech Republic	secondary	matK	49.2982832217308	15.2272440236847	0.194409862052284
+Pinguicula_vulgaris	OM161172.1	06-JUL-2022	1081	France	secondary	matK	47.0711692808848	0.859814775757535	0.194409862052284
+Pinguicula_vulgaris	OM161171.1	06-JUL-2022	1081	France	secondary	matK	46.6602297290961	3.15082903540006	0.194409862052284
+Pinguicula_vulgaris	OM161170.1	06-JUL-2022	1081	France	secondary	matK	47.3207384182172	1.85319173762407	0.194409862052284
+Pinguicula_vulgaris	OM161169.1	06-JUL-2022	1081	United Kingdom	secondary	matK	55.3709824463339	-2.31808931172283	0.194409862052284
+Pinguicula_vulgaris	OM161168.1	06-JUL-2022	1081	Switzerland	secondary	matK	46.7985624	8.2319736	0.194409862052284
+Pinguicula_vulgaris	OM161167.1	06-JUL-2022	1081	Germany	secondary	matK	31.4399019	-95.350778	0.194409862052284
+Pinguicula_vulgaris	OM161166.1	06-JUL-2022	1081	Ireland	secondary	matK	52.865196	-7.9794599	0.194409862052284
+Pinguicula_vulgaris	OM161165.1	06-JUL-2022	1081	Slovakia	secondary	matK	49.1429750781095	19.0772067931623	0.194409862052284
+Pinguicula_vulgaris	OM161164.1	06-JUL-2022	1082	Norway	secondary	matK	64.624262852351	11.8934791680928	0.194608274458162
+Pinguicula_vulgaris	OM161163.1	06-JUL-2022	1082	Norway	secondary	matK	64.3749802410739	13.0344066670032	0.194608274458162
+Pinguicula_vulgaris	OM161156.1	06-JUL-2022	1082	Italy	secondary	matK	43.2654805784816	12.1847392315387	0.194608274458162
+Pinguicula_vulgaris	OM161155.1	06-JUL-2022	1082	Italy	secondary	matK	42.2333572126415	12.1057278198703	0.194608274458162
+Pinguicula_vulgaris	OM161147.1	06-JUL-2022	1081	Slovakia	secondary	matK	49.3095574232856	18.4991846403056	0.194409862052284
+Pinguicula_vulgaris	OM161146.1	06-JUL-2022	1081	Slovakia	secondary	matK	48.7661636169526	18.9305724520386	0.194409862052284
+Pinguicula_vulgaris	OM161145.1	06-JUL-2022	1081	Slovakia	secondary	matK	48.8433364405277	19.8352928282029	0.194409862052284
+Pinguicula_vulgaris	OM161144.1	06-JUL-2022	1081	Slovakia	secondary	matK	48.8928466320717	19.9164282794909	0.194409862052284
+Pinguicula_vulgaris	OM161143.1	06-JUL-2022	1081	Slovakia	secondary	matK	48.3253855751694	19.694121803987	0.194409862052284
+Pinguicula_vulgaris	OM161142.1	06-JUL-2022	1081	Slovakia	secondary	matK	48.1856076752523	19.5130930861859	0.194409862052284
+Pinguicula_vulgaris	OM161141.1	06-JUL-2022	1081	Czech Republic	secondary	matK	49.1347805601681	15.8674384429082	0.194409862052284
+Pinguicula_vulgaris	OM161140.1	06-JUL-2022	1081	Czech Republic	secondary	matK	49.5111393800939	14.998449800539	0.194409862052284
+Pinguicula_vulgaris	OM161139.1	06-JUL-2022	1081	Czech Republic	secondary	matK	50.2063442142659	15.7195515070041	0.194409862052284
+Pinguicula_vulgaris	OM161138.1	06-JUL-2022	1081	Italy	secondary	matK	42.3998348015822	12.8369551504677	0.19542741988171
+Pinguicula_vulgaris	OM161137.1	06-JUL-2022	1081	Italy	secondary	matK	43.1563964074118	11.9771006998648	0.19542741988171
+Pinguicula_vulgaris	OM161136.1	06-JUL-2022	1081	Italy	secondary	matK	42.5024293850357	11.7973774566935	0.194409862052284
+Pinguicula_vulgaris	OM161135.1	06-JUL-2022	1081	Italy	secondary	matK	42.6079829807359	13.7839877175404	0.194409862052284
+Pinguicula_vulgaris	MK926302.1	14-JAN-2020	803	United Kingdom	secondary	matK	54.9901403930639	-4.15880730019119	0.379789202857452
+Pinguicula_vulgaris	MK926253.1	14-JAN-2020	811	United Kingdom	secondary	matK	54.1348042635807	-2.96984129704288	0.379342035212188
+Pinguicula_vulgaris	MK926219.1	14-JAN-2020	775	United Kingdom	secondary	matK	54.6807085987823	-1.99904250818835	0.383231078996616
+Pinguicula_vulgaris	MK925916.1	14-JAN-2020	809	United Kingdom	secondary	matK	54.6113534025174	-4.03686480610957	0.379452489128662
+Pinguicula_vulgaris	MK925910.1	14-JAN-2020	810	United Kingdom	secondary	matK	54.6043723087254	-4.75335911505683	0.381639142036756
+Pinguicula_vulgaris	MK925764.1	14-JAN-2020	801	United Kingdom	secondary	matK	54.9186878040814	-2.25713385047023	0.378160901853249

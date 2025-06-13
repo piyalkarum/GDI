@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_acutiformis	JN894375.1	07-MAR-2012	803	United Kingdom: Carmarthenshire	primary	matK	51.81	-4.17	0.0004151100041511
+Carex_acutiformis	HG915842.1	24-SEP-2015	2465	Germany:Saxony-Anhalt	secondary	matK	52.0089065	11.7003344	0.00123461699036001
+Carex_acutiformis	JN895249.1	07-MAR-2012	815	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.000408997955010225
+Carex_acutiformis	JN895248.1	07-MAR-2012	812	United Kingdom	secondary	matK	54.7023545	-3.2765753	0.000410509031198686

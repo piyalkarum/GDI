@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sagina_procumbens	OQ172860.1	18-JUN-2023	315	South Korea	secondary	psbA-trnH	36.1244534159983	127.226180986731	0
+Sagina_procumbens	OQ172859.1	18-JUN-2023	315	South Korea	secondary	psbA-trnH	36.6709716595258	127.65088505924	0
+Sagina_procumbens	OQ172858.1	18-JUN-2023	315	South Korea	secondary	psbA-trnH	36.3155350336087	126.879322771922	0
+Sagina_procumbens	OQ172857.1	18-JUN-2023	315	South Korea	secondary	psbA-trnH	37.2535006774231	128.138589913532	0

@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Artemisia_frigida	OQ832199.1	15-AUG-2023	553	USA: American Prairie Buffalo Camp	primary	rbcL	47.7624	-107.7764	0.06480451340105
+Artemisia_frigida	MG224121.1	26-DEC-2017	552	USA: North Dakota	primary	rbcL	48.326	-100.765	0.0649251578819529
+Artemisia_frigida	MG223945.1	26-DEC-2017	552	USA: Alaska, Gates of the Arctic, Killik River dunes	primary	rbcL	68.284	-154.048	0.0649251578819529
+Artemisia_frigida	MG222519.1	26-DEC-2017	552	Canada: Yukon Territory, Five Fingers Coal Mine, Yukon River	primary	rbcL	62.206	-136.336	0.0649251578819529
+Artemisia_frigida	MT930370.1	03-MAR-2023	572	China	secondary	rbcL	34.9063849564607	104.297320640895	0.0648582099214263
+Artemisia_frigida	MT930369.1	03-MAR-2023	572	China	secondary	rbcL	35.7102046691124	105.492811137701	0.0648582099214263
+Artemisia_frigida	MT930368.1	03-MAR-2023	572	China	secondary	rbcL	35.0676752272978	105.030826326674	0.0648582099214263
+Artemisia_frigida	JX848404.1	06-AUG-2013	1378	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.0710303950435529
+Artemisia_frigida	JN862214.1	04-SEP-2012	1528	USA: Alaska	secondary	rbcL	64.4459613	-149.680909	0.518441497389019

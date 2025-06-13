@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Agrostis_mertensii	KX873202.1	16-OCT-2017	917	USA: New Hampshire, White Mountain National Forest, 2.8 mi below summit of Mt. Washington along auto road	primary	matK	44.2923	-71.2808	0.000143554407120299
+Agrostis_mertensii	KX873201.1	16-OCT-2017	701	USA: New Hampshire, Coos Co., White Mountain National Forest, just below Mt. Washington summit	primary	matK	44.2578	-71.3181	0.000158503724837534
+Agrostis_mertensii	MG216963.1	24-JAN-2018	778	USA: New Hampshire, Coos County, Mt. Washington, summit area	primary	matK	44.27	-71.3	0.000143554407120299
+Agrostis_mertensii	KJ840851.1	23-SEP-2014	790	Canada: Newfoundland and Labrador, Labrador, Mont Irony, S-w slope near summit, on Davies' 'E5' transect	primary	matK	54.902	-67.166	0.000152835090936879
+Agrostis_mertensii	KC473967.1	25-OCT-2013	774	Canada: Nunavut, Baffin Island, Ogac Lake, S shore of Frobisher Bay	primary	matK	62.834	-67.354	0.0013336101258421
+Agrostis_mertensii	KC473966.1	25-OCT-2013	746	Canada: Nunavut, Arctic Mainland, Keewatin, Kaminak Lake	primary	matK	62.17	-95.3	0.000148942508191838
+Agrostis_mertensii	KC473965.1	25-OCT-2013	773	Canada: Nunavut, Canadian Arctic Archipelago, Baffin Island, Iqaluit	primary	matK	62.27	-67.15	0.000143740117866897
+Agrostis_mertensii	KC473964.1	25-OCT-2013	773	Canada: Yukon Territory, Arctic Mainland, Rapid River, Gravel bar alogn river	primary	matK	68.33	-136.5	0.000143740117866897
+Agrostis_mertensii	KC473963.1	25-OCT-2013	737	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. The Hill 2 km southwest of Sanikiluaq airport	primary	matK	56.558	-79.325	0.000151377535573721
+Agrostis_mertensii	KM523820.1	12-JUL-2015	782	USA: New Hampshire	secondary	matK	43.4849133	-71.6553992	0.000147362216327734

@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bupleurum_falcatum	KF357898.1	08-AUG-2014	435	Japan	primary	psbA-trnH	36.205	138.253	0.00436720943489711
+Bupleurum_falcatum	LC546111.1	11-NOV-2020	355	China:Yunnan	secondary	psbA-trnH	25	102	0.00549715293772197
+Bupleurum_falcatum	JN818069.1	30-SEP-2020	310	China	secondary	psbA-trnH	35.056937794844	105.840938099968	0.00324044887151683
+Bupleurum_falcatum	JN818068.1	30-SEP-2020	309	China	secondary	psbA-trnH	34.4422525288749	104.272001096122	0.0097213466145505
+Bupleurum_falcatum	JN818067.1	30-SEP-2020	308	China	secondary	psbA-trnH	35.0832679393429	104.277454469882	0.00714708744024705
+Bupleurum_falcatum	JN788913.1	23-APR-2012	434	China: Anguo city, Hebei Province	secondary	psbA-trnH	38.4277476	115.3303798	0.00438092704696801

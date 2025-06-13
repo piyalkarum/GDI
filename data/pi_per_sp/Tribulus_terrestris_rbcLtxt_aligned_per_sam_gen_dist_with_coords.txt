@@ -1,0 +1,29 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tribulus_terrestris	MH133121.1	07-OCT-2018	553	Bahrain	primary	rbcL	26.211495	50.587557	0.00120919204748376
+Tribulus_terrestris	MF695018.1	16-SEP-2018	553	Pakistan: Punjab, Cholistan Desert, Chananpir	primary	rbcL	28.3908253245268	70.5802631929157	0.00120919204748376
+Tribulus_terrestris	MF694799.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan, Derawar fort	primary	rbcL	28.735	71.391	0.00114404918752745
+Tribulus_terrestris	MF694798.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan Desert, Chananpir	primary	rbcL	28.5198960344959	71.961964385152	0.00114404918752745
+Tribulus_terrestris	MF694797.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan Desert, Kanchi mor	primary	rbcL	29.003	71.96	0.00114404918752745
+Tribulus_terrestris	MG247678.1	21-JAN-2018	552	Canada: British Columbia, Osoyoos	primary	rbcL	49.184	-119.535	0.00114404918752745
+Tribulus_terrestris	KR737244.1	13-MAY-2016	553	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.0361005554424376	36.4000170786692	0.00120919204748376
+Tribulus_terrestris	KR737228.1	13-MAY-2016	553	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	1.14724747282014	36.5993190436518	0.00120919204748376
+Tribulus_terrestris	KR736943.1	13-MAY-2016	553	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	1.22064161625798	36.9333533845457	0.00120919204748376
+Tribulus_terrestris	KR736548.1	13-MAY-2016	553	Kenya: Rift Valley, Laikipia, Mpala Research Centre	primary	rbcL	0.716160535180794	36.2507016820768	0.00120919204748376
+Tribulus_terrestris	OQ446836.1	03-JUL-2023	555	Pakistan	secondary	rbcL	29.7050719569909	70.753778075358	0.000936922455909798
+Tribulus_terrestris	MT932057.1	03-MAR-2023	544	China	secondary	rbcL	34.4166473100714	105.372528250941	0.000887588532748073
+Tribulus_terrestris	MT932056.1	03-MAR-2023	568	China	secondary	rbcL	35.2701743038416	105.202295242772	0.00146390867128808
+Tribulus_terrestris	MT932055.1	03-MAR-2023	569	China	secondary	rbcL	35.8796635039947	105.031195541627	0.00146128314965952
+Tribulus_terrestris	MT931150.1	03-MAR-2023	568	China	secondary	rbcL	35.5591557448877	105.561554982689	0.00146390867128808
+Tribulus_terrestris	MN205307.1	30-NOV-2021	721	China	secondary	rbcL	34.7006899447575	104.591288305545	0.00159153281454529
+Tribulus_terrestris	MN205306.1	30-NOV-2021	664	China	secondary	rbcL	35.6860523214294	104.698115740434	0.001035727855768
+Tribulus_terrestris	MN205305.1	30-NOV-2021	643	China	secondary	rbcL	34.6862044173097	105.994468430185	0.000854977603578435
+Tribulus_terrestris	MZ285077.1	16-AUG-2021	694	Pakistan	secondary	rbcL	30.494973466874	72.2023749208349	0.000907910691937874
+Tribulus_terrestris	MN525787.1	28-OCT-2020	1396	Argentina	secondary	rbcL	-34.9964963	-64.9672817	0.0029241090060875
+Tribulus_terrestris	MN525779.1	28-OCT-2020	1396	Chile	secondary	rbcL	-31.7613365	-71.3187697	0.0029241090060875
+Tribulus_terrestris	MK244690.1	04-DEC-2019	571	India: Karnataka, Bangalore rural, Makali	secondary	rbcL	13.4392417	77.4890962	0.0269390234786488
+Tribulus_terrestris	MH598926.1	22-JAN-2019	590	Saudi Arabia: Taif	secondary	rbcL	21.2702801	40.4158308	0.00226783132647241
+Tribulus_terrestris	MH598905.1	22-JAN-2019	580	Saudi Arabia: Makkah-Taif Road	secondary	rbcL	21.3365039	39.9459727	0.00176284472640118
+Tribulus_terrestris	MF694796.1	15-SEP-2018	552	Pakistan: Punjab, Cholistan Desert, Dingarh	secondary	rbcL	33.0281858	72.0575345	0.00114404918752745
+Tribulus_terrestris	KX283080.1	28-MAY-2017	574	Kuwait	secondary	rbcL	29.201220203647	47.3913252074395	0.0014482955603715
+Tribulus_terrestris	KX283079.1	28-MAY-2017	576	Kuwait	secondary	rbcL	28.7916616413159	47.7495108710258	0.00310066961516804
+Tribulus_terrestris	KX283078.1	28-MAY-2017	576	Kuwait	secondary	rbcL	29.6064942600746	47.1918528342881	0.00145042492615799

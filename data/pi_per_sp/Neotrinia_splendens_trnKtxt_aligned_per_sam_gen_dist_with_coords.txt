@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Neotrinia_splendens	GU254913.1	16-FEB-2011	572	China	secondary	trnK	35.000074	104.999927	0.511627906976744
+Neotrinia_splendens	FN434209.1	14-JUL-2011	795	China:Tibet, Dulan area, 3400m	secondary	trnK	34.1417533	99.5011203	0.374115058765831
+Neotrinia_splendens	FN434208.1	14-JUL-2011	803	Mongolia	secondary	trnK	43.9382593	-79.2235563	0.374664207585161
+Neotrinia_splendens	JF698398.1	05-FEB-2012	701	China: Inner Mongolia	secondary	trnK	43.2443242	114.3251664	0.59290193223759

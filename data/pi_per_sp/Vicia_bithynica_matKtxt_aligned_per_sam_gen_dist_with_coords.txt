@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Vicia_bithynica	JN894848.1	07-MAR-2012	923	United Kingdom: Glamorgan	primary	matK	51.42	-3.3	0.00590296665474189
+Vicia_bithynica	HM851167.1	23-JUL-2011	574	Portugal	secondary	matK	39.4051287901092	-8.93910792898181	0.00663256139270154
+Vicia_bithynica	JX505844.1	09-JAN-2013	705	Portugal	secondary	matK	40.1285019618693	-7.29372537977964	0.00260651754071239
+Vicia_bithynica	JN895988.1	07-MAR-2012	925	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.0059015543211148
+Vicia_bithynica	JN895987.1	07-MAR-2012	869	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.00978104135992208

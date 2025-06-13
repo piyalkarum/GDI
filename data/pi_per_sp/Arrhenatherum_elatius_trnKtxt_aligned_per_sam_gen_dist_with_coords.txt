@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arrhenatherum_elatius	LR606835.1	25-JAN-2021	2128	Germany	secondary	trnK	34.4866901037182	-84.1224079447626	0.0221974062176387
+Arrhenatherum_elatius	HG797415.1	26-SEP-2014	773	Germany	secondary	trnK	35.2501917674413	-83.1280210181119	0.014040633654811
+Arrhenatherum_elatius	JX438074.1	31-MAR-2013	1231	Spain	secondary	trnK	39.3260685	-4.8379791	NA
+Arrhenatherum_elatius	FM956475.1	08-FEB-2009	243	Germany	secondary	trnK	34.8988022583826	-83.4473791470746	NA

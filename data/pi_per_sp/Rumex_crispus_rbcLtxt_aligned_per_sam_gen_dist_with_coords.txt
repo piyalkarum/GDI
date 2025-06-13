@@ -1,0 +1,28 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rumex_crispus	OR464860.1	26-SEP-2023	616	USA: WMU West Entrance Roundabout, Kalamazoo, MI	primary	rbcL	42.2820907	-85.61915112	0.000390082860783866
+Rumex_crispus	MG249726.1	21-JAN-2018	553	Canada: Ontario, Norfolk County, Port Rowan, Bird Studies Canada - Avian Energetics Lab - 115 Front Road	primary	rbcL	42.681	-80.415	0.000428326083191784
+Rumex_crispus	MG249626.1	21-JAN-2018	552	Canada: Ontario, Bruce County, North Bruce Peninsula Township, Warder's Ranch, BPNP	primary	rbcL	45.188	-81.42	0.000428326083191784
+Rumex_crispus	MG246380.1	21-JAN-2018	552	Canada: Ontario, Nipissing District, Pentland Twp., Algonquin Park, ~10km in from Kiosk stop-gate, portage trail @ 2nd bridge	primary	rbcL	46.05	-78.922	0.000428326083191784
+Rumex_crispus	MG246196.1	21-JAN-2018	552	Canada: Behind Hoad House, east of Center Biodiversity Genomics	primary	rbcL	43.529	-80.229	0.000428326083191784
+Rumex_crispus	HQ590251.1	09-NOV-2011	607	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West., Road ditch at Dead Man's Curve	primary	rbcL	44.032	-79.534	0.000395511638352856
+Rumex_crispus	KT695554.1	29-SEP-2015	522	Canada: Ontario, rare Charitable Research Reserve, Blair Flats	primary	rbcL	43.383	-80.369	0.000454479325412818
+Rumex_crispus	KJ841532.1	04-NOV-2014	552	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	rbcL	45.548	-73.152	0.00162619304128375
+Rumex_crispus	HQ644066.1	01-NOV-2011	607	USA: Georgia, Muscogee County, Columbus, Columbus State University	primary	rbcL	32.4996	-84.9367	0.000395511638352856
+Rumex_crispus	JN891401.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.6	-2.92	0.000437254505344158
+Rumex_crispus	MT931223.1	03-MAR-2023	571	China	secondary	rbcL	35.0994819966814	104.873323974693	0.000562611637056722
+Rumex_crispus	MT931222.1	03-MAR-2023	569	China	secondary	rbcL	35.3187005727667	105.100817853696	0.00056218324996025
+Rumex_crispus	MN204831.1	30-NOV-2021	724	China	secondary	rbcL	35.1298726456612	104.610456801246	0.000655547491426623
+Rumex_crispus	MN185118.1	27-APR-2021	719	China	secondary	rbcL	34.3902960926336	105.301870544095	0.000657244018166466
+Rumex_crispus	MG249551.1	21-JAN-2018	553	Canada: Ontario, Wellington County, City of Guelph, OAC Herbarium and BIO Grounds	secondary	rbcL	43.72634945	-77.7101179040839	0.000428326083191784
+Rumex_crispus	JX848510.1	06-AUG-2013	1339	Canada: Alberta	secondary	rbcL	55.001251	-115.002136	0.00241963148461527
+Rumex_crispus	HM850320.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00871786402569065
+Rumex_crispus	JN893120.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0.000437254505344158
+Rumex_crispus	JN893119.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000437254505344158
+Rumex_crispus	JF944135.1	13-DEC-2011	660	China	secondary	rbcL	34.4626916283385	105.542929881836	0.0021711480579118
+Rumex_crispus	JF944134.1	13-DEC-2011	644	China	secondary	rbcL	34.7076733250463	104.971844848669	0.000370910553976916
+Rumex_crispus	MK578017.1	15-MAY-2019	748	South Korea	secondary	rbcL	35.2993206760305	127.819731796778	0.000840643624501354
+Rumex_crispus	MK578016.1	15-MAY-2019	748	South Korea	secondary	rbcL	36.130216811104	129.583347401132	0.000840643624501354
+Rumex_crispus	MK578015.1	15-MAY-2019	748	South Korea	secondary	rbcL	34.7546257	127.659859	0.000840643624501354
+Rumex_crispus	MK578014.1	15-MAY-2019	748	South Korea	secondary	rbcL	37.1637943	128.9857176	0.000840643624501354
+Rumex_crispus	MK044282.1	15-MAY-2019	748	South Korea	secondary	rbcL	33.4930566	126.5130589	0.000943481962633809
+Rumex_crispus	MK044281.1	15-MAY-2019	748	South Korea	secondary	rbcL	36.2425017	128.5732027	0.000840643624501354

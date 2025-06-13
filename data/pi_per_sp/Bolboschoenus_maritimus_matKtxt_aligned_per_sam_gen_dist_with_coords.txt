@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Bolboschoenus_maritimus	OQ847508.1	15-AUG-2023	639	USA: American Prairie White Rock Unit	primary	matK	47.9867	-107.9798	0.00396375201415622
+Bolboschoenus_maritimus	MW498415.1	24-MAR-2021	1148	Pakistan	secondary	matK	30.3308401	71.247499	0.00344379820622247
+Bolboschoenus_maritimus	LT900073.1	12-AUG-2019	1529	Germany	secondary	matK	40.4203479	-79.1166983	0.00244600690329985
+Bolboschoenus_maritimus	KX036935.1	20-APR-2017	1225	Botswana	secondary	matK	-23.1681782	24.5928742	0.00527816011515752
+Bolboschoenus_maritimus	HM850837.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00339155370135391
+Bolboschoenus_maritimus	JN895250.1	07-MAR-2012	767	United Kingdom: Monmouthshire	secondary	matK	51.7501058	-2.8333331	0.00171249845162889

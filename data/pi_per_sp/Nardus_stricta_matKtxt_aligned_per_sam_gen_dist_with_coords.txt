@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Nardus_stricta	MT433208.1	31-MAY-2020	1178	Norway	secondary	matK	64.5731537	11.5280364	0.0193705597070684
+Nardus_stricta	EU489217.1	19-NOV-2008	555	Kyrgyzstan	secondary	matK	42.4858224	74.714583	NA
+Nardus_stricta	AF164394.1	30-APR-2000	1536	Germany	secondary	matK	40.4203479	-79.1166983	0.018893912765529
+Nardus_stricta	JX438062.1	31-MAR-2013	1208	Spain	secondary	matK	39.3260685	-4.8379791	NA
+Nardus_stricta	HM850544.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0237962490454828
+Nardus_stricta	JN895900.1	07-MAR-2012	786	United Kingdom: Pembrokeshire	secondary	matK	51.8339209	-4.916667	0.0622403947193369
+Nardus_stricta	JN893906.1	07-MAR-2012	837	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.0321721362633632

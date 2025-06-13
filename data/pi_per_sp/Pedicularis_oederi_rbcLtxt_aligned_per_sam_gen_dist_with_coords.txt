@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_oederi	MG223492.1	26-DEC-2017	552	Canada: Yukon Territory, Keele Range	primary	rbcL	66.955	-140.814	0
+Pedicularis_oederi	MT931673.1	03-MAR-2023	572	China	secondary	rbcL	35.6682960616727	104.978073091417	0
+Pedicularis_oederi	MN204993.1	30-NOV-2021	606	China	secondary	rbcL	34.3986416860248	104.582823574819	0
+Pedicularis_oederi	MN204992.1	30-NOV-2021	606	China	secondary	rbcL	35.1489483503611	104.340501595713	0
+Pedicularis_oederi	JF943140.1	13-DEC-2011	606	China: Tibet	secondary	rbcL	29.0041958038228	90.6051042069826	0
+Pedicularis_oederi	JF943139.1	13-DEC-2011	606	China: Tibet	secondary	rbcL	29.4456814773541	91.5136488921251	0
+Pedicularis_oederi	JF943138.1	13-DEC-2011	606	China: Sichuan	secondary	rbcL	53.2780787	-6.2107338	0
+Pedicularis_oederi	JF943137.1	13-DEC-2011	606	China: Yunnan	secondary	rbcL	25	102	0

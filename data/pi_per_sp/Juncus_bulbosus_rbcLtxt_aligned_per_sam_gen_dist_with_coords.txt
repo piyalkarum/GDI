@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_bulbosus	KX679170.1	29-APR-2017	552	Canada: British Columbia, Greater Vancouver Regional District, Pitt Meadows, ca. 1.8 km south of Pitt Lake parking lot on Rennie Road, ca. 29 km ENE of Vancouver	primary	rbcL	49.3358	-122.634	0.00139925373134328
+Juncus_bulbosus	KX678921.1	29-APR-2017	552	Canada: British Columbia, Vancouver Island, Alberni-Clayoquot Regional District, Flora Lake Forest Recreation Site	primary	rbcL	48.8619	-124.72	0.00139925373134328
+Juncus_bulbosus	JN892298.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.72	-4.23	0.00142857142857143
+Juncus_bulbosus	HM850086.1	23-JUL-2011	1280	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00565565031982942
+Juncus_bulbosus	JN892375.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0.00142857142857143

@@ -1,0 +1,49 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Odontites_vernus	KX959242.1	02-NOV-2017	1050	China: Xinjiang, Atojnagh Valley	primary	matK	38.95	75.17	0.00160087745199856
+Odontites_vernus	KX959241.1	02-NOV-2017	1050	USA: Maine, Aroostook County	primary	matK	46.1247	-68.3397	0.00160087745199856
+Odontites_vernus	KX959201.1	02-NOV-2017	1043	Russia: Altai Krai, between Gonokhovo and Dobraya Volya	primary	matK	52.9259	81.24068	0.000714373424216357
+Odontites_vernus	KX959199.1	02-NOV-2017	1050	Russia: Altai Republic, near settlement Aktal	primary	matK	49.92	88.87	0.00071103158216192
+Odontites_vernus	KX959197.1	02-NOV-2017	1050	Russia: Khakassia, foot of a ridge Alan	primary	matK	52.80173	91.0846	0.00071103158216192
+Odontites_vernus	KX959196.1	02-NOV-2017	1050	Russia: Altai Krai, Kadnikovo	primary	matK	52.87285	81.88878	0.00071103158216192
+Odontites_vernus	KX959195.1	02-NOV-2017	1043	France: Haut-Rhin, Bergheim	primary	matK	47.9819121764287	6.33615008462729	0.00165381343543047
+Odontites_vernus	KX959194.1	02-NOV-2017	1040	France: Haut-Rhin, Bergheim	primary	matK	48.2009731257558	7.57947151543374	0.00165811231161646
+Odontites_vernus	KX959193.1	02-NOV-2017	1043	Germany: Rheinland-Pfalz, near Landau	primary	matK	49.0796790597125	9.10757022006753	0.000837105801213012
+Odontites_vernus	KX959192.1	02-NOV-2017	1043	Germany: Rheinland-Pfalz, near Landau	primary	matK	49.8134426751266	7.67439840072018	0.000837105801213012
+Odontites_vernus	KX959191.1	02-NOV-2017	1050	France: Aisne, Beaurieux	primary	matK	49.7682567256667	4.76194285690616	0.00083333238430723
+Odontites_vernus	KX959190.1	02-NOV-2017	1050	France: Aisne, Beaurieux	primary	matK	48.9319244516869	3.7287906934799	0.00083333238430723
+Odontites_vernus	KX959189.1	02-NOV-2017	1043	France: Eure, Evreux	primary	matK	48.6090024683093	1.17814834808143	0.000714373424216357
+Odontites_vernus	KX959188.1	02-NOV-2017	1050	France: Eure, Evreux	primary	matK	49.0142932062307	2.19368201038363	0.00071103158216192
+Odontites_vernus	KX959173.1	02-NOV-2017	1043	Finland: Uusimaa, Ruotsinpyhtaa, Soderby, Ropanudden	primary	matK	60.33	26.53	0.00171102508751404
+Odontites_vernus	KX959172.1	02-NOV-2017	1043	Finland: Uusimaa, Porvoon mlk, Sundby, Karilamalm	primary	matK	60.27	25.87	0.000714373424216357
+Odontites_vernus	KX959105.1	02-NOV-2017	1043	Ireland: County Longford, Cashel Nature Reserve, opposite to Cow Island	primary	matK	53.58889	-7.98694	0.000714373424216357
+Odontites_vernus	KX959035.1	02-NOV-2017	1047	Croatia: Licko-Senjska, between Prijeboj and Licko Petrovo Selo	primary	matK	44.84572	15.68401	0.000712425055481261
+Odontites_vernus	KX959034.1	02-NOV-2017	1050	Spain: Granada, Quentar	primary	matK	37.4614046635649	-4.4357818920905	0.00083333238430723
+Odontites_vernus	KX959033.1	02-NOV-2017	1050	Spain: Granada, Quentar	primary	matK	36.4509595371834	-3.56939316485048	0.00083333238430723
+Odontites_vernus	KX959032.1	02-NOV-2017	1047	Turkey: Kirklareli, Derekoy	primary	matK	41.93761	27.35305	0.000712425055481261
+Odontites_vernus	KX959031.1	02-NOV-2017	1043	Italy: Sicily, Geraci Siculo	primary	matK	37.9306466601031	13.7720044065245	0.000837105801213012
+Odontites_vernus	KX959030.1	02-NOV-2017	1050	Italy: Sicily, Geraci Siculo	primary	matK	37.4000743204683	14.0530681718579	0.00071103158216192
+Odontites_vernus	KX959029.1	02-NOV-2017	1050	Greece: Arcadia, between Tripoli and Nestani	primary	matK	37.0930721934276	22.7542982177296	0.00083333238430723
+Odontites_vernus	KX959028.1	02-NOV-2017	1050	Greece: Arcadia, between Tripoli and Nestani	primary	matK	38.1969758845632	22.2485984843228	0.00071103158216192
+Odontites_vernus	KX959005.1	02-NOV-2017	1050	Spain: Lugo, Samos, Renche	primary	matK	42.72	-7.22	0.00549125565734824
+Odontites_vernus	KX959004.1	02-NOV-2017	1050	Spain: Segovia, Valle de Tabladillo	primary	matK	41.36	-3.84	0.00449975919132948
+Odontites_vernus	KX959003.1	02-NOV-2017	1047	Spain: Valladolid, Aldeamayor de San Martin	primary	matK	41.52	-4.61	0.000834843562542214
+Odontites_vernus	JN894965.1	07-MAR-2012	756	United Kingdom: Glamorgan (41)	primary	matK	51.54	-3.25	0.000425901107359405
+Odontites_vernus	JN893873.1	07-MAR-2012	808	United Kingdom: Cardiganshire	primary	matK	52.2	-3.95	0.00044136275005773
+Odontites_vernus	KX959244.1	02-NOV-2017	1050	Germany: Bavaria, Landkreis Freising, Eching	secondary	matK	48.3	11.6167	0.00071103158216192
+Odontites_vernus	KX959243.1	02-NOV-2017	1050	Finland: Hameenlinna, 750m SW of Vanaja church	secondary	matK	60.9948584	24.46654	0.00083333238430723
+Odontites_vernus	KX959236.1	02-NOV-2017	1050	Pakistan: Kashmir, Hushe River	secondary	matK	33.1206295	74.0749169	0.00071103158216192
+Odontites_vernus	KX959226.1	02-NOV-2017	1050	Germany: Bavaria, Neustadt an der Waldnaab	secondary	matK	49.7314121	12.1732938	0.00160087745199856
+Odontites_vernus	KX959175.1	02-NOV-2017	1036	Finland: Varsinais-Suomi, Nauvo, Vastergard	secondary	matK	60.053734	21.7996008	0.000718863553820609
+Odontites_vernus	KX959174.1	02-NOV-2017	1038	Finland: Uusimaa, Storpellinge island, istmus between Koras and Cape Sandholmen	secondary	matK	61.05740305	21.4779712776738	0.000717518146006132
+Odontites_vernus	KX959161.1	02-NOV-2017	1050	United Kingdom: Hampshire, Winchester, near Itchen Down Farm	secondary	matK	51.04483545	-1.24340935971731	0.00071103158216192
+Odontites_vernus	KX959160.1	02-NOV-2017	1050	Italy: Veneto, Caorle	secondary	matK	45.5979147	12.8876282	0.00083333238430723
+Odontites_vernus	KX959158.1	02-NOV-2017	1033	France: Bas-Rhin, Auenheim	secondary	matK	48.8113012	8.0156397	0.000782965108025879
+Odontites_vernus	KX959157.1	02-NOV-2017	1047	Belgium: Wallonia, Tihange (Huy)	secondary	matK	50.5243039	5.2419531	0.000712425055481261
+Odontites_vernus	KX959156.1	02-NOV-2017	1050	Russia: Moscow, Abramtsevo	secondary	matK	56.2234015	37.9673058	0.00083333238430723
+Odontites_vernus	KX959154.1	02-NOV-2017	1050	Germany: Schleswig-Holstein, Leck, Bullsbull	secondary	matK	51.038284	7.0119166	0.00083333238430723
+Odontites_vernus	KX959153.1	02-NOV-2017	1036	Denmark: Zealand, Hundige	secondary	matK	55.5979984	12.3340961	0.000720665168743117
+Odontites_vernus	JF900590.1	05-MAR-2013	1082	Pakistan	secondary	matK	30.3308401	71.247499	0.00171734353459993
+Odontites_vernus	JN894170.1	07-MAR-2012	802	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.000393112300722861
+Odontites_vernus	JN894169.1	07-MAR-2012	837	United Kingdom: Montgomeryshire	secondary	matK	52.615273	-3.4649973	0.000393112300722861
+Odontites_vernus	KX959198.1	02-NOV-2017	1050	Russia	secondary	matK	54.809906	55.890156	0.00083333238430723
+Odontites_vernus	KX959155.1	02-NOV-2017	1050	Denmark	secondary	matK	56.8462311	9.045604	0.00071103158216192

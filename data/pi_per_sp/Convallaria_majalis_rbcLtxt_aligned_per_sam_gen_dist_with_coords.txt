@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Convallaria_majalis	HQ590043.1	01-NOV-2011	552	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, in shaded woodland north-west of Echo Valley cottage	primary	rbcL	44.025	-79.53	0
+Convallaria_majalis	JN890598.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	primary	rbcL	50.53	-3.22	0
+Convallaria_majalis	OQ189682.1	13-JUN-2023	826	Latvia: University of Latvia	secondary	rbcL	56.950744	24.1160594	0
+Convallaria_majalis	LC670223.1	21-JAN-2022	497	Japan: Honshu,Miyagi, Sendai	secondary	rbcL	37.490012	139.835662141241	0
+Convallaria_majalis	JN893530.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9877138	-1.1775355	0
+Convallaria_majalis	JN891975.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	secondary	rbcL	51.8936698	-4.2172827	0
+Convallaria_majalis	JN891973.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0

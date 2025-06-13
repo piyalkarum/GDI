@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Salvia_officinalis	MW470312.1	31-JAN-2023	663	China	secondary	ycf1	35.3319516790367	104.181893961904	0.335580524344569
+Salvia_officinalis	MW470311.1	31-JAN-2023	663	China	secondary	ycf1	34.5069533303399	105.185764511618	0.335580524344569
+Salvia_officinalis	MW470063.1	31-JAN-2023	450	China	secondary	ycf1	34.4563631109734	105.283569092579	0.335580524344569
+Salvia_officinalis	MW470062.1	31-JAN-2023	450	China	secondary	ycf1	34.6538471770164	104.825055092644	0.335580524344569

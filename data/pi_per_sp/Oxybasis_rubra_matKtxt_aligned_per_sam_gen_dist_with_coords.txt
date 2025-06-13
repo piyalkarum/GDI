@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Oxybasis_rubra	KX677067.1	09-AUG-2017	815	Canada: British Columbia, Okanagan-Similkameen Regional District, Okanagan Valley, south of Oliver, south shore of Deadman Lake, drying mud-caked shore	primary	matK	49.092	-119.554	0.00434246126166163
+Oxybasis_rubra	JN895422.1	07-MAR-2012	775	United Kingdom: Glamorgan	primary	matK	51.53	-3.19	0.00225583772411878
+Oxybasis_rubra	HE855626.1	07-JAN-2013	2426	Germany	secondary	matK	34.6473706563842	-83.5662557967341	0.0028507956753429
+Oxybasis_rubra	HE855625.1	07-JAN-2013	2426	Poland	secondary	matK	52.215933	19.134422	0.000945729827484302
+Oxybasis_rubra	HE855624.1	07-JAN-2013	2426	Germany	secondary	matK	34.3807631886966	-84.0178050055478	0.000945729827484302
+Oxybasis_rubra	HE855623.1	07-JAN-2013	2426	USA	secondary	matK	39.7837304	-100.445882	0.000945729827484302
+Oxybasis_rubra	JN895577.1	07-MAR-2012	772	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0011400656967148
+Oxybasis_rubra	JN895576.1	07-MAR-2012	829	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.00106231220207794

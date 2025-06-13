@@ -1,0 +1,15 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Saponaria_officinalis	OR575185.1	25-OCT-2023	799	Kazakhstan: Qaragandy region	primary	matK	49.756	73.11774	0.00150228362095785
+Saponaria_officinalis	OR464895.1	26-SEP-2023	844	USA: South Westnedge Park, Portage, MI	primary	matK	42.18574617	-85.59244277	0.00173832629015503
+Saponaria_officinalis	ON684583.1	21-AUG-2022	1521	Portugal: Jardim Botanico da Ajuda, Ajuda, Lisboa	primary	matK	38.70641	-9.19938	0.006103879360247
+Saponaria_officinalis	HQ593433.1	09-NOV-2011	788	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill East., E end near Bathurst	primary	matK	44.039	-79.508	0.00170257333256209
+Saponaria_officinalis	KP210423.1	28-NOV-2015	805	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Edge of visitor's gravel parking lot	primary	matK	45.536	-73.156	0.00429063492929129
+Saponaria_officinalis	OQ172433.1	18-JUN-2023	776	South Korea	secondary	matK	36.3719314823876	126.901121774551	0.00133272584391176
+Saponaria_officinalis	OQ172432.1	18-JUN-2023	776	South Korea	secondary	matK	36.6471904378898	128.80028377095	0.00194260145500312
+Saponaria_officinalis	OQ172431.1	18-JUN-2023	776	South Korea	secondary	matK	36.4077513238869	127.873411157921	0.00194260145500312
+Saponaria_officinalis	OQ290318.1	16-MAY-2023	768	Mexico: Puebla	secondary	matK	19.1705686	-98.4123106	0.00399522110302137
+Saponaria_officinalis	MT917886.1	03-MAR-2023	785	China	secondary	matK	35.000074	104.999927	0.00181000103313373
+Saponaria_officinalis	KJ204534.1	29-JAN-2015	819	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00235349384400961
+Saponaria_officinalis	HM850784.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.00599016724839916
+Saponaria_officinalis	JN895585.1	07-MAR-2012	756	United Kingdom: Glamorgan	secondary	matK	51.3065349583099	-2.21247679245894	0.00136096251204165
+Saponaria_officinalis	JN895584.1	07-MAR-2012	794	United Kingdom: Glamorgan	secondary	matK	52.1524630354744	-3.47599445968018	0.00171094150323154

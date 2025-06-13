@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Rubia_peregrina	JN894316.1	07-MAR-2012	832	United Kingdom: Monmouthshire	primary	matK	51.61	-2.72	0.00648148148148148
+Rubia_peregrina	HM850830.1	23-JUL-2011	776	Portugal	secondary	matK	39.6621648	-8.1353519	0.0175020865397132
+Rubia_peregrina	JN895568.1	07-MAR-2012	796	United Kingdom: Glamorgan	secondary	matK	51.4470646	-3.3988831	0.00571428571428571
+Rubia_peregrina	JN895567.1	07-MAR-2012	769	United Kingdom: Denbighshire	secondary	matK	53.1097895	-3.3671284	0.00530631934394597

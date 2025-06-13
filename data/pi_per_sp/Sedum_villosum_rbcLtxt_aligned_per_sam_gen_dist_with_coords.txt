@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sedum_villosum	MK925507.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.8545852532531	-18.211515487217	0
+Sedum_villosum	MK925154.1	14-JAN-2020	542	Iceland	secondary	rbcL	64.1755624217822	-18.1912266149365	0
+Sedum_villosum	MK924978.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.4294593832679	-3.44331217142986	0
+Sedum_villosum	MK924540.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.2081299585616	-2.36252768058736	0

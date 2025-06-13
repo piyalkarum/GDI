@@ -1,0 +1,11 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Potentilla_argentea	MG249491.1	21-JAN-2018	552	Canada: British Columbia, Mount Robson	primary	rbcL	53.035	-119.23	0
+Potentilla_argentea	MG248726.1	21-JAN-2018	552	Canada: Ontario, Sudbury District, Sables-Spanish Rivers Twp., Chutes Provincial Park, Mowed lawn near shower building	primary	rbcL	46.219	-82.074	0
+Potentilla_argentea	MG247618.1	21-JAN-2018	552	Canada: British Columbia, Valemont	primary	rbcL	52.83	-119.278	0
+Potentilla_argentea	KJ841497.1	04-NOV-2014	477	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, approximately 70-100 metres north of Research Station, about 50 metres to east of access road, along small trail	primary	rbcL	45.536	-73.1495	0
+Potentilla_argentea	MK925485.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.5311313166784	-4.07532624782279	0
+Potentilla_argentea	MK924831.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.3487999780464	-4.45768178669807	0
+Potentilla_argentea	MG247193.1	21-JAN-2018	523	Canada: Ontario, Hamilton-Wentworth, City of Hamilton, Princess Point, along south shore trails	secondary	rbcL	43.8069157490335	-77.7490801508276	0
+Potentilla_argentea	MG246797.1	21-JAN-2018	553	Canada: Ontario, Nipissing District, Sproule Township, Canoe Dock, Wildlife Research Station, Algonquin Park	secondary	rbcL	44.4149100571607	-78.4579176279626	0
+Potentilla_argentea	MG245897.1	21-JAN-2018	553	Canada: Ontario, Sudbury District, Sables-Spanish Rivers Twp., Chutes Provincial Park, Mowed lawn near shower building	secondary	rbcL	43.8777712294999	-77.0609754338999	0
+Potentilla_argentea	KJ746214.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0

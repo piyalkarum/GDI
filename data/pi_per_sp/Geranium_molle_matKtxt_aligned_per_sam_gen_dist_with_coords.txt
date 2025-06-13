@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Geranium_molle	JQ412248.1	16-JAN-2013	771	South Africa: Western Cape, Cape Town, Robben Island	primary	matK	-33.81	18.379	0.025195929611514
+Geranium_molle	JN895980.1	07-MAR-2012	741	United Kingdom: Carmarthenshire	primary	matK	51.67	-4.16	0.0254046639231824
+Geranium_molle	HM850908.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0578670695575241
+Geranium_molle	HE970708.1	18-SEP-2012	795	Italy:Trieste, Mt. Valerio	secondary	matK	45.6621136	13.7932207	0.0631626663787899
+Geranium_molle	JN895136.1	07-MAR-2012	753	United Kingdom: Caernarvonshire	secondary	matK	53.0602065	-4.053882	0.0254018369690011
+Geranium_molle	JN895135.1	07-MAR-2012	741	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.0254046639231824

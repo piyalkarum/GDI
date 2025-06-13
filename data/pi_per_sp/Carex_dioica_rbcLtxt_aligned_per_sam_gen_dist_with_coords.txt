@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_dioica	JN893399.1	07-MAR-2012	542	United Kingdom: Cardiganshire	primary	rbcL	52.4	-3.85	0
+Carex_dioica	JN892784.1	07-MAR-2012	542	United Kingdom	secondary	rbcL	54.7023545	-3.2765753	0
+Carex_dioica	JN892164.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.6315370432149	-0.109466945381653	0
+Carex_dioica	JN890670.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.4536077705526	-0.710891346102656	0

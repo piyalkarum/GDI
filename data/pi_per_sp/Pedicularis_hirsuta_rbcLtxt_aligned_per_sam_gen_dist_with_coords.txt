@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Pedicularis_hirsuta	KT960743.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.1410735251212	-21.4635963939198	0
+Pedicularis_hirsuta	KT960635.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	75.2418140078682	-21.9254033282898	0
+Pedicularis_hirsuta	KT960410.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5154594294164	-21.9387420566624	0
+Pedicularis_hirsuta	KT960400.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.2995043928953	-21.8726589549858	0
+Pedicularis_hirsuta	KC483374.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Expedition Fiord, McGill Univ. base camp on N side of valley near foot of glacier at head of fiord	primary	rbcL	78.9593027272692	-94.9809146944574	0
+Pedicularis_hirsuta	KC483373.1	25-OCT-2013	552	Canada: Nunavut, Axel Heiberg Island, Expedition River, N side of Expedition River. On NE side of Gypsum Hill, between camp and river	primary	rbcL	78.6755422164986	-89.7389708935895	0
+Pedicularis_hirsuta	KC483372.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Scoresby Bay	primary	rbcL	79.867	-71.533	0
+Pedicularis_hirsuta	KC483371.1	25-OCT-2013	552	Canada: Nunavut, Bathurst Island, Polar Bear Pass, Research Station	primary	rbcL	75.73	-98.42	0
+Pedicularis_hirsuta	KC483370.1	25-OCT-2013	552	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	rbcL	74.905	-109.593	0
+Pedicularis_hirsuta	KC483369.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Fosheim Peninsula, Hot Weather Creek	primary	rbcL	79.97	-84.43	0
+Pedicularis_hirsuta	KC483368.1	25-OCT-2013	552	Canada: Nunavut, Ellesmere Island, Alexandra Fiord, valley at head of fiord (14 km WSW of RCMP post)	primary	rbcL	78.83	-76.42	0

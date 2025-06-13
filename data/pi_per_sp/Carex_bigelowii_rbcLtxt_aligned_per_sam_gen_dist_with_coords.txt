@@ -1,0 +1,22 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Carex_bigelowii	MZ359306.1	07-DEC-2021	552	Sweden: Latnjavagge	primary	rbcL	68.35	18.49	0.000766419777309069
+Carex_bigelowii	MG227680.1	23-JAN-2018	552	Canada: Yukon Territory, McClusky Lake, Wind River	primary	rbcL	64.57	-134.43	0.000764953505906007
+Carex_bigelowii	MG227250.1	23-JAN-2018	552	Canada: Newfoundland and Labrador, Labrador, Mont Irony, Down the SW slope, between E600B2 and E600C3.	primary	rbcL	57.63	-68.0361	0.00252264492100182
+Carex_bigelowii	MG227123.1	23-JAN-2018	490	Canada: Northwest Territories, Peel River, Blueberry Hill	primary	rbcL	68.478	-135.621	0.000828181895164705
+Carex_bigelowii	MG226223.1	23-JAN-2018	670	Canada: Nunavut, Baffin Island, between Apex and Iqaluit	primary	rbcL	63.9817891222786	-70.3428132529241	0.00374621271772805
+Carex_bigelowii	MG226038.1	23-JAN-2018	534	Canada: Yukon Territory, Peel River, between Snake & Bonnet Plume rivers	primary	rbcL	65.96	-134.428	0.000792235753212676
+Carex_bigelowii	FJ548252.1	25-AUG-2009	671	Canada: Northwest Territories, Banks Island, Mesik River	primary	rbcL	71.53	-123.8	0.00564577638542364
+Carex_bigelowii	FJ548251.1	25-AUG-2009	670	Canada: Nunuavut, Baffin Island, between Apex and Iqaluit	primary	rbcL	62.9947464174783	-67.3921265685637	0.00374621271772805
+Carex_bigelowii	KT960659.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5783849665824	-19.3651586085433	0.000764953505906007
+Carex_bigelowii	KT960558.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.5275950572865	-22.4692403284603	0.000764953505906007
+Carex_bigelowii	KT960434.1	13-DEC-2015	552	Greenland: NE, Zackenberg	primary	rbcL	74.6780447855011	-23.4027586022349	0.000764953505906007
+Carex_bigelowii	KC482256.1	25-OCT-2013	552	Canada: Nunavut, Canadian Arctic Archipelago, Baffin Island, Baffinland Iron Mines, Mary River project	primary	rbcL	70.26	-78.22	0.000764953505906007
+Carex_bigelowii	KC482255.1	25-OCT-2013	552	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. The Hill 2 km southwest of Sanikiluaq airport	primary	rbcL	56.558	-79.325	0.000764953505906007
+Carex_bigelowii	KC482254.1	25-OCT-2013	552	Canada: Yukon Territory, Buckland Hills, Ivvavik National Park, Buckland Hills, NW part	primary	rbcL	69.417	-139.633	0.000764953505906007
+Carex_bigelowii	KC482253.1	25-OCT-2013	552	Canada: Northwest Territories, Mainland Northwest Territories, Paulatuk, Paulatuk, vicinity of large lake	primary	rbcL	69.425	-124.197	0.000764953505906007
+Carex_bigelowii	KC482252.1	25-OCT-2013	552	Canada: Northwest Territories, Victoria Island, Ulakhaktok, Behind Helen Kalvak Elihakvik School and eastwards toward the fishing dock east of Uluhaktok	primary	rbcL	70.738	-117.762	0.000764953505906007
+Carex_bigelowii	KC482251.1	25-OCT-2013	552	Canada: Nunavut, Victoria Island (Nunavut), SURREY LAKE. Delta at northernmost tip of lake. Site 79	primary	rbcL	69.8	-107.167	0.000764953505906007
+Carex_bigelowii	KC482250.1	25-OCT-2013	552	Canada: Yukon Territory, Yukon Mainland, Blow River Delta east, Mainland south of delta	primary	rbcL	68.872	-136.981	0.000764953505906007
+Carex_bigelowii	KC482249.1	25-OCT-2013	553	Canada: Northwest Territories, Victoria Island, Minto Inlet, Head of Minto Inlet, end of eastern most inlet (N arm), coastal saline flat	primary	rbcL	71.535	-115.184	0.000763656633221851
+Carex_bigelowii	JN891239.1	07-MAR-2012	536	United Kingdom: Cardiganshire	primary	rbcL	52.47	-3.77	0.00079066909930372
+Carex_bigelowii	JN892344.1	07-MAR-2012	542	United Kingdom: Cardiganshire	secondary	rbcL	52.2945764	-3.952781	0.000781397819727248

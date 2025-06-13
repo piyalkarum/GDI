@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Fumaria_capreolata	JN890819.1	07-MAR-2012	542	United Kingdom: Carmarthenshire	primary	rbcL	51.69	-4.23	0
+Fumaria_capreolata	OQ392268.1	10-MAY-2023	522	Peru	secondary	rbcL	-6.67578877635445	-74.4827289224457	0.000383141762452107
+Fumaria_capreolata	OQ392072.1	10-MAY-2023	528	Peru	secondary	rbcL	-6.96681453682959	-75.4619186915229	0.000378787878787879
+Fumaria_capreolata	HM850014.1	23-JUL-2011	663	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.000761929641239986
+Fumaria_capreolata	JN892011.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	51.9922517905218	-3.07421245002698	0
+Fumaria_capreolata	JN892010.1	07-MAR-2012	542	United Kingdom: Glamorgan	secondary	rbcL	50.8531582255296	-3.26640814254217	0

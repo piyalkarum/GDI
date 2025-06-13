@@ -1,0 +1,10 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Alisma_lanceolatum	KX678931.1	29-APR-2017	519	Canada: British Columbia, Metro Vancouver Regional District, Vancouver, west side of Balaclava Street, ca. 600 ft north of Celtic Avenue	primary	rbcL	49.25	-123.167	0.000497017892644135
+Alisma_lanceolatum	JN890789.1	07-MAR-2012	540	United Kingdom: Monmouthshire	primary	rbcL	51.57	-2.8	0.000478011472275335
+Alisma_lanceolatum	MK925428.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.0960432947434	-3.40608619711357	0.000476190476190476
+Alisma_lanceolatum	MK925155.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1827368718819	-4.34555249293409	0.000476190476190476
+Alisma_lanceolatum	MK925009.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	55.1957691699862	-3.5260623851851	0.000476190476190476
+Alisma_lanceolatum	MK924913.1	14-JAN-2020	542	United Kingdom	secondary	rbcL	54.8715485248524	-3.51095084188908	0.000476190476190476
+Alisma_lanceolatum	HM849753.1	23-JUL-2011	668	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00383217222206233
+Alisma_lanceolatum	JN890989.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.4984672816706	-3.06370230631463	0.000476190476190476
+Alisma_lanceolatum	JN890988.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.4471633326675	-1.98744837611006	0.000476190476190476

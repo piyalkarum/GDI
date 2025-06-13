@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Matthiola_longipetala	MG248979.1	21-JAN-2018	552	Canada: Ontario, Kawartha Lakes, City of, Bexley Tp., junction of Hwys 35 and 46 at Coboconk.	primary	rbcL	44.65	-78.8	0.00120772946859903
+Matthiola_longipetala	KX282876.1	28-MAY-2017	566	Kuwait	secondary	rbcL	28.6319480976985	48.2464559592851	0.00117785630153121
+Matthiola_longipetala	KX282875.1	28-MAY-2017	580	Kuwait	secondary	rbcL	29.6210008275811	48.4835353834193	0.0035655267730801
+Matthiola_longipetala	KX282874.1	28-MAY-2017	565	Kuwait	secondary	rbcL	29.8157494749811	47.6670167680196	0.00117994100294985

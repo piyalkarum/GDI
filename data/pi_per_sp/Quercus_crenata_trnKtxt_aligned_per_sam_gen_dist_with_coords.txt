@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Quercus_crenata	HE583650.1	04-SEP-2011	693	Slovenia	secondary	trnK	46.1199444	14.8153333	0
+Quercus_crenata	HE583608.1	04-SEP-2011	693	Italy:Liguria	secondary	trnK	44.4777617	8.7026296	0
+Quercus_crenata	HE583607.1	04-SEP-2011	693	Italy:Latium	secondary	trnK	41.9808038	12.7662312	0
+Quercus_crenata	HE583606.1	04-SEP-2011	693	Italy:Trentino	secondary	trnK	46.1029536	11.1297425	0

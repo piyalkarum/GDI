@@ -1,0 +1,19 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Petasites_frigidus	MZ400445.1	07-DEC-2021	787	Sweden: Latnjavagge	primary	matK	68.35	18.49	0.00010124531740407
+Petasites_frigidus	KX677757.1	09-AUG-2017	777	Canada: British Columbia, Vancouver Island, Cowichan Valley Regional District, Road from Port Renfrew to Lake Cowichan	primary	matK	48.709	-124.207	0.000112258643915581
+Petasites_frigidus	KC475258.1	25-OCT-2013	774	Canada: Nunavut, Kitikmeot Region, Bathurst Inlet, Community of Bathurst Inlet	primary	matK	66.839	-108.035	0.00010338054378166
+Petasites_frigidus	KC475257.1	25-OCT-2013	783	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. Tundra below ATV trail	primary	matK	56.422	-79.158	0.000101770812131081
+Petasites_frigidus	KC475256.1	25-OCT-2013	774	Canada: Yukon Territory, Richardson Mountains, Tributary of Fish Creek, south of Vunta Creek	primary	matK	67.884	-136.544	0.00010338054378166
+Petasites_frigidus	KC475255.1	25-OCT-2013	783	Canada: Nunavut, Hudson Bay, Belcher Islands, Flaherty Island. 5 km southwest of Sanikiluaq	primary	matK	56.558	-79.344	0.000101770812131081
+Petasites_frigidus	KC475254.1	25-OCT-2013	774	Canada: Northwest Territories, Mainland Northwest Territories, Inuvik, Inuvik, N edge of town, along small trail through woods	primary	matK	68.372	-133.794	0.00010338054378166
+Petasites_frigidus	KC475253.1	25-OCT-2013	774	Canada: Northwest Territories, Prince Patrick Island, Green Bay, valley at head of north arm of bay	primary	matK	76.56	-118.86	0.00010338054378166
+Petasites_frigidus	KC475252.1	25-OCT-2013	774	Canada: Northwest Territories, Victoria Island, Minto Inlet, Shore of small round lake NE of Fish lake on lower Kuujjua River, 17 km SE of Minto Inlet, Approx. 4 km E of Uluhaktok Fishing Camp	primary	matK	71.267	-116.492	0.00010338054378166
+Petasites_frigidus	KC475251.1	25-OCT-2013	770	Canada: Northwest Territories, Banks Island, Masik River, Hills on S side of valley, SSW of large oblong lake	primary	matK	71.583	-123.171	0.00010338054378166
+Petasites_frigidus	KC475250.1	25-OCT-2013	774	Canada: Nunavut, Melville Island, Melville Island, approximately 5 km from the south-central coastline	primary	matK	74.912	-109.59	0.00010338054378166
+Petasites_frigidus	KC475249.1	25-OCT-2013	770	Canada: Northwest Territories, Banks Island, Thomsen River, Aulavik National Park	primary	matK	73.808	-119.872	0.00010338054378166
+Petasites_frigidus	KC475248.1	25-OCT-2013	774	Canada: Northwest Territories, Mainland Northwest Territoires, Tuktoyaktuk	primary	matK	69.45	-133.033	0.00010338054378166
+Petasites_frigidus	JN966418.1	27-OCT-2012	780	Canada: Manitoba, Churchill, 4 km SE Churchill, Dene Village, Moist mossy thicket with Salix and Picea glauca	primary	matK	58.734	-94.112	0.00010230179028133
+Petasites_frigidus	JN966417.1	27-OCT-2012	582	Canada: Manitoba, Churchill, 26 km SE Churchill, Twin Lakes, East Lake, Lake shore	primary	matK	58.629	-93.798	0.00176473568827416
+Petasites_frigidus	JN966416.1	27-OCT-2012	786	Canada: Manitoba, Churchill, 16 km E Churchill, Bird Cove, Rock Bluff B, Dryas heath	primary	matK	58.769	-93.862	0.00010124531740407
+Petasites_frigidus	MG225376.1	21-JAN-2018	774	Canada: Ontario, Kenora District, Dryden	secondary	matK	49.785698	-92.835846	0.000106179655977915
+Petasites_frigidus	MG225163.1	21-JAN-2018	749	Canada: Ontario, Thunder Bay District, Nikina, 30km NE of Nikina	secondary	matK	43.72634945	-77.7101179040839	0.000107538444994085

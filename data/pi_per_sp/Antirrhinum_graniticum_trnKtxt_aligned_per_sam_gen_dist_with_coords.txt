@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Antirrhinum_graniticum	EU717989.1	31-MAY-2009	1255	Spain: Huelva, Aracena	secondary	trnK	37.8949414	-6.5624496	0.00269373550900907
+Antirrhinum_graniticum	EU717988.1	31-MAY-2009	1255	Spain: Soria, Caltojar	secondary	trnK	41.4030809	-2.7648035	0.00107184025175426
+Antirrhinum_graniticum	EU717987.1	31-MAY-2009	1255	Spain: Madrid, Fuentiduena de Tajo	secondary	trnK	40.1185446	-3.160254	0.00107184025175426
+Antirrhinum_graniticum	JF694188.1	21-AUG-2011	1227	Spain: Caceres, Trujillo	secondary	trnK	39.4605657	-5.8816626	0.00165016501650165

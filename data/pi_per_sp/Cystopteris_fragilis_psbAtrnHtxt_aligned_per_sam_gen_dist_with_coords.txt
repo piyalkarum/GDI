@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Cystopteris_fragilis	OQ310326.1	16-MAY-2023	495	Mexico: Puebla	secondary	psbA-trnH	18.8784720370075	-98.7819340109591	0.013141878255173
+Cystopteris_fragilis	OQ309758.1	16-MAY-2023	530	Mexico: Puebla	secondary	psbA-trnH	18.8263488082181	-97.763898167847	0.013723647717841
+Cystopteris_fragilis	OQ309383.1	16-MAY-2023	391	Mexico: Puebla	secondary	psbA-trnH	18.9226869387472	-98.6921943257336	0.0391551350697838
+Cystopteris_fragilis	OQ309323.1	16-MAY-2023	492	Mexico: Puebla	secondary	psbA-trnH	18.8884477890854	-98.9239055857056	0.0175040028223798
+Cystopteris_fragilis	OQ309295.1	16-MAY-2023	490	Mexico: Puebla	secondary	psbA-trnH	19.4792944125017	-98.0393848699836	0.0131428719813041
+Cystopteris_fragilis	KU842451.1	27-SEP-2016	503	Spain: La Rioja, Villoslada de Cameros	secondary	psbA-trnH	42.1138174	-2.6733182	0.0166672590406587

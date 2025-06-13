@@ -1,0 +1,8 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Molinia_caerulea	JN895974.1	07-MAR-2012	538	United Kingdom: Cardiganshire	primary	matK	52.13	-4.2	0.00444327254601397
+Molinia_caerulea	JN895755.1	07-MAR-2012	758	United Kingdom: Sussex, West (13)	primary	matK	50.99	-0.78	0.0020574088287814
+Molinia_caerulea	MF998951.1	09-DEC-2017	1808	France	secondary	matK	46.603354	1.8883335	0.00159966849496097
+Molinia_caerulea	AF164411.1	30-APR-2000	1542	Germany	secondary	matK	34.895926	-83.4665496	0.00178262817521978
+Molinia_caerulea	KJ204512.1	29-JAN-2015	768	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.00278317288574849
+Molinia_caerulea	JN895907.1	07-MAR-2012	800	United Kingdom: Cardiganshire	secondary	matK	52.2945764	-3.952781	0.00195950602463208
+Molinia_caerulea	JN895906.1	07-MAR-2012	771	United Kingdom: Carmarthenshire	secondary	matK	51.8936698	-4.2172827	0.00197517831170514

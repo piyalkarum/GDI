@@ -1,0 +1,37 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Tofieldia_pusilla	OP005347.1	12-APR-2023	921	Russia: Murmansk	primary	trnS-trnG	66.729	33.694	0.0029950657642062
+Tofieldia_pusilla	OP005346.1	12-APR-2023	924	Russia: Nenets	primary	trnS-trnG	68.301	53.224	0.00343300851748762
+Tofieldia_pusilla	OP005345.1	12-APR-2023	923	Russia: Chukotka	primary	trnS-trnG	68.64	175.695	0.00335999142071124
+Tofieldia_pusilla	OP005344.1	12-APR-2023	924	Russia: Chukotka	primary	trnS-trnG	64.915	-172.52	0.00335999142071124
+Tofieldia_pusilla	OP005343.1	12-APR-2023	924	Russia: Sakha	primary	trnS-trnG	70.517	147.467	0.00335999142071124
+Tofieldia_pusilla	OP005342.1	12-APR-2023	923	Russia: Sakha	primary	trnS-trnG	69.417	150.25	0.00527256335791285
+Tofieldia_pusilla	OP005341.1	12-APR-2023	925	Russia: Krasnoyarsk	primary	trnS-trnG	74.896	106.522	0.00343243878015457
+Tofieldia_pusilla	OP005340.1	12-APR-2023	924	Russia: Krasnoyarsk	primary	trnS-trnG	71.907	103.839	0.00343300851748762
+Tofieldia_pusilla	OP005339.1	12-APR-2023	924	Russia: Yamalo-Nenets	primary	trnS-trnG	67.286	68.71	0.00343300851748762
+Tofieldia_pusilla	OP005338.1	12-APR-2023	921	Norway: Nordland, Beiarn	primary	trnS-trnG	66.893	14.666	0.0019090182719948
+Tofieldia_pusilla	OP005337.1	12-APR-2023	921	Norway: Buskerud	primary	trnS-trnG	60.483	8.711	0.0019090182719948
+Tofieldia_pusilla	OP005336.1	12-APR-2023	921	Germany: Berchtesgaden, Watzmann	primary	trnS-trnG	47.568	12.932	0.0019090182719948
+Tofieldia_pusilla	OP005335.1	12-APR-2023	921	Iceland: Geysir	primary	trnS-trnG	64.314	-20.306	0.0019090182719948
+Tofieldia_pusilla	OP005334.1	12-APR-2023	921	Austria: Salzburg, Lungau, Weisseck	primary	trnS-trnG	47.161	13.377	0.0019090182719948
+Tofieldia_pusilla	OP005333.1	12-APR-2023	921	Norway: Bronnoy hd., Somna	primary	trnS-trnG	65.36	12.224	0.0019090182719948
+Tofieldia_pusilla	OP005332.1	12-APR-2023	921	Finland: Ostroboltnia kajanensis, Paltamo	primary	trnS-trnG	64.407	27.834	0.0019090182719948
+Tofieldia_pusilla	OP005331.1	12-APR-2023	924	Greenland: Kitaa	primary	trnS-trnG	72.504	-24.03	0.00377354709307641
+Tofieldia_pusilla	OP005330.1	12-APR-2023	925	Greenland: Tasiilaq	primary	trnS-trnG	65.61	-37.62	0.00473405528089937
+Tofieldia_pusilla	OP005329.1	12-APR-2023	922	Iceland: Laugarvatn	primary	trnS-trnG	64.211	-20.774	0.00190727509256595
+Tofieldia_pusilla	OP005328.1	12-APR-2023	921	Russia: Murmansk, Kirovsk	primary	trnS-trnG	67.608	33.782	0.0019090182719948
+Tofieldia_pusilla	OP005327.1	12-APR-2023	538	Norway: Svalbard, Blomstrandhalvoya	primary	trnS-trnG	78.974	12.179	0.00784788829457157
+Tofieldia_pusilla	OP005326.1	12-APR-2023	923	Canada: Victoria Island, Boot inlet	primary	trnS-trnG	71.51	-117.338	0.00418057608139322
+Tofieldia_pusilla	OP005325.1	12-APR-2023	925	USA: Alaska, Nome	primary	trnS-trnG	64.894	-165.215	0.00335346365841095
+Tofieldia_pusilla	OP005324.1	12-APR-2023	924	Greenland: Disko	primary	trnS-trnG	69.25	-53.542	0.00513945226568887
+Tofieldia_pusilla	OP005323.1	12-APR-2023	924	Greenland: Angmagssalik Island	primary	trnS-trnG	65.717	-37.583	0.00513945226568887
+Tofieldia_pusilla	OP005322.1	12-APR-2023	936	Norway: Svalbard, Ossian Sars	primary	trnS-trnG	78.8146761174451	9.73479029078177	0.00190727509256595
+Tofieldia_pusilla	OP005321.1	12-APR-2023	788	Norway: Svalbard, Nathorstdalen	primary	trnS-trnG	78.6400658943506	19.3449797644026	0.00206877171714612
+Tofieldia_pusilla	OP005320.1	12-APR-2023	921	Norway: Svalbard, Nathorstdalen	primary	trnS-trnG	78.9999818260129	14.712226712971	0.0019090182719948
+Tofieldia_pusilla	OP005319.1	12-APR-2023	848	Norway: Svalbard, Nathorstdalen	primary	trnS-trnG	78.9409038558043	15.7926056649143	0.00518928976709016
+Tofieldia_pusilla	OP005318.1	12-APR-2023	922	Norway: Svalbard, Ringhorndalen	primary	trnS-trnG	80.0550597377498	17.7751554455812	0.00299260737872454
+Tofieldia_pusilla	OP005317.1	12-APR-2023	922	Norway: Svalbard, Ossian Sars	primary	trnS-trnG	79.4790908749026	11.7853136032048	0.00190727509256595
+Tofieldia_pusilla	OP005316.1	12-APR-2023	922	Norway: Svalbard, Ossian Sars	primary	trnS-trnG	79.1425357462292	8.49949630146142	0.00190727509256595
+Tofieldia_pusilla	OP005315.1	12-APR-2023	922	Norway: Svalbard, Ringhorndalen	primary	trnS-trnG	79.33	16.161	0.00190727509256595
+Tofieldia_pusilla	OP005314.1	12-APR-2023	922	Norway: Svalbard, Bockfjorden	primary	trnS-trnG	79.389	13.438	0.00190727509256595
+Tofieldia_pusilla	OP005313.1	12-APR-2023	922	Norway: Svalbard, Ringhorndalen	primary	trnS-trnG	79.6215000060046	17.326414966132	0.00287211518942405
+Tofieldia_pusilla	OP005312.1	12-APR-2023	922	Norway: Svalbard, Ringhorndalen	primary	trnS-trnG	78.8922078997062	14.946901882027	0.00190727509256595

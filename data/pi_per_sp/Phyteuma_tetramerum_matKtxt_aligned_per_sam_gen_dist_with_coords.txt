@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Phyteuma_tetramerum	MK555926.1	22-SEP-2019	235	Romania	secondary	matK	45.8025377962555	23.4481468443305	NA
+Phyteuma_tetramerum	MK555833.1	22-SEP-2019	386	Romania	secondary	matK	46.1828003261091	25.7767567701929	NA
+Phyteuma_tetramerum	MK555697.1	22-SEP-2019	366	Romania	secondary	matK	46.5683496468355	25.2429345946681	NA
+Phyteuma_tetramerum	KC455826.1	16-SEP-2013	2469	Romania	secondary	matK	45.434963437294	24.0869998863528	0
+Phyteuma_tetramerum	KC455798.1	16-SEP-2013	2469	Romania	secondary	matK	45.2808015581197	23.9035918150202	0

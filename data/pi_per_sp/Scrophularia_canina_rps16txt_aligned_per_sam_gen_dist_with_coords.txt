@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Scrophularia_canina	KY067783.1	29-MAR-2017	1102	Slovenia: Kamnik	secondary	rps16	46.2257358	14.6118936	0.0047777739191061
+Scrophularia_canina	KR361593.1	13-JUL-2015	868	Italy: SA	secondary	rps16	40.4194416	15.3107562	0.00529005350799214
+Scrophularia_canina	KR361592.1	13-JUL-2015	867	Turkey: 20	secondary	rps16	37.8275892	29.2389539	0.00626641238368834
+Scrophularia_canina	KR827035.1	29-JUN-2015	440	Portugal: Rabacal	secondary	rps16	40.8545347	-7.2577517	0.00683287843795927
+Scrophularia_canina	KF447323.1	27-OCT-2013	1115	Italy: Sardinia, Oristano	secondary	rps16	40.0265676	8.6796416	0.00538545730704306
+Scrophularia_canina	KF447320.1	27-OCT-2013	1050	Morocco: Tiznit	secondary	rps16	29.698624	-9.7312815	0.00926007269407609

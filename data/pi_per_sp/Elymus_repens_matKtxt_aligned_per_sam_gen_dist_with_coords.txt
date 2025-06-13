@@ -1,0 +1,25 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Elymus_repens	OR738299.1	13-NOV-2023	782	Kazakhstan: East Kazakhstan region	primary	matK	48.5258	82.1938	0.284340791379762
+Elymus_repens	MF597346.1	17-JUL-2018	774	Canada: British Columbia, Princeton, across from Princeton High School.	primary	matK	49.469	-120.505	0.0162108769115261
+Elymus_repens	MF597345.1	17-JUL-2018	785	Canada: Manitoba	primary	matK	49.281	-98.635	0.0162419708906917
+Elymus_repens	MG217149.1	24-JAN-2018	643	Canada: Ontario, Chatham-Kent County, Ridgetown, Ridgetown College Campus, Compost area near old railway bed	primary	matK	42.454	-81.884	NA
+Elymus_repens	MG217106.1	24-JAN-2018	557	Canada: Ontario, Kenora District, Dryden	primary	matK	49.7833	-92.8333	NA
+Elymus_repens	MG217001.1	24-JAN-2018	696	Canada: Ontario, Kenora District, Dryden Township, Dryden, NEBIE Block#3, Basic treatment	primary	matK	49.636	-92.767	0.0209186691634366
+Elymus_repens	MG216947.1	24-JAN-2018	697	Canada: Ontario, Cochrane District, Moosonee, Moosonee, roadside	primary	matK	51.273	-80.641	0.0147000125697773
+Elymus_repens	HQ593279.1	09-NOV-2011	840	Canada: Ontario, Regional Municipality of York, King Twp., Jokers Hill West, Compost area north of Dufferin St. driveway	primary	matK	44.031	-79.53	0.0144178277107972
+Elymus_repens	KJ840910.1	23-SEP-2014	786	Canada: Quebec, Monteregie, Gault Nature Reserve, Mont St. Hilaire, La Pre, approximately 50-100 m east of Orange Trail	primary	matK	45.542	-73.1604	0.0144779920523525
+Elymus_repens	KJ840909.1	23-SEP-2014	680	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area surrounding research station	primary	matK	45.535	-73.149	0.0147815914720765
+Elymus_repens	MW148217.1	19-MAR-2022	480	United Kingdom: England, Alstone, N Somerset; ST3104473	secondary	matK	51.0164076013101	0.0626476599643643	NA
+Elymus_repens	MW148216.1	19-MAR-2022	480	United Kingdom: England, Kexby, N Lincolnshire; SK886209	secondary	matK	51.2155905329925	-0.636731516706223	NA
+Elymus_repens	MW148215.1	19-MAR-2022	480	United Kingdom: England, Kexby, N Lincolnshire; SK886329	secondary	matK	51.811828886533	-1.50203506037513	NA
+Elymus_repens	MW879108.1	09-AUG-2021	864	India	secondary	matK	22.3511148	78.6677428	0.0140910681405488
+Elymus_repens	KJ746199.1	29-JUL-2014	697	Poland	secondary	matK	52.218875326381	19.768855211371	0.0146710006384712
+Elymus_repens	KJ204472.1	29-JAN-2015	683	Switzerland: Geneva	secondary	matK	46.2017559	6.1466014	0.0147361125058515
+Elymus_repens	KF713124.1	15-DEC-2013	1014	South Korea: Daecheongdo, Incheon	secondary	matK	37.8246278	124.69863991812	0.0213207366116586
+Elymus_repens	KF713123.1	15-DEC-2013	1014	South Korea: Suwon-si, Gyeonggi-do	secondary	matK	37.267483	126.934611	0.0180338134477382
+Elymus_repens	KF277158.1	30-SEP-2013	741	Poland	secondary	matK	52.001588923839	18.7526897430148	0.0146246112985528
+Elymus_repens	HM850576.1	23-JUL-2011	813	Portugal	secondary	matK	39.6621648	-8.1353519	0.0144978657047724
+Elymus_repens	JN894876.1	07-MAR-2012	753	United Kingdom: Cardiganshire	secondary	matK	53.0144221019002	-4.13724865215786	0.0143279345337882
+Elymus_repens	JN894875.1	07-MAR-2012	755	United Kingdom: Cardiganshire	secondary	matK	52.4631475109393	-4.41234384836202	0.0223001992884927
+Elymus_repens	JN894307.1	07-MAR-2012	777	United Kingdom: Glamorgan (41)	secondary	matK	51.4834496	-3.2059355	0.0140135192440904
+Elymus_repens	HQ600032.1	02-AUG-2011	1325	South Korea	secondary	matK	36.638392	127.6961188	0.0139844176171525

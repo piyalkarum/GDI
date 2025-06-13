@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helianthemum_marifolium	KX498688.1	18-SEP-2017	380	Spain	primary	trnL-trnF	36.7279044628467	-3.84349675930069	0
+Helianthemum_marifolium	KX498687.1	18-SEP-2017	380	Spain	primary	trnL-trnF	36.4106116167214	-3.98520258399564	0
+Helianthemum_marifolium	KX498686.1	18-SEP-2017	301	Spain	primary	trnL-trnF	39.87	-0.31	0
+Helianthemum_marifolium	KX498685.1	18-SEP-2017	358	Spain	primary	trnL-trnF	37.7	-3.47	0
+Helianthemum_marifolium	KX498684.1	18-SEP-2017	372	Spain	primary	trnL-trnF	40.11	-2.7	0
+Helianthemum_marifolium	KX498683.1	18-SEP-2017	380	Spain	primary	trnL-trnF	36.76	-5.38	0
+Helianthemum_marifolium	KY651367.1	30-JUN-2018	454	Morocco	primary	trnL-trnF	35.37	-3	0
+Helianthemum_marifolium	FJ492002.1	08-APR-2009	404	Portugal: Sagres	secondary	trnL-trnF	37.0078288	-8.941924	0

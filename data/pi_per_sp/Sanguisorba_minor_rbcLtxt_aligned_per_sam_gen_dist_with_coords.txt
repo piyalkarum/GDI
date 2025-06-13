@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Sanguisorba_minor	MG249237.1	21-JAN-2018	552	Canada: British Columbia, 25 km north of Hope, Coldwater River bridge near Coquihalla highway, west of river	primary	rbcL	49.833	-121	0.000373134328358209
+Sanguisorba_minor	MG246512.1	21-JAN-2018	552	Canada: British Columbia, Manning Park, near Rhododendron Flats	primary	rbcL	49.067	-120.783	0.000373134328358209
+Sanguisorba_minor	JN892252.1	07-MAR-2012	542	United Kingdom: Somerset, North (6)	primary	rbcL	51.26	-2.73	0.000380952380952381
+Sanguisorba_minor	MG248161.1	21-JAN-2018	552	Canada: British Columbia, North Vancouver disposal site near Lynn Creek	secondary	rbcL	49.7526249549255	-123.924722794676	0.000373134328358209
+Sanguisorba_minor	MG246658.1	21-JAN-2018	552	Canada: British Columbia, about 45 kilometers south of Princeton towards Manning Park, Highway 3	secondary	rbcL	49.8405770593989	-124.235454838712	0.000373134328358209
+Sanguisorba_minor	KJ746218.1	29-JUL-2014	658	Poland	secondary	rbcL	52.215933	19.134422	0.000303951367781155
+Sanguisorba_minor	HG417040.1	09-SEP-2013	491	Italy:Lombardy, Grigna settentrionale	secondary	rbcL	45.9533979	9.3876756	0
+Sanguisorba_minor	FR865160.1	09-JUN-2011	610	Italy:Lombardy	secondary	rbcL	45.5703694	9.7732524	0.000327868852459016
+Sanguisorba_minor	HM850336.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.00326721467653015
+Sanguisorba_minor	JN892329.1	07-MAR-2012	542	United Kingdom: Breconshire (42)	secondary	rbcL	52.9875065	-1.1773256	0.000380952380952381
+Sanguisorba_minor	JN891910.1	07-MAR-2012	535	United Kingdom: Glamorgan	secondary	rbcL	51.4470646	-3.3988831	0.000380952380952381

@@ -1,0 +1,16 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Spergularia_marina	OL434835.1	14-NOV-2022	553	USA: Georgia	primary	rbcL	32.1403	-81.1446	0.100139146073078
+Spergularia_marina	MH133122.1	07-OCT-2018	553	Bahrain	primary	rbcL	26.211051	50.590428	0.00737063198602698
+Spergularia_marina	MG246200.1	21-JAN-2018	552	Canada: British Columbia, Kamloops, W of, lake off highway #1	primary	rbcL	50.667	-120.317	0.00738350174592874
+Spergularia_marina	JN891840.1	07-MAR-2012	542	United Kingdom: Monmouthshire	primary	rbcL	51.5	-3.13	0.00752039561211939
+Spergularia_marina	OQ172716.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.2187284841615	127.785371871306	0.00744356385223334
+Spergularia_marina	OQ172715.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.0406162371814	128.208748726281	0.00744356385223334
+Spergularia_marina	OQ172714.1	18-JUN-2023	689	South Korea	secondary	rbcL	37.3814680688257	127.471828425222	0.00744356385223334
+Spergularia_marina	OQ172713.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.5464045815379	128.354296211216	0.00744356385223334
+Spergularia_marina	OQ172712.1	18-JUN-2023	689	South Korea	secondary	rbcL	36.5443621337474	127.339826018912	0.00744356385223334
+Spergularia_marina	MN192585.1	30-NOV-2021	723	China	secondary	rbcL	35.000074	104.999927	0.00764197915879314
+Spergularia_marina	KX283054.1	28-MAY-2017	577	Kuwait	secondary	rbcL	29.3796532	47.9734174	0.00825472192426695
+Spergularia_marina	HM850381.1	23-JUL-2011	1363	Portugal	secondary	rbcL	39.6621648	-8.1353519	0.0106871149847649
+Spergularia_marina	JN891969.1	07-MAR-2012	542	United Kingdom: Monmouthshire	secondary	rbcL	51.7501058	-2.8333331	0.00752039561211939
+Spergularia_marina	JN891964.1	07-MAR-2012	542	United Kingdom: Merionethshire	secondary	rbcL	52.79398	-3.8749545	0.00752039561211939
+Spergularia_marina	JN891161.1	07-MAR-2012	542	United Kingdom: Glamorgan (41)	secondary	rbcL	51.4834496	-3.2059355	0.00752039561211939

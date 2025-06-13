@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Silene_cambessedesii	MN334844.1	16-OCT-2019	1197	Spain	secondary	cob	38.9743901	1.41974631785153	0.000334168755221387
+Silene_cambessedesii	MN334843.1	16-OCT-2019	1170	Spain	secondary	cob	39.6043884	2.59691437756011	0.000341880341880342
+Silene_cambessedesii	MN334842.1	16-OCT-2019	1197	Spain	secondary	cob	38.8442414	1.40254544006249	0.000334168755221387
+Silene_cambessedesii	MN334841.1	16-OCT-2019	1197	Spain	secondary	cob	39.3391978	3.054137	0.00167855536276589
+Silene_cambessedesii	MN334840.1	16-OCT-2019	1197	Spain	secondary	cob	38.7063909	1.43352655883119	0.000334168755221387
+Silene_cambessedesii	MN334839.1	16-OCT-2019	1197	Spain	secondary	cob	41.2575148	1.9053097	0.000334168755221387

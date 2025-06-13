@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Helminthotheca_echioides	JN893938.1	07-MAR-2012	950	United Kingdom: Monmouthshire	primary	matK	51.5	-3.13	0.00302013422818792
+Helminthotheca_echioides	MT214889.1	14-JUN-2020	2491	Mexico	secondary	matK	19.4326296	-99.1331785	0.00274725274725275
+Helminthotheca_echioides	HM850657.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.0117874565585861
+Helminthotheca_echioides	JN896098.1	07-MAR-2012	954	United Kingdom: Flintshire	secondary	matK	53.2165096	-3.1402189	0.00300802139037433
+Helminthotheca_echioides	JN894484.1	07-MAR-2012	799	United Kingdom: Glamorgan (41)	secondary	matK	51.3988488	-3.2906572	0.00301204819277108

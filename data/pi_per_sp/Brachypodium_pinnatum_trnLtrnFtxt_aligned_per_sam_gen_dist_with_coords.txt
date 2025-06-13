@@ -1,0 +1,12 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Brachypodium_pinnatum	KP709864.1	28-FEB-2016	764	Norway	secondary	trnL-trnF	64.5731537	11.5280364	0.000958372213446834
+Brachypodium_pinnatum	KP709863.1	28-FEB-2016	764	Turkey	secondary	trnL-trnF	38.9597594	34.9249653	0.000958372213446834
+Brachypodium_pinnatum	KP709862.1	28-FEB-2016	767	Iraq	secondary	trnL-trnF	33.0955793	44.1749775	0.00428798958860546
+Brachypodium_pinnatum	KP709861.1	28-FEB-2016	694	Slovenia	secondary	trnL-trnF	46.1199444	14.8153333	0.00346581929737084
+Brachypodium_pinnatum	KP709860.1	28-FEB-2016	765	United Kingdom: England	secondary	trnL-trnF	52.5899522385325	-2.1172132505644	0.000957858919123869
+Brachypodium_pinnatum	KP709859.1	28-FEB-2016	682	United Kingdom: England	secondary	trnL-trnF	53.1819179633609	-1.83653754474479	0.00190615835777126
+Brachypodium_pinnatum	KP709858.1	28-FEB-2016	764	Russia	secondary	trnL-trnF	64.5493246993674	97.699409264904	0.000958372213446834
+Brachypodium_pinnatum	KP709857.1	28-FEB-2016	764	Russia	secondary	trnL-trnF	64.4938129309243	97.4582393413973	0.000958372213446834
+Brachypodium_pinnatum	KP709856.1	28-FEB-2016	764	Iran	secondary	trnL-trnF	32.6475314	54.5643516	0.000958372213446834
+Brachypodium_pinnatum	KP709855.1	28-FEB-2016	764	United Kingdom: England	secondary	trnL-trnF	52.3719688976696	-0.0342576131841441	0.000958372213446834
+Brachypodium_pinnatum	JN187671.1	27-FEB-2012	842	United Kingdom	secondary	trnL-trnF	54.7023545	-3.2765753	0.00187206723297675

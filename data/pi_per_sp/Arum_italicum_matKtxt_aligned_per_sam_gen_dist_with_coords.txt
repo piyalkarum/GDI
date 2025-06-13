@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Arum_italicum	HM850480.1	23-JUL-2011	819	Portugal	secondary	matK	39.6621648	-8.1353519	0.0142386183300716
+Arum_italicum	JN895454.1	07-MAR-2012	781	United Kingdom: West Sussex (13)	secondary	matK	51.0152144	-0.0779587	0.00405319834364402
+Arum_italicum	JN894732.1	07-MAR-2012	794	United Kingdom: Glamorgan (41)	secondary	matK	51.3018081438399	-2.0916076894481	0.00400985707601114
+Arum_italicum	JN894072.1	07-MAR-2012	813	United Kingdom: Glamorgan (41)	secondary	matK	51.1144425350228	-3.52778608935665	0.00405319834364402
+Arum_italicum	FN668801.1	27-APR-2010	795	Italy:Lombardy	secondary	matK	45.5703694	9.7732524	0.00416694360932819

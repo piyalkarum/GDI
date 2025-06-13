@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Astragalus_terraccianoi	KR817022.1	31-MAY-2018	210	France: Bonifacio, Corsica	secondary	cob	41.6317908376111	9.82420123029379	0.319783197831978
+Astragalus_terraccianoi	KR817021.1	31-MAY-2018	210	France: Bonifacio, Corsica	secondary	cob	40.7906990431379	10.0200007018839	0.319783197831978
+Astragalus_terraccianoi	KR816947.1	31-MAY-2018	208	France: Bonifacio, Corsica	secondary	cob	41.1392966269583	9.28123851266071	0.319783197831978
+Astragalus_terraccianoi	KR816946.1	31-MAY-2018	208	France: Bonifacio, Corsica	secondary	cob	41.2282986078846	8.37421312674625	0.319783197831978

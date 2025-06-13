@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Crocus_etruscus	HG518216.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.0568250174903	13.1558733657809	0
+Crocus_etruscus	HG518215.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	43.0884523704459	12.7765324013131	0
+Crocus_etruscus	HG518214.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	43.4332584685033	12.7998837790844	0
+Crocus_etruscus	HG518213.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.6726177166813	13.7140788342044	0
+Crocus_etruscus	HG518212.1	28-JUL-2014	691	Italy	secondary	trnL-trnF	42.834403489838	13.4493315703112	0

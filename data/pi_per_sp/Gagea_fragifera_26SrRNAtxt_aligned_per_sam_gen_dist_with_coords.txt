@@ -1,0 +1,6 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_fragifera	AM422468.1	10-JAN-2007	674	Italy	secondary	26S rRNA	42.6384261	12.674297	0.00447107335940555
+Gagea_fragifera	AM287285.1	19-JUL-2006	668	Italy:Sicily	secondary	26S rRNA	37.587794	14.155048	0.00638783131763786
+Gagea_fragifera	AM265532.1	23-MAY-2006	674	Ukraine:Crimea	secondary	26S rRNA	45.2835044	34.2008188	0.00409846512548184
+Gagea_fragifera	AM180455.1	21-DEC-2005	665	Kazakhstan	secondary	26S rRNA	48.1012954	66.7780818	0.00528027200018255
+Gagea_fragifera	AM162677.1	30-NOV-2005	674	Bulgaria:Pirin Mountains	secondary	26S rRNA	43.2431942	23.8482422	0.00820701527713632

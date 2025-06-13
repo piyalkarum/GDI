@@ -1,0 +1,9 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Iris_pseudacorus	MF348330.1	21-SEP-2017	598	USA: Virginia; Bike path along GW Pkwy- Daingerfield Island Marina along the bike path and picnic area	primary	psbA-trnH	38.831	-77.043	0
+Iris_pseudacorus	LT627898.1	18-OCT-2016	597	Russia:Primorsky Krai, Vladivostok	secondary	psbA-trnH	43.1150678	131.8855768	0
+Iris_pseudacorus	JN045002.1	13-DEC-2011	576	China	secondary	psbA-trnH	34.4420363117397	104.458682006118	0.000496031746031746
+Iris_pseudacorus	JN045001.1	13-DEC-2011	576	China	secondary	psbA-trnH	34.4357894924021	104.962378004725	0.000496031746031746
+Iris_pseudacorus	JN045000.1	13-DEC-2011	576	China	secondary	psbA-trnH	35.1728354180959	105.113200144644	0.000496031746031746
+Iris_pseudacorus	KF170861.1	23-SEP-2013	546	South Korea: Daegu-si	secondary	psbA-trnH	35.8713	128.6018	0
+Iris_pseudacorus	KF170859.1	23-SEP-2013	546	South Korea: Busan-si	secondary	psbA-trnH	35.1799528	129.0752365	0
+Iris_pseudacorus	KC584954.1	04-JUN-2013	644	Italy: Umbria	secondary	psbA-trnH	42.965916	12.490236	0.00148809523809524

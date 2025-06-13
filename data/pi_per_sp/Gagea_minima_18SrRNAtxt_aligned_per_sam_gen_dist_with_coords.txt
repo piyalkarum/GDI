@@ -1,0 +1,5 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Gagea_minima	AM287273.1	19-JUL-2006	672	Italy	secondary	18S rRNA	42.6384261	12.674297	0.00200523471800068
+Gagea_minima	AM087948.1	04-OCT-2005	672	Ukraine:Carpathians	secondary	18S rRNA	48.6329122	23.6260931	0.00100261735900034
+Gagea_minima	AJ427546.1	12-JAN-2002	661	Germany:Saxony-Anhalt	secondary	18S rRNA	52.0089065	11.7003344	0.00202634245187437
+Gagea_minima	AM180459.1	21-DEC-2005	673	Russia	secondary	18S rRNA	55.8208088	52.4055227391288	0.00100261735900034

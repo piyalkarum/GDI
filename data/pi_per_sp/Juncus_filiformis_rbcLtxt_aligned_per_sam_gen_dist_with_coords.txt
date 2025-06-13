@@ -1,0 +1,7 @@
+sp_name	accession	date	length	country	coord	marker	Latitude	Longitude	gen_dist
+Juncus_filiformis	LC376984.1	18-APR-2018	262	Japan: Toyama, Mt.Taro	primary	rbcL	36.44	137.51	0.0206106870229008
+Juncus_filiformis	MG227617.1	23-JAN-2018	552	Canada: British Columbia, Lakelse Lake Park, near Terrace, NE Bay	primary	rbcL	54.383	-128.517	0.018503937007874
+Juncus_filiformis	MG225803.1	23-JAN-2018	552	Canada: Yukon Territory, Minto Lake, 3 km w of	primary	rbcL	63.714	-136.114	0.018503937007874
+Juncus_filiformis	KX679257.1	29-APR-2017	546	Canada: British Columbia, Fraser Valley Regional District, Hope, Jones Lake	primary	rbcL	49.38	-121.45	0.0179282868525896
+Juncus_filiformis	KJ841368.1	04-NOV-2014	521	Canada: Quebec, Gault Nature Reserve. Mont St. Hilaire, Quebec. Area where North Creek enters into Lac Hertel	primary	rbcL	45.548	-73.152	0.0944073586967394
+Juncus_filiformis	JN892294.1	07-MAR-2012	542	United Kingdom: Caernarfonshire	primary	rbcL	53.18	-3.86	0.018860510805501
