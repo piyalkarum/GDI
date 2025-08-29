@@ -231,7 +231,7 @@ names(species_rasters) <- paste0("sp_", 1:n_species)
 presence_rasters <- classify(species_rasters, cbind(NA, NA, 0), include.lowest = TRUE)
 presence_rasters[!is.na(species_rasters)] <- 1
 l2_eu <- project(l2_eu, crs(species_rasters))
-extracted_vals <- extract(presence_rasters, l2_eu)
+extracted_vals <- terra::extract(presence_rasters, l2_eu)
 
 library(dplyr)
 species_per_region <- extracted_vals %>%

@@ -3,6 +3,9 @@
 
 This repository contains the code, data, and methodology used in the study assessing species richness, phylogenetic diversity, and spatial patterns of genetic diversity across European vascular plants.
 
+
+![diversity_maps](plots/corgdi_map.png)
+
 ## Overview of the Workflow
 
 The workflow is structured into two main components:

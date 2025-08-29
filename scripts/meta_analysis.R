@@ -97,8 +97,8 @@ all_meta_sum<-read.csv("data/marker_assigned_all_meta_data.csv") # <- marker ass
 all_sp_mark_final<-data.table::fread("data/EU_all_species_marker_coordinate_final_list.txt",h=T) # <-- marker assigned geo-coded species list
 
 wm<-vect("maps/TDWG/level3/level3.shp")
-
 eu_range<-c(-10,45,35,85) # Europe range
+eu_map<-crop(wm,eu_range)
 
 all_sp_mark_final<-all_sp_mark_final[!is.na(all_sp_mark_final$Longitude),]
 points_sf <- st_as_sf(all_sp_mark_final,
@@ -204,6 +204,10 @@ ggplot() +
     x = "Longitude", y = "Latitude"
   )
 dev.off()
+
+### Data for the main text table 1 
+sp_tdwg3<-as.data.frame(eu_map_sf)
+
 
 
 # 2. EU taxonomic levels
