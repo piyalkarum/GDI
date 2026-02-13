@@ -275,7 +275,7 @@ write.table(l3df,"stats/species_sampled_in_TDWG_L3.txt",row.names=F,quote=F,sep=
 
 
 ## Nucleotide diversity ranges of top 10 families ----------
-all_sp_taxonomy<-read.csv("data/eu_new_taxonomy.csv")
+all_sp_taxonomy<-read.csv("data/eu_new_taxonomy1.csv")
 length(unique(all_sp_taxonomy$sp_name))
 
 top10fams<-sort(table(all_sp_taxonomy$family),decreasing=T)[1:10]
@@ -331,3 +331,32 @@ ggplot(fam_pi_df_filtered, aes(x = Pi, y = Family, fill = Family)) +
   guides(fill = FALSE)
 
 
+# better colors
+library(ggplot2)
+library(ggdist)
+library(dplyr)
+library(viridis)
+
+fam_pi_df <- do.call(rbind, lapply(names(fam_pi), function(fam) {
+  data.frame(Family = fam, Pi = fam_pi[[fam]])
+}))
+fam_pi_df$Family <- factor(fam_pi_df$Family, levels = rev(fams))
+fam_pi_df_filtered <- fam_pi_df %>% filter(Pi <= 0.1)
+
+ggplot(fam_pi_df_filtered, aes(x = Pi, y = Family, fill = Family)) +
+  geom_density_ridges(
+    alpha = 0.7,
+    scale = 1.2,
+    rel_min_height = 0.01,
+    bandwidth = 0.001
+  ) +
+  scale_x_continuous(
+    limits = c(0, 0.025),  # Force display from 0 to 0.025
+    expand = c(0, 0)       # No expansion
+  ) +
+  scale_fill_viridis_d(option = "cividis") +
+  theme_minimal() +
+  labs(title = "Nucleotide diversity (π) per family",
+       x = expression(π),
+       y = "Family") +
+  guides(fill = "none")
